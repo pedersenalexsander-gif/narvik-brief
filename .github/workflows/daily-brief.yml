@@ -32,14 +32,22 @@ jobs:
         id: publish
         shell: bash
         run: |
-          if git diff --quiet -- data/news.json assets/news/; then
+          if git diff --quiet -- data/news.json && [ -z "$(git status --porcelain -- assets/news 2>/dev/null)" ]; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "Ingen nye saker eller bilder siden sist."
             exit 0
           fi
           git config user.name "alex-brief-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json assets/news/
+          git add data/news.json
+          if [ -d assets/news ]; then
+            git add assets/news/
+          fi
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Ingen endringer å publisere."
+            exit 0
+          fi
           git commit -m "Oppdater Alex Brief"
           git push
           echo "changed=true" >> "$GITHUB_OUTPUT"
