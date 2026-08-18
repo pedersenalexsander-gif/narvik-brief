@@ -25,9 +25,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Hent og kurater de siste nyhetene
-        env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - name: Hent, kvalitetsfiltrer og oppsummer nyhetene gratis
         run: python scripts/update_news.py
 
       - name: Commit og push hvis briefen er endret
