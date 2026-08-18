@@ -1,5 +1,6 @@
 const state = { stories: [], filter: 'Alle' };
 const dialog = document.querySelector('#storyDialog');
+const LIVE_DATA_URL = 'https://raw.githubusercontent.com/pedersenalexsander-gif/narvik-brief/main/data/news.json';
 
 const hour = new Date().getHours();
 document.querySelector('#greeting').textContent = hour < 11 ? 'GOD MORGEN' : hour < 17 ? 'GOD ETTERMIDDAG' : 'GOD KVELD';
@@ -23,7 +24,9 @@ function openStory(story) {
   const list = document.querySelector('#dialogPoints');
   list.innerHTML = '';
   (story.keyPoints || []).forEach(point => {
-    const li = document.createElement('li'); li.textContent = point; list.appendChild(li);
+    const li = document.createElement('li');
+    li.textContent = point;
+    list.appendChild(li);
   });
   const original = document.querySelector('#dialogOriginal');
   original.href = story.url || '#';
@@ -58,13 +61,14 @@ function render() {
 
 async function loadNews() {
   try {
-    const response = await fetch(`data/news.json?v=${Date.now()}`);
+    const response = await fetch(`${LIVE_DATA_URL}?v=${Date.now()}`, { cache: 'no-store' });
     if (!response.ok) throw new Error('Kunne ikke hente nyhetsdata');
     const data = await response.json();
     state.stories = data.stories || [];
     document.querySelector('#lastUpdated').textContent = data.updatedAt ? `Sist oppdatert ${data.updatedAt}` : 'Briefen er oppdatert';
     render();
   } catch (error) {
+    console.error(error);
     document.querySelector('#lastUpdated').textContent = 'Kunne ikke hente siste oppdatering';
     document.querySelector('#newsGrid').innerHTML = '<div class="empty">Prøv å laste siden på nytt om et øyeblikk.</div>';
   }
@@ -72,7 +76,9 @@ async function loadNews() {
 
 document.querySelectorAll('.filter').forEach(button => button.addEventListener('click', () => {
   document.querySelectorAll('.filter').forEach(x => x.classList.remove('active'));
-  button.classList.add('active'); state.filter = button.dataset.filter; render();
+  button.classList.add('active');
+  state.filter = button.dataset.filter;
+  render();
 }));
 
 document.querySelector('.close').addEventListener('click', () => dialog.close());
@@ -83,4 +89,4 @@ dialog.addEventListener('click', event => {
 });
 
 loadNews();
-setInterval(loadNews, 5 * 60 * 1000);
+setInterval(loadNews, 2 * 60 * 1000);
