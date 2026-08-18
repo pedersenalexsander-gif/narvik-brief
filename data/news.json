@@ -1,29 +1,8 @@
 {
-  "updatedAt": "18.08.2026 kl. 19:47",
-  "updatedISO": "2026-08-18T19:47:56.252521+02:00",
+  "updatedAt": "18.08.2026 kl. 21:19",
+  "updatedISO": "2026-08-18T21:19:59.213624+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "cd20902468d595",
-      "category": "Nord-Norge",
-      "published": "17.08. 20:14",
-      "publishedISO": "2026-08-17T20:14:59+02:00",
-      "title": "Varaordføreren om skolekuttene i Bodø",
-      "summary": "Økonomi er en del av grunnen til at Bodø kommune vurderer endringer i skolestrukturen. Johnsen peker på synkende elevtall og flere eldre skolebygg som trenger store investeringer. – I dag bruker Bodø kommune mindre penger på innhold, men mer penger på bygg og areal enn andre kommuner, sier hun. Det er nok ingen, verken folkevalgte eller administrasjonen, som synes at dette er enkelt å jobbe med, svarer Johnsen. – Så skal vi lytte og se hva som kommer inn der, før vi får et endelig forslag, sier varaordføreren.",
-      "keyPoints": [
-        "Johnsen peker på synkende elevtall og flere eldre skolebygg som trenger store investeringer. – I dag bruker Bodø kommune mindre penger på innhold, men mer penger på bygg og areal enn andre kommuner, sier hun.",
-        "Det er nok ingen, verken folkevalgte eller administrasjonen, som synes at dette er enkelt å jobbe med, svarer Johnsen. – Så skal vi lytte og se hva som kommer inn der, før vi får et endelig forslag, sier varaordføreren.",
-        "Økonomi er en del av grunnen til at Bodø kommune vurderer endringer i skolestrukturen.",
-        "Målet er ifølge varaordføreren å se om kommunen kan bruke mer penger på lærere i stedet."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/varaordforeren-om-skolekuttene-i-bodo-1.17992571",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/eZh-rjQ0tvHL6dcFPXP41QgMWboVBSD0duZbUAlszhTg.jpg",
-      "localImage": "assets/news/cd20902468d595.jpg",
-      "score": 13
-    },
     {
       "id": "a8f2a25fd1ebef",
       "category": "Norge",
@@ -85,28 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/46f6/live/20058780-9afe-11f1-a27d-25dca26018ed.jpg",
       "localImage": "assets/news/750861646d70c7.jpg",
-      "score": 13
-    },
-    {
-      "id": "641e0ce0526f3e",
-      "category": "Økonomi",
-      "published": "18.08. 15:30",
-      "publishedISO": "2026-08-18T15:30:59+02:00",
-      "title": "Tek-fall på Wall Street",
-      "summary": "Slik går det for de toneangivende indeksene på Wall Street tirsdag kveld klokken 17.45 norsk tid: Investorene er urolige. Renten på amerikanske statsobligasjoner med 30 års løpetid nådde 5,22 prosent på en auksjon i forrige uke. I Frankrike er 30-årsrenten på sitt høyeste siden 2008, mens den britiske nærmer seg 6 prosent.",
-      "keyPoints": [
-        "Slik går det for de toneangivende indeksene på Wall Street tirsdag kveld klokken 17.45 norsk tid: Investorene er urolige.",
-        "I Frankrike er 30-årsrenten på sitt høyeste siden 2008, mens den britiske nærmer seg 6 prosent.",
-        "Renten på amerikanske statsobligasjoner med 30 års løpetid nådde 5,22 prosent på en auksjon i forrige uke.",
-        "Investorene frykter stigende renter: –⁠ Det er bare et spørsmål om når, ikke om, markedet vil begynne å reagere, sier investeringsdirektør."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/JOL8Q8/tek-fall-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/50a6a025-0f4b-3718-9457-f5fedb04150a?fit=crop&h=675&upscale=true&w=1200&s=c3d1c6ec7d2a8ef3b3d269847f12cea40b22a6bf",
-      "localImage": "assets/news/641e0ce0526f3e.jpg",
-      "score": 20
+      "score": 12
     },
     {
       "id": "6ce384807c02b8",
@@ -128,6 +86,27 @@
       "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
       "localImage": "assets/news/6ce384807c02b8.jpg",
       "score": 20
+    },
+    {
+      "id": "641e0ce0526f3e",
+      "category": "Økonomi",
+      "published": "18.08. 15:30",
+      "publishedISO": "2026-08-18T15:30:59+02:00",
+      "title": "Tek-fall på Wall Street",
+      "summary": "Slik går det for de toneangivende indeksene på Wall Street tirsdag kveld klokken 17.45 norsk tid: Investorene er urolige. Renten på amerikanske statsobligasjoner med 30 års løpetid nådde 5,22 prosent på en auksjon i forrige uke. I Frankrike er 30-årsrenten på sitt høyeste siden 2008, mens den britiske nærmer seg 6 prosent.",
+      "keyPoints": [
+        "Slik går det for de toneangivende indeksene på Wall Street tirsdag kveld klokken 17.45 norsk tid: Investorene er urolige.",
+        "I Frankrike er 30-årsrenten på sitt høyeste siden 2008, mens den britiske nærmer seg 6 prosent.",
+        "Renten på amerikanske statsobligasjoner med 30 års løpetid nådde 5,22 prosent på en auksjon i forrige uke.",
+        "Investorene frykter stigende renter: –⁠ Det er bare et spørsmål om når, ikke om, markedet vil begynne å reagere, sier investeringsdirektør."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/JOL8Q8/tek-fall-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/50a6a025-0f4b-3718-9457-f5fedb04150a?fit=crop&h=675&upscale=true&w=1200&s=c3d1c6ec7d2a8ef3b3d269847f12cea40b22a6bf",
+      "localImage": "assets/news/641e0ce0526f3e.jpg",
+      "score": 19
     },
     {
       "id": "d486aac26e5cac",
@@ -172,27 +151,6 @@
       "score": 19
     },
     {
-      "id": "48b4a6aea6a30b",
-      "category": "Norge",
-      "published": "17.08. 20:16",
-      "publishedISO": "2026-08-17T20:16:02+02:00",
-      "title": "Trump sier USA ikke ønsker forlengelse av våpenhvile med Iran",
-      "summary": "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters. Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "keyPoints": [
-        "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters.",
-        "Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
-        "Selv om våpenhvilen trådte i kraft i juni, har både USA og Iran gjennomført flere angrep i perioden."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/trump-sier-usa-ikke-onsker-forlengelse-av-vapenhvile-med-iran-1.17992713",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/48b4a6aea6a30b.jpg",
-      "score": 16
-    },
-    {
       "id": "a638aa282bc25f",
       "category": "Økonomi",
       "published": "17.08. 18:40",
@@ -212,6 +170,48 @@
       "image": "https://akamai.vgc.no/v2/images/6fdffe8d-8eef-30dd-8256-a3d9b3a20847?fit=crop&h=675&upscale=true&w=1200&s=41f58d1094bb5c8bce19250fe237f58458a35dfd",
       "localImage": "assets/news/a638aa282bc25f.jpg",
       "score": 16
+    },
+    {
+      "id": "03c1eced8949e1",
+      "category": "Økonomi",
+      "published": "18.08. 06:31",
+      "publishedISO": "2026-08-18T06:31:54+02:00",
+      "title": "Mowi betaler 1,2 milliarder i utbytte",
+      "summary": "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal. Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt. Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
+      "keyPoints": [
+        "Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt.",
+        "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal.",
+        "Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
+        "Styret har besluttet et utbytte på 2,3 kroner per aksje for kvartalet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/gkreeL/mowi-betaler-1-2-milliarder-kroner-i-utbytte-etter-rekordslakt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/19de68a3-a766-35ae-b059-bf01e243eef8?fit=crop&h=675&upscale=true&w=1200&s=2cb3bcd13d5455d69803ccf6b4f4fe0ddc011b9b",
+      "localImage": "assets/news/03c1eced8949e1.jpg",
+      "score": 15
+    },
+    {
+      "id": "48b4a6aea6a30b",
+      "category": "Norge",
+      "published": "17.08. 20:16",
+      "publishedISO": "2026-08-17T20:16:02+02:00",
+      "title": "Trump sier USA ikke ønsker forlengelse av våpenhvile med Iran",
+      "summary": "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters. Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+      "keyPoints": [
+        "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters.",
+        "Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
+        "Selv om våpenhvilen trådte i kraft i juni, har både USA og Iran gjennomført flere angrep i perioden."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/trump-sier-usa-ikke-onsker-forlengelse-av-vapenhvile-med-iran-1.17992713",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/48b4a6aea6a30b.jpg",
+      "score": 15
     }
   ]
 }
