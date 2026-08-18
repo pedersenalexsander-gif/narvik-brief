@@ -3,93 +3,71 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Narvik Brief – en kort, daglig nyhetsbrief for Narvik og Nord-Norge." />
-  <title>Narvik Brief</title>
+  <meta name="description" content="Alex sin løpende AI-brief for Narvik, Norge og verden." />
+  <title>Alex Brief</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="topbar">
     <div class="shell topbar-inner">
-      <a class="brand" href="#">NARVIK <span>BRIEF</span></a>
-      <div class="topbar-meta">
-        <span id="today"></span>
-        <span class="dot"></span>
-        <span>Ny brief hver morgen kl. 08:00</span>
-      </div>
+      <a class="brand" href="#">ALEX <span>BRIEF</span></a>
+      <div class="live"><span></span> LIVE · oppdateres gjennom dagen</div>
     </div>
   </header>
 
   <main class="shell">
     <section class="hero">
-      <p class="eyebrow">DET VIKTIGSTE FØR ARBEIDSDAGEN STARTER</p>
-      <h1>Dagens brief</h1>
-      <p class="hero-copy">Et kuratert overblikk over sakene som betyr mest for Narvik, næringslivet og Nord-Norge.</p>
-      <div class="hero-status">
-        <span class="pulse"></span>
-        <span id="lastUpdated">Laster siste oppdatering …</span>
-      </div>
+      <p class="kicker" id="greeting">HEI</p>
+      <h1>Hei Alex Pedersen.</h1>
+      <p class="hero-copy">Her er de nyeste nyhetene — kort forklart i AI-format.</p>
+      <p class="hero-sub">10 saker som er verdt tiden din, fra Narvik til finansmarkedene og verden.</p>
+      <div class="status"><span class="pulse"></span><span id="lastUpdated">Henter siste brief …</span></div>
     </section>
 
-    <section class="filters" aria-label="Filtrer nyheter">
-      <button class="filter active" data-filter="Alle">Alle</button>
+    <nav class="filters" aria-label="Nyhetskategorier">
+      <button class="filter active" data-filter="Alle">For deg</button>
       <button class="filter" data-filter="Narvik">Narvik</button>
-      <button class="filter" data-filter="Næringsliv">Næringsliv</button>
-      <button class="filter" data-filter="Industri">Industri</button>
-      <button class="filter" data-filter="Samferdsel">Samferdsel</button>
-      <button class="filter" data-filter="Politikk">Politikk</button>
       <button class="filter" data-filter="Nord-Norge">Nord-Norge</button>
-    </section>
+      <button class="filter" data-filter="Norge">Norge</button>
+      <button class="filter" data-filter="Verden">Verden</button>
+      <button class="filter" data-filter="USA">USA</button>
+      <button class="filter" data-filter="Økonomi">Økonomi & finans</button>
+    </nav>
 
-    <section class="news-layout">
-      <div>
-        <div class="section-heading">
-          <h2>Sakene du bør vite om</h2>
-          <span id="storyCount"></span>
-        </div>
-        <div id="newsGrid" class="news-grid" aria-live="polite"></div>
-      </div>
-
-      <aside class="sidebar">
-        <div class="sidebar-card">
-          <p class="eyebrow">OM BRIEFEN</p>
-          <h3>Kort. Relevant. Lokalt.</h3>
-          <p>Briefen prioriterer utvikling som kan påvirke arbeidsplasser, investeringer, infrastruktur og beslutninger i regionen.</p>
-        </div>
-        <div class="sidebar-card muted-card">
-          <p class="eyebrow">FAST RYTME</p>
-          <p class="big-time">08:00</p>
-          <p>Nye saker samles og publiseres hver morgen.</p>
-        </div>
-      </aside>
+    <section class="feed-head">
+      <div><p class="kicker">DIN LØPENDE BRIEF</p><h2>Dette bør du vite nå</h2></div>
+      <span id="storyCount"></span>
     </section>
+    <section id="newsGrid" class="news-grid" aria-live="polite"></section>
   </main>
 
-  <footer>
-    <div class="shell footer-inner">
-      <span>Narvik Brief</span>
-      <span>Bygget for et raskere morgenoverblikk.</span>
-    </div>
-  </footer>
+  <dialog id="storyDialog" class="story-dialog">
+    <button class="close" aria-label="Lukk">×</button>
+    <div class="dialog-meta"><span id="dialogTag"></span><span id="dialogTime"></span></div>
+    <h2 id="dialogTitle"></h2>
+    <div class="ai-label"><span>✦</span> AI-OVERSIKT</div>
+    <p id="dialogSummary" class="dialog-summary"></p>
+    <h3>Det viktigste</h3>
+    <ul id="dialogPoints"></ul>
+    <div class="dialog-why"><strong>Hvorfor dette betyr noe</strong><p id="dialogWhy"></p></div>
+    <div class="source-line">Basert på <span id="dialogSource"></span>. AI kan gjøre feil — bruk originalkilden ved behov.</div>
+    <a id="dialogOriginal" class="original" target="_blank" rel="noopener noreferrer">Åpne originalkilden ↗</a>
+  </dialog>
 
   <template id="storyTemplate">
     <article class="story-card">
-      <div class="story-topline">
-        <span class="tag"></span>
-        <span class="time"></span>
-      </div>
+      <div class="story-topline"><span class="tag"></span><span class="time"></span></div>
       <h3 class="story-title"></h3>
       <p class="story-summary"></p>
-      <div class="why-box">
-        <span>Hvorfor det betyr noe</span>
-        <p class="story-why"></p>
-      </div>
-      <a class="story-link" target="_blank" rel="noopener noreferrer">Les saken <span aria-hidden="true">↗</span></a>
+      <div class="source"></div>
+      <button class="story-more">Se mer <span>→</span></button>
     </article>
   </template>
 
+  <footer><div class="shell footer-inner"><strong>Alex Brief</strong><span>Kuraterte nyheter · AI-oppsummert · oppdateres automatisk</span></div></footer>
   <script src="app.js"></script>
 </body>
 </html>
