@@ -1,80 +1,13 @@
-const state = { stories: [], filter: 'Alle' };
-const dialog = document.querySelector('#storyDialog');
-const LIVE_DATA_URL = 'https://raw.githubusercontent.com/pedersenalexsander-gif/narvik-brief/main/data/news.json';
-const LAST_VISIT_KEY = 'alexBriefLastVisit';
-const lastVisit = Number(localStorage.getItem(LAST_VISIT_KEY) || 0);
-
-const hour = new Date().getHours();
-document.querySelector('#greeting').textContent = hour < 11 ? 'GOD MORGEN' : hour < 17 ? 'GOD ETTERMIDDAG' : 'GOD KVELD';
-
-function relativeTime(iso, fallback = '') {
-  if (!iso) return fallback;
-  const mins = Math.max(0, Math.floor((Date.now() - new Date(iso).getTime()) / 60000));
-  if (mins < 60) return mins <= 1 ? 'Nå' : `${mins} min siden`;
-  const hours = Math.floor(mins / 60);
-  if (hours < 24) return `${hours} t siden`;
-  return `${Math.floor(hours / 24)} d siden`;
-}
-function readTime(story) {
-  const words = `${story.summary || ''} ${(story.keyPoints || []).join(' ')}`.trim().split(/\s+/).length;
-  return `${Math.max(1, Math.ceil(words / 180))} min oversikt`;
-}
-function isNew(story) { return lastVisit > 0 && new Date(story.publishedISO || 0).getTime() > lastVisit; }
-function imageUrl(story) { return story.localImage || story.image || ''; }
-function setImage(img, fallback, url, title) {
-  if (!img || !fallback) return;
-  if (!url) { img.style.display = 'none'; fallback.style.display = 'grid'; return; }
-  img.alt = title ? `Bilde fra saken: ${title}` : 'Artikkelbilde';
-  img.onload = () => { img.style.display = 'block'; fallback.style.display = 'none'; };
-  img.onerror = () => { img.style.display = 'none'; fallback.style.display = 'grid'; };
-  img.src = url;
-}
-function openStory(story) {
-  document.querySelector('#dialogTag').textContent = story.category;
-  document.querySelector('#dialogTime').textContent = `${relativeTime(story.publishedISO, story.published)} · ${readTime(story)}`;
-  document.querySelector('#dialogTitle').textContent = story.title;
-  document.querySelector('#dialogSummary').textContent = story.summary || 'Ingen oppsummering tilgjengelig ennå.';
-  document.querySelector('#dialogWhy').textContent = story.whyItMatters || '';
-  document.querySelector('#dialogSource').textContent = story.source || 'nyhetskilden';
-  const image = document.querySelector('#dialogImage');
-  const url = imageUrl(story);
-  if (url) { image.src = url; image.alt = `Bilde fra saken: ${story.title}`; image.style.display = 'block'; image.onerror = () => image.style.display = 'none'; }
-  else { image.removeAttribute('src'); image.style.display = 'none'; }
-  const list = document.querySelector('#dialogPoints'); list.innerHTML = '';
-  (story.keyPoints || []).forEach(point => { const li = document.createElement('li'); li.textContent = point; list.appendChild(li); });
-  const original = document.querySelector('#dialogOriginal'); original.href = story.url || '#'; original.style.display = story.url ? 'inline-flex' : 'none';
-  dialog.showModal(); document.body.classList.add('modal-open');
-}
-function render() {
-  const grid = document.querySelector('#newsGrid'); const template = document.querySelector('#storyTemplate');
-  const stories = state.filter === 'Alle' ? state.stories : state.stories.filter(s => s.category === state.filter);
-  grid.innerHTML = ''; document.querySelector('#storyCount').textContent = `${stories.length} ${stories.length === 1 ? 'sak' : 'saker'}`;
-  if (!stories.length) { grid.innerHTML = '<div class="empty">Ingen ferske kvalitetssaker i denne kategorien akkurat nå.</div>'; return; }
-  stories.forEach((story, index) => {
-    const node = template.content.cloneNode(true); const card = node.querySelector('.story-card');
-    if (index === 0 && state.filter === 'Alle') card.classList.add('lead');
-    if (isNew(story)) { card.classList.add('is-new'); const badge = document.createElement('span'); badge.className = 'new-badge'; badge.textContent = 'NY SIDEN SIST'; node.querySelector('.story-topline').prepend(badge); }
-    node.querySelector('.tag').textContent = story.category;
-    node.querySelector('.time').textContent = `${relativeTime(story.publishedISO, story.published)} · ${readTime(story)}`;
-    node.querySelector('.story-title').textContent = story.title; node.querySelector('.story-summary').textContent = story.summary;
-    node.querySelector('.source').textContent = story.source ? `Kilde: ${story.source} · artikkeltekst kontrollert` : 'Artikkeltekst kontrollert';
-    setImage(node.querySelector('.story-image'), node.querySelector('.image-fallback'), imageUrl(story), story.title);
-    node.querySelector('.story-more').addEventListener('click', () => openStory(story)); grid.appendChild(node);
-  });
-}
-async function loadNews() {
-  try {
-    const response = await fetch(`${LIVE_DATA_URL}?v=${Date.now()}`, { cache: 'no-store' }); if (!response.ok) throw new Error('Kunne ikke hente nyhetsdata');
-    const data = await response.json(); state.stories = data.stories || [];
-    document.querySelector('#lastUpdated').textContent = data.updatedAt ? `Sist oppdatert ${data.updatedAt} · gratis fulltekstmodus` : 'Briefen er oppdatert';
-    const count = document.querySelector('.hero-note strong'); if (count) count.textContent = state.stories.length;
-    const fresh = state.stories.filter(isNew).length; const note = document.querySelector('.hero-note p');
-    if (note) note.textContent = fresh ? `${fresh} nye siden sist. Ferske saker fra Narvik til verden, økonomi og AI.` : 'Ferske saker fra Narvik til verden, økonomi og AI.';
-    render(); localStorage.setItem(LAST_VISIT_KEY, String(Date.now()));
-  } catch (error) { console.error(error); document.querySelector('#lastUpdated').textContent = 'Kunne ikke hente siste oppdatering'; document.querySelector('#newsGrid').innerHTML = '<div class="empty">Prøv å laste siden på nytt om et øyeblikk.</div>'; }
-}
-document.querySelectorAll('.filter').forEach(button => button.addEventListener('click', () => { document.querySelectorAll('.filter').forEach(x => x.classList.remove('active')); button.classList.add('active'); state.filter = button.dataset.filter; render(); }));
-document.querySelector('.close').addEventListener('click', () => dialog.close());
-dialog.addEventListener('close', () => document.body.classList.remove('modal-open'));
-dialog.addEventListener('click', event => { const r = dialog.getBoundingClientRect(); if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) dialog.close(); });
-loadNews(); setInterval(loadNews, 2 * 60 * 1000);
+const state={stories:[],filter:'Alle'};const dialog=document.querySelector('#storyDialog');const LIVE_DATA_URL='https://raw.githubusercontent.com/pedersenalexsander-gif/narvik-brief/main/data/news.json';const RAW_ROOT='https://raw.githubusercontent.com/pedersenalexsander-gif/narvik-brief/main/';const LAST_VISIT_KEY='alexBriefLastVisit';const lastVisit=Number(localStorage.getItem(LAST_VISIT_KEY)||0);const hour=new Date().getHours();document.querySelector('#greeting').textContent=hour<11?'GOD MORGEN':hour<17?'GOD ETTERMIDDAG':'GOD KVELD';
+function relativeTime(iso,fallback=''){if(!iso)return fallback;const mins=Math.max(0,Math.floor((Date.now()-new Date(iso).getTime())/60000));if(mins<60)return mins<=1?'Nå':`${mins} min siden`;const hours=Math.floor(mins/60);if(hours<24)return`${hours} t siden`;return`${Math.floor(hours/24)} d siden`}
+function readTime(s){const w=`${s.summary||''} ${(s.keyPoints||[]).join(' ')}`.trim().split(/\s+/).length;return`${Math.max(1,Math.ceil(w/180))} min oversikt`}
+function isNew(s){return lastVisit>0&&new Date(s.publishedISO||0).getTime()>lastVisit}
+function imageCandidates(s){const a=[];if(s.localImage)a.push(RAW_ROOT+s.localImage.replace(/^\//,''));if(s.image&&!a.includes(s.image))a.push(s.image);return a}
+function setImage(img,wrap,story){const urls=imageCandidates(story);if(!img||!wrap||!urls.length){if(wrap)wrap.classList.add('no-image');return}let i=0;img.alt=`Bilde fra saken: ${displayTitle(story)}`;img.onload=()=>{img.style.display='block';wrap.classList.remove('no-image')};img.onerror=()=>{i++;if(i<urls.length)img.src=urls[i];else{img.style.display='none';wrap.classList.add('no-image')}};img.src=urls[0]}
+function looksEnglish(t=''){const x=` ${t.toLowerCase()} `;return [' the ',' and ',' with ',' from ',' after ',' customers ',' school ',' says ',' said ',' has ',' have ',' playing ',' demand ',' bans '].filter(w=>x.includes(w)).length>=2}
+function sentenceTitle(t=''){let s=(t||'').split(/(?<=[.!?])\s/)[0].replace(/[“”"']/g,'').trim();if(s.length>88)s=s.slice(0,85).replace(/\s+\S*$/,'')+'…';return s}
+function displayTitle(s){if(!looksEnglish(s.title))return s.title;const fromSummary=sentenceTitle(s.summary);return looksEnglish(fromSummary)?'Internasjonal sak – kort forklart på norsk':fromSummary}
+function openStory(s){const title=displayTitle(s);document.querySelector('#dialogTag').textContent=s.category;document.querySelector('#dialogTime').textContent=`${relativeTime(s.publishedISO,s.published)} · ${readTime(s)}`;document.querySelector('#dialogTitle').textContent=title;document.querySelector('#dialogSummary').textContent=s.summary||'Ingen oppsummering tilgjengelig ennå.';document.querySelector('#dialogWhy').textContent=s.whyItMatters||'';document.querySelector('#dialogSource').textContent=s.source||'nyhetskilden';const image=document.querySelector('#dialogImage');const urls=imageCandidates(s);if(urls.length){let i=0;image.alt=`Bilde fra saken: ${title}`;image.style.display='block';image.onerror=()=>{i++;if(i<urls.length)image.src=urls[i];else image.style.display='none'};image.src=urls[0]}else image.style.display='none';const list=document.querySelector('#dialogPoints');list.innerHTML='';(s.keyPoints||[]).filter(p=>!looksEnglish(p)).forEach(p=>{const li=document.createElement('li');li.textContent=p;list.appendChild(li)});const original=document.querySelector('#dialogOriginal');original.href=s.url||'#';original.style.display=s.url?'inline-flex':'none';dialog.showModal();document.body.classList.add('modal-open')}
+function render(){const grid=document.querySelector('#newsGrid'),template=document.querySelector('#storyTemplate');const stories=state.filter==='Alle'?state.stories:state.stories.filter(s=>s.category===state.filter);grid.innerHTML='';const count=document.querySelector('#storyCount');if(count)count.textContent='';if(!stories.length){grid.innerHTML='<div class="empty">Ingen ferske kvalitetssaker i denne kategorien akkurat nå.</div>';return}stories.forEach((s,index)=>{const node=template.content.cloneNode(true),card=node.querySelector('.story-card');if(index===0&&state.filter==='Alle')card.classList.add('lead');if(isNew(s)){card.classList.add('is-new');const badge=document.createElement('span');badge.className='new-badge';badge.textContent='NY';node.querySelector('.story-topline').prepend(badge)}node.querySelector('.tag').textContent=s.category;node.querySelector('.time').textContent=`${relativeTime(s.publishedISO,s.published)} · ${readTime(s)}`;node.querySelector('.story-title').textContent=displayTitle(s);node.querySelector('.story-summary').textContent=s.summary;node.querySelector('.source').textContent=s.source?`Kilde: ${s.source}`:'';setImage(node.querySelector('.story-image'),node.querySelector('.story-image-wrap'),s);node.querySelector('.story-more').addEventListener('click',()=>openStory(s));grid.appendChild(node)})}
+async function loadNews(){try{const r=await fetch(`${LIVE_DATA_URL}?v=${Date.now()}`,{cache:'no-store'});if(!r.ok)throw new Error('Kunne ikke hente nyhetsdata');const data=await r.json();state.stories=data.stories||[];document.querySelector('#lastUpdated').textContent=data.updatedAt?`Oppdatert ${data.updatedAt}`:'Oppdatert nå';render();localStorage.setItem(LAST_VISIT_KEY,String(Date.now()))}catch(e){console.error(e);document.querySelector('#lastUpdated').textContent='Kunne ikke hente siste oppdatering';document.querySelector('#newsGrid').innerHTML='<div class="empty">Prøv å laste siden på nytt om et øyeblikk.</div>'}}
+document.querySelectorAll('.filter').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('.filter').forEach(x=>x.classList.remove('active'));b.classList.add('active');state.filter=b.dataset.filter;render()}));document.querySelector('.close').addEventListener('click',()=>dialog.close());dialog.addEventListener('close',()=>document.body.classList.remove('modal-open'));dialog.addEventListener('click',e=>{const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()});loadNews();setInterval(loadNews,2*60*1000);
