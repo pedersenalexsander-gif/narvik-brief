@@ -6,8 +6,10 @@ import math
 import re
 import urllib.parse
 import urllib.request
+import xml.etree.ElementTree as ET
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -17,18 +19,29 @@ OUT = ROOT / "data" / "news.json"
 OSLO = ZoneInfo("Europe/Oslo")
 MAX_STORIES = 10
 MAX_AGE_HOURS = 72
-MIN_ARTICLE_CHARS = 1200
+MIN_ARTICLE_CHARS = 1000
 
 CATEGORY_QUOTAS = {"Narvik": 2, "Nord-Norge": 1, "Norge": 1, "Verden": 1, "USA": 1, "Økonomi": 2, "AI": 2}
-SEARCHES = [
-    ("Narvik", "Narvik industry investment municipality railway port defense"),
-    ("Nord-Norge", '"Nord-Norge" business defense energy investment politics'),
-    ("Norge", "Norway government parliament economy security technology"),
-    ("Verden", "world geopolitics war diplomacy security economy technology"),
-    ("USA", "United States president congress Federal Reserve economy security technology"),
-    ("Økonomi", "markets interest rates central bank stocks oil finance economy"),
-    ("AI", "OpenAI Anthropic DeepMind Nvidia artificial intelligence model chips regulation investment"),
-    ("AI", "artificial intelligence AI safety regulation datacenter chips model launch"),
+
+# Gratis kilder. Feil i én feed stopper aldri hele briefen.
+RSS_FEEDS = [
+    ("Nord-Norge", "https://www.nrk.no/nordland/siste.rss"),
+    ("Norge", "https://www.nrk.no/toppsaker.rss"),
+    ("Norge", "https://www.nrk.no/norge/toppsaker.rss"),
+    ("Norge", "https://www.vg.no/rss/feed/?categories=1069"),
+    ("Verden", "https://www.vg.no/rss/feed/?categories=1070"),
+    ("Økonomi", "https://e24.no/rss2/"),
+    ("Økonomi", "https://e24.no/rss2/?seksjon=boers-og-finans"),
+    ("Verden", "https://feeds.bbci.co.uk/news/world/rss.xml"),
+    ("USA", "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"),
+    ("Økonomi", "https://feeds.bbci.co.uk/news/business/rss.xml"),
+    ("AI", "https://feeds.bbci.co.uk/news/technology/rss.xml"),
+]
+
+GOOGLE_QUERIES = [
+    ("Narvik", 'Narvik (næringsliv OR kommune OR industri OR Ofotbanen OR E6 OR havn OR forsvar)'),
+    ("Nord-Norge", '"Nord-Norge" (næringsliv OR forsvar OR energi OR investering OR politikk)'),
+    ("AI", '(OpenAI OR Anthropic OR DeepMind OR Nvidia OR xAI) (AI OR "artificial intelligence" OR model OR chip OR regulation OR investment)'),
 ]
 
 BLOCKED_TERMS = [
@@ -42,7 +55,7 @@ PAYWALL_TERMS = [
     "denne saken er for abonnenter", "premium article", "unlock this article",
 ]
 IMPORTANT = {
-    "narvik":4,"ofotban":4,"e6":3,"havn":3,"forsvar":3,"regjering":3,"storting":3,
+    "narvik":5,"ofotban":5,"e6":3,"havn":3,"forsvar":3,"regjering":3,"storting":3,
     "norges bank":4,"rente":3,"inflasjon":3,"arbeidsplasser":3,"investering":3,"milliard":3,
     "sikkerhet":3,"krig":3,"børs":3,"aksje":2,"olje":2,"marked":2,"openai":4,"anthropic":4,
     "deepmind":3,"nvidia":3,"artificial intelligence":4,"kunstig intelligens":4,"chip":3,"regulation":3,
@@ -92,28 +105,75 @@ def clean_text(value):
     return re.sub(r"\s+", " ", value).strip()
 
 def is_blocked(title): return any(x in title.lower() for x in BLOCKED_TERMS)
-def story_id(title, source): return hashlib.sha1(f"{title.lower()}|{source.lower()}".encode()).hexdigest()[:14]
 def normalize_title(title): return re.sub(r"[^a-z0-9æøå]+", " ", title.lower()).strip()
+def story_id(title, source): return hashlib.sha1(f"{title.lower()}|{source.lower()}".encode()).hexdigest()[:14]
 
-def gdelt_search(query, maxrecords=60):
-    params = urllib.parse.urlencode({"query": query, "mode": "ArtList", "maxrecords": maxrecords, "format": "json", "sort": "HybridRel"})
-    req = urllib.request.Request("https://api.gdeltproject.org/api/v2/doc/doc?" + params, headers={"User-Agent":"AlexBrief/7.0"})
-    with urllib.request.urlopen(req, timeout=30) as response:
-        payload = json.loads(response.read().decode("utf-8", errors="replace"))
-    return payload.get("articles", [])
+def fetch_bytes(url, timeout=25):
+    req = urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0 (compatible; AlexBrief/8.0)", "Accept-Language":"nb-NO,nb;q=0.9,en;q=0.8"})
+    with urllib.request.urlopen(req, timeout=timeout) as response:
+        return response.read(), response.geturl(), response.headers.get("Content-Type", "")
 
-def parse_seen_date(value):
-    for fmt in ("%Y%m%dT%H%M%SZ", "%Y%m%dT%H%M%S%z", "%Y-%m-%dT%H:%M:%SZ"):
+def parse_date(value):
+    if not value: return datetime.now(timezone.utc)
+    try: return parsedate_to_datetime(value).astimezone(timezone.utc)
+    except Exception: pass
+    for fmt in ("%Y-%m-%dT%H:%M:%SZ", "%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%S.%f%z"):
         try:
             dt = datetime.strptime(value, fmt)
             return dt.replace(tzinfo=timezone.utc) if dt.tzinfo is None else dt.astimezone(timezone.utc)
         except Exception: pass
     return datetime.now(timezone.utc)
 
+def google_news_url(query):
+    return "https://news.google.com/rss/search?" + urllib.parse.urlencode({"q":query,"hl":"no","gl":"NO","ceid":"NO:no"})
+
+def parse_feed(category, url):
+    raw, _, _ = fetch_bytes(url)
+    root = ET.fromstring(raw)
+    out = []
+    # RSS
+    for item in root.findall(".//item"):
+        title = clean_text(item.findtext("title")); link = clean_text(item.findtext("link"))
+        desc = clean_text(item.findtext("description")); pub = item.findtext("pubDate") or item.findtext("date") or ""
+        source_el = item.find("source"); source = clean_text(source_el.text if source_el is not None else "")
+        if not source:
+            source = urllib.parse.urlparse(link).netloc.replace("www.", "") if link else "Nyhetskilde"
+        image = ""
+        for child in item:
+            tag = child.tag.lower()
+            if tag.endswith("enclosure") and (child.attrib.get("type", "").startswith("image") or child.attrib.get("url", "").lower().endswith((".jpg",".jpeg",".png",".webp"))): image = child.attrib.get("url", "")
+            if tag.endswith("content") and "medium" in tag and child.attrib.get("url"): image = child.attrib.get("url", "")
+        if title and link: out.append({"category":category,"title":title,"url":link,"description":desc,"source":source,"published_dt":parse_date(pub),"feed_image":image})
+    # Atom fallback
+    ns = {"a":"http://www.w3.org/2005/Atom"}
+    for entry in root.findall(".//a:entry", ns):
+        title = clean_text(entry.findtext("a:title", default="", namespaces=ns)); link = ""
+        for link_el in entry.findall("a:link", ns):
+            if link_el.attrib.get("rel", "alternate") == "alternate": link = link_el.attrib.get("href", ""); break
+        desc = clean_text(entry.findtext("a:summary", default="", namespaces=ns) or entry.findtext("a:content", default="", namespaces=ns))
+        pub = entry.findtext("a:published", default="", namespaces=ns) or entry.findtext("a:updated", default="", namespaces=ns)
+        source = urllib.parse.urlparse(link).netloc.replace("www.", "") if link else "Nyhetskilde"
+        if title and link: out.append({"category":category,"title":title,"url":link,"description":desc,"source":source,"published_dt":parse_date(pub),"feed_image":""})
+    return out
+
+def resolve_news_redirect(url):
+    host = urllib.parse.urlparse(url).netloc.lower()
+    if "news.google.com" not in host: return url
+    try:
+        raw, final_url, content_type = fetch_bytes(url, timeout=15)
+        if "news.google.com" not in urllib.parse.urlparse(final_url).netloc.lower(): return final_url
+        if "text/html" in content_type.lower():
+            text = raw.decode("utf-8", errors="replace")
+            links = re.findall(r'href=["\'](https?://[^"\']+)["\']', text)
+            for candidate in links:
+                h = urllib.parse.urlparse(candidate).netloc.lower()
+                if h and "google." not in h and "gstatic." not in h: return html.unescape(candidate)
+    except Exception: pass
+    return url
+
 def fetch_article(url):
-    req = urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0 (compatible; AlexBrief/7.0)", "Accept-Language":"nb-NO,nb;q=0.9,en;q=0.8"})
-    with urllib.request.urlopen(req, timeout=20) as response:
-        final_url = response.geturl(); raw = response.read(2_500_000); content_type = response.headers.get("Content-Type", "")
+    url = resolve_news_redirect(url)
+    raw, final_url, content_type = fetch_bytes(url, timeout=20)
     if "text/html" not in content_type.lower(): return None
     source_html = raw.decode("utf-8", errors="replace")
     low = source_html.lower()
@@ -134,114 +194,106 @@ def fetch_article(url):
     if len(article_text) < MIN_ARTICLE_CHARS: return None
     image = urllib.parse.urljoin(final_url, parser.image) if parser.image else ""
     canonical = urllib.parse.urljoin(final_url, parser.canonical) if parser.canonical else final_url
-    return {"url": canonical, "text": article_text[:16000], "image": image, "page_title": clean_text(parser.title)}
+    return {"url":canonical,"text":article_text[:16000],"image":image,"page_title":clean_text(parser.title)}
 
 def discover():
-    now = datetime.now(timezone.utc); items = []
-    for category, query in SEARCHES:
-        try: articles = gdelt_search(query)
+    now = datetime.now(timezone.utc); items=[]
+    sources = list(RSS_FEEDS) + [(cat, google_news_url(q)) for cat,q in GOOGLE_QUERIES]
+    for category, url in sources:
+        try: feed_items = parse_feed(category, url)
         except Exception as exc:
-            print(f"GDELT-feil {category}: {exc}"); continue
-        for art in articles:
-            title = clean_text(art.get("title", "")); url = art.get("url", ""); source = art.get("domain") or "Nyhetskilde"
-            if not title or not url or len(title) < 15 or is_blocked(title): continue
-            published = parse_seen_date(art.get("seendate", "")); age = (now - published).total_seconds() / 3600
-            if age > MAX_AGE_HOURS: continue
-            score = max(0, int(12 - age/5)) + sum(w for k,w in IMPORTANT.items() if k in title.lower()) + (3 if category == "AI" else 0)
-            items.append({"id":story_id(title,source),"category":category,"published_dt":published,"title":title,"url":url,"source":source,"score":score,"social_image":art.get("socialimage") or ""})
+            print(f"Feed-feil {category} {url}: {exc}"); continue
+        for item in feed_items:
+            title=item["title"]
+            if len(title)<15 or is_blocked(title): continue
+            age=(now-item["published_dt"]).total_seconds()/3600
+            if age>MAX_AGE_HOURS: continue
+            score=max(0,int(14-age/5))+sum(w for k,w in IMPORTANT.items() if k in f"{title} {item.get('description','')}".lower())+(3 if category=="AI" else 0)
+            item["score"]=score; item["id"]=story_id(title,item["source"]); items.append(item)
     return items
 
 def dedupe(items):
     seen=[]; out=[]
     for item in sorted(items,key=lambda x:(x["score"],x["published_dt"]),reverse=True):
-        words=set(normalize_title(item["title"]).split())
-        if any(len(words & old) / max(1, min(len(words), len(old))) > .72 for old in seen): continue
-        seen.append(words); out.append(item)
+        ws=set(normalize_title(item["title"]).split())
+        if any(len(ws & old)/max(1,min(len(ws),len(old)))>.72 for old in seen): continue
+        seen.append(ws); out.append(item)
     return out
 
-def enrich_accessible(items):
-    accessible=[]
-    for item in items:
-        try: page=fetch_article(item["url"])
-        except Exception as exc:
-            print(f"Dropper utilgjengelig artikkel: {item['title']} ({exc})"); continue
-        if not page:
-            print(f"Dropper sak uten nok lesbar artikkeltekst: {item['title']}"); continue
-        if page.get("page_title") and len(page["page_title"]) > 15: item["title"] = page["page_title"]
-        item["url"]=page["url"]; item["article_text"]=page["text"]; item["image"]=page["image"] or item.get("social_image", "")
-        accessible.append(item)
-        if len(accessible) >= 45: break
-    return accessible
-
-def select_balanced(items):
-    chosen, ids=[], set()
-    for category,quota in CATEGORY_QUOTAS.items():
-        pool=sorted([x for x in items if x["category"]==category and x["id"] not in ids],key=lambda x:(x["score"],x["published_dt"]),reverse=True)
-        for item in pool[:quota]: chosen.append(item); ids.add(item["id"])
-    if len(chosen)<MAX_STORIES:
-        rest=sorted([x for x in items if x["id"] not in ids],key=lambda x:(x["score"],x["published_dt"]),reverse=True)
-        chosen.extend(rest[:MAX_STORIES-len(chosen)])
-    chosen.sort(key=lambda x:x["published_dt"],reverse=True)
-    return chosen[:MAX_STORIES]
-
 def split_sentences(text):
-    text = re.sub(r"\s+", " ", text).strip()
-    sentences = re.split(r"(?<=[.!?])\s+(?=[A-ZÆØÅ0-9])", text)
-    return [s.strip() for s in sentences if 55 <= len(s.strip()) <= 420]
-
-def words(text):
-    return [w for w in re.findall(r"[a-zA-ZæøåÆØÅ0-9-]{3,}", text.lower()) if w not in STOPWORDS and not w.isdigit()]
+    text=re.sub(r"\s+"," ",text).strip()
+    return [s.strip() for s in re.split(r"(?<=[.!?])\s+(?=[A-ZÆØÅ0-9])",text) if 55<=len(s.strip())<=420]
+def words(text): return [w for w in re.findall(r"[a-zA-ZæøåÆØÅ0-9-]{3,}",text.lower()) if w not in STOPWORDS and not w.isdigit()]
 
 def summarize_locally(title, article_text, category):
-    sentences = split_sentences(article_text)
-    if len(sentences) < 4: return None
-    freq = Counter(words(article_text))
+    sentences=split_sentences(article_text)
+    if len(sentences)<4: return None
+    freq=Counter(words(article_text))
     if not freq: return None
-    maxfreq = max(freq.values())
-    weights = {w: math.log1p(c) / math.log1p(maxfreq) for w,c in freq.items()}
-    title_terms = set(words(title))
-    scored=[]
+    maxfreq=max(freq.values()); weights={w:math.log1p(c)/math.log1p(maxfreq) for w,c in freq.items()}; title_terms=set(words(title)); scored=[]
     for idx,s in enumerate(sentences[:80]):
         sw=words(s)
         if not sw: continue
-        lexical=sum(weights.get(w,0) for w in sw)/math.sqrt(len(sw))
-        title_bonus=sum(1.7 for w in set(sw) & title_terms)
-        position_bonus=max(0, 2.2 - idx*0.06)
-        number_bonus=0.8 if re.search(r"\b\d+[\d.,%]*\b", s) else 0
-        scored.append((lexical+title_bonus+position_bonus+number_bonus, idx, s))
+        score=sum(weights.get(w,0) for w in sw)/math.sqrt(len(sw))+sum(1.7 for w in set(sw)&title_terms)+max(0,2.2-idx*.06)+(0.8 if re.search(r"\b\d+[\d.,%]*\b",s) else 0)
+        scored.append((score,idx,s))
     if len(scored)<3: return None
-    top=sorted(scored, reverse=True)[:5]
-    summary_sentences=[s for _,_,s in sorted(top[:3], key=lambda x:x[1])]
-    summary=" ".join(summary_sentences)
-    # Key points use additional strong sentences and avoid near-duplicates.
-    points=[]
+    top=sorted(scored,reverse=True)[:6]; summary=" ".join(s for _,_,s in sorted(top[:3],key=lambda x:x[1])); points=[]
     for _,_,s in top:
-        if any(len(set(words(s)) & set(words(p))) / max(1,min(len(set(words(s))),len(set(words(p))))) > .7 for p in points): continue
+        if any(len(set(words(s))&set(words(p)))/max(1,min(len(set(words(s))),len(set(words(p)))))>.7 for p in points): continue
         points.append(s)
         if len(points)==4: break
-    if len(summary)<180 or len(points)<2: return None
-    return summary, points, WHY[category]
+    if len(summary)<170 or len(points)<2: return None
+    return summary,points,WHY[category]
+
+def load_previous():
+    try: return json.loads(OUT.read_text(encoding="utf-8"))
+    except Exception: return {"stories":[]}
+
+def build_story(item, previous_by_id):
+    old=previous_by_id.get(item["id"])
+    if old and old.get("summary") and old.get("summaryMethod")=="local-extractive": return old
+    try: page=fetch_article(item["url"])
+    except Exception as exc:
+        print(f"Dropper utilgjengelig artikkel: {item['title']} ({exc})"); return None
+    if not page:
+        print(f"Dropper sak uten nok lesbar artikkeltekst: {item['title']}"); return None
+    title=page["page_title"] if page.get("page_title") and len(page["page_title"])>15 else item["title"]
+    generated=summarize_locally(title,page["text"],item["category"])
+    if not generated:
+        print(f"Dropper sak som ikke kan oppsummeres robust: {title}"); return None
+    summary,points,why=generated; published=item["published_dt"].astimezone(OSLO)
+    return {"id":item["id"],"category":item["category"],"published":published.strftime("%d.%m. %H:%M"),"publishedISO":published.isoformat(),"title":title,"summary":summary,"keyPoints":points,"whyItMatters":why,"summaryMethod":"local-extractive","url":page["url"],"source":item["source"],"image":page["image"] or item.get("feed_image","")}
+
+def select_balanced(stories):
+    chosen=[]; ids=set()
+    for category,quota in CATEGORY_QUOTAS.items():
+        pool=[s for s in stories if s.get("category")==category and s.get("id") not in ids]
+        pool.sort(key=lambda s:s.get("publishedISO",""),reverse=True)
+        for s in pool[:quota]: chosen.append(s); ids.add(s.get("id"))
+    rest=[s for s in stories if s.get("id") not in ids]; rest.sort(key=lambda s:s.get("publishedISO",""),reverse=True)
+    chosen.extend(rest[:MAX_STORIES-len(chosen)]); chosen.sort(key=lambda s:s.get("publishedISO",""),reverse=True)
+    return chosen[:MAX_STORIES]
 
 def main():
-    candidates=dedupe(discover())
-    accessible=enrich_accessible(candidates)
-    selected=select_balanced(accessible)
-    stories=[]
-    for item in selected:
-        generated=summarize_locally(item["title"], item["article_text"], item["category"])
-        if not generated:
-            print(f"Dropper sak som ikke kan oppsummeres robust: {item['title']}"); continue
-        summary,points,why=generated
-        published=item["published_dt"].astimezone(OSLO)
-        stories.append({
-            "id":item["id"],"category":item["category"],"published":published.strftime("%d.%m. %H:%M"),
-            "publishedISO":published.isoformat(),"title":item["title"],"summary":summary,"keyPoints":points,
-            "whyItMatters":why,"summaryMethod":"local-extractive","url":item["url"],"source":item["source"],"image":item.get("image","")
-        })
-    if len(stories)<4: raise RuntimeError(f"For få kvalitetsartikler etter fulltekstfiltrering ({len(stories)}). Beholder forrige brief i stedet for å publisere dårlig innhold.")
-    now_oslo=datetime.now(OSLO)
-    payload={"updatedAt":now_oslo.strftime("%d.%m.%Y kl. %H:%M"),"updatedISO":now_oslo.isoformat(),"qualityMode":"full-article-only-free","stories":stories[:MAX_STORIES]}
-    OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    print(f"Publiserte {len(stories[:MAX_STORIES])} gratis kvalitetsoppsummeringer fra full artikkeltekst.")
+    previous=load_previous(); previous_by_id={s.get("id"):s for s in previous.get("stories",[]) if s.get("id")}
+    candidates=dedupe(discover()); built=[]
+    for item in candidates:
+        story=build_story(item,previous_by_id)
+        if story: built.append(story)
+        if len(built)>=24: break
+    # Behold tidligere kvalitetssaker som reserve hvis noen feeder/kilder er nede akkurat nå.
+    cutoff=datetime.now(timezone.utc)-timedelta(hours=MAX_AGE_HOURS)
+    for old in previous.get("stories",[]):
+        if old.get("id") in {s.get("id") for s in built}: continue
+        try: published=datetime.fromisoformat(old.get("publishedISO","")); published=published.astimezone(timezone.utc)
+        except Exception: continue
+        if published>=cutoff and old.get("summaryMethod")=="local-extractive": built.append(old)
+    selected=select_balanced(built)
+    if not selected:
+        print("Fant ingen nye kvalitetssaker. Beholder forrige brief uten å feile."); return
+    now_oslo=datetime.now(OSLO); payload={"updatedAt":now_oslo.strftime("%d.%m.%Y kl. %H:%M"),"updatedISO":now_oslo.isoformat(),"qualityMode":"multi-rss-full-article-free","stories":selected}
+    new_text=json.dumps(payload,ensure_ascii=False,indent=2)+"\n"
+    OUT.write_text(new_text,encoding="utf-8")
+    print(f"Publiserte {len(selected)} kvalitetssaker fra flere gratis kilder.")
 
 if __name__=="__main__": main()
