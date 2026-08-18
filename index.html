@@ -11,62 +11,23 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <header class="topbar">
-    <div class="shell topbar-inner">
-      <a class="brand" href="#">ALEX <span>BRIEF</span></a>
-      <div class="live"><span></span> LIVE · oppdateres gjennom dagen</div>
-    </div>
-  </header>
-
+  <header class="topbar"><div class="shell topbar-inner"><a class="brand" href="#">ALEX <span>BRIEF</span></a><div class="live"><span></span> LIVE · oppdateres gjennom dagen</div></div></header>
   <main class="shell">
     <section class="hero">
       <p class="kicker" id="greeting">HEI</p>
       <h1>Hei Alex Pedersen.</h1>
       <p class="hero-copy">Her er de nyeste nyhetene — kort forklart i AI-format.</p>
-      <p class="hero-sub">10 saker som er verdt tiden din, fra Narvik til finansmarkedene og verden.</p>
+      <p class="hero-sub">10 saker som er verdt tiden din: Narvik, Nord-Norge, Norge, verden, USA, økonomi og de viktigste AI-utviklingene globalt.</p>
       <div class="status"><span class="pulse"></span><span id="lastUpdated">Henter siste brief …</span></div>
     </section>
-
     <nav class="filters" aria-label="Nyhetskategorier">
-      <button class="filter active" data-filter="Alle">For deg</button>
-      <button class="filter" data-filter="Narvik">Narvik</button>
-      <button class="filter" data-filter="Nord-Norge">Nord-Norge</button>
-      <button class="filter" data-filter="Norge">Norge</button>
-      <button class="filter" data-filter="Verden">Verden</button>
-      <button class="filter" data-filter="USA">USA</button>
-      <button class="filter" data-filter="Økonomi">Økonomi & finans</button>
+      <button class="filter active" data-filter="Alle">For deg</button><button class="filter" data-filter="Narvik">Narvik</button><button class="filter" data-filter="Nord-Norge">Nord-Norge</button><button class="filter" data-filter="Norge">Norge</button><button class="filter" data-filter="Verden">Verden</button><button class="filter" data-filter="USA">USA</button><button class="filter" data-filter="Økonomi">Økonomi & finans</button><button class="filter" data-filter="AI">AI</button>
     </nav>
-
-    <section class="feed-head">
-      <div><p class="kicker">DIN LØPENDE BRIEF</p><h2>Dette bør du vite nå</h2></div>
-      <span id="storyCount"></span>
-    </section>
+    <section class="feed-head"><div><p class="kicker">DIN LØPENDE BRIEF</p><h2>Dette bør du vite nå</h2></div><span id="storyCount"></span></section>
     <section id="newsGrid" class="news-grid" aria-live="polite"></section>
   </main>
-
-  <dialog id="storyDialog" class="story-dialog">
-    <button class="close" aria-label="Lukk">×</button>
-    <div class="dialog-meta"><span id="dialogTag"></span><span id="dialogTime"></span></div>
-    <h2 id="dialogTitle"></h2>
-    <div class="ai-label"><span>✦</span> AI-OVERSIKT</div>
-    <p id="dialogSummary" class="dialog-summary"></p>
-    <h3>Det viktigste</h3>
-    <ul id="dialogPoints"></ul>
-    <div class="dialog-why"><strong>Hvorfor dette betyr noe</strong><p id="dialogWhy"></p></div>
-    <div class="source-line">Basert på <span id="dialogSource"></span>. AI kan gjøre feil — bruk originalkilden ved behov.</div>
-    <a id="dialogOriginal" class="original" target="_blank" rel="noopener noreferrer">Åpne originalkilden ↗</a>
-  </dialog>
-
-  <template id="storyTemplate">
-    <article class="story-card">
-      <div class="story-topline"><span class="tag"></span><span class="time"></span></div>
-      <h3 class="story-title"></h3>
-      <p class="story-summary"></p>
-      <div class="source"></div>
-      <button class="story-more">Se mer <span>→</span></button>
-    </article>
-  </template>
-
+  <dialog id="storyDialog" class="story-dialog"><button class="close" aria-label="Lukk">×</button><div class="dialog-meta"><span id="dialogTag"></span><span id="dialogTime"></span></div><h2 id="dialogTitle"></h2><div class="ai-label"><span>✦</span> AI-OVERSIKT</div><p id="dialogSummary" class="dialog-summary"></p><h3>Det viktigste</h3><ul id="dialogPoints"></ul><div class="dialog-why"><strong>Hvorfor dette betyr noe</strong><p id="dialogWhy"></p></div><div class="source-line">Basert på <span id="dialogSource"></span>. AI kan gjøre feil — bruk originalkilden ved behov.</div><a id="dialogOriginal" class="original" target="_blank" rel="noopener noreferrer">Åpne originalkilden ↗</a></dialog>
+  <template id="storyTemplate"><article class="story-card"><div class="story-topline"><span class="tag"></span><span class="time"></span></div><h3 class="story-title"></h3><p class="story-summary"></p><div class="source"></div><button class="story-more">Se mer <span>→</span></button></article></template>
   <footer><div class="shell footer-inner"><strong>Alex Brief</strong><span>Kuraterte nyheter · AI-oppsummert · oppdateres automatisk</span></div></footer>
   <script src="app.js"></script>
 </body>
