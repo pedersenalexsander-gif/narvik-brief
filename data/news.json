@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.08.2026 kl. 23:53",
-  "updatedISO": "2026-08-18T23:53:41.709864+02:00",
+  "updatedAt": "19.08.2026 kl. 00:57",
+  "updatedISO": "2026-08-19T00:57:20.508010+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg",
       "localImage": "assets/news/c32e3fc3d298bd.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "750861646d70c7",
@@ -109,6 +109,27 @@
       "score": 19
     },
     {
+      "id": "be34f67c884c65",
+      "category": "AI",
+      "published": "19.08. 00:11",
+      "publishedISO": "2026-08-19T00:11:07+02:00",
+      "title": "Meta hooked children on Facebook and Instagram, court hears",
+      "summary": "En domstol har hørt påstander om at Meta med vilje har hektet en generasjon barn på Facebook og Instagram, da den største juridiske utfordringen den sosiale medieplattformen har møtt begynte på tirsdag. Ikke bare er statene som søker milliarder av dollar fra Meta, de krever at den gjør endringer på Instagram og Facebook, inkludert slutt på «liker»-tellinger og uendelig rulling. Hun sa at gjennom hele rettssaken ville det bli klart at det Meta sa offentlig om plattformene sine, og det dens interne forskning viste, var veldig forskjellige. \"Meta sa at det satte sikkerhet over fortjeneste, men skjulte realiteten at gang på gang, når det kom til å ta en beslutning, vant fortjeneste.\" Amerikanske stater krever store endringer på Instagram og Facebook når rettssaken om personvern i Meta begynner",
+      "keyPoints": [
+        "En domstol har hørt påstander om at Meta med vilje har hektet en generasjon barn på Facebook og Instagram, da den største juridiske utfordringen den sosiale medieplattformen har møtt begynte på tirsdag.",
+        "Hun sa at gjennom hele rettssaken ville det bli klart at det Meta sa offentlig om plattformene sine, og det dens interne forskning viste, var veldig forskjellige. \"Meta sa at det satte sikkerhet over fortjeneste, men skjulte realiteten at gang på gang, når det kom til å ta en beslutning, vant fortjeneste.\" Amerikanske stater krever store endringer på Instagram og Facebook når rettssaken om personvern i Meta begynner",
+        "Ikke bare er statene som søker milliarder av dollar fra Meta, de krever at den gjør endringer på Instagram og Facebook, inkludert slutt på «liker»-tellinger og uendelig rulling.",
+        "Til tross for Metas bevissthet om potensielt negative konsekvenser, hevdet O'Neill at Meta målrettet unge mennesker som brukere av Facebook og Instagram og gikk ut av sin måte å \"forsikre publikum om at plattformene deres var trygge for barn\"."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg",
+      "localImage": "assets/news/be34f67c884c65.jpg",
+      "score": 17
+    },
+    {
       "id": "d486aac26e5cac",
       "category": "AI",
       "published": "18.08. 11:26",
@@ -151,27 +172,6 @@
       "score": 18
     },
     {
-      "id": "a638aa282bc25f",
-      "category": "Økonomi",
-      "published": "17.08. 18:40",
-      "publishedISO": "2026-08-17T18:40:51+02:00",
-      "title": "Innskuddsrenter henger etter: – Tjener to milliarder ekstra i året",
-      "summary": "Noss mener at innskuddskunder i snitt går glipp av 0,1 prosentpoeng av det de ellers burde hatt. – Enkeltpersoner merker det kanskje ikke så mye, men det blir mye penger totalt sett, sier han. – Husholdninger har nesten 2.000 milliarder kroner stående i bankene, og da blir det fort at bankene tjener to milliarder ekstra i året som følge av grepet, med forutsetningene vi har tatt. Både DNB og Sparebank 1 Sør-Norge forteller at økningen i innskuddsrenter varierer mellom produkter. – Når vi justerer renter, gjør vi en helhetlig vurdering der styringsrenten fra Norges Bank er én av flere faktorer, sier Julia Stelzer Norberg, pressevakt i DNB. Hun sier 6 ut av 9 innskuddsprodukter fra DNB fikk en økning på 0,20 eller 0,25 prosentpoeng etter hevingen i mai. – Utlån og innskudd er ulike produkter, og vurderingene og prisene har naturlig nok noe å si for oss som bank i hard konkurranse med andre i et kommersielt marked, sier hun.",
-      "keyPoints": [
-        "Noss mener at innskuddskunder i snitt går glipp av 0,1 prosentpoeng av det de ellers burde hatt. – Enkeltpersoner merker det kanskje ikke så mye, men det blir mye penger totalt sett, sier han. – Husholdninger har nesten 2.000 milliarder kroner stående i bankene, og da blir det fort at bankene tjener to milliarder ekstra i året som følge av grepet, med forutsetningene vi har tatt.",
-        "Både DNB og Sparebank 1 Sør-Norge forteller at økningen i innskuddsrenter varierer mellom produkter. – Når vi justerer renter, gjør vi en helhetlig vurdering der styringsrenten fra Norges Bank er én av flere faktorer, sier Julia Stelzer Norberg, pressevakt i DNB.",
-        "Hun sier 6 ut av 9 innskuddsprodukter fra DNB fikk en økning på 0,20 eller 0,25 prosentpoeng etter hevingen i mai. – Utlån og innskudd er ulike produkter, og vurderingene og prisene har naturlig nok noe å si for oss som bank i hard konkurranse med andre i et kommersielt marked, sier hun.",
-        "Noss peker på et lignende mønster fra slutten av 2021 til 2023, da styringsrenten gikk fra 0 til 4,25 prosent. – Marginen mellom boliglånsrenten og innskuddsrenten hadde en gradvis økning, sier Noss. – Samtidig så vi på de siste rentehevningene i 2023 at bankene stort sett fulgte etter hevningene, i hvert fall på sparekontoer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/aJaKAL/innskuddsrenter-henger-etter-tjener-to-milliarder-ekstra-i-aaret",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6fdffe8d-8eef-30dd-8256-a3d9b3a20847?fit=crop&h=675&upscale=true&w=1200&s=41f58d1094bb5c8bce19250fe237f58458a35dfd",
-      "localImage": "assets/news/a638aa282bc25f.jpg",
-      "score": 16
-    },
-    {
       "id": "48b4a6aea6a30b",
       "category": "Norge",
       "published": "17.08. 20:16",
@@ -193,25 +193,25 @@
       "score": 15
     },
     {
-      "id": "03c1eced8949e1",
+      "id": "a638aa282bc25f",
       "category": "Økonomi",
-      "published": "18.08. 06:31",
-      "publishedISO": "2026-08-18T06:31:54+02:00",
-      "title": "Mowi betaler 1,2 milliarder i utbytte",
-      "summary": "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal. Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt. Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
+      "published": "17.08. 18:40",
+      "publishedISO": "2026-08-17T18:40:51+02:00",
+      "title": "Innskuddsrenter henger etter: – Tjener to milliarder ekstra i året",
+      "summary": "Noss mener at innskuddskunder i snitt går glipp av 0,1 prosentpoeng av det de ellers burde hatt. – Enkeltpersoner merker det kanskje ikke så mye, men det blir mye penger totalt sett, sier han. – Husholdninger har nesten 2.000 milliarder kroner stående i bankene, og da blir det fort at bankene tjener to milliarder ekstra i året som følge av grepet, med forutsetningene vi har tatt. Både DNB og Sparebank 1 Sør-Norge forteller at økningen i innskuddsrenter varierer mellom produkter. – Når vi justerer renter, gjør vi en helhetlig vurdering der styringsrenten fra Norges Bank er én av flere faktorer, sier Julia Stelzer Norberg, pressevakt i DNB. Hun sier 6 ut av 9 innskuddsprodukter fra DNB fikk en økning på 0,20 eller 0,25 prosentpoeng etter hevingen i mai. – Utlån og innskudd er ulike produkter, og vurderingene og prisene har naturlig nok noe å si for oss som bank i hard konkurranse med andre i et kommersielt marked, sier hun.",
       "keyPoints": [
-        "Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt.",
-        "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal.",
-        "Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
-        "Styret har besluttet et utbytte på 2,3 kroner per aksje for kvartalet."
+        "Noss mener at innskuddskunder i snitt går glipp av 0,1 prosentpoeng av det de ellers burde hatt. – Enkeltpersoner merker det kanskje ikke så mye, men det blir mye penger totalt sett, sier han. – Husholdninger har nesten 2.000 milliarder kroner stående i bankene, og da blir det fort at bankene tjener to milliarder ekstra i året som følge av grepet, med forutsetningene vi har tatt.",
+        "Både DNB og Sparebank 1 Sør-Norge forteller at økningen i innskuddsrenter varierer mellom produkter. – Når vi justerer renter, gjør vi en helhetlig vurdering der styringsrenten fra Norges Bank er én av flere faktorer, sier Julia Stelzer Norberg, pressevakt i DNB.",
+        "Hun sier 6 ut av 9 innskuddsprodukter fra DNB fikk en økning på 0,20 eller 0,25 prosentpoeng etter hevingen i mai. – Utlån og innskudd er ulike produkter, og vurderingene og prisene har naturlig nok noe å si for oss som bank i hard konkurranse med andre i et kommersielt marked, sier hun.",
+        "Noss peker på et lignende mønster fra slutten av 2021 til 2023, da styringsrenten gikk fra 0 til 4,25 prosent. – Marginen mellom boliglånsrenten og innskuddsrenten hadde en gradvis økning, sier Noss. – Samtidig så vi på de siste rentehevningene i 2023 at bankene stort sett fulgte etter hevningene, i hvert fall på sparekontoer."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/gkreeL/mowi-betaler-1-2-milliarder-kroner-i-utbytte-etter-rekordslakt",
+      "url": "https://e24.no/norsk-oekonomi/i/aJaKAL/innskuddsrenter-henger-etter-tjener-to-milliarder-ekstra-i-aaret",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/19de68a3-a766-35ae-b059-bf01e243eef8?fit=crop&h=675&upscale=true&w=1200&s=2cb3bcd13d5455d69803ccf6b4f4fe0ddc011b9b",
-      "localImage": "assets/news/03c1eced8949e1.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/6fdffe8d-8eef-30dd-8256-a3d9b3a20847?fit=crop&h=675&upscale=true&w=1200&s=41f58d1094bb5c8bce19250fe237f58458a35dfd",
+      "localImage": "assets/news/a638aa282bc25f.jpg",
+      "score": 15
     }
   ]
 }
