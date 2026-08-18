@@ -2,17 +2,16 @@ name: Oppdater Narvik Brief
 
 on:
   schedule:
-    # GitHub cron bruker UTC. To kjøringer + tidssjekk under håndterer norsk sommer/vintertid.
-    - cron: '45 5 * * *'
-    - cron: '45 6 * * *'
+    # GitHub Actions har minimum ca. 5 minutters intervall. Vi bruker 15 min for en stabil live-brief.
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: narvik-daily-brief
-  cancel-in-progress: false
+  group: narvik-live-brief
+  cancel-in-progress: true
 
 jobs:
   update:
@@ -26,32 +25,18 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Sjekk om klokken er 07:45 i Oslo
-        id: localtime
-        shell: bash
-        run: |
-          OSLO_TIME=$(TZ=Europe/Oslo date +%H:%M)
-          echo "Oslo-tid: $OSLO_TIME"
-          if [ "$OSLO_TIME" = "07:45" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Hent dagens nyheter
-        if: steps.localtime.outputs.run == 'true'
+      - name: Hent de siste nyhetene
         run: python scripts/update_news.py
 
-      - name: Commit og push hvis briefen er endret
-        if: steps.localtime.outputs.run == 'true'
+      - name: Commit og push hvis topp 10 har endret seg
         shell: bash
         run: |
           if git diff --quiet -- data/news.json; then
-            echo "Ingen endringer å publisere."
+            echo "Ingen nye saker siden sist."
             exit 0
           fi
           git config user.name "narvik-brief-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json
-          git commit -m "Oppdater morgenbrief"
+          git commit -m "Oppdater siste 10 nyhetssaker"
           git push
