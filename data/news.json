@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.08.2026 kl. 21:19",
-  "updatedISO": "2026-08-18T21:19:59.213624+02:00",
+  "updatedAt": "18.08.2026 kl. 22:01",
+  "updatedISO": "2026-08-18T22:01:15.563973+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/CulAynYKRs3cN4KHUGKUTw5WB5N-_Cyi5XUmxMxRlNmA.jpg",
       "localImage": "assets/news/a8f2a25fd1ebef.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "c32e3fc3d298bd",
@@ -67,27 +67,6 @@
       "score": 12
     },
     {
-      "id": "6ce384807c02b8",
-      "category": "Økonomi",
-      "published": "18.08. 11:49",
-      "publishedISO": "2026-08-18T11:49:12+02:00",
-      "title": "Mistet ansatte i krig: – Begynner å stille spørsmål",
-      "summary": "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt. Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig? Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
-      "keyPoints": [
-        "Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig?",
-        "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt.",
-        "Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
-        "Han understreker viktigheten av å være beredt som sivilsamfunn. – Altså: Hvordan være forberedt, slik Ukraina har høstet smertefulle erfaringer fra å ikke være, sier Andresen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/vrV1q4/mistet-ansatte-i-krig-begynner-aa-stille-spoersmaal",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
-      "localImage": "assets/news/6ce384807c02b8.jpg",
-      "score": 20
-    },
-    {
       "id": "641e0ce0526f3e",
       "category": "Økonomi",
       "published": "18.08. 15:30",
@@ -109,6 +88,27 @@
       "score": 19
     },
     {
+      "id": "6ce384807c02b8",
+      "category": "Økonomi",
+      "published": "18.08. 11:49",
+      "publishedISO": "2026-08-18T11:49:12+02:00",
+      "title": "Mistet ansatte i krig: – Begynner å stille spørsmål",
+      "summary": "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt. Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig? Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
+      "keyPoints": [
+        "Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig?",
+        "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt.",
+        "Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
+        "Han understreker viktigheten av å være beredt som sivilsamfunn. – Altså: Hvordan være forberedt, slik Ukraina har høstet smertefulle erfaringer fra å ikke være, sier Andresen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/vrV1q4/mistet-ansatte-i-krig-begynner-aa-stille-spoersmaal",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
+      "localImage": "assets/news/6ce384807c02b8.jpg",
+      "score": 19
+    },
+    {
       "id": "d486aac26e5cac",
       "category": "AI",
       "published": "18.08. 11:26",
@@ -127,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
       "localImage": "assets/news/d486aac26e5cac.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "a06943b911df56",
@@ -172,27 +172,6 @@
       "score": 16
     },
     {
-      "id": "03c1eced8949e1",
-      "category": "Økonomi",
-      "published": "18.08. 06:31",
-      "publishedISO": "2026-08-18T06:31:54+02:00",
-      "title": "Mowi betaler 1,2 milliarder i utbytte",
-      "summary": "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal. Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt. Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
-      "keyPoints": [
-        "Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt.",
-        "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal.",
-        "Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
-        "Styret har besluttet et utbytte på 2,3 kroner per aksje for kvartalet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/gkreeL/mowi-betaler-1-2-milliarder-kroner-i-utbytte-etter-rekordslakt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/19de68a3-a766-35ae-b059-bf01e243eef8?fit=crop&h=675&upscale=true&w=1200&s=2cb3bcd13d5455d69803ccf6b4f4fe0ddc011b9b",
-      "localImage": "assets/news/03c1eced8949e1.jpg",
-      "score": 15
-    },
-    {
       "id": "48b4a6aea6a30b",
       "category": "Norge",
       "published": "17.08. 20:16",
@@ -212,6 +191,27 @@
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/48b4a6aea6a30b.jpg",
       "score": 15
+    },
+    {
+      "id": "03c1eced8949e1",
+      "category": "Økonomi",
+      "published": "18.08. 06:31",
+      "publishedISO": "2026-08-18T06:31:54+02:00",
+      "title": "Mowi betaler 1,2 milliarder i utbytte",
+      "summary": "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal. Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt. Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
+      "keyPoints": [
+        "Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt.",
+        "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal.",
+        "Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
+        "Styret har besluttet et utbytte på 2,3 kroner per aksje for kvartalet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/gkreeL/mowi-betaler-1-2-milliarder-kroner-i-utbytte-etter-rekordslakt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/19de68a3-a766-35ae-b059-bf01e243eef8?fit=crop&h=675&upscale=true&w=1200&s=2cb3bcd13d5455d69803ccf6b4f4fe0ddc011b9b",
+      "localImage": "assets/news/03c1eced8949e1.jpg",
+      "score": 14
     }
   ]
 }
