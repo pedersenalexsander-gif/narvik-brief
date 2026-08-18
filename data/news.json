@@ -1,8 +1,29 @@
 {
-  "updatedAt": "18.08.2026 kl. 18:17",
-  "updatedISO": "2026-08-18T18:17:50.368559+02:00",
+  "updatedAt": "18.08.2026 kl. 19:47",
+  "updatedISO": "2026-08-18T19:47:56.252521+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "cd20902468d595",
+      "category": "Nord-Norge",
+      "published": "17.08. 20:14",
+      "publishedISO": "2026-08-17T20:14:59+02:00",
+      "title": "Varaordføreren om skolekuttene i Bodø",
+      "summary": "Økonomi er en del av grunnen til at Bodø kommune vurderer endringer i skolestrukturen. Johnsen peker på synkende elevtall og flere eldre skolebygg som trenger store investeringer. – I dag bruker Bodø kommune mindre penger på innhold, men mer penger på bygg og areal enn andre kommuner, sier hun. Det er nok ingen, verken folkevalgte eller administrasjonen, som synes at dette er enkelt å jobbe med, svarer Johnsen. – Så skal vi lytte og se hva som kommer inn der, før vi får et endelig forslag, sier varaordføreren.",
+      "keyPoints": [
+        "Johnsen peker på synkende elevtall og flere eldre skolebygg som trenger store investeringer. – I dag bruker Bodø kommune mindre penger på innhold, men mer penger på bygg og areal enn andre kommuner, sier hun.",
+        "Det er nok ingen, verken folkevalgte eller administrasjonen, som synes at dette er enkelt å jobbe med, svarer Johnsen. – Så skal vi lytte og se hva som kommer inn der, før vi får et endelig forslag, sier varaordføreren.",
+        "Økonomi er en del av grunnen til at Bodø kommune vurderer endringer i skolestrukturen.",
+        "Målet er ifølge varaordføreren å se om kommunen kan bruke mer penger på lærere i stedet."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/varaordforeren-om-skolekuttene-i-bodo-1.17992571",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/eZh-rjQ0tvHL6dcFPXP41QgMWboVBSD0duZbUAlszhTg.jpg",
+      "localImage": "assets/news/cd20902468d595.jpg",
+      "score": 13
+    },
     {
       "id": "a8f2a25fd1ebef",
       "category": "Norge",
@@ -43,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg",
       "localImage": "assets/news/c32e3fc3d298bd.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "750861646d70c7",
@@ -151,27 +172,6 @@
       "score": 19
     },
     {
-      "id": "a638aa282bc25f",
-      "category": "Økonomi",
-      "published": "17.08. 18:40",
-      "publishedISO": "2026-08-17T18:40:51+02:00",
-      "title": "Innskuddsrenter henger etter: – Tjener to milliarder ekstra i året",
-      "summary": "Noss mener at innskuddskunder i snitt går glipp av 0,1 prosentpoeng av det de ellers burde hatt. – Enkeltpersoner merker det kanskje ikke så mye, men det blir mye penger totalt sett, sier han. – Husholdninger har nesten 2.000 milliarder kroner stående i bankene, og da blir det fort at bankene tjener to milliarder ekstra i året som følge av grepet, med forutsetningene vi har tatt. Både DNB og Sparebank 1 Sør-Norge forteller at økningen i innskuddsrenter varierer mellom produkter. – Når vi justerer renter, gjør vi en helhetlig vurdering der styringsrenten fra Norges Bank er én av flere faktorer, sier Julia Stelzer Norberg, pressevakt i DNB. Hun sier 6 ut av 9 innskuddsprodukter fra DNB fikk en økning på 0,20 eller 0,25 prosentpoeng etter hevingen i mai. – Utlån og innskudd er ulike produkter, og vurderingene og prisene har naturlig nok noe å si for oss som bank i hard konkurranse med andre i et kommersielt marked, sier hun.",
-      "keyPoints": [
-        "Noss mener at innskuddskunder i snitt går glipp av 0,1 prosentpoeng av det de ellers burde hatt. – Enkeltpersoner merker det kanskje ikke så mye, men det blir mye penger totalt sett, sier han. – Husholdninger har nesten 2.000 milliarder kroner stående i bankene, og da blir det fort at bankene tjener to milliarder ekstra i året som følge av grepet, med forutsetningene vi har tatt.",
-        "Både DNB og Sparebank 1 Sør-Norge forteller at økningen i innskuddsrenter varierer mellom produkter. – Når vi justerer renter, gjør vi en helhetlig vurdering der styringsrenten fra Norges Bank er én av flere faktorer, sier Julia Stelzer Norberg, pressevakt i DNB.",
-        "Hun sier 6 ut av 9 innskuddsprodukter fra DNB fikk en økning på 0,20 eller 0,25 prosentpoeng etter hevingen i mai. – Utlån og innskudd er ulike produkter, og vurderingene og prisene har naturlig nok noe å si for oss som bank i hard konkurranse med andre i et kommersielt marked, sier hun.",
-        "Noss peker på et lignende mønster fra slutten av 2021 til 2023, da styringsrenten gikk fra 0 til 4,25 prosent. – Marginen mellom boliglånsrenten og innskuddsrenten hadde en gradvis økning, sier Noss. – Samtidig så vi på de siste rentehevningene i 2023 at bankene stort sett fulgte etter hevningene, i hvert fall på sparekontoer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/aJaKAL/innskuddsrenter-henger-etter-tjener-to-milliarder-ekstra-i-aaret",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6fdffe8d-8eef-30dd-8256-a3d9b3a20847?fit=crop&h=675&upscale=true&w=1200&s=41f58d1094bb5c8bce19250fe237f58458a35dfd",
-      "localImage": "assets/news/a638aa282bc25f.jpg",
-      "score": 17
-    },
-    {
       "id": "48b4a6aea6a30b",
       "category": "Norge",
       "published": "17.08. 20:16",
@@ -193,25 +193,25 @@
       "score": 16
     },
     {
-      "id": "03c1eced8949e1",
+      "id": "a638aa282bc25f",
       "category": "Økonomi",
-      "published": "18.08. 06:31",
-      "publishedISO": "2026-08-18T06:31:54+02:00",
-      "title": "Mowi betaler 1,2 milliarder i utbytte",
-      "summary": "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal. Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt. Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
+      "published": "17.08. 18:40",
+      "publishedISO": "2026-08-17T18:40:51+02:00",
+      "title": "Innskuddsrenter henger etter: – Tjener to milliarder ekstra i året",
+      "summary": "Noss mener at innskuddskunder i snitt går glipp av 0,1 prosentpoeng av det de ellers burde hatt. – Enkeltpersoner merker det kanskje ikke så mye, men det blir mye penger totalt sett, sier han. – Husholdninger har nesten 2.000 milliarder kroner stående i bankene, og da blir det fort at bankene tjener to milliarder ekstra i året som følge av grepet, med forutsetningene vi har tatt. Både DNB og Sparebank 1 Sør-Norge forteller at økningen i innskuddsrenter varierer mellom produkter. – Når vi justerer renter, gjør vi en helhetlig vurdering der styringsrenten fra Norges Bank er én av flere faktorer, sier Julia Stelzer Norberg, pressevakt i DNB. Hun sier 6 ut av 9 innskuddsprodukter fra DNB fikk en økning på 0,20 eller 0,25 prosentpoeng etter hevingen i mai. – Utlån og innskudd er ulike produkter, og vurderingene og prisene har naturlig nok noe å si for oss som bank i hard konkurranse med andre i et kommersielt marked, sier hun.",
       "keyPoints": [
-        "Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt.",
-        "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal.",
-        "Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
-        "Styret har besluttet et utbytte på 2,3 kroner per aksje for kvartalet."
+        "Noss mener at innskuddskunder i snitt går glipp av 0,1 prosentpoeng av det de ellers burde hatt. – Enkeltpersoner merker det kanskje ikke så mye, men det blir mye penger totalt sett, sier han. – Husholdninger har nesten 2.000 milliarder kroner stående i bankene, og da blir det fort at bankene tjener to milliarder ekstra i året som følge av grepet, med forutsetningene vi har tatt.",
+        "Både DNB og Sparebank 1 Sør-Norge forteller at økningen i innskuddsrenter varierer mellom produkter. – Når vi justerer renter, gjør vi en helhetlig vurdering der styringsrenten fra Norges Bank er én av flere faktorer, sier Julia Stelzer Norberg, pressevakt i DNB.",
+        "Hun sier 6 ut av 9 innskuddsprodukter fra DNB fikk en økning på 0,20 eller 0,25 prosentpoeng etter hevingen i mai. – Utlån og innskudd er ulike produkter, og vurderingene og prisene har naturlig nok noe å si for oss som bank i hard konkurranse med andre i et kommersielt marked, sier hun.",
+        "Noss peker på et lignende mønster fra slutten av 2021 til 2023, da styringsrenten gikk fra 0 til 4,25 prosent. – Marginen mellom boliglånsrenten og innskuddsrenten hadde en gradvis økning, sier Noss. – Samtidig så vi på de siste rentehevningene i 2023 at bankene stort sett fulgte etter hevningene, i hvert fall på sparekontoer."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/gkreeL/mowi-betaler-1-2-milliarder-kroner-i-utbytte-etter-rekordslakt",
+      "url": "https://e24.no/norsk-oekonomi/i/aJaKAL/innskuddsrenter-henger-etter-tjener-to-milliarder-ekstra-i-aaret",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/19de68a3-a766-35ae-b059-bf01e243eef8?fit=crop&h=675&upscale=true&w=1200&s=2cb3bcd13d5455d69803ccf6b4f4fe0ddc011b9b",
-      "localImage": "assets/news/03c1eced8949e1.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/6fdffe8d-8eef-30dd-8256-a3d9b3a20847?fit=crop&h=675&upscale=true&w=1200&s=41f58d1094bb5c8bce19250fe237f58458a35dfd",
+      "localImage": "assets/news/a638aa282bc25f.jpg",
+      "score": 16
     }
   ]
 }
