@@ -19,14 +19,15 @@ MAX_STORIES = 10
 MAX_AGE_HOURS = 60
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "").strip()
 
-# En bevisst miks: lokalt først, men ikke en vegg av små lokale saker.
+# Fast miks med lokale saker, makro/finans og viktige AI-utviklinger globalt.
 CATEGORY_QUOTAS = {
     "Narvik": 2,
     "Nord-Norge": 1,
-    "Norge": 2,
-    "Verden": 2,
+    "Norge": 1,
+    "Verden": 1,
     "USA": 1,
     "Økonomi": 2,
+    "AI": 2,
 }
 
 QUERIES = [
@@ -36,6 +37,8 @@ QUERIES = [
     ("Verden", 'verden (krig OR diplomati OR sikkerhet OR økonomi OR teknologi OR klima)'),
     ("USA", 'USA (president OR Kongressen OR Fed OR økonomi OR sikkerhet OR teknologi)'),
     ("Økonomi", 'økonomi (Norges Bank OR renter OR børs OR olje OR krone OR aksjer OR finansmarked)'),
+    ("AI", '(OpenAI OR Anthropic OR "Google DeepMind" OR Nvidia OR Microsoft OR Meta OR xAI) (AI OR "artificial intelligence" OR modell OR chip OR regulering OR investering)'),
+    ("AI", '"kunstig intelligens" (modell OR regulering OR sikkerhet OR datasenter OR chip OR investering OR OpenAI OR Anthropic OR Nvidia)'),
 ]
 
 BLOCKED = [
@@ -49,7 +52,9 @@ IMPORTANT = {
     "arbeidsplasser": 3, "investering": 3, "milliard": 3, "oppkjøp": 2,
     "forsvar": 3, "sikkerhet": 3, "krig": 3, "fred": 2, "sanksjon": 2,
     "børs": 3, "aksje": 2, "olje": 2, "krone": 2, "marked": 2,
-    "kunstig intelligens": 2, "teknologi": 2, "ofotban": 4, "e6": 3, "havn": 3,
+    "kunstig intelligens": 4, "artificial intelligence": 4, "openai": 4, "anthropic": 4,
+    "deepmind": 3, "nvidia": 3, "xai": 3, "ai model": 3, "chip": 3, "regulering": 3,
+    "teknologi": 2, "ofotban": 4, "e6": 3, "havn": 3,
 }
 
 WHY = {
@@ -59,6 +64,7 @@ WHY = {
     "Verden": "Dette er en internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
     "USA": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
     "Økonomi": "Dette kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+    "AI": "Dette kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
 }
 
 
@@ -72,7 +78,6 @@ def clean_title(title, source=""):
     title = clean_text(title)
     if source:
         title = re.sub(rf"\s+-\s+{re.escape(source)}\s*$", "", title, flags=re.I)
-    # Fjern vanlige portal-/seksjonsprefikser og overflødig feed-støy.
     title = re.sub(r"^(Narvik|Evenes|Harstad|God morgen,? Narvik|God dag Narvik)\s*[|:]\s*", "", title, flags=re.I)
     title = re.sub(r"\s+\|\s+[^|]{1,35}$", "", title)
     return title.strip(" -–—|")
@@ -89,7 +94,7 @@ def google_news_url(query):
 
 
 def fetch_feed(query):
-    req = urllib.request.Request(google_news_url(query), headers={"User-Agent": "Mozilla/5.0 NarvikBrief/3.0"})
+    req = urllib.request.Request(google_news_url(query), headers={"User-Agent": "Mozilla/5.0 AlexBrief/4.0"})
     with urllib.request.urlopen(req, timeout=20) as response:
         return response.read()
 
@@ -124,6 +129,8 @@ def parse_items(xml_bytes, category):
             description = description.replace(title, "").strip(" -–—|")
         score = max(0, int(10 - age_hours / 4))
         score += sum(weight for word, weight in IMPORTANT.items() if word in f"{title} {description}".lower())
+        if category == "AI":
+            score += 3
         result.append({
             "id": story_id(title, source),
             "category": category,
@@ -171,13 +178,9 @@ def select_balanced(items):
 
 def fallback_ai(item):
     detail = item["description"] or f"{item['source']} omtaler denne utviklingen: {item['title']}."
-    detail = detail[:320].strip()
     return {
-        "aiSummary": detail,
-        "keyPoints": [
-            item["title"],
-            f"Kilde: {item['source']}",
-        ],
+        "aiSummary": detail[:320].strip(),
+        "keyPoints": [item["title"], f"Kilde: {item['source']}"],
         "whyItMatters": WHY[item["category"]],
         "aiGenerated": False,
     }
@@ -186,14 +189,14 @@ def fallback_ai(item):
 def call_openai(item):
     if not OPENAI_API_KEY:
         return fallback_ai(item)
-    prompt = f"""Du er redaktør for en personlig norsk nyhetsbrief. Lag en nøktern oversikt basert KUN på informasjonen under. Ikke finn på fakta. Hvis kildeinformasjonen er knapp, si det tydelig. Svar kun med gyldig JSON med feltene aiSummary (2-4 korte setninger), keyPoints (array med 2-4 korte punkter), whyItMatters (1-2 setninger).
+    prompt = f"""Du er redaktør for en personlig norsk nyhetsbrief. Lag en nøktern og presis oversikt basert KUN på informasjonen under. Ikke finn på fakta. For AI-saker: forklar spesielt hva som faktisk er nytt, hvem som står bak, og mulig betydning for teknologi, næringsliv eller investeringer. Hvis kildeinformasjonen er knapp, si det tydelig. Svar kun med gyldig JSON med feltene aiSummary (2-4 korte setninger), keyPoints (array med 2-4 korte punkter), whyItMatters (1-2 setninger).
 
 Kategori: {item['category']}
 Tittel: {item['title']}
 Kilde: {item['source']}
 Kildebeskrivelse: {item['description'] or 'Ingen ekstra beskrivelse tilgjengelig.'}
 """
-    body = json.dumps({"model": "gpt-5.6-luna", "input": prompt}).encode("utf-8")
+    body = json.dumps({"model": "gpt-5.6", "input": prompt}).encode("utf-8")
     req = urllib.request.Request(
         "https://api.openai.com/v1/responses",
         data=body,
@@ -276,11 +279,7 @@ def main():
         return
 
     now_oslo = datetime.now(OSLO)
-    payload = {
-        "updatedAt": now_oslo.strftime("%d.%m.%Y kl. %H:%M"),
-        "updatedISO": now_oslo.isoformat(),
-        "stories": stories,
-    }
+    payload = {"updatedAt": now_oslo.strftime("%d.%m.%Y kl. %H:%M"), "updatedISO": now_oslo.isoformat(), "stories": stories}
     OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Oppdaterte briefen med {len(stories)} kuraterte saker.")
     for error in errors:
