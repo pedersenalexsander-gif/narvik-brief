@@ -1,8 +1,27 @@
 {
-  "updatedAt": "18.08.2026 kl. 17:45",
-  "updatedISO": "2026-08-18T17:45:53.641420+02:00",
+  "updatedAt": "18.08.2026 kl. 17:56",
+  "updatedISO": "2026-08-18T17:56:12.020916+02:00",
   "qualityMode": "multi-rss-full-article-free",
   "stories": [
+    {
+      "id": "1ccee6f4edea1f",
+      "category": "Norge",
+      "published": "18.08. 17:50",
+      "publishedISO": "2026-08-18T17:50:29+02:00",
+      "title": "Fant tohodet slange på tur i Fredrikstad",
+      "summary": "Turgåer Tor Erik Gravnås trodde knapt sine egne øyne da han var på tur i marka i Fredrikstad. Blant strå og stein lå det en levende, tohodet slange – en slettsnok, som er en av de tre slangeartene vi har i Norge. Selv om observasjonen i skogen er svært fascinerende, er hverdagen for en tohodet slange betydelig mer brutal.",
+      "keyPoints": [
+        "Turgåer Tor Erik Gravnås trodde knapt sine egne øyne da han var på tur i marka i Fredrikstad.",
+        "Blant strå og stein lå det en levende, tohodet slange – en slettsnok, som er en av de tre slangeartene vi har i Norge.",
+        "Selv om observasjonen i skogen er svært fascinerende, er hverdagen for en tohodet slange betydelig mer brutal.",
+        "Da Gravnås var på vei til sitt faste sted på Kråkerøy i Fredrikstad, dukket det opp et syn helt utenom det vanlige."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ostfold/fant-tohodet-slange-pa-tur-i-fredrikstad-1.17993145",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/TJtQoNBM85H1gkeJeGYnJgPWwT9V6NwM3MNcLHfRVH8w.jpg"
+    },
     {
       "id": "aa3448d13962a4",
       "category": "Norge",
@@ -97,25 +116,6 @@
       "url": "https://www.nrk.no/innlandet/fire-av-fem-kommuner-bryter-kravet-til-politiattest-for-ansettelser-pa-barneskolene-1.17988406",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/9aVBu9sbFgf4epOKg5NxaQyCZHA_qZnG5itAPvV_gGBA.jpg"
-    },
-    {
-      "id": "fd9b13c4269d8c",
-      "category": "Norge",
-      "published": "18.08. 16:57",
-      "publishedISO": "2026-08-18T16:57:12+02:00",
-      "title": "Vil stramme inn loven mot hatefulle ytringer",
-      "summary": "Advokat i Thommessen Julie Rasmussen Solli mener alle burde være beskyttet mot hatefulle ytringer. Julie Rasmussen Solli er advokat i Advokatfirmaet Thommessen – Jeg ønsker at man vurderer et generelt forbud mot hatefulle ytringer, altså ytringer som knytter seg til hva som helst, ikke bare til hudfarge, legning, etnisitet og de andre tingene som er vernet av dagens bestemmelse. Høyre-leder Ine Eriksen Søreide er ikke enig i at loven bør strammes inn fordi hatefulle ytringer fortsatt vil spres i det skjulte. – Jeg er ikke sikker på om det vil løse problemet.",
-      "keyPoints": [
-        "Høyre-leder Ine Eriksen Søreide er ikke enig i at loven bør strammes inn fordi hatefulle ytringer fortsatt vil spres i det skjulte. – Jeg er ikke sikker på om det vil løse problemet.",
-        "Julie Rasmussen Solli er advokat i Advokatfirmaet Thommessen – Jeg ønsker at man vurderer et generelt forbud mot hatefulle ytringer, altså ytringer som knytter seg til hva som helst, ikke bare til hudfarge, legning, etnisitet og de andre tingene som er vernet av dagens bestemmelse.",
-        "Advokat i Thommessen Julie Rasmussen Solli mener alle burde være beskyttet mot hatefulle ytringer.",
-        "Advokat vil ha et generelt forbud mot hatefulle ytringer fordi dagens debattklima skader demokratiet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/vil-stramme-inn-loven-mot-hatefulle-ytringer-1.17993174",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/vtaCY3tYu5qjMmmQfeS0CAEdW8D4lI_H7BgKH567Ad9Q.jpg"
     },
     {
       "id": "47b14c60ffaf23",
