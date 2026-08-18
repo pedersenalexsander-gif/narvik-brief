@@ -1,8 +1,29 @@
 {
-  "updatedAt": "18.08.2026 kl. 17:56",
-  "updatedISO": "2026-08-18T17:56:12.020916+02:00",
-  "qualityMode": "multi-rss-full-article-free",
+  "updatedAt": "18.08.2026 kl. 18:01",
+  "updatedISO": "2026-08-18T18:01:37.232266+02:00",
+  "qualityMode": "multi-rss-full-article-free-local-images-no",
   "stories": [
+    {
+      "id": "5cccd4aa5d347c",
+      "category": "Norge",
+      "published": "18.08. 17:55",
+      "publishedISO": "2026-08-18T17:55:22+02:00",
+      "title": "Loco Mosquitos-utstilling i Kragerø",
+      "summary": "Det blir stadig færre av dei, men kunstnaren Loco Mosquito, eller Kenneth Apeland som han eigentleg heiter, tviheld på tradisjonen med å lage konsertplakatar. – Direkte skjerpande, meiner Kristopher Schau. Veggane hos Kragerø Faste Billedgalleri er dekorerte med mange titals silketrykk om dagen. Loco Mosquito har blant anna teikna plakatar for Schau sitt noverande band - The Dogs. – Om ein er litt sliten før ein konsert, så er jo dette direkte skjerpande, meiner musikaren. – Her har han stått og halde på for å lage fine plakatar med silketrykk i garasjen, og så skal vi liksom vere slitne?",
+      "keyPoints": [
+        "Det blir stadig færre av dei, men kunstnaren Loco Mosquito, eller Kenneth Apeland som han eigentleg heiter, tviheld på tradisjonen med å lage konsertplakatar. – Direkte skjerpande, meiner Kristopher Schau.",
+        "Loco Mosquito har blant anna teikna plakatar for Schau sitt noverande band - The Dogs. – Om ein er litt sliten før ein konsert, så er jo dette direkte skjerpande, meiner musikaren. – Her har han stått og halde på for å lage fine plakatar med silketrykk i garasjen, og så skal vi liksom vere slitne?",
+        "Veggane hos Kragerø Faste Billedgalleri er dekorerte med mange titals silketrykk om dagen.",
+        "Kenneth Apeland, kjent under kunstnarnamnet Loco Mosquito. – Eg seier høfleg nei til det eg ikkje liker."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/loco-mosquitos-utstilling-i-kragero-1.17993266",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/y-H5V8ZePUMqGXd6NYXxiwwWbpzmphkGRVQrlOXEjHmQ.jpg",
+      "localImage": "assets/news/5cccd4aa5d347c.jpg",
+      "translatedToNorwegian": true
+    },
     {
       "id": "1ccee6f4edea1f",
       "category": "Norge",
@@ -20,7 +41,8 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/ostfold/fant-tohodet-slange-pa-tur-i-fredrikstad-1.17993145",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/TJtQoNBM85H1gkeJeGYnJgPWwT9V6NwM3MNcLHfRVH8w.jpg"
+      "image": "https://gfx.nrk.no/TJtQoNBM85H1gkeJeGYnJgPWwT9V6NwM3MNcLHfRVH8w.jpg",
+      "localImage": "assets/news/1ccee6f4edea1f.jpg"
     },
     {
       "id": "aa3448d13962a4",
@@ -39,7 +61,9 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/tromsogfinnmark/drapet-i-tromso_-siktede-bekrefter-at-han-var-til-stede-1.17993764",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/L_5IeXZ2n5HBz8P4BHGkFA6zzUFE7Qs4OIYHyOEudaZQ.jpg"
+      "image": "https://gfx.nrk.no/L_5IeXZ2n5HBz8P4BHGkFA6zzUFE7Qs4OIYHyOEudaZQ.jpg",
+      "localImage": "assets/news/aa3448d13962a4.jpg",
+      "translatedToNorwegian": true
     },
     {
       "id": "7e9ef40ee747f0",
@@ -47,18 +71,20 @@
       "published": "18.08. 17:23",
       "publishedISO": "2026-08-18T17:23:31+02:00",
       "title": "Wetherspoons bans customers playing music from phones in pubs",
-      "summary": "Wetherspoons has banned its customers from playing music out loud or taking calls on speaker, saying the noise from phones and tablets was an increasing problem driving people \"nuts\". Studies suggest the majority of Britons are annoyed by hearing people take calls on speakerphone or playing videos or music on their phones without headphones. It confirmed the ban on customers playing music and taking calls on speaker would also apply to those venues. \"In order to avoid customers being driven chicken jalfrezi by a cacophony of sound, we are kindly asking phone users to pipe down,\" Sir Tim added.",
+      "summary": "Wetherspoons har forbudt kundene sine fra å spille musikk høyt eller ta samtaler på høyttaleren, og sa at støyen fra telefoner og nettbrett var et økende problem som gjorde folk \"gale\". Studier tyder på at flertallet av briter irriterer seg over å høre folk ta anrop på høyttalertelefon eller spille av videoer eller musikk på telefonene sine uten hodetelefoner. Den bekreftet at forbudet mot kunder som spiller musikk og tar samtaler på høyttaler også vil gjelde for disse arenaene. \"For å unngå at kunder blir drevet av en kakofoni av lyd, ber vi telefonbrukere om å pipe ned,\" la Sir Tim til.",
       "keyPoints": [
-        "Wetherspoons has banned its customers from playing music out loud or taking calls on speaker, saying the noise from phones and tablets was an increasing problem driving people \"nuts\".",
+        "Wetherspoons har forbudt kundene sine fra å spille musikk høyt eller ta samtaler på høyttaleren, og sa at støyen fra telefoner og nettbrett var et økende problem som gjorde folk \"gale\".",
         "Studies suggest the majority of Britons are annoyed by hearing people take calls on speakerphone or playing videos or music on their phones without headphones.",
-        "It confirmed the ban on customers playing music and taking calls on speaker would also apply to those venues. \"In order to avoid customers being driven chicken jalfrezi by a cacophony of sound, we are kindly asking phone users to pipe down,\" Sir Tim added.",
-        "The company – which runs 792 pubs and bars across the UK – said that following complaints it has asked customers to switch their devices to silent or to use earphones."
+        "Den bekreftet at forbudet mot kunder som spiller musikk og tar samtaler på høyttaler også vil gjelde for disse arenaene. \"For å unngå at kunder blir drevet av en kakofoni av lyd, ber vi telefonbrukere om å pipe ned,\" la Sir Tim til.",
+        "Selskapet – som driver 792 puber og barer over hele Storbritannia – sa at etter klager har det bedt kundene om å bytte enhetene sine til stillegående eller å bruke øretelefoner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cnvnl8gy22lo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dbde/live/1b00c8d0-9af4-11f1-930b-57cfba7235f9.jpg",
+      "localImage": "assets/news/7e9ef40ee747f0.jpg",
+      "translatedToNorwegian": true
     },
     {
       "id": "e2056d5543f3f7",
@@ -77,7 +103,8 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/norge/auf-frigjev-delar-av-hetsen-mot-gaute-skjervo-1.17993733",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/bny9bKotQso8Nnb-IUHdjA_6lyORKsnM-voHzMVu01iw.jpg"
+      "image": "https://gfx.nrk.no/bny9bKotQso8Nnb-IUHdjA_6lyORKsnM-voHzMVu01iw.jpg",
+      "localImage": "assets/news/e2056d5543f3f7.jpg"
     },
     {
       "id": "220f55cee4da5a",
@@ -85,37 +112,20 @@
       "published": "18.08. 17:03",
       "publishedISO": "2026-08-18T17:03:34+02:00",
       "title": "Demand for Wirral school uniform bank 'has never been higher'",
-      "summary": "One mother said getting the chance to pick up free uniforms enabled her to spend more on summer holiday activities with her children A charity offering parents the chance to pick up second hand school uniforms for free said demand for its services \"has never been higher\". Demand has risen even in \"affluent areas\" thanks to \"posher schools\" charging high fees for certain mandatory uniform items, it said. Project co-ordinator Petra Davies said: \"The cost of uniform, despite the government guidelines, is still rising in price and people just cannot afford it.\" Research from charity the Children's Society found 68% of parents across north-west England said this year's school holidays were costing more than last year's.",
+      "summary": "En mor sa at å få sjansen til å hente gratis uniformer gjorde det mulig for henne å bruke mer på sommerferieaktiviteter sammen med barna. En veldedig organisasjon som tilbyr foreldre muligheten til å hente brukte skoleuniformer gratis, sa at etterspørselen etter tjenestene \"aldri har vært høyere\". Etterspørselen har økt selv i \"velstående områder\" takket være \"posher skoler\" som tar høye avgifter for visse obligatoriske uniformsartikler, heter det. Prosjektkoordinator Petra Davies sa: \"Kostnadene for uniform, til tross for myndighetenes retningslinjer, stiger fortsatt i pris og folk har rett og slett ikke råd til det.\" Forskning fra veldedige organisasjoner, Children's Society, fant at 68 % av foreldrene over hele Nordvest-England sa at årets skoleferier kostet mer enn fjorårets.",
       "keyPoints": [
-        "One mother said getting the chance to pick up free uniforms enabled her to spend more on summer holiday activities with her children A charity offering parents the chance to pick up second hand school uniforms for free said demand for its services \"has never been higher\".",
-        "Demand has risen even in \"affluent areas\" thanks to \"posher schools\" charging high fees for certain mandatory uniform items, it said.",
-        "Project co-ordinator Petra Davies said: \"The cost of uniform, despite the government guidelines, is still rising in price and people just cannot afford it.\" Research from charity the Children's Society found 68% of parents across north-west England said this year's school holidays were costing more than last year's.",
-        "Wirral Free Uniforms for Schools, which has 12 hubs across Wirral and has been going for 14 years, said uniforms are still rising in price despite government guidelines."
+        "En mor sa at å få sjansen til å hente gratis uniformer gjorde det mulig for henne å bruke mer på sommerferieaktiviteter sammen med barna. En veldedig organisasjon som tilbyr foreldre muligheten til å hente brukte skoleuniformer gratis, sa at etterspørselen etter tjenestene \"aldri har vært høyere\".",
+        "Etterspørselen har økt selv i \"velstående områder\" takket være \"posher skoler\" som tar høye avgifter for visse obligatoriske uniformsartikler, heter det.",
+        "Prosjektkoordinator Petra Davies sa: \"Kostnadene for uniform, til tross for myndighetenes retningslinjer, stiger fortsatt i pris og folk har rett og slett ikke råd til det.\" Forskning fra veldedige organisasjoner, Children's Society, fant at 68 % av foreldrene over hele Nordvest-England sa at årets skoleferier kostet mer enn fjorårets.",
+        "Wirral Free Uniforms for Schools, som har 12 knutepunkter over hele Wirral og har holdt på i 14 år, sa at uniformer fortsatt stiger i pris til tross for myndighetenes retningslinjer."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/c330k0gdkkyo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6daf/live/a4c3d490-9b12-11f1-9341-0383083a41e3.png"
-    },
-    {
-      "id": "8ee18ae20571bc",
-      "category": "Norge",
-      "published": "18.08. 16:58",
-      "publishedISO": "2026-08-18T16:58:26+02:00",
-      "title": "Fire av fem kommuner bryter kravet til politiattest for ansettelser på barneskolene",
-      "summary": "KREVER IKKE POLITIATTEST: Selv om kravet til politiattest har eksistert i et par tiår, slurver altfor mange kommuner med når det gjelder gjennomføringa, viser et nasjonalt stikkprøve-tilsyn. Men i praksis svikter fire av fem norske kommuner, viser et nasjonalt tilsyn. Blant annet hadde flere kommuner gjennomført ansettelser før politiattest var levert og sjekket. – Det vi også har sett gjennom utlysningstekster i tilsynet, og som ligger ute per i dag fra andre kommuner, er at det vises til at politiattest må fremvises før tiltredelse.",
-      "keyPoints": [
-        "KREVER IKKE POLITIATTEST: Selv om kravet til politiattest har eksistert i et par tiår, slurver altfor mange kommuner med når det gjelder gjennomføringa, viser et nasjonalt stikkprøve-tilsyn.",
-        "Men i praksis svikter fire av fem norske kommuner, viser et nasjonalt tilsyn.",
-        "Blant annet hadde flere kommuner gjennomført ansettelser før politiattest var levert og sjekket. – Det vi også har sett gjennom utlysningstekster i tilsynet, og som ligger ute per i dag fra andre kommuner, er at det vises til at politiattest må fremvises før tiltredelse.",
-        "Kravet om politiattest for alle som skal jobbe med barn, har eksistert i nesten 30 år."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/fire-av-fem-kommuner-bryter-kravet-til-politiattest-for-ansettelser-pa-barneskolene-1.17988406",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/9aVBu9sbFgf4epOKg5NxaQyCZHA_qZnG5itAPvV_gGBA.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6daf/live/a4c3d490-9b12-11f1-9341-0383083a41e3.png",
+      "localImage": "assets/news/220f55cee4da5a.png",
+      "translatedToNorwegian": true
     },
     {
       "id": "47b14c60ffaf23",
@@ -123,37 +133,41 @@
       "published": "18.08. 15:37",
       "publishedISO": "2026-08-18T15:37:59+02:00",
       "title": "Watch: Ohio firefighters tackle blaze after industrial explosion",
-      "summary": "An explosion and fire broke out at an industrial recycling facility in southern Toledo, Ohio, early morning on 18 August. Firefighters tackle blaze in Ohio after industrial explosion. Video, 00:00:30Firefighters tackle blaze in Ohio after industrial explosion Up Next.",
+      "summary": "En eksplosjon og brann brøt ut ved et industrielt gjenvinningsanlegg i det sørlige Toledo, Ohio, tidlig morgen 18. august. Brannmenn takler brannen i Ohio etter industrieksplosjon. Video, 00:00:30Brannmenn takler brann i Ohio etter industrieksplosjon Up Next.",
       "keyPoints": [
         "Firefighters tackle blaze in Ohio after industrial explosion.",
         "An explosion and fire broke out at an industrial recycling facility in southern Toledo, Ohio, early morning on 18 August.",
-        "Video, 00:00:35'He's a real hero' - Trump meets teen lifeguard after dramatic rescue Watch: What we learned from opening statements in Tupac murder trial.",
-        "Video, 00:01:54Watch: What we learned from opening statements in Tupac murder trial Watch: Why has Trump shifted on North Korea?"
+        "Video, 00:00:35'He's a real hero' - Trump møter tenåringsbadevakt etter dramatisk redning Se: Hva vi lærte fra åpningsuttalelser i Tupac-mordrettssaken.",
+        "Video, 00:01:54Se: Hva vi lærte av åpningsuttalelser i Tupac-drapsrettssaken Se: Hvorfor har Trump gått over til Nord-Korea?"
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/videos/cqlxwxy03p4o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de7a/live/4a09dcc0-9b08-11f1-bb80-c1b1e1adeea5.png"
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/de7a/live/4a09dcc0-9b08-11f1-bb80-c1b1e1adeea5.png",
+      "localImage": "assets/news/47b14c60ffaf23.png",
+      "translatedToNorwegian": true
     },
     {
       "id": "4e2b29f9839734",
       "category": "AI",
       "published": "18.08. 13:26",
       "publishedISO": "2026-08-18T13:26:26+02:00",
-      "title": "OpenAI launches ChatGPT for Teens with new safety features",
-      "summary": "The maker of ChatGPT is rolling out a range of new safety features today for under-18s who use the AI chatbot. OpenAI said it would alert teens not to share sensitive content with ChatGPT So far, there is no bespoke AI regulation in the UK. Family of dead teen say ChatGPT's new parental controls not enough How the social media ban could reshape how all of us use the internet Microsoft boss troubled by rise in reports of 'AI psychosis' OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+      "title": "OpenAI lanserer ChatGPT for tenåringer med nye sikkerhetsfunksjoner",
+      "summary": "Produsenten av ChatGPT ruller ut en rekke nye sikkerhetsfunksjoner i dag for under 18 år som bruker AI chatbot. OpenAI sa at det ville varsle tenåringer om ikke å dele sensitivt innhold med ChatGPT. Så langt er det ingen skreddersydd AI-regulering i Storbritannia. Familie av døde tenåringer sier ChatGPTs nye foreldrekontroll ikke er nok Hvordan forbudet på sosiale medier kunne omforme hvordan vi alle bruker internett Microsoft-sjefen plaget av økningen i rapporter om \"AI-psykose\" OpenAI sier at AI-en deres ble useriøs og startet et \"enestående\" cyberangrep",
       "keyPoints": [
-        "The maker of ChatGPT is rolling out a range of new safety features today for under-18s who use the AI chatbot.",
-        "Family of dead teen say ChatGPT's new parental controls not enough How the social media ban could reshape how all of us use the internet Microsoft boss troubled by rise in reports of 'AI psychosis' OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-        "OpenAI said it would alert teens not to share sensitive content with ChatGPT So far, there is no bespoke AI regulation in the UK.",
-        "OpenAI says of the young people who use ChatGPT, nine out of 10 use it to help them with learning."
+        "Produsenten av ChatGPT ruller ut en rekke nye sikkerhetsfunksjoner i dag for under 18 år som bruker AI chatbot.",
+        "Familie av døde tenåringer sier ChatGPTs nye foreldrekontroll ikke er nok Hvordan forbudet på sosiale medier kunne omforme hvordan vi alle bruker internett Microsoft-sjefen plaget av økningen i rapporter om \"AI-psykose\" OpenAI sier at AI-en deres ble useriøs og startet et \"enestående\" cyberangrep",
+        "OpenAI sa at det ville varsle tenåringer om ikke å dele sensitivt innhold med ChatGPT. Så langt er det ingen skreddersydd AI-regulering i Storbritannia.",
+        "OpenAI sier om de unge som bruker ChatGPT, ni av 10 bruker det for å hjelpe dem med læring."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a091/live/d1a80e80-9aeb-11f1-930b-57cfba7235f9.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a091/live/d1a80e80-9aeb-11f1-930b-57cfba7235f9.jpg",
+      "localImage": "assets/news/4e2b29f9839734.jpg",
+      "translatedToNorwegian": true
     },
     {
       "id": "d486aac26e5cac",
@@ -161,18 +175,20 @@
       "published": "18.08. 11:26",
       "publishedISO": "2026-08-18T11:26:41+02:00",
       "title": "AI to help planes avoid climate-warming contrails above North Atlantic",
-      "summary": "Contrails are formed when exhaust fumes from planes turn into ice crystals We've all looked up and seen the white lines trailing behind aircraft in the sky. Now, a £5m UK trial will test whether AI can help, by predicting where warming contrails are likely to form and getting planes to avoid those areas. It will focus on the Shanwick Oceanic airspace in the eastern half of the North Atlantic corridor which accounts for approximately 5% of global contrail warming.",
+      "summary": "Kontrer dannes når eksosgasser fra fly blir til iskrystaller. Vi har alle sett opp og sett de hvite linjene som følger etter fly på himmelen. Nå vil en britisk prøveperiode på 5 millioner pund teste om kunstig intelligens kan hjelpe, ved å forutsi hvor oppvarmingskontrailer sannsynligvis vil dannes og få fly til å unngå disse områdene. Den vil fokusere på Shanwick Oceanic-luftrommet i den østlige halvdelen av den nordatlantiske korridoren, som står for omtrent 5 % av den globale oppvarmingen av kontrailer.",
       "keyPoints": [
-        "Now, a £5m UK trial will test whether AI can help, by predicting where warming contrails are likely to form and getting planes to avoid those areas.",
-        "It will focus on the Shanwick Oceanic airspace in the eastern half of the North Atlantic corridor which accounts for approximately 5% of global contrail warming.",
-        "Contrails are formed when exhaust fumes from planes turn into ice crystals We've all looked up and seen the white lines trailing behind aircraft in the sky.",
-        "Contrails - or condensation trails - are a regular feature in our skies The idea behind the trial is that if scientists can predict the areas of the atmosphere where contrails are likely to form, aircraft could avoid them."
+        "Nå vil en britisk prøveperiode på 5 millioner pund teste om kunstig intelligens kan hjelpe, ved å forutsi hvor oppvarmingskontrailer sannsynligvis vil dannes og få fly til å unngå disse områdene.",
+        "Den vil fokusere på Shanwick Oceanic-luftrommet i den østlige halvdelen av den nordatlantiske korridoren, som står for omtrent 5 % av den globale oppvarmingen av kontrailer.",
+        "Kontrer dannes når eksosgasser fra fly blir til iskrystaller. Vi har alle sett opp og sett de hvite linjene som følger etter fly på himmelen.",
+        "Contrails - eller kondenseringsstier - er et vanlig innslag i himmelen vår. Ideen bak forsøket er at hvis forskere kan forutsi områdene i atmosfæren der det er sannsynlig at det vil dannes kontringslinjer, kan fly unngå dem."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
+      "localImage": "assets/news/d486aac26e5cac.jpg",
+      "translatedToNorwegian": true
     },
     {
       "id": "24aae4b1d53973",
@@ -191,7 +207,9 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/nordland/ny-rapport-slar-alarm_-nord-norge-mangler-folk-til-beredskap-og-vekst-1.17992992",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xJkBfqVpGqPRQyeth2CLTQ2bU4P53azpZCyXWQ8-Ex_A.jpg"
+      "image": "https://gfx.nrk.no/xJkBfqVpGqPRQyeth2CLTQ2bU4P53azpZCyXWQ8-Ex_A.jpg",
+      "localImage": "assets/news/24aae4b1d53973.jpg",
+      "translatedToNorwegian": true
     }
   ]
 }
