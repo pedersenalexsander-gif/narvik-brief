@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.08.2026 kl. 01:51",
-  "updatedISO": "2026-08-19T01:51:43.872053+02:00",
+  "updatedAt": "19.08.2026 kl. 05:15",
+  "updatedISO": "2026-08-19T05:15:18.030350+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/CulAynYKRs3cN4KHUGKUTw5WB5N-_Cyi5XUmxMxRlNmA.jpg",
       "localImage": "assets/news/a8f2a25fd1ebef.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "c32e3fc3d298bd",
@@ -35,7 +35,7 @@
         "Zhu Rongji fungerte som Kinas premier fra 1998 til 2003, og ledet Kina gjennom en rekke viktige økonomiske reformer. Flagg på offentlige steder vaier på halv stang og sikkerhetskjøretøyer er parkert i hjertet av Beijing, mens Kina sørger over tidligere premier Zhu Rongji.",
         "Zhu, som fungerte som Kinas premier fra 1998 til 2003, huskes som en av landets viktigste økonomiske reformatorer.",
         "Mens den hyller den avdøde premieren som et \"lojalt\" partimedlem, er den kinesiske staten også på vakt mot at offentlig sorg over hans reformæra lett kan bli til skjult kritikk av den nåværende regjeringen under Xi.",
-        "Zhu Rongji deadpan humor var på full visning på en felles pressekonferanse med den tidligere amerikanske presidenten Bill Clinton i 1999. Zhu, i mellomtiden, stemplet en gang useriøse bankfolk som \"half-wits\" og beskrev flomdykene langs Yangtze-elven som \"tynne og porøse som tofu-dreg\"."
+        "Zhu Rongji deadpan-humor var på full utstilling på en felles pressekonferanse med tidligere amerikanske president Bill Clinton i 1999. Zhu, i mellomtiden, stemplet en gang useriøse bankfolk som \"halvvette\" og beskrev flomdykene langs Yangtze-elven som \"snåle og porøse som tofu-dreg\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -85,28 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
       "localImage": "assets/news/6ce384807c02b8.jpg",
-      "score": 19
-    },
-    {
-      "id": "be34f67c884c65",
-      "category": "AI",
-      "published": "19.08. 00:11",
-      "publishedISO": "2026-08-19T00:11:07+02:00",
-      "title": "Meta hooked children on Facebook and Instagram, court hears",
-      "summary": "En domstol har hørt påstander om at Meta med vilje har hektet en generasjon barn på Facebook og Instagram, da den største juridiske utfordringen den sosiale medieplattformen har møtt begynte på tirsdag. Ikke bare er statene som søker milliarder av dollar fra Meta, de krever at den gjør endringer på Instagram og Facebook, inkludert slutt på «liker»-tellinger og uendelig rulling. Hun sa at gjennom hele rettssaken ville det bli klart at det Meta sa offentlig om plattformene sine, og det dens interne forskning viste, var veldig forskjellige. \"Meta sa at det satte sikkerhet over fortjeneste, men skjulte realiteten at gang på gang, når det kom til å ta en beslutning, vant fortjeneste.\" Amerikanske stater krever store endringer på Instagram og Facebook når rettssaken om personvern i Meta begynner",
-      "keyPoints": [
-        "En domstol har hørt påstander om at Meta med vilje har hektet en generasjon barn på Facebook og Instagram, da den største juridiske utfordringen den sosiale medieplattformen har møtt begynte på tirsdag.",
-        "Hun sa at gjennom hele rettssaken ville det bli klart at det Meta sa offentlig om plattformene sine, og det dens interne forskning viste, var veldig forskjellige. \"Meta sa at det satte sikkerhet over fortjeneste, men skjulte realiteten at gang på gang, når det kom til å ta en beslutning, vant fortjeneste.\" Amerikanske stater krever store endringer på Instagram og Facebook når rettssaken om personvern i Meta begynner",
-        "Ikke bare er statene som søker milliarder av dollar fra Meta, de krever at den gjør endringer på Instagram og Facebook, inkludert slutt på «liker»-tellinger og uendelig rulling.",
-        "Til tross for Metas bevissthet om potensielt negative konsekvenser, hevdet O'Neill at Meta målrettet unge mennesker som brukere av Facebook og Instagram og gikk ut av sin måte å \"forsikre publikum om at plattformene deres var trygge for barn\"."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg",
-      "localImage": "assets/news/be34f67c884c65.jpg",
-      "score": 17
+      "score": 18
     },
     {
       "id": "d486aac26e5cac",
@@ -127,7 +106,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
       "localImage": "assets/news/d486aac26e5cac.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "f13a92b7db3e95",
+      "category": "Økonomi",
+      "published": "19.08. 04:45",
+      "publishedISO": "2026-08-19T04:45:00+02:00",
+      "title": "Vil ikke røre Norgespris",
+      "summary": "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne. I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027. Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
+      "keyPoints": [
+        "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne.",
+        "Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
+        "I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027.",
+        "Under partilederdebatten på Arendalsuka ville statsminister Jonas Gahr Støre (Ap) ikke si om Norgespris fortsatt skal være på 40 øre (50 øre med moms) etter nyttår. – Vi har ikke garantert det beløpet, sa Støre."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/V6a8ad/vil-ikke-roere-norgespris",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5fc5ee78-c88d-37e8-995c-c558ae556c96?fit=crop&h=675&upscale=true&w=1200&s=7fffc0232c333923e88feb8075129161e74da0dc",
+      "localImage": "assets/news/f13a92b7db3e95.jpg",
+      "score": 17
     },
     {
       "id": "a06943b911df56",
@@ -148,28 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/560a66d7-6d68-3343-9a7d-c52a7a3a0f1c?fit=crop&h=675&upscale=true&w=1200&s=98a079b053547397e39efb535a961077fc7cf9a6",
       "localImage": "assets/news/a06943b911df56.jpg",
-      "score": 18
-    },
-    {
-      "id": "48b4a6aea6a30b",
-      "category": "Norge",
-      "published": "17.08. 20:16",
-      "publishedISO": "2026-08-17T20:16:02+02:00",
-      "title": "Trump sier USA ikke ønsker forlengelse av våpenhvile med Iran",
-      "summary": "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters. Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-      "keyPoints": [
-        "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters.",
-        "Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
-        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
-        "Selv om våpenhvilen trådte i kraft i juni, har både USA og Iran gjennomført flere angrep i perioden."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/trump-sier-usa-ikke-onsker-forlengelse-av-vapenhvile-med-iran-1.17992713",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/48b4a6aea6a30b.jpg",
-      "score": 15
+      "score": 17
     },
     {
       "id": "a638aa282bc25f",
@@ -193,25 +172,46 @@
       "score": 15
     },
     {
-      "id": "03c1eced8949e1",
-      "category": "Økonomi",
-      "published": "18.08. 06:31",
-      "publishedISO": "2026-08-18T06:31:54+02:00",
-      "title": "Mowi betaler 1,2 milliarder i utbytte",
-      "summary": "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal. Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt. Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
+      "id": "48b4a6aea6a30b",
+      "category": "Norge",
+      "published": "17.08. 20:16",
+      "publishedISO": "2026-08-17T20:16:02+02:00",
+      "title": "Trump sier USA ikke ønsker forlengelse av våpenhvile med Iran",
+      "summary": "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters. Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten. Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
       "keyPoints": [
-        "Inntektene til Mowi nådde 1,6 milliarder euro, som ifølge selskapet er rekordhøyt.",
-        "Mowi hadde på forhånd varslet om et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.på 231 millioner euro i andre kvartal.",
-        "Det tilsvarer en kostnadsreduksjon på 25,9 millioner euro, skriver Mowi. – Oppdrettsvirksomheten fortsetter å levere svært godt, med sterke biologiske og operasjonelle resultater.",
-        "Styret har besluttet et utbytte på 2,3 kroner per aksje for kvartalet."
+        "President Donald Trump sier USA ikke ønsker å forlenge våpenhvilen med Iran, skriver Reuters.",
+        "Natt til onsdag 8. april ble det inngått en foreløpig våpenhvile mellom USA, Israel og Iran.",
+        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
+        "Selv om våpenhvilen trådte i kraft i juni, har både USA og Iran gjennomført flere angrep i perioden."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/gkreeL/mowi-betaler-1-2-milliarder-kroner-i-utbytte-etter-rekordslakt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/19de68a3-a766-35ae-b059-bf01e243eef8?fit=crop&h=675&upscale=true&w=1200&s=2cb3bcd13d5455d69803ccf6b4f4fe0ddc011b9b",
-      "localImage": "assets/news/03c1eced8949e1.jpg",
+      "url": "https://www.nrk.no/nyheter/trump-sier-usa-ikke-onsker-forlengelse-av-vapenhvile-med-iran-1.17992713",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/48b4a6aea6a30b.jpg",
       "score": 14
+    },
+    {
+      "id": "571cd09badb911",
+      "category": "Verden",
+      "published": "19.08. 00:25",
+      "publishedISO": "2026-08-19T00:25:46+02:00",
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "summary": "Mangeårig ZZ Top-trommeslager Frank Beard er død i en alder av 77, sa bandet. ZZ toppvokalist Billy Gibbons, bassist Dusty Hill og trommeslager Frank Beard i 2009. Medlemmer av gruppen har inkludert grunnlegger og hovedvokalist Billy Gibbons og avdøde Dusty Hill. Da Hill døde i 2021, fortsatte gruppen å opptre med Elwood Francis som bassist. \"I dag mistet Elwood og jeg en god venn og samarbeidspartner, og verden mistet en av de mest naturlig innovative trommeslagerne og en stor og ekte sønn av Texas,\" sa Gibbons. «Hans signatur-backbeat var nøkkelen til å holde ZZ på topp.",
+      "keyPoints": [
+        "Mangeårig ZZ Top-trommeslager Frank Beard er død i en alder av 77, sa bandet.",
+        "ZZ toppvokalist Billy Gibbons, bassist Dusty Hill og trommeslager Frank Beard i 2009. Medlemmer av gruppen har inkludert grunnlegger og hovedvokalist Billy Gibbons og avdøde Dusty Hill.",
+        "Da Hill døde i 2021, fortsatte gruppen å opptre med Elwood Francis som bassist. \"I dag mistet Elwood og jeg en god venn og samarbeidspartner, og verden mistet en av de mest naturlig innovative trommeslagerne og en stor og ekte sønn av Texas,\" sa Gibbons. «Hans signatur-backbeat var nøkkelen til å holde ZZ på topp.",
+        "Beard ble med i gruppen etter at ZZ Top ga ut sin første singel Salt Lick og senere hentet Hill som bassist, ifølge Rolling Stone, ekstern."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg",
+      "localImage": "assets/news/571cd09badb911.jpg",
+      "score": 13
     }
   ]
 }
