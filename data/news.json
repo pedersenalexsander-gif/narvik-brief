@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.08.2026 kl. 19:03",
-  "updatedISO": "2026-08-19T19:03:21.010804+02:00",
+  "updatedAt": "19.08.2026 kl. 19:59",
+  "updatedISO": "2026-08-19T19:59:20.274409+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -48,15 +48,15 @@
     {
       "id": "396c840abfd5a2",
       "category": "Verden",
-      "published": "19.08. 13:00",
-      "publishedISO": "2026-08-19T13:00:21+02:00",
+      "published": "19.08. 19:23",
+      "publishedISO": "2026-08-19T19:23:42+02:00",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Fedorov, som ikke nevnte Zelensky ved navn i videoen, ble uventet sparket fra rollen som forsvarsminister forrige måned, bare seks måneder etter utnevnelsen. Rundt 100 demonstranter samlet seg utenfor det ukrainske parlamentet onsdag morgen, og ropte «bring Fedorov tilbake som forsvarsminister» og «vi er lei, vi vil ha dialog». Hans oppfordring til valg har gjort noen ukrainske kommentatorer sinte, inkludert de som støttet Fedorovs retur som forsvarsminister.",
+      "summary": "Fedorov, som ikke nevnte Zelensky ved navn i videoen, ble uventet sparket fra rollen som forsvarsminister forrige måned, bare seks måneder etter utnevnelsen. Zelensky prøver å fikse krisen rundt avsettingen av forsvarsministeren og teller kostnadene. Sjåførene risikerer døden på Ukrainas farligste bussruter Zelensky har ennå ikke svart på videoen fra Fedorov, hvis avskjedigelse utløste protester over hele landet. Rundt 100 demonstranter samlet seg utenfor det ukrainske parlamentet onsdag morgen, og ropte «bring Fedorov tilbake som forsvarsminister» og «vi er lei, vi vil ha dialog».",
       "keyPoints": [
         "Rundt 100 demonstranter samlet seg utenfor det ukrainske parlamentet onsdag morgen, og ropte «bring Fedorov tilbake som forsvarsminister» og «vi er lei, vi vil ha dialog».",
-        "Hans oppfordring til valg har gjort noen ukrainske kommentatorer sinte, inkludert de som støttet Fedorovs retur som forsvarsminister.",
+        "Zelensky prøver å fikse krisen rundt avsettingen av forsvarsministeren og teller kostnadene. Sjåførene risikerer døden på Ukrainas farligste bussruter Zelensky har ennå ikke svart på videoen fra Fedorov, hvis avskjedigelse utløste protester over hele landet.",
         "Fedorov, som ikke nevnte Zelensky ved navn i videoen, ble uventet sparket fra rollen som forsvarsminister forrige måned, bare seks måneder etter utnevnelsen.",
-        "Fedorov er en karismatisk politiker, og i løpet av sin periode som forsvarsminister ble han kreditert for å gi energi til departementet, ledet en kamp mot korrupsjon, utfordret utdaterte militære strukturer og transformert slagmarken med ny teknologi."
+        "Hans oppfordring til valg har gjort noen ukrainske kommentatorer sinte, inkludert de som støttet Fedorovs retur som forsvarsminister."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/396c840abfd5a2.jpg",
-      "score": 16
+      "score": 17
     },
     {
       "id": "416a78013408d3",
@@ -169,28 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/FGcZ1wqvLatnIiPNtEFv0Akn4EJP5H85-b49KP8ZB1jA.jpg",
       "localImage": "assets/news/d17e47a1c0f2cc.jpg",
-      "score": 17
-    },
-    {
-      "id": "f13a92b7db3e95",
-      "category": "Økonomi",
-      "published": "19.08. 04:45",
-      "publishedISO": "2026-08-19T04:45:00+02:00",
-      "title": "Vil ikke røre Norgespris",
-      "summary": "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne. I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027. Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
-      "keyPoints": [
-        "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne.",
-        "Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
-        "I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027.",
-        "Under partilederdebatten på Arendalsuka ville statsminister Jonas Gahr Støre (Ap) ikke si om Norgespris fortsatt skal være på 40 øre (50 øre med moms) etter nyttår. – Vi har ikke garantert det beløpet, sa Støre."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/V6a8ad/vil-ikke-roere-norgespris",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5fc5ee78-c88d-37e8-995c-c558ae556c96?fit=crop&h=675&upscale=true&w=1200&s=7fffc0232c333923e88feb8075129161e74da0dc",
-      "localImage": "assets/news/f13a92b7db3e95.jpg",
-      "score": 15
+      "score": 16
     },
     {
       "id": "6ce384807c02b8",
@@ -212,6 +191,27 @@
       "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
       "localImage": "assets/news/6ce384807c02b8.jpg",
       "score": 15
+    },
+    {
+      "id": "f13a92b7db3e95",
+      "category": "Økonomi",
+      "published": "19.08. 04:45",
+      "publishedISO": "2026-08-19T04:45:00+02:00",
+      "title": "Vil ikke røre Norgespris",
+      "summary": "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne. I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027. Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
+      "keyPoints": [
+        "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne.",
+        "Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
+        "I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027.",
+        "Under partilederdebatten på Arendalsuka ville statsminister Jonas Gahr Støre (Ap) ikke si om Norgespris fortsatt skal være på 40 øre (50 øre med moms) etter nyttår. – Vi har ikke garantert det beløpet, sa Støre."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/V6a8ad/vil-ikke-roere-norgespris",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5fc5ee78-c88d-37e8-995c-c558ae556c96?fit=crop&h=675&upscale=true&w=1200&s=7fffc0232c333923e88feb8075129161e74da0dc",
+      "localImage": "assets/news/f13a92b7db3e95.jpg",
+      "score": 14
     }
   ]
 }
