@@ -1,8 +1,29 @@
 {
-  "updatedAt": "19.08.2026 kl. 16:10",
-  "updatedISO": "2026-08-19T16:10:12.223544+02:00",
+  "updatedAt": "19.08.2026 kl. 17:53",
+  "updatedISO": "2026-08-19T17:53:24.036889+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "7e3958fb49016e",
+      "category": "Nord-Norge",
+      "published": "19.08. 15:32",
+      "publishedISO": "2026-08-19T15:32:48+02:00",
+      "title": "Ferdig med undersøkelser av traktor etter dødsulykke",
+      "summary": "Politiet etterforsker fortsatt traktorulykken i Hemnes kommune 18. juli der en mann i 30-årene omkom. I tillegg har politiet avhørt vitner og gått gjennom digitale beslag, opplyser politiadvokat Anna Fonnaas-Westermann til NRK. – Det gjenstår fortsatt en god del etterforskningsskritt, men politiet tar sikte på holde intensiteten i etterforskning høy slik at etterforskningen ikke tar lengre tid enn nødvendig. De involverte beskrives som samarbeidsvillige. – Tre personer har fortsatt status som siktet, men dette kan endre seg etter hvert som etterforskningen utvikler seg, uttaler Fonnaas-Westermann.",
+      "keyPoints": [
+        "I tillegg har politiet avhørt vitner og gått gjennom digitale beslag, opplyser politiadvokat Anna Fonnaas-Westermann til NRK. – Det gjenstår fortsatt en god del etterforskningsskritt, men politiet tar sikte på holde intensiteten i etterforskning høy slik at etterforskningen ikke tar lengre tid enn nødvendig.",
+        "Politiet etterforsker fortsatt traktorulykken i Hemnes kommune 18. juli der en mann i 30-årene omkom.",
+        "De involverte beskrives som samarbeidsvillige. – Tre personer har fortsatt status som siktet, men dette kan endre seg etter hvert som etterforskningen utvikler seg, uttaler Fonnaas-Westermann.",
+        "Av hensyn til den pågående etterforskningen ønsker ikke politiet å gå nærere inn på hva som har kommet fram i avhør."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/-ferdig-med-undersokelser-av-traktor-etter-dodsulykke-1.17994966",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/OkOtdO5qtWpC_47rqKq6NwCedjvlaV5XIYX9NeZ0_z1w.jpg",
+      "localImage": "assets/news/7e3958fb49016e.jpg",
+      "score": 13
+    },
     {
       "id": "a46affc9802896",
       "category": "Norge",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/50a6a025-0f4b-3718-9457-f5fedb04150a?fit=crop&h=675&upscale=true&w=1200&s=c3d1c6ec7d2a8ef3b3d269847f12cea40b22a6bf",
       "localImage": "assets/news/416a78013408d3.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "5519784ed38891",
@@ -85,7 +106,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c4407259-4374-3b77-98df-b1a89bb1149e?fit=crop&h=675&upscale=true&w=1200&s=defca99b3f045bb8a4021048949fd0ed08f94b80",
       "localImage": "assets/news/5519784ed38891.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "634863f8d322a3",
+      "category": "AI",
+      "published": "19.08. 16:13",
+      "publishedISO": "2026-08-19T16:13:33+02:00",
+      "title": "Monzo down as users unable to make card payments or transfers",
+      "summary": "Monzo-brukere har blitt ute av stand til å bruke kortet sitt til betalinger eller overføringer etter et teknisk problem med banktjenesten. Den digitale banken postet på X, ekstern den hadde \"identifisert noen problemer\" og aktivert en stand-in backup-tjeneste som betydde at brukere fortsatt kunne foreta transaksjoner som kortbetalinger og sende og motta bankoverføringer. Mens selskapet jobber med saken, bemerket det at brukere vil kunne bruke den uavhengige tjenesten Monzo Stand-in for å fortsatt \"foreta kortbetalinger, ta ut kontanter, fryse kortet ditt, sende og motta bankoverføringer og mer\".",
+      "keyPoints": [
+        "Mens selskapet jobber med saken, bemerket det at brukere vil kunne bruke den uavhengige tjenesten Monzo Stand-in for å fortsatt \"foreta kortbetalinger, ta ut kontanter, fryse kortet ditt, sende og motta bankoverføringer og mer\".",
+        "Monzo-brukere har blitt ute av stand til å bruke kortet sitt til betalinger eller overføringer etter et teknisk problem med banktjenesten.",
+        "Den digitale banken postet på X, ekstern den hadde \"identifisert noen problemer\" og aktivert en stand-in backup-tjeneste som betydde at brukere fortsatt kunne foreta transaksjoner som kortbetalinger og sende og motta bankoverføringer.",
+        "Noen brukere bemerket imidlertid under innlegget, eksternt at Monzo Stand-in \"ikke fungerte som forventet\" og at de fortsatt ikke kunne bruke kortet sitt."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d7/live/94b09ad0-9bd4-11f1-bb4d-1147ef2e78e5.jpg",
+      "localImage": "assets/news/634863f8d322a3.jpg",
+      "score": 17
+    },
+    {
+      "id": "f19de92815f938",
+      "category": "Norge",
+      "published": "19.08. 15:23",
+      "publishedISO": "2026-08-19T15:23:03+02:00",
+      "title": "Nye bevis i dagmamma-saken skal presenteres",
+      "summary": "Grunnen til at saken behandles på nytt, er at det har kommet nye vurderinger fra medisinske eksperter på skadene som jenta fikk. De nye opplysningene fra medisinske sakkyndige, kan ifølge forsvareren bidra til å tegne et nytt bilde av hendelsesforløpet. Ifølge kommisjonen, skaper de nye opplysningene tvil om Martine ble skadet etter at hun ble levert til dagmammaen, og at de nye bevisene kunne ha ført til frifinnelse hvis retten visste det da saken ble behandlet i Borgarting.",
+      "keyPoints": [
+        "Ifølge kommisjonen, skaper de nye opplysningene tvil om Martine ble skadet etter at hun ble levert til dagmammaen, og at de nye bevisene kunne ha ført til frifinnelse hvis retten visste det da saken ble behandlet i Borgarting.",
+        "Grunnen til at saken behandles på nytt, er at det har kommet nye vurderinger fra medisinske eksperter på skadene som jenta fikk.",
+        "De nye opplysningene fra medisinske sakkyndige, kan ifølge forsvareren bidra til å tegne et nytt bilde av hendelsesforløpet.",
+        "Dagmammaen som er tiltalt for drapet på ettåringen Martine i 2006, kan være utsatt for et justismord."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/buskerud/nye-bevis-i-dagmamma-saken-skal-presenteres-1.17994260",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/zPKPW6UdL7ShPQkdaTLyMAtjCKy4_5KLaJolGqgmIscg.jpg",
+      "localImage": "assets/news/f19de92815f938.jpg",
+      "score": 17
     },
     {
       "id": "d17e47a1c0f2cc",
@@ -109,48 +172,6 @@
       "score": 17
     },
     {
-      "id": "6ce384807c02b8",
-      "category": "Økonomi",
-      "published": "18.08. 11:49",
-      "publishedISO": "2026-08-18T11:49:12+02:00",
-      "title": "Mistet ansatte i krig: – Begynner å stille spørsmål",
-      "summary": "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt. Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig? Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
-      "keyPoints": [
-        "Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig?",
-        "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt.",
-        "Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
-        "Han understreker viktigheten av å være beredt som sivilsamfunn. – Altså: Hvordan være forberedt, slik Ukraina har høstet smertefulle erfaringer fra å ikke være, sier Andresen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/vrV1q4/mistet-ansatte-i-krig-begynner-aa-stille-spoersmaal",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
-      "localImage": "assets/news/6ce384807c02b8.jpg",
-      "score": 16
-    },
-    {
-      "id": "af530296d6ea66",
-      "category": "Norge",
-      "published": "19.08. 05:30",
-      "publishedISO": "2026-08-19T05:30:33+02:00",
-      "title": "Fryktar prissjokk: No vil Vedum kutte utanlandskabel",
-      "summary": "Trygve Slagsvold Vedum og Senterpartiet vil kutte i eksporten av straum til Danmark. Dersom dei blir fornya blir det endå lettare å eksportere straum, og det vil gje dyrare straumprisar, seier Trygve Slagsvold Vedum. Vedum fryktar at nye kablar vil føre til at vi gjev frå oss for mykje straum. – Utvekslingskapasiteten til kontinentet er allereie enorm.",
-      "keyPoints": [
-        "Trygve Slagsvold Vedum og Senterpartiet vil kutte i eksporten av straum til Danmark.",
-        "Vedum fryktar at nye kablar vil føre til at vi gjev frå oss for mykje straum. – Utvekslingskapasiteten til kontinentet er allereie enorm.",
-        "Dersom dei blir fornya blir det endå lettare å eksportere straum, og det vil gje dyrare straumprisar, seier Trygve Slagsvold Vedum.",
-        "Dei to kablane blei lagt på 70-talet og levetida er snart over."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/fryktar-prissjokk_-no-vil-vedum-kutte-utanlandskabel-1.17989804",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/lH9y046CsMpO7TBrreFXPAPOusPymiDjFIhvPftbczpA.jpg",
-      "localImage": "assets/news/af530296d6ea66.jpg",
-      "score": 15
-    },
-    {
       "id": "f13a92b7db3e95",
       "category": "Økonomi",
       "published": "19.08. 04:45",
@@ -172,46 +193,25 @@
       "score": 15
     },
     {
-      "id": "a06943b911df56",
+      "id": "6ce384807c02b8",
       "category": "Økonomi",
-      "published": "18.08. 08:02",
-      "publishedISO": "2026-08-18T08:02:55+02:00",
-      "title": "Folketrygdfondet tjente 31 milliarder kroner",
-      "summary": "Folketrygdfondet investerer mest på Oslo Børs, der investeringene utgjør rundt 11 prosent av Hovedindeksen. Fondet driver også med investeringer fra Tromsø, der startkapital på 15 milliarder kroner har blitt investert. I første halvår var avkastningen på minus 5,4 prosent, tilsvarende en nedgang på 0,8 milliarder kroner.",
+      "published": "18.08. 11:49",
+      "publishedISO": "2026-08-18T11:49:12+02:00",
+      "title": "Mistet ansatte i krig: – Begynner å stille spørsmål",
+      "summary": "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt. Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig? Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
       "keyPoints": [
-        "I første halvår var avkastningen på minus 5,4 prosent, tilsvarende en nedgang på 0,8 milliarder kroner.",
-        "Fondet driver også med investeringer fra Tromsø, der startkapital på 15 milliarder kroner har blitt investert.",
-        "Folketrygdfondet investerer mest på Oslo Børs, der investeringene utgjør rundt 11 prosent av Hovedindeksen.",
-        "Statens pensjonsfond Norge, som er forvaltet av Folketrygdfondet, legger frem resultater for første halvår."
+        "Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig?",
+        "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt.",
+        "Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
+        "Han understreker viktigheten av å være beredt som sivilsamfunn. – Altså: Hvordan være forberedt, slik Ukraina har høstet smertefulle erfaringer fra å ikke være, sier Andresen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/PdaBqp/folketrygdfondet-tjente-31-milliarder-kroner-i-foerste-halvaar",
+      "url": "https://e24.no/naeringsliv/i/vrV1q4/mistet-ansatte-i-krig-begynner-aa-stille-spoersmaal",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/560a66d7-6d68-3343-9a7d-c52a7a3a0f1c?fit=crop&h=675&upscale=true&w=1200&s=98a079b053547397e39efb535a961077fc7cf9a6",
-      "localImage": "assets/news/a06943b911df56.jpg",
+      "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
+      "localImage": "assets/news/6ce384807c02b8.jpg",
       "score": 15
-    },
-    {
-      "id": "97c8ad071e7280",
-      "category": "Verden",
-      "published": "18.08. 23:45",
-      "publishedISO": "2026-08-18T23:45:17+02:00",
-      "title": "Hvorfor har Russland truet Storbritannia og hva skjer videre?",
-      "summary": "Hvorfor har Russland truet Storbritannia og hva skjer videre? Video, 00:01:05Hvorfor har Russland truet Storbritannia og hva skjer videre? Video, 00:01:45Se: Hvorfor har Trump snudd på Nord-Korea? \"Jeg vil ha min bror tilbake\" - Tupacs bror sier til BBC-drapssaken vil ikke bringe rettferdighet.",
-      "keyPoints": [
-        "Hvorfor har Russland truet Storbritannia og hva skjer videre?",
-        "Video, 00:01:45Watch: Why has Trump shifted on North Korea? 'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice.",
-        "Video, 00:01:54Se: Hva vi lærte av åpningsuttalelser i Tupac-drapsrettssaken Se: Hvorfor har Trump gått over til Nord-Korea?",
-        "Russland har advart om «konsekvenser» etter bekreftelse på at britiskproduserte droner ble brukt i de siste ukrainske angrepene i Russland."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27ac/live/08b5c2c0-9b4e-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/97c8ad071e7280.jpg",
-      "score": 14
     }
   ]
 }
