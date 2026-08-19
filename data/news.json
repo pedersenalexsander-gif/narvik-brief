@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.08.2026 kl. 13:06",
-  "updatedISO": "2026-08-19T13:06:13.308561+02:00",
+  "updatedAt": "19.08.2026 kl. 14:01",
+  "updatedISO": "2026-08-19T14:01:52.947940+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,25 +46,25 @@
       "score": 17
     },
     {
-      "id": "2cf5122e3c5d1a",
+      "id": "c633c058956433",
       "category": "USA",
-      "published": "19.08. 03:13",
-      "publishedISO": "2026-08-19T03:13:40+02:00",
-      "title": "Byron Donalds and David Jolly projected to win Florida primary to replace Governor Ron DeSantis",
-      "summary": "Republikaneren Byron Donalds og demokraten David Jolly forventes å vinne Floridas gubernatorial-primærvalg, ifølge amerikanske medier, som setter opp et opphetet løp i november. Stemmer telles fortsatt i kampen om å erstatte Florida-guvernør Ron DeSantis, hvis periode er ute. Flere amerikanske medier anslo at republikaneren Byron Donalds og demokraten David Jolly skulle vinne sine respektive partiprimærvalg, noe som betyr at de vil møte i stortingsvalget i november.",
+      "published": "19.08. 13:22",
+      "publishedISO": "2026-08-19T13:22:09+02:00",
+      "title": "Spared execution eight times, US's oldest inmate dies at 101",
+      "summary": "Francis Clifford Smith fikk sitt siste måltid åtte ganger. Men etter å ha blitt spart for henrettelse hver gang, ble han ansett som den lengstsittende fangen i USA før han døde 101 år gammel. Dr. Stephanie Prost, en forsker i eldre voksne og fengselsmiljøer ved University of Louisville i Kentucky, fortalte BBC at de fleste fengsler har en innsatt som Smith. \"Vi er ikke den eneste jurisdiksjonen som står overfor den aldringsrelaterte krisen, fordi lignende problemer vedvarer i Australia og England,\" sa hun. «Det er et internasjonalt spørsmål når det gjelder befolkningen.",
       "keyPoints": [
-        "Republican Byron Donalds and Democrat David Jolly are projected to win Florida's gubernatorial primaries, according to US media, setting up a heated race in November.",
-        "Flere amerikanske medier anslo at republikaneren Byron Donalds og demokraten David Jolly skulle vinne sine respektive partiprimærvalg, noe som betyr at de vil møte i stortingsvalget i november.",
-        "Votes are still being counted in the race to replace Florida Governor Ron DeSantis, whose term is up.",
-        "Jolly, en tidligere republikansk kongressmedlem som forlot partiet og ble kritiker av Trump, møtte en rekke kandidater for å score den forventede seieren i partiets primærvalg."
+        "Men etter å ha blitt spart for henrettelse hver gang, ble han ansett som den lengstsittende fangen i USA før han døde 101 år gammel.",
+        "Francis Clifford Smith was given his last meal eight times.",
+        "Dr. Stephanie Prost, en forsker i eldre voksne og fengselsmiljøer ved University of Louisville i Kentucky, fortalte BBC at de fleste fengsler har en innsatt som Smith. \"Vi er ikke den eneste jurisdiksjonen som står overfor den aldringsrelaterte krisen, fordi lignende problemer vedvarer i Australia og England,\" sa hun. «Det er et internasjonalt spørsmål når det gjelder befolkningen.",
+        "Skylden hans og bevisene han ble dømt for har blitt avhørt opp gjennom årene – nemlig etter at vitner trakk tilbake sine uttalelser og en annen innsatt senere tilsto drapet."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwgym9xl9o",
+      "url": "https://www.bbc.co.uk/news/articles/c98vr7ql2vdo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba69/live/92cacfd0-9b50-11f1-83d8-cfa02e83b41a.jpg",
-      "localImage": "assets/news/2cf5122e3c5d1a.jpg",
-      "score": 16
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b412/live/6bcce520-9b38-11f1-adfc-97cecc6f1ad1.jpg",
+      "localImage": "assets/news/c633c058956433.jpg",
+      "score": 13
     },
     {
       "id": "416a78013408d3",
@@ -107,27 +107,6 @@
       "image": "https://akamai.vgc.no/v2/images/c4407259-4374-3b77-98df-b1a89bb1149e?fit=crop&h=675&upscale=true&w=1200&s=defca99b3f045bb8a4021048949fd0ed08f94b80",
       "localImage": "assets/news/5519784ed38891.jpg",
       "score": 16
-    },
-    {
-      "id": "d486aac26e5cac",
-      "category": "AI",
-      "published": "18.08. 11:26",
-      "publishedISO": "2026-08-18T11:26:41+02:00",
-      "title": "AI to help planes avoid climate-warming contrails above North Atlantic",
-      "summary": "Kontrer dannes når eksosgasser fra fly blir til iskrystaller. Vi har alle sett opp og sett de hvite linjene som følger etter fly på himmelen. Nå vil en britisk prøveperiode på 5 millioner pund teste om kunstig intelligens kan hjelpe, ved å forutsi hvor oppvarmingskontrailer sannsynligvis vil dannes og få fly til å unngå disse områdene. Den vil fokusere på Shanwick Oceanic-luftrommet i den østlige halvdelen av den nordatlantiske korridoren, som står for omtrent 5 % av den globale oppvarmingen av kontrailer.",
-      "keyPoints": [
-        "Nå vil en britisk prøveperiode på 5 millioner pund teste om kunstig intelligens kan hjelpe, ved å forutsi hvor oppvarmingskontrailer sannsynligvis vil dannes og få fly til å unngå disse områdene.",
-        "Den vil fokusere på Shanwick Oceanic-luftrommet i den østlige halvdelen av den nordatlantiske korridoren, som står for omtrent 5 % av den globale oppvarmingen av kontrailer.",
-        "Kontrer dannes når eksosgasser fra fly blir til iskrystaller. Vi har alle sett opp og sett de hvite linjene som følger etter fly på himmelen.",
-        "Contrails - eller kondenseringsstier - er et vanlig innslag i himmelen vår. Ideen bak forsøket er at hvis forskere kan forutsi områdene i atmosfæren der det er sannsynlig at det vil dannes kontringslinjer, kan fly unngå dem."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
-      "localImage": "assets/news/d486aac26e5cac.jpg",
-      "score": 12
     },
     {
       "id": "f13a92b7db3e95",
@@ -212,6 +191,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27ac/live/08b5c2c0-9b4e-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/97c8ad071e7280.jpg",
       "score": 15
+    },
+    {
+      "id": "6c1a2c55736056",
+      "category": "Norge",
+      "published": "19.08. 13:41",
+      "publishedISO": "2026-08-19T13:41:52+02:00",
+      "title": "Rømningsdør var skrudd igjen med treskruer: DNT innrømmer rutinevikt",
+      "summary": "7. august fikk DNT varsel om at hytta igjen kan bli stengt, denne gangen hele hytta. I et varsel om ny kontroll i år, opplyste brannvesenet at de blant annet ville følge opp at funnene fra to år siden var i orden. – Rømningsdør ut fra andre etasje til fransk balkong med rømningsstige er blokkert ved at dør er skrudd igjen med seks kraftige treskruer, skrev brannvesenet og viste til tilsynet i 2024. I dokument Varsel om etterkontroll, datert 26.06.2026, fremgår det at rømningsdør fra gjesteromsfløy andre etasje sørvest var skrudd igjen med seks kraftige treskruer.",
+      "keyPoints": [
+        "I et varsel om ny kontroll i år, opplyste brannvesenet at de blant annet ville følge opp at funnene fra to år siden var i orden. – Rømningsdør ut fra andre etasje til fransk balkong med rømningsstige er blokkert ved at dør er skrudd igjen med seks kraftige treskruer, skrev brannvesenet og viste til tilsynet i 2024.",
+        "I dokument Varsel om etterkontroll, datert 26.06.2026, fremgår det at rømningsdør fra gjesteromsfløy andre etasje sørvest var skrudd igjen med seks kraftige treskruer.",
+        "7. august fikk DNT varsel om at hytta igjen kan bli stengt, denne gangen hele hytta.",
+        "DNT opplyser at enkelte dører og vinduer rutinemessig blir skrudd igjen om vinteren for å beskytte mot vær og fukt mens hytta er ubebodd."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/romningsdor-pa-dnt-snoheim-var-skrudd-igjen-med-treskruer_-dnt-innrommer-rutinesvikt-1.17984560",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/cWlGMimA_-RlyQ5iif0p6AG3XTbM51slI4Ch2BStaQ2A.jpg",
+      "localImage": "assets/news/6c1a2c55736056.jpg",
+      "score": 13
     }
   ]
 }
