@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.08.2026 kl. 09:26",
-  "updatedISO": "2026-08-19T09:26:42.838186+02:00",
+  "updatedAt": "19.08.2026 kl. 11:09",
+  "updatedISO": "2026-08-19T11:09:21.032014+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/lH9y046CsMpO7TBrreFXPAPOusPymiDjFIhvPftbczpA.jpg",
       "localImage": "assets/news/af530296d6ea66.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "571cd09badb911",
+      "id": "396c840abfd5a2",
       "category": "Verden",
-      "published": "19.08. 00:25",
-      "publishedISO": "2026-08-19T00:25:46+02:00",
-      "title": "ZZ Top drummer Frank Beard dies aged 77",
-      "summary": "Mangeårig ZZ Top-trommeslager Frank Beard er død i en alder av 77, sa bandet. ZZ toppvokalist Billy Gibbons, bassist Dusty Hill og trommeslager Frank Beard i 2009. Medlemmer av gruppen har inkludert grunnlegger og hovedvokalist Billy Gibbons og avdøde Dusty Hill. Da Hill døde i 2021, fortsatte gruppen å opptre med Elwood Francis som bassist. \"I dag mistet Elwood og jeg en god venn og samarbeidspartner, og verden mistet en av de mest naturlig innovative trommeslagerne og en stor og ekte sønn av Texas,\" sa Gibbons. «Hans karakteristiske backbeat var nøkkelen til å holde ZZ på topp.",
+      "published": "19.08. 11:02",
+      "publishedISO": "2026-08-19T11:02:08+02:00",
+      "title": "Sacked Ukrainian defence minister calls for presidential election",
+      "summary": "Fedorov, som ikke nevnte Zelensky ved navn i videoen, ble uventet sparket fra rollen som forsvarsminister forrige måned, bare seks måneder etter utnevnelsen. Omtrent 100 demonstranter samlet seg utenfor det ukrainske parlamentet onsdag morgen, og sang «bring Federov tilbake som forsvarsminister» og «vi er lei, vi vil ha dialog». Hans oppfordring til valg har gjort noen ukrainske kommentatorer sinte, inkludert de som støttet Fedorovs retur som forsvarsminister.",
       "keyPoints": [
-        "Mangeårig ZZ Top-trommeslager Frank Beard er død i en alder av 77, sa bandet.",
-        "ZZ toppvokalist Billy Gibbons, bassist Dusty Hill og trommeslager Frank Beard i 2009. Medlemmer av gruppen har inkludert grunnlegger og hovedvokalist Billy Gibbons og avdøde Dusty Hill.",
-        "Da Hill døde i 2021, fortsatte gruppen å opptre med Elwood Francis som bassist. \"I dag mistet Elwood og jeg en god venn og samarbeidspartner, og verden mistet en av de mest naturlig innovative trommeslagerne og en stor og ekte sønn av Texas,\" sa Gibbons. «Hans karakteristiske backbeat var nøkkelen til å holde ZZ på topp.",
-        "Beard ble med i gruppen etter at ZZ Top ga ut sin første singel Salt Lick og senere hentet Hill som bassist, ifølge Rolling Stone, ekstern."
+        "Omtrent 100 demonstranter samlet seg utenfor det ukrainske parlamentet onsdag morgen, og sang «bring Federov tilbake som forsvarsminister» og «vi er lei, vi vil ha dialog».",
+        "Hans oppfordring til valg har gjort noen ukrainske kommentatorer sinte, inkludert de som støttet Fedorovs retur som forsvarsminister.",
+        "Fedorov, som ikke nevnte Zelensky ved navn i videoen, ble uventet sparket fra rollen som forsvarsminister forrige måned, bare seks måneder etter utnevnelsen.",
+        "Fedorov er en karismatisk politiker, og i løpet av sin periode som forsvarsminister ble han kreditert for å gi energi til departementet, ledet en kamp mot korrupsjon, utfordret utdaterte militære strukturer og transformert slagmarken med ny teknologi."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o",
+      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6780/live/cc50cbf0-9b42-11f1-bd52-f9704e8e5c82.jpg",
-      "localImage": "assets/news/571cd09badb911.jpg",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/396c840abfd5a2.jpg",
+      "score": 17
+    },
+    {
+      "id": "2cf5122e3c5d1a",
+      "category": "USA",
+      "published": "19.08. 03:13",
+      "publishedISO": "2026-08-19T03:13:40+02:00",
+      "title": "Byron Donalds and David Jolly projected to win Florida primary to replace Governor Ron DeSantis",
+      "summary": "Republikaneren Byron Donalds og demokraten David Jolly forventes å vinne Floridas gubernatorial-primærvalg, ifølge amerikanske medier, som setter opp et opphetet kappløp i november. Stemmer telles fortsatt i kampen om å erstatte Florida-guvernør Ron DeSantis, hvis periode er ute. Flere amerikanske medier anslo at republikaneren Byron Donalds og demokraten David Jolly skulle vinne sine respektive partiprimærvalg, noe som betyr at de vil møte i stortingsvalget i november.",
+      "keyPoints": [
+        "Republican Byron Donalds and Democrat David Jolly are projected to win Florida's gubernatorial primaries, according to US media, setting up a heated race in November.",
+        "Flere amerikanske medier anslo at republikaneren Byron Donalds og demokraten David Jolly skulle vinne sine respektive partiprimærvalg, noe som betyr at de vil møte i stortingsvalget i november.",
+        "Votes are still being counted in the race to replace Florida Governor Ron DeSantis, whose term is up.",
+        "Jolly, en tidligere republikansk kongressmedlem som forlot partiet og ble kritiker av Trump, møtte en rekke kandidater for å score den forventede seieren for partiets primærvalg."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cpvwgym9xl9o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba69/live/92cacfd0-9b50-11f1-83d8-cfa02e83b41a.jpg",
+      "localImage": "assets/news/2cf5122e3c5d1a.jpg",
+      "score": 16
     },
     {
       "id": "416a78013408d3",
@@ -72,10 +93,10 @@
       "published": "19.08. 09:00",
       "publishedISO": "2026-08-19T09:00:55+02:00",
       "title": "Lerøy faller på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs er marginalt opp 0,02 prosent kort tid etter åpning onsdag. Seoul-børsen er ned rundt 6 prosent og Tokyo-børsen faller mer enn 3 prosent. Det har også kommet resultater fra en rekke andre selskaper på Oslo Børs i morgentimene, inkludert IT-selskapet Link Mobility, Fjordkraft-eier Elmera, elbilladerselskapet Zaptec, renseanleggsselskapet Vow og riggselskapet Dolphin Drilling.",
+      "summary": "Lerøy Seafood, Xplora, Link Mobility, Vow og Dof er blant aksjene som faller etter tallslipp. Seoul-børsen er ned rundt 6 prosent og Tokyo-børsen faller mer enn 3 prosent. Det har også kommet resultater for andre kvartal fra en rekke andre selskaper på Oslo Børs i morgentimene.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er marginalt opp 0,02 prosent kort tid etter åpning onsdag.",
-        "Det har også kommet resultater fra en rekke andre selskaper på Oslo Børs i morgentimene, inkludert IT-selskapet Link Mobility, Fjordkraft-eier Elmera, elbilladerselskapet Zaptec, renseanleggsselskapet Vow og riggselskapet Dolphin Drilling.",
+        "Lerøy Seafood, Xplora, Link Mobility, Vow og Dof er blant aksjene som faller etter tallslipp.",
+        "Det har også kommet resultater for andre kvartal fra en rekke andre selskaper på Oslo Børs i morgentimene.",
         "Seoul-børsen er ned rundt 6 prosent og Tokyo-børsen faller mer enn 3 prosent.",
         "Samtidig opprettholdes målet om slaktevolum i Norge på 195.000 tonn i 2026, og Lerøy venter høyere inntjening på villfisk i år enn de tidligere har anslått."
       ],
@@ -130,27 +151,6 @@
       "score": 17
     },
     {
-      "id": "f13a92b7db3e95",
-      "category": "Økonomi",
-      "published": "19.08. 04:45",
-      "publishedISO": "2026-08-19T04:45:00+02:00",
-      "title": "Vil ikke røre Norgespris",
-      "summary": "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne. I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027. Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
-      "keyPoints": [
-        "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne.",
-        "Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
-        "I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027.",
-        "Under partilederdebatten på Arendalsuka ville statsminister Jonas Gahr Støre (Ap) ikke si om Norgespris fortsatt skal være på 40 øre (50 øre med moms) etter nyttår. – Vi har ikke garantert det beløpet, sa Støre."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/V6a8ad/vil-ikke-roere-norgespris",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5fc5ee78-c88d-37e8-995c-c558ae556c96?fit=crop&h=675&upscale=true&w=1200&s=7fffc0232c333923e88feb8075129161e74da0dc",
-      "localImage": "assets/news/f13a92b7db3e95.jpg",
-      "score": 17
-    },
-    {
       "id": "6ce384807c02b8",
       "category": "Økonomi",
       "published": "18.08. 11:49",
@@ -172,6 +172,27 @@
       "score": 17
     },
     {
+      "id": "f13a92b7db3e95",
+      "category": "Økonomi",
+      "published": "19.08. 04:45",
+      "publishedISO": "2026-08-19T04:45:00+02:00",
+      "title": "Vil ikke røre Norgespris",
+      "summary": "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne. I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027. Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
+      "keyPoints": [
+        "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne.",
+        "Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
+        "I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027.",
+        "Under partilederdebatten på Arendalsuka ville statsminister Jonas Gahr Støre (Ap) ikke si om Norgespris fortsatt skal være på 40 øre (50 øre med moms) etter nyttår. – Vi har ikke garantert det beløpet, sa Støre."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/V6a8ad/vil-ikke-roere-norgespris",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5fc5ee78-c88d-37e8-995c-c558ae556c96?fit=crop&h=675&upscale=true&w=1200&s=7fffc0232c333923e88feb8075129161e74da0dc",
+      "localImage": "assets/news/f13a92b7db3e95.jpg",
+      "score": 16
+    },
+    {
       "id": "a06943b911df56",
       "category": "Økonomi",
       "published": "18.08. 08:02",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/560a66d7-6d68-3343-9a7d-c52a7a3a0f1c?fit=crop&h=675&upscale=true&w=1200&s=98a079b053547397e39efb535a961077fc7cf9a6",
       "localImage": "assets/news/a06943b911df56.jpg",
       "score": 16
-    },
-    {
-      "id": "a8f2a25fd1ebef",
-      "category": "Norge",
-      "published": "17.08. 20:44",
-      "publishedISO": "2026-08-17T20:44:12+02:00",
-      "title": "Ukrainske barn får pause fra krigen i Norge",
-      "summary": "Barn av politifedre som har mista livet i krigen i Ukraina har fått et etterlengta friminutt i Norge. 12-åringen er et av 14 utvalgte barn mellom 10 og 14 år som har fått en uke med opplevelser i Norge. – Det er veldig bra, og jeg liker meg her. I vår fikk Politidirektoratet en henvendelse fra sine ukrainske kolleger om det var mulig å gi disse barna en pause fra krigen og et lite opphold i Norge.",
-      "keyPoints": [
-        "I vår fikk Politidirektoratet en henvendelse fra sine ukrainske kolleger om det var mulig å gi disse barna en pause fra krigen og et lite opphold i Norge.",
-        "Barn av politifedre som har mista livet i krigen i Ukraina har fått et etterlengta friminutt i Norge.",
-        "12-åringen er et av 14 utvalgte barn mellom 10 og 14 år som har fått en uke med opplevelser i Norge. – Det er veldig bra, og jeg liker meg her.",
-        "Før barna fikk prøve seg i klatreløypa måtte de gjennom opplæring og få nødvendig utstyr Det er første gang ukrainske politimyndigheter kommer med et slikt ønske overfor norske politimyndigheter. – Forhåpentligvis gir dette dem et kjærkomment avbrekk fra en vanskelig hverdag og får dem til å tenke på noe annet, sier assisterende politidirektør Lars Erik Alfheim."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/ukrainske-barn-av-drepte-ukraina-politimenn-fikk-ferieopphold-i-norge-1.17986073",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/CulAynYKRs3cN4KHUGKUTw5WB5N-_Cyi5XUmxMxRlNmA.jpg",
-      "localImage": "assets/news/a8f2a25fd1ebef.jpg",
-      "score": 14
     }
   ]
 }
