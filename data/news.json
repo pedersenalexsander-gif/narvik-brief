@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.08.2026 kl. 17:53",
-  "updatedISO": "2026-08-19T17:53:24.036889+02:00",
+  "updatedAt": "19.08.2026 kl. 19:03",
+  "updatedISO": "2026-08-19T19:03:21.010804+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/396c840abfd5a2.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "416a78013408d3",
@@ -109,24 +109,24 @@
       "score": 15
     },
     {
-      "id": "634863f8d322a3",
+      "id": "494c9376dd1c85",
       "category": "AI",
-      "published": "19.08. 16:13",
-      "publishedISO": "2026-08-19T16:13:33+02:00",
-      "title": "Monzo down as users unable to make card payments or transfers",
-      "summary": "Monzo-brukere har blitt ute av stand til å bruke kortet sitt til betalinger eller overføringer etter et teknisk problem med banktjenesten. Den digitale banken postet på X, ekstern den hadde \"identifisert noen problemer\" og aktivert en stand-in backup-tjeneste som betydde at brukere fortsatt kunne foreta transaksjoner som kortbetalinger og sende og motta bankoverføringer. Mens selskapet jobber med saken, bemerket det at brukere vil kunne bruke den uavhengige tjenesten Monzo Stand-in for å fortsatt \"foreta kortbetalinger, ta ut kontanter, fryse kortet ditt, sende og motta bankoverføringer og mer\".",
+      "published": "19.08. 18:14",
+      "publishedISO": "2026-08-19T18:14:46+02:00",
+      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antallet brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige andel av skatten» da reglene ble kunngjort i fjor.",
       "keyPoints": [
-        "Mens selskapet jobber med saken, bemerket det at brukere vil kunne bruke den uavhengige tjenesten Monzo Stand-in for å fortsatt \"foreta kortbetalinger, ta ut kontanter, fryse kortet ditt, sende og motta bankoverføringer og mer\".",
-        "Monzo-brukere har blitt ute av stand til å bruke kortet sitt til betalinger eller overføringer etter et teknisk problem med banktjenesten.",
-        "Den digitale banken postet på X, ekstern den hadde \"identifisert noen problemer\" og aktivert en stand-in backup-tjeneste som betydde at brukere fortsatt kunne foreta transaksjoner som kortbetalinger og sende og motta bankoverføringer.",
-        "Noen brukere bemerket imidlertid under innlegget, eksternt at Monzo Stand-in \"ikke fungerte som forventet\" og at de fortsatt ikke kunne bruke kortet sitt."
+        "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
+        "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
+        "HMRC sa at de nye maktene ville tvinge \"crypto bros til å betale sin rettferdige andel av skatten\" da reglene ble kunngjort i fjor.",
+        "Skattekontoret estimerte at endringene ville bidra til å skaffe opptil 315 millioner pund innen april 2030, og la til at dette var det samme beløpet som trengs for å finansiere mer enn 10 000 nyutdannede sykepleiere i et år. \"Når HMRC har disse dataene, vil skatteundersøkelser av investorer i kryptovaluta være som å skyte fisk i en tønne,\" advarte Chauhan."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/69d7/live/94b09ad0-9bd4-11f1-bb4d-1147ef2e78e5.jpg",
-      "localImage": "assets/news/634863f8d322a3.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
+      "localImage": "assets/news/494c9376dd1c85.jpg",
       "score": 17
     },
     {
