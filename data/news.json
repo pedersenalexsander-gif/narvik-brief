@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.08.2026 kl. 12:14",
-  "updatedISO": "2026-08-19T12:14:55.480149+02:00",
+  "updatedAt": "19.08.2026 kl. 13:06",
+  "updatedISO": "2026-08-19T13:06:13.308561+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -27,8 +27,8 @@
     {
       "id": "396c840abfd5a2",
       "category": "Verden",
-      "published": "19.08. 11:02",
-      "publishedISO": "2026-08-19T11:02:08+02:00",
+      "published": "19.08. 13:00",
+      "publishedISO": "2026-08-19T13:00:21+02:00",
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "summary": "Fedorov, som ikke nevnte Zelensky ved navn i videoen, ble uventet sparket fra rollen som forsvarsminister forrige måned, bare seks måneder etter utnevnelsen. Rundt 100 demonstranter samlet seg utenfor det ukrainske parlamentet onsdag morgen, og ropte «bring Fedorov tilbake som forsvarsminister» og «vi er lei, vi vil ha dialog». Hans oppfordring til valg har gjort noen ukrainske kommentatorer sinte, inkludert de som støttet Fedorovs retur som forsvarsminister.",
       "keyPoints": [
@@ -51,12 +51,12 @@
       "published": "19.08. 03:13",
       "publishedISO": "2026-08-19T03:13:40+02:00",
       "title": "Byron Donalds and David Jolly projected to win Florida primary to replace Governor Ron DeSantis",
-      "summary": "Republikaneren Byron Donalds og demokraten David Jolly forventes å vinne Floridas gubernatorial-primærvalg, ifølge amerikanske medier, som setter opp et opphetet kappløp i november. Stemmer telles fortsatt i kampen om å erstatte Florida-guvernør Ron DeSantis, hvis periode er ute. Flere amerikanske medier anslo at republikaneren Byron Donalds og demokraten David Jolly skulle vinne sine respektive partiprimærvalg, noe som betyr at de vil møte i stortingsvalget i november.",
+      "summary": "Republikaneren Byron Donalds og demokraten David Jolly forventes å vinne Floridas gubernatorial-primærvalg, ifølge amerikanske medier, som setter opp et opphetet løp i november. Stemmer telles fortsatt i kampen om å erstatte Florida-guvernør Ron DeSantis, hvis periode er ute. Flere amerikanske medier anslo at republikaneren Byron Donalds og demokraten David Jolly skulle vinne sine respektive partiprimærvalg, noe som betyr at de vil møte i stortingsvalget i november.",
       "keyPoints": [
         "Republican Byron Donalds and Democrat David Jolly are projected to win Florida's gubernatorial primaries, according to US media, setting up a heated race in November.",
         "Flere amerikanske medier anslo at republikaneren Byron Donalds og demokraten David Jolly skulle vinne sine respektive partiprimærvalg, noe som betyr at de vil møte i stortingsvalget i november.",
         "Votes are still being counted in the race to replace Florida Governor Ron DeSantis, whose term is up.",
-        "Jolly, en tidligere republikansk kongressmedlem som forlot partiet og ble kritiker av Trump, møtte en rekke kandidater for å score den forventede seieren for partiets primærvalg."
+        "Jolly, en tidligere republikansk kongressmedlem som forlot partiet og ble kritiker av Trump, møtte en rekke kandidater for å score den forventede seieren i partiets primærvalg."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
@@ -88,48 +88,6 @@
       "score": 19
     },
     {
-      "id": "6ce384807c02b8",
-      "category": "Økonomi",
-      "published": "18.08. 11:49",
-      "publishedISO": "2026-08-18T11:49:12+02:00",
-      "title": "Mistet ansatte i krig: – Begynner å stille spørsmål",
-      "summary": "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt. Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig? Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
-      "keyPoints": [
-        "Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig?",
-        "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt.",
-        "Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
-        "Han understreker viktigheten av å være beredt som sivilsamfunn. – Altså: Hvordan være forberedt, slik Ukraina har høstet smertefulle erfaringer fra å ikke være, sier Andresen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/vrV1q4/mistet-ansatte-i-krig-begynner-aa-stille-spoersmaal",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
-      "localImage": "assets/news/6ce384807c02b8.jpg",
-      "score": 17
-    },
-    {
-      "id": "d486aac26e5cac",
-      "category": "AI",
-      "published": "18.08. 11:26",
-      "publishedISO": "2026-08-18T11:26:41+02:00",
-      "title": "AI to help planes avoid climate-warming contrails above North Atlantic",
-      "summary": "Kontrer dannes når eksosgasser fra fly blir til iskrystaller. Vi har alle sett opp og sett de hvite linjene som følger etter fly på himmelen. Nå vil en britisk prøveperiode på 5 millioner pund teste om kunstig intelligens kan hjelpe, ved å forutsi hvor oppvarmingskontrailer sannsynligvis vil dannes og få fly til å unngå disse områdene. Den vil fokusere på Shanwick Oceanic-luftrommet i den østlige halvdelen av den nordatlantiske korridoren, som står for omtrent 5 % av den globale oppvarmingen av kontrailer.",
-      "keyPoints": [
-        "Nå vil en britisk prøveperiode på 5 millioner pund teste om kunstig intelligens kan hjelpe, ved å forutsi hvor oppvarmingskontrailer sannsynligvis vil dannes og få fly til å unngå disse områdene.",
-        "Den vil fokusere på Shanwick Oceanic-luftrommet i den østlige halvdelen av den nordatlantiske korridoren, som står for omtrent 5 % av den globale oppvarmingen av kontrailer.",
-        "Kontrer dannes når eksosgasser fra fly blir til iskrystaller. Vi har alle sett opp og sett de hvite linjene som følger etter fly på himmelen.",
-        "Contrails - eller kondenseringsstier - er et vanlig innslag i himmelen vår. Ideen bak forsøket er at hvis forskere kan forutsi områdene i atmosfæren der det er sannsynlig at det vil dannes kontringslinjer, kan fly unngå dem."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
-      "localImage": "assets/news/d486aac26e5cac.jpg",
-      "score": 13
-    },
-    {
       "id": "5519784ed38891",
       "category": "Økonomi",
       "published": "19.08. 07:04",
@@ -151,6 +109,27 @@
       "score": 16
     },
     {
+      "id": "d486aac26e5cac",
+      "category": "AI",
+      "published": "18.08. 11:26",
+      "publishedISO": "2026-08-18T11:26:41+02:00",
+      "title": "AI to help planes avoid climate-warming contrails above North Atlantic",
+      "summary": "Kontrer dannes når eksosgasser fra fly blir til iskrystaller. Vi har alle sett opp og sett de hvite linjene som følger etter fly på himmelen. Nå vil en britisk prøveperiode på 5 millioner pund teste om kunstig intelligens kan hjelpe, ved å forutsi hvor oppvarmingskontrailer sannsynligvis vil dannes og få fly til å unngå disse områdene. Den vil fokusere på Shanwick Oceanic-luftrommet i den østlige halvdelen av den nordatlantiske korridoren, som står for omtrent 5 % av den globale oppvarmingen av kontrailer.",
+      "keyPoints": [
+        "Nå vil en britisk prøveperiode på 5 millioner pund teste om kunstig intelligens kan hjelpe, ved å forutsi hvor oppvarmingskontrailer sannsynligvis vil dannes og få fly til å unngå disse områdene.",
+        "Den vil fokusere på Shanwick Oceanic-luftrommet i den østlige halvdelen av den nordatlantiske korridoren, som står for omtrent 5 % av den globale oppvarmingen av kontrailer.",
+        "Kontrer dannes når eksosgasser fra fly blir til iskrystaller. Vi har alle sett opp og sett de hvite linjene som følger etter fly på himmelen.",
+        "Contrails - eller kondenseringsstier - er et vanlig innslag i himmelen vår. Ideen bak forsøket er at hvis forskere kan forutsi områdene i atmosfæren der det er sannsynlig at det vil dannes kontringslinjer, kan fly unngå dem."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg",
+      "localImage": "assets/news/d486aac26e5cac.jpg",
+      "score": 12
+    },
+    {
       "id": "f13a92b7db3e95",
       "category": "Økonomi",
       "published": "19.08. 04:45",
@@ -169,6 +148,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5fc5ee78-c88d-37e8-995c-c558ae556c96?fit=crop&h=675&upscale=true&w=1200&s=7fffc0232c333923e88feb8075129161e74da0dc",
       "localImage": "assets/news/f13a92b7db3e95.jpg",
+      "score": 16
+    },
+    {
+      "id": "6ce384807c02b8",
+      "category": "Økonomi",
+      "published": "18.08. 11:49",
+      "publishedISO": "2026-08-18T11:49:12+02:00",
+      "title": "Mistet ansatte i krig: – Begynner å stille spørsmål",
+      "summary": "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt. Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig? Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
+      "keyPoints": [
+        "Da begynner du å stille spørsmål: Hvor godt forberedt er du egentlig?",
+        "Investoren forteller at Ferd har 150 ansatte i Ukraina, og at erfaringene derfra har vært en vekker. – Flere av våre medarbeidere i Ukraina har blitt innkalt.",
+        "Ferd har, sammen med Aars, IKM Gruppen og Thon Gruppen, bygget en database over egne ressurser som kan mobiliseres dersom Norge havner i en alvorlig krise eller krig.",
+        "Han understreker viktigheten av å være beredt som sivilsamfunn. – Altså: Hvordan være forberedt, slik Ukraina har høstet smertefulle erfaringer fra å ikke være, sier Andresen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/vrV1q4/mistet-ansatte-i-krig-begynner-aa-stille-spoersmaal",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
+      "localImage": "assets/news/6ce384807c02b8.jpg",
       "score": 16
     },
     {
@@ -193,25 +193,25 @@
       "score": 16
     },
     {
-      "id": "a8f2a25fd1ebef",
-      "category": "Norge",
-      "published": "17.08. 20:44",
-      "publishedISO": "2026-08-17T20:44:12+02:00",
-      "title": "Ukrainske barn får pause fra krigen i Norge",
-      "summary": "Barn av politifedre som har mista livet i krigen i Ukraina har fått et etterlengta friminutt i Norge. 12-åringen er et av 14 utvalgte barn mellom 10 og 14 år som har fått en uke med opplevelser i Norge. – Det er veldig bra, og jeg liker meg her. I vår fikk Politidirektoratet en henvendelse fra sine ukrainske kolleger om det var mulig å gi disse barna en pause fra krigen og et lite opphold i Norge.",
+      "id": "97c8ad071e7280",
+      "category": "Verden",
+      "published": "18.08. 23:45",
+      "publishedISO": "2026-08-18T23:45:17+02:00",
+      "title": "Hvorfor har Russland truet Storbritannia og hva skjer videre?",
+      "summary": "Hvorfor har Russland truet Storbritannia og hva skjer videre? Video, 00:01:05Hvorfor har Russland truet Storbritannia og hva skjer videre? Video, 00:01:45Se: Hvorfor har Trump snudd på Nord-Korea? \"Jeg vil ha min bror tilbake\" - Tupacs bror sier til BBC-drapssaken vil ikke bringe rettferdighet.",
       "keyPoints": [
-        "I vår fikk Politidirektoratet en henvendelse fra sine ukrainske kolleger om det var mulig å gi disse barna en pause fra krigen og et lite opphold i Norge.",
-        "Barn av politifedre som har mista livet i krigen i Ukraina har fått et etterlengta friminutt i Norge.",
-        "12-åringen er et av 14 utvalgte barn mellom 10 og 14 år som har fått en uke med opplevelser i Norge. – Det er veldig bra, og jeg liker meg her.",
-        "Før barna fikk prøve seg i klatreløypa måtte de gjennom opplæring og få nødvendig utstyr Det er første gang ukrainske politimyndigheter kommer med et slikt ønske overfor norske politimyndigheter. – Forhåpentligvis gir dette dem et kjærkomment avbrekk fra en vanskelig hverdag og får dem til å tenke på noe annet, sier assisterende politidirektør Lars Erik Alfheim."
+        "Hvorfor har Russland truet Storbritannia og hva skjer videre?",
+        "Video, 00:01:45Watch: Why has Trump shifted on North Korea? 'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice.",
+        "Video, 00:01:54Se: Hva vi lærte av åpningsuttalelser i Tupac-drapsrettssaken Se: Hvorfor har Trump gått over til Nord-Korea?",
+        "Russland har advart om «konsekvenser» etter bekreftelse på at britiskproduserte droner ble brukt i de siste ukrainske angrepene i Russland."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/ukrainske-barn-av-drepte-ukraina-politimenn-fikk-ferieopphold-i-norge-1.17986073",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/CulAynYKRs3cN4KHUGKUTw5WB5N-_Cyi5XUmxMxRlNmA.jpg",
-      "localImage": "assets/news/a8f2a25fd1ebef.jpg",
-      "score": 14
+      "url": "https://www.bbc.co.uk/news/videos/cvgwygqv5dqo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27ac/live/08b5c2c0-9b4e-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/97c8ad071e7280.jpg",
+      "score": 15
     }
   ]
 }
