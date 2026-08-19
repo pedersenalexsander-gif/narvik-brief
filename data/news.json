@@ -1,48 +1,27 @@
 {
-  "updatedAt": "19.08.2026 kl. 19:59",
-  "updatedISO": "2026-08-19T19:59:20.274409+02:00",
+  "updatedAt": "19.08.2026 kl. 21:14",
+  "updatedISO": "2026-08-19T21:14:32.424095+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "7e3958fb49016e",
-      "category": "Nord-Norge",
-      "published": "19.08. 15:32",
-      "publishedISO": "2026-08-19T15:32:48+02:00",
-      "title": "Ferdig med undersøkelser av traktor etter dødsulykke",
-      "summary": "Politiet etterforsker fortsatt traktorulykken i Hemnes kommune 18. juli der en mann i 30-årene omkom. I tillegg har politiet avhørt vitner og gått gjennom digitale beslag, opplyser politiadvokat Anna Fonnaas-Westermann til NRK. – Det gjenstår fortsatt en god del etterforskningsskritt, men politiet tar sikte på holde intensiteten i etterforskning høy slik at etterforskningen ikke tar lengre tid enn nødvendig. De involverte beskrives som samarbeidsvillige. – Tre personer har fortsatt status som siktet, men dette kan endre seg etter hvert som etterforskningen utvikler seg, uttaler Fonnaas-Westermann.",
-      "keyPoints": [
-        "I tillegg har politiet avhørt vitner og gått gjennom digitale beslag, opplyser politiadvokat Anna Fonnaas-Westermann til NRK. – Det gjenstår fortsatt en god del etterforskningsskritt, men politiet tar sikte på holde intensiteten i etterforskning høy slik at etterforskningen ikke tar lengre tid enn nødvendig.",
-        "Politiet etterforsker fortsatt traktorulykken i Hemnes kommune 18. juli der en mann i 30-årene omkom.",
-        "De involverte beskrives som samarbeidsvillige. – Tre personer har fortsatt status som siktet, men dette kan endre seg etter hvert som etterforskningen utvikler seg, uttaler Fonnaas-Westermann.",
-        "Av hensyn til den pågående etterforskningen ønsker ikke politiet å gå nærere inn på hva som har kommet fram i avhør."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/-ferdig-med-undersokelser-av-traktor-etter-dodsulykke-1.17994966",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OkOtdO5qtWpC_47rqKq6NwCedjvlaV5XIYX9NeZ0_z1w.jpg",
-      "localImage": "assets/news/7e3958fb49016e.jpg",
-      "score": 13
-    },
-    {
-      "id": "a46affc9802896",
+      "id": "253d643c9b817d",
       "category": "Norge",
-      "published": "19.08. 15:52",
-      "publishedISO": "2026-08-19T15:52:09+02:00",
-      "title": "Mener norgespris kan få ekstreme utslag neste år",
-      "summary": "Norgespris kan koste statskassen like mye som all strømstøtte til sammen de seneste fire årene – eller ingenting. STORE SUMMER: Analysesjef Tor Reier Lilleholt i Volue sier det kan bli snakk om mye penger for norgespris, med all uroen som rår. – Det er blitt omtrent dobbelt så dyrt i 2026 som det man forutså i fjor høst. Lilleholt sier norgespris kan komme til å koste staten et sted mellom 0 og 55 milliarder kroner neste år.",
+      "published": "19.08. 21:12",
+      "publishedISO": "2026-08-19T21:12:05+02:00",
+      "title": "Statkraft vil bygge eitt av landets største kraftverk – møtte heftige protestar",
+      "summary": "Statkraft vil byggje eit gigantisk kraftverk i Sunndal. Det er stort behov for meir straum i Noreg, og Statkraft vil bygge eitt av landets største anlegg mellom Molde og Sunndal til 6 milliardar kroner. Det nye anlegget skal mellom anna sikre forsyning til landets største forbrukar av kraft i Noreg, Hydro Sunndal.",
       "keyPoints": [
-        "Lilleholt sier norgespris kan komme til å koste staten et sted mellom 0 og 55 milliarder kroner neste år.",
-        "STORE SUMMER: Analysesjef Tor Reier Lilleholt i Volue sier det kan bli snakk om mye penger for norgespris, med all uroen som rår. – Det er blitt omtrent dobbelt så dyrt i 2026 som det man forutså i fjor høst.",
-        "Norgespris kan koste statskassen like mye som all strømstøtte til sammen de seneste fire årene – eller ingenting.",
-        "Jonas Gahr Støre vil ikke garantere fortsettelse av Norgespris på 50 øre neste år."
+        "Det er stort behov for meir straum i Noreg, og Statkraft vil bygge eitt av landets største anlegg mellom Molde og Sunndal til 6 milliardar kroner.",
+        "Statkraft vil byggje eit gigantisk kraftverk i Sunndal.",
+        "Det nye anlegget skal mellom anna sikre forsyning til landets største forbrukar av kraft i Noreg, Hydro Sunndal.",
+        "Men planane for Aura II er omstridde, mellom anna fordi elva gjennom Eikesdalen tørkar inn. – Folk i Eresfjord og Eikesdalen har jo fått sviktande tillit til Statkraft og styresmaktene, sa Admir Velic då han tok ordet framfor sjefane frå Oslo."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/stor-usikkerhet-om-norgespris-neste-ar-_-kan-koste-0-til-55-milliarder-kroner_-mener-analytiker-1.17993666",
+      "url": "https://www.nrk.no/mr/statkraft-vil-bygge-eitt-av-landets-storste-kraftverk-_-motte-heftige-protestar-1.17995123",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/P233_jZr9Xhgiw1Jvwtkkwh4R1n37wfssPHIiPCqLpNQ.jpg",
-      "localImage": "assets/news/a46affc9802896.jpg",
+      "image": "https://gfx.nrk.no/GniYadrxAFIqxhYzKSKbjgoHjqDrr51HDiR-mERheJxg.jpg",
+      "localImage": "assets/news/253d643c9b817d.jpg",
       "score": 17
     },
     {
@@ -114,7 +93,7 @@
       "published": "19.08. 18:14",
       "publishedISO": "2026-08-19T18:14:46+02:00",
       "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antallet brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige andel av skatten» da reglene ble kunngjort i fjor.",
+      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige del av skatten» da reglene ble kunngjort i fjor.",
       "keyPoints": [
         "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
         "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
@@ -128,6 +107,48 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
       "localImage": "assets/news/494c9376dd1c85.jpg",
       "score": 17
+    },
+    {
+      "id": "721e3b96e7b8cf",
+      "category": "Norge",
+      "published": "19.08. 20:10",
+      "publishedISO": "2026-08-19T20:10:37+02:00",
+      "title": "127 milliarder brukt på å lokke folk til Finnmark: – Uten de pengene kunne vi vært bare 50.000",
+      "summary": "Tidligere ordfører i Porsanger mener 36 år med tiltak i Troms og Finnmark har vært bortkastet. Både tettstedet og kommunen har opplevd stor fraflytting. – Hvis vi ikke hadde hatt de virkemidlene i innsatssonen, som har fungert siden Syse-regjeringa på begynnelsen av 90-tallet, så hadde vi kanskje vært 50.000 innbyggere i Finnmark i dag, sier fylkesordfører i Finnmark, Hans-Jacob Bønå (H). Hun mener det er viktig å tenke på hva folketallet i Finnmark kunne ha vært uten den såkalte tiltakssonen.",
+      "keyPoints": [
+        "Hun mener det er viktig å tenke på hva folketallet i Finnmark kunne ha vært uten den såkalte tiltakssonen.",
+        "Både tettstedet og kommunen har opplevd stor fraflytting. – Hvis vi ikke hadde hatt de virkemidlene i innsatssonen, som har fungert siden Syse-regjeringa på begynnelsen av 90-tallet, så hadde vi kanskje vært 50.000 innbyggere i Finnmark i dag, sier fylkesordfører i Finnmark, Hans-Jacob Bønå (H).",
+        "Tidligere ordfører i Porsanger mener 36 år med tiltak i Troms og Finnmark har vært bortkastet.",
+        "Fylkesordfører i Finnmark Hans-Jacob Bønå (H) er enig med statsråden i at milliardene som er brukt på tiltak i nord, har vært både viktige og nyttige. – Jeg tror det er ganske vel dokumentert at det har hatt effekt."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sapmi/127-milliarder-brukt-pa-a-lokke-folk-til-finnmark_-_-uten-de-pengene-kunne-vi-vaert-bare-50.000-1.17993046",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ovic-wDPlSHokJThbNKbxw0CguRlVK3rou28i5po7abw.jpg",
+      "localImage": "assets/news/721e3b96e7b8cf.jpg",
+      "score": 17
+    },
+    {
+      "id": "a46affc9802896",
+      "category": "Norge",
+      "published": "19.08. 15:52",
+      "publishedISO": "2026-08-19T15:52:09+02:00",
+      "title": "Mener norgespris kan få ekstreme utslag neste år",
+      "summary": "Norgespris kan koste statskassen like mye som all strømstøtte til sammen de seneste fire årene – eller ingenting. STORE SUMMER: Analysesjef Tor Reier Lilleholt i Volue sier det kan bli snakk om mye penger for norgespris, med all uroen som rår. – Det er blitt omtrent dobbelt så dyrt i 2026 som det man forutså i fjor høst. Lilleholt sier norgespris kan komme til å koste staten et sted mellom 0 og 55 milliarder kroner neste år.",
+      "keyPoints": [
+        "Lilleholt sier norgespris kan komme til å koste staten et sted mellom 0 og 55 milliarder kroner neste år.",
+        "STORE SUMMER: Analysesjef Tor Reier Lilleholt i Volue sier det kan bli snakk om mye penger for norgespris, med all uroen som rår. – Det er blitt omtrent dobbelt så dyrt i 2026 som det man forutså i fjor høst.",
+        "Norgespris kan koste statskassen like mye som all strømstøtte til sammen de seneste fire årene – eller ingenting.",
+        "Jonas Gahr Støre vil ikke garantere fortsettelse av Norgespris på 50 øre neste år."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/stor-usikkerhet-om-norgespris-neste-ar-_-kan-koste-0-til-55-milliarder-kroner_-mener-analytiker-1.17993666",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/P233_jZr9Xhgiw1Jvwtkkwh4R1n37wfssPHIiPCqLpNQ.jpg",
+      "localImage": "assets/news/a46affc9802896.jpg",
+      "score": 16
     },
     {
       "id": "f19de92815f938",
@@ -148,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/zPKPW6UdL7ShPQkdaTLyMAtjCKy4_5KLaJolGqgmIscg.jpg",
       "localImage": "assets/news/f19de92815f938.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d17e47a1c0f2cc",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/a919d3f8-d308-34df-8790-2597a11fb1fb?fit=crop&h=675&upscale=true&w=1200&s=c67d56b62b254ba76149a46a119ccde7207fad05",
       "localImage": "assets/news/6ce384807c02b8.jpg",
       "score": 15
-    },
-    {
-      "id": "f13a92b7db3e95",
-      "category": "Økonomi",
-      "published": "19.08. 04:45",
-      "publishedISO": "2026-08-19T04:45:00+02:00",
-      "title": "Vil ikke røre Norgespris",
-      "summary": "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne. I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027. Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
-      "keyPoints": [
-        "Flertallet av regjeringens budsjettpartnere vil ikke øke Norgespris fra dagens 50 øre. –⁠ Kan bli en politisk hodepine, sier Huseierne.",
-        "Regjeringen venter å betale ut 21,5 milliarder kroner i strømstøtte og Norgespris i år, ti milliarder mer enn opprinnelig antatt.",
-        "I oktober vil regjeringen avsløre om den vil justere nivået på Norgespris på strøm fra 2027.",
-        "Under partilederdebatten på Arendalsuka ville statsminister Jonas Gahr Støre (Ap) ikke si om Norgespris fortsatt skal være på 40 øre (50 øre med moms) etter nyttår. – Vi har ikke garantert det beløpet, sa Støre."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/V6a8ad/vil-ikke-roere-norgespris",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5fc5ee78-c88d-37e8-995c-c558ae556c96?fit=crop&h=675&upscale=true&w=1200&s=7fffc0232c333923e88feb8075129161e74da0dc",
-      "localImage": "assets/news/f13a92b7db3e95.jpg",
-      "score": 14
     }
   ]
 }
