@@ -1,8 +1,29 @@
 {
-  "updatedAt": "20.08.2026 kl. 07:07",
-  "updatedISO": "2026-08-20T07:07:16.367112+02:00",
+  "updatedAt": "20.08.2026 kl. 09:30",
+  "updatedISO": "2026-08-20T09:30:30.569373+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "9c1008435b210e",
+      "category": "Nord-Norge",
+      "published": "20.08. 07:12",
+      "publishedISO": "2026-08-20T07:12:27+02:00",
+      "title": "Advarer etter arbeidsulykke med elektrisk sjokk",
+      "summary": "Strømselskapet Linea advarer etter at to skogsarbeidere fikk strøm gjennom kroppen i forrige uke i Mosåsen utenfor Mosjøen. Det skal ha vært små marginer som gjorde at ulykken ikke endte opp med mer alvorlige konsekvenser, men begge de to utsatte ser ut til å ha sluppet unna med lettere skader. – Linea ser svært alvorlig på denne hendelsen. Ved høy spenning kan det oppstå elektrisk overslag gjennom luften dersom en gjenstand kommer for nærme. – På et høyspentanlegg som vårt 132 kV-nett kan det oppstå overslag før man fysisk berører linjen.",
+      "keyPoints": [
+        "Ved høy spenning kan det oppstå elektrisk overslag gjennom luften dersom en gjenstand kommer for nærme. – På et høyspentanlegg som vårt 132 kV-nett kan det oppstå overslag før man fysisk berører linjen.",
+        "Strømselskapet Linea advarer etter at to skogsarbeidere fikk strøm gjennom kroppen i forrige uke i Mosåsen utenfor Mosjøen.",
+        "Det skal ha vært små marginer som gjorde at ulykken ikke endte opp med mer alvorlige konsekvenser, men begge de to utsatte ser ut til å ha sluppet unna med lettere skader. – Linea ser svært alvorlig på denne hendelsen.",
+        "Undersøkelsene er ennå ikke klar, men foreløpige opplysninger tyder på at et tre for nært en høyspentledning som hadde strøm gjennom seg, og at strømmen gikk gjennm treet og videre til de to arbeiderne på bakken."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/advarer-etter-arbeidsulykke-med-elektrisk-sjokk-1.17995329",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ST-IInUU6TVqJynow7a4KwOVzlosKm5GX0rbOe_Qv2mw.jpg",
+      "localImage": "assets/news/9c1008435b210e.jpg",
+      "score": 17
+    },
     {
       "id": "253d643c9b817d",
       "category": "Norge",
@@ -22,27 +43,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/GniYadrxAFIqxhYzKSKbjgoHjqDrr51HDiR-mERheJxg.jpg",
       "localImage": "assets/news/253d643c9b817d.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "631719a58fbfaa",
+      "id": "787eb150f301ca",
       "category": "Verden",
-      "published": "20.08. 06:46",
-      "publishedISO": "2026-08-20T06:46:32+02:00",
-      "title": "Russia unleashes 'massive attack' on Kyiv, killing at least eight",
-      "summary": "Brannmenn kjemper mot en brann på lageret i Kiev tidlig på torsdag En bølge av russiske rakettangrep over natten har drept minst åtte mennesker i hovedstaden Kiev og regionen rundt, opplyser ukrainske myndigheter. Mer enn et dusin regioner har blitt målrettet over hele Ukraina i løpet av den siste uken, sa president Volodymyr Zelensky, med Russland som har lansert mer enn 1550 angrepsdroner, 1560 guidede luftbomber og 62 missiler Ukraina. To separate angrep på Russland denne uken har drept minst 16 mennesker, inkludert ett barn.",
+      "published": "20.08. 08:08",
+      "publishedISO": "2026-08-20T08:08:02+02:00",
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "summary": "Hui Ka Yan, senteret, grunnleggeren av Kinas Evergrande Group Grunnleggeren av Evergrande, eiendomsgiganten i sentrum av Kinas boligmarkedsnedgang, har blitt dømt til livstid i fengsel og har fått alle hans personlige eiendeler konfiskert. Evergrande: Hvorfor skal jeg bry meg om den kriserammede kinesiske eiendomsgiganten? Engstelige kinesiske boligkjøpere spoler fra Evergrande-krisen. Kriserammede Kina Evergrande ble beordret til å avvikle Firmaet ble påført et stort slag da Beijing innførte tiltak i 2020 for å kontrollere gjelden i landets eiendomssektor.",
       "keyPoints": [
-        "Brannmenn kjemper mot en brann på lageret i Kiev tidlig på torsdag En bølge av russiske rakettangrep over natten har drept minst åtte mennesker i hovedstaden Kiev og regionen rundt, opplyser ukrainske myndigheter.",
-        "Mer enn et dusin regioner har blitt målrettet over hele Ukraina i løpet av den siste uken, sa president Volodymyr Zelensky, med Russland som har lansert mer enn 1550 angrepsdroner, 1560 guidede luftbomber og 62 missiler Ukraina.",
-        "To separate angrep på Russland denne uken har drept minst 16 mennesker, inkludert ett barn.",
-        "Et angrep i Brovary-distriktet i den bredere Kyiv-regionen drepte én mann og såret en annen, sa Kievs regionale guvernør Tymur Tkachenko."
+        "Hui Ka Yan, senteret, grunnleggeren av Kinas Evergrande Group Grunnleggeren av Evergrande, eiendomsgiganten i sentrum av Kinas boligmarkedsnedgang, har blitt dømt til livstid i fengsel og har fått alle hans personlige eiendeler konfiskert.",
+        "Evergrande: Why should I care about the crisis-hit Chinese property giant?",
+        "Engstelige kinesiske boligkjøpere spoler fra Evergrande-krisen. Kriserammede Kina Evergrande ble beordret til å avvikle Firmaet ble påført et stort slag da Beijing innførte tiltak i 2020 for å kontrollere gjelden i landets eiendomssektor.",
+        "Hui, også kjent som Xu Jiayin, reiste seg fra en ydmyk begynnelse på landsbygda i Kina, hvor han ble oppdratt av bestemoren før han bega seg inn i eiendomsutvikling og satte opp Evergrande i 1996."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d90/live/3ec0fe10-9c53-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/631719a58fbfaa.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
+      "localImage": "assets/news/787eb150f301ca.jpg",
       "score": 17
     },
     {
@@ -67,17 +88,38 @@
       "score": 15
     },
     {
+      "id": "52a66afe46c53e",
+      "category": "Økonomi",
+      "published": "20.08. 09:02",
+      "publishedISO": "2026-08-20T09:02:01+02:00",
+      "title": "Höegh Autoliners faller på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs er ned 0,33 prosent rett etter åpning torsdag. Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid. Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er ned 0,33 prosent rett etter åpning torsdag.",
+        "Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+        "Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid.",
+        "Höegh Autoliners venter at EBITDA i tredje kvartal blir på linje med andre kvartal."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/q6Vqw1/orkla-faller-5-prosent-paa-oslo-boers-etter-tallslipp-og-valutasmell",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
+      "localImage": "assets/news/52a66afe46c53e.jpg",
+      "score": 17
+    },
+    {
       "id": "2eefb516369ad9",
       "category": "Økonomi",
       "published": "20.08. 07:01",
       "publishedISO": "2026-08-20T07:01:44+02:00",
       "title": "Orkla tjente 2,15 milliarder før skatt",
-      "summary": "Orkla fikk inntekter på 16,7 milliarder kroner i andre kvartal, en nedgang på en milliard målt mot samme periode i fjor. På forhånd hadde analytikere ventet 17,7 milliarder kroner i inntekter, ifølge Bloomberg. Resultat før skatt kom på 2,15 milliarder kroner – i tråd med forhåndsestimatene.",
+      "summary": "Orkla fikk inntekter på 16,7 milliarder kroner i andre kvartal, en nedgang på nær en milliard målt mot samme periode i fjor. Resultat før skatt kom på 2,15 milliarder kroner – i tråd med forhåndsestimatene. Orkla utbetalte 6 milliarder kroner i utbytte til aksjonærene i kvartalet.",
       "keyPoints": [
-        "Orkla fikk inntekter på 16,7 milliarder kroner i andre kvartal, en nedgang på en milliard målt mot samme periode i fjor.",
+        "Orkla fikk inntekter på 16,7 milliarder kroner i andre kvartal, en nedgang på nær en milliard målt mot samme periode i fjor.",
         "Resultat før skatt kom på 2,15 milliarder kroner – i tråd med forhåndsestimatene.",
-        "På forhånd hadde analytikere ventet 17,7 milliarder kroner i inntekter, ifølge Bloomberg.",
-        "Orkla står bak en rekke merkevarer innen blant annet mat og dagligvarer, som Grandiosa, Stabburet, Kims, Nidar, Jordan og Zalo."
+        "Orkla utbetalte 6 milliarder kroner i utbytte til aksjonærene i kvartalet.",
+        "På forhånd hadde analytikere ventet 17,7 milliarder kroner i inntekter, ifølge Bloomberg."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -85,27 +127,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/33244073-0ebf-3479-bbc5-15ec9f0d715e?fit=crop&h=675&upscale=true&w=1200&s=7401d0b8259753dc56e465a62f2800ed7a9038b8",
       "localImage": "assets/news/2eefb516369ad9.jpg",
-      "score": 17
-    },
-    {
-      "id": "992d9de8048871",
-      "category": "Økonomi",
-      "published": "20.08. 06:42",
-      "publishedISO": "2026-08-20T06:42:13+02:00",
-      "title": "Founder of China's Evergrande sentenced to life in prison",
-      "summary": "Hui Ka Yan, senteret, grunnleggeren av Kinas Evergrande Group Grunnleggeren av Evergrande, eiendomsgiganten i sentrum av Kinas boligmarkedsnedgang, har blitt dømt til livstid i fengsel og har fått alle hans personlige eiendeler konfiskert. Huis straffutmåling markerer et sentralt øyeblikk i nedfallet fra Evergrandes kollaps, som rystet Kinas eiendomssektor og fikk investorer og innenlandske banker til å gruble. Hui, også kjent som Xu Jiayin, reiste seg fra en ydmyk begynnelse på landsbygda i Kina, hvor han ble oppdratt av bestemoren før han bega seg inn i eiendomsutvikling og satte opp Evergrande i 1996.",
-      "keyPoints": [
-        "Hui Ka Yan, senteret, grunnleggeren av Kinas Evergrande Group Grunnleggeren av Evergrande, eiendomsgiganten i sentrum av Kinas boligmarkedsnedgang, har blitt dømt til livstid i fengsel og har fått alle hans personlige eiendeler konfiskert.",
-        "Hui, også kjent som Xu Jiayin, reiste seg fra en ydmyk begynnelse på landsbygda i Kina, hvor han ble oppdratt av bestemoren før han bega seg inn i eiendomsutvikling og satte opp Evergrande i 1996.",
-        "Huis straffutmåling markerer et sentralt øyeblikk i nedfallet fra Evergrandes kollaps, som rystet Kinas eiendomssektor og fikk investorer og innenlandske banker til å gruble.",
-        "Evergrandes implosjon har ofte fått skylden for å utløse en bredere nedgang i Kinas eiendomsmarked som fortsetter å tynge økonomien."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7941/live/f514e1b0-9c4c-11f1-a7e0-fd27165ce529.jpg",
-      "localImage": "assets/news/992d9de8048871.jpg",
       "score": 17
     },
     {
@@ -127,28 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
       "localImage": "assets/news/494c9376dd1c85.jpg",
-      "score": 15
-    },
-    {
-      "id": "01d39718651ed4",
-      "category": "Verden",
-      "published": "20.08. 05:22",
-      "publishedISO": "2026-08-20T05:22:57+02:00",
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-      "summary": "President Donald Trump har sagt at USA vil påføre alle land som hjelper eller gjør forretninger med Iran «ENORME økonomiske konsekvenser». Han skrev med store bokstaver på Truth Social at han startet \"den mest knusende økonomiske operasjonen som noen gang er tatt mot noe land!\" Han ga ingen ytterligere detaljer, og nevnte ingen annen nasjon. I onsdagskveldens innlegg på sosiale medier sa Trump at han lanserte «økonomisk D-dag» om Iran fordi den islamske republikken ikke hadde klart å inngå en avtale med USA. \"ETHVERT land som lar sine finansinstitusjoner, virksomheter, flyplasser eller offentlige enheter gi noen form for livline til Iran vil selv møte ENORME økonomiske konsekvenser,\" sa Trump.",
-      "keyPoints": [
-        "I onsdagskveldens innlegg på sosiale medier sa Trump at han lanserte «økonomisk D-dag» om Iran fordi den islamske republikken ikke hadde klart å inngå en avtale med USA. \"ETHVERT land som lar sine finansinstitusjoner, virksomheter, flyplasser eller offentlige enheter gi noen form for livline til Iran vil selv møte ENORME økonomiske konsekvenser,\" sa Trump.",
-        "President Donald Trump har sagt at USA vil påføre alle land som hjelper eller gjør forretninger med Iran «ENORME økonomiske konsekvenser».",
-        "Han skrev med store bokstaver på Truth Social at han startet \"den mest knusende økonomiske operasjonen som noen gang er tatt mot noe land!\" Han ga ingen ytterligere detaljer, og nevnte ingen annen nasjon.",
-        "Du vet hvem du er.\" Det kommer en dag etter at De forente arabiske emirater, en amerikansk alliert, kunngjorde at de ville kutte alle finansielle og økonomiske bånd med Iran, etter en ny missiltrussel fra landet."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725b/live/5ef21940-9c2a-11f1-aa8e-d328e95deb46.jpg",
-      "localImage": "assets/news/01d39718651ed4.jpg",
-      "score": 17
+      "score": 14
     },
     {
       "id": "d6495451483cd9",
@@ -190,28 +190,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/396c840abfd5a2.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "416a78013408d3",
-      "category": "Økonomi",
-      "published": "18.08. 15:30",
-      "publishedISO": "2026-08-18T15:30:59+02:00",
-      "title": "Brikke-aksjer raste på rød Wall Street",
-      "summary": "Investorene frykter stigende renter: –⁠ Det er bare et spørsmål om når, ikke om, markedet vil begynne å reagere, sier investeringsdirektør. Slik endte dagen for noen av de tonenagivende indeksene på Wall Street: Verst gikk det utover chip-produsentene, som ellers har vært børsvinnerne i år. I Frankrike er 30-årsrenten på sitt høyeste siden 2008, mens den britiske nærmer seg 6 prosent.",
+      "id": "721e3b96e7b8cf",
+      "category": "Norge",
+      "published": "19.08. 20:10",
+      "publishedISO": "2026-08-19T20:10:37+02:00",
+      "title": "127 milliarder brukt på å lokke folk til Finnmark: – Uten de pengene kunne vi vært bare 50.000",
+      "summary": "Tidligere ordfører i Porsanger føler at hennes arbeid med å jobbe mot fraflytting i Finnmark har vært bortkastet. Både tettstedet og kommunen har opplevd stor fraflytting. – Hvis vi ikke hadde hatt de virkemidlene i innsatssonen, som har fungert siden Syse-regjeringa på begynnelsen av 90-tallet, hadde vi kanskje vært 50.000 innbyggere i Finnmark i dag. Hun tenker på hva folketallet i Finnmark kunne ha vært uten tiltakssonen.",
       "keyPoints": [
-        "Slik endte dagen for noen av de tonenagivende indeksene på Wall Street: Verst gikk det utover chip-produsentene, som ellers har vært børsvinnerne i år.",
-        "I Frankrike er 30-årsrenten på sitt høyeste siden 2008, mens den britiske nærmer seg 6 prosent.",
-        "Investorene frykter stigende renter: –⁠ Det er bare et spørsmål om når, ikke om, markedet vil begynne å reagere, sier investeringsdirektør.",
-        "Renten på amerikanske statsobligasjoner med 30 års løpetid nådde 5,22 prosent på en auksjon i forrige uke."
+        "Hun tenker på hva folketallet i Finnmark kunne ha vært uten tiltakssonen.",
+        "Både tettstedet og kommunen har opplevd stor fraflytting. – Hvis vi ikke hadde hatt de virkemidlene i innsatssonen, som har fungert siden Syse-regjeringa på begynnelsen av 90-tallet, hadde vi kanskje vært 50.000 innbyggere i Finnmark i dag.",
+        "Tidligere ordfører i Porsanger føler at hennes arbeid med å jobbe mot fraflytting i Finnmark har vært bortkastet.",
+        "Fylkesordfører i Finnmark, Hans-Jacob Bønå (H), er enig med statsråden i at milliardene brukt på tiltak i nord, har vært viktige. – Jeg tror det er ganske vel dokumentert at det har hatt effekt."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/JOL8Q8/tek-fall-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/50a6a025-0f4b-3718-9457-f5fedb04150a?fit=crop&h=675&upscale=true&w=1200&s=c3d1c6ec7d2a8ef3b3d269847f12cea40b22a6bf",
-      "localImage": "assets/news/416a78013408d3.jpg",
-      "score": 16
+      "url": "https://www.nrk.no/sapmi/127-milliarder-brukt-pa-a-lokke-folk-til-finnmark_-_-uten-de-pengene-kunne-vi-vaert-bare-50.000-1.17993046",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ovic-wDPlSHokJThbNKbxw0CguRlVK3rou28i5po7abw.jpg",
+      "localImage": "assets/news/721e3b96e7b8cf.jpg",
+      "score": 15
     }
   ]
 }
