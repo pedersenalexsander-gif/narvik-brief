@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.08.2026 kl. 17:55",
-  "updatedISO": "2026-08-20T17:55:20.589584+02:00",
+  "updatedAt": "20.08.2026 kl. 19:15",
+  "updatedISO": "2026-08-20T19:15:38.655116+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
       "localImage": "assets/news/787eb150f301ca.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "dce8aca9ed545a",
@@ -88,27 +88,6 @@
       "score": 14
     },
     {
-      "id": "34d8857b1daa70",
-      "category": "Økonomi",
-      "published": "20.08. 15:31",
-      "publishedISO": "2026-08-20T15:31:00+02:00",
-      "title": "Nedgang på Wall Street",
-      "summary": "Trump varsler «økonomisk krigføring» mot Iran samtidig som oljeprisen skyter i været Slik går det med de toneangivende indeksene rundt klokken 17.05: Spenningen mellom USA og Iran fortsetter å eskalere. Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump. Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg.",
-      "keyPoints": [
-        "Trump varsler «økonomisk krigføring» mot Iran samtidig som oljeprisen skyter i været Slik går det med de toneangivende indeksene rundt klokken 17.05: Spenningen mellom USA og Iran fortsetter å eskalere.",
-        "Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump.",
-        "Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg.",
-        "Nordsjøolje Brent (spot) stiger 2,49 prosent til 93,8 dollar per fat."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4a88J/nedgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/26bcfd1a-6414-3ca5-9f0a-e12a8d65e314?fit=crop&h=675&upscale=true&w=1200&s=baf8c98405717541a364e4d333e1067f7a3a26fc",
-      "localImage": "assets/news/34d8857b1daa70.jpg",
-      "score": 24
-    },
-    {
       "id": "786339fff5056e",
       "category": "Økonomi",
       "published": "20.08. 09:02",
@@ -127,28 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
       "localImage": "assets/news/786339fff5056e.jpg",
-      "score": 19
-    },
-    {
-      "id": "494c9376dd1c85",
-      "category": "AI",
-      "published": "19.08. 18:14",
-      "publishedISO": "2026-08-19T18:14:46+02:00",
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antallet brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige andel av skatten» da reglene ble kunngjort i fjor.",
-      "keyPoints": [
-        "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
-        "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
-        "HMRC sa at de nye maktene ville tvinge \"crypto bros til å betale sin rettferdige andel av skatten\" da reglene ble kunngjort i fjor.",
-        "Skattekontoret estimerte at endringene ville bidra til å skaffe opptil 315 millioner pund innen april 2030, og la til at dette var det samme beløpet som trengs for å finansiere mer enn 10 000 nyutdannede sykepleiere i et år. \"Når HMRC har disse dataene, vil skatteundersøkelser av investorer i kryptovaluta være som å skyte fisk i en tønne,\" advarte Chauhan."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
-      "localImage": "assets/news/494c9376dd1c85.jpg",
-      "score": 13
+      "score": 18
     },
     {
       "id": "3830460cb601ea",
@@ -172,6 +130,48 @@
       "score": 17
     },
     {
+      "id": "494c9376dd1c85",
+      "category": "AI",
+      "published": "19.08. 18:14",
+      "publishedISO": "2026-08-19T18:14:46+02:00",
+      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antallet brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige andel av skatten» da reglene ble kunngjort i fjor.",
+      "keyPoints": [
+        "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
+        "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
+        "HMRC sa at de nye maktene ville tvinge \"crypto bros til å betale sin rettferdige andel av skatten\" da reglene ble kunngjort i fjor.",
+        "Skattekontoret estimerte at endringene ville bidra til å skaffe opptil 315 millioner pund innen april 2030, og la til at dette var det samme beløpet som trengs for å finansiere mer enn 10 000 nyutdannede sykepleiere i et år. \"Når HMRC har disse dataene, vil skatteundersøkelser av investorer i kryptovaluta være som å skyte fisk i en tønne,\" advarte Chauhan."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
+      "localImage": "assets/news/494c9376dd1c85.jpg",
+      "score": 13
+    },
+    {
+      "id": "34d8857b1daa70",
+      "category": "Økonomi",
+      "published": "20.08. 15:31",
+      "publishedISO": "2026-08-20T15:31:00+02:00",
+      "title": "Nedgang på Wall Street",
+      "summary": "Slik går det med de toneangivende indeksene rundt klokken 18.25: Spenningen mellom USA og Iran fortsetter å eskalere. Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump. Nordsjøolje Brent (spot) stiger 2,49 prosent til 93,8 dollar per fat.",
+      "keyPoints": [
+        "Slik går det med de toneangivende indeksene rundt klokken 18.25: Spenningen mellom USA og Iran fortsetter å eskalere.",
+        "Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump.",
+        "Nordsjøolje Brent (spot) stiger 2,49 prosent til 93,8 dollar per fat.",
+        "Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4a88J/nedgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/26bcfd1a-6414-3ca5-9f0a-e12a8d65e314?fit=crop&h=675&upscale=true&w=1200&s=baf8c98405717541a364e4d333e1067f7a3a26fc",
+      "localImage": "assets/news/34d8857b1daa70.jpg",
+      "score": 16
+    },
+    {
       "id": "295e6e9d206cfc",
       "category": "Økonomi",
       "published": "20.08. 13:33",
@@ -190,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/dbd4130c-118b-306e-bf2b-ccfff1310502?fit=crop&h=675&upscale=true&w=1200&s=c917d16f696bac9c15692d57727186c49e343d20",
       "localImage": "assets/news/295e6e9d206cfc.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d5f1748ce57b24",
