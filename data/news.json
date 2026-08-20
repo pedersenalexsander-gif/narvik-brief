@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.08.2026 kl. 14:00",
-  "updatedISO": "2026-08-20T14:00:28.696313+02:00",
+  "updatedAt": "20.08.2026 kl. 16:11",
+  "updatedISO": "2026-08-20T16:11:37.011534+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ehNVnJw0sfgLZ5NmMTdsGQisWBUu3DvbbjxsdoRmjfrQ.jpg",
       "localImage": "assets/news/e18a7564aaa187.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "787eb150f301ca",
@@ -85,7 +85,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64c9/live/834539a0-9c1e-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/dce8aca9ed545a.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "34d8857b1daa70",
+      "category": "Økonomi",
+      "published": "20.08. 15:31",
+      "publishedISO": "2026-08-20T15:31:00+02:00",
+      "title": "Nedgang på Wall Street",
+      "summary": "Trump varsler «økonomisk krigføring» mot Iran samtidig som oljeprisen skyter i været Slik går det med de toneangivende indeksene kort tid etter åpning: Spenningen mellom USA og Iran fortsetter å eskalere. Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump. Bitcoin handles i skrivende stund for 71.887,86 dollar, opp mer enn ti prosent det siste døgnet.",
+      "keyPoints": [
+        "Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump.",
+        "Trump varsler «økonomisk krigføring» mot Iran samtidig som oljeprisen skyter i været Slik går det med de toneangivende indeksene kort tid etter åpning: Spenningen mellom USA og Iran fortsetter å eskalere.",
+        "Bitcoin handles i skrivende stund for 71.887,86 dollar, opp mer enn ti prosent det siste døgnet.",
+        "Nordsjøolje Brent (spot) stiger 2,4 prosent til 93,7 dollar per fat."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4a88J/nedgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/26bcfd1a-6414-3ca5-9f0a-e12a8d65e314?fit=crop&h=675&upscale=true&w=1200&s=baf8c98405717541a364e4d333e1067f7a3a26fc",
+      "localImage": "assets/news/34d8857b1daa70.jpg",
+      "score": 24
     },
     {
       "id": "52a66afe46c53e",
@@ -106,7 +127,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
       "localImage": "assets/news/52a66afe46c53e.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "494c9376dd1c85",
+      "category": "AI",
+      "published": "19.08. 18:14",
+      "publishedISO": "2026-08-19T18:14:46+02:00",
+      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antallet brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige andel av skatten» da reglene ble kunngjort i fjor.",
+      "keyPoints": [
+        "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
+        "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
+        "HMRC sa at de nye maktene ville tvinge \"crypto bros til å betale sin rettferdige andel av skatten\" da reglene ble kunngjort i fjor.",
+        "Skattekontoret estimerte at endringene ville bidra til å skaffe opptil 315 millioner pund innen april 2030, og la til at dette var det samme beløpet som trengs for å finansiere mer enn 10 000 nyutdannede sykepleiere i et år. \"Når HMRC har disse dataene, vil skatteundersøkelser av investorer i kryptovaluta være som å skyte fisk i en tønne,\" advarte Chauhan."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
+      "localImage": "assets/news/494c9376dd1c85.jpg",
+      "score": 13
     },
     {
       "id": "295e6e9d206cfc",
@@ -130,27 +172,6 @@
       "score": 17
     },
     {
-      "id": "494c9376dd1c85",
-      "category": "AI",
-      "published": "19.08. 18:14",
-      "publishedISO": "2026-08-19T18:14:46+02:00",
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige del av skatten» da reglene ble kunngjort i fjor.",
-      "keyPoints": [
-        "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
-        "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
-        "HMRC sa at de nye maktene ville tvinge \"crypto bros til å betale sin rettferdige andel av skatten\" da reglene ble kunngjort i fjor.",
-        "Skattekontoret estimerte at endringene ville bidra til å skaffe opptil 315 millioner pund innen april 2030, og la til at dette var det samme beløpet som trengs for å finansiere mer enn 10 000 nyutdannede sykepleiere i et år. \"Når HMRC har disse dataene, vil skatteundersøkelser av investorer i kryptovaluta være som å skyte fisk i en tønne,\" advarte Chauhan."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
-      "localImage": "assets/news/494c9376dd1c85.jpg",
-      "score": 14
-    },
-    {
       "id": "d5f1748ce57b24",
       "category": "Økonomi",
       "published": "20.08. 09:31",
@@ -169,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c0260e37-552d-3cc0-8a7b-82edbdd1f561?fit=crop&h=675&upscale=true&w=1200&s=e0766ec7d0d571df4667bf0364349284baf7cb1c",
       "localImage": "assets/news/d5f1748ce57b24.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "2eefb516369ad9",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/33244073-0ebf-3479-bbc5-15ec9f0d715e?fit=crop&h=675&upscale=true&w=1200&s=7401d0b8259753dc56e465a62f2800ed7a9038b8",
       "localImage": "assets/news/2eefb516369ad9.jpg",
       "score": 16
-    },
-    {
-      "id": "396c840abfd5a2",
-      "category": "Verden",
-      "published": "19.08. 22:34",
-      "publishedISO": "2026-08-19T22:34:39+02:00",
-      "title": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Zelensky prøver å fikse krisen rundt avsettingen av forsvarsministeren og teller kostnadene. Sjåførene risikerer døden på Ukrainas farligste bussruter Zelensky har ikke svart direkte på videoen fra Fedorov, hvis avskjedigelse utløste protester over hele landet. Men i sin egen videomelding sent på onsdag nevnte den ukrainske presidenten oppgavene den nylig bekreftede forsvarsministeren Yevhenii Khmara stod overfor, inkludert forsvar mot dødelige russiske luftangrep og utvidelse av Ukrainas «dyp-angrepsevner» inne i Russland. Rundt 100 demonstranter samlet seg utenfor det ukrainske parlamentet onsdag morgen, og ropte «bring Fedorov tilbake som forsvarsminister» og «vi er lei, vi vil ha dialog».",
-      "keyPoints": [
-        "Men i sin egen videomelding sent på onsdag nevnte den ukrainske presidenten oppgavene den nylig bekreftede forsvarsministeren Yevhenii Khmara stod overfor, inkludert forsvar mot dødelige russiske luftangrep og utvidelse av Ukrainas «dyp-angrepsevner» inne i Russland.",
-        "Rundt 100 demonstranter samlet seg utenfor det ukrainske parlamentet onsdag morgen, og ropte «bring Fedorov tilbake som forsvarsminister» og «vi er lei, vi vil ha dialog».",
-        "Zelensky prøver å fikse krisen rundt avsettingen av forsvarsministeren og teller kostnadene. Sjåførene risikerer døden på Ukrainas farligste bussruter Zelensky har ikke svart direkte på videoen fra Fedorov, hvis avskjedigelse utløste protester over hele landet.",
-        "Hans oppfordring til valg har gjort noen ukrainske kommentatorer sinte, inkludert de som støttet Fedorovs retur som forsvarsminister."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/396c840abfd5a2.jpg",
-      "score": 14
     }
   ]
 }
