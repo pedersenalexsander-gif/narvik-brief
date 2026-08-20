@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.08.2026 kl. 13:00",
-  "updatedISO": "2026-08-20T13:00:00.643334+02:00",
+  "updatedAt": "20.08.2026 kl. 14:00",
+  "updatedISO": "2026-08-20T14:00:28.696313+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
       "localImage": "assets/news/787eb150f301ca.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "dce8aca9ed545a",
@@ -88,6 +88,69 @@
       "score": 15
     },
     {
+      "id": "52a66afe46c53e",
+      "category": "Økonomi",
+      "published": "20.08. 09:02",
+      "publishedISO": "2026-08-20T09:02:01+02:00",
+      "title": "Höegh Autoliners faller på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs er ned 0,44 prosent rundt kl. Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid. Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er ned 0,44 prosent rundt kl.",
+        "Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+        "Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid.",
+        "Höegh Autoliners venter at EBITDA i tredje kvartal blir på linje med andre kvartal."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/q6Vqw1/orkla-faller-5-prosent-paa-oslo-boers-etter-tallslipp-og-valutasmell",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
+      "localImage": "assets/news/52a66afe46c53e.jpg",
+      "score": 20
+    },
+    {
+      "id": "295e6e9d206cfc",
+      "category": "Økonomi",
+      "published": "20.08. 13:33",
+      "publishedISO": "2026-08-20T13:33:03+02:00",
+      "title": "Bitcoin kraftig opp – bikker 70.000 dollar",
+      "summary": "Bitcoin-prisen har steget til rundt 71.900 dollar ved 13-tiden torsdag, fra gårsdagens nivåer rett i overkant av 64.000 dollar. Det er opp mer enn 11 prosent de siste 24 timene, ifølge Coinmarketcap. Kalles ofte «verdens viktigste rente» fordi den påvirker renter og finansmarkeder over hele verden. var opp i nesten 4,75 prosent på det aller høyeste.",
+      "keyPoints": [
+        "Bitcoin-prisen har steget til rundt 71.900 dollar ved 13-tiden torsdag, fra gårsdagens nivåer rett i overkant av 64.000 dollar.",
+        "Det er opp mer enn 11 prosent de siste 24 timene, ifølge Coinmarketcap.",
+        "Kalles ofte «verdens viktigste rente» fordi den påvirker renter og finansmarkeder over hele verden. var opp i nesten 4,75 prosent på det aller høyeste.",
+        "Den anledningen brukte presidenten til å be politikerne i Kongressen om å få opp farten med å vedta Clarity ActEn foreslått lov i USA som skal gjøre det tydeligere hvordan banker kan involvere seg i kryptovaluta.."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/k0BkyA/bitcoin-kraftig-opp-bikker-70-000-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/dbd4130c-118b-306e-bf2b-ccfff1310502?fit=crop&h=675&upscale=true&w=1200&s=c917d16f696bac9c15692d57727186c49e343d20",
+      "localImage": "assets/news/295e6e9d206cfc.jpg",
+      "score": 17
+    },
+    {
+      "id": "494c9376dd1c85",
+      "category": "AI",
+      "published": "19.08. 18:14",
+      "publishedISO": "2026-08-19T18:14:46+02:00",
+      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige del av skatten» da reglene ble kunngjort i fjor.",
+      "keyPoints": [
+        "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
+        "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
+        "HMRC sa at de nye maktene ville tvinge \"crypto bros til å betale sin rettferdige andel av skatten\" da reglene ble kunngjort i fjor.",
+        "Skattekontoret estimerte at endringene ville bidra til å skaffe opptil 315 millioner pund innen april 2030, og la til at dette var det samme beløpet som trengs for å finansiere mer enn 10 000 nyutdannede sykepleiere i et år. \"Når HMRC har disse dataene, vil skatteundersøkelser av investorer i kryptovaluta være som å skyte fisk i en tønne,\" advarte Chauhan."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
+      "localImage": "assets/news/494c9376dd1c85.jpg",
+      "score": 14
+    },
+    {
       "id": "d5f1748ce57b24",
       "category": "Økonomi",
       "published": "20.08. 09:31",
@@ -107,48 +170,6 @@
       "image": "https://akamai.vgc.no/v2/images/c0260e37-552d-3cc0-8a7b-82edbdd1f561?fit=crop&h=675&upscale=true&w=1200&s=e0766ec7d0d571df4667bf0364349284baf7cb1c",
       "localImage": "assets/news/d5f1748ce57b24.jpg",
       "score": 17
-    },
-    {
-      "id": "52a66afe46c53e",
-      "category": "Økonomi",
-      "published": "20.08. 09:02",
-      "publishedISO": "2026-08-20T09:02:01+02:00",
-      "title": "Höegh Autoliners faller på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs er ned 0,57 prosent rundt kl. Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid. Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs er ned 0,57 prosent rundt kl.",
-        "Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
-        "Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid.",
-        "Höegh Autoliners venter at EBITDA i tredje kvartal blir på linje med andre kvartal."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/q6Vqw1/orkla-faller-5-prosent-paa-oslo-boers-etter-tallslipp-og-valutasmell",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
-      "localImage": "assets/news/52a66afe46c53e.jpg",
-      "score": 17
-    },
-    {
-      "id": "494c9376dd1c85",
-      "category": "AI",
-      "published": "19.08. 18:14",
-      "publishedISO": "2026-08-19T18:14:46+02:00",
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antallet brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige andel av skatten» da reglene ble kunngjort i fjor.",
-      "keyPoints": [
-        "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
-        "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
-        "HMRC sa at de nye maktene ville tvinge \"crypto bros til å betale sin rettferdige andel av skatten\" da reglene ble kunngjort i fjor.",
-        "Skattekontoret estimerte at endringene ville bidra til å skaffe opptil 315 millioner pund innen april 2030, og la til at dette var det samme beløpet som trengs for å finansiere mer enn 10 000 nyutdannede sykepleiere i et år. \"Når HMRC har disse dataene, vil skatteundersøkelser av investorer i kryptovaluta være som å skyte fisk i en tønne,\" advarte Chauhan."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
-      "localImage": "assets/news/494c9376dd1c85.jpg",
-      "score": 14
     },
     {
       "id": "2eefb516369ad9",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/396c840abfd5a2.jpg",
-      "score": 15
-    },
-    {
-      "id": "a9b5be54026d52",
-      "category": "USA",
-      "published": "19.08. 20:30",
-      "publishedISO": "2026-08-19T20:30:15+02:00",
-      "title": "Watch: Trump leads tour of White House helipad construction site",
-      "summary": "President Donald Trump ga en improvisert omvisning i helipaden som er under bygging på South Lawn i Det hvite hus. Se: Trump leder omvisning på byggeplassen for helikopterplattformen i Det hvite hus. Video, 00:00:43Se: Trump leder omvisning på helikopterplassbyggeplassen i Det hvite hus Up Next.",
-      "keyPoints": [
-        "Watch: Trump leads tour of White House helipad construction site.",
-        "President Donald Trump ga en improvisert omvisning i helipaden som er under bygging på South Lawn i Det hvite hus.",
-        "Helipaden er det siste byggeprosjektet i Trumps overhaling av Det hvite hus.",
-        "Video, 00:01:54Se: Hva vi lærte av åpningsuttalelser i Tupac-drapsrettssaken Se: Hvorfor har Trump gått over til Nord-Korea?"
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c4g61p4n1z4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ecb3/live/c7b8d7f0-9c2c-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/a9b5be54026d52.jpg",
       "score": 14
     }
   ]
