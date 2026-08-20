@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.08.2026 kl. 16:11",
-  "updatedISO": "2026-08-20T16:11:37.011534+02:00",
+  "updatedAt": "20.08.2026 kl. 17:55",
+  "updatedISO": "2026-08-20T17:55:20.589584+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ST-IInUU6TVqJynow7a4KwOVzlosKm5GX0rbOe_Qv2mw.jpg",
       "localImage": "assets/news/9c1008435b210e.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "e18a7564aaa187",
@@ -93,12 +93,12 @@
       "published": "20.08. 15:31",
       "publishedISO": "2026-08-20T15:31:00+02:00",
       "title": "Nedgang på Wall Street",
-      "summary": "Trump varsler «økonomisk krigføring» mot Iran samtidig som oljeprisen skyter i været Slik går det med de toneangivende indeksene kort tid etter åpning: Spenningen mellom USA og Iran fortsetter å eskalere. Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump. Bitcoin handles i skrivende stund for 71.887,86 dollar, opp mer enn ti prosent det siste døgnet.",
+      "summary": "Trump varsler «økonomisk krigføring» mot Iran samtidig som oljeprisen skyter i været Slik går det med de toneangivende indeksene rundt klokken 17.05: Spenningen mellom USA og Iran fortsetter å eskalere. Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump. Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg.",
       "keyPoints": [
+        "Trump varsler «økonomisk krigføring» mot Iran samtidig som oljeprisen skyter i været Slik går det med de toneangivende indeksene rundt klokken 17.05: Spenningen mellom USA og Iran fortsetter å eskalere.",
         "Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump.",
-        "Trump varsler «økonomisk krigføring» mot Iran samtidig som oljeprisen skyter i været Slik går det med de toneangivende indeksene kort tid etter åpning: Spenningen mellom USA og Iran fortsetter å eskalere.",
-        "Bitcoin handles i skrivende stund for 71.887,86 dollar, opp mer enn ti prosent det siste døgnet.",
-        "Nordsjøolje Brent (spot) stiger 2,4 prosent til 93,7 dollar per fat."
+        "Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg.",
+        "Nordsjøolje Brent (spot) stiger 2,49 prosent til 93,8 dollar per fat."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -109,14 +109,14 @@
       "score": 24
     },
     {
-      "id": "52a66afe46c53e",
+      "id": "786339fff5056e",
       "category": "Økonomi",
       "published": "20.08. 09:02",
       "publishedISO": "2026-08-20T09:02:01+02:00",
-      "title": "Höegh Autoliners faller på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs er ned 0,44 prosent rundt kl. Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid. Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+      "title": "Höegh Autoliners falt på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs gikk ned 0,23 prosent torsdag. Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid. Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er ned 0,44 prosent rundt kl.",
+        "Hovedindeksen på Oslo Børs gikk ned 0,23 prosent torsdag.",
         "Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
         "Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid.",
         "Höegh Autoliners venter at EBITDA i tredje kvartal blir på linje med andre kvartal."
@@ -126,7 +126,7 @@
       "url": "https://e24.no/boers-og-finans/i/q6Vqw1/orkla-faller-5-prosent-paa-oslo-boers-etter-tallslipp-og-valutasmell",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
-      "localImage": "assets/news/52a66afe46c53e.jpg",
+      "localImage": "assets/news/786339fff5056e.jpg",
       "score": 19
     },
     {
@@ -149,6 +149,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
       "localImage": "assets/news/494c9376dd1c85.jpg",
       "score": 13
+    },
+    {
+      "id": "3830460cb601ea",
+      "category": "Økonomi",
+      "published": "20.08. 16:23",
+      "publishedISO": "2026-08-20T16:23:52+02:00",
+      "title": "Dro inn nær en million på foredrag",
+      "summary": "Ifølge statssekretær Bård Flaarønning (Ap) i Finansdepartementet ønsker ikke Stoltenberg å kommentere resultatet utover at inntektene kommer fra foredragsoppdrag han gjorde mellom jobbene som Nato-sjef og finansminister – altså mellom oktober 2024 og februar 2025. E24 har tidligere omtalt at Stoltenberg blant annet holdt foredrag for industriimperiet Wallenberg i Stockholm, konsulentselskapet Deloitte i Göteborg og Bank of America i Davos. E24 kjenner ikke til om de 900.000 kronene han tjente på foredrag, inkluderer oppdrag gjennomført i 2024.",
+      "keyPoints": [
+        "E24 kjenner ikke til om de 900.000 kronene han tjente på foredrag, inkluderer oppdrag gjennomført i 2024.",
+        "E24 har tidligere omtalt at Stoltenberg blant annet holdt foredrag for industriimperiet Wallenberg i Stockholm, konsulentselskapet Deloitte i Göteborg og Bank of America i Davos.",
+        "Ifølge statssekretær Bård Flaarønning (Ap) i Finansdepartementet ønsker ikke Stoltenberg å kommentere resultatet utover at inntektene kommer fra foredragsoppdrag han gjorde mellom jobbene som Nato-sjef og finansminister – altså mellom oktober 2024 og februar 2025.",
+        "Finansminister Jens Stoltenberg (Ap) selskap Tinkern AS omsatte for 900.000 kroner i 2025."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/OkaBeq/dro-inn-naer-en-million-paa-foredrag",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a4c42227-f09e-33f7-8404-c83c387938b6?fit=crop&h=675&upscale=true&w=1200&s=f797cd2546b3dd7d418d5dbfdc5c20ce90ed54d5",
+      "localImage": "assets/news/3830460cb601ea.jpg",
+      "score": 17
     },
     {
       "id": "295e6e9d206cfc",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c0260e37-552d-3cc0-8a7b-82edbdd1f561?fit=crop&h=675&upscale=true&w=1200&s=e0766ec7d0d571df4667bf0364349284baf7cb1c",
       "localImage": "assets/news/d5f1748ce57b24.jpg",
-      "score": 16
-    },
-    {
-      "id": "2eefb516369ad9",
-      "category": "Økonomi",
-      "published": "20.08. 07:01",
-      "publishedISO": "2026-08-20T07:01:44+02:00",
-      "title": "Orkla tjente 2,15 milliarder før skatt",
-      "summary": "Orkla fikk inntekter på 16,7 milliarder kroner i andre kvartal, en nedgang på nær en milliard målt mot samme periode i fjor. Resultat før skatt kom på 2,15 milliarder kroner – i tråd med forhåndsestimatene. Orkla utbetalte 6 milliarder kroner i utbytte til aksjonærene i kvartalet.",
-      "keyPoints": [
-        "Orkla fikk inntekter på 16,7 milliarder kroner i andre kvartal, en nedgang på nær en milliard målt mot samme periode i fjor.",
-        "Resultat før skatt kom på 2,15 milliarder kroner – i tråd med forhåndsestimatene.",
-        "Orkla utbetalte 6 milliarder kroner i utbytte til aksjonærene i kvartalet.",
-        "På forhånd hadde analytikere ventet 17,7 milliarder kroner i inntekter, ifølge Bloomberg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/JOLaB8/orkla-tjente-2-15-milliarder-foer-skatt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/33244073-0ebf-3479-bbc5-15ec9f0d715e?fit=crop&h=675&upscale=true&w=1200&s=7401d0b8259753dc56e465a62f2800ed7a9038b8",
-      "localImage": "assets/news/2eefb516369ad9.jpg",
       "score": 16
     }
   ]
