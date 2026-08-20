@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.08.2026 kl. 19:15",
-  "updatedISO": "2026-08-20T19:15:38.655116+02:00",
+  "updatedAt": "20.08.2026 kl. 21:19",
+  "updatedISO": "2026-08-20T21:19:28.000300+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,28 +43,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ehNVnJw0sfgLZ5NmMTdsGQisWBUu3DvbbjxsdoRmjfrQ.jpg",
       "localImage": "assets/news/e18a7564aaa187.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "787eb150f301ca",
+      "id": "f91784ee10917f",
       "category": "Verden",
-      "published": "20.08. 08:08",
-      "publishedISO": "2026-08-20T08:08:02+02:00",
-      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "summary": "Hui Ka Yan, senteret, grunnleggeren av Kinas Evergrande Group Grunnleggeren av Evergrande, eiendomsgiganten i sentrum av Kinas boligmarkedsnedgang, har blitt dømt til livstid i fengsel og har fått alle hans personlige eiendeler konfiskert. Evergrande: Hvorfor skal jeg bry meg om den kriserammede kinesiske eiendomsgiganten? Engstelige kinesiske boligkjøpere spoler fra Evergrande-krisen. Kriserammede Kina Evergrande ble beordret til å avvikle Firmaet ble påført et stort slag da Beijing innførte tiltak i 2020 for å kontrollere gjelden i landets eiendomssektor.",
+      "published": "20.08. 19:14",
+      "publishedISO": "2026-08-20T19:14:55+02:00",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "summary": "Ordføreren i Kiev, Vitali Klitschko, sier til BBC Ukraina trenger mer hjelp fra sine partnere for å beskytte sivile Russlands siste angrep på Kiev markerer første gang på flere måneder kritisk infrastruktur \"ble målrettet angrepet\" i den ukrainske hovedstaden, sa byens ordfører. Torsdag advarte Kievs ordfører Vitali Klitsjko innbyggere i Desnyansky og deler av Dnipro-distriktene kan oppleve en forstyrret tilførsel av varmt vann, etter angrepene over natten. \"Spesialister jobber med å gjenopprette den skadede infrastrukturen,\" sa han på Telegram, eksternt. De siste angrepene på Kiev begynte rundt midnatt lokal tid da luftangrepssirener lød over hele byen, etterfulgt av nedslaget av russiske missiler.",
       "keyPoints": [
-        "Hui Ka Yan, senteret, grunnleggeren av Kinas Evergrande Group Grunnleggeren av Evergrande, eiendomsgiganten i sentrum av Kinas boligmarkedsnedgang, har blitt dømt til livstid i fengsel og har fått alle hans personlige eiendeler konfiskert.",
-        "Evergrande: Why should I care about the crisis-hit Chinese property giant?",
-        "Engstelige kinesiske boligkjøpere spoler fra Evergrande-krisen. Kriserammede Kina Evergrande ble beordret til å avvikle Firmaet ble påført et stort slag da Beijing innførte tiltak i 2020 for å kontrollere gjelden i landets eiendomssektor.",
-        "Hui, også kjent som Xu Jiayin, reiste seg fra en ydmyk begynnelse på landsbygda i Kina, hvor han ble oppdratt av bestemoren før han bega seg inn i eiendomsutvikling og satte opp Evergrande i 1996."
+        "Ordføreren i Kiev, Vitali Klitschko, sier til BBC Ukraina trenger mer hjelp fra sine partnere for å beskytte sivile Russlands siste angrep på Kiev markerer første gang på flere måneder kritisk infrastruktur \"ble målrettet angrepet\" i den ukrainske hovedstaden, sa byens ordfører.",
+        "Torsdag advarte Kievs ordfører Vitali Klitsjko innbyggere i Desnyansky og deler av Dnipro-distriktene kan oppleve en forstyrret tilførsel av varmt vann, etter angrepene over natten. \"Spesialister jobber med å gjenopprette den skadede infrastrukturen,\" sa han på Telegram, eksternt.",
+        "De siste angrepene på Kiev begynte rundt midnatt lokal tid da luftangrepssirener lød over hele byen, etterfulgt av nedslaget av russiske missiler.",
+        "Ytterligere rapportering fra Isabella Jewell i Kiev og Ruth Comerford i London Storbritannia 'støtter Ukraina 100%', sier Burnham, etter at Russlands droneadvarsel Den sparkede ukrainske forsvarsministeren krever presidentvalg"
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
-      "localImage": "assets/news/787eb150f301ca.jpg",
-      "score": 15
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/f91784ee10917f.jpg",
+      "score": 17
     },
     {
       "id": "dce8aca9ed545a",
@@ -85,7 +85,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64c9/live/834539a0-9c1e-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/dce8aca9ed545a.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "786339fff5056e",
@@ -130,48 +130,6 @@
       "score": 17
     },
     {
-      "id": "494c9376dd1c85",
-      "category": "AI",
-      "published": "19.08. 18:14",
-      "publishedISO": "2026-08-19T18:14:46+02:00",
-      "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
-      "summary": "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året. En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antallet brev sendt av skattemyndighetene var nesten tredoblet siden 2024. HMRC sa at de nye maktene ville tvinge «crypto bros til å betale sin rettferdige andel av skatten» da reglene ble kunngjort i fjor.",
-      "keyPoints": [
-        "HM Revenue and Customs (HMRC) sendte mer enn 81 000 brev som advarte kryptovalutainnehavere om at de kan skylde kapitalgevinstskatt det siste året.",
-        "En forespørsel om frihet til informasjon (FOI) sett av BBC viste at antall brev sendt av skattemyndighetene var nesten tredoblet siden 2024.",
-        "HMRC sa at de nye maktene ville tvinge \"crypto bros til å betale sin rettferdige andel av skatten\" da reglene ble kunngjort i fjor.",
-        "Skattekontoret estimerte at endringene ville bidra til å skaffe opptil 315 millioner pund innen april 2030, og la til at dette var det samme beløpet som trengs for å finansiere mer enn 10 000 nyutdannede sykepleiere i et år. \"Når HMRC har disse dataene, vil skatteundersøkelser av investorer i kryptovaluta være som å skyte fisk i en tønne,\" advarte Chauhan."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c0ej09nywdno",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/26e1/live/9fc83430-9be5-11f1-ba30-ddd78081057f.jpg",
-      "localImage": "assets/news/494c9376dd1c85.jpg",
-      "score": 13
-    },
-    {
-      "id": "34d8857b1daa70",
-      "category": "Økonomi",
-      "published": "20.08. 15:31",
-      "publishedISO": "2026-08-20T15:31:00+02:00",
-      "title": "Nedgang på Wall Street",
-      "summary": "Slik går det med de toneangivende indeksene rundt klokken 18.25: Spenningen mellom USA og Iran fortsetter å eskalere. Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump. Nordsjøolje Brent (spot) stiger 2,49 prosent til 93,8 dollar per fat.",
-      "keyPoints": [
-        "Slik går det med de toneangivende indeksene rundt klokken 18.25: Spenningen mellom USA og Iran fortsetter å eskalere.",
-        "Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump.",
-        "Nordsjøolje Brent (spot) stiger 2,49 prosent til 93,8 dollar per fat.",
-        "Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4a88J/nedgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/26bcfd1a-6414-3ca5-9f0a-e12a8d65e314?fit=crop&h=675&upscale=true&w=1200&s=baf8c98405717541a364e4d333e1067f7a3a26fc",
-      "localImage": "assets/news/34d8857b1daa70.jpg",
-      "score": 16
-    },
-    {
       "id": "295e6e9d206cfc",
       "category": "Økonomi",
       "published": "20.08. 13:33",
@@ -193,6 +151,27 @@
       "score": 16
     },
     {
+      "id": "34d8857b1daa70",
+      "category": "Økonomi",
+      "published": "20.08. 15:31",
+      "publishedISO": "2026-08-20T15:31:00+02:00",
+      "title": "Nedgang på Wall Street",
+      "summary": "Slik går det med de toneangivende indeksene rundt klokken 20.55: Spenningen mellom USA og Iran fortsetter å eskalere. Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump. Nordsjøolje Brent (spot) stiger 2,35 prosent til 93,7 dollar per fat.",
+      "keyPoints": [
+        "Slik går det med de toneangivende indeksene rundt klokken 20.55: Spenningen mellom USA og Iran fortsetter å eskalere.",
+        "Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump.",
+        "Nordsjøolje Brent (spot) stiger 2,35 prosent til 93,7 dollar per fat.",
+        "Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4a88J/nedgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/26bcfd1a-6414-3ca5-9f0a-e12a8d65e314?fit=crop&h=675&upscale=true&w=1200&s=baf8c98405717541a364e4d333e1067f7a3a26fc",
+      "localImage": "assets/news/34d8857b1daa70.jpg",
+      "score": 15
+    },
+    {
       "id": "d5f1748ce57b24",
       "category": "Økonomi",
       "published": "20.08. 09:31",
@@ -211,7 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c0260e37-552d-3cc0-8a7b-82edbdd1f561?fit=crop&h=675&upscale=true&w=1200&s=e0766ec7d0d571df4667bf0364349284baf7cb1c",
       "localImage": "assets/news/d5f1748ce57b24.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "787eb150f301ca",
+      "category": "Verden",
+      "published": "20.08. 08:08",
+      "publishedISO": "2026-08-20T08:08:02+02:00",
+      "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "summary": "Hui Ka Yan, senteret, grunnleggeren av Kinas Evergrande Group Grunnleggeren av Evergrande, eiendomsgiganten i sentrum av Kinas boligmarkedsnedgang, har blitt dømt til livstid i fengsel og har fått alle hans personlige eiendeler konfiskert. Evergrande: Hvorfor skal jeg bry meg om den kriserammede kinesiske eiendomsgiganten? Engstelige kinesiske boligkjøpere spoler fra Evergrande-krisen. Kriserammede Kina Evergrande ble beordret til å avvikle Firmaet ble påført et stort slag da Beijing innførte tiltak i 2020 for å kontrollere gjelden i landets eiendomssektor.",
+      "keyPoints": [
+        "Hui Ka Yan, senteret, grunnleggeren av Kinas Evergrande Group Grunnleggeren av Evergrande, eiendomsgiganten i sentrum av Kinas boligmarkedsnedgang, har blitt dømt til livstid i fengsel og har fått alle hans personlige eiendeler konfiskert.",
+        "Evergrande: Why should I care about the crisis-hit Chinese property giant?",
+        "Engstelige kinesiske boligkjøpere spoler fra Evergrande-krisen. Kriserammede Kina Evergrande ble beordret til å avvikle Firmaet ble påført et stort slag da Beijing innførte tiltak i 2020 for å kontrollere gjelden i landets eiendomssektor.",
+        "Hui, også kjent som Xu Jiayin, reiste seg fra en ydmyk begynnelse på landsbygda i Kina, hvor han ble oppdratt av bestemoren før han bega seg inn i eiendomsutvikling og satte opp Evergrande i 1996."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/576f/live/42ba6840-9c52-11f1-b275-a98fc45a1940.jpg",
+      "localImage": "assets/news/787eb150f301ca.jpg",
+      "score": 15
     }
   ]
 }
