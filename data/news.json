@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.08.2026 kl. 02:00",
-  "updatedISO": "2026-08-21T02:00:35.812749+02:00",
+  "updatedAt": "21.08.2026 kl. 05:33",
+  "updatedISO": "2026-08-21T05:33:01.540354+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ST-IInUU6TVqJynow7a4KwOVzlosKm5GX0rbOe_Qv2mw.jpg",
       "localImage": "assets/news/9c1008435b210e.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "4563e93d3e0edc",
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Rdr57-bp5OmsS348wHGCowXP42KShx4GS4Kw8JkWuMtg.jpg",
       "localImage": "assets/news/4563e93d3e0edc.webp",
-      "score": 20
+      "score": 19
     },
     {
       "id": "eee1ad5e4c9c1e",
@@ -64,28 +64,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/eee1ad5e4c9c1e.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "dce8aca9ed545a",
+      "id": "ef1abadcb55281",
       "category": "USA",
-      "published": "20.08. 00:44",
-      "publishedISO": "2026-08-20T00:44:35+02:00",
-      "title": "Watch: What to know about Trump's trusted aide Natalie Harp",
-      "summary": "President Donald Trumps høyre hånd, Natalie Harp, er i søkelyset etter at Georgia-senator Jon Ossoff – en demokrat og hyppig Trump-folie – navnsjekket henne i en tale som siden har gått viralt. Se: Hva du bør vite om Trumps pålitelige assistent Natalie Harp. Video, 00:00:58Se: Hva du bør vite om Trumps pålitelige hjelper Natalie Harp Up Next.",
+      "published": "21.08. 02:54",
+      "publishedISO": "2026-08-21T02:54:47+02:00",
+      "title": "Watch: Democratic socialist speaks to BBC after shock win in Florida primary",
+      "summary": "Angie Nixon, en demokratisk sosialist, vant den demokratiske primærvalget i Floridas senatløp. Demokratisk sosialist snakker til BBC etter sjokkseier i primærvalget i Florida. Video, 00:01:34 Demokratisk sosialist snakker til BBC etter sjokkseier i primærvalget i Florida Up Next.",
       "keyPoints": [
-        "Watch: What to know about Trump's trusted aide Natalie Harp.",
-        "President Donald Trumps høyre hånd, Natalie Harp, er i søkelyset etter at Georgia-senator Jon Ossoff – en demokrat og hyppig Trump-folie – navnsjekket henne i en tale som siden har gått viralt.",
-        "Harp har blitt en av Trumps lengst tjente og mest lojale medhjelpere som får tillit til å skrive ut hans Truth Social-innlegg, blant annet toppansvar.",
-        "Video, 00:00:43Watch: Trump leads tour of White House helipad construction site Watch: Why has Trump shifted on North Korea?"
+        "Democratic socialist speaks to BBC after shock win in Florida primary.",
+        "Angie Nixon, a Democratic socialist, won the Democratic primary in Florida's Senate race.",
+        "Video, 00:00:58Watch: What to know about Trump's trusted aide Natalie Harp Watch: Trump leads tour of White House helipad construction site.",
+        "Video, 00:00:35'Han er en ekte helt' - Trump møter tenåringsbadevakten etter dramatisk redning Se: Hva betyr Harrys tilbakekomst for hans ødelagte forhold til William?"
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cm2gdxlwmrvo",
+      "url": "https://www.bbc.co.uk/news/videos/cgmk31zry14o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64c9/live/834539a0-9c1e-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/dce8aca9ed545a.jpg",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a284/live/3c4fc800-9cf8-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/ef1abadcb55281.jpg",
+      "score": 17
     },
     {
       "id": "c59cce5b2f6274",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ff3be547-9be9-358c-a715-4ee7de0c19cf?fit=crop&h=675&upscale=true&w=1200&s=eabb54223bf1f96782eed62aebab119cb8e82367",
       "localImage": "assets/news/c59cce5b2f6274.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "786339fff5056e",
@@ -127,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
       "localImage": "assets/news/786339fff5056e.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "174e0d2fe55213",
@@ -190,7 +190,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/f91784ee10917f.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "3830460cb601ea",
@@ -211,7 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a4c42227-f09e-33f7-8404-c83c387938b6?fit=crop&h=675&upscale=true&w=1200&s=f797cd2546b3dd7d418d5dbfdc5c20ce90ed54d5",
       "localImage": "assets/news/3830460cb601ea.jpg",
-      "score": 16
+      "score": 15
     }
   ]
 }
