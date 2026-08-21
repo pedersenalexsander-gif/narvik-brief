@@ -1,29 +1,8 @@
 {
-  "updatedAt": "21.08.2026 kl. 14:03",
-  "updatedISO": "2026-08-21T14:03:56.946866+02:00",
+  "updatedAt": "21.08.2026 kl. 16:11",
+  "updatedISO": "2026-08-21T16:11:09.775191+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "47ec35227a2571",
-      "category": "Nord-Norge",
-      "published": "21.08. 07:05",
-      "publishedISO": "2026-08-21T07:05:20+02:00",
-      "title": "Etablerer samisk forskerskole 15 år etter første forsøk",
-      "summary": "Nord universitet, Norges arktiske universitet (UiT) og Sámi allaskuvla skal nå samarbeide om å etablere en samisk forskerskole. Det skjer 15 år etter at det først ble gjort et forsøk på å samle en nordisk samisk forskerskole. Konseptet fikk nylig avslag om støtte fra Norges forskningsråd, men de tre institusjonene har likevel bestemt seg for å skape en forskerskole ved å omdisponere egne midler.",
-      "keyPoints": [
-        "Det skjer 15 år etter at det først ble gjort et forsøk på å samle en nordisk samisk forskerskole.",
-        "Nord universitet, Norges arktiske universitet (UiT) og Sámi allaskuvla skal nå samarbeide om å etablere en samisk forskerskole.",
-        "Konseptet fikk nylig avslag om støtte fra Norges forskningsråd, men de tre institusjonene har likevel bestemt seg for å skape en forskerskole ved å omdisponere egne midler.",
-        "For Samisk høgskole vil satsingen også være viktig for å styrke relasjonen mellom forskningsmiljøet og det samiske samfunnet. – I samiske miljøer er mange skeptiske til forskere fordi vi ikke har vært inkludert i forskning før, sier Liv Inger Somby, rektor ved Samisk universitet."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/etablerer-samisk-forskerskole-15-ar-etter-forste-forsok-1.17996689",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/I0sGzJRJ6plrk-fkX5oZYwE9b-x3xyrnxe4CKurGlGfQ.jpg",
-      "localImage": "assets/news/47ec35227a2571.jpg",
-      "score": 12
-    },
     {
       "id": "4563e93d3e0edc",
       "category": "Norge",
@@ -64,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/eee1ad5e4c9c1e.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "ef1abadcb55281",
@@ -88,6 +67,27 @@
       "score": 15
     },
     {
+      "id": "820f7fc19038e5",
+      "category": "Økonomi",
+      "published": "21.08. 15:31",
+      "publishedISO": "2026-08-21T15:31:14+02:00",
+      "title": "Oppgang på Wall Street",
+      "summary": "Investorene forsøker nå å finne fotfeste igjen etter et kraftig salgspress drevet av stigende renter på amerikanske statsobligasjoner, melder CNBC. Nasdaq er ned 2,5 prosent, mens Dow har falt 1,8 prosent hittil denne uken. Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
+      "keyPoints": [
+        "Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
+        "Nasdaq er ned 2,5 prosent, mens Dow har falt 1,8 prosent hittil denne uken.",
+        "Investorene forsøker nå å finne fotfeste igjen etter et kraftig salgspress drevet av stigende renter på amerikanske statsobligasjoner, melder CNBC.",
+        "Amerikanske børser peker oppover fredag, etter dager med nedgang drevet av stigende renter."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/RjEqRJ/oppgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1cd22248-93b9-364f-8f3a-00d23ea9c954?fit=crop&h=675&upscale=true&w=1200&s=f5e354215f10d61bb962ee86f09c2d80e53861ee",
+      "localImage": "assets/news/820f7fc19038e5.jpg",
+      "score": 21
+    },
+    {
       "id": "21525226b3e820",
       "category": "Økonomi",
       "published": "21.08. 09:01",
@@ -109,27 +109,6 @@
       "score": 19
     },
     {
-      "id": "d07ceffed669f2",
-      "category": "Økonomi",
-      "published": "21.08. 09:40",
-      "publishedISO": "2026-08-21T09:40:11+02:00",
-      "title": "– Forberedt på praktiske tiltak",
-      "summary": "ONS-sjefen sier de er forberedt på at streiken kan få noen praktiske konsekvenser, men at de foreløpig vet lite om hva det blir. – Folk som kommer til oss er jo folk som har vært ute i verden før, så de pleier å komme seg både frem og tilbake, sier Sevland. – Nei, ikke foreløpig. Og vi har jo 1.200 speakere, og det kan bli noen praktiske justeringer. Så vi er forberedt på alt fra Nordhavets kuling til streiker, og vi får gjennomføre det vi kan gjennomføre.",
-      "keyPoints": [
-        "ONS-sjefen sier de er forberedt på at streiken kan få noen praktiske konsekvenser, men at de foreløpig vet lite om hva det blir. – Folk som kommer til oss er jo folk som har vært ute i verden før, så de pleier å komme seg både frem og tilbake, sier Sevland. – Nei, ikke foreløpig.",
-        "Og vi har jo 1.200 speakere, og det kan bli noen praktiske justeringer.",
-        "Så vi er forberedt på alt fra Nordhavets kuling til streiker, og vi får gjennomføre det vi kan gjennomføre.",
-        "Det er vi forberedt på, men vi vet ikke noe om det ennå."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/rre9bR/forberedt-paa-praktiske-tiltak",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/62c8a684-be2c-30fc-855a-29142309039c?fit=crop&h=675&upscale=true&w=1200&s=6cadc4eac0ed205049e2b318a79201ded92495db",
-      "localImage": "assets/news/d07ceffed669f2.jpg",
-      "score": 16
-    },
-    {
       "id": "174e0d2fe55213",
       "category": "AI",
       "published": "21.08. 01:12",
@@ -148,6 +127,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
       "localImage": "assets/news/174e0d2fe55213.jpg",
+      "score": 15
+    },
+    {
+      "id": "d07ceffed669f2",
+      "category": "Økonomi",
+      "published": "21.08. 09:40",
+      "publishedISO": "2026-08-21T09:40:11+02:00",
+      "title": "– Forberedt på praktiske tiltak",
+      "summary": "ONS-sjefen sier de er forberedt på at streiken kan få noen praktiske konsekvenser, men at de foreløpig vet lite om hva det blir. – Folk som kommer til oss er jo folk som har vært ute i verden før, så de pleier å komme seg både frem og tilbake, sier Sevland. – Nei, ikke foreløpig. Og vi har jo 1.200 speakere, og det kan bli noen praktiske justeringer. Så vi er forberedt på alt fra Nordhavets kuling til streiker, og vi får gjennomføre det vi kan gjennomføre.",
+      "keyPoints": [
+        "ONS-sjefen sier de er forberedt på at streiken kan få noen praktiske konsekvenser, men at de foreløpig vet lite om hva det blir. – Folk som kommer til oss er jo folk som har vært ute i verden før, så de pleier å komme seg både frem og tilbake, sier Sevland. – Nei, ikke foreløpig.",
+        "Og vi har jo 1.200 speakere, og det kan bli noen praktiske justeringer.",
+        "Så vi er forberedt på alt fra Nordhavets kuling til streiker, og vi får gjennomføre det vi kan gjennomføre.",
+        "Det er vi forberedt på, men vi vet ikke noe om det ennå."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/rre9bR/forberedt-paa-praktiske-tiltak",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/62c8a684-be2c-30fc-855a-29142309039c?fit=crop&h=675&upscale=true&w=1200&s=6cadc4eac0ed205049e2b318a79201ded92495db",
+      "localImage": "assets/news/d07ceffed669f2.jpg",
       "score": 15
     },
     {
@@ -193,25 +193,25 @@
       "score": 15
     },
     {
-      "id": "786339fff5056e",
+      "id": "c59cce5b2f6274",
       "category": "Økonomi",
-      "published": "20.08. 09:02",
-      "publishedISO": "2026-08-20T09:02:01+02:00",
-      "title": "Höegh Autoliners falt på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs gikk ned 0,23 prosent torsdag. Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid. Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+      "published": "20.08. 22:45",
+      "publishedISO": "2026-08-20T22:45:02+02:00",
+      "title": "Spetalen tok utbytte på 800 millioner kroner før milliardgave",
+      "summary": "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor. Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år. Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs gikk ned 0,23 prosent torsdag.",
-        "Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
-        "Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid.",
-        "Höegh Autoliners venter at EBITDA i tredje kvartal blir på linje med andre kvartal."
+        "Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år.",
+        "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor.",
+        "Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
+        "Driftsinntektene var 117 millioner kroner, ned fra 136 millioner kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/q6Vqw1/orkla-faller-5-prosent-paa-oslo-boers-etter-tallslipp-og-valutasmell",
+      "url": "https://e24.no/boers-og-finans/i/K8aMLX/spetalen-tok-utbytte-paa-800-millioner-kroner-foer-milliardgave",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
-      "localImage": "assets/news/786339fff5056e.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/ff3be547-9be9-358c-a715-4ee7de0c19cf?fit=crop&h=675&upscale=true&w=1200&s=eabb54223bf1f96782eed62aebab119cb8e82367",
+      "localImage": "assets/news/c59cce5b2f6274.jpg",
+      "score": 14
     }
   ]
 }
