@@ -1,27 +1,27 @@
 {
-  "updatedAt": "21.08.2026 kl. 07:19",
-  "updatedISO": "2026-08-21T07:19:54.554672+02:00",
+  "updatedAt": "21.08.2026 kl. 10:00",
+  "updatedISO": "2026-08-21T10:00:29.327417+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "9c1008435b210e",
+      "id": "47ec35227a2571",
       "category": "Nord-Norge",
-      "published": "20.08. 07:12",
-      "publishedISO": "2026-08-20T07:12:27+02:00",
-      "title": "Advarer etter arbeidsulykke med elektrisk sjokk",
-      "summary": "Strømselskapet Linea advarer etter at to skogsarbeidere fikk strøm gjennom kroppen i forrige uke i Mosåsen utenfor Mosjøen. Det skal ha vært små marginer som gjorde at ulykken ikke endte opp med mer alvorlige konsekvenser, men begge de to utsatte ser ut til å ha sluppet unna med lettere skader. – Linea ser svært alvorlig på denne hendelsen. Ved høy spenning kan det oppstå elektrisk overslag gjennom luften dersom en gjenstand kommer for nærme. – På et høyspentanlegg som vårt 132 kV-nett kan det oppstå overslag før man fysisk berører linjen.",
+      "published": "21.08. 07:05",
+      "publishedISO": "2026-08-21T07:05:20+02:00",
+      "title": "Etablerer samisk forskerskole 15 år etter første forsøk",
+      "summary": "Nord universitet, Norges arktiske universitet (UiT) og Sámi allaskuvla skal nå samarbeide om å etablere en samisk forskerskole. Det skjer 15 år etter at det først ble gjort et forsøk på å samle en nordisk samisk forskerskole. Konseptet fikk nylig avslag om støtte fra Norges forskningsråd, men de tre institusjonene har likevel bestemt seg for å skape en forskerskole ved å omdisponere egne midler.",
       "keyPoints": [
-        "Ved høy spenning kan det oppstå elektrisk overslag gjennom luften dersom en gjenstand kommer for nærme. – På et høyspentanlegg som vårt 132 kV-nett kan det oppstå overslag før man fysisk berører linjen.",
-        "Strømselskapet Linea advarer etter at to skogsarbeidere fikk strøm gjennom kroppen i forrige uke i Mosåsen utenfor Mosjøen.",
-        "Det skal ha vært små marginer som gjorde at ulykken ikke endte opp med mer alvorlige konsekvenser, men begge de to utsatte ser ut til å ha sluppet unna med lettere skader. – Linea ser svært alvorlig på denne hendelsen.",
-        "Undersøkelsene er ennå ikke klar, men foreløpige opplysninger tyder på at et tre for nært en høyspentledning som hadde strøm gjennom seg, og at strømmen gikk gjennm treet og videre til de to arbeiderne på bakken."
+        "Det skjer 15 år etter at det først ble gjort et forsøk på å samle en nordisk samisk forskerskole.",
+        "Nord universitet, Norges arktiske universitet (UiT) og Sámi allaskuvla skal nå samarbeide om å etablere en samisk forskerskole.",
+        "Konseptet fikk nylig avslag om støtte fra Norges forskningsråd, men de tre institusjonene har likevel bestemt seg for å skape en forskerskole ved å omdisponere egne midler.",
+        "For Samisk høgskole vil satsingen også være viktig for å styrke relasjonen mellom forskningsmiljøet og det samiske samfunnet. – I samiske miljøer er mange skeptiske til forskere fordi vi ikke har vært inkludert i forskning før, sier Liv Inger Somby, rektor ved Samisk universitet."
       ],
       "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/advarer-etter-arbeidsulykke-med-elektrisk-sjokk-1.17995329",
+      "url": "https://www.nrk.no/nordland/etablerer-samisk-forskerskole-15-ar-etter-forste-forsok-1.17996689",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ST-IInUU6TVqJynow7a4KwOVzlosKm5GX0rbOe_Qv2mw.jpg",
-      "localImage": "assets/news/9c1008435b210e.jpg",
+      "image": "https://gfx.nrk.no/I0sGzJRJ6plrk-fkX5oZYwE9b-x3xyrnxe4CKurGlGfQ.jpg",
+      "localImage": "assets/news/47ec35227a2571.jpg",
       "score": 13
     },
     {
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Rdr57-bp5OmsS348wHGCowXP42KShx4GS4Kw8JkWuMtg.jpg",
       "localImage": "assets/news/4563e93d3e0edc.webp",
-      "score": 19
+      "score": 18
     },
     {
       "id": "eee1ad5e4c9c1e",
@@ -85,48 +85,48 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a284/live/3c4fc800-9cf8-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/ef1abadcb55281.jpg",
-      "score": 17
-    },
-    {
-      "id": "c59cce5b2f6274",
-      "category": "Økonomi",
-      "published": "20.08. 22:45",
-      "publishedISO": "2026-08-20T22:45:02+02:00",
-      "title": "Spetalen tok utbytte på 800 millioner kroner før milliardgave",
-      "summary": "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor. Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år. Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
-      "keyPoints": [
-        "Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år.",
-        "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor.",
-        "Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
-        "Driftsinntektene var 117 millioner kroner, ned fra 136 millioner kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/K8aMLX/spetalen-tok-utbytte-paa-800-millioner-kroner-foer-milliardgave",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ff3be547-9be9-358c-a715-4ee7de0c19cf?fit=crop&h=675&upscale=true&w=1200&s=eabb54223bf1f96782eed62aebab119cb8e82367",
-      "localImage": "assets/news/c59cce5b2f6274.jpg",
       "score": 16
     },
     {
-      "id": "786339fff5056e",
+      "id": "0561e2afeae5f1",
       "category": "Økonomi",
-      "published": "20.08. 09:02",
-      "publishedISO": "2026-08-20T09:02:01+02:00",
-      "title": "Höegh Autoliners falt på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs gikk ned 0,23 prosent torsdag. Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid. Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+      "published": "21.08. 09:01",
+      "publishedISO": "2026-08-21T09:01:34+02:00",
+      "title": "Höegh Autoliners-nedtur fortsetter på Oslo Børs",
+      "summary": "Oslo Børs har svingt mellom oppgang og nedgang i starten fredag. Brent spot-prisen ligger på 93,2 dollar fatet i skrivende stund, opp 0,1 prosent siden midnatt Internasjonalt var det nedgang på Wall Street i USA i går kveld, og blandet på Asia-børsene i dag tidlig. Selskapet hadde inntekter på 2,29 milliarder kroner i kvartalet, ned fra 2,3 milliarder for et år siden.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs gikk ned 0,23 prosent torsdag.",
-        "Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
-        "Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid.",
-        "Höegh Autoliners venter at EBITDA i tredje kvartal blir på linje med andre kvartal."
+        "Oslo Børs har svingt mellom oppgang og nedgang i starten fredag.",
+        "Brent spot-prisen ligger på 93,2 dollar fatet i skrivende stund, opp 0,1 prosent siden midnatt Internasjonalt var det nedgang på Wall Street i USA i går kveld, og blandet på Asia-børsene i dag tidlig.",
+        "Selskapet hadde inntekter på 2,29 milliarder kroner i kvartalet, ned fra 2,3 milliarder for et år siden.",
+        "Avgiftsendring med tilbakevirkende kraft på Filippinene bidro negativt med 231 millioner kroner, mens renteutgiftene økte til 634 millioner kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/q6Vqw1/orkla-faller-5-prosent-paa-oslo-boers-etter-tallslipp-og-valutasmell",
+      "url": "https://e24.no/boers-og-finans/i/RjEKkW/oppgang-paa-oslo-boers-scatec-stiger",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
-      "localImage": "assets/news/786339fff5056e.jpg",
+      "image": "https://akamai.vgc.no/v2/images/95e6e180-ee11-360d-9f80-df5b6837c946?fit=crop&h=675&upscale=true&w=1200&s=a1319baa8ddf587daa5a95bc3737b1b8d5dd3df3",
+      "localImage": "assets/news/0561e2afeae5f1.jpg",
+      "score": 17
+    },
+    {
+      "id": "d07ceffed669f2",
+      "category": "Økonomi",
+      "published": "21.08. 09:40",
+      "publishedISO": "2026-08-21T09:40:11+02:00",
+      "title": "– Forberedt på praktiske tiltak",
+      "summary": "ONS-sjefen sier de er forberedt på at streiken kan få noen praktiske konsekvenser, men at de foreløpig vet lite om hva det blir. – Folk som kommer til oss er jo folk som har vært ute i verden før, så de pleier å komme seg både frem og tilbake, sier Sevland. – Nei, ikke foreløpig. Og vi har jo 1.200 speakere, og det kan bli noen praktiske justeringer. Så vi er forberedt på alt fra Nordhavets kuling til streiker, og vi får gjennomføre det vi kan gjennomføre.",
+      "keyPoints": [
+        "ONS-sjefen sier de er forberedt på at streiken kan få noen praktiske konsekvenser, men at de foreløpig vet lite om hva det blir. – Folk som kommer til oss er jo folk som har vært ute i verden før, så de pleier å komme seg både frem og tilbake, sier Sevland. – Nei, ikke foreløpig.",
+        "Og vi har jo 1.200 speakere, og det kan bli noen praktiske justeringer.",
+        "Så vi er forberedt på alt fra Nordhavets kuling til streiker, og vi får gjennomføre det vi kan gjennomføre.",
+        "Det er vi forberedt på, men vi vet ikke noe om det ennå."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/rre9bR/forberedt-paa-praktiske-tiltak",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/62c8a684-be2c-30fc-855a-29142309039c?fit=crop&h=675&upscale=true&w=1200&s=6cadc4eac0ed205049e2b318a79201ded92495db",
+      "localImage": "assets/news/d07ceffed669f2.jpg",
       "score": 16
     },
     {
@@ -151,6 +151,27 @@
       "score": 16
     },
     {
+      "id": "c29ae85f4d4e3a",
+      "category": "Norge",
+      "published": "21.08. 08:03",
+      "publishedISO": "2026-08-21T08:03:03+02:00",
+      "title": "Mangler 600 bussjåfører i Norge – fører til mange innstilte avganger",
+      "summary": "Direktør i NHO Transport, Jon Stordrange, forteller om en utfordring som strekker seg langt utover Norges grenser: – I Norge per i dag mangler vi cirka 600 bussjåfører totalt sett. Det har ført til mange innstilte bussavganger de siste månedene. – Jeg syns det trekker arbeidsmiljøet i en negativ retning. Arbeidshverdagen for mange bussjåfører er nemlig preget av delvakter. – Disse vaktene kan ha et strekk på tolv timer.",
+      "keyPoints": [
+        "Direktør i NHO Transport, Jon Stordrange, forteller om en utfordring som strekker seg langt utover Norges grenser: – I Norge per i dag mangler vi cirka 600 bussjåfører totalt sett.",
+        "Det har ført til mange innstilte bussavganger de siste månedene. – Jeg syns det trekker arbeidsmiljøet i en negativ retning.",
+        "Arbeidshverdagen for mange bussjåfører er nemlig preget av delvakter. – Disse vaktene kan ha et strekk på tolv timer.",
+        "Han forteller at i Tromsø mangler de 60 faste sjåfører. – Det er ikke det samme som at vi mangler 60 sjåfører hver dag."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/mangler-600-bussjaforer-i-norge-_-forer-til-mange-innstilte-avganger-1.17995502",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ZNqO0545vyQCVKn1su-SxgD7gsyz6mmzc5OHuwPRON5g.jpg",
+      "localImage": "assets/news/c29ae85f4d4e3a.jpg",
+      "score": 16
+    },
+    {
       "id": "e18a7564aaa187",
       "category": "Norge",
       "published": "20.08. 10:29",
@@ -172,45 +193,24 @@
       "score": 16
     },
     {
-      "id": "f91784ee10917f",
-      "category": "Verden",
-      "published": "20.08. 19:14",
-      "publishedISO": "2026-08-20T19:14:55+02:00",
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "summary": "Ordføreren i Kiev, Vitali Klitschko, sier til BBC Ukraina trenger mer hjelp fra sine partnere for å beskytte sivile Russlands siste angrep på Kiev markerer første gang på flere måneder kritisk infrastruktur \"ble målrettet angrepet\" i den ukrainske hovedstaden, sa byens ordfører. Torsdag advarte Kievs ordfører Vitali Klitsjko innbyggere i Desnyansky og deler av Dnipro-distriktene kan oppleve en forstyrret tilførsel av varmt vann, etter angrepene over natten. \"Spesialister jobber med å gjenopprette den skadede infrastrukturen,\" sa han på Telegram, eksternt. De siste angrepene på Kiev begynte rundt midnatt lokal tid da luftangrepssirener lød over hele byen, etterfulgt av nedslaget av russiske missiler.",
-      "keyPoints": [
-        "Ordføreren i Kiev, Vitali Klitschko, sier til BBC Ukraina trenger mer hjelp fra sine partnere for å beskytte sivile Russlands siste angrep på Kiev markerer første gang på flere måneder kritisk infrastruktur \"ble målrettet angrepet\" i den ukrainske hovedstaden, sa byens ordfører.",
-        "Torsdag advarte Kievs ordfører Vitali Klitsjko innbyggere i Desnyansky og deler av Dnipro-distriktene kan oppleve en forstyrret tilførsel av varmt vann, etter angrepene over natten. \"Spesialister jobber med å gjenopprette den skadede infrastrukturen,\" sa han på Telegram, eksternt.",
-        "De siste angrepene på Kiev begynte rundt midnatt lokal tid da luftangrepssirener lød over hele byen, etterfulgt av nedslaget av russiske missiler.",
-        "Ytterligere rapportering fra Isabella Jewell i Kiev og Ruth Comerford i London Storbritannia 'støtter Ukraina 100%', sier Burnham, etter at Russlands droneadvarsel Den sparkede ukrainske forsvarsministeren krever presidentvalg"
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/f91784ee10917f.jpg",
-      "score": 15
-    },
-    {
-      "id": "3830460cb601ea",
+      "id": "c59cce5b2f6274",
       "category": "Økonomi",
-      "published": "20.08. 16:23",
-      "publishedISO": "2026-08-20T16:23:52+02:00",
-      "title": "Dro inn nær en million på foredrag",
-      "summary": "Ifølge statssekretær Bård Flaarønning (Ap) i Finansdepartementet ønsker ikke Stoltenberg å kommentere resultatet utover at inntektene kommer fra foredragsoppdrag han gjorde mellom jobbene som Nato-sjef og finansminister – altså mellom oktober 2024 og februar 2025. E24 har tidligere omtalt at Stoltenberg blant annet holdt foredrag for industriimperiet Wallenberg i Stockholm, konsulentselskapet Deloitte i Göteborg og Bank of America i Davos. E24 kjenner ikke til om de 900.000 kronene han tjente på foredrag, inkluderer oppdrag gjennomført i 2024.",
+      "published": "20.08. 22:45",
+      "publishedISO": "2026-08-20T22:45:02+02:00",
+      "title": "Spetalen tok utbytte på 800 millioner kroner før milliardgave",
+      "summary": "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor. Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år. Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
       "keyPoints": [
-        "E24 kjenner ikke til om de 900.000 kronene han tjente på foredrag, inkluderer oppdrag gjennomført i 2024.",
-        "E24 har tidligere omtalt at Stoltenberg blant annet holdt foredrag for industriimperiet Wallenberg i Stockholm, konsulentselskapet Deloitte i Göteborg og Bank of America i Davos.",
-        "Ifølge statssekretær Bård Flaarønning (Ap) i Finansdepartementet ønsker ikke Stoltenberg å kommentere resultatet utover at inntektene kommer fra foredragsoppdrag han gjorde mellom jobbene som Nato-sjef og finansminister – altså mellom oktober 2024 og februar 2025.",
-        "Finansminister Jens Stoltenberg (Ap) selskap Tinkern AS omsatte for 900.000 kroner i 2025."
+        "Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år.",
+        "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor.",
+        "Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
+        "Driftsinntektene var 117 millioner kroner, ned fra 136 millioner kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/OkaBeq/dro-inn-naer-en-million-paa-foredrag",
+      "url": "https://e24.no/boers-og-finans/i/K8aMLX/spetalen-tok-utbytte-paa-800-millioner-kroner-foer-milliardgave",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a4c42227-f09e-33f7-8404-c83c387938b6?fit=crop&h=675&upscale=true&w=1200&s=f797cd2546b3dd7d418d5dbfdc5c20ce90ed54d5",
-      "localImage": "assets/news/3830460cb601ea.jpg",
+      "image": "https://akamai.vgc.no/v2/images/ff3be547-9be9-358c-a715-4ee7de0c19cf?fit=crop&h=675&upscale=true&w=1200&s=eabb54223bf1f96782eed62aebab119cb8e82367",
+      "localImage": "assets/news/c59cce5b2f6274.jpg",
       "score": 15
     }
   ]
