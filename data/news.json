@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.08.2026 kl. 17:56",
-  "updatedISO": "2026-08-21T17:56:13.881392+02:00",
+  "updatedAt": "21.08.2026 kl. 19:15",
+  "updatedISO": "2026-08-21T19:15:57.974119+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Rdr57-bp5OmsS348wHGCowXP42KShx4GS4Kw8JkWuMtg.jpg",
       "localImage": "assets/news/4563e93d3e0edc.webp",
-      "score": 17
+      "score": 16
     },
     {
       "id": "eee1ad5e4c9c1e",
@@ -51,10 +51,10 @@
       "published": "21.08. 15:31",
       "publishedISO": "2026-08-21T15:31:14+02:00",
       "title": "Oppgang på Wall Street",
-      "summary": "Slik går det med de toneangivende indeksene rundt klokken 16.35: Etter en tøff uke på børsen peker indeksene oppover fredag. Nasdaq er ned 2,5 prosent, mens Dow har falt 1,8 prosent hittil denne uken. Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
+      "summary": "Slik går det med de toneangivende indeksene rundt klokken 18: Etter en tøff uke på børsen peker indeksene oppover fredag. Nasdaq er ned 2,5 prosent, mens Dow har falt 1,8 prosent hittil denne uken. Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
       "keyPoints": [
         "Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
-        "Slik går det med de toneangivende indeksene rundt klokken 16.35: Etter en tøff uke på børsen peker indeksene oppover fredag.",
+        "Slik går det med de toneangivende indeksene rundt klokken 18: Etter en tøff uke på børsen peker indeksene oppover fredag.",
         "Nasdaq er ned 2,5 prosent, mens Dow har falt 1,8 prosent hittil denne uken.",
         "Investorene forsøker nå å finne fotfeste igjen etter et kraftig salgspress drevet av stigende renter på amerikanske statsobligasjoner, melder CNBC."
       ],
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/95e6e180-ee11-360d-9f80-df5b6837c946?fit=crop&h=675&upscale=true&w=1200&s=a1319baa8ddf587daa5a95bc3737b1b8d5dd3df3",
       "localImage": "assets/news/6e13149ee2d8fc.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "174e0d2fe55213",
@@ -98,7 +98,7 @@
         "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr.",
         "Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
         "Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer.",
-        "I dag deltar jeg på opplæring drevet av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
+        "I dag deltar jeg på opplæring som drives av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
@@ -130,46 +130,25 @@
       "score": 15
     },
     {
-      "id": "c29ae85f4d4e3a",
+      "id": "c64dc62045cbc6",
       "category": "Norge",
-      "published": "21.08. 08:03",
-      "publishedISO": "2026-08-21T08:03:03+02:00",
-      "title": "Mangler 600 bussjåfører i Norge – fører til mange innstilte avganger",
-      "summary": "Direktør i NHO Transport, Jon Stordrange, forteller om en utfordring som strekker seg langt utover Norges grenser: – I Norge per i dag mangler vi cirka 600 bussjåfører totalt sett. Det har ført til mange innstilte bussavganger de siste månedene. – Jeg syns det trekker arbeidsmiljøet i en negativ retning. Arbeidshverdagen for mange bussjåfører er nemlig preget av delvakter. – Disse vaktene kan ha et strekk på tolv timer.",
+      "published": "21.08. 06:57",
+      "publishedISO": "2026-08-21T06:57:20+02:00",
+      "title": "Spekter: Flygelederforeningen går ut i streik",
+      "summary": "Streiken iverksettes fra fredag formiddag 21. august, etter at partene ikke ble enige i mekling, melder Spekter i en pressemelding. Norsk Flygelederforbund hadde på forhånd varslet at de ville ta ut tolv flygeledere på Gardermoen og på Flesland i streik fra fredag morgen dersom ikke forhandlingene hos riksmekleren førte fram, skriver NTB. Flere avganger er innstilt etter at flygelederne gikk ut i streik i dag. – Vi har ingen reell dialog med arbeidsgiver, sier leder i Norsk Flygelederforening, Robert Gjønnes.",
       "keyPoints": [
-        "Direktør i NHO Transport, Jon Stordrange, forteller om en utfordring som strekker seg langt utover Norges grenser: – I Norge per i dag mangler vi cirka 600 bussjåfører totalt sett.",
-        "Det har ført til mange innstilte bussavganger de siste månedene. – Jeg syns det trekker arbeidsmiljøet i en negativ retning.",
-        "Arbeidshverdagen for mange bussjåfører er nemlig preget av delvakter. – Disse vaktene kan ha et strekk på tolv timer.",
-        "Han forteller at i Tromsø mangler de 60 faste sjåfører. – Det er ikke det samme som at vi mangler 60 sjåfører hver dag."
+        "Streiken iverksettes fra fredag formiddag 21. august, etter at partene ikke ble enige i mekling, melder Spekter i en pressemelding.",
+        "Norsk Flygelederforbund hadde på forhånd varslet at de ville ta ut tolv flygeledere på Gardermoen og på Flesland i streik fra fredag morgen dersom ikke forhandlingene hos riksmekleren førte fram, skriver NTB.",
+        "Flere avganger er innstilt etter at flygelederne gikk ut i streik i dag. – Vi har ingen reell dialog med arbeidsgiver, sier leder i Norsk Flygelederforening, Robert Gjønnes.",
+        "Avinor Flysikring har laget en analyse over hvordan streiken kan føre til forsinkelser og kanselleringer de første fire dagene av streiken."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/mangler-600-bussjaforer-i-norge-_-forer-til-mange-innstilte-avganger-1.17995502",
+      "url": "https://www.nrk.no/nyheter/spekter_-flygelederforeningen-gar-ut-i-streik-1.17996708",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ZNqO0545vyQCVKn1su-SxgD7gsyz6mmzc5OHuwPRON5g.jpg",
-      "localImage": "assets/news/c29ae85f4d4e3a.jpg",
+      "image": "https://gfx.nrk.no/g2tZISraeLaMdWzVEGz8YQ8cSXNtW1zFOEM-4kNfbY7g.jpg",
+      "localImage": "assets/news/c64dc62045cbc6.jpg",
       "score": 15
-    },
-    {
-      "id": "c59cce5b2f6274",
-      "category": "Økonomi",
-      "published": "20.08. 22:45",
-      "publishedISO": "2026-08-20T22:45:02+02:00",
-      "title": "Spetalen tok utbytte på 800 millioner kroner før milliardgave",
-      "summary": "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor. Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år. Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
-      "keyPoints": [
-        "Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år.",
-        "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor.",
-        "Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
-        "Driftsinntektene var 117 millioner kroner, ned fra 136 millioner kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/K8aMLX/spetalen-tok-utbytte-paa-800-millioner-kroner-foer-milliardgave",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ff3be547-9be9-358c-a715-4ee7de0c19cf?fit=crop&h=675&upscale=true&w=1200&s=eabb54223bf1f96782eed62aebab119cb8e82367",
-      "localImage": "assets/news/c59cce5b2f6274.jpg",
-      "score": 14
     },
     {
       "id": "e18a7564aaa187",
@@ -193,24 +172,45 @@
       "score": 14
     },
     {
-      "id": "376c0f91a83908",
-      "category": "Verden",
-      "published": "21.08. 17:42",
-      "publishedISO": "2026-08-21T17:42:47+02:00",
-      "title": "Several injured after sword attack at Swedish school",
-      "summary": "Flere personer er skadet etter et sverdangrep på en videregående skole i Sverige, opplyser lokale myndigheter. To lærere ble drept i et voldelig angrep på en ungdomsskole i Malmø i 2022 – en 18 år gammel elev tilsto senere angrepet. I 2015 ble en lærer og en elev drept i et sverdangrep på en skole i Trollhättan.",
+      "id": "0c3344a3ac8fb8",
+      "category": "Norge",
+      "published": "21.08. 19:08",
+      "publishedISO": "2026-08-21T19:08:30+02:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Rana FK slo fredag kveld Stålkameratene 3-2 på bortebane i første runde av cupen. I år innførte Nordland fylkeskommune sommertakst for kjøretøy på fergene som egentlig er gratis, fra 1. mai til 31. august. De tre partiene mener derfor at det er på tide å gjeninnføre gratis ferger tidligere enn planlagt. – Nå har fylket fått inn 27 millioner kroner og går med 10 millioner i overskudd.",
       "keyPoints": [
-        "Flere personer er skadet etter et sverdangrep på en videregående skole i Sverige, opplyser lokale myndigheter.",
-        "In 2015, a teacher and a pupil were killed in a sword attack at a school in Trollhattan.",
-        "Two teachers were killed in a violent attack on a secondary school in Malmo in 2022 - an 18-year-old student later confessed to the attack.",
-        "Dette førte til at regjeringen strammet inn landets våpenlover etter at det ble funnet at den mistenkte lovlig eide fire rifler, hvorav tre ble funnet på skolen der angrepet fant sted."
+        "I år innførte Nordland fylkeskommune sommertakst for kjøretøy på fergene som egentlig er gratis, fra 1. mai til 31. august.",
+        "Rana FK slo fredag kveld Stålkameratene 3-2 på bortebane i første runde av cupen.",
+        "De tre partiene mener derfor at det er på tide å gjeninnføre gratis ferger tidligere enn planlagt. – Nå har fylket fått inn 27 millioner kroner og går med 10 millioner i overskudd.",
+        "Arbeiderpartiet, SV og MDG har sett på tallene så langt i sommer, og mener at fylkeskommunen har hentet inn over 27 millioner kroner på ordningen allerede."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7891/live/e2465b10-9d67-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/376c0f91a83908.jpg",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/0c3344a3ac8fb8.jpg",
+      "score": 13
+    },
+    {
+      "id": "7a0dc374f5ce28",
+      "category": "Norge",
+      "published": "21.08. 18:59",
+      "publishedISO": "2026-08-21T18:59:25+02:00",
+      "title": "Gifta seg på Trolltunga trass helikopternekt – brurepara måtte frakta finstasen i sekk",
+      "summary": "I dag måtte brurepara sjølve frakta med seg kjolar og dressar dei ti kilometerane til Trolltunga. – Det var litt småregn i starten. Ho gifta seg i dag med Sverre André Brimi Skjelbreid ytst på turmålet Trolltunga i Hardanger. Åtte av dei 13 para som gifta seg på Trolltunga i 2023.",
+      "keyPoints": [
+        "I dag måtte brurepara sjølve frakta med seg kjolar og dressar dei ti kilometerane til Trolltunga. – Det var litt småregn i starten.",
+        "Åtte av dei 13 para som gifta seg på Trolltunga i 2023.",
+        "Ho gifta seg i dag med Sverre André Brimi Skjelbreid ytst på turmålet Trolltunga i Hardanger.",
+        "Det byrja i 2021 då verdas fire første par gifta seg på Trolltunga."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/gifta-seg-pa-trolltunga-trass-helikopternekt-_-brurepara-matte-frakta-finstasen-i-sekk-1.17980733",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/LDde-mVBZ-liWRCyKu1a3QZ8Le4_NykcsbPPDNWuVPYg",
+      "localImage": "assets/news/7a0dc374f5ce28.jpg",
       "score": 13
     }
   ]
