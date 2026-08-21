@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.08.2026 kl. 11:57",
-  "updatedISO": "2026-08-21T11:57:30.367426+02:00",
+  "updatedAt": "21.08.2026 kl. 13:03",
+  "updatedISO": "2026-08-21T13:03:42.544801+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/I0sGzJRJ6plrk-fkX5oZYwE9b-x3xyrnxe4CKurGlGfQ.jpg",
       "localImage": "assets/news/47ec35227a2571.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "4563e93d3e0edc",
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Rdr57-bp5OmsS348wHGCowXP42KShx4GS4Kw8JkWuMtg.jpg",
       "localImage": "assets/news/4563e93d3e0edc.webp",
-      "score": 18
+      "score": 17
     },
     {
       "id": "eee1ad5e4c9c1e",
@@ -85,19 +85,19 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a284/live/3c4fc800-9cf8-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/ef1abadcb55281.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "2c765ba584ba6a",
+      "id": "21525226b3e820",
       "category": "Økonomi",
       "published": "21.08. 09:01",
       "publishedISO": "2026-08-21T09:01:34+02:00",
-      "title": "Oppgang på Oslo Børs",
-      "summary": "Stemningen på Oslo Børs har tatt seg opp utover formiddagen. I Europa er det forsiktig oppgang på de viktigste børsene. Selskapet hadde inntekter på 2,29 milliarder kroner i kvartalet, ned fra 2,3 milliarder for et år siden.",
+      "title": "Oppgangen tiltar på Oslo Børs",
+      "summary": "Stemningen på Oslo Børs har tatt seg opp jevnt og trutt utover fredagen. Brent spot-prisen ligger på 93,8 dollar fatet i skrivende stund, opp 0,7 prosent siden midnatt. Selskapet hadde inntekter på 2,29 milliarder kroner i kvartalet, ned fra 2,3 milliarder for et år siden.",
       "keyPoints": [
-        "Stemningen på Oslo Børs har tatt seg opp utover formiddagen.",
+        "Stemningen på Oslo Børs har tatt seg opp jevnt og trutt utover fredagen.",
         "Selskapet hadde inntekter på 2,29 milliarder kroner i kvartalet, ned fra 2,3 milliarder for et år siden.",
-        "I Europa er det forsiktig oppgang på de viktigste børsene.",
+        "Brent spot-prisen ligger på 93,8 dollar fatet i skrivende stund, opp 0,7 prosent siden midnatt.",
         "Avgiftsendring med tilbakevirkende kraft på Filippinene bidro negativt med 231 millioner kroner, mens renteutgiftene økte til 634 millioner kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
@@ -105,7 +105,7 @@
       "url": "https://e24.no/boers-og-finans/i/RjEKkW/oppgang-paa-oslo-boers-scatec-stiger",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/95e6e180-ee11-360d-9f80-df5b6837c946?fit=crop&h=675&upscale=true&w=1200&s=a1319baa8ddf587daa5a95bc3737b1b8d5dd3df3",
-      "localImage": "assets/news/2c765ba584ba6a.jpg",
+      "localImage": "assets/news/21525226b3e820.jpg",
       "score": 20
     },
     {
@@ -140,7 +140,7 @@
         "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr.",
         "Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
         "Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer.",
-        "I dag deltar jeg på opplæring drevet av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
+        "I dag deltar jeg på opplæring som drives av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
