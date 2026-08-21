@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.08.2026 kl. 01:02",
-  "updatedISO": "2026-08-21T01:02:15.976790+02:00",
+  "updatedAt": "21.08.2026 kl. 02:00",
+  "updatedISO": "2026-08-21T02:00:35.812749+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,25 +46,25 @@
       "score": 20
     },
     {
-      "id": "f91784ee10917f",
+      "id": "eee1ad5e4c9c1e",
       "category": "Verden",
-      "published": "20.08. 19:14",
-      "publishedISO": "2026-08-20T19:14:55+02:00",
-      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-      "summary": "Ordføreren i Kiev, Vitali Klitschko, sier til BBC Ukraina trenger mer hjelp fra sine partnere for å beskytte sivile Russlands siste angrep på Kiev markerer første gang på flere måneder kritisk infrastruktur \"ble målrettet angrepet\" i den ukrainske hovedstaden, sa byens ordfører. Torsdag advarte Kievs ordfører Vitali Klitsjko innbyggere i Desnyansky og deler av Dnipro-distriktene kan oppleve en forstyrret tilførsel av varmt vann, etter angrepene over natten. \"Spesialister jobber med å gjenopprette den skadede infrastrukturen,\" sa han på Telegram, eksternt. De siste angrepene på Kiev begynte rundt midnatt lokal tid da luftangrepssirener lød over hele byen, etterfulgt av nedslaget av russiske missiler.",
+      "published": "21.08. 00:01",
+      "publishedISO": "2026-08-21T00:01:26+02:00",
+      "title": "Trump ønsker å være venn med Kim – men Sør-Korea kan betale prisen",
+      "summary": "Trump og Kim møttes i Panmunjom i den demilitariserte sonen (DMZ) i 2019. Sør-Koreas årlige militærøvelser med USA tok en brå slutt på fredag. Og selv om Sør-Korea lenge har vært opptatt av at Trump skal nå ut til Kim som et middel til å opprettholde diplomati, ville det ikke ha ønsket at det skulle komme med krav om kontanter og militær bistand i Iran. Det er frykt for at Trump kan gå lenger og trekke ned de 27 000 amerikanske troppene som er stasjonert i Sør-Korea eller til og med forlate den langvarige politikken med å fjerne atomvåpen i Nord – alt uten å konsultere sin allierte.",
       "keyPoints": [
-        "Ordføreren i Kiev, Vitali Klitschko, sier til BBC Ukraina trenger mer hjelp fra sine partnere for å beskytte sivile Russlands siste angrep på Kiev markerer første gang på flere måneder kritisk infrastruktur \"ble målrettet angrepet\" i den ukrainske hovedstaden, sa byens ordfører.",
-        "Torsdag advarte Kievs ordfører Vitali Klitsjko innbyggere i Desnyansky og deler av Dnipro-distriktene kan oppleve en forstyrret tilførsel av varmt vann, etter angrepene over natten. \"Spesialister jobber med å gjenopprette den skadede infrastrukturen,\" sa han på Telegram, eksternt.",
-        "De siste angrepene på Kiev begynte rundt midnatt lokal tid da luftangrepssirener lød over hele byen, etterfulgt av nedslaget av russiske missiler.",
-        "Ytterligere rapportering fra Isabella Jewell i Kiev og Ruth Comerford i London Storbritannia 'støtter Ukraina 100%', sier Burnham, etter at Russlands droneadvarsel Den sparkede ukrainske forsvarsministeren krever presidentvalg"
+        "Trump og Kim møttes i Panmunjom i den demilitariserte sonen (DMZ) i 2019. Sør-Koreas årlige militærøvelser med USA tok en brå slutt på fredag.",
+        "Og selv om Sør-Korea lenge har vært opptatt av at Trump skal nå ut til Kim som et middel til å opprettholde diplomati, ville det ikke ha ønsket at det skulle komme med krav om kontanter og militær bistand i Iran.",
+        "Det er frykt for at Trump kan gå lenger og trekke ned de 27 000 amerikanske troppene som er stasjonert i Sør-Korea eller til og med forlate den langvarige politikken med å fjerne atomvåpen i Nord – alt uten å konsultere sin allierte.",
+        "Nord- og Sør-Korea er i en underjordisk krig - Kim Jong Un kan nå vinne Trump sier at USA skal redusere militærøvelser med Sør-Korea etter at de holdt seg utenfor Iran-krigen"
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/f91784ee10917f.jpg",
-      "score": 16
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/eee1ad5e4c9c1e.jpg",
+      "score": 17
     },
     {
       "id": "dce8aca9ed545a",
@@ -85,7 +85,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64c9/live/834539a0-9c1e-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/dce8aca9ed545a.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "c59cce5b2f6274",
@@ -130,6 +130,27 @@
       "score": 17
     },
     {
+      "id": "174e0d2fe55213",
+      "category": "AI",
+      "published": "21.08. 01:12",
+      "publishedISO": "2026-08-21T01:12:38+02:00",
+      "title": "How landscape gardening is being electrified",
+      "summary": "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr. Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer. Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
+      "keyPoints": [
+        "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr.",
+        "Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
+        "Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer.",
+        "I dag deltar jeg på opplæring som drives av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
+      "localImage": "assets/news/174e0d2fe55213.jpg",
+      "score": 17
+    },
+    {
       "id": "e18a7564aaa187",
       "category": "Norge",
       "published": "20.08. 10:29",
@@ -148,7 +169,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ehNVnJw0sfgLZ5NmMTdsGQisWBUu3DvbbjxsdoRmjfrQ.jpg",
       "localImage": "assets/news/e18a7564aaa187.jpg",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "f91784ee10917f",
+      "category": "Verden",
+      "published": "20.08. 19:14",
+      "publishedISO": "2026-08-20T19:14:55+02:00",
+      "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "summary": "Ordføreren i Kiev, Vitali Klitschko, sier til BBC Ukraina trenger mer hjelp fra sine partnere for å beskytte sivile Russlands siste angrep på Kiev markerer første gang på flere måneder kritisk infrastruktur \"ble målrettet angrepet\" i den ukrainske hovedstaden, sa byens ordfører. Torsdag advarte Kievs ordfører Vitali Klitsjko innbyggere i Desnyansky og deler av Dnipro-distriktene kan oppleve en forstyrret tilførsel av varmt vann, etter angrepene over natten. \"Spesialister jobber med å gjenopprette den skadede infrastrukturen,\" sa han på Telegram, eksternt. De siste angrepene på Kiev begynte rundt midnatt lokal tid da luftangrepssirener lød over hele byen, etterfulgt av nedslaget av russiske missiler.",
+      "keyPoints": [
+        "Ordføreren i Kiev, Vitali Klitschko, sier til BBC Ukraina trenger mer hjelp fra sine partnere for å beskytte sivile Russlands siste angrep på Kiev markerer første gang på flere måneder kritisk infrastruktur \"ble målrettet angrepet\" i den ukrainske hovedstaden, sa byens ordfører.",
+        "Torsdag advarte Kievs ordfører Vitali Klitsjko innbyggere i Desnyansky og deler av Dnipro-distriktene kan oppleve en forstyrret tilførsel av varmt vann, etter angrepene over natten. \"Spesialister jobber med å gjenopprette den skadede infrastrukturen,\" sa han på Telegram, eksternt.",
+        "De siste angrepene på Kiev begynte rundt midnatt lokal tid da luftangrepssirener lød over hele byen, etterfulgt av nedslaget av russiske missiler.",
+        "Ytterligere rapportering fra Isabella Jewell i Kiev og Ruth Comerford i London Storbritannia 'støtter Ukraina 100%', sier Burnham, etter at Russlands droneadvarsel Den sparkede ukrainske forsvarsministeren krever presidentvalg"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/04db/live/0a124600-9c81-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/f91784ee10917f.jpg",
+      "score": 16
     },
     {
       "id": "3830460cb601ea",
@@ -170,48 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/a4c42227-f09e-33f7-8404-c83c387938b6?fit=crop&h=675&upscale=true&w=1200&s=f797cd2546b3dd7d418d5dbfdc5c20ce90ed54d5",
       "localImage": "assets/news/3830460cb601ea.jpg",
       "score": 16
-    },
-    {
-      "id": "77e4ecbf90b35b",
-      "category": "Økonomi",
-      "published": "20.08. 15:31",
-      "publishedISO": "2026-08-20T15:31:00+02:00",
-      "title": "Bred nedgang på Wall Street",
-      "summary": "Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump. Nordsjøolje Brent (spot) stiger 2 prosent til 93,35 dollar per fat. Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg.",
-      "keyPoints": [
-        "Sent onsdag kveld skrev president Donald Trump på Truth Social at USA vil innlede «den mest knusende økonomiske operasjonen som noen gang er iverksatt mot et land», melder CNBC. – Dette blir økonomisk krigføring og isolasjon i en skala vi aldri har sett før, skriver Trump.",
-        "Nordsjøolje Brent (spot) stiger 2 prosent til 93,35 dollar per fat.",
-        "Også renten på amerikanske statsobligasjoner klatrer oppover igjen, etter at finansdepartementet dagen før varslet oppkjøp av statsgjeld for å dempe presset, melder CNBC. – Kunngjøringen fra finansminister Scott Bessent i går ser ut til å skape mindre tillit hos investorene, ikke mer tillit, sier Matt Maley i Miller Tabak til Bloomberg.",
-        "Selskapet planlegger å investere 10 milliarder dollar i et nytt forskningslaboratorium i Idaho de neste ti årene."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4a88J/nedgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/26bcfd1a-6414-3ca5-9f0a-e12a8d65e314?fit=crop&h=675&upscale=true&w=1200&s=baf8c98405717541a364e4d333e1067f7a3a26fc",
-      "localImage": "assets/news/77e4ecbf90b35b.jpg",
-      "score": 15
-    },
-    {
-      "id": "295e6e9d206cfc",
-      "category": "Økonomi",
-      "published": "20.08. 13:33",
-      "publishedISO": "2026-08-20T13:33:03+02:00",
-      "title": "Bitcoin kraftig opp – bikker 70.000 dollar",
-      "summary": "Bitcoin-prisen har steget til rundt 71.900 dollar ved 13-tiden torsdag, fra gårsdagens nivåer rett i overkant av 64.000 dollar. Det er opp mer enn 11 prosent de siste 24 timene, ifølge Coinmarketcap. Kalles ofte «verdens viktigste rente» fordi den påvirker renter og finansmarkeder over hele verden. var opp i nesten 4,75 prosent på det aller høyeste.",
-      "keyPoints": [
-        "Bitcoin-prisen har steget til rundt 71.900 dollar ved 13-tiden torsdag, fra gårsdagens nivåer rett i overkant av 64.000 dollar.",
-        "Det er opp mer enn 11 prosent de siste 24 timene, ifølge Coinmarketcap.",
-        "Kalles ofte «verdens viktigste rente» fordi den påvirker renter og finansmarkeder over hele verden. var opp i nesten 4,75 prosent på det aller høyeste.",
-        "Den anledningen brukte presidenten til å be politikerne i Kongressen om å få opp farten med å vedta Clarity ActEn foreslått lov i USA som skal gjøre det tydeligere hvordan banker kan involvere seg i kryptovaluta.."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/k0BkyA/bitcoin-kraftig-opp-bikker-70-000-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/dbd4130c-118b-306e-bf2b-ccfff1310502?fit=crop&h=675&upscale=true&w=1200&s=c917d16f696bac9c15692d57727186c49e343d20",
-      "localImage": "assets/news/295e6e9d206cfc.jpg",
-      "score": 15
     }
   ]
 }
