@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.08.2026 kl. 05:33",
-  "updatedISO": "2026-08-21T05:33:01.540354+02:00",
+  "updatedAt": "21.08.2026 kl. 07:19",
+  "updatedISO": "2026-08-21T07:19:54.554672+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -148,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
       "localImage": "assets/news/174e0d2fe55213.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "e18a7564aaa187",
@@ -169,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ehNVnJw0sfgLZ5NmMTdsGQisWBUu3DvbbjxsdoRmjfrQ.jpg",
       "localImage": "assets/news/e18a7564aaa187.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "f91784ee10917f",
