@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.08.2026 kl. 00:57",
-  "updatedISO": "2026-08-22T00:57:02.425216+02:00",
+  "updatedAt": "22.08.2026 kl. 01:52",
+  "updatedISO": "2026-08-22T01:52:55.538930+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/f7xiKj-S1-dm-sGhyXg9oQ8b7-6rtTLyYLTJxjJ0n_Sg.jpg",
       "localImage": "assets/news/ae40a0375e5419.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "1f44df8f70c4dc",
@@ -35,7 +35,7 @@
         "En mann er arrestert etter å ha skadet to personer i et knivstikkingangrep tidlig om morgenen ved et sikh-tempel i Edmonton, Canada, opplyser politiet.",
         "Politiet mottok først rapporter rundt 04:49 lokal tid om en mann som gikk i trafikken på en motorvei, og omtrent 15 minutter senere fikk de telefoner om knivstikking inne i templet, sa Edmonton Police Service.",
         "Angrepet kommer etter at politiet i forrige uke bekreftet at de etterforsket truende oppringninger til to sikh-gurdwaraer i Calgary, to timer sør for der fredagens angrep fant sted.",
-        "Vi kan ikke være stille.\" Verdens sikhorganisasjon sa at en kopi av sikh-skriftet inne i templet også ble vanhelliget i angrepet."
+        "Vi kan ikke forbli stille.\" Verdens Sikh-organisasjon sa at en kopi av Sikh-skriftet inne i templet også ble vanhelliget i angrepet."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1cd22248-93b9-364f-8f3a-00d23ea9c954?fit=crop&h=675&upscale=true&w=1200&s=f5e354215f10d61bb962ee86f09c2d80e53861ee",
       "localImage": "assets/news/820f7fc19038e5.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "6e13149ee2d8fc",
@@ -119,7 +119,7 @@
         "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr.",
         "Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
         "Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer.",
-        "I dag deltar jeg på opplæring som drives av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
+        "I dag deltar jeg på opplæring drevet av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
