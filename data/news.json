@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.08.2026 kl. 13:03",
-  "updatedISO": "2026-08-21T13:03:42.544801+02:00",
+  "updatedAt": "21.08.2026 kl. 14:03",
+  "updatedISO": "2026-08-21T14:03:56.946866+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/95e6e180-ee11-360d-9f80-df5b6837c946?fit=crop&h=675&upscale=true&w=1200&s=a1319baa8ddf587daa5a95bc3737b1b8d5dd3df3",
       "localImage": "assets/news/21525226b3e820.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "d07ceffed669f2",
@@ -169,27 +169,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ZNqO0545vyQCVKn1su-SxgD7gsyz6mmzc5OHuwPRON5g.jpg",
       "localImage": "assets/news/c29ae85f4d4e3a.jpg",
-      "score": 16
-    },
-    {
-      "id": "c59cce5b2f6274",
-      "category": "Økonomi",
-      "published": "20.08. 22:45",
-      "publishedISO": "2026-08-20T22:45:02+02:00",
-      "title": "Spetalen tok utbytte på 800 millioner kroner før milliardgave",
-      "summary": "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor. Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år. Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
-      "keyPoints": [
-        "Det ferske regnskapet til Ferncliff Holding viser at det ble bokført et utbytte på 800 millioner kroner samme år.",
-        "Øystein Stray Spetalen ga en gave verdt milliarder av kroner til døtrene Jenny (23) og Sophie (22) i fjor.",
-        "Konsernregnskapet viser et resultat før skatt på 172 millioner kroner i fjor, en oppgang fra 84 millioner kroner året før.",
-        "Driftsinntektene var 117 millioner kroner, ned fra 136 millioner kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/K8aMLX/spetalen-tok-utbytte-paa-800-millioner-kroner-foer-milliardgave",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ff3be547-9be9-358c-a715-4ee7de0c19cf?fit=crop&h=675&upscale=true&w=1200&s=eabb54223bf1f96782eed62aebab119cb8e82367",
-      "localImage": "assets/news/c59cce5b2f6274.jpg",
       "score": 15
     },
     {
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ehNVnJw0sfgLZ5NmMTdsGQisWBUu3DvbbjxsdoRmjfrQ.jpg",
       "localImage": "assets/news/e18a7564aaa187.jpg",
+      "score": 15
+    },
+    {
+      "id": "786339fff5056e",
+      "category": "Økonomi",
+      "published": "20.08. 09:02",
+      "publishedISO": "2026-08-20T09:02:01+02:00",
+      "title": "Höegh Autoliners falt på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs gikk ned 0,23 prosent torsdag. Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid. Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs gikk ned 0,23 prosent torsdag.",
+        "Bilfraktrederiet Höegh Autoliners leverte lavere resultat og noe høyere inntekter i andre kvartal enn på samme tid i fjor.",
+        "Det inkluderer Höegh Autoliners, Norse Atlantic, Orkla og Kid.",
+        "Höegh Autoliners venter at EBITDA i tredje kvartal blir på linje med andre kvartal."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/q6Vqw1/orkla-faller-5-prosent-paa-oslo-boers-etter-tallslipp-og-valutasmell",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ea1cc783-8684-32aa-ace1-31c002d7b064?fit=crop&h=675&upscale=true&w=1200&s=cf3274684cc9e09a3d7aff6fdd1d7656f603bcac",
+      "localImage": "assets/news/786339fff5056e.jpg",
       "score": 15
     }
   ]
