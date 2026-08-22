@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.08.2026 kl. 06:59",
-  "updatedISO": "2026-08-22T06:59:53.720749+02:00",
+  "updatedAt": "22.08.2026 kl. 07:59",
+  "updatedISO": "2026-08-22T07:59:49.583683+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,27 +109,6 @@
       "score": 16
     },
     {
-      "id": "174e0d2fe55213",
-      "category": "AI",
-      "published": "21.08. 01:12",
-      "publishedISO": "2026-08-21T01:12:38+02:00",
-      "title": "How landscape gardening is being electrified",
-      "summary": "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr. Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer. Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
-      "keyPoints": [
-        "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr.",
-        "Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
-        "Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer.",
-        "I dag deltar jeg på opplæring som drives av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
-      "localImage": "assets/news/174e0d2fe55213.jpg",
-      "score": 12
-    },
-    {
       "id": "b3c67b9e17bfe5",
       "category": "Norge",
       "published": "21.08. 18:31",
@@ -172,6 +151,27 @@
       "score": 14
     },
     {
+      "id": "31385b4a493606",
+      "category": "Økonomi",
+      "published": "22.08. 07:56",
+      "publishedISO": "2026-08-22T07:56:57+02:00",
+      "title": "Disse flyene er kansellert",
+      "summary": "Dette er status ved de største flyplassene i Norge lørdag morgen Per nå er 12 flygeledere tatt ut i streik. Oslo Lufthavn er varslet stengt for trafikk fra klokken 06.30 til 11.30, opplyser Avinor i en pressemelding. «Forventer store forsinkelser, kanselleringer og etterfølgende effekter gjennom hele dagen. De trafikale konsekvensene vil merkes over hele landet.» Leder Robert Gjønnes i Norsk flygelederforening sa fredag til E24 at lønn ikke har vært oppe til diskusjon i forhandlingen, og at alt handler om arbeidsforhold. – Slik rammeverket er i dag kan en flygeleder i verste fall jobbe inntil 16 timer samlet uten en forutsigbar pause.",
+      "keyPoints": [
+        "De trafikale konsekvensene vil merkes over hele landet.» Leder Robert Gjønnes i Norsk flygelederforening sa fredag til E24 at lønn ikke har vært oppe til diskusjon i forhandlingen, og at alt handler om arbeidsforhold. – Slik rammeverket er i dag kan en flygeleder i verste fall jobbe inntil 16 timer samlet uten en forutsigbar pause.",
+        "Oslo Lufthavn er varslet stengt for trafikk fra klokken 06.30 til 11.30, opplyser Avinor i en pressemelding. «Forventer store forsinkelser, kanselleringer og etterfølgende effekter gjennom hele dagen.",
+        "Dette er status ved de største flyplassene i Norge lørdag morgen Per nå er 12 flygeledere tatt ut i streik.",
+        "Tirsdag er flygelederne klare for å trappe opp streiken med ytterligere 8."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/0pX4RG/disse-flyene-er-kansellert",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/24a730c9-2d81-3e9d-bffc-1adb0316673a?fit=crop&h=675&upscale=true&w=1200&s=0d7835ed4b4cd15e2fc169f951abc67f764aa04c",
+      "localImage": "assets/news/31385b4a493606.jpg",
+      "score": 13
+    },
+    {
       "id": "494a25c6e7d83b",
       "category": "Norge",
       "published": "22.08. 03:39",
@@ -211,7 +211,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg",
       "localImage": "assets/news/838c3be11a4c5c.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
