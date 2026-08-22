@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.08.2026 kl. 01:52",
-  "updatedISO": "2026-08-22T01:52:55.538930+02:00",
+  "updatedAt": "22.08.2026 kl. 05:10",
+  "updatedISO": "2026-08-22T05:10:47.258732+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,24 +25,24 @@
       "score": 16
     },
     {
-      "id": "1f44df8f70c4dc",
+      "id": "29d01fdc9c4a3a",
       "category": "Verden",
-      "published": "22.08. 00:45",
-      "publishedISO": "2026-08-22T00:45:01+02:00",
-      "title": "Two injured in stabbing attack at Edmonton Sikh temple",
-      "summary": "En mann er arrestert etter å ha skadet to personer i et knivstikkingangrep tidlig om morgenen ved et sikh-tempel i Edmonton, Canada, opplyser politiet. Angrepet kommer etter at politiet i forrige uke bekreftet at de etterforsket truende oppringninger til to sikh-gurdwaraer i Calgary, to timer sør for der fredagens angrep fant sted. Politiet mottok først rapporter rundt 04:49 lokal tid om en mann som gikk i trafikken på en motorvei, og omtrent 15 minutter senere fikk de telefoner om knivstikking inne i templet, sa Edmonton Police Service.",
+      "published": "22.08. 03:47",
+      "publishedISO": "2026-08-22T03:47:54+02:00",
+      "title": "Russian double-tap drone strike kills 16 in Ukrainian mall, officials say",
+      "summary": "Se: Video viser russisk droneangrep Ukraina kjøpesenter Minst 16 mennesker er drept i et russisk dobbelttrykks-droneangrep på et kjøpesenter i den sentrale ukrainske byen Kryvyi Rih, har lokale tjenestemenn sagt. Spesialtrente psykologer har blitt utplassert for å hjelpe noen overlevende etter angrepet Fire personer - inkludert tre barn - ble drept i separate russiske angrep i Ukrainas sørlige Mykolaiv-region, og ytterligere to i den nordøstlige Kharkiv-regionen, sa lokale tjenestemenn. Dette kommer et døgn etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev.",
       "keyPoints": [
-        "En mann er arrestert etter å ha skadet to personer i et knivstikkingangrep tidlig om morgenen ved et sikh-tempel i Edmonton, Canada, opplyser politiet.",
-        "Politiet mottok først rapporter rundt 04:49 lokal tid om en mann som gikk i trafikken på en motorvei, og omtrent 15 minutter senere fikk de telefoner om knivstikking inne i templet, sa Edmonton Police Service.",
-        "Angrepet kommer etter at politiet i forrige uke bekreftet at de etterforsket truende oppringninger til to sikh-gurdwaraer i Calgary, to timer sør for der fredagens angrep fant sted.",
-        "Vi kan ikke forbli stille.\" Verdens Sikh-organisasjon sa at en kopi av Sikh-skriftet inne i templet også ble vanhelliget i angrepet."
+        "Se: Video viser russisk droneangrep Ukraina kjøpesenter Minst 16 mennesker er drept i et russisk dobbelttrykks-droneangrep på et kjøpesenter i den sentrale ukrainske byen Kryvyi Rih, har lokale tjenestemenn sagt.",
+        "Spesialtrente psykologer har blitt utplassert for å hjelpe noen overlevende etter angrepet Fire personer - inkludert tre barn - ble drept i separate russiske angrep i Ukrainas sørlige Mykolaiv-region, og ytterligere to i den nordøstlige Kharkiv-regionen, sa lokale tjenestemenn.",
+        "Dette kommer et døgn etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev.",
+        "En rekke mennesker er rapportert å være fanget i ruinene av kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih Dnipropetrovsk regionsjef Oleksandr Hanzha sa tidligere fredag ​​kveld at det var 15 bekreftede dødsfall, inkludert to personer som døde senere på sykehus."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
-      "localImage": "assets/news/1f44df8f70c4dc.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
+      "localImage": "assets/news/29d01fdc9c4a3a.png",
       "score": 13
     },
     {
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0e6/live/7a1a5820-9d99-11f1-94d7-fd3901402557.jpg",
       "localImage": "assets/news/fbcdcc63ffe2cc.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "820f7fc19038e5",
@@ -106,28 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/95e6e180-ee11-360d-9f80-df5b6837c946?fit=crop&h=675&upscale=true&w=1200&s=a1319baa8ddf587daa5a95bc3737b1b8d5dd3df3",
       "localImage": "assets/news/6e13149ee2d8fc.jpg",
-      "score": 17
-    },
-    {
-      "id": "174e0d2fe55213",
-      "category": "AI",
-      "published": "21.08. 01:12",
-      "publishedISO": "2026-08-21T01:12:38+02:00",
-      "title": "How landscape gardening is being electrified",
-      "summary": "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr. Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer. Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
-      "keyPoints": [
-        "Høsten kan være en støyende tid når løvblåserne er ute En del av lydsporet til en dag i det sørlige California er drønet av bensindrevet hageutstyr.",
-        "Overgangen til elektrisk kraft tiltrekker nye selskaper til markedet for hageutstyr.",
-        "Støy er en av hovedårsakene til at byer rundt om i USA, eksterne, forbyr bensinanleggsverktøy eller oppmuntrer til elektriske alternativer.",
-        "I dag deltar jeg på opplæring drevet av American Green Zone Alliance (AGZA), en organisasjon som støtter overgangen til elektrisk utstyr for landskapsarbeid."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cpq3w3v19veo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a26/live/a80a27a0-754f-11f1-a627-714adb4eed6e.jpg",
-      "localImage": "assets/news/174e0d2fe55213.jpg",
-      "score": 13
+      "score": 16
     },
     {
       "id": "b3c67b9e17bfe5",
@@ -148,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/UnAKtaDMMqhdAP1B4bLvKgKDSV6ETqtZAl0zoFz9zc_g.jpg",
       "localImage": "assets/news/b3c67b9e17bfe5.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "4563e93d3e0edc",
@@ -169,48 +148,69 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Rdr57-bp5OmsS348wHGCowXP42KShx4GS4Kw8JkWuMtg.jpg",
       "localImage": "assets/news/4563e93d3e0edc.webp",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "8c38205881890c",
-      "category": "Verden",
-      "published": "21.08. 23:03",
-      "publishedISO": "2026-08-21T23:03:24+02:00",
-      "title": "One killed in sword attack at Swedish school",
-      "summary": "En person er drept i et sverdangrep på en videregående skole i Midt-Sverige, opplyser myndighetene. To lærere ble drept i et voldelig angrep på en ungdomsskole i Malmø i 2022 – en 18 år gammel elev tilsto senere angrepet. I 2015 ble en lærer og en elev drept i et sverdangrep på en skole i Trollhättan.",
-      "keyPoints": [
-        "En person er drept i et sverdangrep på en videregående skole i Midt-Sverige, opplyser myndighetene.",
-        "In 2015, a teacher and a pupil were killed in a sword attack at a school in Trollhättan.",
-        "Two teachers were killed in a violent attack on a secondary school in Malmo in 2022 - an 18-year-old student later confessed to the attack.",
-        "Dette førte til at regjeringen strammet inn landets våpenlover etter at det ble funnet at den mistenkte lovlig eide fire rifler, hvorav tre ble funnet på skolen der angrepet fant sted."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/8c38205881890c.jpg",
-      "score": 13
-    },
-    {
-      "id": "cb6ce41f75ce45",
+      "id": "494a25c6e7d83b",
       "category": "Norge",
-      "published": "21.08. 22:23",
-      "publishedISO": "2026-08-21T22:23:29+02:00",
-      "title": "Hadde videobevis på fengselsvold – politiet henla saken",
-      "summary": "Nå har politiet henlagt saken. – Det er et under at han ikke ble blind, sier Erling Rafoss. Påtaleansvarlig i saken, politiadvokat Ingrid Kaja Read i Trøndelag politidistrikt, forklarer henleggelsen slik i en e-post til NRK: «Saken ble henlagt på bevisets stilling. Politiet sier videre at det er innhentet videoovervåkning og det er gjort flere avhør, som har gitt et klart bilde av hva som har hendt.",
+      "published": "22.08. 03:39",
+      "publishedISO": "2026-08-22T03:39:37+02:00",
+      "title": "Brann i plastfabrikk i Søgne i Kristiansand",
+      "summary": "BRANN: Det brant natt til lørdag i lagerbygg i Søgne utenfor Kristiansand. Tidligere i natt meldte politiet om at det brant ved en plastbedrift i Søgne i Kristiansand. Det sier Hans Arne Madsen, vakthavende brannsjef i Kristiansand brann og redning, til NRK.",
       "keyPoints": [
-        "Nå har politiet henlagt saken. – Det er et under at han ikke ble blind, sier Erling Rafoss.",
-        "Påtaleansvarlig i saken, politiadvokat Ingrid Kaja Read i Trøndelag politidistrikt, forklarer henleggelsen slik i en e-post til NRK: «Saken ble henlagt på bevisets stilling.",
-        "Politiet sier videre at det er innhentet videoovervåkning og det er gjort flere avhør, som har gitt et klart bilde av hva som har hendt.",
-        "Fengselsleder i Agder fengsel, Rolf Velle, sier han fikk beskjed om at saken var henlagt for en stund siden. – Det er alvorlig at en slik voldshendelse blir henlagt."
+        "BRANN: Det brant natt til lørdag i lagerbygg i Søgne utenfor Kristiansand.",
+        "Det sier Hans Arne Madsen, vakthavende brannsjef i Kristiansand brann og redning, til NRK.",
+        "Tidligere i natt meldte politiet om at det brant ved en plastbedrift i Søgne i Kristiansand.",
+        "Vi kalte inn ekstra mannskap og høydemateriell fra Kristiansand, så vi kunne angripe brannen ovenfra."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/hadde-videobevis-pa-fengselsvold-_-politiet-henla-saken-1.17996820",
+      "url": "https://www.nrk.no/norge/brann-i-plastfabrikk-i-sogne-i-kristiansand-1.17997921",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Y0uT0yy2vqpJnzj1P7svbAXzzSFF6sgdjofpSPNM9WuQ.jpg",
-      "localImage": "assets/news/cb6ce41f75ce45.jpg",
+      "image": "https://gfx.nrk.no/NqYM_BLV99l9T_nTes0NHgaRqZQFJz7GdqJO0UZ8O0ZQ.jpg",
+      "localImage": "assets/news/494a25c6e7d83b.jpg",
+      "score": 13
+    },
+    {
+      "id": "1f44df8f70c4dc",
+      "category": "Verden",
+      "published": "22.08. 00:45",
+      "publishedISO": "2026-08-22T00:45:01+02:00",
+      "title": "Two injured in stabbing attack at Edmonton Sikh temple",
+      "summary": "En mann er arrestert etter å ha skadet to personer i et knivstikkingangrep tidlig om morgenen ved et sikh-tempel i Edmonton, Canada, opplyser politiet. Angrepet kommer etter at politiet i forrige uke bekreftet at de etterforsket truende oppringninger til to sikh-gurdwaraer i Calgary, to timer sør for der fredagens angrep fant sted. Politiet mottok først rapporter rundt 04:49 lokal tid om en mann som gikk i trafikken på en motorvei, og omtrent 15 minutter senere fikk de telefoner om knivstikking inne i templet, sa Edmonton Police Service.",
+      "keyPoints": [
+        "En mann er arrestert etter å ha skadet to personer i et knivstikkingangrep tidlig om morgenen ved et sikh-tempel i Edmonton, Canada, opplyser politiet.",
+        "Politiet mottok først rapporter rundt 04:49 lokal tid om en mann som gikk i trafikken på en motorvei, og omtrent 15 minutter senere fikk de telefoner om knivstikking inne i templet, sa Edmonton Police Service.",
+        "Angrepet kommer etter at politiet i forrige uke bekreftet at de etterforsket truende oppringninger til to sikh-gurdwaraer i Calgary, to timer sør for der fredagens angrep fant sted.",
+        "Vi kan ikke være stille.\" Verdens sikhorganisasjon sa at en kopi av sikh-skriftet inne i templet også ble vanhelliget i angrepet."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b22/live/a7b4a760-9d8d-11f1-adf5-2dc21c9cc109.jpg",
+      "localImage": "assets/news/1f44df8f70c4dc.jpg",
+      "score": 13
+    },
+    {
+      "id": "d07ceffed669f2",
+      "category": "Økonomi",
+      "published": "21.08. 09:40",
+      "publishedISO": "2026-08-21T09:40:11+02:00",
+      "title": "– Forberedt på praktiske tiltak",
+      "summary": "ONS-sjefen sier de er forberedt på at streiken kan få noen praktiske konsekvenser, men at de foreløpig vet lite om hva det blir. – Folk som kommer til oss er jo folk som har vært ute i verden før, så de pleier å komme seg både frem og tilbake, sier Sevland. – Nei, ikke foreløpig. Og vi har jo 1.200 speakere, og det kan bli noen praktiske justeringer. Så vi er forberedt på alt fra Nordhavets kuling til streiker, og vi får gjennomføre det vi kan gjennomføre.",
+      "keyPoints": [
+        "ONS-sjefen sier de er forberedt på at streiken kan få noen praktiske konsekvenser, men at de foreløpig vet lite om hva det blir. – Folk som kommer til oss er jo folk som har vært ute i verden før, så de pleier å komme seg både frem og tilbake, sier Sevland. – Nei, ikke foreløpig.",
+        "Og vi har jo 1.200 speakere, og det kan bli noen praktiske justeringer.",
+        "Så vi er forberedt på alt fra Nordhavets kuling til streiker, og vi får gjennomføre det vi kan gjennomføre.",
+        "Det er vi forberedt på, men vi vet ikke noe om det ennå."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/rre9bR/forberedt-paa-praktiske-tiltak",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/62c8a684-be2c-30fc-855a-29142309039c?fit=crop&h=675&upscale=true&w=1200&s=6cadc4eac0ed205049e2b318a79201ded92495db",
+      "localImage": "assets/news/d07ceffed669f2.jpg",
       "score": 13
     }
   ]
