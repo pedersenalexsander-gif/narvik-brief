@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.08.2026 kl. 21:03",
-  "updatedISO": "2026-08-22T21:03:19.237286+02:00",
+  "updatedAt": "22.08.2026 kl. 21:53",
+  "updatedISO": "2026-08-22T21:53:26.353381+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,48 +46,6 @@
       "score": 17
     },
     {
-      "id": "d8fd17e4121413",
-      "category": "Verden",
-      "published": "22.08. 15:13",
-      "publishedISO": "2026-08-22T15:13:16+02:00",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "summary": "Se: Video viser russisk droneangrep Ukraina kjøpesenter på fredag ​​Redningsmenn i Ukraina fortsetter søket etter overlevende i vraket av et stort kjøpesenter som ble rammet av Russland fredag. Angrepet i Kryvyi Rih kom dagen etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev. En rekke personer er rapportert å være fanget i ruinene til kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih. Spesialtrente psykologer ble utplassert for å hjelpe noen overlevende etter fredagens angrep Zelensky sa at det hadde vært «missil- og droneangrep gjennom hele kvelden og natten» over hele Ukraina, med boligbygg og sivil infrastruktur skadet.",
-      "keyPoints": [
-        "Se: Video viser russisk droneangrep Ukraina kjøpesenter på fredag ​​Redningsmenn i Ukraina fortsetter søket etter overlevende i vraket av et stort kjøpesenter som ble rammet av Russland fredag.",
-        "Angrepet i Kryvyi Rih kom dagen etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev.",
-        "En rekke personer er rapportert å være fanget i ruinene til kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih. Spesialtrente psykologer ble utplassert for å hjelpe noen overlevende etter fredagens angrep Zelensky sa at det hadde vært «missil- og droneangrep gjennom hele kvelden og natten» over hele Ukraina, med boligbygg og sivil infrastruktur skadet.",
-        "President Volodymyr Zelensky fordømte det \"kyniske og avskyelige\" angrepet der den andre dronen rettet mot nødhjelpsarbeidere."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
-      "localImage": "assets/news/d8fd17e4121413.png",
-      "score": 16
-    },
-    {
-      "id": "fbcdcc63ffe2cc",
-      "category": "USA",
-      "published": "22.08. 00:02",
-      "publishedISO": "2026-08-22T00:02:10+02:00",
-      "title": "Supreme Court temporarily unfreezes Trump ballroom construction",
-      "summary": "USAs høyesterett har midlertidig tillatt byggingen av ballsalen i Det hvite hus å gå videre. Hadde ikke Høyesterett utstedt opphold, eller valgt å dømme mot Trump-administrasjonen, ville Det hvite hus vært juridisk forpliktet til å stanse byggingen på fredag. Trump ber USAs høyesterett om å la ballsalarbeid fortsette. Dommer stanser midlertidig byggingen av Trumps ballsal i Det hvite hus. Det hvite hus begynner å rive en del av østfløyen for Trumps ballsal Trump: Ballsal i Det hvite hus skal være \"dronesikker\" med militærkompleks",
-      "keyPoints": [
-        "Trump ber USAs høyesterett om å la ballsalarbeid fortsette. Dommer stanser midlertidig byggingen av Trumps ballsal i Det hvite hus. Det hvite hus begynner å rive en del av østfløyen for Trumps ballsal Trump: Ballsal i Det hvite hus skal være \"dronesikker\" med militærkompleks",
-        "USAs høyesterett har midlertidig tillatt byggingen av ballsalen i Det hvite hus å gå videre.",
-        "Hadde ikke Høyesterett utstedt opphold, eller valgt å dømme mot Trump-administrasjonen, ville Det hvite hus vært juridisk forpliktet til å stanse byggingen på fredag.",
-        "Avgjørelsen på fredag ​​av sjefsjef John Roberts, utstedt som et opphold, vil tillate USAs president Donald Trumps prosjekt på 400 millioner dollar (£297 millioner) å fortsette mens høyesterett vurderer en sak som tar sikte på å stoppe den fullstendig."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c78g2vq6nx6o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0e6/live/7a1a5820-9d99-11f1-94d7-fd3901402557.jpg",
-      "localImage": "assets/news/fbcdcc63ffe2cc.jpg",
-      "score": 13
-    },
-    {
       "id": "fde72e96072d48",
       "category": "Økonomi",
       "published": "22.08. 11:04",
@@ -106,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e1a11b15-14f5-3533-8e01-c74cdc5b2da7?fit=crop&h=675&upscale=true&w=1200&s=6d816ccec9dacde180c4ce3809694bc61ce174b1",
       "localImage": "assets/news/fde72e96072d48.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "820f7fc19038e5",
@@ -127,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1cd22248-93b9-364f-8f3a-00d23ea9c954?fit=crop&h=675&upscale=true&w=1200&s=f5e354215f10d61bb962ee86f09c2d80e53861ee",
       "localImage": "assets/news/820f7fc19038e5.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "c06b46c1803309",
@@ -172,6 +130,69 @@
       "score": 15
     },
     {
+      "id": "c06fe379790ecd",
+      "category": "Norge",
+      "published": "22.08. 21:45",
+      "publishedISO": "2026-08-22T21:45:40+02:00",
+      "title": "Flere hundre må overnatte på Flesland",
+      "summary": "På Flesland treffer NRK flere fortvilede reisende lørdag kveld. Da hun og mannen leste om at flere hundre måtte overnatte på flyplassen, bestemte de seg for å hjelpe til. – Vi har et ledig rom, så vi tar imot en familie fra Italia, sier hun. Kommunikasjonssjef i Avinor, Cathrine Fuglesang Framholt, sier at flyplassen er full av passasjerer som har fått ombooket flyvningene sine. – Det betyr at flere hundre passasjerer må overnatte i hallen, sier hun.",
+      "keyPoints": [
+        "Kommunikasjonssjef i Avinor, Cathrine Fuglesang Framholt, sier at flyplassen er full av passasjerer som har fått ombooket flyvningene sine. – Det betyr at flere hundre passasjerer må overnatte i hallen, sier hun.",
+        "Da hun og mannen leste om at flere hundre måtte overnatte på flyplassen, bestemte de seg for å hjelpe til. – Vi har et ledig rom, så vi tar imot en familie fra Italia, sier hun.",
+        "På Flesland treffer NRK flere fortvilede reisende lørdag kveld.",
+        "Røde Kors og Avinor deler ut tepper og feltsenger til passasjerer som må overnatte på Bergen Lufthavn."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/artikkel/flere-hundre-ma-overnatte-pa-flesland-1526342",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/-NdVWfadEdgeY_qme7pG3wEgiOArRfD7ZzG_9pLs1ZxA",
+      "localImage": "assets/news/c06fe379790ecd.jpg",
+      "score": 13
+    },
+    {
+      "id": "b6b6e73f41c2c1",
+      "category": "Norge",
+      "published": "22.08. 21:29",
+      "publishedISO": "2026-08-22T21:29:08+02:00",
+      "title": "Forskere sjekket unges TikTok-vaner: Så ofte scroller de",
+      "summary": "Ungdom lot forskere få se den faktiske bruken av TikTok. Venninnene Emma Linnea Bolstad (16), Jenny Andrea Valåmo (15) og Amelie Harboe-Sjåvik (15) uttaler seg om TikTok-bruk under Arendalsuka. – Jeg scroller når jeg ligger i senga og når jeg venter på noen. TikTok bruker jeg hele tiden, humrer Jenny Andrea Valåmo (15).",
+      "keyPoints": [
+        "Venninnene Emma Linnea Bolstad (16), Jenny Andrea Valåmo (15) og Amelie Harboe-Sjåvik (15) uttaler seg om TikTok-bruk under Arendalsuka. – Jeg scroller når jeg ligger i senga og når jeg venter på noen.",
+        "Ungdom lot forskere få se den faktiske bruken av TikTok.",
+        "TikTok bruker jeg hele tiden, humrer Jenny Andrea Valåmo (15).",
+        "NRK møter henne i Arendal sammen med venninnene Emma Linnea Bolstad (16) og Amelie Harboe-Sjåvik (15)."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/forskere-sjekket-unges-tiktok-vaner_-sa-ofte-scroller-de-1.17987122",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/FCdsedrTzNH5PbiEtBvMwAxs5iGZ4fteD3OwwOURCiBw.jpg",
+      "localImage": "assets/news/b6b6e73f41c2c1.jpg",
+      "score": 13
+    },
+    {
+      "id": "e51aca715d0cca",
+      "category": "Norge",
+      "published": "22.08. 21:18",
+      "publishedISO": "2026-08-22T21:18:22+02:00",
+      "title": "Jan Thomas Jenssen rammet av nytt uhell – ville legge opp på dagen",
+      "summary": "Jan Thomas Jenssen ville legge opp på dagen etter en dramatisk sykkelvelt. NYTT UHELL: Jan Thomas Jenssen måtte stå over Toppidrettsveka med skade. – Jeg var i Surnadal og syklet innover en grusvei. I mellomtiden hadde Jan Thomas Jenssen rukket å tenke mange negative tanker. – Jeg sa faktisk til noen kompiser uka før, at hvis det skjer noe igjen nå, så legger jeg opp.",
+      "keyPoints": [
+        "Jan Thomas Jenssen ville legge opp på dagen etter en dramatisk sykkelvelt.",
+        "NYTT UHELL: Jan Thomas Jenssen måtte stå over Toppidrettsveka med skade. – Jeg var i Surnadal og syklet innover en grusvei.",
+        "I mellomtiden hadde Jan Thomas Jenssen rukket å tenke mange negative tanker. – Jeg sa faktisk til noen kompiser uka før, at hvis det skjer noe igjen nå, så legger jeg opp.",
+        "Slik innleder Jan Thomas Jenssen fortellingen om det som skjedde for tre uker siden, lørdag 1. august."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/jan-thomas-jenssen-rammet-av-nytt-uhell-_-ville-legge-opp-pa-dagen-1.17998027",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/smp84lJ0u-84qnTv5UVZoQFjzUpzwBZ4vdDm0YKXQGmA.jpg",
+      "localImage": "assets/news/e51aca715d0cca.jpg",
+      "score": 13
+    },
+    {
       "id": "261d86ad4fc183",
       "category": "Økonomi",
       "published": "22.08. 20:36",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/0841ff26-931a-3b53-9f5c-d04ad091ec34?fit=crop&h=675&upscale=true&w=1200&s=2e9c9d8d8d06ccab8cd59268f32de7fa583fc533",
       "localImage": "assets/news/261d86ad4fc183.jpg",
-      "score": 13
-    },
-    {
-      "id": "3ff4d0cb613f73",
-      "category": "Norge",
-      "published": "22.08. 20:23",
-      "publishedISO": "2026-08-22T20:23:31+02:00",
-      "title": "Redningsaksjon ved Store Trolltind i Rauma",
-      "summary": "Ein redningsaksjon er i gang ved Store Trolltind i Rauma. Store Trolltind er 1 788 meter høgt og blandt dei høgste fjella i Romsdalsalpane. Ein person har gått seg fast i skaret under Store Trolltind i Rauma og kjem seg ikkje ned grunna dårleg sikt. – Det var personen sjølv som meldte ifrå om at han ikkje kom seg ned, seier operasjonsleiar hjå politiet Per Åge Ferstad.",
-      "keyPoints": [
-        "Ein redningsaksjon er i gang ved Store Trolltind i Rauma.",
-        "Ein person har gått seg fast i skaret under Store Trolltind i Rauma og kjem seg ikkje ned grunna dårleg sikt. – Det var personen sjølv som meldte ifrå om at han ikkje kom seg ned, seier operasjonsleiar hjå politiet Per Åge Ferstad.",
-        "Store Trolltind er 1 788 meter høgt og blandt dei høgste fjella i Romsdalsalpane.",
-        "Frivillige frå Røde Kors og Norsk Folkehjelp er kalla ut og planen er at dei skal ta seg opp til turgåaren og få han ned trygt. – Det er jo sti der, men det er klart at når tåka kjem og det er so lågt skydekke so vert det vanskeleg, seier Ferstad."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/redningsaksjon-ved-store-trolltind-i-rauma-1.17998403",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/kartoteket/01M0N54ZY89GFZV1FAZNB25VCQ/F169/650w.png",
-      "localImage": "assets/news/3ff4d0cb613f73.png",
       "score": 13
     }
   ]
