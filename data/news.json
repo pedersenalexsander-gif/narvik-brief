@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.08.2026 kl. 19:49",
-  "updatedISO": "2026-08-22T19:49:36.905215+02:00",
+  "updatedAt": "22.08.2026 kl. 21:03",
+  "updatedISO": "2026-08-22T21:03:19.237286+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
       "localImage": "assets/news/d8fd17e4121413.png",
-      "score": 17
+      "score": 16
     },
     {
       "id": "fbcdcc63ffe2cc",
@@ -85,7 +85,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0e6/live/7a1a5820-9d99-11f1-94d7-fd3901402557.jpg",
       "localImage": "assets/news/fbcdcc63ffe2cc.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "fde72e96072d48",
@@ -148,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/C8bPVJEC9WGk4ui18aex8gHZjx6otV0Z3SUiTYuGJpOw.jpg",
       "localImage": "assets/news/c06b46c1803309.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "179651aca97506",
@@ -172,45 +172,45 @@
       "score": 15
     },
     {
-      "id": "6e13149ee2d8fc",
+      "id": "261d86ad4fc183",
       "category": "Økonomi",
-      "published": "21.08. 09:01",
-      "publishedISO": "2026-08-21T09:01:34+02:00",
-      "title": "Stengerekord på Oslo Børs",
-      "summary": "Stemningen på Oslo Børs tok seg opp jevnt og trutt utover fredagen. Brent spot-prisen ligger på 93,6 dollar fatet i skrivende stund, opp 0,5 prosent siden midnatt. Selskapet hadde inntekter på 2,29 milliarder kroner i kvartalet, ned fra 2,3 milliarder for et år siden.",
+      "published": "22.08. 20:36",
+      "publishedISO": "2026-08-22T20:36:26+02:00",
+      "title": "Tiktok løfter bokbransjen: – En motreaksjon",
+      "summary": "Norli-sjefen sier det er helt klart at «Booktok» og influensere har stor effekt. – Tiktok har gjort bøker mer synlige og tilgjengelige, spesielt for unge, skriver influenser Rikke Neverdal til E24. Hun legger ut innhold på blant annet Tiktok og Instagram under profilen Norwegian_bookshelf, som oftest med taggen #booktok. – Under corona fant jeg Booktok og følte endelig et fellesskap rundt å lese og ønsket å dele mine beste leseopplevelser med andre. – En bokanbefaling fra en person man følger og stoler på kan ofte være mer inspirerende enn en tradisjonell reklamekampanje. Neverdal sier at hun ser at flere unge nå leser enn tidligere, og at lesing har blitt «kult» igjen. – Jeg tror også det kan være en motreaksjon på en stadig mer digital verden.",
       "keyPoints": [
-        "Stemningen på Oslo Børs tok seg opp jevnt og trutt utover fredagen.",
-        "Selskapet hadde inntekter på 2,29 milliarder kroner i kvartalet, ned fra 2,3 milliarder for et år siden.",
-        "Brent spot-prisen ligger på 93,6 dollar fatet i skrivende stund, opp 0,5 prosent siden midnatt.",
-        "Avgiftsendring med tilbakevirkende kraft på Filippinene bidro negativt med 231 millioner kroner, mens renteutgiftene økte til 634 millioner kroner."
+        "Hun legger ut innhold på blant annet Tiktok og Instagram under profilen Norwegian_bookshelf, som oftest med taggen #booktok. – Under corona fant jeg Booktok og følte endelig et fellesskap rundt å lese og ønsket å dele mine beste leseopplevelser med andre. – En bokanbefaling fra en person man følger og stoler på kan ofte være mer inspirerende enn en tradisjonell reklamekampanje.",
+        "Norli-sjefen sier det er helt klart at «Booktok» og influensere har stor effekt. – Tiktok har gjort bøker mer synlige og tilgjengelige, spesielt for unge, skriver influenser Rikke Neverdal til E24.",
+        "Neverdal sier at hun ser at flere unge nå leser enn tidligere, og at lesing har blitt «kult» igjen. – Jeg tror også det kan være en motreaksjon på en stadig mer digital verden.",
+        "Både Ark og Norli-sjefene forteller E24 om sterke år i 2025, som fortsetter inn i 2026: Norli-sjef Harald Borgen sier at de opplevde en svært sterk bokhøst med historisk gode bestselgere. – Selv uten disse var det en god utvikling nettopp fordi det er en generell interesse som gir en bredbasert oppgang."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/RjEKkW/oppgang-paa-oslo-boers-scatec-stiger",
+      "url": "https://e24.no/norsk-oekonomi/i/d4GV6B/tiktok-loefter-bokbransjen-en-motreaksjon",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/95e6e180-ee11-360d-9f80-df5b6837c946?fit=crop&h=675&upscale=true&w=1200&s=a1319baa8ddf587daa5a95bc3737b1b8d5dd3df3",
-      "localImage": "assets/news/6e13149ee2d8fc.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/0841ff26-931a-3b53-9f5c-d04ad091ec34?fit=crop&h=675&upscale=true&w=1200&s=2e9c9d8d8d06ccab8cd59268f32de7fa583fc533",
+      "localImage": "assets/news/261d86ad4fc183.jpg",
+      "score": 13
     },
     {
-      "id": "d5fe273db4c98a",
+      "id": "3ff4d0cb613f73",
       "category": "Norge",
-      "published": "22.08. 19:35",
-      "publishedISO": "2026-08-22T19:35:40+02:00",
-      "title": "Han kunne lagd cup-krøll for Tromsø IL",
-      "summary": "Ulfstind fra 3. divisjon tok imot storfavoritten Tromsø i 1. runde i cupen på Tønsnes kunstgress lørdag ettermiddag – et TIL-lag der ingen av de 11 som startet mot Brighton torsdag var i troppen. – Det er så kort tid siden, og ikke forsvarlig fysisk, forklarer TIL-trener Jørgen Vik. Han kom inn mot Brighton torsdag, og spilte kun 1. omgang mot Ulfstind. Da merket han seg Isaksen hos hjemmelaget og hans kjempesjanse til å utligne til 1–1. – En meget god redning av Ole (Lauvli), viktig at Ulfstind ikke scoret der.",
+      "published": "22.08. 20:23",
+      "publishedISO": "2026-08-22T20:23:31+02:00",
+      "title": "Redningsaksjon ved Store Trolltind i Rauma",
+      "summary": "Ein redningsaksjon er i gang ved Store Trolltind i Rauma. Store Trolltind er 1 788 meter høgt og blandt dei høgste fjella i Romsdalsalpane. Ein person har gått seg fast i skaret under Store Trolltind i Rauma og kjem seg ikkje ned grunna dårleg sikt. – Det var personen sjølv som meldte ifrå om at han ikkje kom seg ned, seier operasjonsleiar hjå politiet Per Åge Ferstad.",
       "keyPoints": [
-        "Ulfstind fra 3. divisjon tok imot storfavoritten Tromsø i 1. runde i cupen på Tønsnes kunstgress lørdag ettermiddag – et TIL-lag der ingen av de 11 som startet mot Brighton torsdag var i troppen. – Det er så kort tid siden, og ikke forsvarlig fysisk, forklarer TIL-trener Jørgen Vik.",
-        "Da merket han seg Isaksen hos hjemmelaget og hans kjempesjanse til å utligne til 1–1. – En meget god redning av Ole (Lauvli), viktig at Ulfstind ikke scoret der.",
-        "Han kom inn mot Brighton torsdag, og spilte kun 1. omgang mot Ulfstind.",
-        "Og jeg er stolt av guttene, de gjorde en bra jobb, sier spilleren som kunne gjort lørdagen vanskelig for TIL. – Det er kult at de har først har Brighton og så oss, og så skal de spille mot Brighton igjen."
+        "Ein redningsaksjon er i gang ved Store Trolltind i Rauma.",
+        "Ein person har gått seg fast i skaret under Store Trolltind i Rauma og kjem seg ikkje ned grunna dårleg sikt. – Det var personen sjølv som meldte ifrå om at han ikkje kom seg ned, seier operasjonsleiar hjå politiet Per Åge Ferstad.",
+        "Store Trolltind er 1 788 meter høgt og blandt dei høgste fjella i Romsdalsalpane.",
+        "Frivillige frå Røde Kors og Norsk Folkehjelp er kalla ut og planen er at dei skal ta seg opp til turgåaren og få han ned trygt. – Det er jo sti der, men det er klart at når tåka kjem og det er so lågt skydekke so vert det vanskeleg, seier Ferstad."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/han-kunne-lagd-cup-kroll-for-tromso-il-1.17998365",
+      "url": "https://www.nrk.no/mr/redningsaksjon-ved-store-trolltind-i-rauma-1.17998403",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jlj3VuNSjxa51p3XPK0UwgaJpKwsgGPlTrIC_Sze1POw.jpg",
-      "localImage": "assets/news/d5fe273db4c98a.jpg",
+      "image": "https://static.nrk.no/kartoteket/01M0N54ZY89GFZV1FAZNB25VCQ/F169/650w.png",
+      "localImage": "assets/news/3ff4d0cb613f73.png",
       "score": 13
     }
   ]
