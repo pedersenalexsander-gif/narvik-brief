@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.08.2026 kl. 21:53",
-  "updatedISO": "2026-08-22T21:53:26.353381+02:00",
+  "updatedAt": "22.08.2026 kl. 22:54",
+  "updatedISO": "2026-08-22T22:54:34.717290+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,6 +130,27 @@
       "score": 15
     },
     {
+      "id": "f794970fc1ac37",
+      "category": "Norge",
+      "published": "22.08. 22:15",
+      "publishedISO": "2026-08-22T22:15:56+02:00",
+      "title": "Kan Kim Kardashian hjelpe Lewis Hamilton til historisk VM-tittel?",
+      "summary": "Men kan kjærligheten hjelpe Lewis Hamilton (41) frem til en historisk åttende VM-tittel? Etter at spekulasjonene gikk i månedsvis, har Kim Kardashian og Lewis Hamilton i sommer ikke lagt skjul på forholdet sitt. TO GENERASJONER: Kimi Antonelli (19) leder VM foran Lewis Hamilton (41) foran høstsesongen i Formel 1. – Men det er ingen tvil om at det ville være en god historie for Formel 1 om Hamilton med Kardashian ved sin side skulle klare det!",
+      "keyPoints": [
+        "Men kan kjærligheten hjelpe Lewis Hamilton (41) frem til en historisk åttende VM-tittel?",
+        "Etter at spekulasjonene gikk i månedsvis, har Kim Kardashian og Lewis Hamilton i sommer ikke lagt skjul på forholdet sitt.",
+        "TO GENERASJONER: Kimi Antonelli (19) leder VM foran Lewis Hamilton (41) foran høstsesongen i Formel 1. – Men det er ingen tvil om at det ville være en god historie for Formel 1 om Hamilton med Kardashian ved sin side skulle klare det!",
+        "Hans mekaniker på den tiden, Marc Priestley, fortalte nylig hvor viktig hun var – og kastet dermed bensin på bålet når det gjelder om Kardashian kan hjelpe Hamilton til VM-triumf i 2026. – Når forholdet mellom dem var bra, så presterte han bra."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/kan-kim-kardashian-hjelpe-lewis-hamilton-til-historisk-vm-tittel_-1.17995720",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Arf9vYFi12ASrkqRinWQbw7Yv2GCcIP7i8SDEqG9iuzA.jpg",
+      "localImage": "assets/news/f794970fc1ac37.webp",
+      "score": 13
+    },
+    {
       "id": "c06fe379790ecd",
       "category": "Norge",
       "published": "22.08. 21:45",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/smp84lJ0u-84qnTv5UVZoQFjzUpzwBZ4vdDm0YKXQGmA.jpg",
       "localImage": "assets/news/e51aca715d0cca.jpg",
-      "score": 13
-    },
-    {
-      "id": "261d86ad4fc183",
-      "category": "Økonomi",
-      "published": "22.08. 20:36",
-      "publishedISO": "2026-08-22T20:36:26+02:00",
-      "title": "Tiktok løfter bokbransjen: – En motreaksjon",
-      "summary": "Norli-sjefen sier det er helt klart at «Booktok» og influensere har stor effekt. – Tiktok har gjort bøker mer synlige og tilgjengelige, spesielt for unge, skriver influenser Rikke Neverdal til E24. Hun legger ut innhold på blant annet Tiktok og Instagram under profilen Norwegian_bookshelf, som oftest med taggen #booktok. – Under corona fant jeg Booktok og følte endelig et fellesskap rundt å lese og ønsket å dele mine beste leseopplevelser med andre. – En bokanbefaling fra en person man følger og stoler på kan ofte være mer inspirerende enn en tradisjonell reklamekampanje. Neverdal sier at hun ser at flere unge nå leser enn tidligere, og at lesing har blitt «kult» igjen. – Jeg tror også det kan være en motreaksjon på en stadig mer digital verden.",
-      "keyPoints": [
-        "Hun legger ut innhold på blant annet Tiktok og Instagram under profilen Norwegian_bookshelf, som oftest med taggen #booktok. – Under corona fant jeg Booktok og følte endelig et fellesskap rundt å lese og ønsket å dele mine beste leseopplevelser med andre. – En bokanbefaling fra en person man følger og stoler på kan ofte være mer inspirerende enn en tradisjonell reklamekampanje.",
-        "Norli-sjefen sier det er helt klart at «Booktok» og influensere har stor effekt. – Tiktok har gjort bøker mer synlige og tilgjengelige, spesielt for unge, skriver influenser Rikke Neverdal til E24.",
-        "Neverdal sier at hun ser at flere unge nå leser enn tidligere, og at lesing har blitt «kult» igjen. – Jeg tror også det kan være en motreaksjon på en stadig mer digital verden.",
-        "Både Ark og Norli-sjefene forteller E24 om sterke år i 2025, som fortsetter inn i 2026: Norli-sjef Harald Borgen sier at de opplevde en svært sterk bokhøst med historisk gode bestselgere. – Selv uten disse var det en god utvikling nettopp fordi det er en generell interesse som gir en bredbasert oppgang."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/d4GV6B/tiktok-loefter-bokbransjen-en-motreaksjon",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0841ff26-931a-3b53-9f5c-d04ad091ec34?fit=crop&h=675&upscale=true&w=1200&s=2e9c9d8d8d06ccab8cd59268f32de7fa583fc533",
-      "localImage": "assets/news/261d86ad4fc183.jpg",
       "score": 13
     }
   ]
