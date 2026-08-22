@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.08.2026 kl. 18:56",
-  "updatedISO": "2026-08-22T18:56:08.707489+02:00",
+  "updatedAt": "22.08.2026 kl. 19:49",
+  "updatedISO": "2026-08-22T19:49:36.905215+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/mvuJUz1Op7UKHh9ozh_-OgSEYQPW5mh5H7wBu2unpOyQ.jpg",
       "localImage": "assets/news/1eeff9ce68f2c1.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "caebf9dfa9a168",
@@ -193,24 +193,24 @@
       "score": 14
     },
     {
-      "id": "bbcdd39fa84b19",
-      "category": "Verden",
-      "published": "22.08. 16:35",
-      "publishedISO": "2026-08-22T16:35:11+02:00",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "summary": "Gutten ble funnet alene på Japans høyeste fjell En far har blitt irettesatt av politiet etter å ha forlatt sønnen på Japans høyeste fjell i flere timer med kun en brus og snacks. Faren hans, 48, skal ha fortalt ham om å \"vente her\" etter at gutten klaget over at han var sliten - og fortsatte klatringen med sin eldste sønn. Mount Fuji-klatrer reddet to ganger etter å ha gått tilbake for tapt telefon.",
+      "id": "d5fe273db4c98a",
+      "category": "Norge",
+      "published": "22.08. 19:35",
+      "publishedISO": "2026-08-22T19:35:40+02:00",
+      "title": "Han kunne lagd cup-krøll for Tromsø IL",
+      "summary": "Ulfstind fra 3. divisjon tok imot storfavoritten Tromsø i 1. runde i cupen på Tønsnes kunstgress lørdag ettermiddag – et TIL-lag der ingen av de 11 som startet mot Brighton torsdag var i troppen. – Det er så kort tid siden, og ikke forsvarlig fysisk, forklarer TIL-trener Jørgen Vik. Han kom inn mot Brighton torsdag, og spilte kun 1. omgang mot Ulfstind. Da merket han seg Isaksen hos hjemmelaget og hans kjempesjanse til å utligne til 1–1. – En meget god redning av Ole (Lauvli), viktig at Ulfstind ikke scoret der.",
       "keyPoints": [
-        "Gutten ble funnet alene på Japans høyeste fjell En far har blitt irettesatt av politiet etter å ha forlatt sønnen på Japans høyeste fjell i flere timer med kun en brus og snacks.",
-        "Faren hans, 48, skal ha fortalt ham om å \"vente her\" etter at gutten klaget over at han var sliten - og fortsatte klatringen med sin eldste sønn.",
-        "Mount Fuji-klatrer reddet to ganger etter å ha gått tilbake for tapt telefon.",
-        "Offiserer kastet ut faren hans da han kom tilbake fra den høyere stasjonen og ble gjenforent med sønnen, som skal ha vært «trøtt og masete» etter åtte timers venting. \"Selv om det betyr å måtte gi opp å bestige fjellet sammen, er det uakseptabelt å etterlate et barn,\" sa en til ham, ifølge Japan Today."
+        "Ulfstind fra 3. divisjon tok imot storfavoritten Tromsø i 1. runde i cupen på Tønsnes kunstgress lørdag ettermiddag – et TIL-lag der ingen av de 11 som startet mot Brighton torsdag var i troppen. – Det er så kort tid siden, og ikke forsvarlig fysisk, forklarer TIL-trener Jørgen Vik.",
+        "Da merket han seg Isaksen hos hjemmelaget og hans kjempesjanse til å utligne til 1–1. – En meget god redning av Ole (Lauvli), viktig at Ulfstind ikke scoret der.",
+        "Han kom inn mot Brighton torsdag, og spilte kun 1. omgang mot Ulfstind.",
+        "Og jeg er stolt av guttene, de gjorde en bra jobb, sier spilleren som kunne gjort lørdagen vanskelig for TIL. – Det er kult at de har først har Brighton og så oss, og så skal de spille mot Brighton igjen."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
-      "localImage": "assets/news/bbcdd39fa84b19.jpg",
+      "url": "https://www.nrk.no/tromsogfinnmark/han-kunne-lagd-cup-kroll-for-tromso-il-1.17998365",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/jlj3VuNSjxa51p3XPK0UwgaJpKwsgGPlTrIC_Sze1POw.jpg",
+      "localImage": "assets/news/d5fe273db4c98a.jpg",
       "score": 13
     }
   ]
