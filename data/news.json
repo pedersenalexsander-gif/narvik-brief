@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.08.2026 kl. 08:03",
-  "updatedISO": "2026-08-23T08:03:46.228863+02:00",
+  "updatedAt": "23.08.2026 kl. 09:53",
+  "updatedISO": "2026-08-23T09:53:03.912994+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/JrZgzLm-XaBynD8vCDuAaQfpjsgPg9iUfZ0sY86o4Jjg.jpg",
       "localImage": "assets/news/caebf9dfa9a168.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "d8fd17e4121413",
@@ -130,45 +130,24 @@
       "score": 14
     },
     {
-      "id": "741cbc4f79336a",
-      "category": "Verden",
-      "published": "23.08. 03:34",
-      "publishedISO": "2026-08-23T03:34:15+02:00",
-      "title": "Swedish sword attack victim was 17-year-old girl, police say",
-      "summary": "Offeret for et dødelig sverd-angrep på en videregående skole i Midt-Sverige var en 17 år gammel jente, har politiet bekreftet. Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert. Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
-      "keyPoints": [
-        "Offeret for et dødelig sverd-angrep på en videregående skole i Midt-Sverige var en 17 år gammel jente, har politiet bekreftet.",
-        "Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
-        "Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert.",
-        "To gutter på 12 og 17 år ble også alvorlig skadet i angrepet på Brinell skole i Fagersta fredag ​​ettermiddag, ifølge lokale myndigheter, mens en tredje person pådro seg lettere skader."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
-      "localImage": "assets/news/741cbc4f79336a.jpg",
-      "score": 13
-    },
-    {
-      "id": "179651aca97506",
+      "id": "b380d0e8806ef3",
       "category": "Norge",
-      "published": "22.08. 08:19",
-      "publishedISO": "2026-08-22T08:19:20+02:00",
-      "title": "Datasenter skaper bustadkrise i Fyresdal: SV krev svar frå regjeringa",
-      "summary": "BUSTADKRISE: SV-politikar håpar regjeringa tek grep når folk ikkje kan etablere seg i eige lokalsamfunn. – Kommunen er beden om å ta imot vekst, rett og slett ha ei stor næringsetablering. Ein allereie prekær bustadsituasjon har spissa seg til etter at det blei bestemt å etablere eit datasenter i den vesle bygda med snaue 1300 innbyggarar. SV-politikar Fredlund ventar at regjeringa tar grep, og at kommunal- og distriktsminister Bjørnar Skjæran frå Arbeidarpartiet kjem på banen. – Det her er ikkje god vekst.",
+      "published": "23.08. 08:11",
+      "publishedISO": "2026-08-23T08:11:57+02:00",
+      "title": "Ambulansekaninen Ambulotta blir TV-stjerne: Slik lærer ungane førstehjelp",
+      "summary": "NY TV-STJERNE: Ein ny TV-serie med kaninen i hovudrolla kjem i 2027 og vi fekk vere med på innspeling. Ambulansekaninen Ambulotta skal trygge barn i møte med ambulansetenesta og helsevesenet i ny TV-serie. Barn kan lett bli redde og skeptiske i møte med helsepersonell, fortel styreleiar Kim André Forsberg i Stiftelsen Ambulotta Han ønsker at barn skal lære seg å ringe 113. – Og at dei veit adressa si, eller kor dei er.",
       "keyPoints": [
-        "BUSTADKRISE: SV-politikar håpar regjeringa tek grep når folk ikkje kan etablere seg i eige lokalsamfunn. – Kommunen er beden om å ta imot vekst, rett og slett ha ei stor næringsetablering.",
-        "SV-politikar Fredlund ventar at regjeringa tar grep, og at kommunal- og distriktsminister Bjørnar Skjæran frå Arbeidarpartiet kjem på banen. – Det her er ikkje god vekst.",
-        "Ein allereie prekær bustadsituasjon har spissa seg til etter at det blei bestemt å etablere eit datasenter i den vesle bygda med snaue 1300 innbyggarar.",
-        "Småbarnsfamilien Hveding Sauvik flytta til Fyresdal for seks år sidan og ønsker å kjøpe ein bustad, men opplever at både leige- og kjøpsmarknaden er svært vanskeleg. – Vi var i ein bodrunde, som blei pressa opp og opp."
+        "Ambulansekaninen Ambulotta skal trygge barn i møte med ambulansetenesta og helsevesenet i ny TV-serie.",
+        "Barn kan lett bli redde og skeptiske i møte med helsepersonell, fortel styreleiar Kim André Forsberg i Stiftelsen Ambulotta Han ønsker at barn skal lære seg å ringe 113. – Og at dei veit adressa si, eller kor dei er.",
+        "NY TV-STJERNE: Ein ny TV-serie med kaninen i hovudrolla kjem i 2027 og vi fekk vere med på innspeling.",
+        "Ho trur det er lurt å formidle kunnskap til barn gjennom eit kosedyr. – Det at barn og unge får god informasjon og kunnskap om førstehjelp, kva dei skal gjere viss krisa er ute, det er heilt grunnleggande viktig, seier ho."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/datasenter-skaper-bustadkrise-i-fyresdal_-sv-krev-svar-fra-regjeringa-1.17996801",
+      "url": "https://www.nrk.no/vestfoldogtelemark/ambulansekaninen-ambulotta-blir-tv-stjerne_-slik-laerer-ungane-forstehjelp-1.17996106",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/o7c2LRjXzEsGOVryojB88Aov8cNfUUU-1BgDuQR7FI9A.jpg",
-      "localImage": "assets/news/179651aca97506.jpg",
+      "image": "https://gfx.nrk.no/rPmecLkxLBzJp7e07MBH4wF8QRzQ91ovopDQTb9qoHxg.jpg",
+      "localImage": "assets/news/b380d0e8806ef3.jpg",
       "score": 13
     },
     {
@@ -193,24 +172,24 @@
       "score": 13
     },
     {
-      "id": "f794970fc1ac37",
-      "category": "Norge",
-      "published": "22.08. 22:15",
-      "publishedISO": "2026-08-22T22:15:56+02:00",
-      "title": "Kan Kim Kardashian hjelpe Lewis Hamilton til historisk VM-tittel?",
-      "summary": "Men kan kjærligheten hjelpe Lewis Hamilton (41) frem til en historisk åttende VM-tittel? Etter at spekulasjonene gikk i månedsvis, har Kim Kardashian og Lewis Hamilton i sommer ikke lagt skjul på forholdet sitt. TO GENERASJONER: Kimi Antonelli (19) leder VM foran Lewis Hamilton (41) foran høstsesongen i Formel 1. – Men det er ingen tvil om at det ville være en god historie for Formel 1 om Hamilton med Kardashian ved sin side skulle klare det!",
+      "id": "57ea74b1384ff4",
+      "category": "Verden",
+      "published": "23.08. 03:34",
+      "publishedISO": "2026-08-23T03:34:15+02:00",
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "summary": "En 17 år gammel jente ble drept i det dødelige sverdangrepet på en videregående skole i Midt-Sverige fredag, har politiet bekreftet. Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert. Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
       "keyPoints": [
-        "Men kan kjærligheten hjelpe Lewis Hamilton (41) frem til en historisk åttende VM-tittel?",
-        "Etter at spekulasjonene gikk i månedsvis, har Kim Kardashian og Lewis Hamilton i sommer ikke lagt skjul på forholdet sitt.",
-        "TO GENERASJONER: Kimi Antonelli (19) leder VM foran Lewis Hamilton (41) foran høstsesongen i Formel 1. – Men det er ingen tvil om at det ville være en god historie for Formel 1 om Hamilton med Kardashian ved sin side skulle klare det!",
-        "Hans mekaniker på den tiden, Marc Priestley, fortalte nylig hvor viktig hun var – og kastet dermed bensin på bålet når det gjelder om Kardashian kan hjelpe Hamilton til VM-triumf i 2026. – Når forholdet mellom dem var bra, så presterte han bra."
+        "En 17 år gammel jente ble drept i det dødelige sverdangrepet på en videregående skole i Midt-Sverige fredag, har politiet bekreftet.",
+        "Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
+        "Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert.",
+        "To gutter på 12 og 17 år ble også alvorlig skadet i angrepet på Brinell skole i Fagersta, ifølge lokale myndigheter, mens en annen person pådro seg lettere skader."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/kan-kim-kardashian-hjelpe-lewis-hamilton-til-historisk-vm-tittel_-1.17995720",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Arf9vYFi12ASrkqRinWQbw7Yv2GCcIP7i8SDEqG9iuzA.jpg",
-      "localImage": "assets/news/f794970fc1ac37.webp",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
+      "localImage": "assets/news/57ea74b1384ff4.jpg",
       "score": 12
     }
   ]
