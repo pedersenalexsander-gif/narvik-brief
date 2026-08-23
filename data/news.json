@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.08.2026 kl. 12:56",
-  "updatedISO": "2026-08-23T12:56:17.623107+02:00",
+  "updatedAt": "23.08.2026 kl. 13:47",
+  "updatedISO": "2026-08-23T13:47:33.807391+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -56,7 +56,7 @@
         "Fedorov spurte om Ukrainas regjeringskorrupsjon hevder Ukrainas president Volodymyr Zelensky har «spørsmål å svare på» om korrupsjon i sin regjering, har hans sparkede forsvarsminister Mykhailo Fedorov sagt til BBC.",
         "He told the BBC a money laundering investigation announced last week raised questions about Zelensky's awareness of potential corruption in his inner circle.",
         "Mikhailo Fedorov på et møte i Ukrainas forsvarskontaktgruppe i Belgia i februar sa Fedorov at saken reiste spørsmål om presidentens bevissthet om potensiell korrupsjon i hans indre krets. \"La ham svare på dette spørsmålet ...",
-        "Federov har kalt inn til valg og nektet å svare på om han støtter Zelensky. I sin tidligere videouttalelse hadde Fedorov hevdet at \"mennesker ikke i det uendelige kan leve i en stat hvor de ikke forstår hvorfor visse avgjørelser blir tatt\"."
+        "Federov har kalt inn til valg og nektet å svare på om han støtter Zelensky. I sin tidligere videouttalelse hadde Fedorov hevdet at \"folk ikke kan leve uendelig i en stat hvor de ikke forstår hvorfor visse avgjørelser tas\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -109,14 +109,56 @@
       "score": 15
     },
     {
+      "id": "c710e1a2ecdaf3",
+      "category": "Norge",
+      "published": "23.08. 13:34",
+      "publishedISO": "2026-08-23T13:34:21+02:00",
+      "title": "Lennarts nye oppfinnelse kan snu opp ned på jordbærproduksjonen",
+      "summary": "Men selv om sola har glimtet med sitt fravær, har jordbærproduksjonen på Jørem gård strålet denne sommeren. Lennart har snudd opp ned på jordbærproduksjonen, i dobbel betydning. Forsker Anne Linn Hykkerud hos Norsk institutt for bioøkonomi (Nibio) synes det er spennende at noen prøver seg på noe nytt. – Om dette systemet gjør at kostnadene går ned pr. kvadratmeter kan dette være en fordel, forteller hun.",
+      "keyPoints": [
+        "Lennart har snudd opp ned på jordbærproduksjonen, i dobbel betydning.",
+        "Men selv om sola har glimtet med sitt fravær, har jordbærproduksjonen på Jørem gård strålet denne sommeren.",
+        "Forsker Anne Linn Hykkerud hos Norsk institutt for bioøkonomi (Nibio) synes det er spennende at noen prøver seg på noe nytt. – Om dette systemet gjør at kostnadene går ned pr. kvadratmeter kan dette være en fordel, forteller hun.",
+        "Siljeström har 25 års erfaring fra motorbransjen, og synes det har vært gøy å prøve seg på noe nytt."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/jordbaerkarusellen-pa-jorem-gard-kan-spare-verdifull-plass-1.17975184",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/G8ASK-38hke9hbfWovicZw0Vnh67U7zSxpREpqTD_9uw.jpg",
+      "localImage": "assets/news/c710e1a2ecdaf3.webp",
+      "score": 13
+    },
+    {
+      "id": "e45c510653f7e1",
+      "category": "Norge",
+      "published": "23.08. 13:08",
+      "publishedISO": "2026-08-23T13:08:30+02:00",
+      "title": "Flygelederforeningen til NRK: Møter Spekter mandag morgen",
+      "summary": "Leder Robert Gjønnes i Norsk Flygelederforening sier til NRK at de har avtalt å møte Spekter mandag morgen klokken 08. Frem til nå har frontene vært steile mellom NFF og Spekter, etter at førstnevnte tok 12 av sine flygeledere ut i streik fra fredag morgen. – Jeg ble oppringt av riksmekleren som hadde blitt kontaktet av Spekter, skriver Gjønnes i en SMS til NRK. Leder Anne-Kari Bratten i Spekter sier hun registrerte i media at Gjønnes sa de var klare for å møtes om arbeidsgiver ville det. – Siden han tydeligvis ikke vil ta den kontakten har ikke jeg problemer med å ta kontakt, sier Bratten til NRK. – Så har det oppsiktsvekkende skjedd at han ikke har tid til å møtes før i morgen.",
+      "keyPoints": [
+        "Leder Robert Gjønnes i Norsk Flygelederforening sier til NRK at de har avtalt å møte Spekter mandag morgen klokken 08.",
+        "Leder Anne-Kari Bratten i Spekter sier hun registrerte i media at Gjønnes sa de var klare for å møtes om arbeidsgiver ville det. – Siden han tydeligvis ikke vil ta den kontakten har ikke jeg problemer med å ta kontakt, sier Bratten til NRK. – Så har det oppsiktsvekkende skjedd at han ikke har tid til å møtes før i morgen.",
+        "Frem til nå har frontene vært steile mellom NFF og Spekter, etter at førstnevnte tok 12 av sine flygeledere ut i streik fra fredag morgen. – Jeg ble oppringt av riksmekleren som hadde blitt kontaktet av Spekter, skriver Gjønnes i en SMS til NRK.",
+        "Riksmekler Mats Ruland sa til NRK lørdag at han snakket med partene i flygelederstreiken i går ettermiddag. – Ut fra min kontakt med dem er min klare vurdering at det ikke er grunnlag for nye møter nå, sa han."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/flygelederforeningen-til-nrk_-moter-spekter-mandag-morgen-1.17998665",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/e45c510653f7e1.jpg",
+      "score": 13
+    },
+    {
       "id": "faf5b3fb139976",
       "category": "Verden",
       "published": "23.08. 12:22",
       "publishedISO": "2026-08-23T12:22:32+02:00",
       "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "summary": "Forkullede kjøretøyer ved Bongor Subdistrict Administrative Organization-kontoret i Ra-ngae, Narathiwa. Mer enn 50 koordinerte ildspåsettelse og branntiltak «for å skape uro» har blitt utført over hele Thailands opprørsrammede sør, har det thailandske militæret sagt. Hendelsene fant sted over landets sørlige grenseprovinser mellom 20:00 lokal tid (13:00 GMT) og midnatt lørdag, sa militærets interne sikkerhetsoperasjonskommando i en uttalelse. En soldat bemanner et sjekkpunkt i Cho Airong-distriktet etter et telekommunikasjonstårnangrep Ingen gruppe har tatt på seg ansvaret for brannstiftelsen.",
+      "summary": "De fleste angrepene ble rapportert i Narathiwat-provinsen, hvor forkullede kjøretøyer ble avbildet i kjølvannet på søndag. Mer enn 50 koordinerte ildspåsettelse og branntiltak «for å skape uro» har blitt utført over hele Thailands opprørsrammede sør, har det thailandske militæret sagt. Hendelsene fant sted over landets sørlige grenseprovinser mellom 20:00 lokal tid (13:00 GMT) og midnatt lørdag, sa militærets interne sikkerhetsoperasjonskommando i en uttalelse. En soldat bemanner et sjekkpunkt i Cho Airong-distriktet etter et telekommunikasjonstårnangrep Ingen gruppe har tatt på seg ansvaret for brannstiftelsen.",
       "keyPoints": [
-        "Forkullede kjøretøyer ved Bongor Subdistrict Administrative Organization-kontoret i Ra-ngae, Narathiwa. Mer enn 50 koordinerte ildspåsettelse og branntiltak «for å skape uro» har blitt utført over hele Thailands opprørsrammede sør, har det thailandske militæret sagt.",
+        "De fleste angrepene ble rapportert i Narathiwat-provinsen, hvor forkullede kjøretøyer ble avbildet i kjølvannet på søndag. Mer enn 50 koordinerte ildspåsettelse og branntiltak «for å skape uro» har blitt utført over hele Thailands opprørsrammede sør, har det thailandske militæret sagt.",
         "En soldat bemanner et sjekkpunkt i Cho Airong-distriktet etter et telekommunikasjonstårnangrep Ingen gruppe har tatt på seg ansvaret for brannstiftelsen.",
         "Hendelsene fant sted over landets sørlige grenseprovinser mellom 20:00 lokal tid (13:00 GMT) og midnatt lørdag, sa militærets interne sikkerhetsoperasjonskommando i en uttalelse.",
         "Siden 2004 har en konflikt på lavt nivå ulmet i de sørligste provinsene i Thailand med buddhistisk flertall, mens opprørere i regionen med muslimsk majoritet kjemper for større autonomi."
@@ -125,29 +167,29 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6e3/live/f2f33b60-9ed7-11f1-9253-c70a43a5293b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7da8/live/cbf69b50-9ee2-11f1-9797-eb684645fdf7.jpg",
       "localImage": "assets/news/faf5b3fb139976.jpg",
       "score": 13
     },
     {
-      "id": "1763fcfa419958",
+      "id": "e14859ec827b00",
       "category": "Norge",
       "published": "23.08. 11:32",
       "publishedISO": "2026-08-23T11:32:15+02:00",
       "title": "Mange passasjerar er ramma av streiken",
-      "summary": "Innstilte flyavgangar og store forseinkingar gjer at mange reisande må vente lenge. Over 300 passasjerar måtte overnatte på Bergen lufthamn Flesland natt til søndag. Over 100 flygingar er kansellerte over heile landet på grunn av streiken.",
+      "summary": "Ho og mannen Shiroy Ranji, har sove på Bergen lufthamn Flesland natt til søndag, etter at flyet deira blei kansellert laurdag kveld. Over 300 passasjerar måtte overnatte på Bergen lufthamn Flesland natt til søndag. Mannen hennar Shiroy Ranji er strekt kritisk til handteringa av streiken. – Vi treng at streiken blir løyst slik at folk kan fly, og ikkje treng å sove på golvet.",
       "keyPoints": [
         "Over 300 passasjerar måtte overnatte på Bergen lufthamn Flesland natt til søndag.",
-        "Innstilte flyavgangar og store forseinkingar gjer at mange reisande må vente lenge.",
-        "Over 100 flygingar er kansellerte over heile landet på grunn av streiken.",
-        "På Ålesund lufthamn Vigra måtte mange førebu seg på lang ventetid."
+        "Mannen hennar Shiroy Ranji er strekt kritisk til handteringa av streiken. – Vi treng at streiken blir løyst slik at folk kan fly, og ikkje treng å sove på golvet.",
+        "Ho og mannen Shiroy Ranji, har sove på Bergen lufthamn Flesland natt til søndag, etter at flyet deira blei kansellert laurdag kveld.",
+        "No er Kamut og mannen redd for at ho må sove endå ei natt på flyplassen. – Ho kan ikkje sove på flyplassen endå ei natt, seier Ranji."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/vestland/mange-passasjerar-er-ramma-av-streiken-1.17998540",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/EOYGrA9y1Uz_AO_uVmB0-ghJIVw2XQnqxI9GbiZp_ETg.jpg",
-      "localImage": "assets/news/1763fcfa419958.jpg",
+      "image": "https://gfx.nrk.no/Ty3eY98-DUhoJ1q9Rg4qEA6A_ptmMhUFhG3PRt2Z-6wg.jpg",
+      "localImage": "assets/news/e14859ec827b00.jpg",
       "score": 13
     },
     {
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/z9e8n6_uX4a0T1eyUZl_zgG8JYoh1YDLV2eKUgow9thQ.jpg",
       "localImage": "assets/news/28131efc2d29e9.jpg",
-      "score": 13
-    },
-    {
-      "id": "cd2f8c29ebc78f",
-      "category": "Norge",
-      "published": "23.08. 11:11",
-      "publishedISO": "2026-08-23T11:11:16+02:00",
-      "title": "Kommentar fra Thore Haugstad: Ligaens beste jobb er nesten umulig",
-      "summary": "NY SJEF: Enzo Maresca har tatt over for Pep Guardiola i Manchester City, og det på et svært vanskelig tidspunkt. Den nye sjefen i Manchester City vil bli sammenlignet med Pep Guardiola, som vant seks ligatitler på 10 år med de lyseblå. Sammen med Guardiola hadde de to bygget et av tidenes beste lag med Barcelona fra 2008 til 2012.",
-      "keyPoints": [
-        "Den nye sjefen i Manchester City vil bli sammenlignet med Pep Guardiola, som vant seks ligatitler på 10 år med de lyseblå.",
-        "Sammen med Guardiola hadde de to bygget et av tidenes beste lag med Barcelona fra 2008 til 2012.",
-        "NY SJEF: Enzo Maresca har tatt over for Pep Guardiola i Manchester City, og det på et svært vanskelig tidspunkt.",
-        "«Nye Guardiola» kan ha vandret inn i en felle i Manchester City."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/kommentar-fra-thore-haugstad_-ligaens-beste-jobb-er-nesten-umulig-1.17996173",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/XRMusivOVOj6gDfzDKyArAzQpUdlT6Dl495awFAm-PUQ.jpg",
-      "localImage": "assets/news/cd2f8c29ebc78f.jpg",
-      "score": 13
-    },
-    {
-      "id": "bc3f2b5bedad92",
-      "category": "Norge",
-      "published": "23.08. 11:08",
-      "publishedISO": "2026-08-23T11:08:48+02:00",
-      "title": "Russiske skogbranner trolig årsak til luftforurensningen i Øst-Finnmark",
-      "summary": "Nå mener nasjonale fagmyndigheter at massive skogbranner i Russland er den mest sannsynlige årsaken. Forurensningen som har ligget over Øst-Finnmark siden fredag, ser ut til å ha sammenheng med de omfattende skog- og tundrabrannene i Sibir og Ural. Det opplyser Statsforvalteren i Troms og Finnmark, som gjennom helgen har fulgt situasjonen tett sammen med nasjonale fagmyndigheter. – Signalene vi får trekker mot store skogbranner i Sibir og Ural som har pågått over lengre tid, sier fungerende fagsjef for kommunikasjon hos Statsforvalteren i Troms og Finnmark, Vilde Øines Pedersen.",
-      "keyPoints": [
-        "Det opplyser Statsforvalteren i Troms og Finnmark, som gjennom helgen har fulgt situasjonen tett sammen med nasjonale fagmyndigheter. – Signalene vi får trekker mot store skogbranner i Sibir og Ural som har pågått over lengre tid, sier fungerende fagsjef for kommunikasjon hos Statsforvalteren i Troms og Finnmark, Vilde Øines Pedersen.",
-        "Forurensningen som har ligget over Øst-Finnmark siden fredag, ser ut til å ha sammenheng med de omfattende skog- og tundrabrannene i Sibir og Ural.",
-        "Nå mener nasjonale fagmyndigheter at massive skogbranner i Russland er den mest sannsynlige årsaken.",
-        "Økt luftforurensning har preget Øst-Finnmark gjennom helgen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/russiske-skogbranner-trolig-arsak-til-luftforurensningen-i-ost-finnmark-1.17998566",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/NIqPg__quiCNLZcWXCWQRwM-3zoZQCiORaa7R88r9Q9w.png",
-      "localImage": "assets/news/bc3f2b5bedad92.webp",
       "score": 13
     }
   ]
