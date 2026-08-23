@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.08.2026 kl. 09:53",
-  "updatedISO": "2026-08-23T09:53:03.912994+02:00",
+  "updatedAt": "23.08.2026 kl. 11:02",
+  "updatedISO": "2026-08-23T11:02:55.241956+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/mvuJUz1Op7UKHh9ozh_-OgSEYQPW5mh5H7wBu2unpOyQ.jpg",
       "localImage": "assets/news/1eeff9ce68f2c1.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "caebf9dfa9a168",
@@ -46,25 +46,25 @@
       "score": 14
     },
     {
-      "id": "d8fd17e4121413",
+      "id": "62412fb6f74675",
       "category": "Verden",
-      "published": "22.08. 15:13",
-      "publishedISO": "2026-08-22T15:13:16+02:00",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "summary": "Se: Video viser russisk droneangrep Ukraina kjøpesenter på fredag ​​Redningsmenn i Ukraina fortsetter søket etter overlevende i vraket av et stort kjøpesenter som ble rammet av Russland fredag. Angrepet i Kryvyi Rih kom dagen etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev. En rekke personer er rapportert å være fanget i ruinene til kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih. Spesialtrente psykologer ble utplassert for å hjelpe noen overlevende etter fredagens angrep Zelensky sa at det hadde vært «missil- og droneangrep gjennom hele kvelden og natten» over hele Ukraina, med boligbygg og sivil infrastruktur skadet.",
+      "published": "23.08. 10:47",
+      "publishedISO": "2026-08-23T10:47:47+02:00",
+      "title": "Zelensky has 'questions to answer' on corruption, Mykhailo Fedorov tells BBC",
+      "summary": "Fedorov spurte om Ukrainas regjeringskorrupsjon hevder Ukrainas president Volodymyr Zelensky har «spørsmål å svare på» om korrupsjon i sin regjering, har hans sparkede forsvarsminister Mykhailo Fedorov sagt til BBC. Han fortalte BBC at en hvitvaskingsetterforskning annonsert i forrige uke reiste spørsmål om Zelenskys bevissthet om potensiell korrupsjon i hans indre krets. Mikhailo Fedorov på et møte i Ukrainas forsvarskontaktgruppe i Belgia i februar sa Fedorov at saken reiste spørsmål om presidentens bevissthet om potensiell korrupsjon i hans indre krets. \"La ham svare på dette spørsmålet ...",
       "keyPoints": [
-        "Se: Video viser russisk droneangrep Ukraina kjøpesenter på fredag ​​Redningsmenn i Ukraina fortsetter søket etter overlevende i vraket av et stort kjøpesenter som ble rammet av Russland fredag.",
-        "Angrepet i Kryvyi Rih kom dagen etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev.",
-        "En rekke personer er rapportert å være fanget i ruinene til kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih. Spesialtrente psykologer ble utplassert for å hjelpe noen overlevende etter fredagens angrep Zelensky sa at det hadde vært «missil- og droneangrep gjennom hele kvelden og natten» over hele Ukraina, med boligbygg og sivil infrastruktur skadet.",
-        "President Volodymyr Zelensky fordømte det \"kyniske og avskyelige\" angrepet der den andre dronen rettet mot nødhjelpsarbeidere."
+        "Fedorov spurte om Ukrainas regjeringskorrupsjon hevder Ukrainas president Volodymyr Zelensky har «spørsmål å svare på» om korrupsjon i sin regjering, har hans sparkede forsvarsminister Mykhailo Fedorov sagt til BBC.",
+        "He told the BBC a money laundering investigation announced last week raised questions about Zelensky's awareness of potential corruption in his inner circle.",
+        "Mikhailo Fedorov på et møte i Ukrainas forsvarskontaktgruppe i Belgia i februar sa Fedorov at saken reiste spørsmål om presidentens bevissthet om potensiell korrupsjon i hans indre krets. \"La ham svare på dette spørsmålet ...",
+        "Federov har kalt inn til valg og nektet å svare på om han støtter Zelensky. I sin tidligere videouttalelse hadde Fedorov hevdet at \"folk ikke kan leve uendelig i en stat hvor de ikke forstår hvorfor visse avgjørelser tas\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
-      "localImage": "assets/news/d8fd17e4121413.png",
-      "score": 14
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f1da/live/9dcc87a0-9ecc-11f1-a6c1-71ec82f18bdc.jpg",
+      "localImage": "assets/news/62412fb6f74675.jpg",
+      "score": 17
     },
     {
       "id": "5ee74f907ee883",
@@ -130,6 +130,27 @@
       "score": 14
     },
     {
+      "id": "d8fd17e4121413",
+      "category": "Verden",
+      "published": "22.08. 15:13",
+      "publishedISO": "2026-08-22T15:13:16+02:00",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "summary": "Se: Video viser russisk droneangrep Ukraina kjøpesenter på fredag ​​Redningsmenn i Ukraina fortsetter søket etter overlevende i vraket av et stort kjøpesenter som ble rammet av Russland fredag. Angrepet i Kryvyi Rih kom dagen etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev. En rekke personer er rapportert å være fanget i ruinene til kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih. Spesialtrente psykologer ble utplassert for å hjelpe noen overlevende etter fredagens angrep Zelensky sa at det hadde vært «missil- og droneangrep gjennom hele kvelden og natten» over hele Ukraina, med boligbygg og sivil infrastruktur skadet.",
+      "keyPoints": [
+        "Se: Video viser russisk droneangrep Ukraina kjøpesenter på fredag ​​Redningsmenn i Ukraina fortsetter søket etter overlevende i vraket av et stort kjøpesenter som ble rammet av Russland fredag.",
+        "Angrepet i Kryvyi Rih kom dagen etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev.",
+        "En rekke personer er rapportert å være fanget i ruinene til kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih. Spesialtrente psykologer ble utplassert for å hjelpe noen overlevende etter fredagens angrep Zelensky sa at det hadde vært «missil- og droneangrep gjennom hele kvelden og natten» over hele Ukraina, med boligbygg og sivil infrastruktur skadet.",
+        "President Volodymyr Zelensky fordømte det \"kyniske og avskyelige\" angrepet der den andre dronen rettet mot nødhjelpsarbeidere."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
+      "localImage": "assets/news/d8fd17e4121413.png",
+      "score": 14
+    },
+    {
       "id": "b380d0e8806ef3",
       "category": "Norge",
       "published": "23.08. 08:11",
@@ -177,9 +198,9 @@
       "published": "23.08. 03:34",
       "publishedISO": "2026-08-23T03:34:15+02:00",
       "title": "Swedish sword attack victim was 17-year-old girl, police say",
-      "summary": "En 17 år gammel jente ble drept i det dødelige sverdangrepet på en videregående skole i Midt-Sverige fredag, har politiet bekreftet. Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert. Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
+      "summary": "En 17 år gammel jente ble drept i det dødelige sverd-angrepet på en videregående skole i Midt-Sverige fredag, har politiet bekreftet. Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert. Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
       "keyPoints": [
-        "En 17 år gammel jente ble drept i det dødelige sverdangrepet på en videregående skole i Midt-Sverige fredag, har politiet bekreftet.",
+        "En 17 år gammel jente ble drept i det dødelige sverd-angrepet på en videregående skole i Midt-Sverige fredag, har politiet bekreftet.",
         "Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
         "Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert.",
         "To gutter på 12 og 17 år ble også alvorlig skadet i angrepet på Brinell skole i Fagersta, ifølge lokale myndigheter, mens en annen person pådro seg lettere skader."
