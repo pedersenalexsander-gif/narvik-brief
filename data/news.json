@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.08.2026 kl. 05:29",
-  "updatedISO": "2026-08-23T05:29:57.904084+02:00",
+  "updatedAt": "23.08.2026 kl. 07:05",
+  "updatedISO": "2026-08-23T07:05:32.853255+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,6 +46,27 @@
       "score": 15
     },
     {
+      "id": "d8fd17e4121413",
+      "category": "Verden",
+      "published": "22.08. 15:13",
+      "publishedISO": "2026-08-22T15:13:16+02:00",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "summary": "Se: Video viser russisk droneangrep Ukraina kjøpesenter på fredag ​​Redningsmenn i Ukraina fortsetter søket etter overlevende i vraket av et stort kjøpesenter som ble rammet av Russland fredag. Angrepet i Kryvyi Rih kom dagen etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev. En rekke personer er rapportert å være fanget i ruinene til kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih. Spesialtrente psykologer ble utplassert for å hjelpe noen overlevende etter fredagens angrep Zelensky sa at det hadde vært «missil- og droneangrep gjennom hele kvelden og natten» over hele Ukraina, med boligbygg og sivil infrastruktur skadet.",
+      "keyPoints": [
+        "Se: Video viser russisk droneangrep Ukraina kjøpesenter på fredag ​​Redningsmenn i Ukraina fortsetter søket etter overlevende i vraket av et stort kjøpesenter som ble rammet av Russland fredag.",
+        "Angrepet i Kryvyi Rih kom dagen etter at 17 mennesker ble drept og mer enn 40 såret i et stort russisk missil- og droneangrep mot Ukrainas hovedstad Kiev.",
+        "En rekke personer er rapportert å være fanget i ruinene til kjøpesenteret i den sentrale ukrainske byen Kryvyi Rih. Spesialtrente psykologer ble utplassert for å hjelpe noen overlevende etter fredagens angrep Zelensky sa at det hadde vært «missil- og droneangrep gjennom hele kvelden og natten» over hele Ukraina, med boligbygg og sivil infrastruktur skadet.",
+        "President Volodymyr Zelensky fordømte det \"kyniske og avskyelige\" angrepet der den andre dronen rettet mot nødhjelpsarbeidere."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
+      "localImage": "assets/news/d8fd17e4121413.png",
+      "score": 14
+    },
+    {
       "id": "fde72e96072d48",
       "category": "Økonomi",
       "published": "22.08. 11:04",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e1a11b15-14f5-3533-8e01-c74cdc5b2da7?fit=crop&h=675&upscale=true&w=1200&s=6d816ccec9dacde180c4ce3809694bc61ce174b1",
       "localImage": "assets/news/fde72e96072d48.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "820f7fc19038e5",
@@ -106,7 +127,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/C8bPVJEC9WGk4ui18aex8gHZjx6otV0Z3SUiTYuGJpOw.jpg",
       "localImage": "assets/news/c06b46c1803309.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "741cbc4f79336a",
+      "category": "Verden",
+      "published": "23.08. 03:34",
+      "publishedISO": "2026-08-23T03:34:15+02:00",
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "summary": "Offeret for et dødelig sverd-angrep på en videregående skole i Midt-Sverige var en 17 år gammel jente, har politiet bekreftet. Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert. Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
+      "keyPoints": [
+        "Offeret for et dødelig sverd-angrep på en videregående skole i Midt-Sverige var en 17 år gammel jente, har politiet bekreftet.",
+        "Fredag ​​beskrev Sveriges statsminister Ulf Kristersson angrepet som en «alvorlig hendelse» og sa «vi vet ikke hva som ligger bak handlingen, men vi vet at politiet jobber veldig intensivt», i et innlegg på X.",
+        "Politiet bekreftet senere at de avfyrte skudd etter å ha blitt kalt til stedet, men sa ikke om den angivelige angriperen ble truffet før han ble arrestert.",
+        "To gutter på 12 og 17 år ble også alvorlig skadet i angrepet på Brinell skole i Fagersta fredag ​​ettermiddag, ifølge lokale myndigheter, mens en tredje person pådro seg lettere skader."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
+      "localImage": "assets/news/741cbc4f79336a.jpg",
+      "score": 13
     },
     {
       "id": "179651aca97506",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/-NdVWfadEdgeY_qme7pG3wEgiOArRfD7ZzG_9pLs1ZxA",
       "localImage": "assets/news/c06fe379790ecd.jpg",
-      "score": 12
-    },
-    {
-      "id": "b6b6e73f41c2c1",
-      "category": "Norge",
-      "published": "22.08. 21:29",
-      "publishedISO": "2026-08-22T21:29:08+02:00",
-      "title": "Forskere sjekket unges TikTok-vaner: Så ofte scroller de",
-      "summary": "Ungdom lot forskere få se den faktiske bruken av TikTok. Venninnene Emma Linnea Bolstad (16), Jenny Andrea Valåmo (15) og Amelie Harboe-Sjåvik (15) uttaler seg om TikTok-bruk under Arendalsuka. – Jeg scroller når jeg ligger i senga og når jeg venter på noen. TikTok bruker jeg hele tiden, humrer Jenny Andrea Valåmo (15).",
-      "keyPoints": [
-        "Venninnene Emma Linnea Bolstad (16), Jenny Andrea Valåmo (15) og Amelie Harboe-Sjåvik (15) uttaler seg om TikTok-bruk under Arendalsuka. – Jeg scroller når jeg ligger i senga og når jeg venter på noen.",
-        "Ungdom lot forskere få se den faktiske bruken av TikTok.",
-        "TikTok bruker jeg hele tiden, humrer Jenny Andrea Valåmo (15).",
-        "NRK møter henne i Arendal sammen med venninnene Emma Linnea Bolstad (16) og Amelie Harboe-Sjåvik (15)."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/forskere-sjekket-unges-tiktok-vaner_-sa-ofte-scroller-de-1.17987122",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FCdsedrTzNH5PbiEtBvMwAxs5iGZ4fteD3OwwOURCiBw.jpg",
-      "localImage": "assets/news/b6b6e73f41c2c1.jpg",
-      "score": 12
-    },
-    {
-      "id": "e51aca715d0cca",
-      "category": "Norge",
-      "published": "22.08. 21:18",
-      "publishedISO": "2026-08-22T21:18:22+02:00",
-      "title": "Jan Thomas Jenssen rammet av nytt uhell – ville legge opp på dagen",
-      "summary": "Jan Thomas Jenssen ville legge opp på dagen etter en dramatisk sykkelvelt. NYTT UHELL: Jan Thomas Jenssen måtte stå over Toppidrettsveka med skade. – Jeg var i Surnadal og syklet innover en grusvei. I mellomtiden hadde Jan Thomas Jenssen rukket å tenke mange negative tanker. – Jeg sa faktisk til noen kompiser uka før, at hvis det skjer noe igjen nå, så legger jeg opp.",
-      "keyPoints": [
-        "Jan Thomas Jenssen ville legge opp på dagen etter en dramatisk sykkelvelt.",
-        "NYTT UHELL: Jan Thomas Jenssen måtte stå over Toppidrettsveka med skade. – Jeg var i Surnadal og syklet innover en grusvei.",
-        "I mellomtiden hadde Jan Thomas Jenssen rukket å tenke mange negative tanker. – Jeg sa faktisk til noen kompiser uka før, at hvis det skjer noe igjen nå, så legger jeg opp.",
-        "Slik innleder Jan Thomas Jenssen fortellingen om det som skjedde for tre uker siden, lørdag 1. august."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/jan-thomas-jenssen-rammet-av-nytt-uhell-_-ville-legge-opp-pa-dagen-1.17998027",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/smp84lJ0u-84qnTv5UVZoQFjzUpzwBZ4vdDm0YKXQGmA.jpg",
-      "localImage": "assets/news/e51aca715d0cca.jpg",
       "score": 12
     }
   ]
