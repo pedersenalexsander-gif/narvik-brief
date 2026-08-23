@@ -1,27 +1,48 @@
 {
-  "updatedAt": "23.08.2026 kl. 21:03",
-  "updatedISO": "2026-08-23T21:03:35.224683+02:00",
+  "updatedAt": "23.08.2026 kl. 21:52",
+  "updatedISO": "2026-08-23T21:52:42.174315+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "0941983ea129f0",
+      "id": "e46acba4219d53",
       "category": "Norge",
-      "published": "23.08. 16:24",
-      "publishedISO": "2026-08-23T16:24:18+02:00",
-      "title": "Vaarin er viktig i krig og kriser: – Det er når det er vondt, at vi trenger å le",
-      "summary": "Nøye og konsentrert prepper Vaarin Pedersen fra Stokke før kveldens forestilling. Og foreløpig er det ganske uklart. – Det er jo når vi har det som verst, at vi trenger kultur som mest. Vaarin var også veldig stille og sjenert som barn. – Kultur har jo en enorm viktighet for mennesker og menneskeheten generelt på alle, alle mulige fronter av det å være et menneske.",
+      "published": "23.08. 21:25",
+      "publishedISO": "2026-08-23T21:25:32+02:00",
+      "title": "Peter Frølich er sykemeldt etter hjerteinfarkt",
+      "summary": "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt. I et innlegg på Facebook skriver Peter Christian Frølich at fikk sterke smerte i brystet under trening. Mona Seljevoll Tjordal, kardiologisk sykepleier og helsefaglig rådgiver hjerte i LHL, mener hjerteinfarktet til Frølich er en påminner på at unge kan rammes. – Først og fremst ønsker vi Peter Frølich god bedring.",
       "keyPoints": [
-        "Nøye og konsentrert prepper Vaarin Pedersen fra Stokke før kveldens forestilling.",
-        "Vaarin var også veldig stille og sjenert som barn. – Kultur har jo en enorm viktighet for mennesker og menneskeheten generelt på alle, alle mulige fronter av det å være et menneske.",
-        "Og foreløpig er det ganske uklart. – Det er jo når vi har det som verst, at vi trenger kultur som mest.",
-        "Om krisen eller krigen treffer oss er det mange praktiske ting hun kan gjøre. – Men når du har 30 gråtende barn i et bomberom som ikke vet hvor de skal gjøre av seg, og de vet ikke når de skal få se dagslyset igjen.."
+        "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt.",
+        "I et innlegg på Facebook skriver Peter Christian Frølich at fikk sterke smerte i brystet under trening.",
+        "Mona Seljevoll Tjordal, kardiologisk sykepleier og helsefaglig rådgiver hjerte i LHL, mener hjerteinfarktet til Frølich er en påminner på at unge kan rammes. – Først og fremst ønsker vi Peter Frølich god bedring.",
+        "Frølich understreker at det er viktig å ringe 113 ved sterke smerter i brystet. – Det gjelder uansett alder, også for relativt unge menn."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/xl/ser-til-ukraina_-derfor-er-musikk-og-teater-like-viktig-som-vann-og-knekkebrod-1.17918230",
+      "url": "https://www.nrk.no/vestland/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998966",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/bX1LGZXD2e8mSoyca9h7Ng-E5WqwOrBKMa0xSSyUloEQ.jpg",
-      "localImage": "assets/news/0941983ea129f0.jpg",
+      "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
+      "localImage": "assets/news/e46acba4219d53.jpg",
+      "score": 21
+    },
+    {
+      "id": "d2816d53870673",
+      "category": "Økonomi",
+      "published": "23.08. 21:40",
+      "publishedISO": "2026-08-23T21:40:52+02:00",
+      "title": "Stopper ikke streiken ennå: – Tvungen lønnsnemnd er siste utvei",
+      "summary": "Eldring har registrert at partene har avtalt nytt møte mandag morgen. – Tvungen lønnsnemnd er en siste utvei. Skulle det bli tvungen lønnsnemnd, får de streikende vanligvis lønnstillegg på linje med andre. – Men uten sjanse for å få gjennom ting som dreier seg om arbeidsforhold som pauser og lignende. Siste gang regjeringen grep inn med tvungen lønnsnemnd på grunn av liv og helse var i mars i fjor.",
+      "keyPoints": [
+        "Eldring har registrert at partene har avtalt nytt møte mandag morgen. – Tvungen lønnsnemnd er en siste utvei.",
+        "Siste gang regjeringen grep inn med tvungen lønnsnemnd på grunn av liv og helse var i mars i fjor.",
+        "Skulle det bli tvungen lønnsnemnd, får de streikende vanligvis lønnstillegg på linje med andre. – Men uten sjanse for å få gjennom ting som dreier seg om arbeidsforhold som pauser og lignende.",
+        "Det er AID som avgjør når tvungen lønnsnemndEn prosess der regjeringen avslutter en streik ved å tvinge partene til å akseptere en løsning bestemt av Rikslønnsnemnda. settes inn for å stoppe streik, før beslutningen behandles i Stortinget."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/6q8MjW/stopper-ikke-streiken-ennaa-tvungen-loennsnemnd-er-siste-utvei",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7c305471-e0eb-3b4f-ab50-12bb1e2aeb7f?fit=crop&h=675&upscale=true&w=1200&s=3495ba785522f9d56c0cf26793cc45d87d99bf92",
+      "localImage": "assets/news/d2816d53870673.jpg",
       "score": 17
     },
     {
@@ -46,6 +67,69 @@
       "score": 16
     },
     {
+      "id": "73d3725a2bf9ec",
+      "category": "Norge",
+      "published": "23.08. 21:25",
+      "publishedISO": "2026-08-23T21:25:07+02:00",
+      "title": "Energimessa ONS i Stavanger starter med et dramatisk bakteppe",
+      "summary": "Mens krigen i Midtøsten lamslår oljeforsyningen og kriselagrene minker, samles energitoppene i Stavanger. Det er vanskelig å tenke seg et mer pålitelig land enn Norge, og jobben min ville vært langt enklere om det fantes flere som dem, sier han. Han skal på på energimessa ONS i Stavanger som starter på mandag.",
+      "keyPoints": [
+        "Han skal på på energimessa ONS i Stavanger som starter på mandag.",
+        "Mens krigen i Midtøsten lamslår oljeforsyningen og kriselagrene minker, samles energitoppene i Stavanger.",
+        "Det er vanskelig å tenke seg et mer pålitelig land enn Norge, og jobben min ville vært langt enklere om det fantes flere som dem, sier han.",
+        "Mens forrige messe i 2024 var preget av spørsmål knyttet til spionasje fra kinesiske aktører, er årets messe preget av enorme usikkerheter knyttet til den globale energisikkerheten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/energimessa-ons-i-stavanger-starter-med-et-dramatisk-bakteppe-1.17992605",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/TwSVfnCJ-ptrSPGtAxH8sgwJPkdQf6se2rRyjW-ov-Sg.jpg",
+      "localImage": "assets/news/73d3725a2bf9ec.jpg",
+      "score": 20
+    },
+    {
+      "id": "0941983ea129f0",
+      "category": "Norge",
+      "published": "23.08. 16:24",
+      "publishedISO": "2026-08-23T16:24:18+02:00",
+      "title": "Vaarin er viktig i krig og kriser: – Det er når det er vondt, at vi trenger å le",
+      "summary": "Nøye og konsentrert prepper Vaarin Pedersen fra Stokke før kveldens forestilling. Og foreløpig er det ganske uklart. – Det er jo når vi har det som verst, at vi trenger kultur som mest. Vaarin var også veldig stille og sjenert som barn. – Kultur har jo en enorm viktighet for mennesker og menneskeheten generelt på alle, alle mulige fronter av det å være et menneske.",
+      "keyPoints": [
+        "Nøye og konsentrert prepper Vaarin Pedersen fra Stokke før kveldens forestilling.",
+        "Vaarin var også veldig stille og sjenert som barn. – Kultur har jo en enorm viktighet for mennesker og menneskeheten generelt på alle, alle mulige fronter av det å være et menneske.",
+        "Og foreløpig er det ganske uklart. – Det er jo når vi har det som verst, at vi trenger kultur som mest.",
+        "Om krisen eller krigen treffer oss er det mange praktiske ting hun kan gjøre. – Men når du har 30 gråtende barn i et bomberom som ikke vet hvor de skal gjøre av seg, og de vet ikke når de skal få se dagslyset igjen.."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/xl/ser-til-ukraina_-derfor-er-musikk-og-teater-like-viktig-som-vann-og-knekkebrod-1.17918230",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/bX1LGZXD2e8mSoyca9h7Ng-E5WqwOrBKMa0xSSyUloEQ.jpg",
+      "localImage": "assets/news/0941983ea129f0.jpg",
+      "score": 16
+    },
+    {
+      "id": "a46b55065440af",
+      "category": "Norge",
+      "published": "23.08. 11:34",
+      "publishedISO": "2026-08-23T11:34:10+02:00",
+      "title": "Haaland med ny sveis: – Bildene kommer til å gå verden rundt",
+      "summary": "At Haaland gikk målløs av banen var ikke det eneste som var annerledes med jærbuen søndag. – Bildene kommer til å gå verden rundt, sier NRKs fotballekspert Kristoffer Løkberg. I en Instagram-video postet søndag skriver Erling Braut Haaland (26) «Ny sesong, ny sveis», før han henviser til sin egen YouTube-kanal. Men etter at hovedpersonen selv putter en hånd over kamera skjer det: Når hånden forsvinner og man igjen ser storscoreren, er det lange håret borte, og en barbert Haaland med millimeterkort hår kommer til syne. – Kort hår, bryr meg ikke, skriver han i et nytt innlegg der man kan se prosessen fra langt til kort hår.",
+      "keyPoints": [
+        "At Haaland gikk målløs av banen var ikke det eneste som var annerledes med jærbuen søndag. – Bildene kommer til å gå verden rundt, sier NRKs fotballekspert Kristoffer Løkberg.",
+        "I en Instagram-video postet søndag skriver Erling Braut Haaland (26) «Ny sesong, ny sveis», før han henviser til sin egen YouTube-kanal.",
+        "Men etter at hovedpersonen selv putter en hånd over kamera skjer det: Når hånden forsvinner og man igjen ser storscoreren, er det lange håret borte, og en barbert Haaland med millimeterkort hår kommer til syne. – Kort hår, bryr meg ikke, skriver han i et nytt innlegg der man kan se prosessen fra langt til kort hår.",
+        "UBALANSE: Haaland kom til flere sjanser, men ble godt pakket inn av midtstopperne til Bournemouth. – Det er ikke dagen så langt for Erling Braut Haaland, sa Viaplays ekspertkommentator Tor Ole Skullerud, da Haaland kom seg til en stor sjanse 15 minutter før full tid."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/haaland-med-ny-sveis_-_-bildene-kommer-til-a-ga-verden-rundt-1.17998609",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/HBj8IHx9PJrbxxt9HOlb0ArldFZmq72TJac0hc8_WCCg.jpg",
+      "localImage": "assets/news/a46b55065440af.jpg",
+      "score": 15
+    },
+    {
       "id": "fde72e96072d48",
       "category": "Økonomi",
       "published": "22.08. 11:04",
@@ -67,45 +151,24 @@
       "score": 14
     },
     {
-      "id": "a46b55065440af",
+      "id": "885d54f006d77f",
       "category": "Norge",
-      "published": "23.08. 11:34",
-      "publishedISO": "2026-08-23T11:34:10+02:00",
-      "title": "Haaland med ny sveis: – Bildene kommer til å gå verden rundt",
-      "summary": "At Haaland gikk målløs av banen var ikke det eneste som var annerledes med jærbuen søndag. – Bildene kommer til å gå verden rundt, sier NRKs fotballekspert Kristoffer Løkberg. I en Instagram-video postet søndag skriver Erling Braut Haaland (26) «Ny sesong, ny sveis», før han henviser til sin egen YouTube-kanal. Men etter at hovedpersonen selv putter en hånd over kamera skjer det: Når hånden forsvinner og man igjen ser storscoreren, er det lange håret borte, og en barbert Haaland med millimeterkort hår kommer til syne. – Kort hår, bryr meg ikke, skriver han i et nytt innlegg der man kan se prosessen fra langt til kort hår.",
-      "keyPoints": [
-        "At Haaland gikk målløs av banen var ikke det eneste som var annerledes med jærbuen søndag. – Bildene kommer til å gå verden rundt, sier NRKs fotballekspert Kristoffer Løkberg.",
-        "I en Instagram-video postet søndag skriver Erling Braut Haaland (26) «Ny sesong, ny sveis», før han henviser til sin egen YouTube-kanal.",
-        "Men etter at hovedpersonen selv putter en hånd over kamera skjer det: Når hånden forsvinner og man igjen ser storscoreren, er det lange håret borte, og en barbert Haaland med millimeterkort hår kommer til syne. – Kort hår, bryr meg ikke, skriver han i et nytt innlegg der man kan se prosessen fra langt til kort hår.",
-        "UBALANSE: Haaland kom til flere sjanser, men ble godt pakket inn av midtstopperne til Bournemouth. – Det er ikke dagen så langt for Erling Braut Haaland, sa Viaplays ekspertkommentator Tor Ole Skullerud, da Haaland kom seg til en stor sjanse 15 minutter før full tid."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/haaland-med-ny-sveis_-_-bildene-kommer-til-a-ga-verden-rundt-1.17998609",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/HBj8IHx9PJrbxxt9HOlb0ArldFZmq72TJac0hc8_WCCg.jpg",
-      "localImage": "assets/news/a46b55065440af.jpg",
-      "score": 16
-    },
-    {
-      "id": "92a6e938857844",
-      "category": "Norge",
-      "published": "23.08. 20:27",
-      "publishedISO": "2026-08-23T20:27:34+02:00",
+      "published": "23.08. 21:29",
+      "publishedISO": "2026-08-23T21:29:37+02:00",
       "title": "Nyhetssenter Nordland",
-      "summary": "Av lag fra Nordland er Rana fortsatt med i cupen, etter å ha slått ut Stålkameratene. Til sammenligning hadde Bodø et belegg i første halvår på 60 prosent. De ti motstemmene i Nordland er Hadsel, Øksnes, Lurøy, Hamarøy, Vågan, Fauske, Brønnøy, Lødingen og Vestvågøy, ifølge VG. – Vi har mange små og mellomstore bedrifter i bransjer som sliter fra før av.",
+      "summary": "Flygelederstreiken har rammet flytrafikken over store deler av lendet i helgen, også i Nordland. Nijmegen reiser med egen charter, og ettersom ingen er tatt ut i streik i Bodø for øyeblikket, så tror vi at dette skal gå helt fint, sier Simen Pedersen i Bodø/Glimt. Av lag fra Nordland er Rana fortsatt med i cupen, etter å ha slått ut Stålkameratene.",
       "keyPoints": [
+        "Flygelederstreiken har rammet flytrafikken over store deler av lendet i helgen, også i Nordland.",
         "Av lag fra Nordland er Rana fortsatt med i cupen, etter å ha slått ut Stålkameratene.",
-        "Til sammenligning hadde Bodø et belegg i første halvår på 60 prosent.",
-        "De ti motstemmene i Nordland er Hadsel, Øksnes, Lurøy, Hamarøy, Vågan, Fauske, Brønnøy, Lødingen og Vestvågøy, ifølge VG. – Vi har mange små og mellomstore bedrifter i bransjer som sliter fra før av.",
-        "Faktisk har omsetningen per rom økt med nesten 17 prosent i Bodø og 12,3 prosent i Lofoten så langt i år, sammenlignet med 2025."
+        "Nijmegen reiser med egen charter, og ettersom ingen er tatt ut i streik i Bodø for øyeblikket, så tror vi at dette skal gå helt fint, sier Simen Pedersen i Bodø/Glimt.",
+        "De ti motstemmene i Nordland er Hadsel, Øksnes, Lurøy, Hamarøy, Vågan, Fauske, Brønnøy, Lødingen og Vestvågøy, ifølge VG. – Vi har mange små og mellomstore bedrifter i bransjer som sliter fra før av."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/92a6e938857844.jpg",
+      "localImage": "assets/news/885d54f006d77f.jpg",
       "score": 13
     },
     {
@@ -148,69 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a2bc096d-5997-3ce4-a721-5d617e65b094?fit=crop&h=675&upscale=true&w=1200&s=39bd1d6118c6870ec825b8a500d9c50b9a789ee8",
       "localImage": "assets/news/adbfaee1e0ae78.jpg",
-      "score": 13
-    },
-    {
-      "id": "e1ccaf9f1c54cb",
-      "category": "Norge",
-      "published": "23.08. 18:06",
-      "publishedISO": "2026-08-23T18:06:46+02:00",
-      "title": "TikTok «skjønte» at Lisa var skeiv før hun selv skjønte det",
-      "summary": "Til tross for at hun sveipet fort forbi, fortsatte TikTok å vise Lisa skeivt innhold. Hun opplevde at TikTok var et sted der folk skjønte henne og kjente på de samme tingene som hun gjorde. Hun synes likevel det er rart å tenke på at mobilen hennes skjønte det før henne. – Selv om det føltes fint og trygt da, føles det litt ubehagelig at det var den veien det gikk, sier Lisa.",
-      "keyPoints": [
-        "Hun synes likevel det er rart å tenke på at mobilen hennes skjønte det før henne. – Selv om det føltes fint og trygt da, føles det litt ubehagelig at det var den veien det gikk, sier Lisa.",
-        "Til tross for at hun sveipet fort forbi, fortsatte TikTok å vise Lisa skeivt innhold.",
-        "Hun opplevde at TikTok var et sted der folk skjønte henne og kjente på de samme tingene som hun gjorde.",
-        "Feeden ble et steg i retningen av å godta at hun er skeiv. – Uten at jeg på noen måte hadde oppsøkt det selv, så ble det servert til meg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/kultur/xl/tiktok-_skjonte_-at-lisa-var-skeiv-for-hun-selv-skjonte-det-1.17958616",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/yk1JhqEpx979aj3EiOazHwglGOvv2gjiPAn7ORPsi3xg.jpg",
-      "localImage": "assets/news/e1ccaf9f1c54cb.jpg",
-      "score": 13
-    },
-    {
-      "id": "136e2c24ebe8e4",
-      "category": "Økonomi",
-      "published": "23.08. 17:15",
-      "publishedISO": "2026-08-23T17:15:47+02:00",
-      "title": "Flygeleder-sjefen svarer på Avinor-kritikken: – Faller på sin egen urimelighet",
-      "summary": "– Man kan ikke ha pause samtidig som man jobber, sier han. Men Avinor Flysikring har gått hardt ut mot Norsk Flygelederforening (NFF) og hevder at det «rett og slett ikke er sant» at flygeledere kan jobbe 16 timer uten pause. Ifølge Gjønnes regner arbeidsgiver perioder uten fly på frekvensen som «naturlig pause», uten å ta hensyn til alle øvrige arbeidsoppgaver. – Arbeidsgivers holdning faller på sin egen urimelighet, sier han.",
-      "keyPoints": [
-        "Ifølge Gjønnes regner arbeidsgiver perioder uten fly på frekvensen som «naturlig pause», uten å ta hensyn til alle øvrige arbeidsoppgaver. – Arbeidsgivers holdning faller på sin egen urimelighet, sier han.",
-        "Men Avinor Flysikring har gått hardt ut mot Norsk Flygelederforening (NFF) og hevder at det «rett og slett ikke er sant» at flygeledere kan jobbe 16 timer uten pause.",
-        "– Man kan ikke ha pause samtidig som man jobber, sier han.",
-        "Luftrommet over Vestlandet kan oppleve noen forsinkelser utover kvelden.Tromsø vil oppleve noen forsinkelser på formiddagen og gradvis økende forsinkelser utover ettermiddagen, og være stengt fra kl."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/zOQwGq/flygeleder-sjefen-svarer-paa-avinor-kritikken-faller-paa-sin-egen-urimelighet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/373c9211-1d36-31a3-bd66-1e0ef5b57bf3?fit=crop&h=675&upscale=true&w=1200&s=a26b4ab66935eb78b92cdda6ad05bf42153bd1ff",
-      "localImage": "assets/news/136e2c24ebe8e4.jpg",
-      "score": 13
-    },
-    {
-      "id": "4b94c3fcc3da9d",
-      "category": "Norge",
-      "published": "23.08. 17:13",
-      "publishedISO": "2026-08-23T17:13:53+02:00",
-      "title": "Kopier referanse Sissel om Fosen-kampen: – Jeg tror ikke vindturbiner står for evig",
-      "summary": "I sju år studerte hun japansk språk og kultur, og to av årene bodde hun i Japan. – Det var et av årene i Japan der jeg ikke var hjemme på kalvemerking, og det tror jeg er det eneste året jeg ikke har vært med, sier Sissel. – Da tenkte jeg: «Dette går ikke», fortsetter hun. Uten noen konkret plan pakket hun sakene og flyttet hjem. – Pappa skulle fortsatt drive med rein i noen år, men jeg tenkte jeg flytter bare hjem, og så finner jeg sikkert ut av et eller annet. Da invitasjonen om et møte med regjeringen midt under aksjonene i Oslo kom, var beskjeden hennes i utgangspunktet krystallklar: – Jeg var ikke interessert i å dra på noe møte med olje- og energiministeren og forklare hvordan vi driver med reindrift på Fosen én gang til, liksom, sier Sissel.",
-      "keyPoints": [
-        "I sju år studerte hun japansk språk og kultur, og to av årene bodde hun i Japan. – Det var et av årene i Japan der jeg ikke var hjemme på kalvemerking, og det tror jeg er det eneste året jeg ikke har vært med, sier Sissel. – Da tenkte jeg: «Dette går ikke», fortsetter hun.",
-        "Da invitasjonen om et møte med regjeringen midt under aksjonene i Oslo kom, var beskjeden hennes i utgangspunktet krystallklar: – Jeg var ikke interessert i å dra på noe møte med olje- og energiministeren og forklare hvordan vi driver med reindrift på Fosen én gang til, liksom, sier Sissel.",
-        "Uten noen konkret plan pakket hun sakene og flyttet hjem. – Pappa skulle fortsatt drive med rein i noen år, men jeg tenkte jeg flytter bare hjem, og så finner jeg sikkert ut av et eller annet.",
-        "Altså hvor lite velkommen vi er, på en måte, sier Sissel."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sapmi/xl/sissel-om-fosen-kampen_-_-jeg-tror-ikke-vindturbiner-star-for-evig-1.17972462",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Pmy80oUwNRmjG5X5aLErJQAUj9bssEgqOFeRE5X-v_kw.jpg",
-      "localImage": "assets/news/4b94c3fcc3da9d.jpg",
       "score": 13
     }
   ]
