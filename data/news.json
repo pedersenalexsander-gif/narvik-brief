@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.08.2026 kl. 18:57",
-  "updatedISO": "2026-08-23T18:57:26.067825+02:00",
+  "updatedAt": "23.08.2026 kl. 19:49",
+  "updatedISO": "2026-08-23T19:49:54.524883+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,17 +88,59 @@
       "score": 16
     },
     {
+      "id": "5c9309d1e929eb",
+      "category": "Norge",
+      "published": "23.08. 19:28",
+      "publishedISO": "2026-08-23T19:28:14+02:00",
+      "title": "Premier League: Liverpool får strykkarakter etter uavgjort mot Newcastle",
+      "summary": "Liverpool fikk en trøblete start på sesongen, og fikk det glatte lag underveis i kampen mot Newcastle – Det finnes rett og slett ingen organisering, verken i angrep, på midtbanen eller i forsvaret. FRUSTRERT: Liverpool-trener Andoni Iraola fikk en svak start på trenerkarrieren i Liverpool. – De er et godt lag når de angriper med mange spillere, men de har ingen disiplin, mener Sky Sports-ekspert Micah Richards. Svensken herjet for Newcastle inntil i fjor, før han meldte overgang til Liverpool.",
+      "keyPoints": [
+        "Liverpool fikk en trøblete start på sesongen, og fikk det glatte lag underveis i kampen mot Newcastle – Det finnes rett og slett ingen organisering, verken i angrep, på midtbanen eller i forsvaret.",
+        "Svensken herjet for Newcastle inntil i fjor, før han meldte overgang til Liverpool.",
+        "FRUSTRERT: Liverpool-trener Andoni Iraola fikk en svak start på trenerkarrieren i Liverpool. – De er et godt lag når de angriper med mange spillere, men de har ingen disiplin, mener Sky Sports-ekspert Micah Richards.",
+        "Det var lite som fungerte for la|get fra Merseyside første Premier League-kamp for sesongen, men helt på tampen kom redningen i form av en felling på Liverpools Víctor Muñoz på overtid av andre omgang."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/premier-league_-liverpool-far-strykkarakter-etter-uavgjort-mot-newcastle-1.17998830",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/cxtKi2od0gLfWBAT7xVUnQpJf_kUh2EAuAVyVQbDLuFQ.jpg",
+      "localImage": "assets/news/5c9309d1e929eb.jpg",
+      "score": 13
+    },
+    {
+      "id": "29435a9e7be165",
+      "category": "Norge",
+      "published": "23.08. 18:57",
+      "publishedISO": "2026-08-23T18:57:33+02:00",
+      "title": "Opplever rotte-økning i byer: Advarer mot smitte",
+      "summary": "Mange rotter fikk et ekstra kull på våren, og vil nok få et ekstra høst-kull før vinteren kommer. Skadedyrfirmaer NRK har snakket med på både Sør- og Østlandet opplever at det er flere rotter og mus nå. – Det er ikke uvanlig med rotter på størrelse med en voksen manns fot, og mange har runde mager. Han har fjernet rotter og mus i over 20 år, og i sommer har han jobbet ekstra mye. – Det har nok vært 15–20 oppdrag om dagen.",
+      "keyPoints": [
+        "Skadedyrfirmaer NRK har snakket med på både Sør- og Østlandet opplever at det er flere rotter og mus nå. – Det er ikke uvanlig med rotter på størrelse med en voksen manns fot, og mange har runde mager.",
+        "Han har fjernet rotter og mus i over 20 år, og i sommer har han jobbet ekstra mye. – Det har nok vært 15–20 oppdrag om dagen.",
+        "Mange rotter fikk et ekstra kull på våren, og vil nok få et ekstra høst-kull før vinteren kommer.",
+        "Gode temperaturer og mye mat har trolig økt omfanget av rotter og mus i flere storbyer i år."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/opplever-rotte-okning-i-byer_-advarer-mot-smitte-1.17995510",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ECx_4ZdP3Gz3Q7rqP0ZccwTJmlLfpGf-D5RXopyVBUSA.jpg",
+      "localImage": "assets/news/29435a9e7be165.jpg",
+      "score": 13
+    },
+    {
       "id": "adbfaee1e0ae78",
       "category": "Økonomi",
       "published": "23.08. 18:34",
       "publishedISO": "2026-08-23T18:34:49+02:00",
       "title": "Norwegian: Disse flyene kanselleres mandag morgen",
-      "summary": "Norwegian kansellerer seks fly mandag etter 72 kanselleringer søndag, som følge av flystreiken. Fly mellom Oslo og Bergen, Stavanger og Trondheim kanselleres mandag morgen. Av de 346 planlagte flygningene var 147 kansellert søndag morgen.",
+      "summary": "Norwegian kansellerer seks fly mandag etter 72 kanselleringer søndag, som følge av flystreiken. Fly mellom Oslo og Bergen, Stavanger og Trondheim kanselleres mandag morgen. Mandag morgen klokken 8 møtes partene for å fortsette forhandlingene.",
       "keyPoints": [
         "Fly mellom Oslo og Bergen, Stavanger og Trondheim kanselleres mandag morgen.",
         "Norwegian kansellerer seks fly mandag etter 72 kanselleringer søndag, som følge av flystreiken.",
-        "Av de 346 planlagte flygningene var 147 kansellert søndag morgen.",
-        "Andre passasjerer bør møte opp som normalt, lyder beskjeden fra Norwegian."
+        "Mandag morgen klokken 8 møtes partene for å fortsette forhandlingene.",
+        "Av de 346 planlagte flygningene var 147 kansellert søndag morgen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Pmy80oUwNRmjG5X5aLErJQAUj9bssEgqOFeRE5X-v_kw.jpg",
       "localImage": "assets/news/4b94c3fcc3da9d.jpg",
-      "score": 13
-    },
-    {
-      "id": "45256a2193e75b",
-      "category": "Norge",
-      "published": "23.08. 17:00",
-      "publishedISO": "2026-08-23T17:00:44+02:00",
-      "title": "Har funnet flere døde sau i Saltdal etter at én bjørn ble skutt",
-      "summary": "Tidligere denne uka ble en bjørn skutt i Saltdal etter å ha drept flere sau. Over 20 sau ble drept før bjørnen ble skutt på onsdag i denne uka. En av sauene som er drept av bjørn i Saltdal den siste tiden. – I dag fikk vi bekreftet at det er funnet to nye døde sauer, som er drept etter at den første bjørnen ble skutt, forteller Skogstad.",
-      "keyPoints": [
-        "En av sauene som er drept av bjørn i Saltdal den siste tiden. – I dag fikk vi bekreftet at det er funnet to nye døde sauer, som er drept etter at den første bjørnen ble skutt, forteller Skogstad.",
-        "Tidligere denne uka ble en bjørn skutt i Saltdal etter å ha drept flere sau.",
-        "Siden slutten av juli har en bjørn skapt bekymring blant sauebønder i Saltdal i Nordland.",
-        "Fortsatt går det en bjørn i området. – I Nordland-sammenheng er dette ganske uvanlig, det kan vi trygt si, sier Øyvind Skogstad i Statens Naturoppsyn (SNO) til NRK. – Med såpass lite bjørn som vi har hatt her i mange år, er det spesielt at vi får to bjørner i samme sauebeite på samme tid."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/har-funnet-flere-dode-sau-i-saltdal-etter-at-en-bjorn-ble-skutt-1.17998815",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/AnHfklNbXKdKaDzmpFGxOQU22Lwjh3WGNz8YCAlP5jOw.jpg",
-      "localImage": "assets/news/45256a2193e75b.jpg",
-      "score": 13
-    },
-    {
-      "id": "b58baec8ae3cd1",
-      "category": "Norge",
-      "published": "23.08. 16:56",
-      "publishedISO": "2026-08-23T16:56:18+02:00",
-      "title": "Bobler gir nytt liv til død fjord – har fjernet ti tonn lurv",
-      "summary": "Flere lokale har deltatt i dugnadsarbeid og fjernet mange tonn lurv fra Engekilen i Grimstad. Et lokalt prosjekt kan få nasjonal betydning i bekjempelsen av lurv. – Lurven er en styggedom i en sånn liten fjord. Oddvar Kjekstad i Foreningen For Engekilens vel har vært med å rydde 10 tonn lurv i kilen.",
-      "keyPoints": [
-        "Flere lokale har deltatt i dugnadsarbeid og fjernet mange tonn lurv fra Engekilen i Grimstad.",
-        "Oddvar Kjekstad i Foreningen For Engekilens vel har vært med å rydde 10 tonn lurv i kilen.",
-        "Et lokalt prosjekt kan få nasjonal betydning i bekjempelsen av lurv. – Lurven er en styggedom i en sånn liten fjord.",
-        "I Engekilen er det også fortsatt mye lurv å ta av. – Vi er ikke i mål, og det er tvilsomt om vi noen gang vil få denne kilen tilbake i samme tilstand som den var for 10–15 år siden."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/bobler-gir-nytt-liv-til-dod-fjord-_-har-fjernet-ti-tonn-lurv-1.17994456",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sZ6y7e2MAQuL4PjsSZ8KbQ-5Q40jJ7XiHqK1rz_AKsIg.jpg",
-      "localImage": "assets/news/b58baec8ae3cd1.jpg",
       "score": 13
     }
   ]
