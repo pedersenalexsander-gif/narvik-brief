@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.08.2026 kl. 11:59",
-  "updatedISO": "2026-08-23T11:59:46.745502+02:00",
+  "updatedAt": "23.08.2026 kl. 12:56",
+  "updatedISO": "2026-08-23T12:56:17.623107+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,25 +25,25 @@
       "score": 15
     },
     {
-      "id": "644ae5e1026a5b",
+      "id": "caebf9dfa9a168",
       "category": "Norge",
-      "published": "23.08. 11:14",
-      "publishedISO": "2026-08-23T11:14:54+02:00",
-      "title": "Canadas statsminister erklærer handelskrig mot USA",
-      "summary": "Det er steile fronter mellom USAs president Donald Trump og Canadas statsminister Mark Carney. Etter flere måneder har ikke landene klart å finne en løsning på handelskrisen. «VI BLE ANGREPET»: Dette sa Canadas statsminister Mark Carney etter forhandlingene med USA som brøt sammen før helgen. «Canada vil ha fordelene ved å være en stat, uten å være det!!! Fra 8. september skal Canada derfor innføre nye avgifter på blant annet amerikansk stål, meieriprodukter, husholdningsapparater og elektronikk. – USA og Canada befinner seg nå i en handelskrig, sier Carney.",
+      "published": "22.08. 18:01",
+      "publishedISO": "2026-08-22T18:01:56+02:00",
+      "title": "Landets første forsvarslinje for videregående skole åpnet i Finnmark",
+      "summary": "Ett år etter åpningen av Finnmarksbrigaden åpner Norges første forsvars- og beredskapslinje ved Lakselv videregående skole. Hun er del av det nye kullet på 14 elever som nå har startet skolegangen ved landets eneste forsvars- og beredskapslinje, et steinkast unna Finnmarksbrigadens hovedkvarter på Porsangmoen. I tillegg til å få generell studiekompetanse mener rektor ved Lakselv videregående skole, Sylvi Johnsen, at elevene får en unik kompetanse til å gå inn i Forsvaret eller andre statlige arbeidsplasser.",
       "keyPoints": [
-        "Etter flere måneder har ikke landene klart å finne en løsning på handelskrisen. «VI BLE ANGREPET»: Dette sa Canadas statsminister Mark Carney etter forhandlingene med USA som brøt sammen før helgen. «Canada vil ha fordelene ved å være en stat, uten å være det!!!",
-        "Fra 8. september skal Canada derfor innføre nye avgifter på blant annet amerikansk stål, meieriprodukter, husholdningsapparater og elektronikk. – USA og Canada befinner seg nå i en handelskrig, sier Carney.",
-        "Det er steile fronter mellom USAs president Donald Trump og Canadas statsminister Mark Carney.",
-        "Beskjeden er rettet mot Canadas statsminister Mark Carney, etter at intense forhandlinger brøt sammen mellom landene fredag kveld. – De ba om for mye og tilbød for lite, sa Carney lørdag, ifølge BBC."
+        "Ett år etter åpningen av Finnmarksbrigaden åpner Norges første forsvars- og beredskapslinje ved Lakselv videregående skole.",
+        "I tillegg til å få generell studiekompetanse mener rektor ved Lakselv videregående skole, Sylvi Johnsen, at elevene får en unik kompetanse til å gå inn i Forsvaret eller andre statlige arbeidsplasser.",
+        "Hun er del av det nye kullet på 14 elever som nå har startet skolegangen ved landets eneste forsvars- og beredskapslinje, et steinkast unna Finnmarksbrigadens hovedkvarter på Porsangmoen.",
+        "Vi skal ha noen fysiske tester som de har i militæret, sier elev Maja Røbekk (16). – Jeg gleder meg skikkelig mye, fordi jeg er veldig glad i være fysisk aktiv, jeg elsker å trene og være ute, så jeg tenker at dette passer midt i blinken for meg."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/canadas-statsminister-erklaerer-handelskrig-mot-usa-1.17998582",
+      "url": "https://www.nrk.no/tromsogfinnmark/landets-forste-forsvarslinje-for-videregaende-skole-apnet-i-finnmark-1.17996144",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/8aXb1fonzTVEqrB5sGfeewC9LRpIUjHPMGiF2BiLOiRg.jpg",
-      "localImage": "assets/news/644ae5e1026a5b.jpg",
-      "score": 21
+      "image": "https://gfx.nrk.no/JrZgzLm-XaBynD8vCDuAaQfpjsgPg9iUfZ0sY86o4Jjg.jpg",
+      "localImage": "assets/news/caebf9dfa9a168.jpg",
+      "score": 14
     },
     {
       "id": "62412fb6f74675",
@@ -56,7 +56,7 @@
         "Fedorov spurte om Ukrainas regjeringskorrupsjon hevder Ukrainas president Volodymyr Zelensky har «spørsmål å svare på» om korrupsjon i sin regjering, har hans sparkede forsvarsminister Mykhailo Fedorov sagt til BBC.",
         "He told the BBC a money laundering investigation announced last week raised questions about Zelensky's awareness of potential corruption in his inner circle.",
         "Mikhailo Fedorov på et møte i Ukrainas forsvarskontaktgruppe i Belgia i februar sa Fedorov at saken reiste spørsmål om presidentens bevissthet om potensiell korrupsjon i hans indre krets. \"La ham svare på dette spørsmålet ...",
-        "Federov har kalt inn til valg og nektet å svare på om han støtter Zelensky. I sin tidligere videouttalelse hadde Fedorov hevdet at \"folk ikke kan leve uendelig i en stat hvor de ikke forstår hvorfor visse avgjørelser tas\"."
+        "Federov har kalt inn til valg og nektet å svare på om han støtter Zelensky. I sin tidligere videouttalelse hadde Fedorov hevdet at \"mennesker ikke i det uendelige kan leve i en stat hvor de ikke forstår hvorfor visse avgjørelser blir tatt\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/33ac96db-df6e-3c62-85d9-bb1af3aca57c?fit=crop&h=675&upscale=true&w=1200&s=941d756fdc037713b11bb9f703510f9eb563db51",
       "localImage": "assets/news/5ee74f907ee883.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "fde72e96072d48",
@@ -106,28 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e1a11b15-14f5-3533-8e01-c74cdc5b2da7?fit=crop&h=675&upscale=true&w=1200&s=6d816ccec9dacde180c4ce3809694bc61ce174b1",
       "localImage": "assets/news/fde72e96072d48.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "caebf9dfa9a168",
-      "category": "Norge",
-      "published": "22.08. 18:01",
-      "publishedISO": "2026-08-22T18:01:56+02:00",
-      "title": "Landets første forsvarslinje for videregående skole åpnet i Finnmark",
-      "summary": "Ett år etter åpningen av Finnmarksbrigaden åpner Norges første forsvars- og beredskapslinje ved Lakselv videregående skole. Hun er del av det nye kullet på 14 elever som nå har startet skolegangen ved landets eneste forsvars- og beredskapslinje, et steinkast unna Finnmarksbrigadens hovedkvarter på Porsangmoen. I tillegg til å få generell studiekompetanse mener rektor ved Lakselv videregående skole, Sylvi Johnsen, at elevene får en unik kompetanse til å gå inn i Forsvaret eller andre statlige arbeidsplasser.",
+      "id": "faf5b3fb139976",
+      "category": "Verden",
+      "published": "23.08. 12:22",
+      "publishedISO": "2026-08-23T12:22:32+02:00",
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "summary": "Forkullede kjøretøyer ved Bongor Subdistrict Administrative Organization-kontoret i Ra-ngae, Narathiwa. Mer enn 50 koordinerte ildspåsettelse og branntiltak «for å skape uro» har blitt utført over hele Thailands opprørsrammede sør, har det thailandske militæret sagt. Hendelsene fant sted over landets sørlige grenseprovinser mellom 20:00 lokal tid (13:00 GMT) og midnatt lørdag, sa militærets interne sikkerhetsoperasjonskommando i en uttalelse. En soldat bemanner et sjekkpunkt i Cho Airong-distriktet etter et telekommunikasjonstårnangrep Ingen gruppe har tatt på seg ansvaret for brannstiftelsen.",
       "keyPoints": [
-        "Ett år etter åpningen av Finnmarksbrigaden åpner Norges første forsvars- og beredskapslinje ved Lakselv videregående skole.",
-        "I tillegg til å få generell studiekompetanse mener rektor ved Lakselv videregående skole, Sylvi Johnsen, at elevene får en unik kompetanse til å gå inn i Forsvaret eller andre statlige arbeidsplasser.",
-        "Hun er del av det nye kullet på 14 elever som nå har startet skolegangen ved landets eneste forsvars- og beredskapslinje, et steinkast unna Finnmarksbrigadens hovedkvarter på Porsangmoen.",
-        "Vi skal ha noen fysiske tester som de har i militæret, sier elev Maja Røbekk (16). – Jeg gleder meg skikkelig mye, fordi jeg er veldig glad i være fysisk aktiv, jeg elsker å trene og være ute, så jeg tenker at dette passer midt i blinken for meg."
+        "Forkullede kjøretøyer ved Bongor Subdistrict Administrative Organization-kontoret i Ra-ngae, Narathiwa. Mer enn 50 koordinerte ildspåsettelse og branntiltak «for å skape uro» har blitt utført over hele Thailands opprørsrammede sør, har det thailandske militæret sagt.",
+        "En soldat bemanner et sjekkpunkt i Cho Airong-distriktet etter et telekommunikasjonstårnangrep Ingen gruppe har tatt på seg ansvaret for brannstiftelsen.",
+        "Hendelsene fant sted over landets sørlige grenseprovinser mellom 20:00 lokal tid (13:00 GMT) og midnatt lørdag, sa militærets interne sikkerhetsoperasjonskommando i en uttalelse.",
+        "Siden 2004 har en konflikt på lavt nivå ulmet i de sørligste provinsene i Thailand med buddhistisk flertall, mens opprørere i regionen med muslimsk majoritet kjemper for større autonomi."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/landets-forste-forsvarslinje-for-videregaende-skole-apnet-i-finnmark-1.17996144",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/JrZgzLm-XaBynD8vCDuAaQfpjsgPg9iUfZ0sY86o4Jjg.jpg",
-      "localImage": "assets/news/caebf9dfa9a168.jpg",
-      "score": 14
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6e3/live/f2f33b60-9ed7-11f1-9253-c70a43a5293b.jpg",
+      "localImage": "assets/news/faf5b3fb139976.jpg",
+      "score": 13
     },
     {
       "id": "1763fcfa419958",
