@@ -1,29 +1,8 @@
 {
-  "updatedAt": "23.08.2026 kl. 17:51",
-  "updatedISO": "2026-08-23T17:51:13.492779+02:00",
+  "updatedAt": "23.08.2026 kl. 18:57",
+  "updatedISO": "2026-08-23T18:57:26.067825+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "1eeff9ce68f2c1",
-      "category": "Nord-Norge",
-      "published": "22.08. 09:12",
-      "publishedISO": "2026-08-22T09:12:44+02:00",
-      "title": "Slik rammes Nordland av flystreiken foreløpig",
-      "summary": "Det gjelder blant annet SK 4082 fra Oslo til Harstad/Narvik klokken 07.10, SK4104 fra Oslo til Bodø med avgang klokken 7.40, SK4107 fra Bodø til Oslo klokken 9.35 og SK4083 fra Evenes til Oslo 9.20. Blant annet er det risiko for at Gardermoen blir stengt mellom klokken 06.30 og klokken 11.30. – Søndag forventer vi store forsinkelser, kanselleringer og etterfølgende effekter gjennom hele dagen. Dersom du rammes av streiken, oppfordrer Forbrukerrådet deg til ikke å avbestille reisen. – Du bør ikke miste hodet og begynne å avbestille reisen din selv.",
-      "keyPoints": [
-        "Det gjelder blant annet SK 4082 fra Oslo til Harstad/Narvik klokken 07.10, SK4104 fra Oslo til Bodø med avgang klokken 7.40, SK4107 fra Bodø til Oslo klokken 9.35 og SK4083 fra Evenes til Oslo 9.20.",
-        "Dersom du rammes av streiken, oppfordrer Forbrukerrådet deg til ikke å avbestille reisen. – Du bør ikke miste hodet og begynne å avbestille reisen din selv.",
-        "Blant annet er det risiko for at Gardermoen blir stengt mellom klokken 06.30 og klokken 11.30. – Søndag forventer vi store forsinkelser, kanselleringer og etterfølgende effekter gjennom hele dagen.",
-        "Tolv flygeledere er tatt ut i streik fra Gardermoen og Flesland etter at forhandlingene mellom Norsk Flygelederforening og Spekter endte i brudd fredag."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/slik-rammes-nordland-av-flystreiken-forelopig-1.17997973",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/mvuJUz1Op7UKHh9ozh_-OgSEYQPW5mh5H7wBu2unpOyQ.jpg",
-      "localImage": "assets/news/1eeff9ce68f2c1.jpg",
-      "score": 14
-    },
     {
       "id": "0941983ea129f0",
       "category": "Norge",
@@ -109,24 +88,45 @@
       "score": 16
     },
     {
-      "id": "e8e688ac5f94db",
-      "category": "Norge",
-      "published": "23.08. 17:19",
-      "publishedISO": "2026-08-23T17:19:06+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Politiet får søndag ettermiddag hjelp av Røde Kors, Norske redningshunder, Norsk Folkehjelp og et redningshelikopter i søket etter en savnet person i området rundt Mjelle, like utenfor Bodø. De ti motstemmene i Nordland er Hadsel, Øksnes, Lurøy, Hamarøy, Vågan, Fauske, Brønnøy, Lødingen og Vestvågøy, ifølge VG. – Vi har mange små og mellomstore bedrifter i bransjer som sliter fra før av. For flyplassene i Nordland har ikke situasjonen endret seg siden lørdag kveld.",
+      "id": "adbfaee1e0ae78",
+      "category": "Økonomi",
+      "published": "23.08. 18:34",
+      "publishedISO": "2026-08-23T18:34:49+02:00",
+      "title": "Norwegian: Disse flyene kanselleres mandag morgen",
+      "summary": "Norwegian kansellerer seks fly mandag etter 72 kanselleringer søndag, som følge av flystreiken. Fly mellom Oslo og Bergen, Stavanger og Trondheim kanselleres mandag morgen. Av de 346 planlagte flygningene var 147 kansellert søndag morgen.",
       "keyPoints": [
-        "De ti motstemmene i Nordland er Hadsel, Øksnes, Lurøy, Hamarøy, Vågan, Fauske, Brønnøy, Lødingen og Vestvågøy, ifølge VG. – Vi har mange små og mellomstore bedrifter i bransjer som sliter fra før av.",
-        "Politiet får søndag ettermiddag hjelp av Røde Kors, Norske redningshunder, Norsk Folkehjelp og et redningshelikopter i søket etter en savnet person i området rundt Mjelle, like utenfor Bodø.",
-        "For flyplassene i Nordland har ikke situasjonen endret seg siden lørdag kveld.",
-        "Politiet har kontroll på føreren, som mistenkes for promillekjøring, opplyser operasjonsleder Yngvar Fredriksen. – Fører fremstår uskadd, men fremstilles nå for bevissikring, skriver han i politiloggen."
+        "Fly mellom Oslo og Bergen, Stavanger og Trondheim kanselleres mandag morgen.",
+        "Norwegian kansellerer seks fly mandag etter 72 kanselleringer søndag, som følge av flystreiken.",
+        "Av de 346 planlagte flygningene var 147 kansellert søndag morgen.",
+        "Andre passasjerer bør møte opp som normalt, lyder beskjeden fra Norwegian."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/Oke1Wb/norwegian-disse-flyene-kanselleres-mandag-morgen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a2bc096d-5997-3ce4-a721-5d617e65b094?fit=crop&h=675&upscale=true&w=1200&s=39bd1d6118c6870ec825b8a500d9c50b9a789ee8",
+      "localImage": "assets/news/adbfaee1e0ae78.jpg",
+      "score": 13
+    },
+    {
+      "id": "e1ccaf9f1c54cb",
+      "category": "Norge",
+      "published": "23.08. 18:06",
+      "publishedISO": "2026-08-23T18:06:46+02:00",
+      "title": "TikTok «skjønte» at Lisa var skeiv før hun selv skjønte det",
+      "summary": "Til tross for at hun sveipet fort forbi, fortsatte TikTok å vise Lisa skeivt innhold. Hun opplevde at TikTok var et sted der folk skjønte henne og kjente på de samme tingene som hun gjorde. Hun synes likevel det er rart å tenke på at mobilen hennes skjønte det før henne. – Selv om det føltes fint og trygt da, føles det litt ubehagelig at det var den veien det gikk, sier Lisa.",
+      "keyPoints": [
+        "Hun synes likevel det er rart å tenke på at mobilen hennes skjønte det før henne. – Selv om det føltes fint og trygt da, føles det litt ubehagelig at det var den veien det gikk, sier Lisa.",
+        "Til tross for at hun sveipet fort forbi, fortsatte TikTok å vise Lisa skeivt innhold.",
+        "Hun opplevde at TikTok var et sted der folk skjønte henne og kjente på de samme tingene som hun gjorde.",
+        "Feeden ble et steg i retningen av å godta at hun er skeiv. – Uten at jeg på noen måte hadde oppsøkt det selv, så ble det servert til meg."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "url": "https://www.nrk.no/kultur/xl/tiktok-_skjonte_-at-lisa-var-skeiv-for-hun-selv-skjonte-det-1.17958616",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/e8e688ac5f94db.jpg",
+      "image": "https://gfx.nrk.no/yk1JhqEpx979aj3EiOazHwglGOvv2gjiPAn7ORPsi3xg.jpg",
+      "localImage": "assets/news/e1ccaf9f1c54cb.jpg",
       "score": 13
     },
     {
