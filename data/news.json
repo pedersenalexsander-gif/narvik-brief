@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.08.2026 kl. 07:05",
-  "updatedISO": "2026-08-23T07:05:32.853255+02:00",
+  "updatedAt": "23.08.2026 kl. 08:03",
+  "updatedISO": "2026-08-23T08:03:46.228863+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,6 +67,27 @@
       "score": 14
     },
     {
+      "id": "5ee74f907ee883",
+      "category": "Økonomi",
+      "published": "23.08. 07:12",
+      "publishedISO": "2026-08-23T07:12:51+02:00",
+      "title": "AI-eksperten skal bli filosof: – Blir viktigere",
+      "summary": "AI-eksperten har jobbet med maskinlæring og kunstig intelligens siden 2014. Han mener AI i stadig større grad vil gå fra å løse smale, avgrensede oppgaver til å brukes i beslutninger som tidligere ble tatt av mennesker. – Da blir det å kunne tenke og kommunisere presist om filosofiske og etiske begreper mye viktigere. Samtidig kan AI bli en utfordring for unge konsulenter som ikke har en tydelig spesialisering. – Mange av startjobbene er dominert av oppgaver AI lett kan gjøre.",
+      "keyPoints": [
+        "AI-eksperten har jobbet med maskinlæring og kunstig intelligens siden 2014.",
+        "Han mener AI i stadig større grad vil gå fra å løse smale, avgrensede oppgaver til å brukes i beslutninger som tidligere ble tatt av mennesker. – Da blir det å kunne tenke og kommunisere presist om filosofiske og etiske begreper mye viktigere.",
+        "Samtidig kan AI bli en utfordring for unge konsulenter som ikke har en tydelig spesialisering. – Mange av startjobbene er dominert av oppgaver AI lett kan gjøre.",
+        "Han mener at humanistisk kompetanse blir mer relevant etter hvert som AI beveger seg inn i stadig flere deler av samfunnet. – Når man jobber med AI dukker disse problemstillingene opp gang på gang, sier han."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/lnrg87/ai-eksperten-skal-bli-filosof-blir-viktigere",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/33ac96db-df6e-3c62-85d9-bb1af3aca57c?fit=crop&h=675&upscale=true&w=1200&s=941d756fdc037713b11bb9f703510f9eb563db51",
+      "localImage": "assets/news/5ee74f907ee883.jpg",
+      "score": 18
+    },
+    {
       "id": "fde72e96072d48",
       "category": "Økonomi",
       "published": "22.08. 11:04",
@@ -86,27 +107,6 @@
       "image": "https://akamai.vgc.no/v2/images/e1a11b15-14f5-3533-8e01-c74cdc5b2da7?fit=crop&h=675&upscale=true&w=1200&s=6d816ccec9dacde180c4ce3809694bc61ce174b1",
       "localImage": "assets/news/fde72e96072d48.jpg",
       "score": 16
-    },
-    {
-      "id": "820f7fc19038e5",
-      "category": "Økonomi",
-      "published": "21.08. 15:31",
-      "publishedISO": "2026-08-21T15:31:14+02:00",
-      "title": "Oppgang på Wall Street",
-      "summary": "Til tross for oppgang fredag endte S&P 500 uken ned 1,43 prosent. Nasdaq falt 2,05 prosent, mens Dow falt 0,85 prosent denne uken. Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
-      "keyPoints": [
-        "Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
-        "Til tross for oppgang fredag endte S&P 500 uken ned 1,43 prosent.",
-        "Nasdaq falt 2,05 prosent, mens Dow falt 0,85 prosent denne uken.",
-        "Investorene forsøker nå å finne fotfeste igjen etter et kraftig salgspress drevet av stigende renter på amerikanske statsobligasjoner, melder CNBC."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/RjEqRJ/oppgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1cd22248-93b9-364f-8f3a-00d23ea9c954?fit=crop&h=675&upscale=true&w=1200&s=f5e354215f10d61bb962ee86f09c2d80e53861ee",
-      "localImage": "assets/news/820f7fc19038e5.jpg",
-      "score": 14
     },
     {
       "id": "c06b46c1803309",
@@ -172,6 +172,27 @@
       "score": 13
     },
     {
+      "id": "820f7fc19038e5",
+      "category": "Økonomi",
+      "published": "21.08. 15:31",
+      "publishedISO": "2026-08-21T15:31:14+02:00",
+      "title": "Oppgang på Wall Street",
+      "summary": "Til tross for oppgang fredag endte S&P 500 uken ned 1,43 prosent. Nasdaq falt 2,05 prosent, mens Dow falt 0,85 prosent denne uken. Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
+      "keyPoints": [
+        "Bitcoin er på vei mot en oppgang på rundt 20 prosent denne uken, melder CNBC.",
+        "Til tross for oppgang fredag endte S&P 500 uken ned 1,43 prosent.",
+        "Nasdaq falt 2,05 prosent, mens Dow falt 0,85 prosent denne uken.",
+        "Investorene forsøker nå å finne fotfeste igjen etter et kraftig salgspress drevet av stigende renter på amerikanske statsobligasjoner, melder CNBC."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/RjEqRJ/oppgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1cd22248-93b9-364f-8f3a-00d23ea9c954?fit=crop&h=675&upscale=true&w=1200&s=f5e354215f10d61bb962ee86f09c2d80e53861ee",
+      "localImage": "assets/news/820f7fc19038e5.jpg",
+      "score": 13
+    },
+    {
       "id": "f794970fc1ac37",
       "category": "Norge",
       "published": "22.08. 22:15",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Arf9vYFi12ASrkqRinWQbw7Yv2GCcIP7i8SDEqG9iuzA.jpg",
       "localImage": "assets/news/f794970fc1ac37.webp",
-      "score": 12
-    },
-    {
-      "id": "c06fe379790ecd",
-      "category": "Norge",
-      "published": "22.08. 21:45",
-      "publishedISO": "2026-08-22T21:45:40+02:00",
-      "title": "Flere hundre må overnatte på Flesland",
-      "summary": "På Flesland treffer NRK flere fortvilede reisende lørdag kveld. Da hun og mannen leste om at flere hundre måtte overnatte på flyplassen, bestemte de seg for å hjelpe til. – Vi har et ledig rom, så vi tar imot en familie fra Italia, sier hun. Kommunikasjonssjef i Avinor, Cathrine Fuglesang Framholt, sier at flyplassen er full av passasjerer som har fått ombooket flyvningene sine. – Det betyr at flere hundre passasjerer må overnatte i hallen, sier hun.",
-      "keyPoints": [
-        "Kommunikasjonssjef i Avinor, Cathrine Fuglesang Framholt, sier at flyplassen er full av passasjerer som har fått ombooket flyvningene sine. – Det betyr at flere hundre passasjerer må overnatte i hallen, sier hun.",
-        "Da hun og mannen leste om at flere hundre måtte overnatte på flyplassen, bestemte de seg for å hjelpe til. – Vi har et ledig rom, så vi tar imot en familie fra Italia, sier hun.",
-        "På Flesland treffer NRK flere fortvilede reisende lørdag kveld.",
-        "Røde Kors og Avinor deler ut tepper og feltsenger til passasjerer som må overnatte på Bergen Lufthavn."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/flere-hundre-ma-overnatte-pa-flesland-1526342",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/-NdVWfadEdgeY_qme7pG3wEgiOArRfD7ZzG_9pLs1ZxA",
-      "localImage": "assets/news/c06fe379790ecd.jpg",
       "score": 12
     }
   ]
