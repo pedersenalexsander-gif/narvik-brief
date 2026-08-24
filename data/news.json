@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.08.2026 kl. 07:57",
-  "updatedISO": "2026-08-24T07:57:31.752996+02:00",
+  "updatedAt": "24.08.2026 kl. 10:30",
+  "updatedISO": "2026-08-24T10:30:08.138216+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,12 +9,12 @@
       "published": "23.08. 21:25",
       "publishedISO": "2026-08-23T21:25:32+02:00",
       "title": "Peter Frølich er sykemeldt etter hjerteinfarkt",
-      "summary": "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt. INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening. I et innlegg på Facebook skriver Peter Christian Frølich at fikk sterke smerte i brystet under trening.",
+      "summary": "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt. INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening. I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
       "keyPoints": [
         "INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening.",
         "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt.",
-        "I et innlegg på Facebook skriver Peter Christian Frølich at fikk sterke smerte i brystet under trening.",
-        "Mona Seljevoll Tjordal, kardiologisk sykepleier og helsefaglig rådgiver hjerte i LHL, mener hjerteinfarktet til Frølich er en påminner på at unge kan rammes. – Først og fremst ønsker vi Peter Frølich god bedring."
+        "I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
+        "Mona Seljevoll Tjordal, kardiologisk sykepleier og helsefaglig rådgiver hjerte i LHL, mener hjerteinfarktet til Frølich er en påminner om at unge kan rammes. – Først og fremst ønsker vi Peter Frølich god bedring."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -23,6 +23,27 @@
       "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
       "localImage": "assets/news/e46acba4219d53.jpg",
       "score": 19
+    },
+    {
+      "id": "d45afadc3b62ec",
+      "category": "Økonomi",
+      "published": "24.08. 09:01",
+      "publishedISO": "2026-08-24T09:01:34+02:00",
+      "title": "BW Offshore raser på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs er marginalt ned 0,05 prosent rundt 20 minutter etter åpning mandag. BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal. BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er marginalt ned 0,05 prosent rundt 20 minutter etter åpning mandag.",
+        "BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
+        "BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal.",
+        "BW Offshore har tatt milliardnedskriving og kuttet i målene for året."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/JOR2MR/oslo-boers-aapner-ned",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/0ceed838-c685-3821-98b4-383c5110cbc1?fit=crop&h=675&upscale=true&w=1200&s=066c4dc74689a3a5773641f531733e9d2c312a8e",
+      "localImage": "assets/news/d45afadc3b62ec.jpg",
+      "score": 21
     },
     {
       "id": "d2816d53870673",
@@ -44,27 +65,6 @@
       "image": "https://akamai.vgc.no/v2/images/7c305471-e0eb-3b4f-ab50-12bb1e2aeb7f?fit=crop&h=675&upscale=true&w=1200&s=3495ba785522f9d56c0cf26793cc45d87d99bf92",
       "localImage": "assets/news/d2816d53870673.jpg",
       "score": 15
-    },
-    {
-      "id": "5ee74f907ee883",
-      "category": "Økonomi",
-      "published": "23.08. 07:12",
-      "publishedISO": "2026-08-23T07:12:51+02:00",
-      "title": "AI-eksperten skal bli filosof: – Blir viktigere",
-      "summary": "AI-eksperten har jobbet med maskinlæring og kunstig intelligens siden 2014. Han mener AI i stadig større grad vil gå fra å løse smale, avgrensede oppgaver til å brukes i beslutninger som tidligere ble tatt av mennesker. – Da blir det å kunne tenke og kommunisere presist om filosofiske og etiske begreper mye viktigere. Samtidig kan AI bli en utfordring for unge konsulenter som ikke har en tydelig spesialisering. – Mange av startjobbene er dominert av oppgaver AI lett kan gjøre.",
-      "keyPoints": [
-        "AI-eksperten har jobbet med maskinlæring og kunstig intelligens siden 2014.",
-        "Han mener AI i stadig større grad vil gå fra å løse smale, avgrensede oppgaver til å brukes i beslutninger som tidligere ble tatt av mennesker. – Da blir det å kunne tenke og kommunisere presist om filosofiske og etiske begreper mye viktigere.",
-        "Samtidig kan AI bli en utfordring for unge konsulenter som ikke har en tydelig spesialisering. – Mange av startjobbene er dominert av oppgaver AI lett kan gjøre.",
-        "Han mener at humanistisk kompetanse blir mer relevant etter hvert som AI beveger seg inn i stadig flere deler av samfunnet. – Når man jobber med AI dukker disse problemstillingene opp gang på gang, sier han."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/lnrg87/ai-eksperten-skal-bli-filosof-blir-viktigere",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/33ac96db-df6e-3c62-85d9-bb1af3aca57c?fit=crop&h=675&upscale=true&w=1200&s=941d756fdc037713b11bb9f703510f9eb563db51",
-      "localImage": "assets/news/5ee74f907ee883.jpg",
-      "score": 14
     },
     {
       "id": "73d3725a2bf9ec",
@@ -130,87 +130,87 @@
       "score": 14
     },
     {
-      "id": "be6cde65218435",
-      "category": "Norge",
-      "published": "24.08. 07:14",
-      "publishedISO": "2026-08-24T07:14:32+02:00",
-      "title": "Høyre-sjefen slakter Støre-skolen: Vil ha eksamen med penn og papir",
-      "summary": "Høyre-leder Ine Eriksen Søreide vil ha en mer «klassisk» skole og eksamen med penn og papir for 10.-klassingene. Og hun har selv en fortid som skolepolitiker, som medlem og leder av utdanningskomiteen på Stortinget på 2000-tallet. – Hvordan er Høyre-skolen sånn som du vil ha den? – Vi ønsker oss en lesereform med fysiske bøker med mer høytlesning, mer penn og papir. Kunnskapsminister Kari Nessa Nordtun (Ap) stiller seg ikke avvisende til eksamen med penn og papir.",
+      "id": "5e2213c558dfea",
+      "category": "Økonomi",
+      "published": "24.08. 09:14",
+      "publishedISO": "2026-08-24T09:14:28+02:00",
+      "title": "Aker BP-sjefen: – Superoptimistisk",
+      "summary": "Aker BP-sjefen har tro på at produksjonsfallet på sokkelen kan dempes, men sier at det vil kreve hardt arbeid. –⁠ Konkurransen kommer til å bli tøffere. Konsernsjefen bruker ordet fordi han ser behov for «en revolusjon på produktivitet», altså at man kan levere mer med mindre innsats. – Jeg tror fremtiden på norsk sokkel tilhører de som kan produsere mer med mindre ressurser, Neste generasjon prosjekter må leveres raskere, enklere og til lavere kostnad, mener Aker BP-sjefen. Han antyder at produksjonen på sokkelen kan flate ut og holde seg ganske flat til rundt 2040. – Jeg tror at på norsk sokkel må du ha et tiårsperspektiv, kanskje et 15-årsperspektiv, sier Aker BP-sjefen.",
       "keyPoints": [
-        "Høyre-leder Ine Eriksen Søreide vil ha en mer «klassisk» skole og eksamen med penn og papir for 10.-klassingene.",
-        "Kunnskapsminister Kari Nessa Nordtun (Ap) stiller seg ikke avvisende til eksamen med penn og papir.",
-        "Og hun har selv en fortid som skolepolitiker, som medlem og leder av utdanningskomiteen på Stortinget på 2000-tallet. – Hvordan er Høyre-skolen sånn som du vil ha den? – Vi ønsker oss en lesereform med fysiske bøker med mer høytlesning, mer penn og papir.",
-        "Ine Eriksen Søreide vil ikke være med på at hun og Høyre har snudd på hælen. – Vi har alltid vært opptatt av grunnleggende ferdigheter og de grunnleggende tingene, sier hun. – Det vi foreslår nå, er en mye tydeligere orientering mot det klassiske, det fysiske med bøker, penn og papir, øving, høytlesning og konsentrasjon."
+        "Konsernsjefen bruker ordet fordi han ser behov for «en revolusjon på produktivitet», altså at man kan levere mer med mindre innsats. – Jeg tror fremtiden på norsk sokkel tilhører de som kan produsere mer med mindre ressurser, Neste generasjon prosjekter må leveres raskere, enklere og til lavere kostnad, mener Aker BP-sjefen.",
+        "Han antyder at produksjonen på sokkelen kan flate ut og holde seg ganske flat til rundt 2040. – Jeg tror at på norsk sokkel må du ha et tiårsperspektiv, kanskje et 15-årsperspektiv, sier Aker BP-sjefen.",
+        "Aker BP-sjefen har tro på at produksjonsfallet på sokkelen kan dempes, men sier at det vil kreve hardt arbeid. –⁠ Konkurransen kommer til å bli tøffere.",
+        "Holder oljeprisen seg på rundt 90 dollar fatet er disse investeringene nedbetalt på ett års tid, oppga Aker BP-sjefen nylig."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/hoyre-sjefen-slakter-store-skolen_-vil-ha-eksamen-med-penn-og-papir-1.17997074",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/azou7YumPjkUT0H9xhfDVABjEjMnXXlVAAlnCJPv8Ttg",
-      "localImage": "assets/news/be6cde65218435.jpg",
+      "url": "https://e24.no/energi-og-klima/i/8p7V4E/aker-bp-sjefen-superoptimistisk",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5666593e-ea4d-3f08-99bf-d6e8d0a349de?fit=crop&h=675&upscale=true&w=1200&s=e41aea44001cb538076e380099f77dd580ee3f43",
+      "localImage": "assets/news/5e2213c558dfea.jpg",
       "score": 13
     },
     {
-      "id": "5e4919adc19e8e",
+      "id": "6ada8baa3c3ff0",
       "category": "Norge",
-      "published": "24.08. 07:11",
-      "publishedISO": "2026-08-24T07:11:18+02:00",
-      "title": "Seks års fredning har ikke fått laksen tilbake: Nå vurderes nye tiltak",
-      "summary": "Etter seks år med fiskeforbud er det fortsatt ingen bedring for laksen i Tanavassdraget. Han mener man burde sett tydeligere effekt etter seks års fredning. Tilbake på elva håper Harald Persen at uttak av gjedde, og riktige tiltak fra myndighetene, kan bidra til at laksen en dag vender tilbake til Tanavassdraget.",
+      "published": "24.08. 08:54",
+      "publishedISO": "2026-08-24T08:54:35+02:00",
+      "title": "Flygeleiarstreiken held fram med kanselleringar og forseinkingar",
+      "summary": "Flygeleiarstreiken fører også i dag til kanselleringar og forseinkingar. Reisande på belage seg på forseinkingar og kanselleringar utover dagen. Dersom streiken held fram vil det kome fleire forseinkingar utover i veka, seier kommunikasjonssjefen.",
       "keyPoints": [
-        "Tilbake på elva håper Harald Persen at uttak av gjedde, og riktige tiltak fra myndighetene, kan bidra til at laksen en dag vender tilbake til Tanavassdraget.",
-        "Etter seks år med fiskeforbud er det fortsatt ingen bedring for laksen i Tanavassdraget.",
-        "Han mener man burde sett tydeligere effekt etter seks års fredning.",
-        "Seks år med fredning har gjort at aktiviteten i vassdraget er minimal."
+        "Flygeleiarstreiken fører også i dag til kanselleringar og forseinkingar.",
+        "Dersom streiken held fram vil det kome fleire forseinkingar utover i veka, seier kommunikasjonssjefen.",
+        "Reisande på belage seg på forseinkingar og kanselleringar utover dagen.",
+        "I dag skal 87.000 reisande innom, like mange som i det verste julerushet og på den travlaste høgsommaren. – Vi reknar med at forseinkingane vil halde fram."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/frykter-gjedda-presser-ut-laksen-i-norges-storste-vassdrag-1.17998021",
+      "url": "https://www.nrk.no/vestland/flygeleiarstreiken-held-fram-med-kanselleringar-og-forseinkingar-1.17999096",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/EEOb_ZmSFIKVtHTfp4pgrwYLfilkzKf28XbeZNH0MSGQ.jpg",
-      "localImage": "assets/news/5e4919adc19e8e.jpg",
+      "image": "https://gfx.nrk.no/Q2jODXU_ANKG_gn1vUbpxgnNGeNOhMSKckGjUu94GoYg.jpg",
+      "localImage": "assets/news/6ada8baa3c3ff0.jpg",
       "score": 13
     },
     {
-      "id": "e586af8e0281fd",
-      "category": "Norge",
-      "published": "24.08. 07:11",
-      "publishedISO": "2026-08-24T07:11:11+02:00",
-      "title": "Bussjåførar fortviler over nye billettreglar",
-      "summary": "Nye billettreglar fører til at sjåførar må nekte barn utan skulereisekort skyss heim. Tillitsvald fryktar skremte seksåringar vil begynne å gå langs vegen, og krev nye køyrereglar for dei minste. Det var i samband med skulestart at bussjåførane i Vy fekk den nye beskjeden.",
+      "id": "51739078427eba",
+      "category": "Økonomi",
+      "published": "24.08. 08:28",
+      "publishedISO": "2026-08-24T08:28:01+02:00",
+      "title": "– Har ingen plan B",
+      "summary": "Trafikken på Gardermoen ligner på normalen dagen før streiken trappes opp. – Vi har ingen plan B, sier Kristine Gustavsen Hansen når E24 møter henne i ankomsthallen på Gardermoen mandag morgen. Klokken 8 i dag ble diskusjonene mellom arbeidsgiverorganisasjonen Spekter og Norsk Flygelederforening gjenopptatt på Spekters kontorer i Oslo. Luftrommet over Vestlandet kan oppleve noen forsinkelser utover kvelden.Tromsø vil oppleve noen forsinkelser på formiddagen og gradvis økende forsinkelser utover ettermiddagen, og være stengt fra kl.",
       "keyPoints": [
-        "Nye billettreglar fører til at sjåførar må nekte barn utan skulereisekort skyss heim.",
-        "Tillitsvald fryktar skremte seksåringar vil begynne å gå langs vegen, og krev nye køyrereglar for dei minste.",
-        "Det var i samband med skulestart at bussjåførane i Vy fekk den nye beskjeden.",
-        "Han kjenner kvardagen bak rattet og merkar den nye verkelegheita på kroppen."
+        "Trafikken på Gardermoen ligner på normalen dagen før streiken trappes opp. – Vi har ingen plan B, sier Kristine Gustavsen Hansen når E24 møter henne i ankomsthallen på Gardermoen mandag morgen.",
+        "Klokken 8 i dag ble diskusjonene mellom arbeidsgiverorganisasjonen Spekter og Norsk Flygelederforening gjenopptatt på Spekters kontorer i Oslo.",
+        "Luftrommet over Vestlandet kan oppleve noen forsinkelser utover kvelden.Tromsø vil oppleve noen forsinkelser på formiddagen og gradvis økende forsinkelser utover ettermiddagen, og være stengt fra kl.",
+        "Streiken hos flygelederne rammer, nok en dag, reisende over hele landet, etter en helg preget av forsinkelser og kanselleringer."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/bussjaforar-fortviler-over-nye-billettreglar-1.17996809",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_XmVS4PWf3CVxM2HMIbM8wZv_T3vz6DQZWOkjpXv6mOg.jpg",
-      "localImage": "assets/news/e586af8e0281fd.webp",
+      "url": "https://e24.no/naeringsliv/i/XMe25x/har-ingen-plan-b",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3884dfdd-256b-3c07-a02d-3ee18dc06d0b?fit=crop&h=675&upscale=true&w=1200&s=4b6de7053bc358d25734f8d4ffd286b28006dfd5",
+      "localImage": "assets/news/51739078427eba.jpg",
       "score": 13
     },
     {
-      "id": "b7d57b48b26205",
-      "category": "Norge",
-      "published": "24.08. 06:12",
-      "publishedISO": "2026-08-24T06:12:16+02:00",
-      "title": "Ordfører fikk beskjed om at han var alvorlig syk: – Det var beintøft",
-      "summary": "Ordfører i Arendal Robert Cornels Nordli forteller om det han opplevde i vinter, og som var det første tegnet på at noe ikke var som det skulle være. Da han i tillegg fikk sykdom i nær familie og måtte jobbe med mange tunge politiske saker, ble trykket såpass stort at han gikk til fastlegen for å sjekke seg. – Det ble blodprøve, EKG og forskjellig. Nordli sier han fikk vite at det var alvorlig. – Jeg har fått beskjed om at jeg kunne ha dødd av den tilstanden jeg var i.",
+      "id": "244195abcb81ca",
+      "category": "Økonomi",
+      "published": "24.08. 08:16",
+      "publishedISO": "2026-08-24T08:16:55+02:00",
+      "title": "Tysk kjempeavtale for Equinor",
+      "summary": "Equinor inngår stor avtale om gassleveranser til tyske Uniper. –⁠ Forlenger vårt kommersielle samarbeid godt inn på 2040-tallet, sier Equinor-sjefen. Den 15-årige avtalen innebærer at Equinor årlig skal levere mer enn 30 terawattimer (om lag 2,8 milliarder kubikkmeter) gass til Uniper. Neste år markerer Norge og Equinor 50 år med gasseksport til Tyskland. – I fem tiår har norsk gass varmet tyske hjem, drevet tysk industri og bidratt til Tysklands energisikkerhet.",
       "keyPoints": [
-        "Nordli sier han fikk vite at det var alvorlig. – Jeg har fått beskjed om at jeg kunne ha dødd av den tilstanden jeg var i.",
-        "Ordfører i Arendal Robert Cornels Nordli forteller om det han opplevde i vinter, og som var det første tegnet på at noe ikke var som det skulle være.",
-        "Da han i tillegg fikk sykdom i nær familie og måtte jobbe med mange tunge politiske saker, ble trykket såpass stort at han gikk til fastlegen for å sjekke seg. – Det ble blodprøve, EKG og forskjellig.",
-        "Å være syk og koble av fra livet som ordfører var ikke lett."
+        "Neste år markerer Norge og Equinor 50 år med gasseksport til Tyskland. – I fem tiår har norsk gass varmet tyske hjem, drevet tysk industri og bidratt til Tysklands energisikkerhet.",
+        "Equinor inngår stor avtale om gassleveranser til tyske Uniper. –⁠ Forlenger vårt kommersielle samarbeid godt inn på 2040-tallet, sier Equinor-sjefen.",
+        "Den 15-årige avtalen innebærer at Equinor årlig skal levere mer enn 30 terawattimer (om lag 2,8 milliarder kubikkmeter) gass til Uniper.",
+        "Gassleveransene starter i 2027 og skal vare helt frem til 31. desember 2041, opplyser Equinor. – Vi er fornøyde med å videreføre vårt langvarige partnerskap med Uniper, sier Opedal."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/ordforer-fikk-beskjed-om-at-han-var-alvorlig-syk_-_-det-var-beintoft-1.17998933",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sKlvBvg2lGeCy6HPqOGeNASRKtwNVIuUg07wzsshSL7Q.jpg",
-      "localImage": "assets/news/b7d57b48b26205.jpg",
+      "url": "https://e24.no/energi-og-klima/i/oE8yag/tysk-kjempeavtale-for-equinor",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4f43d894-4576-365e-9d32-59232b92c1b8?fit=crop&h=675&upscale=true&w=1200&s=9a695eecb5cdfc8a5ffa87f01f70341e811ac771",
+      "localImage": "assets/news/244195abcb81ca.jpg",
       "score": 13
     }
   ]
