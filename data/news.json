@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.08.2026 kl. 10:30",
-  "updatedISO": "2026-08-24T10:30:08.138216+02:00",
+  "updatedAt": "24.08.2026 kl. 12:25",
+  "updatedISO": "2026-08-24T12:25:17.138539+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -30,9 +30,9 @@
       "published": "24.08. 09:01",
       "publishedISO": "2026-08-24T09:01:34+02:00",
       "title": "BW Offshore raser på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs er marginalt ned 0,05 prosent rundt 20 minutter etter åpning mandag. BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal. BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
+      "summary": "Hovedindeksen på Oslo Børs er ned 0,10 prosent rundt kl. BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal. BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er marginalt ned 0,05 prosent rundt 20 minutter etter åpning mandag.",
+        "Hovedindeksen på Oslo Børs er ned 0,10 prosent rundt kl.",
         "BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
         "BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal.",
         "BW Offshore har tatt milliardnedskriving og kuttet i målene for året."
@@ -46,25 +46,25 @@
       "score": 21
     },
     {
-      "id": "d2816d53870673",
+      "id": "e12a8a14d2ccbc",
       "category": "Økonomi",
-      "published": "23.08. 21:40",
-      "publishedISO": "2026-08-23T21:40:52+02:00",
-      "title": "Stopper ikke streiken ennå: – Tvungen lønnsnemnd er siste utvei",
-      "summary": "Eldring har registrert at partene har avtalt nytt møte mandag morgen. – Tvungen lønnsnemnd er en siste utvei. Skulle det bli tvungen lønnsnemnd, får de streikende vanligvis lønnstillegg på linje med andre. – Men uten sjanse for å få gjennom ting som dreier seg om arbeidsforhold som pauser og lignende. Siste gang regjeringen grep inn med tvungen lønnsnemnd på grunn av liv og helse var i mars i fjor.",
+      "published": "24.08. 11:49",
+      "publishedISO": "2026-08-24T11:49:50+02:00",
+      "title": "Et forsvar for «svartmalingen»",
+      "summary": "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden. Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk. Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter.",
       "keyPoints": [
-        "Eldring har registrert at partene har avtalt nytt møte mandag morgen. – Tvungen lønnsnemnd er en siste utvei.",
-        "Siste gang regjeringen grep inn med tvungen lønnsnemnd på grunn av liv og helse var i mars i fjor.",
-        "Skulle det bli tvungen lønnsnemnd, får de streikende vanligvis lønnstillegg på linje med andre. – Men uten sjanse for å få gjennom ting som dreier seg om arbeidsforhold som pauser og lignende.",
-        "Det er AID som avgjør når tvungen lønnsnemndEn prosess der regjeringen avslutter en streik ved å tvinge partene til å akseptere en løsning bestemt av Rikslønnsnemnda. settes inn for å stoppe streik, før beslutningen behandles i Stortinget."
+        "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden.",
+        "Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk.",
+        "Da jeg for noen dager siden skulle ta toget et par stasjoner ut av hovedstaden for et jobboppdrag, var alle avgangene kansellert.",
+        "Men det er riktig på samme måte som når vi sier til barna at «det finnes barn som sulter i verden» for å få dem til å spise opp maten sin."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/6q8MjW/stopper-ikke-streiken-ennaa-tvungen-loennsnemnd-er-siste-utvei",
+      "url": "https://e24.no/norsk-oekonomi/i/pBVR5W/et-forsvar-for-svartmalingen",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7c305471-e0eb-3b4f-ab50-12bb1e2aeb7f?fit=crop&h=675&upscale=true&w=1200&s=3495ba785522f9d56c0cf26793cc45d87d99bf92",
-      "localImage": "assets/news/d2816d53870673.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/a5948ea0-427c-311b-9827-4aab7dae08c5?fit=crop&h=675&upscale=true&w=1200&s=88378a7881c2d36b2c63c975347926cfc31f51df",
+      "localImage": "assets/news/e12a8a14d2ccbc.jpg",
+      "score": 17
     },
     {
       "id": "73d3725a2bf9ec",
@@ -109,6 +109,27 @@
       "score": 17
     },
     {
+      "id": "d2816d53870673",
+      "category": "Økonomi",
+      "published": "23.08. 21:40",
+      "publishedISO": "2026-08-23T21:40:52+02:00",
+      "title": "Stopper ikke streiken ennå: – Tvungen lønnsnemnd er siste utvei",
+      "summary": "Eldring har registrert at partene har avtalt nytt møte mandag morgen. – Tvungen lønnsnemnd er en siste utvei. Skulle det bli tvungen lønnsnemnd, får de streikende vanligvis lønnstillegg på linje med andre. – Men uten sjanse for å få gjennom ting som dreier seg om arbeidsforhold som pauser og lignende. Siste gang regjeringen grep inn med tvungen lønnsnemnd på grunn av liv og helse var i mars i fjor.",
+      "keyPoints": [
+        "Eldring har registrert at partene har avtalt nytt møte mandag morgen. – Tvungen lønnsnemnd er en siste utvei.",
+        "Siste gang regjeringen grep inn med tvungen lønnsnemnd på grunn av liv og helse var i mars i fjor.",
+        "Skulle det bli tvungen lønnsnemnd, får de streikende vanligvis lønnstillegg på linje med andre. – Men uten sjanse for å få gjennom ting som dreier seg om arbeidsforhold som pauser og lignende.",
+        "Det er AID som avgjør når tvungen lønnsnemndEn prosess der regjeringen avslutter en streik ved å tvinge partene til å akseptere en løsning bestemt av Rikslønnsnemnda. settes inn for å stoppe streik, før beslutningen behandles i Stortinget."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/6q8MjW/stopper-ikke-streiken-ennaa-tvungen-loennsnemnd-er-siste-utvei",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7c305471-e0eb-3b4f-ab50-12bb1e2aeb7f?fit=crop&h=675&upscale=true&w=1200&s=3495ba785522f9d56c0cf26793cc45d87d99bf92",
+      "localImage": "assets/news/d2816d53870673.jpg",
+      "score": 15
+    },
+    {
       "id": "0941983ea129f0",
       "category": "Norge",
       "published": "23.08. 16:24",
@@ -130,87 +151,66 @@
       "score": 14
     },
     {
-      "id": "5e2213c558dfea",
+      "id": "47c6e4fb048f81",
       "category": "Økonomi",
-      "published": "24.08. 09:14",
-      "publishedISO": "2026-08-24T09:14:28+02:00",
-      "title": "Aker BP-sjefen: – Superoptimistisk",
-      "summary": "Aker BP-sjefen har tro på at produksjonsfallet på sokkelen kan dempes, men sier at det vil kreve hardt arbeid. –⁠ Konkurransen kommer til å bli tøffere. Konsernsjefen bruker ordet fordi han ser behov for «en revolusjon på produktivitet», altså at man kan levere mer med mindre innsats. – Jeg tror fremtiden på norsk sokkel tilhører de som kan produsere mer med mindre ressurser, Neste generasjon prosjekter må leveres raskere, enklere og til lavere kostnad, mener Aker BP-sjefen. Han antyder at produksjonen på sokkelen kan flate ut og holde seg ganske flat til rundt 2040. – Jeg tror at på norsk sokkel må du ha et tiårsperspektiv, kanskje et 15-årsperspektiv, sier Aker BP-sjefen.",
+      "published": "24.08. 11:59",
+      "publishedISO": "2026-08-24T11:59:34+02:00",
+      "title": "Flygeleder­streiken: Dette krangler de om",
+      "summary": "Flygeledere kan i enkelte tilfeller jobbe opptil 16 timer uten det foreningen mener er en reell pause, ifølge Robert Gjønnes, leder i Norsk Flygelederforening (NFF). – Det er akkurat like uakseptabelt at en flygeleder sitter syv eller åtte timer på jobb uten pause, sier Gjønnes. NFF viser til EU-regelverket, der pause er definert som en hvileperiode der flygelederen ikke skal pålegges å utføre oppgaver. – Vi ønsker at det rammeverket som fremgår av forordningen, følges slik lovens intensjon er, sier Gjønnes. Spekter har tidligere opplyst at Flygelederforeningen har takket nei til lønnstillegg i tråd med frontfagsnormen, i snitt 62 000 kroner til hver flygeleder.",
       "keyPoints": [
-        "Konsernsjefen bruker ordet fordi han ser behov for «en revolusjon på produktivitet», altså at man kan levere mer med mindre innsats. – Jeg tror fremtiden på norsk sokkel tilhører de som kan produsere mer med mindre ressurser, Neste generasjon prosjekter må leveres raskere, enklere og til lavere kostnad, mener Aker BP-sjefen.",
-        "Han antyder at produksjonen på sokkelen kan flate ut og holde seg ganske flat til rundt 2040. – Jeg tror at på norsk sokkel må du ha et tiårsperspektiv, kanskje et 15-årsperspektiv, sier Aker BP-sjefen.",
-        "Aker BP-sjefen har tro på at produksjonsfallet på sokkelen kan dempes, men sier at det vil kreve hardt arbeid. –⁠ Konkurransen kommer til å bli tøffere.",
-        "Holder oljeprisen seg på rundt 90 dollar fatet er disse investeringene nedbetalt på ett års tid, oppga Aker BP-sjefen nylig."
+        "Flygeledere kan i enkelte tilfeller jobbe opptil 16 timer uten det foreningen mener er en reell pause, ifølge Robert Gjønnes, leder i Norsk Flygelederforening (NFF). – Det er akkurat like uakseptabelt at en flygeleder sitter syv eller åtte timer på jobb uten pause, sier Gjønnes.",
+        "Spekter har tidligere opplyst at Flygelederforeningen har takket nei til lønnstillegg i tråd med frontfagsnormen, i snitt 62 000 kroner til hver flygeleder.",
+        "NFF viser til EU-regelverket, der pause er definert som en hvileperiode der flygelederen ikke skal pålegges å utføre oppgaver. – Vi ønsker at det rammeverket som fremgår av forordningen, følges slik lovens intensjon er, sier Gjønnes.",
+        "Mens nervøse passasjerer venter på norske flyplasser, møtes partene til nye samtaler."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/8p7V4E/aker-bp-sjefen-superoptimistisk",
+      "url": "https://e24.no/naeringsliv/i/WveBoL/flygelederstreiken-dette-krangler-de-om",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5666593e-ea4d-3f08-99bf-d6e8d0a349de?fit=crop&h=675&upscale=true&w=1200&s=e41aea44001cb538076e380099f77dd580ee3f43",
-      "localImage": "assets/news/5e2213c558dfea.jpg",
+      "image": "https://akamai.vgc.no/v2/images/f9a53e44-bdd6-32eb-87cc-d3a5f4767d88?fit=crop&h=675&upscale=true&w=1200&s=ed3f6206c57f5b931e0e94c48171d8ff663a2f77",
+      "localImage": "assets/news/47c6e4fb048f81.jpg",
       "score": 13
     },
     {
-      "id": "6ada8baa3c3ff0",
+      "id": "f52df7db6e01a2",
       "category": "Norge",
-      "published": "24.08. 08:54",
-      "publishedISO": "2026-08-24T08:54:35+02:00",
-      "title": "Flygeleiarstreiken held fram med kanselleringar og forseinkingar",
-      "summary": "Flygeleiarstreiken fører også i dag til kanselleringar og forseinkingar. Reisande på belage seg på forseinkingar og kanselleringar utover dagen. Dersom streiken held fram vil det kome fleire forseinkingar utover i veka, seier kommunikasjonssjefen.",
+      "published": "24.08. 11:19",
+      "publishedISO": "2026-08-24T11:19:25+02:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Jakta pågår omtrent i samme området som det ble skutt bjørn i forrige uke, og tillatelsen gjelder til 31 august. Bruddet startet ved midnatt natt til mandag 24. august, og skyldes en feil under fiberarbeid. Politimesteren i Nordland har tiltalt en mann fra Lofoten for vold etter en bytur i Bodø natt til 17. mai, skriver Lofotposten.",
       "keyPoints": [
-        "Flygeleiarstreiken fører også i dag til kanselleringar og forseinkingar.",
-        "Dersom streiken held fram vil det kome fleire forseinkingar utover i veka, seier kommunikasjonssjefen.",
-        "Reisande på belage seg på forseinkingar og kanselleringar utover dagen.",
-        "I dag skal 87.000 reisande innom, like mange som i det verste julerushet og på den travlaste høgsommaren. – Vi reknar med at forseinkingane vil halde fram."
+        "Jakta pågår omtrent i samme området som det ble skutt bjørn i forrige uke, og tillatelsen gjelder til 31 august.",
+        "Politimesteren i Nordland har tiltalt en mann fra Lofoten for vold etter en bytur i Bodø natt til 17. mai, skriver Lofotposten.",
+        "Bruddet startet ved midnatt natt til mandag 24. august, og skyldes en feil under fiberarbeid.",
+        "Det er ikke felt noen bjørn i Saltdal etter at det ble gitt skadefellingstillatelse på nok en bjørn i Saltdal i helga. – Det er funnet to sauekadaver til i dag, ifølge leder for det kommunale fellingslaget, Erling Normann."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/flygeleiarstreiken-held-fram-med-kanselleringar-og-forseinkingar-1.17999096",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Q2jODXU_ANKG_gn1vUbpxgnNGeNOhMSKckGjUu94GoYg.jpg",
-      "localImage": "assets/news/6ada8baa3c3ff0.jpg",
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/f52df7db6e01a2.jpg",
       "score": 13
     },
     {
-      "id": "51739078427eba",
-      "category": "Økonomi",
-      "published": "24.08. 08:28",
-      "publishedISO": "2026-08-24T08:28:01+02:00",
-      "title": "– Har ingen plan B",
-      "summary": "Trafikken på Gardermoen ligner på normalen dagen før streiken trappes opp. – Vi har ingen plan B, sier Kristine Gustavsen Hansen når E24 møter henne i ankomsthallen på Gardermoen mandag morgen. Klokken 8 i dag ble diskusjonene mellom arbeidsgiverorganisasjonen Spekter og Norsk Flygelederforening gjenopptatt på Spekters kontorer i Oslo. Luftrommet over Vestlandet kan oppleve noen forsinkelser utover kvelden.Tromsø vil oppleve noen forsinkelser på formiddagen og gradvis økende forsinkelser utover ettermiddagen, og være stengt fra kl.",
+      "id": "ec67f8bac64a1a",
+      "category": "Norge",
+      "published": "24.08. 10:50",
+      "publishedISO": "2026-08-24T10:50:01+02:00",
+      "title": "Stopper livreddende tilbud: Ida (21) kunne vært død uten",
+      "summary": "Ida Leirbakken fikk stor blødning i halsen etter en operasjon og måtte få blod. – Jeg er evig takknemlig for hjelpen jeg fikk. I høst stoppes ordningen som hjalp Ida i Alta – og som har hjulpet flere i nord. Ida Leirbakken vil gi sin dypeste takk til den anonyme nødblodgiveren som hjalp henne.",
       "keyPoints": [
-        "Trafikken på Gardermoen ligner på normalen dagen før streiken trappes opp. – Vi har ingen plan B, sier Kristine Gustavsen Hansen når E24 møter henne i ankomsthallen på Gardermoen mandag morgen.",
-        "Klokken 8 i dag ble diskusjonene mellom arbeidsgiverorganisasjonen Spekter og Norsk Flygelederforening gjenopptatt på Spekters kontorer i Oslo.",
-        "Luftrommet over Vestlandet kan oppleve noen forsinkelser utover kvelden.Tromsø vil oppleve noen forsinkelser på formiddagen og gradvis økende forsinkelser utover ettermiddagen, og være stengt fra kl.",
-        "Streiken hos flygelederne rammer, nok en dag, reisende over hele landet, etter en helg preget av forsinkelser og kanselleringer."
+        "Ida Leirbakken fikk stor blødning i halsen etter en operasjon og måtte få blod. – Jeg er evig takknemlig for hjelpen jeg fikk.",
+        "I høst stoppes ordningen som hjalp Ida i Alta – og som har hjulpet flere i nord.",
+        "Ida Leirbakken vil gi sin dypeste takk til den anonyme nødblodgiveren som hjalp henne.",
+        "Hun forteller at Nasjonal traumeplan anbefaler tidlig blodtransfusjon ved alvorlige blødninger, men at det ikke er lik tilgang til dette i Norge. – Vandrende blodbanker er et eksempel på et tiltak som kan gjøre det mulig å oppnå den anbefalte behandlingen for pasienter utenfor sykehus som trenger livreddende blodtransfusjon, sier hun."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/XMe25x/har-ingen-plan-b",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3884dfdd-256b-3c07-a02d-3ee18dc06d0b?fit=crop&h=675&upscale=true&w=1200&s=4b6de7053bc358d25734f8d4ffd286b28006dfd5",
-      "localImage": "assets/news/51739078427eba.jpg",
-      "score": 13
-    },
-    {
-      "id": "244195abcb81ca",
-      "category": "Økonomi",
-      "published": "24.08. 08:16",
-      "publishedISO": "2026-08-24T08:16:55+02:00",
-      "title": "Tysk kjempeavtale for Equinor",
-      "summary": "Equinor inngår stor avtale om gassleveranser til tyske Uniper. –⁠ Forlenger vårt kommersielle samarbeid godt inn på 2040-tallet, sier Equinor-sjefen. Den 15-årige avtalen innebærer at Equinor årlig skal levere mer enn 30 terawattimer (om lag 2,8 milliarder kubikkmeter) gass til Uniper. Neste år markerer Norge og Equinor 50 år med gasseksport til Tyskland. – I fem tiår har norsk gass varmet tyske hjem, drevet tysk industri og bidratt til Tysklands energisikkerhet.",
-      "keyPoints": [
-        "Neste år markerer Norge og Equinor 50 år med gasseksport til Tyskland. – I fem tiår har norsk gass varmet tyske hjem, drevet tysk industri og bidratt til Tysklands energisikkerhet.",
-        "Equinor inngår stor avtale om gassleveranser til tyske Uniper. –⁠ Forlenger vårt kommersielle samarbeid godt inn på 2040-tallet, sier Equinor-sjefen.",
-        "Den 15-årige avtalen innebærer at Equinor årlig skal levere mer enn 30 terawattimer (om lag 2,8 milliarder kubikkmeter) gass til Uniper.",
-        "Gassleveransene starter i 2027 og skal vare helt frem til 31. desember 2041, opplyser Equinor. – Vi er fornøyde med å videreføre vårt langvarige partnerskap med Uniper, sier Opedal."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/oE8yag/tysk-kjempeavtale-for-equinor",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4f43d894-4576-365e-9d32-59232b92c1b8?fit=crop&h=675&upscale=true&w=1200&s=9a695eecb5cdfc8a5ffa87f01f70341e811ac771",
-      "localImage": "assets/news/244195abcb81ca.jpg",
+      "url": "https://www.nrk.no/tromsogfinnmark/kjemper-for-a-beholde-vandrende-blodbank-i-finnmark_-ida-_21_-ble-berget-av-ordningen-1.17992052",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/4o_nAgrile86iyj4rOogPw9KVHXdBTKk5GmGYjBjGWSw.jpg",
+      "localImage": "assets/news/ec67f8bac64a1a.jpg",
       "score": 13
     }
   ]
