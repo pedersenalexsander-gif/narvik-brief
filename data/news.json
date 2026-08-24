@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.08.2026 kl. 05:33",
-  "updatedISO": "2026-08-24T05:33:27.888576+02:00",
+  "updatedAt": "24.08.2026 kl. 07:57",
+  "updatedISO": "2026-08-24T07:57:31.752996+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
       "localImage": "assets/news/e46acba4219d53.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "d2816d53870673",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7c305471-e0eb-3b4f-ab50-12bb1e2aeb7f?fit=crop&h=675&upscale=true&w=1200&s=3495ba785522f9d56c0cf26793cc45d87d99bf92",
       "localImage": "assets/news/d2816d53870673.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "5ee74f907ee883",
@@ -85,7 +85,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/TwSVfnCJ-ptrSPGtAxH8sgwJPkdQf6se2rRyjW-ov-Sg.jpg",
       "localImage": "assets/news/73d3725a2bf9ec.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "26bcb0f5088acb",
+      "category": "Norge",
+      "published": "24.08. 07:28",
+      "publishedISO": "2026-08-24T07:28:52+02:00",
+      "title": "Korrespondentbrev fra USA: Trump strammer grepet om utenlandske journalister",
+      "summary": "Trump-administrasjonen strammer grepet om utenlandske journalister i USA. Nå strammer Trump-administrasjonen grepet om utenlandske journalister som dekker USA. I sommer innførte Trump-administrasjonen en stor endring i visumreglene for utenlandske journalister som bor her i USA.",
+      "keyPoints": [
+        "Trump-administrasjonen strammer grepet om utenlandske journalister i USA.",
+        "I sommer innførte Trump-administrasjonen en stor endring i visumreglene for utenlandske journalister som bor her i USA.",
+        "USA føyer seg nå inn i rekken av land som bruker visum som virkemiddel mot utenlandske journalister.",
+        "En av de viktigste nyhetssakene her i USA det siste året har vært den brutale fremferden til innvandringspolitiet ICE."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/korrespondentbrev-fra-usa_-trump-strammer-grepet-om-utenlandske-journalister-1.17997871",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/8filrY2q2PEAUS2Pf8ggRwWVeyyUA0t2kX6Gy-_T5Xfg.jpg",
+      "localImage": "assets/news/26bcb0f5088acb.jpg",
+      "score": 17
     },
     {
       "id": "0941983ea129f0",
@@ -106,70 +127,91 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/bX1LGZXD2e8mSoyca9h7Ng-E5WqwOrBKMa0xSSyUloEQ.jpg",
       "localImage": "assets/news/0941983ea129f0.jpg",
-      "score": 15
-    },
-    {
-      "id": "a46b55065440af",
-      "category": "Norge",
-      "published": "23.08. 11:34",
-      "publishedISO": "2026-08-23T11:34:10+02:00",
-      "title": "Haaland med ny sveis: – Bildene kommer til å gå verden rundt",
-      "summary": "At Haaland gikk målløs av banen var ikke det eneste som var annerledes med jærbuen søndag. – Bildene kommer til å gå verden rundt, sier NRKs fotballekspert Kristoffer Løkberg. I en Instagram-video postet søndag skriver Erling Braut Haaland (26) «Ny sesong, ny sveis», før han henviser til sin egen YouTube-kanal. Men etter at hovedpersonen selv putter en hånd over kamera skjer det: Når hånden forsvinner og man igjen ser storscoreren, er det lange håret borte, og en barbert Haaland med millimeterkort hår kommer til syne. – Kort hår, bryr meg ikke, skriver han i et nytt innlegg der man kan se prosessen fra langt til kort hår.",
-      "keyPoints": [
-        "At Haaland gikk målløs av banen var ikke det eneste som var annerledes med jærbuen søndag. – Bildene kommer til å gå verden rundt, sier NRKs fotballekspert Kristoffer Løkberg.",
-        "I en Instagram-video postet søndag skriver Erling Braut Haaland (26) «Ny sesong, ny sveis», før han henviser til sin egen YouTube-kanal.",
-        "Men etter at hovedpersonen selv putter en hånd over kamera skjer det: Når hånden forsvinner og man igjen ser storscoreren, er det lange håret borte, og en barbert Haaland med millimeterkort hår kommer til syne. – Kort hår, bryr meg ikke, skriver han i et nytt innlegg der man kan se prosessen fra langt til kort hår.",
-        "UBALANSE: Haaland kom til flere sjanser, men ble godt pakket inn av midtstopperne til Bournemouth. – Det er ikke dagen så langt for Erling Braut Haaland, sa Viaplays ekspertkommentator Tor Ole Skullerud, da Haaland kom seg til en stor sjanse 15 minutter før full tid."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/haaland-med-ny-sveis_-_-bildene-kommer-til-a-ga-verden-rundt-1.17998609",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/HBj8IHx9PJrbxxt9HOlb0ArldFZmq72TJac0hc8_WCCg.jpg",
-      "localImage": "assets/news/a46b55065440af.jpg",
       "score": 14
     },
     {
-      "id": "885d54f006d77f",
+      "id": "be6cde65218435",
       "category": "Norge",
-      "published": "23.08. 21:29",
-      "publishedISO": "2026-08-23T21:29:37+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Flygelederstreiken har rammet flytrafikken over store deler av lendet i helgen, også i Nordland. Nijmegen reiser med egen charter, og ettersom ingen er tatt ut i streik i Bodø for øyeblikket, så tror vi at dette skal gå helt fint, sier Simen Pedersen i Bodø/Glimt. Av lag fra Nordland er Rana fortsatt med i cupen, etter å ha slått ut Stålkameratene.",
+      "published": "24.08. 07:14",
+      "publishedISO": "2026-08-24T07:14:32+02:00",
+      "title": "Høyre-sjefen slakter Støre-skolen: Vil ha eksamen med penn og papir",
+      "summary": "Høyre-leder Ine Eriksen Søreide vil ha en mer «klassisk» skole og eksamen med penn og papir for 10.-klassingene. Og hun har selv en fortid som skolepolitiker, som medlem og leder av utdanningskomiteen på Stortinget på 2000-tallet. – Hvordan er Høyre-skolen sånn som du vil ha den? – Vi ønsker oss en lesereform med fysiske bøker med mer høytlesning, mer penn og papir. Kunnskapsminister Kari Nessa Nordtun (Ap) stiller seg ikke avvisende til eksamen med penn og papir.",
       "keyPoints": [
-        "Flygelederstreiken har rammet flytrafikken over store deler av lendet i helgen, også i Nordland.",
-        "Av lag fra Nordland er Rana fortsatt med i cupen, etter å ha slått ut Stålkameratene.",
-        "Nijmegen reiser med egen charter, og ettersom ingen er tatt ut i streik i Bodø for øyeblikket, så tror vi at dette skal gå helt fint, sier Simen Pedersen i Bodø/Glimt.",
-        "De ti motstemmene i Nordland er Hadsel, Øksnes, Lurøy, Hamarøy, Vågan, Fauske, Brønnøy, Lødingen og Vestvågøy, ifølge VG. – Vi har mange små og mellomstore bedrifter i bransjer som sliter fra før av."
+        "Høyre-leder Ine Eriksen Søreide vil ha en mer «klassisk» skole og eksamen med penn og papir for 10.-klassingene.",
+        "Kunnskapsminister Kari Nessa Nordtun (Ap) stiller seg ikke avvisende til eksamen med penn og papir.",
+        "Og hun har selv en fortid som skolepolitiker, som medlem og leder av utdanningskomiteen på Stortinget på 2000-tallet. – Hvordan er Høyre-skolen sånn som du vil ha den? – Vi ønsker oss en lesereform med fysiske bøker med mer høytlesning, mer penn og papir.",
+        "Ine Eriksen Søreide vil ikke være med på at hun og Høyre har snudd på hælen. – Vi har alltid vært opptatt av grunnleggende ferdigheter og de grunnleggende tingene, sier hun. – Det vi foreslår nå, er en mye tydeligere orientering mot det klassiske, det fysiske med bøker, penn og papir, øving, høytlesning og konsentrasjon."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "url": "https://www.nrk.no/norge/hoyre-sjefen-slakter-store-skolen_-vil-ha-eksamen-med-penn-og-papir-1.17997074",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/885d54f006d77f.jpg",
-      "score": 12
+      "image": "https://gfx.nrk.no/azou7YumPjkUT0H9xhfDVABjEjMnXXlVAAlnCJPv8Ttg",
+      "localImage": "assets/news/be6cde65218435.jpg",
+      "score": 13
     },
     {
-      "id": "fde72e96072d48",
-      "category": "Økonomi",
-      "published": "22.08. 11:04",
-      "publishedISO": "2026-08-22T11:04:02+02:00",
-      "title": "Boligbrems i Oslo: – Hadde ventet at det skulle komme noen bud",
-      "summary": "Jeg er kjempeglad i området og elsker å være i byen, men vi har rett og slett ikke råd til en større leilighet i Oslo, sier Withu Wijeyaraj (33) til E24. Statistikk fra Eiendom Norge, FINN og Eiendomsverdi viser at det er betydelig flere boliger til salgs nå enn tidligere år: Pettersen i EIE henter frem noen tall fra hukommelsen: – Sist jeg sjekket var det vel rundt 5.000 boligerFredag ettermiddag var det om lag 5.400 boliger til salgs i Oslo på FINN (brukte og nybygg) til salgs i Oslo. Jeg hadde ventet at det skulle komme noen bud vi kunne vurdere.",
+      "id": "5e4919adc19e8e",
+      "category": "Norge",
+      "published": "24.08. 07:11",
+      "publishedISO": "2026-08-24T07:11:18+02:00",
+      "title": "Seks års fredning har ikke fått laksen tilbake: Nå vurderes nye tiltak",
+      "summary": "Etter seks år med fiskeforbud er det fortsatt ingen bedring for laksen i Tanavassdraget. Han mener man burde sett tydeligere effekt etter seks års fredning. Tilbake på elva håper Harald Persen at uttak av gjedde, og riktige tiltak fra myndighetene, kan bidra til at laksen en dag vender tilbake til Tanavassdraget.",
       "keyPoints": [
-        "Jeg hadde ventet at det skulle komme noen bud vi kunne vurdere.",
-        "Statistikk fra Eiendom Norge, FINN og Eiendomsverdi viser at det er betydelig flere boliger til salgs nå enn tidligere år: Pettersen i EIE henter frem noen tall fra hukommelsen: – Sist jeg sjekket var det vel rundt 5.000 boligerFredag ettermiddag var det om lag 5.400 boliger til salgs i Oslo på FINN (brukte og nybygg) til salgs i Oslo.",
-        "Jeg er kjempeglad i området og elsker å være i byen, men vi har rett og slett ikke råd til en større leilighet i Oslo, sier Withu Wijeyaraj (33) til E24.",
-        "Boligprisene i Oslo er fortsatt de høyeste i landet med god marginI juli var gjennomsnittsprisen på en bolig i Oslo 6,1 millioner kroner, ifølge Eiendom Norge."
+        "Tilbake på elva håper Harald Persen at uttak av gjedde, og riktige tiltak fra myndighetene, kan bidra til at laksen en dag vender tilbake til Tanavassdraget.",
+        "Etter seks år med fiskeforbud er det fortsatt ingen bedring for laksen i Tanavassdraget.",
+        "Han mener man burde sett tydeligere effekt etter seks års fredning.",
+        "Seks år med fredning har gjort at aktiviteten i vassdraget er minimal."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/7pxkV8/boligbrems-i-oslo-hadde-ventet-at-det-skulle-komme-noen-bud",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e1a11b15-14f5-3533-8e01-c74cdc5b2da7?fit=crop&h=675&upscale=true&w=1200&s=6d816ccec9dacde180c4ce3809694bc61ce174b1",
-      "localImage": "assets/news/fde72e96072d48.jpg",
-      "score": 12
+      "url": "https://www.nrk.no/tromsogfinnmark/frykter-gjedda-presser-ut-laksen-i-norges-storste-vassdrag-1.17998021",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/EEOb_ZmSFIKVtHTfp4pgrwYLfilkzKf28XbeZNH0MSGQ.jpg",
+      "localImage": "assets/news/5e4919adc19e8e.jpg",
+      "score": 13
+    },
+    {
+      "id": "e586af8e0281fd",
+      "category": "Norge",
+      "published": "24.08. 07:11",
+      "publishedISO": "2026-08-24T07:11:11+02:00",
+      "title": "Bussjåførar fortviler over nye billettreglar",
+      "summary": "Nye billettreglar fører til at sjåførar må nekte barn utan skulereisekort skyss heim. Tillitsvald fryktar skremte seksåringar vil begynne å gå langs vegen, og krev nye køyrereglar for dei minste. Det var i samband med skulestart at bussjåførane i Vy fekk den nye beskjeden.",
+      "keyPoints": [
+        "Nye billettreglar fører til at sjåførar må nekte barn utan skulereisekort skyss heim.",
+        "Tillitsvald fryktar skremte seksåringar vil begynne å gå langs vegen, og krev nye køyrereglar for dei minste.",
+        "Det var i samband med skulestart at bussjåførane i Vy fekk den nye beskjeden.",
+        "Han kjenner kvardagen bak rattet og merkar den nye verkelegheita på kroppen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/bussjaforar-fortviler-over-nye-billettreglar-1.17996809",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/_XmVS4PWf3CVxM2HMIbM8wZv_T3vz6DQZWOkjpXv6mOg.jpg",
+      "localImage": "assets/news/e586af8e0281fd.webp",
+      "score": 13
+    },
+    {
+      "id": "b7d57b48b26205",
+      "category": "Norge",
+      "published": "24.08. 06:12",
+      "publishedISO": "2026-08-24T06:12:16+02:00",
+      "title": "Ordfører fikk beskjed om at han var alvorlig syk: – Det var beintøft",
+      "summary": "Ordfører i Arendal Robert Cornels Nordli forteller om det han opplevde i vinter, og som var det første tegnet på at noe ikke var som det skulle være. Da han i tillegg fikk sykdom i nær familie og måtte jobbe med mange tunge politiske saker, ble trykket såpass stort at han gikk til fastlegen for å sjekke seg. – Det ble blodprøve, EKG og forskjellig. Nordli sier han fikk vite at det var alvorlig. – Jeg har fått beskjed om at jeg kunne ha dødd av den tilstanden jeg var i.",
+      "keyPoints": [
+        "Nordli sier han fikk vite at det var alvorlig. – Jeg har fått beskjed om at jeg kunne ha dødd av den tilstanden jeg var i.",
+        "Ordfører i Arendal Robert Cornels Nordli forteller om det han opplevde i vinter, og som var det første tegnet på at noe ikke var som det skulle være.",
+        "Da han i tillegg fikk sykdom i nær familie og måtte jobbe med mange tunge politiske saker, ble trykket såpass stort at han gikk til fastlegen for å sjekke seg. – Det ble blodprøve, EKG og forskjellig.",
+        "Å være syk og koble av fra livet som ordfører var ikke lett."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/ordforer-fikk-beskjed-om-at-han-var-alvorlig-syk_-_-det-var-beintoft-1.17998933",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/sKlvBvg2lGeCy6HPqOGeNASRKtwNVIuUg07wzsshSL7Q.jpg",
+      "localImage": "assets/news/b7d57b48b26205.jpg",
+      "score": 13
     }
   ]
 }
