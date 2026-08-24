@@ -1,28 +1,28 @@
 {
-  "updatedAt": "24.08.2026 kl. 18:09",
-  "updatedISO": "2026-08-24T18:09:10.384826+02:00",
+  "updatedAt": "24.08.2026 kl. 19:53",
+  "updatedISO": "2026-08-24T19:53:30.104124+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "e46acba4219d53",
+      "id": "2813c42838b172",
       "category": "Norge",
-      "published": "23.08. 21:25",
-      "publishedISO": "2026-08-23T21:25:32+02:00",
-      "title": "Peter Frølich er sykemeldt etter hjerteinfarkt",
-      "summary": "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt. INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening. I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
+      "published": "24.08. 18:46",
+      "publishedISO": "2026-08-24T18:46:25+02:00",
+      "title": "Minst åtte elgskilt stjålet i Troms: Mistenker NATO-soldater",
+      "summary": "Nestleder i Målselv viltnemnd Tor Eriksen forteller at minst 8–10 varselskilt for elg har forsvunnet i Målselv. – Det er bra høyt opp. Eriksen vet ikke nøyaktig hvor mange skilt som er stjålet, men anslår at det minst er 8–10 skilt som har forsvunnet mellom Bardufoss og Rundhaug. Heller ikke Troms fylkeskommune har full oversikt over hvor mange elgskilt som har forsvunnet. – Vi har mange driftskontrakter og dette skjer fra tid til annet.",
       "keyPoints": [
-        "INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening.",
-        "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt.",
-        "I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
-        "Mona Seljevoll Tjordal, kardiologisk sykepleier og helsefaglig rådgiver hjerte i LHL, mener hjerteinfarktet til Frølich er en påminner om at unge kan rammes. – Først og fremst ønsker vi Peter Frølich god bedring."
+        "Eriksen vet ikke nøyaktig hvor mange skilt som er stjålet, men anslår at det minst er 8–10 skilt som har forsvunnet mellom Bardufoss og Rundhaug.",
+        "Nestleder i Målselv viltnemnd Tor Eriksen forteller at minst 8–10 varselskilt for elg har forsvunnet i Målselv. – Det er bra høyt opp.",
+        "Heller ikke Troms fylkeskommune har full oversikt over hvor mange elgskilt som har forsvunnet. – Vi har mange driftskontrakter og dette skjer fra tid til annet.",
+        "Det er ikke et stort problem i Troms fylke at elgskilt forsvinner."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998966",
+      "url": "https://www.nrk.no/tromsogfinnmark/flere-elgskilt-forsvunnet-i-troms_-mistenker-nato-soldater-1.17999322",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
-      "localImage": "assets/news/e46acba4219d53.jpg",
-      "score": 17
+      "image": "https://gfx.nrk.no/nNISTctnj1QulpwVm6XezArECj3ffA9B5kK1L3rgyrWA.jpg",
+      "localImage": "assets/news/2813c42838b172.jpg",
+      "score": 21
     },
     {
       "id": "1adb293e98bdfc",
@@ -51,12 +51,12 @@
       "published": "24.08. 15:30",
       "publishedISO": "2026-08-24T15:30:29+02:00",
       "title": "Nedgang på Wall Street",
-      "summary": "Pilene peker nedover fra start på Wall Street inn i en nyhetstung uke. Blant aksjene som skiller seg ut er SpaceX med en nedgang på 2,3 prosent. Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
+      "summary": "Pilene peker nedover fra start på Wall Street inn i en nyhetstung uke. Slik ser det ut i 19-tiden for de ledende indeksene: Flere brikkeaksjer, inkludert Micron, AMD og Broadcom faller hendholdsvis 5,49 prosent, 2,8 prosent og 2,02 prosent. Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
       "keyPoints": [
         "Pilene peker nedover fra start på Wall Street inn i en nyhetstung uke.",
         "Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
-        "Blant aksjene som skiller seg ut er SpaceX med en nedgang på 2,3 prosent.",
-        "Flere brikkeaksjer, inkludert Micron, AMD og Broadcom faller hendholdsvis 6,2 prosent, 3,4 prosent og 1,54 prosent."
+        "Slik ser det ut i 19-tiden for de ledende indeksene: Flere brikkeaksjer, inkludert Micron, AMD og Broadcom faller hendholdsvis 5,49 prosent, 2,8 prosent og 2,02 prosent.",
+        "Renten på amerikanske statsobligasjoner med ti års løpetid, som ofte kalles «verdens viktigste rente» fordi den påvirker renter og finansmarkeder over hele verden, ligger mandag ettermiddag på 4,69 prosent."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -65,6 +65,27 @@
       "image": "https://akamai.vgc.no/v2/images/b519fdd6-30e8-32ba-b857-fd0843638c8f?fit=crop&h=675&upscale=true&w=1200&s=f52f4bd62ccdec7ca41bf0671ebc022b1c59df0b",
       "localImage": "assets/news/34d8857b1daa70.jpg",
       "score": 16
+    },
+    {
+      "id": "e46acba4219d53",
+      "category": "Norge",
+      "published": "23.08. 21:25",
+      "publishedISO": "2026-08-23T21:25:32+02:00",
+      "title": "Peter Frølich er sykemeldt etter hjerteinfarkt",
+      "summary": "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt. INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening. I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
+      "keyPoints": [
+        "INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening.",
+        "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt.",
+        "I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
+        "Mona Seljevoll Tjordal, kardiologisk sykepleier og helsefaglig rådgiver hjerte i LHL, mener hjerteinfarktet til Frølich er en påminner om at unge kan rammes. – Først og fremst ønsker vi Peter Frølich god bedring."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998966",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
+      "localImage": "assets/news/e46acba4219d53.jpg",
+      "score": 17
     },
     {
       "id": "b47bc57f73e2df",
@@ -191,27 +212,6 @@
       "image": "https://gfx.nrk.no/8filrY2q2PEAUS2Pf8ggRwWVeyyUA0t2kX6Gy-_T5Xfg.jpg",
       "localImage": "assets/news/26bcb0f5088acb.jpg",
       "score": 15
-    },
-    {
-      "id": "d413c9465542d2",
-      "category": "Norge",
-      "published": "24.08. 16:54",
-      "publishedISO": "2026-08-24T16:54:19+02:00",
-      "title": "NRK-ekspert Kristoffer Løkberg frykter keeper-dilemma for Ørjan Håskjold Nyland",
-      "summary": "Ørjan Håskjold Nyland har byttet klubb etter VM-eventyret. Slik lyder Kristoffer Løkbergs dom over Ørjan Håskjold Nylands start på comebacket i Leipzig. På kort sikt har han fått svaret på at Nyland kan prestere uten spilletid, sier Løkberg. – Men bare glem det, at Nyland er bedre enn Selvik og Tangvik om to år, hvis de har spilt jevnlig og Nyland havner på benken.",
-      "keyPoints": [
-        "Ørjan Håskjold Nyland har byttet klubb etter VM-eventyret.",
-        "Slik lyder Kristoffer Løkbergs dom over Ørjan Håskjold Nylands start på comebacket i Leipzig.",
-        "På kort sikt har han fått svaret på at Nyland kan prestere uten spilletid, sier Løkberg. – Men bare glem det, at Nyland er bedre enn Selvik og Tangvik om to år, hvis de har spilt jevnlig og Nyland havner på benken.",
-        "Løkberg understreker at den tyske klubben skal spille mange kamper fremover. – Men det viktigste for Nyland nå var å komme til en klubb der han ble nummer én."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/nrk-ekspert-kristoffer-lokberg-frykter-keeper-dilemma-for-orjan-haskjold-nyland-1.17999524",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/l9dSOfirRNV2-5_hga6cEgr71F8AFl8kIraOzxfH2XcQ.jpg",
-      "localImage": "assets/news/d413c9465542d2.webp",
-      "score": 13
     }
   ]
 }
