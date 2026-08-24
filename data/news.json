@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.08.2026 kl. 12:25",
-  "updatedISO": "2026-08-24T12:25:17.138539+02:00",
+  "updatedAt": "24.08.2026 kl. 13:51",
+  "updatedISO": "2026-08-24T13:51:07.492370+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
       "localImage": "assets/news/e46acba4219d53.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "dc849cc202bb2c",
+      "category": "Verden",
+      "published": "24.08. 12:40",
+      "publishedISO": "2026-08-24T12:40:22+02:00",
+      "title": "Russia's second-biggest online retailer Ozon targeted in Ukrainian strikes",
+      "summary": "Varehus som tilhører Russlands nest største nettforhandler har blitt rammet av en bølge av ukrainske droneangrep. Russland har målrettet Ukrainas sivile infrastruktur siden den startet sin fullskala invasjon i 2022, og nylige russiske angrep har rammet ukrainske varehus og lasteterminaler. Ozon ble grunnlagt i 1998 og er en av Russlands første nettforhandlere.",
+      "keyPoints": [
+        "Warehouses belonging to Russia's second-largest online retailer have been hit by a wave of Ukrainian drone strikes.",
+        "Russland har målrettet Ukrainas sivile infrastruktur siden den startet sin fullskala invasjon i 2022, og nylige russiske angrep har rammet ukrainske varehus og lasteterminaler.",
+        "Founded in 1998, Ozon is one of Russia's first online retailers.",
+        "Ozon sa at logistikkfasilitetene i de sørlige regionene Krasnodar, Dagestan, Stavropol og Adygea sto i brann og at flere personer ble skadet etter angrep over natten."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f16b/live/039a8ff0-9fa4-11f1-bff6-57f1422ebb0b.jpg",
+      "localImage": "assets/news/dc849cc202bb2c.jpg",
+      "score": 13
     },
     {
       "id": "d45afadc3b62ec",
@@ -30,12 +51,12 @@
       "published": "24.08. 09:01",
       "publishedISO": "2026-08-24T09:01:34+02:00",
       "title": "BW Offshore raser på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs er ned 0,10 prosent rundt kl. BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal. BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
+      "summary": "BW Offshore har tatt milliardnedskriving og kuttet i målene for året. Det har vært flatt på Oslo Børs mandag, og det har bikket fra svak nedgang til svak oppgang. BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er ned 0,10 prosent rundt kl.",
+        "Det har vært flatt på Oslo Børs mandag, og det har bikket fra svak nedgang til svak oppgang.",
         "BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
-        "BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal.",
-        "BW Offshore har tatt milliardnedskriving og kuttet i målene for året."
+        "BW Offshore har tatt milliardnedskriving og kuttet i målene for året.",
+        "BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -67,6 +88,27 @@
       "score": 17
     },
     {
+      "id": "b47bc57f73e2df",
+      "category": "Norge",
+      "published": "24.08. 13:02",
+      "publishedISO": "2026-08-24T13:02:40+02:00",
+      "title": "Økonomisk trøbbel for gruveselskapet ved Førdefjorden",
+      "summary": "PENGELENS: Gruveselskapet ved Førdefjorden er i økonomisk trøbbel. Flagget var heist til topps då gruva ved Førdefjorden opna offisielt i fjor. 15 månader seinare er det full alarm hos Nordic Mining.",
+      "keyPoints": [
+        "PENGELENS: Gruveselskapet ved Førdefjorden er i økonomisk trøbbel.",
+        "Flagget var heist til topps då gruva ved Førdefjorden opna offisielt i fjor.",
+        "15 månader seinare er det full alarm hos Nordic Mining.",
+        "Robert Næss seier situasjonen ikkje er god for Nordic Mining."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/okonomisk-trobbel-for-gruveselskapet-ved-fordefjorden-1.17996884",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Ei5oOnZ1d_izI7xbkVhYbwILVqC6NvqcwRj3tTeJBKMA.jpg",
+      "localImage": "assets/news/b47bc57f73e2df.jpg",
+      "score": 17
+    },
+    {
       "id": "73d3725a2bf9ec",
       "category": "Norge",
       "published": "23.08. 21:25",
@@ -85,7 +127,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/TwSVfnCJ-ptrSPGtAxH8sgwJPkdQf6se2rRyjW-ov-Sg.jpg",
       "localImage": "assets/news/73d3725a2bf9ec.jpg",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "15be4c080f7d8e",
+      "category": "Økonomi",
+      "published": "24.08. 12:57",
+      "publishedISO": "2026-08-24T12:57:20+02:00",
+      "title": "Equinor, Aker BP og Vår Energi: Oljetopper varsler nytt samarbeid",
+      "summary": "Under olje- og energimessen ONS i Stavanger presenteres nyheten av konserndirektør Kjetil Hove i Equinor, konsernsjef Karl Johnny Hersvik i Aker BP og konsernsjef Nick Walker i Vår Energi. Ambisjonen er å bore fire til fem letebrønner årlig i fellesskap. – Det kan bidra til nye, betydelige funn som kan understøtte langsiktig produksjon, skape verdier for våre interessenter og bidra til å opprettholde Norges posisjon som en ansvarlig energileverandør til Europa, sier konsernsjef Nick Walker i Vår Energi. Norske olje- og gasselskaper som Aker BP og Equinor satser på å holde produksjonen oppe langt utover 2030-tallet.",
+      "keyPoints": [
+        "Under olje- og energimessen ONS i Stavanger presenteres nyheten av konserndirektør Kjetil Hove i Equinor, konsernsjef Karl Johnny Hersvik i Aker BP og konsernsjef Nick Walker i Vår Energi.",
+        "Ambisjonen er å bore fire til fem letebrønner årlig i fellesskap. – Det kan bidra til nye, betydelige funn som kan understøtte langsiktig produksjon, skape verdier for våre interessenter og bidra til å opprettholde Norges posisjon som en ansvarlig energileverandør til Europa, sier konsernsjef Nick Walker i Vår Energi.",
+        "Norske olje- og gasselskaper som Aker BP og Equinor satser på å holde produksjonen oppe langt utover 2030-tallet.",
+        "Tidligere mandag hadde både Aker BP og Equinor pressekonferanser under ONS for å snakke om fremtiden på norsk sokkel."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/V6eXEp/equinor-aker-bp-og-vaar-energi-oljetopper-varsler-nytt-samarbeid",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/726a2998-3b32-3063-8a06-25bf1d3948a6?fit=crop&h=675&upscale=true&w=1200&s=a50ed8083bdc2ab29e5cf0dc3564328c1c80fbc9",
+      "localImage": "assets/news/15be4c080f7d8e.jpg",
+      "score": 16
+    },
+    {
+      "id": "21283803fb0962",
+      "category": "Norge",
+      "published": "24.08. 12:26",
+      "publishedISO": "2026-08-24T12:26:22+02:00",
+      "title": "Norge vil trosse EU-nei til oljeboring i Arktis",
+      "summary": "Energiministeren sier Norge vil fortsette å bore etter olje tross EU-nei. Norge vil fortsette å bore etter olje i Barentshavet selv om EU vedtar midlertidig stans på oljeboring i Arktis, sier energiminister Terje Aasland (Ap). Norge anser seg ikke lenger som Europas «grønne batteri», sier Aasland i et intervju med nyhetsbyrået Reuters i forkant av den store oljemessen ONS i Stavanger. – I dagens geopolitiske og sikkerhetsmessige situasjon, og gitt ressurssituasjonen, så mener jeg at fortsatt aktivitet i Barentshavet tjener både norske og europeiske interesser, sier Aasland.",
+      "keyPoints": [
+        "Norge vil fortsette å bore etter olje i Barentshavet selv om EU vedtar midlertidig stans på oljeboring i Arktis, sier energiminister Terje Aasland (Ap).",
+        "Energiministeren sier Norge vil fortsette å bore etter olje tross EU-nei.",
+        "Norge anser seg ikke lenger som Europas «grønne batteri», sier Aasland i et intervju med nyhetsbyrået Reuters i forkant av den store oljemessen ONS i Stavanger. – I dagens geopolitiske og sikkerhetsmessige situasjon, og gitt ressurssituasjonen, så mener jeg at fortsatt aktivitet i Barentshavet tjener både norske og europeiske interesser, sier Aasland.",
+        "Russlands fullskalakrig mot Ukraina har sendt Norge i tet når det gjelder gassforsyningen til Europa, der Norge alene står for 30 prosent av tilførselen av gass til EU og Storbritannia."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/norge-vil-trosse-eu-nei-til-oljeboring-i-arktis-1.17999538",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/s-zRGkcRGWZxhEzlq2Rz5QyizvtEQRHAqh1XroSlgtkg.jpg",
+      "localImage": "assets/news/21283803fb0962.jpg",
+      "score": 16
     },
     {
       "id": "26bcb0f5088acb",
@@ -106,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/8filrY2q2PEAUS2Pf8ggRwWVeyyUA0t2kX6Gy-_T5Xfg.jpg",
       "localImage": "assets/news/26bcb0f5088acb.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d2816d53870673",
@@ -127,91 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7c305471-e0eb-3b4f-ab50-12bb1e2aeb7f?fit=crop&h=675&upscale=true&w=1200&s=3495ba785522f9d56c0cf26793cc45d87d99bf92",
       "localImage": "assets/news/d2816d53870673.jpg",
-      "score": 15
-    },
-    {
-      "id": "0941983ea129f0",
-      "category": "Norge",
-      "published": "23.08. 16:24",
-      "publishedISO": "2026-08-23T16:24:18+02:00",
-      "title": "Vaarin er viktig i krig og kriser: – Det er når det er vondt, at vi trenger å le",
-      "summary": "Nøye og konsentrert prepper Vaarin Pedersen fra Stokke før kveldens forestilling. Og foreløpig er det ganske uklart. – Det er jo når vi har det som verst, at vi trenger kultur som mest. Vaarin var også veldig stille og sjenert som barn. – Kultur har jo en enorm viktighet for mennesker og menneskeheten generelt på alle, alle mulige fronter av det å være et menneske.",
-      "keyPoints": [
-        "Nøye og konsentrert prepper Vaarin Pedersen fra Stokke før kveldens forestilling.",
-        "Vaarin var også veldig stille og sjenert som barn. – Kultur har jo en enorm viktighet for mennesker og menneskeheten generelt på alle, alle mulige fronter av det å være et menneske.",
-        "Og foreløpig er det ganske uklart. – Det er jo når vi har det som verst, at vi trenger kultur som mest.",
-        "Om krisen eller krigen treffer oss er det mange praktiske ting hun kan gjøre. – Men når du har 30 gråtende barn i et bomberom som ikke vet hvor de skal gjøre av seg, og de vet ikke når de skal få se dagslyset igjen.."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/xl/ser-til-ukraina_-derfor-er-musikk-og-teater-like-viktig-som-vann-og-knekkebrod-1.17918230",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/bX1LGZXD2e8mSoyca9h7Ng-E5WqwOrBKMa0xSSyUloEQ.jpg",
-      "localImage": "assets/news/0941983ea129f0.jpg",
       "score": 14
-    },
-    {
-      "id": "47c6e4fb048f81",
-      "category": "Økonomi",
-      "published": "24.08. 11:59",
-      "publishedISO": "2026-08-24T11:59:34+02:00",
-      "title": "Flygeleder­streiken: Dette krangler de om",
-      "summary": "Flygeledere kan i enkelte tilfeller jobbe opptil 16 timer uten det foreningen mener er en reell pause, ifølge Robert Gjønnes, leder i Norsk Flygelederforening (NFF). – Det er akkurat like uakseptabelt at en flygeleder sitter syv eller åtte timer på jobb uten pause, sier Gjønnes. NFF viser til EU-regelverket, der pause er definert som en hvileperiode der flygelederen ikke skal pålegges å utføre oppgaver. – Vi ønsker at det rammeverket som fremgår av forordningen, følges slik lovens intensjon er, sier Gjønnes. Spekter har tidligere opplyst at Flygelederforeningen har takket nei til lønnstillegg i tråd med frontfagsnormen, i snitt 62 000 kroner til hver flygeleder.",
-      "keyPoints": [
-        "Flygeledere kan i enkelte tilfeller jobbe opptil 16 timer uten det foreningen mener er en reell pause, ifølge Robert Gjønnes, leder i Norsk Flygelederforening (NFF). – Det er akkurat like uakseptabelt at en flygeleder sitter syv eller åtte timer på jobb uten pause, sier Gjønnes.",
-        "Spekter har tidligere opplyst at Flygelederforeningen har takket nei til lønnstillegg i tråd med frontfagsnormen, i snitt 62 000 kroner til hver flygeleder.",
-        "NFF viser til EU-regelverket, der pause er definert som en hvileperiode der flygelederen ikke skal pålegges å utføre oppgaver. – Vi ønsker at det rammeverket som fremgår av forordningen, følges slik lovens intensjon er, sier Gjønnes.",
-        "Mens nervøse passasjerer venter på norske flyplasser, møtes partene til nye samtaler."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/WveBoL/flygelederstreiken-dette-krangler-de-om",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f9a53e44-bdd6-32eb-87cc-d3a5f4767d88?fit=crop&h=675&upscale=true&w=1200&s=ed3f6206c57f5b931e0e94c48171d8ff663a2f77",
-      "localImage": "assets/news/47c6e4fb048f81.jpg",
-      "score": 13
-    },
-    {
-      "id": "f52df7db6e01a2",
-      "category": "Norge",
-      "published": "24.08. 11:19",
-      "publishedISO": "2026-08-24T11:19:25+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Jakta pågår omtrent i samme området som det ble skutt bjørn i forrige uke, og tillatelsen gjelder til 31 august. Bruddet startet ved midnatt natt til mandag 24. august, og skyldes en feil under fiberarbeid. Politimesteren i Nordland har tiltalt en mann fra Lofoten for vold etter en bytur i Bodø natt til 17. mai, skriver Lofotposten.",
-      "keyPoints": [
-        "Jakta pågår omtrent i samme området som det ble skutt bjørn i forrige uke, og tillatelsen gjelder til 31 august.",
-        "Politimesteren i Nordland har tiltalt en mann fra Lofoten for vold etter en bytur i Bodø natt til 17. mai, skriver Lofotposten.",
-        "Bruddet startet ved midnatt natt til mandag 24. august, og skyldes en feil under fiberarbeid.",
-        "Det er ikke felt noen bjørn i Saltdal etter at det ble gitt skadefellingstillatelse på nok en bjørn i Saltdal i helga. – Det er funnet to sauekadaver til i dag, ifølge leder for det kommunale fellingslaget, Erling Normann."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/f52df7db6e01a2.jpg",
-      "score": 13
-    },
-    {
-      "id": "ec67f8bac64a1a",
-      "category": "Norge",
-      "published": "24.08. 10:50",
-      "publishedISO": "2026-08-24T10:50:01+02:00",
-      "title": "Stopper livreddende tilbud: Ida (21) kunne vært død uten",
-      "summary": "Ida Leirbakken fikk stor blødning i halsen etter en operasjon og måtte få blod. – Jeg er evig takknemlig for hjelpen jeg fikk. I høst stoppes ordningen som hjalp Ida i Alta – og som har hjulpet flere i nord. Ida Leirbakken vil gi sin dypeste takk til den anonyme nødblodgiveren som hjalp henne.",
-      "keyPoints": [
-        "Ida Leirbakken fikk stor blødning i halsen etter en operasjon og måtte få blod. – Jeg er evig takknemlig for hjelpen jeg fikk.",
-        "I høst stoppes ordningen som hjalp Ida i Alta – og som har hjulpet flere i nord.",
-        "Ida Leirbakken vil gi sin dypeste takk til den anonyme nødblodgiveren som hjalp henne.",
-        "Hun forteller at Nasjonal traumeplan anbefaler tidlig blodtransfusjon ved alvorlige blødninger, men at det ikke er lik tilgang til dette i Norge. – Vandrende blodbanker er et eksempel på et tiltak som kan gjøre det mulig å oppnå den anbefalte behandlingen for pasienter utenfor sykehus som trenger livreddende blodtransfusjon, sier hun."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kjemper-for-a-beholde-vandrende-blodbank-i-finnmark_-ida-_21_-ble-berget-av-ordningen-1.17992052",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/4o_nAgrile86iyj4rOogPw9KVHXdBTKk5GmGYjBjGWSw.jpg",
-      "localImage": "assets/news/ec67f8bac64a1a.jpg",
-      "score": 13
     }
   ]
 }
