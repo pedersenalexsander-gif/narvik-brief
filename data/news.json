@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.08.2026 kl. 16:27",
-  "updatedISO": "2026-08-24T16:27:44.169996+02:00",
+  "updatedAt": "24.08.2026 kl. 18:09",
+  "updatedISO": "2026-08-24T18:09:10.384826+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
       "localImage": "assets/news/e46acba4219d53.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "1adb293e98bdfc",
@@ -46,90 +46,6 @@
       "score": 21
     },
     {
-      "id": "d45afadc3b62ec",
-      "category": "Økonomi",
-      "published": "24.08. 09:01",
-      "publishedISO": "2026-08-24T09:01:34+02:00",
-      "title": "BW Offshore raser på Oslo Børs",
-      "summary": "BW Offshore har tatt milliardnedskriving og kuttet i målene for året. Det har vært flatt på Oslo Børs mandag, og det har bikket fra svak nedgang til svak oppgang. BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
-      "keyPoints": [
-        "Det har vært flatt på Oslo Børs mandag, og det har bikket fra svak nedgang til svak oppgang.",
-        "BW Offshore har derfor tatt en nedskriving på 125 millioner dollar knyttet til BW Opal.",
-        "BW Offshore har tatt milliardnedskriving og kuttet i målene for året.",
-        "BW Offshore, som har oljeproduserende skip til offshore-felt, melder om forsinkelser i den praktiske ferdigstillelsen for skipet BW Opal."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/JOR2MR/oslo-boers-aapner-ned",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0ceed838-c685-3821-98b4-383c5110cbc1?fit=crop&h=675&upscale=true&w=1200&s=066c4dc74689a3a5773641f531733e9d2c312a8e",
-      "localImage": "assets/news/d45afadc3b62ec.jpg",
-      "score": 20
-    },
-    {
-      "id": "b47bc57f73e2df",
-      "category": "Norge",
-      "published": "24.08. 13:02",
-      "publishedISO": "2026-08-24T13:02:40+02:00",
-      "title": "Økonomisk trøbbel for gruveselskapet ved Førdefjorden",
-      "summary": "PENGELENS: Gruveselskapet ved Førdefjorden er i økonomisk trøbbel. Flagget var heist til topps då gruva ved Førdefjorden opna offisielt i fjor. 15 månader seinare er det full alarm hos Nordic Mining.",
-      "keyPoints": [
-        "PENGELENS: Gruveselskapet ved Førdefjorden er i økonomisk trøbbel.",
-        "Flagget var heist til topps då gruva ved Førdefjorden opna offisielt i fjor.",
-        "15 månader seinare er det full alarm hos Nordic Mining.",
-        "Robert Næss seier situasjonen ikkje er god for Nordic Mining."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/okonomisk-trobbel-for-gruveselskapet-ved-fordefjorden-1.17996884",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Ei5oOnZ1d_izI7xbkVhYbwILVqC6NvqcwRj3tTeJBKMA.jpg",
-      "localImage": "assets/news/b47bc57f73e2df.jpg",
-      "score": 17
-    },
-    {
-      "id": "e12a8a14d2ccbc",
-      "category": "Økonomi",
-      "published": "24.08. 11:49",
-      "publishedISO": "2026-08-24T11:49:50+02:00",
-      "title": "Et forsvar for «svartmalingen»",
-      "summary": "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden. Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk. Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter.",
-      "keyPoints": [
-        "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden.",
-        "Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk.",
-        "Da jeg for noen dager siden skulle ta toget et par stasjoner ut av hovedstaden for et jobboppdrag, var alle avgangene kansellert.",
-        "Men det er riktig på samme måte som når vi sier til barna at «det finnes barn som sulter i verden» for å få dem til å spise opp maten sin."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/pBVR5W/et-forsvar-for-svartmalingen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a5948ea0-427c-311b-9827-4aab7dae08c5?fit=crop&h=675&upscale=true&w=1200&s=88378a7881c2d36b2c63c975347926cfc31f51df",
-      "localImage": "assets/news/e12a8a14d2ccbc.jpg",
-      "score": 17
-    },
-    {
-      "id": "73d3725a2bf9ec",
-      "category": "Norge",
-      "published": "23.08. 21:25",
-      "publishedISO": "2026-08-23T21:25:07+02:00",
-      "title": "Energimessa ONS i Stavanger starter med et dramatisk bakteppe",
-      "summary": "Mens krigen i Midtøsten lamslår oljeforsyningen og kriselagrene minker, samles energitoppene i Stavanger. Det er vanskelig å tenke seg et mer pålitelig land enn Norge, og jobben min ville vært langt enklere om det fantes flere som dem, sier han. Han skal på på energimessa ONS i Stavanger som starter på mandag.",
-      "keyPoints": [
-        "Han skal på på energimessa ONS i Stavanger som starter på mandag.",
-        "Mens krigen i Midtøsten lamslår oljeforsyningen og kriselagrene minker, samles energitoppene i Stavanger.",
-        "Det er vanskelig å tenke seg et mer pålitelig land enn Norge, og jobben min ville vært langt enklere om det fantes flere som dem, sier han.",
-        "Mens forrige messe i 2024 var preget av spørsmål knyttet til spionasje fra kinesiske aktører, er årets messe preget av enorme usikkerheter knyttet til den globale energisikkerheten."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/energimessa-ons-i-stavanger-starter-med-et-dramatisk-bakteppe-1.17992605",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/TwSVfnCJ-ptrSPGtAxH8sgwJPkdQf6se2rRyjW-ov-Sg.jpg",
-      "localImage": "assets/news/73d3725a2bf9ec.jpg",
-      "score": 17
-    },
-    {
       "id": "34d8857b1daa70",
       "category": "Økonomi",
       "published": "24.08. 15:30",
@@ -151,6 +67,69 @@
       "score": 16
     },
     {
+      "id": "b47bc57f73e2df",
+      "category": "Norge",
+      "published": "24.08. 13:02",
+      "publishedISO": "2026-08-24T13:02:40+02:00",
+      "title": "Økonomisk trøbbel for gruveselskapet ved Førdefjorden",
+      "summary": "PENGELENS: Gruveselskapet ved Førdefjorden er i økonomisk trøbbel. Flagget var heist til topps då gruva ved Førdefjorden opna offisielt i fjor. 15 månader seinare er det full alarm hos Nordic Mining.",
+      "keyPoints": [
+        "PENGELENS: Gruveselskapet ved Førdefjorden er i økonomisk trøbbel.",
+        "Flagget var heist til topps då gruva ved Førdefjorden opna offisielt i fjor.",
+        "15 månader seinare er det full alarm hos Nordic Mining.",
+        "Robert Næss seier situasjonen ikkje er god for Nordic Mining."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/okonomisk-trobbel-for-gruveselskapet-ved-fordefjorden-1.17996884",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Ei5oOnZ1d_izI7xbkVhYbwILVqC6NvqcwRj3tTeJBKMA.jpg",
+      "localImage": "assets/news/b47bc57f73e2df.jpg",
+      "score": 16
+    },
+    {
+      "id": "e12a8a14d2ccbc",
+      "category": "Økonomi",
+      "published": "24.08. 11:49",
+      "publishedISO": "2026-08-24T11:49:50+02:00",
+      "title": "Et forsvar for «svartmalingen»",
+      "summary": "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden. Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk. Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter.",
+      "keyPoints": [
+        "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden.",
+        "Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk.",
+        "Da jeg for noen dager siden skulle ta toget et par stasjoner ut av hovedstaden for et jobboppdrag, var alle avgangene kansellert.",
+        "Men det er riktig på samme måte som når vi sier til barna at «det finnes barn som sulter i verden» for å få dem til å spise opp maten sin."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/pBVR5W/et-forsvar-for-svartmalingen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a5948ea0-427c-311b-9827-4aab7dae08c5?fit=crop&h=675&upscale=true&w=1200&s=88378a7881c2d36b2c63c975347926cfc31f51df",
+      "localImage": "assets/news/e12a8a14d2ccbc.jpg",
+      "score": 16
+    },
+    {
+      "id": "73d3725a2bf9ec",
+      "category": "Norge",
+      "published": "23.08. 21:25",
+      "publishedISO": "2026-08-23T21:25:07+02:00",
+      "title": "Energimessa ONS i Stavanger starter med et dramatisk bakteppe",
+      "summary": "Mens krigen i Midtøsten lamslår oljeforsyningen og kriselagrene minker, samles energitoppene i Stavanger. Det er vanskelig å tenke seg et mer pålitelig land enn Norge, og jobben min ville vært langt enklere om det fantes flere som dem, sier han. Han skal på på energimessa ONS i Stavanger som starter på mandag.",
+      "keyPoints": [
+        "Han skal på på energimessa ONS i Stavanger som starter på mandag.",
+        "Mens krigen i Midtøsten lamslår oljeforsyningen og kriselagrene minker, samles energitoppene i Stavanger.",
+        "Det er vanskelig å tenke seg et mer pålitelig land enn Norge, og jobben min ville vært langt enklere om det fantes flere som dem, sier han.",
+        "Mens forrige messe i 2024 var preget av spørsmål knyttet til spionasje fra kinesiske aktører, er årets messe preget av enorme usikkerheter knyttet til den globale energisikkerheten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/energimessa-ons-i-stavanger-starter-med-et-dramatisk-bakteppe-1.17992605",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/TwSVfnCJ-ptrSPGtAxH8sgwJPkdQf6se2rRyjW-ov-Sg.jpg",
+      "localImage": "assets/news/73d3725a2bf9ec.jpg",
+      "score": 16
+    },
+    {
       "id": "69ddb6332d4ca5",
       "category": "Norge",
       "published": "24.08. 12:57",
@@ -169,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/AgtPdDpLGCROhR2EVM57XgvEzjJA-cShk-N-63b-hkFg.jpg",
       "localImage": "assets/news/69ddb6332d4ca5.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "15be4c080f7d8e",
@@ -190,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/726a2998-3b32-3063-8a06-25bf1d3948a6?fit=crop&h=675&upscale=true&w=1200&s=a50ed8083bdc2ab29e5cf0dc3564328c1c80fbc9",
       "localImage": "assets/news/15be4c080f7d8e.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "26bcb0f5088acb",
@@ -211,7 +190,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/8filrY2q2PEAUS2Pf8ggRwWVeyyUA0t2kX6Gy-_T5Xfg.jpg",
       "localImage": "assets/news/26bcb0f5088acb.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "d413c9465542d2",
+      "category": "Norge",
+      "published": "24.08. 16:54",
+      "publishedISO": "2026-08-24T16:54:19+02:00",
+      "title": "NRK-ekspert Kristoffer Løkberg frykter keeper-dilemma for Ørjan Håskjold Nyland",
+      "summary": "Ørjan Håskjold Nyland har byttet klubb etter VM-eventyret. Slik lyder Kristoffer Løkbergs dom over Ørjan Håskjold Nylands start på comebacket i Leipzig. På kort sikt har han fått svaret på at Nyland kan prestere uten spilletid, sier Løkberg. – Men bare glem det, at Nyland er bedre enn Selvik og Tangvik om to år, hvis de har spilt jevnlig og Nyland havner på benken.",
+      "keyPoints": [
+        "Ørjan Håskjold Nyland har byttet klubb etter VM-eventyret.",
+        "Slik lyder Kristoffer Løkbergs dom over Ørjan Håskjold Nylands start på comebacket i Leipzig.",
+        "På kort sikt har han fått svaret på at Nyland kan prestere uten spilletid, sier Løkberg. – Men bare glem det, at Nyland er bedre enn Selvik og Tangvik om to år, hvis de har spilt jevnlig og Nyland havner på benken.",
+        "Løkberg understreker at den tyske klubben skal spille mange kamper fremover. – Men det viktigste for Nyland nå var å komme til en klubb der han ble nummer én."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/nrk-ekspert-kristoffer-lokberg-frykter-keeper-dilemma-for-orjan-haskjold-nyland-1.17999524",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/l9dSOfirRNV2-5_hga6cEgr71F8AFl8kIraOzxfH2XcQ.jpg",
+      "localImage": "assets/news/d413c9465542d2.webp",
+      "score": 13
     }
   ]
 }
