@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.08.2026 kl. 01:45",
-  "updatedISO": "2026-08-24T01:45:25.083322+02:00",
+  "updatedAt": "24.08.2026 kl. 05:33",
+  "updatedISO": "2026-08-24T05:33:27.888576+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
       "localImage": "assets/news/e46acba4219d53.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "d2816d53870673",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7c305471-e0eb-3b4f-ab50-12bb1e2aeb7f?fit=crop&h=675&upscale=true&w=1200&s=3495ba785522f9d56c0cf26793cc45d87d99bf92",
       "localImage": "assets/news/d2816d53870673.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "5ee74f907ee883",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/33ac96db-df6e-3c62-85d9-bb1af3aca57c?fit=crop&h=675&upscale=true&w=1200&s=941d756fdc037713b11bb9f703510f9eb563db51",
       "localImage": "assets/news/5ee74f907ee883.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "73d3725a2bf9ec",
@@ -85,7 +85,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/TwSVfnCJ-ptrSPGtAxH8sgwJPkdQf6se2rRyjW-ov-Sg.jpg",
       "localImage": "assets/news/73d3725a2bf9ec.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "0941983ea129f0",
@@ -106,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/bX1LGZXD2e8mSoyca9h7Ng-E5WqwOrBKMa0xSSyUloEQ.jpg",
       "localImage": "assets/news/0941983ea129f0.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "a46b55065440af",
@@ -127,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/HBj8IHx9PJrbxxt9HOlb0ArldFZmq72TJac0hc8_WCCg.jpg",
       "localImage": "assets/news/a46b55065440af.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "885d54f006d77f",
@@ -148,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
       "localImage": "assets/news/885d54f006d77f.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "fde72e96072d48",
@@ -169,48 +169,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e1a11b15-14f5-3533-8e01-c74cdc5b2da7?fit=crop&h=675&upscale=true&w=1200&s=6d816ccec9dacde180c4ce3809694bc61ce174b1",
       "localImage": "assets/news/fde72e96072d48.jpg",
-      "score": 13
-    },
-    {
-      "id": "29435a9e7be165",
-      "category": "Norge",
-      "published": "23.08. 18:57",
-      "publishedISO": "2026-08-23T18:57:33+02:00",
-      "title": "Opplever rotte-økning i byer: Advarer mot smitte",
-      "summary": "Mange rotter fikk et ekstra kull på våren, og vil nok få et ekstra høst-kull før vinteren kommer. Skadedyrfirmaer NRK har snakket med på både Sør- og Østlandet opplever at det er flere rotter og mus nå. – Det er ikke uvanlig med rotter på størrelse med en voksen manns fot, og mange har runde mager. Han har fjernet rotter og mus i over 20 år, og i sommer har han jobbet ekstra mye. – Det har nok vært 15–20 oppdrag om dagen.",
-      "keyPoints": [
-        "Skadedyrfirmaer NRK har snakket med på både Sør- og Østlandet opplever at det er flere rotter og mus nå. – Det er ikke uvanlig med rotter på størrelse med en voksen manns fot, og mange har runde mager.",
-        "Han har fjernet rotter og mus i over 20 år, og i sommer har han jobbet ekstra mye. – Det har nok vært 15–20 oppdrag om dagen.",
-        "Mange rotter fikk et ekstra kull på våren, og vil nok få et ekstra høst-kull før vinteren kommer.",
-        "Gode temperaturer og mye mat har trolig økt omfanget av rotter og mus i flere storbyer i år."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/opplever-rotte-okning-i-byer_-advarer-mot-smitte-1.17995510",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ECx_4ZdP3Gz3Q7rqP0ZccwTJmlLfpGf-D5RXopyVBUSA.jpg",
-      "localImage": "assets/news/29435a9e7be165.jpg",
-      "score": 12
-    },
-    {
-      "id": "adbfaee1e0ae78",
-      "category": "Økonomi",
-      "published": "23.08. 18:34",
-      "publishedISO": "2026-08-23T18:34:49+02:00",
-      "title": "Norwegian: Disse flyene kanselleres mandag morgen",
-      "summary": "Norwegian kansellerer seks fly mandag etter 72 kanselleringer søndag, som følge av flystreiken. Fly mellom Oslo og Bergen, Stavanger og Trondheim kanselleres mandag morgen. Mandag morgen klokken 8 møtes partene for å fortsette forhandlingene.",
-      "keyPoints": [
-        "Fly mellom Oslo og Bergen, Stavanger og Trondheim kanselleres mandag morgen.",
-        "Norwegian kansellerer seks fly mandag etter 72 kanselleringer søndag, som følge av flystreiken.",
-        "Mandag morgen klokken 8 møtes partene for å fortsette forhandlingene.",
-        "Av de 346 planlagte flygningene var 147 kansellert søndag morgen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/Oke1Wb/norwegian-disse-flyene-kanselleres-mandag-morgen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a2bc096d-5997-3ce4-a721-5d617e65b094?fit=crop&h=675&upscale=true&w=1200&s=39bd1d6118c6870ec825b8a500d9c50b9a789ee8",
-      "localImage": "assets/news/adbfaee1e0ae78.jpg",
       "score": 12
     }
   ]
