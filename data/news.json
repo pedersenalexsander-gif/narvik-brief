@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.08.2026 kl. 01:03",
-  "updatedISO": "2026-08-25T01:03:35.735567+02:00",
+  "updatedAt": "25.08.2026 kl. 01:56",
+  "updatedISO": "2026-08-25T01:56:32.972725+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,27 +43,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e2074cda-9e5d-38a7-8293-255a2c366214?fit=crop&h=675&upscale=true&w=1200&s=27b747f232be664f2f8e96cccbaa70b93cf57107",
       "localImage": "assets/news/1adb293e98bdfc.jpg",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "34d8857b1daa70",
+      "id": "e12a8a14d2ccbc",
       "category": "Økonomi",
-      "published": "24.08. 15:30",
-      "publishedISO": "2026-08-24T15:30:29+02:00",
-      "title": "Nedgang på Wall Street",
-      "summary": "Pilene pekte nedover fra start på Wall Street inn i en nyhetstung uke. Flere brikkeaksjer, inkludert Micron, AMD og Broadcom falt henholdsvis 5,83 prosent, 3,49 prosent og 2,63 prosent. Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
+      "published": "24.08. 11:49",
+      "publishedISO": "2026-08-24T11:49:50+02:00",
+      "title": "Et forsvar for «svartmalingen»",
+      "summary": "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden. Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk. Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter.",
       "keyPoints": [
-        "Pilene pekte nedover fra start på Wall Street inn i en nyhetstung uke.",
-        "Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
-        "Flere brikkeaksjer, inkludert Micron, AMD og Broadcom falt henholdsvis 5,83 prosent, 3,49 prosent og 2,63 prosent.",
-        "Renten på amerikanske statsobligasjoner med ti års løpetid, som ofte kalles «verdens viktigste rente» fordi den påvirker renter og finansmarkeder over hele verden, ligger mandag ettermiddag på 4,69 prosent."
+        "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden.",
+        "Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk.",
+        "Da jeg for noen dager siden skulle ta toget et par stasjoner ut av hovedstaden for et jobboppdrag, var alle avgangene kansellert.",
+        "Men det er riktig på samme måte som når vi sier til barna at «det finnes barn som sulter i verden» for å få dem til å spise opp maten sin."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2pXleB/nedgang-paa-wall-street",
+      "url": "https://e24.no/norsk-oekonomi/i/pBVR5W/et-forsvar-for-svartmalingen",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b519fdd6-30e8-32ba-b857-fd0843638c8f?fit=crop&h=675&upscale=true&w=1200&s=f52f4bd62ccdec7ca41bf0671ebc022b1c59df0b",
-      "localImage": "assets/news/34d8857b1daa70.jpg",
+      "image": "https://akamai.vgc.no/v2/images/a5948ea0-427c-311b-9827-4aab7dae08c5?fit=crop&h=675&upscale=true&w=1200&s=88378a7881c2d36b2c63c975347926cfc31f51df",
+      "localImage": "assets/news/e12a8a14d2ccbc.jpg",
       "score": 15
     },
     {
@@ -130,27 +130,6 @@
       "score": 15
     },
     {
-      "id": "e12a8a14d2ccbc",
-      "category": "Økonomi",
-      "published": "24.08. 11:49",
-      "publishedISO": "2026-08-24T11:49:50+02:00",
-      "title": "Et forsvar for «svartmalingen»",
-      "summary": "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden. Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk. Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter.",
-      "keyPoints": [
-        "Det er lov å hate kokte gulrøtter selv om det finnes barn som sulter i verden.",
-        "Da tenkte jeg på Aftenposten-kommentator Andreas Slettholm, som kalte den siste partilederdebatten «et NM i svartmaling». «Er det rart at folk tror det går dårlig her til lands med politikere som dette?» spurte han retorisk.",
-        "Da jeg for noen dager siden skulle ta toget et par stasjoner ut av hovedstaden for et jobboppdrag, var alle avgangene kansellert.",
-        "Men det er riktig på samme måte som når vi sier til barna at «det finnes barn som sulter i verden» for å få dem til å spise opp maten sin."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/pBVR5W/et-forsvar-for-svartmalingen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a5948ea0-427c-311b-9827-4aab7dae08c5?fit=crop&h=675&upscale=true&w=1200&s=88378a7881c2d36b2c63c975347926cfc31f51df",
-      "localImage": "assets/news/e12a8a14d2ccbc.jpg",
-      "score": 15
-    },
-    {
       "id": "73d3725a2bf9ec",
       "category": "Norge",
       "published": "23.08. 21:25",
@@ -170,6 +149,27 @@
       "image": "https://gfx.nrk.no/TwSVfnCJ-ptrSPGtAxH8sgwJPkdQf6se2rRyjW-ov-Sg.jpg",
       "localImage": "assets/news/73d3725a2bf9ec.jpg",
       "score": 15
+    },
+    {
+      "id": "34d8857b1daa70",
+      "category": "Økonomi",
+      "published": "24.08. 15:30",
+      "publishedISO": "2026-08-24T15:30:29+02:00",
+      "title": "Nedgang på Wall Street",
+      "summary": "Pilene pekte nedover fra start på Wall Street inn i en nyhetstung uke. Flere brikkeaksjer, inkludert Micron, AMD og Broadcom falt henholdsvis 5,83 prosent, 3,49 prosent og 2,63 prosent. Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
+      "keyPoints": [
+        "Pilene pekte nedover fra start på Wall Street inn i en nyhetstung uke.",
+        "Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
+        "Flere brikkeaksjer, inkludert Micron, AMD og Broadcom falt henholdsvis 5,83 prosent, 3,49 prosent og 2,63 prosent.",
+        "Renten på amerikanske statsobligasjoner med ti års løpetid, som ofte kalles «verdens viktigste rente» fordi den påvirker renter og finansmarkeder over hele verden, ligger mandag ettermiddag på 4,69 prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/2pXleB/nedgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b519fdd6-30e8-32ba-b857-fd0843638c8f?fit=crop&h=675&upscale=true&w=1200&s=f52f4bd62ccdec7ca41bf0671ebc022b1c59df0b",
+      "localImage": "assets/news/34d8857b1daa70.jpg",
+      "score": 14
     },
     {
       "id": "69ddb6332d4ca5",
