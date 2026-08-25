@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.08.2026 kl. 05:17",
-  "updatedISO": "2026-08-25T05:17:30.544714+02:00",
+  "updatedAt": "25.08.2026 kl. 07:18",
+  "updatedISO": "2026-08-25T07:18:55.491542+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,28 +43,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e2074cda-9e5d-38a7-8293-255a2c366214?fit=crop&h=675&upscale=true&w=1200&s=27b747f232be664f2f8e96cccbaa70b93cf57107",
       "localImage": "assets/news/1adb293e98bdfc.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "34d8857b1daa70",
+      "id": "709104ea7cd5cb",
       "category": "Økonomi",
-      "published": "24.08. 15:30",
-      "publishedISO": "2026-08-24T15:30:29+02:00",
-      "title": "Nedgang på Wall Street",
-      "summary": "Pilene pekte nedover fra start på Wall Street inn i en nyhetstung uke. Flere brikkeaksjer, inkludert Micron, AMD og Broadcom falt henholdsvis 5,83 prosent, 3,49 prosent og 2,63 prosent. Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
+      "published": "25.08. 06:11",
+      "publishedISO": "2026-08-25T06:11:41+02:00",
+      "title": "På tide med en ny fartsgrense",
+      "summary": "Ved fondets 20-årsjubileum skrev jeg at det var tvilsomt om handlingsregelen ville overleve 20 nye år. I skrivende stund er vår felles sparegris verdt nesten 22.000 milliarder kroner. Dermed er en pengebruk på 3 eller 2,7 prosent av fondet blitt fryktelig mye penger.",
       "keyPoints": [
-        "Pilene pekte nedover fra start på Wall Street inn i en nyhetstung uke.",
-        "Nedgangen på Wall Street kommer etter en svak morgen i det asiatiske aksjemarkedet.",
-        "Flere brikkeaksjer, inkludert Micron, AMD og Broadcom falt henholdsvis 5,83 prosent, 3,49 prosent og 2,63 prosent.",
-        "Renten på amerikanske statsobligasjoner med ti års løpetid, som ofte kalles «verdens viktigste rente» fordi den påvirker renter og finansmarkeder over hele verden, ligger mandag ettermiddag på 4,69 prosent."
+        "Ved fondets 20-årsjubileum skrev jeg at det var tvilsomt om handlingsregelen ville overleve 20 nye år.",
+        "Dermed er en pengebruk på 3 eller 2,7 prosent av fondet blitt fryktelig mye penger.",
+        "I skrivende stund er vår felles sparegris verdt nesten 22.000 milliarder kroner.",
+        "Flere av fedrene bak regelen og Oljefondet strides om skaperverket."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2pXleB/nedgang-paa-wall-street",
+      "url": "https://e24.no/norsk-oekonomi/i/pBVwdX/paa-tide-med-en-ny-fartsgrense",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b519fdd6-30e8-32ba-b857-fd0843638c8f?fit=crop&h=675&upscale=true&w=1200&s=f52f4bd62ccdec7ca41bf0671ebc022b1c59df0b",
-      "localImage": "assets/news/34d8857b1daa70.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/3b03517b-b03b-3b3c-9ce5-380202c4d708?fit=crop&h=675&upscale=true&w=1200&s=6ca9fb472a703b32b39c8e01bfc723d4a597223b",
+      "localImage": "assets/news/709104ea7cd5cb.jpg",
+      "score": 16
     },
     {
       "id": "2813c42838b172",
@@ -88,6 +88,27 @@
       "score": 19
     },
     {
+      "id": "dadff87da6b657",
+      "category": "Norge",
+      "published": "25.08. 06:31",
+      "publishedISO": "2026-08-25T06:31:51+02:00",
+      "title": "Høyesterett gir Trump en «midlertidig seier» i spørsmål om poststemmer",
+      "summary": "Beslutningen beskrives som en «midlertidig seier» til Trump av flere medier, blant annet av radiokanalen NPR. I april signerte Trump en presidentordre for å stramme inn på bruken av poststemmer. Dommerne i høyesterett tar ikke stilling til lovligheten av selve presidentordren til Trump.",
+      "keyPoints": [
+        "Beslutningen beskrives som en «midlertidig seier» til Trump av flere medier, blant annet av radiokanalen NPR.",
+        "I april signerte Trump en presidentordre for å stramme inn på bruken av poststemmer.",
+        "Dommerne i høyesterett tar ikke stilling til lovligheten av selve presidentordren til Trump.",
+        "Det er fortsatt høyst uklart hvordan den siste kjennelsen til høyesterett vil påvirke bruken av poststemmer i mellomvalget."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/hoyesterett-gir-trump-en-_midlertidig-seier_-i-sporsmal-om-poststemmer-1.18000354",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/vrtdCZBXfxPFdItaNH2HRQ9SqTf8Xzo2T_V6XHwZgnhg.jpg",
+      "localImage": "assets/news/dadff87da6b657.jpg",
+      "score": 17
+    },
+    {
       "id": "e46acba4219d53",
       "category": "Norge",
       "published": "23.08. 21:25",
@@ -107,27 +128,6 @@
       "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
       "localImage": "assets/news/e46acba4219d53.jpg",
       "score": 15
-    },
-    {
-      "id": "b47bc57f73e2df",
-      "category": "Norge",
-      "published": "24.08. 13:02",
-      "publishedISO": "2026-08-24T13:02:40+02:00",
-      "title": "Økonomisk trøbbel for gruveselskapet ved Førdefjorden",
-      "summary": "PENGELENS: Gruveselskapet ved Førdefjorden er i økonomisk trøbbel. Flagget var heist til topps då gruva ved Førdefjorden opna offisielt i fjor. 15 månader seinare er det full alarm hos Nordic Mining.",
-      "keyPoints": [
-        "PENGELENS: Gruveselskapet ved Førdefjorden er i økonomisk trøbbel.",
-        "Flagget var heist til topps då gruva ved Førdefjorden opna offisielt i fjor.",
-        "15 månader seinare er det full alarm hos Nordic Mining.",
-        "Robert Næss seier situasjonen ikkje er god for Nordic Mining."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/okonomisk-trobbel-for-gruveselskapet-ved-fordefjorden-1.17996884",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Ei5oOnZ1d_izI7xbkVhYbwILVqC6NvqcwRj3tTeJBKMA.jpg",
-      "localImage": "assets/news/b47bc57f73e2df.jpg",
-      "score": 14
     },
     {
       "id": "e12a8a14d2ccbc",
@@ -172,45 +172,45 @@
       "score": 14
     },
     {
-      "id": "69ddb6332d4ca5",
+      "id": "d9a283eec75696",
       "category": "Norge",
-      "published": "24.08. 12:57",
-      "publishedISO": "2026-08-24T12:57:24+02:00",
-      "title": "Equinor, Aker BP og Vår Energi går sammen om ett mål: Et gigafunn på norsk sokkel",
-      "summary": "Vi rapporterer fra Energimessa ONS i Stavanger De tre største norske oljeselskapene, Equinor, Aker BP og Vår Energi, inngår en samarbeid for å lete etter Norges neste store funn. Men kontrollert, og hvor geologene har fått lov til å diskutere og dataene har fått lov til å sette seg, sier Aker BPs toppsjef Karl Johnny Hersvik. – Norsk sokkel gir 33 prosent av gassen og 20 prosent av oljen som Europa trenger. Nyheten om at Equinor, Aker BP og Vår Energi går nå sammen om å lete etter mer olje og gass kommer samme dag som energiminister Terje Aasland (Ap) sa at Norge skal fortsette å bore etter olje i Arktis.",
+      "published": "25.08. 07:10",
+      "publishedISO": "2026-08-25T07:10:01+02:00",
+      "title": "Molde Elite sin nye trener, Raymond Hamar, er på medaljejakt",
+      "summary": "Nå vil Raymond Hamar ta Molde til toppen av norsk handball. NY TRENER: Raymond Hamar er klar for å jakte medaljer med Molde Elite. Hvordan Raymond Hamar og Anniken Obaidli setter sitt preg på Molde får vi det første svaret på søndag når Molde serieåpner hjemme mot Fjellhamar.",
       "keyPoints": [
-        "Nyheten om at Equinor, Aker BP og Vår Energi går nå sammen om å lete etter mer olje og gass kommer samme dag som energiminister Terje Aasland (Ap) sa at Norge skal fortsette å bore etter olje i Arktis.",
-        "Vi rapporterer fra Energimessa ONS i Stavanger De tre største norske oljeselskapene, Equinor, Aker BP og Vår Energi, inngår en samarbeid for å lete etter Norges neste store funn.",
-        "Men kontrollert, og hvor geologene har fått lov til å diskutere og dataene har fått lov til å sette seg, sier Aker BPs toppsjef Karl Johnny Hersvik. – Norsk sokkel gir 33 prosent av gassen og 20 prosent av oljen som Europa trenger.",
-        "Arbeidet starter i 2028 og skal gå over en periode på fire til fem år. – Det er et historisk øyeblikk hvor vi har besluttet å samarbeide og lete sammen etter mulighetene på norsk sokkel."
+        "NY TRENER: Raymond Hamar er klar for å jakte medaljer med Molde Elite.",
+        "Nå vil Raymond Hamar ta Molde til toppen av norsk handball.",
+        "Hvordan Raymond Hamar og Anniken Obaidli setter sitt preg på Molde får vi det første svaret på søndag når Molde serieåpner hjemme mot Fjellhamar.",
+        "NRK sin handballkommentator Patrick Sten Rowlands sier publikum i Molde kommer til å merke at laget har fått en ny sjef. – Hamar tilfører en taktisk kløkt som Molde kan nyte godt av."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/equinor_-aker-bp-og-var-energi-gar-sammen-om-ett-mal_-et-gigafunn-pa-norsk-sokkel-1.17999206",
+      "url": "https://www.nrk.no/mr/molde-elite-sin-nye-trener_-raymond-hamar_-er-pa-medaljejakt-1.17994299",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/AgtPdDpLGCROhR2EVM57XgvEzjJA-cShk-N-63b-hkFg.jpg",
-      "localImage": "assets/news/69ddb6332d4ca5.jpg",
+      "image": "https://gfx.nrk.no/mUSxhQmsgsZDz0m8DKGuyAgGq_uMEF3ibOxPoif1cStw.jpg",
+      "localImage": "assets/news/d9a283eec75696.jpg",
       "score": 13
     },
     {
-      "id": "15be4c080f7d8e",
-      "category": "Økonomi",
-      "published": "24.08. 12:57",
-      "publishedISO": "2026-08-24T12:57:20+02:00",
-      "title": "Equinor, Aker BP og Vår Energi: Oljetopper varsler nytt samarbeid",
-      "summary": "Under olje- og energimessen ONS i Stavanger presenteres nyheten av konserndirektør Kjetil Hove i Equinor, konsernsjef Karl Johnny Hersvik i Aker BP og konsernsjef Nick Walker i Vår Energi. Ambisjonen er å bore fire til fem letebrønner årlig i fellesskap. – Det kan bidra til nye, betydelige funn som kan understøtte langsiktig produksjon, skape verdier for våre interessenter og bidra til å opprettholde Norges posisjon som en ansvarlig energileverandør til Europa, sier konsernsjef Nick Walker i Vår Energi. Norske olje- og gasselskaper som Aker BP og Equinor satser på å holde produksjonen oppe langt utover 2030-tallet.",
+      "id": "8befbd7351a5d7",
+      "category": "Norge",
+      "published": "25.08. 07:09",
+      "publishedISO": "2026-08-25T07:09:55+02:00",
+      "title": "Nå teller hvert sekund: Slik skal det nye akuttmottaket redde liv",
+      "summary": "SPENTE: Ambulanseansatte og medarbeiderne ved Sykehuset Telemark er spente på den nye hverdagen som venter dem. Det nye akuttmottaket er den første delen av det nye akuttsenteret som tas i bruk. Overlege Jørn Einar Rasmussen er overbevist om at det nye mottaket kan være med på å redde flere liv. – Før ble pasientene levert på utsiden av sykehuset og trillet inn.",
       "keyPoints": [
-        "Under olje- og energimessen ONS i Stavanger presenteres nyheten av konserndirektør Kjetil Hove i Equinor, konsernsjef Karl Johnny Hersvik i Aker BP og konsernsjef Nick Walker i Vår Energi.",
-        "Ambisjonen er å bore fire til fem letebrønner årlig i fellesskap. – Det kan bidra til nye, betydelige funn som kan understøtte langsiktig produksjon, skape verdier for våre interessenter og bidra til å opprettholde Norges posisjon som en ansvarlig energileverandør til Europa, sier konsernsjef Nick Walker i Vår Energi.",
-        "Norske olje- og gasselskaper som Aker BP og Equinor satser på å holde produksjonen oppe langt utover 2030-tallet.",
-        "Tidligere mandag hadde både Aker BP og Equinor pressekonferanser under ONS for å snakke om fremtiden på norsk sokkel."
+        "Overlege Jørn Einar Rasmussen er overbevist om at det nye mottaket kan være med på å redde flere liv. – Før ble pasientene levert på utsiden av sykehuset og trillet inn.",
+        "Det nye akuttmottaket er den første delen av det nye akuttsenteret som tas i bruk.",
+        "SPENTE: Ambulanseansatte og medarbeiderne ved Sykehuset Telemark er spente på den nye hverdagen som venter dem.",
+        "Legen understreker at de nye lokalene også gjør det langt tryggere for de aller sykeste. – Det er avgjørende at vi kan ta imot kritisk syke pasienter i et kompakt lokale med kort vei til avansert utstyr og et sterkt fagmiljø av leger og sykepleiere."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/V6eXEp/equinor-aker-bp-og-vaar-energi-oljetopper-varsler-nytt-samarbeid",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/726a2998-3b32-3063-8a06-25bf1d3948a6?fit=crop&h=675&upscale=true&w=1200&s=a50ed8083bdc2ab29e5cf0dc3564328c1c80fbc9",
-      "localImage": "assets/news/15be4c080f7d8e.jpg",
+      "url": "https://www.nrk.no/vestfoldogtelemark/apner-nytt-akuttmottak-ved-sykehuset-telemark_-_-tidstap-vil-bli-minimert-betydelig-1.17999690",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/FytpP0HARVuxisZu4w4KbgsUsR92H-wY2-SypqOANwTg.jpg",
+      "localImage": "assets/news/8befbd7351a5d7.webp",
       "score": 13
     }
   ]
