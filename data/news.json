@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.08.2026 kl. 21:48",
-  "updatedISO": "2026-08-25T21:48:01.359056+02:00",
+  "updatedAt": "25.08.2026 kl. 23:02",
+  "updatedISO": "2026-08-25T23:02:27.489872+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,28 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a2da250a-207a-3c9d-b034-2a65a64d393f?fit=crop&h=675&upscale=true&w=1200&s=897011e9f0a47058717c1740b58b975e21f5f5e3",
       "localImage": "assets/news/5f5800cdae9c39.jpg",
-      "score": 26
-    },
-    {
-      "id": "820f7fc19038e5",
-      "category": "Økonomi",
-      "published": "25.08. 15:30",
-      "publishedISO": "2026-08-25T15:30:59+02:00",
-      "title": "Oppgang på Wall Street",
-      "summary": "Slik ser det ut for noen av de ledende indeksene på Wall Street i 18.55-tiden: Brikkeaksjer slår tilbake etter nedgang mandag. Micron og AMD stiger hendholdsvis 1,5 prosent og 4,2 prosent Utviklingen kommer i forkant av Nvidias tallslipp etter stengetid onsdag. Ellers har «verdens viktigste rente», den amerikanske tåringen, falt gjennom dagen til rundt 4,64 prosent fra 4,70 prosent.",
-      "keyPoints": [
-        "Slik ser det ut for noen av de ledende indeksene på Wall Street i 18.55-tiden: Brikkeaksjer slår tilbake etter nedgang mandag.",
-        "Micron og AMD stiger hendholdsvis 1,5 prosent og 4,2 prosent Utviklingen kommer i forkant av Nvidias tallslipp etter stengetid onsdag.",
-        "Ellers har «verdens viktigste rente», den amerikanske tåringen, falt gjennom dagen til rundt 4,64 prosent fra 4,70 prosent.",
-        "Brikkeaksjer slår tilbake dagen før Nvidia kommer med oppdatering."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2pXWLy/oppgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d6a4b3af-cec5-3c92-b41d-2ccc446a64c0?fit=crop&h=675&upscale=true&w=1200&s=6587d440f852b21f236d3cbe8e9d09e95dc0af1a",
-      "localImage": "assets/news/820f7fc19038e5.jpg",
-      "score": 19
+      "score": 25
     },
     {
       "id": "eef0d9af3596e9",
@@ -130,6 +109,27 @@
       "score": 16
     },
     {
+      "id": "85152ed717f014",
+      "category": "Økonomi",
+      "published": "25.08. 15:30",
+      "publishedISO": "2026-08-25T15:30:59+02:00",
+      "title": "Oppgang på Wall Street i påvente av Nvidia-tall",
+      "summary": "Slik endte dagen for noen av de viktigste indeksene på Wall Street: Det som kalles «verdens viktigste rente», den amerikanske tåringen, falt gjennom dagen til rundt 4,63 prosent fra 4,70 prosent. Aksjen steg rundt 1,9 prosent og brøt dermed en syv dager lang tapsrekke – den lengste på nesten fire år, ifølge CNBC. Analytikere venter at inntektene nesten er doblet fra i fjor, til 92 milliarder dollar. – Nvidia gjør absolutt alt riktig akkurat nå.",
+      "keyPoints": [
+        "Slik endte dagen for noen av de viktigste indeksene på Wall Street: Det som kalles «verdens viktigste rente», den amerikanske tåringen, falt gjennom dagen til rundt 4,63 prosent fra 4,70 prosent.",
+        "Aksjen steg rundt 1,9 prosent og brøt dermed en syv dager lang tapsrekke – den lengste på nesten fire år, ifølge CNBC.",
+        "Analytikere venter at inntektene nesten er doblet fra i fjor, til 92 milliarder dollar. – Nvidia gjør absolutt alt riktig akkurat nå.",
+        "Micron og AMD stiger henholdsvis 2,48 prosent og 4,9 prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/2pXWLy/oppgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d6a4b3af-cec5-3c92-b41d-2ccc446a64c0?fit=crop&h=675&upscale=true&w=1200&s=6587d440f852b21f236d3cbe8e9d09e95dc0af1a",
+      "localImage": "assets/news/85152ed717f014.jpg",
+      "score": 16
+    },
+    {
       "id": "2813c42838b172",
       "category": "Norge",
       "published": "24.08. 18:46",
@@ -169,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e2074cda-9e5d-38a7-8293-255a2c366214?fit=crop&h=675&upscale=true&w=1200&s=27b747f232be664f2f8e96cccbaa70b93cf57107",
       "localImage": "assets/news/1adb293e98bdfc.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "aaeb7e91c2da37",
@@ -193,24 +193,24 @@
       "score": 14
     },
     {
-      "id": "1b6b33de060e08",
+      "id": "c070117ad5adee",
       "category": "Norge",
-      "published": "25.08. 21:43",
-      "publishedISO": "2026-08-25T21:43:31+02:00",
-      "title": "Gjert Ingebrigtsen usikker etter beklagelse: – Vet ikke hva jeg skal forvente",
-      "summary": "Friidrettstrener Gjert Ingebrigtsen stiller tirsdag kveld opp i et nytt intervju. NYTT INTERVJU: Gjert Ingebrigtsen lar seg intervjue på nytt av Stavanger Aftenblad tirsdag. Friidrettstrener Gjert Ingebrigtsen sier han ikke vet hva han skal forvente av reaksjoner fra sine barn etter at han i en podkast publisert mandag i Stavanger Aftenblad kom med en beklagelse til sine barn.",
+      "published": "25.08. 22:14",
+      "publishedISO": "2026-08-25T22:14:41+02:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Vi har kontroll på situasjonen, sier operasjonsleder May Wenche Hansen i Nordland politidistrikt. Den høyeste målte hastigheten var 70 kilometer i timen i 50-sonen, opplyser Nordland politidistrikt. Tidligere denne uka meldte Avisa Nordland at Vålerega hadde lagt inn et bud på 15 millioner kroner for Glimts kantspiller Daniel Bassi.",
       "keyPoints": [
-        "Friidrettstrener Gjert Ingebrigtsen sier han ikke vet hva han skal forvente av reaksjoner fra sine barn etter at han i en podkast publisert mandag i Stavanger Aftenblad kom med en beklagelse til sine barn.",
-        "NYTT INTERVJU: Gjert Ingebrigtsen lar seg intervjue på nytt av Stavanger Aftenblad tirsdag.",
-        "Friidrettstrener Gjert Ingebrigtsen stiller tirsdag kveld opp i et nytt intervju.",
-        "Ingebrigtsens beklagelse i Aftenbladet podkast ble imidlertid ikke godt mottatt hos pressekontakt til Jakob, Henrik og Filip Ingebrigtsen, Espen Skoland."
+        "Vi har kontroll på situasjonen, sier operasjonsleder May Wenche Hansen i Nordland politidistrikt.",
+        "Tidligere denne uka meldte Avisa Nordland at Vålerega hadde lagt inn et bud på 15 millioner kroner for Glimts kantspiller Daniel Bassi.",
+        "Den høyeste målte hastigheten var 70 kilometer i timen i 50-sonen, opplyser Nordland politidistrikt.",
+        "Politiet er på stedet og har kontroll på henne, opplyser Nordland politidistrikt."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/gjert-ingebrigtsen-usikker-etter-beklagelse_-_-vet-ikke-hva-jeg-skal-forvente-1.18001356",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0uBprV_IfVukgqHQyW9zngdHgfD0GR91AXRUgjjgznpQ.jpg",
-      "localImage": "assets/news/1b6b33de060e08.jpg",
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/c070117ad5adee.jpg",
       "score": 13
     }
   ]
