@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.08.2026 kl. 16:10",
-  "updatedISO": "2026-08-25T16:10:24.124681+02:00",
+  "updatedAt": "25.08.2026 kl. 18:19",
+  "updatedISO": "2026-08-25T18:19:56.812932+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,12 +9,12 @@
       "published": "25.08. 11:41",
       "publishedISO": "2026-08-25T11:41:11+02:00",
       "title": "Kitron åpner ny fabrikk i Arendal – skal produsere forsvarsmateriell",
-      "summary": "Tirsdag åpnet de ny fabrikk i Arendal. – Kitron i Arendal har hatt en eventyrlig vekst de siste årene. Kitron har rundt 550 ansatte i Arendal, fordelt på fabrikkene i Kilsund og på Longum. Nå er Kitron en av de største private arbeidsgiverne i området. – Kitron er viktig for Arendal.",
+      "summary": "Tirsdag åpnet de ny fabrikk i Arendal. – Kitron i Arendal har hatt en eventyrlig vekst de siste årene. Kitron har rundt 550 ansatte i Arendal, fordelt på fabrikkene i Kilsund og på Longum. Ordfører i Arendal Robert Cornels Nordli (Ap) sier det er utrolig gøy å se Kitron vokse. – Jeg hører rykter om at Kitron vokser veldig raskt, og ingen ting er bedre enn at det skapes flere arbeidsplasser, sier han.",
       "keyPoints": [
         "Tirsdag åpnet de ny fabrikk i Arendal. – Kitron i Arendal har hatt en eventyrlig vekst de siste årene.",
         "Kitron har rundt 550 ansatte i Arendal, fordelt på fabrikkene i Kilsund og på Longum.",
-        "Nå er Kitron en av de største private arbeidsgiverne i området. – Kitron er viktig for Arendal.",
-        "For åtte år siden jobbet det 250 personer for Kitron i Norge. – Som en av de største private arbeidsgiverne i regionen er Kitron stolt av å gjøre denne langsiktige satsingen til beste for lokalsamfunnet og kundene våre, sier Henriksen."
+        "Ordfører i Arendal Robert Cornels Nordli (Ap) sier det er utrolig gøy å se Kitron vokse. – Jeg hører rykter om at Kitron vokser veldig raskt, og ingen ting er bedre enn at det skapes flere arbeidsplasser, sier han.",
+        "Kitron i Norge produserer og monterer teknologi som hovedsakelig brukes i forsvarsmateriell."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/KASjvEb-1i92KIH64p4OOgmyQydHZS3Yim1H8vSVpYbQ.jpg",
       "localImage": "assets/news/cd3a4d5dc24c4b.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "5f5800cdae9c39",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a2da250a-207a-3c9d-b034-2a65a64d393f?fit=crop&h=675&upscale=true&w=1200&s=897011e9f0a47058717c1740b58b975e21f5f5e3",
       "localImage": "assets/news/5f5800cdae9c39.jpg",
-      "score": 27
+      "score": 26
     },
     {
       "id": "820f7fc19038e5",
@@ -127,27 +127,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e2074cda-9e5d-38a7-8293-255a2c366214?fit=crop&h=675&upscale=true&w=1200&s=27b747f232be664f2f8e96cccbaa70b93cf57107",
       "localImage": "assets/news/1adb293e98bdfc.jpg",
-      "score": 17
-    },
-    {
-      "id": "9927c37c4a8f84",
-      "category": "Økonomi",
-      "published": "25.08. 09:00",
-      "publishedISO": "2026-08-25T09:00:45+02:00",
-      "title": "Svak oppgang på Oslo Børs – Kitron stiger kraftig",
-      "summary": "Kitron stiger rundt 9 prosent etter å ha økt guidingen for 2026. Hovedindeksen på Oslo Børs er opp 0,55 prosent rundt kvart på elleve tirsdag formiddag. De tidligere kommuniserte utsiktene var på mellom 900 millioner og 1,05 milliarder euro, og et driftsresultatet (ebit) på mellom 84 og 108 millioner euro. «Kitron forventer nå inntekter på mellom 1050 og 1150 millioner euro.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs er opp 0,55 prosent rundt kvart på elleve tirsdag formiddag.",
-        "Kitron stiger rundt 9 prosent etter å ha økt guidingen for 2026.",
-        "De tidligere kommuniserte utsiktene var på mellom 900 millioner og 1,05 milliarder euro, og et driftsresultatet (ebit) på mellom 84 og 108 millioner euro. «Kitron forventer nå inntekter på mellom 1050 og 1150 millioner euro.",
-        "Det operasjonelle driftsresultaett endte på 1,2 milliarder kroner, en kraftig forbedring fra 524 millioner kroner i fjorårets andre kvartal."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/lnljn9/oppgang-paa-oslo-boers-kitron-stiger-etter-oppjusterte-utsikter",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6ef5870a-d26c-3451-93d7-7ed4f1d52c9e?fit=crop&h=675&upscale=true&w=1200&s=54891f4b124b4f98f645a1a7f37e4fe2ddcdc7ca",
-      "localImage": "assets/news/9927c37c4a8f84.jpg",
       "score": 16
     },
     {
@@ -190,27 +169,48 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3b03517b-b03b-3b3c-9ce5-380202c4d708?fit=crop&h=675&upscale=true&w=1200&s=6ca9fb472a703b32b39c8e01bfc723d4a597223b",
       "localImage": "assets/news/709104ea7cd5cb.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "8e59ccf6bd14af",
+      "id": "5f39a31d26c022",
       "category": "Norge",
-      "published": "25.08. 16:04",
-      "publishedISO": "2026-08-25T16:04:11+02:00",
-      "title": "Nyhetssenter Troms og Finnmark",
-      "summary": "Statsforvalter i Troms og Finnmark, Runar Sjåstad, tilråder at Tromsø kommune kommer under Robek-styre. Robek står for register om betinget godkjenning og kontroll, og er et statlig register over kommuner og fylkeskommuner i økonomisk ubalanse Det er Kommunal – og distriktsdepartementet som endelig avgjør om Tromsø kommune skal registreres i registeret. 23-åringen, som har draktnummer 18, gjennomfører sin første trening med FFK i dag og forventes å bli en del av troppen som møter Lillestrøm på Åråsen førstkommende søndag, det skriver Fredrikstad Blad Norges Råfisklag melder at det i forrige uke 34 ble omsatt 64 tonn kongekrabbe til en verdi av 15 millioner. – Det er en økning fra 58 tonn i kvantum, men en liten nedgang i verdi fra 16 millioner uken før.",
+      "published": "25.08. 18:15",
+      "publishedISO": "2026-08-25T18:15:11+02:00",
+      "title": "Ordførerne i Lofoten og Vesterålen sier nei til leting i svært omstridt havområde",
+      "summary": "Med dagens politikk vil norsk olje- og gassproduksjon reduseres med over 60 prosent mot 2050, ifølge en felles rapport fra LO, NHO og For å sikre gass til et energihungrig Europa foreslår nå KonKraft – med LO og NHO i spissen – å bygge ut gassressursene i Nordland VI rett utenfor Lofoten og Vesterålen. Det er kommunene, befolkningen og det eksisterende næringslivet her som må få bestemme, sier Sortland-ordfører Grethe Ellingsen (H). – Jeg tenker det er veldig viktig at vi lytter nøye til de andre næringene som allerede finnes, og til hele storregionen Lofoten og Vesterålen, sier ordfører Grethe Ellingsen i Sortland. Framover skal vi satse på fiskeri og turisme, sier Flakstad-ordfører Einar Benjaminsen (H). – Jeg er imot olje- og gassleting utenfor Lofoten og Vesterålen.",
       "keyPoints": [
-        "Statsforvalter i Troms og Finnmark, Runar Sjåstad, tilråder at Tromsø kommune kommer under Robek-styre.",
-        "23-åringen, som har draktnummer 18, gjennomfører sin første trening med FFK i dag og forventes å bli en del av troppen som møter Lillestrøm på Åråsen førstkommende søndag, det skriver Fredrikstad Blad Norges Råfisklag melder at det i forrige uke 34 ble omsatt 64 tonn kongekrabbe til en verdi av 15 millioner. – Det er en økning fra 58 tonn i kvantum, men en liten nedgang i verdi fra 16 millioner uken før.",
-        "Robek står for register om betinget godkjenning og kontroll, og er et statlig register over kommuner og fylkeskommuner i økonomisk ubalanse Det er Kommunal – og distriktsdepartementet som endelig avgjør om Tromsø kommune skal registreres i registeret.",
-        "Særlig nordover i landet tror vi at vedvarende kalde temperaturer med regn og gråvær har påvirket tallene, spesielt i øvre deler av Vestland, Trøndelag og Nordland, sier Raa og fortsetter: – Ser vi på Troms kan vi ikke bare skylde på været all den tid det er rekorder på to større samband."
+        "Med dagens politikk vil norsk olje- og gassproduksjon reduseres med over 60 prosent mot 2050, ifølge en felles rapport fra LO, NHO og For å sikre gass til et energihungrig Europa foreslår nå KonKraft – med LO og NHO i spissen – å bygge ut gassressursene i Nordland VI rett utenfor Lofoten og Vesterålen.",
+        "Det er kommunene, befolkningen og det eksisterende næringslivet her som må få bestemme, sier Sortland-ordfører Grethe Ellingsen (H). – Jeg tenker det er veldig viktig at vi lytter nøye til de andre næringene som allerede finnes, og til hele storregionen Lofoten og Vesterålen, sier ordfører Grethe Ellingsen i Sortland.",
+        "Framover skal vi satse på fiskeri og turisme, sier Flakstad-ordfører Einar Benjaminsen (H). – Jeg er imot olje- og gassleting utenfor Lofoten og Vesterålen.",
+        "I mars 2025 foreslo Høyres programkomité å starte en ny konsekvensutredning for de omstridte havområdene utenfor Lofoten, Vesterålen og Senja."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/nyhetssenter-troms-og-finnmark-1.16139260",
+      "url": "https://www.nrk.no/nordland/ordforerne-i-lofoten-og-vesteralen-sier-nei-til-leting-i-svaert-omstridt-havomrade-1.18001297",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Dn8bbYlUs35j6W_llh-PYgE0jlylomheNVdOjM5l38WQ.jpg",
-      "localImage": "assets/news/8e59ccf6bd14af.jpg",
+      "image": "https://gfx.nrk.no/aSymlM9-sVXiugGsCaOV8wVM3uYKvwgUw8ikXaOpzBTA.jpg",
+      "localImage": "assets/news/5f39a31d26c022.webp",
+      "score": 13
+    },
+    {
+      "id": "5a4931ec71661a",
+      "category": "Norge",
+      "published": "25.08. 16:55",
+      "publishedISO": "2026-08-25T16:55:04+02:00",
+      "title": "Kalles «generasjon lat»: Sannheten er at 41.000 ungdommer står i jobbkø",
+      "summary": "Som 16-åring fikk Amalie Megaard Jacobsen en fot innenfor helsevesenet i Fredrikstad gjennom prosjektet «Ung i jobb». Sommeren 2023 fikk hun prøve seg i helsevesenet, og muligheten til å finne ut om dette kunne være noe for henne. – Når man søker seg dit, vet man ikke hva man får jobbe som, men jeg var så heldig at jeg fikk jobb på Østsiden dagsenter. Amalie er en av 349 i aldersgruppen 14–18 år som har fått sin første jobb gjennom satsingen «Ung i jobb-Fritid i Fredrikstad» siden prosjektet startet i 2022. – Jeg tenker at vi alle sammen har et samfunnsoppdrag med å gi ungdom en litt ekstra større sjanse til å komme ut i arbeidslivet, sier Kathrine Almvik Pettersen.",
+      "keyPoints": [
+        "Sommeren 2023 fikk hun prøve seg i helsevesenet, og muligheten til å finne ut om dette kunne være noe for henne. – Når man søker seg dit, vet man ikke hva man får jobbe som, men jeg var så heldig at jeg fikk jobb på Østsiden dagsenter.",
+        "Amalie er en av 349 i aldersgruppen 14–18 år som har fått sin første jobb gjennom satsingen «Ung i jobb-Fritid i Fredrikstad» siden prosjektet startet i 2022. – Jeg tenker at vi alle sammen har et samfunnsoppdrag med å gi ungdom en litt ekstra større sjanse til å komme ut i arbeidslivet, sier Kathrine Almvik Pettersen.",
+        "Som 16-åring fikk Amalie Megaard Jacobsen en fot innenfor helsevesenet i Fredrikstad gjennom prosjektet «Ung i jobb».",
+        "Amalie Megaard Jacobsen hjelper Else Margaret Dahl med stell og rydding i omsorgsboligen til hundreåringen. – God dag Margaret, hva kan jeg hjelpe deg med i dag?"
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ostfold/kalles-_generasjon-lat__-sannheten-er-at-41.000-ungdommer-star-i-jobbko-1.17972287",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/B_1iKNdo1m3UNfBgOvSGbgIXYsG4LL5gyaBnoAXhw6-g.jpg",
+      "localImage": "assets/news/5a4931ec71661a.jpg",
       "score": 13
     }
   ]
