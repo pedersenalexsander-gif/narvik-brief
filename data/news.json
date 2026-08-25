@@ -1,28 +1,70 @@
 {
-  "updatedAt": "25.08.2026 kl. 10:03",
-  "updatedISO": "2026-08-25T10:03:06.439200+02:00",
+  "updatedAt": "25.08.2026 kl. 12:01",
+  "updatedISO": "2026-08-25T12:01:51.201589+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "34bd28436305c2",
+      "id": "eba9c56de7916f",
       "category": "Norge",
-      "published": "24.08. 19:11",
-      "publishedISO": "2026-08-24T19:11:19+02:00",
-      "title": "USA ber land kutte økonomiske forbindelser med Iran",
-      "summary": "– Trump ringer til ledere verden over og ber dem om å kutte økonomiske forbindelser til Iran, sier USAs finansminister, Scott Bessent, under en pressekonferanse mandag ettermiddag. Bessent sier de forventer at andre land gjør lignende grep for å «isolere» Iran. – Ethvert land bør være klar til å møte amerikanske sanksjoner hvis de støtter Iran, sier Bessent. Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
+      "published": "25.08. 11:41",
+      "publishedISO": "2026-08-25T11:41:11+02:00",
+      "title": "Kitron åpner ny fabrikk i Arendal – skal produsere forsvarsmateriell",
+      "summary": "Tirsdag åpner de ny fabrikk i Arendal. – Som en av de største private arbeidsgiverne i regionen er Kitron stolt av å gjøre denne langsiktige satsingen til beste for lokalsamfunnet og kundene våre. På den nye fabrikken på Longum i Arendal skal det jobbe 120 ansatte. Totalt er det rundt 550 ansatte i Arendal, fordelt på fabrikkene i Longum og Kilsund.",
       "keyPoints": [
-        "– Trump ringer til ledere verden over og ber dem om å kutte økonomiske forbindelser til Iran, sier USAs finansminister, Scott Bessent, under en pressekonferanse mandag ettermiddag.",
-        "Bessent sier de forventer at andre land gjør lignende grep for å «isolere» Iran. – Ethvert land bør være klar til å møte amerikanske sanksjoner hvis de støtter Iran, sier Bessent.",
-        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
-        "Det pågår fredsforhandlinger mellom landene, 28. februar utførte Israel og USA et koordinert angrep mot Iran."
+        "Tirsdag åpner de ny fabrikk i Arendal. – Som en av de største private arbeidsgiverne i regionen er Kitron stolt av å gjøre denne langsiktige satsingen til beste for lokalsamfunnet og kundene våre.",
+        "På den nye fabrikken på Longum i Arendal skal det jobbe 120 ansatte.",
+        "Totalt er det rundt 550 ansatte i Arendal, fordelt på fabrikkene i Longum og Kilsund.",
+        "Økningen kom etter søm følge av en børsmelding der selskapet fortalte om stor etterspørsel og mindre usikkerhet i forsyningskjedene. «Kitron forventer nå driftsinntekter mellom 1050 og 1150 millioner euro."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/usa-ber-land-kutte-okonomiske-forbindelser-med-iran-1.17999795",
+      "url": "https://www.nrk.no/sorlandet/kitron-apner-ny-fabrikk-i-arendal-_-skal-produsere-forsvarsmateriell-1.18000564",
       "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/34bd28436305c2.jpg",
-      "score": 19
+      "image": "https://gfx.nrk.no/YdMiXSOSAKxlcv86-7kfXQzqIk1dLQiHlTNH8VKK4I-w.jpg",
+      "localImage": "assets/news/eba9c56de7916f.jpg",
+      "score": 21
+    },
+    {
+      "id": "9de7c7c7d90ccc",
+      "category": "Verden",
+      "published": "25.08. 04:51",
+      "publishedISO": "2026-08-25T04:51:53+02:00",
+      "title": "US-Canada trade war heats up as Trump threatens to hike auto tariffs",
+      "summary": "Se: «Absolutt latterlig»: Kanadiere reagerer på nye tollspenninger med USAs president Donald Trump har truet med å heve amerikanske tollsatser på biler med opprinnelse i Canada, ettersom handelskrigen mellom de to naboene fortsetter å varmes opp. Trump sa mandag at han vil øke tollsatsene på kanadiske biler og lastebiler, samt bildeler, fra 25 % til 50 % fra 1. januar. Isbryterne skal brukes til å åpne vinterfartsruter gjennom Canadas nordlige og atlantiske farvann. «Trump undervurderer oss»: Doug Ford tar sikte på USA over toll I mellomtiden svarte Ontarios frittalende premier, Doug Ford, hvis provins er hjemsted for Canadas bilindustri, på Trumps tariffer og trusler ved å be den amerikanske presidenten «kysse meg i ræva».",
+      "keyPoints": [
+        "Se: «Absolutt latterlig»: Kanadiere reagerer på nye tollspenninger med USAs president Donald Trump har truet med å heve amerikanske tollsatser på biler med opprinnelse i Canada, ettersom handelskrigen mellom de to naboene fortsetter å varmes opp.",
+        "Trump sa mandag at han vil øke tollsatsene på kanadiske biler og lastebiler, samt bildeler, fra 25 % til 50 % fra 1. januar.",
+        "Isbryterne skal brukes til å åpne vinterfartsruter gjennom Canadas nordlige og atlantiske farvann. «Trump undervurderer oss»: Doug Ford tar sikte på USA over toll I mellomtiden svarte Ontarios frittalende premier, Doug Ford, hvis provins er hjemsted for Canadas bilindustri, på Trumps tariffer og trusler ved å be den amerikanske presidenten «kysse meg i ræva».",
+        "Sent på mandag kunngjorde Canadas tjenestemenn en pressekonferanse tirsdag hvor de ville skissere hvordan landet ville svare på handelskrigen og jobbe for å \"beskytte og støtte kanadiske arbeidere og bedrifter i disse utfordrende tidene\"."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e240/live/5807d190-a019-11f1-bdcd-87d2835ec878.jpg",
+      "localImage": "assets/news/9de7c7c7d90ccc.jpg",
+      "score": 16
+    },
+    {
+      "id": "9927c37c4a8f84",
+      "category": "Økonomi",
+      "published": "25.08. 09:00",
+      "publishedISO": "2026-08-25T09:00:45+02:00",
+      "title": "Svak oppgang på Oslo Børs – Kitron stiger kraftig",
+      "summary": "Kitron stiger rundt 9 prosent etter å ha økt guidingen for 2026. Hovedindeksen på Oslo Børs er opp 0,55 prosent rundt kvart på elleve tirsdag formiddag. De tidligere kommuniserte utsiktene var på mellom 900 millioner og 1,05 milliarder euro, og et driftsresultatet (ebit) på mellom 84 og 108 millioner euro. «Kitron forventer nå inntekter på mellom 1050 og 1150 millioner euro.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er opp 0,55 prosent rundt kvart på elleve tirsdag formiddag.",
+        "Kitron stiger rundt 9 prosent etter å ha økt guidingen for 2026.",
+        "De tidligere kommuniserte utsiktene var på mellom 900 millioner og 1,05 milliarder euro, og et driftsresultatet (ebit) på mellom 84 og 108 millioner euro. «Kitron forventer nå inntekter på mellom 1050 og 1150 millioner euro.",
+        "Det operasjonelle driftsresultaett endte på 1,2 milliarder kroner, en kraftig forbedring fra 524 millioner kroner i fjorårets andre kvartal."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/lnljn9/oppgang-paa-oslo-boers-kitron-stiger-etter-oppjusterte-utsikter",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6ef5870a-d26c-3451-93d7-7ed4f1d52c9e?fit=crop&h=675&upscale=true&w=1200&s=54891f4b124b4f98f645a1a7f37e4fe2ddcdc7ca",
+      "localImage": "assets/news/9927c37c4a8f84.jpg",
+      "score": 17
     },
     {
       "id": "1adb293e98bdfc",
@@ -43,6 +85,69 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e2074cda-9e5d-38a7-8293-255a2c366214?fit=crop&h=675&upscale=true&w=1200&s=27b747f232be664f2f8e96cccbaa70b93cf57107",
       "localImage": "assets/news/1adb293e98bdfc.jpg",
+      "score": 17
+    },
+    {
+      "id": "b6400c3aba431c",
+      "category": "AI",
+      "published": "24.08. 18:03",
+      "publishedISO": "2026-08-24T18:03:24+02:00",
+      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
+      "summary": "Se: Å glorifisere farlig kjøring er \"uakseptabelt\", sier statsministeren. Regjeringen har oppfordret sosiale medieselskaper til å fjerne innlegg som feirer farlig kjøring, ettersom statsminister Andy Burnham merket å dele dem som \"virkelig forkastelig\". En TikTok-konto som antas å tilhøre en av de fem passasjerene, 18 år gamle Makai Saddington, har tidligere delt videoer som ser ut til å vise farlig kjøring, som siden har blitt fjernet. Se: Innhold som feirer farlig kjøring «bør ikke være online», sier den britiske forsvarsministeren. Videoinnhold som inneholder ulovlig aktivitet er ikke nødvendigvis ulovlig i seg selv – i henhold til Online Safety Act – er det opp til det sosiale nettverket å avgjøre om flagget innhold er ulovlig og handle deretter.",
+      "keyPoints": [
+        "Se: Å glorifisere farlig kjøring er \"uakseptabelt\", sier statsministeren. Regjeringen har oppfordret sosiale medieselskaper til å fjerne innlegg som feirer farlig kjøring, ettersom statsminister Andy Burnham merket å dele dem som \"virkelig forkastelig\".",
+        "En TikTok-konto som antas å tilhøre en av de fem passasjerene, 18 år gamle Makai Saddington, har tidligere delt videoer som ser ut til å vise farlig kjøring, som siden har blitt fjernet.",
+        "Se: Innhold som feirer farlig kjøring «bør ikke være online», sier den britiske forsvarsministeren. Videoinnhold som inneholder ulovlig aktivitet er ikke nødvendigvis ulovlig i seg selv – i henhold til Online Safety Act – er det opp til det sosiale nettverket å avgjøre om flagget innhold er ulovlig og handle deretter.",
+        "TikTok sa at deres retningslinjer forbyr innhold som kan forårsake betydelig fysisk skade, inkludert farlig kjøring."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e91/live/1f2e1410-9fb0-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/b6400c3aba431c.jpg",
+      "score": 14
+    },
+    {
+      "id": "34bd28436305c2",
+      "category": "Norge",
+      "published": "24.08. 19:11",
+      "publishedISO": "2026-08-24T19:11:19+02:00",
+      "title": "USA ber land kutte økonomiske forbindelser med Iran",
+      "summary": "– Trump ringer til ledere verden over og ber dem om å kutte økonomiske forbindelser til Iran, sier USAs finansminister, Scott Bessent, under en pressekonferanse mandag ettermiddag. Bessent sier de forventer at andre land gjør lignende grep for å «isolere» Iran. – Ethvert land bør være klar til å møte amerikanske sanksjoner hvis de støtter Iran, sier Bessent. Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
+      "keyPoints": [
+        "– Trump ringer til ledere verden over og ber dem om å kutte økonomiske forbindelser til Iran, sier USAs finansminister, Scott Bessent, under en pressekonferanse mandag ettermiddag.",
+        "Bessent sier de forventer at andre land gjør lignende grep for å «isolere» Iran. – Ethvert land bør være klar til å møte amerikanske sanksjoner hvis de støtter Iran, sier Bessent.",
+        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
+        "Det pågår fredsforhandlinger mellom landene, 28. februar utførte Israel og USA et koordinert angrep mot Iran."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/usa-ber-land-kutte-okonomiske-forbindelser-med-iran-1.17999795",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/34bd28436305c2.jpg",
+      "score": 18
+    },
+    {
+      "id": "2813c42838b172",
+      "category": "Norge",
+      "published": "24.08. 18:46",
+      "publishedISO": "2026-08-24T18:46:25+02:00",
+      "title": "Minst åtte elgskilt stjålet i Troms: Mistenker NATO-soldater",
+      "summary": "Nestleder i Målselv viltnemnd Tor Eriksen forteller at minst 8–10 varselskilt for elg har forsvunnet i Målselv. – Det er bra høyt opp. Eriksen vet ikke nøyaktig hvor mange skilt som er stjålet, men anslår at det minst er 8–10 skilt som har forsvunnet mellom Bardufoss og Rundhaug. Heller ikke Troms fylkeskommune har full oversikt over hvor mange elgskilt som har forsvunnet. – Vi har mange driftskontrakter og dette skjer fra tid til annet.",
+      "keyPoints": [
+        "Eriksen vet ikke nøyaktig hvor mange skilt som er stjålet, men anslår at det minst er 8–10 skilt som har forsvunnet mellom Bardufoss og Rundhaug.",
+        "Nestleder i Målselv viltnemnd Tor Eriksen forteller at minst 8–10 varselskilt for elg har forsvunnet i Målselv. – Det er bra høyt opp.",
+        "Heller ikke Troms fylkeskommune har full oversikt over hvor mange elgskilt som har forsvunnet. – Vi har mange driftskontrakter og dette skjer fra tid til annet.",
+        "Det er ikke et stort problem i Troms fylke at elgskilt forsvinner."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/flere-elgskilt-forsvunnet-i-troms_-mistenker-nato-soldater-1.17999322",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/nNISTctnj1QulpwVm6XezArECj3ffA9B5kK1L3rgyrWA.jpg",
+      "localImage": "assets/news/2813c42838b172.jpg",
       "score": 18
     },
     {
@@ -67,45 +172,24 @@
       "score": 16
     },
     {
-      "id": "2813c42838b172",
-      "category": "Norge",
-      "published": "24.08. 18:46",
-      "publishedISO": "2026-08-24T18:46:25+02:00",
-      "title": "Minst åtte elgskilt stjålet i Troms: Mistenker NATO-soldater",
-      "summary": "Nestleder i Målselv viltnemnd Tor Eriksen forteller at minst 8–10 varselskilt for elg har forsvunnet i Målselv. – Det er bra høyt opp. Eriksen vet ikke nøyaktig hvor mange skilt som er stjålet, men anslår at det minst er 8–10 skilt som har forsvunnet mellom Bardufoss og Rundhaug. Heller ikke Troms fylkeskommune har full oversikt over hvor mange elgskilt som har forsvunnet. – Vi har mange driftskontrakter og dette skjer fra tid til annet.",
-      "keyPoints": [
-        "Eriksen vet ikke nøyaktig hvor mange skilt som er stjålet, men anslår at det minst er 8–10 skilt som har forsvunnet mellom Bardufoss og Rundhaug.",
-        "Nestleder i Målselv viltnemnd Tor Eriksen forteller at minst 8–10 varselskilt for elg har forsvunnet i Målselv. – Det er bra høyt opp.",
-        "Heller ikke Troms fylkeskommune har full oversikt over hvor mange elgskilt som har forsvunnet. – Vi har mange driftskontrakter og dette skjer fra tid til annet.",
-        "Det er ikke et stort problem i Troms fylke at elgskilt forsvinner."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/flere-elgskilt-forsvunnet-i-troms_-mistenker-nato-soldater-1.17999322",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nNISTctnj1QulpwVm6XezArECj3ffA9B5kK1L3rgyrWA.jpg",
-      "localImage": "assets/news/2813c42838b172.jpg",
-      "score": 18
-    },
-    {
-      "id": "9c12e01f98ab71",
+      "id": "0a1afa998c06a9",
       "category": "Norge",
       "published": "25.08. 08:27",
       "publishedISO": "2026-08-25T08:27:36+02:00",
       "title": "Nord-Norge leverte mer til oljebransjen enn noensinne",
-      "summary": "Leverandørindustrien i Nord-Norge leverte varer og tjenester til en verdi av 7,85 milliarder kroner til oljenæringen i 2025. Veksten viser at flere bedrifter i landsdelen har bygget kapasitet og kompetanse som gjør dem i stand til å ta del i større og mer krevende leveranser, sier Ida Woje, prosjektleder for Levert-rapporten i KPB, i en pressemelding. Rapporten viser også at det var 100 flere årsverk i Nord-Norge i 2025 sammenlignet med året før knyttet til oljebransjen og leverandørindustrien.",
+      "summary": "Leverandørindustrien i Nord-Norge leverte varer og tjenester til en verdi av 7,85 milliarder kroner til oljenæringen i 2025. Rapporten viser også at det var 100 flere årsverk i Nord-Norge i 2025 sammenlignet med året før knyttet til oljebransjen og leverandørindustrien. Ifølge Levert-rapporten har Hammerfest LNG på Melkøya og Snøhvit Future-prosjektet stått for mye av veksten i landsdelen. – En klar trend er at mer olje- og gassaktivitet i nord gir mer ringvirkninger i nord.",
       "keyPoints": [
         "Rapporten viser også at det var 100 flere årsverk i Nord-Norge i 2025 sammenlignet med året før knyttet til oljebransjen og leverandørindustrien.",
         "Leverandørindustrien i Nord-Norge leverte varer og tjenester til en verdi av 7,85 milliarder kroner til oljenæringen i 2025.",
-        "Veksten viser at flere bedrifter i landsdelen har bygget kapasitet og kompetanse som gjør dem i stand til å ta del i større og mer krevende leveranser, sier Ida Woje, prosjektleder for Levert-rapporten i KPB, i en pressemelding.",
-        "Ifølge Levert-rapporten har Hammerfest LNG på Melkøya og Snøhvit Future-prosjektet stått for mye av veksten i landsdelen. – En klar trend er at mer olje- og gassaktivitet i nord gir mer ringvirkninger i nord."
+        "Ifølge Levert-rapporten har Hammerfest LNG på Melkøya og Snøhvit Future-prosjektet stått for mye av veksten i landsdelen. – En klar trend er at mer olje- og gassaktivitet i nord gir mer ringvirkninger i nord.",
+        "Veksten viser at flere bedrifter i landsdelen har bygget kapasitet og kompetanse som gjør dem i stand til å ta del i større og mer krevende leveranser, sier Ida Woje, prosjektleder for Levert-rapporten i KPB, i en pressemelding."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/tromsogfinnmark/nord-norge-leverte-mer-til-oljebransjen-enn-noensinne-1.18000390",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/4V85wRpWNZ82Cr4jAnwg7AGq2l0CjI76NDtJno6oMViw.jpg",
-      "localImage": "assets/news/9c12e01f98ab71.jpg",
+      "localImage": "assets/news/0a1afa998c06a9.jpg",
       "score": 16
     },
     {
@@ -127,91 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3b03517b-b03b-3b3c-9ce5-380202c4d708?fit=crop&h=675&upscale=true&w=1200&s=6ca9fb472a703b32b39c8e01bfc723d4a597223b",
       "localImage": "assets/news/709104ea7cd5cb.jpg",
-      "score": 16
-    },
-    {
-      "id": "e46acba4219d53",
-      "category": "Norge",
-      "published": "23.08. 21:25",
-      "publishedISO": "2026-08-23T21:25:32+02:00",
-      "title": "Peter Frølich er sykemeldt etter hjerteinfarkt",
-      "summary": "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt. INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening. I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
-      "keyPoints": [
-        "INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening.",
-        "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt.",
-        "I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
-        "Mona Seljevoll Tjordal, kardiologisk sykepleier og helsefaglig rådgiver hjerte i LHL, mener hjerteinfarktet til Frølich er en påminner om at unge kan rammes. – Først og fremst ønsker vi Peter Frølich god bedring."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998966",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
-      "localImage": "assets/news/e46acba4219d53.jpg",
-      "score": 14
-    },
-    {
-      "id": "095c5942290a3a",
-      "category": "Økonomi",
-      "published": "25.08. 09:34",
-      "publishedISO": "2026-08-25T09:34:00+02:00",
-      "title": "Obos nedbemanner: Kutter rundt 200 ansatte",
-      "summary": "Obos skal kvitte seg med rundt 10 prosent av de ansatte innen utgangen av 2027. Kommunikasjonssjef Thomas Skjennald i Obos sier til E24 at de over tid har jobbet med et forbedringsprogram slik markedet og lønnsomheten i selskapet har vært. – Dette begynte vi å snakke med de ansatte om i april. Mandag hadde de et allmøte der de ga de ansatte en statusoppdatering, som innebærer en reduksjon i antall ansatte. – Vi har sagt at innen utgangen av 2027 ser vi for oss at vi er rundt 200 færre ansatte, sier Skjennald.",
-      "keyPoints": [
-        "Obos skal kvitte seg med rundt 10 prosent av de ansatte innen utgangen av 2027.",
-        "Mandag hadde de et allmøte der de ga de ansatte en statusoppdatering, som innebærer en reduksjon i antall ansatte. – Vi har sagt at innen utgangen av 2027 ser vi for oss at vi er rundt 200 færre ansatte, sier Skjennald.",
-        "Kommunikasjonssjef Thomas Skjennald i Obos sier til E24 at de over tid har jobbet med et forbedringsprogram slik markedet og lønnsomheten i selskapet har vært. – Dette begynte vi å snakke med de ansatte om i april.",
-        "Senere blir det reduksjoner innen alle forretningsområdene, som boligutvikling og forvaltning. – Det handler om å øke inntjening, ta markedsandeler og bli mer lønnsomme samtidig som man kutter kostnader, sier Skjennald. – De ansatte har visst i snart et halvt år at dette er noe vi har jobbet intenst med, så det var ingen stor overraskelse at det ble noen nedskjæringer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/0pXRd0/obos-nedbemanner-kutter-rundt-200-ansatte",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/eace3903-820d-3361-b8c6-8b9931e0c6a5?fit=crop&h=675&upscale=true&w=1200&s=9acd6b17576e00ea9ef9704b8491c8ca3ccd52e9",
-      "localImage": "assets/news/095c5942290a3a.jpg",
-      "score": 13
-    },
-    {
-      "id": "14cc7ac82711a9",
-      "category": "Norge",
-      "published": "25.08. 08:25",
-      "publishedISO": "2026-08-25T08:25:33+02:00",
-      "title": "Dataangrepet mot offentlige tjenester fortsetter",
-      "summary": "Det siste angrepet mot offentlige tjenester har vart i over et døgn. Angrepet startet natt til mandag, og fortsetter nå med «uforminsket styrke», opplyser Digitaliseringsdirektoratet til NRK tirsdag morgen. Konsekvensen er at brukere kan oppleve problemer med pålogging hos offentlige tjenester.",
-      "keyPoints": [
-        "Det siste angrepet mot offentlige tjenester har vart i over et døgn.",
-        "Konsekvensen er at brukere kan oppleve problemer med pålogging hos offentlige tjenester.",
-        "Angrepet startet natt til mandag, og fortsetter nå med «uforminsket styrke», opplyser Digitaliseringsdirektoratet til NRK tirsdag morgen.",
-        "Flere tjenester kan ha begrensninger og driftsforstyrrelser slik at brukere og virksomheter i verste fall vil oppleve litt ventetid, sier han."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/dataangrepet-mot-offentlige-tjenester-fortsetter-1.18000459",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5uTYJvDVdAz7UL5R0IuihAnej1YaTahwFLLltpTm7zyw.jpg",
-      "localImage": "assets/news/14cc7ac82711a9.jpg",
-      "score": 13
-    },
-    {
-      "id": "d9a283eec75696",
-      "category": "Norge",
-      "published": "25.08. 07:10",
-      "publishedISO": "2026-08-25T07:10:01+02:00",
-      "title": "Molde Elite sin nye trener, Raymond Hamar, er på medaljejakt",
-      "summary": "Nå vil Raymond Hamar ta Molde til toppen av norsk handball. NY TRENER: Raymond Hamar er klar for å jakte medaljer med Molde Elite. Hvordan Raymond Hamar og Anniken Obaidli setter sitt preg på Molde får vi det første svaret på søndag når Molde serieåpner hjemme mot Fjellhamar.",
-      "keyPoints": [
-        "NY TRENER: Raymond Hamar er klar for å jakte medaljer med Molde Elite.",
-        "Nå vil Raymond Hamar ta Molde til toppen av norsk handball.",
-        "Hvordan Raymond Hamar og Anniken Obaidli setter sitt preg på Molde får vi det første svaret på søndag når Molde serieåpner hjemme mot Fjellhamar.",
-        "NRK sin handballkommentator Patrick Sten Rowlands sier publikum i Molde kommer til å merke at laget har fått en ny sjef. – Hamar tilfører en taktisk kløkt som Molde kan nyte godt av."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/molde-elite-sin-nye-trener_-raymond-hamar_-er-pa-medaljejakt-1.17994299",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/mUSxhQmsgsZDz0m8DKGuyAgGq_uMEF3ibOxPoif1cStw.jpg",
-      "localImage": "assets/news/d9a283eec75696.jpg",
-      "score": 13
+      "score": 15
     }
   ]
 }
