@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26.08.2026 kl. 00:01",
-  "updatedISO": "2026-08-26T00:01:12.938487+02:00",
+  "updatedAt": "26.08.2026 kl. 01:04",
+  "updatedISO": "2026-08-26T01:04:05.476597+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 17
     },
     {
-      "id": "f3a89b2ad1d033",
-      "category": "Økonomi",
-      "published": "25.08. 19:20",
-      "publishedISO": "2026-08-25T19:20:02+02:00",
-      "title": "Warsh taus om utsiktene: – Risikerer at rentene går mye mer",
-      "summary": "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag. Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A. Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
-      "keyPoints": [
-        "Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
-        "Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A.",
-        "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag.",
-        "Når Warsh snakker på fredag kommer Hov til å følge med på om det blir noen utslag i lange renter, etter renteoppgangen som har vært i markedet i det siste."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/L4eBwQ/warsh-taus-om-utsiktene-risikerer-at-rentene-gaar-mye-mer",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/11a77b16-aa22-3a04-9b4e-3bcd195f5245?fit=crop&h=675&upscale=true&w=1200&s=e337aef878dcdd7cd9e708d3b5bd290c4289c999",
-      "localImage": "assets/news/f3a89b2ad1d033.jpg",
-      "score": 17
-    },
-    {
       "id": "5f0292eedc727e",
       "category": "Økonomi",
       "published": "25.08. 21:43",
@@ -106,6 +85,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/899dc7c5-c87a-33da-8c88-19adc3c40a90?fit=crop&h=675&upscale=true&w=1200&s=18283b6eab78b3f3cd47c12758465fdbe0fdd4a9",
       "localImage": "assets/news/5f0292eedc727e.jpg",
+      "score": 16
+    },
+    {
+      "id": "f3a89b2ad1d033",
+      "category": "Økonomi",
+      "published": "25.08. 19:20",
+      "publishedISO": "2026-08-25T19:20:02+02:00",
+      "title": "Warsh taus om utsiktene: – Risikerer at rentene går mye mer",
+      "summary": "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag. Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A. Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
+      "keyPoints": [
+        "Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
+        "Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A.",
+        "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag.",
+        "Når Warsh snakker på fredag kommer Hov til å følge med på om det blir noen utslag i lange renter, etter renteoppgangen som har vært i markedet i det siste."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/L4eBwQ/warsh-taus-om-utsiktene-risikerer-at-rentene-gaar-mye-mer",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/11a77b16-aa22-3a04-9b4e-3bcd195f5245?fit=crop&h=675&upscale=true&w=1200&s=e337aef878dcdd7cd9e708d3b5bd290c4289c999",
+      "localImage": "assets/news/f3a89b2ad1d033.jpg",
       "score": 16
     },
     {
@@ -148,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nNISTctnj1QulpwVm6XezArECj3ffA9B5kK1L3rgyrWA.jpg",
       "localImage": "assets/news/2813c42838b172.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "1adb293e98bdfc",
@@ -172,27 +172,6 @@
       "score": 15
     },
     {
-      "id": "aaeb7e91c2da37",
-      "category": "Økonomi",
-      "published": "25.08. 09:46",
-      "publishedISO": "2026-08-25T09:46:07+02:00",
-      "title": "Oljetopper bekymret etter gass-sjokk: – Begynner å bli alvorlig",
-      "summary": "Med en kald vinter er det «anyone’s guess» hva priseffekten blir, advarer oljetopp. – Vi er alle bekymret for gassprisen, sier Uniper-sjef Michael Lewis til E24. Karl Johnny Hersvik, sjef i oljeselskapet Aker BP, sier at med bortfallet av LNG, hovedsakelig fra Qatar, er Europa gasslagre lavere enn de pleier å være. – Og så er det ikke så grelt som det kanskje kan se ut til, fordi konsumet er gått ned med rundt 30 prosent også. – Men jeg vil jo si at det etter hvert begynner å bli en alvorlig situasjon, spesielt om man skulle få en skikkelig kald vinter i Europa. Vår Energi-sjef Nick Walker sier Hormuzstredet, men også krigen i Ukraina har en har en effekt på forstyrrelsene globalt, som leder til høyere priser på drivstoff, både gass og olje. – Jeg har lenge hatt et syn om at gassprisene ville bli høyere enn forventet. - Jeg ventet ikke så mye forstyrrelser som dette.",
-      "keyPoints": [
-        "Karl Johnny Hersvik, sjef i oljeselskapet Aker BP, sier at med bortfallet av LNG, hovedsakelig fra Qatar, er Europa gasslagre lavere enn de pleier å være. – Og så er det ikke så grelt som det kanskje kan se ut til, fordi konsumet er gått ned med rundt 30 prosent også. – Men jeg vil jo si at det etter hvert begynner å bli en alvorlig situasjon, spesielt om man skulle få en skikkelig kald vinter i Europa.",
-        "Vår Energi-sjef Nick Walker sier Hormuzstredet, men også krigen i Ukraina har en har en effekt på forstyrrelsene globalt, som leder til høyere priser på drivstoff, både gass og olje. – Jeg har lenge hatt et syn om at gassprisene ville bli høyere enn forventet. - Jeg ventet ikke så mye forstyrrelser som dette.",
-        "Med en kald vinter er det «anyone’s guess» hva priseffekten blir, advarer oljetopp. – Vi er alle bekymret for gassprisen, sier Uniper-sjef Michael Lewis til E24.",
-        "Og så er det «anyone’s guess» hva priskonsekvensen kan bli."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zOQPqw/oljetopper-bekymret-etter-gass-sjokk-begynner-aa-bli-alvorlig",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f0c79f25-7f19-33fe-bd63-75070bda7d42?fit=crop&h=675&upscale=true&w=1200&s=aa536b7bef05ab305273a1171ae0a01fe193af7d",
-      "localImage": "assets/news/aaeb7e91c2da37.jpg",
-      "score": 14
-    },
-    {
       "id": "c070117ad5adee",
       "category": "Norge",
       "published": "25.08. 22:14",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
       "localImage": "assets/news/c070117ad5adee.jpg",
+      "score": 13
+    },
+    {
+      "id": "c587481d703b87",
+      "category": "Norge",
+      "published": "25.08. 20:41",
+      "publishedISO": "2026-08-25T20:41:11+02:00",
+      "title": "Høgtrykk kjem med sommarvêr til Finnmark og resten av Nord-Noreg",
+      "summary": "Folk i Nord-Noreg kan vente seg ein liten smak av sommar denne veka. Men frå onsdag og mot slutten av veka kan folk i nord endeleg nyte nokre dagar med sommarvêr. – Inn mot helga får vi eit høgtrykk over Nord-Noreg. I tillegg til solskin vil fleire også merke høgare temperaturar, med opp mot 20 grader mange stader i heile Nord-Noreg.",
+      "keyPoints": [
+        "Men frå onsdag og mot slutten av veka kan folk i nord endeleg nyte nokre dagar med sommarvêr. – Inn mot helga får vi eit høgtrykk over Nord-Noreg.",
+        "I tillegg til solskin vil fleire også merke høgare temperaturar, med opp mot 20 grader mange stader i heile Nord-Noreg.",
+        "Folk i Nord-Noreg kan vente seg ein liten smak av sommar denne veka.",
+        "Det har vore ein våt sommar over store delar av Nord-Noreg."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/hogtrykk-kjem-med-sommarver-til-finnmark-og-resten-av-nord-noreg-1.18000509",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/GImtiadkiEOrnD38HLGZcwQc-Lkj2xNzateWxfHK9BXw.jpg",
+      "localImage": "assets/news/c587481d703b87.jpg",
       "score": 13
     }
   ]
