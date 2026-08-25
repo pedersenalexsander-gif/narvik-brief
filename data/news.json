@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.08.2026 kl. 12:01",
-  "updatedISO": "2026-08-25T12:01:51.201589+02:00",
+  "updatedAt": "25.08.2026 kl. 13:06",
+  "updatedISO": "2026-08-25T13:06:41.869121+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,25 +25,25 @@
       "score": 21
     },
     {
-      "id": "9de7c7c7d90ccc",
-      "category": "Verden",
-      "published": "25.08. 04:51",
-      "publishedISO": "2026-08-25T04:51:53+02:00",
-      "title": "US-Canada trade war heats up as Trump threatens to hike auto tariffs",
-      "summary": "Se: «Absolutt latterlig»: Kanadiere reagerer på nye tollspenninger med USAs president Donald Trump har truet med å heve amerikanske tollsatser på biler med opprinnelse i Canada, ettersom handelskrigen mellom de to naboene fortsetter å varmes opp. Trump sa mandag at han vil øke tollsatsene på kanadiske biler og lastebiler, samt bildeler, fra 25 % til 50 % fra 1. januar. Isbryterne skal brukes til å åpne vinterfartsruter gjennom Canadas nordlige og atlantiske farvann. «Trump undervurderer oss»: Doug Ford tar sikte på USA over toll I mellomtiden svarte Ontarios frittalende premier, Doug Ford, hvis provins er hjemsted for Canadas bilindustri, på Trumps tariffer og trusler ved å be den amerikanske presidenten «kysse meg i ræva».",
+      "id": "5f5800cdae9c39",
+      "category": "Økonomi",
+      "published": "25.08. 12:12",
+      "publishedISO": "2026-08-25T12:12:58+02:00",
+      "title": "Verdens børser stiger – mens oljeprisen faller",
+      "summary": "Her hjemme stiger energitunge Oslo Børs rundt 0,3 prosent, en forsiktig oppgang som skjer samtidig som oljeprisen faller kraftig. Oljeprisen har steget kraftig etter at USA og Israel i slutten av februar angrep Iran. I tiden etter, blant en lang rekke forsøk på å få en løsning på konflikten, har oljeprisen tidvis falt i takt med håp om en fredsløsning.",
       "keyPoints": [
-        "Se: «Absolutt latterlig»: Kanadiere reagerer på nye tollspenninger med USAs president Donald Trump har truet med å heve amerikanske tollsatser på biler med opprinnelse i Canada, ettersom handelskrigen mellom de to naboene fortsetter å varmes opp.",
-        "Trump sa mandag at han vil øke tollsatsene på kanadiske biler og lastebiler, samt bildeler, fra 25 % til 50 % fra 1. januar.",
-        "Isbryterne skal brukes til å åpne vinterfartsruter gjennom Canadas nordlige og atlantiske farvann. «Trump undervurderer oss»: Doug Ford tar sikte på USA over toll I mellomtiden svarte Ontarios frittalende premier, Doug Ford, hvis provins er hjemsted for Canadas bilindustri, på Trumps tariffer og trusler ved å be den amerikanske presidenten «kysse meg i ræva».",
-        "Sent på mandag kunngjorde Canadas tjenestemenn en pressekonferanse tirsdag hvor de ville skissere hvordan landet ville svare på handelskrigen og jobbe for å \"beskytte og støtte kanadiske arbeidere og bedrifter i disse utfordrende tidene\"."
+        "Her hjemme stiger energitunge Oslo Børs rundt 0,3 prosent, en forsiktig oppgang som skjer samtidig som oljeprisen faller kraftig.",
+        "Oljeprisen har steget kraftig etter at USA og Israel i slutten av februar angrep Iran.",
+        "I tiden etter, blant en lang rekke forsøk på å få en løsning på konflikten, har oljeprisen tidvis falt i takt med håp om en fredsløsning.",
+        "I Europa ser det slik ut, ifølge dataleverandøren Infront: Reuters skriver at investorer finner en viss trygghet i at USAs sanksjonspakke mot Iran var mindre omfattende enn fryktet."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e240/live/5807d190-a019-11f1-bdcd-87d2835ec878.jpg",
-      "localImage": "assets/news/9de7c7c7d90ccc.jpg",
-      "score": 16
+      "url": "https://e24.no/boers-og-finans/i/wr0qdd/verdens-boerser-stiger-mens-oljeprisen-faller",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a2da250a-207a-3c9d-b034-2a65a64d393f?fit=crop&h=675&upscale=true&w=1200&s=897011e9f0a47058717c1740b58b975e21f5f5e3",
+      "localImage": "assets/news/5f5800cdae9c39.jpg",
+      "score": 27
     },
     {
       "id": "9927c37c4a8f84",
@@ -65,48 +65,6 @@
       "image": "https://akamai.vgc.no/v2/images/6ef5870a-d26c-3451-93d7-7ed4f1d52c9e?fit=crop&h=675&upscale=true&w=1200&s=54891f4b124b4f98f645a1a7f37e4fe2ddcdc7ca",
       "localImage": "assets/news/9927c37c4a8f84.jpg",
       "score": 17
-    },
-    {
-      "id": "1adb293e98bdfc",
-      "category": "Økonomi",
-      "published": "24.08. 15:48",
-      "publishedISO": "2026-08-24T15:48:01+02:00",
-      "title": "Ordkrigen fortsetter – Trump truer Canada med gigatoll",
-      "summary": "Tollen gjelder «alle biler, lastebiler, både store og små, bildeler og stål», varsler Trump. – Canada har snytt USA i årevis. USAs handelsrepresentant Jamieson Greer gir Canada skylden for at forhandlingene brøt sammen. – Vi kom til et punkt tirsdag kveld hvor vi hadde nok enighet mellom partene til å kunngjøre at vi hadde funnet veien til en avtale, sier Greer til CNBC. Trump skrev på sitt eget nettverk Truth Social at «Canada vil ha fordelene av å være en delstat, uten å være det».",
-      "keyPoints": [
-        "Tollen gjelder «alle biler, lastebiler, både store og små, bildeler og stål», varsler Trump. – Canada har snytt USA i årevis.",
-        "Trump skrev på sitt eget nettverk Truth Social at «Canada vil ha fordelene av å være en delstat, uten å være det».",
-        "USAs handelsrepresentant Jamieson Greer gir Canada skylden for at forhandlingene brøt sammen. – Vi kom til et punkt tirsdag kveld hvor vi hadde nok enighet mellom partene til å kunngjøre at vi hadde funnet veien til en avtale, sier Greer til CNBC.",
-        "Han sier han sitter igjen med et intrykk av at Trump ønsker å ødelegge Canadas viktigste industrier, melder Bloomberg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/M7pkdm/trump-med-ny-tolltrussel-mot-canada",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e2074cda-9e5d-38a7-8293-255a2c366214?fit=crop&h=675&upscale=true&w=1200&s=27b747f232be664f2f8e96cccbaa70b93cf57107",
-      "localImage": "assets/news/1adb293e98bdfc.jpg",
-      "score": 17
-    },
-    {
-      "id": "b6400c3aba431c",
-      "category": "AI",
-      "published": "24.08. 18:03",
-      "publishedISO": "2026-08-24T18:03:24+02:00",
-      "title": "Sharing dangerous driving videos is 'truly reprehensible', PM says",
-      "summary": "Se: Å glorifisere farlig kjøring er \"uakseptabelt\", sier statsministeren. Regjeringen har oppfordret sosiale medieselskaper til å fjerne innlegg som feirer farlig kjøring, ettersom statsminister Andy Burnham merket å dele dem som \"virkelig forkastelig\". En TikTok-konto som antas å tilhøre en av de fem passasjerene, 18 år gamle Makai Saddington, har tidligere delt videoer som ser ut til å vise farlig kjøring, som siden har blitt fjernet. Se: Innhold som feirer farlig kjøring «bør ikke være online», sier den britiske forsvarsministeren. Videoinnhold som inneholder ulovlig aktivitet er ikke nødvendigvis ulovlig i seg selv – i henhold til Online Safety Act – er det opp til det sosiale nettverket å avgjøre om flagget innhold er ulovlig og handle deretter.",
-      "keyPoints": [
-        "Se: Å glorifisere farlig kjøring er \"uakseptabelt\", sier statsministeren. Regjeringen har oppfordret sosiale medieselskaper til å fjerne innlegg som feirer farlig kjøring, ettersom statsminister Andy Burnham merket å dele dem som \"virkelig forkastelig\".",
-        "En TikTok-konto som antas å tilhøre en av de fem passasjerene, 18 år gamle Makai Saddington, har tidligere delt videoer som ser ut til å vise farlig kjøring, som siden har blitt fjernet.",
-        "Se: Innhold som feirer farlig kjøring «bør ikke være online», sier den britiske forsvarsministeren. Videoinnhold som inneholder ulovlig aktivitet er ikke nødvendigvis ulovlig i seg selv – i henhold til Online Safety Act – er det opp til det sosiale nettverket å avgjøre om flagget innhold er ulovlig og handle deretter.",
-        "TikTok sa at deres retningslinjer forbyr innhold som kan forårsake betydelig fysisk skade, inkludert farlig kjøring."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ce308l1w5q5o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e91/live/1f2e1410-9fb0-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/b6400c3aba431c.jpg",
-      "score": 14
     },
     {
       "id": "34bd28436305c2",
@@ -149,6 +107,27 @@
       "image": "https://gfx.nrk.no/nNISTctnj1QulpwVm6XezArECj3ffA9B5kK1L3rgyrWA.jpg",
       "localImage": "assets/news/2813c42838b172.jpg",
       "score": 18
+    },
+    {
+      "id": "1adb293e98bdfc",
+      "category": "Økonomi",
+      "published": "24.08. 15:48",
+      "publishedISO": "2026-08-24T15:48:01+02:00",
+      "title": "Ordkrigen fortsetter – Trump truer Canada med gigatoll",
+      "summary": "Tollen gjelder «alle biler, lastebiler, både store og små, bildeler og stål», varsler Trump. – Canada har snytt USA i årevis. USAs handelsrepresentant Jamieson Greer gir Canada skylden for at forhandlingene brøt sammen. – Vi kom til et punkt tirsdag kveld hvor vi hadde nok enighet mellom partene til å kunngjøre at vi hadde funnet veien til en avtale, sier Greer til CNBC. Trump skrev på sitt eget nettverk Truth Social at «Canada vil ha fordelene av å være en delstat, uten å være det».",
+      "keyPoints": [
+        "Tollen gjelder «alle biler, lastebiler, både store og små, bildeler og stål», varsler Trump. – Canada har snytt USA i årevis.",
+        "Trump skrev på sitt eget nettverk Truth Social at «Canada vil ha fordelene av å være en delstat, uten å være det».",
+        "USAs handelsrepresentant Jamieson Greer gir Canada skylden for at forhandlingene brøt sammen. – Vi kom til et punkt tirsdag kveld hvor vi hadde nok enighet mellom partene til å kunngjøre at vi hadde funnet veien til en avtale, sier Greer til CNBC.",
+        "Han sier han sitter igjen med et intrykk av at Trump ønsker å ødelegge Canadas viktigste industrier, melder Bloomberg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/M7pkdm/trump-med-ny-tolltrussel-mot-canada",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e2074cda-9e5d-38a7-8293-255a2c366214?fit=crop&h=675&upscale=true&w=1200&s=27b747f232be664f2f8e96cccbaa70b93cf57107",
+      "localImage": "assets/news/1adb293e98bdfc.jpg",
+      "score": 17
     },
     {
       "id": "aaeb7e91c2da37",
@@ -212,6 +191,27 @@
       "image": "https://akamai.vgc.no/v2/images/3b03517b-b03b-3b3c-9ce5-380202c4d708?fit=crop&h=675&upscale=true&w=1200&s=6ca9fb472a703b32b39c8e01bfc723d4a597223b",
       "localImage": "assets/news/709104ea7cd5cb.jpg",
       "score": 15
+    },
+    {
+      "id": "e46acba4219d53",
+      "category": "Norge",
+      "published": "23.08. 21:25",
+      "publishedISO": "2026-08-23T21:25:32+02:00",
+      "title": "Peter Frølich er sykemeldt etter hjerteinfarkt",
+      "summary": "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt. INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening. I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
+      "keyPoints": [
+        "INNLAGT: Peter Frølich er innlagt på Haukeland etter å ha fått hjerteinfarkt trening.",
+        "Høyre-topp og leder for Stortingets utenriks- og forsvarskomité Peter Christian Frølich er innlagt på sykehus etter et hjerteinfarkt.",
+        "I et innlegg på Facebook skriver Peter Christian Frølich at han fikk sterke smerter i brystet under trening lørdag.",
+        "Mona Seljevoll Tjordal, kardiologisk sykepleier og helsefaglig rådgiver hjerte i LHL, mener hjerteinfarktet til Frølich er en påminner om at unge kan rammes. – Først og fremst ønsker vi Peter Frølich god bedring."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/peter-frolich-er-sykemeldt-etter-hjerteinfarkt-1.17998966",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/BBERo1jKuYKCHiMVKEocKg2ymGTOWivXH66jTiGYPxbQ.jpg",
+      "localImage": "assets/news/e46acba4219d53.jpg",
+      "score": 14
     }
   ]
 }
