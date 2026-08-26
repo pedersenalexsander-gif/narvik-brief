@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26.08.2026 kl. 01:04",
-  "updatedISO": "2026-08-26T01:04:05.476597+02:00",
+  "updatedAt": "26.08.2026 kl. 02:00",
+  "updatedISO": "2026-08-26T02:00:30.463587+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/34bd28436305c2.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "5f5800cdae9c39",
@@ -127,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d6a4b3af-cec5-3c92-b41d-2ccc446a64c0?fit=crop&h=675&upscale=true&w=1200&s=6587d440f852b21f236d3cbe8e9d09e95dc0af1a",
       "localImage": "assets/news/85152ed717f014.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "2813c42838b172",
@@ -193,24 +193,24 @@
       "score": 13
     },
     {
-      "id": "c587481d703b87",
-      "category": "Norge",
-      "published": "25.08. 20:41",
-      "publishedISO": "2026-08-25T20:41:11+02:00",
-      "title": "Høgtrykk kjem med sommarvêr til Finnmark og resten av Nord-Noreg",
-      "summary": "Folk i Nord-Noreg kan vente seg ein liten smak av sommar denne veka. Men frå onsdag og mot slutten av veka kan folk i nord endeleg nyte nokre dagar med sommarvêr. – Inn mot helga får vi eit høgtrykk over Nord-Noreg. I tillegg til solskin vil fleire også merke høgare temperaturar, med opp mot 20 grader mange stader i heile Nord-Noreg.",
+      "id": "aaeb7e91c2da37",
+      "category": "Økonomi",
+      "published": "25.08. 09:46",
+      "publishedISO": "2026-08-25T09:46:07+02:00",
+      "title": "Oljetopper bekymret etter gass-sjokk: – Begynner å bli alvorlig",
+      "summary": "Med en kald vinter er det «anyone’s guess» hva priseffekten blir, advarer oljetopp. – Vi er alle bekymret for gassprisen, sier Uniper-sjef Michael Lewis til E24. Karl Johnny Hersvik, sjef i oljeselskapet Aker BP, sier at med bortfallet av LNG, hovedsakelig fra Qatar, er Europa gasslagre lavere enn de pleier å være. – Og så er det ikke så grelt som det kanskje kan se ut til, fordi konsumet er gått ned med rundt 30 prosent også. – Men jeg vil jo si at det etter hvert begynner å bli en alvorlig situasjon, spesielt om man skulle få en skikkelig kald vinter i Europa. Vår Energi-sjef Nick Walker sier Hormuzstredet, men også krigen i Ukraina har en har en effekt på forstyrrelsene globalt, som leder til høyere priser på drivstoff, både gass og olje. – Jeg har lenge hatt et syn om at gassprisene ville bli høyere enn forventet. - Jeg ventet ikke så mye forstyrrelser som dette.",
       "keyPoints": [
-        "Men frå onsdag og mot slutten av veka kan folk i nord endeleg nyte nokre dagar med sommarvêr. – Inn mot helga får vi eit høgtrykk over Nord-Noreg.",
-        "I tillegg til solskin vil fleire også merke høgare temperaturar, med opp mot 20 grader mange stader i heile Nord-Noreg.",
-        "Folk i Nord-Noreg kan vente seg ein liten smak av sommar denne veka.",
-        "Det har vore ein våt sommar over store delar av Nord-Noreg."
+        "Karl Johnny Hersvik, sjef i oljeselskapet Aker BP, sier at med bortfallet av LNG, hovedsakelig fra Qatar, er Europa gasslagre lavere enn de pleier å være. – Og så er det ikke så grelt som det kanskje kan se ut til, fordi konsumet er gått ned med rundt 30 prosent også. – Men jeg vil jo si at det etter hvert begynner å bli en alvorlig situasjon, spesielt om man skulle få en skikkelig kald vinter i Europa.",
+        "Vår Energi-sjef Nick Walker sier Hormuzstredet, men også krigen i Ukraina har en har en effekt på forstyrrelsene globalt, som leder til høyere priser på drivstoff, både gass og olje. – Jeg har lenge hatt et syn om at gassprisene ville bli høyere enn forventet. - Jeg ventet ikke så mye forstyrrelser som dette.",
+        "Med en kald vinter er det «anyone’s guess» hva priseffekten blir, advarer oljetopp. – Vi er alle bekymret for gassprisen, sier Uniper-sjef Michael Lewis til E24.",
+        "Og så er det «anyone’s guess» hva priskonsekvensen kan bli."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/hogtrykk-kjem-med-sommarver-til-finnmark-og-resten-av-nord-noreg-1.18000509",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/GImtiadkiEOrnD38HLGZcwQc-Lkj2xNzateWxfHK9BXw.jpg",
-      "localImage": "assets/news/c587481d703b87.jpg",
+      "url": "https://e24.no/boers-og-finans/i/zOQPqw/oljetopper-bekymret-etter-gass-sjokk-begynner-aa-bli-alvorlig",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/f0c79f25-7f19-33fe-bd63-75070bda7d42?fit=crop&h=675&upscale=true&w=1200&s=aa536b7bef05ab305273a1171ae0a01fe193af7d",
+      "localImage": "assets/news/aaeb7e91c2da37.jpg",
       "score": 13
     }
   ]
