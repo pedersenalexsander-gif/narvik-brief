@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26.08.2026 kl. 12:09",
-  "updatedISO": "2026-08-26T12:09:51.449215+02:00",
+  "updatedAt": "26.08.2026 kl. 13:52",
+  "updatedISO": "2026-08-26T13:52:26.248036+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a2da250a-207a-3c9d-b034-2a65a64d393f?fit=crop&h=675&upscale=true&w=1200&s=897011e9f0a47058717c1740b58b975e21f5f5e3",
       "localImage": "assets/news/5f5800cdae9c39.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "dfb8c7cd058844",
@@ -65,27 +65,6 @@
       "image": "https://akamai.vgc.no/v2/images/83a45a71-8480-3c03-a2dc-cc1684d3312d?fit=crop&h=675&upscale=true&w=1200&s=0089474ea8541513edd03506f38545ce2c2023e5",
       "localImage": "assets/news/dfb8c7cd058844.jpg",
       "score": 20
-    },
-    {
-      "id": "9d80bba4f55836",
-      "category": "Norge",
-      "published": "26.08. 07:01",
-      "publishedISO": "2026-08-26T07:01:04+02:00",
-      "title": "Vallø tapetfabrikk i Tønsberg blir dokumentarfilm",
-      "summary": "I nesten 100 år sørgde fabrikken på Vallø for mønstra tapet og sandpapir i tusenvis av norske heimar. FILMSKAPARAR: Erik Jacobsen og Jan Neråen har gått saman om å lage ein dokumentar om tapetfabrikken på Vallø i Tønsberg. – Dette er ei unik, norsk, spennande og rørande historie om ei familiebedrift i tre generasjonar. Under andre verdskrigen blei fabrikkbygningane på Vallø bomba sunder og saman.",
-      "keyPoints": [
-        "FILMSKAPARAR: Erik Jacobsen og Jan Neråen har gått saman om å lage ein dokumentar om tapetfabrikken på Vallø i Tønsberg. – Dette er ei unik, norsk, spennande og rørande historie om ei familiebedrift i tre generasjonar.",
-        "I nesten 100 år sørgde fabrikken på Vallø for mønstra tapet og sandpapir i tusenvis av norske heimar.",
-        "Under andre verdskrigen blei fabrikkbygningane på Vallø bomba sunder og saman.",
-        "No håpar dei historia kan bevare landemerket på Vallø for framtida."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/vallo-tapetfabrikk-i-tonsberg-blir-dokumentarfilm-1.18000725",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/1xRlwpPP8I_TcWT001SO6QtH_BSrgxGTGJvCIY4rSbOg.jpg",
-      "localImage": "assets/news/9d80bba4f55836.jpg",
-      "score": 16
     },
     {
       "id": "c7981112d6d4ea",
@@ -127,27 +106,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9df90e18-65e5-3476-b487-5bcbba959475?fit=crop&h=675&upscale=true&w=1200&s=031ba005fd752beb45fa7eb0d7bb35433f57c4ad",
       "localImage": "assets/news/eef0d9af3596e9.jpg",
-      "score": 15
-    },
-    {
-      "id": "5f0292eedc727e",
-      "category": "Økonomi",
-      "published": "25.08. 21:43",
-      "publishedISO": "2026-08-25T21:43:13+02:00",
-      "title": "Demonstranter skåler i «olje» utenfor Equinors hagefest",
-      "summary": "Tirsdag kveld møtes energi-Norge på Equinors tradisjonsrike hagefest i Stavanger. En drøy halvtime før festen skulle starte var allerede Extinction Rebellion på plass. – Vi demonstrer ved å rope og sier det vi mener til de som skal inn på Equinors hagefest. Denne performancen innebærer at organisasjonen har det de omtaler som en «oljefest» utenfor festlokalet, der de skåler i «olje». – Det er en blanding av naturlige ting, så det er mulig å drikke, men smaker ikke godt.",
-      "keyPoints": [
-        "Denne performancen innebærer at organisasjonen har det de omtaler som en «oljefest» utenfor festlokalet, der de skåler i «olje». – Det er en blanding av naturlige ting, så det er mulig å drikke, men smaker ikke godt.",
-        "En drøy halvtime før festen skulle starte var allerede Extinction Rebellion på plass. – Vi demonstrer ved å rope og sier det vi mener til de som skal inn på Equinors hagefest.",
-        "Tirsdag kveld møtes energi-Norge på Equinors tradisjonsrike hagefest i Stavanger.",
-        "Arrangementet finner sted på Equinors hovedkontor på Forus utenfor sentrum av oljebyen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/zOQqlv/demonstranter-skaaler-i-olje-utenfor-equinors-hagefest",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/899dc7c5-c87a-33da-8c88-19adc3c40a90?fit=crop&h=675&upscale=true&w=1200&s=18283b6eab78b3f3cd47c12758465fdbe0fdd4a9",
-      "localImage": "assets/news/5f0292eedc727e.jpg",
       "score": 14
     },
     {
@@ -172,6 +130,69 @@
       "score": 14
     },
     {
+      "id": "e45e23565dfa7a",
+      "category": "Norge",
+      "published": "26.08. 13:39",
+      "publishedISO": "2026-08-26T13:39:09+02:00",
+      "title": "Bustadbygg nedbrent etter eksplosjon i Øygarden: Ein omkomen person henta ut",
+      "summary": "Ein person vart funnen død etter ein eksplosjon og brann i eit bustadbygg på Straume i Øygarden. Ein mann vart meldt sakna etter ein eksplosjon i eit bustadhus på Foldnes i Øygarden kommune tysdag ettermiddag. Det vart seinare funnen ein omkomen person, som politiet trudde var den sakna.",
+      "keyPoints": [
+        "Ein person vart funnen død etter ein eksplosjon og brann i eit bustadbygg på Straume i Øygarden.",
+        "Ein mann vart meldt sakna etter ein eksplosjon i eit bustadhus på Foldnes i Øygarden kommune tysdag ettermiddag.",
+        "Det vart seinare funnen ein omkomen person, som politiet trudde var den sakna.",
+        "Me høyrde det var ein som var omkomen, og du kjenner det jo litt i magen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/bustadbygg-nedbrent-etter-eksplosjon-i-oygarden_-ein-omkomen-person-henta-ut-1.18002162",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/T5pdz5LRYZOFaoRWdk1rigTV5rCwk7Hj2feKzrne2DwQ.jpg",
+      "localImage": "assets/news/e45e23565dfa7a.jpg",
+      "score": 13
+    },
+    {
+      "id": "8dd16d6624352c",
+      "category": "Norge",
+      "published": "26.08. 13:30",
+      "publishedISO": "2026-08-26T13:30:21+02:00",
+      "title": "To tyske menn er dømt etter en rekke branner i Lofoten",
+      "summary": "To tyske menn ble sporet opp av lokalbefolkninga etter en rekke branner i Lofoten i fjor sommer. I fjor sommer ble Lofoten rystet av flere mystiske branner. Saken førte til stor oppsikt da 20–30 lokalkjente mobiliserte på Facebook, spora opp og omringa to tyske menn i skogen før politiet kom til stedet.",
+      "keyPoints": [
+        "To tyske menn ble sporet opp av lokalbefolkninga etter en rekke branner i Lofoten i fjor sommer.",
+        "Saken førte til stor oppsikt da 20–30 lokalkjente mobiliserte på Facebook, spora opp og omringa to tyske menn i skogen før politiet kom til stedet.",
+        "I fjor sommer ble Lofoten rystet av flere mystiske branner.",
+        "I løpet av ni dager var det fem branntilløp og branner i den vesle bygda Laukvik i Vågan helt øst i Lofoten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/to-tyske-menn-er-domt-etter-en-rekke-branner-i-lofoten-1.18002348",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/91IBWa5Yshv65sTChQGpiwvQtGwikbH2xVowrUora1qQ.jpg",
+      "localImage": "assets/news/8dd16d6624352c.jpg",
+      "score": 13
+    },
+    {
+      "id": "4f4195904771e9",
+      "category": "Norge",
+      "published": "26.08. 11:59",
+      "publishedISO": "2026-08-26T11:59:01+02:00",
+      "title": "– Toppen av skyskraperne vil ligge på høyde med Sinsenkrysset",
+      "summary": "Kommuneplanen viser hvordan Oslo kan få plass til 120.000 nye boliger og opp mot 270.000 nye arbeidsplasser. De har akseptert et 108 meter høyt tårn på toppen av Oslo Spektrum og Norges høyeste hus på den gamle postterminalen. – Det vi er kritiske til er omfanget som ligger i kommuneplanen og som sier at du kan bygge høyhus i et mye større område enn i dag rundt Oslo S, sier Geiran. Hun sier at slagskyggen av så høye bygninger vil legge seg rundt 380 meter over østkanten og Grønland på en sommerettermiddag i slutten av august. – Det er et tankekors at toppen av skyskraperne vil ligge på høyde med Sinsenkrysset, sier riksantikvaren.",
+      "keyPoints": [
+        "Hun sier at slagskyggen av så høye bygninger vil legge seg rundt 380 meter over østkanten og Grønland på en sommerettermiddag i slutten av august. – Det er et tankekors at toppen av skyskraperne vil ligge på høyde med Sinsenkrysset, sier riksantikvaren.",
+        "De har akseptert et 108 meter høyt tårn på toppen av Oslo Spektrum og Norges høyeste hus på den gamle postterminalen. – Det vi er kritiske til er omfanget som ligger i kommuneplanen og som sier at du kan bygge høyhus i et mye større område enn i dag rundt Oslo S, sier Geiran.",
+        "Kommuneplanen viser hvordan Oslo kan få plass til 120.000 nye boliger og opp mot 270.000 nye arbeidsplasser.",
+        "Her er området rundt Oslo S der byrådet åpner for høyhus på inntil 125 meter."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/stor-oslo/riksantikvaren-protesterer-mot-oslo-kommunes-hoyhusplaner-1.18001952",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xx10SQ89w7BKYgfAMFVsqASH6u4-9MoxvsGb9cZyNFrw.jpg",
+      "localImage": "assets/news/4f4195904771e9.jpg",
+      "score": 13
+    },
+    {
       "id": "34e306b7846def",
       "category": "Økonomi",
       "published": "26.08. 11:47",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/39ca9073-52fc-3efd-b635-5c94fa3355c0?fit=crop&h=675&upscale=true&w=1200&s=caebcce3e399036ffcb3d908a52a386ec7e64454",
       "localImage": "assets/news/34e306b7846def.jpg",
-      "score": 13
-    },
-    {
-      "id": "b5957edcf86e46",
-      "category": "Økonomi",
-      "published": "26.08. 09:51",
-      "publishedISO": "2026-08-26T09:51:07+02:00",
-      "title": "– Går vi inn i EU, tror jeg fiskeindustrien kollapser",
-      "summary": "Skulle Island velge å knytte seg til EU, kan det bli langt flere dager uten aktivitet her, frykter Jónsson. – Går vi inn i EU, tror jeg fiskeindustrien vil kollapse på Island. Hvert år går inntil 5000 tonn fisk gjennom maskineriet før den selges videre til utlandet. – Det er selvsagt dyrere å gjøre det her, men det er mye bedre kvalitet, sier Jónsson. Dette betyr at inntektene forblir på Island, påpeker sjeføkonomen. – Jeg tror ikke jeg går imot noen allmenn oppfatning her på Island når jeg sier at dette sannsynligvis vil være den viktigste, avgjørende faktoren.",
-      "keyPoints": [
-        "Skulle Island velge å knytte seg til EU, kan det bli langt flere dager uten aktivitet her, frykter Jónsson. – Går vi inn i EU, tror jeg fiskeindustrien vil kollapse på Island.",
-        "Dette betyr at inntektene forblir på Island, påpeker sjeføkonomen. – Jeg tror ikke jeg går imot noen allmenn oppfatning her på Island når jeg sier at dette sannsynligvis vil være den viktigste, avgjørende faktoren.",
-        "Hvert år går inntil 5000 tonn fisk gjennom maskineriet før den selges videre til utlandet. – Det er selvsagt dyrere å gjøre det her, men det er mye bedre kvalitet, sier Jónsson.",
-        "Men jeg tror ikke noen er interessert i det på Island. – Du kan potensielt tjene store penger på å selge? – Nei."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/bOe575/gaar-vi-inn-i-eu-tror-jeg-fiskeindustrien-kollapser",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1fecf4ea-485e-332b-8bdf-1b3460591030?fit=crop&h=675&upscale=true&w=1200&s=42c3e3323acb079d9cab115bf95bed824b51b9c8",
-      "localImage": "assets/news/b5957edcf86e46.jpg",
       "score": 13
     }
   ]
