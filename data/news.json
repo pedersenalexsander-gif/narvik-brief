@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26.08.2026 kl. 13:52",
-  "updatedISO": "2026-08-26T13:52:26.248036+02:00",
+  "updatedAt": "26.08.2026 kl. 16:29",
+  "updatedISO": "2026-08-26T16:29:06.482878+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/uAhz2HgY-5x4FQwbM7PD7gMH_b3N2a7Zpz3tMhABZ4iw.jpg",
       "localImage": "assets/news/cc724bff137a82.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "5f5800cdae9c39",
@@ -64,7 +64,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/83a45a71-8480-3c03-a2dc-cc1684d3312d?fit=crop&h=675&upscale=true&w=1200&s=0089474ea8541513edd03506f38545ce2c2023e5",
       "localImage": "assets/news/dfb8c7cd058844.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "01ae3a887a6d1b",
+      "category": "Økonomi",
+      "published": "26.08. 15:47",
+      "publishedISO": "2026-08-26T15:47:26+02:00",
+      "title": "Støre: Norge vil ikke inngå USA-avtale ennå",
+      "summary": "Uforutsigbarhet gjør at det nå er Norge som holder igjen, ifølge Støre. Næringslivet venter stadig på en tollavklaring etter at USA satte i gang en granskingGranskningen handler om «strukturell overkapasitet», altså om landene produserer mer av en vare enn det er behov for, noe som kan påvirke markedsbalansen. av Norge og flere andre land, noe som kan gi ytterligere toll. Sjømatnæringen kan rammes av Trumps toll. «Vi har et utkast til en forståelse om økt handel med USA, som vi mener er ganske bra, men vi holder igjen på å inngå den med USA, fordi vi mener det er en uforutsigbarhet i hva de kan finne på å komme opp med av nye typer tiltak, tollsatser og reaksjoner», sa Støre i en tale på Husøydagan 8. august.",
+      "keyPoints": [
+        "Sjømatnæringen kan rammes av Trumps toll. «Vi har et utkast til en forståelse om økt handel med USA, som vi mener er ganske bra, men vi holder igjen på å inngå den med USA, fordi vi mener det er en uforutsigbarhet i hva de kan finne på å komme opp med av nye typer tiltak, tollsatser og reaksjoner», sa Støre i en tale på Husøydagan 8. august.",
+        "Uforutsigbarhet gjør at det nå er Norge som holder igjen, ifølge Støre.",
+        "Næringslivet venter stadig på en tollavklaring etter at USA satte i gang en granskingGranskningen handler om «strukturell overkapasitet», altså om landene produserer mer av en vare enn det er behov for, noe som kan påvirke markedsbalansen. av Norge og flere andre land, noe som kan gi ytterligere toll.",
+        "Usikkerheten rundt USA-toll var en del av bakteppet da statsminister Jonas Gahr Støre møtte folk fra sjømatnæringen tidligere denne måneden."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/lnlq7L/stoere-norge-vil-ikke-inngaa-usa-avtale-ennaa",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/0ee8efee-cc40-39d5-85b4-9d028286538d?fit=crop&h=675&upscale=true&w=1200&s=5959f2d79cfbf65b6e88db21729bb31f30f2eea4",
+      "localImage": "assets/news/01ae3a887a6d1b.jpg",
+      "score": 17
+    },
+    {
+      "id": "59f4c2013df326",
+      "category": "Økonomi",
+      "published": "26.08. 15:02",
+      "publishedISO": "2026-08-26T15:02:22+02:00",
+      "title": "Kiwi-eier Norgesgruppen tjente 2,1 milliarder før skatt i første halvår",
+      "summary": "Norgesgruppen – som eier kjeder som Kiwi, Meny, Spar og Joker – fikk driftsinntekter på 69,3 milliarder kroner i første halvår. Resultat før skatt falt samtidig fra 2,2 til 2,1 milliarder kroner. Samtidig ble goodwill beregnet til 5,87 milliarder kroner.",
+      "keyPoints": [
+        "Norgesgruppen – som eier kjeder som Kiwi, Meny, Spar og Joker – fikk driftsinntekter på 69,3 milliarder kroner i første halvår.",
+        "Resultat før skatt falt samtidig fra 2,2 til 2,1 milliarder kroner.",
+        "Samtidig ble goodwill beregnet til 5,87 milliarder kroner.",
+        "Oppkjøpet ble gjennomført i slutten av januar og markerte Norgesgruppens inntreden i et nytt marked. – NMD har fått en god start som del av Norgesgruppen og leverer bedre enn forventet fra ordinær drift, sier konsernsjef Runar Hollevik i en pressemelding."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/xrwKJp/kiwi-eier-norgesgruppen-tjente-2-1-milliarder-foer-skatt-i-foerste-halvaar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4bc3128b-cf3e-3083-82bf-0754ec4a61ce?fit=crop&h=675&upscale=true&w=1200&s=8b922099a1f92b244dd5e7a0dc73c3f49ce20e8d",
+      "localImage": "assets/news/59f4c2013df326.jpg",
+      "score": 17
+    },
+    {
+      "id": "308ddb3fbef2f6",
+      "category": "Økonomi",
+      "published": "26.08. 15:31",
+      "publishedISO": "2026-08-26T15:31:58+02:00",
+      "title": "Svak åpning på Wall Street",
+      "summary": "Amerikanske aksjer åpner svakt ned på Wall Street onsdag, etter at førbørsindeksene pekte på en flat eller noe svak åpning i forkant. Slik ser de tonanegivende indeksene ut drøye minuttet etter åpning: Det er knyttet spenning til teknologigiganten Nvidias resultatfremleggelse etter børsslutt onsdag. AI-kjempen brøt en syv dagers tapsrekke på Wall Street tirsdag. – Nvidia er det beste barometeret for AI-investeringer.",
+      "keyPoints": [
+        "Amerikanske aksjer åpner svakt ned på Wall Street onsdag, etter at førbørsindeksene pekte på en flat eller noe svak åpning i forkant.",
+        "AI-kjempen brøt en syv dagers tapsrekke på Wall Street tirsdag. – Nvidia er det beste barometeret for AI-investeringer.",
+        "Slik ser de tonanegivende indeksene ut drøye minuttet etter åpning: Det er knyttet spenning til teknologigiganten Nvidias resultatfremleggelse etter børsslutt onsdag.",
+        "Det er det samme som måneden før, og et hakk høyere enn analytikerforventningen om 3,6 prosent, ifølge Bloomberg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/zOQv8K/svak-aapning-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/68ecc39f-13b6-390e-b7ea-b60c97b1e8ee?fit=crop&h=675&upscale=true&w=1200&s=0c2e112bfdd0f2034f3e5620043a71614597b970",
+      "localImage": "assets/news/308ddb3fbef2f6.jpg",
+      "score": 16
     },
     {
       "id": "c7981112d6d4ea",
@@ -85,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/73257f24-24bc-3fda-aed5-c37e7943ed62?fit=crop&h=675&upscale=true&w=1200&s=0132394d16ffe18c4280e08d270a25037b78c320",
       "localImage": "assets/news/c7981112d6d4ea.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "eef0d9af3596e9",
@@ -109,108 +172,45 @@
       "score": 14
     },
     {
-      "id": "f3a89b2ad1d033",
-      "category": "Økonomi",
-      "published": "25.08. 19:20",
-      "publishedISO": "2026-08-25T19:20:02+02:00",
-      "title": "Warsh taus om utsiktene: – Risikerer at rentene går mye mer",
-      "summary": "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag. Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A. Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
-      "keyPoints": [
-        "Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
-        "Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A.",
-        "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag.",
-        "Når Warsh snakker på fredag kommer Hov til å følge med på om det blir noen utslag i lange renter, etter renteoppgangen som har vært i markedet i det siste."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/L4eBwQ/warsh-taus-om-utsiktene-risikerer-at-rentene-gaar-mye-mer",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/11a77b16-aa22-3a04-9b4e-3bcd195f5245?fit=crop&h=675&upscale=true&w=1200&s=e337aef878dcdd7cd9e708d3b5bd290c4289c999",
-      "localImage": "assets/news/f3a89b2ad1d033.jpg",
-      "score": 14
-    },
-    {
-      "id": "e45e23565dfa7a",
+      "id": "e6f1a6ce8398a0",
       "category": "Norge",
-      "published": "26.08. 13:39",
-      "publishedISO": "2026-08-26T13:39:09+02:00",
-      "title": "Bustadbygg nedbrent etter eksplosjon i Øygarden: Ein omkomen person henta ut",
-      "summary": "Ein person vart funnen død etter ein eksplosjon og brann i eit bustadbygg på Straume i Øygarden. Ein mann vart meldt sakna etter ein eksplosjon i eit bustadhus på Foldnes i Øygarden kommune tysdag ettermiddag. Det vart seinare funnen ein omkomen person, som politiet trudde var den sakna.",
+      "published": "26.08. 15:59",
+      "publishedISO": "2026-08-26T15:59:26+02:00",
+      "title": "Næringsdepartementet har konkludert: Troms Turlag får medhold i Trollvassbu-saken",
+      "summary": "Trollvassbu har vært et populært turmål i over 60 år Næringsminister Cecilie Myrseth opplyser at klagerne ikke har fått medhold, og at Troms Turlag får benytte adkomstveien til hytta. Vedtaket setter et endelig punktum for en fem år lang konflikt om grunn og adkomstvei til hytta, en sak som tidligere har vært behandlet helt opp til Høyesterett. – Vi har nå fattet vedtak i saken, og klagerne gis ikke medhold, opplyser næringsminister Cecilie Myrseth. Avgjørelsen blir tatt imot med stor lettelse i Troms Turlag (DNT).",
       "keyPoints": [
-        "Ein person vart funnen død etter ein eksplosjon og brann i eit bustadbygg på Straume i Øygarden.",
-        "Ein mann vart meldt sakna etter ein eksplosjon i eit bustadhus på Foldnes i Øygarden kommune tysdag ettermiddag.",
-        "Det vart seinare funnen ein omkomen person, som politiet trudde var den sakna.",
-        "Me høyrde det var ein som var omkomen, og du kjenner det jo litt i magen."
+        "Trollvassbu har vært et populært turmål i over 60 år Næringsminister Cecilie Myrseth opplyser at klagerne ikke har fått medhold, og at Troms Turlag får benytte adkomstveien til hytta.",
+        "Avgjørelsen blir tatt imot med stor lettelse i Troms Turlag (DNT).",
+        "Vedtaket setter et endelig punktum for en fem år lang konflikt om grunn og adkomstvei til hytta, en sak som tidligere har vært behandlet helt opp til Høyesterett. – Vi har nå fattet vedtak i saken, og klagerne gis ikke medhold, opplyser næringsminister Cecilie Myrseth.",
+        "Trollvassbu har vært et populært turmål i over 60 år, men den langvarige konflikten med grunneier og usikkerheten rundt ekspropriasjon og adkomstrett har gjort det vanskelig å drive nødvendig vedlikehold, samt frakte opp gass og ved med snøskuter."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/bustadbygg-nedbrent-etter-eksplosjon-i-oygarden_-ein-omkomen-person-henta-ut-1.18002162",
+      "url": "https://www.nrk.no/tromsogfinnmark/naeringsdepartementet-har-konkludert_-troms-turlag-far-medhold-i-trollvassbu-saken-1.18002636",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/T5pdz5LRYZOFaoRWdk1rigTV5rCwk7Hj2feKzrne2DwQ.jpg",
-      "localImage": "assets/news/e45e23565dfa7a.jpg",
+      "image": "https://gfx.nrk.no/NkvUi5oCtpSTbzStnIhxEQsgYJxDFDZJ-EbwGjly4n7w.jpg",
+      "localImage": "assets/news/e6f1a6ce8398a0.jpg",
       "score": 13
     },
     {
-      "id": "8dd16d6624352c",
+      "id": "c0d41bae71f4d5",
       "category": "Norge",
-      "published": "26.08. 13:30",
-      "publishedISO": "2026-08-26T13:30:21+02:00",
-      "title": "To tyske menn er dømt etter en rekke branner i Lofoten",
-      "summary": "To tyske menn ble sporet opp av lokalbefolkninga etter en rekke branner i Lofoten i fjor sommer. I fjor sommer ble Lofoten rystet av flere mystiske branner. Saken førte til stor oppsikt da 20–30 lokalkjente mobiliserte på Facebook, spora opp og omringa to tyske menn i skogen før politiet kom til stedet.",
+      "published": "26.08. 15:42",
+      "publishedISO": "2026-08-26T15:42:56+02:00",
+      "title": "LO vil endre AFP-ordningen – skal nå snakke med NHO",
+      "summary": "VIL FÅ VEKK SVAKHETENE: LO-leder Kine Asper Vistnes under dagens pressekonferanse om hvordan LO vil sikre AFP-ordningen og la flere få den på sikt. Både NHO og LO har sett behovet for endringer av dagens regler, og har snakket om det i flere år. Det var LO og NHO som først etablerte AFP-ordningen, som senere ble utvidet til en rekke bransjer og offentlig sektor.",
       "keyPoints": [
-        "To tyske menn ble sporet opp av lokalbefolkninga etter en rekke branner i Lofoten i fjor sommer.",
-        "Saken førte til stor oppsikt da 20–30 lokalkjente mobiliserte på Facebook, spora opp og omringa to tyske menn i skogen før politiet kom til stedet.",
-        "I fjor sommer ble Lofoten rystet av flere mystiske branner.",
-        "I løpet av ni dager var det fem branntilløp og branner i den vesle bygda Laukvik i Vågan helt øst i Lofoten."
+        "Det var LO og NHO som først etablerte AFP-ordningen, som senere ble utvidet til en rekke bransjer og offentlig sektor.",
+        "VIL FÅ VEKK SVAKHETENE: LO-leder Kine Asper Vistnes under dagens pressekonferanse om hvordan LO vil sikre AFP-ordningen og la flere få den på sikt.",
+        "Både NHO og LO har sett behovet for endringer av dagens regler, og har snakket om det i flere år.",
+        "Om LO får gjennomslag for forslaget, står man overfor den største omleggingen av AFP-ordningen siden 2011."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/to-tyske-menn-er-domt-etter-en-rekke-branner-i-lofoten-1.18002348",
+      "url": "https://www.nrk.no/norge/lo-vil-endre-afp-ordningen-_-skal-na-snakke-med-nho-1.18002568",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/91IBWa5Yshv65sTChQGpiwvQtGwikbH2xVowrUora1qQ.jpg",
-      "localImage": "assets/news/8dd16d6624352c.jpg",
-      "score": 13
-    },
-    {
-      "id": "4f4195904771e9",
-      "category": "Norge",
-      "published": "26.08. 11:59",
-      "publishedISO": "2026-08-26T11:59:01+02:00",
-      "title": "– Toppen av skyskraperne vil ligge på høyde med Sinsenkrysset",
-      "summary": "Kommuneplanen viser hvordan Oslo kan få plass til 120.000 nye boliger og opp mot 270.000 nye arbeidsplasser. De har akseptert et 108 meter høyt tårn på toppen av Oslo Spektrum og Norges høyeste hus på den gamle postterminalen. – Det vi er kritiske til er omfanget som ligger i kommuneplanen og som sier at du kan bygge høyhus i et mye større område enn i dag rundt Oslo S, sier Geiran. Hun sier at slagskyggen av så høye bygninger vil legge seg rundt 380 meter over østkanten og Grønland på en sommerettermiddag i slutten av august. – Det er et tankekors at toppen av skyskraperne vil ligge på høyde med Sinsenkrysset, sier riksantikvaren.",
-      "keyPoints": [
-        "Hun sier at slagskyggen av så høye bygninger vil legge seg rundt 380 meter over østkanten og Grønland på en sommerettermiddag i slutten av august. – Det er et tankekors at toppen av skyskraperne vil ligge på høyde med Sinsenkrysset, sier riksantikvaren.",
-        "De har akseptert et 108 meter høyt tårn på toppen av Oslo Spektrum og Norges høyeste hus på den gamle postterminalen. – Det vi er kritiske til er omfanget som ligger i kommuneplanen og som sier at du kan bygge høyhus i et mye større område enn i dag rundt Oslo S, sier Geiran.",
-        "Kommuneplanen viser hvordan Oslo kan få plass til 120.000 nye boliger og opp mot 270.000 nye arbeidsplasser.",
-        "Her er området rundt Oslo S der byrådet åpner for høyhus på inntil 125 meter."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/riksantikvaren-protesterer-mot-oslo-kommunes-hoyhusplaner-1.18001952",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xx10SQ89w7BKYgfAMFVsqASH6u4-9MoxvsGb9cZyNFrw.jpg",
-      "localImage": "assets/news/4f4195904771e9.jpg",
-      "score": 13
-    },
-    {
-      "id": "34e306b7846def",
-      "category": "Økonomi",
-      "published": "26.08. 11:47",
-      "publishedISO": "2026-08-26T11:47:45+02:00",
-      "title": "Tapte millioner etter Hoka-brudd",
-      "summary": "Hoka hadde vært bedriftens grunnpilar i en årrekke, med skosalg på opptil 60–70 prosent av de totale inntektene. – Når man mister en så stor andel av omsetningen såpass raskt, så sier det seg selv at man må være flink til å omstille, sier Aabol til E24. Han forteller at nye merkevarer bidro til 19 millioner i omsetning i fjor. Årsresultatet kom på 111 millioner kroner, noe som muliggjorde et utbytte på 100 millioner kroner til de to eierne.",
-      "keyPoints": [
-        "Han forteller at nye merkevarer bidro til 19 millioner i omsetning i fjor.",
-        "Hoka hadde vært bedriftens grunnpilar i en årrekke, med skosalg på opptil 60–70 prosent av de totale inntektene. – Når man mister en så stor andel av omsetningen såpass raskt, så sier det seg selv at man må være flink til å omstille, sier Aabol til E24.",
-        "Årsresultatet kom på 111 millioner kroner, noe som muliggjorde et utbytte på 100 millioner kroner til de to eierne.",
-        "Totalt har Nordberg og Balhald hentet ut 375 millioner kroner fra Run de siste fire årene."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/Gx5qxJ/tapte-millioner-etter-hoka-brudd",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/39ca9073-52fc-3efd-b635-5c94fa3355c0?fit=crop&h=675&upscale=true&w=1200&s=caebcce3e399036ffcb3d908a52a386ec7e64454",
-      "localImage": "assets/news/34e306b7846def.jpg",
+      "image": "https://gfx.nrk.no/MKaCDwyRbY5DZxhsHx0pyQb4qBtLIK2Aj6yUHa8J1OgA.jpg",
+      "localImage": "assets/news/c0d41bae71f4d5.jpg",
       "score": 13
     }
   ]
