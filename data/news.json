@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26.08.2026 kl. 02:00",
-  "updatedISO": "2026-08-26T02:00:30.463587+02:00",
+  "updatedAt": "26.08.2026 kl. 05:37",
+  "updatedISO": "2026-08-26T05:37:27.773731+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,6 +25,48 @@
       "score": 15
     },
     {
+      "id": "ace9d661a10dfb",
+      "category": "Verden",
+      "published": "25.08. 04:49",
+      "publishedISO": "2026-08-25T04:49:22+02:00",
+      "title": "Hvordan Canada kunne slå tilbake for å skade den amerikanske økonomien - og Trump",
+      "summary": "\"Trump undervurderer oss\": Doug Ford tar sikte på USA over toll. Omtrent 70 % av Canadas eksporterte varer går til USA. Jeg vil elske å se ham dyrke grønnsaker og frukt uten potaske,» sa Ford mandag. «President Trump undervurderer oss, og det er den største feilen.» Canada kunngjør «dollar-for-dollar» gjengjeldelsestariffer på USA så høye som 50 %. Canada har også betydelige reserver av kritiske mineraler som litium, nikkel og grafitt. på biler og bildeler fra Canada til 50 % etter 1. januar \"Hva er meldingen sendt ut til arbeiderne i Michigan, Ohio, Kentucky, Alabama?",
+      "keyPoints": [
+        "Mandag sa Carney at amerikanske arbeidere vil bli såret av Trumps siste trussel om å øke tollsatsen på biler og bildeler fra Canada til 50 % etter 1. januar. \"Hva er meldingen sendt ut til arbeiderne i Michigan, Ohio, Kentucky, Alabama?",
+        "'Trump underestimates us': Doug Ford takes aim at US over tariffs About 70% of Canada's exported goods go to the US.",
+        "Jeg vil elske å se ham dyrke grønnsaker og frukt uten potaske,\" sa Ford mandag. \"President Trump undervurderer oss, og det er den største feilen.\" Canada kunngjør \"dollar-for-dollar\" gjengjeldelsestariffer på USA så høye som 50 %. Canada har også betydelige reserver av kritiske mineraler som litium, nikkel og grafitt.",
+        "Det kommer til å skade dem.\" Ford, en av de mest vokale kanadiske lederne som motsetter seg Trump-administrasjonens tariffer, utelukket heller ikke å spesifikt målrette republikanske amerikanske stater med gjengjeldelsestiltak og \"å sørge for at USAs økonomi føler smerten\"."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/ace9d661a10dfb.jpg",
+      "score": 13
+    },
+    {
+      "id": "b6dcfc82e9ebbd",
+      "category": "USA",
+      "published": "25.08. 20:34",
+      "publishedISO": "2026-08-25T20:34:05+02:00",
+      "title": "Dolly Parton: A life in pictures",
+      "summary": "Dolly Parton (øverst til høyre bak) og familien i julen i 1960 Dolly Parton vokste opp i fattigdom i en ettroms hytte ved bredden av Little Pigeon River i Tennessee's Smoky Mountains, den fjerde av 12 barn. Dolly Parton, 14 år gammel, ved Sevier County High School i 1960. Hun opptrådte på lokal radio og fjernsyn som barn og spilte inn sin første singel som 13-åring. Workplace komediefilm 9 til 5 med Jane Fonda, Lily Tomlin, Dolly Parton og Dabney Coleman Mens Dolly Parton er best kjent for sine flere tiår som filmarbeid som en musikkarriere, har hennes film også etterlatt et langvarig publikum.",
+      "keyPoints": [
+        "Dolly Parton (øverst til høyre bak) og familien i julen i 1960 Dolly Parton vokste opp i fattigdom i en ettroms hytte ved bredden av Little Pigeon River i Tennessee's Smoky Mountains, den fjerde av 12 barn.",
+        "Arbeidskomediefilm 9 til 5 med Jane Fonda, Lily Tomlin, Dolly Parton og Dabney Coleman Mens Dolly Parton er mest kjent for sin musikkarriere som strekker seg over flere tiår, har hennes arbeid som skuespiller også etterlatt et varig inntrykk på filmpublikummet.",
+        "Dolly Parton, 14 år gammel, ved Sevier County High School i 1960. Hun opptrådte på lokal radio og TV som barn og spilte inn sin første singel som 13-åring.",
+        "Etter å ha flyttet til Nashville dagen etter endt utdanning fra Sevier County High School, scoret Dolly Parton sin første solohit med Dumb Blonde i 1966."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/czx2k07g6ldo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1f38/live/d8f6ed50-4e1f-11f1-ac78-2112837ce2aa.jpg",
+      "localImage": "assets/news/b6dcfc82e9ebbd.jpg",
+      "score": 12
+    },
+    {
       "id": "5f5800cdae9c39",
       "category": "Økonomi",
       "published": "25.08. 12:12",
@@ -43,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a2da250a-207a-3c9d-b034-2a65a64d393f?fit=crop&h=675&upscale=true&w=1200&s=897011e9f0a47058717c1740b58b975e21f5f5e3",
       "localImage": "assets/news/5f5800cdae9c39.jpg",
-      "score": 25
+      "score": 24
     },
     {
       "id": "eef0d9af3596e9",
@@ -64,6 +106,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9df90e18-65e5-3476-b487-5bcbba959475?fit=crop&h=675&upscale=true&w=1200&s=031ba005fd752beb45fa7eb0d7bb35433f57c4ad",
       "localImage": "assets/news/eef0d9af3596e9.jpg",
+      "score": 16
+    },
+    {
+      "id": "7b4f97424b3a87",
+      "category": "AI",
+      "published": "26.08. 01:09",
+      "publishedISO": "2026-08-26T01:09:31+02:00",
+      "title": "Bedrifter kjemper etter batteristrøm i Spania og Portugal",
+      "summary": "Et strømbrudd forårsaket kaos over den iberiske halvøy i april 2025 Den 28. april i fjor ble Portugal og Spania mørke i flere timer. I Spania har batterilagringskapasiteten økt nesten syv ganger siden april i fjor, fra omtrent 28 MW før strømbruddet til 193 MW i april 2026, ifølge nettoperatøren Red Electrica. På Vista Alegre forårsaket fjorårets strømbrudd tap på produksjonslinjen. Portugals Vista Alegre, den eldste og største porselensprodusenten i det iberiske landet, bestemte seg for å installere energilagringssystemer i 2022, og grep muligheten til rikelig med midler fra EUs gjenoppretting og motstandsplan. \"Mørkleggingen tjente til syvende og sist fremfor alt til å akselerere denne prosessen,\" forklarer Emília Encarnação i Vista Alegre.",
+      "keyPoints": [
+        "Et strømbrudd forårsaket kaos over den iberiske halvøy i april 2025 Den 28. april i fjor ble Portugal og Spania mørke i flere timer.",
+        "På Vista Alegre forårsaket fjorårets strømbrudd tap på produksjonslinjen. Portugals Vista Alegre, den eldste og største porselensprodusenten i det iberiske landet, bestemte seg for å installere energilagringssystemer i 2022, og grep muligheten til rikelig med midler fra EUs gjenoppretting og motstandsplan. \"Mørkleggingen tjente til syvende og sist fremfor alt til å akselerere denne prosessen,\" forklarer Emília Encarnação i Vista Alegre.",
+        "I Spania har batterilagringskapasiteten økt nesten syv ganger siden april i fjor, fra omtrent 28 MW før strømbruddet til 193 MW i april 2026, ifølge nettoperatøren Red Electrica.",
+        "Spanias Fibrin tapte hundretusenvis av euro under fjorårets blackout Bedrifter over hele Europa har gått over til elektrisitet fra fossilt brensel for sine industrielle behov, oppmuntret av subsidier fra EU-fond."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/7b4f97424b3a87.jpg",
       "score": 17
     },
     {
@@ -85,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/899dc7c5-c87a-33da-8c88-19adc3c40a90?fit=crop&h=675&upscale=true&w=1200&s=18283b6eab78b3f3cd47c12758465fdbe0fdd4a9",
       "localImage": "assets/news/5f0292eedc727e.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "f3a89b2ad1d033",
@@ -106,7 +169,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/11a77b16-aa22-3a04-9b4e-3bcd195f5245?fit=crop&h=675&upscale=true&w=1200&s=e337aef878dcdd7cd9e708d3b5bd290c4289c999",
       "localImage": "assets/news/f3a89b2ad1d033.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "de32cc89bac6af",
+      "category": "Økonomi",
+      "published": "25.08. 17:04",
+      "publishedISO": "2026-08-25T17:04:52+02:00",
+      "title": "Hvem handler Iran med og hva kan Trumps 'økonomiske D-dag' bety?",
+      "summary": "På den tiden har det utviklet dype handelsbånd med flere land som enten har en historie med å ignorere amerikansk økonomisk press selv eller ikke har råd til å slutte å handle med Iran. Og kan det USA har kalt en \"økonomisk D-dag\" ha noen reell innvirkning på Iran? Har USA det som trengs for å ilegge bøter og avgifter på land som fortsetter å handle med Iran?\" Han bemerket hvordan USA startet en økonomisk krig med Kina, Irans største handelspartner, i fjor, men \"rygget ut av det\".",
+      "keyPoints": [
+        "Har USA det som trengs for å ilegge bøter og avgifter på land som fortsetter å handle med Iran?\" Han bemerket hvordan USA startet en økonomisk krig med Kina, Irans største handelspartner, i fjor, men \"rygget ut av det\".",
+        "På den tiden har det utviklet dype handelsbånd med flere land som enten har en historie med å ignorere amerikansk økonomisk press selv eller ikke har råd til å slutte å handle med Iran.",
+        "Og kan det USA har kalt en \"økonomisk D-dag\" ha noen reell innvirkning på Iran?",
+        "USA har truet med å straffe de som fortsetter å handle med Iran som en del av deres økonomiske presstaktikk."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6358/live/a03a3710-a09f-11f1-84a9-276d1a8e5a22.jpg",
+      "localImage": "assets/news/de32cc89bac6af.jpg",
+      "score": 15
     },
     {
       "id": "85152ed717f014",
@@ -128,90 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/d6a4b3af-cec5-3c92-b41d-2ccc446a64c0?fit=crop&h=675&upscale=true&w=1200&s=6587d440f852b21f236d3cbe8e9d09e95dc0af1a",
       "localImage": "assets/news/85152ed717f014.jpg",
       "score": 15
-    },
-    {
-      "id": "2813c42838b172",
-      "category": "Norge",
-      "published": "24.08. 18:46",
-      "publishedISO": "2026-08-24T18:46:25+02:00",
-      "title": "Minst åtte elgskilt stjålet i Troms: Mistenker NATO-soldater",
-      "summary": "Nestleder i Målselv viltnemnd Tor Eriksen forteller at minst 8–10 varselskilt for elg har forsvunnet i Målselv. – Det er bra høyt opp. Eriksen vet ikke nøyaktig hvor mange skilt som er stjålet, men anslår at det minst er 8–10 skilt som har forsvunnet mellom Bardufoss og Rundhaug. Heller ikke Troms fylkeskommune har full oversikt over hvor mange elgskilt som har forsvunnet. – Vi har mange driftskontrakter og dette skjer fra tid til annet.",
-      "keyPoints": [
-        "Eriksen vet ikke nøyaktig hvor mange skilt som er stjålet, men anslår at det minst er 8–10 skilt som har forsvunnet mellom Bardufoss og Rundhaug.",
-        "Nestleder i Målselv viltnemnd Tor Eriksen forteller at minst 8–10 varselskilt for elg har forsvunnet i Målselv. – Det er bra høyt opp.",
-        "Heller ikke Troms fylkeskommune har full oversikt over hvor mange elgskilt som har forsvunnet. – Vi har mange driftskontrakter og dette skjer fra tid til annet.",
-        "Det er ikke et stort problem i Troms fylke at elgskilt forsvinner."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/flere-elgskilt-forsvunnet-i-troms_-mistenker-nato-soldater-1.17999322",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nNISTctnj1QulpwVm6XezArECj3ffA9B5kK1L3rgyrWA.jpg",
-      "localImage": "assets/news/2813c42838b172.jpg",
-      "score": 15
-    },
-    {
-      "id": "1adb293e98bdfc",
-      "category": "Økonomi",
-      "published": "24.08. 15:48",
-      "publishedISO": "2026-08-24T15:48:01+02:00",
-      "title": "Ordkrigen fortsetter – Trump truer Canada med gigatoll",
-      "summary": "Tollen gjelder «alle biler, lastebiler, både store og små, bildeler og stål», varsler Trump. – Canada har snytt USA i årevis. USAs handelsrepresentant Jamieson Greer gir Canada skylden for at forhandlingene brøt sammen. – Vi kom til et punkt tirsdag kveld hvor vi hadde nok enighet mellom partene til å kunngjøre at vi hadde funnet veien til en avtale, sier Greer til CNBC. Trump skrev på sitt eget nettverk Truth Social at «Canada vil ha fordelene av å være en delstat, uten å være det».",
-      "keyPoints": [
-        "Tollen gjelder «alle biler, lastebiler, både store og små, bildeler og stål», varsler Trump. – Canada har snytt USA i årevis.",
-        "Trump skrev på sitt eget nettverk Truth Social at «Canada vil ha fordelene av å være en delstat, uten å være det».",
-        "USAs handelsrepresentant Jamieson Greer gir Canada skylden for at forhandlingene brøt sammen. – Vi kom til et punkt tirsdag kveld hvor vi hadde nok enighet mellom partene til å kunngjøre at vi hadde funnet veien til en avtale, sier Greer til CNBC.",
-        "Han sier han sitter igjen med et intrykk av at Trump ønsker å ødelegge Canadas viktigste industrier, melder Bloomberg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/M7pkdm/trump-med-ny-tolltrussel-mot-canada",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e2074cda-9e5d-38a7-8293-255a2c366214?fit=crop&h=675&upscale=true&w=1200&s=27b747f232be664f2f8e96cccbaa70b93cf57107",
-      "localImage": "assets/news/1adb293e98bdfc.jpg",
-      "score": 15
-    },
-    {
-      "id": "c070117ad5adee",
-      "category": "Norge",
-      "published": "25.08. 22:14",
-      "publishedISO": "2026-08-25T22:14:41+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Vi har kontroll på situasjonen, sier operasjonsleder May Wenche Hansen i Nordland politidistrikt. Den høyeste målte hastigheten var 70 kilometer i timen i 50-sonen, opplyser Nordland politidistrikt. Tidligere denne uka meldte Avisa Nordland at Vålerega hadde lagt inn et bud på 15 millioner kroner for Glimts kantspiller Daniel Bassi.",
-      "keyPoints": [
-        "Vi har kontroll på situasjonen, sier operasjonsleder May Wenche Hansen i Nordland politidistrikt.",
-        "Tidligere denne uka meldte Avisa Nordland at Vålerega hadde lagt inn et bud på 15 millioner kroner for Glimts kantspiller Daniel Bassi.",
-        "Den høyeste målte hastigheten var 70 kilometer i timen i 50-sonen, opplyser Nordland politidistrikt.",
-        "Politiet er på stedet og har kontroll på henne, opplyser Nordland politidistrikt."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/c070117ad5adee.jpg",
-      "score": 13
-    },
-    {
-      "id": "aaeb7e91c2da37",
-      "category": "Økonomi",
-      "published": "25.08. 09:46",
-      "publishedISO": "2026-08-25T09:46:07+02:00",
-      "title": "Oljetopper bekymret etter gass-sjokk: – Begynner å bli alvorlig",
-      "summary": "Med en kald vinter er det «anyone’s guess» hva priseffekten blir, advarer oljetopp. – Vi er alle bekymret for gassprisen, sier Uniper-sjef Michael Lewis til E24. Karl Johnny Hersvik, sjef i oljeselskapet Aker BP, sier at med bortfallet av LNG, hovedsakelig fra Qatar, er Europa gasslagre lavere enn de pleier å være. – Og så er det ikke så grelt som det kanskje kan se ut til, fordi konsumet er gått ned med rundt 30 prosent også. – Men jeg vil jo si at det etter hvert begynner å bli en alvorlig situasjon, spesielt om man skulle få en skikkelig kald vinter i Europa. Vår Energi-sjef Nick Walker sier Hormuzstredet, men også krigen i Ukraina har en har en effekt på forstyrrelsene globalt, som leder til høyere priser på drivstoff, både gass og olje. – Jeg har lenge hatt et syn om at gassprisene ville bli høyere enn forventet. - Jeg ventet ikke så mye forstyrrelser som dette.",
-      "keyPoints": [
-        "Karl Johnny Hersvik, sjef i oljeselskapet Aker BP, sier at med bortfallet av LNG, hovedsakelig fra Qatar, er Europa gasslagre lavere enn de pleier å være. – Og så er det ikke så grelt som det kanskje kan se ut til, fordi konsumet er gått ned med rundt 30 prosent også. – Men jeg vil jo si at det etter hvert begynner å bli en alvorlig situasjon, spesielt om man skulle få en skikkelig kald vinter i Europa.",
-        "Vår Energi-sjef Nick Walker sier Hormuzstredet, men også krigen i Ukraina har en har en effekt på forstyrrelsene globalt, som leder til høyere priser på drivstoff, både gass og olje. – Jeg har lenge hatt et syn om at gassprisene ville bli høyere enn forventet. - Jeg ventet ikke så mye forstyrrelser som dette.",
-        "Med en kald vinter er det «anyone’s guess» hva priseffekten blir, advarer oljetopp. – Vi er alle bekymret for gassprisen, sier Uniper-sjef Michael Lewis til E24.",
-        "Og så er det «anyone’s guess» hva priskonsekvensen kan bli."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zOQPqw/oljetopper-bekymret-etter-gass-sjokk-begynner-aa-bli-alvorlig",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f0c79f25-7f19-33fe-bd63-75070bda7d42?fit=crop&h=675&upscale=true&w=1200&s=aa536b7bef05ab305273a1171ae0a01fe193af7d",
-      "localImage": "assets/news/aaeb7e91c2da37.jpg",
-      "score": 13
     }
   ]
 }
