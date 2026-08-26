@@ -1,49 +1,28 @@
 {
-  "updatedAt": "26.08.2026 kl. 10:04",
-  "updatedISO": "2026-08-26T10:04:50.487140+02:00",
+  "updatedAt": "26.08.2026 kl. 12:09",
+  "updatedISO": "2026-08-26T12:09:51.449215+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "9d80bba4f55836",
+      "id": "cc724bff137a82",
       "category": "Norge",
-      "published": "26.08. 07:01",
-      "publishedISO": "2026-08-26T07:01:04+02:00",
-      "title": "Vallø tapetfabrikk i Tønsberg blir dokumentarfilm",
-      "summary": "I nesten 100 år sørgde fabrikken på Vallø for mønstra tapet og sandpapir i tusenvis av norske heimar. FILMSKAPARAR: Erik Jacobsen og Jan Neråen har gått saman om å lage ein dokumentar om tapetfabrikken på Vallø i Tønsberg. – Dette er ei unik, norsk, spennande og rørande historie om ei familiebedrift i tre generasjonar. Under andre verdskrigen blei fabrikkbygningane på Vallø bomba sunder og saman.",
+      "published": "26.08. 08:56",
+      "publishedISO": "2026-08-26T08:56:43+02:00",
+      "title": "Oljebransjen vil ha leiting i omstridd havområde",
+      "summary": "Nordland VI har lenge vore eit politisk omstridd område. Store aktørar ønsker å satse på leiting i omstridd havområde utanfor Lofoten. Han meiner eit ja til desse areala vil opne slusene for meir leiting vidare innover: – Får dei tilgang på dei, som vi har klart å hindre nå i over 40 år, så kjem dei til å gå vidare, seier han.",
       "keyPoints": [
-        "FILMSKAPARAR: Erik Jacobsen og Jan Neråen har gått saman om å lage ein dokumentar om tapetfabrikken på Vallø i Tønsberg. – Dette er ei unik, norsk, spennande og rørande historie om ei familiebedrift i tre generasjonar.",
-        "I nesten 100 år sørgde fabrikken på Vallø for mønstra tapet og sandpapir i tusenvis av norske heimar.",
-        "Under andre verdskrigen blei fabrikkbygningane på Vallø bomba sunder og saman.",
-        "No håpar dei historia kan bevare landemerket på Vallø for framtida."
+        "Store aktørar ønsker å satse på leiting i omstridd havområde utanfor Lofoten.",
+        "Han meiner eit ja til desse areala vil opne slusene for meir leiting vidare innover: – Får dei tilgang på dei, som vi har klart å hindre nå i over 40 år, så kjem dei til å gå vidare, seier han.",
+        "Nordland VI har lenge vore eit politisk omstridd område.",
+        "Det er omstridd med tanke på omsyn til klima og miljø. – Næringa ber ikkje om opning av Lofoten, Vesterålen og Senja."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/vallo-tapetfabrikk-i-tonsberg-blir-dokumentarfilm-1.18000725",
+      "url": "https://www.nrk.no/rogaland/oljebransjen-vil-ha-leiting-i-omstridd-havomrade-1.18001761",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/1xRlwpPP8I_TcWT001SO6QtH_BSrgxGTGJvCIY4rSbOg.jpg",
-      "localImage": "assets/news/9d80bba4f55836.jpg",
-      "score": 17
-    },
-    {
-      "id": "ace9d661a10dfb",
-      "category": "Verden",
-      "published": "25.08. 04:49",
-      "publishedISO": "2026-08-25T04:49:22+02:00",
-      "title": "Hvordan Canada kunne slå tilbake for å skade den amerikanske økonomien - og Trump",
-      "summary": "\"Trump undervurderer oss\": Doug Ford tar sikte på USA over toll. Omtrent 70 % av Canadas eksporterte varer går til USA. Jeg vil elske å se ham dyrke grønnsaker og frukt uten potaske,» sa Ford mandag. «President Trump undervurderer oss, og det er den største feilen.» Canada kunngjør «dollar-for-dollar» gjengjeldelsestariffer på USA så høye som 50 %. Canada har også betydelige reserver av kritiske mineraler som litium, nikkel og grafitt. på biler og bildeler fra Canada til 50 % etter 1. januar \"Hva er meldingen sendt ut til arbeiderne i Michigan, Ohio, Kentucky, Alabama?",
-      "keyPoints": [
-        "Mandag sa Carney at amerikanske arbeidere vil bli såret av Trumps siste trussel om å øke tollsatsen på biler og bildeler fra Canada til 50 % etter 1. januar. \"Hva er meldingen sendt ut til arbeiderne i Michigan, Ohio, Kentucky, Alabama?",
-        "'Trump underestimates us': Doug Ford takes aim at US over tariffs About 70% of Canada's exported goods go to the US.",
-        "Jeg vil elske å se ham dyrke grønnsaker og frukt uten potaske,\" sa Ford mandag. \"President Trump undervurderer oss, og det er den største feilen.\" Canada kunngjør \"dollar-for-dollar\" gjengjeldelsestariffer på USA så høye som 50 %. Canada har også betydelige reserver av kritiske mineraler som litium, nikkel og grafitt.",
-        "Det kommer til å skade dem.\" Ford, en av de mest vokale kanadiske lederne som motsetter seg Trump-administrasjonens tariffer, utelukket heller ikke å spesifikt målrette republikanske amerikanske stater med gjengjeldelsestiltak og \"å sørge for at USAs økonomi føler smerten\"."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7b4c/live/df25db30-a01a-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/ace9d661a10dfb.jpg",
-      "score": 12
+      "image": "https://gfx.nrk.no/uAhz2HgY-5x4FQwbM7PD7gMH_b3N2a7Zpz3tMhABZ4iw.jpg",
+      "localImage": "assets/news/cc724bff137a82.jpg",
+      "score": 16
     },
     {
       "id": "5f5800cdae9c39",
@@ -88,24 +67,24 @@
       "score": 20
     },
     {
-      "id": "cc724bff137a82",
+      "id": "9d80bba4f55836",
       "category": "Norge",
-      "published": "26.08. 08:56",
-      "publishedISO": "2026-08-26T08:56:43+02:00",
-      "title": "Oljebransjen vil ha leiting i omstridd havområde",
-      "summary": "Nordland VI har lenge vore eit politisk omstridd område. Store aktørar ønsker å satse på leiting i omstridd havområde utanfor Lofoten. Han meiner eit ja til desse areala vil opne slusene for meir leiting vidare innover: – Får dei tilgang på dei, som vi har klart å hindre nå i over 40 år, så kjem dei til å gå vidare, seier han.",
+      "published": "26.08. 07:01",
+      "publishedISO": "2026-08-26T07:01:04+02:00",
+      "title": "Vallø tapetfabrikk i Tønsberg blir dokumentarfilm",
+      "summary": "I nesten 100 år sørgde fabrikken på Vallø for mønstra tapet og sandpapir i tusenvis av norske heimar. FILMSKAPARAR: Erik Jacobsen og Jan Neråen har gått saman om å lage ein dokumentar om tapetfabrikken på Vallø i Tønsberg. – Dette er ei unik, norsk, spennande og rørande historie om ei familiebedrift i tre generasjonar. Under andre verdskrigen blei fabrikkbygningane på Vallø bomba sunder og saman.",
       "keyPoints": [
-        "Store aktørar ønsker å satse på leiting i omstridd havområde utanfor Lofoten.",
-        "Han meiner eit ja til desse areala vil opne slusene for meir leiting vidare innover: – Får dei tilgang på dei, som vi har klart å hindre nå i over 40 år, så kjem dei til å gå vidare, seier han.",
-        "Nordland VI har lenge vore eit politisk omstridd område.",
-        "Det er omstridd med tanke på omsyn til klima og miljø. – Næringa ber ikkje om opning av Lofoten, Vesterålen og Senja."
+        "FILMSKAPARAR: Erik Jacobsen og Jan Neråen har gått saman om å lage ein dokumentar om tapetfabrikken på Vallø i Tønsberg. – Dette er ei unik, norsk, spennande og rørande historie om ei familiebedrift i tre generasjonar.",
+        "I nesten 100 år sørgde fabrikken på Vallø for mønstra tapet og sandpapir i tusenvis av norske heimar.",
+        "Under andre verdskrigen blei fabrikkbygningane på Vallø bomba sunder og saman.",
+        "No håpar dei historia kan bevare landemerket på Vallø for framtida."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/oljebransjen-vil-ha-leiting-i-omstridd-havomrade-1.18001761",
+      "url": "https://www.nrk.no/vestfoldogtelemark/vallo-tapetfabrikk-i-tonsberg-blir-dokumentarfilm-1.18000725",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/uAhz2HgY-5x4FQwbM7PD7gMH_b3N2a7Zpz3tMhABZ4iw.jpg",
-      "localImage": "assets/news/cc724bff137a82.jpg",
+      "image": "https://gfx.nrk.no/1xRlwpPP8I_TcWT001SO6QtH_BSrgxGTGJvCIY4rSbOg.jpg",
+      "localImage": "assets/news/9d80bba4f55836.jpg",
       "score": 16
     },
     {
@@ -127,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/73257f24-24bc-3fda-aed5-c37e7943ed62?fit=crop&h=675&upscale=true&w=1200&s=0132394d16ffe18c4280e08d270a25037b78c320",
       "localImage": "assets/news/c7981112d6d4ea.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "eef0d9af3596e9",
@@ -148,27 +127,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9df90e18-65e5-3476-b487-5bcbba959475?fit=crop&h=675&upscale=true&w=1200&s=031ba005fd752beb45fa7eb0d7bb35433f57c4ad",
       "localImage": "assets/news/eef0d9af3596e9.jpg",
-      "score": 15
-    },
-    {
-      "id": "f3a89b2ad1d033",
-      "category": "Økonomi",
-      "published": "25.08. 19:20",
-      "publishedISO": "2026-08-25T19:20:02+02:00",
-      "title": "Warsh taus om utsiktene: – Risikerer at rentene går mye mer",
-      "summary": "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag. Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A. Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
-      "keyPoints": [
-        "Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
-        "Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A.",
-        "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag.",
-        "Når Warsh snakker på fredag kommer Hov til å følge med på om det blir noen utslag i lange renter, etter renteoppgangen som har vært i markedet i det siste."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/L4eBwQ/warsh-taus-om-utsiktene-risikerer-at-rentene-gaar-mye-mer",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/11a77b16-aa22-3a04-9b4e-3bcd195f5245?fit=crop&h=675&upscale=true&w=1200&s=e337aef878dcdd7cd9e708d3b5bd290c4289c999",
-      "localImage": "assets/news/f3a89b2ad1d033.jpg",
       "score": 15
     },
     {
@@ -193,25 +151,67 @@
       "score": 14
     },
     {
-      "id": "de32cc89bac6af",
+      "id": "f3a89b2ad1d033",
       "category": "Økonomi",
-      "published": "25.08. 17:04",
-      "publishedISO": "2026-08-25T17:04:52+02:00",
-      "title": "Hvem handler Iran med og hva kan Trumps 'økonomiske D-dag' bety?",
-      "summary": "På den tiden har det utviklet dype handelsbånd med flere land som enten har en historie med å ignorere amerikansk økonomisk press selv eller ikke har råd til å slutte å handle med Iran. Og kan det USA har kalt en \"økonomisk D-dag\" ha noen reell innvirkning på Iran? Har USA det som trengs for å ilegge bøter og avgifter på land som fortsetter å handle med Iran?\" Han bemerket hvordan USA startet en økonomisk krig med Kina, Irans største handelspartner, i fjor, men \"rygget ut av det\".",
+      "published": "25.08. 19:20",
+      "publishedISO": "2026-08-25T19:20:02+02:00",
+      "title": "Warsh taus om utsiktene: – Risikerer at rentene går mye mer",
+      "summary": "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag. Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A. Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
       "keyPoints": [
-        "Har USA det som trengs for å ilegge bøter og avgifter på land som fortsetter å handle med Iran?\" Han bemerket hvordan USA startet en økonomisk krig med Kina, Irans største handelspartner, i fjor, men \"rygget ut av det\".",
-        "På den tiden har det utviklet dype handelsbånd med flere land som enten har en historie med å ignorere amerikansk økonomisk press selv eller ikke har råd til å slutte å handle med Iran.",
-        "Og kan det USA har kalt en \"økonomisk D-dag\" ha noen reell innvirkning på Iran?",
-        "USA har truet med å straffe de som fortsetter å handle med Iran som en del av deres økonomiske presstaktikk."
+        "Da risikerer du at rentene går mye mer enn det vi har sett nå i det siste.",
+        "Warsh valgt å ikke gi noen rentespådom da Fed kom med prognoser i juni, i motsetning til alle de andre sentralbanktoppene. – Der har han vært usedvanlig tydelig, sier Knut A.",
+        "Der skal USAs sentralbanksjef Kevin Warsh i aksjon fredag ettermiddag.",
+        "Når Warsh snakker på fredag kommer Hov til å følge med på om det blir noen utslag i lange renter, etter renteoppgangen som har vært i markedet i det siste."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6358/live/a03a3710-a09f-11f1-84a9-276d1a8e5a22.jpg",
-      "localImage": "assets/news/de32cc89bac6af.jpg",
+      "url": "https://e24.no/internasjonal-oekonomi/i/L4eBwQ/warsh-taus-om-utsiktene-risikerer-at-rentene-gaar-mye-mer",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/11a77b16-aa22-3a04-9b4e-3bcd195f5245?fit=crop&h=675&upscale=true&w=1200&s=e337aef878dcdd7cd9e708d3b5bd290c4289c999",
+      "localImage": "assets/news/f3a89b2ad1d033.jpg",
       "score": 14
+    },
+    {
+      "id": "34e306b7846def",
+      "category": "Økonomi",
+      "published": "26.08. 11:47",
+      "publishedISO": "2026-08-26T11:47:45+02:00",
+      "title": "Tapte millioner etter Hoka-brudd",
+      "summary": "Hoka hadde vært bedriftens grunnpilar i en årrekke, med skosalg på opptil 60–70 prosent av de totale inntektene. – Når man mister en så stor andel av omsetningen såpass raskt, så sier det seg selv at man må være flink til å omstille, sier Aabol til E24. Han forteller at nye merkevarer bidro til 19 millioner i omsetning i fjor. Årsresultatet kom på 111 millioner kroner, noe som muliggjorde et utbytte på 100 millioner kroner til de to eierne.",
+      "keyPoints": [
+        "Han forteller at nye merkevarer bidro til 19 millioner i omsetning i fjor.",
+        "Hoka hadde vært bedriftens grunnpilar i en årrekke, med skosalg på opptil 60–70 prosent av de totale inntektene. – Når man mister en så stor andel av omsetningen såpass raskt, så sier det seg selv at man må være flink til å omstille, sier Aabol til E24.",
+        "Årsresultatet kom på 111 millioner kroner, noe som muliggjorde et utbytte på 100 millioner kroner til de to eierne.",
+        "Totalt har Nordberg og Balhald hentet ut 375 millioner kroner fra Run de siste fire årene."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/Gx5qxJ/tapte-millioner-etter-hoka-brudd",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/39ca9073-52fc-3efd-b635-5c94fa3355c0?fit=crop&h=675&upscale=true&w=1200&s=caebcce3e399036ffcb3d908a52a386ec7e64454",
+      "localImage": "assets/news/34e306b7846def.jpg",
+      "score": 13
+    },
+    {
+      "id": "b5957edcf86e46",
+      "category": "Økonomi",
+      "published": "26.08. 09:51",
+      "publishedISO": "2026-08-26T09:51:07+02:00",
+      "title": "– Går vi inn i EU, tror jeg fiskeindustrien kollapser",
+      "summary": "Skulle Island velge å knytte seg til EU, kan det bli langt flere dager uten aktivitet her, frykter Jónsson. – Går vi inn i EU, tror jeg fiskeindustrien vil kollapse på Island. Hvert år går inntil 5000 tonn fisk gjennom maskineriet før den selges videre til utlandet. – Det er selvsagt dyrere å gjøre det her, men det er mye bedre kvalitet, sier Jónsson. Dette betyr at inntektene forblir på Island, påpeker sjeføkonomen. – Jeg tror ikke jeg går imot noen allmenn oppfatning her på Island når jeg sier at dette sannsynligvis vil være den viktigste, avgjørende faktoren.",
+      "keyPoints": [
+        "Skulle Island velge å knytte seg til EU, kan det bli langt flere dager uten aktivitet her, frykter Jónsson. – Går vi inn i EU, tror jeg fiskeindustrien vil kollapse på Island.",
+        "Dette betyr at inntektene forblir på Island, påpeker sjeføkonomen. – Jeg tror ikke jeg går imot noen allmenn oppfatning her på Island når jeg sier at dette sannsynligvis vil være den viktigste, avgjørende faktoren.",
+        "Hvert år går inntil 5000 tonn fisk gjennom maskineriet før den selges videre til utlandet. – Det er selvsagt dyrere å gjøre det her, men det er mye bedre kvalitet, sier Jónsson.",
+        "Men jeg tror ikke noen er interessert i det på Island. – Du kan potensielt tjene store penger på å selge? – Nei."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/bOe575/gaar-vi-inn-i-eu-tror-jeg-fiskeindustrien-kollapser",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1fecf4ea-485e-332b-8bdf-1b3460591030?fit=crop&h=675&upscale=true&w=1200&s=42c3e3323acb079d9cab115bf95bed824b51b9c8",
+      "localImage": "assets/news/b5957edcf86e46.jpg",
+      "score": 13
     }
   ]
 }
