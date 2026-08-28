@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 00:07",
-  "updatedISO": "2026-08-29T00:07:13.786278+02:00",
+  "updatedAt": "29.08.2026 kl. 00:22",
+  "updatedISO": "2026-08-29T00:22:55.893883+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,48 @@
       "image": "https://gfx.nrk.no/R8Ru-t4Ox8GSb8CAaxYiVQh0Zwb53p8rUnrikxzUMEdw.jpg",
       "localImage": "assets/news/ac1ec9affe6d78.jpg",
       "score": 16
+    },
+    {
+      "id": "870beb9895df49",
+      "category": "Verden",
+      "published": "28.08. 22:23",
+      "publishedISO": "2026-08-28T22:23:28+02:00",
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "summary": "Video viser omfanget av flom som rammer grensen mellom Nepal og Tibet. Ødeleggende jordskred og flom på grensen mellom Nepal og Tibet har forårsaket omfattende skader og etterlatt hundrevis døde og tusenvis flere savnet. Spore den dødelige stien til lynflommen Nepal-Tibet Hun var i ferd med å krysse inn i Tibet for en etterlengtet pilegrimsreise - så stoppet meldingene hennes De første rapportene om et jordskjelv på grensen mellom Nepal og Tibet fikk mange til å tro at et skjelv hadde forårsaket et jordskred, som igjen forårsaket de ødeleggende flommene tidlig onsdag. Regjeringen har offentliggjort en liste over mer enn 517 utenlandske statsborgere som har vært ute av kontakt siden flommen rammet, inkludert 33 britiske statsborgere.",
+      "keyPoints": [
+        "Spore den dødelige stien til lynflommen Nepal-Tibet Hun var i ferd med å krysse inn i Tibet for en etterlengtet pilegrimsreise - så stoppet meldingene hennes De første rapportene om et jordskjelv på grensen mellom Nepal og Tibet fikk mange til å tro at et skjelv hadde forårsaket et jordskred, som igjen forårsaket de ødeleggende flommene tidlig onsdag.",
+        "Video viser omfanget av flom som rammer grensen mellom Nepal og Tibet. Ødeleggende jordskred og flom på grensen mellom Nepal og Tibet har forårsaket omfattende skader og etterlatt hundrevis døde og tusenvis flere savnet.",
+        "Regjeringen har offentliggjort en liste over mer enn 517 utenlandske statsborgere som har vært ute av kontakt siden flommen rammet, inkludert 33 britiske statsborgere.",
+        "Minst 579 mennesker har blitt drept og nesten 2000 mennesker er fortsatt uoppdaget, ifølge Nepals nasjonale myndighet for katastrofereduksjon og styring."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8e6/live/a575cfc0-a2c3-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/870beb9895df49.jpg",
+      "score": 13
+    },
+    {
+      "id": "9bd3d8f0c8cfb0",
+      "category": "USA",
+      "published": "28.08. 18:15",
+      "publishedISO": "2026-08-28T18:15:03+02:00",
+      "title": "Se: Valp reddet fra avløp ved hjelp av en bøtte og ost",
+      "summary": "Politifolk i Tampa, Florida, brukte ost for å lokke en valp inn i en bøtte som deretter ble heist ut av et avløp. Se: Valp reddet fra avløp ved hjelp av en bøtte og ost. Video, 00:00:44Se: Valp reddet fra avløp ved hjelp av en bøtte og ost Up Next.",
+      "keyPoints": [
+        "Se: Valp reddet fra avløp ved hjelp av en bøtte og ost.",
+        "Police officers in Tampa, Florida, used cheese to coax a puppy into a bucket that was then hoisted out of a drain.",
+        "Video, 00:00:34Hviter og delfiner reddet fra lukket kanadisk park ankommer Spania Se: Stjernekikkere rundt om i verden får et glimt av \"Blood Moon\"-måneformørkelsen.",
+        "Video, 00:01:24Robot boxing, football and sprinting at World Humanoid Games Watch: Moment humanoid robot beats Usain Bolt's 100m record."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c5ydgr93x0po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c4e/live/8ad7c930-a2f9-11f1-8d5b-155abe464768.jpg",
+      "localImage": "assets/news/9bd3d8f0c8cfb0.jpg",
+      "score": 12
     },
     {
       "id": "396bcfcd529c51",
@@ -151,66 +193,24 @@
       "score": 14
     },
     {
-      "id": "805a40b5e8c2d3",
-      "category": "Norge",
-      "published": "28.08. 21:13",
-      "publishedISO": "2026-08-28T21:13:25+02:00",
-      "title": "Kongen fikk meg ut av skapet",
-      "summary": "Mine besteforeldre innvandret fra Danmark og England for 110 år siden.» Kongen snakket om meg, ikke bare til meg. Ti år senere opplever jeg at unge muslimer har begynt å åpne det samme skapet jeg selv gjemte meg i som ungdom. Og ikke bare muslimer, men også andre minoritetsgrupper. «På grunn av deg har en nevø av meg kommet ut av skapet», skrev en norsk-pakistansk mann til meg nylig.",
+      "id": "96eec1d0defa7a",
+      "category": "Verden",
+      "published": "28.08. 21:57",
+      "publishedISO": "2026-08-28T21:57:50+02:00",
+      "title": "Greenland says findings on forced contraception genocide allegation not final",
+      "summary": "I 2024 beskrev en tidligere statsminister på Grønland, Mute B Egede, praksisen som \"folkemord\". I en reaksjon på fredag ​​sa Grønlands justisminister at de to rapportene var så forskjellige at den ene «sier at det ikke var noe folkemord i det hele tatt» mens den andre «sier at det kunne ha vært det». Inger Platou sier at inuittkvinner og -jenter ble «behandlet som dyr» I en reaksjon på rapportene fredag ​​sa Frederiksen: «Vi vil håndtere den politiske prosessen sammen med Grønlands regjering.",
       "keyPoints": [
-        "Mine besteforeldre innvandret fra Danmark og England for 110 år siden.» Kongen snakket om meg, ikke bare til meg.",
-        "Ti år senere opplever jeg at unge muslimer har begynt å åpne det samme skapet jeg selv gjemte meg i som ungdom.",
-        "Og ikke bare muslimer, men også andre minoritetsgrupper. «På grunn av deg har en nevø av meg kommet ut av skapet», skrev en norsk-pakistansk mann til meg nylig.",
-        "For ti år siden inviterte han til hagefest i Slottsparken og holdt talen som forandret livet mitt. «Nordmenn er jenter som er glad i jenter, gutter som er glad i gutter, og jenter og gutter som er glad i hverandre», sa kongen."
+        "I en reaksjon på fredag ​​sa Grønlands justisminister at de to rapportene var så forskjellige at den ene «sier at det ikke var noe folkemord i det hele tatt» mens den andre «sier at det kunne ha vært det».",
+        "In 2024, a former prime minister of Greenland, Mute B Egede, described the practice as \"genocide\".",
+        "Inger Platou sier at inuittkvinner og -jenter ble «behandlet som dyr» I en reaksjon på rapportene fredag ​​sa Frederiksen: «Vi vil håndtere den politiske prosessen sammen med Grønlands regjering.",
+        "De to ekspertene som ble igjen, Alaskas advokat Dalee Sambo Dorough og jussprofessor Miriam Cullen ved Københavns Universitet, fant i sin rapport at rettighetene til inuittkvinner på Grønland var blitt krenket."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ytring/kongen-fikk-meg-ut-av-skapet-1.17999378",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/h3qKpkx-LMIh-L6JcAgx5AGXT4MtcqkBkOP2-aUckxmA.jpg",
-      "localImage": "assets/news/805a40b5e8c2d3.jpg",
-      "score": 13
-    },
-    {
-      "id": "c14ef8fa56b4de",
-      "category": "Norge",
-      "published": "28.08. 20:51",
-      "publishedISO": "2026-08-28T20:51:47+02:00",
-      "title": "Elever i Mette-Marits gamle skolegård: – Gøy å få henne som dronning",
-      "summary": "På dronning Mette-Marits gamle skole startet dagen med tårer, men nå er elevene fulle av håp for det nye kongeparet. (Fra venstre) Thomas, Jakob og Vilde synes det er stas med en tidligere elev som dronning. – Det skal bli gøy og fint å få henne som dronning, forteller Vilde Ørmen Eide. 5.-klassingen går på Slettheia skole i Kristiansand – akkurat samme barneskolen som dronning Mette-Marit gikk på. Kronprins Haakon og kronprinsesse Mette-Marit er nå landets nye konge og dronning. – Jeg tror det blir veldig bra med Mette-Marit som dronning, sier Thomas Jones Abrahamsen.",
-      "keyPoints": [
-        "På dronning Mette-Marits gamle skole startet dagen med tårer, men nå er elevene fulle av håp for det nye kongeparet. (Fra venstre) Thomas, Jakob og Vilde synes det er stas med en tidligere elev som dronning. – Det skal bli gøy og fint å få henne som dronning, forteller Vilde Ørmen Eide.",
-        "5.-klassingen går på Slettheia skole i Kristiansand – akkurat samme barneskolen som dronning Mette-Marit gikk på.",
-        "Kronprins Haakon og kronprinsesse Mette-Marit er nå landets nye konge og dronning. – Jeg tror det blir veldig bra med Mette-Marit som dronning, sier Thomas Jones Abrahamsen.",
-        "Elevene ved Slettheia skole synes det er stas at en tidligere elev ved skolen nå overtar tronen. – Det kan føles litt annerledes enn med kong Harald, men jeg tror fortsatt det blir kjempegøy med Mette-Marit, sier Jakob Saddik Jensen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/elever-i-mette-marits-gamle-skolegard_-_-goy-a-fa-henne-som-dronning-1.18006449",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/RAThm7X2BCFAz8klqaAVTwXi5Bga5ZDl7OfC8TEIRJSA.jpg",
-      "localImage": "assets/news/c14ef8fa56b4de.webp",
-      "score": 13
-    },
-    {
-      "id": "a46c2fcbeb733b",
-      "category": "Norge",
-      "published": "28.08. 19:59",
-      "publishedISO": "2026-08-28T19:59:35+02:00",
-      "title": "Fotoserie: Folk i Vestland takkar Kong Harald",
-      "summary": "Besøket til Etne blei eitt av kong Harald sine siste besøk til Vestland. Barna på Etne møtte kong Harald då han var på besøk rett før sommaren. Emma Josefine Aareland Nygaard synest kong Harald var morosam.",
-      "keyPoints": [
-        "Besøket til Etne blei eitt av kong Harald sine siste besøk til Vestland.",
-        "Barna på Etne møtte kong Harald då han var på besøk rett før sommaren.",
-        "Emma Josefine Aareland Nygaard synest kong Harald var morosam.",
-        "I Ullensvang straumar folk til kondolanseprotokollen. – Han har vore ein fantastisk konge på alle vis."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/sja-fotoserie-fra-vestland-fylke_-heile-vestland-sorger-over-kong-harald-1.18006653",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/IdT7qGKYm5oBEeHCXEMrEgooP74FWf5wPaqRP6YC4bpQ.jpg",
-      "localImage": "assets/news/a46c2fcbeb733b.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d3c/live/3f385690-a31a-11f1-8937-ebc435db1160.jpg",
+      "localImage": "assets/news/96eec1d0defa7a.jpg",
       "score": 13
     }
   ]
