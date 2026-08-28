@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28.08.2026 kl. 23:54",
-  "updatedISO": "2026-08-28T23:54:02.932097+02:00",
+  "updatedAt": "29.08.2026 kl. 00:07",
+  "updatedISO": "2026-08-29T00:07:13.786278+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1bce5ceb-2454-3963-903e-55f326a608a5?fit=crop&h=675&upscale=true&w=1200&s=a406755270c5632cd281ec5bdc5c1e578f1b7cf8",
       "localImage": "assets/news/396bcfcd529c51.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "2875555e1ea362",
@@ -148,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/RVugSI6PGz7heevNVPKVWgwkCBoyn48mIQskBcGs5agw.jpg",
       "localImage": "assets/news/55dd86cf0bceea.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "805a40b5e8c2d3",
