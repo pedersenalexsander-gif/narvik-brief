@@ -1,28 +1,49 @@
 {
-  "updatedAt": "28.08.2026 kl. 02:59",
-  "updatedISO": "2026-08-28T02:59:58.191370+02:00",
+  "updatedAt": "28.08.2026 kl. 23:54",
+  "updatedISO": "2026-08-28T23:54:02.932097+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "f3f89fc142be4f",
+      "id": "ac1ec9affe6d78",
       "category": "Norge",
-      "published": "27.08. 06:10",
-      "publishedISO": "2026-08-27T06:10:46+02:00",
-      "title": "Medier: CIA-sjef advarte Russland mot å angripe Nato-land",
-      "summary": "Amerikanske tjenestemenn frykter at Russland kan angripe Nato-land. ADVARSEL: CIA-sjef John Ratcliffe har advart Russland mot å angripe Nato-land, og da særlig de baltiske landene. CIA-sjef John Ratcliffe skal ha advart Russland mot å angripe Nato-land da han denne uken var på besøk i Moskva.",
+      "published": "28.08. 18:15",
+      "publishedISO": "2026-08-28T18:15:41+02:00",
+      "title": "Kronen og sverdet fraktet til kongens båre",
+      "summary": "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten. Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark. Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
       "keyPoints": [
-        "ADVARSEL: CIA-sjef John Ratcliffe har advart Russland mot å angripe Nato-land, og da særlig de baltiske landene.",
-        "CIA-sjef John Ratcliffe skal ha advart Russland mot å angripe Nato-land da han denne uken var på besøk i Moskva.",
-        "Amerikanske tjenestemenn frykter at Russland kan angripe Nato-land.",
-        "Da advarte daværende CIA-sjef William Burns den russiske presidenten Vladimir Putin om å ikke angripe Ukraina, skriver avisen."
+        "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten.",
+        "Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark.",
+        "Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
+        "Ornamentikken i toppstykket består av eikeløv og laurbærblader. – Ved monarkens død spiller kronen og sverdet en helt sentral rolle."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/medier_-cia-sjef-advarte-russland-mot-a-angripe-nato-land-1.18002985",
+      "url": "https://www.nrk.no/norge/xl/kronen-og-sverdet-fraktet-til-kongens-bare-1.15041811",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/q6QojqjF3eOKU2UTLyR85w960fj27xZOfw95GBAZJAAQ.jpg",
-      "localImage": "assets/news/f3f89fc142be4f.jpg",
-      "score": 17
+      "image": "https://gfx.nrk.no/R8Ru-t4Ox8GSb8CAaxYiVQh0Zwb53p8rUnrikxzUMEdw.jpg",
+      "localImage": "assets/news/ac1ec9affe6d78.jpg",
+      "score": 16
+    },
+    {
+      "id": "396bcfcd529c51",
+      "category": "Økonomi",
+      "published": "28.08. 09:03",
+      "publishedISO": "2026-08-28T09:03:24+02:00",
+      "title": "Oslo Børs stengte på ny rekord",
+      "summary": "Børsen stengte på rekordnivå tirsdag, og deretter fulgte to dager på rad med nedgang. Fredag stengte børsen på ny rekord med 2099,85 poeng, rundt to poeng mer enn tirsdag. Dette er Frontlines nøkkeltall i andre kvartal: Det var ventet henholdsvis 616 millioner dollar og 652 millioner dollar, ifølge Bloomberg. – Andre kvartal 2026 fortsatte å være volatilt.",
+      "keyPoints": [
+        "Fredag stengte børsen på ny rekord med 2099,85 poeng, rundt to poeng mer enn tirsdag.",
+        "Dette er Frontlines nøkkeltall i andre kvartal: Det var ventet henholdsvis 616 millioner dollar og 652 millioner dollar, ifølge Bloomberg. – Andre kvartal 2026 fortsatte å være volatilt.",
+        "Børsen stengte på rekordnivå tirsdag, og deretter fulgte to dager på rad med nedgang.",
+        "Utbyttet er på 2,61 dollar per aksje for andre kvartal, mens det var ventet 2,52 dollar per aksje."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/q6bnqe/oslo-boers-stiger-fra-start",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1bce5ceb-2454-3963-903e-55f326a608a5?fit=crop&h=675&upscale=true&w=1200&s=a406755270c5632cd281ec5bdc5c1e578f1b7cf8",
+      "localImage": "assets/news/396bcfcd529c51.jpg",
+      "score": 18
     },
     {
       "id": "2875555e1ea362",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1646fc56-c17f-3252-bbd2-e8d5630225b2?fit=crop&h=675&upscale=true&w=1200&s=3dcf569caa097fc03e527562b81a4234a39b8799",
       "localImage": "assets/news/2875555e1ea362.jpg",
-      "score": 21
+      "score": 17
     },
     {
       "id": "1b6c34ad6f864f",
@@ -64,154 +85,133 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7520709e-e033-3826-acb3-01e77ad7d9d4?fit=crop&h=675&upscale=true&w=1200&s=63f59cbaf8803ec33fefe0427c13908e302fbddd",
       "localImage": "assets/news/1b6c34ad6f864f.jpg",
-      "score": 20
+      "score": 16
     },
     {
-      "id": "22be63d3bf28e0",
-      "category": "Økonomi",
-      "published": "27.08. 10:18",
-      "publishedISO": "2026-08-27T10:18:09+02:00",
-      "title": "Nvidia løftet tekaksjer på Wall Street",
-      "summary": "Det skjer etter at selskapet la frem tall dagen før: Markedsverdi til Nvidia ligger på om lag 47.500 milliarder norske kroner. Den brede databrikkeindeksen iShares Semiconductor ETF er opp 1,95 prosent. – Vi holder fast ved vår overbevisning om den bredere AI-veksthistorien, skriver et team i UBS ledet av investeringssjef Mark Haefele i en morgenrapport, ifølge CNBC. – Nvidia leverte som ventet svært sterke kvartalstall, med en omsetningsvekst på hele 106 prosent, skriver forvalter Harald Jeremiassen i Holberg til E24. Forvalteren mener likevel at det mest oppsiktsvekkende var utsiktene fremover. – Fra en allerede svært høy omsetningsbase forventer Nvidia rundt 70 prosent vekst i deres neste hele regnskapsår.",
-      "keyPoints": [
-        "Den brede databrikkeindeksen iShares Semiconductor ETF er opp 1,95 prosent. – Vi holder fast ved vår overbevisning om den bredere AI-veksthistorien, skriver et team i UBS ledet av investeringssjef Mark Haefele i en morgenrapport, ifølge CNBC. – Nvidia leverte som ventet svært sterke kvartalstall, med en omsetningsvekst på hele 106 prosent, skriver forvalter Harald Jeremiassen i Holberg til E24.",
-        "Forvalteren mener likevel at det mest oppsiktsvekkende var utsiktene fremover. – Fra en allerede svært høy omsetningsbase forventer Nvidia rundt 70 prosent vekst i deres neste hele regnskapsår.",
-        "Det skjer etter at selskapet la frem tall dagen før: Markedsverdi til Nvidia ligger på om lag 47.500 milliarder norske kroner.",
-        "For inneværende kvartal venter Nvidia et salg på 108 milliarder dollar, godt over analytikernes forventninger på 104,2 milliarder dollar."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/XMexQB/nvidia-stiger-over-6-prosent-i-foerhandelen-etter-resultat-og-kjoepsrykter",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/8dc6bd1e-f09d-3740-8b24-e157e186d78e?fit=crop&h=675&upscale=true&w=1200&s=f6d7eb82c0dc83420eabe9c992065978d4da3d13",
-      "localImage": "assets/news/22be63d3bf28e0.jpg",
-      "score": 17
-    },
-    {
-      "id": "231aa0066982e7",
-      "category": "Økonomi",
-      "published": "27.08. 09:02",
-      "publishedISO": "2026-08-27T09:02:31+02:00",
-      "title": "Aker-byks dempet børsfallet",
-      "summary": "Aker-aksjen hoppet over åtte prosent fra start etter at det Aker-deleide datasenterselskapet Nscale sent onsdag meldte om en gigantisk kontrakt som skal være verdt over 400 milliarder kroner. Aker-aksjen falt senere noe tilbake men endte opp over 5,5 prosent, og var dagens nest mest omsatt aksje med 526 millioner kroner, etter Equinor, som var ned nær én prosent for dagen. Det skjedde etter at Sparebank1 Nord-Norge har gjort et kjøp tilsvarende rundt 6,7 prosent av Sparebank1 Helgelands utestående egenkapitalbevis og dermed eier 26,7 prosent av egenkapitalbevisene. «Sparebank1 Nord-Norge ønsker å styrke sin eierposisjon i Sparebank1 Helgeland basert på stor tro på bankens evne til å levere verdier over tid», skriver de i en melding.",
-      "keyPoints": [
-        "Det skjedde etter at Sparebank1 Nord-Norge har gjort et kjøp tilsvarende rundt 6,7 prosent av Sparebank1 Helgelands utestående egenkapitalbevis og dermed eier 26,7 prosent av egenkapitalbevisene. «Sparebank1 Nord-Norge ønsker å styrke sin eierposisjon i Sparebank1 Helgeland basert på stor tro på bankens evne til å levere verdier over tid», skriver de i en melding.",
-        "Aker-aksjen falt senere noe tilbake men endte opp over 5,5 prosent, og var dagens nest mest omsatt aksje med 526 millioner kroner, etter Equinor, som var ned nær én prosent for dagen.",
-        "Aker-aksjen hoppet over åtte prosent fra start etter at det Aker-deleide datasenterselskapet Nscale sent onsdag meldte om en gigantisk kontrakt som skal være verdt over 400 milliarder kroner.",
-        "Helgeland Sparebank endte opp rundt 13,5 prosent, omsatt for rundt 336 millioner kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Gxnzyx/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d3c5fd48-0af6-3b55-baf7-86b6a30b7c18?fit=crop&h=675&upscale=true&w=1200&s=c9c65b909465934a77fd8fa99f086c0e5ccec14b",
-      "localImage": "assets/news/231aa0066982e7.jpg",
-      "score": 17
-    },
-    {
-      "id": "619794c1b0a9dc",
-      "category": "Økonomi",
-      "published": "26.08. 15:31",
-      "publishedISO": "2026-08-26T15:31:58+02:00",
-      "title": "Meta steg etter milliard-forlik: – Fjerner en enorm juridisk risiko",
-      "summary": "Derfor kommer Meta til å betale minst rundt 12,7 milliarder dollar, mens sluttbeløpet kan bli nær 18 milliarder. Flere analytikere mener forliket fjerner en juridisk trussel som har hengt over selskapet. – Metas forlik på 17 milliarder dollar har en betydelig pris, men det fjerner en enorm juridisk risiko som angivelig kunne nådd 1.400 milliarder dollar, skriver Bloomberg Intelligence. Meta selv opplyser at de venter å bokføre en juridisk kostnad på rundt 10 milliarder dollar i tredje kvartal 2026 knyttet til avtalen, ifølge CNBC.",
-      "keyPoints": [
-        "Flere analytikere mener forliket fjerner en juridisk trussel som har hengt over selskapet. – Metas forlik på 17 milliarder dollar har en betydelig pris, men det fjerner en enorm juridisk risiko som angivelig kunne nådd 1.400 milliarder dollar, skriver Bloomberg Intelligence.",
-        "Meta selv opplyser at de venter å bokføre en juridisk kostnad på rundt 10 milliarder dollar i tredje kvartal 2026 knyttet til avtalen, ifølge CNBC.",
-        "Derfor kommer Meta til å betale minst rundt 12,7 milliarder dollar, mens sluttbeløpet kan bli nær 18 milliarder.",
-        "Meta skal betale opptil 16,7 milliarder dollar for å avslutte saken, melder Bloomberg og CNBC."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zOQv8K/svak-aapning-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/68ecc39f-13b6-390e-b7ea-b60c97b1e8ee?fit=crop&h=675&upscale=true&w=1200&s=0c2e112bfdd0f2034f3e5620043a71614597b970",
-      "localImage": "assets/news/619794c1b0a9dc.jpg",
-      "score": 14
-    },
-    {
-      "id": "aaa1f7df658249",
+      "id": "dffa3d0fbc841d",
       "category": "Norge",
-      "published": "27.08. 23:20",
-      "publishedISO": "2026-08-27T23:20:23+02:00",
-      "title": "Kronprinsessen forlot Rikshospitalet",
-      "summary": "Like etter klokka 16 forlot kronprins Haakon og kronprinsesse Mette-Marit sykehuset, og reiste tilbake Skaugum. Like før klokka 19.30 reiste også dronning Sonja fra Rikshospitalet, etter å ha vært der i ti timer. Like etter klokken 22 forlot kronprinsesse Mette-Marit Rikshospitalet og reiste hjem til Skaugum, mens kronprins Haakon ble igjen på sykehuset.",
+      "published": "28.08. 12:12",
+      "publishedISO": "2026-08-28T12:12:30+02:00",
+      "title": "Forsvaret hedret kong Harald med sørgesalutt og har oppstilling over hele landet",
+      "summary": "Med kongens klær, stilte soldater over hele landet seg opp fredag for å hedre kong Harald. Nyheten preger også Forsvaret, som fredag har markert dødsfallet over hele landet. – Det var en veldig rar dag, sier soldat Vetle Utz, som tjenestegjør ved Forsvarets leir på Terningmoen i Elverum. Hans Majestet Kong Harald tiltrådte selv i Forsvaret i 1955 ved Kavaleriets befalsskole på Trandum før han senere gikk Krigsskolen i Oslo fra 1957 til 1959.",
       "keyPoints": [
-        "Like etter klokken 22 forlot kronprinsesse Mette-Marit Rikshospitalet og reiste hjem til Skaugum, mens kronprins Haakon ble igjen på sykehuset.",
-        "Like før klokka 19.30 reiste også dronning Sonja fra Rikshospitalet, etter å ha vært der i ti timer.",
-        "Hele kongefamilien var torsdag samlet på Rikshospitalet, etter at det kom melding om at kong Haralds helsetilstand hadde forverret seg, og ble beskrevet som «svært alvorlig».",
-        "Torsdag kveld kom kronprinsparet tilbake til Rikshospitalet."
+        "Med kongens klær, stilte soldater over hele landet seg opp fredag for å hedre kong Harald.",
+        "Nyheten preger også Forsvaret, som fredag har markert dødsfallet over hele landet. – Det var en veldig rar dag, sier soldat Vetle Utz, som tjenestegjør ved Forsvarets leir på Terningmoen i Elverum.",
+        "Hans Majestet Kong Harald tiltrådte selv i Forsvaret i 1955 ved Kavaleriets befalsskole på Trandum før han senere gikk Krigsskolen i Oslo fra 1957 til 1959.",
+        "Vi rapporterer fra Elverum/Lillehammer/Kongsvinger/Bardufoss/Ørland Fredag morgen kom nyheten om at Hans Majestet Kong Harald er død, 89 år gammel."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/kronprinsessen-forlot-rikshospitalet-1526660",
+      "url": "https://www.nrk.no/innlandet/forsvaret-hedret-kong-harald-med-sorgesalutt-og-har-oppstilling-over-hele-landet-1.18005477",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/v12sx3TfkNFFnn8bbsYr6gebU7Boic1ZBExykikeP52w",
-      "localImage": "assets/news/aaa1f7df658249.jpg",
+      "image": "https://gfx.nrk.no/K7UB6NZSQZ0oabUoE7dUewD5zlfPI8sNlBALFntSAARQ.jpg",
+      "localImage": "assets/news/dffa3d0fbc841d.jpg",
+      "score": 15
+    },
+    {
+      "id": "44e77352a6c581",
+      "category": "Økonomi",
+      "published": "28.08. 09:53",
+      "publishedISO": "2026-08-28T09:53:20+02:00",
+      "title": "Kong Harald er død: Her flagger Børsen på halv stang",
+      "summary": "Rett før klokken ni fredag morgen firet Oslo Børs det norske flagget til halv stang, etter kong Haralds bortgang. – Kong Harald har vært en samlende monark for det norske folk, og det er trist å motta beskjeden om at han nå har gått ut av tiden, sier børsdirektør Øivind Amundsen til E24. Siden Børsen ble kjøpt opp av det felleseuropeiske konsernet Euronext i 2019 har de flagget med deres flagg. Utenriksdepartementet opplyser i en pressemelding at alle statlige virksomheter skal flagge på halv stang fra fredag til etter gravferden.",
+      "keyPoints": [
+        "Rett før klokken ni fredag morgen firet Oslo Børs det norske flagget til halv stang, etter kong Haralds bortgang. – Kong Harald har vært en samlende monark for det norske folk, og det er trist å motta beskjeden om at han nå har gått ut av tiden, sier børsdirektør Øivind Amundsen til E24.",
+        "Utenriksdepartementet opplyser i en pressemelding at alle statlige virksomheter skal flagge på halv stang fra fredag til etter gravferden.",
+        "Siden Børsen ble kjøpt opp av det felleseuropeiske konsernet Euronext i 2019 har de flagget med deres flagg.",
+        "Kongen døde fredag morgen klokken 06.35 etter å ha vært innlagt med blodsykdom i over en uke. – Jeg vil minnes han som en konge som hadde fokus på inkludering og mangfold, som har vist raushet og medmenneskelighet og ikke minst en enorm idrettsglede, sier børsdirektøren."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/430q3e/kong-harald-er-doed-her-flagger-boersen-paa-halv-stang",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fdf174ab-6333-3006-bfde-fc48d9f26852?fit=crop&h=675&upscale=true&w=1200&s=d9201b71abb62ccca01a7a7e7a062412485ba2aa",
+      "localImage": "assets/news/44e77352a6c581.jpg",
+      "score": 15
+    },
+    {
+      "id": "55dd86cf0bceea",
+      "category": "Norge",
+      "published": "28.08. 08:55",
+      "publishedISO": "2026-08-28T08:55:25+02:00",
+      "title": "Kongen er død – dette skjer nå",
+      "summary": "Kong Haralds død utløser en rekke seremonier og markeringer og vil prege Norge og mange nordmenn i flere dager fremover. Den nye kongen, Haakon, møtte regjeringen i et ekstraordinært statsråd for første gang som Norges konge klokken 11.30 i dag. Der informerte han regjeringen formelt om at kong Harald er død, og at han har tatt over som monark.",
+      "keyPoints": [
+        "Den nye kongen, Haakon, møtte regjeringen i et ekstraordinært statsråd for første gang som Norges konge klokken 11.30 i dag.",
+        "Kong Haralds død utløser en rekke seremonier og markeringer og vil prege Norge og mange nordmenn i flere dager fremover.",
+        "Der informerte han regjeringen formelt om at kong Harald er død, og at han har tatt over som monark.",
+        "Få svar på hva som skjer, og hvordan kong Haralds bortgang påvirker deg, i denne saken."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/kongen-er-dod-_-dette-skjer-na-1.16827505",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/RVugSI6PGz7heevNVPKVWgwkCBoyn48mIQskBcGs5agw.jpg",
+      "localImage": "assets/news/55dd86cf0bceea.jpg",
+      "score": 15
+    },
+    {
+      "id": "805a40b5e8c2d3",
+      "category": "Norge",
+      "published": "28.08. 21:13",
+      "publishedISO": "2026-08-28T21:13:25+02:00",
+      "title": "Kongen fikk meg ut av skapet",
+      "summary": "Mine besteforeldre innvandret fra Danmark og England for 110 år siden.» Kongen snakket om meg, ikke bare til meg. Ti år senere opplever jeg at unge muslimer har begynt å åpne det samme skapet jeg selv gjemte meg i som ungdom. Og ikke bare muslimer, men også andre minoritetsgrupper. «På grunn av deg har en nevø av meg kommet ut av skapet», skrev en norsk-pakistansk mann til meg nylig.",
+      "keyPoints": [
+        "Mine besteforeldre innvandret fra Danmark og England for 110 år siden.» Kongen snakket om meg, ikke bare til meg.",
+        "Ti år senere opplever jeg at unge muslimer har begynt å åpne det samme skapet jeg selv gjemte meg i som ungdom.",
+        "Og ikke bare muslimer, men også andre minoritetsgrupper. «På grunn av deg har en nevø av meg kommet ut av skapet», skrev en norsk-pakistansk mann til meg nylig.",
+        "For ti år siden inviterte han til hagefest i Slottsparken og holdt talen som forandret livet mitt. «Nordmenn er jenter som er glad i jenter, gutter som er glad i gutter, og jenter og gutter som er glad i hverandre», sa kongen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ytring/kongen-fikk-meg-ut-av-skapet-1.17999378",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/h3qKpkx-LMIh-L6JcAgx5AGXT4MtcqkBkOP2-aUckxmA.jpg",
+      "localImage": "assets/news/805a40b5e8c2d3.jpg",
       "score": 13
     },
     {
-      "id": "d2bfa21421515f",
+      "id": "c14ef8fa56b4de",
       "category": "Norge",
-      "published": "27.08. 20:56",
-      "publishedISO": "2026-08-27T20:56:17+02:00",
-      "title": "Norske lag i kvalifisering til Europaligaen og Serieligaen: Lillestrøm, Brann og Tromsø",
-      "summary": "Niklas Castro ble helten da Brann vant og går til Serieligaen, tredje øverste nivå i Europa. Brann vinner sammenlagt 4–3 over PAOK, mens Lillestrøm slår Egnatia 2–1 etter ekstraomganger på Åråsen. I fjor kom Brann seg videre fra gruppespillet i Europaligaen, men ble slått ut runden etter mot Bologna.",
+      "published": "28.08. 20:51",
+      "publishedISO": "2026-08-28T20:51:47+02:00",
+      "title": "Elever i Mette-Marits gamle skolegård: – Gøy å få henne som dronning",
+      "summary": "På dronning Mette-Marits gamle skole startet dagen med tårer, men nå er elevene fulle av håp for det nye kongeparet. (Fra venstre) Thomas, Jakob og Vilde synes det er stas med en tidligere elev som dronning. – Det skal bli gøy og fint å få henne som dronning, forteller Vilde Ørmen Eide. 5.-klassingen går på Slettheia skole i Kristiansand – akkurat samme barneskolen som dronning Mette-Marit gikk på. Kronprins Haakon og kronprinsesse Mette-Marit er nå landets nye konge og dronning. – Jeg tror det blir veldig bra med Mette-Marit som dronning, sier Thomas Jones Abrahamsen.",
       "keyPoints": [
-        "Brann vinner sammenlagt 4–3 over PAOK, mens Lillestrøm slår Egnatia 2–1 etter ekstraomganger på Åråsen.",
-        "Niklas Castro ble helten da Brann vant og går til Serieligaen, tredje øverste nivå i Europa.",
-        "I fjor kom Brann seg videre fra gruppespillet i Europaligaen, men ble slått ut runden etter mot Bologna.",
-        "Lillestrøm tok imot Egnatia etter at det ble 0–0 i Albania."
+        "På dronning Mette-Marits gamle skole startet dagen med tårer, men nå er elevene fulle av håp for det nye kongeparet. (Fra venstre) Thomas, Jakob og Vilde synes det er stas med en tidligere elev som dronning. – Det skal bli gøy og fint å få henne som dronning, forteller Vilde Ørmen Eide.",
+        "5.-klassingen går på Slettheia skole i Kristiansand – akkurat samme barneskolen som dronning Mette-Marit gikk på.",
+        "Kronprins Haakon og kronprinsesse Mette-Marit er nå landets nye konge og dronning. – Jeg tror det blir veldig bra med Mette-Marit som dronning, sier Thomas Jones Abrahamsen.",
+        "Elevene ved Slettheia skole synes det er stas at en tidligere elev ved skolen nå overtar tronen. – Det kan føles litt annerledes enn med kong Harald, men jeg tror fortsatt det blir kjempegøy med Mette-Marit, sier Jakob Saddik Jensen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/norske-lag-i-kvalifisering-til-europaligaen-og-serieligaen_-lillestrom_-brann-og-tromso-1.18004380",
+      "url": "https://www.nrk.no/sorlandet/elever-i-mette-marits-gamle-skolegard_-_-goy-a-fa-henne-som-dronning-1.18006449",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xLI-4X35wstX48Xi63cLJw1IcqRQnvoQnQWqaDGomnKg.jpg",
-      "localImage": "assets/news/d2bfa21421515f.jpg",
-      "score": 12
+      "image": "https://gfx.nrk.no/RAThm7X2BCFAz8klqaAVTwXi5Bga5ZDl7OfC8TEIRJSA.jpg",
+      "localImage": "assets/news/c14ef8fa56b4de.webp",
+      "score": 13
     },
     {
-      "id": "a5799c79290243",
+      "id": "a46c2fcbeb733b",
       "category": "Norge",
-      "published": "27.08. 20:56",
-      "publishedISO": "2026-08-27T20:56:17+02:00",
-      "title": "Norske lag i kvalifisering til Europaligaen og Serieligaen: Lillestrøm, Brann og Tromsø",
-      "summary": "Niklas Castro ble helten da Brann vant og går til Serieligaen, tredje øverste nivå i Europa. Brann vinner sammenlagt 4–3 over PAOK, mens Lillestrøm slår Egnatia 2–1 etter ekstraomganger på Åråsen. I fjor kom Brann seg videre fra gruppespillet i Europaligaen, men ble slått ut runden etter mot Bologna.",
+      "published": "28.08. 19:59",
+      "publishedISO": "2026-08-28T19:59:35+02:00",
+      "title": "Fotoserie: Folk i Vestland takkar Kong Harald",
+      "summary": "Besøket til Etne blei eitt av kong Harald sine siste besøk til Vestland. Barna på Etne møtte kong Harald då han var på besøk rett før sommaren. Emma Josefine Aareland Nygaard synest kong Harald var morosam.",
       "keyPoints": [
-        "Brann vinner sammenlagt 4–3 over PAOK, mens Lillestrøm slår Egnatia 2–1 etter ekstraomganger på Åråsen.",
-        "Niklas Castro ble helten da Brann vant og går til Serieligaen, tredje øverste nivå i Europa.",
-        "I fjor kom Brann seg videre fra gruppespillet i Europaligaen, men ble slått ut runden etter mot Bologna.",
-        "Lillestrøm tok imot Egnatia etter at det ble 0–0 i Albania."
+        "Besøket til Etne blei eitt av kong Harald sine siste besøk til Vestland.",
+        "Barna på Etne møtte kong Harald då han var på besøk rett før sommaren.",
+        "Emma Josefine Aareland Nygaard synest kong Harald var morosam.",
+        "I Ullensvang straumar folk til kondolanseprotokollen. – Han har vore ein fantastisk konge på alle vis."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/norske-lag-i-kvalifisering-til-europaligaen-og-serieligaen_-lillestrom_-brann-og-tromso-1.18004380",
+      "url": "https://www.nrk.no/vestland/sja-fotoserie-fra-vestland-fylke_-heile-vestland-sorger-over-kong-harald-1.18006653",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xLI-4X35wstX48Xi63cLJw1IcqRQnvoQnQWqaDGomnKg.jpg",
-      "localImage": "assets/news/a5799c79290243.jpg",
-      "score": 12
-    },
-    {
-      "id": "8095654bdbe7b1",
-      "category": "Norge",
-      "published": "27.08. 19:54",
-      "publishedISO": "2026-08-27T19:54:28+02:00",
-      "title": "Diamond League i Zürich med Amalie Iuel, Karsten Warholm og Jakob Ingebrigtsen",
-      "summary": "Karsten Warholm vart smadra på 400 meter hekk og mista verdsrekorden til Alison dos Santos. Også Karsten Warholm og Amalie Iuel står på startstreken i Sveits. Karsten Warholm håpa å tukte rivalen sin Alison dos Santos på 400 meter hekk.",
-      "keyPoints": [
-        "Også Karsten Warholm og Amalie Iuel står på startstreken i Sveits.",
-        "Karsten Warholm vart smadra på 400 meter hekk og mista verdsrekorden til Alison dos Santos.",
-        "Karsten Warholm håpa å tukte rivalen sin Alison dos Santos på 400 meter hekk.",
-        "Turneringen i Atlanta varer til og med søndag. (NTB) Kort tid etter at Alison dos Santos smadret Karsten Warholms verdensrekord på 400 meter hekk med tiden 45,80, ble det satt enda en verdensrekord i Diamond League-stevnet i Zürich."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/diamond-league-i-zurich-med-amalie-iuel_-karsten-warholm-og-jakob-ingebrigtsen-1.18004300",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/CRtx1-jT5SIN49Pp5VJrJAzPKXtRCghiC51qBU1FUw1g.jpg",
-      "localImage": "assets/news/8095654bdbe7b1.jpg",
-      "score": 12
+      "image": "https://gfx.nrk.no/IdT7qGKYm5oBEeHCXEMrEgooP74FWf5wPaqRP6YC4bpQ.jpg",
+      "localImage": "assets/news/a46c2fcbeb733b.jpg",
+      "score": 13
     }
   ]
 }
