@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 13:36",
-  "updatedISO": "2026-08-29T13:36:54.349173+02:00",
+  "updatedAt": "29.08.2026 kl. 13:52",
+  "updatedISO": "2026-08-29T13:52:08.057212+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,24 +130,24 @@
       "score": 14
     },
     {
-      "id": "79e01c3c153583",
+      "id": "0aaca785f00f88",
       "category": "Norge",
-      "published": "29.08. 13:27",
-      "publishedISO": "2026-08-29T13:27:06+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Kamp 1 – torsdag 10. september klokken 21.00: Bayern München mot Bodø/Glimt. Kamp 2 – onsdag 14. oktober klokken 21.00: Bodø/Glimt mot Borussia Dortmund. Kamp 3 – tirsdag 20. oktober klokken 21.00: Napoli mot Bodø/Glimt.",
+      "published": "29.08. 13:39",
+      "publishedISO": "2026-08-29T13:39:09+02:00",
+      "title": "Slik spilles Mesterliga-kampene til Glimt og Viking",
+      "summary": "Viking får Bayern på besøk i Stavanger, mens Glimt skal møte den tyske storklubben på bortebane. Bodø/Glimts første hjemmekamp spilles mot Borussia Dortmund 14. oktober. Alexander Sørloth ga Atlético Madrid ledelsen sist lagene møttes, men Bodø/Glimt snudde kampen og vant 2–1 i Madrid.",
       "keyPoints": [
-        "Kamp 2 – onsdag 14. oktober klokken 21.00: Bodø/Glimt mot Borussia Dortmund.",
-        "Kamp 1 – torsdag 10. september klokken 21.00: Bayern München mot Bodø/Glimt.",
-        "Bodø/Glimt åpner ligafasen i Mesterligaen borte mot Bayern München 10. september.",
-        "Kamp 4 – tirsdag 3. november klokken 21.00: Bodø/Glimt mot Lille."
+        "Viking får Bayern på besøk i Stavanger, mens Glimt skal møte den tyske storklubben på bortebane.",
+        "Alexander Sørloth ga Atlético Madrid ledelsen sist lagene møttes, men Bodø/Glimt snudde kampen og vant 2–1 i Madrid.",
+        "Bodø/Glimts første hjemmekamp spilles mot Borussia Dortmund 14. oktober.",
+        "Dagen før spiller Viking sin første kamp mot Stuttgart."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "url": "https://www.nrk.no/nordland/slik-spilles-mesterliga-kampene-til-glimt-og-viking-1.18007168",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/79e01c3c153583.jpg",
+      "image": "https://gfx.nrk.no/jfA4CBCaBoB5Ppr4T5onyQ6WesrNSZRoudMvoR_-ad1g.jpg",
+      "localImage": "assets/news/0aaca785f00f88.jpg",
       "score": 13
     },
     {
