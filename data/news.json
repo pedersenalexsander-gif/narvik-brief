@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 15:21",
-  "updatedISO": "2026-08-29T15:21:37.210847+02:00",
+  "updatedAt": "29.08.2026 kl. 15:36",
+  "updatedISO": "2026-08-29T15:36:32.857488+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,25 +25,25 @@
       "score": 17
     },
     {
-      "id": "e45113ab5cb620",
+      "id": "d32edd7c1377d4",
       "category": "Verden",
-      "published": "29.08. 05:54",
-      "publishedISO": "2026-08-29T05:54:11+02:00",
-      "title": "Tibet-Nepal floods: Shocking footage isn't being shown in China - and we know little about victims there",
-      "summary": "Video viser omfanget av flom som rammer grensen mellom Nepal og Tibet. De dramatiske opptakene var nesten umulige å gå glipp av. Men når du sammenligner landets internettinnhold med det store deler av verden har sett på nettet de siste dagene, blir Kinas brannmur mer synlig enn noen gang. Det er ingen beretninger fra overlevende i Tibet, og nesten ingen brukergenererte opptak som viser de dødelige øyeblikkene eller ettervirkningene deres.",
+      "published": "29.08. 15:16",
+      "publishedISO": "2026-08-29T15:16:43+02:00",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, kunngjorde Donald Trump. Under avtalen vil den amerikanske regjeringen beholde 55 % kontroll over et joint venture med en \"erfaren privat operatør i Venezuela\", sa en amerikansk tjenestemann til BBCs amerikanske partner CBS News. Venezuela har de største påviste oljereservene i verden – anslagsvis 303 milliarder fat.",
       "keyPoints": [
-        "Det er ingen beretninger fra overlevende i Tibet, og nesten ingen brukergenererte opptak som viser de dødelige øyeblikkene eller ettervirkningene deres.",
-        "Video shows scale of flash flood hitting Nepal-Tibet border The dramatic footage was almost impossible to miss.",
-        "Men når du sammenligner landets internettinnhold med det store deler av verden har sett på nettet de siste dagene, blir Kinas brannmur mer synlig enn noen gang.",
-        "Det har også vært vanskelig å finne videoen på Kinas sterkt sensurerte internett."
+        "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, kunngjorde Donald Trump.",
+        "Under avtalen vil den amerikanske regjeringen beholde 55 % kontroll over et joint venture med en \"erfaren privat operatør i Venezuela\", sa en amerikansk tjenestemann til BBCs amerikanske partner CBS News.",
+        "Venezuela har de største påviste oljereservene i verden – anslagsvis 303 milliarder fat.",
+        "Avtalen ser også ut til å være bredere enn den USA-ledede koalisjonens provisoriske myndighets kontroll over Iraks oljeinntekter etter at Saddam Hussein ble kastet ut i en amerikanskledet invasjon i 2003."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
-      "localImage": "assets/news/e45113ab5cb620.jpg",
-      "score": 16
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/d32edd7c1377d4.jpg",
+      "score": 17
     },
     {
       "id": "2d07814855bf92",
@@ -55,7 +55,7 @@
       "keyPoints": [
         "BBC snakker med en amerikansk gruppe etter at 77 turgåere er savnet i Nepal-flom.",
         "Video, 00:01:14Se: Hvorfor redningsmenn frykter at ny barriereinnsjø kan forårsake en ny flom fra Nepal og Tibet. Blokkerte veier og ødeleggelser når BBC kjører til stedet for flom i Nepal.",
-        "Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flom fra Nepal.",
+        "Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flomene i Nepal.",
         "Video, 00:00:58Blokkerte veier og ødeleggelser mens BBC kjører til stedet for flom i Nepal. Hvitehat og delfiner reddet fra lukket kanadisk park ankommer Spania."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
@@ -130,6 +130,27 @@
       "score": 16
     },
     {
+      "id": "e45113ab5cb620",
+      "category": "Verden",
+      "published": "29.08. 05:54",
+      "publishedISO": "2026-08-29T05:54:11+02:00",
+      "title": "Tibet-Nepal floods: Shocking footage isn't being shown in China - and we know little about victims there",
+      "summary": "Video viser omfanget av flom som rammer grensen mellom Nepal og Tibet. De dramatiske opptakene var nesten umulige å gå glipp av. Men når du sammenligner landets internettinnhold med det store deler av verden har sett på nettet de siste dagene, blir Kinas brannmur mer synlig enn noen gang. Det er ingen beretninger fra overlevende i Tibet, og nesten ingen brukergenererte opptak som viser de dødelige øyeblikkene eller ettervirkningene deres.",
+      "keyPoints": [
+        "Det er ingen beretninger fra overlevende i Tibet, og nesten ingen brukergenererte opptak som viser de dødelige øyeblikkene eller ettervirkningene deres.",
+        "Video shows scale of flash flood hitting Nepal-Tibet border The dramatic footage was almost impossible to miss.",
+        "Men når du sammenligner landets internettinnhold med det store deler av verden har sett på nettet de siste dagene, blir Kinas brannmur mer synlig enn noen gang.",
+        "Det har også vært vanskelig å finne videoen på Kinas sterkt sensurerte internett."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
+      "localImage": "assets/news/e45113ab5cb620.jpg",
+      "score": 16
+    },
+    {
       "id": "396bcfcd529c51",
       "category": "Økonomi",
       "published": "28.08. 09:03",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/pi7Lsin0ALuxrPH8k3V5ZwZk3Nz_k0Pel8ev7gj1lbQA.jpg",
       "localImage": "assets/news/2f97a23f2eeae5.webp",
-      "score": 13
-    },
-    {
-      "id": "2134465e64fb9c",
-      "category": "Norge",
-      "published": "29.08. 13:54",
-      "publishedISO": "2026-08-29T13:54:40+02:00",
-      "title": "Ansgar (8) spilte konge for Kongen i mai: – Veldig trist at han er død",
-      "summary": "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd. I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele. Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
-      "keyPoints": [
-        "Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
-        "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd.",
-        "I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele.",
-        "Magnus var bare åtte år da han ble kronet, akkurat som Ansgar er nå."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/ansgar-_8_-spilte-konge-for-kongen-i-mai_-_-veldig-trist-at-han-er-dod-1.18006004",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/d2ULy3yHG3QjXDenE0cZtAzKt78Z7WaUxeTSrrqwnAVA",
-      "localImage": "assets/news/2134465e64fb9c.jpg",
       "score": 13
     }
   ]
