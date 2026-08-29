@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 14:36",
-  "updatedISO": "2026-08-29T14:36:44.668070+02:00",
+  "updatedAt": "29.08.2026 kl. 14:52",
+  "updatedISO": "2026-08-29T14:52:35.679670+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,11 +172,32 @@
       "score": 14
     },
     {
+      "id": "2f97a23f2eeae5",
+      "category": "Norge",
+      "published": "29.08. 14:46",
+      "publishedISO": "2026-08-29T14:46:44+02:00",
+      "title": "Dette sier det norske folk om kong Harald",
+      "summary": "I alle landets kommuner blir det lagt ut kondolanseprotokoller der folk kan skrive sin hilsen til kong Harald. Dette er basert analyse av de 1800 første kondolansene som ble skrevet hos NRK. «Samlende» er et av ordene mange bruker om kong Harald. Kong Harald var en som så alle rundt seg, sier Nora. – Han dømte ikke folk og han lot folk være seg sjøl og var grei mot alle, egentlig. – Han prøvde veldig å forstå hvordan folk rundt han hadde det.",
+      "keyPoints": [
+        "Kong Harald var en som så alle rundt seg, sier Nora. – Han dømte ikke folk og han lot folk være seg sjøl og var grei mot alle, egentlig. – Han prøvde veldig å forstå hvordan folk rundt han hadde det.",
+        "I alle landets kommuner blir det lagt ut kondolanseprotokoller der folk kan skrive sin hilsen til kong Harald.",
+        "Dette er basert analyse av de 1800 første kondolansene som ble skrevet hos NRK. «Samlende» er et av ordene mange bruker om kong Harald.",
+        "De er på Kilden for å tegne en hilsen til kong Harald. – Kong Harald var raus."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/dette-sier-det-norske-folk-om-kong-harald-1.18006931",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/pi7Lsin0ALuxrPH8k3V5ZwZk3Nz_k0Pel8ev7gj1lbQA.jpg",
+      "localImage": "assets/news/2f97a23f2eeae5.webp",
+      "score": 13
+    },
+    {
       "id": "703ee3e6139391",
       "category": "Verden",
       "published": "29.08. 14:22",
       "publishedISO": "2026-08-29T14:22:53+02:00",
-      "title": "Minst 37 døde og hundrevis evakuert etter angrep på lageret i Kiev",
+      "title": "Minst 37 døde og hundrevis evakuert etter angrep på Kiev-lageret",
       "summary": "Ukraina-korrespondent Dan Johnson rapporterer fra Kiev etter det dødelige angrepet 37 mennesker er drept og nesten 400 evakuert etter at et russisk droneangrep utløste eksplosjoner i et lager i Kiev-regionen sent på fredag. Det er iverksatt en etterforskning av hvorvidt ammunisjon ble lagret i lageret vest for hovedstaden. I mellomtiden sa Tkachenko at en 14-åring ble drept i et separat angrep i Boryspil-distriktet mens Kiev-ordfører Vitaliy Klitschko sa at en toåring hadde dødd etter at en russisk drone styrtet i Obolonskyi. Den Moskva-utnevnte guvernøren i den okkuperte ukrainske regionen Zaphorizhzhia sa at fire personer ble skadet etter at en ukrainsk streik rammet et kjøpesenter.",
       "keyPoints": [
         "Ukraina-korrespondent Dan Johnson rapporterer fra Kiev etter det dødelige angrepet 37 mennesker er drept og nesten 400 evakuert etter at et russisk droneangrep utløste eksplosjoner i et lager i Kiev-regionen sent på fredag.",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b20a/live/57878280-a391-11f1-8dd3-ff568f69d772.png",
       "localImage": "assets/news/703ee3e6139391.png",
-      "score": 13
-    },
-    {
-      "id": "2134465e64fb9c",
-      "category": "Norge",
-      "published": "29.08. 13:54",
-      "publishedISO": "2026-08-29T13:54:40+02:00",
-      "title": "Ansgar (8) spilte konge for Kongen i mai: – Veldig trist at han er død",
-      "summary": "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd. I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele. Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
-      "keyPoints": [
-        "Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
-        "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd.",
-        "I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele.",
-        "Magnus var bare åtte år da han ble kronet, akkurat som Ansgar er nå."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/ansgar-_8_-spilte-konge-for-kongen-i-mai_-_-veldig-trist-at-han-er-dod-1.18006004",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/d2ULy3yHG3QjXDenE0cZtAzKt78Z7WaUxeTSrrqwnAVA",
-      "localImage": "assets/news/2134465e64fb9c.jpg",
       "score": 13
     }
   ]
