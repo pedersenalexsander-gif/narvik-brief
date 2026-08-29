@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 10:37",
-  "updatedISO": "2026-08-29T10:37:37.097884+02:00",
+  "updatedAt": "29.08.2026 kl. 10:52",
+  "updatedISO": "2026-08-29T10:52:05.898143+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,6 +151,27 @@
       "score": 14
     },
     {
+      "id": "b3fb22e5d1d9f4",
+      "category": "Norge",
+      "published": "29.08. 10:42",
+      "publishedISO": "2026-08-29T10:42:33+02:00",
+      "title": "Røper rørende konge-historie: – Hele Norges bestefar",
+      "summary": "Gjennom sine 35 år som Norges konge, møtte han en rekke av de største norske idrettsprofilene. Han gikk bare til siden av han og ble værende kjempelenge. – Christer synes det var så gøy, og så så kongen på Christer og sa: «Åssen raring er det her da?», og det synes jeg oppsummerte alt om kongen: Han var hele Norges bestefar og far på så mange vis, sier en rørt Skarstein. Tidlig fredag skulle den tidligere langrennsløperen på parketten for å gjennomføre nummeret han skulle fremføre senere samme dag. – Jeg klarte ikke å gjøre det i det hele tatt.",
+      "keyPoints": [
+        "Han gikk bare til siden av han og ble værende kjempelenge. – Christer synes det var så gøy, og så så kongen på Christer og sa: «Åssen raring er det her da?», og det synes jeg oppsummerte alt om kongen: Han var hele Norges bestefar og far på så mange vis, sier en rørt Skarstein.",
+        "Gjennom sine 35 år som Norges konge, møtte han en rekke av de største norske idrettsprofilene.",
+        "Tidlig fredag skulle den tidligere langrennsløperen på parketten for å gjennomføre nummeret han skulle fremføre senere samme dag. – Jeg klarte ikke å gjøre det i det hele tatt.",
+        "Nå deler flere av dem rørende historier om sine møter med den avdøde monarken."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/roper-rorende-konge-historie_-_-hele-norges-bestefar-1.18003301",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/hv75auYHMHRTLliBpQG3mw5cdGlbK3e_N_uUOaCBQHTA.jpg",
+      "localImage": "assets/news/b3fb22e5d1d9f4.webp",
+      "score": 13
+    },
+    {
       "id": "8b9560f369bb31",
       "category": "Økonomi",
       "published": "29.08. 10:30",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/-ZT1hfNU7iETuiXAM4dfmAs3VCeQctGJLVqLRzd7RiVA.jpg",
       "localImage": "assets/news/7216c2d2b62bbb.jpg",
-      "score": 13
-    },
-    {
-      "id": "c427bc89abc00a",
-      "category": "Norge",
-      "published": "29.08. 08:21",
-      "publishedISO": "2026-08-29T08:21:28+02:00",
-      "title": "Halvor Ulvenes om kong Harald: – Var som å snakke med naboen",
-      "summary": "GLAD I KONGEN: Halvor Ulvenes møtte kong Harald flere ganger i løpet av sin journalistkarriere. Halvor Ulvenes har tatt flere bilder av kong Harald og dronning Sonja i løpet av sin tid som journalist i lokalavisa Varden. Ulvenes beskriver kong Harald som en konge som var imøtekommende og «fantastisk blid». – Akkurat som ordføreren i Bø sa etter det besøket: Han var som å snakke med naboen.",
-      "keyPoints": [
-        "Ulvenes beskriver kong Harald som en konge som var imøtekommende og «fantastisk blid». – Akkurat som ordføreren i Bø sa etter det besøket: Han var som å snakke med naboen.",
-        "GLAD I KONGEN: Halvor Ulvenes møtte kong Harald flere ganger i løpet av sin journalistkarriere.",
-        "Halvor Ulvenes har tatt flere bilder av kong Harald og dronning Sonja i løpet av sin tid som journalist i lokalavisa Varden.",
-        "Kong Harald hadde besøkt bygdeheimen i Gvarv i forbindelse med 800-årsjubileet for kirkene, forteller Ulvenes. – Kongen var inne og hilste på beboerne der."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/halvor-ulvenes-om-kong-harald_-_-var-som-a-snakke-med-naboen-1.18006006",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/HjRVWE_XTJjdGOS5p--yXAXB_8WEr_jDZ8GD4a9akx2Q.jpg",
-      "localImage": "assets/news/c427bc89abc00a.jpg",
       "score": 13
     }
   ]
