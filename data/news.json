@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 15:52",
-  "updatedISO": "2026-08-29T15:52:10.668582+02:00",
+  "updatedAt": "29.08.2026 kl. 16:07",
+  "updatedISO": "2026-08-29T16:07:21.021638+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,6 +151,27 @@
       "score": 14
     },
     {
+      "id": "8bb588eaef5ced",
+      "category": "Norge",
+      "published": "29.08. 16:05",
+      "publishedISO": "2026-08-29T16:05:42+02:00",
+      "title": "– Håper du hviler i fred og ro",
+      "summary": "Søskenparet Benjamin (10) og Therese Fredriksen Espervik (8) synes det var trist å høre om kongens bortgang. – Vi fikk vite det da vi kom hjem fra turen på skolen i går. Håper du hviler i fred og ro, leser Therese fra kortet sitt. Flere barn leverte inn tegninger til kongen på rådhuset i Rana. – Det som er litt spesielt, er at vi ser eksempler på hva barna skriver: «Hvil i fred, hele Norges bestefar».",
+      "keyPoints": [
+        "Håper du hviler i fred og ro, leser Therese fra kortet sitt.",
+        "Flere barn leverte inn tegninger til kongen på rådhuset i Rana. – Det som er litt spesielt, er at vi ser eksempler på hva barna skriver: «Hvil i fred, hele Norges bestefar».",
+        "Søskenparet Benjamin (10) og Therese Fredriksen Espervik (8) synes det var trist å høre om kongens bortgang. – Vi fikk vite det da vi kom hjem fra turen på skolen i går.",
+        "En analyse av de 1800 første kondolansene viser at dette er ordene som nordmenn bruker om kong Harald: Ordfører Geir Waage forteller at det har vært stor pågang fra innbyggere som ønsker å vise medfølelse."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/_-haper-du-hviler-i-fred-og-ro-1.18007245",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/loNq7o6CIfleejAIeIcyEgMjAoTwlgjKpH-BoX0N4uNg.jpg",
+      "localImage": "assets/news/8bb588eaef5ced.jpg",
+      "score": 13
+    },
+    {
       "id": "2f97a23f2eeae5",
       "category": "Norge",
       "published": "29.08. 14:46",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/d2ULy3yHG3QjXDenE0cZtAzKt78Z7WaUxeTSrrqwnAVA",
       "localImage": "assets/news/2134465e64fb9c.jpg",
-      "score": 13
-    },
-    {
-      "id": "0aaca785f00f88",
-      "category": "Norge",
-      "published": "29.08. 13:39",
-      "publishedISO": "2026-08-29T13:39:09+02:00",
-      "title": "Slik spilles Mesterliga-kampene til Glimt og Viking",
-      "summary": "Viking får Bayern på besøk i Stavanger, mens Glimt skal møte den tyske storklubben på bortebane. Bodø/Glimts første hjemmekamp spilles mot Borussia Dortmund 14. oktober. Alexander Sørloth ga Atlético Madrid ledelsen sist lagene møttes, men Bodø/Glimt snudde kampen og vant 2–1 i Madrid.",
-      "keyPoints": [
-        "Viking får Bayern på besøk i Stavanger, mens Glimt skal møte den tyske storklubben på bortebane.",
-        "Alexander Sørloth ga Atlético Madrid ledelsen sist lagene møttes, men Bodø/Glimt snudde kampen og vant 2–1 i Madrid.",
-        "Bodø/Glimts første hjemmekamp spilles mot Borussia Dortmund 14. oktober.",
-        "Dagen før spiller Viking sin første kamp mot Stuttgart."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/slik-spilles-mesterliga-kampene-til-glimt-og-viking-1.18007168",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jfA4CBCaBoB5Ppr4T5onyQ6WesrNSZRoudMvoR_-ad1g.jpg",
-      "localImage": "assets/news/0aaca785f00f88.jpg",
       "score": 13
     }
   ]
