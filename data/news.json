@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 01:52",
-  "updatedISO": "2026-08-29T01:52:44.701744+02:00",
+  "updatedAt": "29.08.2026 kl. 02:07",
+  "updatedISO": "2026-08-29T02:07:34.421475+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 17
     },
     {
-      "id": "1b6c34ad6f864f",
-      "category": "Økonomi",
-      "published": "27.08. 20:00",
-      "publishedISO": "2026-08-27T20:00:05+02:00",
-      "title": "Betaler ni prosent boligrente: – Skjønner at folk prater om EU",
-      "summary": "I juli hadde Island en inflasjon på 5,3 prosent. – Det er vår største økonomiske utfordring, sier sjeføkonom ved Íslandsbanki, Jón Bjarki Bentsson. I overkant av 60 prosent av bolig­lånene på Island, er inflasjons­indekserte lån, ifølge bolig­myndigheten på Island. Nå har hun gått fra en fastrente på fire prosent, til en fastrente på åtte de neste fem årene. – Da betalte jeg rundt 147.000 i måneden, nå i august betaler jeg rundt 290.000 i måneden.",
-      "keyPoints": [
-        "Nå har hun gått fra en fastrente på fire prosent, til en fastrente på åtte de neste fem årene. – Da betalte jeg rundt 147.000 i måneden, nå i august betaler jeg rundt 290.000 i måneden.",
-        "I juli hadde Island en inflasjon på 5,3 prosent. – Det er vår største økonomiske utfordring, sier sjeføkonom ved Íslandsbanki, Jón Bjarki Bentsson.",
-        "I overkant av 60 prosent av bolig­lånene på Island, er inflasjons­indekserte lån, ifølge bolig­myndigheten på Island.",
-        "Forrige uke satte den islandske sentralbanken opp styringsrenten opp til åtte prosent."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/wr0pQn/betaler-ni-prosent-boligrente-skjoenner-at-folk-prater-om-eu",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7520709e-e033-3826-acb3-01e77ad7d9d4?fit=crop&h=675&upscale=true&w=1200&s=63f59cbaf8803ec33fefe0427c13908e302fbddd",
-      "localImage": "assets/news/1b6c34ad6f864f.jpg",
-      "score": 16
-    },
-    {
       "id": "dffa3d0fbc841d",
       "category": "Norge",
       "published": "28.08. 12:12",
@@ -106,6 +85,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/K7UB6NZSQZ0oabUoE7dUewD5zlfPI8sNlBALFntSAARQ.jpg",
       "localImage": "assets/news/dffa3d0fbc841d.jpg",
+      "score": 15
+    },
+    {
+      "id": "1b6c34ad6f864f",
+      "category": "Økonomi",
+      "published": "27.08. 20:00",
+      "publishedISO": "2026-08-27T20:00:05+02:00",
+      "title": "Betaler ni prosent boligrente: – Skjønner at folk prater om EU",
+      "summary": "I juli hadde Island en inflasjon på 5,3 prosent. – Det er vår største økonomiske utfordring, sier sjeføkonom ved Íslandsbanki, Jón Bjarki Bentsson. I overkant av 60 prosent av bolig­lånene på Island, er inflasjons­indekserte lån, ifølge bolig­myndigheten på Island. Nå har hun gått fra en fastrente på fire prosent, til en fastrente på åtte de neste fem årene. – Da betalte jeg rundt 147.000 i måneden, nå i august betaler jeg rundt 290.000 i måneden.",
+      "keyPoints": [
+        "Nå har hun gått fra en fastrente på fire prosent, til en fastrente på åtte de neste fem årene. – Da betalte jeg rundt 147.000 i måneden, nå i august betaler jeg rundt 290.000 i måneden.",
+        "I juli hadde Island en inflasjon på 5,3 prosent. – Det er vår største økonomiske utfordring, sier sjeføkonom ved Íslandsbanki, Jón Bjarki Bentsson.",
+        "I overkant av 60 prosent av bolig­lånene på Island, er inflasjons­indekserte lån, ifølge bolig­myndigheten på Island.",
+        "Forrige uke satte den islandske sentralbanken opp styringsrenten opp til åtte prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/wr0pQn/betaler-ni-prosent-boligrente-skjoenner-at-folk-prater-om-eu",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7520709e-e033-3826-acb3-01e77ad7d9d4?fit=crop&h=675&upscale=true&w=1200&s=63f59cbaf8803ec33fefe0427c13908e302fbddd",
+      "localImage": "assets/news/1b6c34ad6f864f.jpg",
       "score": 15
     },
     {
@@ -172,27 +172,6 @@
       "score": 13
     },
     {
-      "id": "c14ef8fa56b4de",
-      "category": "Norge",
-      "published": "28.08. 20:51",
-      "publishedISO": "2026-08-28T20:51:47+02:00",
-      "title": "Elever i Mette-Marits gamle skolegård: – Gøy å få henne som dronning",
-      "summary": "På dronning Mette-Marits gamle skole startet dagen med tårer, men nå er elevene fulle av håp for det nye kongeparet. (Fra venstre) Thomas, Jakob og Vilde synes det er stas med en tidligere elev som dronning. – Det skal bli gøy og fint å få henne som dronning, forteller Vilde Ørmen Eide. 5.-klassingen går på Slettheia skole i Kristiansand – akkurat samme barneskolen som dronning Mette-Marit gikk på. Kronprins Haakon og kronprinsesse Mette-Marit er nå landets nye konge og dronning. – Jeg tror det blir veldig bra med Mette-Marit som dronning, sier Thomas Jones Abrahamsen.",
-      "keyPoints": [
-        "På dronning Mette-Marits gamle skole startet dagen med tårer, men nå er elevene fulle av håp for det nye kongeparet. (Fra venstre) Thomas, Jakob og Vilde synes det er stas med en tidligere elev som dronning. – Det skal bli gøy og fint å få henne som dronning, forteller Vilde Ørmen Eide.",
-        "5.-klassingen går på Slettheia skole i Kristiansand – akkurat samme barneskolen som dronning Mette-Marit gikk på.",
-        "Kronprins Haakon og kronprinsesse Mette-Marit er nå landets nye konge og dronning. – Jeg tror det blir veldig bra med Mette-Marit som dronning, sier Thomas Jones Abrahamsen.",
-        "Elevene ved Slettheia skole synes det er stas at en tidligere elev ved skolen nå overtar tronen. – Det kan føles litt annerledes enn med kong Harald, men jeg tror fortsatt det blir kjempegøy med Mette-Marit, sier Jakob Saddik Jensen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/elever-i-mette-marits-gamle-skolegard_-_-goy-a-fa-henne-som-dronning-1.18006449",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/RAThm7X2BCFAz8klqaAVTwXi5Bga5ZDl7OfC8TEIRJSA.jpg",
-      "localImage": "assets/news/c14ef8fa56b4de.webp",
-      "score": 13
-    },
-    {
       "id": "f3f89fc142be4f",
       "category": "Norge",
       "published": "27.08. 06:10",
@@ -212,6 +191,27 @@
       "image": "https://gfx.nrk.no/q6QojqjF3eOKU2UTLyR85w960fj27xZOfw95GBAZJAAQ.jpg",
       "localImage": "assets/news/f3f89fc142be4f.jpg",
       "score": 13
+    },
+    {
+      "id": "c14ef8fa56b4de",
+      "category": "Norge",
+      "published": "28.08. 20:51",
+      "publishedISO": "2026-08-28T20:51:47+02:00",
+      "title": "Elever i Mette-Marits gamle skolegård: – Gøy å få henne som dronning",
+      "summary": "På dronning Mette-Marits gamle skole startet dagen med tårer, men nå er elevene fulle av håp for det nye kongeparet. (Fra venstre) Thomas, Jakob og Vilde synes det er stas med en tidligere elev som dronning. – Det skal bli gøy og fint å få henne som dronning, forteller Vilde Ørmen Eide. 5.-klassingen går på Slettheia skole i Kristiansand – akkurat samme barneskolen som dronning Mette-Marit gikk på. Kronprins Haakon og kronprinsesse Mette-Marit er nå landets nye konge og dronning. – Jeg tror det blir veldig bra med Mette-Marit som dronning, sier Thomas Jones Abrahamsen.",
+      "keyPoints": [
+        "På dronning Mette-Marits gamle skole startet dagen med tårer, men nå er elevene fulle av håp for det nye kongeparet. (Fra venstre) Thomas, Jakob og Vilde synes det er stas med en tidligere elev som dronning. – Det skal bli gøy og fint å få henne som dronning, forteller Vilde Ørmen Eide.",
+        "5.-klassingen går på Slettheia skole i Kristiansand – akkurat samme barneskolen som dronning Mette-Marit gikk på.",
+        "Kronprins Haakon og kronprinsesse Mette-Marit er nå landets nye konge og dronning. – Jeg tror det blir veldig bra med Mette-Marit som dronning, sier Thomas Jones Abrahamsen.",
+        "Elevene ved Slettheia skole synes det er stas at en tidligere elev ved skolen nå overtar tronen. – Det kan føles litt annerledes enn med kong Harald, men jeg tror fortsatt det blir kjempegøy med Mette-Marit, sier Jakob Saddik Jensen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/elever-i-mette-marits-gamle-skolegard_-_-goy-a-fa-henne-som-dronning-1.18006449",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/RAThm7X2BCFAz8klqaAVTwXi5Bga5ZDl7OfC8TEIRJSA.jpg",
+      "localImage": "assets/news/c14ef8fa56b4de.webp",
+      "score": 12
     }
   ]
 }
