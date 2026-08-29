@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 10:21",
-  "updatedISO": "2026-08-29T10:21:56.515352+02:00",
+  "updatedAt": "29.08.2026 kl. 10:37",
+  "updatedISO": "2026-08-29T10:37:37.097884+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,6 +151,27 @@
       "score": 14
     },
     {
+      "id": "8b9560f369bb31",
+      "category": "Økonomi",
+      "published": "29.08. 10:30",
+      "publishedISO": "2026-08-29T10:30:53+02:00",
+      "title": "Svært jevnt før islendingene tar EU-valget",
+      "summary": "Denne lørdagen avgjør islendingene om de vil starte forhandlinger om et EU-medlemskap. Inflasjonen i landet lå i juli på hele 5,3 prosent og styringsrenten ble i forrige uke økt til åtte prosent. Dette gjør at mange islendinger har skyhøy rente på boliglånet: I tillegg ønsker ja-siden at Island skal få et sete ved bordet når EU tar avgjørelser.",
+      "keyPoints": [
+        "Denne lørdagen avgjør islendingene om de vil starte forhandlinger om et EU-medlemskap.",
+        "Dette gjør at mange islendinger har skyhøy rente på boliglånet: I tillegg ønsker ja-siden at Island skal få et sete ved bordet når EU tar avgjørelser.",
+        "Inflasjonen i landet lå i juli på hele 5,3 prosent og styringsrenten ble i forrige uke økt til åtte prosent.",
+        "Det har allerede vært mulig å avgi forhåndsstemmer i valget, men valgdagen er lørdag 29. august."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/K8q8AE/svaert-jevnt-foer-islendingene-tar-eu-valget",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/cc76f26c-3e87-3ead-812b-1346ed4718b1?fit=crop&h=675&upscale=true&w=1200&s=c56882bcc612aca7f7957575a019b39bdb650f02",
+      "localImage": "assets/news/8b9560f369bb31.jpg",
+      "score": 13
+    },
+    {
       "id": "7216c2d2b62bbb",
       "category": "Norge",
       "published": "29.08. 08:26",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/HjRVWE_XTJjdGOS5p--yXAXB_8WEr_jDZ8GD4a9akx2Q.jpg",
       "localImage": "assets/news/c427bc89abc00a.jpg",
-      "score": 13
-    },
-    {
-      "id": "5fc8e27124c49d",
-      "category": "Økonomi",
-      "published": "29.08. 07:10",
-      "publishedISO": "2026-08-29T07:10:55+02:00",
-      "title": "Her følte kong Harald seg som hjemme",
-      "summary": "Fredag døde kong Harald på Rikshospitalet, 89 år gammel. Dette er boligen den norske kongefamilien har oppholdt seg i under sine besøk i London siden 1936. – Hver november pleide kong Harald og dronning Sonja å ta turen hit. Jeg føler meg hjemme her, det er som å komme til folk vi kjenner godt, sa kong Harald da han var på offisielt besøk i den britiske hovedstaden i 2005, ifølge NTB.",
-      "keyPoints": [
-        "Jeg føler meg hjemme her, det er som å komme til folk vi kjenner godt, sa kong Harald da han var på offisielt besøk i den britiske hovedstaden i 2005, ifølge NTB.",
-        "Dette er boligen den norske kongefamilien har oppholdt seg i under sine besøk i London siden 1936. – Hver november pleide kong Harald og dronning Sonja å ta turen hit.",
-        "Fredag døde kong Harald på Rikshospitalet, 89 år gammel.",
-        "Hattrem beskriver residensen som et sted kong Harald kunne være seg selv, samtidig som huset gjennom generasjoner har vært et sted hvor kongefamilien har ivaretatt norske interesser. – Det er alltid hyggelig å være i London."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/OkqMW3/ambassadoer-tore-hattrem-om-kong-haralds-london",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9c4f7d22-3e5f-3a67-853a-cb5a0fcd00e2?fit=crop&h=675&upscale=true&w=1200&s=023d704d025ec354a48394fe661e84e72154ae55",
-      "localImage": "assets/news/5fc8e27124c49d.jpg",
       "score": 13
     }
   ]
