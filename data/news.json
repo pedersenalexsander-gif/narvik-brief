@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 03:07",
-  "updatedISO": "2026-08-29T03:07:29.145922+02:00",
+  "updatedAt": "29.08.2026 kl. 03:22",
+  "updatedISO": "2026-08-29T03:22:40.769837+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 16
     },
     {
-      "id": "dffa3d0fbc841d",
-      "category": "Norge",
-      "published": "28.08. 12:12",
-      "publishedISO": "2026-08-28T12:12:30+02:00",
-      "title": "Forsvaret hedret kong Harald med sørgesalutt og har oppstilling over hele landet",
-      "summary": "Med kongens klær, stilte soldater over hele landet seg opp fredag for å hedre kong Harald. Nyheten preger også Forsvaret, som fredag har markert dødsfallet over hele landet. – Det var en veldig rar dag, sier soldat Vetle Utz, som tjenestegjør ved Forsvarets leir på Terningmoen i Elverum. Hans Majestet Kong Harald tiltrådte selv i Forsvaret i 1955 ved Kavaleriets befalsskole på Trandum før han senere gikk Krigsskolen i Oslo fra 1957 til 1959.",
-      "keyPoints": [
-        "Med kongens klær, stilte soldater over hele landet seg opp fredag for å hedre kong Harald.",
-        "Nyheten preger også Forsvaret, som fredag har markert dødsfallet over hele landet. – Det var en veldig rar dag, sier soldat Vetle Utz, som tjenestegjør ved Forsvarets leir på Terningmoen i Elverum.",
-        "Hans Majestet Kong Harald tiltrådte selv i Forsvaret i 1955 ved Kavaleriets befalsskole på Trandum før han senere gikk Krigsskolen i Oslo fra 1957 til 1959.",
-        "Vi rapporterer fra Elverum/Lillehammer/Kongsvinger/Bardufoss/Ørland Fredag morgen kom nyheten om at Hans Majestet Kong Harald er død, 89 år gammel."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/forsvaret-hedret-kong-harald-med-sorgesalutt-og-har-oppstilling-over-hele-landet-1.18005477",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/K7UB6NZSQZ0oabUoE7dUewD5zlfPI8sNlBALFntSAARQ.jpg",
-      "localImage": "assets/news/dffa3d0fbc841d.jpg",
-      "score": 15
-    },
-    {
       "id": "1b6c34ad6f864f",
       "category": "Økonomi",
       "published": "27.08. 20:00",
@@ -107,6 +86,27 @@
       "image": "https://akamai.vgc.no/v2/images/7520709e-e033-3826-acb3-01e77ad7d9d4?fit=crop&h=675&upscale=true&w=1200&s=63f59cbaf8803ec33fefe0427c13908e302fbddd",
       "localImage": "assets/news/1b6c34ad6f864f.jpg",
       "score": 15
+    },
+    {
+      "id": "dffa3d0fbc841d",
+      "category": "Norge",
+      "published": "28.08. 12:12",
+      "publishedISO": "2026-08-28T12:12:30+02:00",
+      "title": "Forsvaret hedret kong Harald med sørgesalutt og har oppstilling over hele landet",
+      "summary": "Med kongens klær, stilte soldater over hele landet seg opp fredag for å hedre kong Harald. Nyheten preger også Forsvaret, som fredag har markert dødsfallet over hele landet. – Det var en veldig rar dag, sier soldat Vetle Utz, som tjenestegjør ved Forsvarets leir på Terningmoen i Elverum. Hans Majestet Kong Harald tiltrådte selv i Forsvaret i 1955 ved Kavaleriets befalsskole på Trandum før han senere gikk Krigsskolen i Oslo fra 1957 til 1959.",
+      "keyPoints": [
+        "Med kongens klær, stilte soldater over hele landet seg opp fredag for å hedre kong Harald.",
+        "Nyheten preger også Forsvaret, som fredag har markert dødsfallet over hele landet. – Det var en veldig rar dag, sier soldat Vetle Utz, som tjenestegjør ved Forsvarets leir på Terningmoen i Elverum.",
+        "Hans Majestet Kong Harald tiltrådte selv i Forsvaret i 1955 ved Kavaleriets befalsskole på Trandum før han senere gikk Krigsskolen i Oslo fra 1957 til 1959.",
+        "Vi rapporterer fra Elverum/Lillehammer/Kongsvinger/Bardufoss/Ørland Fredag morgen kom nyheten om at Hans Majestet Kong Harald er død, 89 år gammel."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/forsvaret-hedret-kong-harald-med-sorgesalutt-og-har-oppstilling-over-hele-landet-1.18005477",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/K7UB6NZSQZ0oabUoE7dUewD5zlfPI8sNlBALFntSAARQ.jpg",
+      "localImage": "assets/news/dffa3d0fbc841d.jpg",
+      "score": 14
     },
     {
       "id": "44e77352a6c581",
@@ -151,27 +151,6 @@
       "score": 14
     },
     {
-      "id": "f3f89fc142be4f",
-      "category": "Norge",
-      "published": "27.08. 06:10",
-      "publishedISO": "2026-08-27T06:10:46+02:00",
-      "title": "Medier: CIA-sjef advarte Russland mot å angripe Nato-land",
-      "summary": "Amerikanske tjenestemenn frykter at Russland kan angripe Nato-land. ADVARSEL: CIA-sjef John Ratcliffe har advart Russland mot å angripe Nato-land, og da særlig de baltiske landene. CIA-sjef John Ratcliffe skal ha advart Russland mot å angripe Nato-land da han denne uken var på besøk i Moskva.",
-      "keyPoints": [
-        "ADVARSEL: CIA-sjef John Ratcliffe har advart Russland mot å angripe Nato-land, og da særlig de baltiske landene.",
-        "CIA-sjef John Ratcliffe skal ha advart Russland mot å angripe Nato-land da han denne uken var på besøk i Moskva.",
-        "Amerikanske tjenestemenn frykter at Russland kan angripe Nato-land.",
-        "Da advarte daværende CIA-sjef William Burns den russiske presidenten Vladimir Putin om å ikke angripe Ukraina, skriver avisen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/medier_-cia-sjef-advarte-russland-mot-a-angripe-nato-land-1.18002985",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/q6QojqjF3eOKU2UTLyR85w960fj27xZOfw95GBAZJAAQ.jpg",
-      "localImage": "assets/news/f3f89fc142be4f.jpg",
-      "score": 13
-    },
-    {
       "id": "805a40b5e8c2d3",
       "category": "Norge",
       "published": "28.08. 21:13",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/RAThm7X2BCFAz8klqaAVTwXi5Bga5ZDl7OfC8TEIRJSA.jpg",
       "localImage": "assets/news/c14ef8fa56b4de.webp",
+      "score": 12
+    },
+    {
+      "id": "a46c2fcbeb733b",
+      "category": "Norge",
+      "published": "28.08. 19:59",
+      "publishedISO": "2026-08-28T19:59:35+02:00",
+      "title": "Fotoserie: Folk i Vestland takkar Kong Harald",
+      "summary": "Besøket til Etne blei eitt av kong Harald sine siste besøk til Vestland. Barna på Etne møtte kong Harald då han var på besøk rett før sommaren. Emma Josefine Aareland Nygaard synest kong Harald var morosam.",
+      "keyPoints": [
+        "Besøket til Etne blei eitt av kong Harald sine siste besøk til Vestland.",
+        "Barna på Etne møtte kong Harald då han var på besøk rett før sommaren.",
+        "Emma Josefine Aareland Nygaard synest kong Harald var morosam.",
+        "I Ullensvang straumar folk til kondolanseprotokollen. – Han har vore ein fantastisk konge på alle vis."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/sja-fotoserie-fra-vestland-fylke_-heile-vestland-sorger-over-kong-harald-1.18006653",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/IdT7qGKYm5oBEeHCXEMrEgooP74FWf5wPaqRP6YC4bpQ.jpg",
+      "localImage": "assets/news/a46c2fcbeb733b.jpg",
       "score": 12
     }
   ]
