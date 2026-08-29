@@ -1,28 +1,28 @@
 {
-  "updatedAt": "29.08.2026 kl. 08:37",
-  "updatedISO": "2026-08-29T08:37:23.269980+02:00",
+  "updatedAt": "29.08.2026 kl. 08:52",
+  "updatedISO": "2026-08-29T08:52:27.379579+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "ac1ec9affe6d78",
+      "id": "9989521d13151c",
       "category": "Norge",
-      "published": "28.08. 18:15",
-      "publishedISO": "2026-08-28T18:15:41+02:00",
-      "title": "Kronen og sverdet fraktet til kongens båre",
-      "summary": "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten. Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark. Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
+      "published": "29.08. 08:20",
+      "publishedISO": "2026-08-29T08:20:30+02:00",
+      "title": "Donald Trump kondolerer",
+      "summary": "Trump skrøt av kongen da Støre besøkte Det hvite hus i april 2025. – Veldig trist å høre om bortgangen til kong Harald av Norge, skriver Trump på sin egen meldingstjeneste Truth Social. – En sterk, stolt og dypt respektert mann. Han elsket landet sitt, og var virkelig elsket og respektert av sitt folk. Da statsminister Jonas Gahr Støre besøkte Det hvite hus i april i fjor, var Trump tydelig om sin begeistring for den norske kongen.",
       "keyPoints": [
-        "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten.",
-        "Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark.",
-        "Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
-        "Ornamentikken i toppstykket består av eikeløv og laurbærblader. – Ved monarkens død spiller kronen og sverdet en helt sentral rolle."
+        "Trump skrøt av kongen da Støre besøkte Det hvite hus i april 2025. – Veldig trist å høre om bortgangen til kong Harald av Norge, skriver Trump på sin egen meldingstjeneste Truth Social. – En sterk, stolt og dypt respektert mann.",
+        "Da statsminister Jonas Gahr Støre besøkte Det hvite hus i april i fjor, var Trump tydelig om sin begeistring for den norske kongen.",
+        "Han elsket landet sitt, og var virkelig elsket og respektert av sitt folk.",
+        "På pressekonferansen etter samtalen mellom de to skrøt presidenten av kong Harald."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/xl/kronen-og-sverdet-fraktet-til-kongens-bare-1.15041811",
+      "url": "https://www.nrk.no/urix/donald-trump-kondolerer-1.18006844",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/R8Ru-t4Ox8GSb8CAaxYiVQh0Zwb53p8rUnrikxzUMEdw.jpg",
-      "localImage": "assets/news/ac1ec9affe6d78.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/f_AHzYiT5T8AXgOkD4EzeQVQessRAg1-YolaWThuzitA.jpg",
+      "localImage": "assets/news/9989521d13151c.jpg",
+      "score": 17
     },
     {
       "id": "dcf05c435a6afb",
@@ -86,6 +86,27 @@
       "image": "https://akamai.vgc.no/v2/images/1bce5ceb-2454-3963-903e-55f326a608a5?fit=crop&h=675&upscale=true&w=1200&s=a406755270c5632cd281ec5bdc5c1e578f1b7cf8",
       "localImage": "assets/news/396bcfcd529c51.jpg",
       "score": 16
+    },
+    {
+      "id": "ac1ec9affe6d78",
+      "category": "Norge",
+      "published": "28.08. 18:15",
+      "publishedISO": "2026-08-28T18:15:41+02:00",
+      "title": "Kronen og sverdet fraktet til kongens båre",
+      "summary": "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten. Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark. Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
+      "keyPoints": [
+        "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten.",
+        "Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark.",
+        "Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
+        "Ornamentikken i toppstykket består av eikeløv og laurbærblader. – Ved monarkens død spiller kronen og sverdet en helt sentral rolle."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/xl/kronen-og-sverdet-fraktet-til-kongens-bare-1.15041811",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/R8Ru-t4Ox8GSb8CAaxYiVQh0Zwb53p8rUnrikxzUMEdw.jpg",
+      "localImage": "assets/news/ac1ec9affe6d78.jpg",
+      "score": 15
     },
     {
       "id": "2875555e1ea362",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9c4f7d22-3e5f-3a67-853a-cb5a0fcd00e2?fit=crop&h=675&upscale=true&w=1200&s=023d704d025ec354a48394fe661e84e72154ae55",
       "localImage": "assets/news/5fc8e27124c49d.jpg",
-      "score": 13
-    },
-    {
-      "id": "dffa3d0fbc841d",
-      "category": "Norge",
-      "published": "28.08. 12:12",
-      "publishedISO": "2026-08-28T12:12:30+02:00",
-      "title": "Forsvaret hedret kong Harald med sørgesalutt og har oppstilling over hele landet",
-      "summary": "Med kongens klær, stilte soldater over hele landet seg opp fredag for å hedre kong Harald. Nyheten preger også Forsvaret, som fredag har markert dødsfallet over hele landet. – Det var en veldig rar dag, sier soldat Vetle Utz, som tjenestegjør ved Forsvarets leir på Terningmoen i Elverum. Hans Majestet Kong Harald tiltrådte selv i Forsvaret i 1955 ved Kavaleriets befalsskole på Trandum før han senere gikk Krigsskolen i Oslo fra 1957 til 1959.",
-      "keyPoints": [
-        "Med kongens klær, stilte soldater over hele landet seg opp fredag for å hedre kong Harald.",
-        "Nyheten preger også Forsvaret, som fredag har markert dødsfallet over hele landet. – Det var en veldig rar dag, sier soldat Vetle Utz, som tjenestegjør ved Forsvarets leir på Terningmoen i Elverum.",
-        "Hans Majestet Kong Harald tiltrådte selv i Forsvaret i 1955 ved Kavaleriets befalsskole på Trandum før han senere gikk Krigsskolen i Oslo fra 1957 til 1959.",
-        "Vi rapporterer fra Elverum/Lillehammer/Kongsvinger/Bardufoss/Ørland Fredag morgen kom nyheten om at Hans Majestet Kong Harald er død, 89 år gammel."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/forsvaret-hedret-kong-harald-med-sorgesalutt-og-har-oppstilling-over-hele-landet-1.18005477",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/K7UB6NZSQZ0oabUoE7dUewD5zlfPI8sNlBALFntSAARQ.jpg",
-      "localImage": "assets/news/dffa3d0fbc841d.jpg",
       "score": 13
     }
   ]
