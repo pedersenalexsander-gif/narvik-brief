@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 12:52",
-  "updatedISO": "2026-08-29T12:52:03.395140+02:00",
+  "updatedAt": "29.08.2026 kl. 13:07",
+  "updatedISO": "2026-08-29T13:07:16.750781+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,27 +88,6 @@
       "score": 15
     },
     {
-      "id": "2875555e1ea362",
-      "category": "Økonomi",
-      "published": "27.08. 11:05",
-      "publishedISO": "2026-08-27T11:05:49+02:00",
-      "title": "Milliardoppgang for Aker-aksjonærer: – Dette er moro",
-      "summary": "Kjell Inge Røkkes Aker legger på seg rundt ni milliarder kroner i børsverdi etter gigantkontrakten til Nscale verdt 420 milliarder kroner, som ble kunngjort onsdag kveld. Nscale er den nest største eierposten i Akers portefølje og kontraktsnyhetene sender Aker-aksjen opp åtte prosent til ny toppnotering torsdag formiddag. – Dette er moro, sier investor Torstein Tvenge til E24. Aker har ridd AI-bølgen gjennom investeringen i Nscale. – Det er en imponerende kontrakt Josh Payne i NscaleJosh Payne fra Australia er gründer og toppsjef i Nscale. har landet, sier kommunikasjonsdirektør Atle Kigen. – Selskapet er ikke mer enn 2,5 år, og Aker har vært største aksjonær siden i fjor høst.",
-      "keyPoints": [
-        "Nscale er den nest største eierposten i Akers portefølje og kontraktsnyhetene sender Aker-aksjen opp åtte prosent til ny toppnotering torsdag formiddag. – Dette er moro, sier investor Torstein Tvenge til E24.",
-        "Kjell Inge Røkkes Aker legger på seg rundt ni milliarder kroner i børsverdi etter gigantkontrakten til Nscale verdt 420 milliarder kroner, som ble kunngjort onsdag kveld.",
-        "Aker har ridd AI-bølgen gjennom investeringen i Nscale. – Det er en imponerende kontrakt Josh Payne i NscaleJosh Payne fra Australia er gründer og toppsjef i Nscale. har landet, sier kommunikasjonsdirektør Atle Kigen. – Selskapet er ikke mer enn 2,5 år, og Aker har vært største aksjonær siden i fjor høst.",
-        "Han er oppført som femte største aksjonær i Aker, med en beholdning på 800.000 aksjer verdt rundt 1,28 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Wve9vG/milliardoppgang-for-aker-aksjonaerer-dette-er-moro",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1646fc56-c17f-3252-bbd2-e8d5630225b2?fit=crop&h=675&upscale=true&w=1200&s=3dcf569caa097fc03e527562b81a4234a39b8799",
-      "localImage": "assets/news/2875555e1ea362.jpg",
-      "score": 15
-    },
-    {
       "id": "ac1ec9affe6d78",
       "category": "Norge",
       "published": "28.08. 18:15",
@@ -127,6 +106,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/R8Ru-t4Ox8GSb8CAaxYiVQh0Zwb53p8rUnrikxzUMEdw.jpg",
       "localImage": "assets/news/ac1ec9affe6d78.jpg",
+      "score": 14
+    },
+    {
+      "id": "2875555e1ea362",
+      "category": "Økonomi",
+      "published": "27.08. 11:05",
+      "publishedISO": "2026-08-27T11:05:49+02:00",
+      "title": "Milliardoppgang for Aker-aksjonærer: – Dette er moro",
+      "summary": "Kjell Inge Røkkes Aker legger på seg rundt ni milliarder kroner i børsverdi etter gigantkontrakten til Nscale verdt 420 milliarder kroner, som ble kunngjort onsdag kveld. Nscale er den nest største eierposten i Akers portefølje og kontraktsnyhetene sender Aker-aksjen opp åtte prosent til ny toppnotering torsdag formiddag. – Dette er moro, sier investor Torstein Tvenge til E24. Aker har ridd AI-bølgen gjennom investeringen i Nscale. – Det er en imponerende kontrakt Josh Payne i NscaleJosh Payne fra Australia er gründer og toppsjef i Nscale. har landet, sier kommunikasjonsdirektør Atle Kigen. – Selskapet er ikke mer enn 2,5 år, og Aker har vært største aksjonær siden i fjor høst.",
+      "keyPoints": [
+        "Nscale er den nest største eierposten i Akers portefølje og kontraktsnyhetene sender Aker-aksjen opp åtte prosent til ny toppnotering torsdag formiddag. – Dette er moro, sier investor Torstein Tvenge til E24.",
+        "Kjell Inge Røkkes Aker legger på seg rundt ni milliarder kroner i børsverdi etter gigantkontrakten til Nscale verdt 420 milliarder kroner, som ble kunngjort onsdag kveld.",
+        "Aker har ridd AI-bølgen gjennom investeringen i Nscale. – Det er en imponerende kontrakt Josh Payne i NscaleJosh Payne fra Australia er gründer og toppsjef i Nscale. har landet, sier kommunikasjonsdirektør Atle Kigen. – Selskapet er ikke mer enn 2,5 år, og Aker har vært største aksjonær siden i fjor høst.",
+        "Han er oppført som femte største aksjonær i Aker, med en beholdning på 800.000 aksjer verdt rundt 1,28 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Wve9vG/milliardoppgang-for-aker-aksjonaerer-dette-er-moro",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1646fc56-c17f-3252-bbd2-e8d5630225b2?fit=crop&h=675&upscale=true&w=1200&s=3dcf569caa097fc03e527562b81a4234a39b8799",
+      "localImage": "assets/news/2875555e1ea362.jpg",
       "score": 14
     },
     {
