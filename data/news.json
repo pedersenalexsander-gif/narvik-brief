@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 16:21",
-  "updatedISO": "2026-08-29T16:21:35.981475+02:00",
+  "updatedAt": "29.08.2026 kl. 16:36",
+  "updatedISO": "2026-08-29T16:36:35.005595+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -64,27 +64,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2141fe0b-f49c-38d4-ad58-843ca3c5e9fa?fit=crop&h=675&upscale=true&w=1200&s=16ae0f8068aacdfb1cc4585b7331efdea4506e6c",
       "localImage": "assets/news/7285d82e5aa3a2.jpg",
-      "score": 16
-    },
-    {
-      "id": "9989521d13151c",
-      "category": "Norge",
-      "published": "29.08. 08:20",
-      "publishedISO": "2026-08-29T08:20:30+02:00",
-      "title": "Donald Trump kondolerer",
-      "summary": "Trump skrøt av kongen da Støre besøkte Det hvite hus i april 2025. – Veldig trist å høre om bortgangen til kong Harald av Norge, skriver Trump på sin egen meldingstjeneste Truth Social. – En sterk, stolt og dypt respektert mann. Da statsminister Jonas Gahr Støre besøkte Det hvite hus i april i fjor, var Trump tydelig om sin begeistring for den norske kongen. Men Trump er ikke den eneste i USA som har ønsket å kondolere tapet av den norske kongen.",
-      "keyPoints": [
-        "Trump skrøt av kongen da Støre besøkte Det hvite hus i april 2025. – Veldig trist å høre om bortgangen til kong Harald av Norge, skriver Trump på sin egen meldingstjeneste Truth Social. – En sterk, stolt og dypt respektert mann.",
-        "Da statsminister Jonas Gahr Støre besøkte Det hvite hus i april i fjor, var Trump tydelig om sin begeistring for den norske kongen.",
-        "Men Trump er ikke den eneste i USA som har ønsket å kondolere tapet av den norske kongen.",
-        "Blant dem norskamerikanske Cynthia Ahlgren og sønnen Leif Magnus. – Harald er kjærlighetens konge, og han var et fantastisk forbilde, ikke bare for sin familie og det norske folk, men også for kongelige familier over hele verden, sier hun til NRK."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/donald-trump-kondolerer-1.18006844",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/f_AHzYiT5T8AXgOkD4EzeQVQessRAg1-YolaWThuzitA.jpg",
-      "localImage": "assets/news/9989521d13151c.jpg",
       "score": 16
     },
     {
@@ -156,10 +135,10 @@
       "published": "29.08. 16:05",
       "publishedISO": "2026-08-29T16:05:42+02:00",
       "title": "– Håper du hviler i fred og ro",
-      "summary": "Søskenparet Benjamin (10) og Therese Fredriksen Espervik (8) synes det var trist å høre om kongens bortgang. – Vi fikk vite det da vi kom hjem fra turen på skolen i går. Håper du hviler i fred og ro, leser Therese fra kortet sitt. Det er nemlig ikke bare voksne som ønsker å skrive protokollen, også barna deltar. – Det som er litt spesielt, er at vi ser eksempler på hva barna skriver: «Hvil i fred, hele Norges bestefar».",
+      "summary": "Søskenparet Benjamin (10) og Therese Fredriksen Espervik (8) synes det var trist å høre om kongens bortgang. – Vi fikk vite det da vi kom hjem fra turen på skolen i går. Håper du hviler i fred og ro, leser Therese fra kortet sitt. Flere skrev ned fine ord og tegninger til kongen på rådhuset i Rana. – Det som er litt spesielt, er at vi ser eksempler på hva barna skriver: «Hvil i fred, hele Norges bestefar».",
       "keyPoints": [
         "Håper du hviler i fred og ro, leser Therese fra kortet sitt.",
-        "Det er nemlig ikke bare voksne som ønsker å skrive protokollen, også barna deltar. – Det som er litt spesielt, er at vi ser eksempler på hva barna skriver: «Hvil i fred, hele Norges bestefar».",
+        "Flere skrev ned fine ord og tegninger til kongen på rådhuset i Rana. – Det som er litt spesielt, er at vi ser eksempler på hva barna skriver: «Hvil i fred, hele Norges bestefar».",
         "Søskenparet Benjamin (10) og Therese Fredriksen Espervik (8) synes det var trist å høre om kongens bortgang. – Vi fikk vite det da vi kom hjem fra turen på skolen i går.",
         "En analyse av de 1800 første kondolansene viser at dette er ordene som nordmenn bruker om kong Harald: Ordfører Geir Waage forteller at det har vært stor pågang fra innbyggere som ønsker å vise medfølelse."
       ],
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/pi7Lsin0ALuxrPH8k3V5ZwZk3Nz_k0Pel8ev7gj1lbQA.jpg",
       "localImage": "assets/news/2f97a23f2eeae5.webp",
+      "score": 13
+    },
+    {
+      "id": "2134465e64fb9c",
+      "category": "Norge",
+      "published": "29.08. 13:54",
+      "publishedISO": "2026-08-29T13:54:40+02:00",
+      "title": "Ansgar (8) spilte konge for Kongen i mai: – Veldig trist at han er død",
+      "summary": "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd. I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele. Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
+      "keyPoints": [
+        "Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
+        "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd.",
+        "I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele.",
+        "Magnus var bare åtte år da han ble kronet, akkurat som Ansgar er nå."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/ansgar-_8_-spilte-konge-for-kongen-i-mai_-_-veldig-trist-at-han-er-dod-1.18006004",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/d2ULy3yHG3QjXDenE0cZtAzKt78Z7WaUxeTSrrqwnAVA",
+      "localImage": "assets/news/2134465e64fb9c.jpg",
       "score": 13
     }
   ]
