@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 16:36",
-  "updatedISO": "2026-08-29T16:36:35.005595+02:00",
+  "updatedAt": "29.08.2026 kl. 16:51",
+  "updatedISO": "2026-08-29T16:51:17.002705+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,48 @@
       "image": "https://gfx.nrk.no/l3lijOqt5W2-rdv0YVCO4AhzSSqJmxnaIhFZ8pKvxiKA.jpg",
       "localImage": "assets/news/9e7fa86963a922.jpg",
       "score": 17
+    },
+    {
+      "id": "addf59d5aac6bd",
+      "category": "Verden",
+      "published": "29.08. 16:43",
+      "publishedISO": "2026-08-29T16:43:04+02:00",
+      "title": "Minst 37 døde og hundrevis evakuert etter angrep på Kievs våpenlager",
+      "summary": "Ukraina-korrespondent Dan Johnson rapporterer fra Kiev etter det dødelige angrepet Trettisju mennesker er døde og nesten 400 er evakuert etter at et russisk droneangrep traff et depot som lagrer våpen for Ukrainas militære nær et boligområde i utkanten av Kiev. Angrepet er det andre som har rammet et ammunisjonslager i nærheten av Kiev de siste månedene, og har ført til fornyet sinne. Imidlertid har Zelensky tidligere uttalt at \"det er forskrifter på plass - ammunisjon kan ikke lagres i nærheten av hjem eller andre boligområder\", og la til: \"Passelige konklusjoner vil helt sikkert bli trukket.\" Han refererte til angrepet på et ammunisjonslager i Vyshneve i juli, som forårsaket en sekundær detonasjon som drepte ni, skadet flere titalls og skadet mer enn 280 hjem.",
+      "keyPoints": [
+        "Ukraina-korrespondent Dan Johnson rapporterer fra Kiev etter det dødelige angrepet Trettisju mennesker er døde og nesten 400 er evakuert etter at et russisk droneangrep traff et depot som lagrer våpen for Ukrainas militære nær et boligområde i utkanten av Kiev.",
+        "Angrepet er det andre som har rammet et ammunisjonslager i nærheten av Kiev de siste månedene, og har ført til fornyet sinne.",
+        "Imidlertid har Zelensky tidligere uttalt at \"det er forskrifter på plass - ammunisjon kan ikke lagres i nærheten av hjem eller andre boligområder\", og la til: \"Passelige konklusjoner vil helt sikkert bli trukket.\" Han refererte til angrepet på et ammunisjonslager i Vyshneve i juli, som forårsaket en sekundær detonasjon som drepte ni, skadet flere titalls og skadet mer enn 280 hjem.",
+        "Det russiske forsvarsdepartementet sa i en uttalelse at dets styrker hadde målrettet «et ammunisjonslager» i Myla, en landsby vest for den ukrainske hovedstaden, med «komponenter og utskytningsforsterkere for FP-1/FP-2 langtrekkende ubemannede luftfartøyer»."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg",
+      "localImage": "assets/news/addf59d5aac6bd.png",
+      "score": 17
+    },
+    {
+      "id": "2d07814855bf92",
+      "category": "USA",
+      "published": "28.08. 16:42",
+      "publishedISO": "2026-08-28T16:42:36+02:00",
+      "title": "BBC snakker med amerikansk gruppe etter 77 vandrere savnet i Nepal-flom",
+      "summary": "BBC snakker med en amerikansk gruppe etter at 77 turgåere er savnet i Nepal-flom. Video, 00:04:27 BBC snakker med amerikansk gruppe etter at 77 turgåere forsvinner i Nepal-flom Up Next. Video, 00:01:14Se: Hvorfor redningsmenn frykter at ny barriereinnsjø kan forårsake en ny flom fra Nepal og Tibet. Blokkerte veier og ødeleggelser når BBC kjører til stedet for flom i Nepal.",
+      "keyPoints": [
+        "BBC snakker med en amerikansk gruppe etter at 77 turgåere er savnet i Nepal-flom.",
+        "Video, 00:01:14Se: Hvorfor redningsmenn frykter at ny barriereinnsjø kan forårsake en ny flom fra Nepal og Tibet. Blokkerte veier og ødeleggelser når BBC kjører til stedet for flom i Nepal.",
+        "Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flom fra Nepal.",
+        "Video, 00:00:58Blokkerte veier og ødeleggelser mens BBC kjører til stedet for flom i Nepal. Hvitehat og delfiner reddet fra lukket kanadisk park ankommer Spania."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cvgy71zvdddo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a225/live/2cb23a30-a2ee-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/2d07814855bf92.jpg",
+      "score": 13
     },
     {
       "id": "dcf05c435a6afb",
@@ -67,6 +109,69 @@
       "score": 16
     },
     {
+      "id": "d32edd7c1377d4",
+      "category": "Verden",
+      "published": "29.08. 16:18",
+      "publishedISO": "2026-08-29T16:18:11+02:00",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, kunngjorde Donald Trump. Under avtalen vil den amerikanske regjeringen beholde 55 % kontroll over et joint venture med en \"erfaren privat operatør i Venezuela\", sa en amerikansk tjenestemann til BBCs amerikanske partner CBS News. Venezuela har de største påviste oljereservene i verden – anslagsvis 303 milliarder fat.",
+      "keyPoints": [
+        "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, kunngjorde Donald Trump.",
+        "Under avtalen vil den amerikanske regjeringen beholde 55 % kontroll over et joint venture med en \"erfaren privat operatør i Venezuela\", sa en amerikansk tjenestemann til BBCs amerikanske partner CBS News.",
+        "Venezuela har de største påviste oljereservene i verden – anslagsvis 303 milliarder fat.",
+        "Avtalen ser også ut til å være bredere enn den USA-ledede koalisjonens provisoriske myndighets kontroll over Iraks oljeinntekter etter at Saddam Hussein ble kastet ut i en amerikanskledet invasjon i 2003."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/d32edd7c1377d4.jpg",
+      "score": 17
+    },
+    {
+      "id": "aa164394fe5a29",
+      "category": "Verden",
+      "published": "29.08. 15:55",
+      "publishedISO": "2026-08-29T15:55:55+02:00",
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "summary": "Nesten 400 mennesker har blitt evakuert etter et russisk angrep på et lager i nærheten av Kiev drepte minst 37 mennesker, opplyser ukrainske myndigheter. Video, 00:01:23Dødelig streik på lageret i Kiev fører til evakuering. Up Next. Video, 00:01:00 BBC besøker ulmende Kiev-markedet etter russiske streiker Se: Stjernekikkere rundt om i verden får et glimt av måneformørkelsen «Blood Moon».",
+      "keyPoints": [
+        "Video, 00:01:23Deadly strike on Kyiv warehouse prompts evacuations Up Next.",
+        "Nesten 400 mennesker har blitt evakuert etter et russisk angrep på et lager i nærheten av Kiev drepte minst 37 mennesker, opplyser ukrainske myndigheter.",
+        "Video, 00:01:00 BBC besøker ulmende Kiev-markedet etter russiske streiker Se: Stjernekikkere rundt om i verden får et glimt av måneformørkelsen «Blood Moon».",
+        "Video, 00:01:04Se: Stjernekikkere rundt om i verden får et glimt av 'Blood Moon' måneformørkelse. De sporer den dødelige banen til lynflommen mellom Nepal og Tibet."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b94a/live/3b597a00-a3af-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/aa164394fe5a29.jpg",
+      "score": 17
+    },
+    {
+      "id": "9989521d13151c",
+      "category": "Norge",
+      "published": "29.08. 08:20",
+      "publishedISO": "2026-08-29T08:20:30+02:00",
+      "title": "Donald Trump kondolerer",
+      "summary": "Trump skrøt av kongen da Støre besøkte Det hvite hus i april 2025. – Veldig trist å høre om bortgangen til kong Harald av Norge, skriver Trump på sin egen meldingstjeneste Truth Social. – En sterk, stolt og dypt respektert mann. Da statsminister Jonas Gahr Støre besøkte Det hvite hus i april i fjor, var Trump tydelig om sin begeistring for den norske kongen. Men Trump er ikke den eneste i USA som har ønsket å kondolere tapet av den norske kongen.",
+      "keyPoints": [
+        "Trump skrøt av kongen da Støre besøkte Det hvite hus i april 2025. – Veldig trist å høre om bortgangen til kong Harald av Norge, skriver Trump på sin egen meldingstjeneste Truth Social. – En sterk, stolt og dypt respektert mann.",
+        "Da statsminister Jonas Gahr Støre besøkte Det hvite hus i april i fjor, var Trump tydelig om sin begeistring for den norske kongen.",
+        "Men Trump er ikke den eneste i USA som har ønsket å kondolere tapet av den norske kongen.",
+        "Blant dem norskamerikanske Cynthia Ahlgren og sønnen Leif Magnus. – Harald er kjærlighetens konge, og han var et fantastisk forbilde, ikke bare for sin familie og det norske folk, men også for kongelige familier over hele verden, sier hun til NRK."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/donald-trump-kondolerer-1.18006844",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/f_AHzYiT5T8AXgOkD4EzeQVQessRAg1-YolaWThuzitA.jpg",
+      "localImage": "assets/news/9989521d13151c.jpg",
+      "score": 16
+    },
+    {
       "id": "70f39b9456a116",
       "category": "Økonomi",
       "published": "29.08. 07:03",
@@ -88,130 +193,25 @@
       "score": 16
     },
     {
-      "id": "396bcfcd529c51",
-      "category": "Økonomi",
-      "published": "28.08. 09:03",
-      "publishedISO": "2026-08-28T09:03:24+02:00",
-      "title": "Oslo Børs stengte på ny rekord",
-      "summary": "Børsen stengte på rekordnivå tirsdag, og deretter fulgte to dager på rad med nedgang. Fredag stengte børsen på ny rekord med 2099,85 poeng, rundt to poeng mer enn tirsdag. Dette er Frontlines nøkkeltall i andre kvartal: Det var ventet henholdsvis 616 millioner dollar og 652 millioner dollar, ifølge Bloomberg. – Andre kvartal 2026 fortsatte å være volatilt.",
+      "id": "e45113ab5cb620",
+      "category": "Verden",
+      "published": "29.08. 05:54",
+      "publishedISO": "2026-08-29T05:54:11+02:00",
+      "title": "Tibet-Nepal floods: Shocking footage isn't being shown in China - and we know little about victims there",
+      "summary": "Video viser omfanget av flom som rammer grensen mellom Nepal og Tibet. De dramatiske opptakene var nesten umulige å gå glipp av. Men når du sammenligner landets internettinnhold med det store deler av verden har sett på nettet de siste dagene, blir Kinas brannmur mer synlig enn noen gang. Det er ingen beretninger fra overlevende i Tibet, og nesten ingen brukergenererte opptak som viser de dødelige øyeblikkene eller ettervirkningene deres.",
       "keyPoints": [
-        "Fredag stengte børsen på ny rekord med 2099,85 poeng, rundt to poeng mer enn tirsdag.",
-        "Dette er Frontlines nøkkeltall i andre kvartal: Det var ventet henholdsvis 616 millioner dollar og 652 millioner dollar, ifølge Bloomberg. – Andre kvartal 2026 fortsatte å være volatilt.",
-        "Børsen stengte på rekordnivå tirsdag, og deretter fulgte to dager på rad med nedgang.",
-        "Utbyttet er på 2,61 dollar per aksje for andre kvartal, mens det var ventet 2,52 dollar per aksje."
+        "Det er ingen beretninger fra overlevende i Tibet, og nesten ingen brukergenererte opptak som viser de dødelige øyeblikkene eller ettervirkningene deres.",
+        "Video shows scale of flash flood hitting Nepal-Tibet border The dramatic footage was almost impossible to miss.",
+        "Men når du sammenligner landets internettinnhold med det store deler av verden har sett på nettet de siste dagene, blir Kinas brannmur mer synlig enn noen gang.",
+        "Det har også vært vanskelig å finne videoen på Kinas sterkt sensurerte internett."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/q6bnqe/oslo-boers-stiger-fra-start",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1bce5ceb-2454-3963-903e-55f326a608a5?fit=crop&h=675&upscale=true&w=1200&s=a406755270c5632cd281ec5bdc5c1e578f1b7cf8",
-      "localImage": "assets/news/396bcfcd529c51.jpg",
-      "score": 14
-    },
-    {
-      "id": "2875555e1ea362",
-      "category": "Økonomi",
-      "published": "27.08. 11:05",
-      "publishedISO": "2026-08-27T11:05:49+02:00",
-      "title": "Milliardoppgang for Aker-aksjonærer: – Dette er moro",
-      "summary": "Kjell Inge Røkkes Aker legger på seg rundt ni milliarder kroner i børsverdi etter gigantkontrakten til Nscale verdt 420 milliarder kroner, som ble kunngjort onsdag kveld. Nscale er den nest største eierposten i Akers portefølje og kontraktsnyhetene sender Aker-aksjen opp åtte prosent til ny toppnotering torsdag formiddag. – Dette er moro, sier investor Torstein Tvenge til E24. Aker har ridd AI-bølgen gjennom investeringen i Nscale. – Det er en imponerende kontrakt Josh Payne i NscaleJosh Payne fra Australia er gründer og toppsjef i Nscale. har landet, sier kommunikasjonsdirektør Atle Kigen. – Selskapet er ikke mer enn 2,5 år, og Aker har vært største aksjonær siden i fjor høst.",
-      "keyPoints": [
-        "Nscale er den nest største eierposten i Akers portefølje og kontraktsnyhetene sender Aker-aksjen opp åtte prosent til ny toppnotering torsdag formiddag. – Dette er moro, sier investor Torstein Tvenge til E24.",
-        "Kjell Inge Røkkes Aker legger på seg rundt ni milliarder kroner i børsverdi etter gigantkontrakten til Nscale verdt 420 milliarder kroner, som ble kunngjort onsdag kveld.",
-        "Aker har ridd AI-bølgen gjennom investeringen i Nscale. – Det er en imponerende kontrakt Josh Payne i NscaleJosh Payne fra Australia er gründer og toppsjef i Nscale. har landet, sier kommunikasjonsdirektør Atle Kigen. – Selskapet er ikke mer enn 2,5 år, og Aker har vært største aksjonær siden i fjor høst.",
-        "Han er oppført som femte største aksjonær i Aker, med en beholdning på 800.000 aksjer verdt rundt 1,28 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Wve9vG/milliardoppgang-for-aker-aksjonaerer-dette-er-moro",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1646fc56-c17f-3252-bbd2-e8d5630225b2?fit=crop&h=675&upscale=true&w=1200&s=3dcf569caa097fc03e527562b81a4234a39b8799",
-      "localImage": "assets/news/2875555e1ea362.jpg",
-      "score": 14
-    },
-    {
-      "id": "8bb588eaef5ced",
-      "category": "Norge",
-      "published": "29.08. 16:05",
-      "publishedISO": "2026-08-29T16:05:42+02:00",
-      "title": "– Håper du hviler i fred og ro",
-      "summary": "Søskenparet Benjamin (10) og Therese Fredriksen Espervik (8) synes det var trist å høre om kongens bortgang. – Vi fikk vite det da vi kom hjem fra turen på skolen i går. Håper du hviler i fred og ro, leser Therese fra kortet sitt. Flere skrev ned fine ord og tegninger til kongen på rådhuset i Rana. – Det som er litt spesielt, er at vi ser eksempler på hva barna skriver: «Hvil i fred, hele Norges bestefar».",
-      "keyPoints": [
-        "Håper du hviler i fred og ro, leser Therese fra kortet sitt.",
-        "Flere skrev ned fine ord og tegninger til kongen på rådhuset i Rana. – Det som er litt spesielt, er at vi ser eksempler på hva barna skriver: «Hvil i fred, hele Norges bestefar».",
-        "Søskenparet Benjamin (10) og Therese Fredriksen Espervik (8) synes det var trist å høre om kongens bortgang. – Vi fikk vite det da vi kom hjem fra turen på skolen i går.",
-        "En analyse av de 1800 første kondolansene viser at dette er ordene som nordmenn bruker om kong Harald: Ordfører Geir Waage forteller at det har vært stor pågang fra innbyggere som ønsker å vise medfølelse."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/_-haper-du-hviler-i-fred-og-ro-1.18007245",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/loNq7o6CIfleejAIeIcyEgMjAoTwlgjKpH-BoX0N4uNg.jpg",
-      "localImage": "assets/news/8bb588eaef5ced.jpg",
-      "score": 13
-    },
-    {
-      "id": "64a73fb3856843",
-      "category": "Norge",
-      "published": "29.08. 15:57",
-      "publishedISO": "2026-08-29T15:57:09+02:00",
-      "title": "Kong Harald minnes i europeiske land",
-      "summary": "Polakken Milosz Rolinski (35) (til venstre) tok til tårene da han skulle si hva Kong Harald har betydd. For Milosz Rolinski (35) og Slawomir Sternik (38) fra Polen har kong Harald spilt en viktig rolle. Talen som kong Harald holdt i 2016 er noe de ikke kommer til å glemme.",
-      "keyPoints": [
-        "Polakken Milosz Rolinski (35) (til venstre) tok til tårene da han skulle si hva Kong Harald har betydd.",
-        "For Milosz Rolinski (35) og Slawomir Sternik (38) fra Polen har kong Harald spilt en viktig rolle.",
-        "Talen som kong Harald holdt i 2016 er noe de ikke kommer til å glemme.",
-        "Kong Harald betydde noe helt spesielt for polakkene Milosz og Slawomir."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/kong-harald-minnes-i-europeiske-land-1.18005769",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PQWAIRBGNkMt-jE-M7h9LA-rwuBawbyhmJZPiiG_2skw.jpg",
-      "localImage": "assets/news/64a73fb3856843.jpg",
-      "score": 13
-    },
-    {
-      "id": "2f97a23f2eeae5",
-      "category": "Norge",
-      "published": "29.08. 14:46",
-      "publishedISO": "2026-08-29T14:46:44+02:00",
-      "title": "Dette sier det norske folk om kong Harald",
-      "summary": "I alle landets kommuner blir det lagt ut kondolanseprotokoller der folk kan skrive sin hilsen til kong Harald. Dette er basert analyse av de 1800 første kondolansene som ble skrevet hos NRK. «Samlende» er et av ordene mange bruker om kong Harald. Kong Harald var en som så alle rundt seg, sier Nora. – Han dømte ikke folk og han lot folk være seg sjøl og var grei mot alle, egentlig. – Han prøvde veldig å forstå hvordan folk rundt han hadde det.",
-      "keyPoints": [
-        "Kong Harald var en som så alle rundt seg, sier Nora. – Han dømte ikke folk og han lot folk være seg sjøl og var grei mot alle, egentlig. – Han prøvde veldig å forstå hvordan folk rundt han hadde det.",
-        "I alle landets kommuner blir det lagt ut kondolanseprotokoller der folk kan skrive sin hilsen til kong Harald.",
-        "Dette er basert analyse av de 1800 første kondolansene som ble skrevet hos NRK. «Samlende» er et av ordene mange bruker om kong Harald.",
-        "De er på Kilden for å tegne en hilsen til kong Harald. – Kong Harald var raus."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/dette-sier-det-norske-folk-om-kong-harald-1.18006931",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/pi7Lsin0ALuxrPH8k3V5ZwZk3Nz_k0Pel8ev7gj1lbQA.jpg",
-      "localImage": "assets/news/2f97a23f2eeae5.webp",
-      "score": 13
-    },
-    {
-      "id": "2134465e64fb9c",
-      "category": "Norge",
-      "published": "29.08. 13:54",
-      "publishedISO": "2026-08-29T13:54:40+02:00",
-      "title": "Ansgar (8) spilte konge for Kongen i mai: – Veldig trist at han er død",
-      "summary": "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd. I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele. Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
-      "keyPoints": [
-        "Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
-        "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd.",
-        "I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele.",
-        "Magnus var bare åtte år da han ble kronet, akkurat som Ansgar er nå."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/ansgar-_8_-spilte-konge-for-kongen-i-mai_-_-veldig-trist-at-han-er-dod-1.18006004",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/d2ULy3yHG3QjXDenE0cZtAzKt78Z7WaUxeTSrrqwnAVA",
-      "localImage": "assets/news/2134465e64fb9c.jpg",
-      "score": 13
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
+      "localImage": "assets/news/e45113ab5cb620.jpg",
+      "score": 15
     }
   ]
 }
