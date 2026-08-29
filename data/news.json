@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 13:07",
-  "updatedISO": "2026-08-29T13:07:16.750781+02:00",
+  "updatedAt": "29.08.2026 kl. 13:21",
+  "updatedISO": "2026-08-29T13:21:59.371825+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/f_AHzYiT5T8AXgOkD4EzeQVQessRAg1-YolaWThuzitA.jpg",
       "localImage": "assets/news/9989521d13151c.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "dcf05c435a6afb",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/99c85c33-2c34-3b49-82eb-c5fc74f3dbc2?fit=crop&h=675&upscale=true&w=1200&s=5e25a0f725993136f5c55e664307d6347450759b",
       "localImage": "assets/news/dcf05c435a6afb.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "70f39b9456a116",
@@ -130,6 +130,48 @@
       "score": 14
     },
     {
+      "id": "6d78757f2e4d34",
+      "category": "Norge",
+      "published": "29.08. 13:18",
+      "publishedISO": "2026-08-29T13:18:00+02:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Den nye rullebanen ved Bodø lufthavn skal ikke tas i bruk før høsten 2029. Flere la ned blomster og tente lys ved kongebautaen i Saltstraumen for å hedre kong Harald som gikk bort 28. august. Politiet melder om en rekke ordensforstyrrelser flere steder i Nordland natt til lørdag.",
+      "keyPoints": [
+        "Den nye rullebanen ved Bodø lufthavn skal ikke tas i bruk før høsten 2029.",
+        "Politiet melder om en rekke ordensforstyrrelser flere steder i Nordland natt til lørdag.",
+        "Flere la ned blomster og tente lys ved kongebautaen i Saltstraumen for å hedre kong Harald som gikk bort 28. august.",
+        "Han har siden spilt 51 kamper for Glimt, med tre mål og fire målgivende pasninger."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/6d78757f2e4d34.jpg",
+      "score": 13
+    },
+    {
+      "id": "388ec92201994f",
+      "category": "Norge",
+      "published": "29.08. 12:57",
+      "publishedISO": "2026-08-29T12:57:18+02:00",
+      "title": "Kan et islandsk EU-ja presse Norge inn i EU?",
+      "summary": "EU+ISLAND=SANT?: Hvis Island starter forhandlinger om EU-medlemskap kan det få store ringvirkninger for Norge. Østover og sørover har EU utvidet seg jevnt og trutt de siste 30 årene. Da kan Norge måtte forhandle med en islandsk fiskerisjef i EU om kvoter i framtida.",
+      "keyPoints": [
+        "EU+ISLAND=SANT?: Hvis Island starter forhandlinger om EU-medlemskap kan det få store ringvirkninger for Norge.",
+        "Da kan Norge måtte forhandle med en islandsk fiskerisjef i EU om kvoter i framtida.",
+        "Østover og sørover har EU utvidet seg jevnt og trutt de siste 30 årene.",
+        "I kjølvannet av finanskrisen i 2008, som rammet Island særdeles hardt, var det et viss politisk tro på at et medlemskap kunne stabilisere landets økonomi."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/kan-et-islandsk-eu-ja-presse-norge-inn-i-eu_-1.17999829",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/7wT6B7wt6e5ZOKomk0pDwAWZYEf3ZgZgmNRrGsR_5F-A.jpg",
+      "localImage": "assets/news/388ec92201994f.jpg",
+      "score": 13
+    },
+    {
       "id": "03612464783c07",
       "category": "Norge",
       "published": "29.08. 12:36",
@@ -169,48 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c14ce73e-0854-3c3b-b8ef-5e468612bf6e?fit=crop&h=675&upscale=true&w=1200&s=a77fc5d5a1dbaa233e145d94715dd6fc38e00d4c",
       "localImage": "assets/news/eb87238de1bf65.jpg",
-      "score": 13
-    },
-    {
-      "id": "b3fb22e5d1d9f4",
-      "category": "Norge",
-      "published": "29.08. 10:42",
-      "publishedISO": "2026-08-29T10:42:33+02:00",
-      "title": "Røper rørende konge-historie: – Hele Norges bestefar",
-      "summary": "Gjennom sine 35 år som Norges konge, møtte han en rekke av de største norske idrettsprofilene. Han gikk bare til siden av han og ble værende kjempelenge. – Christer synes det var så gøy, og så så kongen på Christer og sa: «Åssen raring er det her da?», og det synes jeg oppsummerte alt om kongen: Han var hele Norges bestefar og far på så mange vis, sier en rørt Skarstein. Tidlig fredag skulle den tidligere langrennsløperen på parketten for å gjennomføre nummeret han skulle fremføre senere samme dag. – Jeg klarte ikke å gjøre det i det hele tatt.",
-      "keyPoints": [
-        "Han gikk bare til siden av han og ble værende kjempelenge. – Christer synes det var så gøy, og så så kongen på Christer og sa: «Åssen raring er det her da?», og det synes jeg oppsummerte alt om kongen: Han var hele Norges bestefar og far på så mange vis, sier en rørt Skarstein.",
-        "Gjennom sine 35 år som Norges konge, møtte han en rekke av de største norske idrettsprofilene.",
-        "Tidlig fredag skulle den tidligere langrennsløperen på parketten for å gjennomføre nummeret han skulle fremføre senere samme dag. – Jeg klarte ikke å gjøre det i det hele tatt.",
-        "Nå deler flere av dem rørende historier om sine møter med den avdøde monarken."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/roper-rorende-konge-historie_-_-hele-norges-bestefar-1.18003301",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/hv75auYHMHRTLliBpQG3mw5cdGlbK3e_N_uUOaCBQHTA.jpg",
-      "localImage": "assets/news/b3fb22e5d1d9f4.webp",
-      "score": 13
-    },
-    {
-      "id": "8b9560f369bb31",
-      "category": "Økonomi",
-      "published": "29.08. 10:30",
-      "publishedISO": "2026-08-29T10:30:53+02:00",
-      "title": "Svært jevnt før islendingene tar EU-valget",
-      "summary": "Denne lørdagen avgjør islendingene om de vil starte forhandlinger om et EU-medlemskap. Inflasjonen i landet lå i juli på hele 5,3 prosent og styringsrenten ble i forrige uke økt til åtte prosent. Dette gjør at mange islendinger har skyhøy rente på boliglånet: I tillegg ønsker ja-siden at Island skal få et sete ved bordet når EU tar avgjørelser.",
-      "keyPoints": [
-        "Denne lørdagen avgjør islendingene om de vil starte forhandlinger om et EU-medlemskap.",
-        "Dette gjør at mange islendinger har skyhøy rente på boliglånet: I tillegg ønsker ja-siden at Island skal få et sete ved bordet når EU tar avgjørelser.",
-        "Inflasjonen i landet lå i juli på hele 5,3 prosent og styringsrenten ble i forrige uke økt til åtte prosent.",
-        "Det har allerede vært mulig å avgi forhåndsstemmer i valget, men valgdagen er lørdag 29. august."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/K8q8AE/svaert-jevnt-foer-islendingene-tar-eu-valget",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/cc76f26c-3e87-3ead-812b-1346ed4718b1?fit=crop&h=675&upscale=true&w=1200&s=c56882bcc612aca7f7957575a019b39bdb650f02",
-      "localImage": "assets/news/8b9560f369bb31.jpg",
       "score": 13
     }
   ]
