@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 14:52",
-  "updatedISO": "2026-08-29T14:52:35.679670+02:00",
+  "updatedAt": "29.08.2026 kl. 15:06",
+  "updatedISO": "2026-08-29T15:06:33.763656+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -55,7 +55,7 @@
       "keyPoints": [
         "BBC snakker med en amerikansk gruppe etter at 77 turgåere er savnet i Nepal-flom.",
         "Video, 00:01:14Se: Hvorfor redningsmenn frykter at ny barriereinnsjø kan forårsake en ny flom fra Nepal og Tibet. Blokkerte veier og ødeleggelser når BBC kjører til stedet for flom i Nepal.",
-        "Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flom fra Nepal.",
+        "Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flomene i Nepal.",
         "Video, 00:00:58Blokkerte veier og ødeleggelser mens BBC kjører til stedet for flom i Nepal. Hvitehat og delfiner reddet fra lukket kanadisk park ankommer Spania."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
@@ -148,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1bce5ceb-2454-3963-903e-55f326a608a5?fit=crop&h=675&upscale=true&w=1200&s=a406755270c5632cd281ec5bdc5c1e578f1b7cf8",
       "localImage": "assets/news/396bcfcd529c51.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "2875555e1ea362",
@@ -193,24 +193,24 @@
       "score": 13
     },
     {
-      "id": "703ee3e6139391",
-      "category": "Verden",
-      "published": "29.08. 14:22",
-      "publishedISO": "2026-08-29T14:22:53+02:00",
-      "title": "Minst 37 døde og hundrevis evakuert etter angrep på Kiev-lageret",
-      "summary": "Ukraina-korrespondent Dan Johnson rapporterer fra Kiev etter det dødelige angrepet 37 mennesker er drept og nesten 400 evakuert etter at et russisk droneangrep utløste eksplosjoner i et lager i Kiev-regionen sent på fredag. Det er iverksatt en etterforskning av hvorvidt ammunisjon ble lagret i lageret vest for hovedstaden. I mellomtiden sa Tkachenko at en 14-åring ble drept i et separat angrep i Boryspil-distriktet mens Kiev-ordfører Vitaliy Klitschko sa at en toåring hadde dødd etter at en russisk drone styrtet i Obolonskyi. Den Moskva-utnevnte guvernøren i den okkuperte ukrainske regionen Zaphorizhzhia sa at fire personer ble skadet etter at en ukrainsk streik rammet et kjøpesenter.",
+      "id": "2134465e64fb9c",
+      "category": "Norge",
+      "published": "29.08. 13:54",
+      "publishedISO": "2026-08-29T13:54:40+02:00",
+      "title": "Ansgar (8) spilte konge for Kongen i mai: – Veldig trist at han er død",
+      "summary": "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd. I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele. Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
       "keyPoints": [
-        "Ukraina-korrespondent Dan Johnson rapporterer fra Kiev etter det dødelige angrepet 37 mennesker er drept og nesten 400 evakuert etter at et russisk droneangrep utløste eksplosjoner i et lager i Kiev-regionen sent på fredag.",
-        "Det er iverksatt en etterforskning av hvorvidt ammunisjon ble lagret i lageret vest for hovedstaden. I mellomtiden sa Tkachenko at en 14-åring ble drept i et separat angrep i Boryspil-distriktet mens Kiev-ordfører Vitaliy Klitschko sa at en toåring hadde dødd etter at en russisk drone styrtet i Obolonskyi.",
-        "Den Moskva-utnevnte guvernøren i den okkuperte ukrainske regionen Zaphorizhzhia sa at fire personer ble skadet etter at en ukrainsk streik rammet et kjøpesenter.",
-        "Han sa at mer enn 300 nødhjelpspersonell hadde blitt utplassert til landsbyen Myla, der «et omsorgshjem for eldre og funksjonshemmede» var blant eiendommene som ble skadet. \"Straffesak har blitt åpnet på siktelser for offisiell uaktsomhet,\" sa han."
+        "Sigurd Rolland Heggebø (8) tegnet en lysestake. – Det er veldig leit og trist at han er død.",
+        "HELT KONGE: Åtteåringen fra Etne hadde en helt spesiell rolle under et av Kong Haralds aller siste kommunebesøk i mai. – Det er skikkelig dritt, fordi Kongen har dødd.",
+        "I mai ble Ansgar kronet til konge mens Kong Harald satt bare noen få meter unna og betraktet det hele.",
+        "Magnus var bare åtte år da han ble kronet, akkurat som Ansgar er nå."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b20a/live/57878280-a391-11f1-8dd3-ff568f69d772.png",
-      "localImage": "assets/news/703ee3e6139391.png",
+      "url": "https://www.nrk.no/vestland/ansgar-_8_-spilte-konge-for-kongen-i-mai_-_-veldig-trist-at-han-er-dod-1.18006004",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/d2ULy3yHG3QjXDenE0cZtAzKt78Z7WaUxeTSrrqwnAVA",
+      "localImage": "assets/news/2134465e64fb9c.jpg",
       "score": 13
     }
   ]
