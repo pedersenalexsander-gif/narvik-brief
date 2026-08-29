@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 12:36",
-  "updatedISO": "2026-08-29T12:36:30.040946+02:00",
+  "updatedAt": "29.08.2026 kl. 12:52",
+  "updatedISO": "2026-08-29T12:52:03.395140+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,48 +23,6 @@
       "image": "https://gfx.nrk.no/f_AHzYiT5T8AXgOkD4EzeQVQessRAg1-YolaWThuzitA.jpg",
       "localImage": "assets/news/9989521d13151c.jpg",
       "score": 17
-    },
-    {
-      "id": "e45113ab5cb620",
-      "category": "Verden",
-      "published": "29.08. 05:54",
-      "publishedISO": "2026-08-29T05:54:11+02:00",
-      "title": "Tibet-Nepal floods: Shocking footage isn't being shown in China - and we know little about victims there",
-      "summary": "Video viser omfanget av flom som rammer grensen mellom Nepal og Tibet. De dramatiske opptakene var nesten umulige å gå glipp av. Men når du sammenligner landets internettinnhold med det store deler av verden har sett på nettet de siste dagene, blir Kinas brannmur mer synlig enn noen gang. Det er ingen beretninger fra overlevende i Tibet, og nesten ingen brukergenererte opptak som viser de dødelige øyeblikkene eller ettervirkningene deres.",
-      "keyPoints": [
-        "Det er ingen beretninger fra overlevende i Tibet, og nesten ingen brukergenererte opptak som viser de dødelige øyeblikkene eller ettervirkningene deres.",
-        "Video shows scale of flash flood hitting Nepal-Tibet border The dramatic footage was almost impossible to miss.",
-        "Men når du sammenligner landets internettinnhold med det store deler av verden har sett på nettet de siste dagene, blir Kinas brannmur mer synlig enn noen gang.",
-        "Det har også vært vanskelig å finne videoen på Kinas sterkt sensurerte internett."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg",
-      "localImage": "assets/news/e45113ab5cb620.jpg",
-      "score": 16
-    },
-    {
-      "id": "2d07814855bf92",
-      "category": "USA",
-      "published": "28.08. 16:42",
-      "publishedISO": "2026-08-28T16:42:36+02:00",
-      "title": "BBC snakker med amerikansk gruppe etter 77 vandrere savnet i Nepal-flom",
-      "summary": "BBC snakker med en amerikansk gruppe etter at 77 turgåere er savnet i Nepal-flom. Video, 00:04:27 BBC snakker med amerikansk gruppe etter at 77 turgåere forsvinner i Nepal-flom Up Next. Video, 00:01:14Se: Hvorfor redningsmenn frykter at ny barriereinnsjø kan forårsake en ny flom fra Nepal og Tibet. Blokkerte veier og ødeleggelser når BBC kjører til stedet for flom i Nepal.",
-      "keyPoints": [
-        "BBC snakker med en amerikansk gruppe etter at 77 turgåere er savnet i Nepal-flom.",
-        "Video, 00:01:14Se: Hvorfor redningsmenn frykter at ny barriereinnsjø kan forårsake en ny flom fra Nepal og Tibet. Blokkerte veier og ødeleggelser når BBC kjører til stedet for flom i Nepal.",
-        "Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flomene i Nepal.",
-        "Video, 00:00:58Blokkerte veier og ødeleggelser mens BBC kjører til stedet for flom i Nepal. Hvitehat og delfiner reddet fra lukket kanadisk park ankommer Spania."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cvgy71zvdddo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a225/live/2cb23a30-a2ee-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/2d07814855bf92.jpg",
-      "score": 14
     },
     {
       "id": "dcf05c435a6afb",
@@ -107,27 +65,6 @@
       "image": "https://akamai.vgc.no/v2/images/af62d56c-ad77-3a33-8ee3-22e531000b40?fit=crop&h=675&upscale=true&w=1200&s=a11a2fd7baa34b62f66c36b129d91106f1e3d840",
       "localImage": "assets/news/70f39b9456a116.jpg",
       "score": 16
-    },
-    {
-      "id": "b0f5fa66d454fe",
-      "category": "AI",
-      "published": "28.08. 07:11",
-      "publishedISO": "2026-08-28T07:11:16+02:00",
-      "title": "Matt Lucas og Hugh Bonneville krever lov om AI-stemmekloner",
-      "summary": "Skuespillere inkludert Matt Lucas, Hugh Bonneville og Nicola Coughlan har skrevet til den britiske regjeringen og krever større beskyttelse mot at stemmene deres blir brukt av AI. Stemmekloner lages ved å trene AI på opptak av ekte mennesker. Det kommer noen måneder etter at advokater advarte britisk lovgivning har blitt \"uegnet til formålet\" på grunn av fremskritt innen AI-teknologi. \"Loven kommer nærme seg, men den beskytter ikke helt stemmen din, ansiktet ditt eller identiteten din,\" sa Dr Mathilde Pavis i juni.",
-      "keyPoints": [
-        "Skuespillere inkludert Matt Lucas, Hugh Bonneville og Nicola Coughlan har skrevet til den britiske regjeringen og krever større beskyttelse mot at stemmene deres blir brukt av AI.",
-        "Det kommer noen måneder etter at advokater advarte britisk lovgivning har blitt \"uegnet til formålet\" på grunn av fremskritt innen AI-teknologi. \"Loven kommer nærme seg, men den beskytter ikke helt stemmen din, ansiktet ditt eller identiteten din,\" sa Dr Mathilde Pavis i juni.",
-        "Voice clones are created by training AI on recordings of real people.",
-        "Hun sa at hun signerte brevet fordi stemmen hennes var \"unik for meg og ble overlevert meg ved fødselen\". \"Bak den stemmen er følelsen, livet, smerten, tårene og gleden som jeg har følt underveis,\" sa hun."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/b0f5fa66d454fe.jpg",
-      "score": 12
     },
     {
       "id": "396bcfcd529c51",
@@ -193,24 +130,87 @@
       "score": 14
     },
     {
-      "id": "7a81e153e2317e",
-      "category": "Verden",
-      "published": "29.08. 12:28",
-      "publishedISO": "2026-08-29T12:28:41+02:00",
-      "title": "Minst 27 døde og hundrevis evakuert etter angrep nær Kiev",
-      "summary": "En stor reaksjon ble iverksatt etter angrepet natten over i Kiev-regionen. 27 mennesker er drept og nesten 400 evakuert etter at et russisk angrep traff et lager i nærheten av Kiev, og utløste en brann og en rekke eksplosjoner. I mellomtiden sa Tkachenko at en 14-åring ble drept i et eget angrep i Boryspil-distriktet da president Volodymyr Zelensky rapporterte om nattlige streiker i flere regioner. Det kan ses røyk stige opp i nærheten av et boligområde i Kiev-regionen tidlig på lørdag. Russland og Ukraina har intensivert sine angrep de siste månedene, med Kiev som fokuserer sine operasjoner på russiske økonomiske mål.",
+      "id": "03612464783c07",
+      "category": "Norge",
+      "published": "29.08. 12:36",
+      "publishedISO": "2026-08-29T12:36:34+02:00",
+      "title": "Gateløp i Porsgrunn ble arrangert som planlagt: – Det er viktig å hedre kongen",
+      "summary": "Med sørgebånd på armen løp Pål Winberg og mange andre gateløp i Porsgrunn sentrum lørdag. Løpet, med rundt 500 deltagere, gikk som planlagt lørdag formiddag, til tross for at kong Harald døde fredag morgen. På startstreken i Porsgrunn var Kristine Vik en av mange med sørgebånd på armen. – Det er viktig å hedre kongen.",
       "keyPoints": [
-        "En stor reaksjon ble iverksatt etter angrepet natten over i Kiev-regionen. 27 mennesker er drept og nesten 400 evakuert etter at et russisk angrep traff et lager i nærheten av Kiev, og utløste en brann og en rekke eksplosjoner.",
-        "Det kan ses røyk stige opp i nærheten av et boligområde i Kiev-regionen tidlig på lørdag. Russland og Ukraina har intensivert sine angrep de siste månedene, med Kiev som fokuserer sine operasjoner på russiske økonomiske mål.",
-        "I mellomtiden sa Tkachenko at en 14-åring ble drept i et eget angrep i Boryspil-distriktet da president Volodymyr Zelensky rapporterte om nattlige streiker i flere regioner.",
-        "Passende konklusjoner vil helt sikkert bli trukket.\" Russlands forsvarsdepartement sa i en uttalelse at dets styrker hadde målrettet \"et ammunisjonslager\" i Kyiv-regionen landsbyen Myla, som lagrer \"komponenter og utskytningsforsterkere for FP-1/FP-2 langtrekkende ubemannede luftfartøyer\"."
+        "På startstreken i Porsgrunn var Kristine Vik en av mange med sørgebånd på armen. – Det er viktig å hedre kongen.",
+        "Med sørgebånd på armen løp Pål Winberg og mange andre gateløp i Porsgrunn sentrum lørdag.",
+        "Løpet, med rundt 500 deltagere, gikk som planlagt lørdag formiddag, til tross for at kong Harald døde fredag morgen.",
+        "Vi løper for å hedre Kong Harald og hans minne, melder de. – Jeg opplever at avgjørelsen er blitt tatt godt imot, sier lederen for løpet, Thomas Stornes til NRK lørdag formiddag."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b20a/live/57878280-a391-11f1-8dd3-ff568f69d772.png",
-      "localImage": "assets/news/7a81e153e2317e.png",
+      "url": "https://www.nrk.no/vestfoldogtelemark/gatelop-i-porsgrunn-ble-arrangert-som-planlagt_-_-det-er-viktig-a-hedre-kongen-1.18006935",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/GaGqArL1gBpll1MMhbKTywXGE6hJ1YptCYSdje1M7mDQ.jpg",
+      "localImage": "assets/news/03612464783c07.jpg",
+      "score": 13
+    },
+    {
+      "id": "eb87238de1bf65",
+      "category": "Økonomi",
+      "published": "29.08. 11:58",
+      "publishedISO": "2026-08-29T11:58:24+02:00",
+      "title": "Erkjenner svikt: «Det beklages på det sterkeste»",
+      "summary": "Norse lover passasjerer utbetaling av kompensasjon 45 dager etter at kravet er behandlet. Norse erkjenner at dette ikke er godt nok. «Et betydelig antall krav er ikke blitt utbetalt innen fristene som selskapet har kommunisert til passasjerene. De mener at dette ene og alene er grunnen til at utbetalinger går tregt, og at selskapet «på ingen måte unndrar eller systematisk» bryter forpliktelsene i EU-regelverket. «Men det erkjennes og beklages på det sterkeste at selskapet har en restanse av utbetalinger som det nå er høyeste prioritet å nedregulere», skriver Norse.",
+      "keyPoints": [
+        "De mener at dette ene og alene er grunnen til at utbetalinger går tregt, og at selskapet «på ingen måte unndrar eller systematisk» bryter forpliktelsene i EU-regelverket. «Men det erkjennes og beklages på det sterkeste at selskapet har en restanse av utbetalinger som det nå er høyeste prioritet å nedregulere», skriver Norse.",
+        "Norse erkjenner at dette ikke er godt nok. «Et betydelig antall krav er ikke blitt utbetalt innen fristene som selskapet har kommunisert til passasjerene.",
+        "Norse lover passasjerer utbetaling av kompensasjon 45 dager etter at kravet er behandlet.",
+        "Der ble partene enige om at de tre passasjerene hadde rett på totalt 20.258 kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/PdeB0R/erkjenner-svikt-det-beklages-paa-det-sterkeste",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c14ce73e-0854-3c3b-b8ef-5e468612bf6e?fit=crop&h=675&upscale=true&w=1200&s=a77fc5d5a1dbaa233e145d94715dd6fc38e00d4c",
+      "localImage": "assets/news/eb87238de1bf65.jpg",
+      "score": 13
+    },
+    {
+      "id": "b3fb22e5d1d9f4",
+      "category": "Norge",
+      "published": "29.08. 10:42",
+      "publishedISO": "2026-08-29T10:42:33+02:00",
+      "title": "Røper rørende konge-historie: – Hele Norges bestefar",
+      "summary": "Gjennom sine 35 år som Norges konge, møtte han en rekke av de største norske idrettsprofilene. Han gikk bare til siden av han og ble værende kjempelenge. – Christer synes det var så gøy, og så så kongen på Christer og sa: «Åssen raring er det her da?», og det synes jeg oppsummerte alt om kongen: Han var hele Norges bestefar og far på så mange vis, sier en rørt Skarstein. Tidlig fredag skulle den tidligere langrennsløperen på parketten for å gjennomføre nummeret han skulle fremføre senere samme dag. – Jeg klarte ikke å gjøre det i det hele tatt.",
+      "keyPoints": [
+        "Han gikk bare til siden av han og ble værende kjempelenge. – Christer synes det var så gøy, og så så kongen på Christer og sa: «Åssen raring er det her da?», og det synes jeg oppsummerte alt om kongen: Han var hele Norges bestefar og far på så mange vis, sier en rørt Skarstein.",
+        "Gjennom sine 35 år som Norges konge, møtte han en rekke av de største norske idrettsprofilene.",
+        "Tidlig fredag skulle den tidligere langrennsløperen på parketten for å gjennomføre nummeret han skulle fremføre senere samme dag. – Jeg klarte ikke å gjøre det i det hele tatt.",
+        "Nå deler flere av dem rørende historier om sine møter med den avdøde monarken."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/roper-rorende-konge-historie_-_-hele-norges-bestefar-1.18003301",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/hv75auYHMHRTLliBpQG3mw5cdGlbK3e_N_uUOaCBQHTA.jpg",
+      "localImage": "assets/news/b3fb22e5d1d9f4.webp",
+      "score": 13
+    },
+    {
+      "id": "8b9560f369bb31",
+      "category": "Økonomi",
+      "published": "29.08. 10:30",
+      "publishedISO": "2026-08-29T10:30:53+02:00",
+      "title": "Svært jevnt før islendingene tar EU-valget",
+      "summary": "Denne lørdagen avgjør islendingene om de vil starte forhandlinger om et EU-medlemskap. Inflasjonen i landet lå i juli på hele 5,3 prosent og styringsrenten ble i forrige uke økt til åtte prosent. Dette gjør at mange islendinger har skyhøy rente på boliglånet: I tillegg ønsker ja-siden at Island skal få et sete ved bordet når EU tar avgjørelser.",
+      "keyPoints": [
+        "Denne lørdagen avgjør islendingene om de vil starte forhandlinger om et EU-medlemskap.",
+        "Dette gjør at mange islendinger har skyhøy rente på boliglånet: I tillegg ønsker ja-siden at Island skal få et sete ved bordet når EU tar avgjørelser.",
+        "Inflasjonen i landet lå i juli på hele 5,3 prosent og styringsrenten ble i forrige uke økt til åtte prosent.",
+        "Det har allerede vært mulig å avgi forhåndsstemmer i valget, men valgdagen er lørdag 29. august."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/K8q8AE/svaert-jevnt-foer-islendingene-tar-eu-valget",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/cc76f26c-3e87-3ead-812b-1346ed4718b1?fit=crop&h=675&upscale=true&w=1200&s=c56882bcc612aca7f7957575a019b39bdb650f02",
+      "localImage": "assets/news/8b9560f369bb31.jpg",
       "score": 13
     }
   ]
