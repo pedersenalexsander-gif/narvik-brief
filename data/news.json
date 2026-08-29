@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 00:36",
-  "updatedISO": "2026-08-30T00:36:30.217320+02:00",
+  "updatedAt": "30.08.2026 kl. 00:51",
+  "updatedISO": "2026-08-30T00:51:23.406987+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -86,27 +86,6 @@
       "image": "https://akamai.vgc.no/v2/images/2141fe0b-f49c-38d4-ad58-843ca3c5e9fa?fit=crop&h=675&upscale=true&w=1200&s=16ae0f8068aacdfb1cc4585b7331efdea4506e6c",
       "localImage": "assets/news/7285d82e5aa3a2.jpg",
       "score": 15
-    },
-    {
-      "id": "d32edd7c1377d4",
-      "category": "Verden",
-      "published": "29.08. 18:15",
-      "publishedISO": "2026-08-29T18:15:56+02:00",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "summary": "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, kunngjorde Donald Trump. Men noen analytikere har reagert med skepsis, inkludert spørsmål om avtalen vil ta opp langvarige hindringer som har avskrekket investeringer i Venezuelas oljeindustri. Under avtalen vil den amerikanske regjeringen beholde 55 % kontroll over et joint venture med en \"erfaren privat operatør i Venezuela\", sa en amerikansk tjenestemann til BBCs amerikanske partner CBS News.",
-      "keyPoints": [
-        "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, kunngjorde Donald Trump.",
-        "Under avtalen vil den amerikanske regjeringen beholde 55 % kontroll over et joint venture med en \"erfaren privat operatør i Venezuela\", sa en amerikansk tjenestemann til BBCs amerikanske partner CBS News.",
-        "Men noen analytikere har reagert med skepsis, inkludert spørsmål om avtalen vil ta opp langvarige hindringer som har avskrekket investeringer i Venezuelas oljeindustri.",
-        "Venezuela har de største påviste oljereservene i verden - anslagsvis 303 milliarder fat."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/d32edd7c1377d4.jpg",
-      "score": 16
     },
     {
       "id": "aa164394fe5a29",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/sjJUCm2kfcvavl44Nn2asAwkDrRaiAGYwLlvtIK7rioA.jpg",
       "localImage": "assets/news/c9bac9b0a83eaf.jpg",
+      "score": 13
+    },
+    {
+      "id": "bc4902e799ef0f",
+      "category": "Norge",
+      "published": "29.08. 20:57",
+      "publishedISO": "2026-08-29T20:57:48+02:00",
+      "title": "Hele Norges bestefar: Slik minnes han som barnas konge",
+      "summary": "FOLKETS OG BARNAS KONGE: Kong Harald var alltid hjertelig til stede uansett hvor han reiste, og hvem han møtte på sin vei. Fredag morgen ble en dag der barn over hele landet måtte ta farvel med hele Norges bestefar. De har fått med seg hva som gjorde kong Harald til en helt spesiell konge. – Han styrte på en måte som de fleste konger aldri har styrt på.",
+      "keyPoints": [
+        "FOLKETS OG BARNAS KONGE: Kong Harald var alltid hjertelig til stede uansett hvor han reiste, og hvem han møtte på sin vei.",
+        "Fredag morgen ble en dag der barn over hele landet måtte ta farvel med hele Norges bestefar.",
+        "De har fått med seg hva som gjorde kong Harald til en helt spesiell konge. – Han styrte på en måte som de fleste konger aldri har styrt på.",
+        "Telma har fulgt med bekymring på kong Haralds helse. – Jeg har spurt hele tiden om han er død, sier 10-åringen. – Da jeg kom på skolen og så flagget på halv stang, skjønte jeg det."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/kong-harald-var-barnas-konge-1.18005912",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/sjJUCm2kfcvavl44Nn2asAwkDrRaiAGYwLlvtIK7rioA.jpg",
+      "localImage": "assets/news/bc4902e799ef0f.jpg",
       "score": 13
     }
   ]
