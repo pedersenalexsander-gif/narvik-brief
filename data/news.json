@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 14:07",
-  "updatedISO": "2026-08-29T14:07:58.291342+02:00",
+  "updatedAt": "29.08.2026 kl. 14:21",
+  "updatedISO": "2026-08-29T14:21:58.132732+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,27 +109,6 @@
       "score": 15
     },
     {
-      "id": "ac1ec9affe6d78",
-      "category": "Norge",
-      "published": "28.08. 18:15",
-      "publishedISO": "2026-08-28T18:15:41+02:00",
-      "title": "Kronen og sverdet fraktet til kongens båre",
-      "summary": "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten. Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark. Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
-      "keyPoints": [
-        "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten.",
-        "Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark.",
-        "Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
-        "Ornamentikken i toppstykket består av eikeløv og laurbærblader. – Ved monarkens død spiller kronen og sverdet en helt sentral rolle."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/xl/kronen-og-sverdet-fraktet-til-kongens-bare-1.15041811",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/R8Ru-t4Ox8GSb8CAaxYiVQh0Zwb53p8rUnrikxzUMEdw.jpg",
-      "localImage": "assets/news/ac1ec9affe6d78.jpg",
-      "score": 14
-    },
-    {
       "id": "2875555e1ea362",
       "category": "Økonomi",
       "published": "27.08. 11:05",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/7wT6B7wt6e5ZOKomk0pDwAWZYEf3ZgZgmNRrGsR_5F-A.jpg",
       "localImage": "assets/news/388ec92201994f.jpg",
+      "score": 13
+    },
+    {
+      "id": "03612464783c07",
+      "category": "Norge",
+      "published": "29.08. 12:36",
+      "publishedISO": "2026-08-29T12:36:34+02:00",
+      "title": "Gateløp i Porsgrunn ble arrangert som planlagt: – Det er viktig å hedre kongen",
+      "summary": "Med sørgebånd på armen løp Pål Winberg og mange andre gateløp i Porsgrunn sentrum lørdag. Løpet, med rundt 500 deltagere, gikk som planlagt lørdag formiddag, til tross for at kong Harald døde fredag morgen. På startstreken i Porsgrunn var Kristine Vik en av mange med sørgebånd på armen. – Det er viktig å hedre kongen.",
+      "keyPoints": [
+        "På startstreken i Porsgrunn var Kristine Vik en av mange med sørgebånd på armen. – Det er viktig å hedre kongen.",
+        "Med sørgebånd på armen løp Pål Winberg og mange andre gateløp i Porsgrunn sentrum lørdag.",
+        "Løpet, med rundt 500 deltagere, gikk som planlagt lørdag formiddag, til tross for at kong Harald døde fredag morgen.",
+        "Vi løper for å hedre Kong Harald og hans minne, melder de. – Jeg opplever at avgjørelsen er blitt tatt godt imot, sier lederen for løpet, Thomas Stornes til NRK lørdag formiddag."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/gatelop-i-porsgrunn-ble-arrangert-som-planlagt_-_-det-er-viktig-a-hedre-kongen-1.18006935",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/GaGqArL1gBpll1MMhbKTywXGE6hJ1YptCYSdje1M7mDQ.jpg",
+      "localImage": "assets/news/03612464783c07.jpg",
       "score": 13
     }
   ]
