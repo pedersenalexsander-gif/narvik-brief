@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 01:21",
-  "updatedISO": "2026-08-30T01:21:27.404981+02:00",
+  "updatedAt": "30.08.2026 kl. 01:36",
+  "updatedISO": "2026-08-30T01:36:23.031278+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "1e8a2d6635cc16",
+      "category": "Norge",
+      "published": "30.08. 01:22",
+      "publishedISO": "2026-08-30T01:22:24+02:00",
+      "title": "Nå eller aldri: Islands EU-drama",
+      "summary": "I de første tallene fra denne valgkretsen har 40,2 prosent stemt ja, og 59, 8 prosent nei, ifølge foreløpige tall, melder den islandske kringkasteren RUV. Islands egen kringkaster RUV melder at deltakelsen ventes å bli skyhøy. Rundt 80 prosent bor i de urbane områdene på Islands sørvestlige hjørne.",
+      "keyPoints": [
+        "Rundt 80 prosent bor i de urbane områdene på Islands sørvestlige hjørne.",
+        "Islands egen kringkaster RUV melder at deltakelsen ventes å bli skyhøy.",
+        "I de første tallene fra denne valgkretsen har 40,2 prosent stemt ja, og 59, 8 prosent nei, ifølge foreløpige tall, melder den islandske kringkasteren RUV.",
+        "Valglokalene åpnet klokken 09.00 og stengte klokken 22.00 i kveld, midnatt norsk tid."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/na-eller-aldri_-islands-eu-drama-1.18007111",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/DUL96tk7itITQ8Le4DEVWQvspPLhRQjyySz1BTD0p8sQ.jpg",
+      "localImage": "assets/news/1e8a2d6635cc16.jpg",
+      "score": 13
+    },
+    {
       "id": "c9bac9b0a83eaf",
       "category": "Norge",
       "published": "29.08. 20:57",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/sjJUCm2kfcvavl44Nn2asAwkDrRaiAGYwLlvtIK7rioA.jpg",
       "localImage": "assets/news/c9bac9b0a83eaf.jpg",
-      "score": 13
-    },
-    {
-      "id": "bc4902e799ef0f",
-      "category": "Norge",
-      "published": "29.08. 20:57",
-      "publishedISO": "2026-08-29T20:57:48+02:00",
-      "title": "Hele Norges bestefar: Slik minnes han som barnas konge",
-      "summary": "FOLKETS OG BARNAS KONGE: Kong Harald var alltid hjertelig til stede uansett hvor han reiste, og hvem han møtte på sin vei. Fredag morgen ble en dag der barn over hele landet måtte ta farvel med hele Norges bestefar. De har fått med seg hva som gjorde kong Harald til en helt spesiell konge. – Han styrte på en måte som de fleste konger aldri har styrt på.",
-      "keyPoints": [
-        "FOLKETS OG BARNAS KONGE: Kong Harald var alltid hjertelig til stede uansett hvor han reiste, og hvem han møtte på sin vei.",
-        "Fredag morgen ble en dag der barn over hele landet måtte ta farvel med hele Norges bestefar.",
-        "De har fått med seg hva som gjorde kong Harald til en helt spesiell konge. – Han styrte på en måte som de fleste konger aldri har styrt på.",
-        "Telma har fulgt med bekymring på kong Haralds helse. – Jeg har spurt hele tiden om han er død, sier 10-åringen. – Da jeg kom på skolen og så flagget på halv stang, skjønte jeg det."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/kong-harald-var-barnas-konge-1.18005912",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sjJUCm2kfcvavl44Nn2asAwkDrRaiAGYwLlvtIK7rioA.jpg",
-      "localImage": "assets/news/bc4902e799ef0f.jpg",
       "score": 13
     }
   ]
