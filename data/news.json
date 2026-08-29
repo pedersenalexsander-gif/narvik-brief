@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 02:07",
-  "updatedISO": "2026-08-29T02:07:34.421475+02:00",
+  "updatedAt": "29.08.2026 kl. 02:22",
+  "updatedISO": "2026-08-29T02:22:46.267901+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,27 +151,6 @@
       "score": 14
     },
     {
-      "id": "805a40b5e8c2d3",
-      "category": "Norge",
-      "published": "28.08. 21:13",
-      "publishedISO": "2026-08-28T21:13:25+02:00",
-      "title": "Kongen fikk meg ut av skapet",
-      "summary": "Mine besteforeldre innvandret fra Danmark og England for 110 år siden.» Kongen snakket om meg, ikke bare til meg. Ti år senere opplever jeg at unge muslimer har begynt å åpne det samme skapet jeg selv gjemte meg i som ungdom. Og ikke bare muslimer, men også andre minoritetsgrupper. «På grunn av deg har en nevø av meg kommet ut av skapet», skrev en norsk-pakistansk mann til meg nylig.",
-      "keyPoints": [
-        "Mine besteforeldre innvandret fra Danmark og England for 110 år siden.» Kongen snakket om meg, ikke bare til meg.",
-        "Ti år senere opplever jeg at unge muslimer har begynt å åpne det samme skapet jeg selv gjemte meg i som ungdom.",
-        "Og ikke bare muslimer, men også andre minoritetsgrupper. «På grunn av deg har en nevø av meg kommet ut av skapet», skrev en norsk-pakistansk mann til meg nylig.",
-        "For ti år siden inviterte han til hagefest i Slottsparken og holdt talen som forandret livet mitt. «Nordmenn er jenter som er glad i jenter, gutter som er glad i gutter, og jenter og gutter som er glad i hverandre», sa kongen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ytring/kongen-fikk-meg-ut-av-skapet-1.17999378",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/h3qKpkx-LMIh-L6JcAgx5AGXT4MtcqkBkOP2-aUckxmA.jpg",
-      "localImage": "assets/news/805a40b5e8c2d3.jpg",
-      "score": 13
-    },
-    {
       "id": "f3f89fc142be4f",
       "category": "Norge",
       "published": "27.08. 06:10",
@@ -191,6 +170,27 @@
       "image": "https://gfx.nrk.no/q6QojqjF3eOKU2UTLyR85w960fj27xZOfw95GBAZJAAQ.jpg",
       "localImage": "assets/news/f3f89fc142be4f.jpg",
       "score": 13
+    },
+    {
+      "id": "805a40b5e8c2d3",
+      "category": "Norge",
+      "published": "28.08. 21:13",
+      "publishedISO": "2026-08-28T21:13:25+02:00",
+      "title": "Kongen fikk meg ut av skapet",
+      "summary": "Mine besteforeldre innvandret fra Danmark og England for 110 år siden.» Kongen snakket om meg, ikke bare til meg. Ti år senere opplever jeg at unge muslimer har begynt å åpne det samme skapet jeg selv gjemte meg i som ungdom. Og ikke bare muslimer, men også andre minoritetsgrupper. «På grunn av deg har en nevø av meg kommet ut av skapet», skrev en norsk-pakistansk mann til meg nylig.",
+      "keyPoints": [
+        "Mine besteforeldre innvandret fra Danmark og England for 110 år siden.» Kongen snakket om meg, ikke bare til meg.",
+        "Ti år senere opplever jeg at unge muslimer har begynt å åpne det samme skapet jeg selv gjemte meg i som ungdom.",
+        "Og ikke bare muslimer, men også andre minoritetsgrupper. «På grunn av deg har en nevø av meg kommet ut av skapet», skrev en norsk-pakistansk mann til meg nylig.",
+        "For ti år siden inviterte han til hagefest i Slottsparken og holdt talen som forandret livet mitt. «Nordmenn er jenter som er glad i jenter, gutter som er glad i gutter, og jenter og gutter som er glad i hverandre», sa kongen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ytring/kongen-fikk-meg-ut-av-skapet-1.17999378",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/h3qKpkx-LMIh-L6JcAgx5AGXT4MtcqkBkOP2-aUckxmA.jpg",
+      "localImage": "assets/news/805a40b5e8c2d3.jpg",
+      "score": 12
     },
     {
       "id": "c14ef8fa56b4de",
