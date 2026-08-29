@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.08.2026 kl. 09:07",
-  "updatedISO": "2026-08-29T09:07:01.665087+02:00",
+  "updatedAt": "29.08.2026 kl. 09:21",
+  "updatedISO": "2026-08-29T09:21:43.247068+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,27 +88,6 @@
       "score": 16
     },
     {
-      "id": "ac1ec9affe6d78",
-      "category": "Norge",
-      "published": "28.08. 18:15",
-      "publishedISO": "2026-08-28T18:15:41+02:00",
-      "title": "Kronen og sverdet fraktet til kongens båre",
-      "summary": "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten. Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark. Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
-      "keyPoints": [
-        "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten.",
-        "Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark.",
-        "Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
-        "Ornamentikken i toppstykket består av eikeløv og laurbærblader. – Ved monarkens død spiller kronen og sverdet en helt sentral rolle."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/xl/kronen-og-sverdet-fraktet-til-kongens-bare-1.15041811",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/R8Ru-t4Ox8GSb8CAaxYiVQh0Zwb53p8rUnrikxzUMEdw.jpg",
-      "localImage": "assets/news/ac1ec9affe6d78.jpg",
-      "score": 15
-    },
-    {
       "id": "2875555e1ea362",
       "category": "Økonomi",
       "published": "27.08. 11:05",
@@ -128,6 +107,27 @@
       "image": "https://akamai.vgc.no/v2/images/1646fc56-c17f-3252-bbd2-e8d5630225b2?fit=crop&h=675&upscale=true&w=1200&s=3dcf569caa097fc03e527562b81a4234a39b8799",
       "localImage": "assets/news/2875555e1ea362.jpg",
       "score": 15
+    },
+    {
+      "id": "ac1ec9affe6d78",
+      "category": "Norge",
+      "published": "28.08. 18:15",
+      "publishedISO": "2026-08-28T18:15:41+02:00",
+      "title": "Kronen og sverdet fraktet til kongens båre",
+      "summary": "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten. Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark. Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
+      "keyPoints": [
+        "Nå er riksregaliene som symboliserer disse to rollene, fraktet fra Trondheim til Oslo for å legges på kongens båre, ifølge Aftenposten.",
+        "Det sier Øystein Ekroll, førsteamanuensis ved Nidaros domkirkes restaureringsarbeider. – Sverdet symboliserer at kongen forsvarer landet, og kronen symboliserer kongen som landets hersker. – De blir lagt på monarkens kiste som det siste symbolet på at monarken nå er borte, men de blir så ført tilbake hit og går videre til neste monark.",
+        "Nå skal kronen og sverdet smykke kong Haralds båre, når Norge tar farvel med monarken.",
+        "Ornamentikken i toppstykket består av eikeløv og laurbærblader. – Ved monarkens død spiller kronen og sverdet en helt sentral rolle."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/xl/kronen-og-sverdet-fraktet-til-kongens-bare-1.15041811",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/R8Ru-t4Ox8GSb8CAaxYiVQh0Zwb53p8rUnrikxzUMEdw.jpg",
+      "localImage": "assets/news/ac1ec9affe6d78.jpg",
+      "score": 14
     },
     {
       "id": "1b6c34ad6f864f",
