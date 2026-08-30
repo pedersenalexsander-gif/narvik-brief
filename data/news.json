@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 10:06",
-  "updatedISO": "2026-08-30T10:06:14.079232+02:00",
+  "updatedAt": "30.08.2026 kl. 10:21",
+  "updatedISO": "2026-08-30T10:21:08.734620+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,24 +130,45 @@
       "score": 14
     },
     {
-      "id": "4bdad6cd9663fa",
+      "id": "2d80ca35c38efc",
       "category": "Verden",
-      "published": "30.08. 09:05",
-      "publishedISO": "2026-08-30T09:05:20+02:00",
-      "title": "En død og fem såret etter skyting i Sveits, opplyser politiet",
-      "summary": "En stor kontingent offiserer har også blitt utplassert utenfor Aarau \"som en forholdsregel\", sa politiet. Et pansret kjøretøy ble avbildet i området da politiet satte i gang en stor aksjon. Bilder fra Aarau tidlig på søndag viste et tungt polititilstedeværelse i området, med et pansret kjøretøy sett blokkere en vei. I tillegg til politi og brannvesen ble den regionale katastrofeberedskapsenheten (KKE) utplassert, ifølge kringkasteren SRF.",
+      "published": "30.08. 10:17",
+      "publishedISO": "2026-08-30T10:17:11+02:00",
+      "title": "Menneskejakt etter kvinne, 22, drept og fem skadd i sveitsisk skyting",
+      "summary": "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i et skyting som skal ha funnet sted på en rave i Nord-Sveits. De skadde var fire menn og en kvinne i alderen 24 til 27 år, som alle er på sykehus med skader \"som varierer fra små til alvorlige\". Lokale medier rapporterte at styrken ble varslet om skytingen rundt 02:30 lokal tid (01:30 BST).",
       "keyPoints": [
-        "Et pansret kjøretøy ble avbildet i området da politiet satte i gang en stor aksjon. Bilder fra Aarau tidlig på søndag viste et tungt polititilstedeværelse i området, med et pansret kjøretøy sett blokkere en vei.",
-        "A large contingent of officers has also been deployed beyond Aarau \"as a precaution\", police said.",
-        "I tillegg til politi og brannvesen ble den regionale katastrofeberedskapsenheten (KKE) utplassert, ifølge kringkasteren SRF.",
-        "Et område rundt racerbanen, byens svømmebasseng og idrettsplass er sperret av, og publikum oppfordres til å holde seg unna."
+        "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i et skyting som skal ha funnet sted på en rave i Nord-Sveits.",
+        "De skadde var fire menn og en kvinne i alderen 24 til 27 år, som alle er på sykehus med skader \"som varierer fra små til alvorlige\".",
+        "Lokale medier rapporterte at styrken ble varslet om skytingen rundt 02:30 lokal tid (01:30 BST).",
+        "En AFP-journalist rapporterte å ha sett væpnede offiserer utplassert på motorveien opptil 30 km (18 miles) fra stedet for skytingen."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe9b/live/618de8d0-a438-11f1-8b59-3de1e8d7e523.jpg",
-      "localImage": "assets/news/4bdad6cd9663fa.jpg",
+      "localImage": "assets/news/2d80ca35c38efc.jpg",
+      "score": 13
+    },
+    {
+      "id": "00655e0c1cf408",
+      "category": "Verden",
+      "published": "30.08. 10:08",
+      "publishedISO": "2026-08-30T10:08:30+02:00",
+      "title": "Iceland on track to reject EU referendum as counting nears end",
+      "summary": "Islands statsminister Kristrún Frostadóttir stemmer i folkeavstemningen i Reykjavik Island har stemt mot å gjenoppta medlemssamtalene med EU, melder allmennkringkasteren RUV, med bare én valgkrets stemmer igjen å telle. Folkeavstemningskampanjen har ført til debatt om Islands plass i verden, sa Frostadottir etter å ha avgitt sin stemme i hovedstaden lørdag. \"Dette er en flott dag, vi har ventet på dette i årevis for å kunne stemme,\" sa Frostadottir og la til at hennes regjering vil fortsette sitt arbeid uavhengig av utfallet. Spørsmålet på stemmeseddelen var: \"Bør Island gjenoppta tiltredelsesforhandlinger med EU?\" En ja-stemme ville ikke være en endelig avgjørelse om å bli med i EU, men et trekk mot en tiltredelsesavtale, som da må godkjennes ved en ny folkeavstemning.",
+      "keyPoints": [
+        "Islands statsminister Kristrún Frostadóttir stemmer i folkeavstemningen i Reykjavik Island har stemt mot å gjenoppta medlemssamtalene med EU, melder allmennkringkasteren RUV, med bare én valgkrets stemmer igjen å telle.",
+        "Folkeavstemningskampanjen har ført til debatt om Islands plass i verden, sa Frostadottir etter å ha avgitt sin stemme i hovedstaden lørdag. \"Dette er en flott dag, vi har ventet på dette i årevis for å kunne stemme,\" sa Frostadottir og la til at hennes regjering vil fortsette sitt arbeid uavhengig av utfallet.",
+        "Spørsmålet på stemmeseddelen var: \"Bør Island gjenoppta tiltredelsesforhandlinger med EU?\" En ja-stemme ville ikke være en endelig avgjørelse om å bli med i EU, men et trekk mot en tiltredelsesavtale, som da må godkjennes ved en ny folkeavstemning.",
+        "Prime Minister Kristrún Frostadóttir's centre-left government promised to hold a referendum by 2027, but brought it forward because of international tensions, including US President Donald Trump's threats against Greenland."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/00655e0c1cf408.jpg",
       "score": 13
     },
     {
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/0LNJRJGPGS7GYObLRQK7pgTVb_Ek8BCpvKGcvdvvAU3A.jpg",
       "localImage": "assets/news/b3577d6ae9f96e.jpg",
-      "score": 13
-    },
-    {
-      "id": "353575917a200e",
-      "category": "Norge",
-      "published": "30.08. 08:42",
-      "publishedISO": "2026-08-30T08:42:22+02:00",
-      "title": "Sørgegudstjenester over hele landet",
-      "summary": "Søndag holder alle domkirker og mange kirker over hele landet sørgegudstjenester etter kong Haralds død. Det blir sørgegudstjenester i alle landets domkirker: Bergen, Bodø, Fredrikstad, Hamar, Kristiansand, Molde, Nidaros, Oslo, Stavanger, Tromsø og Tønsberg. Det var tente lys hele veien og veldig stemningsfullt, sier Lind til NRK.",
-      "keyPoints": [
-        "Søndag holder alle domkirker og mange kirker over hele landet sørgegudstjenester etter kong Haralds død.",
-        "Det blir sørgegudstjenester i alle landets domkirker: Bergen, Bodø, Fredrikstad, Hamar, Kristiansand, Molde, Nidaros, Oslo, Stavanger, Tromsø og Tønsberg.",
-        "Det var tente lys hele veien og veldig stemningsfullt, sier Lind til NRK.",
-        "Kongefamilien vil være til stede på sørgegudstjeneste i Asker kirke klokken 11."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/sorgegudstjenester-over-hele-landet-1.18007727",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FzFAhRTiDH4TC5Qjl2kIcgNTGA4z9QNQjCxtfL2XGSaw.jpg",
-      "localImage": "assets/news/353575917a200e.jpg",
       "score": 13
     }
   ]
