@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 16:36",
-  "updatedISO": "2026-08-30T16:36:36.172552+02:00",
+  "updatedAt": "30.08.2026 kl. 16:51",
+  "updatedISO": "2026-08-30T16:51:29.565941+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,6 +130,27 @@
       "score": 14
     },
     {
+      "id": "452007f76d9c81",
+      "category": "Norge",
+      "published": "30.08. 16:45",
+      "publishedISO": "2026-08-30T16:45:54+02:00",
+      "title": "Edvard Hoem og Henning Sommerro med ny salme etter kongens død",
+      "summary": "Diktar Edvard Hoem og musikar Henning Sommerro skreiv ein ny salme døgnet etter kong Harald gjekk bort. Edvard Hoem skreiv også ein salme til kong Haralds 70-årsdag i februar 2007. Kong Harald med Edvard Hoem bak til høgre i 2007. – Det blir sagt at kongen er heile Noregs bestefar, men det meiner eg er tull.",
+      "keyPoints": [
+        "Diktar Edvard Hoem og musikar Henning Sommerro skreiv ein ny salme døgnet etter kong Harald gjekk bort.",
+        "Edvard Hoem skreiv også ein salme til kong Haralds 70-årsdag i februar 2007.",
+        "Kong Harald med Edvard Hoem bak til høgre i 2007. – Det blir sagt at kongen er heile Noregs bestefar, men det meiner eg er tull.",
+        "«Guds gåtefulle rekneskap» er ikkje den første salmen Hoem har skrive til kong Harald."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/mr/edvard-hoem-og-henning-sommerro-med-ny-salme-etter-kongens-dod-1.18008180",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/TFKcStyqdfqI8dken86WcwuXVtuwYfoC-_dyBDn1bAKg.jpg",
+      "localImage": "assets/news/452007f76d9c81.jpg",
+      "score": 13
+    },
+    {
       "id": "26d105a7b8ce3c",
       "category": "Norge",
       "published": "30.08. 15:51",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/88fe3338-a5ff-39c8-b948-b6bad6ccb2e2?fit=crop&h=675&upscale=true&w=1200&s=22b7f31c6e46421a135ae460b00affcaf7a7e613",
       "localImage": "assets/news/a9120ff9cb9c72.jpg",
-      "score": 13
-    },
-    {
-      "id": "dac0b50c62cee6",
-      "category": "Norge",
-      "published": "30.08. 13:14",
-      "publishedISO": "2026-08-30T13:14:39+02:00",
-      "title": "Passasjerbåt med 267 ombord har sunket utenfor Kypros",
-      "summary": "Redningsarbeidet er i gang etter at en passasjerbåt sank utenfor Kypros. Søndag ettermiddag melder lederen i den tyrkiskkontrollerte delen av Kypros at syv mennesker er bekreftet omkommet og at de leter etter 23 personer, skriver Reuters. Tyrkiske fartøy og redningsflåter bistår i redningen etter at passasjerbåten med 267 mennesker ombord har sunket.",
-      "keyPoints": [
-        "Redningsarbeidet er i gang etter at en passasjerbåt sank utenfor Kypros.",
-        "Tyrkiske fartøy og redningsflåter bistår i redningen etter at passasjerbåten med 267 mennesker ombord har sunket.",
-        "Søndag ettermiddag melder lederen i den tyrkiskkontrollerte delen av Kypros at syv mennesker er bekreftet omkommet og at de leter etter 23 personer, skriver Reuters.",
-        "Medregnet besetningen, så var det totalt 267 mennesker ombord."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/passasjerbat-med-267-ombord-har-sunket-utenfor-kypros-1.18008039",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/hgsq-CSlRzqkzAXCGUBgzAezt87Ple5g9-1po-lPBnQg.jpg",
-      "localImage": "assets/news/dac0b50c62cee6.jpg",
       "score": 13
     }
   ]
