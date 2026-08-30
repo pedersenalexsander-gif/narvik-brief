@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 14:36",
-  "updatedISO": "2026-08-30T14:36:40.404869+02:00",
+  "updatedAt": "30.08.2026 kl. 14:51",
+  "updatedISO": "2026-08-30T14:51:39.495900+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -114,18 +114,18 @@
       "published": "30.08. 13:14",
       "publishedISO": "2026-08-30T13:14:39+02:00",
       "title": "Passasjerbåt med 267 ombord har sunket utenfor Kypros",
-      "summary": "Redningsarbeidet er i gang etter at en passasjerbåt sank utenfor Kypros. Båten kantret omtrent to kilometer nord for kysten av Kyrenia i morges, skriver lokale medier. Medregnet besetningen, så var det totalt 267 mennesker ombord.",
+      "summary": "Redningsarbeidet er i gang etter at en passasjerbåt sank utenfor Kypros. Søndag ettermiddag melder lederen i den tyrkiskkontrollerte delen av Kypros at seks mennesker er bekreftet omkommet, skriver Reuters. Medregnet besetningen, så var det totalt 267 mennesker ombord.",
       "keyPoints": [
         "Redningsarbeidet er i gang etter at en passasjerbåt sank utenfor Kypros.",
+        "Søndag ettermiddag melder lederen i den tyrkiskkontrollerte delen av Kypros at seks mennesker er bekreftet omkommet, skriver Reuters.",
         "Medregnet besetningen, så var det totalt 267 mennesker ombord.",
-        "Båten kantret omtrent to kilometer nord for kysten av Kyrenia i morges, skriver lokale medier.",
         "Hendelsen skjedde i den tyrkisk-okkuperte delen av Kypros."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/urix/passasjerbat-med-267-ombord-har-sunket-utenfor-kypros-1.18008039",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/KFwaEFV5RZXUfQtcpPA1-Av1LoZea_5iUs3S8CULUBBA",
+      "image": "https://gfx.nrk.no/hgsq-CSlRzqkzAXCGUBgzAezt87Ple5g9-1po-lPBnQg.jpg",
       "localImage": "assets/news/dac0b50c62cee6.jpg",
       "score": 13
     },
