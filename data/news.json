@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 23:36",
-  "updatedISO": "2026-08-30T23:36:55.417037+02:00",
+  "updatedAt": "30.08.2026 kl. 23:51",
+  "updatedISO": "2026-08-30T23:51:48.883495+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,27 @@
       "image": "https://gfx.nrk.no/yrmegw911Z5REWBQ3-7LKwuFnLJBu23dLAauCnFqIoPQ.jpg",
       "localImage": "assets/news/4984ba322d4b89.jpg",
       "score": 16
+    },
+    {
+      "id": "d32edd7c1377d4",
+      "category": "Verden",
+      "published": "30.08. 06:01",
+      "publishedISO": "2026-08-30T06:01:02+02:00",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, sa Donald Trump. Fra høykonjunktur til bust: Et sjeldent blikk inn i en av Venezuelas en gang velstående oljebyer Det gir tilsynelatende USA direkte styring over et fremmed lands suverene nasjonale ressurser og ser ut til å være bredere enn den USA-ledede koalisjonens provisoriske myndighets kontroll over Iraks oljeinntekter etter at Saddam Hussein ble kastet ut i en amerikansk provisjon i 20 i Venezuela3. oljereserver i verden - anslagsvis 303 milliarder fat - men produksjonen har stupt siden toppen på slutten av 1990-tallet, delvis på grunn av en innstramming av kontrollen over det statlige oljeselskapet og amerikanske sanksjoner rettet mot dets viktigste økonomiske livline.",
+      "keyPoints": [
+        "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, sa Donald Trump.",
+        "Fra høykonjunktur til bust: Et sjeldent blikk inn i en av Venezuelas en gang velstående oljebyer Det gir tilsynelatende USA direkte styring over et fremmed lands suverene nasjonale ressurser og ser ut til å være bredere enn den USA-ledede koalisjonens provisoriske myndighets kontroll over Iraks oljeinntekter etter at Saddam Hussein ble styrtet i en amerikansk 203-gang i en amerikansk invasjon.",
+        "Venezuela har de største påviste oljereservene i verden – anslagsvis 303 milliarder fat – men produksjonen har falt siden toppen på slutten av 1990-tallet, delvis på grunn av en skjerpet kontroll over det statlige oljeselskapet og amerikanske sanksjoner rettet mot dens viktigste økonomiske livslinje.",
+        "Timer etter at amerikanske spesialstyrker fanget Maduro og hans kone, Cilia Flores, i et raid mot den venezuelanske hovedstaden, sa Trump at USA på ubestemt tid ville kontrollere salget av landets olje."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/d32edd7c1377d4.jpg",
+      "score": 14
     },
     {
       "id": "f3205df64767a7",
@@ -64,7 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fc26fc6e-1649-3b6a-8a71-d72d8096f79f?fit=crop&h=675&upscale=true&w=1200&s=801e3f7d6b19e589030042f4a70c7e19cfec2ab6",
       "localImage": "assets/news/7c9ceb2bd22c26.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "b974d3217958ee",
+      "category": "Verden",
+      "published": "30.08. 22:40",
+      "publishedISO": "2026-08-30T22:40:02+02:00",
+      "title": "Nepal: Flood relief vehicles trapped as heavy rain turns roads to mud",
+      "summary": "Nepals flomhjelpekjøretøyer fanget mens kraftig regn forvandler veier til gjørme. Video, 00:01:30Nepalske flomhjelpekjøretøyer fastklemt mens kraftig regn forvandler veier til gjørme Up Next. Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flom fra Nepal.",
+      "keyPoints": [
+        "Nepal flood relief vehicles trapped as heavy rain turns roads to mud.",
+        "Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flom fra Nepal.",
+        "Video, 00:01:04Se: Stjernekikkere rundt om i verden får et glimt av 'Blood Moon' måneformørkelse. De sporer den dødelige banen til lynflommen mellom Nepal og Tibet.",
+        "Video, 00:01:12How Dolly Parton became a fashion icon Aerial footage shows flash flood on Nepal-Tibet border."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c5ydwy004v0o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35e4/live/90ea43e0-a4af-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/b974d3217958ee.jpg",
+      "score": 13
     },
     {
       "id": "f422cfea4780c4",
@@ -114,11 +156,11 @@
       "published": "30.08. 20:47",
       "publishedISO": "2026-08-30T20:47:48+02:00",
       "title": "Truls Gulowsen trekker seg som leiar i Naturvernforbundet",
-      "summary": "Bakgrunnen er at eit knapt fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar. Naturvernforbundet bekreftar at Truls Gulowsen går av etter eit ekstraordinært landsstyremøte om ei arbeidsmiljøsak som har vart over tid. Pernille Bonnevie Hansen er fungerande leiar fram til ny leiar blir valt på landsmøte i november. – Eg vil takke Truls for fem år saman i Naturvernforbundet.",
+      "summary": "Bakgrunnen er at eit fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar. Naturvernforbundet bekreftar at Truls Gulowsen går av etter eit ekstraordinært landsstyremøte om ei arbeidsmiljøsak som har vart over tid. Pernille Bonnevie Hansen er fungerande leiar fram til ny leiar blir valt på landsmøte i november. – Eg vil takke Truls for fem år saman i Naturvernforbundet.",
       "keyPoints": [
         "Pernille Bonnevie Hansen er fungerande leiar fram til ny leiar blir valt på landsmøte i november. – Eg vil takke Truls for fem år saman i Naturvernforbundet.",
         "Naturvernforbundet bekreftar at Truls Gulowsen går av etter eit ekstraordinært landsstyremøte om ei arbeidsmiljøsak som har vart over tid.",
-        "Bakgrunnen er at eit knapt fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar.",
+        "Bakgrunnen er at eit fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar.",
         "Gulowsen viser mellom anna til friksjon mellom han og tilsette i organisasjonen. – Fram til i dag har eg vore sikker på at arbeidsmiljøutfordringane i sekretariatet har vore moglege å løyse gjennom betre samtalar, klarare interne prosessar og etablering av ein normal tilbakemeldingskultur, skriv han på Facebook."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
@@ -151,66 +193,24 @@
       "score": 13
     },
     {
-      "id": "f856b98bb72982",
-      "category": "Norge",
-      "published": "30.08. 19:47",
-      "publishedISO": "2026-08-30T19:47:11+02:00",
-      "title": "Golf: Viktor Hovland jakter seier i PGA-sluttspillet",
-      "summary": "ALENE I TET: Viktor Hovland har et forsprang før den siste runden av TOUR Championship og PGA-sluttspillet. Viktor Hovland har vært i fyr og flamme på East Lake denne uken. Tilbake i 2023 vant den norske 28-åringen PGA-sluttspillet etter en suveren uke på East Lake.",
+      "id": "ba5860a9ecb685",
+      "category": "Verden",
+      "published": "30.08. 19:49",
+      "publishedISO": "2026-08-30T19:49:31+02:00",
+      "title": "Switzerland rave shooting kills woman, 22 as manhunt launched",
+      "summary": "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i en skyting på en rave i Sveits. Aarau kantonalpolitiets talsmann Michael Leupold fortalte på en pressekonferanse søndag ettermiddag at offiserer «fortsatt var midt i operasjonen» og ikke hadde noen spor på hvem som kan ha stått bak skytingen. Arrangører og utøvere sa at skytingen skjedde på en techno-rave som ble holdt på en hesteveddeløpsbane i byen, som ligger omtrent 46 km vest for Zürich.",
       "keyPoints": [
-        "ALENE I TET: Viktor Hovland har et forsprang før den siste runden av TOUR Championship og PGA-sluttspillet.",
-        "Viktor Hovland har vært i fyr og flamme på East Lake denne uken.",
-        "Tilbake i 2023 vant den norske 28-åringen PGA-sluttspillet etter en suveren uke på East Lake.",
-        "Den gangen sikret Hovland seieren fem slag foran Xander Schauffele."
+        "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i en skyting på en rave i Sveits.",
+        "Arrangører og utøvere sa at skytingen skjedde på en techno-rave som ble holdt på en hesteveddeløpsbane i byen, som ligger omtrent 46 km vest for Zürich.",
+        "Aarau kantonalpolitiets talsmann Michael Leupold fortalte på en pressekonferanse søndag ettermiddag at offiserer «fortsatt var midt i operasjonen» og ikke hadde noen spor på hvem som kan ha stått bak skytingen.",
+        "Fire menn og en kvinne, mellom 24 og 27 år, var på sykehus med skader «alt fra små til alvorlige»."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/golf_-viktor-hovland-jakter-seier-i-pga-sluttspillet-1.18008246",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OYiY3IbiSqYf7yo9rlMDDQSG-PFTKBivTQbtcTjp2Exw.jpg",
-      "localImage": "assets/news/f856b98bb72982.jpg",
-      "score": 13
-    },
-    {
-      "id": "6db19037f84e98",
-      "category": "Norge",
-      "published": "30.08. 19:42",
-      "publishedISO": "2026-08-30T19:42:08+02:00",
-      "title": "Biskopen i Nidaros: – Kongen med omsorgshjertet",
-      "summary": "Flukten fra Norge til Amerika som 3-åring ga kong Harald en erfaring mange andre i landet deler, sa biskopen i Nidarosdomen. BISKOPEN MINTES KONGEN: Biskop i Nidaros bispedømme, Herborg Finnset, talte under sørgegudstjenesten i Nidarosdomen søndag ettermiddag. – De siste dagene har vi lagt ned blomster og tent lys. Det sa biskop i Nidaros bispedømme, Herborg Finnset, under den nasjonale sørgegudstjenesten i Nidarosdomen søndag ettermiddag.",
-      "keyPoints": [
-        "BISKOPEN MINTES KONGEN: Biskop i Nidaros bispedømme, Herborg Finnset, talte under sørgegudstjenesten i Nidarosdomen søndag ettermiddag. – De siste dagene har vi lagt ned blomster og tent lys.",
-        "Flukten fra Norge til Amerika som 3-åring ga kong Harald en erfaring mange andre i landet deler, sa biskopen i Nidarosdomen.",
-        "Det kom biskopen inn på under gudstjenesten. – Kallet til kongegjerninga gir en særlig gjenklang i dette kirkerommet hvor dronning Sonja og kong Harald sammen ble signet til sin oppgave og kall som nasjonens kongepar.",
-        "Biskop Herborg Finnset sa at kong Harald delte erfaring med mange, da han måtte reise fra landet sammen med moren og søstrene i 1940. – En liten 3 åring i en rød og hvitrutet strikkegenser."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/biskopen-i-nidaros_-_-kongen-med-omsorgshjertet-1.18008268",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/81eX-y5woWQzMPVa-NfNkA7c5Try_okNLcFKsi91PKhw.jpg",
-      "localImage": "assets/news/6db19037f84e98.jpg",
-      "score": 13
-    },
-    {
-      "id": "1f41ffbcc2db65",
-      "category": "Økonomi",
-      "published": "30.08. 18:54",
-      "publishedISO": "2026-08-30T18:54:39+02:00",
-      "title": "Kong Haralds gravferd blir onsdag 9. september",
-      "summary": "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01. Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII. Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
-      "keyPoints": [
-        "Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
-        "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01.",
-        "Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII.",
-        "Kong Haralds kiste vil trolig også fraktes fra Slottet til Oslo domkirke gjennom Karl Johans gate."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/430M5a/kong-haralds-gravferd-blir-9-september",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/71f55558-e3f8-3ecf-926c-8e9343a07e46?fit=crop&h=675&upscale=true&w=1200&s=ec036d0bf5a82d89584206953eacc8cbe9c36d4e",
-      "localImage": "assets/news/1f41ffbcc2db65.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
+      "localImage": "assets/news/ba5860a9ecb685.png",
       "score": 13
     }
   ]
