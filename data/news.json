@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 17:21",
-  "updatedISO": "2026-08-30T17:21:40.320747+02:00",
+  "updatedAt": "30.08.2026 kl. 17:36",
+  "updatedISO": "2026-08-30T17:36:32.833847+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,6 +130,27 @@
       "score": 14
     },
     {
+      "id": "a169934025fdce",
+      "category": "Norge",
+      "published": "30.08. 17:32",
+      "publishedISO": "2026-08-30T17:32:32+02:00",
+      "title": "Heldig er den nasjonen som har ei slik kongemor",
+      "summary": "Heldig er den som har ein makker gjennom eit heilt liv, og det hadde kong Harald. Heldig er den nasjonen som blir representert av ei slik dronning. Heldig er den nasjonen som har hatt eit slikt kongepar.",
+      "keyPoints": [
+        "Heldig er den nasjonen som blir representert av ei slik dronning.",
+        "Heldig er den som har ein makker gjennom eit heilt liv, og det hadde kong Harald.",
+        "Heldig er den nasjonen som har hatt eit slikt kongepar.",
+        "Dronning Sonja har gjennom heile kong Harald si regjeringstid fungert som ein likestilt medspelar og ein viktig arkitekt bak det moderne dronningoppdraget."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ytring/heldig-er-den-nasjonen-som-har-ei-slik-kongemor-1.18008171",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/D1hoBBgE2WVW7RbCqtNoZg--oPOK4Y83J6zv5qDrfd9Q.jpg",
+      "localImage": "assets/news/a169934025fdce.jpg",
+      "score": 13
+    },
+    {
       "id": "452007f76d9c81",
       "category": "Norge",
       "published": "30.08. 16:45",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ChGhBwT1X4NftbT0-XX31QSX1VJElWqDQHuFzQ_iEMJQ.png",
       "localImage": "assets/news/26d105a7b8ce3c.png",
-      "score": 13
-    },
-    {
-      "id": "495da39f410ad1",
-      "category": "Norge",
-      "published": "30.08. 15:34",
-      "publishedISO": "2026-08-30T15:34:29+02:00",
-      "title": "Sørge­gudsteneste i Tromsø domkyrkje: Minnest ein open konge",
-      "summary": "Utøya-overlevande Brage Larsen Sollund minnest ein konge som samla landet i dei mørkaste stundene, og som våga å vere open om alvorleg sjukdom. Sollund meiner kongen viste ein heilt unik evne til å bruke dei rette orda når landet trengde det som mest. – Vi hadde ein konge som stod for openheit. Bland dei frammøtte var Utøya-overlevande Brage Larsen Sollund, som minnast ein konge som samla landet i dei mørkaste stundene.",
-      "keyPoints": [
-        "Utøya-overlevande Brage Larsen Sollund minnest ein konge som samla landet i dei mørkaste stundene, og som våga å vere open om alvorleg sjukdom.",
-        "Sollund meiner kongen viste ein heilt unik evne til å bruke dei rette orda når landet trengde det som mest. – Vi hadde ein konge som stod for openheit.",
-        "Sollund meiner denne openheita har hatt ein uvurderleg effekt for mange norske pasientar og deira pårørande. – Når han møter sjukdom og død, sjølv som konge, gjer han det litt lettare for alle oss andre.",
-        "I dag jobbar Brage som regionsleiar for Kreftforeningen i nord, men for 15 år sidan var han ein av dei unge som overlevde terrorangrepet på Utøya."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/sorgegudsteneste-i-tromso-domkyrkje_-minnest-ein-open-konge-1.18007835",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/1sRLbNmjwcfhNUIfaaGRqwLeLEpELy_AW3J0eUOSlOaA.jpg",
-      "localImage": "assets/news/495da39f410ad1.jpg",
       "score": 13
     }
   ]
