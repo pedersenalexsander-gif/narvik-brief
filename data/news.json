@@ -1,8 +1,29 @@
 {
-  "updatedAt": "30.08.2026 kl. 13:21",
-  "updatedISO": "2026-08-30T13:21:20.336328+02:00",
+  "updatedAt": "30.08.2026 kl. 13:36",
+  "updatedISO": "2026-08-30T13:36:25.367776+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "3fa0da869318c5",
+      "category": "Nord-Norge",
+      "published": "30.08. 13:24",
+      "publishedISO": "2026-08-30T13:24:48+02:00",
+      "title": "Helmersen får spissplassen mot Rosenborg",
+      "summary": "Andreas Helmersen får spissplassen når serieleder Bodø/Glimt møter Rosenborg på Aspmyra søndag. Helmersen har scoret seks mål i Eliteserien denne sesongen og får Ola Brynhildsen og Jens Petter Hauge med seg i angrepet. Nikita Haikin – Fredrik Sjøvold, Villads Nielsen, Odin Bjørtuft, Fredrik André Bjørkan – Sondre Auklend, Patrick Berg, Sondre Brunstad Fet – Ola Brynhildsen, Andreas Helmersen og Jens Petter Hauge.",
+      "keyPoints": [
+        "Andreas Helmersen får spissplassen når serieleder Bodø/Glimt møter Rosenborg på Aspmyra søndag.",
+        "Helmersen har scoret seks mål i Eliteserien denne sesongen og får Ola Brynhildsen og Jens Petter Hauge med seg i angrepet.",
+        "Nikita Haikin – Fredrik Sjøvold, Villads Nielsen, Odin Bjørtuft, Fredrik André Bjørkan – Sondre Auklend, Patrick Berg, Sondre Brunstad Fet – Ola Brynhildsen, Andreas Helmersen og Jens Petter Hauge.",
+        "Rosenborg hjalp samtidig Glimt tilbake på tabelltoppen da trønderne slo Viking i forrige serierunde."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/helmersen-far-spissplassen-mot-rosenborg-1.18007975",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/OLJlF-05yeE0ml0m_4SHzgqWQMBJ3sjBiZZwm64_x4Ug.jpg",
+      "localImage": "assets/news/3fa0da869318c5.jpg",
+      "score": 13
+    },
     {
       "id": "7ef6f1d7ad49e6",
       "category": "Norge",
@@ -109,24 +130,45 @@
       "score": 14
     },
     {
-      "id": "1c1c832909a8ef",
+      "id": "ba5860a9ecb685",
+      "category": "Verden",
+      "published": "30.08. 13:25",
+      "publishedISO": "2026-08-30T13:25:11+02:00",
+      "title": "Switzerland rave shooting kills woman, 22 as manhunt launched",
+      "summary": "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i en skyting på en rave i Sveits. De skadde var fire menn og en kvinne i alderen 24 til 27 år, som alle er på sykehus med skader «alt fra små til alvorlige». Arrangører og utøvere sa at skytingen skjedde på en techno-rave som ble holdt på en hesteveddeløpsbane i byen, som ligger omtrent 46 km vest for Zürich.",
+      "keyPoints": [
+        "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i en skyting på en rave i Sveits.",
+        "Arrangører og utøvere sa at skytingen skjedde på en techno-rave som ble holdt på en hesteveddeløpsbane i byen, som ligger omtrent 46 km vest for Zürich.",
+        "De skadde var fire menn og en kvinne i alderen 24 til 27 år, som alle er på sykehus med skader «alt fra små til alvorlige».",
+        "En AFP-journalist rapporterte å ha sett væpnede offiserer utplassert på motorveien opptil 30 km (18 miles) fra stedet for skytingen."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
+      "localImage": "assets/news/ba5860a9ecb685.png",
+      "score": 13
+    },
+    {
+      "id": "b1a8634d5d6e94",
       "category": "Norge",
       "published": "30.08. 13:14",
       "publishedISO": "2026-08-30T13:14:39+02:00",
       "title": "Passasjerbåt med 270 ombord har sunket utenfor Kypros",
-      "summary": "En passasjerbåt med 270 personer om bord har sunket utenfor Kypros Båten skal ha kantret omtrent to kilometer nord for kuysten av Kyrenia, skriver lokale medier. Passasjerbåten sank utenfor Nord-Kypros og hadde 270 personer ombord. To nordmenn ble tidligere denne uka pågrepet på Kypros.",
+      "summary": "En passasjerbåt med 279 personer om bord har sunket utenfor Kypros. En passasjerbåt med 270 personer om bord har sunket utenfor Kypros Båten skal ha kantret omtrent to kilometer nord for kysten av Kyrenia, skriver lokale medier. To nordmenn ble tidligere denne uka pågrepet på Kypros.",
       "keyPoints": [
-        "En passasjerbåt med 270 personer om bord har sunket utenfor Kypros Båten skal ha kantret omtrent to kilometer nord for kuysten av Kyrenia, skriver lokale medier.",
-        "Passasjerbåten sank utenfor Nord-Kypros og hadde 270 personer ombord.",
+        "En passasjerbåt med 270 personer om bord har sunket utenfor Kypros Båten skal ha kantret omtrent to kilometer nord for kysten av Kyrenia, skriver lokale medier.",
         "To nordmenn ble tidligere denne uka pågrepet på Kypros.",
-        "En 22 år gammel kvinne drept og minst fem skadet på rave-party i Sveits."
+        "Ordfører i Kyrenia, Murat Senkul, sier situasjonen er alvorlig.",
+        "Han opplyser til CNN at 159 av de 258 passasjerene er funnet."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/urix/passasjerbat-med-270-ombord-har-sunket-utenfor-kypros-1.18008039",
       "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/1c1c832909a8ef.jpg",
+      "image": "https://static.nrk.no/kartoteket/01M1968A7JEGSNRWNFFM11V3AS/F169/650w.png",
+      "localImage": "assets/news/b1a8634d5d6e94.png",
       "score": 13
     },
     {
@@ -151,27 +193,6 @@
       "score": 13
     },
     {
-      "id": "ba5860a9ecb685",
-      "category": "Verden",
-      "published": "30.08. 12:29",
-      "publishedISO": "2026-08-30T12:29:20+02:00",
-      "title": "Switzerland rave shooting kills woman, 22 as manhunt launched",
-      "summary": "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i en skyting på en rave i Sveits. Arrangører og utøvere bekreftet at skytingen skjedde på en techno-rave som ble holdt på en hesteveddeløpsbane i byen, som ligger omtrent 46 km vest for Zürich. Lokale medier rapporterte at styrken ble varslet om skytingen rundt 02:30 lokal tid (01:30 BST).",
-      "keyPoints": [
-        "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i en skyting på en rave i Sveits.",
-        "Arrangører og utøvere bekreftet at skytingen skjedde på en techno-rave som ble holdt på en hesteveddeløpsbane i byen, som ligger omtrent 46 km vest for Zürich.",
-        "Lokale medier rapporterte at styrken ble varslet om skytingen rundt 02:30 lokal tid (01:30 BST).",
-        "De skadde var fire menn og en kvinne i alderen 24 til 27 år, som alle er på sykehus med skader «alt fra små til alvorlige»."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d926/live/91b2bd40-a45d-11f1-b370-b9b7934350c8.jpg",
-      "localImage": "assets/news/ba5860a9ecb685.png",
-      "score": 13
-    },
-    {
       "id": "60bac08ae4fa08",
       "category": "Norge",
       "published": "30.08. 08:52",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/9vpMFerIeSEmaPO7siepxg55QaYMDGiE4RuuUoQ1eENg.jpg",
       "localImage": "assets/news/60bac08ae4fa08.jpg",
-      "score": 13
-    },
-    {
-      "id": "b3577d6ae9f96e",
-      "category": "Norge",
-      "published": "30.08. 08:46",
-      "publishedISO": "2026-08-30T08:46:39+02:00",
-      "title": "Busskrisen i Tromsø: Henter sjåfører fra resten av landet",
-      "summary": "Nå henter selskapet sjåfører fra resten av landet, og håper å ha de første på plass til uken. – Vi er ikke fornøyd når vi ikke klarer å levere de tjenestene vi skal til Tromsøs befolkning, sier regionsjef i Tide Buss Øyvind Børresen. NRK har tidligere fortalt at det mangler 600 bussjåfører i Norge, og i Tromsø gjør et tøft leiemarked at noen sjåfører må bo på hotell. Nå henter Tide Buss sjåfører fra resten av landet som et midlertidig tiltak.",
-      "keyPoints": [
-        "Nå henter selskapet sjåfører fra resten av landet, og håper å ha de første på plass til uken. – Vi er ikke fornøyd når vi ikke klarer å levere de tjenestene vi skal til Tromsøs befolkning, sier regionsjef i Tide Buss Øyvind Børresen.",
-        "NRK har tidligere fortalt at det mangler 600 bussjåfører i Norge, og i Tromsø gjør et tøft leiemarked at noen sjåfører må bo på hotell.",
-        "Men heller ikke det er enkelt. – Sjåførsituasjonen er utfordrende over hele landet, så det å flytte noen opp til Tromsø er krevende.",
-        "Han bekrefter at sjåfører sliter med å etablere seg og få hentet familien sin, og at de dermed forlater Tromsø i løpet av det første året. – Kan det bli aktuelt å øke lønnen til sjåførene? – Det er et av tiltakene vi har snakket om når det gjelder Tromsø spesifikt."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/busskrisen-i-tromso_-henter-sjaforer-fra-resten-av-landet-1.18003444",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0LNJRJGPGS7GYObLRQK7pgTVb_Ek8BCpvKGcvdvvAU3A.jpg",
-      "localImage": "assets/news/b3577d6ae9f96e.jpg",
       "score": 13
     }
   ]
