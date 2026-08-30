@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 02:37",
-  "updatedISO": "2026-08-30T02:37:05.963317+02:00",
+  "updatedAt": "30.08.2026 kl. 02:52",
+  "updatedISO": "2026-08-30T02:52:32.325300+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,7 +130,7 @@
       "score": 14
     },
     {
-      "id": "0a88e382c6ee1c",
+      "id": "1fc377b1d7c9b8",
       "category": "Norge",
       "published": "30.08. 01:22",
       "publishedISO": "2026-08-30T01:22:24+02:00",
@@ -140,14 +140,14 @@
         "Opptellingen etter folkeavstemningen på Island følges med argusøyne etter at valglokalene stengte midnatt norsk tid.",
         "Det er til sammen rundt 270.000 stemmeberettigede på Island.",
         "Skal Island ta opp igjen forhandlingene om å bli medlem i EU?",
-        "God stemning i natt på en valgvake for ja-tilhengere på Island."
+        "Det var god stemning på en valgvake natt til søndag for ja-tilhengere på Island."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/6vfWhhbw3tmdiFpfMq77Cw8cbikrtT0gkkE201jRRTLg.jpg",
-      "localImage": "assets/news/0a88e382c6ee1c.jpg",
+      "localImage": "assets/news/1fc377b1d7c9b8.jpg",
       "score": 13
     },
     {
