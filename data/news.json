@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 01:36",
-  "updatedISO": "2026-08-31T01:36:54.999098+02:00",
+  "updatedAt": "31.08.2026 kl. 01:51",
+  "updatedISO": "2026-08-31T01:51:25.845343+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,6 +67,27 @@
       "score": 16
     },
     {
+      "id": "94f91739a642ab",
+      "category": "Norge",
+      "published": "31.08. 01:42",
+      "publishedISO": "2026-08-31T01:42:36+02:00",
+      "title": "Iran: – Har angrepet amerikanske militære mål i Jordan",
+      "summary": "Den iranske revolusjonsgarden hevder å ha angrepet to amerikanske militærbaser i Jordan med ballistiske missiler. Angrepene er ifølge Iran et svar på det som skal være et amerikansk angrep på et iransk militæranlegg på den iranske øya Larak i Hormuzstredet søndag. Dette angrepet skal være det første kjente angrepet fra USA på Iran siden sent i juli, skriver nyhetsnettstedet Axios.",
+      "keyPoints": [
+        "Den iranske revolusjonsgarden hevder å ha angrepet to amerikanske militærbaser i Jordan med ballistiske missiler.",
+        "Dette angrepet skal være det første kjente angrepet fra USA på Iran siden sent i juli, skriver nyhetsnettstedet Axios.",
+        "Angrepene er ifølge Iran et svar på det som skal være et amerikansk angrep på et iransk militæranlegg på den iranske øya Larak i Hormuzstredet søndag.",
+        "Revolusjonsgardens angrep «rettet seg mot teknisk infrastruktur, vedlikeholdsanlegg og posisjonene til fiendtlige kampfly ved de USA-drevne flybasene King Hussein og Al-Azraq i Jordan», heter det i en uttalelse, melder nyhetsbyrået AFP."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/iran_-_-har-angrepet-amerikanske-militaere-mal-i-jordan-1.18008533",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/EzTX2u6h1tCy2KJF7RiSKAjAH8iSIpKk-Btsh72bqGcA.jpg",
+      "localImage": "assets/news/94f91739a642ab.jpg",
+      "score": 13
+    },
+    {
       "id": "f422cfea4780c4",
       "category": "Norge",
       "published": "30.08. 21:34",
@@ -109,27 +130,6 @@
       "score": 13
     },
     {
-      "id": "4b2d8e45062875",
-      "category": "Norge",
-      "published": "30.08. 20:47",
-      "publishedISO": "2026-08-30T20:47:48+02:00",
-      "title": "Truls Gulowsen trekker seg som leiar i Naturvernforbundet",
-      "summary": "Bakgrunnen er at eit fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar. Naturvernforbundet bekreftar at Truls Gulowsen går av etter eit ekstraordinært landsstyremøte om ei arbeidsmiljøsak som har vart over tid. Pernille Bonnevie Hansen er fungerande leiar fram til ny leiar blir valt på landsmøte i november. – Eg vil takke Truls for fem år saman i Naturvernforbundet.",
-      "keyPoints": [
-        "Pernille Bonnevie Hansen er fungerande leiar fram til ny leiar blir valt på landsmøte i november. – Eg vil takke Truls for fem år saman i Naturvernforbundet.",
-        "Naturvernforbundet bekreftar at Truls Gulowsen går av etter eit ekstraordinært landsstyremøte om ei arbeidsmiljøsak som har vart over tid.",
-        "Bakgrunnen er at eit fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar.",
-        "Gulowsen viser mellom anna til friksjon mellom han og tilsette i organisasjonen. – Fram til i dag har eg vore sikker på at arbeidsmiljøutfordringane i sekretariatet har vore moglege å løyse gjennom betre samtalar, klarare interne prosessar og etablering av ein normal tilbakemeldingskultur, skriv han på Facebook."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/truls-gulowsen-trekker-seg-som-leiar-i-naturvernforbundet-1.18008432",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_u1D9Yuun8LCWsLIDv1Amw2D-wvxhYS_i2Q6RgvLqdDw.jpg",
-      "localImage": "assets/news/4b2d8e45062875.jpg",
-      "score": 13
-    },
-    {
       "id": "6d793c8a9226f7",
       "category": "Norge",
       "published": "30.08. 01:22",
@@ -149,6 +149,27 @@
       "image": "https://gfx.nrk.no/FsXHU_y_qE5C9JAMIreUZQVinmFIjBpuP0IY5Fbog0vw.jpg",
       "localImage": "assets/news/6d793c8a9226f7.jpg",
       "score": 13
+    },
+    {
+      "id": "4b2d8e45062875",
+      "category": "Norge",
+      "published": "30.08. 20:47",
+      "publishedISO": "2026-08-30T20:47:48+02:00",
+      "title": "Truls Gulowsen trekker seg som leiar i Naturvernforbundet",
+      "summary": "Bakgrunnen er at eit fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar. Naturvernforbundet bekreftar at Truls Gulowsen går av etter eit ekstraordinært landsstyremøte om ei arbeidsmiljøsak som har vart over tid. Pernille Bonnevie Hansen er fungerande leiar fram til ny leiar blir valt på landsmøte i november. – Eg vil takke Truls for fem år saman i Naturvernforbundet.",
+      "keyPoints": [
+        "Pernille Bonnevie Hansen er fungerande leiar fram til ny leiar blir valt på landsmøte i november. – Eg vil takke Truls for fem år saman i Naturvernforbundet.",
+        "Naturvernforbundet bekreftar at Truls Gulowsen går av etter eit ekstraordinært landsstyremøte om ei arbeidsmiljøsak som har vart over tid.",
+        "Bakgrunnen er at eit fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar.",
+        "Gulowsen viser mellom anna til friksjon mellom han og tilsette i organisasjonen. – Fram til i dag har eg vore sikker på at arbeidsmiljøutfordringane i sekretariatet har vore moglege å løyse gjennom betre samtalar, klarare interne prosessar og etablering av ein normal tilbakemeldingskultur, skriv han på Facebook."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/truls-gulowsen-trekker-seg-som-leiar-i-naturvernforbundet-1.18008432",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/_u1D9Yuun8LCWsLIDv1Amw2D-wvxhYS_i2Q6RgvLqdDw.jpg",
+      "localImage": "assets/news/4b2d8e45062875.jpg",
+      "score": 12
     },
     {
       "id": "288d1fa12f4cbd",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/81eX-y5woWQzMPVa-NfNkA7c5Try_okNLcFKsi91PKhw.jpg",
       "localImage": "assets/news/6db19037f84e98.jpg",
-      "score": 12
-    },
-    {
-      "id": "1f41ffbcc2db65",
-      "category": "Økonomi",
-      "published": "30.08. 18:54",
-      "publishedISO": "2026-08-30T18:54:39+02:00",
-      "title": "Kong Haralds gravferd blir onsdag 9. september",
-      "summary": "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01. Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII. Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
-      "keyPoints": [
-        "Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
-        "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01.",
-        "Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII.",
-        "Kong Haralds kiste vil trolig også fraktes fra Slottet til Oslo domkirke gjennom Karl Johans gate."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/430M5a/kong-haralds-gravferd-blir-9-september",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/71f55558-e3f8-3ecf-926c-8e9343a07e46?fit=crop&h=675&upscale=true&w=1200&s=ec036d0bf5a82d89584206953eacc8cbe9c36d4e",
-      "localImage": "assets/news/1f41ffbcc2db65.jpg",
       "score": 12
     }
   ]
