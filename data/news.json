@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 00:36",
-  "updatedISO": "2026-08-31T00:36:36.708692+02:00",
+  "updatedAt": "31.08.2026 kl. 00:51",
+  "updatedISO": "2026-08-31T00:51:44.061119+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,27 +151,6 @@
       "score": 13
     },
     {
-      "id": "6db19037f84e98",
-      "category": "Norge",
-      "published": "30.08. 19:42",
-      "publishedISO": "2026-08-30T19:42:08+02:00",
-      "title": "Biskopen i Nidaros: – Kongen med omsorgshjertet",
-      "summary": "Flukten fra Norge til Amerika som 3-åring ga kong Harald en erfaring mange andre i landet deler, sa biskopen i Nidarosdomen. BISKOPEN MINTES KONGEN: Biskop i Nidaros bispedømme, Herborg Finnset, talte under sørgegudstjenesten i Nidarosdomen søndag ettermiddag. – De siste dagene har vi lagt ned blomster og tent lys. Det sa biskop i Nidaros bispedømme, Herborg Finnset, under den nasjonale sørgegudstjenesten i Nidarosdomen søndag ettermiddag.",
-      "keyPoints": [
-        "BISKOPEN MINTES KONGEN: Biskop i Nidaros bispedømme, Herborg Finnset, talte under sørgegudstjenesten i Nidarosdomen søndag ettermiddag. – De siste dagene har vi lagt ned blomster og tent lys.",
-        "Flukten fra Norge til Amerika som 3-åring ga kong Harald en erfaring mange andre i landet deler, sa biskopen i Nidarosdomen.",
-        "Det kom biskopen inn på under gudstjenesten. – Kallet til kongegjerninga gir en særlig gjenklang i dette kirkerommet hvor dronning Sonja og kong Harald sammen ble signet til sin oppgave og kall som nasjonens kongepar.",
-        "Biskop Herborg Finnset sa at kong Harald delte erfaring med mange, da han måtte reise fra landet sammen med moren og søstrene i 1940. – En liten 3 åring i en rød og hvitrutet strikkegenser."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/biskopen-i-nidaros_-_-kongen-med-omsorgshjertet-1.18008268",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/81eX-y5woWQzMPVa-NfNkA7c5Try_okNLcFKsi91PKhw.jpg",
-      "localImage": "assets/news/6db19037f84e98.jpg",
-      "score": 13
-    },
-    {
       "id": "6d793c8a9226f7",
       "category": "Norge",
       "published": "30.08. 01:22",
@@ -191,6 +170,27 @@
       "image": "https://gfx.nrk.no/FsXHU_y_qE5C9JAMIreUZQVinmFIjBpuP0IY5Fbog0vw.jpg",
       "localImage": "assets/news/6d793c8a9226f7.jpg",
       "score": 13
+    },
+    {
+      "id": "6db19037f84e98",
+      "category": "Norge",
+      "published": "30.08. 19:42",
+      "publishedISO": "2026-08-30T19:42:08+02:00",
+      "title": "Biskopen i Nidaros: – Kongen med omsorgshjertet",
+      "summary": "Flukten fra Norge til Amerika som 3-åring ga kong Harald en erfaring mange andre i landet deler, sa biskopen i Nidarosdomen. BISKOPEN MINTES KONGEN: Biskop i Nidaros bispedømme, Herborg Finnset, talte under sørgegudstjenesten i Nidarosdomen søndag ettermiddag. – De siste dagene har vi lagt ned blomster og tent lys. Det sa biskop i Nidaros bispedømme, Herborg Finnset, under den nasjonale sørgegudstjenesten i Nidarosdomen søndag ettermiddag.",
+      "keyPoints": [
+        "BISKOPEN MINTES KONGEN: Biskop i Nidaros bispedømme, Herborg Finnset, talte under sørgegudstjenesten i Nidarosdomen søndag ettermiddag. – De siste dagene har vi lagt ned blomster og tent lys.",
+        "Flukten fra Norge til Amerika som 3-åring ga kong Harald en erfaring mange andre i landet deler, sa biskopen i Nidarosdomen.",
+        "Det kom biskopen inn på under gudstjenesten. – Kallet til kongegjerninga gir en særlig gjenklang i dette kirkerommet hvor dronning Sonja og kong Harald sammen ble signet til sin oppgave og kall som nasjonens kongepar.",
+        "Biskop Herborg Finnset sa at kong Harald delte erfaring med mange, da han måtte reise fra landet sammen med moren og søstrene i 1940. – En liten 3 åring i en rød og hvitrutet strikkegenser."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/biskopen-i-nidaros_-_-kongen-med-omsorgshjertet-1.18008268",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/81eX-y5woWQzMPVa-NfNkA7c5Try_okNLcFKsi91PKhw.jpg",
+      "localImage": "assets/news/6db19037f84e98.jpg",
+      "score": 12
     },
     {
       "id": "1f41ffbcc2db65",
