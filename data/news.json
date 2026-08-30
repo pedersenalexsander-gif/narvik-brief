@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 18:22",
-  "updatedISO": "2026-08-30T18:22:17.905304+02:00",
+  "updatedAt": "30.08.2026 kl. 18:36",
+  "updatedISO": "2026-08-30T18:36:37.410159+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/OLJlF-05yeE0ml0m_4SHzgqWQMBJ3sjBiZZwm64_x4Ug.jpg",
       "localImage": "assets/news/3fa0da869318c5.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "4984ba322d4b89",
@@ -119,7 +119,7 @@
         "Slottskapellet vil være åpent for at folk kan ta farvel med kong Haralds båre fra tirsdag klokken 14 til klokken 18 dagen før gravferdsdagen.",
         "HONNØR: Da bårebilen med kong Haralds båre kom frem til Slottet fredag kveld, sto kongens adjutanter og gjorde honnør, før de fulgte bilen inn og bar kisten inn på Slottet.",
         "Kong Haralds båre skal mandag føres gjennom Slottet til Slottskapellet av kong Haralds barn og barnebarn.",
-        "Slottskapellet vil være åpent for besøk fra tirsdag 1. september klokken 14.00 til dagen før gravferdsdagen klokken 18.00, skriver Det kongelige slott i en pressemelding søndag."
+        "Hoffsjefen ledet kong Haralds båre inn slottsportene fredag kveld."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
