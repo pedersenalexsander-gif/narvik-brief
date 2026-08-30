@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 15:21",
-  "updatedISO": "2026-08-30T15:21:14.119804+02:00",
+  "updatedAt": "30.08.2026 kl. 15:36",
+  "updatedISO": "2026-08-30T15:36:24.539645+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,6 +109,27 @@
       "score": 14
     },
     {
+      "id": "6d793c8a9226f7",
+      "category": "Norge",
+      "published": "30.08. 01:22",
+      "publishedISO": "2026-08-30T01:22:24+02:00",
+      "title": "EU-dramaet på Island: Opptellingen er i gang",
+      "summary": "Det er til sammen rundt 270.000 stemmeberettigede på Island. Folk på Island kan avgi sin stemme frem til midnatt norsk tid. Spørsmålet på stemmeseddelen var kort og handlet kun om Island skal gjenoppta forhandlingene om EU-medlemskap.",
+      "keyPoints": [
+        "Det er til sammen rundt 270.000 stemmeberettigede på Island.",
+        "Folk på Island kan avgi sin stemme frem til midnatt norsk tid.",
+        "Spørsmålet på stemmeseddelen var kort og handlet kun om Island skal gjenoppta forhandlingene om EU-medlemskap.",
+        "Når alle stemmene var telt opp var resultatet 52,8 nei og 47,2 prosent ja, melder kringkasterene RUV."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/FsXHU_y_qE5C9JAMIreUZQVinmFIjBpuP0IY5Fbog0vw.jpg",
+      "localImage": "assets/news/6d793c8a9226f7.jpg",
+      "score": 15
+    },
+    {
       "id": "addf59d5aac6bd",
       "category": "Verden",
       "published": "29.08. 22:13",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/hgsq-CSlRzqkzAXCGUBgzAezt87Ple5g9-1po-lPBnQg.jpg",
       "localImage": "assets/news/dac0b50c62cee6.jpg",
-      "score": 13
-    },
-    {
-      "id": "91d2bc33f9f4ad",
-      "category": "Verden",
-      "published": "30.08. 12:49",
-      "publishedISO": "2026-08-30T12:49:11+02:00",
-      "title": "Iceland votes against restarting talks on joining EU",
-      "summary": "Islands statsminister Kristrún Frostadóttir stemte i folkeavstemningen i Reykjavik lørdag. Island har stemt mot å gjenoppta samtalene om å bli medlem av EU 13 år etter at de ble brutt. Statsminister Kristrún Frostadóttirs sentrum-venstre-regjering lovet å holde en folkeavstemning innen 2027, men fremmet den på grunn av internasjonale spenninger, inkludert USAs president Donald Trumps trusler mot Grønland. Spørsmålet på stemmeseddelen var: \"Bør Island gjenoppta tiltredelsesforhandlinger med EU?\" En ja-stemme ville ikke ha vært en endelig beslutning om å bli med i EU, men et trekk mot en tiltredelsesavtale, som deretter måtte godkjennes ved en ny folkeavstemning.",
-      "keyPoints": [
-        "Islands statsminister Kristrún Frostadóttir stemte i folkeavstemningen i Reykjavik lørdag. Island har stemt mot å gjenoppta samtalene om å bli medlem av EU 13 år etter at de ble brutt.",
-        "Spørsmålet på stemmeseddelen var: \"Bør Island gjenoppta tiltredelsesforhandlinger med EU?\" En ja-stemme ville ikke ha vært en endelig beslutning om å bli med i EU, men et trekk mot en tiltredelsesavtale, som deretter måtte godkjennes ved en ny folkeavstemning.",
-        "Prime Minister Kristrún Frostadóttir's centre-left government promised to hold a referendum by 2027, but brought it forward because of international tensions, including US President Donald Trump's threats against Greenland.",
-        "Nei-stemmen utelukker heller ikke muligheten for at Island kan gjenoppta samtalene i fremtiden."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e0f/live/272509c0-a425-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/91d2bc33f9f4ad.jpg",
       "score": 13
     }
   ]
