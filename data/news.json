@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 02:52",
-  "updatedISO": "2026-08-30T02:52:32.325300+02:00",
+  "updatedAt": "30.08.2026 kl. 03:06",
+  "updatedISO": "2026-08-30T03:06:28.262620+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,27 @@
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/7ef6f1d7ad49e6.jpg",
       "score": 16
+    },
+    {
+      "id": "d32edd7c1377d4",
+      "category": "Verden",
+      "published": "30.08. 00:40",
+      "publishedISO": "2026-08-30T00:40:51+02:00",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, kunngjorde Donald Trump. Fra boom til bust: Et sjeldent blikk inn i en av Venezuelas en gang velstående oljebyer. Avtalen gir tilsynelatende USA direkte styring over et fremmed lands suverene nasjonale ressurser og ser ut til å være bredere i omfang enn den USA-ledede koalisjonens provisoriske myndighets kontroll over Iraks oljeinntekter etter at Saddam Hussein ble styrtet av den største amerikaneren i Venezuela 203. påviste oljereserver i verden - anslagsvis 303 milliarder fat - men produksjonen har falt siden toppen på slutten av 1990-tallet, delvis på grunn av en skjerpet kontroll over det statlige oljeselskapet og amerikanske sanksjoner rettet mot dets viktigste økonomiske livline.",
+      "keyPoints": [
+        "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, kunngjorde Donald Trump.",
+        "Fra boom til byge: Et sjeldent blikk inn i en av Venezuelas en gang velstående oljebyer. Avtalen gir tilsynelatende USA direkte styring over et fremmed lands suverene nasjonale ressurser og ser ut til å være bredere i omfang enn den USA-ledede koalisjonens provisoriske myndighets kontroll over Iraks oljeinntekter etter at Saddam Hussein ble styrtet i 203.",
+        "Venezuela har de største påviste oljereservene i verden – anslagsvis 303 milliarder fat – men produksjonen har falt siden toppen på slutten av 1990-tallet, delvis på grunn av en skjerpet kontroll over det statlige oljeselskapet og amerikanske sanksjoner rettet mot dens viktigste økonomiske livslinje.",
+        "Timer etter at amerikanske spesialstyrker fanget Maduro og hans kone, Cilia Flores, i et raid mot den venezuelanske hovedstaden, sa Trump at USA på ubestemt tid ville kontrollere salget av landets olje."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/d32edd7c1377d4.jpg",
+      "score": 17
     },
     {
       "id": "dcf05c435a6afb",
@@ -67,6 +88,48 @@
       "score": 14
     },
     {
+      "id": "addf59d5aac6bd",
+      "category": "Verden",
+      "published": "29.08. 22:13",
+      "publishedISO": "2026-08-29T22:13:16+02:00",
+      "title": "Minst 37 døde og hundrevis evakuert etter angrep på Kievs våpenlager",
+      "summary": "Ukraina-korrespondent Dan Johnson rapporterer fra Kiev etter det dødelige angrepet Trettisju mennesker er døde og nesten 400 er evakuert etter at et russisk droneangrep traff et depot som lagrer våpen for Ukrainas militære nær et boligområde i utkanten av Kiev. Angrepet er det andre som har rammet et ammunisjonslager i nærheten av Kiev de siste månedene, og har ført til fornyet sinne. Fredag ​​kvelds eksplosjon har reist nye spørsmål om hvorfor ammunisjon ble lagret så nær folks hjem, spesielt gitt regelmessigheten til russiske luftangrep. \"Myndighetene, Forsvarsdepartementet - hvorfor ble dette tillatt på depotene, på et sted hvor det før var mat?\" Borys Daniyluk, 61, sa. \"Hvorfor ble ammunisjon og våpen lagret der, ved siden av en befolket landsby?",
+      "keyPoints": [
+        "Ukraina-korrespondent Dan Johnson rapporterer fra Kiev etter det dødelige angrepet Trettisju mennesker er døde og nesten 400 er evakuert etter at et russisk droneangrep traff et depot som lagrer våpen for Ukrainas militære nær et boligområde i utkanten av Kiev.",
+        "Angrepet er det andre som har rammet et ammunisjonslager i nærheten av Kiev de siste månedene, og har ført til fornyet sinne.",
+        "Fredag ​​kvelds eksplosjon har reist nye spørsmål om hvorfor ammunisjon ble lagret så nær folks hjem, spesielt gitt regelmessigheten til russiske luftangrep. \"Myndighetene, Forsvarsdepartementet - hvorfor ble dette tillatt på depotene, på et sted hvor det før var mat?\" Borys Daniyluk, 61, sa. \"Hvorfor ble ammunisjon og våpen lagret der, ved siden av en befolket landsby?",
+        "Det russiske forsvarsdepartementet sa i en uttalelse at dets styrker hadde målrettet «et ammunisjonslager» i Myla, en landsby vest for den ukrainske hovedstaden, med «komponenter og utskytningsforsterkere for FP-1/FP-2 langtrekkende ubemannede luftfartøyer»."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg",
+      "localImage": "assets/news/addf59d5aac6bd.png",
+      "score": 17
+    },
+    {
+      "id": "aa164394fe5a29",
+      "category": "Verden",
+      "published": "29.08. 15:55",
+      "publishedISO": "2026-08-29T15:55:55+02:00",
+      "title": "Deadly strike on Kyiv warehouse prompts evacuations",
+      "summary": "Nesten 400 mennesker har blitt evakuert etter et russisk angrep på et lager i nærheten av Kiev drepte minst 37 mennesker, opplyser ukrainske myndigheter. Video, 00:01:23Dødelig streik på lageret i Kiev fører til evakuering. Up Next. Video, 00:01:00 BBC besøker ulmende Kiev-markedet etter russiske streiker Se: Stjernekikkere rundt om i verden får et glimt av måneformørkelsen «Blood Moon».",
+      "keyPoints": [
+        "Video, 00:01:23Deadly strike on Kyiv warehouse prompts evacuations Up Next.",
+        "Nesten 400 mennesker har blitt evakuert etter et russisk angrep på et lager i nærheten av Kiev drepte minst 37 mennesker, opplyser ukrainske myndigheter.",
+        "Video, 00:01:00 BBC besøker ulmende Kiev-markedet etter russiske streiker Se: Stjernekikkere rundt om i verden får et glimt av måneformørkelsen «Blood Moon».",
+        "Video, 00:01:04Se: Stjernekikkere rundt om i verden får et glimt av 'Blood Moon' måneformørkelse. De sporer den dødelige banen til lynflommen mellom Nepal og Tibet."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cy8z979y9e4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b94a/live/3b597a00-a3af-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/aa164394fe5a29.jpg",
+      "score": 15
+    },
+    {
       "id": "9e7fa86963a922",
       "category": "Norge",
       "published": "29.08. 13:59",
@@ -109,27 +172,6 @@
       "score": 14
     },
     {
-      "id": "70f39b9456a116",
-      "category": "Økonomi",
-      "published": "29.08. 07:03",
-      "publishedISO": "2026-08-29T07:03:37+02:00",
-      "title": "Donald Trump om kong Harald: – Et virkelig stort tap",
-      "summary": "Minneordene og kondolansene har strømmet på etter at kong Harald døde fredag, 89 år gammel. Foto: Tor Richardsen / NTB Da statsminister Jonas Gahr Støre var på besøk hos president Donald Trump i 2025, hadde han som gave med et bilde av prins Harald som mater president Roosevelts hund Fala i 1944. Møtet varte lengre enn planlagt, delvis på grunn av Trumps interesse for kong Harald, ifølge statsministeren. – Bildet ble formidlet inn til Det hvite hus, men jeg ga ham en kopi over bordet, og Trump stilte da mange spørsmål om kongen, som han jo hadde oppfattet var en som var høyt verdsatt i Norge, fortalte Støre den gangen.",
-      "keyPoints": [
-        "Foto: Tor Richardsen / NTB Da statsminister Jonas Gahr Støre var på besøk hos president Donald Trump i 2025, hadde han som gave med et bilde av prins Harald som mater president Roosevelts hund Fala i 1944.",
-        "Møtet varte lengre enn planlagt, delvis på grunn av Trumps interesse for kong Harald, ifølge statsministeren. – Bildet ble formidlet inn til Det hvite hus, men jeg ga ham en kopi over bordet, og Trump stilte da mange spørsmål om kongen, som han jo hadde oppfattet var en som var høyt verdsatt i Norge, fortalte Støre den gangen.",
-        "Minneordene og kondolansene har strømmet på etter at kong Harald døde fredag, 89 år gammel.",
-        "Han elsket landet sitt, og var virkelig elsket og respektert av sitt folk, skriver Trump."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/9pM3O9/donald-trump-om-kong-harald-et-virkelig-stort-tap",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/af62d56c-ad77-3a33-8ee3-22e531000b40?fit=crop&h=675&upscale=true&w=1200&s=a11a2fd7baa34b62f66c36b129d91106f1e3d840",
-      "localImage": "assets/news/70f39b9456a116.jpg",
-      "score": 14
-    },
-    {
       "id": "1fc377b1d7c9b8",
       "category": "Norge",
       "published": "30.08. 01:22",
@@ -151,67 +193,25 @@
       "score": 13
     },
     {
-      "id": "c9bac9b0a83eaf",
-      "category": "Norge",
-      "published": "29.08. 20:57",
-      "publishedISO": "2026-08-29T20:57:48+02:00",
-      "title": "Hele Norges bestefar: Slik minnes han som barnas konge",
-      "summary": "FOLKETS OG BARNAS KONGE: Kong Harald var alltid hjertelig til stede uansett hvor han reiste, og hvem han møtte på sin vei. Fredag morgen ble en dag der barn over hele landet måtte ta farvel med hele Norges bestefar. De har fått med seg hva som gjorde kong Harald til en helt spesiell konge. – Han styrte på en måte som de fleste konger aldri har styrt på.",
+      "id": "70f39b9456a116",
+      "category": "Økonomi",
+      "published": "29.08. 07:03",
+      "publishedISO": "2026-08-29T07:03:37+02:00",
+      "title": "Donald Trump om kong Harald: – Et virkelig stort tap",
+      "summary": "Minneordene og kondolansene har strømmet på etter at kong Harald døde fredag, 89 år gammel. Foto: Tor Richardsen / NTB Da statsminister Jonas Gahr Støre var på besøk hos president Donald Trump i 2025, hadde han som gave med et bilde av prins Harald som mater president Roosevelts hund Fala i 1944. Møtet varte lengre enn planlagt, delvis på grunn av Trumps interesse for kong Harald, ifølge statsministeren. – Bildet ble formidlet inn til Det hvite hus, men jeg ga ham en kopi over bordet, og Trump stilte da mange spørsmål om kongen, som han jo hadde oppfattet var en som var høyt verdsatt i Norge, fortalte Støre den gangen.",
       "keyPoints": [
-        "FOLKETS OG BARNAS KONGE: Kong Harald var alltid hjertelig til stede uansett hvor han reiste, og hvem han møtte på sin vei.",
-        "Fredag morgen ble en dag der barn over hele landet måtte ta farvel med hele Norges bestefar.",
-        "De har fått med seg hva som gjorde kong Harald til en helt spesiell konge. – Han styrte på en måte som de fleste konger aldri har styrt på.",
-        "Telma har fulgt med bekymring på kong Haralds helse. – Jeg har spurt hele tiden om han er død, sier 10-åringen. – Da jeg kom på skolen og så flagget på halv stang, skjønte jeg det."
+        "Foto: Tor Richardsen / NTB Da statsminister Jonas Gahr Støre var på besøk hos president Donald Trump i 2025, hadde han som gave med et bilde av prins Harald som mater president Roosevelts hund Fala i 1944.",
+        "Møtet varte lengre enn planlagt, delvis på grunn av Trumps interesse for kong Harald, ifølge statsministeren. – Bildet ble formidlet inn til Det hvite hus, men jeg ga ham en kopi over bordet, og Trump stilte da mange spørsmål om kongen, som han jo hadde oppfattet var en som var høyt verdsatt i Norge, fortalte Støre den gangen.",
+        "Minneordene og kondolansene har strømmet på etter at kong Harald døde fredag, 89 år gammel.",
+        "Han elsket landet sitt, og var virkelig elsket og respektert av sitt folk, skriver Trump."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/kong-harald-var-barnas-konge-1.18005912",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sjJUCm2kfcvavl44Nn2asAwkDrRaiAGYwLlvtIK7rioA.jpg",
-      "localImage": "assets/news/c9bac9b0a83eaf.jpg",
-      "score": 12
-    },
-    {
-      "id": "bc4902e799ef0f",
-      "category": "Norge",
-      "published": "29.08. 20:57",
-      "publishedISO": "2026-08-29T20:57:48+02:00",
-      "title": "Hele Norges bestefar: Slik minnes han som barnas konge",
-      "summary": "FOLKETS OG BARNAS KONGE: Kong Harald var alltid hjertelig til stede uansett hvor han reiste, og hvem han møtte på sin vei. Fredag morgen ble en dag der barn over hele landet måtte ta farvel med hele Norges bestefar. De har fått med seg hva som gjorde kong Harald til en helt spesiell konge. – Han styrte på en måte som de fleste konger aldri har styrt på.",
-      "keyPoints": [
-        "FOLKETS OG BARNAS KONGE: Kong Harald var alltid hjertelig til stede uansett hvor han reiste, og hvem han møtte på sin vei.",
-        "Fredag morgen ble en dag der barn over hele landet måtte ta farvel med hele Norges bestefar.",
-        "De har fått med seg hva som gjorde kong Harald til en helt spesiell konge. – Han styrte på en måte som de fleste konger aldri har styrt på.",
-        "Telma har fulgt med bekymring på kong Haralds helse. – Jeg har spurt hele tiden om han er død, sier 10-åringen. – Da jeg kom på skolen og så flagget på halv stang, skjønte jeg det."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/kong-harald-var-barnas-konge-1.18005912",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sjJUCm2kfcvavl44Nn2asAwkDrRaiAGYwLlvtIK7rioA.jpg",
-      "localImage": "assets/news/bc4902e799ef0f.jpg",
-      "score": 12
-    },
-    {
-      "id": "8b4d910ee78108",
-      "category": "Norge",
-      "published": "29.08. 20:41",
-      "publishedISO": "2026-08-29T20:41:34+02:00",
-      "title": "Skadd kvinne må berast ned frå 1 200 meters høgd",
-      "summary": "Ei kvinne i 40-åra må berast ned fleire hundre høgdemeter etter eit fall under Histeinsnuten i Ullensvang. – Ein strabasiøs tur for dei frivillige, seier politiet. SISTE: Like over klokka 21 melder politiet at frivillige har bore kvinna ned i lågare høgd og redningshelikopter har fått heisa kvinna om bord. Det vart gjort nytt forsøk i 19-tida. – Då var det ein opning med litt blå himmel, men tett skodde og turbulens gjorde at helikopteret ikkje kom seg inn, seier Michelsen. – Vi har no sju frå det frivillige framme med kvinna no, så er ytterlegare fem på veg slik at dei kan rullere på å bere den skadde ned att, seier han.",
-      "keyPoints": [
-        "Ei kvinne i 40-åra må berast ned fleire hundre høgdemeter etter eit fall under Histeinsnuten i Ullensvang. – Ein strabasiøs tur for dei frivillige, seier politiet.",
-        "Det vart gjort nytt forsøk i 19-tida. – Då var det ein opning med litt blå himmel, men tett skodde og turbulens gjorde at helikopteret ikkje kom seg inn, seier Michelsen. – Vi har no sju frå det frivillige framme med kvinna no, så er ytterlegare fem på veg slik at dei kan rullere på å bere den skadde ned att, seier han.",
-        "SISTE: Like over klokka 21 melder politiet at frivillige har bore kvinna ned i lågare høgd og redningshelikopter har fått heisa kvinna om bord.",
-        "Kvinna var på tur med ein annan då uhellet skjedde i 1 200 meters høgd."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/skadd-kvinne-ma-berast-ned-fra-1-200-meters-hogd-1.18007607",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/kartoteket/01M17BE9APG4G8JBNDZBXP4GDG/F169/650w.png",
-      "localImage": "assets/news/8b4d910ee78108.png",
-      "score": 12
+      "url": "https://e24.no/internasjonal-oekonomi/i/9pM3O9/donald-trump-om-kong-harald-et-virkelig-stort-tap",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/af62d56c-ad77-3a33-8ee3-22e531000b40?fit=crop&h=675&upscale=true&w=1200&s=a11a2fd7baa34b62f66c36b129d91106f1e3d840",
+      "localImage": "assets/news/70f39b9456a116.jpg",
+      "score": 13
     }
   ]
 }
