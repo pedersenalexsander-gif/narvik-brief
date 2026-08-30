@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 19:51",
-  "updatedISO": "2026-08-30T19:51:27.241623+02:00",
+  "updatedAt": "30.08.2026 kl. 20:06",
+  "updatedISO": "2026-08-30T20:06:18.575645+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -44,6 +44,27 @@
       "image": "https://gfx.nrk.no/yrmegw911Z5REWBQ3-7LKwuFnLJBu23dLAauCnFqIoPQ.jpg",
       "localImage": "assets/news/4984ba322d4b89.jpg",
       "score": 16
+    },
+    {
+      "id": "d32edd7c1377d4",
+      "category": "Verden",
+      "published": "30.08. 06:01",
+      "publishedISO": "2026-08-30T06:01:02+02:00",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, sa Donald Trump. Fra høykonjunktur til bust: Et sjeldent blikk inn i en av Venezuelas en gang velstående oljebyer Det gir tilsynelatende USA direkte styring over et fremmed lands suverene nasjonale ressurser og ser ut til å være bredere enn den USA-ledede koalisjonens provisoriske myndighets kontroll over Iraks oljeinntekter etter at Saddam Hussein ble kastet ut i en amerikansk provisjon i 20 i Venezuela3. oljereserver i verden - anslagsvis 303 milliarder fat - men produksjonen har stupt siden toppen på slutten av 1990-tallet, delvis på grunn av en innstramming av kontrollen over det statlige oljeselskapet og amerikanske sanksjoner rettet mot dets viktigste økonomiske livline.",
+      "keyPoints": [
+        "USA har inngått en avtale med Venezuela om å kontrollere mer enn 65 milliarder fat av sine påviste oljereserver, sa Donald Trump.",
+        "Fra boom til byge: Et sjeldent blikk inn i en av Venezuelas en gang velstående oljebyer Det gir tilsynelatende USA direkte styring over et fremmed lands suverene nasjonale ressurser og ser ut til å være bredere i omfang enn den USA-ledede koalisjonens provisoriske myndighets kontroll over Iraks oljeinntekter etter at Saddam Hussein ble kastet ut i en amerikansk 203-invasjon.",
+        "Venezuela har de største påviste oljereservene i verden - anslagsvis 303 milliarder fat - men produksjonen har stupt siden toppen på slutten av 1990-tallet, delvis på grunn av en skjerpet kontroll over det statlige oljeselskapet og amerikanske sanksjoner rettet mot dets viktigste økonomiske livline.",
+        "Timer etter at amerikanske spesialstyrker fanget Maduro og hans kone, Cilia Flores, i et raid mot den venezuelanske hovedstaden, sa Trump at USA på ubestemt tid ville kontrollere salget av landets olje."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/d32edd7c1377d4.jpg",
+      "score": 15
     },
     {
       "id": "f3205df64767a7",
@@ -109,6 +130,27 @@
       "score": 14
     },
     {
+      "id": "ba5860a9ecb685",
+      "category": "Verden",
+      "published": "30.08. 19:49",
+      "publishedISO": "2026-08-30T19:49:31+02:00",
+      "title": "Switzerland rave shooting kills woman, 22 as manhunt launched",
+      "summary": "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i en skyting på en rave i Sveits. Aarau kantonalpolitiets talsmann Michael Leupold fortalte på en pressekonferanse søndag ettermiddag at offiserer «fortsatt var midt i operasjonen» og ikke hadde noen spor på hvem som kan ha stått bak skytingen. Arrangører og utøvere sa at skytingen skjedde på en techno-rave som ble holdt på en hesteveddeløpsbane i byen, som ligger omtrent 46 km vest for Zürich.",
+      "keyPoints": [
+        "En stor politiaksjon har blitt satt i gang i Aarau, nær Zürich. En menneskejakt er i gang etter at en 22 år gammel kvinne ble drept og fem andre såret i en skyting på en rave i Sveits.",
+        "Arrangører og utøvere sa at skytingen skjedde på en techno-rave som ble holdt på en hesteveddeløpsbane i byen, som ligger omtrent 46 km vest for Zürich.",
+        "Aarau kantonalpolitiets talsmann Michael Leupold fortalte på en pressekonferanse søndag ettermiddag at offiserer «fortsatt var midt i operasjonen» og ikke hadde noen spor på hvem som kan ha stått bak skytingen.",
+        "Fire menn og en kvinne, mellom 24 og 27 år, var på sykehus med skader «alt fra små til alvorlige»."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
+      "localImage": "assets/news/ba5860a9ecb685.png",
+      "score": 13
+    },
+    {
       "id": "5c6e5b11ba5783",
       "category": "Norge",
       "published": "30.08. 19:47",
@@ -169,48 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/71f55558-e3f8-3ecf-926c-8e9343a07e46?fit=crop&h=675&upscale=true&w=1200&s=ec036d0bf5a82d89584206953eacc8cbe9c36d4e",
       "localImage": "assets/news/1f41ffbcc2db65.jpg",
-      "score": 13
-    },
-    {
-      "id": "8714762f39073e",
-      "category": "Norge",
-      "published": "30.08. 18:04",
-      "publishedISO": "2026-08-30T18:04:36+02:00",
-      "title": "Du kan ta farvel med kongens båre fra tirsdag",
-      "summary": "I Slottskapellet kan du ta farvel med båren fra tirsdag klokken 14. HONNØR: Da bårebilen med kong Haralds båre kom frem til Slottet fredag kveld, sto kongens adjutanter og gjorde honnør, før de fulgte bilen inn og bar kisten inn på Slottet. Slottskapellet vil være åpent for at folk kan ta farvel med kong Haralds båre fra klokken 14 til 18 på tirsdag.",
-      "keyPoints": [
-        "Slottskapellet vil være åpent for at folk kan ta farvel med kong Haralds båre fra klokken 14 til 18 på tirsdag.",
-        "HONNØR: Da bårebilen med kong Haralds båre kom frem til Slottet fredag kveld, sto kongens adjutanter og gjorde honnør, før de fulgte bilen inn og bar kisten inn på Slottet.",
-        "Kong Haralds båre skal mandag føres gjennom Slottet til Slottskapellet av kong Haralds barn og barnebarn.",
-        "Hoffsjefen ledet kong Haralds båre inn slottsportene fredag kveld."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/du-kan-ta-farvel-med-kongens-bare-fra-tirsdag-1.18008144",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/vpqX3avj4mib_2MyzIUWDAoncUSHeugcGGqfGNR38uIg.jpg",
-      "localImage": "assets/news/8714762f39073e.jpg",
-      "score": 13
-    },
-    {
-      "id": "a169934025fdce",
-      "category": "Norge",
-      "published": "30.08. 17:32",
-      "publishedISO": "2026-08-30T17:32:32+02:00",
-      "title": "Heldig er den nasjonen som har ei slik kongemor",
-      "summary": "Heldig er den som har ein makker gjennom eit heilt liv, og det hadde kong Harald. Heldig er den nasjonen som blir representert av ei slik dronning. Heldig er den nasjonen som har hatt eit slikt kongepar.",
-      "keyPoints": [
-        "Heldig er den nasjonen som blir representert av ei slik dronning.",
-        "Heldig er den som har ein makker gjennom eit heilt liv, og det hadde kong Harald.",
-        "Heldig er den nasjonen som har hatt eit slikt kongepar.",
-        "Dronning Sonja har gjennom heile kong Harald si regjeringstid fungert som ein likestilt medspelar og ein viktig arkitekt bak det moderne dronningoppdraget."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ytring/heldig-er-den-nasjonen-som-har-ei-slik-kongemor-1.18008171",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/D1hoBBgE2WVW7RbCqtNoZg--oPOK4Y83J6zv5qDrfd9Q.jpg",
-      "localImage": "assets/news/a169934025fdce.jpg",
       "score": 13
     }
   ]
