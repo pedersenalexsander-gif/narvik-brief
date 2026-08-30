@@ -1,29 +1,8 @@
 {
-  "updatedAt": "30.08.2026 kl. 23:21",
-  "updatedISO": "2026-08-30T23:21:28.529577+02:00",
+  "updatedAt": "30.08.2026 kl. 23:36",
+  "updatedISO": "2026-08-30T23:36:55.417037+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "3fa0da869318c5",
-      "category": "Nord-Norge",
-      "published": "30.08. 13:24",
-      "publishedISO": "2026-08-30T13:24:48+02:00",
-      "title": "Helmersen får spissplassen mot Rosenborg",
-      "summary": "Andreas Helmersen får spissplassen når serieleder Bodø/Glimt møter Rosenborg på Aspmyra søndag. Helmersen har scoret seks mål i Eliteserien denne sesongen og får Ola Brynhildsen og Jens Petter Hauge med seg i angrepet. Nikita Haikin – Fredrik Sjøvold, Villads Nielsen, Odin Bjørtuft, Fredrik André Bjørkan – Sondre Auklend, Patrick Berg, Sondre Brunstad Fet – Ola Brynhildsen, Andreas Helmersen og Jens Petter Hauge.",
-      "keyPoints": [
-        "Andreas Helmersen får spissplassen når serieleder Bodø/Glimt møter Rosenborg på Aspmyra søndag.",
-        "Helmersen har scoret seks mål i Eliteserien denne sesongen og får Ola Brynhildsen og Jens Petter Hauge med seg i angrepet.",
-        "Nikita Haikin – Fredrik Sjøvold, Villads Nielsen, Odin Bjørtuft, Fredrik André Bjørkan – Sondre Auklend, Patrick Berg, Sondre Brunstad Fet – Ola Brynhildsen, Andreas Helmersen og Jens Petter Hauge.",
-        "Rosenborg hjalp samtidig Glimt tilbake på tabelltoppen da trønderne slo Viking i forrige serierunde."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/helmersen-far-spissplassen-mot-rosenborg-1.18007975",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OLJlF-05yeE0ml0m_4SHzgqWQMBJ3sjBiZZwm64_x4Ug.jpg",
-      "localImage": "assets/news/3fa0da869318c5.jpg",
-      "score": 12
-    },
     {
       "id": "4984ba322d4b89",
       "category": "Norge",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/81eX-y5woWQzMPVa-NfNkA7c5Try_okNLcFKsi91PKhw.jpg",
       "localImage": "assets/news/6db19037f84e98.jpg",
+      "score": 13
+    },
+    {
+      "id": "1f41ffbcc2db65",
+      "category": "Økonomi",
+      "published": "30.08. 18:54",
+      "publishedISO": "2026-08-30T18:54:39+02:00",
+      "title": "Kong Haralds gravferd blir onsdag 9. september",
+      "summary": "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01. Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII. Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
+      "keyPoints": [
+        "Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
+        "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01.",
+        "Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII.",
+        "Kong Haralds kiste vil trolig også fraktes fra Slottet til Oslo domkirke gjennom Karl Johans gate."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/430M5a/kong-haralds-gravferd-blir-9-september",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/71f55558-e3f8-3ecf-926c-8e9343a07e46?fit=crop&h=675&upscale=true&w=1200&s=ec036d0bf5a82d89584206953eacc8cbe9c36d4e",
+      "localImage": "assets/news/1f41ffbcc2db65.jpg",
       "score": 13
     }
   ]
