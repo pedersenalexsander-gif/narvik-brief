@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 02:08",
-  "updatedISO": "2026-08-30T02:08:20.344514+02:00",
+  "updatedAt": "30.08.2026 kl. 02:22",
+  "updatedISO": "2026-08-30T02:22:15.439542+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,24 +130,24 @@
       "score": 14
     },
     {
-      "id": "1bc717997eb100",
+      "id": "0a88e382c6ee1c",
       "category": "Norge",
       "published": "30.08. 01:22",
       "publishedISO": "2026-08-30T01:22:24+02:00",
       "title": "EU-dramaet på Island: Opptellingen er i gang",
-      "summary": "Skal Island ta opp igjen forhandlingene om å bli medlem i EU? Nei-siden på Island frykter å miste råderett over egne naturressurser. Det er til sammen rundt 270.000 stemmeberettigede på Island.",
+      "summary": "Skal Island ta opp igjen forhandlingene om å bli medlem i EU? Opptellingen etter folkeavstemningen på Island følges med argusøyne etter at valglokalene stengte midnatt norsk tid. Det er til sammen rundt 270.000 stemmeberettigede på Island.",
       "keyPoints": [
+        "Opptellingen etter folkeavstemningen på Island følges med argusøyne etter at valglokalene stengte midnatt norsk tid.",
         "Det er til sammen rundt 270.000 stemmeberettigede på Island.",
         "Skal Island ta opp igjen forhandlingene om å bli medlem i EU?",
-        "Nei-siden på Island frykter å miste råderett over egne naturressurser.",
-        "Spørsmålet på stemmeseddelen i dag er kort og handler kun om Island skal gjenoppta forhandlingene om EU-medlemskap."
+        "Nei-siden på Island frykter å miste råderett over egne naturressurser."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DUL96tk7itITQ8Le4DEVWQvspPLhRQjyySz1BTD0p8sQ.jpg",
-      "localImage": "assets/news/1bc717997eb100.jpg",
+      "localImage": "assets/news/0a88e382c6ee1c.jpg",
       "score": 13
     },
     {
