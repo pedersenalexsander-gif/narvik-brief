@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 01:21",
-  "updatedISO": "2026-08-31T01:21:43.012101+02:00",
+  "updatedAt": "31.08.2026 kl. 01:36",
+  "updatedISO": "2026-08-31T01:36:54.999098+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,27 +130,6 @@
       "score": 13
     },
     {
-      "id": "288d1fa12f4cbd",
-      "category": "Norge",
-      "published": "30.08. 20:26",
-      "publishedISO": "2026-08-30T20:26:07+02:00",
-      "title": "Kong Haakon viste sin tro i sin første tale",
-      "summary": "Kong Haakon VIIIs første tale hadde religiøst tilsnitt. Sjefredaktøren i Norges eldste kristne dagsavis setter stor pris på at Hans Majestet Kong Haakon VIII pekte på Gud i sin aller første tale: – Det er jo en klar kristen oppfatning at man kan be om Guds hjelp i alle oppgaver. Venninnene NRK møter ved den blå steinen i Bergen, tenker at det er helt greit at Kong Haakon nevnte Gud i sin tale:– Jeg syns det er greit, sier Celine Victoria Berntsen.– Han må få tro det han vil, selv om han er konge, sier Andrine Hatlen Juvik.– Tenker det er greit.",
-      "keyPoints": [
-        "Sjefredaktøren i Norges eldste kristne dagsavis setter stor pris på at Hans Majestet Kong Haakon VIII pekte på Gud i sin aller første tale: – Det er jo en klar kristen oppfatning at man kan be om Guds hjelp i alle oppgaver.",
-        "Venninnene NRK møter ved den blå steinen i Bergen, tenker at det er helt greit at Kong Haakon nevnte Gud i sin tale:– Jeg syns det er greit, sier Celine Victoria Berntsen.– Han må få tro det han vil, selv om han er konge, sier Andrine Hatlen Juvik.– Tenker det er greit.",
-        "Kong Haakon VIIIs første tale hadde religiøst tilsnitt.",
-        "Jeg ber om at vi alle samles om det gamle ønsket: Slik avslutta Kong Hakon VIII den første talen til nasjonen han holdt som regent. – Jeg synes det var veldig sterkt av kong Haakon å nevne Gud i talen sin, sier Vebjørn Selbekk."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/kong-haakon-viste-sin-tro-i-sin-forste-tale-1.18008011",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6Hf1AryEsCG0EOBSfjH9lAR_h9LyWHAOpg1GLlP0XUzA",
-      "localImage": "assets/news/288d1fa12f4cbd.webp",
-      "score": 13
-    },
-    {
       "id": "6d793c8a9226f7",
       "category": "Norge",
       "published": "30.08. 01:22",
@@ -170,6 +149,27 @@
       "image": "https://gfx.nrk.no/FsXHU_y_qE5C9JAMIreUZQVinmFIjBpuP0IY5Fbog0vw.jpg",
       "localImage": "assets/news/6d793c8a9226f7.jpg",
       "score": 13
+    },
+    {
+      "id": "288d1fa12f4cbd",
+      "category": "Norge",
+      "published": "30.08. 20:26",
+      "publishedISO": "2026-08-30T20:26:07+02:00",
+      "title": "Kong Haakon viste sin tro i sin første tale",
+      "summary": "Kong Haakon VIIIs første tale hadde religiøst tilsnitt. Sjefredaktøren i Norges eldste kristne dagsavis setter stor pris på at Hans Majestet Kong Haakon VIII pekte på Gud i sin aller første tale: – Det er jo en klar kristen oppfatning at man kan be om Guds hjelp i alle oppgaver. Venninnene NRK møter ved den blå steinen i Bergen, tenker at det er helt greit at Kong Haakon nevnte Gud i sin tale:– Jeg syns det er greit, sier Celine Victoria Berntsen.– Han må få tro det han vil, selv om han er konge, sier Andrine Hatlen Juvik.– Tenker det er greit.",
+      "keyPoints": [
+        "Sjefredaktøren i Norges eldste kristne dagsavis setter stor pris på at Hans Majestet Kong Haakon VIII pekte på Gud i sin aller første tale: – Det er jo en klar kristen oppfatning at man kan be om Guds hjelp i alle oppgaver.",
+        "Venninnene NRK møter ved den blå steinen i Bergen, tenker at det er helt greit at Kong Haakon nevnte Gud i sin tale:– Jeg syns det er greit, sier Celine Victoria Berntsen.– Han må få tro det han vil, selv om han er konge, sier Andrine Hatlen Juvik.– Tenker det er greit.",
+        "Kong Haakon VIIIs første tale hadde religiøst tilsnitt.",
+        "Jeg ber om at vi alle samles om det gamle ønsket: Slik avslutta Kong Hakon VIII den første talen til nasjonen han holdt som regent. – Jeg synes det var veldig sterkt av kong Haakon å nevne Gud i talen sin, sier Vebjørn Selbekk."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/stor-oslo/kong-haakon-viste-sin-tro-i-sin-forste-tale-1.18008011",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/6Hf1AryEsCG0EOBSfjH9lAR_h9LyWHAOpg1GLlP0XUzA",
+      "localImage": "assets/news/288d1fa12f4cbd.webp",
+      "score": 12
     },
     {
       "id": "6db19037f84e98",
