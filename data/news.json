@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 19:21",
-  "updatedISO": "2026-08-30T19:21:51.042162+02:00",
+  "updatedAt": "30.08.2026 kl. 19:36",
+  "updatedISO": "2026-08-30T19:36:44.187766+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,6 +172,27 @@
       "score": 13
     },
     {
+      "id": "942be48817ae4f",
+      "category": "Norge",
+      "published": "30.08. 16:53",
+      "publishedISO": "2026-08-30T16:53:20+02:00",
+      "title": "Tromsø mot Sarpsborg 08 på Romssa Arena: Hedrer kong Harald før kampstart",
+      "summary": "Søndag ble kong Harald hedret av spillere og supportere på Romssa Arena. Etter tolv minutter mot Sarpsborg trodde 24-åringen at han hadde sendt Tromsø i føringen etter en forsvarstabbe. Keeper Leander Øy med en redning under eliteseriekampen mellom Tromsø og Sarpsborg 08 på Romssa Arena.",
+      "keyPoints": [
+        "Keeper Leander Øy med en redning under eliteseriekampen mellom Tromsø og Sarpsborg 08 på Romssa Arena.",
+        "Søndag ble kong Harald hedret av spillere og supportere på Romssa Arena.",
+        "Etter tolv minutter mot Sarpsborg trodde 24-åringen at han hadde sendt Tromsø i føringen etter en forsvarstabbe.",
+        "Det ble lagt opp til en felles markering for kong Harald i både Eliteserien og 1. divisjon for menn, som hadde flere kamper på programmet søndag."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/tromso-mot-sarpsborg-08-pa-romssa-arena_-hedrer-kong-harald-for-kampstart-1.18006471",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/NV6qcHgVXOvPR1joVrFIZA6UMMj0Iql_xS-Lha3v9dnA.jpg",
+      "localImage": "assets/news/942be48817ae4f.jpg",
+      "score": 13
+    },
+    {
       "id": "452007f76d9c81",
       "category": "Norge",
       "published": "30.08. 16:45",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/TFKcStyqdfqI8dken86WcwuXVtuwYfoC-_dyBDn1bAKg.jpg",
       "localImage": "assets/news/452007f76d9c81.jpg",
-      "score": 13
-    },
-    {
-      "id": "c24f7d36b67f48",
-      "category": "Norge",
-      "published": "30.08. 16:29",
-      "publishedISO": "2026-08-30T16:29:14+02:00",
-      "title": "Bil har kjørt inn i bensinstasjon",
-      "summary": "Ingen personer ble skadet da en bil kjørte inn i en bensinstasjon i Bamble. Det var rundt 20-30 personer i butikken da ulykken skjedde, ifølge politiet. – Det er bare flaks at det har gått så bra, at bilen ikke har kjørt over noen, sier Tellefsen. Kjetil Foyn, leder for marketing og kommunikasjon i Circle K Norge, sier til VG at butikken er foreløpig stengt, men at det er mulig å lade og fylle drivstoff. – De ansatte på stasjonen har håndtert situasjonen godt og i tråd med våre prosedyrer, og vi samarbeider nå med politiet og nødetatene, sier Foyn til VG.",
-      "keyPoints": [
-        "Det var rundt 20-30 personer i butikken da ulykken skjedde, ifølge politiet. – Det er bare flaks at det har gått så bra, at bilen ikke har kjørt over noen, sier Tellefsen.",
-        "Ingen personer ble skadet da en bil kjørte inn i en bensinstasjon i Bamble.",
-        "Kjetil Foyn, leder for marketing og kommunikasjon i Circle K Norge, sier til VG at butikken er foreløpig stengt, men at det er mulig å lade og fylle drivstoff. – De ansatte på stasjonen har håndtert situasjonen godt og i tråd med våre prosedyrer, og vi samarbeider nå med politiet og nødetatene, sier Foyn til VG.",
-        "STORE SKADER: Bensinstasjonen har fått store skader etter ulykken."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/bil-har-kjort-inn-i-bensinstasjon-1.18008201",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/kKkagnDnqzMuVi4f2OSmPQn5CAcY37a84YPVbuv5gJuw.jpg",
-      "localImage": "assets/news/c24f7d36b67f48.webp",
       "score": 13
     }
   ]
