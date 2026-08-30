@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 14:07",
-  "updatedISO": "2026-08-30T14:07:17.289651+02:00",
+  "updatedAt": "30.08.2026 kl. 14:21",
+  "updatedISO": "2026-08-30T14:21:40.954255+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/99c85c33-2c34-3b49-82eb-c5fc74f3dbc2?fit=crop&h=675&upscale=true&w=1200&s=5e25a0f725993136f5c55e664307d6347450759b",
       "localImage": "assets/news/dcf05c435a6afb.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "a9120ff9cb9c72",
@@ -114,12 +114,12 @@
       "published": "30.08. 13:14",
       "publishedISO": "2026-08-30T13:14:39+02:00",
       "title": "Passasjerbåt med 267 ombord har sunket utenfor Kypros",
-      "summary": "Båten kantret og sank bare få kilometer etter at den var lagt fra kai. Redningsarbeidet er i gang etter at en passasjerbåt sank utenfor Kypros. Båten skal ha kantret omtrent to kilometer nord for kysten av Kyrenia i morges, skriver lokale medier.",
+      "summary": "Redningsarbeidet er i gang etter at en passasjerbåt sank utenfor Kypros. Båten kantret omtrent to kilometer nord for kysten av Kyrenia i morges, skriver lokale medier. Medregnet besetningen, så var det totalt 267 mennesker ombord.",
       "keyPoints": [
         "Redningsarbeidet er i gang etter at en passasjerbåt sank utenfor Kypros.",
-        "Båten skal ha kantret omtrent to kilometer nord for kysten av Kyrenia i morges, skriver lokale medier.",
-        "Båten kantret og sank bare få kilometer etter at den var lagt fra kai.",
-        "Avisen Kibris skriver at båten var begynt å ta inn vann etter at den forlot kai."
+        "Medregnet besetningen, så var det totalt 267 mennesker ombord.",
+        "Båten kantret omtrent to kilometer nord for kysten av Kyrenia i morges, skriver lokale medier.",
+        "Hendelsen skjedde i den tyrkisk-okkuperte delen av Kypros."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
