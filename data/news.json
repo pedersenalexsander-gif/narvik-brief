@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 15:51",
-  "updatedISO": "2026-08-30T15:51:41.790964+02:00",
+  "updatedAt": "30.08.2026 kl. 16:07",
+  "updatedISO": "2026-08-30T16:07:05.407286+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,6 +109,27 @@
       "score": 15
     },
     {
+      "id": "26d105a7b8ce3c",
+      "category": "Norge",
+      "published": "30.08. 15:51",
+      "publishedISO": "2026-08-30T15:51:33+02:00",
+      "title": "Kong Harald fekk sin siste laks i Lærdalselvi i juni i 2026",
+      "summary": "Fisketuren i Lærdalselvi vart hans siste. – Den dagen var han i veldig godt humør, seier Sigmund Hjermann. Så gjekk han på land og tok ein pause, mens vi andre fekk to laks til, seier Rolf Jerving. Det var i Lærdalselvi kongen tok sin første laks for 73 år sidan, på 4,5 kilo.",
+      "keyPoints": [
+        "Fisketuren i Lærdalselvi vart hans siste. – Den dagen var han i veldig godt humør, seier Sigmund Hjermann.",
+        "Så gjekk han på land og tok ein pause, mens vi andre fekk to laks til, seier Rolf Jerving.",
+        "Det var i Lærdalselvi kongen tok sin første laks for 73 år sidan, på 4,5 kilo.",
+        "Fiskelaget hadde lov til å ta tre laks, som alle skulle til villakssenteret. – Kongen fekk den første."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/kong-harald-fekk-sin-siste-laks-i-laerdalselvi-i-juni-i-2026-1.18006433",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ChGhBwT1X4NftbT0-XX31QSX1VJElWqDQHuFzQ_iEMJQ.png",
+      "localImage": "assets/news/26d105a7b8ce3c.png",
+      "score": 13
+    },
+    {
       "id": "495da39f410ad1",
       "category": "Norge",
       "published": "30.08. 15:34",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1c5e1202-a2f9-35a3-89b8-b7686f98ae6a?fit=crop&h=675&upscale=true&w=1200&s=45efb05d6c475bd41b288b8a683bc632e3780fd3",
       "localImage": "assets/news/ea31473d272df5.jpg",
-      "score": 13
-    },
-    {
-      "id": "7ef6f1d7ad49e6",
-      "category": "Norge",
-      "published": "29.08. 17:55",
-      "publishedISO": "2026-08-29T17:55:50+02:00",
-      "title": "Kong Haakon tok imot statsministeren til syning",
-      "summary": "Kong Haakon og kronprinsesse Ingrid Alexandra tok imot statsminister Jonas Gahr Støre til syning av kong Haralds båre i dag. – Eg syntest det var ei verdig markering. Det gjer djupt inntrykk å sjå den avdøde kongen, men samtidig var det veldig naturleg og varmt og fint, seier statsministeren til NRK etter syninga. Den representerer regjeringas markering av overgangen frå avdøde kong Harald V til ny regent, kong Haakon VIII.",
-      "keyPoints": [
-        "Kong Haakon og kronprinsesse Ingrid Alexandra tok imot statsminister Jonas Gahr Støre til syning av kong Haralds båre i dag. – Eg syntest det var ei verdig markering.",
-        "Den representerer regjeringas markering av overgangen frå avdøde kong Harald V til ny regent, kong Haakon VIII.",
-        "Det gjer djupt inntrykk å sjå den avdøde kongen, men samtidig var det veldig naturleg og varmt og fint, seier statsministeren til NRK etter syninga.",
-        "Syning er ein tradisjon i forbinding med eit tronskifte, skriv kongehuset."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/kong-haakon-tok-imot-statsministeren-til-syning-1.18007348",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/7ef6f1d7ad49e6.jpg",
       "score": 13
     }
   ]
