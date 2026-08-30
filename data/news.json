@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 00:06",
-  "updatedISO": "2026-08-31T00:06:46.917033+02:00",
+  "updatedAt": "31.08.2026 kl. 00:21",
+  "updatedISO": "2026-08-31T00:21:37.768439+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -193,25 +193,25 @@
       "score": 13
     },
     {
-      "id": "dcf05c435a6afb",
+      "id": "1f41ffbcc2db65",
       "category": "Økonomi",
-      "published": "29.08. 08:08",
-      "publishedISO": "2026-08-29T08:08:04+02:00",
-      "title": "USA har inngått enorm oljeavtale med Venezuela",
-      "summary": "USA har inngått det den amerikanske presidenten beskriver som «den største oljeavtalen i verdenshistorien» med Venezuela. Hun opplyser på X at det skal investeres mer enn 100 milliarder dollar, og hevder prosjektene vil gi Venezuela over 209 milliarder dollar i skatteinntekter. Ifølge presidenten har utenriksminister Marco Rubio og krigsminister Pete Hegseth ledet forhandlingene på amerikansk side. – Denne transaksjonen vil sette Venezuela på kurs mot enorm suksess og stor velstand, skriver Trump.",
+      "published": "30.08. 18:54",
+      "publishedISO": "2026-08-30T18:54:39+02:00",
+      "title": "Kong Haralds gravferd blir onsdag 9. september",
+      "summary": "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01. Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII. Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
       "keyPoints": [
-        "USA har inngått det den amerikanske presidenten beskriver som «den største oljeavtalen i verdenshistorien» med Venezuela.",
-        "Ifølge presidenten har utenriksminister Marco Rubio og krigsminister Pete Hegseth ledet forhandlingene på amerikansk side. – Denne transaksjonen vil sette Venezuela på kurs mot enorm suksess og stor velstand, skriver Trump.",
-        "Hun opplyser på X at det skal investeres mer enn 100 milliarder dollar, og hevder prosjektene vil gi Venezuela over 209 milliarder dollar i skatteinntekter.",
-        "Bloomberg skriver at USA skal kontrollere 55 prosent av den effektive produksjonen fra det nye samarbeidet – og få kjøpe oljen til kostpris."
+        "Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
+        "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01.",
+        "Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII.",
+        "Kong Haralds kiste vil trolig også fraktes fra Slottet til Oslo domkirke gjennom Karl Johans gate."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/n1bz0n/usa-har-inngaatt-enorm-oljeavtale-med-venezuela",
+      "url": "https://e24.no/norsk-oekonomi/i/430M5a/kong-haralds-gravferd-blir-9-september",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/99c85c33-2c34-3b49-82eb-c5fc74f3dbc2?fit=crop&h=675&upscale=true&w=1200&s=5e25a0f725993136f5c55e664307d6347450759b",
-      "localImage": "assets/news/dcf05c435a6afb.jpg",
-      "score": 13
+      "image": "https://akamai.vgc.no/v2/images/71f55558-e3f8-3ecf-926c-8e9343a07e46?fit=crop&h=675&upscale=true&w=1200&s=ec036d0bf5a82d89584206953eacc8cbe9c36d4e",
+      "localImage": "assets/news/1f41ffbcc2db65.jpg",
+      "score": 12
     }
   ]
 }
