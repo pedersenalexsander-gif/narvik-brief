@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 21:06",
-  "updatedISO": "2026-08-30T21:06:52.527932+02:00",
+  "updatedAt": "30.08.2026 kl. 21:21",
+  "updatedISO": "2026-08-30T21:21:53.639658+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,17 +109,59 @@
       "score": 14
     },
     {
+      "id": "07910d209e155c",
+      "category": "Norge",
+      "published": "30.08. 21:18",
+      "publishedISO": "2026-08-30T21:18:33+02:00",
+      "title": "KV Svalbard markerte kongens bortgang på Nordpolen",
+      "summary": "Midt i isødet mottok besetningen på KV Svalbard beskjeden om Kongens bortgang. Valget om å gå de siste 60 milene frem til polpunktet handlet både om oppdraget og om å ære Kongens minne. — Vi var så heldige at vi fikk møte ham i sommer ved å følge fartøyet hans da han var på Bjørnøya og Svalbard. Skipssjef Geir-Martin Leinebø valgte å fullføre forskningsoppdraget mot polpunktet — Med det inntrykket vi fikk av ham da, er jeg overbevist om at han ville at vi skulle fortsette oppdraget. — Det er viktig at Kystvakta viser flagget også på Nordpolen.",
+      "keyPoints": [
+        "Valget om å gå de siste 60 milene frem til polpunktet handlet både om oppdraget og om å ære Kongens minne. — Vi var så heldige at vi fikk møte ham i sommer ved å følge fartøyet hans da han var på Bjørnøya og Svalbard.",
+        "Midt i isødet mottok besetningen på KV Svalbard beskjeden om Kongens bortgang.",
+        "Skipssjef Geir-Martin Leinebø valgte å fullføre forskningsoppdraget mot polpunktet — Med det inntrykket vi fikk av ham da, er jeg overbevist om at han ville at vi skulle fortsette oppdraget. — Det er viktig at Kystvakta viser flagget også på Nordpolen.",
+        "Skipssjef og orlogskaptein Geir-Martin Leinebø sammen med toktsleder Hanne Sagen fra Nansensenteret — Da var vi på vei opp mot Nordpolen da vi fikk den tragiske beskjeden om at han var gått bort."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/kv-svalbard-markerte-kongens-bortgang-pa-nordpolen-1.18008396",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/9I9IUMLYa1Fc-AkqvR1SqAATsSzI7GS0Uru3IFa_j_kw.jpg",
+      "localImage": "assets/news/07910d209e155c.jpg",
+      "score": 13
+    },
+    {
+      "id": "f7ab5668b43b6e",
+      "category": "Norge",
+      "published": "30.08. 21:02",
+      "publishedISO": "2026-08-30T21:02:08+02:00",
+      "title": "Støre på Slottsplassen: – Det skjer noe spesielt mellom nordmenn her",
+      "summary": "Det sier en åpenbart rørt Jonas Gahr Støre på Slottsplassen søndag kveld. Overfor NRK skildrer han en stemning helt ulik noe annet han har vært borti. Han sier han blir spesielt rørt av lengden og innholdet i flere av brevene. – Det er lange hilsener fra både voksne og barn som vet at de ikke vil bli lest av den de er lagt igjen til – og allikevel har de fått glede av å skrive brevene, sier Støre. – Slottsplassen har vært et samlingspunkt for folk flere ganger denne sommeren.",
+      "keyPoints": [
+        "Han sier han blir spesielt rørt av lengden og innholdet i flere av brevene. – Det er lange hilsener fra både voksne og barn som vet at de ikke vil bli lest av den de er lagt igjen til – og allikevel har de fått glede av å skrive brevene, sier Støre. – Slottsplassen har vært et samlingspunkt for folk flere ganger denne sommeren.",
+        "Det sier en åpenbart rørt Jonas Gahr Støre på Slottsplassen søndag kveld.",
+        "Overfor NRK skildrer han en stemning helt ulik noe annet han har vært borti.",
+        "Vi var overrasket over at det var mulig å samle 100.000 her under VM – men da satt kronprinsen, nå kongen vår, og rodde sammen med oss: – Dette har skapt et fellesskap mellom oss."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/store-pa-slottsplassen_-_-det-skjer-noe-spesielt-mellom-nordmenn-her-1.18008444",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/fXtxdvKTcDsBgXWtMxzvJAckS-KDlNa2P9Kj3FmufTGQ.jpg",
+      "localImage": "assets/news/f7ab5668b43b6e.jpg",
+      "score": 13
+    },
+    {
       "id": "4b2d8e45062875",
       "category": "Norge",
       "published": "30.08. 20:47",
       "publishedISO": "2026-08-30T20:47:48+02:00",
       "title": "Truls Gulowsen trekker seg som leiar i Naturvernforbundet",
-      "summary": "Bakgrunnen er at eit knapt fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar. Han har vore leiar for organisasjonen i fem år. – Det er trist og ikkje ei avslutning eg ønska, skriv han. Gulowsen viser mellom anna til friksjon mellom han og tilsette i organisasjonen. – Fram til i dag har eg vore sikker på at arbeidsmiljøutfordringane i sekretariatet har vore moglege å løyse gjennom betre samtalar, klarare interne prosessar og etablering av ein normal tilbakemeldingskultur, skriv Gulowsen.",
+      "summary": "Bakgrunnen er at eit knapt fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar. Gulowsen viser mellom anna til friksjon mellom han og tilsette i organisasjonen. – Fram til i dag har eg vore sikker på at arbeidsmiljøutfordringane i sekretariatet har vore moglege å løyse gjennom betre samtalar, klarare interne prosessar og etablering av ein normal tilbakemeldingskultur, skriv Gulowsen på Facebook. Han meiner det er vanleg at det blir friksjon mellom tilsette og tillitsvalde i ein organisasjon. – Slik er det også i Naturvernforbundet, og det tenker eg er ein sunn dynamikk som ein bør kunne handtere på ein god måte, men som vi ikkje har klart på ein god nok måte no.",
       "keyPoints": [
         "Bakgrunnen er at eit knapt fleirtal i Naturvernforbundet sitt landsstyre ikkje lenger har tillit til han som leiar.",
-        "Gulowsen viser mellom anna til friksjon mellom han og tilsette i organisasjonen. – Fram til i dag har eg vore sikker på at arbeidsmiljøutfordringane i sekretariatet har vore moglege å løyse gjennom betre samtalar, klarare interne prosessar og etablering av ein normal tilbakemeldingskultur, skriv Gulowsen.",
-        "Han har vore leiar for organisasjonen i fem år. – Det er trist og ikkje ei avslutning eg ønska, skriv han.",
-        "NATURVERNAR: Gulowsen har markert seg i fleire natur- og miljøsaker."
+        "Han meiner det er vanleg at det blir friksjon mellom tilsette og tillitsvalde i ein organisasjon. – Slik er det også i Naturvernforbundet, og det tenker eg er ein sunn dynamikk som ein bør kunne handtere på ein god måte, men som vi ikkje har klart på ein god nok måte no.",
+        "Gulowsen viser mellom anna til friksjon mellom han og tilsette i organisasjonen. – Fram til i dag har eg vore sikker på at arbeidsmiljøutfordringane i sekretariatet har vore moglege å løyse gjennom betre samtalar, klarare interne prosessar og etablering av ein normal tilbakemeldingskultur, skriv Gulowsen på Facebook.",
+        "Han har vore leiar for organisasjonen i fem år. – Det er trist og ikkje ei avslutning eg ønska, skriv han."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/OYiY3IbiSqYf7yo9rlMDDQSG-PFTKBivTQbtcTjp2Exw.jpg",
       "localImage": "assets/news/908cc1034c8aad.jpg",
-      "score": 13
-    },
-    {
-      "id": "6db19037f84e98",
-      "category": "Norge",
-      "published": "30.08. 19:42",
-      "publishedISO": "2026-08-30T19:42:08+02:00",
-      "title": "Biskopen i Nidaros: – Kongen med omsorgshjertet",
-      "summary": "Flukten fra Norge til Amerika som 3-åring ga kong Harald en erfaring mange andre i landet deler, sa biskopen i Nidarosdomen. BISKOPEN MINTES KONGEN: Biskop i Nidaros bispedømme, Herborg Finnset, talte under sørgegudstjenesten i Nidarosdomen søndag ettermiddag. – De siste dagene har vi lagt ned blomster og tent lys. Det sa biskop i Nidaros bispedømme, Herborg Finnset, under den nasjonale sørgegudstjenesten i Nidarosdomen søndag ettermiddag.",
-      "keyPoints": [
-        "BISKOPEN MINTES KONGEN: Biskop i Nidaros bispedømme, Herborg Finnset, talte under sørgegudstjenesten i Nidarosdomen søndag ettermiddag. – De siste dagene har vi lagt ned blomster og tent lys.",
-        "Flukten fra Norge til Amerika som 3-åring ga kong Harald en erfaring mange andre i landet deler, sa biskopen i Nidarosdomen.",
-        "Det kom biskopen inn på under gudstjenesten. – Kallet til kongegjerninga gir en særlig gjenklang i dette kirkerommet hvor dronning Sonja og kong Harald sammen ble signet til sin oppgave og kall som nasjonens kongepar.",
-        "Biskop Herborg Finnset sa at kong Harald delte erfaring med mange, da han måtte reise fra landet sammen med moren og søstrene i 1940. – En liten 3 åring i en rød og hvitrutet strikkegenser."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/biskopen-i-nidaros_-_-kongen-med-omsorgshjertet-1.18008268",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/81eX-y5woWQzMPVa-NfNkA7c5Try_okNLcFKsi91PKhw.jpg",
-      "localImage": "assets/news/6db19037f84e98.jpg",
-      "score": 13
-    },
-    {
-      "id": "1f41ffbcc2db65",
-      "category": "Økonomi",
-      "published": "30.08. 18:54",
-      "publishedISO": "2026-08-30T18:54:39+02:00",
-      "title": "Kong Haralds gravferd blir onsdag 9. september",
-      "summary": "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01. Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII. Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
-      "keyPoints": [
-        "Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
-        "På gravferdsdagen blir kong Harald minnet med ett minutts stillhet over hele landet, fra klokken 13 til 13.01.",
-        "Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII.",
-        "Kong Haralds kiste vil trolig også fraktes fra Slottet til Oslo domkirke gjennom Karl Johans gate."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/430M5a/kong-haralds-gravferd-blir-9-september",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/71f55558-e3f8-3ecf-926c-8e9343a07e46?fit=crop&h=675&upscale=true&w=1200&s=ec036d0bf5a82d89584206953eacc8cbe9c36d4e",
-      "localImage": "assets/news/1f41ffbcc2db65.jpg",
       "score": 13
     }
   ]
