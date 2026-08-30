@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 16:51",
-  "updatedISO": "2026-08-30T16:51:29.565941+02:00",
+  "updatedAt": "30.08.2026 kl. 17:06",
+  "updatedISO": "2026-08-30T17:06:36.722695+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,6 +151,27 @@
       "score": 13
     },
     {
+      "id": "c24f7d36b67f48",
+      "category": "Norge",
+      "published": "30.08. 16:29",
+      "publishedISO": "2026-08-30T16:29:14+02:00",
+      "title": "Bil har kjørt inn i bensinstasjon",
+      "summary": "Ingen personer ble skadet da en bil kjørte inn i en bensinstasjon i Bamble. Det var rundt 20-30 personer i butikken da ulykken skjedde, ifølge politiet. – Det er bare flaks at det har gått så bra, at bilen ikke har kjørt over noen, sier Tellefsen. Kjetil Foyn, leder for marketing og kommunikasjon i Circle K Norge, sier til VG at butikken er foreløpig stengt, men at det er mulig å lade og fylle drivstoff. – De ansatte på stasjonen har håndtert situasjonen godt og i tråd med våre prosedyrer, og vi samarbeider nå med politiet og nødetatene, sier Foyn til VG.",
+      "keyPoints": [
+        "Det var rundt 20-30 personer i butikken da ulykken skjedde, ifølge politiet. – Det er bare flaks at det har gått så bra, at bilen ikke har kjørt over noen, sier Tellefsen.",
+        "Ingen personer ble skadet da en bil kjørte inn i en bensinstasjon i Bamble.",
+        "Kjetil Foyn, leder for marketing og kommunikasjon i Circle K Norge, sier til VG at butikken er foreløpig stengt, men at det er mulig å lade og fylle drivstoff. – De ansatte på stasjonen har håndtert situasjonen godt og i tråd med våre prosedyrer, og vi samarbeider nå med politiet og nødetatene, sier Foyn til VG.",
+        "STORE SKADER: Bensinstasjonen har fått store skader etter ulykken."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/bil-har-kjort-inn-i-bensinstasjon-1.18008201",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/kKkagnDnqzMuVi4f2OSmPQn5CAcY37a84YPVbuv5gJuw.jpg",
+      "localImage": "assets/news/c24f7d36b67f48.webp",
+      "score": 13
+    },
+    {
       "id": "26d105a7b8ce3c",
       "category": "Norge",
       "published": "30.08. 15:51",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/1sRLbNmjwcfhNUIfaaGRqwLeLEpELy_AW3J0eUOSlOaA.jpg",
       "localImage": "assets/news/495da39f410ad1.jpg",
-      "score": 13
-    },
-    {
-      "id": "a9120ff9cb9c72",
-      "category": "Økonomi",
-      "published": "30.08. 13:52",
-      "publishedISO": "2026-08-30T13:52:24+02:00",
-      "title": "Sorg i kong Haralds «andre hjem»: – Følte han var deres konge",
-      "summary": "Kong Harald har selv sagt at USA hadde en «spesiell plass i hjertet mitt», og kalte USA sitt andre hjem. Han følte derimot at han hadde forlatt sitt hjem, har kong Harald fortalt. «Jeg husket jo ikke noe fra Norge, jeg visste ikke om noe annet hjem enn Pook’s Hill», sa han i biografien «Harald V» av Per Egil Hegge. I sine roller som Norges minister i fire ulike poster og Arbeiderparti-politiker møtte hun kong Harald mange ganger: Til ukentlig audiensEt formelt møte med en viktig person, som en konge eller dronning. om utenrikspolitikk, under lange reiser og hyggelige middager, som til OL i Vancouver, og i krise og sorg på Sundvolden 22. juli.",
-      "keyPoints": [
-        "Han følte derimot at han hadde forlatt sitt hjem, har kong Harald fortalt. «Jeg husket jo ikke noe fra Norge, jeg visste ikke om noe annet hjem enn Pook’s Hill», sa han i biografien «Harald V» av Per Egil Hegge.",
-        "Kong Harald har selv sagt at USA hadde en «spesiell plass i hjertet mitt», og kalte USA sitt andre hjem.",
-        "I sine roller som Norges minister i fire ulike poster og Arbeiderparti-politiker møtte hun kong Harald mange ganger: Til ukentlig audiensEt formelt møte med en viktig person, som en konge eller dronning. om utenrikspolitikk, under lange reiser og hyggelige middager, som til OL i Vancouver, og i krise og sorg på Sundvolden 22. juli.",
-        "Da Harald kom til kaien på Akershus festning som åtteåring med amerikansk aksent, spurte han kronprinsesse Märtha: Han følte ikke at han hadde kommet hjem."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/16dKXG/sorg-i-kong-haralds-andre-hjem-usa-foelte-han-var-deres-konge",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/88fe3338-a5ff-39c8-b948-b6bad6ccb2e2?fit=crop&h=675&upscale=true&w=1200&s=22b7f31c6e46421a135ae460b00affcaf7a7e613",
-      "localImage": "assets/news/a9120ff9cb9c72.jpg",
       "score": 13
     }
   ]
