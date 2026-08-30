@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.08.2026 kl. 18:51",
-  "updatedISO": "2026-08-30T18:51:43.246317+02:00",
+  "updatedAt": "30.08.2026 kl. 19:06",
+  "updatedISO": "2026-08-30T19:06:44.950422+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,6 +43,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/yrmegw911Z5REWBQ3-7LKwuFnLJBu23dLAauCnFqIoPQ.jpg",
       "localImage": "assets/news/4984ba322d4b89.jpg",
+      "score": 16
+    },
+    {
+      "id": "f3205df64767a7",
+      "category": "Økonomi",
+      "published": "30.08. 18:57",
+      "publishedISO": "2026-08-30T18:57:21+02:00",
+      "title": "EU truer med Kina-grep: – Må snart vise handling",
+      "summary": "Det er altså ikke bare USA som truer med handelstiltak mot det som kalles «strukturell overkapasitetNår et land produserer mer av en vare enn det er etterspørsel etter, noe som kan føre til lavere priser og økonomiske problemer». Bakgrunnen er et handelsunderskudd i EU med Kina på 359,8 milliarder euro i fjor – nær én milliard euro om dagen. Kinesiske handelsmyndigheter opplyste i sommer at arbeidsgruppene hadde gjennomført mer enn 20 konsultasjoner, at forhandlingslederne hadde hatt to digitale forhandlingsrunder, og at handelskommissær Maroš Šefčovič og Kinas handelsminister Wang Wentao hadde holdt nær kontakt.",
+      "keyPoints": [
+        "Det er altså ikke bare USA som truer med handelstiltak mot det som kalles «strukturell overkapasitetNår et land produserer mer av en vare enn det er etterspørsel etter, noe som kan føre til lavere priser og økonomiske problemer».",
+        "Kinesiske handelsmyndigheter opplyste i sommer at arbeidsgruppene hadde gjennomført mer enn 20 konsultasjoner, at forhandlingslederne hadde hatt to digitale forhandlingsrunder, og at handelskommissær Maroš Šefčovič og Kinas handelsminister Wang Wentao hadde holdt nær kontakt.",
+        "Bakgrunnen er et handelsunderskudd i EU med Kina på 359,8 milliarder euro i fjor – nær én milliard euro om dagen.",
+        "For presset har fortsatt inn i 2026: I første kvartal hadde EU et underskudd i varehandelen med Kina på 98 milliarder euro, det høyeste siden 2022."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/pBV8W1/eu-truer-med-kina-grep-maa-snart-vise-handling",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/afce6347-eb27-3bf7-8db7-1968fd4b5010?fit=crop&h=675&upscale=true&w=1200&s=590a1e94d651b136c018d6123d3fa9ac0841adec",
+      "localImage": "assets/news/f3205df64767a7.jpg",
       "score": 17
     },
     {
@@ -67,6 +88,27 @@
       "score": 17
     },
     {
+      "id": "6d793c8a9226f7",
+      "category": "Norge",
+      "published": "30.08. 01:22",
+      "publishedISO": "2026-08-30T01:22:24+02:00",
+      "title": "EU-dramaet på Island: Opptellingen er i gang",
+      "summary": "Det er til sammen rundt 270.000 stemmeberettigede på Island. António Costa, preisdent for Det europeiske råd, sier via en talsperson at han respekterer den demokratiske prosessen og islendernes valg om å holde seg ute av EU. – Island forblir en nær alliert av Den europeiske union, fortsetter uttalelsen. Dersom Island skulle blitt EU-medlem,hadde maktbalansen i EØS-avtalen blitt endret drastisk: Norge ville blitt sittende igjen alene på EFTA-siden, ettersom Liechtenstein kun har 40.000 innbyggere.",
+      "keyPoints": [
+        "Det er til sammen rundt 270.000 stemmeberettigede på Island.",
+        "Dersom Island skulle blitt EU-medlem,hadde maktbalansen i EØS-avtalen blitt endret drastisk: Norge ville blitt sittende igjen alene på EFTA-siden, ettersom Liechtenstein kun har 40.000 innbyggere.",
+        "António Costa, preisdent for Det europeiske råd, sier via en talsperson at han respekterer den demokratiske prosessen og islendernes valg om å holde seg ute av EU. – Island forblir en nær alliert av Den europeiske union, fortsetter uttalelsen.",
+        "Folk på Island kan avgi sin stemme frem til midnatt norsk tid."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/FsXHU_y_qE5C9JAMIreUZQVinmFIjBpuP0IY5Fbog0vw.jpg",
+      "localImage": "assets/news/6d793c8a9226f7.jpg",
+      "score": 14
+    },
+    {
       "id": "dcf05c435a6afb",
       "category": "Økonomi",
       "published": "29.08. 08:08",
@@ -88,25 +130,25 @@
       "score": 14
     },
     {
-      "id": "6d793c8a9226f7",
-      "category": "Norge",
-      "published": "30.08. 01:22",
-      "publishedISO": "2026-08-30T01:22:24+02:00",
-      "title": "EU-dramaet på Island: Opptellingen er i gang",
-      "summary": "Det er til sammen rundt 270.000 stemmeberettigede på Island. António Costa, preisdent for Det europeiske råd, sier via en talsperson at han respekterer den demokratiske prosessen og islendernes valg om å holde seg ute av EU. – Island forblir en nær alliert av Den europeiske union, fortsetter uttalelsen. Dersom Island skulle blitt EU-medlem,hadde maktbalansen i EØS-avtalen blitt endret drastisk: Norge ville blitt sittende igjen alene på EFTA-siden, ettersom Liechtenstein kun har 40.000 innbyggere.",
+      "id": "1f41ffbcc2db65",
+      "category": "Økonomi",
+      "published": "30.08. 18:54",
+      "publishedISO": "2026-08-30T18:54:39+02:00",
+      "title": "Kong Haralds gravferd blir onsdag 9. september",
+      "summary": "Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII. Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald. Kong Haralds kiste vil trolig også fraktes fra Slottet til Oslo domkirke gjennom Karl Johans gate.",
       "keyPoints": [
-        "Det er til sammen rundt 270.000 stemmeberettigede på Island.",
-        "Dersom Island skulle blitt EU-medlem,hadde maktbalansen i EØS-avtalen blitt endret drastisk: Norge ville blitt sittende igjen alene på EFTA-siden, ettersom Liechtenstein kun har 40.000 innbyggere.",
-        "António Costa, preisdent for Det europeiske råd, sier via en talsperson at han respekterer den demokratiske prosessen og islendernes valg om å holde seg ute av EU. – Island forblir en nær alliert av Den europeiske union, fortsetter uttalelsen.",
-        "Folk på Island kan avgi sin stemme frem til midnatt norsk tid."
+        "Slottskapellet åpner tirsdag 1. september klokken 14 for publikum som ønsker å ta et siste farvel med Kong Harald.",
+        "Det vi vet er at den trolig vil følge tradisjonene fra gravferdene til kong Haralds far kong Olav V og hans farfar kong Haakon VII.",
+        "Kong Haralds kiste vil trolig også fraktes fra Slottet til Oslo domkirke gjennom Karl Johans gate.",
+        "Der vil kong Haralds kiste bli plassert i en sarkofag i det kongelige mauseleoum."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FsXHU_y_qE5C9JAMIreUZQVinmFIjBpuP0IY5Fbog0vw.jpg",
-      "localImage": "assets/news/6d793c8a9226f7.jpg",
-      "score": 14
+      "url": "https://e24.no/norsk-oekonomi/i/430M5a/kong-haralds-gravferd-blir-9-september",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/71f55558-e3f8-3ecf-926c-8e9343a07e46?fit=crop&h=675&upscale=true&w=1200&s=ec036d0bf5a82d89584206953eacc8cbe9c36d4e",
+      "localImage": "assets/news/1f41ffbcc2db65.jpg",
+      "score": 13
     },
     {
       "id": "8714762f39073e",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/TFKcStyqdfqI8dken86WcwuXVtuwYfoC-_dyBDn1bAKg.jpg",
       "localImage": "assets/news/452007f76d9c81.jpg",
-      "score": 13
-    },
-    {
-      "id": "c24f7d36b67f48",
-      "category": "Norge",
-      "published": "30.08. 16:29",
-      "publishedISO": "2026-08-30T16:29:14+02:00",
-      "title": "Bil har kjørt inn i bensinstasjon",
-      "summary": "Ingen personer ble skadet da en bil kjørte inn i en bensinstasjon i Bamble. Det var rundt 20-30 personer i butikken da ulykken skjedde, ifølge politiet. – Det er bare flaks at det har gått så bra, at bilen ikke har kjørt over noen, sier Tellefsen. Kjetil Foyn, leder for marketing og kommunikasjon i Circle K Norge, sier til VG at butikken er foreløpig stengt, men at det er mulig å lade og fylle drivstoff. – De ansatte på stasjonen har håndtert situasjonen godt og i tråd med våre prosedyrer, og vi samarbeider nå med politiet og nødetatene, sier Foyn til VG.",
-      "keyPoints": [
-        "Det var rundt 20-30 personer i butikken da ulykken skjedde, ifølge politiet. – Det er bare flaks at det har gått så bra, at bilen ikke har kjørt over noen, sier Tellefsen.",
-        "Ingen personer ble skadet da en bil kjørte inn i en bensinstasjon i Bamble.",
-        "Kjetil Foyn, leder for marketing og kommunikasjon i Circle K Norge, sier til VG at butikken er foreløpig stengt, men at det er mulig å lade og fylle drivstoff. – De ansatte på stasjonen har håndtert situasjonen godt og i tråd med våre prosedyrer, og vi samarbeider nå med politiet og nødetatene, sier Foyn til VG.",
-        "STORE SKADER: Bensinstasjonen har fått store skader etter ulykken."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/bil-har-kjort-inn-i-bensinstasjon-1.18008201",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/kKkagnDnqzMuVi4f2OSmPQn5CAcY37a84YPVbuv5gJuw.jpg",
-      "localImage": "assets/news/c24f7d36b67f48.webp",
-      "score": 13
-    },
-    {
-      "id": "56d9440e6e14e1",
-      "category": "Norge",
-      "published": "30.08. 16:24",
-      "publishedISO": "2026-08-30T16:24:14+02:00",
-      "title": "Bodø/Glimt feide over Rosenborg etter kongehyllest",
-      "summary": "Det fikk Rosenborg kjenne på Aspmyra i den første eliteseriekampen etter kong Haralds død. Nordmannen har slitt med ryggtrøbbel den siste tiden, og han ble ikke klar i tide. – Som kjent har det vært ryggproblemer de siste to ukene, men teamet jobber for å ha Casper klar til kamp, sa Ruuds manager, Tina Falster, til HBO Max tidligere søndag. US Open er sesongens siste Grand Slam-turnering, og Ruud ender dermed GS-sesongen uten å ta seg lengre enn til 4. runde (Australian Open og Roland-Garros).",
-      "keyPoints": [
-        "Det fikk Rosenborg kjenne på Aspmyra i den første eliteseriekampen etter kong Haralds død.",
-        "US Open er sesongens siste Grand Slam-turnering, og Ruud ender dermed GS-sesongen uten å ta seg lengre enn til 4. runde (Australian Open og Roland-Garros).",
-        "Nordmannen har slitt med ryggtrøbbel den siste tiden, og han ble ikke klar i tide. – Som kjent har det vært ryggproblemer de siste to ukene, men teamet jobber for å ha Casper klar til kamp, sa Ruuds manager, Tina Falster, til HBO Max tidligere søndag.",
-        "Ruud kom seg til 2. runde i turneringen på hardcourten i New York i fjor."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/bodo_glimt-feide-over-rosenborg-etter-kongehyllest-1.18007964",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Axwhlrq41uKv6tWpi9qqigpO0ZEf9aJcAny6_8LQTWvg.jpg",
-      "localImage": "assets/news/56d9440e6e14e1.webp",
       "score": 13
     }
   ]
