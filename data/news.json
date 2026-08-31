@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 09:36",
-  "updatedISO": "2026-08-31T09:36:46.185775+02:00",
+  "updatedAt": "31.08.2026 kl. 09:51",
+  "updatedISO": "2026-08-31T09:51:36.793677+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,14 +25,35 @@
       "score": 14
     },
     {
+      "id": "875b10d62cc494",
+      "category": "Verden",
+      "published": "31.08. 09:04",
+      "publishedISO": "2026-08-31T09:04:36+02:00",
+      "title": "Handelsangrep i USA og Iran etter det første kjente amerikanske angrepet på flere uker",
+      "summary": "Fartøyer i Hormuzstredet er synlige nær stranden i Bandar Abbas, nær Larak Island Iran og USA har handlet med streik etter at amerikanske styrker angrep to rakettkastere på Larak Island i Hormuzstredet. De første kjente amerikanske angrepene på Iran siden slutten av juli drepte to mennesker og skadet to andre, ifølge Irans islamske revolusjonsgardekorps (IRGC), som lovet \"respons og straff\". Det amerikanske angrepet er det første kjente angrepet på Iran siden president Donald Trump stoppet en fornyet militærkampanje i slutten av juli.",
+      "keyPoints": [
+        "De første kjente amerikanske angrepene på Iran siden slutten av juli drepte to mennesker og skadet to andre, ifølge Irans islamske revolusjonsgardekorps (IRGC), som lovet \"respons og straff\".",
+        "Det amerikanske angrepet er det første kjente angrepet på Iran siden president Donald Trump stoppet en fornyet militærkampanje i slutten av juli.",
+        "Fartøyer i Hormuzstredet er synlige nær stranden i Bandar Abbas, nær Larak Island Iran og USA har handlet med streik etter at amerikanske styrker angrep to rakettkastere på Larak Island i Hormuzstredet.",
+        "USA og Israel startet omfattende angrep på Iran 28. februar, hvor Iran svarte med å angripe Israel, amerikanske baser og allierte stater i Gulfen, og effektivt stenge Hormuzstredet for sjøtrafikk."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/875b10d62cc494.jpg",
+      "score": 13
+    },
+    {
       "id": "e780dfe9634bdf",
       "category": "Økonomi",
       "published": "31.08. 09:01",
       "publishedISO": "2026-08-31T09:01:37+02:00",
       "title": "Oslo Børs stiger etter oljeprishopp",
-      "summary": "Hovedindeksen på Oslo Børs er opp 0,6 prosent til nytt rekordnivå fra start mandag formiddag. Følg utviklingen på Oslo Børs løpende i E24s børstjeneste. Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
+      "summary": "Hovedindeksen på Oslo Børs er opp 0,2 prosent i 09.40-tiden mandag. Følg utviklingen på Oslo Børs løpende i E24s børstjeneste. Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er opp 0,6 prosent til nytt rekordnivå fra start mandag formiddag.",
+        "Hovedindeksen på Oslo Børs er opp 0,2 prosent i 09.40-tiden mandag.",
         "Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
         "Følg utviklingen på Oslo Børs løpende i E24s børstjeneste.",
         "Samtidig tynget Skottland-virksomheten med et tap. – Estimatene for operasjonelt driftsresultat i 2026 vil trolig bli nedjustert som følge av resultatbommen i andre kvartal, men bedre inntjening utenfor oppdrettsvirksomheten og en noe gunstigere volumprofil i andre halvår kan motvirke deler av effekten, forklarer Pareto Securities-analytiker Henrik Longva Knutsen i et notat."
@@ -85,7 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fc26fc6e-1649-3b6a-8a71-d72d8096f79f?fit=crop&h=675&upscale=true&w=1200&s=801e3f7d6b19e589030042f4a70c7e19cfec2ab6",
       "localImage": "assets/news/7c9ceb2bd22c26.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "725c155ef894a1",
+      "category": "Norge",
+      "published": "31.08. 09:43",
+      "publishedISO": "2026-08-31T09:43:01+02:00",
+      "title": "I Vardø kommune har de satt ungdomsfiske inn på læreplanen med stor suksess",
+      "summary": "I Vardø kan ungdommen ikke bare tjene rått på ungdomsfiske, nå lærer de også om fiske i skolehverdagen. Ungdomsfiskerne og støtteapparatet stilte opp da slutten av årets ungdomsfiske skulle markeres i Vardø. Liane Eines, inspektør ved Vardø skole, forteller at skolen denne høsten starter med arbeidslivsfag. – Vi har allerede sett på samarbeidsprosjektene, og da er ungdomsfiske en stor del av det.",
+      "keyPoints": [
+        "Liane Eines, inspektør ved Vardø skole, forteller at skolen denne høsten starter med arbeidslivsfag. – Vi har allerede sett på samarbeidsprosjektene, og da er ungdomsfiske en stor del av det.",
+        "I Vardø kan ungdommen ikke bare tjene rått på ungdomsfiske, nå lærer de også om fiske i skolehverdagen.",
+        "Ungdomsfiskerne og støtteapparatet stilte opp da slutten av årets ungdomsfiske skulle markeres i Vardø.",
+        "I sommer har 31 ungdommer i Vardø jobbet på havet, gjennom den populære ungdomsfiskeordningen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/i-vardo-kommune-har-de-satt-ungdomsfiske-inn-pa-laereplanen-med-stor-suksess-1.18003253",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/g9yAEDeB6xLQV5K5bZeD0gkCvI0nhgIfsPqRKHyUqXZg.jpg",
+      "localImage": "assets/news/725c155ef894a1.jpg",
+      "score": 13
     },
     {
       "id": "64aa7fdd68d99e",
@@ -109,24 +151,24 @@
       "score": 13
     },
     {
-      "id": "c72967ce4bb31f",
+      "id": "f2dc09089b5132",
       "category": "Norge",
       "published": "31.08. 08:20",
       "publishedISO": "2026-08-31T08:20:41+02:00",
       "title": "Rettssaken etter drapet på Marita Løfshus Haugen – uvisst om Jørn Andersen vil forklare seg",
-      "summary": "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Hagen (35) med en machete. Når rettssaken starter i Trøndelag tingrett i dag kan det hende Andersen ikke kommer til å forklare seg. – Det er jo en rettighet han har, sier statsadvokat Per Morten Schjetne. Andersen er tiltalt for å ha drept Marita Løfshus Hagen på Løkken Verk i Orkland, 13. desember 2025.",
+      "summary": "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Haugen med en machete. Da rettssaken startet i Trøndelag tingrett mandag morgen var det fortsatt uklart om Andersen erkjente å ha tatt livet av Haugen. – Nei, svarte Andersen på spørsmålet om han erkjente straffskyld eller ikke. Andersen er tiltalt for å ha drept Marita Løfshus Haugen på Løkken Verk i Orkland, 13. desember 2025.",
       "keyPoints": [
-        "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Hagen (35) med en machete.",
-        "Andersen er tiltalt for å ha drept Marita Løfshus Hagen på Løkken Verk i Orkland, 13. desember 2025.",
-        "Når rettssaken starter i Trøndelag tingrett i dag kan det hende Andersen ikke kommer til å forklare seg. – Det er jo en rettighet han har, sier statsadvokat Per Morten Schjetne.",
-        "DREPT: Marita Løfshus Haugen ble funnet drept på Løkken i desember i fjor."
+        "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Haugen med en machete.",
+        "Andersen er tiltalt for å ha drept Marita Løfshus Haugen på Løkken Verk i Orkland, 13. desember 2025.",
+        "Da rettssaken startet i Trøndelag tingrett mandag morgen var det fortsatt uklart om Andersen erkjente å ha tatt livet av Haugen. – Nei, svarte Andersen på spørsmålet om han erkjente straffskyld eller ikke.",
+        "Om han kommer til å forklare seg er fortsatt uklart. – Det er jo en rettighet han har, fortalte statsadvokat Per Morten Schjetne til NRK i forkant av rettssaken. – Vårt syn er at vi ikke er avhengig av hans forklaring for å bevise skyld."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/trondelag/rettssaken-etter-drapet-pa-marita-lofshus-haugen-_-uvisst-om-jorn-andersen-vil-forklare-seg-1.18004154",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/C_QE34_nFq73TCXhMCDBxgqS_SP2eRmtZxiybmDycveA.png",
-      "localImage": "assets/news/c72967ce4bb31f.png",
+      "localImage": "assets/news/f2dc09089b5132.png",
       "score": 13
     },
     {
@@ -170,48 +212,6 @@
       "image": "https://gfx.nrk.no/5evPlpKqozFwp3nd-wzIBAckE7FH3fFPO2JQ8yaxoWIg.jpg",
       "localImage": "assets/news/7585d3f669032c.jpg",
       "score": 13
-    },
-    {
-      "id": "af34f38640213d",
-      "category": "Norge",
-      "published": "31.08. 06:15",
-      "publishedISO": "2026-08-31T06:15:24+02:00",
-      "title": "Fagfolk slår alarm om ei nasjonal skrivekrise blant norske elevar",
-      "summary": "Kor godt norske elevar kan skrive, er ikkje målt på 10 år. Fagfolk varslar ei nasjonal skrivekrise blant norske barn og unge. Han peikar på at ein no står overfor ei nasjonal skrivekrise. – Vi hadde nasjonale skriveprøver fram til 2016, då låg 40 prosent under forventa nivå.",
-      "keyPoints": [
-        "Fagfolk varslar ei nasjonal skrivekrise blant norske barn og unge.",
-        "Kor godt norske elevar kan skrive, er ikkje målt på 10 år.",
-        "Han peikar på at ein no står overfor ei nasjonal skrivekrise. – Vi hadde nasjonale skriveprøver fram til 2016, då låg 40 prosent under forventa nivå.",
-        "Berge har saman med Skrivesenteret og Landslaget for norskundervisning sagt ifrå til regjeringa om at noko bør gjerast med det dei definerer som ei nasjonal skrivekrise."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/fagfolk-slar-alarm-om-ei-nasjonal-skrivekrise-blant-norske-elevar-1.17956434",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/3MQLzuLqTy3_-RPBuxEmkg_sf0qR-OSCYbMpm0CQcuFg.jpg",
-      "localImage": "assets/news/af34f38640213d.jpg",
-      "score": 13
-    },
-    {
-      "id": "c25f0c75d06175",
-      "category": "Norge",
-      "published": "31.08. 01:42",
-      "publishedISO": "2026-08-31T01:42:36+02:00",
-      "title": "Iran: – Har angrepet amerikanske militære mål i Jordan",
-      "summary": "Den iranske revolusjonsgarden hevder å ha angrepet to amerikanske militærbaser i Jordan med ballistiske missiler. Angrepet «rettet seg mot teknisk infrastruktur, vedlikeholdsanlegg og posisjonene til fiendtlige kampfly ved de USA-drevne flybasene King Hussein og Al-Azraq i Jordan», heter det i en uttalelse. Det amerikanske angrepet skal ha vært mot utskytingsramper på den iranske øya Larak i Hormuzstredet.",
-      "keyPoints": [
-        "Den iranske revolusjonsgarden hevder å ha angrepet to amerikanske militærbaser i Jordan med ballistiske missiler.",
-        "Det amerikanske angrepet skal ha vært mot utskytingsramper på den iranske øya Larak i Hormuzstredet.",
-        "Angrepet «rettet seg mot teknisk infrastruktur, vedlikeholdsanlegg og posisjonene til fiendtlige kampfly ved de USA-drevne flybasene King Hussein og Al-Azraq i Jordan», heter det i en uttalelse.",
-        "Dette skal være det første kjente angrepet fra USA på Iran siden sent i juli, skriver nyhetsnettstedet Axios."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/iran_-_-har-angrepet-amerikanske-militaere-mal-i-jordan-1.18008533",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/EzTX2u6h1tCy2KJF7RiSKAjAH8iSIpKk-Btsh72bqGcA.jpg",
-      "localImage": "assets/news/c25f0c75d06175.jpg",
-      "score": 12
     }
   ]
 }
