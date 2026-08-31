@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 19:22",
-  "updatedISO": "2026-08-31T19:22:14.641097+02:00",
+  "updatedAt": "31.08.2026 kl. 19:37",
+  "updatedISO": "2026-08-31T19:37:10.867882+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,6 +67,27 @@
       "score": 17
     },
     {
+      "id": "193ca2de31a780",
+      "category": "Norge",
+      "published": "31.08. 19:21",
+      "publishedISO": "2026-08-31T19:21:54+02:00",
+      "title": "Fra vugge til grav",
+      "summary": "31. mars 1937 hørtes barnegråt i Slottskapellet da den lille arveprinsen skulle døpes. Den første prinsen som var født her i landet på 567 år, kom til verden 21. februar på Skaugum i Asker. Den gledelige meldingen til det norske folk gikk ut fra Slottet: «Hennes Kongelige Høyhet Konprinsessen fødte i dag, søndag 21. februar kl.",
+      "keyPoints": [
+        "31. mars 1937 hørtes barnegråt i Slottskapellet da den lille arveprinsen skulle døpes.",
+        "Den første prinsen som var født her i landet på 567 år, kom til verden 21. februar på Skaugum i Asker.",
+        "Den gledelige meldingen til det norske folk gikk ut fra Slottet: «Hennes Kongelige Høyhet Konprinsessen fødte i dag, søndag 21. februar kl.",
+        "En februardag i 1937 ble flaggene heist rundt om i Norge."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/xl/fra-vugge-til-grav-1.16821091",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/lLAR6PIVDnCgSRx2mf_cqAznB-h5t2h4EDDYT4rzPRhQ.jpg",
+      "localImage": "assets/news/193ca2de31a780.jpg",
+      "score": 13
+    },
+    {
       "id": "b2810001b17ffe",
       "category": "Norge",
       "published": "31.08. 18:00",
@@ -93,9 +114,9 @@
       "published": "31.08. 17:40",
       "publishedISO": "2026-08-31T17:40:26+02:00",
       "title": "Kongefamilien møtte folket på Slottsplassen",
-      "summary": "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen etter båresermonien mandag 31.august. Folket på Slottsplassen tok bilder og løftet opp barna slik at de også fikk sett kongefamilien. I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang. - Rørende.",
+      "summary": "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen etter båresermonien mandag 31.august. Folket på Slottsplassen tok bilder og løftet opp barna slik at de også fikk sett kongefamilien. I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
       "keyPoints": [
-        "I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang. - Rørende.",
+        "I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
         "Folket på Slottsplassen tok bilder og løftet opp barna slik at de også fikk sett kongefamilien.",
         "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen etter båresermonien mandag 31.august.",
         "Magnus Namork møtte opp på slottsplassen sammen med familien. – Det var veldig rørende å se dem sånn."
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BNrEWlkMglx8iZkQ3WeLmAHNS_6PMBn1LWXoZUfH2Bkg.jpg",
       "localImage": "assets/news/1e93ff7b88ce88.jpg",
-      "score": 13
-    },
-    {
-      "id": "1afc0a21ca3f19",
-      "category": "Norge",
-      "published": "31.08. 15:51",
-      "publishedISO": "2026-08-31T15:51:30+02:00",
-      "title": "Håper kong Haakon VIII gjer som faren, men på sin eigen måte",
-      "summary": "Ho håper kong Haakon VIII fører tradisjonen etter faren vidare, men på sin eigen måte. Leiar Eriell Teresia Harila-Jensenius i Finnmark ungdomsråd håper kong Haakon VIII fører tradisjonen etter faren vidare, men på sin eigen måte. Leiaren i Finnmark ungdomsråd trur Haakon VIII blir ein god konge dersom han gjer ting på sin måte. – Du trur kong Haakon kjem til å bli ein god konge.",
-      "keyPoints": [
-        "Leiar Eriell Teresia Harila-Jensenius i Finnmark ungdomsråd håper kong Haakon VIII fører tradisjonen etter faren vidare, men på sin eigen måte.",
-        "Leiaren i Finnmark ungdomsråd trur Haakon VIII blir ein god konge dersom han gjer ting på sin måte. – Du trur kong Haakon kjem til å bli ein god konge.",
-        "Og så håper eg sjølvsagt at han tar etter kong Harald når det gjeld å skape et fellesskap og vise at Noreg er for mange fleire enn berre dei som er født her i landet.",
-        "Leiar Eriell Teresia Harila-Jensenius i Finnmark ungdomsråd seier kong Harald var viktig for ungdom fordi han representerte hele Noreg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/haper-kong-haakon-viii-gjer-som-faren_-men-pa-sin-eigen-mate-1.18008428",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/cSMXRTNTdDnsYk-lu9YPkQAd3xppLzDW8u7WKJPP9zHw.jpg",
-      "localImage": "assets/news/1afc0a21ca3f19.jpg",
       "score": 13
     }
   ]
