@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 15:51",
-  "updatedISO": "2026-08-31T15:51:32.735820+02:00",
+  "updatedAt": "31.08.2026 kl. 16:06",
+  "updatedISO": "2026-08-31T16:06:53.183633+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,6 +88,48 @@
       "score": 17
     },
     {
+      "id": "1afc0a21ca3f19",
+      "category": "Norge",
+      "published": "31.08. 15:51",
+      "publishedISO": "2026-08-31T15:51:30+02:00",
+      "title": "Håper kong Haakon VIII gjer som faren, men på sin eigen måte",
+      "summary": "Ho håper kong Haakon VIII fører tradisjonen etter faren vidare, men på sin eigen måte. Leiar Eriell Teresia Harila-Jensenius i Finnmark ungdomsråd håper kong Haakon VIII fører tradisjonen etter faren vidare, men på sin eigen måte. Leiaren i Finnmark ungdomsråd trur Haakon VIII blir ein god konge dersom han gjer ting på sin måte. – Du trur kong Haakon kjem til å bli ein god konge.",
+      "keyPoints": [
+        "Leiar Eriell Teresia Harila-Jensenius i Finnmark ungdomsråd håper kong Haakon VIII fører tradisjonen etter faren vidare, men på sin eigen måte.",
+        "Leiaren i Finnmark ungdomsråd trur Haakon VIII blir ein god konge dersom han gjer ting på sin måte. – Du trur kong Haakon kjem til å bli ein god konge.",
+        "Og så håper eg sjølvsagt at han tar etter kong Harald når det gjeld å skape et fellesskap og vise at Noreg er for mange fleire enn berre dei som er født her i landet.",
+        "Leiar Eriell Teresia Harila-Jensenius i Finnmark ungdomsråd seier kong Harald var viktig for ungdom fordi han representerte hele Noreg."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/haper-kong-haakon-viii-gjer-som-faren_-men-pa-sin-eigen-mate-1.18008428",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/cSMXRTNTdDnsYk-lu9YPkQAd3xppLzDW8u7WKJPP9zHw.jpg",
+      "localImage": "assets/news/1afc0a21ca3f19.jpg",
+      "score": 13
+    },
+    {
+      "id": "116c6940956fad",
+      "category": "Norge",
+      "published": "31.08. 15:48",
+      "publishedISO": "2026-08-31T15:48:22+02:00",
+      "title": "Marius Borg Høiby fører kong Haralds båre",
+      "summary": "Marius Borg Høiby er blant barnebarna som fører kong Haralds båre gjennom Slottet. Båren føres av kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, Marius Borg Høiby, prinsesse Märtha Louise og hennes døtre, Maud Angelica, Leah og Emma Tallulah. Politiet har bekreftet overfor TV 2 at Marius Borg Høiby har fått «innvilget utgang» i forbindelse med flyttingen av båren til Slottskapellet, samt til begravelsen 9. september.",
+      "keyPoints": [
+        "Marius Borg Høiby er blant barnebarna som fører kong Haralds båre gjennom Slottet.",
+        "Båren føres av kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, Marius Borg Høiby, prinsesse Märtha Louise og hennes døtre, Maud Angelica, Leah og Emma Tallulah.",
+        "Politiet har bekreftet overfor TV 2 at Marius Borg Høiby har fått «innvilget utgang» i forbindelse med flyttingen av båren til Slottskapellet, samt til begravelsen 9. september.",
+        "Da kong Haralds båre ble fraktet fra Rikshospitalet, gjennom Oslos gater og hjem til Slottet på fredag kveld, ble den plassert i Røde salong inne på Slottet."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/marius-borg-hoiby-forer-kong-haralds-bare-1.18009187",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/rOkKAmFYP2EIrczTG9eH-gZpH4CGP98YA9sr7ivHO_jw.jpg",
+      "localImage": "assets/news/116c6940956fad.jpg",
+      "score": 13
+    },
+    {
       "id": "1f276c2423d86b",
       "category": "Norge",
       "published": "31.08. 15:31",
@@ -169,48 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
       "localImage": "assets/news/9903903ec87f3c.png",
-      "score": 13
-    },
-    {
-      "id": "3265bd5a0c8b52",
-      "category": "Norge",
-      "published": "31.08. 14:18",
-      "publishedISO": "2026-08-31T14:18:09+02:00",
-      "title": "Anonym trussel på «Jodel» stengde skulen: – Svært alvorleg",
-      "summary": "Ein trussel på den anonyme appen «Jodel» førte til at rundt 1200 elevar måtte evakuere frå skulen. TRUSSEL: Store politistyrkar rykte ut til Gjøvik vidaregåande skule etter at det vart oppdaga ein trussel mot skulen på den anonyme appen «Jodel». Elevar og lærarar ved Gjøvik vidaregåande skule måtte brått avslutte skuledagen då det vart oppdaga ein trussel mot skulen fredag.",
-      "keyPoints": [
-        "Ein trussel på den anonyme appen «Jodel» førte til at rundt 1200 elevar måtte evakuere frå skulen.",
-        "TRUSSEL: Store politistyrkar rykte ut til Gjøvik vidaregåande skule etter at det vart oppdaga ein trussel mot skulen på den anonyme appen «Jodel».",
-        "Elevar og lærarar ved Gjøvik vidaregåande skule måtte brått avslutte skuledagen då det vart oppdaga ein trussel mot skulen fredag.",
-        "Politiet ser svært alvorleg på hendinga, seier Talberg. – Vi tar slike truslar alvorleg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/la-ut-trussel-mot-gjovik-vidaregaande-skule-pa-jodel_-1200-elevar-matte-evakuere-1.18009104",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2JUkaAQshwNwooA5fDVD_Qdz_kOziTY67DDLHlcHKh6w.jpg",
-      "localImage": "assets/news/3265bd5a0c8b52.jpg",
-      "score": 13
-    },
-    {
-      "id": "a32489ce9d042d",
-      "category": "Økonomi",
-      "published": "31.08. 14:01",
-      "publishedISO": "2026-08-31T14:01:13+02:00",
-      "title": "Eksklusive hoteller fullbooket under kongens gravferd",
-      "summary": "Når E24 sjekker mandag er det ikke mulig å booke noen av hotellets 284 rom, inkludert 54 suiter, i dagene rundt kongens gravferd. E24 har vært i kontakt med flere hoteller i sentrum av hovedstaden. Historiske Thon Hotel Bristol som åpnet i 1920 er også fullbooket 9. september.",
-      "keyPoints": [
-        "Når E24 sjekker mandag er det ikke mulig å booke noen av hotellets 284 rom, inkludert 54 suiter, i dagene rundt kongens gravferd.",
-        "E24 har vært i kontakt med flere hoteller i sentrum av hovedstaden.",
-        "Historiske Thon Hotel Bristol som åpnet i 1920 er også fullbooket 9. september.",
-        "UD sier mandag at de venter et «betydelig antall utenlandske kongelige, statsoverhoder og andre offisielle representanter vil delta i gravferden.» – Alle land med diplomatisk representasjon i Oslo inviteres, i tillegg til medlemslandene i NATO, EØS og EU som ikke har representasjon i Norge, sier seniorrådgiver i UD Thea Finstad til VG."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/m0pXw0/eksklusive-hoteller-fullbooket-under-kongens-gravferd",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/bdb86cbc-477a-3b65-b282-5151c49b4f4b?fit=crop&h=675&upscale=true&w=1200&s=5c63d4ec1ba5b86fd11701e003062607848e5c45",
-      "localImage": "assets/news/a32489ce9d042d.jpg",
       "score": 13
     }
   ]
