@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 15:22",
-  "updatedISO": "2026-08-31T15:22:02.067490+02:00",
+  "updatedAt": "31.08.2026 kl. 15:36",
+  "updatedISO": "2026-08-31T15:36:36.450367+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -86,6 +86,27 @@
       "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
       "localImage": "assets/news/1b00109f1e50c2.jpg",
       "score": 17
+    },
+    {
+      "id": "1f276c2423d86b",
+      "category": "Norge",
+      "published": "31.08. 15:31",
+      "publishedISO": "2026-08-31T15:31:12+02:00",
+      "title": "Rapport tyder på at avdøde skal ha vore død før eksplosjonen på Foldnes i Øygarden",
+      "summary": "Ein rapport tyder på at mannen som døde i eksplosjonen og brannen på Foldnes i Øygarden, var død før eksplosjonen. Det brann i eit bustadbygg på Foldnes i Øygarden kommune etter ein eksplosjon førre veke. Ein foreløpig obduksjonsrapport viser at den døde skal ha vore død før eksplosjonen, skriv Bergens Tidende.",
+      "keyPoints": [
+        "Ein rapport tyder på at mannen som døde i eksplosjonen og brannen på Foldnes i Øygarden, var død før eksplosjonen.",
+        "Ein foreløpig obduksjonsrapport viser at den døde skal ha vore død før eksplosjonen, skriv Bergens Tidende.",
+        "Det brann i eit bustadbygg på Foldnes i Øygarden kommune etter ein eksplosjon førre veke.",
+        "Politiet fekk melding om eksplosjonen klokka 13.30 tysdag."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/rapport-tyder-pa-at-avdode-skal-ha-vore-dod-for-eksplosjonen-pa-foldnes-i-oygarden-1.18009361",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/QyY-dXFk-s_k-FmlaFjcYwjVRRV9bEauwsfhJXOTuiJg.jpg",
+      "localImage": "assets/news/1f276c2423d86b.jpg",
+      "score": 13
     },
     {
       "id": "7f9fd836a59ff4",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e12/live/a0ae2f30-a52c-11f1-8ebe-efa2c58ecfe9.png",
       "localImage": "assets/news/02c7107c5a5e9f.png",
-      "score": 13
-    },
-    {
-      "id": "1e26c207ead14d",
-      "category": "Norge",
-      "published": "31.08. 13:22",
-      "publishedISO": "2026-08-31T13:22:59+02:00",
-      "title": "Larvik: Får ikke medhold etter omfattende varsler mot kommunedirektør",
-      "summary": "Kommunedirektør Marit Kobro er renvasket etter et omfattende varsel fra byggesaksansatte i april. Det kommer frem i en ny rapport. – TØFT: Kommunedirektør i Larvik, Marit Kobro, sier det har vært en tøff prosess, både for henne og de andre som har vært involvert. I en ny rapport slår Advokatfirmaet DLA Piper fast at kommunedirektør Marit Kobro ikke har brutt loven eller interne retningslinjer.",
-      "keyPoints": [
-        "Det kommer frem i en ny rapport. – TØFT: Kommunedirektør i Larvik, Marit Kobro, sier det har vært en tøff prosess, både for henne og de andre som har vært involvert.",
-        "Kommunedirektør Marit Kobro er renvasket etter et omfattende varsel fra byggesaksansatte i april.",
-        "I en ny rapport slår Advokatfirmaet DLA Piper fast at kommunedirektør Marit Kobro ikke har brutt loven eller interne retningslinjer.",
-        "Ledelsen i Larvik kommune sier de tar rapporten på dypt alvor."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/larvik_-far-ikke-medhold-etter-omfattende-varsler-mot-kommunedirektor-1.18008888",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/T1P85uEMWtrvxwDqfd8A2giFB9gc-RDV117M0ldq0BRg.jpg",
-      "localImage": "assets/news/1e26c207ead14d.jpg",
       "score": 13
     }
   ]
