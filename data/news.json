@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 19:37",
-  "updatedISO": "2026-08-31T19:37:10.867882+02:00",
+  "updatedAt": "31.08.2026 kl. 19:52",
+  "updatedISO": "2026-08-31T19:52:07.157946+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -65,6 +65,69 @@
       "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
       "localImage": "assets/news/1b00109f1e50c2.jpg",
       "score": 17
+    },
+    {
+      "id": "fb976788e8a02a",
+      "category": "Norge",
+      "published": "31.08. 19:44",
+      "publishedISO": "2026-08-31T19:44:18+02:00",
+      "title": "Mener kong Haakons erfaring i Arktis er en stor fordel",
+      "summary": "Da kong Haakon VIII krysset Grønlandsisen på ski og kite i 2022, var det ikke bare en sportslig bragd i minus 30 grader med 100 kilo bagasje på pulken. Erfaringen med klimakrisen midt ute i isødet, gir ham stor tyngde når han skal møte forskere og verdensledere, mener turkameratene hans. Polarhistoriker Jølle mener denne erfaringen gir kongen stor tyngde internasjonalt: – Kong Haakon fører arven videre med en praktisk erfaring fra felt.",
+      "keyPoints": [
+        "Polarhistoriker Jølle mener denne erfaringen gir kongen stor tyngde internasjonalt: – Kong Haakon fører arven videre med en praktisk erfaring fra felt.",
+        "Erfaringen med klimakrisen midt ute i isødet, gir ham stor tyngde når han skal møte forskere og verdensledere, mener turkameratene hans.",
+        "Da kong Haakon VIII krysset Grønlandsisen på ski og kite i 2022, var det ikke bare en sportslig bragd i minus 30 grader med 100 kilo bagasje på pulken.",
+        "Turkompisene sier at kong Haakon inngikk som en helt ordinær ekspedisjonsdeltaker og stilte på lik linje som de andre."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/mener-kong-haakons-erfaring-i-arktis-er-en-stor-fordel-1.18009165",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ABX98BhUPSerIv2bkGfQjwlxcoi0Xhy8M57g6ZJORjTg.jpg",
+      "localImage": "assets/news/fb976788e8a02a.jpg",
+      "score": 13
+    },
+    {
+      "id": "f89e153f8d0f78",
+      "category": "Norge",
+      "published": "31.08. 19:41",
+      "publishedISO": "2026-08-31T19:41:08+02:00",
+      "title": "Flere bunkrer drivstoff dagen før avgiftskutt på bensin og diesel opphører",
+      "summary": "Fra midnatt fyker trolig prisene på bensin og diesel opp. Han fyller ekstra fordi avgiftskuttet på drivstoff opphører 1. september. For privatpersoner er det kun lov å lagre opptil 10 liter bensin i boenheten, og inntil 50 liter i en ytterbod eller garasje. – Tenk sikkerhet, tenk på konsekvenser av å lagre mye drivstoff.",
+      "keyPoints": [
+        "For privatpersoner er det kun lov å lagre opptil 10 liter bensin i boenheten, og inntil 50 liter i en ytterbod eller garasje. – Tenk sikkerhet, tenk på konsekvenser av å lagre mye drivstoff.",
+        "Han fyller ekstra fordi avgiftskuttet på drivstoff opphører 1. september.",
+        "Fra midnatt fyker trolig prisene på bensin og diesel opp.",
+        "Å lagre eller transportere store mengder bensin og diesel innebærer risiko og krever at man følger strenge regler."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/flere-bunkrer-drivstoff-dagen-for-avgiftskutt-pa-bensin-og-diesel-opphorer-1.18008986",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/SrugHRRc3Wwroce9xPl0fASEAJrlSVYQ2CUns63M_y7g.jpg",
+      "localImage": "assets/news/f89e153f8d0f78.webp",
+      "score": 13
+    },
+    {
+      "id": "94b127c1e3df42",
+      "category": "Norge",
+      "published": "31.08. 19:41",
+      "publishedISO": "2026-08-31T19:41:07+02:00",
+      "title": "Drivstoffavgiftene øker ved midnatt: Nå hamstrer folk drivstoff",
+      "summary": "Ved midnatt utløper de midlertidige avgiftskuttene på drivstoff, og prisene er ventet å øke. HAMSTRER DRIVSTOFF: Vidar Nedrebø er bonde, dyrlege og lokalpolitiker for Senterpartiet i Gjesdal kommune. – Nå har vi hamstret inn, og har drivstoff til maskinene i ett år. Nedrebø sier han nå har nok drivstoff til maskinene i ett år.",
+      "keyPoints": [
+        "HAMSTRER DRIVSTOFF: Vidar Nedrebø er bonde, dyrlege og lokalpolitiker for Senterpartiet i Gjesdal kommune. – Nå har vi hamstret inn, og har drivstoff til maskinene i ett år.",
+        "Ved midnatt utløper de midlertidige avgiftskuttene på drivstoff, og prisene er ventet å øke.",
+        "Nedrebø sier han nå har nok drivstoff til maskinene i ett år.",
+        "Både landbruket og privatpersoner fyller nå opp tankene for å sikre seg drivstoff før prisøkningen trer i kraft."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/drivstoffavgiftene-oker-ved-midnatt_-na-hamstrer-folk-drivstoff-1.18009016",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/okrwthg2bIPpJ0VjR3N0qgV4WUNjB1E3WE3GrzkGJnog.jpg",
+      "localImage": "assets/news/94b127c1e3df42.jpg",
+      "score": 13
     },
     {
       "id": "193ca2de31a780",
@@ -148,69 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/JNUZkdYMe9UopHrZh8APIQamSLl6qMCKkpscMco9DAhA.jpg",
       "localImage": "assets/news/c7ef2303e211dd.jpg",
-      "score": 13
-    },
-    {
-      "id": "4859d999a8c368",
-      "category": "Økonomi",
-      "published": "31.08. 17:24",
-      "publishedISO": "2026-08-31T17:24:14+02:00",
-      "title": "Tirsdag stiger drivstoff­avgiftene: – Forferdelig",
-      "summary": "Da går nemlig drivstoffavgiftene tilbake igjen til nivået de var før 1. april – da Stortinget vedtok midlertidige avgiftskutt på drivstoff. De midlertidige avgiftskuttene på diesel og bensin har vært på om lag fire kroner literen, og reverseres fra tirsdag 1. september. Men for bedrifter som bruker mye diesel og bensin har det selvsagt en del å si om prisene stiger, sier sjeføkonom Kjetil Olsen i Nordea Markets til E24. – Går bensin og dieselprisene kraftig opp, så rammer det dem som bruker mye drivstoff.",
-      "keyPoints": [
-        "Men for bedrifter som bruker mye diesel og bensin har det selvsagt en del å si om prisene stiger, sier sjeføkonom Kjetil Olsen i Nordea Markets til E24. – Går bensin og dieselprisene kraftig opp, så rammer det dem som bruker mye drivstoff.",
-        "De midlertidige avgiftskuttene på diesel og bensin har vært på om lag fire kroner literen, og reverseres fra tirsdag 1. september.",
-        "Da går nemlig drivstoffavgiftene tilbake igjen til nivået de var før 1. april – da Stortinget vedtok midlertidige avgiftskutt på drivstoff.",
-        "Sandmæl sier det er helt bevisst å fylle opp tanken mandag. – Hva tenker du om at prisene går opp i morgen? – Det er forferdelig."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/wrbM84/tirsdag-stiger-drivstoffavgiftene-forferdelig",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e732f7f7-7d5c-39a0-8fa8-3bbe5b61cdc9?fit=crop&h=675&upscale=true&w=1200&s=b2570a7308e3fb2f5a75ea3d3f20e18c0d0d801d",
-      "localImage": "assets/news/4859d999a8c368.jpg",
-      "score": 13
-    },
-    {
-      "id": "bea85cb9fbbcc5",
-      "category": "Norge",
-      "published": "31.08. 17:22",
-      "publishedISO": "2026-08-31T17:22:37+02:00",
-      "title": "Krevde busslapp på fritiden – knuste Nobina i retten",
-      "summary": "Tingretten mener en renholder ble sagt opp ulovlig da hun fikk sparken av busselskapet Nobina. Arbeidsgiveren tilbød seg å dekke selve førerkortet, men stilte krav om at språkopplæring og lesing til sertifikatet måtte skje utenfor ordinær arbeidstid, altså på fritiden. Nobina må betale henne 50 000 kroner i oppreisning, pluss advokatregningen hennes på over 208 000 kroner.",
-      "keyPoints": [
-        "Tingretten mener en renholder ble sagt opp ulovlig da hun fikk sparken av busselskapet Nobina.",
-        "Arbeidsgiveren tilbød seg å dekke selve førerkortet, men stilte krav om at språkopplæring og lesing til sertifikatet måtte skje utenfor ordinær arbeidstid, altså på fritiden.",
-        "Nobina må betale henne 50 000 kroner i oppreisning, pluss advokatregningen hennes på over 208 000 kroner.",
-        "Da hun ikke klarte å innfri kompetansekravet innen fristen på tre måneder, valgte Nobina å si henne opp."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/krevde-busslapp-pa-fritiden-_-knuste-nobina-i-retten-1.17994520",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/55E6zZP1vn_bJTcn6GK_RApjXcxu2MRypy4RSDglrqfw.jpg",
-      "localImage": "assets/news/bea85cb9fbbcc5.jpg",
-      "score": 13
-    },
-    {
-      "id": "1e93ff7b88ce88",
-      "category": "Norge",
-      "published": "31.08. 16:00",
-      "publishedISO": "2026-08-31T16:00:49+02:00",
-      "title": "NRK Svarer: Dette lurer folk på etter kong Haralds død",
-      "summary": "Kong Haralds bortgang preger Norge, og spørsmålene strømmer inn. På Slottsplassen i 1991 oppsto det historiske lyshavet i snøen, en varm og verdig tradisjon som folk i disse dager gjentar for kong Harald. Har du flere spørsmål rundt hva som skjer etter kong Haralds død, kan du sende det til oss her:",
-      "keyPoints": [
-        "Kong Haralds bortgang preger Norge, og spørsmålene strømmer inn.",
-        "På Slottsplassen i 1991 oppsto det historiske lyshavet i snøen, en varm og verdig tradisjon som folk i disse dager gjentar for kong Harald.",
-        "Har du flere spørsmål rundt hva som skjer etter kong Haralds død, kan du sende det til oss her:",
-        "Dette er noen av de mest stilte spørsmålene som har kommet inn til NRK Svarer i løpet av de siste dagene."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/nrk-svarer_-dette-lurer-folk-pa-etter-kong-haralds-dod-1.18008793",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BNrEWlkMglx8iZkQ3WeLmAHNS_6PMBn1LWXoZUfH2Bkg.jpg",
-      "localImage": "assets/news/1e93ff7b88ce88.jpg",
       "score": 13
     }
   ]
