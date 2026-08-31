@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 13:06",
-  "updatedISO": "2026-08-31T13:06:38.735734+02:00",
+  "updatedAt": "31.08.2026 kl. 13:22",
+  "updatedISO": "2026-08-31T13:22:07.535858+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,66 +25,108 @@
       "score": 13
     },
     {
-      "id": "40e622172603b0",
-      "category": "Verden",
-      "published": "31.08. 12:54",
-      "publishedISO": "2026-08-31T12:54:01+02:00",
-      "title": "JKIA strike: Passengers stranded as strike disrupts flights at Kenya's main airport",
-      "summary": "Noen passasjerer har ventet i timevis på flyene Hundrevis av passasjerer ble strandet på Kenyas hovedflyplass i hovedstaden, Nairobi, da flyavbrudd fortsatte for den andre dagen under en arbeiderstreik. Søndag advarte flyplassmyndigheten og det nasjonale flyselskapet, Kenya Airways, at avganger kan bli forsinket. RwandAir sa mandag at de hadde kansellert to flyvninger på grunn av de pågående \"operative begrensningene som påvirker flykontrolltjenester\" på flyplassen.",
+      "id": "e780dfe9634bdf",
+      "category": "Økonomi",
+      "published": "31.08. 09:01",
+      "publishedISO": "2026-08-31T09:01:37+02:00",
+      "title": "Oslo Børs stiger etter oljeprishopp",
+      "summary": "Hovedindeksen på Oslo Børs er opp 0,75 prosent i 12.30-tiden mandag. Følg utviklingen på Oslo Børs løpende i E24s børstjeneste. Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
       "keyPoints": [
-        "Noen passasjerer har ventet i timevis på flyene Hundrevis av passasjerer ble strandet på Kenyas hovedflyplass i hovedstaden, Nairobi, da flyavbrudd fortsatte for den andre dagen under en arbeiderstreik.",
-        "RwandAir sa mandag at de hadde kansellert to flyvninger på grunn av de pågående \"operative begrensningene som påvirker flykontrolltjenester\" på flyplassen.",
-        "Søndag advarte flyplassmyndigheten og det nasjonale flyselskapet, Kenya Airways, at avganger kan bli forsinket.",
-        "Den har beklaget forstyrrelsen og sa at passasjerer som ønsker å endre eller omstille flyreiser, kan gjøre det uten straff."
+        "Hovedindeksen på Oslo Børs er opp 0,75 prosent i 12.30-tiden mandag.",
+        "Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
+        "Følg utviklingen på Oslo Børs løpende i E24s børstjeneste.",
+        "Samtidig tynget Skottland-virksomheten med et tap. – Estimatene for operasjonelt driftsresultat i 2026 vil trolig bli nedjustert som følge av resultatbommen i andre kvartal, men bedre inntjening utenfor oppdrettsvirksomheten og en noe gunstigere volumprofil i andre halvår kan motvirke deler av effekten, forklarer Pareto Securities-analytiker Henrik Longva Knutsen i et notat."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c783x05nnlko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f14/live/77eae140-a529-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/40e622172603b0.jpg",
-      "score": 13
+      "url": "https://e24.no/boers-og-finans/i/L4qJvQ/oslo-boers-stiger-etter-oljeprishopp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
+      "localImage": "assets/news/e780dfe9634bdf.jpg",
+      "score": 23
     },
     {
-      "id": "875b10d62cc494",
-      "category": "Verden",
-      "published": "31.08. 10:34",
-      "publishedISO": "2026-08-31T10:34:25+02:00",
-      "title": "USA og Iran handelsangrep etter første kjente amerikanske angrep på flere uker",
-      "summary": "Fartøyer i Hormuzstredet er synlige nær stranden i Bandar Abbas, nær Larak Island Iran og USA har handlet med streik etter at amerikanske styrker angrep to rakettkastere på Larak Island i Hormuzstredet. De første kjente amerikanske angrepene på Iran siden slutten av juli drepte to mennesker og skadet to andre, ifølge Irans islamske revolusjonsgardekorps (IRGC), som lovet \"respons og straff\". Det amerikanske angrepet er det første kjente angrepet på Iran siden president Donald Trump stoppet en fornyet militærkampanje i slutten av juli.",
+      "id": "1b00109f1e50c2",
+      "category": "Økonomi",
+      "published": "31.08. 10:07",
+      "publishedISO": "2026-08-31T10:07:51+02:00",
+      "title": "Norges Bank skal selge kroner i september",
+      "summary": "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken. Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august. Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
       "keyPoints": [
-        "De første kjente amerikanske angrepene på Iran siden slutten av juli drepte to mennesker og skadet to andre, ifølge Irans islamske revolusjonsgardekorps (IRGC), som lovet \"respons og straff\".",
-        "Det amerikanske angrepet er det første kjente angrepet på Iran siden president Donald Trump stoppet en fornyet militærkampanje i slutten av juli.",
-        "Fartøyer i Hormuzstredet er synlige nær stranden i Bandar Abbas, nær Larak Island Iran og USA har handlet med streik etter at amerikanske styrker angrep to rakettkastere på Larak Island i Hormuzstredet.",
-        "USA og Israel startet omfattende angrep på Iran 28. februar, hvor Iran svarte med å angripe Israel, amerikanske baser og allierte stater i Gulfen, og effektivt stenge Hormuzstredet for sjøtrafikk."
+        "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken.",
+        "Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+        "Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august.",
+        "De samlede valutatransaksjonene i september består av 300 millioner i kronesalg daglig på vegne av staten, som er relatert til statsbudsjettet."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/875b10d62cc494.jpg",
-      "score": 13
+      "url": "https://e24.no/norsk-oekonomi/i/JOqV24/norges-bank-skal-selge-kroner-for-176-millioner-kroner-i-september",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
+      "localImage": "assets/news/1b00109f1e50c2.jpg",
+      "score": 18
     },
     {
-      "id": "9903903ec87f3c",
-      "category": "Verden",
-      "published": "31.08. 10:17",
-      "publishedISO": "2026-08-31T10:17:25+02:00",
-      "title": "Flom i Grand Canyon dreper en og setter i gang leting etter savnede turgåere",
-      "summary": "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien. En person er omkommet og 15 er fortsatt savnet eller uoppdaget etter at flom har feid gjennom deler av Grand Canyon, har National Park Service (NPS) sagt. 62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC. Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer var ødelagt av oversvømmelsen. NPS advarte også om at flere tordenvær og kraftig nedbør var varslet søndag og mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
+      "id": "f3205df64767a7",
+      "category": "Økonomi",
+      "published": "30.08. 18:57",
+      "publishedISO": "2026-08-30T18:57:21+02:00",
+      "title": "EU truer med Kina-grep: – Må snart vise handling",
+      "summary": "Det er altså ikke bare USA som truer med handelstiltak mot det som kalles «strukturell overkapasitetNår et land produserer mer av en vare enn det er etterspørsel etter, noe som kan føre til lavere priser og økonomiske problemer». Bakgrunnen er et handelsunderskudd i EU med Kina på 359,8 milliarder euro i fjor – nær én milliard euro om dagen. Kinesiske handelsmyndigheter opplyste i sommer at arbeidsgruppene hadde gjennomført mer enn 20 konsultasjoner, at forhandlingslederne hadde hatt to digitale forhandlingsrunder, og at handelskommissær Maroš Šefčovič og Kinas handelsminister Wang Wentao hadde holdt nær kontakt.",
       "keyPoints": [
-        "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien. En person er omkommet og 15 er fortsatt savnet eller uoppdaget etter at flom har feid gjennom deler av Grand Canyon, har National Park Service (NPS) sagt.",
-        "62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC.",
-        "Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer var ødelagt av oversvømmelsen. NPS advarte også om at flere tordenvær og kraftig nedbør var varslet søndag og mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
-        "Grand Canyon er en av de mest populære nasjonalparkene i USA, med rundt fem millioner mennesker som besøker hvert år."
+        "Det er altså ikke bare USA som truer med handelstiltak mot det som kalles «strukturell overkapasitetNår et land produserer mer av en vare enn det er etterspørsel etter, noe som kan føre til lavere priser og økonomiske problemer».",
+        "Kinesiske handelsmyndigheter opplyste i sommer at arbeidsgruppene hadde gjennomført mer enn 20 konsultasjoner, at forhandlingslederne hadde hatt to digitale forhandlingsrunder, og at handelskommissær Maroš Šefčovič og Kinas handelsminister Wang Wentao hadde holdt nær kontakt.",
+        "Bakgrunnen er et handelsunderskudd i EU med Kina på 359,8 milliarder euro i fjor – nær én milliard euro om dagen.",
+        "For presset har fortsatt inn i 2026: I første kvartal hadde EU et underskudd i varehandelen med Kina på 98 milliarder euro, det høyeste siden 2022."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
-      "localImage": "assets/news/9903903ec87f3c.png",
+      "url": "https://e24.no/internasjonal-oekonomi/i/pBV8W1/eu-truer-med-kina-grep-maa-snart-vise-handling",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/afce6347-eb27-3bf7-8db7-1968fd4b5010?fit=crop&h=675&upscale=true&w=1200&s=590a1e94d651b136c018d6123d3fa9ac0841adec",
+      "localImage": "assets/news/f3205df64767a7.jpg",
+      "score": 14
+    },
+    {
+      "id": "7c9ceb2bd22c26",
+      "category": "Økonomi",
+      "published": "30.08. 13:40",
+      "publishedISO": "2026-08-30T13:40:35+02:00",
+      "title": "Kjenner du egentlig din kollega Lise?",
+      "summary": "Men bak en dyktig selger kan det ligge langt mer enn gode talegaver: rask informasjonsbearbeiding, forretningsforståelse, nysgjerrighet, problemløsning og evne til å bygge tillit, stille gode spørsmål, håndtere motstand og lese mennesker og situasjoner. Han må kunne skille viktig informasjon fra støy, forstå behov som ikke alltid blir uttalt, endre retning underveis og vite når han skal argumentere – og når han skal være stille. Eller kjenner de først og fremst fortellingen de har laget om Lise?",
+      "keyPoints": [
+        "Eller kjenner de først og fremst fortellingen de har laget om Lise?",
+        "Men bak en dyktig selger kan det ligge langt mer enn gode talegaver: rask informasjonsbearbeiding, forretningsforståelse, nysgjerrighet, problemløsning og evne til å bygge tillit, stille gode spørsmål, håndtere motstand og lese mennesker og situasjoner.",
+        "Han må kunne skille viktig informasjon fra støy, forstå behov som ikke alltid blir uttalt, endre retning underveis og vite når han skal argumentere – og når han skal være stille.",
+        "Virksomheter må bygge ny kompetanse, samtidig som mange sliter med å finne menneskene de trenger."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/karriere-og-ledelse/i/2pXE3G/kjenner-du-egentlig-din-kollega-lise",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fc26fc6e-1649-3b6a-8a71-d72d8096f79f?fit=crop&h=675&upscale=true&w=1200&s=801e3f7d6b19e589030042f4a70c7e19cfec2ab6",
+      "localImage": "assets/news/7c9ceb2bd22c26.jpg",
+      "score": 14
+    },
+    {
+      "id": "ee031a853ff68b",
+      "category": "Økonomi",
+      "published": "31.08. 11:15",
+      "publishedISO": "2026-08-31T11:15:30+02:00",
+      "title": "Norsk ambassadør reddet av Elon Musks satellitt­sverm",
+      "summary": "Ambassaden i Australia måtte kjøpe Starlink fra SpaceX på grunn av «store utfordringer» med internett. Rett før sommeren sendte ambassadesekretær Geir Magnussen i Canberra en søknad til Statsbygg om å installere Starlink i ambassadørens residens, viser dokumenter E24 har fått innsyn i. Snart skal Per Albert Ilsaas ta over som ambassadør etter Anne Grete Riise, som ga seg tidligere i år.",
+      "keyPoints": [
+        "Snart skal Per Albert Ilsaas ta over som ambassadør etter Anne Grete Riise, som ga seg tidligere i år.",
+        "Rett før sommeren sendte ambassadesekretær Geir Magnussen i Canberra en søknad til Statsbygg om å installere Starlink i ambassadørens residens, viser dokumenter E24 har fått innsyn i.",
+        "Ambassaden i Australia måtte kjøpe Starlink fra SpaceX på grunn av «store utfordringer» med internett.",
+        "E24 har spurt Utenriksdepartementet om andre norske ambassader har gått for Starlink. – Utenrikstjenesten bruker ulike typer satellittutstyr til daglig bruk og i beredskapssituasjoner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/teknologi/i/WvaE9j/norsk-ambassadoer-reddet-av-elon-musks-satellittsverm",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/9cb9d8fd-7b4d-3e72-98e0-e4306d60d82a?fit=crop&h=675&upscale=true&w=1200&s=037ca6064c1d7abcb6ff79f8477d8c80e1c246a5",
+      "localImage": "assets/news/ee031a853ff68b.jpg",
       "score": 13
     },
     {
@@ -130,27 +172,6 @@
       "score": 13
     },
     {
-      "id": "1a8cd1125cc625",
-      "category": "Verden",
-      "published": "31.08. 09:06",
-      "publishedISO": "2026-08-31T09:06:17+02:00",
-      "title": "Italian Grand Prix at Monza in pictures",
-      "summary": "Den italienske Grand Prix finner sted denne helgen på Monza, uten tvil det mest historiske stedet på kalenderen. Et bilde fra Italiens Grand Prix i 1950, det siste løpet av Formel 1s første sesong. Juan Manuel Fangio blir fulgt av Stirling Moss og Peter Collins på den bratte banen under den italienske Grand Prix i 1956.",
-      "keyPoints": [
-        "Den italienske Grand Prix finner sted denne helgen på Monza, uten tvil det mest historiske stedet på kalenderen.",
-        "Et bilde fra Italiens Grand Prix i 1950, det siste løpet av Formel 1s første sesong.",
-        "Juan Manuel Fangio blir fulgt av Stirling Moss og Peter Collins på den bratte banen under den italienske Grand Prix i 1956.",
-        "Hans lagkamerat Mario Andretti vant verdenstittelen på dagen for Petersons ulykke og sa etter hans død: \"Dessverre er motorsport også dette.\" Den italienske Grand Prix var det eneste løpet som ikke ble vunnet av McLaren i 1988."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/ckg8w8qj5z9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/15c5/live/a6fe4ab0-a517-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/1a8cd1125cc625.jpg",
-      "score": 13
-    },
-    {
       "id": "64aa7fdd68d99e",
       "category": "Norge",
       "published": "31.08. 08:26",
@@ -191,27 +212,6 @@
       "image": "https://gfx.nrk.no/yrmegw911Z5REWBQ3-7LKwuFnLJBu23dLAauCnFqIoPQ.jpg",
       "localImage": "assets/news/4984ba322d4b89.jpg",
       "score": 13
-    },
-    {
-      "id": "941ae1f08d8930",
-      "category": "Norge",
-      "published": "31.08. 07:03",
-      "publishedISO": "2026-08-31T07:03:35+02:00",
-      "title": "Nye og sjeldne sommerfugler oppdaget i Norge",
-      "summary": "Denne store purpurkåpen fascinerte Lisa Le fra Lillestrøm De siste årene har det dukket opp stadig flere nye insekter, som vanligvis ikke hører hjemme i norsk natur. Jørn Thollefsen har registrert 850 forskjellige sommerfugler bare i Larvik. Jørn Thollefsen var den første som oppdaget sommerfuglen «Båndglansfly» i Norge.",
-      "keyPoints": [
-        "Jørn Thollefsen var den første som oppdaget sommerfuglen «Båndglansfly» i Norge.",
-        "Denne store purpurkåpen fascinerte Lisa Le fra Lillestrøm De siste årene har det dukket opp stadig flere nye insekter, som vanligvis ikke hører hjemme i norsk natur.",
-        "Jørn Thollefsen har registrert 850 forskjellige sommerfugler bare i Larvik.",
-        "Den sjeldne skapningen seilte ned på nesen hennes og brukte god tid på visitten. – Jeg har aldri opplevd en sommerfugl som oppsøker nærkontakt på den måten, forteller hun."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/nye-og-sjeldne-sommerfugler-oppdaget-i-norge-1.17994439",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/IveYUz9qNsBfic88sGxKTQvgfL-xbW4-cRdje5hp4cIw.jpg",
-      "localImage": "assets/news/941ae1f08d8930.webp",
-      "score": 12
     }
   ]
 }
