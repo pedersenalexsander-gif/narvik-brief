@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 06:21",
-  "updatedISO": "2026-08-31T06:21:35.547520+02:00",
+  "updatedAt": "31.08.2026 kl. 06:36",
+  "updatedISO": "2026-08-31T06:36:31.191690+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -65,6 +65,27 @@
       "image": "https://akamai.vgc.no/v2/images/fc26fc6e-1649-3b6a-8a71-d72d8096f79f?fit=crop&h=675&upscale=true&w=1200&s=801e3f7d6b19e589030042f4a70c7e19cfec2ab6",
       "localImage": "assets/news/7c9ceb2bd22c26.jpg",
       "score": 15
+    },
+    {
+      "id": "0d7272352707ce",
+      "category": "Økonomi",
+      "published": "31.08. 06:34",
+      "publishedISO": "2026-08-31T06:34:23+02:00",
+      "title": "Bakkafrost tapte 241 millioner danske kroner før skatt",
+      "summary": "Slik er fasiten: Forskjellen mellom operasjonelt og ordinært driftsresultat skyldes hovedsakelig en negativ verdiendring på den biologiske beholdningen på 406 millioner danske kroner. Tallene ble tynget av en operasjonell ebit på minus 139 millioner danske kroner i Skottland. – Vi er ikke fornøyde med resultatet i Skottland. På Færøyene var fasiten 411 millioner danske kroner i pluss. – Resultatet var drevet av sterk biologisk og operasjonell utvikling på Færøyene.",
+      "keyPoints": [
+        "Tallene ble tynget av en operasjonell ebit på minus 139 millioner danske kroner i Skottland. – Vi er ikke fornøyde med resultatet i Skottland.",
+        "Slik er fasiten: Forskjellen mellom operasjonelt og ordinært driftsresultat skyldes hovedsakelig en negativ verdiendring på den biologiske beholdningen på 406 millioner danske kroner.",
+        "På Færøyene var fasiten 411 millioner danske kroner i pluss. – Resultatet var drevet av sterk biologisk og operasjonell utvikling på Færøyene.",
+        "Analytikerne lå inne med 409 millioner danske kroner, fremgår det."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/zObvow/bakkafrost-tapte-241-millioner-danske-kroner-foer-skatt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/18248f47-27c7-3d20-b764-bd748f5dc03b?fit=crop&h=675&upscale=true&w=1200&s=b1a63579adb861a1691bce74a7a2f1824b4feb90",
+      "localImage": "assets/news/0d7272352707ce.jpg",
+      "score": 13
     },
     {
       "id": "af34f38640213d",
@@ -169,27 +190,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/_u1D9Yuun8LCWsLIDv1Amw2D-wvxhYS_i2Q6RgvLqdDw.jpg",
       "localImage": "assets/news/4b2d8e45062875.jpg",
-      "score": 12
-    },
-    {
-      "id": "288d1fa12f4cbd",
-      "category": "Norge",
-      "published": "30.08. 20:26",
-      "publishedISO": "2026-08-30T20:26:07+02:00",
-      "title": "Kong Haakon viste sin tro i sin første tale",
-      "summary": "Kong Haakon VIIIs første tale hadde religiøst tilsnitt. Sjefredaktøren i Norges eldste kristne dagsavis setter stor pris på at Hans Majestet Kong Haakon VIII pekte på Gud i sin aller første tale: – Det er jo en klar kristen oppfatning at man kan be om Guds hjelp i alle oppgaver. Venninnene NRK møter ved den blå steinen i Bergen, tenker at det er helt greit at Kong Haakon nevnte Gud i sin tale:– Jeg syns det er greit, sier Celine Victoria Berntsen.– Han må få tro det han vil, selv om han er konge, sier Andrine Hatlen Juvik.– Tenker det er greit.",
-      "keyPoints": [
-        "Sjefredaktøren i Norges eldste kristne dagsavis setter stor pris på at Hans Majestet Kong Haakon VIII pekte på Gud i sin aller første tale: – Det er jo en klar kristen oppfatning at man kan be om Guds hjelp i alle oppgaver.",
-        "Venninnene NRK møter ved den blå steinen i Bergen, tenker at det er helt greit at Kong Haakon nevnte Gud i sin tale:– Jeg syns det er greit, sier Celine Victoria Berntsen.– Han må få tro det han vil, selv om han er konge, sier Andrine Hatlen Juvik.– Tenker det er greit.",
-        "Kong Haakon VIIIs første tale hadde religiøst tilsnitt.",
-        "Jeg ber om at vi alle samles om det gamle ønsket: Slik avslutta Kong Hakon VIII den første talen til nasjonen han holdt som regent. – Jeg synes det var veldig sterkt av kong Haakon å nevne Gud i talen sin, sier Vebjørn Selbekk."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/kong-haakon-viste-sin-tro-i-sin-forste-tale-1.18008011",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6Hf1AryEsCG0EOBSfjH9lAR_h9LyWHAOpg1GLlP0XUzA",
-      "localImage": "assets/news/288d1fa12f4cbd.webp",
       "score": 12
     },
     {
