@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 01:06",
-  "updatedISO": "2026-09-01T01:06:50.420750+02:00",
+  "updatedAt": "01.09.2026 kl. 01:21",
+  "updatedISO": "2026-09-01T01:21:28.685815+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,6 +46,27 @@
       "score": 13
     },
     {
+      "id": "23d301817333e7",
+      "category": "Økonomi",
+      "published": "01.09. 00:07",
+      "publishedISO": "2026-09-01T00:07:19+02:00",
+      "title": "Uniqlo, Muji: Japan Inc is betting big on India as China risks deepen",
+      "summary": "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene. MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor. Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
+      "keyPoints": [
+        "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
+        "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
+        "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/23d301817333e7.jpg",
+      "score": 17
+    },
+    {
       "id": "57dc53af51089f",
       "category": "Økonomi",
       "published": "31.08. 09:01",
@@ -65,27 +86,6 @@
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
       "localImage": "assets/news/57dc53af51089f.jpg",
       "score": 17
-    },
-    {
-      "id": "1b00109f1e50c2",
-      "category": "Økonomi",
-      "published": "31.08. 10:07",
-      "publishedISO": "2026-08-31T10:07:51+02:00",
-      "title": "Norges Bank skal selge kroner i september",
-      "summary": "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken. Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august. Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
-      "keyPoints": [
-        "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken.",
-        "Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
-        "Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august.",
-        "De samlede valutatransaksjonene i september består av 300 millioner i kronesalg daglig på vegne av staten, som er relatert til statsbudsjettet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/JOqV24/norges-bank-skal-selge-kroner-for-176-millioner-kroner-i-september",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
-      "localImage": "assets/news/1b00109f1e50c2.jpg",
-      "score": 16
     },
     {
       "id": "acc159be8eb848",
@@ -127,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
       "localImage": "assets/news/0bd42c4b0f2f88.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "eb2c7d2c82fbce",
@@ -148,6 +148,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/q6R_9SuarCA-8cXrzOSK5wqdr41ZvUCzEyriVApsiB6g.jpg",
       "localImage": "assets/news/eb2c7d2c82fbce.jpg",
+      "score": 15
+    },
+    {
+      "id": "1b00109f1e50c2",
+      "category": "Økonomi",
+      "published": "31.08. 10:07",
+      "publishedISO": "2026-08-31T10:07:51+02:00",
+      "title": "Norges Bank skal selge kroner i september",
+      "summary": "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken. Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august. Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+      "keyPoints": [
+        "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken.",
+        "Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+        "Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august.",
+        "De samlede valutatransaksjonene i september består av 300 millioner i kronesalg daglig på vegne av staten, som er relatert til statsbudsjettet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/JOqV24/norges-bank-skal-selge-kroner-for-176-millioner-kroner-i-september",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
+      "localImage": "assets/news/1b00109f1e50c2.jpg",
       "score": 15
     },
     {
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jOGIqcJvwTFwt0eY3Yghjg7hHeDBiXkfA4igAvTDr22A",
       "localImage": "assets/news/663f4559765b5b.jpg",
-      "score": 13
-    },
-    {
-      "id": "a17f2ecae9fa39",
-      "category": "Verden",
-      "published": "31.08. 21:11",
-      "publishedISO": "2026-08-31T21:11:57+02:00",
-      "title": "Across Latin America, 'aura battles' burst onto the scene",
-      "summary": "Unge mennesker over hele Latin-Amerika deltar i virale \"aura-kamper\", der deltakerne konkurrerer om å bevise hvem som har mest karisma. Over hele Latin-Amerika brøt \"aurakamper\" inn på scenen. Video, 00:00:55 Over hele Latin-Amerika brøt 'aurakamper' inn på scenen Up Next.",
-      "keyPoints": [
-        "Across Latin America, 'aura battles' burst onto the scene.",
-        "Unge mennesker over hele Latin-Amerika deltar i virale \"aura-kamper\", der deltakerne konkurrerer om å bevise hvem som har mest karisma.",
-        "Video, 00:01:03Once a village, now barren land - BBC in valley devastated by floods Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse.",
-        "Video, 00:01:04Se: Stjernekikkere rundt om i verden får et glimt av 'Blood Moon' måneformørkelse. De sporer den dødelige banen til lynflommen mellom Nepal og Tibet."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8382/live/9f1c9640-a57a-11f1-9648-5fefd339ae88.jpg",
-      "localImage": "assets/news/a17f2ecae9fa39.jpg",
       "score": 13
     }
   ]
