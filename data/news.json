@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 08:21",
-  "updatedISO": "2026-08-31T08:21:44.381765+02:00",
+  "updatedAt": "31.08.2026 kl. 08:36",
+  "updatedISO": "2026-08-31T08:36:28.037745+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -65,6 +65,27 @@
       "image": "https://akamai.vgc.no/v2/images/fc26fc6e-1649-3b6a-8a71-d72d8096f79f?fit=crop&h=675&upscale=true&w=1200&s=801e3f7d6b19e589030042f4a70c7e19cfec2ab6",
       "localImage": "assets/news/7c9ceb2bd22c26.jpg",
       "score": 15
+    },
+    {
+      "id": "64aa7fdd68d99e",
+      "category": "Norge",
+      "published": "31.08. 08:26",
+      "publishedISO": "2026-08-31T08:26:08+02:00",
+      "title": "Harstad pride ble avlyst på grunn av kongens bortgang. Regnbuemessen ble flyttet til kirken",
+      "summary": "Regnbuemessen ble gjennomført, med sorgen over kongens bortgang som en viktig bakteppe. Kongens bortgang førte til at Harstad pride, i likhet med blant annet Longyearbyen pride, valgte å avlyse årets Pride-uke. For ham ble det en sterk opplevelse å tale i kirken to dager etter kongens dødsfall. – Å flytte sorgen over vår kjære konges bortgang inn i en regnbuemesse, det syns jeg var veldig fint.",
+      "keyPoints": [
+        "Kongens bortgang førte til at Harstad pride, i likhet med blant annet Longyearbyen pride, valgte å avlyse årets Pride-uke.",
+        "Regnbuemessen ble gjennomført, med sorgen over kongens bortgang som en viktig bakteppe.",
+        "For ham ble det en sterk opplevelse å tale i kirken to dager etter kongens dødsfall. – Å flytte sorgen over vår kjære konges bortgang inn i en regnbuemesse, det syns jeg var veldig fint.",
+        "SAMLET SEG: Jørn Johansen, Styreleder i Harstad pride forteller om at over gjennomsnittlig oppmøte under søndagens messe."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/harstad-pride-ble-avlyst-pa-grunn-av-kongens-bortgang.-regnbuemessen-ble-flyttet-til-kirken-1.18008382",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/dtXa2O9opIpYwrLjrnWRXwqqxcTRZpjqOLHb8-lLPHnA.jpg",
+      "localImage": "assets/news/64aa7fdd68d99e.jpg",
+      "score": 13
     },
     {
       "id": "941ae1f08d8930",
