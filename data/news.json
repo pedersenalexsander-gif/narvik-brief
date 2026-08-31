@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 17:37",
-  "updatedISO": "2026-08-31T17:37:56.022274+02:00",
+  "updatedAt": "31.08.2026 kl. 17:52",
+  "updatedISO": "2026-08-31T17:52:01.061820+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -65,6 +65,27 @@
       "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
       "localImage": "assets/news/1b00109f1e50c2.jpg",
       "score": 17
+    },
+    {
+      "id": "bb318dcf5b96ba",
+      "category": "Norge",
+      "published": "31.08. 17:40",
+      "publishedISO": "2026-08-31T17:40:26+02:00",
+      "title": "Kongefamilien er på Slottsplassen",
+      "summary": "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen. De to går hånd i hånd og ser på blomstene og hilsener som ligegr på bakken foran Slottsplassen. I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
+      "keyPoints": [
+        "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen.",
+        "De to går hånd i hånd og ser på blomstene og hilsener som ligegr på bakken foran Slottsplassen.",
+        "I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
+        "Allerede da kongehuset meldte torsdag at tilstanden til kong Harald var svært alvorlig, strømmet folk til Slottsplassen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/kongefamilien-er-pa-slottsplassen-1.18009515",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/WSQDhWNU8QkC6N4fD3xScwM5lZrHckI1Xl_NivSQ2_BA.jpg",
+      "localImage": "assets/news/bb318dcf5b96ba.webp",
+      "score": 13
     },
     {
       "id": "c7ef2303e211dd",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/rjXAF1QS2eKht_5Lo7gMGwiGbgzBFvn2E_HsHApDL35g.jpg",
       "localImage": "assets/news/7f9fd836a59ff4.webp",
-      "score": 13
-    },
-    {
-      "id": "3265bd5a0c8b52",
-      "category": "Norge",
-      "published": "31.08. 14:18",
-      "publishedISO": "2026-08-31T14:18:09+02:00",
-      "title": "Anonym trussel på «Jodel» stengde skulen: – Svært alvorleg",
-      "summary": "Ein trussel på den anonyme appen «Jodel» førte til at rundt 1200 elevar måtte evakuere frå skulen. TRUSSEL: Store politistyrkar rykte ut til Gjøvik vidaregåande skule etter at det vart oppdaga ein trussel mot skulen på den anonyme appen «Jodel». Elevar og lærarar ved Gjøvik vidaregåande skule måtte brått avslutte skuledagen då det vart oppdaga ein trussel mot skulen fredag.",
-      "keyPoints": [
-        "Ein trussel på den anonyme appen «Jodel» førte til at rundt 1200 elevar måtte evakuere frå skulen.",
-        "TRUSSEL: Store politistyrkar rykte ut til Gjøvik vidaregåande skule etter at det vart oppdaga ein trussel mot skulen på den anonyme appen «Jodel».",
-        "Elevar og lærarar ved Gjøvik vidaregåande skule måtte brått avslutte skuledagen då det vart oppdaga ein trussel mot skulen fredag.",
-        "Politiet ser svært alvorleg på hendinga, seier Talberg. – Vi tar slike truslar alvorleg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/la-ut-trussel-mot-gjovik-vidaregaande-skule-pa-jodel_-1200-elevar-matte-evakuere-1.18009104",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2JUkaAQshwNwooA5fDVD_Qdz_kOziTY67DDLHlcHKh6w.jpg",
-      "localImage": "assets/news/3265bd5a0c8b52.jpg",
       "score": 13
     }
   ]
