@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 17:52",
-  "updatedISO": "2026-08-31T17:52:01.061820+02:00",
+  "updatedAt": "31.08.2026 kl. 18:07",
+  "updatedISO": "2026-08-31T18:07:31.310937+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,24 +67,45 @@
       "score": 17
     },
     {
-      "id": "bb318dcf5b96ba",
+      "id": "b2810001b17ffe",
       "category": "Norge",
-      "published": "31.08. 17:40",
-      "publishedISO": "2026-08-31T17:40:26+02:00",
-      "title": "Kongefamilien er på Slottsplassen",
-      "summary": "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen. De to går hånd i hånd og ser på blomstene og hilsener som ligegr på bakken foran Slottsplassen. I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
+      "published": "31.08. 18:00",
+      "publishedISO": "2026-08-31T18:00:50+02:00",
+      "title": "Politiet henlegger anmeldelse av ordfører etter bredbåndskaos i Leirfjord:",
+      "summary": "I juni vekket det oppsikt da sittende ordfører i Leirfjord kommune i Nordland ble anmeldt av flertall i eget kommunestyre. Varaordfører Åshild Pettersen og ordfører Sten Rino Bonsaksen i Leirfjord kommune. Sten Rino Bonsaksen er ordfører i Leirfjord kommune, men er i dag uavhengig representant etter å ha meldt seg ut av Arbeiderpartiet i juni 2026. – Det var en lettelse at politiet har gjort en ryddig og god jobb i forbindelse med den anmeldelsen som ble levert inn.",
       "keyPoints": [
-        "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen.",
-        "De to går hånd i hånd og ser på blomstene og hilsener som ligegr på bakken foran Slottsplassen.",
-        "I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
-        "Allerede da kongehuset meldte torsdag at tilstanden til kong Harald var svært alvorlig, strømmet folk til Slottsplassen."
+        "Sten Rino Bonsaksen er ordfører i Leirfjord kommune, men er i dag uavhengig representant etter å ha meldt seg ut av Arbeiderpartiet i juni 2026. – Det var en lettelse at politiet har gjort en ryddig og god jobb i forbindelse med den anmeldelsen som ble levert inn.",
+        "Varaordfører Åshild Pettersen og ordfører Sten Rino Bonsaksen i Leirfjord kommune.",
+        "I juni vekket det oppsikt da sittende ordfører i Leirfjord kommune i Nordland ble anmeldt av flertall i eget kommunestyre.",
+        "Bonsaksen avviser også at styret har ansvaret for selskapets økonomiske uføre, og peker i stedet på kommunens egen økonomi: – Det som gjorde at bredbåndsselskapet ikke kunne gå videre med sin planlagte finansiering, var at Leirfjord kommune gikk med et rekordstort merforbruk i 2023."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/kongefamilien-er-pa-slottsplassen-1.18009515",
+      "url": "https://www.nrk.no/nordland/politiet-henlegger-anmeldelse-av-ordforer-etter-bredbandskaos-i-leirfjord_-1.18008802",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/WSQDhWNU8QkC6N4fD3xScwM5lZrHckI1Xl_NivSQ2_BA.jpg",
-      "localImage": "assets/news/bb318dcf5b96ba.webp",
+      "image": "https://gfx.nrk.no/YqCiN98LqYGIFybeF2XWIQ9CTKoWb-jpRRomzy9WDIXA.jpg",
+      "localImage": "assets/news/b2810001b17ffe.jpg",
+      "score": 13
+    },
+    {
+      "id": "d0cce1761bc34f",
+      "category": "Norge",
+      "published": "31.08. 17:40",
+      "publishedISO": "2026-08-31T17:40:26+02:00",
+      "title": "Kongefamilien møtte folket på Slottsplassen",
+      "summary": "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen. Folket på Slottsplassen tok bilder og løftet opp barna slik at de også fikk sett kongefamilien. I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
+      "keyPoints": [
+        "I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
+        "Folket på Slottsplassen tok bilder og løftet opp barna slik at de også fikk sett kongefamilien.",
+        "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen.",
+        "Etter at kong Haralds båre ble ført til Slottskapellet, gikk kongeparet, dronning Sonja og prinsesse Märtha Louise ut på Slottsplassen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/kongefamilien-motte-folket-pa-slottsplassen-1.18009515",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/-S0JFZbDSlzDzokjDEQHlAyT4JY0sjM8t_o9mSm1_j_A.jpg",
+      "localImage": "assets/news/d0cce1761bc34f.webp",
       "score": 13
     },
     {
@@ -177,9 +198,9 @@
       "published": "31.08. 15:31",
       "publishedISO": "2026-08-31T15:31:12+02:00",
       "title": "Rapport tyder på at avdøde skal ha vore død før eksplosjonen på Foldnes i Øygarden",
-      "summary": "Ein rapport tyder på at mannen som blei funnen død på Foldnes i Øygarden, var allereie død før eksplosjonen. Det brann i eit bustadbygg på Foldnes i Øygarden kommune etter ein eksplosjon førre veke. Utifrå opplysingane i den, kan det tyde på at avdøde var død før eksplosjonen, seier politiadvokat Cathrine Schjelderup til NRK.",
+      "summary": "Ein rapport tyder på at mannen som blei funnen død på Foldnes i Øygarden, var død allereie før eksplosjonen. Det brann i eit bustadbygg på Foldnes i Øygarden kommune etter ein eksplosjon førre veke. Utifrå opplysingane i den, kan det tyde på at avdøde var død før eksplosjonen, seier politiadvokat Cathrine Schjelderup til NRK.",
       "keyPoints": [
-        "Ein rapport tyder på at mannen som blei funnen død på Foldnes i Øygarden, var allereie død før eksplosjonen.",
+        "Ein rapport tyder på at mannen som blei funnen død på Foldnes i Øygarden, var død allereie før eksplosjonen.",
         "Utifrå opplysingane i den, kan det tyde på at avdøde var død før eksplosjonen, seier politiadvokat Cathrine Schjelderup til NRK.",
         "Det brann i eit bustadbygg på Foldnes i Øygarden kommune etter ein eksplosjon førre veke.",
         "Ein person vart funnen død, og to blei skadd. – Politiet har i dag fått ein førebels obduksjonsrapport."
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/QyY-dXFk-s_k-FmlaFjcYwjVRRV9bEauwsfhJXOTuiJg.jpg",
       "localImage": "assets/news/1f276c2423d86b.jpg",
-      "score": 13
-    },
-    {
-      "id": "7f9fd836a59ff4",
-      "category": "Norge",
-      "published": "31.08. 14:58",
-      "publishedISO": "2026-08-31T14:58:38+02:00",
-      "title": "Fikk drømmen oppfylt om å bo med urfolk i regnskogen",
-      "summary": "I 2013 fikk han drømmen oppfylt om å få besøke regnskogen der han møtte Yanomami-folket. I nyttårstalen 2023 fortalte han at han delte uroen rundt klimaendringer med mange. Han fikk se og høre det fantastiske registeret av plystrelyder de kan gjøre med strå.",
-      "keyPoints": [
-        "I 2013 fikk han drømmen oppfylt om å få besøke regnskogen der han møtte Yanomami-folket.",
-        "I nyttårstalen 2023 fortalte han at han delte uroen rundt klimaendringer med mange.",
-        "Han fikk se og høre det fantastiske registeret av plystrelyder de kan gjøre med strå.",
-        "Yanomamiene, og landsbyen de besøkte ligger helt utenfor allfarvei. – Vi måtte fly i ettmotors, lite fly til en ruglete gressmatte i skogen, sier Lars Løvold etter at kong Harald gikk bort, til NRK."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sapmi/fikk-drommen-oppfylt-om-a-bo-med-urfolk-i-regnskogen-1.18008766",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/rjXAF1QS2eKht_5Lo7gMGwiGbgzBFvn2E_HsHApDL35g.jpg",
-      "localImage": "assets/news/7f9fd836a59ff4.webp",
       "score": 13
     }
   ]
