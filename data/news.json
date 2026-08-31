@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 15:06",
-  "updatedISO": "2026-08-31T15:06:54.824911+02:00",
+  "updatedAt": "31.08.2026 kl. 15:22",
+  "updatedISO": "2026-08-31T15:22:02.067490+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,27 @@
       "image": "https://gfx.nrk.no/q6R_9SuarCA-8cXrzOSK5wqdr41ZvUCzEyriVApsiB6g.jpg",
       "localImage": "assets/news/eb2c7d2c82fbce.jpg",
       "score": 17
+    },
+    {
+      "id": "74589dc1869c3e",
+      "category": "Verden",
+      "published": "31.08. 15:11",
+      "publishedISO": "2026-08-31T15:11:35+02:00",
+      "title": "Mann arrestert etter sveitsisk rave-skyting som drepte en 22 år gammel kvinne",
+      "summary": "Arrestasjonen kommer etter at en 22 år gammel kvinne ble drept og flere andre såret på en techno rave En 43 år gammel sveitsisk mann er blitt arrestert etter et skyting på en rave i Sveits der en kvinne ble drept. Italienske 22 år gamle Maria Spinelli ble drept og flere andre skadet i en techno-rave som ble holdt på en hesteveddeløpsbane i Aarau, en by omtrent 46 km vest for Zürich søndag. Menneskejakt etter å ha skutt mot Swiss rave dreper en 22-årig kvinne og skader fem",
+      "keyPoints": [
+        "Arrestasjonen kommer etter at en 22 år gammel kvinne ble drept og flere andre såret på en techno rave En 43 år gammel sveitsisk mann er blitt arrestert etter et skyting på en rave i Sveits der en kvinne ble drept.",
+        "Menneskejakt etter å ha skutt mot Swiss rave dreper en 22-årig kvinne og skader fem",
+        "Italian 22-year-old Maria Spinelli was killed and several others injured at a techno rave being held at a horse racing track in Aarau, a town about 46km (29 miles) west of Zurich on Sunday.",
+        "Den siste store skytingen skjedde i 2001, da 14 medlemmer av parlamentet og lokale myndigheter i Zug, nær Luzern, ble drept av en våpenmann som deretter tok sitt eget liv."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg",
+      "localImage": "assets/news/74589dc1869c3e.jpg",
+      "score": 13
     },
     {
       "id": "e780dfe9634bdf",
@@ -64,7 +85,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
       "localImage": "assets/news/1b00109f1e50c2.jpg",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "7f9fd836a59ff4",
+      "category": "Norge",
+      "published": "31.08. 14:58",
+      "publishedISO": "2026-08-31T14:58:38+02:00",
+      "title": "Fikk drømmen oppfylt om å bo med urfolk i regnskogen",
+      "summary": "I 2013 fikk han drømmen oppfylt om å få besøke regnskogen der han møtte Yanomami-folket. I nyttårstalen 2023 fortalte han at han delte uroen rundt klimaendringer med mange. Han fikk se og høre det fantastiske registeret av plystrelyder de kan gjøre med strå.",
+      "keyPoints": [
+        "I 2013 fikk han drømmen oppfylt om å få besøke regnskogen der han møtte Yanomami-folket.",
+        "I nyttårstalen 2023 fortalte han at han delte uroen rundt klimaendringer med mange.",
+        "Han fikk se og høre det fantastiske registeret av plystrelyder de kan gjøre med strå.",
+        "Yanomamiene, og landsbyen de besøkte ligger helt utenfor allfarvei. – Vi måtte fly i ettmotors, lite fly til en ruglete gressmatte i skogen, sier Lars Løvold etter at kong Harald gikk bort, til NRK."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sapmi/fikk-drommen-oppfylt-om-a-bo-med-urfolk-i-regnskogen-1.18008766",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/rjXAF1QS2eKht_5Lo7gMGwiGbgzBFvn2E_HsHApDL35g.jpg",
+      "localImage": "assets/news/7f9fd836a59ff4.webp",
+      "score": 13
+    },
+    {
+      "id": "9903903ec87f3c",
+      "category": "Verden",
+      "published": "31.08. 14:55",
+      "publishedISO": "2026-08-31T14:55:25+02:00",
+      "title": "En flom i Grand Canyon dreper en og setter i gang leting etter savnede turgåere",
+      "summary": "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien. En person er omkommet og 15 er fortsatt savnet eller uoppdaget etter at flom har feid gjennom deler av Grand Canyon, har National Park Service (NPS) sagt. 62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC. Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer var ødelagt av oversvømmelsen. NPS advarte også om at flere tordenvær og kraftig nedbør var varslet søndag og mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
+      "keyPoints": [
+        "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien. En person er omkommet og 15 er fortsatt savnet eller uoppdaget etter at flom har feid gjennom deler av Grand Canyon, har National Park Service (NPS) sagt.",
+        "62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC.",
+        "Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer var ødelagt av oversvømmelsen. NPS advarte også om at flere tordenvær og kraftig nedbør var varslet søndag og mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
+        "Baggs sa at hun og vennene hennes nettopp hadde levert fra seg eiendelene sine på en hytte i Phantom Ranch - en avsidesliggende hytte på bunnen av Grand Canyon - da de bestemte seg for å dra ut for å nyte den fine dagen."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
+      "localImage": "assets/news/9903903ec87f3c.png",
+      "score": 13
     },
     {
       "id": "3265bd5a0c8b52",
@@ -109,6 +172,27 @@
       "score": 13
     },
     {
+      "id": "02c7107c5a5e9f",
+      "category": "Verden",
+      "published": "31.08. 13:41",
+      "publishedISO": "2026-08-31T13:41:05+02:00",
+      "title": "Søket fortsetter etter 18 passasjerer etter at fergen kantret på Nord-Kypros",
+      "summary": "Mer enn 24 timer etter katastrofen søker redningsmenn etter de savnede. Redningsmenn fortsetter søket etter 18 passasjerer på en ferge som kantret utenfor kysten av Nord-Kypros søndag. Fartøyet, som fraktet 259 passasjerer og åtte besetningsmedlemmer, begynte å ta på vannet like etter avgang fra kystbyen Kyrenia i den selverklærte tyrkiske republikken på Kypros. Åtte drept og 18 savnet etter at fergen kantret utenfor Nord-Kypros",
+      "keyPoints": [
+        "Mer enn 24 timer etter katastrofen søker redningsmenn etter de savnede. Redningsmenn fortsetter søket etter 18 passasjerer på en ferge som kantret utenfor kysten av Nord-Kypros søndag.",
+        "Åtte drept og 18 savnet etter at fergen kantret utenfor Nord-Kypros",
+        "Fartøyet, som fraktet 259 passasjerer og åtte besetningsmedlemmer, begynte å ta på vannet like etter avgang fra kystbyen Kyrenia i den selverklærte tyrkiske republikken på Kypros.",
+        "Åtte personer er bekreftet å ha omkommet i hendelsen, mens 19 for tiden behandles på sykehus i Nord-Kypros, opplyser lokale myndigheter."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e12/live/a0ae2f30-a52c-11f1-8ebe-efa2c58ecfe9.png",
+      "localImage": "assets/news/02c7107c5a5e9f.png",
+      "score": 13
+    },
+    {
       "id": "1e26c207ead14d",
       "category": "Norge",
       "published": "31.08. 13:22",
@@ -127,90 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/T1P85uEMWtrvxwDqfd8A2giFB9gc-RDV117M0ldq0BRg.jpg",
       "localImage": "assets/news/1e26c207ead14d.jpg",
-      "score": 13
-    },
-    {
-      "id": "ee031a853ff68b",
-      "category": "Økonomi",
-      "published": "31.08. 11:15",
-      "publishedISO": "2026-08-31T11:15:30+02:00",
-      "title": "Norsk ambassadør reddet av Elon Musks satellitt­sverm",
-      "summary": "Ambassaden i Australia måtte kjøpe Starlink fra SpaceX på grunn av «store utfordringer» med internett. Rett før sommeren sendte ambassadesekretær Geir Magnussen i Canberra en søknad til Statsbygg om å installere Starlink i ambassadørens residens, viser dokumenter E24 har fått innsyn i. Snart skal Per Albert Ilsaas ta over som ambassadør etter Anne Grete Riise, som ga seg tidligere i år.",
-      "keyPoints": [
-        "Snart skal Per Albert Ilsaas ta over som ambassadør etter Anne Grete Riise, som ga seg tidligere i år.",
-        "Rett før sommeren sendte ambassadesekretær Geir Magnussen i Canberra en søknad til Statsbygg om å installere Starlink i ambassadørens residens, viser dokumenter E24 har fått innsyn i.",
-        "Ambassaden i Australia måtte kjøpe Starlink fra SpaceX på grunn av «store utfordringer» med internett.",
-        "E24 har spurt Utenriksdepartementet om andre norske ambassader har gått for Starlink. – Utenrikstjenesten bruker ulike typer satellittutstyr til daglig bruk og i beredskapssituasjoner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/teknologi/i/WvaE9j/norsk-ambassadoer-reddet-av-elon-musks-satellittsverm",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9cb9d8fd-7b4d-3e72-98e0-e4306d60d82a?fit=crop&h=675&upscale=true&w=1200&s=037ca6064c1d7abcb6ff79f8477d8c80e1c246a5",
-      "localImage": "assets/news/ee031a853ff68b.jpg",
-      "score": 13
-    },
-    {
-      "id": "c1ef508d7a4ca6",
-      "category": "Norge",
-      "published": "31.08. 10:34",
-      "publishedISO": "2026-08-31T10:34:07+02:00",
-      "title": "Folk om kong Haakon VIII: – Vil lede Norge inn i en ny tid",
-      "summary": "Fleire forbipasserande har tru på at kong Haakon VIII vil vidareføre faren sin arv. EI STILLE STUND: Anne Christiansen tok seg tid til å minnast kong Harald V før jobb måndagsmorgon. – Det å gå hit har blitt eit uttrykk for at ein ønsker å vise støtte, seier Anne Christiansen. Eg trur at kong Haakon kjem til å gå føre i den tida vi no er i, og leie Noreg inn i ei ny tid.",
-      "keyPoints": [
-        "Fleire forbipasserande har tru på at kong Haakon VIII vil vidareføre faren sin arv.",
-        "Eg trur at kong Haakon kjem til å gå føre i den tida vi no er i, og leie Noreg inn i ei ny tid.",
-        "EI STILLE STUND: Anne Christiansen tok seg tid til å minnast kong Harald V før jobb måndagsmorgon. – Det å gå hit har blitt eit uttrykk for at ein ønsker å vise støtte, seier Anne Christiansen.",
-        "Personlig kong Haakon i sin første tale: – Kjære faren min I talen sin takka kong Haakon faren for å ha vore ein god pappa, og hans betyding for landet. – Vi er i sorg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/folk-om-kong-haakon-viii_-_-vil-lede-norge-inn-i-en-ny-tid-1.18008653",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/HdYeixZC3HItlN2n8PjQKQsxeuLImRLUOFyyHwVymRwA.jpg",
-      "localImage": "assets/news/c1ef508d7a4ca6.jpg",
-      "score": 13
-    },
-    {
-      "id": "f3205df64767a7",
-      "category": "Økonomi",
-      "published": "30.08. 18:57",
-      "publishedISO": "2026-08-30T18:57:21+02:00",
-      "title": "EU truer med Kina-grep: – Må snart vise handling",
-      "summary": "Det er altså ikke bare USA som truer med handelstiltak mot det som kalles «strukturell overkapasitetNår et land produserer mer av en vare enn det er etterspørsel etter, noe som kan føre til lavere priser og økonomiske problemer». Bakgrunnen er et handelsunderskudd i EU med Kina på 359,8 milliarder euro i fjor – nær én milliard euro om dagen. Kinesiske handelsmyndigheter opplyste i sommer at arbeidsgruppene hadde gjennomført mer enn 20 konsultasjoner, at forhandlingslederne hadde hatt to digitale forhandlingsrunder, og at handelskommissær Maroš Šefčovič og Kinas handelsminister Wang Wentao hadde holdt nær kontakt.",
-      "keyPoints": [
-        "Det er altså ikke bare USA som truer med handelstiltak mot det som kalles «strukturell overkapasitetNår et land produserer mer av en vare enn det er etterspørsel etter, noe som kan føre til lavere priser og økonomiske problemer».",
-        "Kinesiske handelsmyndigheter opplyste i sommer at arbeidsgruppene hadde gjennomført mer enn 20 konsultasjoner, at forhandlingslederne hadde hatt to digitale forhandlingsrunder, og at handelskommissær Maroš Šefčovič og Kinas handelsminister Wang Wentao hadde holdt nær kontakt.",
-        "Bakgrunnen er et handelsunderskudd i EU med Kina på 359,8 milliarder euro i fjor – nær én milliard euro om dagen.",
-        "For presset har fortsatt inn i 2026: I første kvartal hadde EU et underskudd i varehandelen med Kina på 98 milliarder euro, det høyeste siden 2022."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/pBV8W1/eu-truer-med-kina-grep-maa-snart-vise-handling",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/afce6347-eb27-3bf7-8db7-1968fd4b5010?fit=crop&h=675&upscale=true&w=1200&s=590a1e94d651b136c018d6123d3fa9ac0841adec",
-      "localImage": "assets/news/f3205df64767a7.jpg",
-      "score": 13
-    },
-    {
-      "id": "7c9ceb2bd22c26",
-      "category": "Økonomi",
-      "published": "30.08. 13:40",
-      "publishedISO": "2026-08-30T13:40:35+02:00",
-      "title": "Kjenner du egentlig din kollega Lise?",
-      "summary": "Men bak en dyktig selger kan det ligge langt mer enn gode talegaver: rask informasjonsbearbeiding, forretningsforståelse, nysgjerrighet, problemløsning og evne til å bygge tillit, stille gode spørsmål, håndtere motstand og lese mennesker og situasjoner. Han må kunne skille viktig informasjon fra støy, forstå behov som ikke alltid blir uttalt, endre retning underveis og vite når han skal argumentere – og når han skal være stille. Eller kjenner de først og fremst fortellingen de har laget om Lise?",
-      "keyPoints": [
-        "Eller kjenner de først og fremst fortellingen de har laget om Lise?",
-        "Men bak en dyktig selger kan det ligge langt mer enn gode talegaver: rask informasjonsbearbeiding, forretningsforståelse, nysgjerrighet, problemløsning og evne til å bygge tillit, stille gode spørsmål, håndtere motstand og lese mennesker og situasjoner.",
-        "Han må kunne skille viktig informasjon fra støy, forstå behov som ikke alltid blir uttalt, endre retning underveis og vite når han skal argumentere – og når han skal være stille.",
-        "Virksomheter må bygge ny kompetanse, samtidig som mange sliter med å finne menneskene de trenger."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/karriere-og-ledelse/i/2pXE3G/kjenner-du-egentlig-din-kollega-lise",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/fc26fc6e-1649-3b6a-8a71-d72d8096f79f?fit=crop&h=675&upscale=true&w=1200&s=801e3f7d6b19e589030042f4a70c7e19cfec2ab6",
-      "localImage": "assets/news/7c9ceb2bd22c26.jpg",
       "score": 13
     }
   ]
