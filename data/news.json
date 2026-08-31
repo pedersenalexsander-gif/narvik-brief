@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 09:06",
-  "updatedISO": "2026-08-31T09:06:27.589926+02:00",
+  "updatedAt": "31.08.2026 kl. 09:21",
+  "updatedISO": "2026-08-31T09:21:19.468110+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,27 @@
       "image": "https://gfx.nrk.no/yrmegw911Z5REWBQ3-7LKwuFnLJBu23dLAauCnFqIoPQ.jpg",
       "localImage": "assets/news/4984ba322d4b89.jpg",
       "score": 14
+    },
+    {
+      "id": "e780dfe9634bdf",
+      "category": "Økonomi",
+      "published": "31.08. 09:01",
+      "publishedISO": "2026-08-31T09:01:37+02:00",
+      "title": "Oslo Børs stiger etter oljeprishopp",
+      "summary": "Hovedindeksen på Oslo Børs er opp 0,6 prosent til nytt rekordnivå fra start mandag formiddag. Følg utviklingen på Oslo Børs løpende i E24s børstjeneste. Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er opp 0,6 prosent til nytt rekordnivå fra start mandag formiddag.",
+        "Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
+        "Følg utviklingen på Oslo Børs løpende i E24s børstjeneste.",
+        "Samtidig tynget Skottland-virksomheten med et tap. – Estimatene for operasjonelt driftsresultat i 2026 vil trolig bli nedjustert som følge av resultatbommen i andre kvartal, men bedre inntjening utenfor oppdrettsvirksomheten og en noe gunstigere volumprofil i andre halvår kan motvirke deler av effekten, forklarer Pareto Securities-analytiker Henrik Longva Knutsen i et notat."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4qJvQ/oslo-boers-stiger-etter-oljeprishopp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
+      "localImage": "assets/news/e780dfe9634bdf.jpg",
+      "score": 23
     },
     {
       "id": "f3205df64767a7",
