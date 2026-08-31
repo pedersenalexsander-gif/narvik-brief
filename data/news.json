@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 17:26",
-  "updatedISO": "2026-08-31T17:26:52.702169+02:00",
+  "updatedAt": "31.08.2026 kl. 17:37",
+  "updatedISO": "2026-08-31T17:37:56.022274+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -65,6 +65,27 @@
       "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
       "localImage": "assets/news/1b00109f1e50c2.jpg",
       "score": 17
+    },
+    {
+      "id": "c7ef2303e211dd",
+      "category": "Norge",
+      "published": "31.08. 17:27",
+      "publishedISO": "2026-08-31T17:27:41+02:00",
+      "title": "Mannen angrep flere tilfeldige kvinner på gaten: – Jeg trodde jeg skulle dø",
+      "summary": "En gravid kvinne ble dyttet i bakken og dratt etter halsen bortover gaten i Bergen. – Jeg ropte om hjelp, men ingen kom, sier hun. ANGREP TILFELDIGE: Mannen risikerer flere år i fengsel etter å ha angrepet flere kvinner på gaten. Mannen som kom mot henne hadde allerede angrepet to andre kvinner lenger borti gaten.",
+      "keyPoints": [
+        "ANGREP TILFELDIGE: Mannen risikerer flere år i fengsel etter å ha angrepet flere kvinner på gaten.",
+        "Mannen som kom mot henne hadde allerede angrepet to andre kvinner lenger borti gaten.",
+        "En gravid kvinne ble dyttet i bakken og dratt etter halsen bortover gaten i Bergen. – Jeg ropte om hjelp, men ingen kom, sier hun.",
+        "Først trodde hun at han dirigerte trafikken. – Da han kom nærmere oppdaget jeg at han var veldig sint."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/mannen-angrep-flere-tilfeldige-kvinner-pa-gaten_-_-jeg-trodde-jeg-skulle-do-1.18008747",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/JNUZkdYMe9UopHrZh8APIQamSLl6qMCKkpscMco9DAhA.jpg",
+      "localImage": "assets/news/c7ef2303e211dd.jpg",
+      "score": 13
     },
     {
       "id": "4859d999a8c368",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/2JUkaAQshwNwooA5fDVD_Qdz_kOziTY67DDLHlcHKh6w.jpg",
       "localImage": "assets/news/3265bd5a0c8b52.jpg",
-      "score": 13
-    },
-    {
-      "id": "a32489ce9d042d",
-      "category": "Økonomi",
-      "published": "31.08. 14:01",
-      "publishedISO": "2026-08-31T14:01:13+02:00",
-      "title": "Eksklusive hoteller fullbooket under kongens gravferd",
-      "summary": "Når E24 sjekker mandag er det ikke mulig å booke noen av hotellets 284 rom, inkludert 54 suiter, i dagene rundt kongens gravferd. E24 har vært i kontakt med flere hoteller i sentrum av hovedstaden. Historiske Thon Hotel Bristol som åpnet i 1920 er også fullbooket 9. september.",
-      "keyPoints": [
-        "Når E24 sjekker mandag er det ikke mulig å booke noen av hotellets 284 rom, inkludert 54 suiter, i dagene rundt kongens gravferd.",
-        "E24 har vært i kontakt med flere hoteller i sentrum av hovedstaden.",
-        "Historiske Thon Hotel Bristol som åpnet i 1920 er også fullbooket 9. september.",
-        "UD sier mandag at de venter et «betydelig antall utenlandske kongelige, statsoverhoder og andre offisielle representanter vil delta i gravferden.» – Alle land med diplomatisk representasjon i Oslo inviteres, i tillegg til medlemslandene i NATO, EØS og EU som ikke har representasjon i Norge, sier seniorrådgiver i UD Thea Finstad til VG."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/m0pXw0/eksklusive-hoteller-fullbooket-under-kongens-gravferd",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/bdb86cbc-477a-3b65-b282-5151c49b4f4b?fit=crop&h=675&upscale=true&w=1200&s=5c63d4ec1ba5b86fd11701e003062607848e5c45",
-      "localImage": "assets/news/a32489ce9d042d.jpg",
       "score": 13
     }
   ]
