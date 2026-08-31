@@ -1,28 +1,49 @@
 {
-  "updatedAt": "31.08.2026 kl. 20:07",
-  "updatedISO": "2026-08-31T20:07:17.266936+02:00",
+  "updatedAt": "31.08.2026 kl. 20:21",
+  "updatedISO": "2026-08-31T20:21:43.748067+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "eb2c7d2c82fbce",
+      "id": "0bd42c4b0f2f88",
       "category": "Norge",
-      "published": "31.08. 15:02",
-      "publishedISO": "2026-08-31T15:02:15+02:00",
-      "title": "NRK-profil Nora Svenningsen avbrøt ferien: – Trodde jeg hadde fått rabies",
-      "summary": "NRK-profil Nora Svenningsen måtte avbryte ferien i Asia i all hast og ta vaksiner mot rabiesvirus etter kontakt med en hund. Nora Svenningsen på Den kinesiske mur med en «I <3 BJ»-t-skjorte. Dette er gata Svenningsen ble slikket på hånda av det hun trodde var en hund med rabies.",
+      "published": "31.08. 20:06",
+      "publishedISO": "2026-08-31T20:06:48+02:00",
+      "title": "Sist en norsk konge avla eden, satt Erna Solberg i salen",
+      "summary": "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991. TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991. Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
       "keyPoints": [
-        "NRK-profil Nora Svenningsen måtte avbryte ferien i Asia i all hast og ta vaksiner mot rabiesvirus etter kontakt med en hund.",
-        "Dette er gata Svenningsen ble slikket på hånda av det hun trodde var en hund med rabies.",
-        "Nora Svenningsen på Den kinesiske mur med en «I <3 BJ»-t-skjorte.",
-        "Dessverre måtte hun returnere hjem litt tidligere enn planlagt etter en skrekk-episode med det hun trodde var en rabies-infeksjon. – Nå føler jeg at jeg trer inn i rollen som Norges første rabies-influenser."
+        "Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
+        "TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991.",
+        "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991.",
+        "Kronprins Haakon, som var bare 17 år da hans far avla eden i 1991, var ikke med da."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/kultur/nrk-profil-nora-svenningsen-avbrot-ferien_-_-trodde-jeg-hadde-fatt-rabies-1.18001968",
+      "url": "https://www.nrk.no/norge/sist-en-norsk-konge-avla-eden_-satt-erna-solberg-i-salen-1.18009190",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/q6R_9SuarCA-8cXrzOSK5wqdr41ZvUCzEyriVApsiB6g.jpg",
-      "localImage": "assets/news/eb2c7d2c82fbce.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
+      "localImage": "assets/news/0bd42c4b0f2f88.jpg",
+      "score": 17
+    },
+    {
+      "id": "2c73980edb86a3",
+      "category": "Verden",
+      "published": "31.08. 19:13",
+      "publishedISO": "2026-08-31T19:13:39+02:00",
+      "title": "En flom i Grand Canyon dreper en og setter i gang leting etter savnede turgåere",
+      "summary": "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien To personer har omkommet og 14 er fortsatt savnet eller uoppdaget etter at flom flom feide gjennom deler av Grand Canyon, har National Park Service (NPS) sagt. 62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC. Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer hadde blitt ødelagt av oversvømmelsen. NPS advarte også om at det var varslet flere tordenvær og kraftig nedbør for mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
+      "keyPoints": [
+        "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien To personer har omkommet og 14 er fortsatt savnet eller uoppdaget etter at flom flom feide gjennom deler av Grand Canyon, har National Park Service (NPS) sagt.",
+        "62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC.",
+        "Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer hadde blitt ødelagt av oversvømmelsen. NPS advarte også om at det var varslet flere tordenvær og kraftig nedbør for mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
+        "Baggs sa at hun og vennene hennes nettopp hadde levert fra seg eiendelene sine på en hytte i Phantom Ranch - en avsidesliggende hytte på bunnen av Grand Canyon - da de bestemte seg for å dra ut for å nyte den fine dagen."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
+      "localImage": "assets/news/2c73980edb86a3.png",
+      "score": 13
     },
     {
       "id": "57dc53af51089f",
@@ -64,7 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
       "localImage": "assets/news/1b00109f1e50c2.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "eb2c7d2c82fbce",
+      "category": "Norge",
+      "published": "31.08. 15:02",
+      "publishedISO": "2026-08-31T15:02:15+02:00",
+      "title": "NRK-profil Nora Svenningsen avbrøt ferien: – Trodde jeg hadde fått rabies",
+      "summary": "NRK-profil Nora Svenningsen måtte avbryte ferien i Asia i all hast og ta vaksiner mot rabiesvirus etter kontakt med en hund. Nora Svenningsen på Den kinesiske mur med en «I <3 BJ»-t-skjorte. Dette er gata Svenningsen ble slikket på hånda av det hun trodde var en hund med rabies.",
+      "keyPoints": [
+        "NRK-profil Nora Svenningsen måtte avbryte ferien i Asia i all hast og ta vaksiner mot rabiesvirus etter kontakt med en hund.",
+        "Dette er gata Svenningsen ble slikket på hånda av det hun trodde var en hund med rabies.",
+        "Nora Svenningsen på Den kinesiske mur med en «I <3 BJ»-t-skjorte.",
+        "Dessverre måtte hun returnere hjem litt tidligere enn planlagt etter en skrekk-episode med det hun trodde var en rabies-infeksjon. – Nå føler jeg at jeg trer inn i rollen som Norges første rabies-influenser."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/kultur/nrk-profil-nora-svenningsen-avbrot-ferien_-_-trodde-jeg-hadde-fatt-rabies-1.18001968",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/q6R_9SuarCA-8cXrzOSK5wqdr41ZvUCzEyriVApsiB6g.jpg",
+      "localImage": "assets/news/eb2c7d2c82fbce.jpg",
+      "score": 16
     },
     {
       "id": "fb976788e8a02a",
@@ -146,71 +188,29 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/norge/xl/fra-vugge-til-grav-1.16821091",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/lLAR6PIVDnCgSRx2mf_cqAznB-h5t2h4EDDYT4rzPRhQ.jpg",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/193ca2de31a780.jpg",
       "score": 13
     },
     {
-      "id": "b2810001b17ffe",
-      "category": "Norge",
-      "published": "31.08. 18:00",
-      "publishedISO": "2026-08-31T18:00:50+02:00",
-      "title": "Politiet henlegger anmeldelse av ordfører etter bredbåndskaos i Leirfjord:",
-      "summary": "I juni vekket det oppsikt da sittende ordfører i Leirfjord kommune i Nordland ble anmeldt av flertall i eget kommunestyre. Varaordfører Åshild Pettersen (SV) og ordfører Sten Rino Bonsaksen (Ap) i Leirfjord kommune. Sten Rino Bonsaksen er ordfører i Leirfjord kommune, men er i dag uavhengig representant etter å ha meldt seg ut av Arbeiderpartiet i juni 2026. – Det var en lettelse at politiet har gjort en ryddig og god jobb i forbindelse med den anmeldelsen som ble levert inn.",
+      "id": "b429fb3cdfd39a",
+      "category": "Verden",
+      "published": "31.08. 18:42",
+      "publishedISO": "2026-08-31T18:42:17+02:00",
+      "title": "'Jeg har ikke mistet håpet' - jakten på savnede kjære",
+      "summary": "Pårørende til de som fortsatt er savnet i de massive oversvømmelsene i Nepal onsdag holder fast på håpet om at deres kjære har overlevd. Følg den siste utviklingen om redningsarbeid etter flommene i Nepal-Tibet. 'Jeg har ikke mistet håpet' - jakten på savnede kjære. Video, 00:01:15'Jeg har ikke mistet håpet mitt' - søket etter savnede kjære Up Next.",
       "keyPoints": [
-        "Sten Rino Bonsaksen er ordfører i Leirfjord kommune, men er i dag uavhengig representant etter å ha meldt seg ut av Arbeiderpartiet i juni 2026. – Det var en lettelse at politiet har gjort en ryddig og god jobb i forbindelse med den anmeldelsen som ble levert inn.",
-        "Varaordfører Åshild Pettersen (SV) og ordfører Sten Rino Bonsaksen (Ap) i Leirfjord kommune.",
-        "I juni vekket det oppsikt da sittende ordfører i Leirfjord kommune i Nordland ble anmeldt av flertall i eget kommunestyre.",
-        "Bonsaksen avviser også at styret har ansvaret for selskapets økonomiske uføre, og peker i stedet på kommunens egen økonomi: – Det som gjorde at bredbåndsselskapet ikke kunne gå videre med sin planlagte finansiering, var at Leirfjord kommune gikk med et rekordstort merforbruk i 2023."
+        "Video, 00:01:15'Jeg har ikke mistet håpet mitt' - søket etter savnede kjære Up Next.",
+        "Pårørende til de som fortsatt er savnet i de massive oversvømmelsene i Nepal onsdag holder fast på håpet om at deres kjære har overlevd.",
+        "Video, 00:01:03Once a village, now barren land - BBC in valley devastated by floods Watch: Notting Hill Carnival celebrates 60th anniversary.",
+        "Video, 00:02:01 Å spore den dødelige banen til flomflommen i Nepal-Tibet. Worker filmer øyeblikket han slipper unna de dødelige flom fra Nepal."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/politiet-henlegger-anmeldelse-av-ordforer-etter-bredbandskaos-i-leirfjord_-1.18008802",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/YqCiN98LqYGIFybeF2XWIQ9CTKoWb-jpRRomzy9WDIXA.jpg",
-      "localImage": "assets/news/b2810001b17ffe.jpg",
-      "score": 13
-    },
-    {
-      "id": "d0cce1761bc34f",
-      "category": "Norge",
-      "published": "31.08. 17:40",
-      "publishedISO": "2026-08-31T17:40:26+02:00",
-      "title": "Kongefamilien møtte folket på Slottsplassen",
-      "summary": "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen etter båresermonien mandag 31.august. Folket på Slottsplassen tok bilder og løftet opp barna slik at de også fikk sett kongefamilien. I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
-      "keyPoints": [
-        "I dag kom kong Haakon VIII ut og møtte folket på Slottsplassen for første gang etter farens bortgang.",
-        "Folket på Slottsplassen tok bilder og løftet opp barna slik at de også fikk sett kongefamilien.",
-        "Kong Haakon, dronning Mette-Marit, dronning Sonja og prinsesse Märtha Louise hadde med seg hver sin røde rose da de kom ut på Slottsplassen etter båresermonien mandag 31.august.",
-        "Magnus Namork møtte opp på slottsplassen sammen med familien. – Det var veldig rørende å se dem sånn."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/kongefamilien-motte-folket-pa-slottsplassen-1.18009515",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/uskQWbzNR9X8ZAPI2t_2twHqsNo4rYup1MMU2Q6Pp3hw.jpg",
-      "localImage": "assets/news/d0cce1761bc34f.webp",
-      "score": 13
-    },
-    {
-      "id": "c7ef2303e211dd",
-      "category": "Norge",
-      "published": "31.08. 17:27",
-      "publishedISO": "2026-08-31T17:27:41+02:00",
-      "title": "Mannen angrep flere tilfeldige kvinner på gaten: – Jeg trodde jeg skulle dø",
-      "summary": "En gravid kvinne ble dyttet i bakken og dratt etter halsen bortover gaten i Bergen. – Jeg ropte om hjelp, men ingen kom, sier hun. ANGREP TILFELDIGE: Mannen risikerer flere år i fengsel etter å ha angrepet flere kvinner på gaten. Mannen som kom mot henne hadde allerede angrepet to andre kvinner lenger borti gaten.",
-      "keyPoints": [
-        "ANGREP TILFELDIGE: Mannen risikerer flere år i fengsel etter å ha angrepet flere kvinner på gaten.",
-        "Mannen som kom mot henne hadde allerede angrepet to andre kvinner lenger borti gaten.",
-        "En gravid kvinne ble dyttet i bakken og dratt etter halsen bortover gaten i Bergen. – Jeg ropte om hjelp, men ingen kom, sier hun.",
-        "Først trodde hun at han dirigerte trafikken. – Da han kom nærmere oppdaget jeg at han var veldig sint."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/mannen-angrep-flere-tilfeldige-kvinner-pa-gaten_-_-jeg-trodde-jeg-skulle-do-1.18008747",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/JNUZkdYMe9UopHrZh8APIQamSLl6qMCKkpscMco9DAhA.jpg",
-      "localImage": "assets/news/c7ef2303e211dd.jpg",
+      "url": "https://www.bbc.co.uk/news/videos/c4g79v842xjo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6f2b/live/a9975430-a55b-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/b429fb3cdfd39a.jpg",
       "score": 13
     }
   ]
