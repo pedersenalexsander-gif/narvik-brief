@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 21:36",
-  "updatedISO": "2026-08-31T21:36:41.158669+02:00",
+  "updatedAt": "31.08.2026 kl. 21:51",
+  "updatedISO": "2026-08-31T21:51:33.702361+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,6 +130,27 @@
       "score": 16
     },
     {
+      "id": "663f4559765b5b",
+      "category": "Norge",
+      "published": "31.08. 21:31",
+      "publishedISO": "2026-08-31T21:31:48+02:00",
+      "title": "Forbyr termiske sikte – hjortejeger fryktar meir skadeskyting",
+      "summary": "Den nye viltressurslova forbyr jegerar å bruke termisk sikte – med mindre kommunen seier ja. Den nye viltressurslova frå 1. juli forbyr nemleg restlysforsterkande og termiske siktemiddel i opent lende. Fleire kommunar skal i haust ta stilling til om termiske hjelpemiddel skal vere lov, mellom anna Gloppen kommune. – Men bør ikkje dei gå i seg sjølve i så fall dersom ein fryktar meir skadeskyting? – Jo, det gjeld alle jegerar, og eg vil seie at jaktetikken i Noreg er god.",
+      "keyPoints": [
+        "Fleire kommunar skal i haust ta stilling til om termiske hjelpemiddel skal vere lov, mellom anna Gloppen kommune. – Men bør ikkje dei gå i seg sjølve i så fall dersom ein fryktar meir skadeskyting? – Jo, det gjeld alle jegerar, og eg vil seie at jaktetikken i Noreg er god.",
+        "Den nye viltressurslova frå 1. juli forbyr nemleg restlysforsterkande og termiske siktemiddel i opent lende.",
+        "Den nye viltressurslova forbyr jegerar å bruke termisk sikte – med mindre kommunen seier ja.",
+        "Men frå 1. juli kom ei ny lov som seier at termisk sikte ikkje er lov."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/forbyr-termiske-sikte-_-hjortejeger-fryktar-meir-skadeskyting-1.17996953",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/jOGIqcJvwTFwt0eY3Yghjg7hHeDBiXkfA4igAvTDr22A",
+      "localImage": "assets/news/663f4559765b5b.jpg",
+      "score": 13
+    },
+    {
       "id": "ea0b0391a5aa12",
       "category": "Norge",
       "published": "31.08. 20:59",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7c6d3f91-ad21-3335-a2a8-200c7b45fb0b?fit=crop&h=675&upscale=true&w=1200&s=19ec0e4efb0fe2b8d23f5cdfab557347bb33ae08",
       "localImage": "assets/news/b4788edbbe1b89.jpg",
-      "score": 13
-    },
-    {
-      "id": "7cd0fea1a369cf",
-      "category": "Norge",
-      "published": "31.08. 20:16",
-      "publishedISO": "2026-08-31T20:16:50+02:00",
-      "title": "Venezuela: – Kan bli et politisk jordskjelv",
-      "summary": "DOKUMENTERER: Carlos Rojas går i et nabolag rammet av jordskjelvet i hovedstaden Caracas. Han dokumenterer manglende hjelp fra myndighetene etter jordskjelvene. – Vi skal inn i denne leiligheten og se på skadene, sier Carlos Rojas i en video han har lagt ut på sosiale medier. Rojas mener jordskjelvene også har rystet den politiske eliten. – Jeg tror vi er nær et mulig politisk jordskjelv.",
-      "keyPoints": [
-        "Rojas mener jordskjelvene også har rystet den politiske eliten. – Jeg tror vi er nær et mulig politisk jordskjelv.",
-        "Han dokumenterer manglende hjelp fra myndighetene etter jordskjelvene. – Vi skal inn i denne leiligheten og se på skadene, sier Carlos Rojas i en video han har lagt ut på sosiale medier.",
-        "DOKUMENTERER: Carlos Rojas går i et nabolag rammet av jordskjelvet i hovedstaden Caracas.",
-        "Mange har fortsatt ikke fått hjelp fra myndighetene - over to måneder etter tragedien rammet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/venezuela_-_-kan-bli-et-politisk-jordskjelv-1.17972501",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PD7gMrEVExdghUBNtKD_ugjW6ikKXrzDwfNFMDCJiunA.jpg",
-      "localImage": "assets/news/7cd0fea1a369cf.jpg",
       "score": 13
     }
   ]
