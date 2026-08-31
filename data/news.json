@@ -1,27 +1,27 @@
 {
-  "updatedAt": "31.08.2026 kl. 11:36",
-  "updatedISO": "2026-08-31T11:36:54.484296+02:00",
+  "updatedAt": "31.08.2026 kl. 11:51",
+  "updatedISO": "2026-08-31T11:51:39.469212+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "0415fea1008052",
+      "id": "c1ef508d7a4ca6",
       "category": "Norge",
-      "published": "31.08. 11:19",
-      "publishedISO": "2026-08-31T11:19:42+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Dagen etterpå ble det observert enda en bjørn på viltkamera, og Statsforvalteren godkjente en ny søknad med fellingstillatelse fra 23. august til 31. august. – Det er ingen nye observasjoner av bjørnen, og det er heller ikke blitt registrert flere tap av beitedyr, sier Arnesen. Tunnelen vil være åpen for trafikk på dagtid og i oddetallshelger, men vil ha gjennomslipp med ledebil fra klokken 18-21. Det er fortsatt en god bestand av liryper i nord, og i Nordland ligger det på et stabilt nivå sammenlignet med i fjor.",
+      "published": "31.08. 10:34",
+      "publishedISO": "2026-08-31T10:34:07+02:00",
+      "title": "Folk om kong Haakon VIII: – Vil lede Norge inn i en ny tid",
+      "summary": "Fleire forbipasserande har tru på at kong Haakon VIII vil vidareføre faren sin arv. EI STILLE STUND: Anne Christiansen tok seg tid til å minnast kong Harald V før jobb måndagsmorgon. – Det å gå hit har blitt eit uttrykk for at ein ønsker å vise støtte, seier Anne Christiansen. Eg trur at kong Haakon kjem til å gå føre i den tida vi no er i, og leie Noreg inn i ei ny tid.",
       "keyPoints": [
-        "Dagen etterpå ble det observert enda en bjørn på viltkamera, og Statsforvalteren godkjente en ny søknad med fellingstillatelse fra 23. august til 31. august. – Det er ingen nye observasjoner av bjørnen, og det er heller ikke blitt registrert flere tap av beitedyr, sier Arnesen.",
-        "Det er fortsatt en god bestand av liryper i nord, og i Nordland ligger det på et stabilt nivå sammenlignet med i fjor.",
-        "Tunnelen vil være åpen for trafikk på dagtid og i oddetallshelger, men vil ha gjennomslipp med ledebil fra klokken 18-21.",
-        "Brattlitunnelen på riksveg 827 i Narvik kommune skal fortsette å være nattestengt ut september."
+        "Fleire forbipasserande har tru på at kong Haakon VIII vil vidareføre faren sin arv.",
+        "Eg trur at kong Haakon kjem til å gå føre i den tida vi no er i, og leie Noreg inn i ei ny tid.",
+        "EI STILLE STUND: Anne Christiansen tok seg tid til å minnast kong Harald V før jobb måndagsmorgon. – Det å gå hit har blitt eit uttrykk for at ein ønsker å vise støtte, seier Anne Christiansen.",
+        "Personlig kong Haakon i sin første tale: – Kjære faren min I talen sin takka kong Haakon faren for å ha vore ein god pappa, og hans betyding for landet. – Vi er i sorg."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "url": "https://www.nrk.no/norge/folk-om-kong-haakon-viii_-_-vil-lede-norge-inn-i-en-ny-tid-1.18008653",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/0415fea1008052.jpg",
+      "image": "https://gfx.nrk.no/HdYeixZC3HItlN2n8PjQKQsxeuLImRLUOFyyHwVymRwA.jpg",
+      "localImage": "assets/news/c1ef508d7a4ca6.jpg",
       "score": 13
     },
     {
@@ -130,27 +130,6 @@
       "score": 13
     },
     {
-      "id": "c1ef508d7a4ca6",
-      "category": "Norge",
-      "published": "31.08. 10:34",
-      "publishedISO": "2026-08-31T10:34:07+02:00",
-      "title": "Folk om kong Haakon VIII: – Vil lede Norge inn i en ny tid",
-      "summary": "Fleire forbipasserande har tru på at kong Haakon VIII vil vidareføre faren sin arv. EI STILLE STUND: Anne Christiansen tok seg tid til å minnast kong Harald V før jobb måndagsmorgon. – Det å gå hit har blitt eit uttrykk for at ein ønsker å vise støtte, seier Anne Christiansen. Eg trur at kong Haakon kjem til å gå føre i den tida vi no er i, og leie Noreg inn i ei ny tid.",
-      "keyPoints": [
-        "Fleire forbipasserande har tru på at kong Haakon VIII vil vidareføre faren sin arv.",
-        "Eg trur at kong Haakon kjem til å gå føre i den tida vi no er i, og leie Noreg inn i ei ny tid.",
-        "EI STILLE STUND: Anne Christiansen tok seg tid til å minnast kong Harald V før jobb måndagsmorgon. – Det å gå hit har blitt eit uttrykk for at ein ønsker å vise støtte, seier Anne Christiansen.",
-        "Personlig kong Haakon i sin første tale: – Kjære faren min I talen sin takka kong Haakon faren for å ha vore ein god pappa, og hans betyding for landet. – Vi er i sorg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/folk-om-kong-haakon-viii_-_-vil-lede-norge-inn-i-en-ny-tid-1.18008653",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/HdYeixZC3HItlN2n8PjQKQsxeuLImRLUOFyyHwVymRwA.jpg",
-      "localImage": "assets/news/c1ef508d7a4ca6.jpg",
-      "score": 13
-    },
-    {
       "id": "9c2c7eac2650cc",
       "category": "Norge",
       "published": "31.08. 09:55",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/dtXa2O9opIpYwrLjrnWRXwqqxcTRZpjqOLHb8-lLPHnA.jpg",
       "localImage": "assets/news/64aa7fdd68d99e.jpg",
+      "score": 13
+    },
+    {
+      "id": "f2dc09089b5132",
+      "category": "Norge",
+      "published": "31.08. 08:20",
+      "publishedISO": "2026-08-31T08:20:41+02:00",
+      "title": "Rettssaken etter drapet på Marita Løfshus Haugen – uvisst om Jørn Andersen vil forklare seg",
+      "summary": "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Haugen med en machete. Da rettssaken startet i Trøndelag tingrett mandag morgen var det fortsatt uklart om Andersen erkjente å ha tatt livet av Haugen. – Nei, svarte Andersen på spørsmålet om han erkjente straffskyld eller ikke. Andersen er tiltalt for å ha drept Marita Løfshus Haugen på Løkken Verk i Orkland, 13. desember 2025.",
+      "keyPoints": [
+        "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Haugen med en machete.",
+        "Andersen er tiltalt for å ha drept Marita Løfshus Haugen på Løkken Verk i Orkland, 13. desember 2025.",
+        "Da rettssaken startet i Trøndelag tingrett mandag morgen var det fortsatt uklart om Andersen erkjente å ha tatt livet av Haugen. – Nei, svarte Andersen på spørsmålet om han erkjente straffskyld eller ikke.",
+        "Ikke langt fra arbeidsplassen ble derimot Haugen funnet død. – Her ble Marita funnet drept like før klokka 21.40, forklarte statsadvokaten mens han viste et dronebilde av stedet. «1» viser stedet der Haugen ble funnet død. «2» viser stedet politiet fant knivslira. «3» viser hvor macheten ble funnet bak en garasje. «4» er Bjørnlihiet pub."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/rettssaken-etter-drapet-pa-marita-lofshus-haugen-_-uvisst-om-jorn-andersen-vil-forklare-seg-1.18004154",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/C_QE34_nFq73TCXhMCDBxgqS_SP2eRmtZxiybmDycveA.png",
+      "localImage": "assets/news/f2dc09089b5132.png",
       "score": 13
     }
   ]
