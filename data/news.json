@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 16:21",
-  "updatedISO": "2026-08-31T16:21:41.711246+02:00",
+  "updatedAt": "31.08.2026 kl. 16:36",
+  "updatedISO": "2026-08-31T16:36:45.442794+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,25 +46,25 @@
       "score": 13
     },
     {
-      "id": "e780dfe9634bdf",
+      "id": "57dc53af51089f",
       "category": "Økonomi",
       "published": "31.08. 09:01",
       "publishedISO": "2026-08-31T09:01:37+02:00",
-      "title": "Oslo Børs stiger etter oljeprishopp",
-      "summary": "Hovedindeksen på Oslo Børs er opp 0,75 prosent i 12.30-tiden mandag. Følg utviklingen på Oslo Børs løpende i E24s børstjeneste. Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
+      "title": "Oljesmurt opptur på Oslo Børs",
+      "summary": "Nye amerikanske angrep i Midtøsten sendte både oljeprisen og Oslo Børs rakt opp. Hovedindeksen på Oslo Børs var opp 0,87 prosent mandag, etter markert oppgang i oljeprisen. Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er opp 0,75 prosent i 12.30-tiden mandag.",
+        "Hovedindeksen på Oslo Børs var opp 0,87 prosent mandag, etter markert oppgang i oljeprisen.",
+        "Nye amerikanske angrep i Midtøsten sendte både oljeprisen og Oslo Børs rakt opp.",
         "Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
-        "Følg utviklingen på Oslo Børs løpende i E24s børstjeneste.",
-        "Samtidig tynget Skottland-virksomheten med et tap. – Estimatene for operasjonelt driftsresultat i 2026 vil trolig bli nedjustert som følge av resultatbommen i andre kvartal, men bedre inntjening utenfor oppdrettsvirksomheten og en noe gunstigere volumprofil i andre halvår kan motvirke deler av effekten, forklarer Pareto Securities-analytiker Henrik Longva Knutsen i et notat."
+        "Et fat nordsjøolje for umiddelbar levering (brent spot) er opp over 2 dollar fatet eller rundt 2,5 prosent mandag, omsatt for nivåer rundt 90,45 dollar fatet."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/L4qJvQ/oslo-boers-stiger-etter-oljeprishopp",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
-      "localImage": "assets/news/e780dfe9634bdf.jpg",
-      "score": 22
+      "localImage": "assets/news/57dc53af51089f.jpg",
+      "score": 19
     },
     {
       "id": "1b00109f1e50c2",
