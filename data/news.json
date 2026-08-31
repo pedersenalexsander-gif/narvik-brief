@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 16:36",
-  "updatedISO": "2026-08-31T16:36:45.442794+02:00",
+  "updatedAt": "31.08.2026 kl. 16:51",
+  "updatedISO": "2026-08-31T16:51:19.021166+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,24 +25,24 @@
       "score": 17
     },
     {
-      "id": "875b10d62cc494",
+      "id": "60615597944263",
       "category": "Verden",
-      "published": "31.08. 15:47",
-      "publishedISO": "2026-08-31T15:47:30+02:00",
-      "title": "Handelsangrep i USA og Iran etter det første kjente amerikanske angrepet på flere uker",
-      "summary": "Fartøyer i Hormuzstredet er synlige nær stranden i Bandar Abbas, nær Larak Island Iran og USA har handlet med streik etter at amerikanske styrker angrep to rakettkastere på Larak Island i Hormuzstredet. De første kjente amerikanske angrepene på Iran siden slutten av juli drepte to mennesker og skadet to andre, ifølge Irans islamske revolusjonsgardekorps (IRGC), som lovet \"respons og straff\". Det amerikanske angrepet er det første kjente angrepet på Iran siden president Donald Trump stoppet en fornyet militærkampanje i slutten av juli.",
+      "published": "31.08. 16:50",
+      "publishedISO": "2026-08-31T16:50:36+02:00",
+      "title": "Søket fortsetter etter 18 passasjerer etter at fergen kantret på Nord-Kypros",
+      "summary": "Mer enn 24 timer etter katastrofen søker redningsmenn etter de savnede. Redningsmenn fortsetter søket etter 18 passasjerer på en ferge som kantret utenfor kysten av Nord-Kypros søndag. Fartøyet, som fraktet 259 passasjerer og åtte besetningsmedlemmer, begynte å ta på vannet like etter avgang fra kystbyen Kyrenia i den selverklærte tyrkiske republikken på Kypros. Åtte drept og 18 savnet etter at fergen kantret utenfor Nord-Kypros",
       "keyPoints": [
-        "De første kjente amerikanske angrepene på Iran siden slutten av juli drepte to mennesker og skadet to andre, ifølge Irans islamske revolusjonsgardekorps (IRGC), som lovet \"respons og straff\".",
-        "Det amerikanske angrepet er det første kjente angrepet på Iran siden president Donald Trump stoppet en fornyet militærkampanje i slutten av juli.",
-        "Fartøyer i Hormuzstredet er synlige nær stranden i Bandar Abbas, nær Larak Island Iran og USA har handlet med streik etter at amerikanske styrker angrep to rakettkastere på Larak Island i Hormuzstredet.",
-        "Hormuzstredet skiller Iran fra Gulf-landene Timer senere hadde iranske medier en uttalelse fra IRGC som sa at de hadde angrepet de amerikanske basene til kong Hussein og al-Azraq i Jordan med ballistiske missiler som svar på angrepet på Larak Island."
+        "Mer enn 24 timer etter katastrofen søker redningsmenn etter de savnede. Redningsmenn fortsetter søket etter 18 passasjerer på en ferge som kantret utenfor kysten av Nord-Kypros søndag.",
+        "Åtte drept og 18 savnet etter at fergen kantret utenfor Nord-Kypros",
+        "Fartøyet, som fraktet 259 passasjerer og åtte besetningsmedlemmer, begynte å ta på vannet like etter avgang fra kystbyen Kyrenia i den selverklærte tyrkiske republikken på Kypros.",
+        "Åtte personer er bekreftet å ha omkommet i hendelsen, mens 19 for tiden behandles på sykehus i Nord-Kypros, opplyser lokale myndigheter."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
+      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/875b10d62cc494.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e12/live/a0ae2f30-a52c-11f1-8ebe-efa2c58ecfe9.png",
+      "localImage": "assets/news/60615597944263.png",
       "score": 13
     },
     {
@@ -56,7 +56,7 @@
         "Hovedindeksen på Oslo Børs var opp 0,87 prosent mandag, etter markert oppgang i oljeprisen.",
         "Nye amerikanske angrep i Midtøsten sendte både oljeprisen og Oslo Børs rakt opp.",
         "Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
-        "Et fat nordsjøolje for umiddelbar levering (brent spot) er opp over 2 dollar fatet eller rundt 2,5 prosent mandag, omsatt for nivåer rundt 90,45 dollar fatet."
+        "Mowi var ved 1,7 prosent, Grieg Seafood var ned nær 1,1 prosent mens Lerøy Seafood var ned 1,9 prosent og Austevoll Seafood var ned 2,1 prosent."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -130,6 +130,27 @@
       "score": 13
     },
     {
+      "id": "875b10d62cc494",
+      "category": "Verden",
+      "published": "31.08. 15:47",
+      "publishedISO": "2026-08-31T15:47:30+02:00",
+      "title": "USA og Iran handelsangrep etter første kjente amerikanske angrep på flere uker",
+      "summary": "Fartøyer i Hormuzstredet er synlige nær stranden i Bandar Abbas, nær Larak Island Iran og USA har handlet med streik etter at amerikanske styrker angrep to rakettkastere på Larak Island i Hormuzstredet. De første kjente amerikanske angrepene på Iran siden slutten av juli drepte to mennesker og skadet to andre, ifølge Irans islamske revolusjonsgardekorps (IRGC), som lovet \"respons og straff\". Det amerikanske angrepet er det første kjente angrepet på Iran siden president Donald Trump stoppet en fornyet militærkampanje i slutten av juli.",
+      "keyPoints": [
+        "De første kjente amerikanske angrepene på Iran siden slutten av juli drepte to mennesker og skadet to andre, ifølge Irans islamske revolusjonsgardekorps (IRGC), som lovet \"respons og straff\".",
+        "Det amerikanske angrepet er det første kjente angrepet på Iran siden president Donald Trump stoppet en fornyet militærkampanje i slutten av juli.",
+        "Fartøyer i Hormuzstredet er synlige nær stranden i Bandar Abbas, nær Larak Island Iran og USA har handlet med streik etter at amerikanske styrker angrep to rakettkastere på Larak Island i Hormuzstredet.",
+        "Hormuzstredet skiller Iran fra Gulf-landene Timer senere hadde iranske medier en uttalelse fra IRGC som sa at de hadde angrepet de amerikanske basene til kong Hussein og al-Azraq i Jordan med ballistiske missiler som svar på angrepet på Larak Island."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/875b10d62cc494.jpg",
+      "score": 13
+    },
+    {
       "id": "1f276c2423d86b",
       "category": "Norge",
       "published": "31.08. 15:31",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/rjXAF1QS2eKht_5Lo7gMGwiGbgzBFvn2E_HsHApDL35g.jpg",
       "localImage": "assets/news/7f9fd836a59ff4.webp",
-      "score": 13
-    },
-    {
-      "id": "9903903ec87f3c",
-      "category": "Verden",
-      "published": "31.08. 14:55",
-      "publishedISO": "2026-08-31T14:55:25+02:00",
-      "title": "En flom i Grand Canyon dreper en og setter i gang leting etter savnede turgåere",
-      "summary": "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien. En person er omkommet og 15 er fortsatt savnet eller uoppdaget etter at flom har feid gjennom deler av Grand Canyon, har National Park Service (NPS) sagt. 62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC. Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer var ødelagt av oversvømmelsen. NPS advarte også om at flere tordenvær og kraftig nedbør var varslet søndag og mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
-      "keyPoints": [
-        "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien. En person er omkommet og 15 er fortsatt savnet eller uoppdaget etter at flom har feid gjennom deler av Grand Canyon, har National Park Service (NPS) sagt.",
-        "62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC.",
-        "Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer var ødelagt av oversvømmelsen. NPS advarte også om at flere tordenvær og kraftig nedbør var varslet søndag og mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
-        "Baggs sa at hun og vennene hennes nettopp hadde levert fra seg eiendelene sine på en hytte i Phantom Ranch - en avsidesliggende hytte på bunnen av Grand Canyon - da de bestemte seg for å dra ut for å nyte den fine dagen."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
-      "localImage": "assets/news/9903903ec87f3c.png",
       "score": 13
     }
   ]
