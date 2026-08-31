@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 06:51",
-  "updatedISO": "2026-08-31T06:51:31.637969+02:00",
+  "updatedAt": "31.08.2026 kl. 07:06",
+  "updatedISO": "2026-08-31T07:06:29.854194+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,24 +67,66 @@
       "score": 15
     },
     {
-      "id": "0d7272352707ce",
+      "id": "941ae1f08d8930",
+      "category": "Norge",
+      "published": "31.08. 07:03",
+      "publishedISO": "2026-08-31T07:03:35+02:00",
+      "title": "Nye og sjeldne sommerfugler oppdaget i Norge",
+      "summary": "Denne store purpurkåpen fascinerte Lisa Le fra Lillestrøm De siste årene har det dukket opp stadig flere nye insekter, som vanligvis ikke hører hjemme i norsk natur. Jørn Thollefsen har registrert 850 forskjellige sommerfugler bare i Larvik. Jørn Thollefsen var den første som oppdaget sommerfuglen «Båndglansfly» i Norge.",
+      "keyPoints": [
+        "Jørn Thollefsen var den første som oppdaget sommerfuglen «Båndglansfly» i Norge.",
+        "Denne store purpurkåpen fascinerte Lisa Le fra Lillestrøm De siste årene har det dukket opp stadig flere nye insekter, som vanligvis ikke hører hjemme i norsk natur.",
+        "Jørn Thollefsen har registrert 850 forskjellige sommerfugler bare i Larvik.",
+        "Den sjeldne skapningen seilte ned på nesen hennes og brukte god tid på visitten. – Jeg har aldri opplevd en sommerfugl som oppsøker nærkontakt på den måten, forteller hun."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/nye-og-sjeldne-sommerfugler-oppdaget-i-norge-1.17994439",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/IveYUz9qNsBfic88sGxKTQvgfL-xbW4-cRdje5hp4cIw.jpg",
+      "localImage": "assets/news/941ae1f08d8930.webp",
+      "score": 13
+    },
+    {
+      "id": "7585d3f669032c",
+      "category": "Norge",
+      "published": "31.08. 06:57",
+      "publishedISO": "2026-08-31T06:57:37+02:00",
+      "title": "I Troms fekk fire av fem fekk avslag på pasientskadeerstatning",
+      "summary": "Antal pasientar i Troms som fekk godkjent søknaden sin om pasientskadeerstatning er meir enn halvert samanlikna med same periode i fjor. I første halvår i 2025 fekk 55 pasientar i Troms medhald. I første halvår fekk 26 pasientar i Troms til saman 32,4 millionar kroner i erstatning. – Det fortel oss at fleire har blitt skadde som følgje av svikt i behandlinga, og at det har gitt dei eit økonomisk tap. – Målet er å gi pasienten same økonomiske situasjon som han eller ho ville hatt utan skaden, seier Cordt-Hansen.",
+      "keyPoints": [
+        "Antal pasientar i Troms som fekk godkjent søknaden sin om pasientskadeerstatning er meir enn halvert samanlikna med same periode i fjor.",
+        "I første halvår fekk 26 pasientar i Troms til saman 32,4 millionar kroner i erstatning. – Det fortel oss at fleire har blitt skadde som følgje av svikt i behandlinga, og at det har gitt dei eit økonomisk tap. – Målet er å gi pasienten same økonomiske situasjon som han eller ho ville hatt utan skaden, seier Cordt-Hansen.",
+        "Søkjer på feil grunnlag: Direktør i Norsk pasientskadeerstatning, Kristin Cordt-Hansen, meiner mange søkjer på feil grunnlag. – Mange har sett amerikanske filmar og TV-seriar der personar får utbetalt millionbeløp etter dårlege opplevingar.",
+        "Tal frå alle fylke for første halvår 2026 frå lågast til høgast andel medhald: (Uavklart/Ukjent fylke: 2 medhald og 10 avslag (17 % medhald)) Eriksen understrekar at ombodet gjer sitt for å rettleie søkjarane før dei sender inn krav. – Vi rettleiar våre klientar til å lese heimesidene til NPE."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/i-troms-fekk-fire-av-fem-fekk-avslag-pa-pasientskadeerstatning-1.17995687",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/5evPlpKqozFwp3nd-wzIBAckE7FH3fFPO2JQ8yaxoWIg.jpg",
+      "localImage": "assets/news/7585d3f669032c.jpg",
+      "score": 13
+    },
+    {
+      "id": "f98ec8a83d4a2b",
       "category": "Økonomi",
       "published": "31.08. 06:34",
       "publishedISO": "2026-08-31T06:34:23+02:00",
-      "title": "Bakkafrost tapte 241 millioner danske kroner før skatt",
-      "summary": "Slik er fasiten: Forskjellen mellom operasjonelt og ordinært resultat skyldes hovedsakelig en negativ verdiendring på den biologiske beholdningen på 406 millioner danske kroner. Fasiten ble tynget av en operasjonell ebit på minus 139 millioner danske kroner i Skottland. – Vi er ikke fornøyde med resultatet i Skottland. På Færøyene var fasiten 411 millioner danske kroner i pluss. – Resultatet var drevet av sterk biologisk og operasjonell utvikling på Færøyene.",
+      "title": "Svakere enn ventet fra Bakkafrost",
+      "summary": "Bakkafrost, som driver på Færøyene og i Skottland, har mandag morgen lagt fram rapporten for andre kvartal. Den operasjonelle ebit-fasten var svakere enn ventet, ifølge Bloomberg. Fasiten ble tynget av en operasjonell ebit på minus 139 millioner danske kroner i Skottland. – Vi er ikke fornøyde med resultatet i Skottland.",
       "keyPoints": [
+        "Den operasjonelle ebit-fasten var svakere enn ventet, ifølge Bloomberg.",
+        "Bakkafrost, som driver på Færøyene og i Skottland, har mandag morgen lagt fram rapporten for andre kvartal.",
         "Fasiten ble tynget av en operasjonell ebit på minus 139 millioner danske kroner i Skottland. – Vi er ikke fornøyde med resultatet i Skottland.",
-        "Slik er fasiten: Forskjellen mellom operasjonelt og ordinært resultat skyldes hovedsakelig en negativ verdiendring på den biologiske beholdningen på 406 millioner danske kroner.",
-        "På Færøyene var fasiten 411 millioner danske kroner i pluss. – Resultatet var drevet av sterk biologisk og operasjonell utvikling på Færøyene.",
-        "Analytikerne lå inne med 409 millioner danske kroner, fremgår det."
+        "Slik er fasiten: Forskjellen mellom operasjonelt og ordinært resultat skyldes hovedsakelig en negativ verdiendring på den biologiske beholdningen på 406 millioner danske kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/zObvow/bakkafrost-tapte-241-millioner-danske-kroner-foer-skatt",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/18248f47-27c7-3d20-b764-bd748f5dc03b?fit=crop&h=675&upscale=true&w=1200&s=b1a63579adb861a1691bce74a7a2f1824b4feb90",
-      "localImage": "assets/news/0d7272352707ce.jpg",
+      "localImage": "assets/news/f98ec8a83d4a2b.jpg",
       "score": 13
     },
     {
@@ -169,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/9I9IUMLYa1Fc-AkqvR1SqAATsSzI7GS0Uru3IFa_j_kw.jpg",
       "localImage": "assets/news/07910d209e155c.jpg",
-      "score": 12
-    },
-    {
-      "id": "6d793c8a9226f7",
-      "category": "Norge",
-      "published": "30.08. 01:22",
-      "publishedISO": "2026-08-30T01:22:24+02:00",
-      "title": "EU-dramaet på Island: Opptellingen er i gang",
-      "summary": "Det er til sammen rundt 270.000 stemmeberettigede på Island. António Costa, preisdent for Det europeiske råd, sier via en talsperson at han respekterer den demokratiske prosessen og islendernes valg om å holde seg ute av EU. – Island forblir en nær alliert av Den europeiske union, fortsetter uttalelsen. Dersom Island skulle blitt EU-medlem,hadde maktbalansen i EØS-avtalen blitt endret drastisk: Norge ville blitt sittende igjen alene på EFTA-siden, ettersom Liechtenstein kun har 40.000 innbyggere.",
-      "keyPoints": [
-        "Det er til sammen rundt 270.000 stemmeberettigede på Island.",
-        "Dersom Island skulle blitt EU-medlem,hadde maktbalansen i EØS-avtalen blitt endret drastisk: Norge ville blitt sittende igjen alene på EFTA-siden, ettersom Liechtenstein kun har 40.000 innbyggere.",
-        "António Costa, preisdent for Det europeiske råd, sier via en talsperson at han respekterer den demokratiske prosessen og islendernes valg om å holde seg ute av EU. – Island forblir en nær alliert av Den europeiske union, fortsetter uttalelsen.",
-        "Folk på Island kan avgi sin stemme frem til midnatt norsk tid."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FsXHU_y_qE5C9JAMIreUZQVinmFIjBpuP0IY5Fbog0vw.jpg",
-      "localImage": "assets/news/6d793c8a9226f7.jpg",
       "score": 12
     }
   ]
