@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 07:36",
-  "updatedISO": "2026-08-31T07:36:20.395698+02:00",
+  "updatedAt": "31.08.2026 kl. 07:51",
+  "updatedISO": "2026-08-31T07:51:13.298045+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -169,6 +169,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/EzTX2u6h1tCy2KJF7RiSKAjAH8iSIpKk-Btsh72bqGcA.jpg",
       "localImage": "assets/news/c25f0c75d06175.jpg",
+      "score": 12
+    },
+    {
+      "id": "57da6f1536f522",
+      "category": "Norge",
+      "published": "30.08. 21:53",
+      "publishedISO": "2026-08-30T21:53:27+02:00",
+      "title": "For første gang inkluderes Sametinget formelt i et tronskifte",
+      "summary": "Da kong Olav døde i 1991, sto Sametinget på sidelinjen. HISTORISK DAG: Sametingspresident Silje Karine Muotka og plenumsleder Sandra Márjá West representerer Sametinget under sørgegudstjenesten i Oslo domkirke søndag. – Dette er første gang Sametinget inkluderes så formelt i et tronskifte, og vi skal overbringe kondolansene på vegne av det samiske folk på aller beste måte, sier Muotka. BYGDE RELASJONER: Allerede i 1993, her under åpningen av Sametinget, var kong Harald og daværende president Ole Henrik Magga i ferd med å bygge det tette båndet mellom Kongehuset og Sápmi.",
+      "keyPoints": [
+        "HISTORISK DAG: Sametingspresident Silje Karine Muotka og plenumsleder Sandra Márjá West representerer Sametinget under sørgegudstjenesten i Oslo domkirke søndag. – Dette er første gang Sametinget inkluderes så formelt i et tronskifte, og vi skal overbringe kondolansene på vegne av det samiske folk på aller beste måte, sier Muotka.",
+        "Da kong Olav døde i 1991, sto Sametinget på sidelinjen.",
+        "BYGDE RELASJONER: Allerede i 1993, her under åpningen av Sametinget, var kong Harald og daværende president Ole Henrik Magga i ferd med å bygge det tette båndet mellom Kongehuset og Sápmi.",
+        "I 1997 holdt kong Harald en historisk tale der han, som den første representanten for staten, offisielt ba det samiske folket om unnskyldning for fornorskningspolitikken."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sapmi/for-forste-gang-inkluderes-sametinget-formelt-i-et-tronskifte-1.18008229",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/MCRYHGw24OPT-Bpl-ZKA8wQm33212AgpZekN-ZL_CcLQ.jpg",
+      "localImage": "assets/news/57da6f1536f522.jpg",
       "score": 12
     }
   ]
