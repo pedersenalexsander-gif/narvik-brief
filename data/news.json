@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 07:21",
-  "updatedISO": "2026-08-31T07:21:40.236126+02:00",
+  "updatedAt": "31.08.2026 kl. 07:36",
+  "updatedISO": "2026-08-31T07:36:20.395698+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -169,48 +169,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/EzTX2u6h1tCy2KJF7RiSKAjAH8iSIpKk-Btsh72bqGcA.jpg",
       "localImage": "assets/news/c25f0c75d06175.jpg",
-      "score": 12
-    },
-    {
-      "id": "f422cfea4780c4",
-      "category": "Norge",
-      "published": "30.08. 21:34",
-      "publishedISO": "2026-08-30T21:34:13+02:00",
-      "title": "Viking snudde til seier etter sjokkstart – avgjorde på overtid",
-      "summary": "Simen Kvia-Egeskog kom inn fra benken og sørget for at Viking slo Aalesund 2-1 i Eliteserien. – Det er deilig å komme inn og bidra til å snu det. Det tok bare fire minutter før AaFK-back Uba Charles fikk dra seg inn i feltet og skyte i det nærmeste hjørnet. – Det var ikke mye Champions League over det forsvarsspillet, sa TV 2-kommentator Peder Mørtvedt om Viking. På overtid dukket Kvia-Egeskog igjen opp da han på innlegg fra Zlatko Tripic headet i mål.",
-      "keyPoints": [
-        "Simen Kvia-Egeskog kom inn fra benken og sørget for at Viking slo Aalesund 2-1 i Eliteserien. – Det er deilig å komme inn og bidra til å snu det.",
-        "Det tok bare fire minutter før AaFK-back Uba Charles fikk dra seg inn i feltet og skyte i det nærmeste hjørnet. – Det var ikke mye Champions League over det forsvarsspillet, sa TV 2-kommentator Peder Mørtvedt om Viking.",
-        "På overtid dukket Kvia-Egeskog igjen opp da han på innlegg fra Zlatko Tripic headet i mål.",
-        "Der og da virket det nesten utenkelig at han skal makte å ta sin 25. seier i en Grand Slam-turnering."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/viking-snudde-til-seier-etter-sjokkstart-_-avgjorde-pa-overtid-1.18008304",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/G_D0KFvdixtwx-os9RMdfgFKpT91cCjae2ppk4Az791g.jpg",
-      "localImage": "assets/news/f422cfea4780c4.jpg",
-      "score": 12
-    },
-    {
-      "id": "6d793c8a9226f7",
-      "category": "Norge",
-      "published": "30.08. 01:22",
-      "publishedISO": "2026-08-30T01:22:24+02:00",
-      "title": "EU-dramaet på Island: Opptellingen er i gang",
-      "summary": "Det er til sammen rundt 270.000 stemmeberettigede på Island. António Costa, preisdent for Det europeiske råd, sier via en talsperson at han respekterer den demokratiske prosessen og islendernes valg om å holde seg ute av EU. – Island forblir en nær alliert av Den europeiske union, fortsetter uttalelsen. Dersom Island skulle blitt EU-medlem,hadde maktbalansen i EØS-avtalen blitt endret drastisk: Norge ville blitt sittende igjen alene på EFTA-siden, ettersom Liechtenstein kun har 40.000 innbyggere.",
-      "keyPoints": [
-        "Det er til sammen rundt 270.000 stemmeberettigede på Island.",
-        "Dersom Island skulle blitt EU-medlem,hadde maktbalansen i EØS-avtalen blitt endret drastisk: Norge ville blitt sittende igjen alene på EFTA-siden, ettersom Liechtenstein kun har 40.000 innbyggere.",
-        "António Costa, preisdent for Det europeiske råd, sier via en talsperson at han respekterer den demokratiske prosessen og islendernes valg om å holde seg ute av EU. – Island forblir en nær alliert av Den europeiske union, fortsetter uttalelsen.",
-        "Folk på Island kan avgi sin stemme frem til midnatt norsk tid."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/eu-dramaet-pa-island_-opptellingen-er-i-gang-1.18007111",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FsXHU_y_qE5C9JAMIreUZQVinmFIjBpuP0IY5Fbog0vw.jpg",
-      "localImage": "assets/news/6d793c8a9226f7.jpg",
       "score": 12
     }
   ]
