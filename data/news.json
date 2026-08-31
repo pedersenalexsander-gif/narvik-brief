@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 14:37",
-  "updatedISO": "2026-08-31T14:37:02.793907+02:00",
+  "updatedAt": "31.08.2026 kl. 14:51",
+  "updatedISO": "2026-08-31T14:51:47.385995+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,27 +88,6 @@
       "score": 14
     },
     {
-      "id": "7c9ceb2bd22c26",
-      "category": "Økonomi",
-      "published": "30.08. 13:40",
-      "publishedISO": "2026-08-30T13:40:35+02:00",
-      "title": "Kjenner du egentlig din kollega Lise?",
-      "summary": "Men bak en dyktig selger kan det ligge langt mer enn gode talegaver: rask informasjonsbearbeiding, forretningsforståelse, nysgjerrighet, problemløsning og evne til å bygge tillit, stille gode spørsmål, håndtere motstand og lese mennesker og situasjoner. Han må kunne skille viktig informasjon fra støy, forstå behov som ikke alltid blir uttalt, endre retning underveis og vite når han skal argumentere – og når han skal være stille. Eller kjenner de først og fremst fortellingen de har laget om Lise?",
-      "keyPoints": [
-        "Eller kjenner de først og fremst fortellingen de har laget om Lise?",
-        "Men bak en dyktig selger kan det ligge langt mer enn gode talegaver: rask informasjonsbearbeiding, forretningsforståelse, nysgjerrighet, problemløsning og evne til å bygge tillit, stille gode spørsmål, håndtere motstand og lese mennesker og situasjoner.",
-        "Han må kunne skille viktig informasjon fra støy, forstå behov som ikke alltid blir uttalt, endre retning underveis og vite når han skal argumentere – og når han skal være stille.",
-        "Virksomheter må bygge ny kompetanse, samtidig som mange sliter med å finne menneskene de trenger."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/karriere-og-ledelse/i/2pXE3G/kjenner-du-egentlig-din-kollega-lise",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/fc26fc6e-1649-3b6a-8a71-d72d8096f79f?fit=crop&h=675&upscale=true&w=1200&s=801e3f7d6b19e589030042f4a70c7e19cfec2ab6",
-      "localImage": "assets/news/7c9ceb2bd22c26.jpg",
-      "score": 14
-    },
-    {
       "id": "3265bd5a0c8b52",
       "category": "Norge",
       "published": "31.08. 14:18",
@@ -140,7 +119,7 @@
         "Når E24 sjekker mandag er det ikke mulig å booke noen av hotellets 284 rom, inkludert 54 suiter, i dagene rundt kongens gravferd.",
         "E24 har vært i kontakt med flere hoteller i sentrum av hovedstaden.",
         "Historiske Thon Hotel Bristol som åpnet i 1920 er også fullbooket 9. september.",
-        "UD sier mandag at de venter et «betydelig antall utenlandske kongelige, statsoverhoder og andre offisielle representanter vil delta i gravferden.» – Alle land med diplomatisk representasjon i Oslo inviteres, i tillegg til medlemslandene i NATO, EØS og EU som ikke har representasjon i Norge, sier Thea Finstad til VG."
+        "UD sier mandag at de venter et «betydelig antall utenlandske kongelige, statsoverhoder og andre offisielle representanter vil delta i gravferden.» – Alle land med diplomatisk representasjon i Oslo inviteres, i tillegg til medlemslandene i NATO, EØS og EU som ikke har representasjon i Norge, sier seniorrådgiver i UD Thea Finstad til VG."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/HdYeixZC3HItlN2n8PjQKQsxeuLImRLUOFyyHwVymRwA.jpg",
       "localImage": "assets/news/c1ef508d7a4ca6.jpg",
+      "score": 13
+    },
+    {
+      "id": "9c2c7eac2650cc",
+      "category": "Norge",
+      "published": "31.08. 09:55",
+      "publishedISO": "2026-08-31T09:55:28+02:00",
+      "title": "Telemarks-ministrane om møtet på Slottet: – Ei heilt spesiell stemning",
+      "summary": "Berre nokre timar seinare var regjeringa samla til ekstraordinært statsråd på Slottet, der Telemarks-statsrådane Lene Vågslid (Ap) og Terje Aasland (Ap) stod overfor Noregs nye monark for aller første gong. – Sterkt, seier dei om det heilt spesielle møtet. Barne- og familieminister Vågslid seier ho blei svært gripen av møtet med den nye kongen og kronprinsessa. – Det var veldig sterkt. Fredag blei det som kjent kalla inn til ekstraordinært statsråd, der han og Vågslid sjølvsagt også hadde plass ved bordet. – Det var veldig spesielt, seier Aasland om det første møtet med den nye kongen i landet. – Det å få vere med i det første statsrådet der han oppgir det namnet han skal ha, altså kong Haakon VIII.",
+      "keyPoints": [
+        "Berre nokre timar seinare var regjeringa samla til ekstraordinært statsråd på Slottet, der Telemarks-statsrådane Lene Vågslid (Ap) og Terje Aasland (Ap) stod overfor Noregs nye monark for aller første gong. – Sterkt, seier dei om det heilt spesielle møtet.",
+        "Fredag blei det som kjent kalla inn til ekstraordinært statsråd, der han og Vågslid sjølvsagt også hadde plass ved bordet. – Det var veldig spesielt, seier Aasland om det første møtet med den nye kongen i landet. – Det å få vere med i det første statsrådet der han oppgir det namnet han skal ha, altså kong Haakon VIII.",
+        "Barne- og familieminister Vågslid seier ho blei svært gripen av møtet med den nye kongen og kronprinsessa. – Det var veldig sterkt.",
+        "Vågslid er imponert over korleis dei to takla den personlege sorga si, samtidig som dei skulle leie eit ekstraordinært statsråd. – Det gjorde dei jo som venta på ein veldig, veldig god måte."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/telemarks-ministrane-om-motet-pa-slottet_-_-ei-heilt-spesiell-stemning-1.18008635",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/EJyGQJ7nMUNZ9zaK6Np_QA70V3zhLwRU5YCi7KsBeBIA.jpg",
+      "localImage": "assets/news/9c2c7eac2650cc.jpg",
       "score": 13
     }
   ]
