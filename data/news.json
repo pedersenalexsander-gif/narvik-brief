@@ -1,27 +1,27 @@
 {
-  "updatedAt": "31.08.2026 kl. 14:07",
-  "updatedISO": "2026-08-31T14:07:44.441861+02:00",
+  "updatedAt": "31.08.2026 kl. 14:21",
+  "updatedISO": "2026-08-31T14:21:47.443077+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "1e26c207ead14d",
+      "id": "3265bd5a0c8b52",
       "category": "Norge",
-      "published": "31.08. 13:22",
-      "publishedISO": "2026-08-31T13:22:59+02:00",
-      "title": "Larvik: Får ikke medhold etter omfattende varsler mot kommunedirektør",
-      "summary": "Kommunedirektør Marit Kobro er renvasket etter et omfattende varsel fra byggesaksansatte i april. Det kommer frem i en ny rapport. – TØFT: Kommunedirektør i Larvik, Marit Kobro, sier det har vært en tøff prosess, både for henne og de andre som har vært involvert. I en ny rapport slår Advokatfirmaet DLA Piper fast at kommunedirektør Marit Kobro ikke har brutt loven eller interne retningslinjer.",
+      "published": "31.08. 14:18",
+      "publishedISO": "2026-08-31T14:18:09+02:00",
+      "title": "Anonym trussel på «Jodel» stengde skulen: – Svært alvorleg",
+      "summary": "Ein trussel på den anonyme appen «Jodel» førte til at rundt 1200 elevar måtte evakuere frå skulen. TRUSSEL: Store politistyrkar rykte ut til Gjøvik vidaregåande skule etter at det vart oppdaga ein trussel mot skulen på den anonyme appen «Jodel». Elevar og lærarar ved Gjøvik vidaregåande skule måtte brått avslutte skuledagen då det vart oppdaga ein trussel mot skulen fredag.",
       "keyPoints": [
-        "Det kommer frem i en ny rapport. – TØFT: Kommunedirektør i Larvik, Marit Kobro, sier det har vært en tøff prosess, både for henne og de andre som har vært involvert.",
-        "Kommunedirektør Marit Kobro er renvasket etter et omfattende varsel fra byggesaksansatte i april.",
-        "I en ny rapport slår Advokatfirmaet DLA Piper fast at kommunedirektør Marit Kobro ikke har brutt loven eller interne retningslinjer.",
-        "Ledelsen i Larvik kommune sier de tar rapporten på dypt alvor."
+        "Ein trussel på den anonyme appen «Jodel» førte til at rundt 1200 elevar måtte evakuere frå skulen.",
+        "TRUSSEL: Store politistyrkar rykte ut til Gjøvik vidaregåande skule etter at det vart oppdaga ein trussel mot skulen på den anonyme appen «Jodel».",
+        "Elevar og lærarar ved Gjøvik vidaregåande skule måtte brått avslutte skuledagen då det vart oppdaga ein trussel mot skulen fredag.",
+        "Politiet ser svært alvorleg på hendinga, seier Talberg. – Vi tar slike truslar alvorleg."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/larvik_-far-ikke-medhold-etter-omfattende-varsler-mot-kommunedirektor-1.18008888",
+      "url": "https://www.nrk.no/innlandet/la-ut-trussel-mot-gjovik-vidaregaande-skule-pa-jodel_-1200-elevar-matte-evakuere-1.18009104",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/T1P85uEMWtrvxwDqfd8A2giFB9gc-RDV117M0ldq0BRg.jpg",
-      "localImage": "assets/news/1e26c207ead14d.jpg",
+      "image": "https://gfx.nrk.no/2JUkaAQshwNwooA5fDVD_Qdz_kOziTY67DDLHlcHKh6w.jpg",
+      "localImage": "assets/news/3265bd5a0c8b52.jpg",
       "score": 13
     },
     {
@@ -130,6 +130,27 @@
       "score": 13
     },
     {
+      "id": "1e26c207ead14d",
+      "category": "Norge",
+      "published": "31.08. 13:22",
+      "publishedISO": "2026-08-31T13:22:59+02:00",
+      "title": "Larvik: Får ikke medhold etter omfattende varsler mot kommunedirektør",
+      "summary": "Kommunedirektør Marit Kobro er renvasket etter et omfattende varsel fra byggesaksansatte i april. Det kommer frem i en ny rapport. – TØFT: Kommunedirektør i Larvik, Marit Kobro, sier det har vært en tøff prosess, både for henne og de andre som har vært involvert. I en ny rapport slår Advokatfirmaet DLA Piper fast at kommunedirektør Marit Kobro ikke har brutt loven eller interne retningslinjer.",
+      "keyPoints": [
+        "Det kommer frem i en ny rapport. – TØFT: Kommunedirektør i Larvik, Marit Kobro, sier det har vært en tøff prosess, både for henne og de andre som har vært involvert.",
+        "Kommunedirektør Marit Kobro er renvasket etter et omfattende varsel fra byggesaksansatte i april.",
+        "I en ny rapport slår Advokatfirmaet DLA Piper fast at kommunedirektør Marit Kobro ikke har brutt loven eller interne retningslinjer.",
+        "Ledelsen i Larvik kommune sier de tar rapporten på dypt alvor."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/larvik_-far-ikke-medhold-etter-omfattende-varsler-mot-kommunedirektor-1.18008888",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/T1P85uEMWtrvxwDqfd8A2giFB9gc-RDV117M0ldq0BRg.jpg",
+      "localImage": "assets/news/1e26c207ead14d.jpg",
+      "score": 13
+    },
+    {
       "id": "ee031a853ff68b",
       "category": "Økonomi",
       "published": "31.08. 11:15",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/EJyGQJ7nMUNZ9zaK6Np_QA70V3zhLwRU5YCi7KsBeBIA.jpg",
       "localImage": "assets/news/9c2c7eac2650cc.jpg",
-      "score": 13
-    },
-    {
-      "id": "725c155ef894a1",
-      "category": "Norge",
-      "published": "31.08. 09:43",
-      "publishedISO": "2026-08-31T09:43:01+02:00",
-      "title": "I Vardø kommune har de satt ungdomsfiske inn på læreplanen med stor suksess",
-      "summary": "I Vardø kan ungdommen ikke bare tjene rått på ungdomsfiske, nå lærer de også om fiske i skolehverdagen. Ungdomsfiskerne og støtteapparatet stilte opp da slutten av årets ungdomsfiske skulle markeres i Vardø. Liane Eines, inspektør ved Vardø skole, forteller at skolen denne høsten starter med arbeidslivsfag. – Vi har allerede sett på samarbeidsprosjektene, og da er ungdomsfiske en stor del av det.",
-      "keyPoints": [
-        "Liane Eines, inspektør ved Vardø skole, forteller at skolen denne høsten starter med arbeidslivsfag. – Vi har allerede sett på samarbeidsprosjektene, og da er ungdomsfiske en stor del av det.",
-        "I Vardø kan ungdommen ikke bare tjene rått på ungdomsfiske, nå lærer de også om fiske i skolehverdagen.",
-        "Ungdomsfiskerne og støtteapparatet stilte opp da slutten av årets ungdomsfiske skulle markeres i Vardø.",
-        "I sommer har 31 ungdommer i Vardø jobbet på havet, gjennom den populære ungdomsfiskeordningen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/i-vardo-kommune-har-de-satt-ungdomsfiske-inn-pa-laereplanen-med-stor-suksess-1.18003253",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/g9yAEDeB6xLQV5K5bZeD0gkCvI0nhgIfsPqRKHyUqXZg.jpg",
-      "localImage": "assets/news/725c155ef894a1.jpg",
       "score": 13
     }
   ]
