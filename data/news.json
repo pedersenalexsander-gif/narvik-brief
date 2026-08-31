@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 21:22",
-  "updatedISO": "2026-08-31T21:22:06.703970+02:00",
+  "updatedAt": "31.08.2026 kl. 21:36",
+  "updatedISO": "2026-08-31T21:36:41.158669+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,27 @@
       "image": "https://gfx.nrk.no/OArlFbl4JG4SwiW9_4WJFwhaCqASCN0sNMwPL8sx2D0w.jpg",
       "localImage": "assets/news/acc159be8eb848.jpg",
       "score": 17
+    },
+    {
+      "id": "2c73980edb86a3",
+      "category": "Verden",
+      "published": "31.08. 20:58",
+      "publishedISO": "2026-08-31T20:58:16+02:00",
+      "title": "En flom i Grand Canyon dreper en og setter i gang leting etter savnede turgåere",
+      "summary": "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien To personer har omkommet og 14 er fortsatt savnet eller uoppdaget etter at flom flom feide gjennom deler av Grand Canyon, har National Park Service (NPS) sagt. 62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC. Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer hadde blitt ødelagt av oversvømmelsen. NPS advarte også om at det var varslet flere tordenvær og kraftig nedbør for mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
+      "keyPoints": [
+        "Turgåere ble løftet i sikkerhet etter at flom traff Grand Canyon-stien To personer har omkommet og 14 er fortsatt savnet eller uoppdaget etter at flom flom feide gjennom deler av Grand Canyon, har National Park Service (NPS) sagt.",
+        "62 personer er så langt fraktet ut av området. \"Hele greia var skremmende,\" sa Nikki Baggs (41), som var blant dem som ble løftet ut av bunnen av Grand Canyon sammen med sine to venner. - Det var en vakker dag, og da skrek og løp folk, sa hun til BBC.",
+        "Grand Canyon National Park la ut dette bildet på Facebook mens det advarte at gangbroer hadde blitt ødelagt av oversvømmelsen. NPS advarte også om at det var varslet flere tordenvær og kraftig nedbør for mandag, noe som kan føre til \"ytterligere oversvømmelser, ruskstrømmer, steinsprang og endrede sti- og elveforhold\".",
+        "Baggs sa at hun og vennene hennes nettopp hadde avlevert eiendelene sine på en hytte i Phantom Ranch - en avsidesliggende hytte på bunnen av Grand Canyon - da de bestemte seg for å dra ut for å nyte den fine dagen."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/clylkjyez1do",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
+      "localImage": "assets/news/2c73980edb86a3.png",
+      "score": 13
     },
     {
       "id": "57dc53af51089f",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/PD7gMrEVExdghUBNtKD_ugjW6ikKXrzDwfNFMDCJiunA.jpg",
       "localImage": "assets/news/7cd0fea1a369cf.jpg",
-      "score": 13
-    },
-    {
-      "id": "fb976788e8a02a",
-      "category": "Norge",
-      "published": "31.08. 19:44",
-      "publishedISO": "2026-08-31T19:44:18+02:00",
-      "title": "Mener kong Haakons erfaring i Arktis er en stor fordel",
-      "summary": "Da kong Haakon VIII krysset Grønlandsisen på ski og kite i 2022, var det ikke bare en sportslig bragd i minus 30 grader med 100 kilo bagasje på pulken. Erfaringen med klimakrisen midt ute i isødet, gir ham stor tyngde når han skal møte forskere og verdensledere, mener turkameratene hans. Polarhistoriker Jølle mener denne erfaringen gir kongen stor tyngde internasjonalt: – Kong Haakon fører arven videre med en praktisk erfaring fra felt.",
-      "keyPoints": [
-        "Polarhistoriker Jølle mener denne erfaringen gir kongen stor tyngde internasjonalt: – Kong Haakon fører arven videre med en praktisk erfaring fra felt.",
-        "Erfaringen med klimakrisen midt ute i isødet, gir ham stor tyngde når han skal møte forskere og verdensledere, mener turkameratene hans.",
-        "Da kong Haakon VIII krysset Grønlandsisen på ski og kite i 2022, var det ikke bare en sportslig bragd i minus 30 grader med 100 kilo bagasje på pulken.",
-        "Turkompisene sier at kong Haakon inngikk som en helt ordinær ekspedisjonsdeltaker og stilte på lik linje som de andre."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/mener-kong-haakons-erfaring-i-arktis-er-en-stor-fordel-1.18009165",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ABX98BhUPSerIv2bkGfQjwlxcoi0Xhy8M57g6ZJORjTg.jpg",
-      "localImage": "assets/news/fb976788e8a02a.jpg",
       "score": 13
     }
   ]
