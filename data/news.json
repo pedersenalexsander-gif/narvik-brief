@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 06:06",
-  "updatedISO": "2026-08-31T06:06:50.526468+02:00",
+  "updatedAt": "31.08.2026 kl. 06:21",
+  "updatedISO": "2026-08-31T06:21:35.547520+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -65,6 +65,27 @@
       "image": "https://akamai.vgc.no/v2/images/fc26fc6e-1649-3b6a-8a71-d72d8096f79f?fit=crop&h=675&upscale=true&w=1200&s=801e3f7d6b19e589030042f4a70c7e19cfec2ab6",
       "localImage": "assets/news/7c9ceb2bd22c26.jpg",
       "score": 15
+    },
+    {
+      "id": "af34f38640213d",
+      "category": "Norge",
+      "published": "31.08. 06:15",
+      "publishedISO": "2026-08-31T06:15:24+02:00",
+      "title": "Fagfolk slår alarm om ei nasjonal skrivekrise blant norske elevar",
+      "summary": "Kor godt norske elevar kan skrive, er ikkje målt på 10 år. Fagfolk varslar ei nasjonal skrivekrise blant norske barn og unge. Han peikar på at ein no står overfor ei nasjonal skrivekrise. – Vi hadde nasjonale skriveprøver fram til 2016, då låg 40 prosent under forventa nivå.",
+      "keyPoints": [
+        "Fagfolk varslar ei nasjonal skrivekrise blant norske barn og unge.",
+        "Kor godt norske elevar kan skrive, er ikkje målt på 10 år.",
+        "Han peikar på at ein no står overfor ei nasjonal skrivekrise. – Vi hadde nasjonale skriveprøver fram til 2016, då låg 40 prosent under forventa nivå.",
+        "Berge har saman med Skrivesenteret og Landslaget for norskundervisning sagt ifrå til regjeringa om at noko bør gjerast med det dei definerer som ei nasjonal skrivekrise."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/fagfolk-slar-alarm-om-ei-nasjonal-skrivekrise-blant-norske-elevar-1.17956434",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/3MQLzuLqTy3_-RPBuxEmkg_sf0qR-OSCYbMpm0CQcuFg.jpg",
+      "localImage": "assets/news/af34f38640213d.jpg",
+      "score": 13
     },
     {
       "id": "94f91739a642ab",
