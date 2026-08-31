@@ -1,6 +1,6 @@
 {
-  "updatedAt": "31.08.2026 kl. 10:21",
-  "updatedISO": "2026-08-31T10:21:30.853174+02:00",
+  "updatedAt": "31.08.2026 kl. 10:36",
+  "updatedISO": "2026-08-31T10:36:19.395193+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -44,6 +44,27 @@
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
       "localImage": "assets/news/e780dfe9634bdf.jpg",
       "score": 23
+    },
+    {
+      "id": "1b00109f1e50c2",
+      "category": "Økonomi",
+      "published": "31.08. 10:07",
+      "publishedISO": "2026-08-31T10:07:51+02:00",
+      "title": "Norges Bank skal selge kroner i september",
+      "summary": "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken. Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august. Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+      "keyPoints": [
+        "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken.",
+        "Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+        "Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august.",
+        "De samlede valutatransaksjonene i september består av 300 millioner i kronesalg daglig på vegne av staten, som er relatert til statsbudsjettet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/JOqV24/norges-bank-skal-selge-kroner-for-176-millioner-kroner-i-september",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
+      "localImage": "assets/news/1b00109f1e50c2.jpg",
+      "score": 18
     },
     {
       "id": "f3205df64767a7",
@@ -156,12 +177,12 @@
       "published": "31.08. 08:20",
       "publishedISO": "2026-08-31T08:20:41+02:00",
       "title": "Rettssaken etter drapet på Marita Løfshus Haugen – uvisst om Jørn Andersen vil forklare seg",
-      "summary": "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Haugen med en machete. Andersen er tiltalt for å ha drept Marita Løfshus Haugen på Løkken Verk i Orkland, 13. desember 2025. Ikke langt fra arbeidsplassen ble derimot Haugen funnet død. – Her ble Marita funnet drept like før klokka 21.40, forklarte statsadvokaten mens han viste et dronebilde av stedet. «1» viser stedet der Haugen ble funnet død. «2» viser stedet politiet fant knivslira. «3» viser hvor macheten ble funnet bak en garasje. «4» er Bjørnlihiet pub.",
+      "summary": "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Haugen med en machete. Da rettssaken startet i Trøndelag tingrett mandag morgen var det fortsatt uklart om Andersen erkjente å ha tatt livet av Haugen. – Nei, svarte Andersen på spørsmålet om han erkjente straffskyld eller ikke. Andersen er tiltalt for å ha drept Marita Løfshus Haugen på Løkken Verk i Orkland, 13. desember 2025.",
       "keyPoints": [
         "Påtalemakta mener Jørn Andersen drepte Marita Løfshus Haugen med en machete.",
         "Andersen er tiltalt for å ha drept Marita Løfshus Haugen på Løkken Verk i Orkland, 13. desember 2025.",
-        "Ikke langt fra arbeidsplassen ble derimot Haugen funnet død. – Her ble Marita funnet drept like før klokka 21.40, forklarte statsadvokaten mens han viste et dronebilde av stedet. «1» viser stedet der Haugen ble funnet død. «2» viser stedet politiet fant knivslira. «3» viser hvor macheten ble funnet bak en garasje. «4» er Bjørnlihiet pub.",
-        "Da rettssaken startet i Trøndelag tingrett mandag morgen var det fortsatt uklart om Andersen erkjente å ha tatt livet av Haugen. – Nei, svarte Andersen på spørsmålet om han erkjente straffskyld eller ikke."
+        "Da rettssaken startet i Trøndelag tingrett mandag morgen var det fortsatt uklart om Andersen erkjente å ha tatt livet av Haugen. – Nei, svarte Andersen på spørsmålet om han erkjente straffskyld eller ikke.",
+        "Ikke langt fra arbeidsplassen ble derimot Haugen funnet død. – Her ble Marita funnet drept like før klokka 21.40, forklarte statsadvokaten mens han viste et dronebilde av stedet. «1» viser stedet der Haugen ble funnet død. «2» viser stedet politiet fant knivslira. «3» viser hvor macheten ble funnet bak en garasje. «4» er Bjørnlihiet pub."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/IveYUz9qNsBfic88sGxKTQvgfL-xbW4-cRdje5hp4cIw.jpg",
       "localImage": "assets/news/941ae1f08d8930.webp",
-      "score": 13
-    },
-    {
-      "id": "7585d3f669032c",
-      "category": "Norge",
-      "published": "31.08. 06:57",
-      "publishedISO": "2026-08-31T06:57:37+02:00",
-      "title": "I Troms fekk fire av fem fekk avslag på pasientskadeerstatning",
-      "summary": "Antal pasientar i Troms som fekk godkjent søknaden sin om pasientskadeerstatning er meir enn halvert samanlikna med same periode i fjor. I første halvår i 2025 fekk 55 pasientar i Troms medhald. I første halvår fekk 26 pasientar i Troms til saman 32,4 millionar kroner i erstatning. – Det fortel oss at fleire har blitt skadde som følgje av svikt i behandlinga, og at det har gitt dei eit økonomisk tap. – Målet er å gi pasienten same økonomiske situasjon som han eller ho ville hatt utan skaden, seier Cordt-Hansen.",
-      "keyPoints": [
-        "Antal pasientar i Troms som fekk godkjent søknaden sin om pasientskadeerstatning er meir enn halvert samanlikna med same periode i fjor.",
-        "I første halvår fekk 26 pasientar i Troms til saman 32,4 millionar kroner i erstatning. – Det fortel oss at fleire har blitt skadde som følgje av svikt i behandlinga, og at det har gitt dei eit økonomisk tap. – Målet er å gi pasienten same økonomiske situasjon som han eller ho ville hatt utan skaden, seier Cordt-Hansen.",
-        "Søkjer på feil grunnlag: Direktør i Norsk pasientskadeerstatning, Kristin Cordt-Hansen, meiner mange søkjer på feil grunnlag. – Mange har sett amerikanske filmar og TV-seriar der personar får utbetalt millionbeløp etter dårlege opplevingar.",
-        "Tal frå alle fylke for første halvår 2026 frå lågast til høgast andel medhald: (Uavklart/Ukjent fylke: 2 medhald og 10 avslag (17 % medhald)) Eriksen understrekar at ombodet gjer sitt for å rettleie søkjarane før dei sender inn krav. – Vi rettleiar våre klientar til å lese heimesidene til NPE."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/i-troms-fekk-fire-av-fem-fekk-avslag-pa-pasientskadeerstatning-1.17995687",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5evPlpKqozFwp3nd-wzIBAckE7FH3fFPO2JQ8yaxoWIg.jpg",
-      "localImage": "assets/news/7585d3f669032c.jpg",
       "score": 13
     }
   ]
