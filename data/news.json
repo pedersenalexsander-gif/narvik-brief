@@ -1,27 +1,27 @@
 {
-  "updatedAt": "01.09.2026 kl. 05:56",
-  "updatedISO": "2026-09-01T05:56:32.085280+02:00",
+  "updatedAt": "01.09.2026 kl. 06:13",
+  "updatedISO": "2026-09-01T06:13:24.684870+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "e62af5f0cf2757",
+      "id": "acc159be8eb848",
       "category": "Norge",
-      "published": "31.08. 22:37",
-      "publishedISO": "2026-08-31T22:37:57+02:00",
-      "title": "Kongemerket skal byttes ut på Forsvarets uniformer",
-      "summary": "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol. Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår. Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
+      "published": "31.08. 20:31",
+      "publishedISO": "2026-08-31T20:31:51+02:00",
+      "title": "Havna i Kristiansand: Nye initiativ",
+      "summary": "To nye selskaper vil starte opp seiling til Kristiansand. Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn. Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
       "keyPoints": [
-        "Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
-        "Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår.",
-        "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol.",
-        "På soldatenes beret pryder fortsatt kongemerket til Hans Majestet Kong Harald V."
+        "Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn.",
+        "To nye selskaper vil starte opp seiling til Kristiansand.",
+        "Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
+        "Havnekaptein Karl Danielsen sier kapasiteten i Kristiansand havn er sprengt."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kongemerket-skal-byttes-ut-pa-forsvarets-uniformer-1.18008831",
+      "url": "https://www.nrk.no/sorlandet/havna-i-kristiansand_-nye-initiativ-1.18009121",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/zCVvKUu6l5FArNOtpp2OiwXWcoxLWWysDNnizvZwZeog.jpg",
-      "localImage": "assets/news/e62af5f0cf2757.jpg",
+      "image": "https://gfx.nrk.no/OArlFbl4JG4SwiW9_4WJFwhaCqASCN0sNMwPL8sx2D0w.jpg",
+      "localImage": "assets/news/acc159be8eb848.jpg",
       "score": 16
     },
     {
@@ -85,28 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
       "localImage": "assets/news/1b00109f1e50c2.jpg",
-      "score": 15
-    },
-    {
-      "id": "acc159be8eb848",
-      "category": "Norge",
-      "published": "31.08. 20:31",
-      "publishedISO": "2026-08-31T20:31:51+02:00",
-      "title": "Havna i Kristiansand: Nye initiativ",
-      "summary": "To nye selskaper vil starte opp seiling til Kristiansand. Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn. Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
-      "keyPoints": [
-        "Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn.",
-        "To nye selskaper vil starte opp seiling til Kristiansand.",
-        "Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
-        "Havnekaptein Karl Danielsen sier kapasiteten i Kristiansand havn er sprengt."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/havna-i-kristiansand_-nye-initiativ-1.18009121",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OArlFbl4JG4SwiW9_4WJFwhaCqASCN0sNMwPL8sx2D0w.jpg",
-      "localImage": "assets/news/acc159be8eb848.jpg",
-      "score": 16
+      "score": 14
     },
     {
       "id": "0bd42c4b0f2f88",
@@ -127,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
       "localImage": "assets/news/0bd42c4b0f2f88.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "eb2c7d2c82fbce",
@@ -148,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/q6R_9SuarCA-8cXrzOSK5wqdr41ZvUCzEyriVApsiB6g.jpg",
       "localImage": "assets/news/eb2c7d2c82fbce.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "1ecefafe522f34",
@@ -212,6 +191,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e72/live/7b987920-a59b-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/91a67aa8a9ffd1.jpg",
       "score": 13
+    },
+    {
+      "id": "fee3eaad42da3d",
+      "category": "Verden",
+      "published": "01.09. 00:05",
+      "publishedISO": "2026-09-01T00:05:43+02:00",
+      "title": "Orangutans in danger as wildfires blaze through Indonesia",
+      "summary": "Skogbrannene har ødelagt deler av habitatet til hundrevis av orangutanger og risikerer artens overlevelse. \"Situasjonen er ganske kritisk\", sa Karmele Llano Sanchez, administrerende direktør for dyrelivsstiftelsen Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI). Orangutanger i fare når skogbranner brenner gjennom Borneo. Video, 00:01:11Orangutanger i fare når skogbranner brenner gjennom Borneo Up Next.",
+      "keyPoints": [
+        "Orangutans in danger as wildfires blaze through Borneo.",
+        "Skogbrannene har ødelagt deler av habitatet til hundrevis av orangutanger og risikerer artens overlevelse. \"Situasjonen er ganske kritisk\", sa Karmele Llano Sanchez, administrerende direktør for dyrelivsstiftelsen Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI).",
+        "Indonesia har intensivert innsatsen for å begrense dis fra skogbranner i seks provinser på øyene Borneo og Sumatra.",
+        "Sanchez sa at brannene «etterlater [orangutangene] uten mat eller vann»."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/954d/live/e2eff860-a545-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/fee3eaad42da3d.jpg",
+      "score": 12
     }
   ]
 }
