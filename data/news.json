@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 18:58",
-  "updatedISO": "2026-09-01T18:58:02.368914+02:00",
+  "updatedAt": "01.09.2026 kl. 19:14",
+  "updatedISO": "2026-09-01T19:14:57.691580+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
       "localImage": "assets/news/acebcaf050de4e.jpg",
-      "score": 29
+      "score": 28
     },
     {
       "id": "34d8857b1daa70",
@@ -151,6 +151,27 @@
       "score": 14
     },
     {
+      "id": "71877eaf165d12",
+      "category": "Økonomi",
+      "published": "01.09. 18:58",
+      "publishedISO": "2026-09-01T18:58:57+02:00",
+      "title": "Strømprisen skjøt i været",
+      "summary": "I august steg strømprisen, og den er høyest lengst sør. –⁠ Må tilbake til energikrisen i 2022 for priser som var høyere, sier analytiker. I august var strømprisen lengst sør i Norge (NO2NO2 = Rogaland, Agder, Grenland og deler av Telemark og Vestland.) på sitt høyeste siden energikriseåret 2022. Da havnet månedssnittet i strømprisen på over fire kroner kilowattimen, før avgifter, nettleie og strømstøtte.",
+      "keyPoints": [
+        "I august steg strømprisen, og den er høyest lengst sør. –⁠ Må tilbake til energikrisen i 2022 for priser som var høyere, sier analytiker.",
+        "I august var strømprisen lengst sør i Norge (NO2NO2 = Rogaland, Agder, Grenland og deler av Telemark og Vestland.) på sitt høyeste siden energikriseåret 2022.",
+        "Da havnet månedssnittet i strømprisen på over fire kroner kilowattimen, før avgifter, nettleie og strømstøtte.",
+        "Dette er snittprisen på strøm i august, ifølge strømbørsen Nord Pool (ikke medregnet nettleie, avgifter og strømstøtte): Fortsatt blekner strømprisene mot nivået i august 2022."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/WvdbLk/stroemprisen-skjoet-i-vaeret",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/dfb07100-c0ae-36e1-a5e3-cb7b92da88fb?fit=crop&h=675&upscale=true&w=1200&s=896d713ac15058918cc34e2a0ef2bbb618d18018",
+      "localImage": "assets/news/71877eaf165d12.jpg",
+      "score": 13
+    },
+    {
       "id": "045ed03b46991f",
       "category": "Norge",
       "published": "01.09. 18:04",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b27f/live/85bcd310-a613-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/529a6ed2232588.jpg",
-      "score": 13
-    },
-    {
-      "id": "5e8a4f4694f81c",
-      "category": "Norge",
-      "published": "01.09. 17:27",
-      "publishedISO": "2026-09-01T17:27:22+02:00",
-      "title": "Økokrim har gitt Equinor bot på 720 millionar kroner: I dag starta rettssaka",
-      "summary": "I dag starta den sju veker lange rettssaka mot Equinor. I desember gav Økokrim Equinor Refining Norway AS ei bot på 220 millionar kroner, i tillegg til eit inndragingskrav på 500 millionar kroner. – Denne anklaga er generell og totalt uakseptabel for Equinor, seier selskapet sin forsvarar, Christian Hjort. Han påpeiker at Equinor brukar mellom 1–2 milliardar kroner på vedlikehald i året, og avviser påstanden om at selskapet kan ha spart pengar på vedlikehald.",
-      "keyPoints": [
-        "I desember gav Økokrim Equinor Refining Norway AS ei bot på 220 millionar kroner, i tillegg til eit inndragingskrav på 500 millionar kroner. – Denne anklaga er generell og totalt uakseptabel for Equinor, seier selskapet sin forsvarar, Christian Hjort.",
-        "I dag starta den sju veker lange rettssaka mot Equinor.",
-        "Han påpeiker at Equinor brukar mellom 1–2 milliardar kroner på vedlikehald i året, og avviser påstanden om at selskapet kan ha spart pengar på vedlikehald.",
-        "Sissel Nepstad representerte Equinor under første dag i retten."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/okokrim-har-gitt-equinor-bot-pa-720-millionar-kroner_-i-dag-starta-rettssaka-1.18010045",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/fainRNz4Ni_APWw2tgzhtgG0e2OiJltAi5-rvcYSBkGw.jpg",
-      "localImage": "assets/news/5e8a4f4694f81c.jpg",
       "score": 13
     }
   ]
