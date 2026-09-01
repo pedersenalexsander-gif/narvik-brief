@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 12:54",
-  "updatedISO": "2026-09-01T12:54:33.507976+02:00",
+  "updatedAt": "01.09.2026 kl. 13:11",
+  "updatedISO": "2026-09-01T13:11:47.784402+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/cbfaeb6b960d5c.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "2202b8d1c6820c",
@@ -106,28 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
       "localImage": "assets/news/6acc8130bc5604.jpg",
-      "score": 16
-    },
-    {
-      "id": "edc067d198fe8a",
-      "category": "Norge",
-      "published": "01.09. 11:50",
-      "publishedISO": "2026-09-01T11:50:45+02:00",
-      "title": "Nå skal kong Haakon avlegge ed til Stortinget",
-      "summary": "TIL STORTINGET: Kong Haakon skal tysdag avlegga eid framfor det politiske Noreg. Tysdag kjem kong Haakon til Stortinget for å avlegga eid. Kong Haakon helste soldatane med «god dag, kadettar!» på veg ut.",
-      "keyPoints": [
-        "TIL STORTINGET: Kong Haakon skal tysdag avlegga eid framfor det politiske Noreg.",
-        "Kong Haakon helste soldatane med «god dag, kadettar!» på veg ut.",
-        "Sjølv om Haakon vart konge idet faren døydde, krev Grunnlova at han avlegg denne eiden.",
-        "Den nye kongen skal forplikta seg til å vera lojal mot Stortinget og det dei bestemmer."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/na-skal-kong-haakon-avlegge-ed-til-stortinget-1.18009874",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/uuKHGfJAi65jdyj3Qi8VwgZORQaFI-K3SF7ohh1gCYzA.jpg",
-      "localImage": "assets/news/edc067d198fe8a.jpg",
-      "score": 17
+      "score": 15
     },
     {
       "id": "52fc7912fab0aa",
@@ -212,6 +191,27 @@
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
       "localImage": "assets/news/57dc53af51089f.jpg",
       "score": 15
+    },
+    {
+      "id": "0bd42c4b0f2f88",
+      "category": "Norge",
+      "published": "31.08. 20:06",
+      "publishedISO": "2026-08-31T20:06:48+02:00",
+      "title": "Sist en norsk konge avla eden, satt Erna Solberg i salen",
+      "summary": "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991. TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991. Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
+      "keyPoints": [
+        "Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
+        "TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991.",
+        "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991.",
+        "Kronprins Haakon, som var bare 17 år da hans far avla eden i 1991, var ikke med da."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/sist-en-norsk-konge-avla-eden_-satt-erna-solberg-i-salen-1.18009190",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
+      "localImage": "assets/news/0bd42c4b0f2f88.jpg",
+      "score": 14
     }
   ]
 }
