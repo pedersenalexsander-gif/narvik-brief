@@ -1,27 +1,27 @@
 {
-  "updatedAt": "01.09.2026 kl. 06:13",
-  "updatedISO": "2026-09-01T06:13:24.684870+02:00",
+  "updatedAt": "01.09.2026 kl. 06:29",
+  "updatedISO": "2026-09-01T06:29:14.164374+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "acc159be8eb848",
+      "id": "e62af5f0cf2757",
       "category": "Norge",
-      "published": "31.08. 20:31",
-      "publishedISO": "2026-08-31T20:31:51+02:00",
-      "title": "Havna i Kristiansand: Nye initiativ",
-      "summary": "To nye selskaper vil starte opp seiling til Kristiansand. Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn. Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
+      "published": "31.08. 22:37",
+      "publishedISO": "2026-08-31T22:37:57+02:00",
+      "title": "Kongemerket skal byttes ut på Forsvarets uniformer",
+      "summary": "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol. Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår. Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
       "keyPoints": [
-        "Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn.",
-        "To nye selskaper vil starte opp seiling til Kristiansand.",
-        "Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
-        "Havnekaptein Karl Danielsen sier kapasiteten i Kristiansand havn er sprengt."
+        "Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
+        "Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår.",
+        "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol.",
+        "På soldatenes beret pryder fortsatt kongemerket til Hans Majestet Kong Harald V."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/havna-i-kristiansand_-nye-initiativ-1.18009121",
+      "url": "https://www.nrk.no/tromsogfinnmark/kongemerket-skal-byttes-ut-pa-forsvarets-uniformer-1.18008831",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OArlFbl4JG4SwiW9_4WJFwhaCqASCN0sNMwPL8sx2D0w.jpg",
-      "localImage": "assets/news/acc159be8eb848.jpg",
+      "image": "https://gfx.nrk.no/zCVvKUu6l5FArNOtpp2OiwXWcoxLWWysDNnizvZwZeog.jpg",
+      "localImage": "assets/news/e62af5f0cf2757.jpg",
       "score": 16
     },
     {
@@ -35,7 +35,7 @@
         "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
         "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
         "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa fra University of Tokyo skrev nylig, eksternt, er en refleksjon av \"Japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omallokering av kapital i stedet for et politiske skifte fra Kina til India\"."
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -88,6 +88,27 @@
       "score": 14
     },
     {
+      "id": "acc159be8eb848",
+      "category": "Norge",
+      "published": "31.08. 20:31",
+      "publishedISO": "2026-08-31T20:31:51+02:00",
+      "title": "Havna i Kristiansand: Nye initiativ",
+      "summary": "To nye selskaper vil starte opp seiling til Kristiansand. Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn. Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
+      "keyPoints": [
+        "Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn.",
+        "To nye selskaper vil starte opp seiling til Kristiansand.",
+        "Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
+        "Havnekaptein Karl Danielsen sier kapasiteten i Kristiansand havn er sprengt."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/havna-i-kristiansand_-nye-initiativ-1.18009121",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/OArlFbl4JG4SwiW9_4WJFwhaCqASCN0sNMwPL8sx2D0w.jpg",
+      "localImage": "assets/news/acc159be8eb848.jpg",
+      "score": 16
+    },
+    {
       "id": "0bd42c4b0f2f88",
       "category": "Norge",
       "published": "31.08. 20:06",
@@ -130,6 +151,48 @@
       "score": 14
     },
     {
+      "id": "cdbd36fc7dd29a",
+      "category": "Økonomi",
+      "published": "01.09. 06:25",
+      "publishedISO": "2026-09-01T06:25:47+02:00",
+      "title": "VIP-elitens svarte biler",
+      "summary": "I fjor vant Bislet Limousine en rammeavtale på 45 millioner kroner for bil- og sjåførtjenester, som varer i opptil fire år. «Rammeavtalen knytter seg til kjøp av transport i forbindelse med besøk fra utenlandske statsoverhoder, regjeringsmedlemmer og andre oppdrag», skrev UD i kunngjøringen av konkurransen. UDs avtale med Bislet Limousine gjelder transport av nettopp slike passasjerer. «Betegnelsen VIP benyttes som definisjon på statsoverhoder, regjeringssjefer, utenriksministre, fagministre og andre ledere på høyt nivå i forbindelse med det aktuelle besøket», skrev UD i kunngjøringen. «VIP reiser med en offisiell delegasjon på 2 til 14 personer avhengig av rang og nivå på besøket. Mange av bilene er Mercedes-Benz-modeller fra 2025 og 2026, ifølge Statens vegvesens kjøretøyregister. «Vi tilbyr et bredt utvalg av luksuriøse biler, inkludert Mercedes-Benz E-Klasse, S-Klasse, og V-Class, samt Mercedes-Benz Sprinter minibusser», skriver Bislet Limousine på sine nettsider.",
+      "keyPoints": [
+        "Mange av bilene er Mercedes-Benz-modeller fra 2025 og 2026, ifølge Statens vegvesens kjøretøyregister. «Vi tilbyr et bredt utvalg av luksuriøse biler, inkludert Mercedes-Benz E-Klasse, S-Klasse, og V-Class, samt Mercedes-Benz Sprinter minibusser», skriver Bislet Limousine på sine nettsider.",
+        "I fjor vant Bislet Limousine en rammeavtale på 45 millioner kroner for bil- og sjåførtjenester, som varer i opptil fire år. «Rammeavtalen knytter seg til kjøp av transport i forbindelse med besøk fra utenlandske statsoverhoder, regjeringsmedlemmer og andre oppdrag», skrev UD i kunngjøringen av konkurransen.",
+        "UDs avtale med Bislet Limousine gjelder transport av nettopp slike passasjerer. «Betegnelsen VIP benyttes som definisjon på statsoverhoder, regjeringssjefer, utenriksministre, fagministre og andre ledere på høyt nivå i forbindelse med det aktuelle besøket», skrev UD i kunngjøringen. «VIP reiser med en offisiell delegasjon på 2 til 14 personer avhengig av rang og nivå på besøket.",
+        "E24 observerte de svarte bilene til Bislet Limousine på jobb under Oljefondets investeringskonferanse i april, da verdens mektigste banksjef Jamie Dimon var i Oslo for å møte oljefondssjef Nicolai Tangen og andre næringslivstopper."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/JOqVPm/vip-elitens-svarte-biler",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/07e993f0-0e62-3277-a470-be4d9d0ae31f?fit=crop&h=675&upscale=true&w=1200&s=dbd7f71ad0aab7e98439121dd095c10ff3bbdf92",
+      "localImage": "assets/news/cdbd36fc7dd29a.jpg",
+      "score": 13
+    },
+    {
+      "id": "b4eb4cb8f39fc2",
+      "category": "Norge",
+      "published": "01.09. 06:21",
+      "publishedISO": "2026-09-01T06:21:12+02:00",
+      "title": "Ny meningsmåling: Sju av ti vil beholde monarkiet",
+      "summary": "Han tar over tronen etter flere år med svingninger i oppslutningen til monarkiet. Støtten til monarkiet har gått opp fra 64 prosent på den forrige målingen Norstat gjennomførte for NRK, som var i mai i år. Journalist og forfatter Harald Stanghelle sier at det ikke er overraskende at oppslutningen øker i denne undersøkelsen. – Grunnleggende sett så er jo støtten til monarkiet som styreform høy i Norge, sier han, og fortsetter: – Den har variert litt fram og tilbake, gjerne i takt med når det har ramma skandaler eller sensasjoner.",
+      "keyPoints": [
+        "Støtten til monarkiet har gått opp fra 64 prosent på den forrige målingen Norstat gjennomførte for NRK, som var i mai i år.",
+        "Journalist og forfatter Harald Stanghelle sier at det ikke er overraskende at oppslutningen øker i denne undersøkelsen. – Grunnleggende sett så er jo støtten til monarkiet som styreform høy i Norge, sier han, og fortsetter: – Den har variert litt fram og tilbake, gjerne i takt med når det har ramma skandaler eller sensasjoner.",
+        "Han tar over tronen etter flere år med svingninger i oppslutningen til monarkiet.",
+        "Oppslutningen om monarkiet har gått opp og ned de siste årene."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/ny-meningsmaling_-sju-av-ti-vil-beholde-monarkiet-1.18009458",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/6Hf1AryEsCG0EOBSfjH9lAR_h9LyWHAOrZ7FTEdiKklw",
+      "localImage": "assets/news/b4eb4cb8f39fc2.webp",
+      "score": 13
+    },
+    {
       "id": "1ecefafe522f34",
       "category": "Norge",
       "published": "01.09. 05:45",
@@ -149,69 +212,6 @@
       "image": "https://gfx.nrk.no/lLD__J-w-AvZ_3Kh_bYG1QZJLZ3XZ4N_BC8tPQiqXYzg.jpg",
       "localImage": "assets/news/1ecefafe522f34.jpg",
       "score": 13
-    },
-    {
-      "id": "d6111aac971aab",
-      "category": "Verden",
-      "published": "01.09. 03:01",
-      "publishedISO": "2026-09-01T03:01:03+02:00",
-      "title": "Dan Driscoll: US army secretary resigns after months of tension",
-      "summary": "USAs hærsekretær Dan Driscoll har sendt inn sin avskjed etter rundt 18 måneder i rollen. Detaljene rundt friksjonen bak kulissene mellom Driscoll og Hegseth er uklare, men CBS bemerker at hærsekretæren er gode venner med George, som angivelig ble bedt av Hegseth om å trekke seg. Driscoll tjenestegjorde tidligere i hæren og var offiser i 2007 før han ledet en kavaleripeloton og utplasserte til Irak i flere måneder i 2009.",
-      "keyPoints": [
-        "USAs hærsekretær Dan Driscoll har sendt inn sin avskjed etter rundt 18 måneder i rollen.",
-        "Driscoll tjenestegjorde tidligere i hæren og var offiser i 2007 før han ledet en kavaleripeloton og utplasserte til Irak i flere måneder i 2009.",
-        "Detaljene rundt friksjonen bak kulissene mellom Driscoll og Hegseth er uklare, men CBS bemerker at hærsekretæren er gode venner med George, som angivelig ble bedt av Hegseth om å trekke seg.",
-        "As army secretary, Driscoll became known as Trump's \"drone guy\" due to his embrace of emerging battlefield technologies."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg",
-      "localImage": "assets/news/d6111aac971aab.jpg",
-      "score": 13
-    },
-    {
-      "id": "91a67aa8a9ffd1",
-      "category": "Verden",
-      "published": "01.09. 02:31",
-      "publishedISO": "2026-09-01T02:31:20+02:00",
-      "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
-      "summary": "Duane \"Keffe D\" Davis, a 63-year-old former gang boss, has been found guilty of murdering rapper Tupac Shakur. Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder. Video, 00:01:24Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder Up Next.",
-      "keyPoints": [
-        "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder.",
-        "Duane \"Keffe D\" Davis, a 63-year-old former gang boss, has been found guilty of murdering rapper Tupac Shakur.",
-        "Video, 00:01:07Se: Hvorfor Tupac Shakurs mordrettssak finner sted 30 år etter at han ble drept Se: Hva vi lærte fra åpningserklæringer i Tupac-mordrettssaken.",
-        "Video, 00:01:54Watch: What we learned from opening statements in Tupac murder trial 'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e72/live/7b987920-a59b-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/91a67aa8a9ffd1.jpg",
-      "score": 13
-    },
-    {
-      "id": "fee3eaad42da3d",
-      "category": "Verden",
-      "published": "01.09. 00:05",
-      "publishedISO": "2026-09-01T00:05:43+02:00",
-      "title": "Orangutans in danger as wildfires blaze through Indonesia",
-      "summary": "Skogbrannene har ødelagt deler av habitatet til hundrevis av orangutanger og risikerer artens overlevelse. \"Situasjonen er ganske kritisk\", sa Karmele Llano Sanchez, administrerende direktør for dyrelivsstiftelsen Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI). Orangutanger i fare når skogbranner brenner gjennom Borneo. Video, 00:01:11Orangutanger i fare når skogbranner brenner gjennom Borneo Up Next.",
-      "keyPoints": [
-        "Orangutans in danger as wildfires blaze through Borneo.",
-        "Skogbrannene har ødelagt deler av habitatet til hundrevis av orangutanger og risikerer artens overlevelse. \"Situasjonen er ganske kritisk\", sa Karmele Llano Sanchez, administrerende direktør for dyrelivsstiftelsen Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI).",
-        "Indonesia har intensivert innsatsen for å begrense dis fra skogbranner i seks provinser på øyene Borneo og Sumatra.",
-        "Sanchez sa at brannene «etterlater [orangutangene] uten mat eller vann»."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/954d/live/e2eff860-a545-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/fee3eaad42da3d.jpg",
-      "score": 12
     }
   ]
 }
