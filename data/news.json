@@ -1,28 +1,28 @@
 {
-  "updatedAt": "01.09.2026 kl. 10:54",
-  "updatedISO": "2026-09-01T10:54:03.743447+02:00",
+  "updatedAt": "01.09.2026 kl. 11:12",
+  "updatedISO": "2026-09-01T11:12:33.203872+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "e62af5f0cf2757",
+      "id": "52fc7912fab0aa",
       "category": "Norge",
-      "published": "31.08. 22:37",
-      "publishedISO": "2026-08-31T22:37:57+02:00",
-      "title": "Kongemerket skal byttes ut på Forsvarets uniformer",
-      "summary": "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol. Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår. Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
+      "published": "01.09. 10:35",
+      "publishedISO": "2026-09-01T10:35:06+02:00",
+      "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+      "summary": "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset. Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni. Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
       "keyPoints": [
-        "Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
-        "Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår.",
-        "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol.",
-        "På soldatenes beret pryder fortsatt kongemerket til Hans Majestet Kong Harald V."
+        "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset.",
+        "Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni.",
+        "Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
+        "Dronning Sonja og prins Sverre Magnus skal følge med på seremonien i stortingssalen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kongemerket-skal-byttes-ut-pa-forsvarets-uniformer-1.18008831",
+      "url": "https://www.nrk.no/nyheter/dronning-mette-marit-uteblir-fra-edsavleggelsen-1.18010052",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/zCVvKUu6l5FArNOtpp2OiwXWcoxLWWysDNnizvZwZeog.jpg",
-      "localImage": "assets/news/e62af5f0cf2757.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/xxbEFkr4GfX2BWA69pn-Fg3HaJOl0NwdhhaSrT0CrR4w.jpg",
+      "localImage": "assets/news/52fc7912fab0aa.webp",
+      "score": 17
     },
     {
       "id": "261809541e8091",
@@ -130,45 +130,24 @@
       "score": 15
     },
     {
-      "id": "acc159be8eb848",
+      "id": "e62af5f0cf2757",
       "category": "Norge",
-      "published": "31.08. 20:31",
-      "publishedISO": "2026-08-31T20:31:51+02:00",
-      "title": "Havna i Kristiansand: Nye initiativ",
-      "summary": "To nye selskaper vil starte opp seiling til Kristiansand. Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn. Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
+      "published": "31.08. 22:37",
+      "publishedISO": "2026-08-31T22:37:57+02:00",
+      "title": "Kongemerket skal byttes ut på Forsvarets uniformer",
+      "summary": "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol. Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår. Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
       "keyPoints": [
-        "Color Line og Fjordline kan bli akkompagnert av to nye selskaper i Kristiansand havn. – Kapasiteten er egentlig ganske sprengt her i Kristiansand havn.",
-        "To nye selskaper vil starte opp seiling til Kristiansand.",
-        "Det er nettopp dette selskapet som skal se om det er plass til nye selskaper i havna. – Rapporten konkluderer med at det er ledig kapasitet i gitte tidsrom i løpet av døgnet.",
-        "Havnekaptein Karl Danielsen sier kapasiteten i Kristiansand havn er sprengt."
+        "Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
+        "Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår.",
+        "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol.",
+        "På soldatenes beret pryder fortsatt kongemerket til Hans Majestet Kong Harald V."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/havna-i-kristiansand_-nye-initiativ-1.18009121",
+      "url": "https://www.nrk.no/tromsogfinnmark/kongemerket-skal-byttes-ut-pa-forsvarets-uniformer-1.18008831",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OArlFbl4JG4SwiW9_4WJFwhaCqASCN0sNMwPL8sx2D0w.jpg",
-      "localImage": "assets/news/acc159be8eb848.jpg",
-      "score": 15
-    },
-    {
-      "id": "0bd42c4b0f2f88",
-      "category": "Norge",
-      "published": "31.08. 20:06",
-      "publishedISO": "2026-08-31T20:06:48+02:00",
-      "title": "Sist en norsk konge avla eden, satt Erna Solberg i salen",
-      "summary": "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991. TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991. Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
-      "keyPoints": [
-        "Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
-        "TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991.",
-        "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991.",
-        "Kronprins Haakon, som var bare 17 år da hans far avla eden i 1991, var ikke med da."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/sist-en-norsk-konge-avla-eden_-satt-erna-solberg-i-salen-1.18009190",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
-      "localImage": "assets/news/0bd42c4b0f2f88.jpg",
+      "image": "https://gfx.nrk.no/zCVvKUu6l5FArNOtpp2OiwXWcoxLWWysDNnizvZwZeog.jpg",
+      "localImage": "assets/news/e62af5f0cf2757.jpg",
       "score": 15
     },
     {
@@ -193,25 +172,46 @@
       "score": 15
     },
     {
-      "id": "eb2c7d2c82fbce",
+      "id": "0bd42c4b0f2f88",
       "category": "Norge",
-      "published": "31.08. 15:02",
-      "publishedISO": "2026-08-31T15:02:15+02:00",
-      "title": "NRK-profil Nora Svenningsen avbrøt ferien: – Trodde jeg hadde fått rabies",
-      "summary": "NRK-profil Nora Svenningsen måtte avbryte ferien i Asia i all hast og ta vaksiner mot rabiesvirus etter kontakt med en hund. Nora Svenningsen på Den kinesiske mur med en «I <3 BJ»-t-skjorte. Dette er gata Svenningsen ble slikket på hånda av det hun trodde var en hund med rabies.",
+      "published": "31.08. 20:06",
+      "publishedISO": "2026-08-31T20:06:48+02:00",
+      "title": "Sist en norsk konge avla eden, satt Erna Solberg i salen",
+      "summary": "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991. TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991. Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
       "keyPoints": [
-        "NRK-profil Nora Svenningsen måtte avbryte ferien i Asia i all hast og ta vaksiner mot rabiesvirus etter kontakt med en hund.",
-        "Dette er gata Svenningsen ble slikket på hånda av det hun trodde var en hund med rabies.",
-        "Nora Svenningsen på Den kinesiske mur med en «I <3 BJ»-t-skjorte.",
-        "Dessverre måtte hun returnere hjem litt tidligere enn planlagt etter en skrekk-episode med det hun trodde var en rabies-infeksjon. – Nå føler jeg at jeg trer inn i rollen som Norges første rabies-influenser."
+        "Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
+        "TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991.",
+        "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991.",
+        "Kronprins Haakon, som var bare 17 år da hans far avla eden i 1991, var ikke med da."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/kultur/nrk-profil-nora-svenningsen-avbrot-ferien_-_-trodde-jeg-hadde-fatt-rabies-1.18001968",
+      "url": "https://www.nrk.no/norge/sist-en-norsk-konge-avla-eden_-satt-erna-solberg-i-salen-1.18009190",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/q6R_9SuarCA-8cXrzOSK5wqdr41ZvUCzEyriVApsiB6g.jpg",
-      "localImage": "assets/news/eb2c7d2c82fbce.jpg",
+      "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
+      "localImage": "assets/news/0bd42c4b0f2f88.jpg",
       "score": 14
+    },
+    {
+      "id": "c4b32e0522910f",
+      "category": "Norge",
+      "published": "01.09. 10:49",
+      "publishedISO": "2026-09-01T10:49:20+02:00",
+      "title": "Dronning Mette-Marit har fått komplikasjoner etter lungetransplantasjonen",
+      "summary": "DELTAR IKKJE: Dronning Mette-Marit får ikkje med seg eidsavlegginga til kong Haakon. Det skjer på grunn av komplikasjonar etter lungetransplantasjonen hennar i juni, opplyser kongehuset i ei pressemelding. – Dronninga har hatt komplikasjoner ved nokre tilfelle sidan operasjonen, også i dag. Dronning Mette-Marit skulle eigentleg vera til stades når kong Haakon skal avlegga eid i Stortinget seinare tysdag.",
+      "keyPoints": [
+        "DELTAR IKKJE: Dronning Mette-Marit får ikkje med seg eidsavlegginga til kong Haakon.",
+        "Det skjer på grunn av komplikasjonar etter lungetransplantasjonen hennar i juni, opplyser kongehuset i ei pressemelding. – Dronninga har hatt komplikasjoner ved nokre tilfelle sidan operasjonen, også i dag.",
+        "Dronning Mette-Marit skulle eigentleg vera til stades når kong Haakon skal avlegga eid i Stortinget seinare tysdag.",
+        "Dronning Mette-Marit må under observasjon hos helsepersonell."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/dronning-mette-marit-har-fatt-komplikasjoner-etter-lungetransplantasjonen-1.18010148",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/HrsA1VvpuiaBpc-4CD26Kgon29EuukkhBWkpLnz0Zmow.jpg",
+      "localImage": "assets/news/c4b32e0522910f.jpg",
+      "score": 13
     }
   ]
 }
