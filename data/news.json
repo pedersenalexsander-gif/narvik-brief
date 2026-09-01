@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 07:53",
-  "updatedISO": "2026-09-01T07:53:31.177043+02:00",
+  "updatedAt": "01.09.2026 kl. 08:15",
+  "updatedISO": "2026-09-01T08:15:36.766521+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,6 +46,27 @@
       "score": 16
     },
     {
+      "id": "6acc8130bc5604",
+      "category": "Økonomi",
+      "published": "01.09. 08:10",
+      "publishedISO": "2026-09-01T08:10:00+02:00",
+      "title": "DNO vil kjøpe oljeselskapet Capricorn",
+      "summary": "Oslo Børs-noterte DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner. Den 2. juli 2026 kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av Capricorn fra Genel.",
+      "keyPoints": [
+        "Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner.",
+        "Den 2. juli 2026 kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av Capricorn fra Genel.",
+        "Oslo Børs-noterte DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
+        "Budet verdsetter det britiske olje- og gasselskapet, som Genel også har lagt inn bud på, til 3,7 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
+      "localImage": "assets/news/6acc8130bc5604.jpg",
+      "score": 20
+    },
+    {
       "id": "57dc53af51089f",
       "category": "Økonomi",
       "published": "31.08. 09:01",
@@ -65,27 +86,6 @@
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
       "localImage": "assets/news/57dc53af51089f.jpg",
       "score": 16
-    },
-    {
-      "id": "1b00109f1e50c2",
-      "category": "Økonomi",
-      "published": "31.08. 10:07",
-      "publishedISO": "2026-08-31T10:07:51+02:00",
-      "title": "Norges Bank skal selge kroner i september",
-      "summary": "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken. Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august. Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
-      "keyPoints": [
-        "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken.",
-        "Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
-        "Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august.",
-        "De samlede valutatransaksjonene i september består av 300 millioner i kronesalg daglig på vegne av staten, som er relatert til statsbudsjettet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/JOqV24/norges-bank-skal-selge-kroner-for-176-millioner-kroner-i-september",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
-      "localImage": "assets/news/1b00109f1e50c2.jpg",
-      "score": 14
     },
     {
       "id": "acc159be8eb848",
@@ -151,6 +151,48 @@
       "score": 14
     },
     {
+      "id": "1b00109f1e50c2",
+      "category": "Økonomi",
+      "published": "31.08. 10:07",
+      "publishedISO": "2026-08-31T10:07:51+02:00",
+      "title": "Norges Bank skal selge kroner i september",
+      "summary": "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken. Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august. Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+      "keyPoints": [
+        "Totalt skal Norges Bank daglig selge kroner, det vil si kjøpe utenlandsk valuta, tilsvarende 176 millioner kroner i september, ifølge en melding fra sentralbanken.",
+        "Norges Bank har vedtatt at det skal overføres 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+        "Dermed snur det fra kronekjøp på totalt 474 millioner kroner i august.",
+        "De samlede valutatransaksjonene i september består av 300 millioner i kronesalg daglig på vegne av staten, som er relatert til statsbudsjettet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/JOqV24/norges-bank-skal-selge-kroner-for-176-millioner-kroner-i-september",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
+      "localImage": "assets/news/1b00109f1e50c2.jpg",
+      "score": 14
+    },
+    {
+      "id": "5ed2eff195afe0",
+      "category": "Norge",
+      "published": "01.09. 08:03",
+      "publishedISO": "2026-09-01T08:03:25+02:00",
+      "title": "Kraftig hopp for drivstoffprisane: – Avgiftene tar knekken på oss",
+      "summary": "Drivstoffprisane har auka i heile landet etter at det blei slutt på avgiftsreduksjonen ved midnatt. Frå tysdag blir dei vanlege avgiftene på bensin og diesel gjenninnført. Avgiftene tar jo eigentleg knekken på oss vanlege forbrukarar, seier Arild Børkja som køyrer dieselbil.",
+      "keyPoints": [
+        "Avgiftene tar jo eigentleg knekken på oss vanlege forbrukarar, seier Arild Børkja som køyrer dieselbil.",
+        "Frå tysdag blir dei vanlege avgiftene på bensin og diesel gjenninnført.",
+        "Drivstoffprisane har auka i heile landet etter at det blei slutt på avgiftsreduksjonen ved midnatt.",
+        "Auken blir på 4,71 kroner per liter for bensin og 4,51 kroner per liter for diesel, opplyser bransjeforeningen Drivkraft Norge til NTB."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/kraftig-hopp-for-drivstoffprisane_-_-avgiftene-tar-knekken-pa-oss-1.18009950",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/gVL3djb-6VRNdwz7FKcbtAfXSqb2wspB97SfwhrT-EnQ.jpg",
+      "localImage": "assets/news/5ed2eff195afe0.jpg",
+      "score": 13
+    },
+    {
       "id": "71b133eaef5e94",
       "category": "Verden",
       "published": "01.09. 07:11",
@@ -169,48 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9131/live/bc4b9300-a567-11f1-aed2-8d6da8d75094.png",
       "localImage": "assets/news/71b133eaef5e94.png",
-      "score": 13
-    },
-    {
-      "id": "5a676d9ee11273",
-      "category": "Norge",
-      "published": "01.09. 07:08",
-      "publishedISO": "2026-09-01T07:08:04+02:00",
-      "title": "Jo Gytri (H) har regnet ut at en familie kan tjene 120 000 på å flytte fra Longyearbyen til Alta",
-      "summary": "Han mener en familie ville tjent opp mot 120 000 på å flytte fra Longyearbyen til Alta. Det mener nestlederen i Longyearbyen lokalstyre Jo Gytri å regnet ut at regjeringen kan gjøre noe med. Mellom 20.000 og 116.000 vil en familie spare på å flytte fra Longyearbyen til Alta, som er en del av innsatssonen i Nord-Norge.",
-      "keyPoints": [
-        "Han mener en familie ville tjent opp mot 120 000 på å flytte fra Longyearbyen til Alta.",
-        "Mellom 20.000 og 116.000 vil en familie spare på å flytte fra Longyearbyen til Alta, som er en del av innsatssonen i Nord-Norge.",
-        "Det mener nestlederen i Longyearbyen lokalstyre Jo Gytri å regnet ut at regjeringen kan gjøre noe med.",
-        "Det var disse tallene justis- og beredskapsminister Astri Aas-Hansen fikk servert under sitt besøk på Svalbard i august. – Konsekvensen er at Longyearbyen ikke er så attraktivt som det burde ha vært, sier Gytri."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/jo-gytri-_h_-har-regnet-ut-at-en-familie-kan-tjene-120-000-pa-a-flytte-fra-longyearbyen-til-alta-1.17999876",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Ex4Q5_4E5526OTvEPu24dATyAzARn0PY_Hbk4klpRLjQ.jpg",
-      "localImage": "assets/news/5a676d9ee11273.jpg",
-      "score": 13
-    },
-    {
-      "id": "d60de70f286688",
-      "category": "Økonomi",
-      "published": "01.09. 07:06",
-      "publishedISO": "2026-09-01T07:06:51+02:00",
-      "title": "Scarborough B&B boss fears 'uneven playing field' tourist tax",
-      "summary": "James (til venstre) og Angela Rusden ved Scarborough's Toulson Court B&B En Scarborough bed and breakfast-eier har sagt at virksomheter som hans vil møte en \"ujevn spilleplass\" hvis en såkalt turistskatt blir innført i North Yorkshire, men ikke i nabolandet East Yorkshire. James Rusden, som driver Scarboroughs Toulson Court B&B, sa at hvis avgiften ikke var i hele England, ville presset på levekostnadene bety at noen besøkende i stedet ville gå der ingen turistskatt ble belastet. Scarborough-feriegjestene Charlie Highnett (til venstre) og Phil og Carol Smith med hunden Logan (til høyre) I Scarboroughs North Bay sa Phil og Carol Smith at de fortsatt ville besøke feriestedet selv om en turistavgift ble innført.",
-      "keyPoints": [
-        "James (til venstre) og Angela Rusden ved Scarborough's Toulson Court B&B En Scarborough bed and breakfast-eier har sagt at virksomheter som hans vil møte en \"ujevn spilleplass\" hvis en såkalt turistskatt blir innført i North Yorkshire, men ikke i nabolandet East Yorkshire.",
-        "James Rusden, som driver Scarboroughs Toulson Court B&B, sa at hvis avgiften ikke var i hele England, ville presset på levekostnadene bety at noen besøkende i stedet ville gå der ingen turistskatt ble belastet.",
-        "Scarborough-feriegjestene Charlie Highnett (til venstre) og Phil og Carol Smith med hunden Logan (til høyre) I Scarboroughs North Bay sa Phil og Carol Smith at de fortsatt ville besøke feriestedet selv om en turistavgift ble innført.",
-        "I mellomtiden sa Charlie Highnett, som bor i East Yorkshire, at han ville shoppe rundt overnattingsleverandører for en billigere avtale i North Yorkshire i et forsøk på å kompensere for kostnadene for eventuelle avgifter. \"Vi liker veldig godt å komme til Scarborough, men det ville være skuffende å betale noe ekstra,\" sa han. «Folk ønsker å komme hit og nyte ferien."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c5ymkm404jxo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14dd/live/926f9620-a153-11f1-92f3-2381193e5eb4.jpg",
-      "localImage": "assets/news/d60de70f286688.jpg",
       "score": 13
     }
   ]
