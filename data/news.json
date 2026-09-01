@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 06:29",
-  "updatedISO": "2026-09-01T06:29:14.164374+02:00",
+  "updatedAt": "01.09.2026 kl. 06:44",
+  "updatedISO": "2026-09-01T06:44:15.030288+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -106,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/OArlFbl4JG4SwiW9_4WJFwhaCqASCN0sNMwPL8sx2D0w.jpg",
       "localImage": "assets/news/acc159be8eb848.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "0bd42c4b0f2f88",
@@ -151,6 +151,27 @@
       "score": 14
     },
     {
+      "id": "747bf567dd19b3",
+      "category": "Økonomi",
+      "published": "01.09. 06:31",
+      "publishedISO": "2026-09-01T06:31:18+02:00",
+      "title": "Også deres konge",
+      "summary": "Talen var også personlig og nær, og den første delen handlet om å miste en far, ektemann og bestefar – ikke bare landets konge. Bare i forsvaret for selve grunnmuren i et liberalt demokrati – folkestyret, rettsstaten og demokratiet – skal kongen være politisk og kompromissløs. «Jeg er også kommunistenes konge», skal kong Haakon VII ha sagt før han ga Arbeiderpartiets Christopher Hornsrud i oppdrag å danne regjering i 1928. En av monarkens viktigste oppgaver i tiårene som kommer, kan bli å være også deres konge.",
+      "keyPoints": [
+        "Bare i forsvaret for selve grunnmuren i et liberalt demokrati – folkestyret, rettsstaten og demokratiet – skal kongen være politisk og kompromissløs. «Jeg er også kommunistenes konge», skal kong Haakon VII ha sagt før han ga Arbeiderpartiets Christopher Hornsrud i oppdrag å danne regjering i 1928.",
+        "En av monarkens viktigste oppgaver i tiårene som kommer, kan bli å være også deres konge.",
+        "Talen var også personlig og nær, og den første delen handlet om å miste en far, ektemann og bestefar – ikke bare landets konge.",
+        "Allikevel ble kong Haralds antrekk da han besøkte stormofrene på Vestlandet i 1992, et bilde på hans kongsgjerning."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/6qKm3r/ogsaa-deres-konge",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a427e562-d389-37b0-a74b-1eda53d63520?fit=crop&h=675&upscale=true&w=1200&s=748bc313f282dd7814499111e9617d23a53ec2bb",
+      "localImage": "assets/news/747bf567dd19b3.jpg",
+      "score": 13
+    },
+    {
       "id": "cdbd36fc7dd29a",
       "category": "Økonomi",
       "published": "01.09. 06:25",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/6Hf1AryEsCG0EOBSfjH9lAR_h9LyWHAOrZ7FTEdiKklw",
       "localImage": "assets/news/b4eb4cb8f39fc2.webp",
-      "score": 13
-    },
-    {
-      "id": "1ecefafe522f34",
-      "category": "Norge",
-      "published": "01.09. 05:45",
-      "publishedISO": "2026-09-01T05:45:17+02:00",
-      "title": "Elevar på Volsdalen skule og Rørstadmarka skule snakkar om kong Harald V og kong Haakon VIII",
-      "summary": "Skuleelevar håpar kong Haakon blir som kong Harald: raus, omsorgsfull, kul og sportsidiot. NY KONGE: Det var kong Haakon VIII som var hovudperson i klasserommet i dag på Rørstadmarka skule. Der skreiv om kva for eigenskapar dei håpar kong Haakon tar med seg frå far sin, kong Harald. – Eg håpar han skal reise rundt slik som faren og møte folket sitt.",
-      "keyPoints": [
-        "NY KONGE: Det var kong Haakon VIII som var hovudperson i klasserommet i dag på Rørstadmarka skule.",
-        "Der skreiv om kva for eigenskapar dei håpar kong Haakon tar med seg frå far sin, kong Harald. – Eg håpar han skal reise rundt slik som faren og møte folket sitt.",
-        "Skuleelevar håpar kong Haakon blir som kong Harald: raus, omsorgsfull, kul og sportsidiot.",
-        "Også på Volsdalen skule i Ålesund var kongefamilien eit tema i dag, og særleg kong Haralds bortgang. – Det er trist."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/elevar-pa-volsdalen-skule-og-rorstadmarka-skule-snakkar-om-kong-harald-v-og-kong-haakon-viii-1.18008753",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/lLD__J-w-AvZ_3Kh_bYG1QZJLZ3XZ4N_BC8tPQiqXYzg.jpg",
-      "localImage": "assets/news/1ecefafe522f34.jpg",
       "score": 13
     }
   ]
