@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 07:11",
-  "updatedISO": "2026-09-01T07:11:05.204417+02:00",
+  "updatedAt": "01.09.2026 kl. 07:26",
+  "updatedISO": "2026-09-01T07:26:59.866852+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
         "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
         "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa fra University of Tokyo skrev nylig, eksternt, er en refleksjon av \"Japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omallokering av kapital i stedet for et politiske skifte fra Kina til India\"."
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -44,27 +44,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/23d301817333e7.jpg",
       "score": 16
-    },
-    {
-      "id": "d6111aac971aab",
-      "category": "USA",
-      "published": "01.09. 03:01",
-      "publishedISO": "2026-09-01T03:01:03+02:00",
-      "title": "Dan Driscoll: US army secretary resigns after months of tension",
-      "summary": "USAs hærsekretær Dan Driscoll har sendt inn sin avskjed etter rundt 18 måneder i rollen. Detaljene rundt friksjonen bak kulissene mellom Driscoll og Hegseth er uklare, men CBS bemerker at hærsekretæren er gode venner med George, som angivelig ble bedt av Hegseth om å trekke seg. Driscoll tjenestegjorde tidligere i hæren og var offiser i 2007 før han ledet en kavaleripeloton og utplasserte til Irak i flere måneder i 2009.",
-      "keyPoints": [
-        "USAs hærsekretær Dan Driscoll har sendt inn sin avskjed etter rundt 18 måneder i rollen.",
-        "Driscoll tjenestegjorde tidligere i hæren og var offiser i 2007 før han ledet en kavaleripeloton og utplasserte til Irak i flere måneder i 2009.",
-        "Detaljene rundt friksjonen bak kulissene mellom Driscoll og Hegseth er uklare, men CBS bemerker at hærsekretæren er gode venner med George, som angivelig ble bedt av Hegseth om å trekke seg.",
-        "As army secretary, Driscoll became known as Trump's \"drone guy\" due to his embrace of emerging battlefield technologies."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg",
-      "localImage": "assets/news/d6111aac971aab.jpg",
-      "score": 13
     },
     {
       "id": "57dc53af51089f",
@@ -170,6 +149,27 @@
       "image": "https://gfx.nrk.no/q6R_9SuarCA-8cXrzOSK5wqdr41ZvUCzEyriVApsiB6g.jpg",
       "localImage": "assets/news/eb2c7d2c82fbce.jpg",
       "score": 14
+    },
+    {
+      "id": "71b133eaef5e94",
+      "category": "Verden",
+      "published": "01.09. 07:11",
+      "publishedISO": "2026-09-01T07:11:23+02:00",
+      "title": "Watch: Flock's rapidly expanding AI surveillance network faces growing backlash",
+      "summary": "Et nettverk av AI-lisensplatelesere drevet av et privat selskap kalt Flock utvides raskt over hele USA. Flocks raskt voksende AI-overvåkingsnettverk står overfor økende tilbakeslag i USA. Video, 00:01:42Flocks raskt voksende AI-overvåkingsnettverk står overfor økende tilbakeslag i US Up Next.",
+      "keyPoints": [
+        "Flock's rapidly expanding AI surveillance network facing growing backlash in US.",
+        "Et nettverk av AI-lisensplatelesere drevet av et privat selskap kalt Flock utvides raskt over hele USA.",
+        "BBC Verify undersøker Flocks system og det økende tilbakeslaget mot det - som Jake Horton rapporterer.",
+        "Video, 00:01:03Once a village, now barren land - BBC in valley devastated by floods Watch: Notting Hill Carnival celebrates 60th anniversary."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9131/live/bc4b9300-a567-11f1-aed2-8d6da8d75094.png",
+      "localImage": "assets/news/71b133eaef5e94.png",
+      "score": 13
     },
     {
       "id": "5a676d9ee11273",
