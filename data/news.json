@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 19:14",
-  "updatedISO": "2026-09-01T19:14:57.691580+02:00",
+  "updatedAt": "01.09.2026 kl. 19:29",
+  "updatedISO": "2026-09-01T19:29:49.702281+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,17 +172,38 @@
       "score": 13
     },
     {
+      "id": "01efc950b7898e",
+      "category": "Norge",
+      "published": "01.09. 18:57",
+      "publishedISO": "2026-09-01T18:57:20+02:00",
+      "title": "Mann knivstukken på gata i Sandviken i Bergen – kvinne mistenkt",
+      "summary": "Ein mann blei stukken med kniv på gata i Sandviken i Bergen, ifølgje politiet. Politiet har kontroll på dei og mistenkjer kvinna for å stå bak hendinga. Mannen blir undersøkt av ambulanse på staden, melder politiet i ei oppdatering klokka 18.20.",
+      "keyPoints": [
+        "Ein mann blei stukken med kniv på gata i Sandviken i Bergen, ifølgje politiet.",
+        "Mannen blir undersøkt av ambulanse på staden, melder politiet i ei oppdatering klokka 18.20.",
+        "Politiet har kontroll på dei og mistenkjer kvinna for å stå bak hendinga.",
+        "Til NRK opplyser Rebnord at mannen har fått overflatiske rispesår og ingen djupe kutt eller stikkskader."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/mann-knivstukken-pa-gata-i-sandviken-i-bergen-_-kvinne-mistenkt-1.18010955",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/umMraKRN3JzEeruJmXEwUARMl1porAfmlWgOuYvgvkEA.jpg",
+      "localImage": "assets/news/01efc950b7898e.webp",
+      "score": 13
+    },
+    {
       "id": "045ed03b46991f",
       "category": "Norge",
       "published": "01.09. 18:04",
       "publishedISO": "2026-09-01T18:04:24+02:00",
       "title": "Hevdar Russland sto bak droneangrep i Tyskland",
-      "summary": "Tyske myndigheiter meiner at Russiske myndigheiter sto bak dronen som blei funnen nær eit ukrainsk lastefly på flyplassen i Leipzig tidlegare i august. Det er den tyske innanriksministeren Aleksander Dobrint som seier at Russland var involvert i forsøket på eit droneangrep mot Leipzig/Halle-flyplassen 4. august. Russlands utanriksdepartement avviser påstandane om at landet var involvert i angrepsforsøket i Tyskland. – Russland vil svare på Tyskland sine anti-russiske handlingar, seier talskvinna for det russiske utanriksdepartementet ifølgje det russiske nyheitsbyrået Interfax.",
+      "summary": "Tyske myndigheiter meiner at Russiske myndigheiter sto bak dronen som blei funnen nær eit ukrainsk lastefly på flyplassen i Leipzig tidlegare i august. Det er den tyske innanriksministeren Aleksander Dobrindt som seier at Russland var involvert i forsøket på eit droneangrep mot Leipzig/Halle-flyplassen 4. august. Russlands utanriksdepartement avviser påstandane om at landet var involvert i angrepsforsøket i Tyskland. – Russland vil svare på Tyskland sine anti-russiske handlingar, seier talskvinna for det russiske utanriksdepartementet ifølgje det russiske nyheitsbyrået Interfax.",
       "keyPoints": [
-        "Det er den tyske innanriksministeren Aleksander Dobrint som seier at Russland var involvert i forsøket på eit droneangrep mot Leipzig/Halle-flyplassen 4. august.",
+        "Det er den tyske innanriksministeren Aleksander Dobrindt som seier at Russland var involvert i forsøket på eit droneangrep mot Leipzig/Halle-flyplassen 4. august.",
         "Tyske myndigheiter meiner at Russiske myndigheiter sto bak dronen som blei funnen nær eit ukrainsk lastefly på flyplassen i Leipzig tidlegare i august.",
         "Russlands utanriksdepartement avviser påstandane om at landet var involvert i angrepsforsøket i Tyskland. – Russland vil svare på Tyskland sine anti-russiske handlingar, seier talskvinna for det russiske utanriksdepartementet ifølgje det russiske nyheitsbyrået Interfax.",
-        "Innanriksminister Aleksander Dobrint og utanriksminister Johann Wadephul sa i dag at det er Russiske myndigheiter som står bak dronane som er funnen ved flyplassen i Leipzig."
+        "Innanriksminister Aleksander Dobrindt og utanriksminister Johann Wadephul sa i dag at det er Russiske myndigheiter som står bak dronane som er funnen ved flyplassen i Leipzig."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/okr6G_tpKTJHeMGKcTynlgghFoqIGiKzKPWY7IKU_hRQ.jpg",
       "localImage": "assets/news/045ed03b46991f.jpg",
-      "score": 13
-    },
-    {
-      "id": "529a6ed2232588",
-      "category": "Økonomi",
-      "published": "01.09. 17:31",
-      "publishedISO": "2026-09-01T17:31:42+02:00",
-      "title": "How to get a refund when using your credit card",
-      "summary": "Video, 00:01:41How to get a refund when using your credit card Up Next. Video, 00:01:11Orangutans in danger as wildfires blaze through Borneo Once a village, now barren land - BBC in valley devastated by floods. Video, 00:01:03Once a village, now barren land - BBC in valley devastated by floods Watch: Notting Hill Carnival celebrates 60th anniversary.",
-      "keyPoints": [
-        "Video, 00:01:41How to get a refund when using your credit card Up Next.",
-        "Video, 00:01:03Once a village, now barren land - BBC in valley devastated by floods Watch: Notting Hill Carnival celebrates 60th anniversary.",
-        "Video, 00:01:11Orangutans in danger as wildfires blaze through Borneo Once a village, now barren land - BBC in valley devastated by floods.",
-        "Video, 00:01:04Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse Tracing the deadly path of the Nepal-Tibet flash flood."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cp84ynl2j05o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b27f/live/85bcd310-a613-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/529a6ed2232588.jpg",
       "score": 13
     }
   ]
