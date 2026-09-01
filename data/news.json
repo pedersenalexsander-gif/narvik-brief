@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 11:12",
-  "updatedISO": "2026-09-01T11:12:33.203872+02:00",
+  "updatedAt": "01.09.2026 kl. 11:30",
+  "updatedISO": "2026-09-01T11:30:17.137161+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -41,7 +41,7 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3d0/live/db5294a0-a513-11f1-aed2-8d6da8d75094.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c13e/live/687671d0-a5e6-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/261809541e8091.jpg",
       "score": 17
     },
