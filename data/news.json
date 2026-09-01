@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 02:18",
-  "updatedISO": "2026-09-01T02:18:57.612683+02:00",
+  "updatedAt": "01.09.2026 kl. 02:46",
+  "updatedISO": "2026-09-01T02:46:33.548413+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,24 +25,24 @@
       "score": 17
     },
     {
-      "id": "fee3eaad42da3d",
+      "id": "91a67aa8a9ffd1",
       "category": "Verden",
-      "published": "01.09. 00:05",
-      "publishedISO": "2026-09-01T00:05:43+02:00",
-      "title": "Orangutans in danger as wildfires blaze through Indonesia",
-      "summary": "Skogbrannene har ødelagt deler av habitatet til hundrevis av orangutanger og risikerer artens overlevelse. \"Situasjonen er ganske kritisk\", sa Karmele Llano Sanchez, administrerende direktør for dyrelivsstiftelsen Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI). Orangutanger i fare når skogbranner brenner gjennom Borneo. Video, 00:01:11Orangutanger i fare når skogbranner brenner gjennom Borneo Up Next.",
+      "published": "01.09. 02:31",
+      "publishedISO": "2026-09-01T02:31:20+02:00",
+      "title": "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder",
+      "summary": "Duane \"Keffe D\" Davis, a 63-year-old former gang boss, has been found guilty of murdering rapper Tupac Shakur. Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder. Video, 00:01:07Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder Up Next.",
       "keyPoints": [
-        "Orangutans in danger as wildfires blaze through Borneo.",
-        "Skogbrannene har ødelagt deler av habitatet til hundrevis av orangutanger og risikerer artens overlevelse. \"Situasjonen er ganske kritisk\", sa Karmele Llano Sanchez, administrerende direktør for dyrelivsstiftelsen Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI).",
-        "Indonesia har intensivert innsatsen for å begrense dis fra skogbranner i seks provinser på øyene Borneo og Sumatra.",
-        "Sanchez sa at brannene «etterlater [orangutangene] uten mat eller vann»."
+        "Watch: Moment Duane 'Keffe D' Davis is found guilty of Tupac Shakur's murder.",
+        "Duane \"Keffe D\" Davis, a 63-year-old former gang boss, has been found guilty of murdering rapper Tupac Shakur.",
+        "Video, 00:01:07Se: Hvorfor Tupac Shakurs mordrettssak finner sted 30 år etter at han ble drept Se: Hva vi lærte fra åpningserklæringer i Tupac-mordrettssaken.",
+        "Video, 00:01:54Watch: What we learned from opening statements in Tupac murder trial 'I want my brother back' - Tupac’s brother tells BBC murder trial won’t bring justice."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo",
+      "url": "https://www.bbc.co.uk/news/videos/ckg7yrwp70qo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/954d/live/e2eff860-a545-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/fee3eaad42da3d.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e72/live/7b987920-a59b-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/91a67aa8a9ffd1.jpg",
       "score": 13
     },
     {
@@ -172,6 +172,27 @@
       "score": 15
     },
     {
+      "id": "fee3eaad42da3d",
+      "category": "Verden",
+      "published": "01.09. 00:05",
+      "publishedISO": "2026-09-01T00:05:43+02:00",
+      "title": "Orangutans in danger as wildfires blaze through Indonesia",
+      "summary": "Skogbrannene har ødelagt deler av habitatet til hundrevis av orangutanger og risikerer artens overlevelse. \"Situasjonen er ganske kritisk\", sa Karmele Llano Sanchez, administrerende direktør for dyrelivsstiftelsen Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI). Orangutanger i fare når skogbranner brenner gjennom Borneo. Video, 00:01:11Orangutanger i fare når skogbranner brenner gjennom Borneo Up Next.",
+      "keyPoints": [
+        "Orangutans in danger as wildfires blaze through Borneo.",
+        "Skogbrannene har ødelagt deler av habitatet til hundrevis av orangutanger og risikerer artens overlevelse. \"Situasjonen er ganske kritisk\", sa Karmele Llano Sanchez, administrerende direktør for dyrelivsstiftelsen Yayasan Inisiasi Alam Rehabilitasi Indonesia (YIARI).",
+        "Indonesia har intensivert innsatsen for å begrense dis fra skogbranner i seks provinser på øyene Borneo og Sumatra.",
+        "Sanchez sa at brannene «etterlater [orangutangene] uten mat eller vann»."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c74emdn49kdo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/954d/live/e2eff860-a545-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/fee3eaad42da3d.jpg",
+      "score": 13
+    },
+    {
       "id": "2c73980edb86a3",
       "category": "Verden",
       "published": "31.08. 22:47",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4ff7/live/2c0e39a0-a4bd-11f1-aed2-8d6da8d75094.png",
       "localImage": "assets/news/2c73980edb86a3.png",
-      "score": 13
-    },
-    {
-      "id": "663f4559765b5b",
-      "category": "Norge",
-      "published": "31.08. 21:31",
-      "publishedISO": "2026-08-31T21:31:48+02:00",
-      "title": "Forbyr termiske sikte – hjortejeger fryktar meir skadeskyting",
-      "summary": "Den nye viltressurslova forbyr jegerar å bruke termisk sikte – med mindre kommunen seier ja. Den nye viltressurslova frå 1. juli forbyr nemleg restlysforsterkande og termiske siktemiddel i opent lende. Fleire kommunar skal i haust ta stilling til om termiske hjelpemiddel skal vere lov, mellom anna Gloppen kommune. – Men bør ikkje dei gå i seg sjølve i så fall dersom ein fryktar meir skadeskyting? – Jo, det gjeld alle jegerar, og eg vil seie at jaktetikken i Noreg er god.",
-      "keyPoints": [
-        "Fleire kommunar skal i haust ta stilling til om termiske hjelpemiddel skal vere lov, mellom anna Gloppen kommune. – Men bør ikkje dei gå i seg sjølve i så fall dersom ein fryktar meir skadeskyting? – Jo, det gjeld alle jegerar, og eg vil seie at jaktetikken i Noreg er god.",
-        "Den nye viltressurslova frå 1. juli forbyr nemleg restlysforsterkande og termiske siktemiddel i opent lende.",
-        "Den nye viltressurslova forbyr jegerar å bruke termisk sikte – med mindre kommunen seier ja.",
-        "Men frå 1. juli kom ei ny lov som seier at termisk sikte ikkje er lov."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/forbyr-termiske-sikte-_-hjortejeger-fryktar-meir-skadeskyting-1.17996953",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jOGIqcJvwTFwt0eY3Yghjg7hHeDBiXkfA4igAvTDr22A",
-      "localImage": "assets/news/663f4559765b5b.jpg",
       "score": 13
     }
   ]
