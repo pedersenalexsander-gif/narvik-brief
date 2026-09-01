@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 16:15",
-  "updatedISO": "2026-09-01T16:15:36.129997+02:00",
+  "updatedAt": "01.09.2026 kl. 16:32",
+  "updatedISO": "2026-09-01T16:32:38.343784+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,16 +67,37 @@
       "score": 14
     },
     {
+      "id": "acebcaf050de4e",
+      "category": "Økonomi",
+      "published": "01.09. 09:01",
+      "publishedISO": "2026-09-01T09:01:24+02:00",
+      "title": "Oslo Børs falt tross fortsatt oljeprisbyks",
+      "summary": "Hovedindeksen på Oslo Børs endte ned 0,26 prosent tirsdag, som følger en markant oppgang i går. Børsfallet kommer tross fortsatt sterk oppgang i oljeprisen, men risk-off stemning internasjonalt og renteuro veier tyngre i resten av markedet. Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs endte ned 0,26 prosent tirsdag, som følger en markant oppgang i går.",
+        "Børsfallet kommer tross fortsatt sterk oppgang i oljeprisen, men risk-off stemning internasjonalt og renteuro veier tyngre i resten av markedet.",
+        "Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
+        "Dette er skipsdekningen for tredje kvartal: Fearnley Securities-analytiker Fredrik Dybwad omtaler rapporten som «solid». – Ser vi mot tredje kvartal, vil inntjeningen være høyere, og som et første estimat venter vi en ebitda på rundt 120 millioner dollar."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/43vjXG/oslo-boers-stiger-svakt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
+      "localImage": "assets/news/acebcaf050de4e.jpg",
+      "score": 29
+    },
+    {
       "id": "66029b59775609",
       "category": "Økonomi",
       "published": "01.09. 15:31",
       "publishedISO": "2026-09-01T15:31:19+02:00",
       "title": "Wall Street åpner ned",
-      "summary": "Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag. Dette rammer spesielt de høyt prisede teknologiaksjene: Apple stiger 0,6 prosent på det som er den nye Apple-sjefen John Ternus’ første dag i rollen. Fredag ga USAs nye sentralbanksjef Kevin Warsh tydelig beskjed om at sentralbanken ville ha inflasjonen ned til målet på 2 prosent, og at Fed hadde en jobb å gjøre.",
+      "summary": "Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag. Dette rammer spesielt de høyt prisede teknologiaksjene: Apple stiger 2 prosent på det som er den nye Apple-sjefen John Ternus’ første dag i rollen. Fredag ga USAs nye sentralbanksjef Kevin Warsh tydelig beskjed om at sentralbanken ville ha inflasjonen ned til målet på 2 prosent, og at Fed hadde en jobb å gjøre.",
       "keyPoints": [
         "Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag.",
         "Fredag ga USAs nye sentralbanksjef Kevin Warsh tydelig beskjed om at sentralbanken ville ha inflasjonen ned til målet på 2 prosent, og at Fed hadde en jobb å gjøre.",
-        "Dette rammer spesielt de høyt prisede teknologiaksjene: Apple stiger 0,6 prosent på det som er den nye Apple-sjefen John Ternus’ første dag i rollen.",
+        "Dette rammer spesielt de høyt prisede teknologiaksjene: Apple stiger 2 prosent på det som er den nye Apple-sjefen John Ternus’ første dag i rollen.",
         "Et fat nordsjøolje for umiddelbar levering (brent spot) stiger over ny to prosent tirsdag, og er i skrivende stund opp nær 2 dollar fatet, til 92,60 dollar."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
@@ -86,27 +107,6 @@
       "image": "https://akamai.vgc.no/v2/images/13eaa3f2-09e8-3aa8-8491-e34f3c98e0af?fit=crop&h=675&upscale=true&w=1200&s=46cefe0322c2834561418641369a4916256b79c6",
       "localImage": "assets/news/66029b59775609.jpg",
       "score": 20
-    },
-    {
-      "id": "c4a7d833bd1775",
-      "category": "Økonomi",
-      "published": "01.09. 09:01",
-      "publishedISO": "2026-09-01T09:01:24+02:00",
-      "title": "Oslo Børs faller",
-      "summary": "Hovedindeksen på Oslo Børs faller 0,8 prosent i 11.30-tiden tirsdag, som følger en markant oppgang i går. Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Dette er skipsdekningen for tredje kvartal: Fearnley Securities-analytiker Fredrik Dybwad omtaler rapporten som «solid». – Ser vi mot tredje kvartal, vil inntjeningen være høyere, og som et første estimat venter vi en ebitda på rundt 120 millioner dollar.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs faller 0,8 prosent i 11.30-tiden tirsdag, som følger en markant oppgang i går.",
-        "Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
-        "Dette er skipsdekningen for tredje kvartal: Fearnley Securities-analytiker Fredrik Dybwad omtaler rapporten som «solid». – Ser vi mot tredje kvartal, vil inntjeningen være høyere, og som et første estimat venter vi en ebitda på rundt 120 millioner dollar.",
-        "Oljeprisen (brent spot) er opp 1,8 dollar til 92,3 dollar per fat siden midnatt."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/43vjXG/oslo-boers-stiger-svakt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
-      "localImage": "assets/news/c4a7d833bd1775.jpg",
-      "score": 19
     },
     {
       "id": "64381b9105f254",
