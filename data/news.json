@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 16:57",
-  "updatedISO": "2026-09-01T16:57:28.294555+02:00",
+  "updatedAt": "01.09.2026 kl. 17:15",
+  "updatedISO": "2026-09-01T17:15:39.630939+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/LnT6P32kySoQ2KiZARoQxgZ5QNRSkuHpoMtCw9c1ajfg.jpg",
       "localImage": "assets/news/ea53e37b45ec16.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "ab2a90ae962b1b",
@@ -88,11 +88,11 @@
       "score": 29
     },
     {
-      "id": "66029b59775609",
+      "id": "34d8857b1daa70",
       "category": "Økonomi",
       "published": "01.09. 15:31",
       "publishedISO": "2026-09-01T15:31:19+02:00",
-      "title": "Wall Street åpner ned",
+      "title": "Nedgang på Wall Street",
       "summary": "Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag. Dette rammer spesielt de høyt prisede teknologiaksjene: Apple stiger 2 prosent på det som er den nye Apple-sjefen John Ternus’ første dag i rollen. Fredag ga USAs nye sentralbanksjef Kevin Warsh tydelig beskjed om at sentralbanken ville ha inflasjonen ned til målet på 2 prosent, og at Fed hadde en jobb å gjøre.",
       "keyPoints": [
         "Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag.",
@@ -105,7 +105,7 @@
       "url": "https://e24.no/boers-og-finans/i/j0XdLz/wall-street-aapner-ned",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/13eaa3f2-09e8-3aa8-8491-e34f3c98e0af?fit=crop&h=675&upscale=true&w=1200&s=46cefe0322c2834561418641369a4916256b79c6",
-      "localImage": "assets/news/66029b59775609.jpg",
+      "localImage": "assets/news/34d8857b1daa70.jpg",
       "score": 20
     },
     {
