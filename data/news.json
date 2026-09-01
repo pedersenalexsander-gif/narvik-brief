@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 06:55",
-  "updatedISO": "2026-09-01T06:55:26.010665+02:00",
+  "updatedAt": "01.09.2026 kl. 07:11",
+  "updatedISO": "2026-09-01T07:11:05.204417+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
         "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
         "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa fra University of Tokyo skrev nylig, eksternt, er en refleksjon av \"Japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omallokering av kapital i stedet for et politiske skifte fra Kina til India\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -44,6 +44,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/23d301817333e7.jpg",
       "score": 16
+    },
+    {
+      "id": "d6111aac971aab",
+      "category": "USA",
+      "published": "01.09. 03:01",
+      "publishedISO": "2026-09-01T03:01:03+02:00",
+      "title": "Dan Driscoll: US army secretary resigns after months of tension",
+      "summary": "USAs hærsekretær Dan Driscoll har sendt inn sin avskjed etter rundt 18 måneder i rollen. Detaljene rundt friksjonen bak kulissene mellom Driscoll og Hegseth er uklare, men CBS bemerker at hærsekretæren er gode venner med George, som angivelig ble bedt av Hegseth om å trekke seg. Driscoll tjenestegjorde tidligere i hæren og var offiser i 2007 før han ledet en kavaleripeloton og utplasserte til Irak i flere måneder i 2009.",
+      "keyPoints": [
+        "USAs hærsekretær Dan Driscoll har sendt inn sin avskjed etter rundt 18 måneder i rollen.",
+        "Driscoll tjenestegjorde tidligere i hæren og var offiser i 2007 før han ledet en kavaleripeloton og utplasserte til Irak i flere måneder i 2009.",
+        "Detaljene rundt friksjonen bak kulissene mellom Driscoll og Hegseth er uklare, men CBS bemerker at hærsekretæren er gode venner med George, som angivelig ble bedt av Hegseth om å trekke seg.",
+        "As army secretary, Driscoll became known as Trump's \"drone guy\" due to his embrace of emerging battlefield technologies."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4a89/live/5b901940-a590-11f1-99cc-29bfdc6830e7.jpg",
+      "localImage": "assets/news/d6111aac971aab.jpg",
+      "score": 13
     },
     {
       "id": "57dc53af51089f",
@@ -151,66 +172,45 @@
       "score": 14
     },
     {
-      "id": "747bf567dd19b3",
-      "category": "Økonomi",
-      "published": "01.09. 06:31",
-      "publishedISO": "2026-09-01T06:31:18+02:00",
-      "title": "Også deres konge",
-      "summary": "Talen var også personlig og nær, og den første delen handlet om å miste en far, ektemann og bestefar – ikke bare landets konge. Bare i forsvaret for selve grunnmuren i et liberalt demokrati – folkestyret, rettsstaten og demokratiet – skal kongen være politisk og kompromissløs. «Jeg er også kommunistenes konge», skal kong Haakon VII ha sagt før han ga Arbeiderpartiets Christopher Hornsrud i oppdrag å danne regjering i 1928. En av monarkens viktigste oppgaver i tiårene som kommer, kan bli å være også deres konge.",
-      "keyPoints": [
-        "Bare i forsvaret for selve grunnmuren i et liberalt demokrati – folkestyret, rettsstaten og demokratiet – skal kongen være politisk og kompromissløs. «Jeg er også kommunistenes konge», skal kong Haakon VII ha sagt før han ga Arbeiderpartiets Christopher Hornsrud i oppdrag å danne regjering i 1928.",
-        "En av monarkens viktigste oppgaver i tiårene som kommer, kan bli å være også deres konge.",
-        "Talen var også personlig og nær, og den første delen handlet om å miste en far, ektemann og bestefar – ikke bare landets konge.",
-        "Allikevel ble kong Haralds antrekk da han besøkte stormofrene på Vestlandet i 1992, et bilde på hans kongsgjerning."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/6qKm3r/ogsaa-deres-konge",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a427e562-d389-37b0-a74b-1eda53d63520?fit=crop&h=675&upscale=true&w=1200&s=748bc313f282dd7814499111e9617d23a53ec2bb",
-      "localImage": "assets/news/747bf567dd19b3.jpg",
-      "score": 13
-    },
-    {
-      "id": "cdbd36fc7dd29a",
-      "category": "Økonomi",
-      "published": "01.09. 06:25",
-      "publishedISO": "2026-09-01T06:25:47+02:00",
-      "title": "VIP-elitens svarte biler",
-      "summary": "I fjor vant Bislet Limousine en rammeavtale på 45 millioner kroner for bil- og sjåførtjenester, som varer i opptil fire år. «Rammeavtalen knytter seg til kjøp av transport i forbindelse med besøk fra utenlandske statsoverhoder, regjeringsmedlemmer og andre oppdrag», skrev UD i kunngjøringen av konkurransen. UDs avtale med Bislet Limousine gjelder transport av nettopp slike passasjerer. «Betegnelsen VIP benyttes som definisjon på statsoverhoder, regjeringssjefer, utenriksministre, fagministre og andre ledere på høyt nivå i forbindelse med det aktuelle besøket», skrev UD i kunngjøringen. «VIP reiser med en offisiell delegasjon på 2 til 14 personer avhengig av rang og nivå på besøket. Mange av bilene er Mercedes-Benz-modeller fra 2025 og 2026, ifølge Statens vegvesens kjøretøyregister. «Vi tilbyr et bredt utvalg av luksuriøse biler, inkludert Mercedes-Benz E-Klasse, S-Klasse, og V-Class, samt Mercedes-Benz Sprinter minibusser», skriver Bislet Limousine på sine nettsider.",
-      "keyPoints": [
-        "Mange av bilene er Mercedes-Benz-modeller fra 2025 og 2026, ifølge Statens vegvesens kjøretøyregister. «Vi tilbyr et bredt utvalg av luksuriøse biler, inkludert Mercedes-Benz E-Klasse, S-Klasse, og V-Class, samt Mercedes-Benz Sprinter minibusser», skriver Bislet Limousine på sine nettsider.",
-        "I fjor vant Bislet Limousine en rammeavtale på 45 millioner kroner for bil- og sjåførtjenester, som varer i opptil fire år. «Rammeavtalen knytter seg til kjøp av transport i forbindelse med besøk fra utenlandske statsoverhoder, regjeringsmedlemmer og andre oppdrag», skrev UD i kunngjøringen av konkurransen.",
-        "UDs avtale med Bislet Limousine gjelder transport av nettopp slike passasjerer. «Betegnelsen VIP benyttes som definisjon på statsoverhoder, regjeringssjefer, utenriksministre, fagministre og andre ledere på høyt nivå i forbindelse med det aktuelle besøket», skrev UD i kunngjøringen. «VIP reiser med en offisiell delegasjon på 2 til 14 personer avhengig av rang og nivå på besøket.",
-        "E24 observerte de svarte bilene til Bislet Limousine på jobb under Oljefondets investeringskonferanse i april, da verdens mektigste banksjef Jamie Dimon var i Oslo for å møte oljefondssjef Nicolai Tangen og andre næringslivstopper."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/JOqVPm/vip-elitens-svarte-biler",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/07e993f0-0e62-3277-a470-be4d9d0ae31f?fit=crop&h=675&upscale=true&w=1200&s=dbd7f71ad0aab7e98439121dd095c10ff3bbdf92",
-      "localImage": "assets/news/cdbd36fc7dd29a.jpg",
-      "score": 13
-    },
-    {
-      "id": "b4eb4cb8f39fc2",
+      "id": "5a676d9ee11273",
       "category": "Norge",
-      "published": "01.09. 06:21",
-      "publishedISO": "2026-09-01T06:21:12+02:00",
-      "title": "Ny meningsmåling: Sju av ti vil beholde monarkiet",
-      "summary": "Han tar over tronen etter flere år med svingninger i oppslutningen til monarkiet. Støtten til monarkiet har gått opp fra 64 prosent på den forrige målingen Norstat gjennomførte for NRK, som var i mai i år. Journalist og forfatter Harald Stanghelle sier at det ikke er overraskende at oppslutningen øker i denne undersøkelsen. – Grunnleggende sett så er jo støtten til monarkiet som styreform høy i Norge, sier han, og fortsetter: – Den har variert litt fram og tilbake, gjerne i takt med når det har ramma skandaler eller sensasjoner.",
+      "published": "01.09. 07:08",
+      "publishedISO": "2026-09-01T07:08:04+02:00",
+      "title": "Jo Gytri (H) har regnet ut at en familie kan tjene 120 000 på å flytte fra Longyearbyen til Alta",
+      "summary": "Han mener en familie ville tjent opp mot 120 000 på å flytte fra Longyearbyen til Alta. Det mener nestlederen i Longyearbyen lokalstyre Jo Gytri å regnet ut at regjeringen kan gjøre noe med. Mellom 20.000 og 116.000 vil en familie spare på å flytte fra Longyearbyen til Alta, som er en del av innsatssonen i Nord-Norge.",
       "keyPoints": [
-        "Støtten til monarkiet har gått opp fra 64 prosent på den forrige målingen Norstat gjennomførte for NRK, som var i mai i år.",
-        "Journalist og forfatter Harald Stanghelle sier at det ikke er overraskende at oppslutningen øker i denne undersøkelsen. – Grunnleggende sett så er jo støtten til monarkiet som styreform høy i Norge, sier han, og fortsetter: – Den har variert litt fram og tilbake, gjerne i takt med når det har ramma skandaler eller sensasjoner.",
-        "Han tar over tronen etter flere år med svingninger i oppslutningen til monarkiet.",
-        "Oppslutningen om monarkiet har gått opp og ned de siste årene."
+        "Han mener en familie ville tjent opp mot 120 000 på å flytte fra Longyearbyen til Alta.",
+        "Mellom 20.000 og 116.000 vil en familie spare på å flytte fra Longyearbyen til Alta, som er en del av innsatssonen i Nord-Norge.",
+        "Det mener nestlederen i Longyearbyen lokalstyre Jo Gytri å regnet ut at regjeringen kan gjøre noe med.",
+        "Det var disse tallene justis- og beredskapsminister Astri Aas-Hansen fikk servert under sitt besøk på Svalbard i august. – Konsekvensen er at Longyearbyen ikke er så attraktivt som det burde ha vært, sier Gytri."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/ny-meningsmaling_-sju-av-ti-vil-beholde-monarkiet-1.18009458",
+      "url": "https://www.nrk.no/tromsogfinnmark/jo-gytri-_h_-har-regnet-ut-at-en-familie-kan-tjene-120-000-pa-a-flytte-fra-longyearbyen-til-alta-1.17999876",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6Hf1AryEsCG0EOBSfjH9lAR_h9LyWHAOrZ7FTEdiKklw",
-      "localImage": "assets/news/b4eb4cb8f39fc2.webp",
+      "image": "https://gfx.nrk.no/Ex4Q5_4E5526OTvEPu24dATyAzARn0PY_Hbk4klpRLjQ.jpg",
+      "localImage": "assets/news/5a676d9ee11273.jpg",
+      "score": 13
+    },
+    {
+      "id": "d60de70f286688",
+      "category": "Økonomi",
+      "published": "01.09. 07:06",
+      "publishedISO": "2026-09-01T07:06:51+02:00",
+      "title": "Scarborough B&B boss fears 'uneven playing field' tourist tax",
+      "summary": "James (til venstre) og Angela Rusden ved Scarborough's Toulson Court B&B En Scarborough bed and breakfast-eier har sagt at virksomheter som hans vil møte en \"ujevn spilleplass\" hvis en såkalt turistskatt blir innført i North Yorkshire, men ikke i nabolandet East Yorkshire. James Rusden, som driver Scarboroughs Toulson Court B&B, sa at hvis avgiften ikke var i hele England, ville presset på levekostnadene bety at noen besøkende i stedet ville gå der ingen turistskatt ble belastet. Scarborough-feriegjestene Charlie Highnett (til venstre) og Phil og Carol Smith med hunden Logan (til høyre) I Scarboroughs North Bay sa Phil og Carol Smith at de fortsatt ville besøke feriestedet selv om en turistavgift ble innført.",
+      "keyPoints": [
+        "James (til venstre) og Angela Rusden ved Scarborough's Toulson Court B&B En Scarborough bed and breakfast-eier har sagt at virksomheter som hans vil møte en \"ujevn spilleplass\" hvis en såkalt turistskatt blir innført i North Yorkshire, men ikke i nabolandet East Yorkshire.",
+        "James Rusden, som driver Scarboroughs Toulson Court B&B, sa at hvis avgiften ikke var i hele England, ville presset på levekostnadene bety at noen besøkende i stedet ville gå der ingen turistskatt ble belastet.",
+        "Scarborough-feriegjestene Charlie Highnett (til venstre) og Phil og Carol Smith med hunden Logan (til høyre) I Scarboroughs North Bay sa Phil og Carol Smith at de fortsatt ville besøke feriestedet selv om en turistavgift ble innført.",
+        "I mellomtiden sa Charlie Highnett, som bor i East Yorkshire, at han ville shoppe rundt overnattingsleverandører for en billigere avtale i North Yorkshire i et forsøk på å kompensere for kostnadene for eventuelle avgifter. \"Vi liker veldig godt å komme til Scarborough, men det ville være skuffende å betale noe ekstra,\" sa han. «Folk ønsker å komme hit og nyte ferien."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c5ymkm404jxo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/14dd/live/926f9620-a153-11f1-92f3-2381193e5eb4.jpg",
+      "localImage": "assets/news/d60de70f286688.jpg",
       "score": 13
     }
   ]
