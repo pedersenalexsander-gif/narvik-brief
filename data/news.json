@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 09:29",
-  "updatedISO": "2026-09-01T09:29:20.445504+02:00",
+  "updatedAt": "01.09.2026 kl. 09:45",
+  "updatedISO": "2026-09-01T09:45:29.246937+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,14 +67,14 @@
       "score": 16
     },
     {
-      "id": "9e091bf5fc75cf",
+      "id": "9096aaa4860da7",
       "category": "Økonomi",
       "published": "01.09. 09:01",
       "publishedISO": "2026-09-01T09:01:24+02:00",
-      "title": "Oslo Børs stiger svakt",
-      "summary": "Hovedindeksen på Oslo Børs stiger 0,15 prosent fra start tirsdag, som følger en markant oppgang i går. Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Dette er skipsdekningen for tredje kvartal: Fearnley Securities-analytiker Fredrik Dybwad omtaler rapporten som «solid». – Ser vi mot tredje kvartal, vil inntjeningen være høyere, og som et første estimat venter vi en ebitda på rundt 120 millioner dollar.",
+      "title": "Oslo Børs faller svakt",
+      "summary": "Hovedindeksen på Oslo Børs faller 0,2 prosent i 09.40-tiden tirsdag, som følger en markant oppgang i går. Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Dette er skipsdekningen for tredje kvartal: Fearnley Securities-analytiker Fredrik Dybwad omtaler rapporten som «solid». – Ser vi mot tredje kvartal, vil inntjeningen være høyere, og som et første estimat venter vi en ebitda på rundt 120 millioner dollar.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs stiger 0,15 prosent fra start tirsdag, som følger en markant oppgang i går.",
+        "Hovedindeksen på Oslo Børs faller 0,2 prosent i 09.40-tiden tirsdag, som følger en markant oppgang i går.",
         "Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
         "Dette er skipsdekningen for tredje kvartal: Fearnley Securities-analytiker Fredrik Dybwad omtaler rapporten som «solid». – Ser vi mot tredje kvartal, vil inntjeningen være høyere, og som et første estimat venter vi en ebitda på rundt 120 millioner dollar.",
         "Oljeprisen (brent spot) er opp 0,5 dollar til 91,1 dollar per fat siden midnatt."
@@ -84,7 +84,7 @@
       "url": "https://e24.no/boers-og-finans/i/43vjXG/oslo-boers-stiger-svakt",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
-      "localImage": "assets/news/9e091bf5fc75cf.jpg",
+      "localImage": "assets/news/9096aaa4860da7.jpg",
       "score": 20
     },
     {
@@ -119,7 +119,7 @@
         "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
         "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
         "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa fra University of Tokyo skrev nylig, eksternt, er en refleksjon av \"Japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omallokering av kapital i stedet for et politiske skifte fra Kina til India\"."
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
