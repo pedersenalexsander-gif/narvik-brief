@@ -1,31 +1,31 @@
 {
-  "updatedAt": "01.09.2026 kl. 11:46",
-  "updatedISO": "2026-09-01T11:46:27.208348+02:00",
+  "updatedAt": "01.09.2026 kl. 12:12",
+  "updatedISO": "2026-09-01T12:12:26.284259+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "52fc7912fab0aa",
+      "id": "ea53e37b45ec16",
       "category": "Norge",
-      "published": "01.09. 10:35",
-      "publishedISO": "2026-09-01T10:35:06+02:00",
-      "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
-      "summary": "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset. Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni. Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
+      "published": "01.09. 12:08",
+      "publishedISO": "2026-09-01T12:08:12+02:00",
+      "title": "Kilder til NRK: Nye runder om politisk borgfred",
+      "summary": "Det er enighet blant partiene på Stortinget om å gjennomføre nye samtaler om den politiske borgfreden som partiene har pålagt seg selv etter kong Haralds død. Fredag ble partiene på Stortinget enige om å pause alle politiske utspill, leserinnlegg, debattdeltakelse og annen politisk kommunikasjon som ikke vurderes som «strengt nødvendig». Men hvor lenge denne politiske borgfreden varer og hvor strengt den skal håndheves, har det vært ulike svar på, som NRK meldte mandag.",
       "keyPoints": [
-        "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset.",
-        "Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni.",
-        "Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
-        "Dronning Sonja og prins Sverre Magnus skal følge med på seremonien i stortingssalen."
+        "Det er enighet blant partiene på Stortinget om å gjennomføre nye samtaler om den politiske borgfreden som partiene har pålagt seg selv etter kong Haralds død.",
+        "Fredag ble partiene på Stortinget enige om å pause alle politiske utspill, leserinnlegg, debattdeltakelse og annen politisk kommunikasjon som ikke vurderes som «strengt nødvendig».",
+        "Men hvor lenge denne politiske borgfreden varer og hvor strengt den skal håndheves, har det vært ulike svar på, som NRK meldte mandag.",
+        "Samtalene vil handle om hvordan borgfreden skal forstås og hvor lenge den skal vare, ifølge NRKs kilder."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/dronning-mette-marit-uteblir-fra-edsavleggelsen-1.18010052",
+      "url": "https://www.nrk.no/nyheter/kilder-til-nrk_-nye-runder-om-politisk-borgfred-1.18010286",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xxbEFkr4GfX2BWA69pn-Fg3HaJOl0NwdhhaSrT0CrR4w.jpg",
-      "localImage": "assets/news/52fc7912fab0aa.webp",
+      "image": "https://gfx.nrk.no/LnT6P32kySoQ2KiZARoQxgZ5QNRSkuHpoMtCw9c1ajfg.jpg",
+      "localImage": "assets/news/ea53e37b45ec16.jpg",
       "score": 17
     },
     {
-      "id": "261809541e8091",
+      "id": "cbfaeb6b960d5c",
       "category": "Verden",
       "published": "01.09. 08:02",
       "publishedISO": "2026-09-01T08:02:27+02:00",
@@ -42,7 +42,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/261809541e8091.jpg",
+      "localImage": "assets/news/cbfaeb6b960d5c.jpg",
       "score": 17
     },
     {
@@ -109,6 +109,48 @@
       "score": 16
     },
     {
+      "id": "02d67d6e4fbda5",
+      "category": "Norge",
+      "published": "01.09. 11:50",
+      "publishedISO": "2026-09-01T11:50:45+02:00",
+      "title": "Nå skal kong Haakon avlegge ed til Stortinget",
+      "summary": "TIL STORTINGET: Kong Haakon skal tysdag avlegga eid framfor det politiske Noreg. Tysdag kjem kong Haakon til Stortinget for å avlegga eid. Det er nemleg sett opp ein storskjerm på Eidsvolls plass rett utanfor Stortinget, der alle som vil kan fylgja med på den historiske hendinga.",
+      "keyPoints": [
+        "TIL STORTINGET: Kong Haakon skal tysdag avlegga eid framfor det politiske Noreg.",
+        "Det er nemleg sett opp ein storskjerm på Eidsvolls plass rett utanfor Stortinget, der alle som vil kan fylgja med på den historiske hendinga.",
+        "Den nye kongen skal forplikta seg til å vera lojal mot Stortinget og det dei bestemmer.",
+        "Sjølv om Haakon vart konge idet faren døydde, krev Grunnlova at han avlegg denne eiden."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/na-skal-kong-haakon-avlegge-ed-til-stortinget-1.18009874",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/N2Sjp4CMq-e08V5OZADL-AUHzsyIbrqWSA7yWRBz54_g.jpg",
+      "localImage": "assets/news/02d67d6e4fbda5.jpg",
+      "score": 17
+    },
+    {
+      "id": "52fc7912fab0aa",
+      "category": "Norge",
+      "published": "01.09. 10:35",
+      "publishedISO": "2026-09-01T10:35:06+02:00",
+      "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+      "summary": "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset. Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni. Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
+      "keyPoints": [
+        "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset.",
+        "Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni.",
+        "Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
+        "Dronning Sonja og prins Sverre Magnus skal følge med på seremonien i stortingssalen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/dronning-mette-marit-uteblir-fra-edsavleggelsen-1.18010052",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xxbEFkr4GfX2BWA69pn-Fg3HaJOl0NwdhhaSrT0CrR4w.jpg",
+      "localImage": "assets/news/52fc7912fab0aa.webp",
+      "score": 17
+    },
+    {
       "id": "23d301817333e7",
       "category": "Verden",
       "published": "01.09. 00:07",
@@ -119,7 +161,7 @@
         "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
         "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
         "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa fra University of Tokyo skrev nylig, eksternt, er en refleksjon av \"Japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omallokering av kapital i stedet for et politiske skifte fra Kina til India\"."
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -170,48 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
       "localImage": "assets/news/57dc53af51089f.jpg",
       "score": 15
-    },
-    {
-      "id": "0bd42c4b0f2f88",
-      "category": "Norge",
-      "published": "31.08. 20:06",
-      "publishedISO": "2026-08-31T20:06:48+02:00",
-      "title": "Sist en norsk konge avla eden, satt Erna Solberg i salen",
-      "summary": "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991. TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991. Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
-      "keyPoints": [
-        "Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
-        "TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991.",
-        "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991.",
-        "Kronprins Haakon, som var bare 17 år da hans far avla eden i 1991, var ikke med da."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/sist-en-norsk-konge-avla-eden_-satt-erna-solberg-i-salen-1.18009190",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
-      "localImage": "assets/news/0bd42c4b0f2f88.jpg",
-      "score": 14
-    },
-    {
-      "id": "324f8aaf75f9c2",
-      "category": "Norge",
-      "published": "01.09. 11:36",
-      "publishedISO": "2026-09-01T11:36:01+02:00",
-      "title": "NHO vil rydde opp på vintervegane i Lofoten - lokalbefolkninga ler av forslaget",
-      "summary": "NHO vil trygge vegane med meir informasjon, men kritikarane trur ikkje det hjelper. NHO Reiseliv lanserer ein frivillig bransjestandard for leigebilar, med tryggleiksinformasjon ved bestilling, utlevering og inne i bilen – på fleire språk. Linda Susann Amundsen er administrator av Facebook-gruppa «Overturisme i Lofoten» som er ei gruppe laga av lokalbefolkninga i Lofoten.",
-      "keyPoints": [
-        "Linda Susann Amundsen er administrator av Facebook-gruppa «Overturisme i Lofoten» som er ei gruppe laga av lokalbefolkninga i Lofoten.",
-        "NHO Reiseliv lanserer ein frivillig bransjestandard for leigebilar, med tryggleiksinformasjon ved bestilling, utlevering og inne i bilen – på fleire språk.",
-        "NHO vil trygge vegane med meir informasjon, men kritikarane trur ikkje det hjelper.",
-        "Nasjonalt finst det opp til 40.000 leigebilar fordelt på fleire selskap der Hertz, Avis og Sixt er størst."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nho-sin-nye-leigebilstandard_-_-pissing-i-havet-1.17989919",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jYOs3DIfFOgxC1JC6HbPAwaAkkZI-h8_nY3KVBH72SAw.jpg",
-      "localImage": "assets/news/324f8aaf75f9c2.jpg",
-      "score": 13
     }
   ]
 }
