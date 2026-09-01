@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 00:53",
-  "updatedISO": "2026-09-02T00:53:02.106111+02:00",
+  "updatedAt": "02.09.2026 kl. 01:11",
+  "updatedISO": "2026-09-02T01:11:02.543640+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -211,7 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/W407ziJ1siMhg4WTUDBFCwIOo6mHs9mXIcS7C1oS1IAA.jpg",
       "localImage": "assets/news/5c9564ecf1e3f7.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
