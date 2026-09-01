@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 14:57",
-  "updatedISO": "2026-09-01T14:57:11.186600+02:00",
+  "updatedAt": "01.09.2026 kl. 15:14",
+  "updatedISO": "2026-09-01T15:14:14.726087+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -190,28 +190,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/23d301817333e7.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "57dc53af51089f",
-      "category": "Økonomi",
-      "published": "31.08. 09:01",
-      "publishedISO": "2026-08-31T09:01:37+02:00",
-      "title": "Oljesmurt opptur på Oslo Børs",
-      "summary": "Nye amerikanske angrep i Midtøsten sendte både oljeprisen og Oslo Børs rakt opp. Hovedindeksen på Oslo Børs var opp 0,87 prosent mandag, etter markert oppgang i oljeprisen. Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
+      "id": "0bd42c4b0f2f88",
+      "category": "Norge",
+      "published": "31.08. 20:06",
+      "publishedISO": "2026-08-31T20:06:48+02:00",
+      "title": "Sist en norsk konge avla eden, satt Erna Solberg i salen",
+      "summary": "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991. TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991. Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs var opp 0,87 prosent mandag, etter markert oppgang i oljeprisen.",
-        "Nye amerikanske angrep i Midtøsten sendte både oljeprisen og Oslo Børs rakt opp.",
-        "Resultatsesongen for andre kvartal på Oslo Børs er inne i sin sist uke.",
-        "Mowi var ved 1,7 prosent, Grieg Seafood var ned nær 1,1 prosent mens Lerøy Seafood var ned 1,9 prosent og Austevoll Seafood var ned 2,1 prosent."
+        "Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
+        "TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991.",
+        "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991.",
+        "Kronprins Haakon, som var bare 17 år da hans far avla eden i 1991, var ikke med da."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4qJvQ/oslo-boers-stiger-etter-oljeprishopp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
-      "localImage": "assets/news/57dc53af51089f.jpg",
-      "score": 15
+      "url": "https://www.nrk.no/norge/sist-en-norsk-konge-avla-eden_-satt-erna-solberg-i-salen-1.18009190",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
+      "localImage": "assets/news/0bd42c4b0f2f88.jpg",
+      "score": 14
     }
   ]
 }
