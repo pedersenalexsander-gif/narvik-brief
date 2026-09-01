@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 13:11",
-  "updatedISO": "2026-09-01T13:11:47.784402+02:00",
+  "updatedAt": "01.09.2026 kl. 13:27",
+  "updatedISO": "2026-09-01T13:27:26.213193+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -140,7 +140,7 @@
         "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
         "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
         "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa fra University of Tokyo skrev nylig, eksternt, er en refleksjon av \"Japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omallokering av kapital i stedet for et politiske skifte fra Kina til India\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -148,27 +148,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/23d301817333e7.jpg",
-      "score": 15
-    },
-    {
-      "id": "e62af5f0cf2757",
-      "category": "Norge",
-      "published": "31.08. 22:37",
-      "publishedISO": "2026-08-31T22:37:57+02:00",
-      "title": "Kongemerket skal byttes ut på Forsvarets uniformer",
-      "summary": "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol. Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår. Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
-      "keyPoints": [
-        "Men snart skal bildene byttes kong Haakon, Forsvarets øverste leder.",
-        "Tronskiftet skal etter hvert synliggjøres både på uniformer og i militærleirene. – Vi bærer kongemerket til uniformen vår.",
-        "SYMBOLISERER ØVERSTE LEDER: Forsvarets bereter bærer fortsatt kong Haralds symbol.",
-        "På soldatenes beret pryder fortsatt kongemerket til Hans Majestet Kong Harald V."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kongemerket-skal-byttes-ut-pa-forsvarets-uniformer-1.18008831",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/zCVvKUu6l5FArNOtpp2OiwXWcoxLWWysDNnizvZwZeog.jpg",
-      "localImage": "assets/news/e62af5f0cf2757.jpg",
       "score": 15
     },
     {
@@ -212,6 +191,27 @@
       "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
       "localImage": "assets/news/0bd42c4b0f2f88.jpg",
       "score": 14
+    },
+    {
+      "id": "0cf5108c390b23",
+      "category": "Verden",
+      "published": "01.09. 12:40",
+      "publishedISO": "2026-09-01T12:40:55+02:00",
+      "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
+      "summary": "En bil ble ødelagt av et israelsk angrep i Rimal-området i Gaza by. Minst to palestinske barn og en kvinne er drept av israelsk brann i vestlige Gaza by, sier palestinske medisinere. Ubekreftede lokale rapporter sier at en Israel-støttet palestinsk milits utførte et raid og at det israelske militæret utførte beskytninger og luftangrep etter at det ble oppdaget. Board of Peaces Gaza-utsending kritiserer israelske streiker og Hamas-aksjoner Israelske angrep dreper fem i Gaza, inkludert to barn, medisinere sier at Storbritannia, Canada og Australia fordømmer Israel for å ha nektet kriminell etterforskning av drap på hjelpearbeidere i Gaza",
+      "keyPoints": [
+        "En bil ble ødelagt av et israelsk angrep i Rimal-området i Gaza by. Minst to palestinske barn og en kvinne er drept av israelsk brann i vestlige Gaza by, sier palestinske medisinere.",
+        "Board of Peaces Gaza-utsending kritiserer israelske streiker og Hamas-aksjoner Israelske angrep dreper fem i Gaza, inkludert to barn, medisinere sier at Storbritannia, Canada og Australia fordømmer Israel for å ha nektet kriminell etterforskning av drap på hjelpearbeidere i Gaza",
+        "Ubekreftede lokale rapporter sier at en Israel-støttet palestinsk milits utførte et raid og at det israelske militæret utførte beskytninger og luftangrep etter at det ble oppdaget.",
+        "Israels forsvarsminister Israel Katz sa at en høytstående Hamas-tjenestemann var arrestert, men det var ikke klart om kunngjøringen var relatert til hendelsen i Gaza by."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f736/live/6f9ca000-a5e7-11f1-a019-f3ea5e194221.jpg",
+      "localImage": "assets/news/0cf5108c390b23.jpg",
+      "score": 13
     }
   ]
 }
