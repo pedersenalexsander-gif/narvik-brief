@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 08:56",
-  "updatedISO": "2026-09-01T08:56:53.665388+02:00",
+  "updatedAt": "01.09.2026 kl. 09:13",
+  "updatedISO": "2026-09-01T09:13:37.579471+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,6 +46,27 @@
       "score": 17
     },
     {
+      "id": "9e091bf5fc75cf",
+      "category": "Økonomi",
+      "published": "01.09. 09:01",
+      "publishedISO": "2026-09-01T09:01:24+02:00",
+      "title": "Oslo Børs stiger svakt",
+      "summary": "Hovedindeksen på Oslo Børs er opp 0,15 prosent fra start tirsdag, som følger en markant oppgang i går. Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Dette er skipsdekningen for tredje kvartal: Fearnley Securities-analytiker Fredrik Dybwad omtaler rapporten som «solid». – Ser vi mot tredje kvartal, vil inntjeningen være høyere, og som et første estimat venter vi en ebitda på rundt 120 millioner dollar.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er opp 0,15 prosent fra start tirsdag, som følger en markant oppgang i går.",
+        "Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
+        "Dette er skipsdekningen for tredje kvartal: Fearnley Securities-analytiker Fredrik Dybwad omtaler rapporten som «solid». – Ser vi mot tredje kvartal, vil inntjeningen være høyere, og som et første estimat venter vi en ebitda på rundt 120 millioner dollar.",
+        "Oljeprisen (brent spot) er opp 0,5 dollar til 91,1 dollar per fat siden midnatt."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/43vjXG/oslo-boers-stiger-svakt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
+      "localImage": "assets/news/9e091bf5fc75cf.jpg",
+      "score": 20
+    },
+    {
       "id": "6acc8130bc5604",
       "category": "Økonomi",
       "published": "01.09. 08:10",
@@ -67,6 +88,27 @@
       "score": 16
     },
     {
+      "id": "23d301817333e7",
+      "category": "Verden",
+      "published": "01.09. 00:07",
+      "publishedISO": "2026-09-01T00:07:19+02:00",
+      "title": "Uniqlo, Muji: Japan Inc is betting big on India as China risks deepen",
+      "summary": "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene. MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor. Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
+      "keyPoints": [
+        "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
+        "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
+        "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa fra University of Tokyo skrev nylig, eksternt, er en refleksjon av \"Japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omallokering av kapital i stedet for et politiske skifte fra Kina til India\"."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/23d301817333e7.jpg",
+      "score": 16
+    },
+    {
       "id": "57dc53af51089f",
       "category": "Økonomi",
       "published": "31.08. 09:01",
@@ -85,27 +127,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
       "localImage": "assets/news/57dc53af51089f.jpg",
-      "score": 16
-    },
-    {
-      "id": "23d301817333e7",
-      "category": "Verden",
-      "published": "01.09. 00:07",
-      "publishedISO": "2026-09-01T00:07:19+02:00",
-      "title": "Uniqlo, Muji: Japan Inc is betting big on India as China risks deepen",
-      "summary": "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene. MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor. Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
-      "keyPoints": [
-        "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
-        "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
-        "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/23d301817333e7.jpg",
       "score": 16
     },
     {
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/5ddc9452-1af6-3be3-9c52-de2d611070f3?fit=crop&h=675&upscale=true&w=1200&s=cc22d326a6ad6739712c5e1c1030834ace4a2c41",
       "localImage": "assets/news/1b00109f1e50c2.jpg",
       "score": 14
-    },
-    {
-      "id": "71b133eaef5e94",
-      "category": "Verden",
-      "published": "01.09. 07:11",
-      "publishedISO": "2026-09-01T07:11:23+02:00",
-      "title": "Watch: Flock's rapidly expanding AI surveillance network faces growing backlash",
-      "summary": "Et nettverk av AI-lisensplatelesere drevet av et privat selskap kalt Flock utvides raskt over hele USA. Flocks raskt voksende AI-overvåkingsnettverk står overfor økende tilbakeslag i USA. Video, 00:01:42Flocks raskt voksende AI-overvåkingsnettverk står overfor økende tilbakeslag i US Up Next.",
-      "keyPoints": [
-        "Flock's rapidly expanding AI surveillance network facing growing backlash in US.",
-        "Et nettverk av AI-lisensplatelesere drevet av et privat selskap kalt Flock utvides raskt over hele USA.",
-        "BBC Verify undersøker Flocks system og det økende tilbakeslaget mot det - som Jake Horton rapporterer.",
-        "Video, 00:01:03Once a village, now barren land - BBC in valley devastated by floods Watch: Notting Hill Carnival celebrates 60th anniversary."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9131/live/bc4b9300-a567-11f1-aed2-8d6da8d75094.png",
-      "localImage": "assets/news/71b133eaef5e94.png",
-      "score": 13
     }
   ]
 }
