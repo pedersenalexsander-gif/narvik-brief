@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 14:15",
-  "updatedISO": "2026-09-01T14:15:48.087248+02:00",
+  "updatedAt": "01.09.2026 kl. 14:37",
+  "updatedISO": "2026-09-01T14:37:47.844820+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,6 +109,27 @@
       "score": 15
     },
     {
+      "id": "a50d4a795cd3b1",
+      "category": "Norge",
+      "published": "01.09. 11:50",
+      "publishedISO": "2026-09-01T11:50:45+02:00",
+      "title": "Nå skal kong Haakon avlegge ed til Stortinget",
+      "summary": "Litt før klokka 13 kom kong Haakon til Stortinget for å avlegga eid. Kronprinsesse Ingrid Alexandra, dronning Sonja og prins Sverre Magnus utanfor Stortinget. Kong Haakon helste soldatane med «god dag, kadettar!» på veg ut.",
+      "keyPoints": [
+        "Litt før klokka 13 kom kong Haakon til Stortinget for å avlegga eid.",
+        "Kong Haakon helste soldatane med «god dag, kadettar!» på veg ut.",
+        "Kronprinsesse Ingrid Alexandra, dronning Sonja og prins Sverre Magnus utanfor Stortinget.",
+        "Etter at kongen hadde avlagt eida, tok stortingspresident Masud Gharahkhani (Ap) ordet og heldt ei minnetale for kong Harald."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/na-skal-kong-haakon-avlegge-ed-til-stortinget-1.18009874",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Gqb7pP0HVf5j8PfLV2xIVQXJM8b7gWczXXa7bpww0O0A.jpg",
+      "localImage": "assets/news/a50d4a795cd3b1.jpg",
+      "score": 17
+    },
+    {
       "id": "52fc7912fab0aa",
       "category": "Norge",
       "published": "01.09. 10:35",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
       "localImage": "assets/news/57dc53af51089f.jpg",
       "score": 15
-    },
-    {
-      "id": "0bd42c4b0f2f88",
-      "category": "Norge",
-      "published": "31.08. 20:06",
-      "publishedISO": "2026-08-31T20:06:48+02:00",
-      "title": "Sist en norsk konge avla eden, satt Erna Solberg i salen",
-      "summary": "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991. TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991. Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
-      "keyPoints": [
-        "Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
-        "TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991.",
-        "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991.",
-        "Kronprins Haakon, som var bare 17 år da hans far avla eden i 1991, var ikke med da."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/sist-en-norsk-konge-avla-eden_-satt-erna-solberg-i-salen-1.18009190",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
-      "localImage": "assets/news/0bd42c4b0f2f88.jpg",
-      "score": 14
     }
   ]
 }
