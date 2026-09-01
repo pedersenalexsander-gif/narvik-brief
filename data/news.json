@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 22:42",
-  "updatedISO": "2026-09-01T22:42:54.996068+02:00",
+  "updatedAt": "01.09.2026 kl. 22:54",
+  "updatedISO": "2026-09-01T22:54:26.135401+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,48 +23,6 @@
       "image": "https://gfx.nrk.no/LnT6P32kySoQ2KiZARoQxgZ5QNRSkuHpoMtCw9c1ajfg.jpg",
       "localImage": "assets/news/ea53e37b45ec16.jpg",
       "score": 15
-    },
-    {
-      "id": "ab2a90ae962b1b",
-      "category": "Verden",
-      "published": "01.09. 18:35",
-      "publishedISO": "2026-09-01T18:35:28+02:00",
-      "title": "Trump says US position on Falklands 'one of many' under review",
-      "summary": "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene. Det er bare en av mange.\" Trumps uttalelser ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset. Det hvite hus forsvarer Argentina-teamet over Falklands-banneret Storbritannia sier at Falklandsøyene 'definitivt våre' kunne nedprioritere Argentinas bannere, etter at Argentina-rapporten US-rapporten hevder.",
-      "keyPoints": [
-        "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene.",
-        "Det er bare en av mange.\" Trumps kommentarer ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset.",
-        "White House defends Argentina team over Falklands banner UK says Falkland Islands 'definitely ours' after Argentina banner Rubio downplays reports US could review UK's claim to Falklands",
-        "Trump snakket med journalister mandag, og ble spurt av BBC om han gjennomgikk USAs posisjon på Falklandsøyene."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/ab2a90ae962b1b.jpg",
-      "score": 17
-    },
-    {
-      "id": "de560f93f3c15d",
-      "category": "USA",
-      "published": "01.09. 17:51",
-      "publishedISO": "2026-09-01T17:51:51+02:00",
-      "title": "US borrowing costs hit fresh highs over inflation fears",
-      "summary": "Amerikanske lånekostnader nådde et nytt høydepunkt tirsdag da fornyede streiker i Midtøsten presset opp oljeprisene og økte bekymringen over inflasjonen. Økningen i lånekostnadene kommer og frykt for prisstigningstakten i USA har ført til økte spekulasjoner om at Federal Reserve vil øke rentene senere denne måneden. Etter at lånekostnadene over 30 år nådde nivåer som ikke er sett siden 2007, sa finansminister Scott Bessent at den amerikanske regjeringen ville kjøpe tilbake mer gjeld i et forsøk på å senke renten, men markedets reaksjon på kunngjøringen viste seg å være kortvarig.",
-      "keyPoints": [
-        "Amerikanske lånekostnader nådde et nytt høydepunkt tirsdag da fornyede streiker i Midtøsten presset opp oljeprisene og økte bekymringen over inflasjonen.",
-        "Etter at lånekostnadene over 30 år nådde nivåer som ikke er sett siden 2007, sa finansminister Scott Bessent at den amerikanske regjeringen ville kjøpe tilbake mer gjeld i et forsøk på å senke renten, men markedets reaksjon på kunngjøringen viste seg å være kortvarig.",
-        "Økningen i lånekostnadene kommer og frykt for prisstigningstakten i USA har ført til økte spekulasjoner om at Federal Reserve vil øke rentene senere denne måneden.",
-        "Obligasjonsinvestorer krever vanligvis høyere avkastning - eller avkastning - hvis inflasjonen er høy eller de forventer at den vil bli høy i fremtiden, og slike priser har en tendens til å sette veien for lånekostnader i økonomier rundt om i verden."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c980y8r98y2o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1d6e/live/32fde070-a61c-11f1-9ca2-a3e18de91b7b.jpg",
-      "localImage": "assets/news/de560f93f3c15d.jpg",
-      "score": 13
     },
     {
       "id": "acebcaf050de4e",
@@ -109,45 +67,45 @@
       "score": 14
     },
     {
-      "id": "64381b9105f254",
-      "category": "Verden",
-      "published": "01.09. 13:55",
-      "publishedISO": "2026-09-01T13:55:51+02:00",
-      "title": "Ukraine war: What to make of Modi's plea to Putin to end conflict",
-      "summary": "Se: Modi forteller Putin «gå videre fra en endeløs krig til en slutt på krig» Russlands president Vladimir Putin har blitt oppfordret av Indias statsminister Narendra Modi, en nær alliert, til å avslutte Moskvas krig mot Ukraina. \"Hver dag brukt i krig presser menneskeheten tilbake, og hvert skritt som tas mot fred fyller menneskeheten med nytt håp og entusiasme,\" sa Modi mandag. Modi, hvis lands økonomi er sterkt avhengig av rabattert olje fra Moskva, har kommet med flere lignende bønner til Putin siden han startet en fullskala invasjon av Ukraina i 2022. Faktisk, da han talte på sidelinjen av et regionalt toppmøte i 2022 – mindre enn ett år inn i konflikten – sa Modi til Putin offentlig at «nå er ikke tiden for krig».",
+      "id": "a50d4a795cd3b1",
+      "category": "Norge",
+      "published": "01.09. 11:50",
+      "publishedISO": "2026-09-01T11:50:45+02:00",
+      "title": "Nå skal kong Haakon avlegge ed til Stortinget",
+      "summary": "Litt før klokka 13 kom kong Haakon til Stortinget for å avlegga eid. Kronprinsesse Ingrid Alexandra, dronning Sonja og prins Sverre Magnus utanfor Stortinget. Kong Haakon helste soldatane med «god dag, kadettar!» på veg ut.",
       "keyPoints": [
-        "Se: Modi forteller Putin «gå videre fra en endeløs krig til en slutt på krig» Russlands president Vladimir Putin har blitt oppfordret av Indias statsminister Narendra Modi, en nær alliert, til å avslutte Moskvas krig mot Ukraina. \"Hver dag brukt i krig presser menneskeheten tilbake, og hvert skritt som tas mot fred fyller menneskeheten med nytt håp og entusiasme,\" sa Modi mandag.",
-        "Faktisk, da han talte på sidelinjen av et regionalt toppmøte i 2022 – mindre enn ett år inn i konflikten – sa Modi til Putin offentlig at «nå er ikke tiden for krig».",
-        "Modi, hvis lands økonomi er sterkt avhengig av rabattert olje fra Moskva, har kommet med flere lignende bønner til Putin siden han startet en fullskala invasjon av Ukraina i 2022.",
-        "Dette er ikke første gang en utenlandsk leder offentlig har oppfordret Putin til å avslutte krigen i Ukraina."
+        "Litt før klokka 13 kom kong Haakon til Stortinget for å avlegga eid.",
+        "Kong Haakon helste soldatane med «god dag, kadettar!» på veg ut.",
+        "Kronprinsesse Ingrid Alexandra, dronning Sonja og prins Sverre Magnus utanfor Stortinget.",
+        "Etter at kongen hadde avlagt eida, tok stortingspresident Masud Gharahkhani (Ap) ordet og heldt ei minnetale for kong Harald."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e98/live/59804970-a5fb-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/64381b9105f254.jpg",
-      "score": 16
+      "url": "https://www.nrk.no/norge/na-skal-kong-haakon-avlegge-ed-til-stortinget-1.18009874",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Gqb7pP0HVf5j8PfLV2xIVQXJM8b7gWczXXa7bpww0O0A.jpg",
+      "localImage": "assets/news/a50d4a795cd3b1.jpg",
+      "score": 15
     },
     {
-      "id": "cbfaeb6b960d5c",
-      "category": "Verden",
-      "published": "01.09. 08:02",
-      "publishedISO": "2026-09-01T08:02:27+02:00",
-      "title": "Nepal-flom: Den avsidesliggende grenseovergangen mellom Nepal og Kina i hjertet av en tragedie i Himalaya",
-      "summary": "Elektroniske immigrasjonsregistreringer fra Nepals grensepost Rasuwagadhi fyller noen hull, i tillegg til innsikt fra den eneste gjenlevende medarbeideren. CCTV-opptak viser folk som flykter mens gjørme og vann oppsluker bygninger ved grensen mellom Nepal og Kina i Gyirong 26. august. Immigrasjonssystemet registrerte sin endelige transaksjon klokken 08:35:03 lokal tid (10:52 tibettid), mindre enn 10 minutter før strømmen dukket opp på CCTV-opptakene på Gyirong. Flom i Rasuwagadhi ødela Friendship Bridge, veier og en vannkraftstasjon, og feide bort kjøretøyer i Rasuwa, Nepal, i juli i fjor. Da Pokharel ringte en kollega klokken 08:20 den morgenen, ble han fortalt at krysset var uvanlig travelt.",
+      "id": "52fc7912fab0aa",
+      "category": "Norge",
+      "published": "01.09. 10:35",
+      "publishedISO": "2026-09-01T10:35:06+02:00",
+      "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
+      "summary": "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset. Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni. Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
       "keyPoints": [
-        "CCTV-opptak viser folk som flykter mens gjørme og vann oppsluker bygninger ved grensen mellom Nepal og Kina i Gyirong 26. august. Immigrasjonssystemet registrerte sin endelige transaksjon klokken 08:35:03 lokal tid (10:52 tibettid), mindre enn 10 minutter før strømmen dukket opp på CCTV-opptakene på Gyirong.",
-        "Elektroniske immigrasjonsregistreringer fra Nepals grensepost Rasuwagadhi fyller noen hull, i tillegg til innsikt fra den eneste gjenlevende medarbeideren.",
-        "Flom i Rasuwagadhi ødela Friendship Bridge, veier og en vannkraftstasjon, og feide bort kjøretøyer i Rasuwa, Nepal, i juli i fjor. Da Pokharel ringte en kollega klokken 08:20 den morgenen, ble han fortalt at krysset var uvanlig travelt.",
-        "Klokken 08:37 – mindre enn to minutter etter at immigrasjonssystemet registrerte sin endelige transaksjon – oppdaget seismiske instrumenter bevegelse i fjellene over grensen, ifølge en tidslinje utarbeidet av Nepals senter for hydrologi og vannressursforskning."
+        "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset.",
+        "Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni.",
+        "Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
+        "Dronning Sonja og prins Sverre Magnus skal følge med på seremonien i stortingssalen."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/cbfaeb6b960d5c.jpg",
+      "url": "https://www.nrk.no/nyheter/dronning-mette-marit-uteblir-fra-edsavleggelsen-1.18010052",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xxbEFkr4GfX2BWA69pn-Fg3HaJOl0NwdhhaSrT0CrR4w.jpg",
+      "localImage": "assets/news/52fc7912fab0aa.webp",
       "score": 15
     },
     {
@@ -193,24 +151,66 @@
       "score": 13
     },
     {
-      "id": "7eeccd43ecafcd",
-      "category": "Verden",
-      "published": "01.09. 21:13",
-      "publishedISO": "2026-09-01T21:13:03+02:00",
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "summary": "Tyskland har sagt at Russland var ansvarlig for forrige måneds droneangrep på Leipzigs flyplass. En drone med en eksplosiv enhet ble oppdaget på Leipzig/Halle flyplass i Øst-Tyskland, nær ukrainske lastefly, 4. august. Innenriksminister Alexander Dobrindt sa at Leipzig flyplassangrepet fulgte det \"veletablerte mønsteret av russiske hybridoperasjoner i Europa\", og antagelsen var at Tyskland ville bli målrettet igjen.",
+      "id": "fa31ee6fe1eb3c",
+      "category": "Norge",
+      "published": "01.09. 21:11",
+      "publishedISO": "2026-09-01T21:11:22+02:00",
+      "title": "Debatten raste på 60-tallet: Ville ikke ha Sonja som dronning",
+      "summary": "Kongen sendte ut en pressemelding for å avkrefte ryktene, og en redaktør slo fast at Sonja aldri ville bli dronning. Dronning Sonja foran slottet og folkehavet mandag 31. august. VG krevde at kronprins Harald måtte glemme Sonja og sette hensynet til landet først: « ... det er Deres Kongelige Høyhets plikt å leve umenneskelig i den forstand det er kommet til uttrykk i dette brev». «Det kan høres veldig demokratisk ut med en borgerlig født dronning, men hvis man får et kongehus spedd opp med grosserere og skipsredere som skal ha arverett til tronen, da blir det hele ytterst betenkelig».",
       "keyPoints": [
-        "Tyskland har sagt at Russland var ansvarlig for forrige måneds droneangrep på Leipzigs flyplass.",
-        "A drone carrying an explosive device was discovered at Leipzig/Halle Airport in eastern Germany, close to Ukrainian cargo planes, on 4 August.",
-        "Innenriksminister Alexander Dobrindt sa at Leipzig flyplassangrepet fulgte det \"veletablerte mønsteret av russiske hybridoperasjoner i Europa\", og antagelsen var at Tyskland ville bli målrettet igjen.",
-        "Tyskland undersøker Russlands koblinger til våpenbuffer oppdaget i skogen, rapporter sier Tysklands Merz advarer angripere vil \"betale prisen\" etter dronehendelse Dronebombe fra tysk flyplass: Kan Russland være involvert?"
+        "Kongen sendte ut en pressemelding for å avkrefte ryktene, og en redaktør slo fast at Sonja aldri ville bli dronning.",
+        "Dronning Sonja foran slottet og folkehavet mandag 31. august.",
+        "VG krevde at kronprins Harald måtte glemme Sonja og sette hensynet til landet først: « ... det er Deres Kongelige Høyhets plikt å leve umenneskelig i den forstand det er kommet til uttrykk i dette brev». «Det kan høres veldig demokratisk ut med en borgerlig født dronning, men hvis man får et kongehus spedd opp med grosserere og skipsredere som skal ha arverett til tronen, da blir det hele ytterst betenkelig».",
+        "Med hånda på hjertet skuet dronning Sonja utover blomsterhavet og en klappende folkemengde."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
-      "localImage": "assets/news/7eeccd43ecafcd.jpg",
+      "url": "https://www.nrk.no/norge/debatten-raste-pa-60-tallet_-ville-ikke-ha-sonja-som-dronning-1.18009125",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/2A5-SyNRTPpLkEYTntxZjwENvIb8e2WMRmoWcmp3yeSg.png",
+      "localImage": "assets/news/fa31ee6fe1eb3c.png",
+      "score": 13
+    },
+    {
+      "id": "ffa87bf9ad7790",
+      "category": "Norge",
+      "published": "01.09. 21:00",
+      "publishedISO": "2026-09-01T21:00:20+02:00",
+      "title": "Fjerner norsk avgiftskutt på drivstoff – svensker vil gjøre kuttene permanente",
+      "summary": "Sverigedemokraterna og andre svenske partier vil videreføre kutt og billigere drivstoff. Fredrik Eriksson i Sverigedemokraterna mener avgiftskutt er viktig for både det svenske folket og den svenske økonomien. Flere partier, deriblant partiet til Eriksson, går til valg på at avgiftskuttene på drivstoff skal videreføres. – Høye drivstoffpriser rammer husholdningene, det rammer økonomien, det gir høyere inflasjon.",
+      "keyPoints": [
+        "Fredrik Eriksson i Sverigedemokraterna mener avgiftskutt er viktig for både det svenske folket og den svenske økonomien.",
+        "Flere partier, deriblant partiet til Eriksson, går til valg på at avgiftskuttene på drivstoff skal videreføres. – Høye drivstoffpriser rammer husholdningene, det rammer økonomien, det gir høyere inflasjon.",
+        "Sverigedemokraterna og andre svenske partier vil videreføre kutt og billigere drivstoff.",
+        "Det er over ti kroner å spare per liter dersom du fyller tanken i Sverige istedenfor i Norge."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ostfold/fjerner-norsk-avgiftskutt-pa-drivstoff-_-svensker-vil-gjore-kuttene-permanente-1.18009958",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/0ZvfkwR8js0s_yS1OXIVUQeXJTK5epWTI0kXAGBLX_sw.jpg",
+      "localImage": "assets/news/ffa87bf9ad7790.jpg",
+      "score": 13
+    },
+    {
+      "id": "5c9564ecf1e3f7",
+      "category": "Norge",
+      "published": "01.09. 20:06",
+      "publishedISO": "2026-09-01T20:06:17+02:00",
+      "title": "Høiby i båreseremoni skaper debatt i utlandet",
+      "summary": "Dansk kommentator hevder kongehuset er likegyldig til de fornærmede i straffesaken mot Marius Borg Høiby. FØRTE BÅREN: Kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, prinsesse Märtha Louise og hennes døtre, Maud Angelica Behn, Leah Behn, og Emma Tallulah Behn, og Marius Borg Høiby. – Signalet er rystende, men ikke til å ta feil av: Det norske kongehuset er likegyldig til ofrene for Marius' lovbrudd. Uttalelsene er en reaksjon på at Marius Borg Høiby var med på å føre kong Haralds båre gjennom Slottet mandag.",
+      "keyPoints": [
+        "FØRTE BÅREN: Kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, prinsesse Märtha Louise og hennes døtre, Maud Angelica Behn, Leah Behn, og Emma Tallulah Behn, og Marius Borg Høiby. – Signalet er rystende, men ikke til å ta feil av: Det norske kongehuset er likegyldig til ofrene for Marius' lovbrudd.",
+        "Uttalelsene er en reaksjon på at Marius Borg Høiby var med på å føre kong Haralds båre gjennom Slottet mandag.",
+        "Dansk kommentator hevder kongehuset er likegyldig til de fornærmede i straffesaken mot Marius Borg Høiby.",
+        "Norske kongehuseksperter mener det er helt naturlig at Høiby fikk delta i båreseremonien. – Kong Harald og dronning Sonja behandlet Marius Borg Høiby på lik linje med de biologiske barnebarna, og han har kjent dem hele sitt bevisste liv."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/hoiby-i-bareseremoni-skaper-debatt-i-utlandet-1.18009753",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/W407ziJ1siMhg4WTUDBFCwIOo6mHs9mXIcS7C1oS1IAA.jpg",
+      "localImage": "assets/news/5c9564ecf1e3f7.jpg",
       "score": 13
     }
   ]
