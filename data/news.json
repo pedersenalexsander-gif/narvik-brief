@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 21:52",
-  "updatedISO": "2026-09-01T21:52:22.524765+02:00",
+  "updatedAt": "01.09.2026 kl. 22:12",
+  "updatedISO": "2026-09-01T22:12:13.011623+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/LnT6P32kySoQ2KiZARoQxgZ5QNRSkuHpoMtCw9c1ajfg.jpg",
       "localImage": "assets/news/ea53e37b45ec16.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "ab2a90ae962b1b",
@@ -88,25 +88,25 @@
       "score": 28
     },
     {
-      "id": "4966727d63707a",
+      "id": "6acc8130bc5604",
       "category": "Økonomi",
-      "published": "01.09. 15:31",
-      "publishedISO": "2026-09-01T15:31:19+02:00",
-      "title": "Nedgangen tiltar på Wall Street",
-      "summary": "Rentefrykten tiltar i det oljeprisen skyter videre opp etter nye amerikanske Iran-angrep. Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag. Amerikansk råolje, WTI, stiger over 88 dollar fatet, til 88,40 dollar, en oppgang på nær 3,4 prosent, og opp fra 87,2 dollar fatet ved åpning på Wall Street tirsdag.",
+      "published": "01.09. 08:10",
+      "publishedISO": "2026-09-01T08:10:00+02:00",
+      "title": "DNO vil kjøpe oljeselskapet Capricorn",
+      "summary": "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner. Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
       "keyPoints": [
-        "Amerikansk råolje, WTI, stiger over 88 dollar fatet, til 88,40 dollar, en oppgang på nær 3,4 prosent, og opp fra 87,2 dollar fatet ved åpning på Wall Street tirsdag.",
-        "Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag.",
-        "Rentefrykten tiltar i det oljeprisen skyter videre opp etter nye amerikanske Iran-angrep.",
-        "Amerikanske aksjer utvider og bredder fallet tirsdag kveld, etter stadig økninger i oljeprisen, der nordsjøoljeprisen (brent spot) nå har passert 95 dollar fatet."
+        "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
+        "Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
+        "Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner.",
+        "Den 2. juli i år kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av sistnevnte fra Genel."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/j0XdLz/wall-street-aapner-ned",
+      "url": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/13eaa3f2-09e8-3aa8-8491-e34f3c98e0af?fit=crop&h=675&upscale=true&w=1200&s=46cefe0322c2834561418641369a4916256b79c6",
-      "localImage": "assets/news/4966727d63707a.jpg",
-      "score": 19
+      "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
+      "localImage": "assets/news/6acc8130bc5604.jpg",
+      "score": 14
     },
     {
       "id": "64381b9105f254",
@@ -193,25 +193,25 @@
       "score": 15
     },
     {
-      "id": "6acc8130bc5604",
-      "category": "Økonomi",
-      "published": "01.09. 08:10",
-      "publishedISO": "2026-09-01T08:10:00+02:00",
-      "title": "DNO vil kjøpe oljeselskapet Capricorn",
-      "summary": "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner. Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
+      "id": "7eeccd43ecafcd",
+      "category": "Verden",
+      "published": "01.09. 21:13",
+      "publishedISO": "2026-09-01T21:13:03+02:00",
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "summary": "Tyskland har sagt at Russland var ansvarlig for forrige måneds droneangrep på Leipzigs flyplass. En drone som bar en eksplosiv enhet ble oppdaget på Leipzig/Halle flyplass i Øst-Tyskland, like ved ukrainske lastefly, 4. august. Innenriksminister Alexander Dobrindt sa at Leipzig flyplassangrepet fulgte det \"veletablerte mønsteret av russiske hybridoperasjoner i Europa\", og antagelsen var at Tyskland ville bli målrettet igjen.",
       "keyPoints": [
-        "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
-        "Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
-        "Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner.",
-        "Den 2. juli i år kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av sistnevnte fra Genel."
+        "Tyskland har sagt at Russland var ansvarlig for forrige måneds droneangrep på Leipzigs flyplass.",
+        "A drone carrying an explosive device was discovered at Leipzig/Halle Airport in eastern Germany, close to Ukrainian cargo planes, on 4 August.",
+        "Innenriksminister Alexander Dobrindt sa at Leipzig flyplassangrepet fulgte det \"veletablerte mønsteret av russiske hybridoperasjoner i Europa\", og antagelsen var at Tyskland ville bli målrettet igjen.",
+        "Tyskland undersøker Russlands koblinger til våpenbuffer oppdaget i skogen, rapporter sier Tysklands Merz advarer angripere vil \"betale prisen\" etter dronehendelse Dronebombe fra tysk flyplass: Kan Russland være involvert?"
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
-      "localImage": "assets/news/6acc8130bc5604.jpg",
-      "score": 14
+      "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6b5/live/bf0d1e90-a618-11f1-9ca2-a3e18de91b7b.jpg",
+      "localImage": "assets/news/7eeccd43ecafcd.jpg",
+      "score": 13
     }
   ]
 }
