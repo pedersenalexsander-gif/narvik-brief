@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 08:37",
-  "updatedISO": "2026-09-01T08:37:35.064487+02:00",
+  "updatedAt": "01.09.2026 kl. 08:56",
+  "updatedISO": "2026-09-01T08:56:53.665388+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/zCVvKUu6l5FArNOtpp2OiwXWcoxLWWysDNnizvZwZeog.jpg",
       "localImage": "assets/news/e62af5f0cf2757.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "23d301817333e7",
+      "id": "261809541e8091",
       "category": "Verden",
-      "published": "01.09. 00:07",
-      "publishedISO": "2026-09-01T00:07:19+02:00",
-      "title": "Uniqlo, Muji: Japan Inc is betting big on India as China risks deepen",
-      "summary": "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene. MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor. Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
+      "published": "01.09. 08:02",
+      "publishedISO": "2026-09-01T08:02:27+02:00",
+      "title": "Nepal-flom: Den avsidesliggende grenseovergangen mellom Nepal og Kina i hjertet av en tragedie i Himalaya",
+      "summary": "Et satellittbilde viser området rundt grensen mellom Nepal og Kina før ødeleggende flom feide bort bygninger og kjøretøy. En mørk vegg dukker opp bak bygningene ved Gyirong, på den kinesiske siden av grensen mellom Nepal og Tibet. CCTV-opptak viser folk som flykter mens gjørme og vann oppsluker bygninger ved grensen mellom Nepal og Kina i Gyirong 26. august \"Dette er en historisk reiserute mellom Katmandu og Tibet. Det er et sted hvor pilegrimer på vei mot Mount Kailash krysser stier med handelsmenn som reiser mellom Nepal og Kina, lastebilsjåfører, tollere som bor langs grensen og folk.",
       "keyPoints": [
-        "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
-        "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
-        "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
+        "Et satellittbilde viser området rundt grensen mellom Nepal og Kina før ødeleggende flom feide bort bygninger og kjøretøy. En mørk vegg dukker opp bak bygningene ved Gyirong, på den kinesiske siden av grensen mellom Nepal og Tibet.",
+        "CCTV-opptak viser folk som flykter mens gjørme og vann oppsluker bygninger ved grensen mellom Nepal og Kina i Gyirong 26. august \"Dette er en historisk reiserute mellom Katmandu og Tibet.",
+        "Det er et sted hvor pilegrimer på vei mot Mount Kailash krysser stier med handelsmenn som reiser mellom Nepal og Kina, lastebilsjåfører, tollere, turister og folk som bor langs grensen.",
+        "Klokken 8:37 – mindre enn to minutter etter at immigrasjonssystemet registrerte sin endelige transaksjon – oppdaget seismiske instrumenter bevegelse i fjellene over grensen, ifølge en tidslinje utarbeidet av Nepals senter for hydrologi og vannressursforskning."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/23d301817333e7.jpg",
-      "score": 16
-    },
-    {
-      "id": "25938dc577ae98",
-      "category": "Økonomi",
-      "published": "01.09. 08:34",
-      "publishedISO": "2026-09-01T08:34:20+02:00",
-      "title": "Paal Eikeseth er ny toppsjef i Aker Solutions - Kjetel Digre går av etter seks år",
-      "summary": "Kjetel Digre går av etter seks år som Aker Solutions-sjef. Eikeseth etterfølger Kjetel Digre, som har besluttet å gå av etter seks år som konsernsjef. – Aker Solutions har lang erfaring med å planlegge fremover og handle på riktig tidspunkt. Da Kjetel Digre fortalte at han ønsket å gå av som konsernsjef, var styret og Digre enige om at tidspunktet var riktig for et lederskifte, sier Leif-Arne Langøy, styreleder i Aker Solutions.",
-      "keyPoints": [
-        "Eikeseth etterfølger Kjetel Digre, som har besluttet å gå av etter seks år som konsernsjef. – Aker Solutions har lang erfaring med å planlegge fremover og handle på riktig tidspunkt.",
-        "Kjetel Digre går av etter seks år som Aker Solutions-sjef.",
-        "Da Kjetel Digre fortalte at han ønsket å gå av som konsernsjef, var styret og Digre enige om at tidspunktet var riktig for et lederskifte, sier Leif-Arne Langøy, styreleder i Aker Solutions.",
-        "Styret i oljeserviceselskapet Aker Solutions har utnevnt Paal Eikeseth til selskapets nye konsernsjef, med virkning fra i dag, ifølge en børsmelding."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7pLnQ8/paal-eikeseth-er-ny-toppsjef-i-aker-solutions-kjetel-digre-gaar-av-etter-seks-aar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/83e36ec7-51b7-3a76-977b-f60c6859632e?fit=crop&h=675&upscale=true&w=1200&s=923f49f8a028e320c08f6dc19aa462358fea4918",
-      "localImage": "assets/news/25938dc577ae98.jpg",
-      "score": 16
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3d0/live/db5294a0-a513-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/261809541e8091.jpg",
+      "score": 17
     },
     {
       "id": "6acc8130bc5604",
@@ -106,6 +85,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fcfc4643-8948-3a8f-a292-765b60f24a66?fit=crop&h=675&upscale=true&w=1200&s=65b9b4e16c9efb46c14dd41fc63fd3fa63822aee",
       "localImage": "assets/news/57dc53af51089f.jpg",
+      "score": 16
+    },
+    {
+      "id": "23d301817333e7",
+      "category": "Verden",
+      "published": "01.09. 00:07",
+      "publishedISO": "2026-09-01T00:07:19+02:00",
+      "title": "Uniqlo, Muji: Japan Inc is betting big on India as China risks deepen",
+      "summary": "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene. MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor. Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
+      "keyPoints": [
+        "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
+        "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
+        "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cz64955d56po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/23d301817333e7.jpg",
       "score": 16
     },
     {
@@ -193,24 +193,24 @@
       "score": 14
     },
     {
-      "id": "5ed2eff195afe0",
-      "category": "Norge",
-      "published": "01.09. 08:03",
-      "publishedISO": "2026-09-01T08:03:25+02:00",
-      "title": "Kraftig hopp for drivstoffprisane: – Avgiftene tar knekken på oss",
-      "summary": "Drivstoffprisane har auka i heile landet etter at det blei slutt på avgiftsreduksjonen ved midnatt. Frå midnatt blei dei vanlege avgiftene på bensin og diesel gjenninnført her til lands. Avgiftene tar jo eigentleg knekken på oss vanlege forbrukarar, seier Arild Børkja som køyrer dieselbil.",
+      "id": "71b133eaef5e94",
+      "category": "Verden",
+      "published": "01.09. 07:11",
+      "publishedISO": "2026-09-01T07:11:23+02:00",
+      "title": "Watch: Flock's rapidly expanding AI surveillance network faces growing backlash",
+      "summary": "Et nettverk av AI-lisensplatelesere drevet av et privat selskap kalt Flock utvides raskt over hele USA. Flocks raskt voksende AI-overvåkingsnettverk står overfor økende tilbakeslag i USA. Video, 00:01:42Flocks raskt voksende AI-overvåkingsnettverk står overfor økende tilbakeslag i US Up Next.",
       "keyPoints": [
-        "Avgiftene tar jo eigentleg knekken på oss vanlege forbrukarar, seier Arild Børkja som køyrer dieselbil.",
-        "Frå midnatt blei dei vanlege avgiftene på bensin og diesel gjenninnført her til lands.",
-        "Drivstoffprisane har auka i heile landet etter at det blei slutt på avgiftsreduksjonen ved midnatt.",
-        "Auken blir på 4,71 kroner per liter for bensin og 4,51 kroner per liter for diesel, opplyser bransjeforeningen Drivkraft Norge til NTB."
+        "Flock's rapidly expanding AI surveillance network facing growing backlash in US.",
+        "Et nettverk av AI-lisensplatelesere drevet av et privat selskap kalt Flock utvides raskt over hele USA.",
+        "BBC Verify undersøker Flocks system og det økende tilbakeslaget mot det - som Jake Horton rapporterer.",
+        "Video, 00:01:03Once a village, now barren land - BBC in valley devastated by floods Watch: Notting Hill Carnival celebrates 60th anniversary."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/kraftig-hopp-for-drivstoffprisane_-_-avgiftene-tar-knekken-pa-oss-1.18009950",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/gVL3djb-6VRNdwz7FKcbtAfXSqb2wspB97SfwhrT-EnQ.jpg",
-      "localImage": "assets/news/5ed2eff195afe0.jpg",
+      "url": "https://www.bbc.co.uk/news/videos/cvgy4ddx1q8o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9131/live/bc4b9300-a567-11f1-aed2-8d6da8d75094.png",
+      "localImage": "assets/news/71b133eaef5e94.png",
       "score": 13
     }
   ]
