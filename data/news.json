@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.09.2026 kl. 15:45",
-  "updatedISO": "2026-09-01T15:45:25.913494+02:00",
+  "updatedAt": "01.09.2026 kl. 15:57",
+  "updatedISO": "2026-09-01T15:57:41.657260+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,6 +67,27 @@
       "score": 14
     },
     {
+      "id": "66029b59775609",
+      "category": "Økonomi",
+      "published": "01.09. 15:31",
+      "publishedISO": "2026-09-01T15:31:19+02:00",
+      "title": "Wall Street åpner ned",
+      "summary": "Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag. Dette rammer spesielt de høyt prisede teknologiaksjene: Apple stiger 0,6 prosent på det som er den nye Apple-sjefen John Ternus’ første dag i rollen. Fredag ga USAs nye sentralbanksjef Kevin Warsh tydelig beskjed om at sentralbanken ville ha inflasjonen ned til målet på 2 prosent, og at Fed hadde en jobb å gjøre.",
+      "keyPoints": [
+        "Den amerikanske 10-årsrenten har steget til rundt 4,78–4,79 prosent, som er høyeste nivå siden januar 2025, melder The Wall Street Journal tirsdag.",
+        "Fredag ga USAs nye sentralbanksjef Kevin Warsh tydelig beskjed om at sentralbanken ville ha inflasjonen ned til målet på 2 prosent, og at Fed hadde en jobb å gjøre.",
+        "Dette rammer spesielt de høyt prisede teknologiaksjene: Apple stiger 0,6 prosent på det som er den nye Apple-sjefen John Ternus’ første dag i rollen.",
+        "Et fat nordsjøolje for umiddelbar levering (brent spot) stiger over ny to prosent tirsdag, og er i skrivende stund opp nær 2 dollar fatet, til 92,60 dollar."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/j0XdLz/wall-street-aapner-ned",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/13eaa3f2-09e8-3aa8-8491-e34f3c98e0af?fit=crop&h=675&upscale=true&w=1200&s=46cefe0322c2834561418641369a4916256b79c6",
+      "localImage": "assets/news/66029b59775609.jpg",
+      "score": 20
+    },
+    {
       "id": "c4a7d833bd1775",
       "category": "Økonomi",
       "published": "01.09. 09:01",
@@ -86,27 +107,6 @@
       "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
       "localImage": "assets/news/c4a7d833bd1775.jpg",
       "score": 19
-    },
-    {
-      "id": "6acc8130bc5604",
-      "category": "Økonomi",
-      "published": "01.09. 08:10",
-      "publishedISO": "2026-09-01T08:10:00+02:00",
-      "title": "DNO vil kjøpe oljeselskapet Capricorn",
-      "summary": "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner. Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
-      "keyPoints": [
-        "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
-        "Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
-        "Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner.",
-        "Den 2. juli i år kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av sistnevnte fra Genel."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
-      "localImage": "assets/news/6acc8130bc5604.jpg",
-      "score": 15
     },
     {
       "id": "a50d4a795cd3b1",
@@ -172,6 +172,27 @@
       "score": 16
     },
     {
+      "id": "6acc8130bc5604",
+      "category": "Økonomi",
+      "published": "01.09. 08:10",
+      "publishedISO": "2026-09-01T08:10:00+02:00",
+      "title": "DNO vil kjøpe oljeselskapet Capricorn",
+      "summary": "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner. Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
+      "keyPoints": [
+        "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
+        "Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
+        "Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner.",
+        "Den 2. juli i år kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av sistnevnte fra Genel."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
+      "localImage": "assets/news/6acc8130bc5604.jpg",
+      "score": 15
+    },
+    {
       "id": "23d301817333e7",
       "category": "Verden",
       "published": "01.09. 00:07",
@@ -182,7 +203,7 @@
         "Merker som Uniqlo og Muji har raskt ekspandert i India. Indias handelsminister Piyush Goyal ledet landets største forretningsdelegasjon til Japan i forrige uke i et forsøk på å utvide handels- og investeringsbåndene mellom de to landene.",
         "Japan Inc er nå den største bidragsyteren til Indias blomstrende økosystem av globale kapasitetssentre (GCC) i Asia-Stillehavet.",
         "MUFG Bank – Japans største bank – avsluttet en avtale om å kjøpe 20 % av den indiske skyggelångiveren Shriram Finance for 4,4 milliarder dollar i fjor i det som var den største utenlandske investeringen noensinne i Indias finanssektor.",
-        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa ved Universitetet i Tokyo skrev nylig, eksternt, er en refleksjon av \"japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omfordeling av kapital i stedet for et politisk skifte fra Kina til India\"."
+        "Den økende interessen for India har fulgt med et fall i netto japanske investeringer i Kina, som, som Toshiro Nishizaewa fra University of Tokyo skrev nylig, eksternt, er en refleksjon av \"Japanske firmaers autonome markedsdiversifiseringsstrategier - en kommersielt drevet omallokering av kapital i stedet for et politiske skifte fra Kina til India\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a495/live/0c5aa580-a2ba-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/23d301817333e7.jpg",
-      "score": 14
-    },
-    {
-      "id": "0bd42c4b0f2f88",
-      "category": "Norge",
-      "published": "31.08. 20:06",
-      "publishedISO": "2026-08-31T20:06:48+02:00",
-      "title": "Sist en norsk konge avla eden, satt Erna Solberg i salen",
-      "summary": "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991. TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991. Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
-      "keyPoints": [
-        "Da kong Harald var blitt konge i 1991, avla han eden i Stortinget fire dager etter at hans far, kong Olav, gikk bort.",
-        "TIL STEDE I 1991: Tidligere Høyre-leder Erna Solberg ser bildet av kong Harald som viser edsavleggelsen i 1991.",
-        "Blant dagens stortingsrepresentanter er Erna Solberg én av kun to som opplevde edsavleggelsen i 1991.",
-        "Kronprins Haakon, som var bare 17 år da hans far avla eden i 1991, var ikke med da."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/sist-en-norsk-konge-avla-eden_-satt-erna-solberg-i-salen-1.18009190",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SBPsveiAns8WxZ69MAD9bAbVsuOBiqmsUJKOStHE2hrA.jpg",
-      "localImage": "assets/news/0bd42c4b0f2f88.jpg",
       "score": 14
     }
   ]
