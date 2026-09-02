@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 05:12",
-  "updatedISO": "2026-09-02T05:12:20.315235+02:00",
+  "updatedAt": "02.09.2026 kl. 05:27",
+  "updatedISO": "2026-09-02T05:27:27.932452+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,6 +25,48 @@
       "score": 14
     },
     {
+      "id": "ab2a90ae962b1b",
+      "category": "Verden",
+      "published": "01.09. 18:35",
+      "publishedISO": "2026-09-01T18:35:28+02:00",
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "summary": "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene. Det er bare en av mange.\" Trumps uttalelser ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset. Det hvite hus forsvarer Argentina-teamet over Falklands-banneret Storbritannia sier at Falklandsøyene 'definitivt våre' kunne nedprioritere Argentinas bannere, etter at Argentina-rapporten US-rapporten hevder.",
+      "keyPoints": [
+        "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene.",
+        "Det er bare en av mange.\" Trumps kommentarer ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset.",
+        "White House defends Argentina team over Falklands banner UK says Falkland Islands 'definitely ours' after Argentina banner Rubio downplays reports US could review UK's claim to Falklands",
+        "Trump snakket med journalister mandag, og ble spurt av BBC om han gjennomgikk USAs posisjon på Falklandsøyene."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/ab2a90ae962b1b.jpg",
+      "score": 15
+    },
+    {
+      "id": "a1e2c9d599ed5d",
+      "category": "USA",
+      "published": "02.09. 03:59",
+      "publishedISO": "2026-09-02T03:59:10+02:00",
+      "title": "Charlie Kirk murder suspect Tyler Robinson pleads not guilty as judge clears way for death penalty trial",
+      "summary": "Se: Øyeblikk Tyler Robinson erkjenner ikke skyldig i Charlie Kirks død En 23 år gammel mann i Utah har erklært seg ikke skyldig i drapet på den konservative aktivisten Charlie Kirk – som en dommer avgjorde at påtalemyndigheten kan kreve dødsstraff under rettssaken. Tyler Robinson benekter grovt drap, en hovedforbrytelse i Utah og seks andre anklager i forbindelse med skytingen av Kirk på et campusarrangement 10. september 2025. I en uttalelse som ble delt etterpå, sa familien Kirk at dommerens avgjørelse «markerer et viktig skritt» i deres «jakt på rettferdighet». \"Hvert trinn i denne prosessen bærer vekten av alt drapet på Charlie har tatt fra familien hans, spesielt barna hans som vil vokse opp uten sin far,\" sa uttalelsen.",
+      "keyPoints": [
+        "Se: Øyeblikk Tyler Robinson erkjenner ikke skyldig i Charlie Kirks død En 23 år gammel mann i Utah har erklært seg ikke skyldig i drapet på den konservative aktivisten Charlie Kirk – som en dommer avgjorde at påtalemyndigheten kan kreve dødsstraff under rettssaken.",
+        "Tyler Robinson benekter grovt drap, en hovedforbrytelse i Utah og seks andre siktelser i forbindelse med skytingen av Kirk på et campusarrangement 10. september 2025.",
+        "I en uttalelse som ble delt etterpå, sa Kirk-familien at dommerens avgjørelse \"markerer et viktig skritt\" i deres \"jakt på rettferdighet\". \"Hvert trinn i denne prosessen bærer vekten av alt drapet på Charlie har tatt fra familien hans, spesielt barna hans som vil vokse opp uten sin far,\" sa uttalelsen.",
+        "Forsvarsadvokater hadde forsøkt å få dødsstraffen tatt av bordet, men påtalemyndigheten hevdet at skjerpende faktorer, som å skyte inn i en folkemengde i nærvær av barn, rettferdiggjorde en hovedrettssak."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4fe7/live/9ee301c0-795e-11f1-b976-0b9c15b0ccfc.jpg",
+      "localImage": "assets/news/a1e2c9d599ed5d.jpg",
+      "score": 13
+    },
+    {
       "id": "acebcaf050de4e",
       "category": "Økonomi",
       "published": "01.09. 09:01",
@@ -46,25 +88,46 @@
       "score": 26
     },
     {
-      "id": "6acc8130bc5604",
+      "id": "ec01d8f708c643",
       "category": "Økonomi",
-      "published": "01.09. 08:10",
-      "publishedISO": "2026-09-01T08:10:00+02:00",
-      "title": "DNO vil kjøpe oljeselskapet Capricorn",
-      "summary": "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner. Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
+      "published": "02.09. 01:43",
+      "publishedISO": "2026-09-02T01:43:47+02:00",
+      "title": "Range Rover launches first fully electric model",
+      "summary": "Prototypens lansering kommer etter at eieren JLR rapporterte fallende fortjeneste og forstyrrelser i forsyningskjeden Range Rover har avduket sin første helelektriske modell, etter et år lang forsinkelse til den planlagte lanseringen. Range Rover Electric, som skal bygges i Solihull, markerer et stort skifte i elektrifiseringsprogrammet, støttet av storskala oppgraderinger på tvers av West Midlands-anleggene. Martin Limpert, administrerende direktør i Range Rover, kalte den nye modellen resultatet av et tiår med \"betraktet ingeniørkunst\".",
       "keyPoints": [
-        "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
-        "Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
-        "Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner.",
-        "Den 2. juli i år kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av sistnevnte fra Genel."
+        "Prototypens lansering kommer etter at eieren JLR rapporterte fallende fortjeneste og forstyrrelser i forsyningskjeden Range Rover har avduket sin første helelektriske modell, etter et år lang forsinkelse til den planlagte lanseringen.",
+        "The Range Rover Electric, to be built in Solihull, marks a major shift in its electrification programme, backed by large‑scale upgrades across its West Midlands sites.",
+        "Martin Limpert, administrerende direktør i Range Rover, kalte den nye modellen resultatet av et tiår med \"betraktet ingeniørkunst\".",
+        "JLRs elektriske utrulling kommer etter et turbulent år med overskudd som falt til 66 millioner pund i første kvartal etter en brann hos en viktig norsk leverandør."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
-      "localImage": "assets/news/6acc8130bc5604.jpg",
-      "score": 12
+      "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
+      "localImage": "assets/news/ec01d8f708c643.jpg",
+      "score": 13
+    },
+    {
+      "id": "64381b9105f254",
+      "category": "Verden",
+      "published": "01.09. 13:55",
+      "publishedISO": "2026-09-01T13:55:51+02:00",
+      "title": "Ukraine war: What to make of Modi's plea to Putin to end conflict",
+      "summary": "Se: Modi forteller Putin «gå videre fra en endeløs krig til en slutt på krig» Russlands president Vladimir Putin har blitt oppfordret av Indias statsminister Narendra Modi, en nær alliert, til å avslutte Moskvas krig mot Ukraina. \"Hver dag brukt i krig presser menneskeheten tilbake, og hvert skritt som tas mot fred fyller menneskeheten med nytt håp og entusiasme,\" sa Modi mandag. Modi, hvis lands økonomi er sterkt avhengig av rabattert olje fra Moskva, har kommet med flere lignende bønner til Putin siden han startet en fullskala invasjon av Ukraina i 2022. Faktisk, da han talte på sidelinjen av et regionalt toppmøte i 2022 – mindre enn ett år inn i konflikten – sa Modi til Putin offentlig at «nå er ikke tiden for krig».",
+      "keyPoints": [
+        "Se: Modi forteller Putin «gå videre fra en endeløs krig til en slutt på krig» Russlands president Vladimir Putin har blitt oppfordret av Indias statsminister Narendra Modi, en nær alliert, til å avslutte Moskvas krig mot Ukraina. \"Hver dag brukt i krig presser menneskeheten tilbake, og hvert skritt som tas mot fred fyller menneskeheten med nytt håp og entusiasme,\" sa Modi mandag.",
+        "Faktisk, da han talte på sidelinjen av et regionalt toppmøte i 2022 – mindre enn ett år inn i konflikten – sa Modi til Putin offentlig at «nå er ikke tiden for krig».",
+        "Modi, hvis lands økonomi er sterkt avhengig av rabattert olje fra Moskva, har kommet med flere lignende bønner til Putin siden han startet en fullskala invasjon av Ukraina i 2022.",
+        "Dette er ikke første gang en utenlandsk leder offentlig har oppfordret Putin til å avslutte krigen i Ukraina."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e98/live/59804970-a5fb-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/64381b9105f254.jpg",
+      "score": 14
     },
     {
       "id": "a50d4a795cd3b1",
@@ -109,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "6029bfd95b51b0",
+      "category": "Verden",
+      "published": "02.09. 05:19",
+      "publishedISO": "2026-09-02T05:19:44+02:00",
+      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
+      "summary": "Fartøyer var synlige over Hormuzstredet fra Oman denne uken Iran har startet angrep på amerikanske militærbaser i Irak og Jordan, ifølge lokale statlige medier og de jordanske væpnede styrker, etter at amerikanske styrker gjenopptok angrep mot Iran tirsdag. Den iranske Røde Halvmåne sa at et amerikansk missilangrep hadde drept fire mennesker, inkludert et barn, da splitter traff et hjem der en bryllupsfeiring fant sted i Sirik i Sør-Iran. Det ble også rapportert om flere eksplosjoner i Bahrain etter angrep fra Iran, ifølge iranske statlige medier.",
+      "keyPoints": [
+        "Fartøyer var synlige over Hormuzstredet fra Oman denne uken Iran har startet angrep på amerikanske militærbaser i Irak og Jordan, ifølge lokale statlige medier og de jordanske væpnede styrker, etter at amerikanske styrker gjenopptok angrep mot Iran tirsdag.",
+        "Den iranske Røde Halvmåne sa at et amerikansk missilangrep hadde drept fire mennesker, inkludert et barn, da splitter traff et hjem der en bryllupsfeiring fant sted i Sirik i Sør-Iran.",
+        "Several explosions were also reported in Bahrain following attacks by Iran, according to Iranian state media.",
+        "Den amerikanske marinekapteinen Tim Hawkins, som snakker på vegne av Centcom, sa til BBC at de var klar over rapporter fra iranske statlige medier om angrepet i Sirik."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/6029bfd95b51b0.jpg",
+      "score": 13
+    },
+    {
       "id": "4cc21e500b8dd9",
       "category": "Norge",
       "published": "02.09. 05:09",
@@ -128,90 +212,6 @@
       "image": "https://gfx.nrk.no/PDIak9C-p_Uyhw5chA4TpQi5gKSp_0gbzcBoZzR_EICw.jpg",
       "localImage": "assets/news/4cc21e500b8dd9.jpg",
       "score": 13
-    },
-    {
-      "id": "bee4fd54fde69d",
-      "category": "Norge",
-      "published": "01.09. 22:30",
-      "publishedISO": "2026-09-01T22:30:38+02:00",
-      "title": "Økt pågang hos Mental Helse etter kong Haralds bortgang",
-      "summary": "Etter kong Haralds bortgang har Mental Helse fått flere henvendelser enn normalt. Det finnes flere hjelpetelefoner, chat- og meldingstjenester for deg som trenger noen å snakke med: Hos hjelpetjenesten Mental Helse har de merket stor pågang på telefon og chat etter kong Haralds dødsfall. Landsleder i Mental Helse, Ole Marius Minde Johnsen, sier de merket stor pågang på telefon og chat etter kong Haralds dødsfall.",
-      "keyPoints": [
-        "Det finnes flere hjelpetelefoner, chat- og meldingstjenester for deg som trenger noen å snakke med: Hos hjelpetjenesten Mental Helse har de merket stor pågang på telefon og chat etter kong Haralds dødsfall.",
-        "Landsleder i Mental Helse, Ole Marius Minde Johnsen, sier de merket stor pågang på telefon og chat etter kong Haralds dødsfall.",
-        "Etter kong Haralds bortgang har Mental Helse fått flere henvendelser enn normalt.",
-        "Sorgen av å miste Bjørn, kom på nytt til overflaten, da kong Harald gikk bort. – Jeg er en sånn person som prøver å skjule følelser."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/okt-pagang-hos-mental-helse-etter-kong-haralds-bortgang-1.18010657",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BH6QyYJf6vNcwICAniKPmgG94C0Z6xYm8nQCKo-2ilWw.jpg",
-      "localImage": "assets/news/bee4fd54fde69d.jpg",
-      "score": 12
-    },
-    {
-      "id": "90d538c13d66cd",
-      "category": "Norge",
-      "published": "01.09. 22:29",
-      "publishedISO": "2026-09-01T22:29:26+02:00",
-      "title": "Dette veit vi om det som skjedde under flaumen i Nepal",
-      "summary": "Sju minutt etter skredet gjekk er grensestasjonen mellom Tibet og Nepal eitt av dei første bygga som blir teken av flaumen. Vidare heldt den overfløymde elva fram sørover i Nepal, i høg fart. Is- og breskredet i Nepal var så stort og kraftig at det gav utslag på seismiske rørsler tilsvarande eit jordskjelv på 5,2.",
-      "keyPoints": [
-        "Sju minutt etter skredet gjekk er grensestasjonen mellom Tibet og Nepal eitt av dei første bygga som blir teken av flaumen.",
-        "Is- og breskredet i Nepal var så stort og kraftig at det gav utslag på seismiske rørsler tilsvarande eit jordskjelv på 5,2.",
-        "Vidare heldt den overfløymde elva fram sørover i Nepal, i høg fart.",
-        "Dette er det forskarane meiner skjedde dei dramatiske minutta."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/dette-veit-vi-om-det-som-skjedde-under-flaumen-i-nepal-1.18008824",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/iTki8ngjEL-yUHa-XKlSLQ1muw-pMajMHfKXakqUDCAQ.jpg",
-      "localImage": "assets/news/90d538c13d66cd.jpg",
-      "score": 12
-    },
-    {
-      "id": "fa31ee6fe1eb3c",
-      "category": "Norge",
-      "published": "01.09. 21:11",
-      "publishedISO": "2026-09-01T21:11:22+02:00",
-      "title": "Debatten raste på 60-tallet: Ville ikke ha Sonja som dronning",
-      "summary": "Kongen sendte ut en pressemelding for å avkrefte ryktene, og en redaktør slo fast at Sonja aldri ville bli dronning. Dronning Sonja foran slottet og folkehavet mandag 31. august. VG krevde at kronprins Harald måtte glemme Sonja og sette hensynet til landet først: « ... det er Deres Kongelige Høyhets plikt å leve umenneskelig i den forstand det er kommet til uttrykk i dette brev». «Det kan høres veldig demokratisk ut med en borgerlig født dronning, men hvis man får et kongehus spedd opp med grosserere og skipsredere som skal ha arverett til tronen, da blir det hele ytterst betenkelig».",
-      "keyPoints": [
-        "Kongen sendte ut en pressemelding for å avkrefte ryktene, og en redaktør slo fast at Sonja aldri ville bli dronning.",
-        "Dronning Sonja foran slottet og folkehavet mandag 31. august.",
-        "VG krevde at kronprins Harald måtte glemme Sonja og sette hensynet til landet først: « ... det er Deres Kongelige Høyhets plikt å leve umenneskelig i den forstand det er kommet til uttrykk i dette brev». «Det kan høres veldig demokratisk ut med en borgerlig født dronning, men hvis man får et kongehus spedd opp med grosserere og skipsredere som skal ha arverett til tronen, da blir det hele ytterst betenkelig».",
-        "Med hånda på hjertet skuet dronning Sonja utover blomsterhavet og en klappende folkemengde."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/debatten-raste-pa-60-tallet_-ville-ikke-ha-sonja-som-dronning-1.18009125",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2A5-SyNRTPpLkEYTntxZjwENvIb8e2WMRmoWcmp3yeSg.png",
-      "localImage": "assets/news/fa31ee6fe1eb3c.png",
-      "score": 12
-    },
-    {
-      "id": "ffa87bf9ad7790",
-      "category": "Norge",
-      "published": "01.09. 21:00",
-      "publishedISO": "2026-09-01T21:00:20+02:00",
-      "title": "Fjerner norsk avgiftskutt på drivstoff – svensker vil gjøre kuttene permanente",
-      "summary": "Sverigedemokraterna og andre svenske partier vil videreføre kutt og billigere drivstoff. Fredrik Eriksson i Sverigedemokraterna mener avgiftskutt er viktig for både det svenske folket og den svenske økonomien. Flere partier, deriblant partiet til Eriksson, går til valg på at avgiftskuttene på drivstoff skal videreføres. – Høye drivstoffpriser rammer husholdningene, det rammer økonomien, det gir høyere inflasjon.",
-      "keyPoints": [
-        "Fredrik Eriksson i Sverigedemokraterna mener avgiftskutt er viktig for både det svenske folket og den svenske økonomien.",
-        "Flere partier, deriblant partiet til Eriksson, går til valg på at avgiftskuttene på drivstoff skal videreføres. – Høye drivstoffpriser rammer husholdningene, det rammer økonomien, det gir høyere inflasjon.",
-        "Sverigedemokraterna og andre svenske partier vil videreføre kutt og billigere drivstoff.",
-        "Det er over ti kroner å spare per liter dersom du fyller tanken i Sverige istedenfor i Norge."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/fjerner-norsk-avgiftskutt-pa-drivstoff-_-svensker-vil-gjore-kuttene-permanente-1.18009958",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0ZvfkwR8js0s_yS1OXIVUQeXJTK5epWTI0kXAGBLX_sw.jpg",
-      "localImage": "assets/news/ffa87bf9ad7790.jpg",
-      "score": 12
     }
   ]
 }
