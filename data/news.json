@@ -1,28 +1,49 @@
 {
-  "updatedAt": "02.09.2026 kl. 20:34",
-  "updatedISO": "2026-09-02T20:34:06.387831+02:00",
+  "updatedAt": "02.09.2026 kl. 20:54",
+  "updatedISO": "2026-09-02T20:54:01.387827+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "1cf23dcd132698",
-      "category": "Norge",
-      "published": "02.09. 13:25",
-      "publishedISO": "2026-09-02T13:25:24+02:00",
-      "title": "Sp ber om møte om politisk borgfred",
-      "summary": "Senterpartiet inviterer de andre politiske partiene på Stortinget til et møte i morgen om den selvpålagte borgfreden på Stortinget. Senterpartiet mener at vi kommer langt med å bruke sunn fornuft i medieuttalelser og debatter, og at det ikke tjener noe formål at store deler av det offentlige ordskiftet skal detaljreguleres og delvis opphøre under sørgeperioden, sier Senterpartiets generalsekretær Ole André Myhrvold i en uttalelse til NRK og flere andre medier. Han sier Sp har invitert de andre partiene til et møte om dette i morgen tidlig.",
+      "id": "ce065cec19c857",
+      "category": "Nord-Norge",
+      "published": "02.09. 20:50",
+      "publishedISO": "2026-09-02T20:50:12+02:00",
+      "title": "Fortsatt ikke klart når det blir nattog på Nordlandsbanen",
+      "summary": "Det er fortsatt usikkert når nattogtilbudet på Nordlandsbanen kan starte opp igjen. Arbeidet med leveransen av de innleide svenske lokomotivene er inne i sin siste fase, men teknisk ombygging og godkjenningsprosesser skaper fremdeles forsinkelser. – Det er fortsatt noe usikkerhet knyttet til tidspunktet for overlevering av lokomotivet til SJ. Nordlandsbanen har over lengre tid slit med alvorlige driftsproblemer som følge av gammelt materiell, mangel på reservedeler og ettervirkningene av Bjerka-ulykken.",
       "keyPoints": [
-        "Senterpartiet inviterer de andre politiske partiene på Stortinget til et møte i morgen om den selvpålagte borgfreden på Stortinget.",
-        "Han sier Sp har invitert de andre partiene til et møte om dette i morgen tidlig.",
-        "Senterpartiet mener at vi kommer langt med å bruke sunn fornuft i medieuttalelser og debatter, og at det ikke tjener noe formål at store deler av det offentlige ordskiftet skal detaljreguleres og delvis opphøre under sørgeperioden, sier Senterpartiets generalsekretær Ole André Myhrvold i en uttalelse til NRK og flere andre medier.",
-        "Skjalg Fjellheim mener partienes borgfred sporer av når politikerne nekter å svare for avgiftshoppet."
+        "Det er fortsatt usikkert når nattogtilbudet på Nordlandsbanen kan starte opp igjen.",
+        "Arbeidet med leveransen av de innleide svenske lokomotivene er inne i sin siste fase, men teknisk ombygging og godkjenningsprosesser skaper fremdeles forsinkelser. – Det er fortsatt noe usikkerhet knyttet til tidspunktet for overlevering av lokomotivet til SJ.",
+        "Nordlandsbanen har over lengre tid slit med alvorlige driftsproblemer som følge av gammelt materiell, mangel på reservedeler og ettervirkningene av Bjerka-ulykken.",
+        "Det var opprinnelig forespeilet at nattoget skulle være i gang i løpet av sommeren, etter at kommunalminister Bjørnar Skjæran tidlig i år lovet en løsning på den langvarige lokomotivkrisen."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/fortsatt-ikke-klart-nar-det-blir-nattog-pa-nordlandsbanen-1.18011936",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/5CHOPp6s3YjV7I3BGDdujwQ0X_U3HfQ4pezR_IHrnbrA.jpg",
+      "localImage": "assets/news/ce065cec19c857.jpg",
+      "score": 17
+    },
+    {
+      "id": "ac42312de7d450",
+      "category": "Norge",
+      "published": "02.09. 20:31",
+      "publishedISO": "2026-09-02T20:31:53+02:00",
+      "title": "Hollywood utelater Norges glemte krigshelt",
+      "summary": "En helt avgjørende brikke er nemlig klippet helt bort fra historien. – Det var en nordmann som fikk D-dagen utsatt, det har vært kjent i hvert fall 20 år, sier historiker Magnus Vollset ved Universitetet i Bergen. Han var aldri ved fronten og avfyrte aldri et skudd, men begge historikerne regner ham som en av Norges fremste krigshelter. – Definitivt. Norges første værdame, Reidun Holmøy, jubler først litt over at faget hennes er tema i en Hollywood-storfilm. – Som oftest er det jakting på tornadoer og sånne ting, sier Holmøy, som gleder seg til å se en film som nesten utelukkende handler om meteorologi.",
+      "keyPoints": [
+        "En helt avgjørende brikke er nemlig klippet helt bort fra historien. – Det var en nordmann som fikk D-dagen utsatt, det har vært kjent i hvert fall 20 år, sier historiker Magnus Vollset ved Universitetet i Bergen.",
+        "Norges første værdame, Reidun Holmøy, jubler først litt over at faget hennes er tema i en Hollywood-storfilm. – Som oftest er det jakting på tornadoer og sånne ting, sier Holmøy, som gleder seg til å se en film som nesten utelukkende handler om meteorologi.",
+        "Han var aldri ved fronten og avfyrte aldri et skudd, men begge historikerne regner ham som en av Norges fremste krigshelter. – Definitivt.",
+        "Da de allierte strykene stormet strendene i Normandie, 6. juni 1944, sto hele Europas skjebne på spill."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/sp-ber-om-mote-om-politisk-borgfred-1.18011809",
+      "url": "https://www.nrk.no/kultur/hollywood-utelater-norges-glemte-krigshelt-1.18010158",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/M-7RgFYJ0mQe5uetD3H5DQNT3fPuHkOkQCAUdA7BBiuA.jpg",
-      "localImage": "assets/news/1cf23dcd132698.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/h_dZyRq2C4Gzu70B_RRT-AgiBH779LvQ27jmY2sp2RNg.jpg",
+      "localImage": "assets/news/ac42312de7d450.jpg",
+      "score": 17
     },
     {
       "id": "712155b60ca093",
@@ -172,46 +193,25 @@
       "score": 16
     },
     {
-      "id": "91711ffb5b1e78",
-      "category": "Økonomi",
-      "published": "02.09. 11:48",
-      "publishedISO": "2026-09-02T11:48:27+02:00",
-      "title": "Tilsyn: KLP visste om feilen – sendte til fire kommuner",
-      "summary": "I vedtaket skriver tilsynet blant annet om hvordan KLP videresendte feilinformasjon om Storebrand til kommuner som vurderte å legge pensjonen ut på anbud. «KLP videresendte flere ganger Gjerdrum kommunes saksfremlegg til kommuner som var i en vurderingsprosess. KLP var klar over feilen, men sendte likevel dokumentet til administrasjonen i både Austevoll, Levanger, Kinn og Eidsvoll, uten å opplyse om feilen, ifølge tilsynet som viser til en intern e-postkorrespondanse i KLP fra 2020. Ifølge tilsynet var dette en del av et større mønster der KLP brukte kommunale saksdokumenter fra kommuner som hadde valgt å ikke legge pensjonen ut på anbud, og sendte dem videre til andre kommuner som vurderte anbud.",
+      "id": "1cf23dcd132698",
+      "category": "Norge",
+      "published": "02.09. 13:25",
+      "publishedISO": "2026-09-02T13:25:24+02:00",
+      "title": "Sp ber om møte om politisk borgfred",
+      "summary": "Senterpartiet inviterer de andre politiske partiene på Stortinget til et møte i morgen om den selvpålagte borgfreden på Stortinget. Senterpartiet mener at vi kommer langt med å bruke sunn fornuft i medieuttalelser og debatter, og at det ikke tjener noe formål at store deler av det offentlige ordskiftet skal detaljreguleres og delvis opphøre under sørgeperioden, sier Senterpartiets generalsekretær Ole André Myhrvold i en uttalelse til NRK og flere andre medier. Han sier Sp har invitert de andre partiene til et møte om dette i morgen tidlig.",
       "keyPoints": [
-        "KLP var klar over feilen, men sendte likevel dokumentet til administrasjonen i både Austevoll, Levanger, Kinn og Eidsvoll, uten å opplyse om feilen, ifølge tilsynet som viser til en intern e-postkorrespondanse i KLP fra 2020.",
-        "Ifølge tilsynet var dette en del av et større mønster der KLP brukte kommunale saksdokumenter fra kommuner som hadde valgt å ikke legge pensjonen ut på anbud, og sendte dem videre til andre kommuner som vurderte anbud.",
-        "I vedtaket skriver tilsynet blant annet om hvordan KLP videresendte feilinformasjon om Storebrand til kommuner som vurderte å legge pensjonen ut på anbud. «KLP videresendte flere ganger Gjerdrum kommunes saksfremlegg til kommuner som var i en vurderingsprosess.",
-        "Vedtaket ble fattet i forrige uke og offentliggjort i dag. – Vi mener at KLP har skadet konkurransen gjennom aktiv og målrettet påvirkning av kommuner for å få dem til å avstå fra å sette offentlig tjenestepensjon ut på anbud."
+        "Senterpartiet inviterer de andre politiske partiene på Stortinget til et møte i morgen om den selvpålagte borgfreden på Stortinget.",
+        "Han sier Sp har invitert de andre partiene til et møte om dette i morgen tidlig.",
+        "Senterpartiet mener at vi kommer langt med å bruke sunn fornuft i medieuttalelser og debatter, og at det ikke tjener noe formål at store deler av det offentlige ordskiftet skal detaljreguleres og delvis opphøre under sørgeperioden, sier Senterpartiets generalsekretær Ole André Myhrvold i en uttalelse til NRK og flere andre medier.",
+        "Skjalg Fjellheim mener partienes borgfred sporer av når politikerne nekter å svare for avgiftshoppet."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/8pWBbd/tilsyn-klp-visste-om-feilen-sendte-til-fire-kommuner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/314d7a60-8f31-3776-ac12-7d42a1e7488e?fit=crop&h=675&upscale=true&w=1200&s=114fd3f98e71daf7ab317d77f50a3bf883b497b0",
-      "localImage": "assets/news/91711ffb5b1e78.jpg",
+      "url": "https://www.nrk.no/nyheter/sp-ber-om-mote-om-politisk-borgfred-1.18011809",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/M-7RgFYJ0mQe5uetD3H5DQNT3fPuHkOkQCAUdA7BBiuA.jpg",
+      "localImage": "assets/news/1cf23dcd132698.jpg",
       "score": 16
-    },
-    {
-      "id": "32b0bcf0a4c23d",
-      "category": "Økonomi",
-      "published": "02.09. 09:01",
-      "publishedISO": "2026-09-02T09:01:57+02:00",
-      "title": "BW LPG falt kraftig på Oslo Børs",
-      "summary": "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg. Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront. BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
-      "keyPoints": [
-        "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg.",
-        "Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront.",
-        "BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
-        "Olje- og gassprisene har tatt seg kraftig opp de siste dagene, etter angrep og økende uro i Midtøsten."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/436004e3-a25a-3575-9fe0-3af1c1db6b7b?fit=crop&h=675&upscale=true&w=1200&s=0afe0436fef9c1a0a065fcdb575ae8acbd791198",
-      "localImage": "assets/news/32b0bcf0a4c23d.jpg",
-      "score": 15
     }
   ]
 }
