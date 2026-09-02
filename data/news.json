@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 08:59",
-  "updatedISO": "2026-09-02T08:59:41.769097+02:00",
+  "updatedAt": "02.09.2026 kl. 09:18",
+  "updatedISO": "2026-09-02T09:18:54.366280+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -20,7 +20,7 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/tromsogfinnmark/flere-sma-leirskred-over-e6-i-alta-1.18011313",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/54pVGIgMp5m2YHwCwlmUxA-OG3Pv_FPlVIwhDRZOtiNA.jpg",
+      "image": "https://gfx.nrk.no/5TEu9FClovk1ygLTXba0IAyV5TDQo8t0q0psBJKVR6Mw.jpg",
       "localImage": "assets/news/b80bf7d85ee2ab.jpg",
       "score": 17
     },
@@ -67,6 +67,27 @@
       "score": 26
     },
     {
+      "id": "410a498f15639a",
+      "category": "Økonomi",
+      "published": "02.09. 09:01",
+      "publishedISO": "2026-09-02T09:01:57+02:00",
+      "title": "Oljeaksjer trekker Oslo Børs opp",
+      "summary": "Hovedindeksen på Oslo Børs er opp 0,49 prosent rett etter åpning onsdag. Det er opp fra rundt 92 dollar da Børsen stengte i går. Resultatsesongen er mer eller mindre over på Oslo Børs.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er opp 0,49 prosent rett etter åpning onsdag.",
+        "Det er opp fra rundt 92 dollar da Børsen stengte i går.",
+        "Resultatsesongen er mer eller mindre over på Oslo Børs.",
+        "Olje- og gassprisene har tatt seg kraftig opp de siste dagene, etter angrep og økende uro i Midtøsten."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/436004e3-a25a-3575-9fe0-3af1c1db6b7b?fit=crop&h=675&upscale=true&w=1200&s=0afe0436fef9c1a0a065fcdb575ae8acbd791198",
+      "localImage": "assets/news/410a498f15639a.jpg",
+      "score": 23
+    },
+    {
       "id": "9dabd5b1c1405d",
       "category": "Økonomi",
       "published": "02.09. 08:00",
@@ -90,15 +111,15 @@
     {
       "id": "9c14f03bec8e67",
       "category": "Verden",
-      "published": "02.09. 08:50",
-      "publishedISO": "2026-09-02T08:50:06+02:00",
+      "published": "02.09. 09:01",
+      "publishedISO": "2026-09-02T09:01:13+02:00",
       "title": "Bus crash kills 16 on Egypt's Red Sea coast",
-      "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Se vårt utvalg av enestående klipp fra hele BBC Iran angriper amerikanske baser i Midtøsten etter rapporter om at amerikansk streik drepte fem på bryllupsfesten Burnham for å møte de første PMQ-ene mens rådgiveren advarer om at gjeldskostnader vil tvinge regjeringen til å \"bli ekte\" Chris Mason: Vil Burnham finne PMQ-er som \"neglebiting\" og \"nervepirrende\" som Blair gjorde?",
+      "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
       "keyPoints": [
         "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
         "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
-        "Se vårt utvalg av enestående klipp fra hele BBC Iran angriper amerikanske baser i Midtøsten etter rapporter om at amerikansk streik drepte fem på bryllupsfesten Burnham for å møte de første PMQ-ene mens rådgiveren advarer om at gjeldskostnader vil tvinge regjeringen til å \"bli ekte\" Chris Mason: Vil Burnham finne PMQ-er som \"neglebiting\" og \"nervepirrende\" som Blair gjorde?",
-        "Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, opplyser departementet."
+        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
+        "Se vårt utvalg av enestående klipp fra hele BBC Iran angriper amerikanske baser i Midtøsten etter rapporter om at amerikansk streik drepte fem på bryllupsfesten Burnham for å møte de første PMQ-ene mens rådgiveren advarer om at gjeldskostnader vil tvinge regjeringen til å \"bli ekte\" Chris Mason: Vil Burnham finne PMQ-er som \"neglebiting\" og \"nervepirrende\" som Blair gjorde?"
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -172,7 +193,7 @@
       "score": 13
     },
     {
-      "id": "081aba68a3e3a1",
+      "id": "00862f9aacdd98",
       "category": "Verden",
       "published": "02.09. 07:03",
       "publishedISO": "2026-09-02T07:03:09+02:00",
@@ -189,28 +210,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96b7/live/025c25f0-a61a-11f1-9ca2-a3e18de91b7b.jpg",
-      "localImage": "assets/news/081aba68a3e3a1.jpg",
-      "score": 13
-    },
-    {
-      "id": "6ed972ebba7085",
-      "category": "Norge",
-      "published": "02.09. 06:18",
-      "publishedISO": "2026-09-02T06:18:01+02:00",
-      "title": "Fra trålerliv i nord til Kongeskipet «Norge»",
-      "summary": "Plutselig sto den unge tromsøværingen i de kongelige gemakkene på Kongeskipet «Norge» – livredd for å trå feil. Jon-Steve Ballovarre lærte lederskap og god humor om bord på Kongeskipet «Norge» på 90-tallet. Jon-Steve Ballovarre byttet ut tøft trålerliv i nord med etikette og protokoll på Kongeskipet Norge.",
-      "keyPoints": [
-        "Jon-Steve Ballovarre byttet ut tøft trålerliv i nord med etikette og protokoll på Kongeskipet Norge.",
-        "Jon-Steve Ballovarre lærte lederskap og god humor om bord på Kongeskipet «Norge» på 90-tallet.",
-        "Plutselig sto den unge tromsøværingen i de kongelige gemakkene på Kongeskipet «Norge» – livredd for å trå feil.",
-        "Fra januar 1995 til desember 1997 hadde jeg den store æren av å tjenestegjøre om bord på Kongeskipet Norge."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/fra-tralerliv-i-nord-til-kongeskipet-_norge_-1.18010862",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/96pBRF9M0XmOIwV8CC_p6Q_4hz554EsSbsGinzTGaeHQ.jpg",
-      "localImage": "assets/news/6ed972ebba7085.jpg",
+      "localImage": "assets/news/00862f9aacdd98.jpg",
       "score": 13
     }
   ]
