@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 17:57",
-  "updatedISO": "2026-09-02T17:57:36.720856+02:00",
+  "updatedAt": "02.09.2026 kl. 18:16",
+  "updatedISO": "2026-09-02T18:16:34.948036+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,48 +25,6 @@
       "score": 17
     },
     {
-      "id": "712155b60ca093",
-      "category": "Verden",
-      "published": "02.09. 16:34",
-      "publishedISO": "2026-09-02T16:34:22+02:00",
-      "title": "EU og NATO lover å øke presset på Russland etter «ny eskalering» i Leipzig",
-      "summary": "Russland har avvist tyske anklager om at en drone som fraktet eksplosiver bevisst målrettet et ukrainsk lastefly 4. august. Rosenberg: Putins tilslørte trussel mot Storbritannia en del av Russlands kampanje mot Vest-Tyskland sier Russland bak droneangrepet på Leipzig flyplass Zelensky sier at flyselskapene bør unngå russisk luftrom ettersom Ukraina eskalerer droneoperasjoner Von der Leyen var tydelig i sin uttalelse at Leipzig-angrepet hadde involvert \"militært materiale utført av russiske operatører på EU-jord\". Hun lovet at Europa og Nato bare ville opprettholde presset på Moskva, men \"vi vil øke det og vi vil ikke stoppe, ikke før Russland slutter å bombe og drepe uskyldige barn, menn og barn i Ukraina\".",
-      "keyPoints": [
-        "Rosenberg: Putins tilslørte trussel mot Storbritannia en del av Russlands kampanje mot Vest-Tyskland sier Russland bak droneangrepet på Leipzig flyplass Zelensky sier at flyselskapene bør unngå russisk luftrom ettersom Ukraina eskalerer droneoperasjoner Von der Leyen var tydelig i sin uttalelse at Leipzig-angrepet hadde involvert \"militært materiale utført av russiske operatører på EU-jord\".",
-        "Hun lovet at Europa og Nato bare ville opprettholde presset på Moskva, men \"vi vil øke det og vi vil ikke stoppe, ikke før Russland slutter å bombe og drepe uskyldige barn, menn og barn i Ukraina\".",
-        "Russland har avvist tyske anklager om at en drone som fraktet eksplosiver bevisst målrettet et ukrainsk lastefly 4. august.",
-        "Det russiske huset i Berlin skal stenge som en del av Tysklands svar på Leipzig-angrepet. Berlin har sagt at det vil stenge det russiske konsulatet i Bonn samt det russiske husets kulturinstitusjon, som er allment mistenkt i Berlin for å fungere som et propagandautsalg for Kreml."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
-      "localImage": "assets/news/712155b60ca093.jpg",
-      "score": 17
-    },
-    {
-      "id": "ab2a90ae962b1b",
-      "category": "USA",
-      "published": "01.09. 18:35",
-      "publishedISO": "2026-09-01T18:35:28+02:00",
-      "title": "Trump says US position on Falklands 'one of many' under review",
-      "summary": "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene. Det er bare en av mange.\" Trumps uttalelser ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset. Det hvite hus forsvarer Argentina-teamet over Falklands-banneret Storbritannia sier at Falklandsøyene 'definitivt våre' kunne nedprioritere Argentinas bannere, etter at Argentina-rapporten US-rapporten hevder.",
-      "keyPoints": [
-        "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene.",
-        "Det er bare en av mange.\" Trumps kommentarer ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset.",
-        "White House defends Argentina team over Falklands banner UK says Falkland Islands 'definitely ours' after Argentina banner Rubio downplays reports US could review UK's claim to Falklands",
-        "Trump snakket med journalister mandag, og ble spurt av BBC om han gjennomgikk USAs posisjon på Falklandsøyene."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/ab2a90ae962b1b.jpg",
-      "score": 13
-    },
-    {
       "id": "acebcaf050de4e",
       "category": "Økonomi",
       "published": "01.09. 09:01",
@@ -86,27 +44,6 @@
       "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
       "localImage": "assets/news/acebcaf050de4e.jpg",
       "score": 24
-    },
-    {
-      "id": "9dabd5b1c1405d",
-      "category": "Økonomi",
-      "published": "02.09. 08:00",
-      "publishedISO": "2026-09-02T08:00:11+02:00",
-      "title": "Nordea Markets: Ingen rentekutt før 2028",
-      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-      "keyPoints": [
-        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
-        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
-        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
-      "localImage": "assets/news/9dabd5b1c1405d.jpg",
-      "score": 21
     },
     {
       "id": "db72a83cf7708b",
@@ -130,25 +67,25 @@
       "score": 20
     },
     {
-      "id": "52201cdd9ed1f5",
-      "category": "Verden",
-      "published": "02.09. 15:16",
-      "publishedISO": "2026-09-02T15:16:26+02:00",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "summary": "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky. De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det. Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
+      "id": "9dabd5b1c1405d",
+      "category": "Økonomi",
+      "published": "02.09. 08:00",
+      "publishedISO": "2026-09-02T08:00:11+02:00",
+      "title": "Nordea Markets: Ingen rentekutt før 2028",
+      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
       "keyPoints": [
-        "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky.",
-        "Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
-        "De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det.",
-        "Russland som er ansvarlig for nedskytingen av MH17, FN-organet styrer Putin beklager flyulykken i Aserbajdsjan, uten å si at Russland er skyld i Storbritannia \"støtter Ukraina 100%\", sier Burnham, etter Russlands droneadvarsel"
+        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
+        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
+        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg",
-      "localImage": "assets/news/52201cdd9ed1f5.jpg",
-      "score": 17
+      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
+      "localImage": "assets/news/9dabd5b1c1405d.jpg",
+      "score": 20
     },
     {
       "id": "91711ffb5b1e78",
@@ -212,6 +149,69 @@
       "image": "https://gfx.nrk.no/plSALBWVysx_VWoaShZJkARqHiNMfmRhTIh_nYPP_XKA.jpg",
       "localImage": "assets/news/46bc63792f862c.webp",
       "score": 15
+    },
+    {
+      "id": "85a1fb0f914922",
+      "category": "Økonomi",
+      "published": "02.09. 17:22",
+      "publishedISO": "2026-09-02T17:22:28+02:00",
+      "title": "Konkurs etter 42 år: – Trist",
+      "summary": "Mandag begjærte selskapet selv oppbud, og Oslo tingrett åpnet konkurs samme dag. – Det er trist at et selskap som ble startet på 80-tallet i Oslo, går konkurs, sier styreleder Leonhard Ove Øvregård til E24. I juli 2026 mistet 25 personer jobben etter at møbelprodusenten Formfin Møbler AS fra Sykkylven kommune gikk konkurs etter 80 år. I november i fjor gikk også møbelprodusenten Langlo AS konkurs etter over 100 år, og 40 ansatte mistet jobben.",
+      "keyPoints": [
+        "Mandag begjærte selskapet selv oppbud, og Oslo tingrett åpnet konkurs samme dag. – Det er trist at et selskap som ble startet på 80-tallet i Oslo, går konkurs, sier styreleder Leonhard Ove Øvregård til E24.",
+        "I juli 2026 mistet 25 personer jobben etter at møbelprodusenten Formfin Møbler AS fra Sykkylven kommune gikk konkurs etter 80 år.",
+        "I november i fjor gikk også møbelprodusenten Langlo AS konkurs etter over 100 år, og 40 ansatte mistet jobben.",
+        "Når et selskap går konkurs, dukker det gjerne opp gjeld man ikke hadde oversikt over på forhånd, sier han."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/6qKpQ3/konkurs-etter-42-aar-trist",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/96d9b0f2-4e79-391f-b509-1f4d9b20b9f8?fit=crop&h=675&upscale=true&w=1200&s=5fa62d747c36de8a406a7782cf36ce9c7f003c1e",
+      "localImage": "assets/news/85a1fb0f914922.jpg",
+      "score": 13
+    },
+    {
+      "id": "6804a08acdb4e6",
+      "category": "Norge",
+      "published": "02.09. 15:46",
+      "publishedISO": "2026-09-02T15:46:01+02:00",
+      "title": "Hevder han nesten ikke hørte brannalarmen da hotellet begynte å brenne i Øksfjord",
+      "summary": "Johannes Kristoffersen hørte så vidt brannalarmen da hotellet i Øksfjord begynte å brenne. Det ble dramatisk da det begynte å brenne på hotellet i Øksfjord natt til tirsdag. 15 personer var inne i hotellet i Øksfjord i Finnmark da det begynte å brenne natt til tirsdag.",
+      "keyPoints": [
+        "Johannes Kristoffersen hørte så vidt brannalarmen da hotellet i Øksfjord begynte å brenne.",
+        "15 personer var inne i hotellet i Øksfjord i Finnmark da det begynte å brenne natt til tirsdag.",
+        "En annen hotellgjest, som ønsker å være anonym, sier at han sov og ikke hørte brannalarmen.",
+        "Kristoffersen forteller videre at han hørte masse banking på dørene og roping i gangene. – Da skjønte jeg at her var det bare å få på seg klærne og få liv i kollegaen og komme oss ut, sier han."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/hevder-han-nesten-ikke-horte-brannalarmen-da-hotellet-begynte-a-brenne-i-oksfjord-1.18011234",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ZKi48EagcvGN1BiuOHG3VAaCsZK6NaNKCCGJjdDKuseA.jpg",
+      "localImage": "assets/news/6804a08acdb4e6.jpg",
+      "score": 13
+    },
+    {
+      "id": "0d978fd04362d8",
+      "category": "Økonomi",
+      "published": "02.09. 15:31",
+      "publishedISO": "2026-09-02T15:31:28+02:00",
+      "title": "Dell rykker til på Wall Street etter AI-boom",
+      "summary": "Markedene åpner forsiktig etter at oljeprisen fortsetter å ligge på nivåer rundt 94 dollar. Slik ser det ut for noen av de ledende indeksene like etter åpning: Den amerikanske 10-åringen har steget gjennom uken til 4,79 prosent onsdag. Mandag lå «verdens viktigste» rente på rundt 4,71 prosent. – Høyere renter viser seg å bli aksjemarkedets bane.",
+      "keyPoints": [
+        "Slik ser det ut for noen av de ledende indeksene like etter åpning: Den amerikanske 10-åringen har steget gjennom uken til 4,79 prosent onsdag.",
+        "Mandag lå «verdens viktigste» rente på rundt 4,71 prosent. – Høyere renter viser seg å bli aksjemarkedets bane.",
+        "Markedene åpner forsiktig etter at oljeprisen fortsetter å ligge på nivåer rundt 94 dollar.",
+        "Uber reduserer antall ansatte i selskapet med 10 prosent, skriver CNBC."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/zOXAbK/smaa-utslag-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e2f2bde7-e1bb-345d-abb5-013a15c538df?fit=crop&h=675&upscale=true&w=1200&s=17179c6eacdf800a6ebb678d2fb0ca4d9355e6ef",
+      "localImage": "assets/news/0d978fd04362d8.jpg",
+      "score": 13
     }
   ]
 }
