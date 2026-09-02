@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 02:19",
-  "updatedISO": "2026-09-02T02:19:33.783107+02:00",
+  "updatedAt": "02.09.2026 kl. 02:44",
+  "updatedISO": "2026-09-02T02:44:49.355755+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,6 +25,48 @@
       "score": 15
     },
     {
+      "id": "ab2a90ae962b1b",
+      "category": "Verden",
+      "published": "01.09. 18:35",
+      "publishedISO": "2026-09-01T18:35:28+02:00",
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "summary": "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene. Det er bare en av mange.\" Trumps uttalelser ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset. Det hvite hus forsvarer Argentina-teamet over Falklands-banneret Storbritannia sier at Falklandsøyene 'definitivt våre' kunne nedprioritere Argentinas bannere, etter at Argentina-rapporten US-rapporten hevder.",
+      "keyPoints": [
+        "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene.",
+        "Det er bare en av mange.\" Trumps kommentarer ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset.",
+        "White House defends Argentina team over Falklands banner UK says Falkland Islands 'definitely ours' after Argentina banner Rubio downplays reports US could review UK's claim to Falklands",
+        "Trump snakket med journalister mandag, og ble spurt av BBC om han gjennomgikk USAs posisjon på Falklandsøyene."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/ab2a90ae962b1b.jpg",
+      "score": 16
+    },
+    {
+      "id": "a3772e8efd4af5",
+      "category": "USA",
+      "published": "01.09. 19:36",
+      "publishedISO": "2026-09-01T19:36:44+02:00",
+      "title": "How a small island in Canada appeared, vanished, and was found again",
+      "summary": "Den flytende øya ble først oppdaget av båtfolk i midten av august. En liten, flytende øy ved en innsjø i den kanadiske provinsen British Columbia har blitt oppdaget igjen etter at tjenestemenn mistet oversikten over den på satellittbilder etter den første oppdagelsen. Den skogkledde øya ble først oppdaget midt i Williston Reservoir, BCs største ferskvannsinnsjø, tidlig i august av båtfolk som fanget scenen i en video som siden har blitt viralt. Øya så imidlertid ut til å ha forsvunnet på et satellittbilde tatt bare noen uker senere 5. august.",
+      "keyPoints": [
+        "Den flytende øya ble først oppdaget av båtfolk i midten av august. En liten, flytende øy ved en innsjø i den kanadiske provinsen British Columbia har blitt oppdaget igjen etter at tjenestemenn mistet oversikten over den på satellittbilder etter den første oppdagelsen.",
+        "Øya så imidlertid ut til å ha forsvunnet på et satellittbilde tatt bare noen uker senere 5. august.",
+        "Den skogkledde øya ble først oppdaget midt i Williston Reservoir, BCs største ferskvannsinnsjø, tidlig i august av båtfolk som fanget scenen i en video som siden har blitt viralt.",
+        "Øya, sa han, ser ut til å bare ha drevet mot land og landet rundt 30 km (18,6 miles) fra der den først ble oppdaget."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a487/live/3b0ddbf0-a629-11f1-b384-1f35d0eeee9d.jpg",
+      "localImage": "assets/news/a3772e8efd4af5.jpg",
+      "score": 12
+    },
+    {
       "id": "acebcaf050de4e",
       "category": "Økonomi",
       "published": "01.09. 09:01",
@@ -46,25 +88,67 @@
       "score": 27
     },
     {
-      "id": "6acc8130bc5604",
+      "id": "ec01d8f708c643",
       "category": "Økonomi",
-      "published": "01.09. 08:10",
-      "publishedISO": "2026-09-01T08:10:00+02:00",
-      "title": "DNO vil kjøpe oljeselskapet Capricorn",
-      "summary": "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner. Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
+      "published": "02.09. 01:43",
+      "publishedISO": "2026-09-02T01:43:47+02:00",
+      "title": "Range Rover launches first fully electric model",
+      "summary": "Prototypens lansering kommer etter at eieren JLR rapporterte fallende fortjeneste og forstyrrelser i forsyningskjeden Range Rover har avduket sin første helelektriske modell, etter et år lang forsinkelse til den planlagte lanseringen. Range Rover Electric, som skal bygges i Solihull, markerer et stort skifte i elektrifiseringsprogrammet, støttet av storskala oppgraderinger på tvers av West Midlands-anleggene. Martin Limpert, administrerende direktør i Range Rover, kalte den nye modellen resultatet av et tiår med \"betraktet ingeniørkunst\".",
       "keyPoints": [
-        "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
-        "Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
-        "Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner.",
-        "Den 2. juli i år kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av sistnevnte fra Genel."
+        "Prototypens lansering kommer etter at eieren JLR rapporterte fallende fortjeneste og forstyrrelser i forsyningskjeden Range Rover har avduket sin første helelektriske modell, etter et år lang forsinkelse til den planlagte lanseringen.",
+        "The Range Rover Electric, to be built in Solihull, marks a major shift in its electrification programme, backed by large‑scale upgrades across its West Midlands sites.",
+        "Martin Limpert, administrerende direktør i Range Rover, kalte den nye modellen resultatet av et tiår med \"betraktet ingeniørkunst\".",
+        "JLRs elektriske utrulling kommer etter et turbulent år med overskudd som falt til 66 millioner pund i første kvartal etter en brann hos en viktig norsk leverandør."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
-      "localImage": "assets/news/6acc8130bc5604.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
+      "localImage": "assets/news/ec01d8f708c643.jpg",
       "score": 13
+    },
+    {
+      "id": "67501769a2f4b3",
+      "category": "AI",
+      "published": "02.09. 02:36",
+      "publishedISO": "2026-09-02T02:36:24+02:00",
+      "title": "Apple Maps changes Lake Ontario to Lake America after Trump order",
+      "summary": "Kanadiske tjenestemenn plasserte nye skilt ved innsjøen etter Trumps eksekutive ordre, og erklærte at den alltid ville bli kalt Lake Ontario Apple har omdøpt Lake Ontario til Lake America på sin karttjeneste-app, etter en ordre fra USAs president Donald Trump som en del av Washingtons handelssprang med Canada. Iphone-produsentens trekk følger Trumps ordre om å endre innsjøens navn etter at handelssamtaler mellom nabolandene kollapset i slutten av forrige måned, med Washington som innførte nye 50 % toll på 20 milliarder dollar (14,8 milliarder pund; C$28 milliarder) av kanadiske varer. Lake Ontario har blitt omdøpt til \"Lake America\" ​​for amerikanske brukere av Apple Maps-appen",
+      "keyPoints": [
+        "Kanadiske tjenestemenn plasserte nye skilt ved innsjøen etter Trumps eksekutive ordre, og erklærte at den alltid ville bli kalt Lake Ontario Apple har omdøpt Lake Ontario til Lake America på sin karttjeneste-app, etter en ordre fra USAs president Donald Trump som en del av Washingtons handelssprang med Canada.",
+        "Iphone-produsentens trekk følger Trumps ordre om å endre innsjøens navn etter at handelssamtaler mellom nabolandene kollapset i slutten av forrige måned, med Washington som innførte nye 50 % toll på 20 milliarder dollar (14,8 milliarder pund; C$28 milliarder) av kanadiske varer.",
+        "Endringen ble gjort for USA-baserte brukere, mens de i Canada vil fortsette å se Lake Ontario vist.",
+        "Statsminister Mark Carneys kontor hadde gått bort fra handelsforhandlingene, på grunn av det hans kontor har kalt uakseptable krav."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b18/live/6eb4be50-a666-11f1-90d2-0182ea6e613d.jpg",
+      "localImage": "assets/news/67501769a2f4b3.jpg",
+      "score": 21
+    },
+    {
+      "id": "64381b9105f254",
+      "category": "Verden",
+      "published": "01.09. 13:55",
+      "publishedISO": "2026-09-01T13:55:51+02:00",
+      "title": "Ukraine war: What to make of Modi's plea to Putin to end conflict",
+      "summary": "Se: Modi forteller Putin «gå videre fra en endeløs krig til en slutt på krig» Russlands president Vladimir Putin har blitt oppfordret av Indias statsminister Narendra Modi, en nær alliert, til å avslutte Moskvas krig mot Ukraina. \"Hver dag brukt i krig presser menneskeheten tilbake, og hvert skritt som tas mot fred fyller menneskeheten med nytt håp og entusiasme,\" sa Modi mandag. Modi, hvis lands økonomi er sterkt avhengig av rabattert olje fra Moskva, har kommet med flere lignende bønner til Putin siden han startet en fullskala invasjon av Ukraina i 2022. Faktisk, da han talte på sidelinjen av et regionalt toppmøte i 2022 – mindre enn ett år inn i konflikten – sa Modi til Putin offentlig at «nå er ikke tiden for krig».",
+      "keyPoints": [
+        "Se: Modi forteller Putin «gå videre fra en endeløs krig til en slutt på krig» Russlands president Vladimir Putin har blitt oppfordret av Indias statsminister Narendra Modi, en nær alliert, til å avslutte Moskvas krig mot Ukraina. \"Hver dag brukt i krig presser menneskeheten tilbake, og hvert skritt som tas mot fred fyller menneskeheten med nytt håp og entusiasme,\" sa Modi mandag.",
+        "Faktisk, da han talte på sidelinjen av et regionalt toppmøte i 2022 – mindre enn ett år inn i konflikten – sa Modi til Putin offentlig at «nå er ikke tiden for krig».",
+        "Modi, hvis lands økonomi er sterkt avhengig av rabattert olje fra Moskva, har kommet med flere lignende bønner til Putin siden han startet en fullskala invasjon av Ukraina i 2022.",
+        "Dette er ikke første gang en utenlandsk leder offentlig har oppfordret Putin til å avslutte krigen i Ukraina."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e98/live/59804970-a5fb-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/64381b9105f254.jpg",
+      "score": 15
     },
     {
       "id": "a50d4a795cd3b1",
@@ -109,109 +193,25 @@
       "score": 14
     },
     {
-      "id": "bee4fd54fde69d",
-      "category": "Norge",
-      "published": "01.09. 22:30",
-      "publishedISO": "2026-09-01T22:30:38+02:00",
-      "title": "Økt pågang hos Mental Helse etter kong Haralds bortgang",
-      "summary": "Etter kong Haralds bortgang har Mental Helse fått flere henvendelser enn normalt. Det finnes flere hjelpetelefoner, chat- og meldingstjenester for deg som trenger noen å snakke med: Hos hjelpetjenesten Mental Helse har de merket stor pågang på telefon og chat etter kong Haralds dødsfall. Landsleder i Mental Helse, Ole Marius Minde Johnsen, sier de merket stor pågang på telefon og chat etter kong Haralds dødsfall.",
+      "id": "cbfaeb6b960d5c",
+      "category": "Verden",
+      "published": "01.09. 08:02",
+      "publishedISO": "2026-09-01T08:02:27+02:00",
+      "title": "Nepal-flom: Den avsidesliggende grenseovergangen mellom Nepal og Kina i hjertet av en tragedie i Himalaya",
+      "summary": "Elektroniske immigrasjonsregistreringer fra Nepals grensepost Rasuwagadhi fyller noen hull, i tillegg til innsikt fra den eneste gjenlevende medarbeideren. CCTV-opptak viser folk som flykter mens gjørme og vann oppsluker bygninger ved grensen mellom Nepal og Kina i Gyirong 26. august. Immigrasjonssystemet registrerte sin endelige transaksjon klokken 08:35:03 lokal tid (10:52 tibettid), mindre enn 10 minutter før strømmen dukket opp på CCTV-opptakene på Gyirong. Flom i Rasuwagadhi ødela Friendship Bridge, veier og en vannkraftstasjon, og feide bort kjøretøyer i Rasuwa, Nepal, i juli i fjor. Da Pokharel ringte en kollega klokken 08:20 den morgenen, ble han fortalt at krysset var uvanlig travelt.",
       "keyPoints": [
-        "Det finnes flere hjelpetelefoner, chat- og meldingstjenester for deg som trenger noen å snakke med: Hos hjelpetjenesten Mental Helse har de merket stor pågang på telefon og chat etter kong Haralds dødsfall.",
-        "Landsleder i Mental Helse, Ole Marius Minde Johnsen, sier de merket stor pågang på telefon og chat etter kong Haralds dødsfall.",
-        "Etter kong Haralds bortgang har Mental Helse fått flere henvendelser enn normalt.",
-        "Sorgen av å miste Bjørn, kom på nytt til overflaten, da kong Harald gikk bort. – Jeg er en sånn person som prøver å skjule følelser."
+        "CCTV-opptak viser folk som flykter mens gjørme og vann oppsluker bygninger ved grensen mellom Nepal og Kina i Gyirong 26. august. Immigrasjonssystemet registrerte sin endelige transaksjon klokken 08:35:03 lokal tid (10:52 tibettid), mindre enn 10 minutter før strømmen dukket opp på CCTV-opptakene på Gyirong.",
+        "Elektroniske immigrasjonsregistreringer fra Nepals grensepost Rasuwagadhi fyller noen hull, i tillegg til innsikt fra den eneste gjenlevende medarbeideren.",
+        "Flom i Rasuwagadhi ødela Friendship Bridge, veier og en vannkraftstasjon, og feide bort kjøretøyer i Rasuwa, Nepal, i juli i fjor. Da Pokharel ringte en kollega klokken 08:20 den morgenen, ble han fortalt at krysset var uvanlig travelt.",
+        "Klokken 08:37 – mindre enn to minutter etter at immigrasjonssystemet registrerte sin endelige transaksjon – oppdaget seismiske instrumenter bevegelse i fjellene over grensen, ifølge en tidslinje utarbeidet av Nepals senter for hydrologi og vannressursforskning."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/okt-pagang-hos-mental-helse-etter-kong-haralds-bortgang-1.18010657",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BH6QyYJf6vNcwICAniKPmgG94C0Z6xYm8nQCKo-2ilWw.jpg",
-      "localImage": "assets/news/bee4fd54fde69d.jpg",
-      "score": 13
-    },
-    {
-      "id": "90d538c13d66cd",
-      "category": "Norge",
-      "published": "01.09. 22:29",
-      "publishedISO": "2026-09-01T22:29:26+02:00",
-      "title": "Dette veit vi om det som skjedde under flaumen i Nepal",
-      "summary": "Sju minutt etter skredet gjekk er grensestasjonen mellom Tibet og Nepal eitt av dei første bygga som blir teken av flaumen. Vidare heldt den overfløymde elva fram sørover i Nepal, i høg fart. Is- og breskredet i Nepal var så stort og kraftig at det gav utslag på seismiske rørsler tilsvarande eit jordskjelv på 5,2.",
-      "keyPoints": [
-        "Sju minutt etter skredet gjekk er grensestasjonen mellom Tibet og Nepal eitt av dei første bygga som blir teken av flaumen.",
-        "Is- og breskredet i Nepal var så stort og kraftig at det gav utslag på seismiske rørsler tilsvarande eit jordskjelv på 5,2.",
-        "Vidare heldt den overfløymde elva fram sørover i Nepal, i høg fart.",
-        "Dette er det forskarane meiner skjedde dei dramatiske minutta."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/dette-veit-vi-om-det-som-skjedde-under-flaumen-i-nepal-1.18008824",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/iTki8ngjEL-yUHa-XKlSLQ1muw-pMajMHfKXakqUDCAQ.jpg",
-      "localImage": "assets/news/90d538c13d66cd.jpg",
-      "score": 13
-    },
-    {
-      "id": "fa31ee6fe1eb3c",
-      "category": "Norge",
-      "published": "01.09. 21:11",
-      "publishedISO": "2026-09-01T21:11:22+02:00",
-      "title": "Debatten raste på 60-tallet: Ville ikke ha Sonja som dronning",
-      "summary": "Kongen sendte ut en pressemelding for å avkrefte ryktene, og en redaktør slo fast at Sonja aldri ville bli dronning. Dronning Sonja foran slottet og folkehavet mandag 31. august. VG krevde at kronprins Harald måtte glemme Sonja og sette hensynet til landet først: « ... det er Deres Kongelige Høyhets plikt å leve umenneskelig i den forstand det er kommet til uttrykk i dette brev». «Det kan høres veldig demokratisk ut med en borgerlig født dronning, men hvis man får et kongehus spedd opp med grosserere og skipsredere som skal ha arverett til tronen, da blir det hele ytterst betenkelig».",
-      "keyPoints": [
-        "Kongen sendte ut en pressemelding for å avkrefte ryktene, og en redaktør slo fast at Sonja aldri ville bli dronning.",
-        "Dronning Sonja foran slottet og folkehavet mandag 31. august.",
-        "VG krevde at kronprins Harald måtte glemme Sonja og sette hensynet til landet først: « ... det er Deres Kongelige Høyhets plikt å leve umenneskelig i den forstand det er kommet til uttrykk i dette brev». «Det kan høres veldig demokratisk ut med en borgerlig født dronning, men hvis man får et kongehus spedd opp med grosserere og skipsredere som skal ha arverett til tronen, da blir det hele ytterst betenkelig».",
-        "Med hånda på hjertet skuet dronning Sonja utover blomsterhavet og en klappende folkemengde."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/debatten-raste-pa-60-tallet_-ville-ikke-ha-sonja-som-dronning-1.18009125",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2A5-SyNRTPpLkEYTntxZjwENvIb8e2WMRmoWcmp3yeSg.png",
-      "localImage": "assets/news/fa31ee6fe1eb3c.png",
-      "score": 12
-    },
-    {
-      "id": "ffa87bf9ad7790",
-      "category": "Norge",
-      "published": "01.09. 21:00",
-      "publishedISO": "2026-09-01T21:00:20+02:00",
-      "title": "Fjerner norsk avgiftskutt på drivstoff – svensker vil gjøre kuttene permanente",
-      "summary": "Sverigedemokraterna og andre svenske partier vil videreføre kutt og billigere drivstoff. Fredrik Eriksson i Sverigedemokraterna mener avgiftskutt er viktig for både det svenske folket og den svenske økonomien. Flere partier, deriblant partiet til Eriksson, går til valg på at avgiftskuttene på drivstoff skal videreføres. – Høye drivstoffpriser rammer husholdningene, det rammer økonomien, det gir høyere inflasjon.",
-      "keyPoints": [
-        "Fredrik Eriksson i Sverigedemokraterna mener avgiftskutt er viktig for både det svenske folket og den svenske økonomien.",
-        "Flere partier, deriblant partiet til Eriksson, går til valg på at avgiftskuttene på drivstoff skal videreføres. – Høye drivstoffpriser rammer husholdningene, det rammer økonomien, det gir høyere inflasjon.",
-        "Sverigedemokraterna og andre svenske partier vil videreføre kutt og billigere drivstoff.",
-        "Det er over ti kroner å spare per liter dersom du fyller tanken i Sverige istedenfor i Norge."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/fjerner-norsk-avgiftskutt-pa-drivstoff-_-svensker-vil-gjore-kuttene-permanente-1.18009958",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0ZvfkwR8js0s_yS1OXIVUQeXJTK5epWTI0kXAGBLX_sw.jpg",
-      "localImage": "assets/news/ffa87bf9ad7790.jpg",
-      "score": 12
-    },
-    {
-      "id": "5c9564ecf1e3f7",
-      "category": "Norge",
-      "published": "01.09. 20:06",
-      "publishedISO": "2026-09-01T20:06:17+02:00",
-      "title": "Høiby i båreseremoni skaper debatt i utlandet",
-      "summary": "Dansk kommentator hevder kongehuset er likegyldig til de fornærmede i straffesaken mot Marius Borg Høiby. FØRTE BÅREN: Kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, prinsesse Märtha Louise og hennes døtre, Maud Angelica Behn, Leah Behn, og Emma Tallulah Behn, og Marius Borg Høiby. – Signalet er rystende, men ikke til å ta feil av: Det norske kongehuset er likegyldig til ofrene for Marius' lovbrudd. Uttalelsene er en reaksjon på at Marius Borg Høiby var med på å føre kong Haralds båre gjennom Slottet mandag.",
-      "keyPoints": [
-        "FØRTE BÅREN: Kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, prinsesse Märtha Louise og hennes døtre, Maud Angelica Behn, Leah Behn, og Emma Tallulah Behn, og Marius Borg Høiby. – Signalet er rystende, men ikke til å ta feil av: Det norske kongehuset er likegyldig til ofrene for Marius' lovbrudd.",
-        "Uttalelsene er en reaksjon på at Marius Borg Høiby var med på å føre kong Haralds båre gjennom Slottet mandag.",
-        "Dansk kommentator hevder kongehuset er likegyldig til de fornærmede i straffesaken mot Marius Borg Høiby.",
-        "Norske kongehuseksperter mener det er helt naturlig at Høiby fikk delta i båreseremonien. – Kong Harald og dronning Sonja behandlet Marius Borg Høiby på lik linje med de biologiske barnebarna, og han har kjent dem hele sitt bevisste liv."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/hoiby-i-bareseremoni-skaper-debatt-i-utlandet-1.18009753",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/W407ziJ1siMhg4WTUDBFCwIOo6mHs9mXIcS7C1oS1IAA.jpg",
-      "localImage": "assets/news/5c9564ecf1e3f7.jpg",
-      "score": 12
+      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/cbfaeb6b960d5c.jpg",
+      "score": 14
     }
   ]
 }
