@@ -1,28 +1,28 @@
 {
-  "updatedAt": "02.09.2026 kl. 12:45",
-  "updatedISO": "2026-09-02T12:45:13.848531+02:00",
+  "updatedAt": "02.09.2026 kl. 12:56",
+  "updatedISO": "2026-09-02T12:56:27.611971+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "b80bf7d85ee2ab",
+      "id": "46bc63792f862c",
       "category": "Norge",
-      "published": "02.09. 08:37",
-      "publishedISO": "2026-09-02T08:37:15+02:00",
-      "title": "Flere små leirskred over E6 i Alta",
-      "summary": "Det har gått flere jordskred i Alta det siste døgnet. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen. Statens vegvesen er observant på at de kan få inn flere meldinger. Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
+      "published": "02.09. 10:13",
+      "publishedISO": "2026-09-02T10:13:58+02:00",
+      "title": "Billigste svenskekrone på tre år",
+      "summary": "Krona styrker seg etter at oljeprisen passerte 96 dollar fatet. Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
       "keyPoints": [
-        "Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
-        "Det har gått flere jordskred i Alta det siste døgnet. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen.",
-        "Statens vegvesen er observant på at de kan få inn flere meldinger.",
-        "00:02:53 SPEAKER_00 Har det skjedd flere ganger i sommer og frem til nå?"
+        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
+        "Så billig har ikke den svenske krona vært siden september 2023.",
+        "Og alt det her føyer seg inn i rekken til å bygge opp frykten for at sentralbankene er nødt til å heve renten ytterligere for å banke ned inflasjonen, forklarer Chen. – Så det er billig å dra til Sverige og handle akkurat nå, men det vil bli dyrere på sikt? – Nå vil kanskje kronen faktisk hjelpe litt, at kronen styrker seg til å bli billigere med svenskehandel, men også svenskene vil jo oppleve høyere priser."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/flere-sma-leirskred-over-e6-i-alta-1.18011313",
+      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5TEu9FClovk1ygLTXba0IAyV5TDQo8t0q0psBJKVR6Mw.jpg",
-      "localImage": "assets/news/b80bf7d85ee2ab.jpg",
-      "score": 17
+      "image": "https://gfx.nrk.no/Wx7EeJT76_xWKe8_dA_kRARcMdMtvMBv-mI1NTRlQ1aQ.jpg",
+      "localImage": "assets/news/46bc63792f862c.webp",
+      "score": 16
     },
     {
       "id": "52201cdd9ed1f5",
@@ -109,6 +109,27 @@
       "score": 22
     },
     {
+      "id": "db72a83cf7708b",
+      "category": "Økonomi",
+      "published": "02.09. 12:51",
+      "publishedISO": "2026-09-02T12:51:46+02:00",
+      "title": "Vil eie mindre statsgjeld",
+      "summary": "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev. Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor. Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
+      "keyPoints": [
+        "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev.",
+        "Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor.",
+        "Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
+        "Fondet eier japanske statsobligasjoner for 252 milliarder og britisk statsgjeld for 194 milliarder."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/aJLWra/vil-eie-mindre-statsgjeld",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
+      "localImage": "assets/news/db72a83cf7708b.jpg",
+      "score": 21
+    },
+    {
       "id": "dc24ffbe5927e7",
       "category": "Økonomi",
       "published": "02.09. 09:01",
@@ -151,25 +172,25 @@
       "score": 17
     },
     {
-      "id": "46bc63792f862c",
-      "category": "Norge",
-      "published": "02.09. 10:13",
-      "publishedISO": "2026-09-02T10:13:58+02:00",
-      "title": "Billigste svenskekrone på tre år",
-      "summary": "Krona styrker seg etter at oljeprisen passerte 96 dollar fatet. Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+      "id": "0c76875b84a4bd",
+      "category": "Verden",
+      "published": "02.09. 12:49",
+      "publishedISO": "2026-09-02T12:49:22+02:00",
+      "title": "Bus crash kills 16 on Egypt's Red Sea coast",
+      "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, sa det egyptiske helsedepartementet.",
       "keyPoints": [
-        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
-        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
-        "Så billig har ikke den svenske krona vært siden september 2023.",
-        "Og alt det her føyer seg inn i rekken til å bygge opp frykten for at sentralbankene er nødt til å heve renten ytterligere for å banke ned inflasjonen, forklarer Chen. – Så det er billig å dra til Sverige og handle akkurat nå, men det vil bli dyrere på sikt? – Nå vil kanskje kronen faktisk hjelpe litt, at kronen styrker seg til å bli billigere med svenskehandel, men også svenskene vil jo oppleve høyere priser."
+        "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
+        "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
+        "Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, sa det egyptiske helsedepartementet.",
+        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Wx7EeJT76_xWKe8_dA_kRARcMdMtvMBv-mI1NTRlQ1aQ.jpg",
-      "localImage": "assets/news/46bc63792f862c.webp",
-      "score": 16
+      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f8b/live/56326370-a6aa-11f1-b109-879e35c24276.png",
+      "localImage": "assets/news/0c76875b84a4bd.png",
+      "score": 13
     },
     {
       "id": "5f29e0091bd0ad",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/4f_6jPkuGyqoUuR8dS_qLAqTOmA-tNsVfRe0TQdSH-eA.jpg",
       "localImage": "assets/news/5f29e0091bd0ad.jpg",
-      "score": 13
-    },
-    {
-      "id": "929f5ef97f7ecf",
-      "category": "Økonomi",
-      "published": "02.09. 12:15",
-      "publishedISO": "2026-09-02T12:15:30+02:00",
-      "title": "Drøyt 300 ansatte i Posten Bring mister jobben",
-      "summary": "Denne uken ble omfanget av den varslede nedbemanningen i Posten Bring kjent på et allmøte. Drøyt 300 stillinger forsvinner når konsernet i 2027 skal spisse seg mot kjernevirksomheten, skriver Fagbladet. Ifølge kommunikasjonsdirektør Kenneth Pettersen skal Posten både slutte med enkelte arbeidsoppgaver og endre måten det jobbes på. – Vi må i større grad utnytte ny tilgjengelig teknologi, samle fagmiljøer og dele på ressurser, sa Pettersen ifølge Fagbladet.",
-      "keyPoints": [
-        "Denne uken ble omfanget av den varslede nedbemanningen i Posten Bring kjent på et allmøte.",
-        "Ifølge kommunikasjonsdirektør Kenneth Pettersen skal Posten både slutte med enkelte arbeidsoppgaver og endre måten det jobbes på. – Vi må i større grad utnytte ny tilgjengelig teknologi, samle fagmiljøer og dele på ressurser, sa Pettersen ifølge Fagbladet.",
-        "Drøyt 300 stillinger forsvinner når konsernet i 2027 skal spisse seg mot kjernevirksomheten, skriver Fagbladet.",
-        "Konsernsjef Petter Børre Furberg har tidligere varslet at nedbemanning ville bli nødvendig for å nå kostnadsmålet på 25 prosent kutt."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BxdjkG/over-300-ansatte-i-posten-bring-mister-jobben",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1c825e53-c725-3c27-9603-d30c3ee89b9e?fit=crop&h=675&upscale=true&w=1200&s=cedba96fc9fa9dad68ae152cdf0449de8e220f47",
-      "localImage": "assets/news/929f5ef97f7ecf.jpg",
       "score": 13
     }
   ]
