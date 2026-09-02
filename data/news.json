@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 08:20",
-  "updatedISO": "2026-09-02T08:20:51.338108+02:00",
+  "updatedAt": "02.09.2026 kl. 08:45",
+  "updatedISO": "2026-09-02T08:45:51.975669+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,7 +88,49 @@
       "score": 22
     },
     {
-      "id": "e838e18e0751a7",
+      "id": "9c14f03bec8e67",
+      "category": "Verden",
+      "published": "02.09. 08:38",
+      "publishedISO": "2026-09-02T08:38:04+02:00",
+      "title": "Bus crash kills 16 on Egypt's Red Sea coast",
+      "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Se vårt utvalg av enestående klipp fra hele BBC Iran angriper amerikanske baser i Midtøsten etter rapporter om at amerikansk streik drepte fem på bryllupsfesten Burnham for å møte de første PMQ-ene mens rådgiveren advarer om at gjeldskostnader vil tvinge regjeringen til å \"bli ekte\" Chris Mason: Vil Burnham finne PMQ-er som \"neglebiting\" og \"nervepirrende\" som Blair gjorde?",
+      "keyPoints": [
+        "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
+        "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
+        "Se vårt utvalg av enestående klipp fra hele BBC Iran angriper amerikanske baser i Midtøsten etter rapporter om at amerikansk streik drepte fem på bryllupsfesten Burnham for å møte de første PMQ-ene mens rådgiveren advarer om at gjeldskostnader vil tvinge regjeringen til å \"bli ekte\" Chris Mason: Vil Burnham finne PMQ-er som \"neglebiting\" og \"nervepirrende\" som Blair gjorde?",
+        "Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, opplyser departementet."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "localImage": "assets/news/9c14f03bec8e67.png",
+      "score": 13
+    },
+    {
+      "id": "721fc5c3b5c06c",
+      "category": "Verden",
+      "published": "02.09. 08:26",
+      "publishedISO": "2026-09-02T08:26:35+02:00",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+      "summary": "Fartøyer var synlige over Hormuzstredet fra Oman denne uken Teheran har lansert missil- og droneangrep mot amerikanske mål i Jordan, Kuwait, Irak og Bahrain etter at amerikanske styrker gjenopptok angrep mot Iran tirsdag. Den iranske Røde Halvmåne sa at fem personer, inkludert et barn, ble drept og mer enn 50 skadet da splitter fra et amerikansk missilangrep traff et hjem der en bryllupsfeiring fant sted i Sirik i Sør-Iran. Iranske statlige medier og den iranske Røde Halvmåne rapporterte at sivile steder på Irans sørkyst hadde blitt bombet, med et barn blant de drepte ved en bryllupsseremoni i Sirik-fylket, som ligger ved Hormuzstredet.",
+      "keyPoints": [
+        "Den iranske Røde Halvmåne sa at fem personer, inkludert et barn, ble drept og mer enn 50 skadet da splitter fra et amerikansk missilangrep traff et hjem der en bryllupsfeiring fant sted i Sirik i Sør-Iran.",
+        "Iranske statlige medier og den iranske Røde Halvmåne rapporterte at sivile steder på Irans sørkyst hadde blitt bombet, med et barn blant de drepte ved en bryllupsseremoni i Sirik-fylket, som ligger ved Hormuzstredet.",
+        "Fartøyer var synlige over Hormuzstredet fra Oman denne uken Teheran har lansert missil- og droneangrep mot amerikanske mål i Jordan, Kuwait, Irak og Bahrain etter at amerikanske styrker gjenopptok angrep mot Iran tirsdag.",
+        "US Central Command (Centcom) sa at amerikanske angrep på Iran fulgte \"nylige forsøk på angrep\" fra Irans elite Islamic Revolutionary Guard Corps (IRGC) mot kommersiell skipsfart i Hormuzstredet og amerikanske styrker i regionen."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38d2/live/03a25690-a693-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/721fc5c3b5c06c.jpg",
+      "score": 13
+    },
+    {
+      "id": "5311f74d571ec7",
       "category": "Norge",
       "published": "02.09. 07:18",
       "publishedISO": "2026-09-02T07:18:28+02:00",
@@ -105,28 +147,7 @@
       "url": "https://www.nrk.no/trondelag/brann-i-bolig-i-inderoy-i-trondelag-1.18011217",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/25oc2kGQ8caB9DN-dTgDiAmYUUX_4kyp1oWqwI7X98Vw.png",
-      "localImage": "assets/news/e838e18e0751a7.png",
-      "score": 13
-    },
-    {
-      "id": "721fc5c3b5c06c",
-      "category": "Verden",
-      "published": "02.09. 07:12",
-      "publishedISO": "2026-09-02T07:12:07+02:00",
-      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-      "summary": "Fartøyer var synlige over Hormuzstredet fra Oman denne uken Teheran har lansert missil- og droneangrep mot amerikanske mål i Jordan, Kuwait, Irak og Bahrain etter at amerikanske styrker gjenopptok angrep mot Iran tirsdag. Den iranske Røde Halvmåne sa at fem personer, inkludert et barn, ble drept og mer enn 50 skadet da splitter fra et amerikansk missilangrep traff et hjem der en bryllupsfeiring fant sted i Sirik i Sør-Iran. Iranske statlige medier og den iranske Røde Halvmåne rapporterte at sivile steder på Irans sørkyst hadde blitt bombet, med et barn blant de drepte ved en bryllupsseremoni i Sirik-fylket, som ligger ved Hormuzstredet.",
-      "keyPoints": [
-        "Den iranske Røde Halvmåne sa at fem personer, inkludert et barn, ble drept og mer enn 50 skadet da splitter fra et amerikansk missilangrep traff et hjem der en bryllupsfeiring fant sted i Sirik i Sør-Iran.",
-        "Iranske statlige medier og den iranske Røde Halvmåne rapporterte at sivile steder på Irans sørkyst hadde blitt bombet, med et barn blant de drepte ved en bryllupsseremoni i Sirik-fylket, som ligger ved Hormuzstredet.",
-        "Fartøyer var synlige over Hormuzstredet fra Oman denne uken Teheran har lansert missil- og droneangrep mot amerikanske mål i Jordan, Kuwait, Irak og Bahrain etter at amerikanske styrker gjenopptok angrep mot Iran tirsdag.",
-        "US Central Command (Centcom) sa at amerikanske angrep på Iran fulgte \"nylige forsøk på angrep\" fra Irans elite Islamic Revolutionary Guard Corps (IRGC) mot kommersiell skipsfart i Hormuzstredet og amerikanske styrker i regionen."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38d2/live/03a25690-a693-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/721fc5c3b5c06c.jpg",
+      "localImage": "assets/news/5311f74d571ec7.png",
       "score": 13
     },
     {
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3eddae9a-b498-389a-960e-9fc9bccae0a3?fit=crop&h=675&upscale=true&w=1200&s=e8a2b3235a23aa041d9d505f0051b0b1e570f8d5",
       "localImage": "assets/news/2fe8b0c047cdc3.jpg",
-      "score": 13
-    },
-    {
-      "id": "6f9d691fe2d0ad",
-      "category": "Økonomi",
-      "published": "02.09. 06:17",
-      "publishedISO": "2026-09-02T06:17:04+02:00",
-      "title": "Unngår togstreik i dag: Setter meklingen på pause",
-      "summary": "Spekter og Vy har blitt enige med Norsk Jernbaneforbund (LO) og Delta (YS) etter meklingen, mens med Lokomotiv­førerforbundet (LO) er det fortsatt ikke enighet. Denne meklingen settes nå på pause, skriver både Spekter og LO i en pressemelding. Det var på forhånd varslet at 123 ansatte i Vy ville tas ut i streik om partene ikke ble enige.",
-      "keyPoints": [
-        "Denne meklingen settes nå på pause, skriver både Spekter og LO i en pressemelding.",
-        "Spekter og Vy har blitt enige med Norsk Jernbaneforbund (LO) og Delta (YS) etter meklingen, mens med Lokomotiv­førerforbundet (LO) er det fortsatt ikke enighet.",
-        "Det var på forhånd varslet at 123 ansatte i Vy ville tas ut i streik om partene ikke ble enige.",
-        "Streiken ville særlig ha rammet toglinjen RE10 Drammen og Lillehammer hardt, og at det knapt ville gå tog mellom Eidsvoll og Lillehammer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/K81pzy/unngaar-togstreik-i-dag-setter-meklingen-paa-pause",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5b3afbf0-f598-3e91-8e46-b3247047b543?fit=crop&h=675&upscale=true&w=1200&s=22baaa6d65f8b74d1754b7f6943a0b5738f4083a",
-      "localImage": "assets/news/6f9d691fe2d0ad.png",
       "score": 13
     }
   ]
