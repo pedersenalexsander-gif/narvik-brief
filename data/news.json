@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 21:10",
-  "updatedISO": "2026-09-02T21:10:52.923345+02:00",
+  "updatedAt": "02.09.2026 kl. 21:24",
+  "updatedISO": "2026-09-02T21:24:54.142407+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 17
     },
     {
-      "id": "acebcaf050de4e",
-      "category": "Økonomi",
-      "published": "01.09. 09:01",
-      "publishedISO": "2026-09-01T09:01:24+02:00",
-      "title": "Oslo Børs falt tross fortsatt oljeprisbyks",
-      "summary": "Hovedindeksen på Oslo Børs endte ned 0,28 prosent tirsdag, som følger en markant oppgang i går. Børsfallet kommer tross fortsatt sterk oppgang i oljeprisen, der risk-off stemning internasjonalt og renteuro veier tyngre i resten av markedet. Oslo Børs kommer fra store høyder, der hovedindeksen har gått 4,4 prosent den siste måneden, og over 25 prosent hittil i år.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs endte ned 0,28 prosent tirsdag, som følger en markant oppgang i går.",
-        "Oslo Børs kommer fra store høyder, der hovedindeksen har gått 4,4 prosent den siste måneden, og over 25 prosent hittil i år.",
-        "Børsfallet kommer tross fortsatt sterk oppgang i oljeprisen, der risk-off stemning internasjonalt og renteuro veier tyngre i resten av markedet.",
-        "Det Oslo Børs-noterte oljeselskapet tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/43vjXG/oslo-boers-stiger-svakt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
-      "localImage": "assets/news/acebcaf050de4e.jpg",
-      "score": 23
-    },
-    {
       "id": "db72a83cf7708b",
       "category": "Økonomi",
       "published": "02.09. 12:51",
@@ -106,6 +85,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
       "localImage": "assets/news/db72a83cf7708b.jpg",
+      "score": 20
+    },
+    {
+      "id": "9dabd5b1c1405d",
+      "category": "Økonomi",
+      "published": "02.09. 08:00",
+      "publishedISO": "2026-09-02T08:00:11+02:00",
+      "title": "Nordea Markets: Ingen rentekutt før 2028",
+      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+      "keyPoints": [
+        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
+        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
+        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
+      "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 20
     },
     {
@@ -130,27 +130,6 @@
       "score": 17
     },
     {
-      "id": "9dabd5b1c1405d",
-      "category": "Økonomi",
-      "published": "02.09. 08:00",
-      "publishedISO": "2026-09-02T08:00:11+02:00",
-      "title": "Nordea Markets: Ingen rentekutt før 2028",
-      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-      "keyPoints": [
-        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
-        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
-        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
-      "localImage": "assets/news/9dabd5b1c1405d.jpg",
-      "score": 20
-    },
-    {
       "id": "52201cdd9ed1f5",
       "category": "Verden",
       "published": "02.09. 18:12",
@@ -170,6 +149,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d1e/live/cba5ddd0-a6e6-11f1-9e4c-79c1c0e340c6.jpg",
       "localImage": "assets/news/52201cdd9ed1f5.jpg",
       "score": 17
+    },
+    {
+      "id": "083cf4d8ee3c63",
+      "category": "Økonomi",
+      "published": "02.09. 21:16",
+      "publishedISO": "2026-09-02T21:16:28+02:00",
+      "title": "Vi fyller ikke råolje på tanken",
+      "summary": "Flere steder rapporteres det om dieselpriser opp mot 30 kroner literen. Da krigen startet i vår, fryktet mange oljepriser på 150 eller 200 dollar fatet. Det er blitt usedvanlig kostbart å gjøre råolje om til bensin og diesel.",
+      "keyPoints": [
+        "Det er blitt usedvanlig kostbart å gjøre råolje om til bensin og diesel.",
+        "Da krigen startet i vår, fryktet mange oljepriser på 150 eller 200 dollar fatet.",
+        "Flere steder rapporteres det om dieselpriser opp mot 30 kroner literen.",
+        "Høyres finanspolitiske talsperson Nikolai Astrup er en av mange som har gjort det. «..Oljeprisen er nå på et mer normalt nivå..», sa han blant annet til NRK i august."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/43vdoR/vi-fyller-ikke-raaolje-paa-tanken",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b3170392-efff-3396-a416-9437598d8b5e?fit=crop&h=675&upscale=true&w=1200&s=c4c9d5ddcf6628fc4aa4a0677bd83c7ba2904026",
+      "localImage": "assets/news/083cf4d8ee3c63.jpg",
+      "score": 16
     },
     {
       "id": "25d546a1d162f6",
