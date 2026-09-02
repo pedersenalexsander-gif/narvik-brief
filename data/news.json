@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 03:26",
-  "updatedISO": "2026-09-02T03:26:08.421621+02:00",
+  "updatedAt": "02.09.2026 kl. 03:45",
+  "updatedISO": "2026-09-02T03:45:04.735816+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,27 +109,6 @@
       "score": 13
     },
     {
-      "id": "67501769a2f4b3",
-      "category": "AI",
-      "published": "02.09. 02:36",
-      "publishedISO": "2026-09-02T02:36:24+02:00",
-      "title": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-      "summary": "Kanadiske tjenestemenn plasserte nye skilt ved innsjøen etter Trumps eksekutive ordre, og erklærte at den alltid ville bli kalt Lake Ontario Apple har omdøpt Lake Ontario til Lake America på sin karttjeneste-app, etter en ordre fra USAs president Donald Trump som en del av Washingtons handelssprang med Canada. Iphone-produsentens trekk følger Trumps ordre om å endre innsjøens navn etter at handelssamtaler mellom nabolandene kollapset i slutten av forrige måned, med Washington som innførte nye 50 % toll på 20 milliarder dollar (14,8 milliarder pund; C$28 milliarder) av kanadiske varer. Lake Ontario har blitt omdøpt til \"Lake America\" ​​for amerikanske brukere av Apple Maps-appen",
-      "keyPoints": [
-        "Kanadiske tjenestemenn plasserte nye skilt ved innsjøen etter Trumps eksekutive ordre, og erklærte at den alltid ville bli kalt Lake Ontario Apple har omdøpt Lake Ontario til Lake America på sin karttjeneste-app, etter en ordre fra USAs president Donald Trump som en del av Washingtons handelssprang med Canada.",
-        "Iphone-produsentens trekk følger Trumps ordre om å endre innsjøens navn etter at handelssamtaler mellom nabolandene kollapset i slutten av forrige måned, med Washington som innførte nye 50 % toll på 20 milliarder dollar (14,8 milliarder pund; C$28 milliarder) av kanadiske varer.",
-        "Endringen ble gjort for USA-baserte brukere, mens de i Canada vil fortsette å se Lake Ontario vist.",
-        "Statsminister Mark Carneys kontor hadde gått bort fra handelsforhandlingene, på grunn av det hans kontor har kalt uakseptable krav."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b18/live/6eb4be50-a666-11f1-90d2-0182ea6e613d.jpg",
-      "localImage": "assets/news/67501769a2f4b3.jpg",
-      "score": 21
-    },
-    {
       "id": "64381b9105f254",
       "category": "Verden",
       "published": "01.09. 13:55",
@@ -212,6 +191,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/cbfaeb6b960d5c.jpg",
       "score": 14
+    },
+    {
+      "id": "6029bfd95b51b0",
+      "category": "Verden",
+      "published": "02.09. 02:13",
+      "publishedISO": "2026-09-02T02:13:26+02:00",
+      "title": "US launches strikes on Iran following 'attempted attacks in Strait'",
+      "summary": "Fartøyer var synlige over Hormuzstredet fra Oman denne uken amerikanske styrker gjenopptok angrepene mot Iran tirsdag, opplyser USAs sentralkommando (Centcom). Centcom sa at de amerikanske angrepene fulgte etter «nylige forsøk på angrep» fra Islamic Revolutionary Guard Corps (IRGC) mot kommersiell skipsfart i Hormuzstredet. Han la til: \"Det amerikanske militæret målretter aldri sivile, i motsetning til IRGC.\" USA og Israel startet omfattende angrep på Iran 28. februar, hvor Iran svarte med å angripe Israel, amerikanske baser og allierte stater i Gulfen, og effektivt stenge Hormuzstredet for sjøtrafikk.",
+      "keyPoints": [
+        "Centcom sa at de amerikanske angrepene fulgte etter «nylige forsøk på angrep» fra Islamic Revolutionary Guard Corps (IRGC) mot kommersiell skipsfart i Hormuzstredet.",
+        "Fartøyer var synlige over Hormuzstredet fra Oman denne uken amerikanske styrker gjenopptok angrepene mot Iran tirsdag, opplyser USAs sentralkommando (Centcom).",
+        "Han la til: \"Det amerikanske militæret målretter aldri sivile, i motsetning til IRGC.\" USA og Israel startet omfattende angrep på Iran 28. februar, hvor Iran svarte med å angripe Israel, amerikanske baser og allierte stater i Gulfen, og effektivt stenge Hormuzstredet for sjøtrafikk.",
+        "Several explosions were also reported in Bahrain following attacks by Iran, according to Iranian state media."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/6029bfd95b51b0.jpg",
+      "score": 13
     }
   ]
 }
