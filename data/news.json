@@ -1,28 +1,28 @@
 {
-  "updatedAt": "02.09.2026 kl. 08:45",
-  "updatedISO": "2026-09-02T08:45:51.975669+02:00",
+  "updatedAt": "02.09.2026 kl. 08:59",
+  "updatedISO": "2026-09-02T08:59:41.769097+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "22f03023f1d9ab",
+      "id": "b80bf7d85ee2ab",
       "category": "Norge",
-      "published": "02.09. 07:31",
-      "publishedISO": "2026-09-02T07:31:11+02:00",
-      "title": "Lot rusmidler og våpenkopi ligge igjen i død datters leilighet",
-      "summary": "Etter at politisperringene var fjernet samlet mor noe av det hun fant i sin døde datters leilighet og tok dette bildet. – Politiet har faktisk gjort situasjonen verre for oss, sier mor Lene Rishaug. I ettertid opplever familien at politiet i Mandal ikke har ivaretatt dem som pårørende. – Jeg sitter igjen med flere spørsmål enn svar, sier moren til NRK. Politiet har ikke svart NRK på hvorfor de lot flere ulovlige rusmidler ligge igjen i leiligheten da de var ferdige.",
+      "published": "02.09. 08:37",
+      "publishedISO": "2026-09-02T08:37:15+02:00",
+      "title": "Flere små leirskred over E6 i Alta",
+      "summary": "Det har gått minst tre små leirskred over E6 vest for Alta. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen. Statens vegvesen er observant på at de kan få inn flere meldinger. Det har regnet i hele natt i Alta og flere steder i kommunen renner det leire og vann ned på veibannen.",
       "keyPoints": [
-        "Politiet har ikke svart NRK på hvorfor de lot flere ulovlige rusmidler ligge igjen i leiligheten da de var ferdige.",
-        "Etter at politisperringene var fjernet samlet mor noe av det hun fant i sin døde datters leilighet og tok dette bildet. – Politiet har faktisk gjort situasjonen verre for oss, sier mor Lene Rishaug.",
-        "I ettertid opplever familien at politiet i Mandal ikke har ivaretatt dem som pårørende. – Jeg sitter igjen med flere spørsmål enn svar, sier moren til NRK.",
-        "Hun døde hjemme i sin egen leilighet av en overdose 28. april 2024."
+        "Det har gått minst tre små leirskred over E6 vest for Alta. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen.",
+        "Det har regnet i hele natt i Alta og flere steder i kommunen renner det leire og vann ned på veibannen.",
+        "Statens vegvesen er observant på at de kan få inn flere meldinger.",
+        "Byggeleder i Statens vegvsen, Brede Thomassen, sier at d eikke har fått meldinger om skred andre steder enn på E6 ved Saltvika. – Nei, ikke enda men vi må være observant på at det kan komme."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/politiet-lot-rusmidler-og-vapenkopi-ligge-igjen-i-dod-datters-leilighet-1.17338080",
+      "url": "https://www.nrk.no/tromsogfinnmark/flere-sma-leirskred-over-e6-i-alta-1.18011313",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/e6c2dCcPSURR8v_rbE4r2ghQyXSQzVreanlZgQHU6u_A.jpg",
-      "localImage": "assets/news/22f03023f1d9ab.jpg",
-      "score": 13
+      "image": "https://gfx.nrk.no/54pVGIgMp5m2YHwCwlmUxA-OG3Pv_FPlVIwhDRZOtiNA.jpg",
+      "localImage": "assets/news/b80bf7d85ee2ab.jpg",
+      "score": 17
     },
     {
       "id": "52201cdd9ed1f5",
@@ -90,8 +90,8 @@
     {
       "id": "9c14f03bec8e67",
       "category": "Verden",
-      "published": "02.09. 08:38",
-      "publishedISO": "2026-09-02T08:38:04+02:00",
+      "published": "02.09. 08:50",
+      "publishedISO": "2026-09-02T08:50:06+02:00",
       "title": "Bus crash kills 16 on Egypt's Red Sea coast",
       "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Se vårt utvalg av enestående klipp fra hele BBC Iran angriper amerikanske baser i Midtøsten etter rapporter om at amerikansk streik drepte fem på bryllupsfesten Burnham for å møte de første PMQ-ene mens rådgiveren advarer om at gjeldskostnader vil tvinge regjeringen til å \"bli ekte\" Chris Mason: Vil Burnham finne PMQ-er som \"neglebiting\" og \"nervepirrende\" som Blair gjorde?",
       "keyPoints": [
@@ -104,7 +104,7 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0633/live/ede71eb0-a699-11f1-a622-3b8fd8431bd5.png",
       "localImage": "assets/news/9c14f03bec8e67.png",
       "score": 13
     },
@@ -127,6 +127,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38d2/live/03a25690-a693-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/721fc5c3b5c06c.jpg",
+      "score": 13
+    },
+    {
+      "id": "22f03023f1d9ab",
+      "category": "Norge",
+      "published": "02.09. 07:31",
+      "publishedISO": "2026-09-02T07:31:11+02:00",
+      "title": "Lot rusmidler og våpenkopi ligge igjen i død datters leilighet",
+      "summary": "Etter at politisperringene var fjernet samlet mor noe av det hun fant i sin døde datters leilighet og tok dette bildet. – Politiet har faktisk gjort situasjonen verre for oss, sier mor Lene Rishaug. I ettertid opplever familien at politiet i Mandal ikke har ivaretatt dem som pårørende. – Jeg sitter igjen med flere spørsmål enn svar, sier moren til NRK. Politiet har ikke svart NRK på hvorfor de lot flere ulovlige rusmidler ligge igjen i leiligheten da de var ferdige.",
+      "keyPoints": [
+        "Politiet har ikke svart NRK på hvorfor de lot flere ulovlige rusmidler ligge igjen i leiligheten da de var ferdige.",
+        "Etter at politisperringene var fjernet samlet mor noe av det hun fant i sin døde datters leilighet og tok dette bildet. – Politiet har faktisk gjort situasjonen verre for oss, sier mor Lene Rishaug.",
+        "I ettertid opplever familien at politiet i Mandal ikke har ivaretatt dem som pårørende. – Jeg sitter igjen med flere spørsmål enn svar, sier moren til NRK.",
+        "Hun døde hjemme i sin egen leilighet av en overdose 28. april 2024."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/stor-oslo/politiet-lot-rusmidler-og-vapenkopi-ligge-igjen-i-dod-datters-leilighet-1.17338080",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/e6c2dCcPSURR8v_rbE4r2ghQyXSQzVreanlZgQHU6u_A.jpg",
+      "localImage": "assets/news/22f03023f1d9ab.jpg",
       "score": 13
     },
     {
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/96pBRF9M0XmOIwV8CC_p6Q_4hz554EsSbsGinzTGaeHQ.jpg",
       "localImage": "assets/news/6ed972ebba7085.jpg",
-      "score": 13
-    },
-    {
-      "id": "2fe8b0c047cdc3",
-      "category": "Økonomi",
-      "published": "02.09. 06:17",
-      "publishedISO": "2026-09-02T06:17:07+02:00",
-      "title": "Norse-kunde Lene har ventet i tre år på erstatning",
-      "summary": "Familien har krav på over 25.000 kroner, men Norse svarer ikke. «Det er respektløst», lyder dommen fra Lene Hordnes. Familien måtte ta inn på hotell i flere netter mens de ventet på informasjon fra Norse. – Guttene skulle videre på Norway Cup, mens vi skulle treffe familie fra Tromsø. Han beklager at passasjerene har måttet vente så lenge på avklaring og skriver at selskapet nå vil følge anbefalingen fra nemnda og utbetale kompensasjonen på 2.400 euro. – Vi har i mellomtiden tatt kontakt med selskapet som håndterer kravet på vegne av Lene Hordnes for å gjøre opp saken.",
-      "keyPoints": [
-        "Familien har krav på over 25.000 kroner, men Norse svarer ikke. «Det er respektløst», lyder dommen fra Lene Hordnes.",
-        "Han beklager at passasjerene har måttet vente så lenge på avklaring og skriver at selskapet nå vil følge anbefalingen fra nemnda og utbetale kompensasjonen på 2.400 euro. – Vi har i mellomtiden tatt kontakt med selskapet som håndterer kravet på vegne av Lene Hordnes for å gjøre opp saken.",
-        "Familien måtte ta inn på hotell i flere netter mens de ventet på informasjon fra Norse. – Guttene skulle videre på Norway Cup, mens vi skulle treffe familie fra Tromsø.",
-        "Hun forteller at ekstraoppholdet ble fylt av lange dager i uvisshet på flyplassen, med inn- og utsjekk, og netter med tre mann i én seng som følge av utsolgte hoteller."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/bOo3nl/norse-kunde-lene-har-ventet-i-tre-aar-paa-erstatning",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3eddae9a-b498-389a-960e-9fc9bccae0a3?fit=crop&h=675&upscale=true&w=1200&s=e8a2b3235a23aa041d9d505f0051b0b1e570f8d5",
-      "localImage": "assets/news/2fe8b0c047cdc3.jpg",
       "score": 13
     }
   ]
