@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 09:53",
-  "updatedISO": "2026-09-02T09:53:08.045798+02:00",
+  "updatedAt": "02.09.2026 kl. 10:13",
+  "updatedISO": "2026-09-02T10:13:22.514159+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -14,7 +14,7 @@
         "Det har gått minst tre små leirskred over E6 vest for Alta. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen.",
         "Det har regnet i hele natt i Alta og flere steder i kommunen renner det leire og vann ned på veibannen.",
         "Statens vegvesen er observant på at de kan få inn flere meldinger.",
-        "Byggeleder i Statens vegvsen, Brede Thomassen, sier at d eikke har fått meldinger om skred andre steder enn på E6 ved Saltvika. – Nei, ikke enda men vi må være observant på at det kan komme."
+        "Byggeleder i Statens vegvsen, Brede Thomassen, sier at de ikke har fått meldinger om skred andre steder enn på E6 ved Saltvika. – Nei, ikke enda men vi må være observant på at det kan komme."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -46,6 +46,27 @@
       "score": 17
     },
     {
+      "id": "ab2a90ae962b1b",
+      "category": "USA",
+      "published": "01.09. 18:35",
+      "publishedISO": "2026-09-01T18:35:28+02:00",
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "summary": "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene. Det er bare en av mange.\" Trumps uttalelser ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset. Det hvite hus forsvarer Argentina-teamet over Falklands-banneret Storbritannia sier at Falklandsøyene 'definitivt våre' kunne nedprioritere Argentinas bannere, etter at Argentina-rapporten US-rapporten hevder.",
+      "keyPoints": [
+        "Donald Trump har sagt at USAs posisjon på Falklandsøyene er «en av mange» under vurdering, da han presset Storbritannia til å øke militærutgiftene.",
+        "Det er bare en av mange.\" Trumps kommentarer ble stemplet som \"tull\" av Labour-parlamentsmedlem Dame Emily Thornberry, som leder Commons utenrikskomité, da hun ba den britiske regjeringen om å gi et offisielt svar i Underhuset.",
+        "White House defends Argentina team over Falklands banner UK says Falkland Islands 'definitely ours' after Argentina banner Rubio downplays reports US could review UK's claim to Falklands",
+        "Trump snakket med journalister mandag, og ble spurt av BBC om han gjennomgikk USAs posisjon på Falklandsøyene."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/ab2a90ae962b1b.jpg",
+      "score": 14
+    },
+    {
       "id": "acebcaf050de4e",
       "category": "Økonomi",
       "published": "01.09. 09:01",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
       "localImage": "assets/news/acebcaf050de4e.jpg",
-      "score": 26
+      "score": 25
     },
     {
       "id": "9dabd5b1c1405d",
@@ -155,19 +176,19 @@
       "category": "Verden",
       "published": "02.09. 09:18",
       "publishedISO": "2026-09-02T09:18:39+02:00",
-      "title": "Hvorfor har amerikanske tropper historie med denne thailandske byen?",
+      "title": "USS Abraham Lincoln Pattaya: Hvorfor har amerikanske tropper historie med denne thailandske byen?",
       "summary": "Etter rekordhøye 250 dager til sjøs har USS Abraham Lincoln lagt til kai i Thailand like ved byen Pattaya. BBCs Sørøst-Asia-korrespondent Jonathan Head, som er kjent for sitt heftige natteliv og sexturisme, forklarer historien mellom amerikanske tropper og strandferiestedet. Video, 00:01:13Hvorfor har amerikanske tropper historie med denne thailandske byen?",
       "keyPoints": [
         "Video, 00:01:13Hvorfor har amerikanske tropper historie med denne thailandske byen?",
-        "BBCs Sørøst-Asia-korrespondent Jonathan Head, som er kjent for sitt heftige natteliv og sexturisme, forklarer historien mellom amerikanske tropper og strandferiestedet.",
         "Etter rekordhøye 250 dager til sjøs har USS Abraham Lincoln lagt til kai i Thailand like ved byen Pattaya.",
+        "BBCs Sørøst-Asia-korrespondent Jonathan Head, som er kjent for sitt heftige natteliv og sexturisme, forklarer historien mellom amerikanske tropper og strandferiestedet.",
         "Video, 00:01:29Hva vi vet så langt om den dødelige Thailand-skytingen Moment-familien reddet etter 16 timer flytende på vannscooter utenfor Thailand."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd58/live/8a495740-a69b-11f1-b109-879e35c24276.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95b2/live/cdf05af0-a6a2-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/5888f94e8cd277.jpg",
       "score": 13
     },
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0633/live/ede71eb0-a699-11f1-a622-3b8fd8431bd5.png",
       "localImage": "assets/news/9c14f03bec8e67.png",
-      "score": 13
-    },
-    {
-      "id": "721fc5c3b5c06c",
-      "category": "Verden",
-      "published": "02.09. 08:26",
-      "publishedISO": "2026-09-02T08:26:35+02:00",
-      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-      "summary": "Fartøyer var synlige over Hormuzstredet fra Oman denne uken Teheran har lansert missil- og droneangrep mot amerikanske mål i Jordan, Kuwait, Irak og Bahrain etter at amerikanske styrker gjenopptok angrep mot Iran tirsdag. Den iranske Røde Halvmåne sa at fem personer, inkludert et barn, ble drept og mer enn 50 skadet da splitter fra et amerikansk missilangrep traff et hjem der en bryllupsfeiring fant sted i Sirik i Sør-Iran. Iranske statlige medier og den iranske Røde Halvmåne rapporterte at sivile steder på Irans sørkyst hadde blitt bombet, med et barn blant de drepte ved en bryllupsseremoni i Sirik-fylket, som ligger ved Hormuzstredet.",
-      "keyPoints": [
-        "Den iranske Røde Halvmåne sa at fem personer, inkludert et barn, ble drept og mer enn 50 skadet da splitter fra et amerikansk missilangrep traff et hjem der en bryllupsfeiring fant sted i Sirik i Sør-Iran.",
-        "Iranske statlige medier og den iranske Røde Halvmåne rapporterte at sivile steder på Irans sørkyst hadde blitt bombet, med et barn blant de drepte ved en bryllupsseremoni i Sirik-fylket, som ligger ved Hormuzstredet.",
-        "Fartøyer var synlige over Hormuzstredet fra Oman denne uken Teheran har lansert missil- og droneangrep mot amerikanske mål i Jordan, Kuwait, Irak og Bahrain etter at amerikanske styrker gjenopptok angrep mot Iran tirsdag.",
-        "US Central Command (Centcom) sa at amerikanske angrep på Iran fulgte \"nylige forsøk på angrep\" fra Irans elite Islamic Revolutionary Guard Corps (IRGC) mot kommersiell skipsfart i Hormuzstredet og amerikanske styrker i regionen."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38d2/live/03a25690-a693-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/721fc5c3b5c06c.jpg",
       "score": 13
     }
   ]
