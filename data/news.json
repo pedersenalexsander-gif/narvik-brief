@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 11:28",
-  "updatedISO": "2026-09-02T11:28:35.740419+02:00",
+  "updatedAt": "02.09.2026 kl. 11:44",
+  "updatedISO": "2026-09-02T11:44:25.637020+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,6 +151,48 @@
       "score": 16
     },
     {
+      "id": "5ae24c83f20a47",
+      "category": "USA",
+      "published": "02.09. 11:34",
+      "publishedISO": "2026-09-02T11:34:32+02:00",
+      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "summary": "Se: BBC inne i retten som jury i Lindsay Clancy-rettssaken fastlåst En dommer i USA har bedt jurymedlemmene i rettssaken mot Lindsay Clancy om å fortsette å prøve å komme til en dom, 23 timer etter at de begynte å diskutere. Kriminalforsvarsadvokat Elyse Hershon sa til BBC at hun ikke var overrasket over å høre at juryen var fastlåst, siden folk hadde sterke meninger om saken. \"Fakta er vanskelige og mye av bevisene er grafiske, så det er mye som tynger dem,\" sa hun. Nøkkeløyeblikk i rettssaken mot Lindsay Clancy, moren anklaget for å ha myrdet sine tre barn Lindsay Clancys rettssak setter postpartumpsykose i søkelyset",
+      "keyPoints": [
+        "Se: BBC inne i retten som jury i Lindsay Clancy-rettssaken fastlåst En dommer i USA har bedt jurymedlemmene i rettssaken mot Lindsay Clancy om å fortsette å prøve å komme til en dom, 23 timer etter at de begynte å diskutere.",
+        "Nøkkeløyeblikk i rettssaken mot Lindsay Clancy, moren anklaget for å ha myrdet sine tre barn Lindsay Clancys rettssak setter postpartumpsykose i søkelyset",
+        "Kriminalforsvarsadvokat Elyse Hershon sa til BBC at hun ikke var overrasket over å høre at juryen var fastlåst, siden folk hadde sterke meninger om saken. \"Fakta er vanskelige og mye av bevisene er grafiske, så det er mye som tynger dem,\" sa hun.",
+        "Advokaten hennes bestrider ikke at den 36 år gamle tidligere sykepleieren drepte barna, men argumenterer for at Clancy led av fødselspsykose på det tidspunktet og ikke var i stand til å skille rett fra galt - noe som betyr at hun ikke skal holdes strafferettslig ansvarlig."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c43/live/4a3ec160-a62a-11f1-905b-8511af748865.jpg",
+      "localImage": "assets/news/5ae24c83f20a47.jpg",
+      "score": 13
+    },
+    {
+      "id": "cf91e0b1f54718",
+      "category": "Norge",
+      "published": "02.09. 11:28",
+      "publishedISO": "2026-09-02T11:28:30+02:00",
+      "title": "Sjokk i fjøset: Kua Turid fødte trillinger",
+      "summary": "Mot alle odds overlevde tre friske kalver da kua Turid fødte trillinger tirsdag. 0,00024 prosent sjanse: Kua Turids trippel-kalving er utrolig sjelden. – Det kan jo ikke være tre, tenkte jeg. Også kom den ut, og alle tre var i live, sier Elvebakk. – Sannsynligheten for at en ku får trillinger er så utrolig lav som rundt 0,00024 prosent, sier Live Høistad.",
+      "keyPoints": [
+        "Mot alle odds overlevde tre friske kalver da kua Turid fødte trillinger tirsdag.",
+        "Også kom den ut, og alle tre var i live, sier Elvebakk. – Sannsynligheten for at en ku får trillinger er så utrolig lav som rundt 0,00024 prosent, sier Live Høistad.",
+        "0,00024 prosent sjanse: Kua Turids trippel-kalving er utrolig sjelden. – Det kan jo ikke være tre, tenkte jeg.",
+        "Tirsdag formiddag ga mammakua Turid klar beskjed om at kalvingen var i gang."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/sjokk-i-fjoset_-kua-turid-fodte-trillinger-1.18010800",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/NzgnHjA2OsY8FKpwH_sVUgwHMQhZJS8SZ3-jYu7JxWxg.jpg",
+      "localImage": "assets/news/cf91e0b1f54718.jpg",
+      "score": 13
+    },
+    {
       "id": "0c68b0b4704f0a",
       "category": "Norge",
       "published": "02.09. 11:20",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/JE2gZfLpC0_HagoX9Q6QQwlu7C-A8BR3TYsVjyiXWGRg",
       "localImage": "assets/news/0c68b0b4704f0a.jpg",
-      "score": 13
-    },
-    {
-      "id": "547eeb6991d2f4",
-      "category": "Norge",
-      "published": "02.09. 11:13",
-      "publishedISO": "2026-09-02T11:13:31+02:00",
-      "title": "Norsk Folkehjelp sitt lokallag i Sør-Varanger har trekt seg",
-      "summary": "Etter ei omstridd Russland-markering i Sør-Varanger, har styret i lokallaget til Norsk Folkehjelp valt å trekke seg. Blant desse var fleire styremedlemmer i Norsk Folkehjelp Sør-Varanger, som møtte opp kledd i jakker med logoen til organisasjonen. Generalsekretæren håpar likevel at organisasjonen framleis vil vere til stades i Kirkenes. – Sør-Varanger og Finnmark er eit veldig viktig område, også for Norsk Folkehjelp.",
-      "keyPoints": [
-        "Etter ei omstridd Russland-markering i Sør-Varanger, har styret i lokallaget til Norsk Folkehjelp valt å trekke seg.",
-        "Blant desse var fleire styremedlemmer i Norsk Folkehjelp Sør-Varanger, som møtte opp kledd i jakker med logoen til organisasjonen.",
-        "Generalsekretæren håpar likevel at organisasjonen framleis vil vere til stades i Kirkenes. – Sør-Varanger og Finnmark er eit veldig viktig område, også for Norsk Folkehjelp.",
-        "Nå har heile styret valt å trekke seg frå verva sine, bekreftar Raymond Johansen, generalsekretær i Norsk Folkehjelp. – Norsk Folkehjelp har sjølv eit stort program i Ukraina, og det kan ikkje vere nokon tvil om kva posisjon vi har i denne saka, seier Johansen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/norsk-folkehjelp-sitt-lokallag-i-sor-varanger-har-trekt-seg-1.18010851",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/HpOpgn_aBGugRcWRcfY46QGJcexJMbZhHwGfPLhlzgcA.jpg",
-      "localImage": "assets/news/547eeb6991d2f4.jpg",
-      "score": 13
-    },
-    {
-      "id": "60a8e39fa87017",
-      "category": "Norge",
-      "published": "02.09. 10:55",
-      "publishedISO": "2026-09-02T10:55:30+02:00",
-      "title": "Rev huset da staten bygde sykkelstamveg i Stavanger: Nektes å bygge nytt",
-      "summary": "FRUSTRERTE: Helene Jåtun Vigane og faren Kjell Helge Jåtun kjemper for å få bygge et nytt hus på gården. Stavanger kommune vedtok at huset kunne rives, og at familien skulle få bygge et nytt hus, i området som i utgangspunktet er beskyttet mot boligbygging. Fem år etter at faren fikk avslag i 2020, søkte Jåtun Vigane om å bygge nytt hus på eiendommen, like over tunet fra der det gamle huset sto.",
-      "keyPoints": [
-        "Stavanger kommune vedtok at huset kunne rives, og at familien skulle få bygge et nytt hus, i området som i utgangspunktet er beskyttet mot boligbygging.",
-        "Fem år etter at faren fikk avslag i 2020, søkte Jåtun Vigane om å bygge nytt hus på eiendommen, like over tunet fra der det gamle huset sto.",
-        "FRUSTRERTE: Helene Jåtun Vigane og faren Kjell Helge Jåtun kjemper for å få bygge et nytt hus på gården.",
-        "En far og datter i Stavanger får ikke bygge erstatningsbolig på gården sin."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/rev-huset-da-staten-bygde-sykkelstamveg-i-stavanger_-nektes-a-bygge-nytt-1.17865291",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Eq-cG8X3JWgYGUt2qpkTlgir0tWU5eTdChFxztDZnahw.jpg",
-      "localImage": "assets/news/60a8e39fa87017.jpg",
       "score": 13
     }
   ]
