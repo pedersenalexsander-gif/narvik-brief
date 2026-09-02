@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 19:52",
-  "updatedISO": "2026-09-02T19:52:01.019830+02:00",
+  "updatedAt": "02.09.2026 kl. 20:15",
+  "updatedISO": "2026-09-02T20:15:01.220838+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
       "localImage": "assets/news/acebcaf050de4e.jpg",
-      "score": 24
+      "score": 23
     },
     {
       "id": "db72a83cf7708b",
@@ -193,24 +193,24 @@
       "score": 16
     },
     {
-      "id": "46bc63792f862c",
-      "category": "Norge",
-      "published": "02.09. 10:13",
-      "publishedISO": "2026-09-02T10:13:58+02:00",
-      "title": "Billigste svenskekrone på tre år",
-      "summary": "Krona styrker seg etter at oljeprisen passerte 96 dollar fatet. Så billig har ikke den svenske krona vært siden september 2023. – Det var en gledelig nyhet, for dette var veldig spontant, sier Janne Fjørtoft til NRK. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+      "id": "32b0bcf0a4c23d",
+      "category": "Økonomi",
+      "published": "02.09. 09:01",
+      "publishedISO": "2026-09-02T09:01:57+02:00",
+      "title": "BW LPG falt kraftig på Oslo Børs",
+      "summary": "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg. Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront. BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
       "keyPoints": [
-        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
-        "Så billig har ikke den svenske krona vært siden september 2023. – Det var en gledelig nyhet, for dette var veldig spontant, sier Janne Fjørtoft til NRK.",
-        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
-        "I tillegg ser butikksjefen et skille etter kutt i svensk matmoms og billigere bensinpriser. – Når krona nå er på sitt sterkeste på tre år, så er det klart at det er positivt for grensehandel."
+        "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg.",
+        "Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront.",
+        "BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
+        "Olje- og gassprisene har tatt seg kraftig opp de siste dagene, etter angrep og økende uro i Midtøsten."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/plSALBWVysx_VWoaShZJkARqHiNMfmRhTIh_nYPP_XKA.jpg",
-      "localImage": "assets/news/46bc63792f862c.webp",
+      "url": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/436004e3-a25a-3575-9fe0-3af1c1db6b7b?fit=crop&h=675&upscale=true&w=1200&s=0afe0436fef9c1a0a065fcdb575ae8acbd791198",
+      "localImage": "assets/news/32b0bcf0a4c23d.jpg",
       "score": 15
     }
   ]
