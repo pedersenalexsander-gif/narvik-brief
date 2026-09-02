@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 12:30",
-  "updatedISO": "2026-09-02T12:30:12.696516+02:00",
+  "updatedAt": "02.09.2026 kl. 12:45",
+  "updatedISO": "2026-09-02T12:45:13.848531+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,12 +9,12 @@
       "published": "02.09. 08:37",
       "publishedISO": "2026-09-02T08:37:15+02:00",
       "title": "Flere små leirskred over E6 i Alta",
-      "summary": "Det har gått minst tre små leirskred over E6 vest for Alta. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen. Statens vegvesen er observant på at de kan få inn flere meldinger. Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
+      "summary": "Det har gått flere jordskred i Alta det siste døgnet. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen. Statens vegvesen er observant på at de kan få inn flere meldinger. Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
       "keyPoints": [
-        "Det har gått minst tre små leirskred over E6 vest for Alta. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen.",
         "Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
+        "Det har gått flere jordskred i Alta det siste døgnet. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen.",
         "Statens vegvesen er observant på at de kan få inn flere meldinger.",
-        "Byggeleder i Statens vegvsen, Brede Thomassen, sier at de ikke har fått meldinger om skred andre steder enn på E6 ved Saltvika. – Nei, ikke enda men vi må være observant på at det kan komme."
+        "00:02:53 SPEAKER_00 Har det skjedd flere ganger i sommer og frem til nå?"
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -172,6 +172,27 @@
       "score": 16
     },
     {
+      "id": "5f29e0091bd0ad",
+      "category": "Norge",
+      "published": "02.09. 12:39",
+      "publishedISO": "2026-09-02T12:39:54+02:00",
+      "title": "Vil bygge gondol til Øyfjellet – har ventet i snart tre år på svar",
+      "summary": "Utbyggerne står klare til å bygge spektakulær gondol over Mosjøen. Planen er spektakulær: En gondol til 650 millioner kroner frakte besøkende fra det historiske trehusmiljøet i Mosjøen sentrum, over elva og rett opp til toppen av Øyfjellet. På toppen av Øyfjellet, 818 meter over havet, ønsker Nord Gondol å bygge en toppstasjon.",
+      "keyPoints": [
+        "Planen er spektakulær: En gondol til 650 millioner kroner frakte besøkende fra det historiske trehusmiljøet i Mosjøen sentrum, over elva og rett opp til toppen av Øyfjellet.",
+        "På toppen av Øyfjellet, 818 meter over havet, ønsker Nord Gondol å bygge en toppstasjon.",
+        "Utbyggerne står klare til å bygge spektakulær gondol over Mosjøen.",
+        "Reindriftsnæringen som bruker Øyfjellet har derfor protestert kraftig mot planene om gondol, restaurant og mer turisme i samme område."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/vil-bygge-gondol-til-oyfjellet-_-har-ventet-i-snart-tre-ar-pa-svar-1.17996985",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/4f_6jPkuGyqoUuR8dS_qLAqTOmA-tNsVfRe0TQdSH-eA.jpg",
+      "localImage": "assets/news/5f29e0091bd0ad.jpg",
+      "score": 13
+    },
+    {
       "id": "929f5ef97f7ecf",
       "category": "Økonomi",
       "published": "02.09. 12:15",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1c825e53-c725-3c27-9603-d30c3ee89b9e?fit=crop&h=675&upscale=true&w=1200&s=cedba96fc9fa9dad68ae152cdf0449de8e220f47",
       "localImage": "assets/news/929f5ef97f7ecf.jpg",
-      "score": 13
-    },
-    {
-      "id": "5ae24c83f20a47",
-      "category": "USA",
-      "published": "02.09. 11:34",
-      "publishedISO": "2026-09-02T11:34:32+02:00",
-      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "summary": "Se: BBC inne i retten som jury i Lindsay Clancy-rettssaken fastlåst En dommer i USA har bedt jurymedlemmene i rettssaken mot Lindsay Clancy om å fortsette å prøve å komme til en dom, 23 timer etter at de begynte å diskutere. Kriminalforsvarsadvokat Elyse Hershon sa til BBC at hun ikke var overrasket over å høre at juryen var fastlåst, siden folk hadde sterke meninger om saken. \"Fakta er vanskelige og mye av bevisene er grafiske, så det er mye som tynger dem,\" sa hun. Nøkkeløyeblikk i rettssaken mot Lindsay Clancy, moren anklaget for å ha myrdet sine tre barn Lindsay Clancys rettssak setter postpartumpsykose i søkelyset",
-      "keyPoints": [
-        "Se: BBC inne i retten som jury i Lindsay Clancy-rettssaken fastlåst En dommer i USA har bedt jurymedlemmene i rettssaken mot Lindsay Clancy om å fortsette å prøve å komme til en dom, 23 timer etter at de begynte å diskutere.",
-        "Nøkkeløyeblikk i rettssaken mot Lindsay Clancy, moren anklaget for å ha myrdet sine tre barn Lindsay Clancys rettssak setter postpartumpsykose i søkelyset",
-        "Kriminalforsvarsadvokat Elyse Hershon sa til BBC at hun ikke var overrasket over å høre at juryen var fastlåst, siden folk hadde sterke meninger om saken. \"Fakta er vanskelige og mye av bevisene er grafiske, så det er mye som tynger dem,\" sa hun.",
-        "Advokaten hennes bestrider ikke at den 36 år gamle tidligere sykepleieren drepte barna, men argumenterer for at Clancy led av fødselspsykose på det tidspunktet og ikke var i stand til å skille rett fra galt - noe som betyr at hun ikke skal holdes strafferettslig ansvarlig."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5c43/live/4a3ec160-a62a-11f1-905b-8511af748865.jpg",
-      "localImage": "assets/news/5ae24c83f20a47.jpg",
       "score": 13
     }
   ]
