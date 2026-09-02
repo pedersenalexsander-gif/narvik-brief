@@ -1,28 +1,28 @@
 {
-  "updatedAt": "02.09.2026 kl. 13:12",
-  "updatedISO": "2026-09-02T13:12:07.848985+02:00",
+  "updatedAt": "02.09.2026 kl. 13:28",
+  "updatedISO": "2026-09-02T13:28:16.582768+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "46bc63792f862c",
+      "id": "3532fd019aa734",
       "category": "Norge",
-      "published": "02.09. 10:13",
-      "publishedISO": "2026-09-02T10:13:58+02:00",
-      "title": "Billigste svenskekrone på tre år",
-      "summary": "Krona styrker seg etter at oljeprisen passerte 96 dollar fatet. Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+      "published": "02.09. 08:37",
+      "publishedISO": "2026-09-02T08:37:15+02:00",
+      "title": "Flere små leirskred over E6 i Alta",
+      "summary": "Flere steder i Alta er det gått små jordskred det siste døgnet. Blant annet har det gått tre små jordras på E6 i området Saltvikneset/Saltvika. Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
       "keyPoints": [
-        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
-        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
-        "Så billig har ikke den svenske krona vært siden september 2023.",
-        "Og alt det her føyer seg inn i rekken til å bygge opp frykten for at sentralbankene er nødt til å heve renten ytterligere for å banke ned inflasjonen, forklarer Chen. – Så det er billig å dra til Sverige og handle akkurat nå, men det vil bli dyrere på sikt? – Nå vil kanskje kronen faktisk hjelpe litt, at kronen styrker seg til å bli billigere med svenskehandel, men også svenskene vil jo oppleve høyere priser."
+        "Flere steder i Alta er det gått små jordskred det siste døgnet.",
+        "Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
+        "Blant annet har det gått tre små jordras på E6 i området Saltvikneset/Saltvika.",
+        "Statens vegvesen er observant på at de kan få inn flere meldinger."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
+      "url": "https://www.nrk.no/tromsogfinnmark/flere-sma-leirskred-over-e6-i-alta-1.18011313",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Wx7EeJT76_xWKe8_dA_kRARcMdMtvMBv-mI1NTRlQ1aQ.jpg",
-      "localImage": "assets/news/46bc63792f862c.webp",
-      "score": 16
+      "image": "https://gfx.nrk.no/5TEu9FClovk1ygLTXba0IAyV5TDQo8t0q0psBJKVR6Mw.jpg",
+      "localImage": "assets/news/3532fd019aa734.jpg",
+      "score": 17
     },
     {
       "id": "52201cdd9ed1f5",
@@ -109,27 +109,6 @@
       "score": 21
     },
     {
-      "id": "e7bc7c5de7b09a",
-      "category": "AI",
-      "published": "02.09. 13:00",
-      "publishedISO": "2026-09-02T13:00:59+02:00",
-      "title": "Kriminelle publiserer data om 8,7 millioner mennesker etter hacket av Manchester Airports Group",
-      "summary": "Kriminelle hackere har lagt ut personopplysningene til nesten ni millioner mennesker på nettet etter brudd på tre britiske flyplasser. Hackere presset ut Manchester Airports Group (MAG) for et ikke avslørt beløp, men klarte ikke å få løsepenger betalt. Uvanlig er de cyberkriminelles nettsider hvor MAG-dataene er tilgjengelige på det klare internett og ikke på det mørke nettet som de fleste andre såkalte hacker-\"lekkasjesider\".",
-      "keyPoints": [
-        "Kriminelle hackere har lagt ut personopplysningene til nesten ni millioner mennesker på nettet etter brudd på tre britiske flyplasser.",
-        "Hackers extorted Manchester Airports Group (MAG) for an undisclosed amount but failed to get their ransom paid.",
-        "Uvanlig er de cyberkriminelles nettsider hvor MAG-dataene er tilgjengelige på det klare internett og ikke på det mørke nettet som de fleste andre såkalte hacker-\"lekkasjesider\".",
-        "Dataovervåkning Informasjonskommissærens kontor har råd på sin nettside, ekstern for personer hvis data er blitt hacket."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa2e/live/1c4ecf40-a6be-11f1-ae1e-219da1d6451a.jpg",
-      "localImage": "assets/news/e7bc7c5de7b09a.jpg",
-      "score": 17
-    },
-    {
       "id": "9dabd5b1c1405d",
       "category": "Økonomi",
       "published": "02.09. 08:00",
@@ -191,6 +170,27 @@
       "image": "https://akamai.vgc.no/v2/images/314d7a60-8f31-3776-ac12-7d42a1e7488e?fit=crop&h=675&upscale=true&w=1200&s=114fd3f98e71daf7ab317d77f50a3bf883b497b0",
       "localImage": "assets/news/91711ffb5b1e78.jpg",
       "score": 17
+    },
+    {
+      "id": "46bc63792f862c",
+      "category": "Norge",
+      "published": "02.09. 10:13",
+      "publishedISO": "2026-09-02T10:13:58+02:00",
+      "title": "Billigste svenskekrone på tre år",
+      "summary": "Krona styrker seg etter at oljeprisen passerte 96 dollar fatet. Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+      "keyPoints": [
+        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
+        "Så billig har ikke den svenske krona vært siden september 2023.",
+        "Og alt det her føyer seg inn i rekken til å bygge opp frykten for at sentralbankene er nødt til å heve renten ytterligere for å banke ned inflasjonen, forklarer Chen. – Så det er billig å dra til Sverige og handle akkurat nå, men det vil bli dyrere på sikt? – Nå vil kanskje kronen faktisk hjelpe litt, at kronen styrker seg til å bli billigere med svenskehandel, men også svenskene vil jo oppleve høyere priser."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Wx7EeJT76_xWKe8_dA_kRARcMdMtvMBv-mI1NTRlQ1aQ.jpg",
+      "localImage": "assets/news/46bc63792f862c.webp",
+      "score": 16
     },
     {
       "id": "0c76875b84a4bd",
