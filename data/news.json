@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 11:12",
-  "updatedISO": "2026-09-02T11:12:02.162927+02:00",
+  "updatedAt": "02.09.2026 kl. 11:28",
+  "updatedISO": "2026-09-02T11:28:35.740419+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a3a3/live/cb052080-a663-11f1-8e27-73ef28718a3e.jpg",
       "localImage": "assets/news/52201cdd9ed1f5.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "ab2a90ae962b1b",
@@ -130,6 +130,69 @@
       "score": 20
     },
     {
+      "id": "46bc63792f862c",
+      "category": "Norge",
+      "published": "02.09. 10:13",
+      "publishedISO": "2026-09-02T10:13:58+02:00",
+      "title": "Billigste svenskekrone på tre år",
+      "summary": "Krona styrker seg etter at oljeprisen passerte 96 dollar fatet. Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+      "keyPoints": [
+        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
+        "Så billig har ikke den svenske krona vært siden september 2023.",
+        "Og alt det her føyer seg inn i rekken til å bygge opp frykten for at sentralbankene er nødt til å heve renten ytterligere for å banke ned inflasjonen, forklarer Chen. – Så det er billig å dra til Sverige og handle akkurat nå, men det vil bli dyrere på sikt? – Nå vil kanskje kronen faktisk hjelpe litt, at kronen styrker seg til å bli billigere med svenskehandel, men også svenskene vil jo oppleve høyere priser."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Wx7EeJT76_xWKe8_dA_kRARcMdMtvMBv-mI1NTRlQ1aQ.jpg",
+      "localImage": "assets/news/46bc63792f862c.webp",
+      "score": 16
+    },
+    {
+      "id": "0c68b0b4704f0a",
+      "category": "Norge",
+      "published": "02.09. 11:20",
+      "publishedISO": "2026-09-02T11:20:49+02:00",
+      "title": "Ryktene om kongens død: – Rikshospitalet tar taushetsplikten svært alvorlig",
+      "summary": "Torsdag spredte ryktene seg raskt i sosiale medier om at Kong Harald var død, med påstander om kilder ved Rikshospitalet. Ifølge avisen skal varselet raskt ha blitt orientert videre til sykehusledelsen og kongens livlege. – Det gjorde at jeg dagen etter forsto at e-posten jeg hadde mottatt bare var toppen av isfjellet, og at ryktespredningen var en større sak i det offentlige rom, sier Haarr til avisen. Torsdag ettermiddag gikk Slottet ut med melding om at kongens helsetilstand var uforandret.",
+      "keyPoints": [
+        "Torsdag spredte ryktene seg raskt i sosiale medier om at Kong Harald var død, med påstander om kilder ved Rikshospitalet.",
+        "Ifølge avisen skal varselet raskt ha blitt orientert videre til sykehusledelsen og kongens livlege. – Det gjorde at jeg dagen etter forsto at e-posten jeg hadde mottatt bare var toppen av isfjellet, og at ryktespredningen var en større sak i det offentlige rom, sier Haarr til avisen.",
+        "Torsdag ettermiddag gikk Slottet ut med melding om at kongens helsetilstand var uforandret.",
+        "Ifølge eksperter Dagbladet har snakket med, var dette gjort som et direkte dementi av ryktene."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/ryktene-om-kongens-dod_-_-rikshospitalet-tar-taushetsplikten-svaert-alvorlig-1.18011409",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/JE2gZfLpC0_HagoX9Q6QQwlu7C-A8BR3TYsVjyiXWGRg",
+      "localImage": "assets/news/0c68b0b4704f0a.jpg",
+      "score": 13
+    },
+    {
+      "id": "547eeb6991d2f4",
+      "category": "Norge",
+      "published": "02.09. 11:13",
+      "publishedISO": "2026-09-02T11:13:31+02:00",
+      "title": "Norsk Folkehjelp sitt lokallag i Sør-Varanger har trekt seg",
+      "summary": "Etter ei omstridd Russland-markering i Sør-Varanger, har styret i lokallaget til Norsk Folkehjelp valt å trekke seg. Blant desse var fleire styremedlemmer i Norsk Folkehjelp Sør-Varanger, som møtte opp kledd i jakker med logoen til organisasjonen. Generalsekretæren håpar likevel at organisasjonen framleis vil vere til stades i Kirkenes. – Sør-Varanger og Finnmark er eit veldig viktig område, også for Norsk Folkehjelp.",
+      "keyPoints": [
+        "Etter ei omstridd Russland-markering i Sør-Varanger, har styret i lokallaget til Norsk Folkehjelp valt å trekke seg.",
+        "Blant desse var fleire styremedlemmer i Norsk Folkehjelp Sør-Varanger, som møtte opp kledd i jakker med logoen til organisasjonen.",
+        "Generalsekretæren håpar likevel at organisasjonen framleis vil vere til stades i Kirkenes. – Sør-Varanger og Finnmark er eit veldig viktig område, også for Norsk Folkehjelp.",
+        "Nå har heile styret valt å trekke seg frå verva sine, bekreftar Raymond Johansen, generalsekretær i Norsk Folkehjelp. – Norsk Folkehjelp har sjølv eit stort program i Ukraina, og det kan ikkje vere nokon tvil om kva posisjon vi har i denne saka, seier Johansen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/norsk-folkehjelp-sitt-lokallag-i-sor-varanger-har-trekt-seg-1.18010851",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/HpOpgn_aBGugRcWRcfY46QGJcexJMbZhHwGfPLhlzgcA.jpg",
+      "localImage": "assets/news/547eeb6991d2f4.jpg",
+      "score": 13
+    },
+    {
       "id": "60a8e39fa87017",
       "category": "Norge",
       "published": "02.09. 10:55",
@@ -148,69 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Eq-cG8X3JWgYGUt2qpkTlgir0tWU5eTdChFxztDZnahw.jpg",
       "localImage": "assets/news/60a8e39fa87017.jpg",
-      "score": 13
-    },
-    {
-      "id": "9c14f03bec8e67",
-      "category": "Verden",
-      "published": "02.09. 10:24",
-      "publishedISO": "2026-09-02T10:24:24+02:00",
-      "title": "Bus crash kills 16 on Egypt's Red Sea coast",
-      "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, sa det egyptiske helsedepartementet.",
-      "keyPoints": [
-        "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
-        "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
-        "Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, sa det egyptiske helsedepartementet.",
-        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f8b/live/56326370-a6aa-11f1-b109-879e35c24276.png",
-      "localImage": "assets/news/9c14f03bec8e67.png",
-      "score": 13
-    },
-    {
-      "id": "46bc63792f862c",
-      "category": "Norge",
-      "published": "02.09. 10:13",
-      "publishedISO": "2026-09-02T10:13:58+02:00",
-      "title": "Billigste svenskekrone på tre år",
-      "summary": "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige. Så billig har ikke den svenske krona vært siden september 2023. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
-      "keyPoints": [
-        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
-        "Så billig har ikke den svenske krona vært siden september 2023.",
-        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
-        "I 10-tiden onsdag formiddag koster 100 svenske kroner 96,83 norske."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Wx7EeJT76_xWKe8_dA_kRARcMdMtvMBv-mI1NTRlQ1aQ.jpg",
-      "localImage": "assets/news/46bc63792f862c.webp",
-      "score": 13
-    },
-    {
-      "id": "31bb541abed207",
-      "category": "Norge",
-      "published": "02.09. 09:28",
-      "publishedISO": "2026-09-02T09:28:03+02:00",
-      "title": "Norsk Kjernekraft baner vei for kjernekraft i Norge: – Skal ikke vente på myndighetene",
-      "summary": "Norsk Kjernekraft vil ikke vente og mener kjernekraft er mulig i 2035. Sunniva Rose i Norsk Kjernekraft mener det haster å få på plass kjernekraftverk i Norge på grunn av energisituasjonen. – Kjernekraft er den desidert sikreste energikilden, sier Sunniva Rose. De konkluderer med at det ikke er realistisk med norsk kjernekraft før om 20 år. «Det er ikke realistisk å få i gang kjernekraft i Norge før tidligst på midten av 2040-tallet, dersom internasjonale sikkerhetskrav skal oppfylles og demokratiske prosesser overholdes,» skriver utvalget.",
-      "keyPoints": [
-        "Norsk Kjernekraft vil ikke vente og mener kjernekraft er mulig i 2035.",
-        "De konkluderer med at det ikke er realistisk med norsk kjernekraft før om 20 år. «Det er ikke realistisk å få i gang kjernekraft i Norge før tidligst på midten av 2040-tallet, dersom internasjonale sikkerhetskrav skal oppfylles og demokratiske prosesser overholdes,» skriver utvalget.",
-        "Sunniva Rose i Norsk Kjernekraft mener det haster å få på plass kjernekraftverk i Norge på grunn av energisituasjonen. – Kjernekraft er den desidert sikreste energikilden, sier Sunniva Rose.",
-        "Under foredraget på ONS gir både Rose og Hesthammer uttrykk for at de ikke vil vente på myndighetene med å gå i gang. – Hvis vi ønsker, kan vi ha kjernekraft på plass i 2035."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/norsk-kjernekraft-baner-vei-for-kjernekraft-i-norge_-_-skal-ikke-vente-pa-myndighetene-1.18001886",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/DWjILIQK-Wxu68CJ84XA2Q-myIzW9VvHstJUug2cpOEA.jpg",
-      "localImage": "assets/news/31bb541abed207.jpg",
       "score": 13
     }
   ]
