@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 09:18",
-  "updatedISO": "2026-09-02T09:18:54.366280+02:00",
+  "updatedAt": "02.09.2026 kl. 09:40",
+  "updatedISO": "2026-09-02T09:40:57.270838+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 26
     },
     {
-      "id": "410a498f15639a",
-      "category": "Økonomi",
-      "published": "02.09. 09:01",
-      "publishedISO": "2026-09-02T09:01:57+02:00",
-      "title": "Oljeaksjer trekker Oslo Børs opp",
-      "summary": "Hovedindeksen på Oslo Børs er opp 0,49 prosent rett etter åpning onsdag. Det er opp fra rundt 92 dollar da Børsen stengte i går. Resultatsesongen er mer eller mindre over på Oslo Børs.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs er opp 0,49 prosent rett etter åpning onsdag.",
-        "Det er opp fra rundt 92 dollar da Børsen stengte i går.",
-        "Resultatsesongen er mer eller mindre over på Oslo Børs.",
-        "Olje- og gassprisene har tatt seg kraftig opp de siste dagene, etter angrep og økende uro i Midtøsten."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/436004e3-a25a-3575-9fe0-3af1c1db6b7b?fit=crop&h=675&upscale=true&w=1200&s=0afe0436fef9c1a0a065fcdb575ae8acbd791198",
-      "localImage": "assets/news/410a498f15639a.jpg",
-      "score": 23
-    },
-    {
       "id": "9dabd5b1c1405d",
       "category": "Økonomi",
       "published": "02.09. 08:00",
@@ -107,6 +86,90 @@
       "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
       "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 22
+    },
+    {
+      "id": "dc24ffbe5927e7",
+      "category": "Økonomi",
+      "published": "02.09. 09:01",
+      "publishedISO": "2026-09-02T09:01:57+02:00",
+      "title": "BW LPG faller på Oslo Børs",
+      "summary": "Oslo Børs startet med oppgang, men en halvtime etter åpning er Hovedindeksen helt marginalt ned. Slik går det med noen av de mest omsatte aksjene: Gassfrakrederiet BW LPG faller kraftig som dagens mest omsatte aksje, etter gjeldsopptak og et storsalg. Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront.",
+      "keyPoints": [
+        "Slik går det med noen av de mest omsatte aksjene: Gassfrakrederiet BW LPG faller kraftig som dagens mest omsatte aksje, etter gjeldsopptak og et storsalg.",
+        "Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront.",
+        "Oslo Børs startet med oppgang, men en halvtime etter åpning er Hovedindeksen helt marginalt ned.",
+        "BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/436004e3-a25a-3575-9fe0-3af1c1db6b7b?fit=crop&h=675&upscale=true&w=1200&s=0afe0436fef9c1a0a065fcdb575ae8acbd791198",
+      "localImage": "assets/news/dc24ffbe5927e7.jpg",
+      "score": 20
+    },
+    {
+      "id": "31bb541abed207",
+      "category": "Norge",
+      "published": "02.09. 09:28",
+      "publishedISO": "2026-09-02T09:28:03+02:00",
+      "title": "Norsk Kjernekraft baner vei for kjernekraft i Norge: – Skal ikke vente på myndighetene",
+      "summary": "Norsk Kjernekraft vil ikke vente og mener kjernekraft er mulig i 2035. Sunniva Rose i Norsk Kjernekraft mener det haster å få på plass kjernekraftverk i Norge på grunn av energisituasjonen. – Kjernekraft er den desidert sikreste energikilden, sier Sunniva Rose. De konkluderer med at det ikke er realistisk med norsk kjernekraft før om 20 år. «Det er ikke realistisk å få i gang kjernekraft i Norge før tidligst på midten av 2040-tallet, dersom internasjonale sikkerhetskrav skal oppfylles og demokratiske prosesser overholdes,» skriver utvalget.",
+      "keyPoints": [
+        "Norsk Kjernekraft vil ikke vente og mener kjernekraft er mulig i 2035.",
+        "De konkluderer med at det ikke er realistisk med norsk kjernekraft før om 20 år. «Det er ikke realistisk å få i gang kjernekraft i Norge før tidligst på midten av 2040-tallet, dersom internasjonale sikkerhetskrav skal oppfylles og demokratiske prosesser overholdes,» skriver utvalget.",
+        "Sunniva Rose i Norsk Kjernekraft mener det haster å få på plass kjernekraftverk i Norge på grunn av energisituasjonen. – Kjernekraft er den desidert sikreste energikilden, sier Sunniva Rose.",
+        "Under foredraget på ONS gir både Rose og Hesthammer uttrykk for at de ikke vil vente på myndighetene med å gå i gang. – Hvis vi ønsker, kan vi ha kjernekraft på plass i 2035."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/norsk-kjernekraft-baner-vei-for-kjernekraft-i-norge_-_-skal-ikke-vente-pa-myndighetene-1.18001886",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/DWjILIQK-Wxu68CJ84XA2Q-myIzW9VvHstJUug2cpOEA.jpg",
+      "localImage": "assets/news/31bb541abed207.jpg",
+      "score": 13
+    },
+    {
+      "id": "2005db42d47012",
+      "category": "Økonomi",
+      "published": "02.09. 09:26",
+      "publishedISO": "2026-09-02T09:26:32+02:00",
+      "title": "Gasshopp: – Eskaleringen i Iran er hovedgrunnen",
+      "summary": "Gassprisen nådde årets høyeste nivå onsdag, og lagrene er fortsatt slunkne. –⁠ Det kan ikke bli en kald vinter, sier analytiker. Tidligere i år var gassprisen på det meste oppe i 74 euro per megawattime (19. mars). Onsdag var gassen i Europa (nederlandske TTF) på det meste oppe i over 75 euro per megawattime. – Det har ikke vært så høye priser på en god stund, sier Shehar Aziz i London Stock Exchange Group til E24. – Det er eskaleringen i Iran som er hovedgrunnen.",
+      "keyPoints": [
+        "Onsdag var gassen i Europa (nederlandske TTF) på det meste oppe i over 75 euro per megawattime. – Det har ikke vært så høye priser på en god stund, sier Shehar Aziz i London Stock Exchange Group til E24. – Det er eskaleringen i Iran som er hovedgrunnen.",
+        "Tidligere i år var gassprisen på det meste oppe i 74 euro per megawattime (19. mars).",
+        "Gassprisen nådde årets høyeste nivå onsdag, og lagrene er fortsatt slunkne. –⁠ Det kan ikke bli en kald vinter, sier analytiker.",
+        "Neste sommer vil det da bli stort press på å bygge opp lagrene igjen, også selv om Qatar skulle begynne å eksportere LNG igjen etter hvert. – Vi er alle bekymret for gassprisen, sa Uniper-sjef Michael Lewis til E24 etter å ha signert en stor, 15-årig gassavtale med Equinor under ONS-messen i Stavanger nylig."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/wrX84G/gasshopp-eskaleringen-i-iran-er-hovedgrunnen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/539113ce-1c08-3ccc-879f-fd37511f985d?fit=crop&h=675&upscale=true&w=1200&s=c94933a6db19206267f1b9bb8fb02a081f77eaf5",
+      "localImage": "assets/news/2005db42d47012.jpg",
+      "score": 13
+    },
+    {
+      "id": "5888f94e8cd277",
+      "category": "Verden",
+      "published": "02.09. 09:18",
+      "publishedISO": "2026-09-02T09:18:39+02:00",
+      "title": "Hvorfor har amerikanske tropper historie med denne thailandske byen?",
+      "summary": "Etter rekordhøye 250 dager til sjøs har USS Abraham Lincoln lagt til kai i Thailand like ved byen Pattaya. BBCs Sørøst-Asia-korrespondent Jonathan Head, som er kjent for sitt heftige natteliv og sexturisme, forklarer historien mellom amerikanske tropper og strandferiestedet. Video, 00:01:13Hvorfor har amerikanske tropper historie med denne thailandske byen?",
+      "keyPoints": [
+        "Video, 00:01:13Hvorfor har amerikanske tropper historie med denne thailandske byen?",
+        "BBCs Sørøst-Asia-korrespondent Jonathan Head, som er kjent for sitt heftige natteliv og sexturisme, forklarer historien mellom amerikanske tropper og strandferiestedet.",
+        "Etter rekordhøye 250 dager til sjøs har USS Abraham Lincoln lagt til kai i Thailand like ved byen Pattaya.",
+        "Video, 00:01:29Hva vi vet så langt om den dødelige Thailand-skytingen Moment-familien reddet etter 16 timer flytende på vannscooter utenfor Thailand."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd58/live/8a495740-a69b-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/5888f94e8cd277.jpg",
+      "score": 13
     },
     {
       "id": "9c14f03bec8e67",
@@ -148,69 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38d2/live/03a25690-a693-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/721fc5c3b5c06c.jpg",
-      "score": 13
-    },
-    {
-      "id": "22f03023f1d9ab",
-      "category": "Norge",
-      "published": "02.09. 07:31",
-      "publishedISO": "2026-09-02T07:31:11+02:00",
-      "title": "Lot rusmidler og våpenkopi ligge igjen i død datters leilighet",
-      "summary": "Etter at politisperringene var fjernet samlet mor noe av det hun fant i sin døde datters leilighet og tok dette bildet. – Politiet har faktisk gjort situasjonen verre for oss, sier mor Lene Rishaug. I ettertid opplever familien at politiet i Mandal ikke har ivaretatt dem som pårørende. – Jeg sitter igjen med flere spørsmål enn svar, sier moren til NRK. Politiet har ikke svart NRK på hvorfor de lot flere ulovlige rusmidler ligge igjen i leiligheten da de var ferdige.",
-      "keyPoints": [
-        "Politiet har ikke svart NRK på hvorfor de lot flere ulovlige rusmidler ligge igjen i leiligheten da de var ferdige.",
-        "Etter at politisperringene var fjernet samlet mor noe av det hun fant i sin døde datters leilighet og tok dette bildet. – Politiet har faktisk gjort situasjonen verre for oss, sier mor Lene Rishaug.",
-        "I ettertid opplever familien at politiet i Mandal ikke har ivaretatt dem som pårørende. – Jeg sitter igjen med flere spørsmål enn svar, sier moren til NRK.",
-        "Hun døde hjemme i sin egen leilighet av en overdose 28. april 2024."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/politiet-lot-rusmidler-og-vapenkopi-ligge-igjen-i-dod-datters-leilighet-1.17338080",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/e6c2dCcPSURR8v_rbE4r2ghQyXSQzVreanlZgQHU6u_A.jpg",
-      "localImage": "assets/news/22f03023f1d9ab.jpg",
-      "score": 13
-    },
-    {
-      "id": "5311f74d571ec7",
-      "category": "Norge",
-      "published": "02.09. 07:18",
-      "publishedISO": "2026-09-02T07:18:28+02:00",
-      "title": "Brann i bolig i Inderøy i Trøndelag",
-      "summary": "Klokka 06.36 fikk politiet en trippelvarsling fra brannvesenet om en brann i et kjøretøy som sto parkert ved en bolig. – Brannvesenet, politi og helse rykket ut til stedet. Underveis tok det full fyr i huset, som er en rekke med tre leiligheter, sier operasjonsleder Bjørn Rune Sellgren i Trøndelag politidistrikt til NRK. Like etter klokka 07 opplyste politiet at det var uvisst om det var personer inne i leilighetene i boligkomplekset. – Røykdykkere er på vei inn i leilighetene for å undersøke om det befinner seg personer der, opplyste operasjonsleder Bjørn Rune Sellgren i Trøndelag politidistrikt.",
-      "keyPoints": [
-        "Klokka 06.36 fikk politiet en trippelvarsling fra brannvesenet om en brann i et kjøretøy som sto parkert ved en bolig. – Brannvesenet, politi og helse rykket ut til stedet.",
-        "Like etter klokka 07 opplyste politiet at det var uvisst om det var personer inne i leilighetene i boligkomplekset. – Røykdykkere er på vei inn i leilighetene for å undersøke om det befinner seg personer der, opplyste operasjonsleder Bjørn Rune Sellgren i Trøndelag politidistrikt.",
-        "Underveis tok det full fyr i huset, som er en rekke med tre leiligheter, sier operasjonsleder Bjørn Rune Sellgren i Trøndelag politidistrikt til NRK.",
-        "En garasje, en bil og to leiligheter er sterkt preget som følge av brannen. – Det er mye flammer på stedet og brannvesenet jobber med å slukke brannen, sa Sellgren like før klokka 07.30."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/brann-i-bolig-i-inderoy-i-trondelag-1.18011217",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/25oc2kGQ8caB9DN-dTgDiAmYUUX_4kyp1oWqwI7X98Vw.png",
-      "localImage": "assets/news/5311f74d571ec7.png",
-      "score": 13
-    },
-    {
-      "id": "00862f9aacdd98",
-      "category": "Verden",
-      "published": "02.09. 07:03",
-      "publishedISO": "2026-09-02T07:03:09+02:00",
-      "title": "BBC travels inside occupied Lebanon as officials say Israel is expanding positions",
-      "summary": "Se: BBC ser israelsk militær tilstedeværelse i Sør-Libanon Kjøreturen på motorveien ved Middelhavet i Sør-Libanon, nær grensen til Israel, er naturskjønn og i disse dager øde. Israelske tjenestemenn sier deres mål er å etablere det de kaller en «sikkerhetssone» for å beskytte lokalsamfunn i Nord-Israel mot raketter og droner som har blitt avfyrt av Hizbollah fra Sør-Libanon, samt en mulig bakkeinvasjon. Hizbollah, som regnes som en terrororganisasjon av land inkludert Storbritannia og USA, har ikke utført angrep mot Israel siden våpenhvilen trådte i kraft, men har rettet israelske tropper som opererer innenfor libanesisk territorium. «[Israelerne] utvider sin tilstedeværelse [i Libanon].",
-      "keyPoints": [
-        "Israelske tjenestemenn sier deres mål er å etablere det de kaller en «sikkerhetssone» for å beskytte lokalsamfunn i Nord-Israel mot raketter og droner som har blitt avfyrt av Hizbollah fra Sør-Libanon, samt en mulig bakkeinvasjon.",
-        "Hizbollah, som regnes som en terrororganisasjon av land inkludert Storbritannia og USA, har ikke utført angrep mot Israel siden våpenhvilen trådte i kraft, men har rettet israelske tropper som opererer innenfor libanesisk territorium. «[Israelerne] utvider sin tilstedeværelse [i Libanon].",
-        "Se: BBC ser israelsk militær tilstedeværelse i Sør-Libanon Kjøreturen på motorveien ved Middelhavet i Sør-Libanon, nær grensen til Israel, er naturskjønn og i disse dager øde.",
-        "Israelske soldater kjører på en vei langs muren som skiller Libanon og Israel I et besøk i det okkuperte Sør-Libanon forrige måned sa Israels forsvarsminister Israel Katz at han hadde instruert militæret om å «ta alle nødvendige skritt for å forberede seg på en langsiktig tilstedeværelse i området»."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96b7/live/025c25f0-a61a-11f1-9ca2-a3e18de91b7b.jpg",
-      "localImage": "assets/news/00862f9aacdd98.jpg",
       "score": 13
     }
   ]
