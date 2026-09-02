@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 16:46",
-  "updatedISO": "2026-09-02T16:46:18.293013+02:00",
+  "updatedAt": "02.09.2026 kl. 17:16",
+  "updatedISO": "2026-09-02T17:16:59.095546+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -169,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/314d7a60-8f31-3776-ac12-7d42a1e7488e?fit=crop&h=675&upscale=true&w=1200&s=114fd3f98e71daf7ab317d77f50a3bf883b497b0",
       "localImage": "assets/news/91711ffb5b1e78.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "32b0bcf0a4c23d",
@@ -193,25 +193,25 @@
       "score": 16
     },
     {
-      "id": "3532fd019aa734",
+      "id": "46bc63792f862c",
       "category": "Norge",
-      "published": "02.09. 08:37",
-      "publishedISO": "2026-09-02T08:37:15+02:00",
-      "title": "Flere små leirskred over E6 i Alta",
-      "summary": "Flere steder i Alta er det gått små jordskred det siste døgnet. Blant annet har det gått tre små jordras på E6 i området Saltvikneset/Saltvika. Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
+      "published": "02.09. 10:13",
+      "publishedISO": "2026-09-02T10:13:58+02:00",
+      "title": "Billigste svenskekrone på tre år",
+      "summary": "Krona styrker seg etter at oljeprisen passerte 96 dollar fatet. Så billig har ikke den svenske krona vært siden september 2023. – Det var en gledelig nyhet, for dette var veldig spontant, sier Janne Fjørtoft til NRK. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
       "keyPoints": [
-        "Flere steder i Alta er det gått små jordskred det siste døgnet.",
-        "Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
-        "Blant annet har det gått tre små jordras på E6 i området Saltvikneset/Saltvika.",
-        "Statens vegvesen er observant på at de kan få inn flere meldinger."
+        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
+        "Så billig har ikke den svenske krona vært siden september 2023. – Det var en gledelig nyhet, for dette var veldig spontant, sier Janne Fjørtoft til NRK.",
+        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
+        "I tillegg ser butikksjefen et skille etter kutt i svensk matmoms og billigere bensinpriser. – Når krona nå er på sitt sterkeste på tre år, så er det klart at det er positivt for grensehandel."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/flere-sma-leirskred-over-e6-i-alta-1.18011313",
+      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5TEu9FClovk1ygLTXba0IAyV5TDQo8t0q0psBJKVR6Mw.jpg",
-      "localImage": "assets/news/3532fd019aa734.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/plSALBWVysx_VWoaShZJkARqHiNMfmRhTIh_nYPP_XKA.jpg",
+      "localImage": "assets/news/46bc63792f862c.webp",
+      "score": 15
     }
   ]
 }
