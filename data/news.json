@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 10:13",
-  "updatedISO": "2026-09-02T10:13:22.514159+02:00",
+  "updatedAt": "02.09.2026 kl. 10:30",
+  "updatedISO": "2026-09-02T10:30:55.797120+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,10 +9,10 @@
       "published": "02.09. 08:37",
       "publishedISO": "2026-09-02T08:37:15+02:00",
       "title": "Flere små leirskred over E6 i Alta",
-      "summary": "Det har gått minst tre små leirskred over E6 vest for Alta. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen. Statens vegvesen er observant på at de kan få inn flere meldinger. Det har regnet i hele natt i Alta og flere steder i kommunen renner det leire og vann ned på veibannen.",
+      "summary": "Det har gått minst tre små leirskred over E6 vest for Alta. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen. Statens vegvesen er observant på at de kan få inn flere meldinger. Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
       "keyPoints": [
         "Det har gått minst tre små leirskred over E6 vest for Alta. – Det er mye nedbør og mer kommer, sier Brede Thomassen i Statens vegvesen.",
-        "Det har regnet i hele natt i Alta og flere steder i kommunen renner det leire og vann ned på veibannen.",
+        "Alta hviler på leire og kvikkleire og flere steder i kommunen renner det små elver av leire og vann på veibanen.",
         "Statens vegvesen er observant på at de kan få inn flere meldinger.",
         "Byggeleder i Statens vegvsen, Brede Thomassen, sier at de ikke har fått meldinger om skred andre steder enn på E6 ved Saltvika. – Nei, ikke enda men vi må være observant på at det kan komme."
       ],
@@ -130,6 +130,27 @@
       "score": 20
     },
     {
+      "id": "9c14f03bec8e67",
+      "category": "Verden",
+      "published": "02.09. 10:24",
+      "publishedISO": "2026-09-02T10:24:24+02:00",
+      "title": "Bus crash kills 16 on Egypt's Red Sea coast",
+      "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, sa det egyptiske helsedepartementet.",
+      "keyPoints": [
+        "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
+        "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
+        "Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, sa det egyptiske helsedepartementet.",
+        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0633/live/ede71eb0-a699-11f1-a622-3b8fd8431bd5.png",
+      "localImage": "assets/news/9c14f03bec8e67.png",
+      "score": 13
+    },
+    {
       "id": "31bb541abed207",
       "category": "Norge",
       "published": "02.09. 09:28",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95b2/live/cdf05af0-a6a2-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/5888f94e8cd277.jpg",
-      "score": 13
-    },
-    {
-      "id": "9c14f03bec8e67",
-      "category": "Verden",
-      "published": "02.09. 09:01",
-      "publishedISO": "2026-09-02T09:01:13+02:00",
-      "title": "Bus crash kills 16 on Egypt's Red Sea coast",
-      "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
-      "keyPoints": [
-        "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
-        "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
-        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
-        "Se vårt utvalg av enestående klipp fra hele BBC Iran angriper amerikanske baser i Midtøsten etter rapporter om at amerikansk streik drepte fem på bryllupsfesten Burnham for å møte de første PMQ-ene mens rådgiveren advarer om at gjeldskostnader vil tvinge regjeringen til å \"bli ekte\" Chris Mason: Vil Burnham finne PMQ-er som \"neglebiting\" og \"nervepirrende\" som Blair gjorde?"
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0633/live/ede71eb0-a699-11f1-a622-3b8fd8431bd5.png",
-      "localImage": "assets/news/9c14f03bec8e67.png",
       "score": 13
     }
   ]
