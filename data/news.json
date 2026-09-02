@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 05:52",
-  "updatedISO": "2026-09-02T05:52:50.262393+02:00",
+  "updatedAt": "02.09.2026 kl. 06:13",
+  "updatedISO": "2026-09-02T06:13:53.575295+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "cd439cf4d63535",
+      "category": "Norge",
+      "published": "02.09. 05:44",
+      "publishedISO": "2026-09-02T05:44:42+02:00",
+      "title": "Karsten Warholm hardt ut mot Diamond League-arrangør: – Det handler ikke om penger",
+      "summary": "STÅR OVER FINALEN: Årets finale i Diamond League blir å se uten Karsten Warholm. – Det har vært litt forhandlinger frem og tilbake, men de har rett og slett vært litt kjipe. Det sier Karsten Warholm til NRK om hvorfor han ikke løper Diamond League-avslutningen i Brussel på lørdag. VIL HA MER PENGER: Karsten Warholm vil ha mer penger for å løpe over hekkene i Diamond League-finalen i Brussel.",
+      "keyPoints": [
+        "VIL HA MER PENGER: Karsten Warholm vil ha mer penger for å løpe over hekkene i Diamond League-finalen i Brussel.",
+        "STÅR OVER FINALEN: Årets finale i Diamond League blir å se uten Karsten Warholm. – Det har vært litt forhandlinger frem og tilbake, men de har rett og slett vært litt kjipe.",
+        "Det sier Karsten Warholm til NRK om hvorfor han ikke løper Diamond League-avslutningen i Brussel på lørdag.",
+        "I Diamond League-finalen i Brussel vil kun brasilianeren delta. – De har ikke klart å komme opp med et tilbud som er konkurransedyktig, og da synes jeg ikke det er verdt å løpe finalen, forklarer Warholm."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/karsten-warholm-hardt-ut-mot-diamond-league-arrangor_-_-det-handler-ikke-om-penger-1.18003553",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/-ZGE-fXYc1SRwxxVyDJhZAtBzSGiClldlB1W9QbMetvw.jpg",
+      "localImage": "assets/news/cd439cf4d63535.webp",
+      "score": 13
+    },
+    {
       "id": "6029bfd95b51b0",
       "category": "Verden",
       "published": "02.09. 05:19",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/913b/live/5a3308c0-a629-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/6029bfd95b51b0.jpg",
-      "score": 13
-    },
-    {
-      "id": "4cc21e500b8dd9",
-      "category": "Norge",
-      "published": "02.09. 05:09",
-      "publishedISO": "2026-09-02T05:09:32+02:00",
-      "title": "Rekordmange utvekslingsstudenter ved Universitetet i Agder",
-      "summary": "Aldri før har det vært flere utvekslingsstudenter ved Universitetet i Agder. Hun tar en mastergrad med emner for global utvikling og sosialvitenskap ved Universitetet i Agder (UiA). Viserektor på Universitetet i Agder i Kristiansand Hilde Inntjore, forteller at Universitetet har jobbet lenge og systematisk med å informere om de tilbudene som UIA har.",
-      "keyPoints": [
-        "Aldri før har det vært flere utvekslingsstudenter ved Universitetet i Agder.",
-        "Hun tar en mastergrad med emner for global utvikling og sosialvitenskap ved Universitetet i Agder (UiA).",
-        "Viserektor på Universitetet i Agder i Kristiansand Hilde Inntjore, forteller at Universitetet har jobbet lenge og systematisk med å informere om de tilbudene som UIA har.",
-        "John Richard Morgan (18) forteller at han liker at Universitetet tilbyr fellesskap og samhold i undervisningene – Jeg ville forlate Frankrike for å studere."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/rekordmange-utvekslingsstudenter-ved-universitetet-i-agder-1.18002061",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PDIak9C-p_Uyhw5chA4TpQi5gKSp_0gbzcBoZzR_EICw.jpg",
-      "localImage": "assets/news/4cc21e500b8dd9.jpg",
       "score": 13
     }
   ]
