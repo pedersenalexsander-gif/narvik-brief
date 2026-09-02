@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 04:56",
-  "updatedISO": "2026-09-02T04:56:30.740683+02:00",
+  "updatedAt": "02.09.2026 kl. 05:12",
+  "updatedISO": "2026-09-02T05:12:20.315235+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,27 +43,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
       "localImage": "assets/news/acebcaf050de4e.jpg",
-      "score": 27
+      "score": 26
     },
     {
-      "id": "71877eaf165d12",
+      "id": "6acc8130bc5604",
       "category": "Økonomi",
-      "published": "01.09. 18:58",
-      "publishedISO": "2026-09-01T18:58:57+02:00",
-      "title": "Strømprisen skjøt i været",
-      "summary": "I august steg strømprisen, og den er høyest lengst sør. –⁠ Må tilbake til energikrisen i 2022 for priser som var høyere, sier analytiker. I august var strømprisen lengst sør i Norge (NO2NO2 = Rogaland, Agder, Grenland og deler av Telemark og Vestland.) på sitt høyeste siden energikriseåret 2022. Da havnet månedssnittet i strømprisen på over fire kroner kilowattimen, før avgifter, nettleie og strømstøtte.",
+      "published": "01.09. 08:10",
+      "publishedISO": "2026-09-01T08:10:00+02:00",
+      "title": "DNO vil kjøpe oljeselskapet Capricorn",
+      "summary": "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje. Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner. Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
       "keyPoints": [
-        "I august steg strømprisen, og den er høyest lengst sør. –⁠ Må tilbake til energikrisen i 2022 for priser som var høyere, sier analytiker.",
-        "I august var strømprisen lengst sør i Norge (NO2NO2 = Rogaland, Agder, Grenland og deler av Telemark og Vestland.) på sitt høyeste siden energikriseåret 2022.",
-        "Da havnet månedssnittet i strømprisen på over fire kroner kilowattimen, før avgifter, nettleie og strømstøtte.",
-        "Dette er snittprisen på strøm i august, ifølge strømbørsen Nord Pool (ikke medregnet nettleie, avgifter og strømstøtte): Fortsatt blekner strømprisene mot nivået i august 2022."
+        "Det Oslo Børs-noterte oljeselskapet DNO tilbyr Capricorn-aksjonærene totalt 5,214 dollar per aksje.",
+        "Capricorns styre mener DNOs tilbud er «rettferdig og rimelig» og vil enstemmig anbefale aksjonærene å stemme for avtalen. – I dag markerer et spennende kapittel i DNOs 55 år lange veksthistorie, idet vi går videre med å kjøpe en høykvalitetsportefølje av olje- og gasseiendeler i Egypt, uttaler DNO-styreleder Bijan Mossvar-Rahman.",
+        "Budet verdsetter det britiske olje- og gasselskapet Capricorn til rundt 396 millioner dollar, tilsvarende om lag 3,7 milliarder kroner.",
+        "Den 2. juli i år kunngjorde styrene i olje- og gassaktørene Genel og Capricorn at de var blitt enige om vilkårene for et anbefalt kontantoppkjøp av sistnevnte fra Genel."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/WvdbLk/stroemprisen-skjoet-i-vaeret",
+      "url": "https://e24.no/boers-og-finans/i/BxdVzl/dno-vil-kjoepe-oljeselskapet-capricorn-for-3-7-milliarder-kroner",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/dfb07100-c0ae-36e1-a5e3-cb7b92da88fb?fit=crop&h=675&upscale=true&w=1200&s=896d713ac15058918cc34e2a0ef2bbb618d18018",
-      "localImage": "assets/news/71877eaf165d12.jpg",
+      "image": "https://akamai.vgc.no/v2/images/2933e6a9-47e7-3be7-b049-9e6abe58d5f4?fit=crop&h=675&upscale=true&w=1200&s=463d2c18a6159e1518dfeac5b3afbd98df1db23f",
+      "localImage": "assets/news/6acc8130bc5604.jpg",
       "score": 12
     },
     {
@@ -107,6 +107,27 @@
       "image": "https://gfx.nrk.no/xxbEFkr4GfX2BWA69pn-Fg3HaJOl0NwdhhaSrT0CrR4w.jpg",
       "localImage": "assets/news/52fc7912fab0aa.webp",
       "score": 14
+    },
+    {
+      "id": "4cc21e500b8dd9",
+      "category": "Norge",
+      "published": "02.09. 05:09",
+      "publishedISO": "2026-09-02T05:09:32+02:00",
+      "title": "Rekordmange utvekslingsstudenter ved Universitetet i Agder",
+      "summary": "Aldri før har det vært flere utvekslingsstudenter ved Universitetet i Agder. Hun tar en mastergrad med emner for global utvikling og sosialvitenskap ved Universitetet i Agder (UiA). Viserektor på Universitetet i Agder i Kristiansand Hilde Inntjore, forteller at Universitetet har jobbet lenge og systematisk med å informere om de tilbudene som UIA har.",
+      "keyPoints": [
+        "Aldri før har det vært flere utvekslingsstudenter ved Universitetet i Agder.",
+        "Hun tar en mastergrad med emner for global utvikling og sosialvitenskap ved Universitetet i Agder (UiA).",
+        "Viserektor på Universitetet i Agder i Kristiansand Hilde Inntjore, forteller at Universitetet har jobbet lenge og systematisk med å informere om de tilbudene som UIA har.",
+        "John Richard Morgan (18) forteller at han liker at Universitetet tilbyr fellesskap og samhold i undervisningene – Jeg ville forlate Frankrike for å studere."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/rekordmange-utvekslingsstudenter-ved-universitetet-i-agder-1.18002061",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/PDIak9C-p_Uyhw5chA4TpQi5gKSp_0gbzcBoZzR_EICw.jpg",
+      "localImage": "assets/news/4cc21e500b8dd9.jpg",
+      "score": 13
     },
     {
       "id": "bee4fd54fde69d",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/0ZvfkwR8js0s_yS1OXIVUQeXJTK5epWTI0kXAGBLX_sw.jpg",
       "localImage": "assets/news/ffa87bf9ad7790.jpg",
-      "score": 12
-    },
-    {
-      "id": "5c9564ecf1e3f7",
-      "category": "Norge",
-      "published": "01.09. 20:06",
-      "publishedISO": "2026-09-01T20:06:17+02:00",
-      "title": "Høiby i båreseremoni skaper debatt i utlandet",
-      "summary": "Dansk kommentator hevder kongehuset er likegyldig til de fornærmede i straffesaken mot Marius Borg Høiby. FØRTE BÅREN: Kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, prinsesse Märtha Louise og hennes døtre, Maud Angelica Behn, Leah Behn, og Emma Tallulah Behn, og Marius Borg Høiby. – Signalet er rystende, men ikke til å ta feil av: Det norske kongehuset er likegyldig til ofrene for Marius' lovbrudd. Uttalelsene er en reaksjon på at Marius Borg Høiby var med på å føre kong Haralds båre gjennom Slottet mandag.",
-      "keyPoints": [
-        "FØRTE BÅREN: Kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, prinsesse Märtha Louise og hennes døtre, Maud Angelica Behn, Leah Behn, og Emma Tallulah Behn, og Marius Borg Høiby. – Signalet er rystende, men ikke til å ta feil av: Det norske kongehuset er likegyldig til ofrene for Marius' lovbrudd.",
-        "Uttalelsene er en reaksjon på at Marius Borg Høiby var med på å føre kong Haralds båre gjennom Slottet mandag.",
-        "Dansk kommentator hevder kongehuset er likegyldig til de fornærmede i straffesaken mot Marius Borg Høiby.",
-        "Norske kongehuseksperter mener det er helt naturlig at Høiby fikk delta i båreseremonien. – Kong Harald og dronning Sonja behandlet Marius Borg Høiby på lik linje med de biologiske barnebarna, og han har kjent dem hele sitt bevisste liv."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/hoiby-i-bareseremoni-skaper-debatt-i-utlandet-1.18009753",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/W407ziJ1siMhg4WTUDBFCwIOo6mHs9mXIcS7C1oS1IAA.jpg",
-      "localImage": "assets/news/5c9564ecf1e3f7.jpg",
       "score": 12
     }
   ]
