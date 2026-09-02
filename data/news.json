@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 19:11",
-  "updatedISO": "2026-09-02T19:11:57.265237+02:00",
+  "updatedAt": "02.09.2026 kl. 19:26",
+  "updatedISO": "2026-09-02T19:26:35.059322+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,25 +25,25 @@
       "score": 16
     },
     {
-      "id": "0c76875b84a4bd",
+      "id": "712155b60ca093",
       "category": "Verden",
-      "published": "02.09. 14:07",
-      "publishedISO": "2026-09-02T14:07:32+02:00",
-      "title": "Bus crash kills 22 on Egypt's Red Sea coast",
-      "summary": "Det er uklart hvor mange mennesker som var om bord i bussen da ulykken skjedde. Minst 22 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
+      "published": "02.09. 18:49",
+      "publishedISO": "2026-09-02T18:49:00+02:00",
+      "title": "EU og NATO lover å øke presset på Russland etter «ny eskalering» i Leipzig",
+      "summary": "Russland har avvist tyske anklager om at en drone som fraktet eksplosiver bevisst målrettet et ukrainsk lastefly 4. august. Rosenberg: Putins tilslørte trussel mot Storbritannia en del av Russlands kampanje mot Vest-Tyskland sier Russland bak droneangrepet på Leipzig flyplass Zelensky sier at flyselskapene bør unngå russisk luftrom ettersom Ukraina eskalerer droneoperasjoner Von der Leyen var tydelig i sin uttalelse at Leipzig-angrepet hadde involvert \"militært materiale utført av russiske operatører på EU-jord\". Hun lovet at Europa og Nato bare ville opprettholde presset på Moskva, men \"vi vil øke det og vi vil ikke stoppe, ikke før Russland slutter å bombe og drepe uskyldige barn, menn og barn i Ukraina\".",
       "keyPoints": [
-        "Det er uklart hvor mange mennesker som var om bord i bussen da ulykken skjedde. Minst 22 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
-        "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
-        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
-        "Rapporter i egyptiske og jordanske medier sier at så mange som 10 jordanske statsborgere var blant de drepte i ulykken."
+        "Rosenberg: Putins tilslørte trussel mot Storbritannia en del av Russlands kampanje mot Vest-Tyskland sier Russland bak droneangrepet på Leipzig flyplass Zelensky sier at flyselskapene bør unngå russisk luftrom ettersom Ukraina eskalerer droneoperasjoner Von der Leyen var tydelig i sin uttalelse at Leipzig-angrepet hadde involvert \"militært materiale utført av russiske operatører på EU-jord\".",
+        "Hun lovet at Europa og Nato bare ville opprettholde presset på Moskva, men \"vi vil øke det og vi vil ikke stoppe, ikke før Russland slutter å bombe og drepe uskyldige barn, menn og barn i Ukraina\".",
+        "Russland har avvist tyske anklager om at en drone som fraktet eksplosiver bevisst målrettet et ukrainsk lastefly 4. august.",
+        "Det russiske huset i Berlin skal stenge som en del av Tysklands svar på Leipzig-hendelsen. Berlin har sagt at det vil stenge det russiske konsulatet i Bonn samt det russiske husets kulturinstitusjon, som er allment mistenkt i Berlin for å fungere som et propagandautsalg for Kreml."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72b3/live/2866cd30-a6c5-11f1-bebe-e75dba5c0b21.jpg",
-      "localImage": "assets/news/0c76875b84a4bd.png",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
+      "localImage": "assets/news/712155b60ca093.jpg",
+      "score": 17
     },
     {
       "id": "acebcaf050de4e",
@@ -88,6 +88,27 @@
       "score": 20
     },
     {
+      "id": "b8be855291970b",
+      "category": "AI",
+      "published": "02.09. 18:51",
+      "publishedISO": "2026-09-02T18:51:49+02:00",
+      "title": "Uber announces 3,000 job cuts as part of major restructure",
+      "summary": "Uber kutter mer enn 3000 jobber over hele verden som en del av en større overhaling designet for å krympe ledelseslag og omfokusere utgifter til kjernevirksomheten. Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer. I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
+      "keyPoints": [
+        "Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.",
+        "Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer.",
+        "I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
+        "Uber is cutting about 10% of its global workforce, bringing staffing back to levels last seen in 2021."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
+      "localImage": "assets/news/b8be855291970b.jpg",
+      "score": 17
+    },
+    {
       "id": "9dabd5b1c1405d",
       "category": "Økonomi",
       "published": "02.09. 08:00",
@@ -107,6 +128,27 @@
       "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
       "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 20
+    },
+    {
+      "id": "52201cdd9ed1f5",
+      "category": "Verden",
+      "published": "02.09. 18:12",
+      "publishedISO": "2026-09-02T18:12:43+02:00",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "summary": "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky. De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det. Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
+      "keyPoints": [
+        "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky.",
+        "Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
+        "De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det.",
+        "Zelensky rettet advarselen til flyselskaper som fortsetter å fly til russiske flyplasser, spesielt i større byer som St. Petersburg og Moskva."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d1e/live/cba5ddd0-a6e6-11f1-9e4c-79c1c0e340c6.jpg",
+      "localImage": "assets/news/52201cdd9ed1f5.jpg",
+      "score": 17
     },
     {
       "id": "25d546a1d162f6",
@@ -170,48 +212,6 @@
       "image": "https://gfx.nrk.no/plSALBWVysx_VWoaShZJkARqHiNMfmRhTIh_nYPP_XKA.jpg",
       "localImage": "assets/news/46bc63792f862c.webp",
       "score": 15
-    },
-    {
-      "id": "32b0bcf0a4c23d",
-      "category": "Økonomi",
-      "published": "02.09. 09:01",
-      "publishedISO": "2026-09-02T09:01:57+02:00",
-      "title": "BW LPG falt kraftig på Oslo Børs",
-      "summary": "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg. Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront. BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
-      "keyPoints": [
-        "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg.",
-        "Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront.",
-        "BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
-        "Olje- og gassprisene har tatt seg kraftig opp de siste dagene, etter angrep og økende uro i Midtøsten."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/436004e3-a25a-3575-9fe0-3af1c1db6b7b?fit=crop&h=675&upscale=true&w=1200&s=0afe0436fef9c1a0a065fcdb575ae8acbd791198",
-      "localImage": "assets/news/32b0bcf0a4c23d.jpg",
-      "score": 15
-    },
-    {
-      "id": "85a1fb0f914922",
-      "category": "Økonomi",
-      "published": "02.09. 17:22",
-      "publishedISO": "2026-09-02T17:22:28+02:00",
-      "title": "Konkurs etter 42 år: – Trist",
-      "summary": "Mandag begjærte selskapet selv oppbud, og Oslo tingrett åpnet konkurs samme dag. – Det er trist at et selskap som ble startet på 80-tallet i Oslo, går konkurs, sier styreleder Leonhard Ove Øvregård til E24. I juli 2026 mistet 25 personer jobben etter at møbelprodusenten Formfin Møbler AS fra Sykkylven kommune gikk konkurs etter 80 år. I november i fjor gikk også møbelprodusenten Langlo AS konkurs etter over 100 år, og 40 ansatte mistet jobben.",
-      "keyPoints": [
-        "Mandag begjærte selskapet selv oppbud, og Oslo tingrett åpnet konkurs samme dag. – Det er trist at et selskap som ble startet på 80-tallet i Oslo, går konkurs, sier styreleder Leonhard Ove Øvregård til E24.",
-        "I juli 2026 mistet 25 personer jobben etter at møbelprodusenten Formfin Møbler AS fra Sykkylven kommune gikk konkurs etter 80 år.",
-        "I november i fjor gikk også møbelprodusenten Langlo AS konkurs etter over 100 år, og 40 ansatte mistet jobben.",
-        "Når et selskap går konkurs, dukker det gjerne opp gjeld man ikke hadde oversikt over på forhånd, sier han."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/6qKpQ3/konkurs-etter-42-aar-trist",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/96d9b0f2-4e79-391f-b509-1f4d9b20b9f8?fit=crop&h=675&upscale=true&w=1200&s=5fa62d747c36de8a406a7782cf36ce9c7f003c1e",
-      "localImage": "assets/news/85a1fb0f914922.jpg",
-      "score": 13
     }
   ]
 }
