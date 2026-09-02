@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 18:55",
-  "updatedISO": "2026-09-02T18:55:25.906364+02:00",
+  "updatedAt": "02.09.2026 kl. 19:11",
+  "updatedISO": "2026-09-02T19:11:57.265237+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,27 @@
       "image": "https://gfx.nrk.no/M-7RgFYJ0mQe5uetD3H5DQNT3fPuHkOkQCAUdA7BBiuA.jpg",
       "localImage": "assets/news/1cf23dcd132698.jpg",
       "score": 16
+    },
+    {
+      "id": "0c76875b84a4bd",
+      "category": "Verden",
+      "published": "02.09. 14:07",
+      "publishedISO": "2026-09-02T14:07:32+02:00",
+      "title": "Bus crash kills 22 on Egypt's Red Sea coast",
+      "summary": "Det er uklart hvor mange mennesker som var om bord i bussen da ulykken skjedde. Minst 22 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
+      "keyPoints": [
+        "Det er uklart hvor mange mennesker som var om bord i bussen da ulykken skjedde. Minst 22 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
+        "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
+        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
+        "Rapporter i egyptiske og jordanske medier sier at så mange som 10 jordanske statsborgere var blant de drepte i ulykken."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72b3/live/2866cd30-a6c5-11f1-bebe-e75dba5c0b21.jpg",
+      "localImage": "assets/news/0c76875b84a4bd.png",
+      "score": 12
     },
     {
       "id": "acebcaf050de4e",
@@ -88,6 +109,27 @@
       "score": 20
     },
     {
+      "id": "25d546a1d162f6",
+      "category": "Økonomi",
+      "published": "02.09. 19:01",
+      "publishedISO": "2026-09-02T19:01:14+02:00",
+      "title": "Trått Oslo-marked: – Har vært bortskjemt i ti år",
+      "summary": "For én gruppe kan det være gode nyheter, mener eiendomsmeglere. – Vi har vært bortskjemt i Oslo i ti år. Boligprisutviklingen i Oslo har vært langt svakere enn i flere andre store byer hittil i 2026. Alle de tre meglerne understreker at Oslo uansett vil være et populært sted å bo, og at det er mye aktivitet i markedet selv om prisene ikke nødvendigvis stiger. – I Oslo har vi kanskje vært litt bortskjemt tidligere med at mange boliger har gått veldig raskt og veldig bra over lang tid.",
+      "keyPoints": [
+        "For én gruppe kan det være gode nyheter, mener eiendomsmeglere. – Vi har vært bortskjemt i Oslo i ti år.",
+        "Boligprisutviklingen i Oslo har vært langt svakere enn i flere andre store byer hittil i 2026.",
+        "Alle de tre meglerne understreker at Oslo uansett vil være et populært sted å bo, og at det er mye aktivitet i markedet selv om prisene ikke nødvendigvis stiger. – I Oslo har vi kanskje vært litt bortskjemt tidligere med at mange boliger har gått veldig raskt og veldig bra over lang tid.",
+        "At markedet er seigt har ikke endret seg i august, forteller flere Oslo-eiendomsmegler E24 har snakket med. – Det tar litt lengre tid å selge, og ofte må det flere visninger til, men ting blir solgt."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/Pdmr1R/traatt-oslo-marked-har-vaert-bortskjemt-i-ti-aar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d86e95f1-c156-3c05-bd17-91c45814c263?fit=crop&h=675&upscale=true&w=1200&s=a16fca6e727aa1ce083a6ac85f412cfec4ff1bd9",
+      "localImage": "assets/news/25d546a1d162f6.jpg",
+      "score": 16
+    },
+    {
       "id": "91711ffb5b1e78",
       "category": "Økonomi",
       "published": "02.09. 11:48",
@@ -106,27 +148,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/314d7a60-8f31-3776-ac12-7d42a1e7488e?fit=crop&h=675&upscale=true&w=1200&s=114fd3f98e71daf7ab317d77f50a3bf883b497b0",
       "localImage": "assets/news/91711ffb5b1e78.jpg",
-      "score": 16
-    },
-    {
-      "id": "32b0bcf0a4c23d",
-      "category": "Økonomi",
-      "published": "02.09. 09:01",
-      "publishedISO": "2026-09-02T09:01:57+02:00",
-      "title": "BW LPG falt kraftig på Oslo Børs",
-      "summary": "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg. Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront. BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
-      "keyPoints": [
-        "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg.",
-        "Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront.",
-        "BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
-        "Olje- og gassprisene har tatt seg kraftig opp de siste dagene, etter angrep og økende uro i Midtøsten."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/436004e3-a25a-3575-9fe0-3af1c1db6b7b?fit=crop&h=675&upscale=true&w=1200&s=0afe0436fef9c1a0a065fcdb575ae8acbd791198",
-      "localImage": "assets/news/32b0bcf0a4c23d.jpg",
       "score": 16
     },
     {
@@ -151,6 +172,27 @@
       "score": 15
     },
     {
+      "id": "32b0bcf0a4c23d",
+      "category": "Økonomi",
+      "published": "02.09. 09:01",
+      "publishedISO": "2026-09-02T09:01:57+02:00",
+      "title": "BW LPG falt kraftig på Oslo Børs",
+      "summary": "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg. Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront. BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
+      "keyPoints": [
+        "Slik gikk det med noen av de mest omsatte aksjene: Gassfraktederiet BW LPG falt kraftig som dagens nest mest omsatte aksje, etter gjeldsopptak og storsalg.",
+        "Det ble registrert en storhandel i aksjen utenfor regulær børshandel før Oslo Børs åpnet onsdag, ifølge data fra Infront.",
+        "BW LPG har også fått inn 300 millioner dollar gjennom obligasjoner som kan konverteres til aksjer, ifølge en børsmelding.",
+        "Olje- og gassprisene har tatt seg kraftig opp de siste dagene, etter angrep og økende uro i Midtøsten."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/7pL5jo/oljeaksjer-trekker-oslo-boers-opp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/436004e3-a25a-3575-9fe0-3af1c1db6b7b?fit=crop&h=675&upscale=true&w=1200&s=0afe0436fef9c1a0a065fcdb575ae8acbd791198",
+      "localImage": "assets/news/32b0bcf0a4c23d.jpg",
+      "score": 15
+    },
+    {
       "id": "85a1fb0f914922",
       "category": "Økonomi",
       "published": "02.09. 17:22",
@@ -169,48 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/96d9b0f2-4e79-391f-b509-1f4d9b20b9f8?fit=crop&h=675&upscale=true&w=1200&s=5fa62d747c36de8a406a7782cf36ce9c7f003c1e",
       "localImage": "assets/news/85a1fb0f914922.jpg",
-      "score": 13
-    },
-    {
-      "id": "6804a08acdb4e6",
-      "category": "Norge",
-      "published": "02.09. 15:46",
-      "publishedISO": "2026-09-02T15:46:01+02:00",
-      "title": "Hevder han nesten ikke hørte brannalarmen da hotellet begynte å brenne i Øksfjord",
-      "summary": "Johannes Kristoffersen hørte så vidt brannalarmen da hotellet i Øksfjord begynte å brenne. Det ble dramatisk da det begynte å brenne på hotellet i Øksfjord natt til tirsdag. 15 personer var inne i hotellet i Øksfjord i Finnmark da det begynte å brenne natt til tirsdag.",
-      "keyPoints": [
-        "Johannes Kristoffersen hørte så vidt brannalarmen da hotellet i Øksfjord begynte å brenne.",
-        "15 personer var inne i hotellet i Øksfjord i Finnmark da det begynte å brenne natt til tirsdag.",
-        "En annen hotellgjest, som ønsker å være anonym, sier at han sov og ikke hørte brannalarmen.",
-        "Kristoffersen forteller videre at han hørte masse banking på dørene og roping i gangene. – Da skjønte jeg at her var det bare å få på seg klærne og få liv i kollegaen og komme oss ut, sier han."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/hevder-han-nesten-ikke-horte-brannalarmen-da-hotellet-begynte-a-brenne-i-oksfjord-1.18011234",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ZKi48EagcvGN1BiuOHG3VAaCsZK6NaNKCCGJjdDKuseA.jpg",
-      "localImage": "assets/news/6804a08acdb4e6.jpg",
-      "score": 13
-    },
-    {
-      "id": "0d978fd04362d8",
-      "category": "Økonomi",
-      "published": "02.09. 15:31",
-      "publishedISO": "2026-09-02T15:31:28+02:00",
-      "title": "Dell rykker til på Wall Street etter AI-boom",
-      "summary": "Markedene åpner forsiktig etter at oljeprisen fortsetter å ligge på nivåer rundt 94 dollar. Slik ser det ut for noen av de ledende indeksene like etter åpning: Den amerikanske 10-åringen har steget gjennom uken til 4,79 prosent onsdag. Mandag lå «verdens viktigste» rente på rundt 4,71 prosent. – Høyere renter viser seg å bli aksjemarkedets bane.",
-      "keyPoints": [
-        "Slik ser det ut for noen av de ledende indeksene like etter åpning: Den amerikanske 10-åringen har steget gjennom uken til 4,79 prosent onsdag.",
-        "Mandag lå «verdens viktigste» rente på rundt 4,71 prosent. – Høyere renter viser seg å bli aksjemarkedets bane.",
-        "Markedene åpner forsiktig etter at oljeprisen fortsetter å ligge på nivåer rundt 94 dollar.",
-        "Uber reduserer antall ansatte i selskapet med 10 prosent, skriver CNBC."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zOXAbK/smaa-utslag-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e2f2bde7-e1bb-345d-abb5-013a15c538df?fit=crop&h=675&upscale=true&w=1200&s=17179c6eacdf800a6ebb678d2fb0ca4d9355e6ef",
-      "localImage": "assets/news/0d978fd04362d8.jpg",
       "score": 13
     }
   ]
