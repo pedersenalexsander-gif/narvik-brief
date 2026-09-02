@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 06:30",
-  "updatedISO": "2026-09-02T06:30:48.583274+02:00",
+  "updatedAt": "02.09.2026 kl. 06:53",
+  "updatedISO": "2026-09-02T06:53:16.499582+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,45 +151,24 @@
       "score": 14
     },
     {
-      "id": "52fc7912fab0aa",
+      "id": "5c847291ab403f",
       "category": "Norge",
-      "published": "01.09. 10:35",
-      "publishedISO": "2026-09-01T10:35:06+02:00",
-      "title": "Dronning Mette-Marit uteblir fra edsavleggelsen",
-      "summary": "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset. Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni. Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
+      "published": "02.09. 06:45",
+      "publishedISO": "2026-09-02T06:45:32+02:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Så det er i praksis medlemsbedrifter som tar hele regninga, sier Vidar Bendiksen, styreleder i Maskinentreprenørenes Forbund Nordland. Midt-Norge og Nordland har lagt bak seg en grå augustmåned, viser nye tall fra Meteorologene. Kristiansand stikker av med flest soltimer i landet, hele tre ganger så mange som i Valnesfjord i Nordland.",
       "keyPoints": [
-        "Dronning Mette-Marit uteblir fra edsavleggelsen, opplyser kongehuset.",
-        "Dronning Mette-Marit gjennomgikk en vellykket lungetransplantasjon i midten av juni.",
-        "Kronprinsesse Ingrid Alexandra skal ledsage kong Haakon under edsavleggelsen i dag.",
-        "Dronning Sonja og prins Sverre Magnus skal følge med på seremonien i stortingssalen."
+        "Så det er i praksis medlemsbedrifter som tar hele regninga, sier Vidar Bendiksen, styreleder i Maskinentreprenørenes Forbund Nordland.",
+        "Midt-Norge og Nordland har lagt bak seg en grå augustmåned, viser nye tall fra Meteorologene.",
+        "Kristiansand stikker av med flest soltimer i landet, hele tre ganger så mange som i Valnesfjord i Nordland.",
+        "Mens det har vært mest solrikt lengst sør og øst i landet, ble det en skyet og grå måned for både Nordland og Midt-Norge."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/dronning-mette-marit-uteblir-fra-edsavleggelsen-1.18010052",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xxbEFkr4GfX2BWA69pn-Fg3HaJOl0NwdhhaSrT0CrR4w.jpg",
-      "localImage": "assets/news/52fc7912fab0aa.webp",
-      "score": 14
-    },
-    {
-      "id": "cd439cf4d63535",
-      "category": "Norge",
-      "published": "02.09. 06:18",
-      "publishedISO": "2026-09-02T06:18:34+02:00",
-      "title": "Karsten Warholm hardt ut mot Diamond League-arrangør: – Det handler ikke om penger",
-      "summary": "STÅR OVER FINALEN: Årets finale i Diamond League blir å se uten Karsten Warholm. – Det har vært litt forhandlinger frem og tilbake, men de har rett og slett vært litt kjipe. Det sier Karsten Warholm til NRK om hvorfor han ikke løper Diamond League-avslutningen i Brussel på lørdag. VIL HA MER PENGER: Karsten Warholm vil ha mer penger for å løpe over hekkene i Diamond League-finalen i Brussel.",
-      "keyPoints": [
-        "VIL HA MER PENGER: Karsten Warholm vil ha mer penger for å løpe over hekkene i Diamond League-finalen i Brussel.",
-        "STÅR OVER FINALEN: Årets finale i Diamond League blir å se uten Karsten Warholm. – Det har vært litt forhandlinger frem og tilbake, men de har rett og slett vært litt kjipe.",
-        "Det sier Karsten Warholm til NRK om hvorfor han ikke løper Diamond League-avslutningen i Brussel på lørdag.",
-        "I Diamond League-finalen i Brussel vil kun brasilianeren delta. – De har ikke klart å komme opp med et tilbud som er konkurransedyktig, og da synes jeg ikke det er verdt å løpe finalen, forklarer Warholm."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/karsten-warholm-hardt-ut-mot-diamond-league-arrangor_-_-det-handler-ikke-om-penger-1.18003553",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/-ZGE-fXYc1SRwxxVyDJhZAtBzSGiClldlB1W9QbMetvw.jpg",
-      "localImage": "assets/news/cd439cf4d63535.webp",
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/5c847291ab403f.jpg",
       "score": 13
     },
     {
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/96pBRF9M0XmOIwV8CC_p6Q_4hz554EsSbsGinzTGaeHQ.jpg",
       "localImage": "assets/news/6ed972ebba7085.jpg",
+      "score": 13
+    },
+    {
+      "id": "6f9d691fe2d0ad",
+      "category": "Økonomi",
+      "published": "02.09. 06:17",
+      "publishedISO": "2026-09-02T06:17:04+02:00",
+      "title": "Unngår togstreik i dag: Setter meklingen på pause",
+      "summary": "Spekter og Vy har blitt enige med Norsk Jernbaneforbund (LO) og Delta (YS) etter meklingen, mens med Lokomotiv­førerforbundet (LO) er det fortsatt ikke enighet. Denne meklingen settes nå på pause, skriver både Spekter og LO i en pressemelding. Det var på forhånd varslet at 123 ansatte i Vy ville tas ut i streik om partene ikke ble enige.",
+      "keyPoints": [
+        "Denne meklingen settes nå på pause, skriver både Spekter og LO i en pressemelding.",
+        "Spekter og Vy har blitt enige med Norsk Jernbaneforbund (LO) og Delta (YS) etter meklingen, mens med Lokomotiv­førerforbundet (LO) er det fortsatt ikke enighet.",
+        "Det var på forhånd varslet at 123 ansatte i Vy ville tas ut i streik om partene ikke ble enige.",
+        "Streiken ville særlig ha rammet toglinjen RE10 Drammen og Lillehammer hardt, og at det knapt ville gå tog mellom Eidsvoll og Lillehammer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/K81pzy/unngaar-togstreik-i-dag-setter-meklingen-paa-pause",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5b3afbf0-f598-3e91-8e46-b3247047b543?fit=crop&h=675&upscale=true&w=1200&s=22baaa6d65f8b74d1754b7f6943a0b5738f4083a",
+      "localImage": "assets/news/6f9d691fe2d0ad.png",
       "score": 13
     }
   ]
