@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 10:30",
-  "updatedISO": "2026-09-02T10:30:55.797120+02:00",
+  "updatedAt": "02.09.2026 kl. 10:53",
+  "updatedISO": "2026-09-02T10:53:34.198318+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -146,7 +146,7 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0633/live/ede71eb0-a699-11f1-a622-3b8fd8431bd5.png",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f8b/live/56326370-a6aa-11f1-b109-879e35c24276.png",
       "localImage": "assets/news/9c14f03bec8e67.png",
       "score": 13
     },
@@ -193,14 +193,14 @@
       "score": 13
     },
     {
-      "id": "5888f94e8cd277",
+      "id": "2a67b9e62bc3ed",
       "category": "Verden",
       "published": "02.09. 09:18",
       "publishedISO": "2026-09-02T09:18:39+02:00",
-      "title": "USS Abraham Lincoln Pattaya: Hvorfor har amerikanske tropper historie med denne thailandske byen?",
-      "summary": "Etter rekordhøye 250 dager til sjøs har USS Abraham Lincoln lagt til kai i Thailand like ved byen Pattaya. BBCs Sørøst-Asia-korrespondent Jonathan Head, som er kjent for sitt heftige natteliv og sexturisme, forklarer historien mellom amerikanske tropper og strandferiestedet. Video, 00:01:13Hvorfor har amerikanske tropper historie med denne thailandske byen?",
+      "title": "USS Abraham Lincoln Pattaya: Hvorfor amerikanske tropper har en historie i denne hese thailandske byen",
+      "summary": "Etter rekordhøye 250 dager til sjøs har USS Abraham Lincoln lagt til kai i Thailand like ved byen Pattaya. Hvorfor amerikanske tropper har en historie i denne hese thailandske byen. Video, 00:01:13Hvorfor amerikanske tropper har en historie i denne hese thailandske byen Up Next.",
       "keyPoints": [
-        "Video, 00:01:13Hvorfor har amerikanske tropper historie med denne thailandske byen?",
+        "Hvorfor amerikanske tropper har en historie i denne hese thailandske byen.",
         "Etter rekordhøye 250 dager til sjøs har USS Abraham Lincoln lagt til kai i Thailand like ved byen Pattaya.",
         "BBCs Sørøst-Asia-korrespondent Jonathan Head, som er kjent for sitt heftige natteliv og sexturisme, forklarer historien mellom amerikanske tropper og strandferiestedet.",
         "Video, 00:01:29Hva vi vet så langt om den dødelige Thailand-skytingen Moment-familien reddet etter 16 timer flytende på vannscooter utenfor Thailand."
@@ -210,7 +210,7 @@
       "url": "https://www.bbc.co.uk/news/videos/c5yw03jr892o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95b2/live/cdf05af0-a6a2-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/5888f94e8cd277.jpg",
+      "localImage": "assets/news/2a67b9e62bc3ed.jpg",
       "score": 13
     }
   ]
