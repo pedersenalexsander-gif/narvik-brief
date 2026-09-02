@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 12:56",
-  "updatedISO": "2026-09-02T12:56:27.611971+02:00",
+  "updatedAt": "02.09.2026 kl. 13:12",
+  "updatedISO": "2026-09-02T13:12:07.848985+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,27 +88,6 @@
       "score": 25
     },
     {
-      "id": "9dabd5b1c1405d",
-      "category": "Økonomi",
-      "published": "02.09. 08:00",
-      "publishedISO": "2026-09-02T08:00:11+02:00",
-      "title": "Nordea Markets: Ingen rentekutt før 2028",
-      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-      "keyPoints": [
-        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
-        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
-        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
-      "localImage": "assets/news/9dabd5b1c1405d.jpg",
-      "score": 22
-    },
-    {
       "id": "db72a83cf7708b",
       "category": "Økonomi",
       "published": "02.09. 12:51",
@@ -127,6 +106,48 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
       "localImage": "assets/news/db72a83cf7708b.jpg",
+      "score": 21
+    },
+    {
+      "id": "e7bc7c5de7b09a",
+      "category": "AI",
+      "published": "02.09. 13:00",
+      "publishedISO": "2026-09-02T13:00:59+02:00",
+      "title": "Kriminelle publiserer data om 8,7 millioner mennesker etter hacket av Manchester Airports Group",
+      "summary": "Kriminelle hackere har lagt ut personopplysningene til nesten ni millioner mennesker på nettet etter brudd på tre britiske flyplasser. Hackere presset ut Manchester Airports Group (MAG) for et ikke avslørt beløp, men klarte ikke å få løsepenger betalt. Uvanlig er de cyberkriminelles nettsider hvor MAG-dataene er tilgjengelige på det klare internett og ikke på det mørke nettet som de fleste andre såkalte hacker-\"lekkasjesider\".",
+      "keyPoints": [
+        "Kriminelle hackere har lagt ut personopplysningene til nesten ni millioner mennesker på nettet etter brudd på tre britiske flyplasser.",
+        "Hackers extorted Manchester Airports Group (MAG) for an undisclosed amount but failed to get their ransom paid.",
+        "Uvanlig er de cyberkriminelles nettsider hvor MAG-dataene er tilgjengelige på det klare internett og ikke på det mørke nettet som de fleste andre såkalte hacker-\"lekkasjesider\".",
+        "Dataovervåkning Informasjonskommissærens kontor har råd på sin nettside, ekstern for personer hvis data er blitt hacket."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fa2e/live/1c4ecf40-a6be-11f1-ae1e-219da1d6451a.jpg",
+      "localImage": "assets/news/e7bc7c5de7b09a.jpg",
+      "score": 17
+    },
+    {
+      "id": "9dabd5b1c1405d",
+      "category": "Økonomi",
+      "published": "02.09. 08:00",
+      "publishedISO": "2026-09-02T08:00:11+02:00",
+      "title": "Nordea Markets: Ingen rentekutt før 2028",
+      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+      "keyPoints": [
+        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
+        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
+        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
+      "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 21
     },
     {
@@ -176,13 +197,13 @@
       "category": "Verden",
       "published": "02.09. 12:49",
       "publishedISO": "2026-09-02T12:49:22+02:00",
-      "title": "Bus crash kills 16 on Egypt's Red Sea coast",
-      "summary": "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, sa det egyptiske helsedepartementet.",
+      "title": "Bus crash kills 22 on Egypt's Red Sea coast",
+      "summary": "Minst 22 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement. Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen. Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
       "keyPoints": [
-        "Minst 16 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
+        "Minst 22 mennesker er drept i en bussulykke i det østlige Egypt, opplyser landets helsedepartement.",
         "Ytterligere 28 personer ble skadet på veien mellom Rødehavsbyene Dahab og Nuweiba i Sør-Sinai-guvernøren onsdag morgen.",
-        "Så mange som 20 ambulanser ble sendt til ulykkesstedet for å yte førstehjelp og evakuere de skadde, sa det egyptiske helsedepartementet.",
-        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025."
+        "Dødelige trafikkulykker er vanlige over hele Egypt, og myndighetene rapporterte nesten 6000 omkomne i 2025.",
+        "Det er uklart hvor mange personer som var om bord da ulykken skjedde."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4f8b/live/56326370-a6aa-11f1-b109-879e35c24276.png",
       "localImage": "assets/news/0c76875b84a4bd.png",
-      "score": 13
-    },
-    {
-      "id": "5f29e0091bd0ad",
-      "category": "Norge",
-      "published": "02.09. 12:39",
-      "publishedISO": "2026-09-02T12:39:54+02:00",
-      "title": "Vil bygge gondol til Øyfjellet – har ventet i snart tre år på svar",
-      "summary": "Utbyggerne står klare til å bygge spektakulær gondol over Mosjøen. Planen er spektakulær: En gondol til 650 millioner kroner frakte besøkende fra det historiske trehusmiljøet i Mosjøen sentrum, over elva og rett opp til toppen av Øyfjellet. På toppen av Øyfjellet, 818 meter over havet, ønsker Nord Gondol å bygge en toppstasjon.",
-      "keyPoints": [
-        "Planen er spektakulær: En gondol til 650 millioner kroner frakte besøkende fra det historiske trehusmiljøet i Mosjøen sentrum, over elva og rett opp til toppen av Øyfjellet.",
-        "På toppen av Øyfjellet, 818 meter over havet, ønsker Nord Gondol å bygge en toppstasjon.",
-        "Utbyggerne står klare til å bygge spektakulær gondol over Mosjøen.",
-        "Reindriftsnæringen som bruker Øyfjellet har derfor protestert kraftig mot planene om gondol, restaurant og mer turisme i samme område."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/vil-bygge-gondol-til-oyfjellet-_-har-ventet-i-snart-tre-ar-pa-svar-1.17996985",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/4f_6jPkuGyqoUuR8dS_qLAqTOmA-tNsVfRe0TQdSH-eA.jpg",
-      "localImage": "assets/news/5f29e0091bd0ad.jpg",
       "score": 13
     }
   ]
