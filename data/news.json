@@ -1,6 +1,6 @@
 {
-  "updatedAt": "02.09.2026 kl. 14:58",
-  "updatedISO": "2026-09-02T14:58:20.778030+02:00",
+  "updatedAt": "02.09.2026 kl. 15:18",
+  "updatedISO": "2026-09-02T15:18:17.643747+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -27,8 +27,8 @@
     {
       "id": "52201cdd9ed1f5",
       "category": "Verden",
-      "published": "02.09. 12:00",
-      "publishedISO": "2026-09-02T12:00:08+02:00",
+      "published": "02.09. 15:16",
+      "publishedISO": "2026-09-02T15:16:26+02:00",
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "summary": "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky. Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han. Russland som er ansvarlig for nedskytingen av MH17, FN-organet styrer Putin beklager flyulykken i Aserbajdsjan, uten å si at Russland er skyld i Storbritannia \"støtter Ukraina 100%\", sier Burnham, etter Russlands droneadvarsel",
       "keyPoints": [
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4890b044-fc7c-3ab2-99f3-dbf2ddbc49b3?fit=crop&h=675&upscale=true&w=1200&s=f16b28e0eb62a4b43678b9afaa139727b39ed14b",
       "localImage": "assets/news/acebcaf050de4e.jpg",
-      "score": 25
+      "score": 24
     },
     {
       "id": "db72a83cf7708b",
@@ -151,6 +151,27 @@
       "score": 19
     },
     {
+      "id": "712155b60ca093",
+      "category": "Verden",
+      "published": "02.09. 15:04",
+      "publishedISO": "2026-09-02T15:04:47+02:00",
+      "title": "EU og NATO lover å øke presset på Russland etter «ny eskalering» i Leipzig",
+      "summary": "Russland har avvist tyske anklager om at en drone som fraktet eksplosiver bevisst målrettet et ukrainsk lastefly 4. august. Rosenberg: Putins tilslørte trussel mot Storbritannia en del av Russlands kampanje mot Vest-Tyskland sier Russland bak droneangrepet på Leipzig flyplass Zelensky sier at flyselskapene bør unngå russisk luftrom ettersom Ukraina eskalerer droneoperasjoner Von der Leyen var tydelig i sin uttalelse at Leipzig-angrepet hadde involvert \"militært materiale utført av russiske operatører på EU-jord\". Hun lovet at Europa og Nato bare ville opprettholde presset på Moskva, men \"vi vil øke det og vi vil ikke stoppe, ikke før Russland slutter å bombe og drepe uskyldige barn, menn og barn i Ukraina\".",
+      "keyPoints": [
+        "Rosenberg: Putins tilslørte trussel mot Storbritannia en del av Russlands kampanje mot Vest-Tyskland sier Russland bak droneangrepet på Leipzig flyplass Zelensky sier at flyselskapene bør unngå russisk luftrom ettersom Ukraina eskalerer droneoperasjoner Von der Leyen var tydelig i sin uttalelse at Leipzig-angrepet hadde involvert \"militært materiale utført av russiske operatører på EU-jord\".",
+        "Hun lovet at Europa og Nato bare ville opprettholde presset på Moskva, men \"vi vil øke det og vi vil ikke stoppe, ikke før Russland slutter å bombe og drepe uskyldige barn, menn og barn i Ukraina\".",
+        "Russland har avvist tyske anklager om at en drone som fraktet eksplosiver bevisst målrettet et ukrainsk lastefly 4. august.",
+        "Det russiske huset i Berlin skal stenge som en del av Tysklands svar på Leipzig-angrepet. Berlin har sagt at det vil stenge det russiske konsulatet i Bonn samt det russiske husets kulturinstitusjon, som er allment mistenkt i Berlin for å fungere som et propagandautsalg for Kreml."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
+      "localImage": "assets/news/712155b60ca093.jpg",
+      "score": 17
+    },
+    {
       "id": "91711ffb5b1e78",
       "category": "Økonomi",
       "published": "02.09. 11:48",
@@ -170,27 +191,6 @@
       "image": "https://akamai.vgc.no/v2/images/314d7a60-8f31-3776-ac12-7d42a1e7488e?fit=crop&h=675&upscale=true&w=1200&s=114fd3f98e71daf7ab317d77f50a3bf883b497b0",
       "localImage": "assets/news/91711ffb5b1e78.jpg",
       "score": 17
-    },
-    {
-      "id": "46bc63792f862c",
-      "category": "Norge",
-      "published": "02.09. 10:13",
-      "publishedISO": "2026-09-02T10:13:58+02:00",
-      "title": "Billigste svenskekrone på tre år",
-      "summary": "Krona styrker seg etter at oljeprisen passerte 96 dollar fatet. Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige. Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
-      "keyPoints": [
-        "Den norske krona styrker seg også mot flere andre valutaer: I tillegg til at krona styrker seg, bykset oljeprisen til over 96 dollar fatet natt til onsdag.",
-        "Ikke siden september 2023 har det vært billigere for nordmenn å dra til Sverige.",
-        "Så billig har ikke den svenske krona vært siden september 2023.",
-        "Og alt det her føyer seg inn i rekken til å bygge opp frykten for at sentralbankene er nødt til å heve renten ytterligere for å banke ned inflasjonen, forklarer Chen. – Så det er billig å dra til Sverige og handle akkurat nå, men det vil bli dyrere på sikt? – Nå vil kanskje kronen faktisk hjelpe litt, at kronen styrker seg til å bli billigere med svenskehandel, men også svenskene vil jo oppleve høyere priser."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/billigste-svenskekrone-pa-tre-ar-1.18011432",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Wx7EeJT76_xWKe8_dA_kRARcMdMtvMBv-mI1NTRlQ1aQ.jpg",
-      "localImage": "assets/news/46bc63792f862c.webp",
-      "score": 16
     },
     {
       "id": "3532fd019aa734",
