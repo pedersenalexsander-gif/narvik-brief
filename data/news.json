@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 01:52",
-  "updatedISO": "2026-09-03T01:52:32.498630+02:00",
+  "updatedAt": "03.09.2026 kl. 02:19",
+  "updatedISO": "2026-09-03T02:19:44.723923+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,27 +130,6 @@
       "score": 16
     },
     {
-      "id": "083cf4d8ee3c63",
-      "category": "Økonomi",
-      "published": "02.09. 21:16",
-      "publishedISO": "2026-09-02T21:16:28+02:00",
-      "title": "Vi fyller ikke råolje på tanken",
-      "summary": "Flere steder rapporteres det om dieselpriser opp mot 30 kroner literen. Da krigen startet i vår, fryktet mange oljepriser på 150 eller 200 dollar fatet. Det er blitt usedvanlig kostbart å gjøre råolje om til bensin og diesel.",
-      "keyPoints": [
-        "Det er blitt usedvanlig kostbart å gjøre råolje om til bensin og diesel.",
-        "Da krigen startet i vår, fryktet mange oljepriser på 150 eller 200 dollar fatet.",
-        "Flere steder rapporteres det om dieselpriser opp mot 30 kroner literen.",
-        "Høyres finanspolitiske talsperson Nikolai Astrup er en av mange som har gjort det. «..Oljeprisen er nå på et mer normalt nivå..», sa han blant annet til NRK i august."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/43vdoR/vi-fyller-ikke-raaolje-paa-tanken",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b3170392-efff-3396-a416-9437598d8b5e?fit=crop&h=675&upscale=true&w=1200&s=c4c9d5ddcf6628fc4aa4a0677bd83c7ba2904026",
-      "localImage": "assets/news/083cf4d8ee3c63.jpg",
-      "score": 16
-    },
-    {
       "id": "52201cdd9ed1f5",
       "category": "Verden",
       "published": "02.09. 18:12",
@@ -170,6 +149,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d1e/live/cba5ddd0-a6e6-11f1-9e4c-79c1c0e340c6.jpg",
       "localImage": "assets/news/52201cdd9ed1f5.jpg",
       "score": 16
+    },
+    {
+      "id": "083cf4d8ee3c63",
+      "category": "Økonomi",
+      "published": "02.09. 21:16",
+      "publishedISO": "2026-09-02T21:16:28+02:00",
+      "title": "Vi fyller ikke råolje på tanken",
+      "summary": "Flere steder rapporteres det om dieselpriser opp mot 30 kroner literen. Da krigen startet i vår, fryktet mange oljepriser på 150 eller 200 dollar fatet. Det er blitt usedvanlig kostbart å gjøre råolje om til bensin og diesel.",
+      "keyPoints": [
+        "Det er blitt usedvanlig kostbart å gjøre råolje om til bensin og diesel.",
+        "Da krigen startet i vår, fryktet mange oljepriser på 150 eller 200 dollar fatet.",
+        "Flere steder rapporteres det om dieselpriser opp mot 30 kroner literen.",
+        "Høyres finanspolitiske talsperson Nikolai Astrup er en av mange som har gjort det. «..Oljeprisen er nå på et mer normalt nivå..», sa han blant annet til NRK i august."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/43vdoR/vi-fyller-ikke-raaolje-paa-tanken",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b3170392-efff-3396-a416-9437598d8b5e?fit=crop&h=675&upscale=true&w=1200&s=c4c9d5ddcf6628fc4aa4a0677bd83c7ba2904026",
+      "localImage": "assets/news/083cf4d8ee3c63.jpg",
+      "score": 15
     },
     {
       "id": "25d546a1d162f6",
