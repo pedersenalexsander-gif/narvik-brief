@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 08:17",
-  "updatedISO": "2026-09-03T08:17:09.971280+02:00",
+  "updatedAt": "03.09.2026 kl. 08:44",
+  "updatedISO": "2026-09-03T08:44:59.958223+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,27 +46,6 @@
       "score": 15
     },
     {
-      "id": "1fcabf56e83ced",
-      "category": "Verden",
-      "published": "03.09. 05:39",
-      "publishedISO": "2026-09-03T05:39:53+02:00",
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "summary": "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre. Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC Tilbake i mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump. Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
-      "keyPoints": [
-        "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre.",
-        "Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
-        "Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC Tilbake i mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump.",
-        "Onsdag lanserte US Mint $1-mynten med et portrett av Trump sammen med ordene \"LIBERTY\" og \"IN GOD WE TRUST\", for å feire USAs 250-årsjubileum."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg",
-      "localImage": "assets/news/1fcabf56e83ced.jpg",
-      "score": 17
-    },
-    {
       "id": "a4eed819ba881c",
       "category": "Økonomi",
       "published": "03.09. 06:25",
@@ -107,27 +86,6 @@
       "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
       "localImage": "assets/news/db72a83cf7708b.jpg",
       "score": 18
-    },
-    {
-      "id": "b8be855291970b",
-      "category": "AI",
-      "published": "02.09. 18:51",
-      "publishedISO": "2026-09-02T18:51:49+02:00",
-      "title": "Uber announces 3,000 job cuts as part of major restructure",
-      "summary": "Uber kutter mer enn 3000 jobber over hele verden som en del av en større overhaling designet for å krympe ledelseslag og omfokusere utgifter til kjernevirksomheten. Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer. I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
-      "keyPoints": [
-        "Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.",
-        "Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer.",
-        "I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
-        "Uber is cutting about 10% of its global workforce, bringing staffing back to levels last seen in 2021."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
-      "localImage": "assets/news/b8be855291970b.jpg",
-      "score": 15
     },
     {
       "id": "9dabd5b1c1405d",
@@ -212,6 +170,48 @@
       "image": "https://gfx.nrk.no/M-7RgFYJ0mQe5uetD3H5DQNT3fPuHkOkQCAUdA7BBiuA.jpg",
       "localImage": "assets/news/1cf23dcd132698.jpg",
       "score": 14
+    },
+    {
+      "id": "26e6876bbe2103",
+      "category": "Norge",
+      "published": "03.09. 07:42",
+      "publishedISO": "2026-09-03T07:42:35+02:00",
+      "title": "MDG-møte bak stengte dører – viser til kongens død",
+      "summary": "Den politiske borgfreden etter kong Haralds død brukes som begrunnelse når Oslo MDG i kveld ønsker å stenge dørene til et nominasjonsmøte som tegner til å bli meget dramatisk: Dette er iallfall innstillingen fra fylkesstyret i MDG, som støtter seg til anbefalinger fra partiet sentralt og partisekretær Kristin Antun. Fylkesstyrets innstilling om stengte dører skal stemmes over, under nominasjonsmøtet. Men den rene feiringen og promoteringen av kandidatene våre, det venter vi med til etter kongens gravferd, sier Einangshaug til NRK. – Ingen pressemelding, ingen intervju, ingen sosiale medieposter fikk vi vite i går? – Det er oppfordringen vi har sendt til våre kandidater.",
+      "keyPoints": [
+        "Men den rene feiringen og promoteringen av kandidatene våre, det venter vi med til etter kongens gravferd, sier Einangshaug til NRK. – Ingen pressemelding, ingen intervju, ingen sosiale medieposter fikk vi vite i går? – Det er oppfordringen vi har sendt til våre kandidater.",
+        "Fylkesstyrets innstilling om stengte dører skal stemmes over, under nominasjonsmøtet.",
+        "Den politiske borgfreden etter kong Haralds død brukes som begrunnelse når Oslo MDG i kveld ønsker å stenge dørene til et nominasjonsmøte som tegner til å bli meget dramatisk: Dette er iallfall innstillingen fra fylkesstyret i MDG, som støtter seg til anbefalinger fra partiet sentralt og partisekretær Kristin Antun.",
+        "Begrunnelsen for hvorfor nominasjonsmøtet bør foregå så å si i det skjulte, knyttes til restriksjonene som partiene har pålagt seg selv fram til kongens gravferd onsdag i neste uke."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/mdg-mote-bak-stengte-dorer-_-viser-til-kongens-dod-1.18011435",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/RsCG_TLImeWLByHF6mAyJw0REnZMHDcwbhmyKjG9hbAg.jpg",
+      "localImage": "assets/news/26e6876bbe2103.webp",
+      "score": 13
+    },
+    {
+      "id": "5612e9d9f17084",
+      "category": "Norge",
+      "published": "03.09. 05:51",
+      "publishedISO": "2026-09-03T05:51:34+02:00",
+      "title": "Her dropper studentene hybelen: Får enebolig til samme pris",
+      "summary": "I de samme studentboligene som Mathisen bodde i fjor, står mange hybler nå ledige. Samtidig forstår Lystad at studentene velger bolig ut fra pris. Hun mener det er helt avgjørende at studentboligene konkurrerer på pris. – Pris har mye å si og det er en selvfølge at studentene velger det private leiemarkedet, hvis studentboligene er dyrere, sier Aas.",
+      "keyPoints": [
+        "Hun mener det er helt avgjørende at studentboligene konkurrerer på pris. – Pris har mye å si og det er en selvfølge at studentene velger det private leiemarkedet, hvis studentboligene er dyrere, sier Aas.",
+        "Samtidig forstår Lystad at studentene velger bolig ut fra pris.",
+        "I de samme studentboligene som Mathisen bodde i fjor, står mange hybler nå ledige.",
+        "Direktør i SIØ, Rita Hirsum Lystad, sier at årsaken til de mange tomme boligene er komplisert. – Det er en endring i studentmassen der vi får flere studenter fra fylket som ønsker å bo hjemme."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ostfold/her-dropper-studentene-hybelen_-far-enebolig-til-samme-pris-1.17992715",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/bhDb7-4ZvdN8aHbJ9TQfoQlBXgEHdHyJzFtikVcesZPQ.jpg",
+      "localImage": "assets/news/5612e9d9f17084.jpg",
+      "score": 13
     }
   ]
 }
