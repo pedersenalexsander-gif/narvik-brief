@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 20:14",
-  "updatedISO": "2026-09-03T20:14:10.408682+02:00",
+  "updatedAt": "03.09.2026 kl. 20:33",
+  "updatedISO": "2026-09-03T20:33:59.520359+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 17
     },
     {
-      "id": "a1d4f1480e5ee9",
-      "category": "USA",
-      "published": "03.09. 13:47",
-      "publishedISO": "2026-09-03T13:47:51+02:00",
-      "title": "Dolly Parton får ny stjerne på Hollywood Walk of Fame etter hærverk",
-      "summary": "Fansen la igjen blomster, lys og bilder på Dolly Partons stjerne etter hennes død Dolly Partons stjerne på Hollywood Walk of Fame har blitt erstattet etter at den originale ble vandalisert etter den avdøde countrylegendens død forrige uke. Hollywood Walk of Fame er et landemerke med mer enn 2800 stjerner innebygd langs Hollywood Boulevard. Dolly Parton mottok Hollywood-stjernen sin i 1984. Hyllesten strømmet inn fra hele musikkverdenen og utover etter at Parton, kjent for hits inkludert 9 til 5 og Jolene, døde forrige uke i en alder av 80 år.",
-      "keyPoints": [
-        "Fansen la igjen blomster, lys og bilder på Dolly Partons stjerne etter hennes død Dolly Partons stjerne på Hollywood Walk of Fame har blitt erstattet etter at den originale ble vandalisert etter den avdøde countrylegendens død forrige uke.",
-        "Dolly Parton mottok Hollywood-stjernen sin i 1984. Hyllesten strømmet inn fra hele musikkverdenen og utover etter at Parton, kjent for hits inkludert 9 til 5 og Jolene, døde forrige uke i en alder av 80 år.",
-        "Hollywood Walk of Fame er et landemerke med mer enn 2800 stjerner innebygd langs Hollywood Boulevard.",
-        "Reparasjoner ble utført på onsdag, og Hollywood Historic Trust sa at ekstern den nye stjernen vil bli avduket på fredag."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5fb/live/d98d87e0-a78b-11f1-9bb7-af8e8fd3d806.jpg",
-      "localImage": "assets/news/a1d4f1480e5ee9.jpg",
-      "score": 12
-    },
-    {
       "id": "848449739ce8cd",
       "category": "Økonomi",
       "published": "03.09. 14:07",
@@ -151,25 +130,25 @@
       "score": 21
     },
     {
-      "id": "6a509ac310aa3c",
+      "id": "b9313fccfdf684",
       "category": "AI",
-      "published": "03.09. 09:20",
-      "publishedISO": "2026-09-03T09:20:23+02:00",
-      "title": "Watch: BBC travels in self-driving Uber around London",
-      "summary": "BBCs Zoe Kleinman var den første britiske journalisten som hyllet en selvkjørende Uber i London – her er hvordan turen gikk. Les mer om hvordan det er å kjøre i en robotaxi Se: BBC reiser i selvkjørende Uber rundt i London. Video, 00:02:05Se: BBC reiser i selvkjørende Uber rundt London Up Next.",
+      "published": "03.09. 20:32",
+      "publishedISO": "2026-09-03T20:32:03+02:00",
+      "title": "Australia is becoming a data centre capital - but at what cost?",
+      "summary": "Og så vil hun huske at støyen er et datasenter bare 350 m (0,2 miles) fra inngangsdøren hennes i den attraktive forstaden Lane Cove, i Sydneys nedre nordkyst. Tidligere i år sa OpenAIs administrerende direktør Sam Altman at Australia kunne bli en datasenterhovedstad i verden, hvis de ville. Datasentre, som dette i Lane Cove, blir et mer kjent syn i Australia Datasentre har vært avgjørende for den digitale økonomien siden internett kom.",
       "keyPoints": [
-        "Read more on what it's like to ride in a robotaxi Watch: BBC travels in self-driving Uber around London.",
-        "Video, 00:02:05Watch: BBC travels in self-driving Uber around London Up Next.",
-        "BBCs Zoe Kleinman var den første britiske journalisten som hyllet en selvkjørende Uber i London – her er hvordan turen gikk.",
-        "Kunder i London kan nå reise i Storbritannias første robotakse ettersom Uber lanserer sin selvkjørende minicab på torsdag – selskapet er det første som lanserer tjenesten."
+        "Tidligere i år sa OpenAIs administrerende direktør Sam Altman at Australia kunne bli en datasenterhovedstad i verden, hvis de ville.",
+        "Datasentre, som dette i Lane Cove, blir et mer kjent syn i Australia Datasentre har vært avgjørende for den digitale økonomien siden internett kom.",
+        "Og så vil hun huske at støyen er et datasenter bare 350 m (0,2 miles) fra inngangsdøren hennes i den attraktive forstaden Lane Cove, i Sydneys nedre nordkyst.",
+        "No data centre operator analysed in a recent report by Greenpeace Australia Pacific adequately proved their claim of driving the country's renewable energy growth."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo",
+      "url": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40c5/live/aaf5c6a0-a767-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/6a509ac310aa3c.jpg",
-      "score": 15
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9176/live/0e5ba530-a5a5-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/b9313fccfdf684.jpg",
+      "score": 17
     },
     {
       "id": "0c24ac4e2603dc",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Xg0ayEXeTUMHocVn3N3rhQT1GuB5axeDXVwEJNqf1vjw.jpg",
       "localImage": "assets/news/a4a5419b5f5e4e.jpg",
+      "score": 17
+    },
+    {
+      "id": "3866dcb46fad12",
+      "category": "Norge",
+      "published": "03.09. 15:56",
+      "publishedISO": "2026-09-03T15:56:25+02:00",
+      "title": "Facebook-sider i Vietnam spredte falske bilder av syk kong Harald",
+      "summary": "KI-genererte bilder av kong Harald i sykesenga spres i sosiale medier fra klikkfabrikker i Vietnam. – En milliardindustri, sier forsker. De siste dagene har flere falske bilder og sitater narret nordmenn. Men det er mye i Facebook-innlegget som ikke stemmer: I forbindelse med kongens død har det flommet over av poster med falske bilder av kong Harald på sykehuset.",
+      "keyPoints": [
+        "KI-genererte bilder av kong Harald i sykesenga spres i sosiale medier fra klikkfabrikker i Vietnam. – En milliardindustri, sier forsker.",
+        "Men det er mye i Facebook-innlegget som ikke stemmer: I forbindelse med kongens død har det flommet over av poster med falske bilder av kong Harald på sykehuset.",
+        "De siste dagene har flere falske bilder og sitater narret nordmenn.",
+        "I kollasjen er det også et bilde av Haakon som våker over kong Harald i sykesenga, mens han holder faren i hånda."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/xl/facebook-sider-i-vietnam-spredte-falske-bilder-av-syk-kong-harald-1.18011392",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xbCUeB3eojyUw555DBcfFAVlNUT2Oiv4XtFp1_4BF4ag.jpg",
+      "localImage": "assets/news/3866dcb46fad12.jpg",
       "score": 17
     }
   ]
