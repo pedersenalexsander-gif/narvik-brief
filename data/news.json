@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 09:42",
-  "updatedISO": "2026-09-03T09:42:04.636930+02:00",
+  "updatedAt": "03.09.2026 kl. 09:56",
+  "updatedISO": "2026-09-03T09:56:12.051092+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,15 +172,36 @@
       "score": 14
     },
     {
+      "id": "7211fd8c12778b",
+      "category": "Økonomi",
+      "published": "03.09. 09:45",
+      "publishedISO": "2026-09-03T09:45:40+02:00",
+      "title": "Amediastiftelsen kjøper Aschehoug - og sjefen slutter",
+      "summary": "Elleve måneders spill om et av Norges eldste forlagshus er over: I dag er det klart at Amediastiftelsen kjøper Aschehoug og villaen i Drammensveien 99 - og at forlegger Mads Nygaard fratrer. Ifølges opplysninger VG ble det på en generalforsamling med aksjonærene i går, onsdag, stemt over tilbud, og det er Amediastiftelsen som kjøper forlagsvirksomheten og den ærverdige villaen i Drammensveien 99. I en melding fra forlaget som har gått ut til ansatte og forfattere heter det at formell overtagelse ventes å skje rundt årsskiftet. «Amediastiftelsen kjøper Aschehoug og sikrer dermed et langsiktig og stabilt norsk stiftelseseierskap til et av Norges eldste og viktigste forlagshus», står det i meldingen.",
+      "keyPoints": [
+        "Elleve måneders spill om et av Norges eldste forlagshus er over: I dag er det klart at Amediastiftelsen kjøper Aschehoug og villaen i Drammensveien 99 - og at forlegger Mads Nygaard fratrer.",
+        "I en melding fra forlaget som har gått ut til ansatte og forfattere heter det at formell overtagelse ventes å skje rundt årsskiftet. «Amediastiftelsen kjøper Aschehoug og sikrer dermed et langsiktig og stabilt norsk stiftelseseierskap til et av Norges eldste og viktigste forlagshus», står det i meldingen.",
+        "Ifølges opplysninger VG ble det på en generalforsamling med aksjonærene i går, onsdag, stemt over tilbud, og det er Amediastiftelsen som kjøper forlagsvirksomheten og den ærverdige villaen i Drammensveien 99.",
+        "Direktør i Amediastiftelsen, André Støylen sier følgende: – Aschehoug har stor betydning for norsk kultur, samfunnsliv og ytringsfrihet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/zOXMpv/aschehoug-kjoepes-av-amediastiftelsen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1b72f8f0-9a35-3f86-a12e-948c931611ea?fit=crop&h=675&upscale=true&w=1200&s=b149b2cf544f4aaefad2d1f8ee6307e6a6fa4152",
+      "localImage": "assets/news/7211fd8c12778b.jpg",
+      "score": 13
+    },
+    {
       "id": "875384aea16b1e",
       "category": "Norge",
       "published": "03.09. 09:32",
       "publishedISO": "2026-09-03T09:32:10+02:00",
       "title": "Nyhetssenter Nordland",
-      "summary": "Etter kong Haralds bortgang inngikk flere av politikerne en enighet om borgfred, hvor de ikke kommer med politiske utspill i mediene eller deltar i skarpe politiske debatter før begravelsen er over. – Det er helt naturlig ay vi demper den politiske debatten de første dagene etter kongens død, men det er ikke så klokt å prøve og regulere hva folk skal få si og på hvilken måte i et demokrati, sier Nybø. Hun mener det gjør den offentlige debatten fattigere. – Folk demper seg helt naturlig, men det som skjer nå er at flere folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål som folk er opptatt av, forklarer generalsekretæren. Sykefraværet i Nordland var på 6,3 prosent i andre kvartal av 2026.",
+      "summary": "Etter kong Haralds bortgang inngikk flere av politikerne en enighet om borgfred, hvor de ikke kommer med politiske utspill i mediene eller deltar i skarpe politiske debatter før begravelsen er over. – Det er helt naturlig at vi demper den politiske debatten de første dagene etter kongens død, men det er ikke så klokt å prøve og regulere hva folk skal få si og på hvilken måte i et demokrati, sier Nybø. Hun mener det gjør den offentlige debatten fattigere. – Folk demper seg helt naturlig, men det som skjer nå er at flere folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål som folk er opptatt av, forklarer generalsekretæren. Sykefraværet i Nordland var på 6,3 prosent i andre kvartal av 2026.",
       "keyPoints": [
         "Sykefraværet i Nordland var på 6,3 prosent i andre kvartal av 2026.",
-        "Etter kong Haralds bortgang inngikk flere av politikerne en enighet om borgfred, hvor de ikke kommer med politiske utspill i mediene eller deltar i skarpe politiske debatter før begravelsen er over. – Det er helt naturlig ay vi demper den politiske debatten de første dagene etter kongens død, men det er ikke så klokt å prøve og regulere hva folk skal få si og på hvilken måte i et demokrati, sier Nybø.",
+        "Etter kong Haralds bortgang inngikk flere av politikerne en enighet om borgfred, hvor de ikke kommer med politiske utspill i mediene eller deltar i skarpe politiske debatter før begravelsen er over. – Det er helt naturlig at vi demper den politiske debatten de første dagene etter kongens død, men det er ikke så klokt å prøve og regulere hva folk skal få si og på hvilken måte i et demokrati, sier Nybø.",
         "Hun mener det gjør den offentlige debatten fattigere. – Folk demper seg helt naturlig, men det som skjer nå er at flere folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål som folk er opptatt av, forklarer generalsekretæren.",
         "Norges sjømatråd opplyser i en pressemelding at Norge eksporterte sjømat for 16 milliarder kroner i august. – Det er en historisk høy verdi for sjømateksporten i august, sier administrerende direktør i Norges sjømatråd, Christian Chramer."
       ],
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
       "localImage": "assets/news/875384aea16b1e.jpg",
-      "score": 13
-    },
-    {
-      "id": "26e6876bbe2103",
-      "category": "Norge",
-      "published": "03.09. 07:42",
-      "publishedISO": "2026-09-03T07:42:35+02:00",
-      "title": "MDG-møte bak stengte dører – viser til kongens død",
-      "summary": "Fylkesstyrets innstilling om stengte dører skal stemmes over, under nominasjonsmøtet. Men den rene feiringen og promoteringen av kandidatene våre, det venter vi med til etter kongens gravferd, sier Einangshaug til NRK. – Ingen pressemelding, ingen intervju, ingen sosiale medieposter fikk vi vite i går? – Det er oppfordringen vi har sendt til våre kandidater. Begrunnelsen for hvorfor nominasjonsmøtet bør foregå så å si i det skjulte, knyttes til restriksjonene som partiene har pålagt seg selv fram til kongens gravferd onsdag i neste uke.",
-      "keyPoints": [
-        "Men den rene feiringen og promoteringen av kandidatene våre, det venter vi med til etter kongens gravferd, sier Einangshaug til NRK. – Ingen pressemelding, ingen intervju, ingen sosiale medieposter fikk vi vite i går? – Det er oppfordringen vi har sendt til våre kandidater.",
-        "Fylkesstyrets innstilling om stengte dører skal stemmes over, under nominasjonsmøtet.",
-        "Begrunnelsen for hvorfor nominasjonsmøtet bør foregå så å si i det skjulte, knyttes til restriksjonene som partiene har pålagt seg selv fram til kongens gravferd onsdag i neste uke.",
-        "Til venstre jubler tidligere MDG-leder Une Bastholm. – Vi gjennomfører møtet så normalt som mulig, men med verdighet og en større respekt og stillhet for den landesorgen som vi er inne i, sier fylkesstyrets nestleder Miriam Einangshaug til NRKs Politisk kvarter i dag."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/mdg-mote-bak-stengte-dorer-_-viser-til-kongens-dod-1.18011435",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/RsCG_TLImeWLByHF6mAyJw0REnZMHDcwbhmyKjG9hbAg.jpg",
-      "localImage": "assets/news/26e6876bbe2103.webp",
       "score": 13
     }
   ]
