@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 04:15",
-  "updatedISO": "2026-09-03T04:15:48.560158+02:00",
+  "updatedAt": "03.09.2026 kl. 07:13",
+  "updatedISO": "2026-09-03T07:13:00.111883+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/5CHOPp6s3YjV7I3BGDdujwQ0X_U3HfQ4pezR_IHrnbrA.jpg",
       "localImage": "assets/news/ce065cec19c857.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "ac42312de7d450",
@@ -43,41 +43,41 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/h_dZyRq2C4Gzu70B_RRT-AgiBH779LvQ27jmY2sp2RNg.jpg",
       "localImage": "assets/news/ac42312de7d450.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "712155b60ca093",
+      "id": "52201cdd9ed1f5",
       "category": "Verden",
-      "published": "02.09. 18:49",
-      "publishedISO": "2026-09-02T18:49:00+02:00",
-      "title": "EU og NATO lover å øke presset på Russland etter «ny eskalering» i Leipzig",
-      "summary": "Russland har avvist tyske anklager om at en drone som fraktet eksplosiver bevisst målrettet et ukrainsk lastefly 4. august. Rosenberg: Putins tilslørte trussel mot Storbritannia en del av Russlands kampanje mot Vest-Tyskland sier Russland bak droneangrepet på Leipzig flyplass Zelensky sier at flyselskapene bør unngå russisk luftrom ettersom Ukraina eskalerer droneoperasjoner Von der Leyen var tydelig i sin uttalelse at Leipzig-angrepet hadde involvert \"militært materiale utført av russiske operatører på EU-jord\". Hun lovet at Europa og Nato bare ville opprettholde presset på Moskva, men \"vi vil øke det og vi vil ikke stoppe, ikke før Russland slutter å bombe og drepe uskyldige menn, kvinner og barn i Ukraina\".",
+      "published": "02.09. 18:12",
+      "publishedISO": "2026-09-02T18:12:43+02:00",
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "summary": "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky. De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det. Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
       "keyPoints": [
-        "Rosenberg: Putins tilslørte trussel mot Storbritannia en del av Russlands kampanje mot Vest-Tyskland sier Russland bak droneangrepet på Leipzig flyplass Zelensky sier at flyselskapene bør unngå russisk luftrom ettersom Ukraina eskalerer droneoperasjoner Von der Leyen var tydelig i sin uttalelse at Leipzig-angrepet hadde involvert \"militært materiale utført av russiske operatører på EU-jord\".",
-        "Hun lovet at Europa og Nato bare ville opprettholde presset på Moskva, men \"vi vil øke det og vi vil ikke stoppe, ikke før Russland slutter å bombe og drepe uskyldige menn, kvinner og barn i Ukraina\".",
-        "Russland har avvist tyske anklager om at en drone som fraktet eksplosiver bevisst målrettet et ukrainsk lastefly 4. august.",
-        "Det russiske huset i Berlin skal stenge som en del av Tysklands svar på Leipzig-hendelsen. Berlin har sagt at det vil stenge det russiske konsulatet i Bonn samt det russiske husets kulturinstitusjon, som er allment mistenkt i Berlin for å fungere som et propagandautsalg for Kreml."
+        "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky.",
+        "Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
+        "De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det.",
+        "Zelensky rettet advarselen til flyselskaper som fortsetter å fly til russiske flyplasser, spesielt i større byer som St. Petersburg og Moskva."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko",
+      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e37a/live/fe3f01b0-a6cb-11f1-b0c9-07afcdd8053c.jpg",
-      "localImage": "assets/news/712155b60ca093.jpg",
-      "score": 16
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d1e/live/cba5ddd0-a6e6-11f1-9e4c-79c1c0e340c6.jpg",
+      "localImage": "assets/news/52201cdd9ed1f5.jpg",
+      "score": 15
     },
     {
       "id": "1fcabf56e83ced",
       "category": "USA",
-      "published": "03.09. 03:56",
-      "publishedISO": "2026-09-03T03:56:05+02:00",
+      "published": "03.09. 05:39",
+      "publishedISO": "2026-09-03T05:39:53+02:00",
       "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "summary": "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre. Den gang fremhevet Bessent at en annen nålevende amerikansk president tidligere har dukket opp på landets valuta. Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
+      "summary": "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre. Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC Tilbake i mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump. Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
       "keyPoints": [
         "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre.",
         "Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
-        "Den gang fremhevet Bessent at en annen nålevende amerikansk president tidligere har dukket opp på landets valuta.",
-        "US Mint lanserte minnemynten på 1 dollar med et portrett av Trump sammen med ordene \"In God we trust\", for å feire USAs 250-årsjubileum."
+        "Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC Tilbake i mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump.",
+        "Onsdag lanserte US Mint minnemynten på 1 dollar med et portrett av Trump ved siden av ordene \"IN GOD WE TRUST\", for å feire USAs 250-årsjubileum."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
@@ -86,6 +86,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg",
       "localImage": "assets/news/1fcabf56e83ced.jpg",
       "score": 17
+    },
+    {
+      "id": "a4eed819ba881c",
+      "category": "Økonomi",
+      "published": "03.09. 06:25",
+      "publishedISO": "2026-09-03T06:25:44+02:00",
+      "title": "Danske Bank venter tre rentekutt i 2027",
+      "summary": "Danske Bank tror Norges Bank hever renten fra 4,25 til 4,5 prosent på rentemøtet i slutten av september, og samtidig varsler at toppen er nådd. Danske Bank venter en kjerneinflasjon på 3,0 prosent i år og 2,4 prosent neste år. Danske Bank venter at ledigheten stiger til 2,3 prosent i år og 2,4 prosent neste år.",
+      "keyPoints": [
+        "Danske Bank venter en kjerneinflasjon på 3,0 prosent i år og 2,4 prosent neste år.",
+        "Danske Bank tror Norges Bank hever renten fra 4,25 til 4,5 prosent på rentemøtet i slutten av september, og samtidig varsler at toppen er nådd.",
+        "Dermed kan Norges Bank «kutte renten tre ganger neste år og to ganger i 2028».",
+        "Til sammenligning venter Nordea også én heving i høst, men mener «Norges Bank er ikke i mål» og tror ikke på kutt før i 2028."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/m0a0y0/danske-bank-venter-tre-rentekutt-i-2027",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e916dc29-9415-38b2-a2a5-615428457a3a?fit=crop&h=675&upscale=true&w=1200&s=2652a6e37bc39172bfd4b48750b9f8ae5944ca2e",
+      "localImage": "assets/news/a4eed819ba881c.jpg",
+      "score": 22
     },
     {
       "id": "db72a83cf7708b",
@@ -109,6 +130,27 @@
       "score": 18
     },
     {
+      "id": "b8be855291970b",
+      "category": "AI",
+      "published": "02.09. 18:51",
+      "publishedISO": "2026-09-02T18:51:49+02:00",
+      "title": "Uber announces 3,000 job cuts as part of major restructure",
+      "summary": "Uber kutter mer enn 3000 jobber over hele verden som en del av en større overhaling designet for å krympe ledelseslag og omfokusere utgifter til kjernevirksomheten. Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer. I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
+      "keyPoints": [
+        "Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.",
+        "Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer.",
+        "I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
+        "Uber is cutting about 10% of its global workforce, bringing staffing back to levels last seen in 2021."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
+      "localImage": "assets/news/b8be855291970b.jpg",
+      "score": 15
+    },
+    {
       "id": "9dabd5b1c1405d",
       "category": "Økonomi",
       "published": "02.09. 08:00",
@@ -128,27 +170,6 @@
       "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
       "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 18
-    },
-    {
-      "id": "b8be855291970b",
-      "category": "AI",
-      "published": "02.09. 18:51",
-      "publishedISO": "2026-09-02T18:51:49+02:00",
-      "title": "Uber announces 3,000 job cuts as part of major restructure",
-      "summary": "Uber kutter mer enn 3000 jobber over hele verden som en del av en større overhaling designet for å krympe ledelseslag og omfokusere utgifter til kjernevirksomheten. Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer. I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
-      "keyPoints": [
-        "Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.",
-        "Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer.",
-        "I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
-        "Uber is cutting about 10% of its global workforce, bringing staffing back to levels last seen in 2021."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
-      "localImage": "assets/news/b8be855291970b.jpg",
-      "score": 16
     },
     {
       "id": "083cf4d8ee3c63",
@@ -190,28 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d86e95f1-c156-3c05-bd17-91c45814c263?fit=crop&h=675&upscale=true&w=1200&s=a16fca6e727aa1ce083a6ac85f412cfec4ff1bd9",
       "localImage": "assets/news/25d546a1d162f6.jpg",
-      "score": 15
-    },
-    {
-      "id": "52201cdd9ed1f5",
-      "category": "Verden",
-      "published": "02.09. 18:12",
-      "publishedISO": "2026-09-02T18:12:43+02:00",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "summary": "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky. De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det. Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
-      "keyPoints": [
-        "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky.",
-        "Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
-        "De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det.",
-        "Zelensky rettet advarselen til flyselskaper som fortsetter å fly til russiske flyplasser, spesielt i større byer som St. Petersburg og Moskva."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d1e/live/cba5ddd0-a6e6-11f1-9e4c-79c1c0e340c6.jpg",
-      "localImage": "assets/news/52201cdd9ed1f5.jpg",
-      "score": 15
+      "score": 14
     }
   ]
 }
