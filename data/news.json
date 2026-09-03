@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 14:58",
-  "updatedISO": "2026-09-03T14:58:36.320414+02:00",
+  "updatedAt": "03.09.2026 kl. 15:19",
+  "updatedISO": "2026-09-03T15:19:25.773134+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,24 +46,24 @@
       "score": 14
     },
     {
-      "id": "4e3dbe0fc45121",
+      "id": "0c4bfc04f53e7e",
       "category": "Verden",
-      "published": "03.09. 13:35",
-      "publishedISO": "2026-09-03T13:35:52+02:00",
-      "title": "Indonesia fires: Toxic haze spreads across South East Asia amid 'super' El Niño",
-      "summary": "Ettersom skogbranner forverres over store deler av Indonesia, kveler en skadelig dis regionen. Et teppe av giftig dis omslutter deler av Indonesia og sprer seg til Malaysia, Singapore og Filippinene, ettersom ukelange skogbranner fortsetter å brenne. Millioner av mennesker over store deler av Sørøst-Asia har blitt utsatt for smog, som i enkelte områder har ført til «akutt usunn» forurensning mer enn 15 ganger Verdens helseorganisasjons anbefalte nivå. Land over hele Sørøst-Asia rapporterer om skadelige nivåer av luftforurensning. Indonesias skog- og torvbrann er ikke et nytt fenomen.",
+      "published": "03.09. 15:07",
+      "publishedISO": "2026-09-03T15:07:02+02:00",
+      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+      "summary": "Nylige kommentarer fra USAs visepresident JD Vance om Antikrist og \"endetiden\" er en \"veldig, veldig vanlig tro\", sier en av vennene hans. Hans venn Rod Dreher, en konservativ skribent, avviste ethvert forslag om at kommentarene ville skade visepresidenten. Han sa til BBCs Today-program: \"De fleste amerikanere som er tilbøyelige til å stemme republikanere tror allerede på dette.\" I podcastkommentarene sine presiserte Vance også at slike tanker ikke opptok ham.",
       "keyPoints": [
-        "Millioner av mennesker over store deler av Sørøst-Asia har blitt utsatt for smog, som i enkelte områder har ført til «akutt usunn» forurensning mer enn 15 ganger Verdens helseorganisasjons anbefalte nivå.",
-        "Ettersom skogbranner forverres over store deler av Indonesia, kveler en skadelig dis regionen. Et teppe av giftig dis omslutter deler av Indonesia og sprer seg til Malaysia, Singapore og Filippinene, ettersom ukelange skogbranner fortsetter å brenne.",
-        "Land over hele Sørøst-Asia rapporterer om skadelige nivåer av luftforurensning. Indonesias skog- og torvbrann er ikke et nytt fenomen.",
-        "Mange av de pågående brannene har brent over Sumatra og indonesiske Borneo siden midten av juli – underbygget av en såkalt Super El Niño som forverrer tørkeforholdene."
+        "Nylige kommentarer fra USAs visepresident JD Vance om Antikrist og \"endetiden\" er en \"veldig, veldig vanlig tro\", sier en av vennene hans.",
+        "Han sa til BBCs Today-program: \"De fleste amerikanere som er tilbøyelige til å stemme republikanere tror allerede på dette.\" I podcastkommentarene sine presiserte Vance også at slike tanker ikke opptok ham.",
+        "Hans venn Rod Dreher, en konservativ skribent, avviste ethvert forslag om at kommentarene ville skade visepresidenten.",
+        "Dreher, som var til stede da Vance ble mottatt i den katolske kirken, sa Ronald Reagan hadde kommet med lignende kommentarer da han var USAs president, og at dette ble sett på som \"helt normalt\" av velgerne hans."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o",
+      "url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4952/live/e2983d40-a77b-11f1-b2d5-535b3b3d379f.jpg",
-      "localImage": "assets/news/4e3dbe0fc45121.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/965d/live/4e6fd280-a78b-11f1-9bb7-af8e8fd3d806.jpg",
+      "localImage": "assets/news/0c4bfc04f53e7e.jpg",
       "score": 13
     },
     {
@@ -172,6 +172,27 @@
       "score": 13
     },
     {
+      "id": "7547b63be58d9d",
+      "category": "Økonomi",
+      "published": "03.09. 15:09",
+      "publishedISO": "2026-09-03T15:09:18+02:00",
+      "title": "Akers AI-selskap Nscale inngår robotavtale",
+      "summary": "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure. Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar. Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
+      "keyPoints": [
+        "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure.",
+        "Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
+        "Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar.",
+        "I årets første kvartal var Nscale den største driveren til at Aker-verdiene krysset 100-milliardergrensen for første gang."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/QJOqvJ/akers-ai-selskap-nscale-inngaar-robotavtale-verdt-3-5-milliarder-dollar-med-mulig-utvidelse-til-over-6-milliarder",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/82e9f710-8493-3ffb-87b7-9ebd6a078dc5?fit=crop&h=675&upscale=true&w=1200&s=7070b59aedfa402c88d3723bcfb3e595dd8f5e41",
+      "localImage": "assets/news/7547b63be58d9d.jpg",
+      "score": 17
+    },
+    {
       "id": "cd7fe017ed5345",
       "category": "Økonomi",
       "published": "03.09. 12:03",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/b07d408a-daa2-304f-9864-2070d6fe7815?fit=crop&h=675&upscale=true&w=1200&s=c08724c82a04f0c1e4ac83b86ce31bdd79e5c54d",
       "localImage": "assets/news/cd7fe017ed5345.jpg",
       "score": 17
-    },
-    {
-      "id": "c02d4b6317daeb",
-      "category": "Økonomi",
-      "published": "03.09. 09:01",
-      "publishedISO": "2026-09-03T09:01:03+02:00",
-      "title": "Rederi faller kraftig på Oslo Børs etter nedsalg",
-      "summary": "Stemningen har tatt seg opp på Oslo Børs utover torsdag, etter en flat utvikling fra start. Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedsalg, er det flere shippingaksjer som gjør det bra. Rederiaksjeselskapet Torvald Klaveness har solgt mer enn 6,5 millioner aksjer, eller 11 prosent av selskapet.",
-      "keyPoints": [
-        "Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedsalg, er det flere shippingaksjer som gjør det bra.",
-        "Stemningen har tatt seg opp på Oslo Børs utover torsdag, etter en flat utvikling fra start.",
-        "Rederiaksjeselskapet Torvald Klaveness har solgt mer enn 6,5 millioner aksjer, eller 11 prosent av selskapet.",
-        "Aksjene ble solgt til en kurs på 94,7 kroner per aksje, som totalt utgjør rundt 619 millioner kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BxdMBg/rederi-faller-paa-oslo-boers-etter-storsalg",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/210fa833-f416-3b06-ad16-faa7dba58051?fit=crop&h=675&upscale=true&w=1200&s=d988725865078a74181def6b631c696501bdf8c0",
-      "localImage": "assets/news/c02d4b6317daeb.jpg",
-      "score": 16
     }
   ]
 }
