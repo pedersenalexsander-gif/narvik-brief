@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 14:17",
-  "updatedISO": "2026-09-03T14:17:05.851504+02:00",
+  "updatedAt": "03.09.2026 kl. 14:44",
+  "updatedISO": "2026-09-03T14:44:53.559369+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,16 +46,58 @@
       "score": 14
     },
     {
+      "id": "4e3dbe0fc45121",
+      "category": "Verden",
+      "published": "03.09. 13:35",
+      "publishedISO": "2026-09-03T13:35:52+02:00",
+      "title": "Indonesia fires: Toxic haze spreads across South East Asia amid 'super' El Niño",
+      "summary": "Ettersom skogbranner forverres over store deler av Indonesia, kveler en skadelig dis regionen. Et teppe av giftig dis omslutter deler av Indonesia og sprer seg til Malaysia, Singapore og Filippinene, ettersom ukelange skogbranner fortsetter å brenne. Millioner av mennesker over store deler av Sørøst-Asia har blitt utsatt for smog, som i enkelte områder har ført til «akutt usunn» forurensning mer enn 15 ganger Verdens helseorganisasjons anbefalte nivå. Land over hele Sørøst-Asia rapporterer om skadelige nivåer av luftforurensning. Indonesias skog- og torvbrann er ikke et nytt fenomen.",
+      "keyPoints": [
+        "Millioner av mennesker over store deler av Sørøst-Asia har blitt utsatt for smog, som i enkelte områder har ført til «akutt usunn» forurensning mer enn 15 ganger Verdens helseorganisasjons anbefalte nivå.",
+        "Ettersom skogbranner forverres over store deler av Indonesia, kveler en skadelig dis regionen. Et teppe av giftig dis omslutter deler av Indonesia og sprer seg til Malaysia, Singapore og Filippinene, ettersom ukelange skogbranner fortsetter å brenne.",
+        "Land over hele Sørøst-Asia rapporterer om skadelige nivåer av luftforurensning. Indonesias skog- og torvbrann er ikke et nytt fenomen.",
+        "Mange av de pågående brannene har brent over Sumatra og indonesiske Borneo siden midten av juli – underbygget av en såkalt Super El Niño som forverrer tørkeforholdene."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4952/live/e2983d40-a77b-11f1-b2d5-535b3b3d379f.jpg",
+      "localImage": "assets/news/4e3dbe0fc45121.jpg",
+      "score": 13
+    },
+    {
+      "id": "5177315d7cb9e9",
+      "category": "USA",
+      "published": "03.09. 13:24",
+      "publishedISO": "2026-09-03T13:24:11+02:00",
+      "title": "Watch: Gloria Steinem talks about her legacy in 2023 BBC interview",
+      "summary": "Steinem snakket med BBCs Faranak Amidi i desember 2023 for 100 Women-serien om hennes arv og hvilken endring hun håpet å se i verden i løpet av livet. \"Jeg vil bare si at jeg prøvde å gjøre verden litt mer rettferdig og litt mer representativ enn den var da jeg kom hit,\" sa Steinem. Mer om Gloria Steinems liv og innvirkning på feminisme Gloria Steinem snakker om arven hennes i BBC-intervjuet fra 2023. Video, 00:01:34Gloria Steinem snakker om arven sin i BBC-intervjuet Up Next i 2023.",
+      "keyPoints": [
+        "More on Gloria Steinem's life and impact on feminism Gloria Steinem talks about her legacy in 2023 BBC interview.",
+        "Video, 00:01:34Gloria Steinem talks about her legacy in 2023 BBC interview Up Next.",
+        "Steinem snakket med BBCs Faranak Amidi i desember 2023 for 100 Women-serien om hennes arv og hvilken endring hun håpet å se i verden i løpet av livet. \"Jeg vil bare si at jeg prøvde å gjøre verden litt mer rettferdig og litt mer representativ enn den var da jeg kom hit,\" sa Steinem.",
+        "Gloria Steinem, en av hovedstemmene til kvinnefrigjøringsbevegelsen i USA, er død 92 år gammel, opplyser stiftelsen hennes."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cnvl5dl6n5eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5f42/live/58ae2f70-a787-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/5177315d7cb9e9.jpg",
+      "score": 13
+    },
+    {
       "id": "848449739ce8cd",
       "category": "Økonomi",
       "published": "03.09. 14:07",
       "publishedISO": "2026-09-03T14:07:11+02:00",
       "title": "Nvidia kjøper Hugging Face for nær 13 milliarder dollar",
-      "summary": "Selskapet har blitt enige om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding. Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner. Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
+      "summary": "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding. Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner. Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
       "keyPoints": [
         "Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
         "Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner.",
-        "Selskapet har blitt enige om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding.",
+        "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding.",
         "Hugging Face er en nettplattform der utviklere kan dele, finne og bruke AI-modeller og andre AI-verktøy."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
@@ -64,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/191e473b-af74-3c27-93b5-346882b479aa?fit=crop&h=675&upscale=true&w=1200&s=25ec8b2da97b3d8601f7c86992f9c98ba6b6f694",
       "localImage": "assets/news/848449739ce8cd.jpg",
-      "score": 25
+      "score": 21
     },
     {
       "id": "a4eed819ba881c",
@@ -86,6 +128,48 @@
       "image": "https://akamai.vgc.no/v2/images/e916dc29-9415-38b2-a2a5-615428457a3a?fit=crop&h=675&upscale=true&w=1200&s=2652a6e37bc39172bfd4b48750b9f8ae5944ca2e",
       "localImage": "assets/news/a4eed819ba881c.jpg",
       "score": 21
+    },
+    {
+      "id": "6a509ac310aa3c",
+      "category": "AI",
+      "published": "03.09. 09:20",
+      "publishedISO": "2026-09-03T09:20:23+02:00",
+      "title": "Watch: BBC travels in self-driving Uber around London",
+      "summary": "BBCs Zoe Kleinman var den første britiske journalisten som hyllet en selvkjørende Uber i London – her er hvordan turen gikk. Les mer om hvordan det er å kjøre i en robotaxi Se: BBC reiser i selvkjørende Uber rundt i London. Video, 00:02:05Se: BBC reiser i selvkjørende Uber rundt London Up Next.",
+      "keyPoints": [
+        "Read more on what it's like to ride in a robotaxi Watch: BBC travels in self-driving Uber around London.",
+        "Video, 00:02:05Watch: BBC travels in self-driving Uber around London Up Next.",
+        "BBCs Zoe Kleinman var den første britiske journalisten som hyllet en selvkjørende Uber i London – her er hvordan turen gikk.",
+        "Kunder i London kan nå reise i Storbritannias første robotakse ettersom Uber lanserer sin selvkjørende minicab på torsdag – selskapet er det første som lanserer tjenesten."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40c5/live/aaf5c6a0-a767-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/6a509ac310aa3c.jpg",
+      "score": 16
+    },
+    {
+      "id": "b8be855291970b",
+      "category": "AI",
+      "published": "02.09. 18:51",
+      "publishedISO": "2026-09-02T18:51:49+02:00",
+      "title": "Uber announces 3,000 job cuts as part of major restructure",
+      "summary": "Uber kutter mer enn 3000 jobber over hele verden som en del av en større overhaling designet for å krympe ledelseslag og omfokusere utgifter til kjernevirksomheten. Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer. I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
+      "keyPoints": [
+        "Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.",
+        "Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer.",
+        "I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
+        "Uber is cutting about 10% of its global workforce, bringing staffing back to levels last seen in 2021."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
+      "localImage": "assets/news/b8be855291970b.jpg",
+      "score": 14
     },
     {
       "id": "cd7fe017ed5345",
@@ -128,90 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/210fa833-f416-3b06-ad16-faa7dba58051?fit=crop&h=675&upscale=true&w=1200&s=d988725865078a74181def6b631c696501bdf8c0",
       "localImage": "assets/news/c02d4b6317daeb.jpg",
       "score": 16
-    },
-    {
-      "id": "db72a83cf7708b",
-      "category": "Økonomi",
-      "published": "02.09. 12:51",
-      "publishedISO": "2026-09-02T12:51:46+02:00",
-      "title": "Vil eie mindre statsgjeld",
-      "summary": "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev. Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor. Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
-      "keyPoints": [
-        "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev.",
-        "Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor.",
-        "Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
-        "Fondet eier japanske statsobligasjoner for 252 milliarder og britisk statsgjeld for 194 milliarder."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/aJLWra/vil-eie-mindre-statsgjeld",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
-      "localImage": "assets/news/db72a83cf7708b.jpg",
-      "score": 16
-    },
-    {
-      "id": "9dabd5b1c1405d",
-      "category": "Økonomi",
-      "published": "02.09. 08:00",
-      "publishedISO": "2026-09-02T08:00:11+02:00",
-      "title": "Nordea Markets: Ingen rentekutt før 2028",
-      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-      "keyPoints": [
-        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
-        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
-        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
-      "localImage": "assets/news/9dabd5b1c1405d.jpg",
-      "score": 16
-    },
-    {
-      "id": "8789d1b81a0caf",
-      "category": "Norge",
-      "published": "03.09. 14:01",
-      "publishedISO": "2026-09-03T14:01:58+02:00",
-      "title": "Nyhetssenter Troms og Finnmark",
-      "summary": "Det globale fondet er en internasjonal organisasjon som arbeider for å utrydde hiv/aids, tuberkulose og malaria i verden. – Det globale fondet har vært med på å redde 70 millioner liv siden 2002. Personen er funnet i god behold, opplyser Troms politidistrikt. Ifølge tiltalen i Vestre Finnmark tingrett fisket mannen kongekrabbe ulovlig i kvoteregulert område i Porsangerfjorden.",
-      "keyPoints": [
-        "Personen er funnet i god behold, opplyser Troms politidistrikt.",
-        "Det globale fondet er en internasjonal organisasjon som arbeider for å utrydde hiv/aids, tuberkulose og malaria i verden. – Det globale fondet har vært med på å redde 70 millioner liv siden 2002.",
-        "Ifølge tiltalen i Vestre Finnmark tingrett fisket mannen kongekrabbe ulovlig i kvoteregulert område i Porsangerfjorden.",
-        "Vardø hadde 41 nyregistrerte foretak det siste året, viser tall avisa Østhavet har hentet fra Brønnøysundregistrene."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/nyhetssenter-troms-og-finnmark-1.16139260",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Dn8bbYlUs35j6W_llh-PYgE0jlylomheNVdOjM5l38WQ.jpg",
-      "localImage": "assets/news/8789d1b81a0caf.jpg",
-      "score": 13
-    },
-    {
-      "id": "54200b63ef5c37",
-      "category": "Norge",
-      "published": "03.09. 13:39",
-      "publishedISO": "2026-09-03T13:39:27+02:00",
-      "title": "Orkla kutter andelen makrell i pålegget Stabbur-Makrell",
-      "summary": "Det sier Harald Eia, som er en av mange nordmenn som tyr til det folkekjære pålegget makrell i tomat. Filet 170 gram: Fiskeinnholdet kuttes fra 71 til 60 prosent Filet 110 gram: Fiskeinnholdet kuttes fra 60 til 55 prosent Grovhakket 110 gram: Fiskeinnholdet går fra 60 til 55 prosent Eia spiser en ristet brødskive med makrell i tomat hver dag, med unntak av når han er på ferie. – Jeg spiser det til frokost og er mett lenge, og holder ut helt til lunsjen klokka 12. En makrellbestand under press, er årsaken til at Orkla nå kutter i andelen fisk i Stabbur-Makrell.",
-      "keyPoints": [
-        "En makrellbestand under press, er årsaken til at Orkla nå kutter i andelen fisk i Stabbur-Makrell.",
-        "Filet 170 gram: Fiskeinnholdet kuttes fra 71 til 60 prosent Filet 110 gram: Fiskeinnholdet kuttes fra 60 til 55 prosent Grovhakket 110 gram: Fiskeinnholdet går fra 60 til 55 prosent Eia spiser en ristet brødskive med makrell i tomat hver dag, med unntak av når han er på ferie. – Jeg spiser det til frokost og er mett lenge, og holder ut helt til lunsjen klokka 12.",
-        "Det sier Harald Eia, som er en av mange nordmenn som tyr til det folkekjære pålegget makrell i tomat.",
-        "Tilgangen på makrell har også ført til høyere råvarepriser og mindre tilgang til råstoff som benyttes til å produsere pålegget."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/orkla-kutter-andelen-makrell-i-palegget-stabbur-makrell-1.18011797",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6el--QFCtgaGvDZE-SWxFweblbgDCPuSf0-HgRZqZ6EQ.jpg",
-      "localImage": "assets/news/54200b63ef5c37.webp",
-      "score": 13
     }
   ]
 }
