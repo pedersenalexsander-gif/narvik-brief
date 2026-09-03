@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 15:53",
-  "updatedISO": "2026-09-03T15:53:51.956324+02:00",
+  "updatedAt": "03.09.2026 kl. 16:12",
+  "updatedISO": "2026-09-03T16:12:49.691558+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,25 +25,25 @@
       "score": 35
     },
     {
-      "id": "ac42312de7d450",
+      "id": "3866dcb46fad12",
       "category": "Norge",
-      "published": "02.09. 20:31",
-      "publishedISO": "2026-09-02T20:31:53+02:00",
-      "title": "Hollywood utelater Norges glemte krigshelt",
-      "summary": "En helt avgjørende brikke er nemlig klippet helt bort fra historien. – Det var en nordmann som fikk D-dagen utsatt, det har vært kjent i hvert fall 20 år, sier historiker Magnus Vollset ved Universitetet i Bergen. Han var aldri ved fronten og avfyrte aldri et skudd, men begge historikerne regner ham som en av Norges fremste krigshelter. – Definitivt. Norges første værdame, Reidun Holmøy, jubler først litt over at faget hennes er tema i en Hollywood-storfilm. – Som oftest er det jakting på tornadoer og sånne ting, sier Holmøy, som gleder seg til å se en film som nesten utelukkende handler om meteorologi.",
+      "published": "03.09. 15:56",
+      "publishedISO": "2026-09-03T15:56:25+02:00",
+      "title": "Facebook-sider i Vietnam spredte falske bilder av syk kong Harald",
+      "summary": "KI-genererte bilder av kong Harald i sykesenga spres i sosiale medier fra klikkfabrikker i Vietnam. – En milliardindustri, sier forsker. De siste dagene har flere falske bilder og sitater narret nordmenn. Men det er mye i Facebook-innlegget som ikke stemmer: I forbindelse med kongens død har det flommet over av poster med falske bilder av kong Harald på sykehuset.",
       "keyPoints": [
-        "En helt avgjørende brikke er nemlig klippet helt bort fra historien. – Det var en nordmann som fikk D-dagen utsatt, det har vært kjent i hvert fall 20 år, sier historiker Magnus Vollset ved Universitetet i Bergen.",
-        "Norges første værdame, Reidun Holmøy, jubler først litt over at faget hennes er tema i en Hollywood-storfilm. – Som oftest er det jakting på tornadoer og sånne ting, sier Holmøy, som gleder seg til å se en film som nesten utelukkende handler om meteorologi.",
-        "Han var aldri ved fronten og avfyrte aldri et skudd, men begge historikerne regner ham som en av Norges fremste krigshelter. – Definitivt.",
-        "Da de allierte strykene stormet strendene i Normandie, 6. juni 1944, sto hele Europas skjebne på spill."
+        "KI-genererte bilder av kong Harald i sykesenga spres i sosiale medier fra klikkfabrikker i Vietnam. – En milliardindustri, sier forsker.",
+        "Men det er mye i Facebook-innlegget som ikke stemmer: I forbindelse med kongens død har det flommet over av poster med falske bilder av kong Harald på sykehuset.",
+        "De siste dagene har flere falske bilder og sitater narret nordmenn.",
+        "I kollasjen er det også et bilde av Haakon som våker over kong Harald i sykesenga, mens han holder faren i hånda."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/kultur/hollywood-utelater-norges-glemte-krigshelt-1.18010158",
+      "url": "https://www.nrk.no/norge/xl/facebook-sider-i-vietnam-spredte-falske-bilder-av-syk-kong-harald-1.18011392",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/h_dZyRq2C4Gzu70B_RRT-AgiBH779LvQ27jmY2sp2RNg.jpg",
-      "localImage": "assets/news/ac42312de7d450.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/xbCUeB3eojyUw555DBcfFAVlNUT2Oiv4XtFp1_4BF4ag.jpg",
+      "localImage": "assets/news/3866dcb46fad12.jpg",
+      "score": 17
     },
     {
       "id": "0c4bfc04f53e7e",
@@ -177,18 +177,18 @@
       "published": "03.09. 15:09",
       "publishedISO": "2026-09-03T15:09:18+02:00",
       "title": "Akers AI-selskap Nscale inngår robotavtale",
-      "summary": "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure. Nscale skriver at «avtalen representere muligheten» til å sette til verks 100.000 grafikkprosessorer (GPUer) fra Nvidia, som skal brukes til å trene Figures AI-modeller. – Dette er svinghjulet for fysisk AI som vil fremskynde veien fra modeller til roboter i den virkelige verden, sier Nvidia-sjef Jensen Huang i forbindelse med avtalen. Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
+      "summary": "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure. Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar. Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
       "keyPoints": [
         "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure.",
         "Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
-        "Nscale skriver at «avtalen representere muligheten» til å sette til verks 100.000 grafikkprosessorer (GPUer) fra Nvidia, som skal brukes til å trene Figures AI-modeller. – Dette er svinghjulet for fysisk AI som vil fremskynde veien fra modeller til roboter i den virkelige verden, sier Nvidia-sjef Jensen Huang i forbindelse med avtalen.",
-        "Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar."
+        "Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar.",
+        "Nscale skriver at «avtalen representere muligheten» til å sette til verks 100.000 grafikkprosessorer (GPUer) fra Nvidia, som skal brukes til å trene Figures AI-modeller. – Dette er svinghjulet for fysisk AI som vil fremskynde veien fra modeller til roboter i den virkelige verden, sier Nvidia-sjef Jensen Huang i forbindelse med avtalen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/QJOqvJ/akers-ai-selskap-nscale-inngaar-robotavtale-verdt-3-5-milliarder-dollar-med-mulig-utvidelse-til-over-6-milliarder",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f1781f33-4787-30bb-900f-a0e56a396be1?fit=crop&h=675&upscale=true&w=1200&s=cec3da2c5e6fbe24140c36f7702aac31b7b290f5",
+      "image": "https://akamai.vgc.no/v2/images/3c92ca3c-4f4b-35f0-9ecf-0fe17753a155?fit=crop&h=675&upscale=true&w=1200&s=5737c64171e7d4622857b5d61f1177cb623119c9",
       "localImage": "assets/news/7547b63be58d9d.jpg",
       "score": 17
     },
