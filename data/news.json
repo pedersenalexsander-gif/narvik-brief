@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 11:57",
-  "updatedISO": "2026-09-03T11:57:00.879275+02:00",
+  "updatedAt": "03.09.2026 kl. 12:15",
+  "updatedISO": "2026-09-03T12:15:19.803738+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -56,7 +56,7 @@
         "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre.",
         "Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
         "Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC Tilbake i mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump.",
-        "Onsdag lanserte US Mint $1-mynten med et portrett av Trump sammen med ordene \"LIBERTY\" og \"IN GOD WE TRUST\", for å feire USAs 250-årsjubileum."
+        "Onsdag lanserte US Mint $1-mynten med et portrett av Trump sammen med ordene «LIBERTY» og «IN GOD WE TRUST», for å feire USAs 250-årsjubileum."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -109,24 +109,24 @@
       "score": 21
     },
     {
-      "id": "c02d4b6317daeb",
+      "id": "cd7fe017ed5345",
       "category": "Økonomi",
-      "published": "03.09. 09:01",
-      "publishedISO": "2026-09-03T09:01:03+02:00",
-      "title": "Rederi faller kraftig på Oslo Børs etter nedsalg",
-      "summary": "Det er relativt flat utvikling på Oslo Børs tidlig torsdag. Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedsalg, er det flere shippingaksjer som gjør det bra. Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
+      "published": "03.09. 12:03",
+      "publishedISO": "2026-09-03T12:03:02+02:00",
+      "title": "Stortap for Andresen-familiens sportsgigant",
+      "summary": "De siste tre årene har konsernet gått med underskudd på totalt 552 millioner kroner. Selskapet eies i sin helhet av Andresen-familiens investeringsselskap Ferd. Ved inngangen til 2026 hadde Brav en egenkapital på kun 95 millioner kroner, ned fra 373 millioner kroner året før.",
       "keyPoints": [
-        "Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedsalg, er det flere shippingaksjer som gjør det bra.",
-        "Det er relativt flat utvikling på Oslo Børs tidlig torsdag.",
-        "Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
-        "Aksjene ble solgt til en kurs på 94,7 kroner per aksje, som totalt utgjør rundt 619 millioner kroner."
+        "Selskapet eies i sin helhet av Andresen-familiens investeringsselskap Ferd.",
+        "Ved inngangen til 2026 hadde Brav en egenkapital på kun 95 millioner kroner, ned fra 373 millioner kroner året før.",
+        "De siste tre årene har konsernet gått med underskudd på totalt 552 millioner kroner.",
+        "Årsresultatet endte på minus 275 millioner kroner, det største tapet i selskapets historie."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BxdMBg/rederi-faller-paa-oslo-boers-etter-storsalg",
+      "url": "https://e24.no/naeringsliv/i/16wq5e/stortap-for-andresen-familiens-sportsgigant",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/210fa833-f416-3b06-ad16-faa7dba58051?fit=crop&h=675&upscale=true&w=1200&s=d988725865078a74181def6b631c696501bdf8c0",
-      "localImage": "assets/news/c02d4b6317daeb.jpg",
+      "image": "https://akamai.vgc.no/v2/images/b07d408a-daa2-304f-9864-2070d6fe7815?fit=crop&h=675&upscale=true&w=1200&s=c08724c82a04f0c1e4ac83b86ce31bdd79e5c54d",
+      "localImage": "assets/news/cd7fe017ed5345.jpg",
       "score": 17
     },
     {
@@ -172,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "c02d4b6317daeb",
+      "category": "Økonomi",
+      "published": "03.09. 09:01",
+      "publishedISO": "2026-09-03T09:01:03+02:00",
+      "title": "Rederi faller kraftig på Oslo Børs etter nedsalg",
+      "summary": "Det er relativt flat utvikling på Oslo Børs tidlig torsdag. Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedsalg, er det flere shippingaksjer som gjør det bra. Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
+      "keyPoints": [
+        "Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedsalg, er det flere shippingaksjer som gjør det bra.",
+        "Det er relativt flat utvikling på Oslo Børs tidlig torsdag.",
+        "Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
+        "Aksjene ble solgt til en kurs på 94,7 kroner per aksje, som totalt utgjør rundt 619 millioner kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/BxdMBg/rederi-faller-paa-oslo-boers-etter-storsalg",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/210fa833-f416-3b06-ad16-faa7dba58051?fit=crop&h=675&upscale=true&w=1200&s=d988725865078a74181def6b631c696501bdf8c0",
+      "localImage": "assets/news/c02d4b6317daeb.jpg",
+      "score": 17
+    },
+    {
       "id": "db72a83cf7708b",
       "category": "Økonomi",
       "published": "02.09. 12:51",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
       "localImage": "assets/news/db72a83cf7708b.jpg",
-      "score": 17
-    },
-    {
-      "id": "9dabd5b1c1405d",
-      "category": "Økonomi",
-      "published": "02.09. 08:00",
-      "publishedISO": "2026-09-02T08:00:11+02:00",
-      "title": "Nordea Markets: Ingen rentekutt før 2028",
-      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-      "keyPoints": [
-        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
-        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
-        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
-      "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 17
     }
   ]
