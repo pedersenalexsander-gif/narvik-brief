@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 19:42",
-  "updatedISO": "2026-09-03T19:42:52.059929+02:00",
+  "updatedAt": "03.09.2026 kl. 19:55",
+  "updatedISO": "2026-09-03T19:55:31.496768+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,6 +172,27 @@
       "score": 15
     },
     {
+      "id": "0c24ac4e2603dc",
+      "category": "Økonomi",
+      "published": "03.09. 19:51",
+      "publishedISO": "2026-09-03T19:51:32+02:00",
+      "title": "Nederland flytter gull ut av Trumps bakgård",
+      "summary": "86 tonn gull har blitt flyttet fra USA og Canada til London. 59 tonn ble solgt i New York, før det deretter ble kjøpt gull i London som møter internasjonal standard. 27 tonn ble fysisk flyttet fra USA og Canada til Nederland, mens tilsvarende mengde gull som møter internasjonal standard ble sendt fra Nederland til London.",
+      "keyPoints": [
+        "27 tonn ble fysisk flyttet fra USA og Canada til Nederland, mens tilsvarende mengde gull som møter internasjonal standard ble sendt fra Nederland til London.",
+        "59 tonn ble solgt i New York, før det deretter ble kjøpt gull i London som møter internasjonal standard.",
+        "Samtidig er beholdningen i London økt til 32,1 prosent, mens gullet i Nederland holdes uendret på 30,8 prosent.",
+        "Gullet til Nederland har vært på flyttefot i det siste."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/3pQxpv/nederland-flytter-gull-ut-av-trumps-bakgaard",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/51ce215c-dfc6-3d7a-ae23-fac816d007bb?fit=crop&h=675&upscale=true&w=1200&s=f2988cecea0007cf2a6dde9d8b2607b04b31c64a",
+      "localImage": "assets/news/0c24ac4e2603dc.jpg",
+      "score": 17
+    },
+    {
       "id": "a4a5419b5f5e4e",
       "category": "Norge",
       "published": "03.09. 16:40",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Xg0ayEXeTUMHocVn3N3rhQT1GuB5axeDXVwEJNqf1vjw.jpg",
       "localImage": "assets/news/a4a5419b5f5e4e.jpg",
-      "score": 17
-    },
-    {
-      "id": "3866dcb46fad12",
-      "category": "Norge",
-      "published": "03.09. 15:56",
-      "publishedISO": "2026-09-03T15:56:25+02:00",
-      "title": "Facebook-sider i Vietnam spredte falske bilder av syk kong Harald",
-      "summary": "KI-genererte bilder av kong Harald i sykesenga spres i sosiale medier fra klikkfabrikker i Vietnam. – En milliardindustri, sier forsker. De siste dagene har flere falske bilder og sitater narret nordmenn. Men det er mye i Facebook-innlegget som ikke stemmer: I forbindelse med kongens død har det flommet over av poster med falske bilder av kong Harald på sykehuset.",
-      "keyPoints": [
-        "KI-genererte bilder av kong Harald i sykesenga spres i sosiale medier fra klikkfabrikker i Vietnam. – En milliardindustri, sier forsker.",
-        "Men det er mye i Facebook-innlegget som ikke stemmer: I forbindelse med kongens død har det flommet over av poster med falske bilder av kong Harald på sykehuset.",
-        "De siste dagene har flere falske bilder og sitater narret nordmenn.",
-        "I kollasjen er det også et bilde av Haakon som våker over kong Harald i sykesenga, mens han holder faren i hånda."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/xl/facebook-sider-i-vietnam-spredte-falske-bilder-av-syk-kong-harald-1.18011392",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xbCUeB3eojyUw555DBcfFAVlNUT2Oiv4XtFp1_4BF4ag.jpg",
-      "localImage": "assets/news/3866dcb46fad12.jpg",
       "score": 17
     }
   ]
