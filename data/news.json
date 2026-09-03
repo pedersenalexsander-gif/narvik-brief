@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 03:41",
-  "updatedISO": "2026-09-03T03:41:39.503674+02:00",
+  "updatedAt": "03.09.2026 kl. 03:54",
+  "updatedISO": "2026-09-03T03:54:30.599652+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 16
     },
     {
-      "id": "db72a83cf7708b",
-      "category": "Økonomi",
-      "published": "02.09. 12:51",
-      "publishedISO": "2026-09-02T12:51:46+02:00",
-      "title": "Vil eie mindre statsgjeld",
-      "summary": "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev. Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor. Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
-      "keyPoints": [
-        "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev.",
-        "Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor.",
-        "Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
-        "Fondet eier japanske statsobligasjoner for 252 milliarder og britisk statsgjeld for 194 milliarder."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/aJLWra/vil-eie-mindre-statsgjeld",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
-      "localImage": "assets/news/db72a83cf7708b.jpg",
-      "score": 19
-    },
-    {
       "id": "9dabd5b1c1405d",
       "category": "Økonomi",
       "published": "02.09. 08:00",
@@ -107,6 +86,27 @@
       "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
       "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 19
+    },
+    {
+      "id": "db72a83cf7708b",
+      "category": "Økonomi",
+      "published": "02.09. 12:51",
+      "publishedISO": "2026-09-02T12:51:46+02:00",
+      "title": "Vil eie mindre statsgjeld",
+      "summary": "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev. Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor. Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
+      "keyPoints": [
+        "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev.",
+        "Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor.",
+        "Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
+        "Fondet eier japanske statsobligasjoner for 252 milliarder og britisk statsgjeld for 194 milliarder."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/aJLWra/vil-eie-mindre-statsgjeld",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
+      "localImage": "assets/news/db72a83cf7708b.jpg",
+      "score": 18
     },
     {
       "id": "b8be855291970b",
