@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 17:56",
-  "updatedISO": "2026-09-03T17:56:52.781964+02:00",
+  "updatedAt": "03.09.2026 kl. 18:15",
+  "updatedISO": "2026-09-03T18:15:50.287807+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -51,9 +51,9 @@
       "published": "03.09. 17:35",
       "publishedISO": "2026-09-03T17:35:47+02:00",
       "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "summary": "Donald Trumps portrett har gått videre til en amerikansk mynt – det siste grepet fra presidenten for å sette sitt personlige preg på amerikanske institusjoner. Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC I mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump. Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
+      "summary": "Donald Trumps portrett har funnet veien videre til en amerikansk mynt – det siste trekket fra presidenten for å sette sitt personlige preg på amerikanske institusjoner. Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC I mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump. Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
       "keyPoints": [
-        "Donald Trumps portrett har gått videre til en amerikansk mynt – det siste grepet fra presidenten for å sette sitt personlige preg på amerikanske institusjoner.",
+        "Donald Trumps portrett har funnet veien videre til en amerikansk mynt – det siste trekket fra presidenten for å sette sitt personlige preg på amerikanske institusjoner.",
         "Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
         "Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC I mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump.",
         "Onsdag lanserte US Mint mynten på $1 (£0,74) med et portrett av Trump sammen med ordene «Liberty» og «In God We Trust», for å feire USAs 250-årsjubileum."
@@ -130,6 +130,27 @@
       "score": 20
     },
     {
+      "id": "8690d18270cc0a",
+      "category": "AI",
+      "published": "03.09. 18:01",
+      "publishedISO": "2026-09-03T18:01:39+02:00",
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "summary": "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare. Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy. I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
+      "keyPoints": [
+        "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare.",
+        "I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
+        "Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy.",
+        "Avtalen vil være en \"stor seier for innovatører og forbrukere over hele verden\" hvis Nvidia holder Hugging Face åpen og tilgjengelig, la han til."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/8690d18270cc0a.jpg",
+      "score": 21
+    },
+    {
       "id": "6a509ac310aa3c",
       "category": "AI",
       "published": "03.09. 09:20",
@@ -149,27 +170,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40c5/live/aaf5c6a0-a767-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/6a509ac310aa3c.jpg",
       "score": 16
-    },
-    {
-      "id": "b8be855291970b",
-      "category": "AI",
-      "published": "02.09. 18:51",
-      "publishedISO": "2026-09-02T18:51:49+02:00",
-      "title": "Uber announces 3,000 job cuts as part of major restructure",
-      "summary": "Uber kutter mer enn 3000 jobber over hele verden som en del av en større overhaling designet for å krympe ledelseslag og omfokusere utgifter til kjernevirksomheten. Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer. I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
-      "keyPoints": [
-        "Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.",
-        "Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer.",
-        "I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
-        "Uber is cutting about 10% of its global workforce, bringing staffing back to levels last seen in 2021."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
-      "localImage": "assets/news/b8be855291970b.jpg",
-      "score": 13
     },
     {
       "id": "3866dcb46fad12",
