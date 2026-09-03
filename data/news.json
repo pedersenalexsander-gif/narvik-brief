@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 08:44",
-  "updatedISO": "2026-09-03T08:44:59.958223+02:00",
+  "updatedAt": "03.09.2026 kl. 08:59",
+  "updatedISO": "2026-09-03T08:59:41.248069+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 22
     },
     {
-      "id": "db72a83cf7708b",
-      "category": "Økonomi",
-      "published": "02.09. 12:51",
-      "publishedISO": "2026-09-02T12:51:46+02:00",
-      "title": "Vil eie mindre statsgjeld",
-      "summary": "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev. Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor. Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
-      "keyPoints": [
-        "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev.",
-        "Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor.",
-        "Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
-        "Fondet eier japanske statsobligasjoner for 252 milliarder og britisk statsgjeld for 194 milliarder."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/aJLWra/vil-eie-mindre-statsgjeld",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
-      "localImage": "assets/news/db72a83cf7708b.jpg",
-      "score": 18
-    },
-    {
       "id": "9dabd5b1c1405d",
       "category": "Økonomi",
       "published": "02.09. 08:00",
@@ -107,6 +86,27 @@
       "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
       "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 18
+    },
+    {
+      "id": "db72a83cf7708b",
+      "category": "Økonomi",
+      "published": "02.09. 12:51",
+      "publishedISO": "2026-09-02T12:51:46+02:00",
+      "title": "Vil eie mindre statsgjeld",
+      "summary": "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev. Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor. Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
+      "keyPoints": [
+        "Norges Bank vil at Oljefondet skal investere mindre i statsgjeld. «En statsandel på 50 prosent vil være tilstrekkelig», skriver de i et brev.",
+        "Norges Bank har sendt to brev til regjeringen, ett om hvilke rentepapirer Oljefondet bør eie, og ett om den geopolitiske risikoen fondet står overfor.",
+        "Mange land har høy gjeld. «Uavhengig av om statsobligasjoner vektes etter BNP eller markedsverdi, vil det kunne oppstå en situasjon der Norges Bank eier statsgjeld til et land med gjeldsproblemer», skriver Norges Bank. «Som kreditor kan Norges Bank måtte ta stilling til gjeldslette, restrukturering eller sanksjoner.",
+        "Fondet eier japanske statsobligasjoner for 252 milliarder og britisk statsgjeld for 194 milliarder."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/aJLWra/vil-eie-mindre-statsgjeld",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
+      "localImage": "assets/news/db72a83cf7708b.jpg",
+      "score": 17
     },
     {
       "id": "083cf4d8ee3c63",
@@ -177,12 +177,12 @@
       "published": "03.09. 07:42",
       "publishedISO": "2026-09-03T07:42:35+02:00",
       "title": "MDG-møte bak stengte dører – viser til kongens død",
-      "summary": "Den politiske borgfreden etter kong Haralds død brukes som begrunnelse når Oslo MDG i kveld ønsker å stenge dørene til et nominasjonsmøte som tegner til å bli meget dramatisk: Dette er iallfall innstillingen fra fylkesstyret i MDG, som støtter seg til anbefalinger fra partiet sentralt og partisekretær Kristin Antun. Fylkesstyrets innstilling om stengte dører skal stemmes over, under nominasjonsmøtet. Men den rene feiringen og promoteringen av kandidatene våre, det venter vi med til etter kongens gravferd, sier Einangshaug til NRK. – Ingen pressemelding, ingen intervju, ingen sosiale medieposter fikk vi vite i går? – Det er oppfordringen vi har sendt til våre kandidater.",
+      "summary": "Fylkesstyrets innstilling om stengte dører skal stemmes over, under nominasjonsmøtet. Men den rene feiringen og promoteringen av kandidatene våre, det venter vi med til etter kongens gravferd, sier Einangshaug til NRK. – Ingen pressemelding, ingen intervju, ingen sosiale medieposter fikk vi vite i går? – Det er oppfordringen vi har sendt til våre kandidater. Begrunnelsen for hvorfor nominasjonsmøtet bør foregå så å si i det skjulte, knyttes til restriksjonene som partiene har pålagt seg selv fram til kongens gravferd onsdag i neste uke.",
       "keyPoints": [
         "Men den rene feiringen og promoteringen av kandidatene våre, det venter vi med til etter kongens gravferd, sier Einangshaug til NRK. – Ingen pressemelding, ingen intervju, ingen sosiale medieposter fikk vi vite i går? – Det er oppfordringen vi har sendt til våre kandidater.",
         "Fylkesstyrets innstilling om stengte dører skal stemmes over, under nominasjonsmøtet.",
-        "Den politiske borgfreden etter kong Haralds død brukes som begrunnelse når Oslo MDG i kveld ønsker å stenge dørene til et nominasjonsmøte som tegner til å bli meget dramatisk: Dette er iallfall innstillingen fra fylkesstyret i MDG, som støtter seg til anbefalinger fra partiet sentralt og partisekretær Kristin Antun.",
-        "Begrunnelsen for hvorfor nominasjonsmøtet bør foregå så å si i det skjulte, knyttes til restriksjonene som partiene har pålagt seg selv fram til kongens gravferd onsdag i neste uke."
+        "Begrunnelsen for hvorfor nominasjonsmøtet bør foregå så å si i det skjulte, knyttes til restriksjonene som partiene har pålagt seg selv fram til kongens gravferd onsdag i neste uke.",
+        "Til venstre jubler tidligere MDG-leder Une Bastholm. – Vi gjennomfører møtet så normalt som mulig, men med verdighet og en større respekt og stillhet for den landesorgen som vi er inne i, sier fylkesstyrets nestleder Miriam Einangshaug til NRKs Politisk kvarter i dag."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
