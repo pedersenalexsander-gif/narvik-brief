@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 10:55",
-  "updatedISO": "2026-09-03T10:55:22.393799+02:00",
+  "updatedAt": "03.09.2026 kl. 11:12",
+  "updatedISO": "2026-09-03T11:12:37.703110+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,6 +46,48 @@
       "score": 15
     },
     {
+      "id": "1fcabf56e83ced",
+      "category": "Verden",
+      "published": "03.09. 05:39",
+      "publishedISO": "2026-09-03T05:39:53+02:00",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "summary": "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre. Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC Tilbake i mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump. Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
+      "keyPoints": [
+        "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre.",
+        "Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
+        "Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC Tilbake i mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump.",
+        "Onsdag lanserte US Mint $1-mynten med et portrett av Trump sammen med ordene \"LIBERTY\" og \"IN GOD WE TRUST\", for å feire USAs 250-årsjubileum."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg",
+      "localImage": "assets/news/1fcabf56e83ced.jpg",
+      "score": 16
+    },
+    {
+      "id": "bde6204543b085",
+      "category": "USA",
+      "published": "03.09. 09:57",
+      "publishedISO": "2026-09-03T09:57:23+02:00",
+      "title": "Canadian 'island' appears to vanish and reappear miles away",
+      "summary": "En flytende \"øy\" i et reservoar i British Columbia har dukket opp omtrent 32 km fra der den sist ble oppdaget, etter at den så ut til å forsvinne i juli. Grafikk av Sally Nicholls Hvorfor forsvant denne kanadiske \"øya\" og dukket opp igjen milevis unna? Video, 00:01:05Hvorfor forsvant denne kanadiske \"øya\" og dukket opp igjen milevis unna?",
+      "keyPoints": [
+        "Video, 00:01:05Hvorfor forsvant denne kanadiske \"øya\" og dukket opp igjen milevis unna?",
+        "En flytende \"øy\" i et reservoar i British Columbia har dukket opp omtrent 32 km fra der den sist ble oppdaget, etter at den så ut til å forsvinne i juli.",
+        "Video, 00:01:31'Ingenting annet enn gjørme og silt' - landsbyen feid bort av dødelige flom i Nepal 'Det er vanskelig å balansere følelser og profesjonalitet', sier Nepals redningsmann.",
+        "Video, 00:01:14Hvilke kjente scener er i det episke Bayeux-teppet? \"Ingenting annet enn gjørme og silt\" - landsbyen ble revet med av dødelige flom i Nepal."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cly4zxd7e7wo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbc3/live/1bb95520-a702-11f1-aed2-8d6da8d75094.png",
+      "localImage": "assets/news/bde6204543b085.png",
+      "score": 13
+    },
+    {
       "id": "a4eed819ba881c",
       "category": "Økonomi",
       "published": "03.09. 06:25",
@@ -88,6 +130,48 @@
       "score": 17
     },
     {
+      "id": "6a509ac310aa3c",
+      "category": "AI",
+      "published": "03.09. 09:20",
+      "publishedISO": "2026-09-03T09:20:23+02:00",
+      "title": "Watch: BBC travels in self-driving Uber around London",
+      "summary": "BBCs Zoe Kleinman var den første britiske journalisten som hyllet en selvkjørende Uber i London – her er hvordan turen gikk. Les mer om hvordan det er å kjøre i en robotaxi Se: BBC reiser i selvkjørende Uber rundt i London. Video, 00:02:05Se: BBC reiser i selvkjørende Uber rundt London Up Next.",
+      "keyPoints": [
+        "Read more on what it's like to ride in a robotaxi Watch: BBC travels in self-driving Uber around London.",
+        "Video, 00:02:05Watch: BBC travels in self-driving Uber around London Up Next.",
+        "BBCs Zoe Kleinman var den første britiske journalisten som hyllet en selvkjørende Uber i London – her er hvordan turen gikk.",
+        "Kunder i London kan nå reise i Storbritannias første robotakse ettersom Uber lanserer sin selvkjørende minicab på torsdag – selskapet er det første som lanserer tjenesten."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40c5/live/aaf5c6a0-a767-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/6a509ac310aa3c.jpg",
+      "score": 17
+    },
+    {
+      "id": "b8be855291970b",
+      "category": "AI",
+      "published": "02.09. 18:51",
+      "publishedISO": "2026-09-02T18:51:49+02:00",
+      "title": "Uber announces 3,000 job cuts as part of major restructure",
+      "summary": "Uber kutter mer enn 3000 jobber over hele verden som en del av en større overhaling designet for å krympe ledelseslag og omfokusere utgifter til kjernevirksomheten. Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer. I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
+      "keyPoints": [
+        "Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.",
+        "Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer.",
+        "I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
+        "Uber is cutting about 10% of its global workforce, bringing staffing back to levels last seen in 2021."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
+      "localImage": "assets/news/b8be855291970b.jpg",
+      "score": 14
+    },
+    {
       "id": "db72a83cf7708b",
       "category": "Økonomi",
       "published": "02.09. 12:51",
@@ -128,90 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
       "localImage": "assets/news/9dabd5b1c1405d.jpg",
       "score": 17
-    },
-    {
-      "id": "083cf4d8ee3c63",
-      "category": "Økonomi",
-      "published": "02.09. 21:16",
-      "publishedISO": "2026-09-02T21:16:28+02:00",
-      "title": "Vi fyller ikke råolje på tanken",
-      "summary": "Flere steder rapporteres det om dieselpriser opp mot 30 kroner literen. Da krigen startet i vår, fryktet mange oljepriser på 150 eller 200 dollar fatet. Det er blitt usedvanlig kostbart å gjøre råolje om til bensin og diesel.",
-      "keyPoints": [
-        "Det er blitt usedvanlig kostbart å gjøre råolje om til bensin og diesel.",
-        "Da krigen startet i vår, fryktet mange oljepriser på 150 eller 200 dollar fatet.",
-        "Flere steder rapporteres det om dieselpriser opp mot 30 kroner literen.",
-        "Høyres finanspolitiske talsperson Nikolai Astrup er en av mange som har gjort det. «..Oljeprisen er nå på et mer normalt nivå..», sa han blant annet til NRK i august."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/43vdoR/vi-fyller-ikke-raaolje-paa-tanken",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b3170392-efff-3396-a416-9437598d8b5e?fit=crop&h=675&upscale=true&w=1200&s=c4c9d5ddcf6628fc4aa4a0677bd83c7ba2904026",
-      "localImage": "assets/news/083cf4d8ee3c63.jpg",
-      "score": 14
-    },
-    {
-      "id": "bcbe7f4a4f475d",
-      "category": "Nord-Norge",
-      "published": "03.09. 10:23",
-      "publishedISO": "2026-09-03T10:23:34+02:00",
-      "title": "Sau drept av bjørn i Beiarn - utelukker ikke at det er bjørnen fra Saltdal",
-      "summary": "Statens Naturoppsyn (SNO) var på stedet samme dag og kunne bekrefte at to av sauene var drept av bjørn. I midten av august ble en bjørn skutt i Saltdal etter at det hadde blitt funnet flere sauer som var blitt drept av rovdyr. SNO vet ikke hvilken type bjørn det har vært i Beiarn, men kommunene grenser til hverandre og Skogstad utelukker ikke at det kan være samme bjørn. – Det er innenfor området av hvor langt en bjørn kan gå, men vi vet ikke om det er samme bjørn, sier han.",
-      "keyPoints": [
-        "SNO vet ikke hvilken type bjørn det har vært i Beiarn, men kommunene grenser til hverandre og Skogstad utelukker ikke at det kan være samme bjørn. – Det er innenfor området av hvor langt en bjørn kan gå, men vi vet ikke om det er samme bjørn, sier han.",
-        "I midten av august ble en bjørn skutt i Saltdal etter at det hadde blitt funnet flere sauer som var blitt drept av rovdyr.",
-        "Statens Naturoppsyn (SNO) var på stedet samme dag og kunne bekrefte at to av sauene var drept av bjørn.",
-        "Bjørnen på bildet er ikke den samme som ble observert i Saltdal."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/sau-drept-av-bjorn-i-beiarn---utelukker-ikke-at-det-er-bjornen-fra-saltdal-1.18012704",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/mFc-zerBRTPVicpQhwfbMQOYz1x4XI_lExSLuB5dcRdg",
-      "localImage": "assets/news/bcbe7f4a4f475d.jpg",
-      "score": 13
-    },
-    {
-      "id": "70f9ff99d09a7e",
-      "category": "Norge",
-      "published": "03.09. 10:20",
-      "publishedISO": "2026-09-03T10:20:43+02:00",
-      "title": "14-åring fortsetter å stjele busser – selskap må ta grep",
-      "summary": "Busselskap tar grep etter å ha blitt rammet av flere busstyveri av samme 14-åring. – Kan være direkte livsfarlig. Tidligere har gutten også stjålet en buss fra Connect Bus, som kjører busser for både Ruter og Kolumbus. – Derfor har vi tidligere gått sammen med øvrige operatører og Ruter i forsøk på å få frem felles tiltak som kan hindre dette i å skje. Kommunikasjonssjef Morten Nesvik sier at det siden da er innført sikringstiltak på området som gjør det vanskeligere å ta seg inn på området og starte bussene som står parkert på depotet. – I tillegg er det innført ytterligere sikkerhetstiltak i forbindelse med de nye bussene som nå er tatt i bruk, slik at det er så godt som umulig å stjele en buss, sier han.",
-      "keyPoints": [
-        "Busselskap tar grep etter å ha blitt rammet av flere busstyveri av samme 14-åring. – Kan være direkte livsfarlig.",
-        "Tidligere har gutten også stjålet en buss fra Connect Bus, som kjører busser for både Ruter og Kolumbus. – Derfor har vi tidligere gått sammen med øvrige operatører og Ruter i forsøk på å få frem felles tiltak som kan hindre dette i å skje.",
-        "Kommunikasjonssjef Morten Nesvik sier at det siden da er innført sikringstiltak på området som gjør det vanskeligere å ta seg inn på området og starte bussene som står parkert på depotet. – I tillegg er det innført ytterligere sikkerhetstiltak i forbindelse med de nye bussene som nå er tatt i bruk, slik at det er så godt som umulig å stjele en buss, sier han.",
-        "NRK har hentet skjermdumper fra sosiale medier og tipsere fra tilfellene der gutten har stjålet busser på Øst- og Vestlandet. – Det er svært beklagelig at dette har skjedd."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/14-aring-fortsetter-a-stjele-busser-_-selskap-ma-ta-grep-1.18010105",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ninTwJBfpdABSQed2vtJGgv3MBNjIVg4G3mYCqMcr_0g.png",
-      "localImage": "assets/news/70f9ff99d09a7e.webp",
-      "score": 13
-    },
-    {
-      "id": "7211fd8c12778b",
-      "category": "Økonomi",
-      "published": "03.09. 09:45",
-      "publishedISO": "2026-09-03T09:45:40+02:00",
-      "title": "Amediastiftelsen kjøper Aschehoug - og sjefen slutter",
-      "summary": "Elleve måneders spill om et av Norges eldste forlagshus er over: I dag er det klart at Amediastiftelsen kjøper Aschehoug og villaen i Drammensveien 99 - og at forlegger Mads Nygaard fratrer. I en melding fra forlaget som har gått ut til ansatte og forfattere heter det at formell overtagelse ventes å skje rundt årsskiftet. – Amediastiftelsen kjøper Aschehoug og sikrer dermed et langsiktig og stabilt norsk stiftelseseierskap til et av Norges eldste og viktigste forlagshus», står det i meldingen. Direktør i Amediastiftelsen, André Støylen sier følgende: – Aschehoug har stor betydning for norsk kultur, samfunnsliv og ytringsfrihet.",
-      "keyPoints": [
-        "Elleve måneders spill om et av Norges eldste forlagshus er over: I dag er det klart at Amediastiftelsen kjøper Aschehoug og villaen i Drammensveien 99 - og at forlegger Mads Nygaard fratrer.",
-        "I en melding fra forlaget som har gått ut til ansatte og forfattere heter det at formell overtagelse ventes å skje rundt årsskiftet. – Amediastiftelsen kjøper Aschehoug og sikrer dermed et langsiktig og stabilt norsk stiftelseseierskap til et av Norges eldste og viktigste forlagshus», står det i meldingen.",
-        "Direktør i Amediastiftelsen, André Støylen sier følgende: – Aschehoug har stor betydning for norsk kultur, samfunnsliv og ytringsfrihet.",
-        "Her skriver også forlegger Mads Nygaard at det er naturlig at kjøperen selv tar over ledelsen etter overtakelse rundt årsskiftet. – Jeg forlater da Aschehoug med stor takknemlighet til forfattere og kolleger i hele konsernet som har gjort jobben som forlegger svært meningsfylt siden 2010, sier Nygaard."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/zOXMpv/aschehoug-kjoepes-av-amediastiftelsen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1b72f8f0-9a35-3f86-a12e-948c931611ea?fit=crop&h=675&upscale=true&w=1200&s=b149b2cf544f4aaefad2d1f8ee6307e6a6fa4152",
-      "localImage": "assets/news/7211fd8c12778b.jpg",
-      "score": 13
     }
   ]
 }
