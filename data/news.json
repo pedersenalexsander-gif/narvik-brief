@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 09:19",
-  "updatedISO": "2026-09-03T09:19:11.542838+02:00",
+  "updatedAt": "03.09.2026 kl. 09:42",
+  "updatedISO": "2026-09-03T09:42:04.636930+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -72,12 +72,12 @@
       "published": "03.09. 09:01",
       "publishedISO": "2026-09-03T09:01:03+02:00",
       "title": "Rederi faller kraftig på Oslo Børs etter nedsalg",
-      "summary": "Hovedindeksen på Oslo Børs er ned 0,10 prosent like etter åpning torsdag. Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent. Aksjene ble solgt til en kurs på 94,7 kroner per aksje, som totalt utgjør rundt 619 millioner kroner.",
+      "summary": "Det er relativt flat utvikling på Oslo Børs tidlig torsdag. Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedslag, er det flere shippingaksjer som gjør det bra. Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er ned 0,10 prosent like etter åpning torsdag.",
+        "Det er relativt flat utvikling på Oslo Børs tidlig torsdag.",
+        "Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedslag, er det flere shippingaksjer som gjør det bra.",
         "Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
-        "Aksjene ble solgt til en kurs på 94,7 kroner per aksje, som totalt utgjør rundt 619 millioner kroner.",
-        "Rederiaksjeselskapet Torvald Klaveness har solgt mer enn 6,5 millioner aksjer, eller 11 prosent av selskapet."
+        "Aksjene ble solgt til en kurs på 94,7 kroner per aksje, som totalt utgjør rundt 619 millioner kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -172,25 +172,25 @@
       "score": 14
     },
     {
-      "id": "1cf23dcd132698",
+      "id": "875384aea16b1e",
       "category": "Norge",
-      "published": "02.09. 13:25",
-      "publishedISO": "2026-09-02T13:25:24+02:00",
-      "title": "Sp ber om møte om politisk borgfred",
-      "summary": "Senterpartiet inviterer de andre politiske partiene på Stortinget til et møte i morgen om den selvpålagte borgfreden på Stortinget. Senterpartiet mener at vi kommer langt med å bruke sunn fornuft i medieuttalelser og debatter, og at det ikke tjener noe formål at store deler av det offentlige ordskiftet skal detaljreguleres og delvis opphøre under sørgeperioden, sier Senterpartiets generalsekretær Ole André Myhrvold i en uttalelse til NRK og flere andre medier. Han sier Sp har invitert de andre partiene til et møte om dette i morgen tidlig.",
+      "published": "03.09. 09:32",
+      "publishedISO": "2026-09-03T09:32:10+02:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Etter kong Haralds bortgang inngikk flere av politikerne en enighet om borgfred, hvor de ikke kommer med politiske utspill i mediene eller deltar i skarpe politiske debatter før begravelsen er over. – Det er helt naturlig ay vi demper den politiske debatten de første dagene etter kongens død, men det er ikke så klokt å prøve og regulere hva folk skal få si og på hvilken måte i et demokrati, sier Nybø. Hun mener det gjør den offentlige debatten fattigere. – Folk demper seg helt naturlig, men det som skjer nå er at flere folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål som folk er opptatt av, forklarer generalsekretæren. Sykefraværet i Nordland var på 6,3 prosent i andre kvartal av 2026.",
       "keyPoints": [
-        "Senterpartiet inviterer de andre politiske partiene på Stortinget til et møte i morgen om den selvpålagte borgfreden på Stortinget.",
-        "Han sier Sp har invitert de andre partiene til et møte om dette i morgen tidlig.",
-        "Senterpartiet mener at vi kommer langt med å bruke sunn fornuft i medieuttalelser og debatter, og at det ikke tjener noe formål at store deler av det offentlige ordskiftet skal detaljreguleres og delvis opphøre under sørgeperioden, sier Senterpartiets generalsekretær Ole André Myhrvold i en uttalelse til NRK og flere andre medier.",
-        "Skjalg Fjellheim mener partienes borgfred sporer av når politikerne nekter å svare for avgiftshoppet."
+        "Sykefraværet i Nordland var på 6,3 prosent i andre kvartal av 2026.",
+        "Etter kong Haralds bortgang inngikk flere av politikerne en enighet om borgfred, hvor de ikke kommer med politiske utspill i mediene eller deltar i skarpe politiske debatter før begravelsen er over. – Det er helt naturlig ay vi demper den politiske debatten de første dagene etter kongens død, men det er ikke så klokt å prøve og regulere hva folk skal få si og på hvilken måte i et demokrati, sier Nybø.",
+        "Hun mener det gjør den offentlige debatten fattigere. – Folk demper seg helt naturlig, men det som skjer nå er at flere folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål som folk er opptatt av, forklarer generalsekretæren.",
+        "Norges sjømatråd opplyser i en pressemelding at Norge eksporterte sjømat for 16 milliarder kroner i august. – Det er en historisk høy verdi for sjømateksporten i august, sier administrerende direktør i Norges sjømatråd, Christian Chramer."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/sp-ber-om-mote-om-politisk-borgfred-1.18011809",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/M-7RgFYJ0mQe5uetD3H5DQNT3fPuHkOkQCAUdA7BBiuA.jpg",
-      "localImage": "assets/news/1cf23dcd132698.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/875384aea16b1e.jpg",
+      "score": 13
     },
     {
       "id": "26e6876bbe2103",
