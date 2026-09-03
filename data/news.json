@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 10:14",
-  "updatedISO": "2026-09-03T10:14:18.319006+02:00",
+  "updatedAt": "03.09.2026 kl. 10:32",
+  "updatedISO": "2026-09-03T10:32:34.410385+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -72,10 +72,10 @@
       "published": "03.09. 09:01",
       "publishedISO": "2026-09-03T09:01:03+02:00",
       "title": "Rederi faller kraftig på Oslo Børs etter nedsalg",
-      "summary": "Det er relativt flat utvikling på Oslo Børs tidlig torsdag. Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedslag, er det flere shippingaksjer som gjør det bra. Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
+      "summary": "Det er relativt flat utvikling på Oslo Børs tidlig torsdag. Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedsalg, er det flere shippingaksjer som gjør det bra. Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
       "keyPoints": [
+        "Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedsalg, er det flere shippingaksjer som gjør det bra.",
         "Det er relativt flat utvikling på Oslo Børs tidlig torsdag.",
-        "Slik går det med noen av de mest omsatte aksjene: Med unntak av KCC, som faller etter nedslag, er det flere shippingaksjer som gjør det bra.",
         "Det tar deres eierandel i KCC fra rundt 54,7 prosent til rundt 43,7 prosent.",
         "Aksjene ble solgt til en kurs på 94,7 kroner per aksje, som totalt utgjør rundt 619 millioner kroner."
       ],
@@ -151,17 +151,59 @@
       "score": 14
     },
     {
+      "id": "bcbe7f4a4f475d",
+      "category": "Nord-Norge",
+      "published": "03.09. 10:23",
+      "publishedISO": "2026-09-03T10:23:34+02:00",
+      "title": "Sau drept av bjørn i Beiarn - utelukker ikke at det er bjørnen fra Saltdal",
+      "summary": "Statens Naturoppsyn (SNO) var på stedet samme dag og kunne bekrefte at to av sauene var drept av bjørn. I midten av august ble en bjørn skutt i Saltdal etter at det hadde blitt funnet flere sauer som var blitt drept av rovdyr. SNO vet ikke hvilken type bjørn det har vært i Beiarn, men kommunene grenser til hverandre og Skogstad utelukker ikke at det kan være samme bjørn. – Det er innenfor området av hvor langt en bjørn kan gå, men vi vet ikke om det er samme bjørn, sier han.",
+      "keyPoints": [
+        "SNO vet ikke hvilken type bjørn det har vært i Beiarn, men kommunene grenser til hverandre og Skogstad utelukker ikke at det kan være samme bjørn. – Det er innenfor området av hvor langt en bjørn kan gå, men vi vet ikke om det er samme bjørn, sier han.",
+        "I midten av august ble en bjørn skutt i Saltdal etter at det hadde blitt funnet flere sauer som var blitt drept av rovdyr.",
+        "Statens Naturoppsyn (SNO) var på stedet samme dag og kunne bekrefte at to av sauene var drept av bjørn.",
+        "Bjørnen på bildet er ikke den samme som ble observert i Saltdal."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/sau-drept-av-bjorn-i-beiarn---utelukker-ikke-at-det-er-bjornen-fra-saltdal-1.18012704",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/mFc-zerBRTPVicpQhwfbMQOYz1x4XI_lExSLuB5dcRdg",
+      "localImage": "assets/news/bcbe7f4a4f475d.jpg",
+      "score": 13
+    },
+    {
+      "id": "70f9ff99d09a7e",
+      "category": "Norge",
+      "published": "03.09. 10:20",
+      "publishedISO": "2026-09-03T10:20:43+02:00",
+      "title": "14-åring fortsetter å stjele busser – selskap må ta grep",
+      "summary": "Busselskap tar grep etter å ha blitt rammet av flere busstyveri av samme 14-åring. – Kan være direkte livsfarlig. Tidligere har gutten også stjålet en buss fra Connect Bus, som kjører busser for både Ruter og Kolumbus. – Derfor har vi tidligere gått sammen med øvrige operatører og Ruter i forsøk på å få frem felles tiltak som kan hindre dette i å skje. Kommunikasjonssjef Morten Nesvik sier at det siden da er innført sikringstiltak på området som gjør det vanskeligere å ta seg inn på området og starte bussene som står parkert på depotet. – I tillegg er det innført ytterligere sikkerhetstiltak i forbindelse med de nye bussene som nå er tatt i bruk, slik at det er så godt som umulig å stjele en buss, sier han.",
+      "keyPoints": [
+        "Busselskap tar grep etter å ha blitt rammet av flere busstyveri av samme 14-åring. – Kan være direkte livsfarlig.",
+        "Tidligere har gutten også stjålet en buss fra Connect Bus, som kjører busser for både Ruter og Kolumbus. – Derfor har vi tidligere gått sammen med øvrige operatører og Ruter i forsøk på å få frem felles tiltak som kan hindre dette i å skje.",
+        "Kommunikasjonssjef Morten Nesvik sier at det siden da er innført sikringstiltak på området som gjør det vanskeligere å ta seg inn på området og starte bussene som står parkert på depotet. – I tillegg er det innført ytterligere sikkerhetstiltak i forbindelse med de nye bussene som nå er tatt i bruk, slik at det er så godt som umulig å stjele en buss, sier han.",
+        "NRK har hentet skjermdumper fra sosiale medier og tipsere fra tilfellene der gutten har stjålet busser på Øst- og Vestlandet. – Det er svært beklagelig at dette har skjedd."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/14-aring-fortsetter-a-stjele-busser-_-selskap-ma-ta-grep-1.18010105",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ninTwJBfpdABSQed2vtJGgv3MBNjIVg4G3mYCqMcr_0g.png",
+      "localImage": "assets/news/70f9ff99d09a7e.webp",
+      "score": 13
+    },
+    {
       "id": "7211fd8c12778b",
       "category": "Økonomi",
       "published": "03.09. 09:45",
       "publishedISO": "2026-09-03T09:45:40+02:00",
       "title": "Amediastiftelsen kjøper Aschehoug - og sjefen slutter",
-      "summary": "Elleve måneders spill om et av Norges eldste forlagshus er over: I dag er det klart at Amediastiftelsen kjøper Aschehoug og villaen i Drammensveien 99 - og at forlegger Mads Nygaard fratrer. I en melding fra forlaget som har gått ut til ansatte og forfattere heter det at formell overtagelse ventes å skje rundt årsskiftet. – Amediastiftelsen kjøper Aschehoug og sikrer dermed et langsiktig og stabilt norsk stiftelseseierskap til et av Norges eldste og viktigste forlagshus», står det i meldingen. Her skriver også forlegger Mads Nygaard at det er naturlig at kjøperen selv tar over ledelsen etter overtakelse rundt årsskiftet. – Jeg forlater da Aschehoug med stor takknemlighet til forfattere og kolleger i hele konsernet som har gjort jobben som forlegger svært meningsfylt siden 2010, sier Mads Nygaard i meldingen.",
+      "summary": "Elleve måneders spill om et av Norges eldste forlagshus er over: I dag er det klart at Amediastiftelsen kjøper Aschehoug og villaen i Drammensveien 99 - og at forlegger Mads Nygaard fratrer. I en melding fra forlaget som har gått ut til ansatte og forfattere heter det at formell overtagelse ventes å skje rundt årsskiftet. – Amediastiftelsen kjøper Aschehoug og sikrer dermed et langsiktig og stabilt norsk stiftelseseierskap til et av Norges eldste og viktigste forlagshus», står det i meldingen. Direktør i Amediastiftelsen, André Støylen sier følgende: – Aschehoug har stor betydning for norsk kultur, samfunnsliv og ytringsfrihet.",
       "keyPoints": [
         "Elleve måneders spill om et av Norges eldste forlagshus er over: I dag er det klart at Amediastiftelsen kjøper Aschehoug og villaen i Drammensveien 99 - og at forlegger Mads Nygaard fratrer.",
         "I en melding fra forlaget som har gått ut til ansatte og forfattere heter det at formell overtagelse ventes å skje rundt årsskiftet. – Amediastiftelsen kjøper Aschehoug og sikrer dermed et langsiktig og stabilt norsk stiftelseseierskap til et av Norges eldste og viktigste forlagshus», står det i meldingen.",
-        "Her skriver også forlegger Mads Nygaard at det er naturlig at kjøperen selv tar over ledelsen etter overtakelse rundt årsskiftet. – Jeg forlater da Aschehoug med stor takknemlighet til forfattere og kolleger i hele konsernet som har gjort jobben som forlegger svært meningsfylt siden 2010, sier Mads Nygaard i meldingen.",
-        "Direktør i Amediastiftelsen, André Støylen sier følgende: – Aschehoug har stor betydning for norsk kultur, samfunnsliv og ytringsfrihet."
+        "Direktør i Amediastiftelsen, André Støylen sier følgende: – Aschehoug har stor betydning for norsk kultur, samfunnsliv og ytringsfrihet.",
+        "Her skriver også forlegger Mads Nygaard at det er naturlig at kjøperen selv tar over ledelsen etter overtakelse rundt årsskiftet. – Jeg forlater da Aschehoug med stor takknemlighet til forfattere og kolleger i hele konsernet som har gjort jobben som forlegger svært meningsfylt siden 2010, sier Nygaard."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -169,48 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1b72f8f0-9a35-3f86-a12e-948c931611ea?fit=crop&h=675&upscale=true&w=1200&s=b149b2cf544f4aaefad2d1f8ee6307e6a6fa4152",
       "localImage": "assets/news/7211fd8c12778b.jpg",
-      "score": 13
-    },
-    {
-      "id": "875384aea16b1e",
-      "category": "Norge",
-      "published": "03.09. 09:32",
-      "publishedISO": "2026-09-03T09:32:10+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Etter kong Haralds bortgang inngikk flere av politikerne en enighet om borgfred, hvor de ikke kommer med politiske utspill i mediene eller deltar i skarpe politiske debatter før begravelsen er over. – Det er helt naturlig at vi demper den politiske debatten de første dagene etter kongens død, men det er ikke så klokt å prøve og regulere hva folk skal få si og på hvilken måte i et demokrati, sier Nybø. Hun mener det gjør den offentlige debatten fattigere. – Folk demper seg helt naturlig, men det som skjer nå er at flere folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål som folk er opptatt av, forklarer generalsekretæren. Sykefraværet i Nordland var på 6,3 prosent i andre kvartal av 2026.",
-      "keyPoints": [
-        "Sykefraværet i Nordland var på 6,3 prosent i andre kvartal av 2026.",
-        "Etter kong Haralds bortgang inngikk flere av politikerne en enighet om borgfred, hvor de ikke kommer med politiske utspill i mediene eller deltar i skarpe politiske debatter før begravelsen er over. – Det er helt naturlig at vi demper den politiske debatten de første dagene etter kongens død, men det er ikke så klokt å prøve og regulere hva folk skal få si og på hvilken måte i et demokrati, sier Nybø.",
-        "Hun mener det gjør den offentlige debatten fattigere. – Folk demper seg helt naturlig, men det som skjer nå er at flere folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål som folk er opptatt av, forklarer generalsekretæren.",
-        "Norges sjømatråd opplyser i en pressemelding at Norge eksporterte sjømat for 16 milliarder kroner i august. – Det er en historisk høy verdi for sjømateksporten i august, sier administrerende direktør i Norges sjømatråd, Christian Chramer."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/875384aea16b1e.jpg",
-      "score": 13
-    },
-    {
-      "id": "fff5b37ef2d015",
-      "category": "Økonomi",
-      "published": "03.09. 09:25",
-      "publishedISO": "2026-09-03T09:25:19+02:00",
-      "title": "Ut på dagen i Argentum: – Ikke den rette",
-      "summary": "Administrerende direktør Espen Langeland i Argentum går av på dagen, og erstattes av Harald-Inge Flagtvedt, som rykker opp fra rollen som finansdirektør. Sammen med dyktige kollegaer står de to godt rustet til å ta Argentum inn i neste fase, sier styreleder Didrik Munch i Argentum Asset Management i meldingen. Overfor DN forklarer styret beslutningen nærmere. «Styret i Argentum har konkludert med at Langeland ikke er den rette til å lede selskapet fremover.",
-      "keyPoints": [
-        "Administrerende direktør Espen Langeland i Argentum går av på dagen, og erstattes av Harald-Inge Flagtvedt, som rykker opp fra rollen som finansdirektør.",
-        "Overfor DN forklarer styret beslutningen nærmere. «Styret i Argentum har konkludert med at Langeland ikke er den rette til å lede selskapet fremover.",
-        "Sammen med dyktige kollegaer står de to godt rustet til å ta Argentum inn i neste fase, sier styreleder Didrik Munch i Argentum Asset Management i meldingen.",
-        "Det fremgår av en pressemelding fra Argentum onsdag kveld. – Vi er glade for at Flagtvedt har takket ja til å lede selskapet videre, med Nordal i en sentral rolle som ansvarlig for investeringsvirksomheten."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/k0XM7j/ut-paa-dagen-i-argentum-ikke-den-rette",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b97063fd-ba5a-38c1-a0c9-b65f7693430e?fit=crop&h=675&upscale=true&w=1200&s=59815b77efcf378d5b67df00dd2bc60bad95664b",
-      "localImage": "assets/news/fff5b37ef2d015.jpg",
       "score": 13
     }
   ]
