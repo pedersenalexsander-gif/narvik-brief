@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 13:53",
-  "updatedISO": "2026-09-03T13:53:10.397699+02:00",
+  "updatedAt": "03.09.2026 kl. 14:17",
+  "updatedISO": "2026-09-03T14:17:05.851504+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -44,6 +44,27 @@
       "image": "https://gfx.nrk.no/h_dZyRq2C4Gzu70B_RRT-AgiBH779LvQ27jmY2sp2RNg.jpg",
       "localImage": "assets/news/ac42312de7d450.jpg",
       "score": 14
+    },
+    {
+      "id": "848449739ce8cd",
+      "category": "Økonomi",
+      "published": "03.09. 14:07",
+      "publishedISO": "2026-09-03T14:07:11+02:00",
+      "title": "Nvidia kjøper Hugging Face for nær 13 milliarder dollar",
+      "summary": "Selskapet har blitt enige om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding. Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner. Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
+      "keyPoints": [
+        "Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
+        "Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner.",
+        "Selskapet har blitt enige om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding.",
+        "Hugging Face er en nettplattform der utviklere kan dele, finne og bruke AI-modeller og andre AI-verktøy."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/ArQm0A/nvidia-kjoeper-hugging-face-naer-13-milliarder-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/191e473b-af74-3c27-93b5-346882b479aa?fit=crop&h=675&upscale=true&w=1200&s=25ec8b2da97b3d8601f7c86992f9c98ba6b6f694",
+      "localImage": "assets/news/848449739ce8cd.jpg",
+      "score": 25
     },
     {
       "id": "a4eed819ba881c",
@@ -106,28 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/210fa833-f416-3b06-ad16-faa7dba58051?fit=crop&h=675&upscale=true&w=1200&s=d988725865078a74181def6b631c696501bdf8c0",
       "localImage": "assets/news/c02d4b6317daeb.jpg",
-      "score": 17
-    },
-    {
-      "id": "9dabd5b1c1405d",
-      "category": "Økonomi",
-      "published": "02.09. 08:00",
-      "publishedISO": "2026-09-02T08:00:11+02:00",
-      "title": "Nordea Markets: Ingen rentekutt før 2028",
-      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-      "keyPoints": [
-        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
-        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
-        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
-        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
-      "localImage": "assets/news/9dabd5b1c1405d.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "db72a83cf7708b",
@@ -151,6 +151,48 @@
       "score": 16
     },
     {
+      "id": "9dabd5b1c1405d",
+      "category": "Økonomi",
+      "published": "02.09. 08:00",
+      "publishedISO": "2026-09-02T08:00:11+02:00",
+      "title": "Nordea Markets: Ingen rentekutt før 2028",
+      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+      "keyPoints": [
+        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
+        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
+        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
+      "localImage": "assets/news/9dabd5b1c1405d.jpg",
+      "score": 16
+    },
+    {
+      "id": "8789d1b81a0caf",
+      "category": "Norge",
+      "published": "03.09. 14:01",
+      "publishedISO": "2026-09-03T14:01:58+02:00",
+      "title": "Nyhetssenter Troms og Finnmark",
+      "summary": "Det globale fondet er en internasjonal organisasjon som arbeider for å utrydde hiv/aids, tuberkulose og malaria i verden. – Det globale fondet har vært med på å redde 70 millioner liv siden 2002. Personen er funnet i god behold, opplyser Troms politidistrikt. Ifølge tiltalen i Vestre Finnmark tingrett fisket mannen kongekrabbe ulovlig i kvoteregulert område i Porsangerfjorden.",
+      "keyPoints": [
+        "Personen er funnet i god behold, opplyser Troms politidistrikt.",
+        "Det globale fondet er en internasjonal organisasjon som arbeider for å utrydde hiv/aids, tuberkulose og malaria i verden. – Det globale fondet har vært med på å redde 70 millioner liv siden 2002.",
+        "Ifølge tiltalen i Vestre Finnmark tingrett fisket mannen kongekrabbe ulovlig i kvoteregulert område i Porsangerfjorden.",
+        "Vardø hadde 41 nyregistrerte foretak det siste året, viser tall avisa Østhavet har hentet fra Brønnøysundregistrene."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/nyhetssenter-troms-og-finnmark-1.16139260",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Dn8bbYlUs35j6W_llh-PYgE0jlylomheNVdOjM5l38WQ.jpg",
+      "localImage": "assets/news/8789d1b81a0caf.jpg",
+      "score": 13
+    },
+    {
       "id": "54200b63ef5c37",
       "category": "Norge",
       "published": "03.09. 13:39",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/6el--QFCtgaGvDZE-SWxFweblbgDCPuSf0-HgRZqZ6EQ.jpg",
       "localImage": "assets/news/54200b63ef5c37.webp",
-      "score": 13
-    },
-    {
-      "id": "2a35d33f7082d5",
-      "category": "Norge",
-      "published": "03.09. 12:50",
-      "publishedISO": "2026-09-03T12:50:19+02:00",
-      "title": "Rekordmange vil guide i fuglefjellet på Hornøya",
-      "summary": "Heile 25 aktørar hadde innan fristen 15. august, sendt inn søknad om å guide på Hornøya kommande sesong. Guide Lone Bangsund fortalde NRK i sommar at det i realiteten berre var seks aktørar i drift på Hornøya gjennom heile sesongen. Like før fuglesesongen i år lengst aust i Finnmark, var det framleis ikkje klart kva aktørar som fekk løyve til å guide på Hornøya.",
-      "keyPoints": [
-        "Heile 25 aktørar hadde innan fristen 15. august, sendt inn søknad om å guide på Hornøya kommande sesong.",
-        "Guide Lone Bangsund fortalde NRK i sommar at det i realiteten berre var seks aktørar i drift på Hornøya gjennom heile sesongen.",
-        "Like før fuglesesongen i år lengst aust i Finnmark, var det framleis ikkje klart kva aktørar som fekk løyve til å guide på Hornøya.",
-        "Rekordmange aktørar har søkt om å vise fram fuglefjellet utfor Vardø."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/rekordmange-vil-guide-i-fuglefjellet-pa-hornoya-1.18012070",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PRbIJY9zIdhZ53qaGd9BnAFwwQFt6qB9jTNk6MzfMmFQ.jpg",
-      "localImage": "assets/news/2a35d33f7082d5.jpg",
-      "score": 13
-    },
-    {
-      "id": "0bb3d1c10b387e",
-      "category": "Norge",
-      "published": "03.09. 11:31",
-      "publishedISO": "2026-09-03T11:31:39+02:00",
-      "title": "Legene måtte «lime lungen fast» – nå tar Anders Mol en ny sjanse",
-      "summary": "SPENNINGSMOMENT: Lungen til Anders Mol har tidligere trøblet innendørs. Nå tar han sjansen igjen. – Jeg hadde ikke tenkt at det skulle være en mulighet, sier Anders Mol til NRK. Der opplevde han at lungen kollapset, ikke bare én gang, men to ganger. – Jeg måtte operere for å prøve å stoppe det og hindre det i at det skjedde på nytt, sier Mol og legger til at legene – enkelt fortalt – «limte lungen fast».",
-      "keyPoints": [
-        "Der opplevde han at lungen kollapset, ikke bare én gang, men to ganger. – Jeg måtte operere for å prøve å stoppe det og hindre det i at det skjedde på nytt, sier Mol og legger til at legene – enkelt fortalt – «limte lungen fast».",
-        "Nå tar han sjansen igjen. – Jeg hadde ikke tenkt at det skulle være en mulighet, sier Anders Mol til NRK.",
-        "SPENNINGSMOMENT: Lungen til Anders Mol har tidligere trøblet innendørs.",
-        "OLYMPISKE MESTRE: Anders Mol og Christian Sørum ble Olympiske mestere i Tokyo 2021."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/legene-matte-_lime-lungen-fast_-_-na-tar-anders-mol-en-ny-sjanse-1.18005781",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/IrtM6XVM-OPC0eCYVqhNzwx_fsgG-NOrieZt4ze7sQ_Q.jpg",
-      "localImage": "assets/news/0bb3d1c10b387e.jpg",
       "score": 13
     }
   ]
