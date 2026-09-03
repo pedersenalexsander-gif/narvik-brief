@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 18:31",
-  "updatedISO": "2026-09-03T18:31:35.149024+02:00",
+  "updatedAt": "03.09.2026 kl. 18:53",
+  "updatedISO": "2026-09-03T18:53:54.068316+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -85,7 +85,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c5fb/live/d98d87e0-a78b-11f1-9bb7-af8e8fd3d806.jpg",
       "localImage": "assets/news/a1d4f1480e5ee9.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "848449739ce8cd",
@@ -132,8 +132,8 @@
     {
       "id": "8690d18270cc0a",
       "category": "AI",
-      "published": "03.09. 18:01",
-      "publishedISO": "2026-09-03T18:01:39+02:00",
+      "published": "03.09. 18:32",
+      "publishedISO": "2026-09-03T18:32:05+02:00",
       "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
       "summary": "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare. Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy. I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
       "keyPoints": [
