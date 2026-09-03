@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 07:13",
-  "updatedISO": "2026-09-03T07:13:00.111883+02:00",
+  "updatedAt": "03.09.2026 kl. 07:47",
+  "updatedISO": "2026-09-03T07:47:12.794135+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,29 +46,8 @@
       "score": 15
     },
     {
-      "id": "52201cdd9ed1f5",
-      "category": "Verden",
-      "published": "02.09. 18:12",
-      "publishedISO": "2026-09-02T18:12:43+02:00",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "summary": "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky. De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det. Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
-      "keyPoints": [
-        "Volodymyr Zelensky sier \"den russiske himmelen blir fullstendig farlig\" Ukrainas president har fortalt flyselskapene at russisk luftrom vil \"effektivt lukkes\" ettersom landet hans eskalerer sine droneangrep. \"Vi ønsker å advare hvert flyselskap som bruker russisk luftrom, alle forsikringsselskaper, alle som fortsatt bruker viktige russiske flyplasser: den russiske himmelen blir fullstendig farlig,\" sa Volodymyr Zelensky.",
-        "Zelensky forklarte den forhøyede luftromsrisikoen i sin nattlige videoadresse tirsdag, og sa at «Ukraina truer ikke sivil luftfart som sådan – ikke et eneste sivilt fly» og ønsket ikke tap av uskyldige liv. \"Det vil rett og slett være droner i Russlands himmel i en skala som må tas i betraktning,\" sa han.",
-        "De fleste vestlige kommersielle flyselskaper flyr ikke over Russland på grunn av den pågående russiske invasjonen av Ukraina, men flyselskaper i land som Tyrkia og Kina gjør det.",
-        "Zelensky rettet advarselen til flyselskaper som fortsetter å fly til russiske flyplasser, spesielt i større byer som St. Petersburg og Moskva."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5d1e/live/cba5ddd0-a6e6-11f1-9e4c-79c1c0e340c6.jpg",
-      "localImage": "assets/news/52201cdd9ed1f5.jpg",
-      "score": 15
-    },
-    {
       "id": "1fcabf56e83ced",
-      "category": "USA",
+      "category": "Verden",
       "published": "03.09. 05:39",
       "publishedISO": "2026-09-03T05:39:53+02:00",
       "title": "Trump $1 coin makes him first living president on US currency in a century",
@@ -77,9 +56,9 @@
         "Donald Trumps portrett har funnet veien videre til en amerikansk mynt - første gang en levende president har dukket opp på amerikansk valuta på et århundre.",
         "Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
         "Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC Tilbake i mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump.",
-        "Onsdag lanserte US Mint minnemynten på 1 dollar med et portrett av Trump ved siden av ordene \"IN GOD WE TRUST\", for å feire USAs 250-årsjubileum."
+        "Onsdag lanserte US Mint $1-mynten med et portrett av Trump sammen med ordene «LIBERTY» og «IN GOD WE TRUST», for å feire USAs 250-årsjubileum."
       ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o",
       "source": "bbc.co.uk",
@@ -190,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b3170392-efff-3396-a416-9437598d8b5e?fit=crop&h=675&upscale=true&w=1200&s=c4c9d5ddcf6628fc4aa4a0677bd83c7ba2904026",
       "localImage": "assets/news/083cf4d8ee3c63.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "25d546a1d162f6",
@@ -211,6 +190,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d86e95f1-c156-3c05-bd17-91c45814c263?fit=crop&h=675&upscale=true&w=1200&s=a16fca6e727aa1ce083a6ac85f412cfec4ff1bd9",
       "localImage": "assets/news/25d546a1d162f6.jpg",
+      "score": 14
+    },
+    {
+      "id": "1cf23dcd132698",
+      "category": "Norge",
+      "published": "02.09. 13:25",
+      "publishedISO": "2026-09-02T13:25:24+02:00",
+      "title": "Sp ber om møte om politisk borgfred",
+      "summary": "Senterpartiet inviterer de andre politiske partiene på Stortinget til et møte i morgen om den selvpålagte borgfreden på Stortinget. Senterpartiet mener at vi kommer langt med å bruke sunn fornuft i medieuttalelser og debatter, og at det ikke tjener noe formål at store deler av det offentlige ordskiftet skal detaljreguleres og delvis opphøre under sørgeperioden, sier Senterpartiets generalsekretær Ole André Myhrvold i en uttalelse til NRK og flere andre medier. Han sier Sp har invitert de andre partiene til et møte om dette i morgen tidlig.",
+      "keyPoints": [
+        "Senterpartiet inviterer de andre politiske partiene på Stortinget til et møte i morgen om den selvpålagte borgfreden på Stortinget.",
+        "Han sier Sp har invitert de andre partiene til et møte om dette i morgen tidlig.",
+        "Senterpartiet mener at vi kommer langt med å bruke sunn fornuft i medieuttalelser og debatter, og at det ikke tjener noe formål at store deler av det offentlige ordskiftet skal detaljreguleres og delvis opphøre under sørgeperioden, sier Senterpartiets generalsekretær Ole André Myhrvold i en uttalelse til NRK og flere andre medier.",
+        "Skjalg Fjellheim mener partienes borgfred sporer av når politikerne nekter å svare for avgiftshoppet."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/sp-ber-om-mote-om-politisk-borgfred-1.18011809",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/M-7RgFYJ0mQe5uetD3H5DQNT3fPuHkOkQCAUdA7BBiuA.jpg",
+      "localImage": "assets/news/1cf23dcd132698.jpg",
       "score": 14
     }
   ]
