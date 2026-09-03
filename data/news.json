@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 23:40",
-  "updatedISO": "2026-09-03T23:40:56.879568+02:00",
+  "updatedAt": "03.09.2026 kl. 23:52",
+  "updatedISO": "2026-09-03T23:52:16.030186+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -44,6 +44,27 @@
       "image": "https://gfx.nrk.no/V9jayIhygeusOwIssPQO9Qtj2h_gGI2HcYl9JiSNayKA.jpg",
       "localImage": "assets/news/a6d6051e8add98.jpg",
       "score": 17
+    },
+    {
+      "id": "4b2d05296de620",
+      "category": "Verden",
+      "published": "03.09. 17:05",
+      "publishedISO": "2026-09-03T17:05:57+02:00",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "summary": "Dødsfallene i al-Mughayyir kommer midt i en nylig økning i bosetternes vold på den okkuperte Vestbredden. Begravelser har funnet sted for to palestinske tenåringer som lokale tjenestemenn sier ble drept av israelske bosettere og soldater i et angrep på landsbyen deres på den okkuperte Vestbredden onsdag. Se: BBC-rapporter fra palestinsk landsby under ukentlig angrep av israelske bosettere. Minst 81 palestinere har blitt drept av israelske styrker eller bosettere på Vestbredden siden begynnelsen av året, ifølge FNs tall. BBC sporer én uke med vold fra israelske bosettere på den okkuperte Vestbredden Høyre-ekstremistisk israelsk lovgiver skader palestinsk minnesmerke med slegge «Israelske bosettere beleiret vårt hjem»: Inne i en palestinsk landsby under ukentlig angrep",
+      "keyPoints": [
+        "Dødsfallene i al-Mughayyir kommer midt i en nylig økning i bosetternes vold på den okkuperte Vestbredden. Begravelser har funnet sted for to palestinske tenåringer som lokale tjenestemenn sier ble drept av israelske bosettere og soldater i et angrep på landsbyen deres på den okkuperte Vestbredden onsdag.",
+        "Se: BBC-rapporter fra palestinsk landsby under ukentlig angrep av israelske bosettere. Minst 81 palestinere har blitt drept av israelske styrker eller bosettere på Vestbredden siden begynnelsen av året, ifølge FNs tall.",
+        "BBC tracks one week of Israeli settler violence in occupied West Bank Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer 'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+        "Torsdag sa Israels politistyrke at en 19 år gammel nybygger var arrestert, mistenkt for å ha deltatt i et angrep på den palestinske landsbyen Qusra lørdag."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg",
+      "localImage": "assets/news/4b2d05296de620.jpg",
+      "score": 12
     },
     {
       "id": "d2dc3878cc66ec",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/3c92ca3c-4f4b-35f0-9ecf-0fe17753a155?fit=crop&h=675&upscale=true&w=1200&s=5737c64171e7d4622857b5d61f1177cb623119c9",
       "localImage": "assets/news/7547b63be58d9d.jpg",
       "score": 16
-    },
-    {
-      "id": "cd7fe017ed5345",
-      "category": "Økonomi",
-      "published": "03.09. 12:03",
-      "publishedISO": "2026-09-03T12:03:02+02:00",
-      "title": "Stortap for Andresen-familiens sportsgigant",
-      "summary": "De siste tre årene har konsernet gått med underskudd på totalt 552 millioner kroner. Selskapet eies i sin helhet av Andresen-familiens investeringsselskap Ferd. Ved inngangen til 2026 hadde Brav en egenkapital på kun 95 millioner kroner, ned fra 373 millioner kroner året før.",
-      "keyPoints": [
-        "Selskapet eies i sin helhet av Andresen-familiens investeringsselskap Ferd.",
-        "Ved inngangen til 2026 hadde Brav en egenkapital på kun 95 millioner kroner, ned fra 373 millioner kroner året før.",
-        "De siste tre årene har konsernet gått med underskudd på totalt 552 millioner kroner.",
-        "Årsresultatet endte på minus 275 millioner kroner, det største tapet i selskapets historie."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/16wq5e/stortap-for-andresen-familiens-sportsgigant",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b07d408a-daa2-304f-9864-2070d6fe7815?fit=crop&h=675&upscale=true&w=1200&s=c08724c82a04f0c1e4ac83b86ce31bdd79e5c54d",
-      "localImage": "assets/news/cd7fe017ed5345.jpg",
-      "score": 15
     }
   ]
 }
