@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.09.2026 kl. 13:11",
-  "updatedISO": "2026-09-03T13:11:40.469690+02:00",
+  "updatedAt": "03.09.2026 kl. 13:27",
+  "updatedISO": "2026-09-03T13:27:00.803080+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,48 +46,6 @@
       "score": 14
     },
     {
-      "id": "94b10dd4eb5c4c",
-      "category": "Verden",
-      "published": "03.09. 12:01",
-      "publishedISO": "2026-09-03T12:01:33+02:00",
-      "title": "Watch: US man struck by lightning describes 'horrific' experience",
-      "summary": "En mann som ble truffet av lynet da han gikk nedover gaten i Staten Island, USA, har beskrevet opplevelsen som «grusom». Se: Amerikansk mann truffet av lynet beskriver en \"grusom\" opplevelse. Video, 00:01:14Se: Amerikansk mann truffet av lynet beskriver en \"grufull\" opplevelse. Up Next.",
-      "keyPoints": [
-        "Watch: US man struck by lightning describes 'horrific' experience.",
-        "Video, 00:01:03Once a village, now barren land - BBC in valley devastated by floods Watch: Notting Hill Carnival celebrates 60th anniversary.",
-        "Video, 00:00:33Watch: Notting Hill Carnival celebrates 60th anniversary Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse.",
-        "En titt på Trumps nye helipad Watch: From Star Wars to Banksy, kunsten er med deg på det nye Lucas Museum."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cz7z93zde3po",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a6de/live/9a37fa70-a778-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/94b10dd4eb5c4c.jpg",
-      "score": 13
-    },
-    {
-      "id": "bde6204543b085",
-      "category": "USA",
-      "published": "03.09. 09:57",
-      "publishedISO": "2026-09-03T09:57:23+02:00",
-      "title": "Canadian 'island' appears to vanish and reappear miles away",
-      "summary": "En flytende \"øy\" i et reservoar i British Columbia har dukket opp omtrent 32 km fra der den sist ble oppdaget, etter at den så ut til å forsvinne i juli. Grafikk av Sally Nicholls Hvorfor forsvant denne kanadiske \"øya\" og dukket opp igjen milevis unna? Video, 00:01:05Hvorfor forsvant denne kanadiske \"øya\" og dukket opp igjen milevis unna?",
-      "keyPoints": [
-        "Video, 00:01:05Hvorfor forsvant denne kanadiske \"øya\" og dukket opp igjen milevis unna?",
-        "En flytende \"øy\" i et reservoar i British Columbia har dukket opp omtrent 32 km fra der den sist ble oppdaget, etter at den så ut til å forsvinne i juli.",
-        "Video, 00:01:31'Ingenting annet enn gjørme og silt' - landsbyen feid bort av dødelige flom i Nepal 'Det er vanskelig å balansere følelser og profesjonalitet', sier Nepals redningsmann.",
-        "Video, 00:01:14Hvilke kjente scener er i det episke Bayeux-teppet? \"Ingenting annet enn gjørme og silt\" - landsbyen ble revet med av dødelige flom i Nepal."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cly4zxd7e7wo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbc3/live/1bb95520-a702-11f1-aed2-8d6da8d75094.png",
-      "localImage": "assets/news/bde6204543b085.png",
-      "score": 13
-    },
-    {
       "id": "a4eed819ba881c",
       "category": "Økonomi",
       "published": "03.09. 06:25",
@@ -130,48 +88,6 @@
       "score": 17
     },
     {
-      "id": "6a509ac310aa3c",
-      "category": "AI",
-      "published": "03.09. 09:20",
-      "publishedISO": "2026-09-03T09:20:23+02:00",
-      "title": "Watch: BBC travels in self-driving Uber around London",
-      "summary": "BBCs Zoe Kleinman var den første britiske journalisten som hyllet en selvkjørende Uber i London – her er hvordan turen gikk. Les mer om hvordan det er å kjøre i en robotaxi Se: BBC reiser i selvkjørende Uber rundt i London. Video, 00:02:05Se: BBC reiser i selvkjørende Uber rundt London Up Next.",
-      "keyPoints": [
-        "Read more on what it's like to ride in a robotaxi Watch: BBC travels in self-driving Uber around London.",
-        "Video, 00:02:05Watch: BBC travels in self-driving Uber around London Up Next.",
-        "BBCs Zoe Kleinman var den første britiske journalisten som hyllet en selvkjørende Uber i London – her er hvordan turen gikk.",
-        "Kunder i London kan nå reise i Storbritannias første robotakse ettersom Uber lanserer sin selvkjørende minicab på torsdag – selskapet er det første som lanserer tjenesten."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40c5/live/aaf5c6a0-a767-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/6a509ac310aa3c.jpg",
-      "score": 17
-    },
-    {
-      "id": "b8be855291970b",
-      "category": "AI",
-      "published": "02.09. 18:51",
-      "publishedISO": "2026-09-02T18:51:49+02:00",
-      "title": "Uber announces 3,000 job cuts as part of major restructure",
-      "summary": "Uber kutter mer enn 3000 jobber over hele verden som en del av en større overhaling designet for å krympe ledelseslag og omfokusere utgifter til kjernevirksomheten. Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer. I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
-      "keyPoints": [
-        "Uber is cutting more than 3,000 jobs worldwide as part of a major overhaul designed to shrink management layers and refocus spending on its core business.",
-        "Kutt påvirker både ledere og ikke-ledere, og Uber sa at de planlegger å dele mange av sine minste team inn i større grupper, men firmaet har ikke bekreftet de stedene som er mest berørt av nedskjæringer.",
-        "I motsetning til mange store teknologiselskaper som har kuttet jobber på grunn av store utgifter til kunstig intelligens (AI), hadde Uber unngått store reduksjoner siden pandemien.",
-        "Uber is cutting about 10% of its global workforce, bringing staffing back to levels last seen in 2021."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cp3ky2w4y9no",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4149/live/2053ede0-a6ec-11f1-9e4c-79c1c0e340c6.jpg",
-      "localImage": "assets/news/b8be855291970b.jpg",
-      "score": 14
-    },
-    {
       "id": "c02d4b6317daeb",
       "category": "Økonomi",
       "published": "03.09. 09:01",
@@ -212,6 +128,90 @@
       "image": "https://akamai.vgc.no/v2/images/715003f6-44b4-36ff-94be-82d85795958a?fit=crop&h=675&upscale=true&w=1200&s=baddd32f483a54bccc0bbc6e1b87131912fb681c",
       "localImage": "assets/news/db72a83cf7708b.jpg",
       "score": 17
+    },
+    {
+      "id": "9dabd5b1c1405d",
+      "category": "Økonomi",
+      "published": "02.09. 08:00",
+      "publishedISO": "2026-09-02T08:00:11+02:00",
+      "title": "Nordea Markets: Ingen rentekutt før 2028",
+      "summary": "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak. Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet. Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+      "keyPoints": [
+        "Norges Bank hever renten én gang i høst, og så kutter de ikke før i 2028, tror Nordea Markets. – Norges Bank er ikke i mål og har økt fokuset på å få inflasjonen ned, sier Kjetil Olsen, sjeføkonom i Nordea Markets, i den ferske rapporten Economic Outlook, som også seniorstrateg Sara Midtgaard står bak.",
+        "Nordea Markets tror Norges Bank setter opp renten én gang til i løpet av høsten, og at de ikke begynner å kutte før de er helt sikre på at inflasjonen nærmer seg målet.",
+        "Nordea Markets tror Norges Bank er villig til å godta en noe svakere utvikling i norsk økonomi, med økt arbeidsledighet.",
+        "Den norske kronen styrket seg markant tidligere i år mot både dollar og euro, blant annet som følge av høyere oljepris og kronekjøp fra Norges Bank, ifølge Nordea Markets."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/16wBnJ/nordea-markets-ingen-rentekutt-foer-2028",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1e00a249-d952-3c90-8f40-a05c0dec6119?fit=crop&h=675&upscale=true&w=1200&s=725f5bd7463bc34eaa407fc7a3b2fa4869a963a3",
+      "localImage": "assets/news/9dabd5b1c1405d.jpg",
+      "score": 17
+    },
+    {
+      "id": "2a35d33f7082d5",
+      "category": "Norge",
+      "published": "03.09. 12:50",
+      "publishedISO": "2026-09-03T12:50:19+02:00",
+      "title": "Rekordmange vil guide i fuglefjellet på Hornøya",
+      "summary": "Heile 25 aktørar hadde innan fristen 15. august, sendt inn søknad om å guide på Hornøya kommande sesong. Guide Lone Bangsund fortalde NRK i sommar at det i realiteten berre var seks aktørar i drift på Hornøya gjennom heile sesongen. Like før fuglesesongen i år lengst aust i Finnmark, var det framleis ikkje klart kva aktørar som fekk løyve til å guide på Hornøya.",
+      "keyPoints": [
+        "Heile 25 aktørar hadde innan fristen 15. august, sendt inn søknad om å guide på Hornøya kommande sesong.",
+        "Guide Lone Bangsund fortalde NRK i sommar at det i realiteten berre var seks aktørar i drift på Hornøya gjennom heile sesongen.",
+        "Like før fuglesesongen i år lengst aust i Finnmark, var det framleis ikkje klart kva aktørar som fekk løyve til å guide på Hornøya.",
+        "Rekordmange aktørar har søkt om å vise fram fuglefjellet utfor Vardø."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/rekordmange-vil-guide-i-fuglefjellet-pa-hornoya-1.18012070",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/PRbIJY9zIdhZ53qaGd9BnAFwwQFt6qB9jTNk6MzfMmFQ.jpg",
+      "localImage": "assets/news/2a35d33f7082d5.jpg",
+      "score": 13
+    },
+    {
+      "id": "0bb3d1c10b387e",
+      "category": "Norge",
+      "published": "03.09. 11:31",
+      "publishedISO": "2026-09-03T11:31:39+02:00",
+      "title": "Legene måtte «lime lungen fast» – nå tar Anders Mol en ny sjanse",
+      "summary": "SPENNINGSMOMENT: Lungen til Anders Mol har tidligere trøblet innendørs. Nå tar han sjansen igjen. – Jeg hadde ikke tenkt at det skulle være en mulighet, sier Anders Mol til NRK. Der opplevde han at lungen kollapset, ikke bare én gang, men to ganger. – Jeg måtte operere for å prøve å stoppe det og hindre det i at det skjedde på nytt, sier Mol og legger til at legene – enkelt fortalt – «limte lungen fast».",
+      "keyPoints": [
+        "Der opplevde han at lungen kollapset, ikke bare én gang, men to ganger. – Jeg måtte operere for å prøve å stoppe det og hindre det i at det skjedde på nytt, sier Mol og legger til at legene – enkelt fortalt – «limte lungen fast».",
+        "Nå tar han sjansen igjen. – Jeg hadde ikke tenkt at det skulle være en mulighet, sier Anders Mol til NRK.",
+        "SPENNINGSMOMENT: Lungen til Anders Mol har tidligere trøblet innendørs.",
+        "OLYMPISKE MESTRE: Anders Mol og Christian Sørum ble Olympiske mestere i Tokyo 2021."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/legene-matte-_lime-lungen-fast_-_-na-tar-anders-mol-en-ny-sjanse-1.18005781",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/IrtM6XVM-OPC0eCYVqhNzwx_fsgG-NOrieZt4ze7sQ_Q.jpg",
+      "localImage": "assets/news/0bb3d1c10b387e.jpg",
+      "score": 13
+    },
+    {
+      "id": "e7fcadd2f2404c",
+      "category": "Norge",
+      "published": "03.09. 11:07",
+      "publishedISO": "2026-09-03T11:07:10+02:00",
+      "title": "Her planter dronen ny skog – digitalisering stadig viktigere i skogbruket",
+      "summary": "PLANTER SKOG: Den norskutviklede prototypen viser frem hvordan den planter skog. Ny norskutviklet drone planter skog basert på en rekke innsamlede og digitaliserte data. – Det er hardt fysisk arbeid å plante trær. Administrerende direktør Bjørn Håvard Evjen i Norges Skogeierforbund mener skogbruket har mye å tjene på å satse på digitalisering og ny teknologi. – Målet vårt er å ikke gjøre oss så avhengig av arbeidskraft som vi tradisjonelt har vært.",
+      "keyPoints": [
+        "PLANTER SKOG: Den norskutviklede prototypen viser frem hvordan den planter skog.",
+        "Ny norskutviklet drone planter skog basert på en rekke innsamlede og digitaliserte data. – Det er hardt fysisk arbeid å plante trær.",
+        "Administrerende direktør Bjørn Håvard Evjen i Norges Skogeierforbund mener skogbruket har mye å tjene på å satse på digitalisering og ny teknologi. – Målet vårt er å ikke gjøre oss så avhengig av arbeidskraft som vi tradisjonelt har vært.",
+        "Men dette er bare én måte skogbruket jobber med teknologi og digitalisering."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/her-planter-dronen-ny-skog-_-digitalisering-stadig-viktigere-i-skogbruket-1.18005707",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/glQ_hr3DsrySzvnQ6ufB6AhgDmHP0HNrRWqvXSN9NTgA.jpg",
+      "localImage": "assets/news/e7fcadd2f2404c.jpg",
+      "score": 13
     }
   ]
 }
