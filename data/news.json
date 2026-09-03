@@ -1,28 +1,28 @@
 {
-  "updatedAt": "03.09.2026 kl. 15:41",
-  "updatedISO": "2026-09-03T15:41:19.293889+02:00",
+  "updatedAt": "03.09.2026 kl. 15:53",
+  "updatedISO": "2026-09-03T15:53:51.956324+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "ce065cec19c857",
+      "id": "6eee775b483d69",
       "category": "Nord-Norge",
-      "published": "02.09. 20:50",
-      "publishedISO": "2026-09-02T20:50:12+02:00",
-      "title": "Fortsatt ikke klart når det blir nattog på Nordlandsbanen",
-      "summary": "Det er fortsatt usikkert når nattogtilbudet på Nordlandsbanen kan starte opp igjen. Arbeidet med leveransen av de innleide svenske lokomotivene er inne i sin siste fase, men teknisk ombygging og godkjenningsprosesser skaper fremdeles forsinkelser. – Det er fortsatt noe usikkerhet knyttet til tidspunktet for overlevering av lokomotivet til SJ. Nordlandsbanen har over lengre tid slit med alvorlige driftsproblemer som følge av gammelt materiell, mangel på reservedeler og ettervirkningene av Bjerka-ulykken.",
+      "published": "03.09. 15:51",
+      "publishedISO": "2026-09-03T15:51:54+02:00",
+      "title": "Foreslår strategisk EU-status for Narvik-korridoren",
+      "summary": "Transportkorridoren mellom Kiruna og Narvik bør få status som strategisk prosjekt i EU. Det foreslår en ny rapport til Europaparlamentet, skrevet av blant andre Andreas Raspotnik ved Nord universitet. I rapporten fremgår det at EU bør bidra til å oppgradere jernbane, havn og logistikk, slik at mineraler fra Nord-Sverige kan fraktes trygt og effektivt gjennom Narvik. – Europa trenger sikrere tilgang til kritiske råvarer.",
       "keyPoints": [
-        "Det er fortsatt usikkert når nattogtilbudet på Nordlandsbanen kan starte opp igjen.",
-        "Arbeidet med leveransen av de innleide svenske lokomotivene er inne i sin siste fase, men teknisk ombygging og godkjenningsprosesser skaper fremdeles forsinkelser. – Det er fortsatt noe usikkerhet knyttet til tidspunktet for overlevering av lokomotivet til SJ.",
-        "Nordlandsbanen har over lengre tid slit med alvorlige driftsproblemer som følge av gammelt materiell, mangel på reservedeler og ettervirkningene av Bjerka-ulykken.",
-        "Det var opprinnelig forespeilet at nattoget skulle være i gang i løpet av sommeren, etter at kommunalminister Bjørnar Skjæran tidlig i år lovet en løsning på den langvarige lokomotivkrisen."
+        "Det foreslår en ny rapport til Europaparlamentet, skrevet av blant andre Andreas Raspotnik ved Nord universitet.",
+        "Transportkorridoren mellom Kiruna og Narvik bør få status som strategisk prosjekt i EU.",
+        "I rapporten fremgår det at EU bør bidra til å oppgradere jernbane, havn og logistikk, slik at mineraler fra Nord-Sverige kan fraktes trygt og effektivt gjennom Narvik. – Europa trenger sikrere tilgang til kritiske råvarer.",
+        "EU bør derfor investere i jernbanen og havna som trengs for å få råvarene ut på markedet, sier Raspotnik til rapporten."
       ],
       "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/fortsatt-ikke-klart-nar-det-blir-nattog-pa-nordlandsbanen-1.18011936",
+      "url": "https://www.nrk.no/nordland/foreslar-strategisk-eu-status-for-narvik-korridoren-1.18013382",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5CHOPp6s3YjV7I3BGDdujwQ0X_U3HfQ4pezR_IHrnbrA.jpg",
-      "localImage": "assets/news/ce065cec19c857.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/o0UN1e_2pyyZZiGXuXDW2wZRuSSPs2kaxRe2DTJJ7auw.jpg",
+      "localImage": "assets/news/6eee775b483d69.jpg",
+      "score": 35
     },
     {
       "id": "ac42312de7d450",
@@ -177,12 +177,12 @@
       "published": "03.09. 15:09",
       "publishedISO": "2026-09-03T15:09:18+02:00",
       "title": "Akers AI-selskap Nscale inngår robotavtale",
-      "summary": "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure. Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar. Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
+      "summary": "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure. Nscale skriver at «avtalen representere muligheten» til å sette til verks 100.000 grafikkprosessorer (GPUer) fra Nvidia, som skal brukes til å trene Figures AI-modeller. – Dette er svinghjulet for fysisk AI som vil fremskynde veien fra modeller til roboter i den virkelige verden, sier Nvidia-sjef Jensen Huang i forbindelse med avtalen. Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
       "keyPoints": [
         "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure.",
         "Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
-        "Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar.",
-        "Nscale skriver at «avtalen represtentere muligheten» til å sette til verks 100.000 grafikkprosessorer (GPUer) fra Nvidia, som skal brukes til å trene Figures AI-modeller."
+        "Nscale skriver at «avtalen representere muligheten» til å sette til verks 100.000 grafikkprosessorer (GPUer) fra Nvidia, som skal brukes til å trene Figures AI-modeller. – Dette er svinghjulet for fysisk AI som vil fremskynde veien fra modeller til roboter i den virkelige verden, sier Nvidia-sjef Jensen Huang i forbindelse med avtalen.",
+        "Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
