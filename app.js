@@ -1,1 +1,397 @@
-const KEY='alexProductionProfilesV1';let profiles=load();const $=s=>document.querySelector(s);const dialog=$('#profileDialog');function load(){try{return JSON.parse(localStorage.getItem(KEY)||'[]')}catch{return[]}}function save(){localStorage.setItem(KEY,JSON.stringify(profiles));render()}function esc(s=''){return String(s).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]))}function mins(p){return Number(p.minutes)||0}function fmtTime(m){m=Number(m)||0;if(m<60)return`${m} min`;const h=Math.floor(m/60),r=m%60;return r?`${h} t ${r} min`:`${h} t`}function fmtDate(d){return new Intl.DateTimeFormat('nb-NO',{day:'2-digit',month:'short',year:'numeric'}).format(new Date(d+'T12:00:00'))}function countBy(field,data=profiles){return data.reduce((a,p)=>{const k=p[field]||'Ukjent';a[k]=(a[k]||0)+1;return a},{})}function topOf(obj){return Object.entries(obj).sort((a,b)=>b[1]-a[1])[0]}function within(days,p){const t=new Date(p.date+'T23:59:59').getTime();return t>=Date.now()-days*864e5}function toast(t){const x=$('#toast');x.textContent=t;x.classList.add('show');clearTimeout(toast.timer);toast.timer=setTimeout(()=>x.classList.remove('show'),2200)}function openForm(p=null){$('#profileForm').reset();$('#editId').value=p?.id||'';$('#formTitle').textContent=p?'Rediger registrering':'Registrer produsert bedrift';$('#productionDate').value=p?.date||new Date().toISOString().slice(0,10);if(p){$('#companyName').value=p.name;$('#companyCategory').value=p.category;$('#producer').value=p.producer;$('#timeHours').value=Math.floor(p.minutes/60)||'';$('#timeMinutes').value=p.minutes%60;$('#notes').value=p.notes||''}dialog.showModal()}function closeForm(){dialog.close()}function renderStats(){const total=profiles.length,tm=profiles.reduce((s,p)=>s+mins(p),0),avg=total?Math.round(tm/total):0;$('#totalProfiles').textContent=total;const now=new Date();const thisMonth=profiles.filter(p=>{const d=new Date(p.date+'T12:00:00');return d.getMonth()===now.getMonth()&&d.getFullYear()===now.getFullYear()}).length;$('#profilesThisMonth').textContent=`${thisMonth} denne måneden`;$('#avgTime').textContent=fmtTime(avg);const sorted=[...profiles].sort((a,b)=>mins(a)-mins(b));$('#fastestTime').textContent=sorted.length?`Raskest: ${fmtTime(mins(sorted[0]))}`:'Ingen data ennå';$('#totalTime').textContent=tm<60?`${tm} min`:`${(tm/60).toFixed(tm%60?1:0)} t`;$('#estimatedDays').textContent=`${(tm/480).toFixed(1)} arbeidsdager á 8 t`;const tc=topOf(countBy('category'));$('#topCategory').textContent=tc?.[0]||'—';$('#topCategoryCount').textContent=tc?`${tc[1]} profiler`:'Ingen data ennå';$('#fastestProfile').textContent=sorted.length?`${sorted[0].name} · ${fmtTime(sorted[0].minutes)}`:'—';$('#slowestProfile').textContent=sorted.length?`${sorted.at(-1).name} · ${fmtTime(sorted.at(-1).minutes)}`:'—';$('#last7Days').textContent=profiles.filter(p=>within(7,p)).length;$('#last30Days').textContent=profiles.filter(p=>within(30,p)).length}function renderRanks(id,obj){const el=$(id),arr=Object.entries(obj).sort((a,b)=>b[1]-a[1]).slice(0,6);if(!arr.length){el.className='rank-list empty-state';el.textContent='Ingen registreringer ennå.';return}el.className='rank-list';const max=arr[0][1];el.innerHTML=arr.map(([n,c])=>`<div class="rank-row"><span class="rank-name">${esc(n)}</span><span class="rank-count">${c}</span><div class="rank-track"><div class="rank-fill" style="width:${c/max*100}%"></div></div></div>`).join('')}function monthKey(d){const x=new Date(d+'T12:00:00');return`${x.getFullYear()}-${String(x.getMonth()+1).padStart(2,'0')}`}function renderChart(){const months=[];const now=new Date();for(let i=5;i>=0;i--){const d=new Date(now.getFullYear(),now.getMonth()-i,1);months.push({key:`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}`,label:new Intl.DateTimeFormat('nb-NO',{month:'short'}).format(d)})}const counts=months.map(m=>profiles.filter(p=>monthKey(p.date)===m.key).length),max=Math.max(...counts,1);$('#monthlyChart').innerHTML=months.map((m,i)=>`<div class="bar-col"><span class="bar-value">${counts[i]}</span><div class="bar" style="height:${Math.max(counts[i]?8:2,counts[i]/max*160)}px"></div><span class="bar-label">${m.label}</span></div>`).join('');const prev=counts.at(-2)||0,cur=counts.at(-1)||0;$('#monthlyTrend').textContent=prev?`${cur>=prev?'+':''}${Math.round((cur-prev)/prev*100)}% vs. forrige mnd`:`${cur} denne måneden`}function updateFilters(){const cat=$('#categoryFilter'),prod=$('#producerFilter'),cv=cat.value,pv=prod.value;cat.innerHTML='<option value="">Alle kategorier</option>'+Object.keys(countBy('category')).sort().map(x=>`<option>${esc(x)}</option>`).join('');prod.innerHTML='<option value="">Alle produsenter</option>'+Object.keys(countBy('producer')).sort().map(x=>`<option>${esc(x)}</option>`).join('');cat.value=cv;prod.value=pv}function renderTable(){const q=$('#searchInput').value.trim().toLowerCase(),cat=$('#categoryFilter').value,prod=$('#producerFilter').value;const data=[...profiles].filter(p=>(!q||`${p.name} ${p.category} ${p.producer}`.toLowerCase().includes(q))&&(!cat||p.category===cat)&&(!prod||p.producer===prod)).sort((a,b)=>b.date.localeCompare(a.date)||b.createdAt-a.createdAt);$('#profileTable').innerHTML=data.length?data.map(p=>`<tr><td>${esc(p.name)}</td><td><span class="pill">${esc(p.category)}</span></td><td>${esc(p.producer)}</td><td>${fmtTime(p.minutes)}</td><td>${fmtDate(p.date)}</td><td><div class="row-actions"><button class="row-btn edit" data-id="${p.id}" title="Rediger">✎</button><button class="row-btn delete" data-id="${p.id}" title="Slett">×</button></div></td></tr>`).join(''):'<tr><td colspan="6" class="table-empty">Ingen profiler matcher filteret.</td></tr>'}function render(){renderStats();renderRanks('#categoryList',countBy('category'));renderRanks('#producerList',countBy('producer'));renderChart();updateFilters();renderTable()}$('#openFormBtn').onclick=()=>openForm();$('#closeDialogBtn').onclick=closeForm;$('#cancelBtn').onclick=closeForm;$('#profileForm').addEventListener('submit',e=>{e.preventDefault();const h=Number($('#timeHours').value||0),m=Number($('#timeMinutes').value||0),total=h*60+m;if(total<=0)return toast('Legg inn tidsbruk.');const id=$('#editId').value;const item={id:id||crypto.randomUUID(),name:$('#companyName').value.trim(),category:$('#companyCategory').value.trim(),producer:$('#producer').value.trim(),minutes:total,date:$('#productionDate').value,notes:$('#notes').value.trim(),createdAt:id?(profiles.find(p=>p.id===id)?.createdAt||Date.now()):Date.now()};if(id)profiles=profiles.map(p=>p.id===id?item:p);else profiles.push(item);save();closeForm();toast(id?'Registrering oppdatert.':'Profil registrert.');});$('#profileTable').addEventListener('click',e=>{const id=e.target.dataset.id;if(!id)return;if(e.target.classList.contains('edit'))openForm(profiles.find(p=>p.id===id));if(e.target.classList.contains('delete')&&confirm('Slette denne registreringen?')){profiles=profiles.filter(p=>p.id!==id);save();toast('Registrering slettet.')}});['#searchInput','#categoryFilter','#producerFilter'].forEach(s=>$(s).addEventListener('input',renderTable));$('#exportBtn').onclick=()=>{const blob=new Blob([JSON.stringify({exportedAt:new Date().toISOString(),profiles},null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download=`alex-brief-produksjon-${new Date().toISOString().slice(0,10)}.json`;a.click();URL.revokeObjectURL(a.href);toast('Data eksportert.')} ;$('#importInput').onchange=async e=>{const f=e.target.files[0];if(!f)return;try{const data=JSON.parse(await f.text()),arr=Array.isArray(data)?data:data.profiles;if(!Array.isArray(arr))throw Error();if(confirm(`Importere ${arr.length} registreringer? Dette erstatter dagens data.`)){profiles=arr;save();toast('Data importert.')}}catch{toast('Kunne ikke lese filen.')}e.target.value=''};dialog.addEventListener('click',e=>{const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)closeForm()});render();
+const KEY = "alexProductionProfilesV1";
+let profiles = load();
+let selectedPeriod = "current";
+const $ = (s) => document.querySelector(s);
+const dialog = $("#profileDialog");
+function load() {
+  try {
+    return JSON.parse(localStorage.getItem(KEY) || "[]");
+  } catch {
+    return [];
+  }
+}
+function save() {
+  localStorage.setItem(KEY, JSON.stringify(profiles));
+  render();
+}
+function esc(s = "") {
+  return String(s).replace(
+    /[&<>'"]/g,
+    (c) =>
+      ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[
+        c
+      ],
+  );
+}
+function mins(p) {
+  return Number(p.minutes) || 0;
+}
+function fmtTime(m) {
+  m = Number(m) || 0;
+  if (m < 60) return `${m} min`;
+  const h = Math.floor(m / 60),
+    r = m % 60;
+  return r ? `${h} t ${r} min` : `${h} t`;
+}
+function fmtDate(d) {
+  return new Intl.DateTimeFormat("nb-NO", {
+    day: "2-digit",
+    month: "short",
+    year: "numeric",
+  }).format(new Date(d + "T12:00:00"));
+}
+function countBy(field, data = profiles) {
+  return data.reduce((a, p) => {
+    const k = p[field] || "Ukjent";
+    a[k] = (a[k] || 0) + 1;
+    return a;
+  }, {});
+}
+function topOf(obj) {
+  return Object.entries(obj).sort((a, b) => b[1] - a[1])[0];
+}
+function within(days, p) {
+  const t = new Date(p.date + "T23:59:59").getTime();
+  return t >= Date.now() - days * 864e5;
+}
+function toast(t) {
+  const x = $("#toast");
+  x.textContent = t;
+  x.classList.add("show");
+  clearTimeout(toast.timer);
+  toast.timer = setTimeout(() => x.classList.remove("show"), 2200);
+}
+function openForm(p = null) {
+  $("#profileForm").reset();
+  $("#editId").value = p?.id || "";
+  $("#formTitle").textContent = p
+    ? "Rediger registrering"
+    : "Registrer produsert bedrift";
+  $("#productionDate").value = p?.date || new Date().toISOString().slice(0, 10);
+  if (p) {
+    $("#companyName").value = p.name;
+    $("#companyCategory").value = p.category;
+    $("#producer").value = p.producer;
+    $("#timeHours").value = Math.floor(p.minutes / 60) || "";
+    $("#timeMinutes").value = p.minutes % 60;
+    $("#notes").value = p.notes || "";
+  }
+  dialog.showModal();
+}
+function closeForm() {
+  dialog.close();
+}
+function renderStats(data) {
+  const total = data.length,
+    tm = data.reduce((s, p) => s + mins(p), 0),
+    avg = total ? Math.round(tm / total) : 0;
+  $("#totalProfiles").textContent = total;
+  $("#profilesThisMonth").textContent = periodLabel();
+  $("#avgTime").textContent = fmtTime(avg);
+  const sorted = [...data].sort((a, b) => mins(a) - mins(b));
+  $("#fastestTime").textContent = sorted.length
+    ? `Raskest: ${fmtTime(mins(sorted[0]))}`
+    : "Ingen data ennå";
+  $("#totalTime").textContent =
+    tm < 60 ? `${tm} min` : `${(tm / 60).toFixed(tm % 60 ? 1 : 0)} t`;
+  $("#estimatedDays").textContent =
+    `${(tm / 480).toFixed(1)} arbeidsdager á 8 t`;
+  const tc = topOf(countBy("category", data));
+  $("#topCategory").textContent = tc?.[0] || "—";
+  $("#topCategoryCount").textContent = tc
+    ? `${tc[1]} profiler`
+    : "Ingen data ennå";
+  $("#fastestProfile").textContent = sorted.length
+    ? `${sorted[0].name} · ${fmtTime(sorted[0].minutes)}`
+    : "—";
+  $("#slowestProfile").textContent = sorted.length
+    ? `${sorted.at(-1).name} · ${fmtTime(sorted.at(-1).minutes)}`
+    : "—";
+  $("#last7Days").textContent = data.length;
+  $("#last30Days").textContent = Object.keys(countBy("category", data)).length;
+}
+function renderRanks(id, obj) {
+  const el = $(id),
+    arr = Object.entries(obj)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 6);
+  if (!arr.length) {
+    el.className = "rank-list empty-state";
+    el.textContent = "Ingen registreringer ennå.";
+    return;
+  }
+  el.className = "rank-list";
+  const max = arr[0][1];
+  el.innerHTML = arr
+    .map(
+      ([n, c]) =>
+        `<div class="rank-row"><span class="rank-name">${esc(n)}</span><span class="rank-count">${c}</span><div class="rank-track"><div class="rank-fill" style="width:${(c / max) * 100}%"></div></div></div>`,
+    )
+    .join("");
+}
+function monthKey(d) {
+  const x = new Date(d + "T12:00:00");
+  return `${x.getFullYear()}-${String(x.getMonth() + 1).padStart(2, "0")}`;
+}
+function monthKeyFromDate(date) {
+  return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, "0")}`;
+}
+function offsetMonth(key, offset) {
+  const [year, month] = key.split("-").map(Number);
+  return monthKeyFromDate(new Date(year, month - 1 + offset, 1));
+}
+function currentMonthKey() {
+  return monthKeyFromDate(new Date());
+}
+function selectedMonthKey() {
+  if (selectedPeriod === "current") return currentMonthKey();
+  if (selectedPeriod === "previous") return offsetMonth(currentMonthKey(), -1);
+  if (selectedPeriod.startsWith("month:")) return selectedPeriod.slice(6);
+  return null;
+}
+function periodLabel(value = selectedPeriod) {
+  if (value === "all") return "Alle måneder";
+  if (value === "current") return "Denne måneden";
+  if (value === "previous") return "Forrige måned";
+  const key = value.startsWith("month:") ? value.slice(6) : value;
+  const [year, month] = key.split("-").map(Number);
+  const label = new Intl.DateTimeFormat("nb-NO", {
+    month: "long",
+    year: "numeric",
+  }).format(new Date(year, month - 1, 1));
+  return label.charAt(0).toUpperCase() + label.slice(1);
+}
+function periodData() {
+  const key = selectedMonthKey();
+  return key ? profiles.filter((p) => monthKey(p.date) === key) : [...profiles];
+}
+function updatePeriodFilter() {
+  const select = $("#periodFilter");
+  const existing = selectedPeriod;
+  const keys = [...new Set(profiles.map((p) => monthKey(p.date)))]
+    .filter(Boolean)
+    .sort()
+    .reverse();
+  select.innerHTML =
+    '<option value="current">Denne måneden</option>' +
+    '<option value="previous">Forrige måned</option>' +
+    '<option value="all">Alle måneder</option>' +
+    keys
+      .map(
+        (key) =>
+          `<option value="month:${key}">${esc(periodLabel(`month:${key}`))}</option>`,
+      )
+      .join("");
+  select.value = [...select.options].some((option) => option.value === existing)
+    ? existing
+    : "current";
+  selectedPeriod = select.value;
+}
+function renderPeriodSummary(data) {
+  const label = periodLabel();
+  $("#selectedPeriodLabel").textContent = label;
+  $("#selectedPeriodCount").textContent = data.length;
+  $("#historyTitle").textContent =
+    selectedPeriod === "all"
+      ? "Alle produserte profiler"
+      : `Profiler – ${label.toLowerCase()}`;
+  const change = $("#selectedPeriodChange");
+  change.className = "";
+  const key = selectedMonthKey();
+  if (!key) {
+    change.textContent = "Velg en måned for sammenligning";
+    return;
+  }
+  const previousCount = profiles.filter(
+    (p) => monthKey(p.date) === offsetMonth(key, -1),
+  ).length;
+  if (!previousCount) {
+    change.textContent = data.length
+      ? `${data.length} mot 0 måneden før`
+      : "Ingen data måneden før";
+    return;
+  }
+  const percent = Math.round(
+    ((data.length - previousCount) / previousCount) * 100,
+  );
+  change.textContent = `${percent >= 0 ? "+" : ""}${percent}% (${previousCount} måneden før)`;
+  change.className = percent >= 0 ? "positive" : "negative";
+}
+function renderChart() {
+  const months = [];
+  const now = new Date();
+  for (let i = 5; i >= 0; i--) {
+    const d = new Date(now.getFullYear(), now.getMonth() - i, 1);
+    months.push({
+      key: `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`,
+      label: new Intl.DateTimeFormat("nb-NO", { month: "short" }).format(d),
+    });
+  }
+  const counts = months.map(
+      (m) => profiles.filter((p) => monthKey(p.date) === m.key).length,
+    ),
+    max = Math.max(...counts, 1);
+  $("#monthlyChart").innerHTML = months
+    .map(
+      (m, i) =>
+        `<div class="bar-col"><span class="bar-value">${counts[i]}</span><div class="bar" style="height:${Math.max(counts[i] ? 8 : 2, (counts[i] / max) * 160)}px"></div><span class="bar-label">${m.label}</span></div>`,
+    )
+    .join("");
+  const prev = counts.at(-2) || 0,
+    cur = counts.at(-1) || 0;
+  $("#monthlyTrend").textContent = prev
+    ? `${cur >= prev ? "+" : ""}${Math.round(((cur - prev) / prev) * 100)}% vs. forrige mnd`
+    : `${cur} denne måneden`;
+}
+function updateFilters() {
+  const cat = $("#categoryFilter"),
+    prod = $("#producerFilter"),
+    cv = cat.value,
+    pv = prod.value;
+  cat.innerHTML =
+    '<option value="">Alle kategorier</option>' +
+    Object.keys(countBy("category"))
+      .sort()
+      .map((x) => `<option>${esc(x)}</option>`)
+      .join("");
+  prod.innerHTML =
+    '<option value="">Alle produsenter</option>' +
+    Object.keys(countBy("producer"))
+      .sort()
+      .map((x) => `<option>${esc(x)}</option>`)
+      .join("");
+  cat.value = cv;
+  prod.value = pv;
+}
+function renderTable(periodProfiles = periodData()) {
+  const q = $("#searchInput").value.trim().toLowerCase(),
+    cat = $("#categoryFilter").value,
+    prod = $("#producerFilter").value;
+  const data = [...periodProfiles]
+    .filter(
+      (p) =>
+        (!q ||
+          `${p.name} ${p.category} ${p.producer}`.toLowerCase().includes(q)) &&
+        (!cat || p.category === cat) &&
+        (!prod || p.producer === prod),
+    )
+    .sort((a, b) => b.date.localeCompare(a.date) || b.createdAt - a.createdAt);
+  $("#profileTable").innerHTML = data.length
+    ? data
+        .map(
+          (p) =>
+            `<tr><td>${esc(p.name)}</td><td><span class="pill">${esc(p.category)}</span></td><td>${esc(p.producer)}</td><td>${fmtTime(p.minutes)}</td><td>${fmtDate(p.date)}</td><td><div class="row-actions"><button class="row-btn edit" data-id="${p.id}" title="Rediger">✎</button><button class="row-btn delete" data-id="${p.id}" title="Slett">×</button></div></td></tr>`,
+        )
+        .join("")
+    : '<tr><td colspan="6" class="table-empty">Ingen profiler matcher filteret.</td></tr>';
+}
+function render() {
+  updatePeriodFilter();
+  const data = periodData();
+  renderPeriodSummary(data);
+  renderStats(data);
+  renderRanks("#categoryList", countBy("category", data));
+  renderRanks("#producerList", countBy("producer", data));
+  renderChart();
+  updateFilters();
+  renderTable(data);
+}
+$("#openFormBtn").onclick = () => openForm();
+$("#periodFilter").addEventListener("change", (event) => {
+  selectedPeriod = event.target.value;
+  render();
+});
+$("#closeDialogBtn").onclick = closeForm;
+$("#cancelBtn").onclick = closeForm;
+$("#profileForm").addEventListener("submit", (e) => {
+  e.preventDefault();
+  const h = Number($("#timeHours").value || 0),
+    m = Number($("#timeMinutes").value || 0),
+    total = h * 60 + m;
+  if (total <= 0) return toast("Legg inn tidsbruk.");
+  const id = $("#editId").value;
+  const item = {
+    id: id || crypto.randomUUID(),
+    name: $("#companyName").value.trim(),
+    category: $("#companyCategory").value.trim(),
+    producer: $("#producer").value.trim(),
+    minutes: total,
+    date: $("#productionDate").value,
+    notes: $("#notes").value.trim(),
+    createdAt: id
+      ? profiles.find((p) => p.id === id)?.createdAt || Date.now()
+      : Date.now(),
+  };
+  if (id) profiles = profiles.map((p) => (p.id === id ? item : p));
+  else profiles.push(item);
+  save();
+  closeForm();
+  toast(id ? "Registrering oppdatert." : "Profil registrert.");
+});
+$("#profileTable").addEventListener("click", (e) => {
+  const id = e.target.dataset.id;
+  if (!id) return;
+  if (e.target.classList.contains("edit"))
+    openForm(profiles.find((p) => p.id === id));
+  if (
+    e.target.classList.contains("delete") &&
+    confirm("Slette denne registreringen?")
+  ) {
+    profiles = profiles.filter((p) => p.id !== id);
+    save();
+    toast("Registrering slettet.");
+  }
+});
+["#searchInput", "#categoryFilter", "#producerFilter"].forEach((s) =>
+  $(s).addEventListener("input", renderTable),
+);
+$("#exportBtn").onclick = () => {
+  const blob = new Blob(
+      [
+        JSON.stringify(
+          { exportedAt: new Date().toISOString(), profiles },
+          null,
+          2,
+        ),
+      ],
+      { type: "application/json" },
+    ),
+    a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `alex-brief-produksjon-${new Date().toISOString().slice(0, 10)}.json`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+  toast("Data eksportert.");
+};
+$("#importInput").onchange = async (e) => {
+  const f = e.target.files[0];
+  if (!f) return;
+  try {
+    const data = JSON.parse(await f.text()),
+      arr = Array.isArray(data) ? data : data.profiles;
+    if (!Array.isArray(arr)) throw Error();
+    if (
+      confirm(
+        `Importere ${arr.length} registreringer? Dette erstatter dagens data.`,
+      )
+    ) {
+      profiles = arr;
+      save();
+      toast("Data importert.");
+    }
+  } catch {
+    toast("Kunne ikke lese filen.");
+  }
+  e.target.value = "";
+};
+dialog.addEventListener("click", (e) => {
+  const r = dialog.getBoundingClientRect();
+  if (
+    e.clientX < r.left ||
+    e.clientX > r.right ||
+    e.clientY < r.top ||
+    e.clientY > r.bottom
+  )
+    closeForm();
+});
+render();
