@@ -1,6 +1,6 @@
 const KEY = "alexProductionProfilesV1";
 let profiles = load();
-let selectedPeriod = "current";
+let selectedPeriod = "all";
 const $ = (s) => document.querySelector(s);
 const dialog = $("#profileDialog");
 function load() {
@@ -184,7 +184,7 @@ function updatePeriodFilter() {
       .join("");
   select.value = [...select.options].some((option) => option.value === existing)
     ? existing
-    : "current";
+    : "all";
   selectedPeriod = select.value;
 }
 function renderPeriodSummary(data) {
