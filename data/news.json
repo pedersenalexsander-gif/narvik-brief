@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 03:53",
-  "updatedISO": "2026-09-04T03:53:50.855166+02:00",
+  "updatedAt": "04.09.2026 kl. 04:12",
+  "updatedISO": "2026-09-04T04:12:24.226277+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,25 +46,46 @@
       "score": 16
     },
     {
-      "id": "d2dc3878cc66ec",
-      "category": "USA",
-      "published": "03.09. 20:33",
-      "publishedISO": "2026-09-03T20:33:25+02:00",
-      "title": "Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding",
-      "summary": "During a White House press briefing, US vice-president JD Vance was asked about an alleged strike on Iranian wedding celebration. Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding. Video, 00:00:58Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding Up Next.",
+      "id": "5eba04ed411062",
+      "category": "Verden",
+      "published": "03.09. 18:16",
+      "publishedISO": "2026-09-03T18:16:49+02:00",
+      "title": "Falkland Islands: Donald Trump hints US would not back UK over Argentina",
+      "summary": "Tidligere amerikanske administrasjoner har tatt en nøytral stilling til øyenes suverenitet Donald Trump har antydet at han ikke ville komme Storbritannia til unnsetning i en potensiell fremtidig konflikt med Argentina om Falklandsøyene. Trumps siste kommentarer kommer etter at han tidligere sa at USA kunne revidere sin nøytrale posisjon til øyenes suverenitet dersom Storbritannia ikke klarte å øke forsvarsutgiftene. Det hvite hus forsvarer Argentina-laget over Falklands-banneret Storbritannia sier at Falklandsøyene er \"definitivt vårt\" etter at Argentina-banneret Rubio bagatelliserer rapporter om at USA kan gjennomgå Storbritannias krav på Falklandsøyene",
       "keyPoints": [
-        "Watch: JD Vance 'extremely sceptical' over alleged strike on Iranian wedding.",
-        "During a White House press briefing, US vice-president JD Vance was asked about an alleged strike on Iranian wedding celebration.",
-        "Iran has accused the US of a war crime after officials said a missile strike killed four people, including two children, at a wedding celebration.",
-        "Video, 00:01:37Nepal tunnel rescuers hunt for survivors with rafts and drone Watch: Gloria Steinem dedicated her life to fight for women's equality."
+        "Tidligere amerikanske administrasjoner har tatt en nøytral stilling til øyenes suverenitet Donald Trump har antydet at han ikke ville komme Storbritannia til unnsetning i en potensiell fremtidig konflikt med Argentina om Falklandsøyene.",
+        "White House defends Argentina team over Falklands banner UK says Falkland Islands 'definitely ours' after Argentina banner Rubio downplays reports US could review UK's claim to Falklands",
+        "Trumps siste kommentarer kommer etter at han tidligere sa at USA kunne revidere sin nøytrale posisjon til øyenes suverenitet dersom Storbritannia ikke klarte å øke forsvarsutgiftene.",
+        "Trumps kommentarer kommer etter at han ble spurt av BBC om han gjennomgikk USAs posisjon på øyene."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bbd3/live/c8f1c0a0-a7b2-11f1-b5cf-8556ae508a51.jpg",
+      "localImage": "assets/news/5eba04ed411062.jpg",
+      "score": 16
+    },
+    {
+      "id": "a359f1ac3ae74d",
+      "category": "USA",
+      "published": "04.09. 02:55",
+      "publishedISO": "2026-09-04T02:55:45+02:00",
+      "title": "Watch: What it was like in court as Lindsay Clancy's lawyer asked judge to remove juror",
+      "summary": "Clancys advokat ba dommeren om å fjerne en jurymedlem etter at juryens forkvinne sendte et rettsnotat om at ett holdout ikke ville følge rettens instruksjoner ved rimelig tvil. Se: Inne i retten mens Lindsay Clancys advokat ber dommeren om å fjerne jurymedlem. Video, 00:01:14Se: Inne i retten mens Lindsay Clancys advokat ber dommeren fjerne jurymedlem Up Next.",
+      "keyPoints": [
+        "Watch: Inside court as Lindsay Clancy's lawyer asks judge to remove juror.",
+        "Clancys advokat ba dommeren om å fjerne en jurymedlem etter at juryens forkvinne sendte et rettsnotat om at ett holdout ikke ville følge rettens instruksjoner ved rimelig tvil.",
+        "Video, 00:01:04Watch: BBC inside court as jury in Lindsay Clancy trial deadlocked Watch: What happens now after Lindsay Clancy trial jurors deadlocked again?",
+        "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cr4vn247550o",
+      "url": "https://www.bbc.co.uk/news/videos/c36l7jwjg1no",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d198/live/a0fee010-a7c5-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/d2dc3878cc66ec.jpg",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/737f/live/484b4750-a802-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/a359f1ac3ae74d.jpg",
+      "score": 13
     },
     {
       "id": "848449739ce8cd",
@@ -109,6 +130,48 @@
       "score": 18
     },
     {
+      "id": "8690d18270cc0a",
+      "category": "AI",
+      "published": "03.09. 18:32",
+      "publishedISO": "2026-09-03T18:32:05+02:00",
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "summary": "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare. Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy. I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
+      "keyPoints": [
+        "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare.",
+        "I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
+        "Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy.",
+        "Avtalen vil være en \"stor seier for innovatører og forbrukere over hele verden\" hvis Nvidia holder Hugging Face åpen og tilgjengelig, la han til."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/8690d18270cc0a.jpg",
+      "score": 20
+    },
+    {
+      "id": "ef9a94e081c1f3",
+      "category": "AI",
+      "published": "04.09. 04:02",
+      "publishedISO": "2026-09-04T04:02:02+02:00",
+      "title": "Er roboter underholdningens fremtid? Denne sørkoreanske fornøyelsesparken mener det",
+      "summary": "Dette er Galaxy Robot Park, en 16 500 kvadratmeter stor arena som er åpnet nær Seoul i Sør-Korea. Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen. Video, 00:01:12Kan roboter være fremtiden til fornøyelsesparker?",
+      "keyPoints": [
+        "Video, 00:01:12Could robots be the future of theme parks?",
+        "This is Galaxy Robot Park, a 16,500-square-meter venue that’s opened near Seoul in South Korea .",
+        "Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen.",
+        "Video, 00:01:24Robotboksing, fotball og sprint på World Humanoid Games Robothest og rytter stjeler søkelyset på kinesisk konferanse."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/ef9a94e081c1f3.jpg",
+      "score": 17
+    },
+    {
       "id": "0c24ac4e2603dc",
       "category": "Økonomi",
       "published": "03.09. 19:51",
@@ -130,88 +193,25 @@
       "score": 16
     },
     {
-      "id": "a4a5419b5f5e4e",
-      "category": "Norge",
-      "published": "03.09. 16:40",
-      "publishedISO": "2026-09-03T16:40:06+02:00",
-      "title": "Mister en kvart milliard – mener bydelsreformen kan være ulovlig",
-      "summary": "De tre partiene mener derfor at Statsforvalteren må sjekke om den store bydelsreformen er lovlig. Mest mister bydel Frogner med 86 millioner kroner og bydel Gamle Oslo med 73 millioner kroner. – Det er ikke småpenger, slo Rødts gruppeleder Siavash Mobasheri fast fra bystyrets talerstol onsdag denne uka. Rødt mener at vedtaket om å inndra overskudd kan være ulovlig fordi løsningen dukket opp helt på tampen av behandlingen.",
+      "id": "1fcabf56e83ced",
+      "category": "Verden",
+      "published": "03.09. 17:35",
+      "publishedISO": "2026-09-03T17:35:47+02:00",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "summary": "Donald Trumps portrett har funnet veien videre til en amerikansk mynt – det siste trekket fra presidenten for å sette sitt personlige preg på amerikanske institusjoner. Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC I mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump. Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
       "keyPoints": [
-        "Rødt mener at vedtaket om å inndra overskudd kan være ulovlig fordi løsningen dukket opp helt på tampen av behandlingen.",
-        "De tre partiene mener derfor at Statsforvalteren må sjekke om den store bydelsreformen er lovlig.",
-        "Mest mister bydel Frogner med 86 millioner kroner og bydel Gamle Oslo med 73 millioner kroner. – Det er ikke småpenger, slo Rødts gruppeleder Siavash Mobasheri fast fra bystyrets talerstol onsdag denne uka.",
-        "Altså samme dag bystyret banket gjennom det som er kalt den største endringen av Oslo på et kvart århundre."
+        "Donald Trumps portrett har funnet veien videre til en amerikansk mynt – det siste trekket fra presidenten for å sette sitt personlige preg på amerikanske institusjoner.",
+        "Trump-administrasjonen har også sitert Circulating Collectible Coin Redesign Act of 2020, fra Trumps første periode.",
+        "Salgsautomater som selger Trump $1-mynter i US Mint-butikken i Washington DC I mai sa finansminister Scott Bessent at avdelingen hans planlegger å utstede en ny $250-seddel med et portrett av president Trump.",
+        "Onsdag lanserte US Mint mynten på $1 (£0,74) med et portrett av Trump sammen med ordene «Liberty» og «In God We Trust», for å feire USAs 250-årsjubileum."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/inndrar-255-millioner-kroner-i-bydelsreformen---rodt-krever-kontroll-av-lovligheten-1.18011790",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Xg0ayEXeTUMHocVn3N3rhQT1GuB5axeDXVwEJNqf1vjw.jpg",
-      "localImage": "assets/news/a4a5419b5f5e4e.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cb6a/live/cc827800-a72f-11f1-b970-fbb8e613a3a7.jpg",
+      "localImage": "assets/news/1fcabf56e83ced.jpg",
       "score": 15
-    },
-    {
-      "id": "3866dcb46fad12",
-      "category": "Norge",
-      "published": "03.09. 15:56",
-      "publishedISO": "2026-09-03T15:56:25+02:00",
-      "title": "Facebook-sider i Vietnam spredte falske bilder av syk kong Harald",
-      "summary": "KI-genererte bilder av kong Harald i sykesenga spres i sosiale medier fra klikkfabrikker i Vietnam. – En milliardindustri, sier forsker. De siste dagene har flere falske bilder og sitater narret nordmenn. Men det er mye i Facebook-innlegget som ikke stemmer: I forbindelse med kongens død har det flommet over av poster med falske bilder av kong Harald på sykehuset.",
-      "keyPoints": [
-        "KI-genererte bilder av kong Harald i sykesenga spres i sosiale medier fra klikkfabrikker i Vietnam. – En milliardindustri, sier forsker.",
-        "Men det er mye i Facebook-innlegget som ikke stemmer: I forbindelse med kongens død har det flommet over av poster med falske bilder av kong Harald på sykehuset.",
-        "De siste dagene har flere falske bilder og sitater narret nordmenn.",
-        "I kollasjen er det også et bilde av Haakon som våker over kong Harald i sykesenga, mens han holder faren i hånda."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/xl/facebook-sider-i-vietnam-spredte-falske-bilder-av-syk-kong-harald-1.18011392",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xbCUeB3eojyUw555DBcfFAVlNUT2Oiv4XtFp1_4BF4ag.jpg",
-      "localImage": "assets/news/3866dcb46fad12.jpg",
-      "score": 15
-    },
-    {
-      "id": "7547b63be58d9d",
-      "category": "Økonomi",
-      "published": "03.09. 15:09",
-      "publishedISO": "2026-09-03T15:09:18+02:00",
-      "title": "Akers AI-selskap Nscale inngår robotavtale",
-      "summary": "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure. Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar. Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
-      "keyPoints": [
-        "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure.",
-        "Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
-        "Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar.",
-        "Nscale skriver at «avtalen representere muligheten» til å sette til verks 100.000 grafikkprosessorer (GPUer) fra Nvidia, som skal brukes til å trene Figures AI-modeller. – Dette er svinghjulet for fysisk AI som vil fremskynde veien fra modeller til roboter i den virkelige verden, sier Nvidia-sjef Jensen Huang i forbindelse med avtalen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/QJOqvJ/akers-ai-selskap-nscale-inngaar-robotavtale-verdt-3-5-milliarder-dollar-med-mulig-utvidelse-til-over-6-milliarder",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3c92ca3c-4f4b-35f0-9ecf-0fe17753a155?fit=crop&h=675&upscale=true&w=1200&s=5737c64171e7d4622857b5d61f1177cb623119c9",
-      "localImage": "assets/news/7547b63be58d9d.jpg",
-      "score": 15
-    },
-    {
-      "id": "cd7fe017ed5345",
-      "category": "Økonomi",
-      "published": "03.09. 12:03",
-      "publishedISO": "2026-09-03T12:03:02+02:00",
-      "title": "Stortap for Andresen-familiens sportsgigant",
-      "summary": "De siste tre årene har konsernet gått med underskudd på totalt 552 millioner kroner. Selskapet eies i sin helhet av Andresen-familiens investeringsselskap Ferd. Ved inngangen til 2026 hadde Brav en egenkapital på kun 95 millioner kroner, ned fra 373 millioner kroner året før.",
-      "keyPoints": [
-        "Selskapet eies i sin helhet av Andresen-familiens investeringsselskap Ferd.",
-        "Ved inngangen til 2026 hadde Brav en egenkapital på kun 95 millioner kroner, ned fra 373 millioner kroner året før.",
-        "De siste tre årene har konsernet gått med underskudd på totalt 552 millioner kroner.",
-        "Årsresultatet endte på minus 275 millioner kroner, det største tapet i selskapets historie."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/16wq5e/stortap-for-andresen-familiens-sportsgigant",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b07d408a-daa2-304f-9864-2070d6fe7815?fit=crop&h=675&upscale=true&w=1200&s=c08724c82a04f0c1e4ac83b86ce31bdd79e5c54d",
-      "localImage": "assets/news/cd7fe017ed5345.jpg",
-      "score": 14
     }
   ]
 }
