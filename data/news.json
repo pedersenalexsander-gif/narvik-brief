@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 17:12",
-  "updatedISO": "2026-09-04T17:12:05.856244+02:00",
+  "updatedAt": "04.09.2026 kl. 17:29",
+  "updatedISO": "2026-09-04T17:29:16.087415+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -193,25 +193,25 @@
       "score": 16
     },
     {
-      "id": "a4eed819ba881c",
+      "id": "4f4135fa46e7d4",
       "category": "Økonomi",
-      "published": "03.09. 06:25",
-      "publishedISO": "2026-09-03T06:25:44+02:00",
-      "title": "Danske Bank venter tre rentekutt i 2027",
-      "summary": "Danske Bank tror Norges Bank hever renten fra 4,25 til 4,5 prosent på rentemøtet i slutten av september, og samtidig varsler at toppen er nådd. Danske Bank venter en kjerneinflasjon på 3,0 prosent i år og 2,4 prosent neste år. Danske Bank venter at ledigheten stiger til 2,3 prosent i år og 2,4 prosent neste år.",
+      "published": "04.09. 06:44",
+      "publishedISO": "2026-09-04T06:44:50+02:00",
+      "title": "Kongens gravferd: – Trump kan sende Melania",
+      "summary": "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig. Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater. Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
       "keyPoints": [
-        "Danske Bank venter en kjerneinflasjon på 3,0 prosent i år og 2,4 prosent neste år.",
-        "Danske Bank tror Norges Bank hever renten fra 4,25 til 4,5 prosent på rentemøtet i slutten av september, og samtidig varsler at toppen er nådd.",
-        "Dermed kan Norges Bank «kutte renten tre ganger neste år og to ganger i 2028».",
-        "Til sammenligning venter Nordea også én heving i høst, men mener «Norges Bank er ikke i mål» og tror ikke på kutt før i 2028."
+        "Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+        "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig.",
+        "Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater.",
+        "Sist gang det var kongelig gravferd i Norge var i 1991: Men omfanget avhenger av hvem som kommer, mener hun. – Jeg tror ikke han kommer."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/m0a0y0/danske-bank-venter-tre-rentekutt-i-2027",
+      "url": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e916dc29-9415-38b2-a2a5-615428457a3a?fit=crop&h=675&upscale=true&w=1200&s=2652a6e37bc39172bfd4b48750b9f8ae5944ca2e",
-      "localImage": "assets/news/a4eed819ba881c.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
+      "localImage": "assets/news/4f4135fa46e7d4.jpg",
+      "score": 15
     }
   ]
 }
