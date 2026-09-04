@@ -1,8 +1,29 @@
 {
-  "updatedAt": "04.09.2026 kl. 22:41",
-  "updatedISO": "2026-09-04T22:41:55.143443+02:00",
+  "updatedAt": "04.09.2026 kl. 22:52",
+  "updatedISO": "2026-09-04T22:52:26.087854+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "503ad113ac5c38",
+      "category": "Nord-Norge",
+      "published": "04.09. 20:53",
+      "publishedISO": "2026-09-04T20:53:00+02:00",
+      "title": "Glimt-stjerne fikk kun 15 minutter på banen dager før Bayern München-oppgjøret",
+      "summary": "26-åringen trengte bare fem minutter før han curlet ballen elegant i det lengste hjørnet. – Nei, det er åpenbart noe som ikke var helt bra i dag. Torsdag neste uke skal Glimt møte Bayern München borte i Mesterligaen. – Det er bekymringsfullt, selvfølgelig. Aalesund sikret seg sin første seier i Eliteserien på 107 dager da Start ble slått 2–0 på hjemmebane.",
+      "keyPoints": [
+        "26-åringen trengte bare fem minutter før han curlet ballen elegant i det lengste hjørnet. – Nei, det er åpenbart noe som ikke var helt bra i dag.",
+        "Aalesund sikret seg sin første seier i Eliteserien på 107 dager da Start ble slått 2–0 på hjemmebane.",
+        "Torsdag neste uke skal Glimt møte Bayern München borte i Mesterligaen. – Det er bekymringsfullt, selvfølgelig.",
+        "Tre minutter senere doblet kaptein Mathias Christensen ledelsen da han skjøt fra utsiden av 16-meteren."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/glimt-stjerne-fikk-kun-15-minutter-pa-banen-dager-for-bayern-munchen-oppgjoret-1.18014873",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/3FV1NujFurvr8QlU3V-bTQdJ_8AVcbCVWmyzS0368hrg.jpg",
+      "localImage": "assets/news/503ad113ac5c38.webp",
+      "score": 13
+    },
     {
       "id": "cbdc8438fcb693",
       "category": "Norge",
@@ -25,46 +46,25 @@
       "score": 17
     },
     {
-      "id": "f468f736d78fa3",
-      "category": "Verden",
-      "published": "04.09. 14:39",
-      "publishedISO": "2026-09-04T14:39:05+02:00",
-      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-      "summary": "Drapet på Omar al-Naasan og Khalil Abu Alia kommer midt i nesten daglige angrep fra jødiske bosettere i landsbyen al-Mughayyir, sør for Nablus. – Vi forventer at når sønnene våre går på gaten, vil de sannsynligvis returnere til deg skadet eller drept, sa Mohammed Al-Naasan, Omars far, til BBC. Mer om denne historien: Palestinske tenåringer drept under bosetterangrep på landsbyen på Vestbredden 'Vi forventer at sønnene våre blir drept,' sier far til tenåringer skutt og drept på Vestbredden til BBC. Video, 00:01:29 «Vi forventer at sønnene våre blir drept», forteller en tenåringsfar skutt og drept på Vestbredden til BBC Up Next.",
-      "keyPoints": [
-        "Video, 00:01:29'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC Up Next.",
-        "Drapet på Omar al-Naasan og Khalil Abu Alia kommer midt i nesten daglige angrep fra jødiske bosettere i landsbyen al-Mughayyir, sør for Nablus. – Vi forventer at når sønnene våre går på gaten, vil de sannsynligvis returnere til deg skadet eller drept, sa Mohammed Al-Naasan, Omars far, til BBC.",
-        "Begravelser har funnet sted for to palestinske tenåringer som ble skutt og drept denne uken da bosettere og soldater tok seg inn i en palestinsk landsby på den okkuperte Vestbredden.",
-        "Video, 00:02:01 BBC sporer en uke med vold fra israelske bosettere i okkupert Vestbredden BBC besøker området i hjertet av politiets etterforskning etter A66-krasj Video, 00:02:31 BBC besøker området i hjertet av politiets etterforskning etter A66-krasj 'Et sjeldent øyeblikk av glede': Nepal-tunnelredninger gir håp om flere overlevende fra flom."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf50/live/afcc7190-a84f-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/f468f736d78fa3.jpg",
-      "score": 12
-    },
-    {
-      "id": "9199e972352309",
+      "id": "8baa46aad4770e",
       "category": "USA",
-      "published": "04.09. 22:31",
-      "publishedISO": "2026-09-04T22:31:03+02:00",
-      "title": "Lindsay Clancy's case ends in a mistrial - what happens next?",
-      "summary": "Se: BBCs Ione Wells forklarer hva som kan skje videre i saken Etter en uke med å tenke på Lindsay Clancys skjebne, har en dommer erklært en feilrettssak i saken til den amerikanske moren som er anklaget for å ha myrdet sine tre små barn. I det øyeblikket dommeren erklærer en feilrettssak i Lindsay Clancy-saken I henhold til amerikansk lov må juryen enstemmig komme til en konklusjon \"utover rimelig tvil\". Kaster papirer, kaster en ninjastjerne - Lindsay Clancy-advokaten skaper forestillinger i rettssalen Juryen fortsatte å indikere at de ikke kunne komme til enighet, noe som førte til at dommeren fredag ​​sa at han ikke hadde noe annet valg enn å erklære en feilrettssak.",
+      "published": "04.09. 22:34",
+      "publishedISO": "2026-09-04T22:34:06+02:00",
+      "title": "Trump's response is key as Argentina's Falklands demands get louder",
+      "summary": "Argentinas president Javier Milei nyter et varmt forhold til president Trump. Tonen over Falklandsøyenes konflikt har blitt skjerpet i Argentina fra lenge før president Javier Mileis nasjonale tale om sanksjoner sent på kvelden tidligere denne uken. President Milei mener absolutt det. «Endringens vinder» blåste, forsikret han det argentinske folket, etter at president Trump sa at han «re-evaluerte» USAs posisjon på Falklandsøyene. I sin tale malte Javier Milei Argentina som en pålitelig og «pålitelig partner» til Washington, og han nyter Trumps støtte, både ideologisk og personlig.",
       "keyPoints": [
-        "Se: BBCs Ione Wells forklarer hva som kan skje videre i saken Etter en uke med å tenke på Lindsay Clancys skjebne, har en dommer erklært en feilrettssak i saken til den amerikanske moren som er anklaget for å ha myrdet sine tre små barn.",
-        "I det øyeblikket dommeren erklærer en feilrettssak i Lindsay Clancy-saken I henhold til amerikansk lov må juryen enstemmig komme til en konklusjon \"utover rimelig tvil\".",
-        "Kaster papirer, kaster en ninjastjerne - Lindsay Clancy-advokaten skaper forestillinger i rettssalen Juryen fortsatte å indikere at de ikke kunne komme til enighet, noe som førte til at dommeren fredag ​​sa at han ikke hadde noe annet valg enn å erklære en feilrettssak.",
-        "Clancys barn Cora (til venstre), åtte måneder gamle Callan (i midten) og tre år gamle Dawson. Nøkkeløyeblikk i rettssaken mot Lindsay Clancy, moren anklaget for å ha myrdet sine tre barn. Det er uklart, men det har vært en kompleks sak hvor hver side har presentert en enorm mengde ekspertvitne."
+        "Argentinas president Javier Milei nyter et varmt forhold til president Trump. Tonen over Falklandsøyenes konflikt har blitt skjerpet i Argentina fra lenge før president Javier Mileis nasjonale tale om sanksjoner sent på kvelden tidligere denne uken.",
+        "President Milei mener absolutt det. «Endringens vinder» blåste, forsikret han det argentinske folket, etter at president Trump sa at han «re-evaluerte» USAs posisjon på Falklandsøyene.",
+        "I sin tale malte Javier Milei Argentina som en pålitelig og «pålitelig partner» til Washington, og han nyter Trumps støtte, både ideologisk og personlig.",
+        "Falklandsøyboerne – som nesten enstemmig stemte for å forbli et britisk oversjøisk territorium i 2013 – vil påpeke at avstanden fra London til Falklandsøyene er brøkdel kortere enn avstanden mellom Washington DC og det amerikanske territoriet Guam, i det vestlige Stillehavet."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj9x248npw1o",
+      "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f14/live/e9476f60-a87c-11f1-a291-b542ee92de7c.jpg",
-      "localImage": "assets/news/9199e972352309.jpg",
-      "score": 13
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg",
+      "localImage": "assets/news/8baa46aad4770e.jpg",
+      "score": 17
     },
     {
       "id": "3c66ec91d46d72",
@@ -211,7 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/b8HKxic41qAv8bEhxnSKhQqnr6E0LkyLKWi9jC5Is_Qw.jpg",
       "localImage": "assets/news/1d8da9dc4b29bb.jpg",
-      "score": 16
+      "score": 15
     }
   ]
 }
