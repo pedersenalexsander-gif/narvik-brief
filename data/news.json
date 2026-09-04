@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 14:38",
-  "updatedISO": "2026-09-04T14:38:35.945315+02:00",
+  "updatedAt": "04.09.2026 kl. 14:58",
+  "updatedISO": "2026-09-04T14:58:03.657535+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,27 +46,6 @@
       "score": 17
     },
     {
-      "id": "271919c80bc73f",
-      "category": "Økonomi",
-      "published": "04.09. 09:46",
-      "publishedISO": "2026-09-04T09:46:48+02:00",
-      "title": "Kutter 50.000 jobber – aksjemarkedet jubler",
-      "summary": "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel. Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro. De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
-      "keyPoints": [
-        "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel.",
-        "De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
-        "Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro.",
-        "Bilprodusenten varslet torsdag at selskapet vil kutte 50.000 stillinger."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/bOdXBq/kutter-50-000-jobber-aksjemarkedet-jubler",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
-      "localImage": "assets/news/271919c80bc73f.jpg",
-      "score": 19
-    },
-    {
       "id": "27ff90ea4ccf9c",
       "category": "Økonomi",
       "published": "04.09. 09:01",
@@ -88,14 +67,56 @@
       "score": 19
     },
     {
+      "id": "271919c80bc73f",
+      "category": "Økonomi",
+      "published": "04.09. 09:46",
+      "publishedISO": "2026-09-04T09:46:48+02:00",
+      "title": "Kutter 50.000 jobber – aksjemarkedet jubler",
+      "summary": "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel. Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro. De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
+      "keyPoints": [
+        "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel.",
+        "De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
+        "Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro.",
+        "Bilprodusenten varslet torsdag at selskapet vil kutte 50.000 stillinger."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/bOdXBq/kutter-50-000-jobber-aksjemarkedet-jubler",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
+      "localImage": "assets/news/271919c80bc73f.jpg",
+      "score": 18
+    },
+    {
+      "id": "79b8b4d088122c",
+      "category": "Økonomi",
+      "published": "04.09. 14:30",
+      "publishedISO": "2026-09-04T14:30:27+02:00",
+      "title": "162.000 nye jobber i USA i august",
+      "summary": "Det ble skapt 162.000 jobber utenfor landbruket i USA i august, ifølge den viktige arbeidsmarkedsrapporten Nonfarm Payrolls. På forhånd hadde analytikerne anslått 55.000 nye jobber forrige måned, ifølge konsensus av estimater Bloomberg har samlet. Rente- og valutastrateg i Sparebank 1 Markets – Fed trenger ikke å være bekymret for arbeidsmarkedet i USA, som er stabilt.",
+      "keyPoints": [
+        "Det ble skapt 162.000 jobber utenfor landbruket i USA i august, ifølge den viktige arbeidsmarkedsrapporten Nonfarm Payrolls.",
+        "På forhånd hadde analytikerne anslått 55.000 nye jobber forrige måned, ifølge konsensus av estimater Bloomberg har samlet.",
+        "Rente- og valutastrateg i Sparebank 1 Markets – Fed trenger ikke å være bekymret for arbeidsmarkedet i USA, som er stabilt.",
+        "Måneden før, i juli, viste jobbtallene først et overraskende fall 23.000 jobber."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/rr3d2e/162-000-nye-jobber-i-usa-i-august-langt-hoeyere-enn-ventet",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/aababa53-eeb3-3a46-8bbb-d7f01cb11f6a?fit=crop&h=675&upscale=true&w=1200&s=2eaf5a338fbc282051d06dfe239ffbec38043ddc",
+      "localImage": "assets/news/79b8b4d088122c.jpg",
+      "score": 17
+    },
+    {
       "id": "1ed6186f588cb2",
       "category": "Norge",
       "published": "04.09. 12:35",
       "publishedISO": "2026-09-04T12:35:17+02:00",
       "title": "Trafikkulykke mellom personbil og lastebil på Lundamo i Melhus kommune",
-      "summary": "Klokka 12.27 rykket politiet ut til Lundamo i Melhus kommune etter melding om en trafikkulykke mellom en lastebil og personbil. – Fremstår som en alvorlig ulykke, skriver operasjonsleder Viola Elvrum i Trøndelag politidistrikt. Det er lang kø i begge retninger som følge av ulykken. – Det er litt kø på stedet og det er uvisst hvor lenge vegen blir stengt, sier trafikkoperatør Lena Fjeseth i Vegtrafikksentralen til NRK klokka 12.42. En lastebil og personbil kolliderte langs en strekning på Lundamovegen i Melhus kommune.",
+      "summary": "Klokka 12.27 rykket politiet ut til Lundamo i Melhus kommune etter melding om en front mot front-kollisjon mellom en lastebil og personbil. – Fremstår som en alvorlig ulykke, skriver operasjonsleder Viola Elvrum i Trøndelag politidistrikt. Det er lang kø i begge retninger som følge av ulykken. – Det er litt kø på stedet og det er uvisst hvor lenge vegen blir stengt, sier trafikkoperatør Lena Fjeseth i Vegtrafikksentralen til NRK klokka 12.42. En lastebil og personbil kolliderte langs en strekning på Lundamovegen i Melhus kommune.",
       "keyPoints": [
-        "Klokka 12.27 rykket politiet ut til Lundamo i Melhus kommune etter melding om en trafikkulykke mellom en lastebil og personbil. – Fremstår som en alvorlig ulykke, skriver operasjonsleder Viola Elvrum i Trøndelag politidistrikt.",
+        "Klokka 12.27 rykket politiet ut til Lundamo i Melhus kommune etter melding om en front mot front-kollisjon mellom en lastebil og personbil. – Fremstår som en alvorlig ulykke, skriver operasjonsleder Viola Elvrum i Trøndelag politidistrikt.",
         "En lastebil og personbil kolliderte langs en strekning på Lundamovegen i Melhus kommune.",
         "Det er lang kø i begge retninger som følge av ulykken. – Det er litt kø på stedet og det er uvisst hvor lenge vegen blir stengt, sier trafikkoperatør Lena Fjeseth i Vegtrafikksentralen til NRK klokka 12.42.",
         "ALVORLIG ULYKKE: Politiet beskriver ulykken som alvorlig."
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/51ce215c-dfc6-3d7a-ae23-fac816d007bb?fit=crop&h=675&upscale=true&w=1200&s=f2988cecea0007cf2a6dde9d8b2607b04b31c64a",
       "localImage": "assets/news/0c24ac4e2603dc.jpg",
       "score": 14
-    },
-    {
-      "id": "79b8b4d088122c",
-      "category": "Økonomi",
-      "published": "04.09. 14:30",
-      "publishedISO": "2026-09-04T14:30:27+02:00",
-      "title": "162.000 nye jobber i USA i august",
-      "summary": "Det ble skapt 162.000 jobber utenfor landbruket i USA i august, ifølge den viktige arbeidsmarkedsrapporten Nonfarm Payrolls. På forhånd hadde analytikerne anslått 55.000 nye jobber forrige måned, ifølge konsensus av estimater Bloomberg har samlet. Det kommer også en ny oppdatering på prisveksten, KPI-tallene for august 12. september, før Fed tar den neste rentebeslutningen.",
-      "keyPoints": [
-        "Det ble skapt 162.000 jobber utenfor landbruket i USA i august, ifølge den viktige arbeidsmarkedsrapporten Nonfarm Payrolls.",
-        "På forhånd hadde analytikerne anslått 55.000 nye jobber forrige måned, ifølge konsensus av estimater Bloomberg har samlet.",
-        "Det kommer også en ny oppdatering på prisveksten, KPI-tallene for august 12. september, før Fed tar den neste rentebeslutningen.",
-        "Måneden før, i juli, viste jobbtallene først et overraskende fall 23.000 jobber."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/rr3d2e/162-000-nye-jobber-i-usa-i-august-langt-hoeyere-enn-ventet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/aababa53-eeb3-3a46-8bbb-d7f01cb11f6a?fit=crop&h=675&upscale=true&w=1200&s=2eaf5a338fbc282051d06dfe239ffbec38043ddc",
-      "localImage": "assets/news/79b8b4d088122c.jpg",
-      "score": 13
     }
   ]
 }
