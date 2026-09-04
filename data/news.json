@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 13:27",
-  "updatedISO": "2026-09-04T13:27:33.066616+02:00",
+  "updatedAt": "04.09.2026 kl. 13:43",
+  "updatedISO": "2026-09-04T13:43:01.874133+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -30,10 +30,10 @@
       "published": "04.09. 12:46",
       "publishedISO": "2026-09-04T12:46:44+02:00",
       "title": "Slik blir sikkerheten under kong Haralds gravferd",
-      "summary": "Fredag klokken 13 kommer politiet med siste nytt om hvordan kong Haralds gravferd vil prege Oslo sentrum. – Politiet står vakt når nasjonen feirer, og når nasjonen sørger. Fredag orienterer politiet om sikkerheten når kong Harald V gravlegges onsdag 9. september. – Dette er en av de største politioperasjonene i Norge noensinne, sier Skulstad. Den gule stiplede linjen viser ruten som prosesjonen med kong Haralds båre skal følge, først fra Slottet til Oslo domkirke, deretter fra domkirken til Akershus slottskirke.",
+      "summary": "Sykkelforbud, sjekkpunkter og soldater: Slik sikrer politiet Oslo under kong Haralds begravelse. Fredag orienterer han og flere polititopper om sikkerheten når kong Harald V gravlegges onsdag 9. september. Den gule stiplede linjen viser ruten som prosesjonen med kong Haralds båre skal følge, først fra Slottet til Oslo domkirke, deretter fra domkirken til Akershus slottskirke.",
       "keyPoints": [
-        "Fredag klokken 13 kommer politiet med siste nytt om hvordan kong Haralds gravferd vil prege Oslo sentrum. – Politiet står vakt når nasjonen feirer, og når nasjonen sørger.",
-        "Fredag orienterer politiet om sikkerheten når kong Harald V gravlegges onsdag 9. september. – Dette er en av de største politioperasjonene i Norge noensinne, sier Skulstad.",
+        "Sykkelforbud, sjekkpunkter og soldater: Slik sikrer politiet Oslo under kong Haralds begravelse.",
+        "Fredag orienterer han og flere polititopper om sikkerheten når kong Harald V gravlegges onsdag 9. september.",
         "Den gule stiplede linjen viser ruten som prosesjonen med kong Haralds båre skal følge, først fra Slottet til Oslo domkirke, deretter fra domkirken til Akershus slottskirke.",
         "Resten av soldatene bidrar som en del av æresvakten, med korps, salutt, støttepersonell, samt kanonlavetten og bilen som skal trekke kong Haralds båre."
       ],
@@ -41,30 +41,9 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/stor-oslo/slik-blir-sikkerheten-under-kong-haralds-gravferd-1.18013939",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/3V3RU6S_J2N6XjU8Y3EFPgZ8v4ZFAlwRJGjVUK8c3FXA.jpg",
+      "image": "https://gfx.nrk.no/b8HKxic41qAv8bEhxnSKhQqnr6E0LkyLKWi9jC5Is_Qw.jpg",
       "localImage": "assets/news/1d8da9dc4b29bb.jpg",
       "score": 17
-    },
-    {
-      "id": "65eb52162683db",
-      "category": "Verden",
-      "published": "04.09. 06:45",
-      "publishedISO": "2026-09-04T06:45:54+02:00",
-      "title": "Watch: Moment workers are rescued from Nepal tunnel",
-      "summary": "Redningsmannskaper har trukket to personer ut av en tunnel ved Trishuli 3A vannkraftprosjektet i Nepal mer enn en uke etter at en massiv flom ødela grensen mellom Nepal og Kina. Video, 00:00:39Se: Momentarbeidere blir reddet fra Nepal-tunnelen Up Next. Video, 00:01:37Nepal-tunnelredningsmenn jakter på overlevende med flåter og drone «Ingenting annet enn gjørme og silt» – landsbyen ble revet med av dødelige flom i Nepal.",
-      "keyPoints": [
-        "Video, 00:00:39Watch: Moment workers are rescued from Nepal tunnel Up Next.",
-        "Video, 00:01:37Nepal-tunnelredningsmenn jakter på overlevende med flåter og drone «Ingenting annet enn gjørme og silt» – landsbyen ble revet med av dødelige flom i Nepal.",
-        "Redningsmannskaper har trukket to personer ut av en tunnel ved Trishuli 3A vannkraftprosjektet i Nepal mer enn en uke etter at en massiv flom ødela grensen mellom Nepal og Kina.",
-        "Video, 00:01:31'Nothing but mud and silt' - landsbyen som ble revet med av dødelige flom i Nepal, Nepal sier at den vil trenge milliarder i finansiering for å gjenoppbygge etter stormflom."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4316/live/74c77c90-a81b-11f1-ac3c-9d896728a67a.jpg",
-      "localImage": "assets/news/65eb52162683db.jpg",
-      "score": 16
     },
     {
       "id": "27ff90ea4ccf9c",
@@ -107,48 +86,6 @@
       "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
       "localImage": "assets/news/271919c80bc73f.jpg",
       "score": 19
-    },
-    {
-      "id": "8690d18270cc0a",
-      "category": "AI",
-      "published": "03.09. 18:32",
-      "publishedISO": "2026-09-03T18:32:05+02:00",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "summary": "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare. Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy. I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
-      "keyPoints": [
-        "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare.",
-        "I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
-        "Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy.",
-        "Avtalen vil være en \"stor seier for innovatører og forbrukere over hele verden\" hvis Nvidia holder Hugging Face åpen og tilgjengelig, la han til."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/8690d18270cc0a.jpg",
-      "score": 18
-    },
-    {
-      "id": "ef9a94e081c1f3",
-      "category": "AI",
-      "published": "04.09. 04:02",
-      "publishedISO": "2026-09-04T04:02:02+02:00",
-      "title": "Er roboter underholdningens fremtid? Denne sørkoreanske fornøyelsesparken mener det",
-      "summary": "Dette er Galaxy Robot Park, et 16 500 kvadratmeter stort sted som åpnes nær Seoul i Sør-Korea. Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen. Video, 00:01:12Kan roboter være fremtiden til fornøyelsesparker?",
-      "keyPoints": [
-        "Video, 00:01:12Could robots be the future of theme parks?",
-        "This is Galaxy Robot Park, a 16,500-square-meter venue that’s opened near Seoul in South Korea .",
-        "Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen.",
-        "Video, 00:00:48Nepal sier at det vil trenge milliarder i finansiering for å gjenoppbygge etter oversvømmelser Mason: 'Not what Farage wanted today to look like' Video, 00:00:58Mason: 'Not what Farage would today to look like' Se: Inne i retten mens Lindsay Clancys advokat ber dommer om å fjerne jurymedlem."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/ef9a94e081c1f3.jpg",
-      "score": 16
     },
     {
       "id": "848449739ce8cd",
@@ -212,6 +149,69 @@
       "image": "https://gfx.nrk.no/MtMz1RUidB722iGQWOuVPAsn49R4Fcbw8Ir08rJIRPHg.jpg",
       "localImage": "assets/news/b90454b7d2f7f3.jpg",
       "score": 16
+    },
+    {
+      "id": "a4eed819ba881c",
+      "category": "Økonomi",
+      "published": "03.09. 06:25",
+      "publishedISO": "2026-09-03T06:25:44+02:00",
+      "title": "Danske Bank venter tre rentekutt i 2027",
+      "summary": "Danske Bank tror Norges Bank hever renten fra 4,25 til 4,5 prosent på rentemøtet i slutten av september, og samtidig varsler at toppen er nådd. Danske Bank venter en kjerneinflasjon på 3,0 prosent i år og 2,4 prosent neste år. Danske Bank venter at ledigheten stiger til 2,3 prosent i år og 2,4 prosent neste år.",
+      "keyPoints": [
+        "Danske Bank venter en kjerneinflasjon på 3,0 prosent i år og 2,4 prosent neste år.",
+        "Danske Bank tror Norges Bank hever renten fra 4,25 til 4,5 prosent på rentemøtet i slutten av september, og samtidig varsler at toppen er nådd.",
+        "Dermed kan Norges Bank «kutte renten tre ganger neste år og to ganger i 2028».",
+        "Til sammenligning venter Nordea også én heving i høst, men mener «Norges Bank er ikke i mål» og tror ikke på kutt før i 2028."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/m0a0y0/danske-bank-venter-tre-rentekutt-i-2027",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e916dc29-9415-38b2-a2a5-615428457a3a?fit=crop&h=675&upscale=true&w=1200&s=2652a6e37bc39172bfd4b48750b9f8ae5944ca2e",
+      "localImage": "assets/news/a4eed819ba881c.jpg",
+      "score": 16
+    },
+    {
+      "id": "0c24ac4e2603dc",
+      "category": "Økonomi",
+      "published": "03.09. 19:51",
+      "publishedISO": "2026-09-03T19:51:32+02:00",
+      "title": "Nederland flytter gull ut av Trumps bakgård",
+      "summary": "86 tonn gull har blitt flyttet fra USA og Canada til London. 59 tonn ble solgt i New York, før det deretter ble kjøpt gull i London som møter internasjonal standard. 27 tonn ble fysisk flyttet fra USA og Canada til Nederland, mens tilsvarende mengde gull som møter internasjonal standard ble sendt fra Nederland til London.",
+      "keyPoints": [
+        "27 tonn ble fysisk flyttet fra USA og Canada til Nederland, mens tilsvarende mengde gull som møter internasjonal standard ble sendt fra Nederland til London.",
+        "59 tonn ble solgt i New York, før det deretter ble kjøpt gull i London som møter internasjonal standard.",
+        "Samtidig er beholdningen i London økt til 32,1 prosent, mens gullet i Nederland holdes uendret på 30,8 prosent.",
+        "Gullet til Nederland har vært på flyttefot i det siste."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/3pQxpv/nederland-flytter-gull-ut-av-trumps-bakgaard",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/51ce215c-dfc6-3d7a-ae23-fac816d007bb?fit=crop&h=675&upscale=true&w=1200&s=f2988cecea0007cf2a6dde9d8b2607b04b31c64a",
+      "localImage": "assets/news/0c24ac4e2603dc.jpg",
+      "score": 14
+    },
+    {
+      "id": "3e5da320d8b2c4",
+      "category": "Økonomi",
+      "published": "04.09. 11:57",
+      "publishedISO": "2026-09-04T11:57:29+02:00",
+      "title": "Ingen får signert: – Dette er helt krise",
+      "summary": "I to dager har ikke kundene kunne sende bud, motta penger eller overføre penger. – Vi har nærmere 50 til 60 transaksjoner som vi ikke får gjennomført. Dette er helt krise, sier han til VG. – Vi kan ikke ta ut pengene i cash og levere de i en koffert til kundene våre. I skrivende øyeblikk sitter Tinholt i en budrunde i 100 millionersklassen. – Men ingen får sendt noe som helst.",
+      "keyPoints": [
+        "I skrivende øyeblikk sitter Tinholt i en budrunde i 100 millionersklassen. – Men ingen får sendt noe som helst.",
+        "Dette er helt krise, sier han til VG. – Vi kan ikke ta ut pengene i cash og levere de i en koffert til kundene våre.",
+        "I to dager har ikke kundene kunne sende bud, motta penger eller overføre penger. – Vi har nærmere 50 til 60 transaksjoner som vi ikke får gjennomført.",
+        "Han forteller at tilfeldighetene skal ha seg slik at de ikke har noen budrunder fredag, men det kunne blitt kritisk hvis det var tilfelle. – Da kunne folk risikert å tape eiendommer siden de ikke får sendt bud."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/m0WzbL/bankid-er-nede",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1f9a08fb-9b27-399f-b706-f1579dd478b9?fit=crop&h=675&upscale=true&w=1200&s=cbb3f2eab0a78f999f454222498397c218e66c16",
+      "localImage": "assets/news/3e5da320d8b2c4.png",
+      "score": 13
     }
   ]
 }
