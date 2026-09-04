@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 11:45",
-  "updatedISO": "2026-09-04T11:45:15.682362+02:00",
+  "updatedAt": "04.09.2026 kl. 11:56",
+  "updatedISO": "2026-09-04T11:56:32.466319+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/o0UN1e_2pyyZZiGXuXDW2wZRuSSPs2kaxRe2DTJJ7auw.jpg",
       "localImage": "assets/news/6eee775b483d69.jpg",
-      "score": 32
+      "score": 31
     },
     {
       "id": "b90454b7d2f7f3",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4316/live/74c77c90-a81b-11f1-ac3c-9d896728a67a.jpg",
       "localImage": "assets/news/65eb52162683db.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "27ff90ea4ccf9c",
@@ -135,7 +135,7 @@
       "published": "04.09. 04:02",
       "publishedISO": "2026-09-04T04:02:02+02:00",
       "title": "Er roboter underholdningens fremtid? Denne sørkoreanske fornøyelsesparken mener det",
-      "summary": "Dette er Galaxy Robot Park, en 16 500 kvadratmeter stor arena som er åpnet nær Seoul i Sør-Korea. Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen. Video, 00:01:12Kan roboter være fremtiden til fornøyelsesparker?",
+      "summary": "Dette er Galaxy Robot Park, et 16 500 kvadratmeter stort sted som åpnes nær Seoul i Sør-Korea. Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen. Video, 00:01:12Kan roboter være fremtiden til fornøyelsesparker?",
       "keyPoints": [
         "Video, 00:01:12Could robots be the future of theme parks?",
         "This is Galaxy Robot Park, a 16,500-square-meter venue that’s opened near Seoul in South Korea .",
@@ -149,27 +149,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/ef9a94e081c1f3.jpg",
       "score": 16
-    },
-    {
-      "id": "4f4135fa46e7d4",
-      "category": "Økonomi",
-      "published": "04.09. 06:44",
-      "publishedISO": "2026-09-04T06:44:50+02:00",
-      "title": "Kongens gravferd: – Trump kan sende Melania",
-      "summary": "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig. Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater. Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
-      "keyPoints": [
-        "Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
-        "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig.",
-        "Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater.",
-        "Sist gang det var kongelig gravferd i Norge var i 1991: Men omfanget avhenger av hvem som kommer, mener hun. – Jeg tror ikke han kommer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
-      "localImage": "assets/news/4f4135fa46e7d4.jpg",
-      "score": 17
     },
     {
       "id": "848449739ce8cd",
@@ -212,6 +191,27 @@
       "image": "https://akamai.vgc.no/v2/images/e916dc29-9415-38b2-a2a5-615428457a3a?fit=crop&h=675&upscale=true&w=1200&s=2652a6e37bc39172bfd4b48750b9f8ae5944ca2e",
       "localImage": "assets/news/a4eed819ba881c.jpg",
       "score": 17
+    },
+    {
+      "id": "4f4135fa46e7d4",
+      "category": "Økonomi",
+      "published": "04.09. 06:44",
+      "publishedISO": "2026-09-04T06:44:50+02:00",
+      "title": "Kongens gravferd: – Trump kan sende Melania",
+      "summary": "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig. Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater. Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+      "keyPoints": [
+        "Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+        "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig.",
+        "Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater.",
+        "Sist gang det var kongelig gravferd i Norge var i 1991: Men omfanget avhenger av hvem som kommer, mener hun. – Jeg tror ikke han kommer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
+      "localImage": "assets/news/4f4135fa46e7d4.jpg",
+      "score": 16
     }
   ]
 }
