@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 21:51",
-  "updatedISO": "2026-09-04T21:51:33.252267+02:00",
+  "updatedAt": "04.09.2026 kl. 22:11",
+  "updatedISO": "2026-09-04T22:11:26.402711+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,25 +88,25 @@
       "score": 21
     },
     {
-      "id": "271919c80bc73f",
+      "id": "8dba50cc04dab5",
       "category": "Økonomi",
-      "published": "04.09. 09:46",
-      "publishedISO": "2026-09-04T09:46:48+02:00",
-      "title": "Kutter 50.000 jobber – aksjemarkedet jubler",
-      "summary": "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel. Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro. De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
+      "published": "04.09. 15:32",
+      "publishedISO": "2026-09-04T15:32:19+02:00",
+      "title": "Lululemon-aksjen stupte etter sviktende tights-salg",
+      "summary": "Butikksalget sank med 9 prosent i andre kvartal, mens omsetningen falt 4 prosent sammenlignet med samme periode i fjor. Fredag, før markedet åpnet, kom det nyheter som kjølnet troen på at renten blir holdt i ro ved neste rentemøte: Det ble skapt 162.000 jobber utenfor landbruket i USA i august. Ifølge verktøyet CME FedWatch, som tar utgangspunkt i markedsrenter, falt sjansen for at renten blir liggende i ro fra litt over 50 prosent til 41,6 prosent etter at tallene ble lagt frem.",
       "keyPoints": [
-        "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel.",
-        "De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
-        "Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro.",
-        "Bilprodusenten varslet torsdag at selskapet vil kutte 50.000 stillinger."
+        "Butikksalget sank med 9 prosent i andre kvartal, mens omsetningen falt 4 prosent sammenlignet med samme periode i fjor.",
+        "Fredag, før markedet åpnet, kom det nyheter som kjølnet troen på at renten blir holdt i ro ved neste rentemøte: Det ble skapt 162.000 jobber utenfor landbruket i USA i august.",
+        "Ifølge verktøyet CME FedWatch, som tar utgangspunkt i markedsrenter, falt sjansen for at renten blir liggende i ro fra litt over 50 prosent til 41,6 prosent etter at tallene ble lagt frem.",
+        "På forhånd hadde analytikerne anslått at det ville bli skapt 55.000 nye jobber forrige måned. – Dette tilsier en heving fra Fed i september."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/bOdXBq/kutter-50-000-jobber-aksjemarkedet-jubler",
+      "url": "https://e24.no/boers-og-finans/i/vryGmp/blandet-paa-wall-street-etter-jobbtall",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
-      "localImage": "assets/news/271919c80bc73f.jpg",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/72ff0f5b-39fb-323a-aa73-40470b6aa31c?fit=crop&h=675&upscale=true&w=1200&s=075ad4aba0991cb9524bd18ff3dcfca5f67b75b1",
+      "localImage": "assets/news/8dba50cc04dab5.jpg",
+      "score": 19
     },
     {
       "id": "7194e14a6fdfe2",
@@ -127,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
       "localImage": "assets/news/7194e14a6fdfe2.jpg",
-      "score": 22
+      "score": 21
     },
     {
       "id": "8690d18270cc0a",
@@ -149,6 +149,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/8690d18270cc0a.jpg",
       "score": 16
+    },
+    {
+      "id": "271919c80bc73f",
+      "category": "Økonomi",
+      "published": "04.09. 09:46",
+      "publishedISO": "2026-09-04T09:46:48+02:00",
+      "title": "Kutter 50.000 jobber – aksjemarkedet jubler",
+      "summary": "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel. Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro. De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
+      "keyPoints": [
+        "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel.",
+        "De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
+        "Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro.",
+        "Bilprodusenten varslet torsdag at selskapet vil kutte 50.000 stillinger."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/bOdXBq/kutter-50-000-jobber-aksjemarkedet-jubler",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
+      "localImage": "assets/news/271919c80bc73f.jpg",
+      "score": 17
     },
     {
       "id": "79b8b4d088122c",
@@ -191,27 +212,6 @@
       "image": "https://gfx.nrk.no/b8HKxic41qAv8bEhxnSKhQqnr6E0LkyLKWi9jC5Is_Qw.jpg",
       "localImage": "assets/news/1d8da9dc4b29bb.jpg",
       "score": 16
-    },
-    {
-      "id": "848449739ce8cd",
-      "category": "Økonomi",
-      "published": "03.09. 14:07",
-      "publishedISO": "2026-09-03T14:07:11+02:00",
-      "title": "Nvidia kjøper Hugging Face for nær 13 milliarder dollar",
-      "summary": "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding. Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner. Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
-      "keyPoints": [
-        "Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
-        "Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner.",
-        "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding.",
-        "Hugging Face er en nettplattform der utviklere kan dele, finne og bruke AI-modeller og andre AI-verktøy."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/ArQm0A/nvidia-kjoeper-hugging-face-naer-13-milliarder-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/191e473b-af74-3c27-93b5-346882b479aa?fit=crop&h=675&upscale=true&w=1200&s=25ec8b2da97b3d8601f7c86992f9c98ba6b6f694",
-      "localImage": "assets/news/848449739ce8cd.jpg",
-      "score": 15
     }
   ]
 }
