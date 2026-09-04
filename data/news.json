@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 16:55",
-  "updatedISO": "2026-09-04T16:55:54.782151+02:00",
+  "updatedAt": "04.09.2026 kl. 17:12",
+  "updatedISO": "2026-09-04T17:12:05.856244+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,6 +88,27 @@
       "score": 18
     },
     {
+      "id": "7194e14a6fdfe2",
+      "category": "AI",
+      "published": "04.09. 16:59",
+      "publishedISO": "2026-09-04T16:59:13+02:00",
+      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+      "summary": "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face. Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den. Nvidia inngår en avtale på 12,9 milliarder dollar for å kjøpe AI-plattformen Hugging Face Uventet chat mellom OpenAI-agenter førte til Hugging Face-hack",
+      "keyPoints": [
+        "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face.",
+        "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face Unexpected chat between OpenAI agents led to Hugging Face hack",
+        "Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den.",
+        "Hugging Faces systemer ble separat hacket av OpenAI-agenter i juli, med hendelsen beskrevet på den tiden som verdens første AI-aktiverte cyberangrep."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "localImage": "assets/news/7194e14a6fdfe2.jpg",
+      "score": 22
+    },
+    {
       "id": "8690d18270cc0a",
       "category": "AI",
       "published": "03.09. 18:32",
@@ -107,27 +128,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/8690d18270cc0a.jpg",
       "score": 17
-    },
-    {
-      "id": "ef9a94e081c1f3",
-      "category": "AI",
-      "published": "04.09. 04:02",
-      "publishedISO": "2026-09-04T04:02:02+02:00",
-      "title": "Er roboter underholdningens fremtid? Denne sørkoreanske fornøyelsesparken mener det",
-      "summary": "Dette er Galaxy Robot Park, en 16 500 kvadratmeter stor arena som er åpnet nær Seoul i Sør-Korea. Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen. Video, 00:01:12Kan roboter være fremtiden til fornøyelsesparker?",
-      "keyPoints": [
-        "Video, 00:01:12Could robots be the future of theme parks?",
-        "This is Galaxy Robot Park, a 16,500-square-meter venue that’s opened near Seoul in South Korea .",
-        "Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen.",
-        "Video, 00:01:11'A rare moment of joy': Nepal tunnel rescues give hope for more flood survivors 'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cdr7g3vdl58o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c42/live/48fb09f0-a7ef-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/ef9a94e081c1f3.jpg",
-      "score": 15
     },
     {
       "id": "79b8b4d088122c",
