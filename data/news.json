@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 09:56",
-  "updatedISO": "2026-09-04T09:56:36.120217+02:00",
+  "updatedAt": "04.09.2026 kl. 10:14",
+  "updatedISO": "2026-09-04T10:14:43.780779+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -72,12 +72,12 @@
       "published": "04.09. 09:01",
       "publishedISO": "2026-09-04T09:01:29+02:00",
       "title": "Biotekaksje faller kraftig på Oslo Børs",
-      "summary": "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon. Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner. Thor Medical-aksjen faller 11,2 prosent i tidlig handel, til en kurs på 4,86 kroner per aksje.",
+      "summary": "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon. Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner. Thor Medical-aksjen faller 9 prosent, til en kurs på 4,975 kroner per aksje.",
       "keyPoints": [
-        "Thor Medical-aksjen faller 11,2 prosent i tidlig handel, til en kurs på 4,86 kroner per aksje.",
+        "Thor Medical-aksjen faller 9 prosent, til en kurs på 4,975 kroner per aksje.",
         "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
         "Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner.",
-        "Brent spot-prisen er 95, dollar fatet i skrivende stund, ned 0,2 prosent siden midnatt."
+        "Brent spot-prisen er 95,2 dollar fatet i skrivende stund, ned 0,6 prosent siden midnatt."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -151,27 +151,6 @@
       "score": 16
     },
     {
-      "id": "848449739ce8cd",
-      "category": "Økonomi",
-      "published": "03.09. 14:07",
-      "publishedISO": "2026-09-03T14:07:11+02:00",
-      "title": "Nvidia kjøper Hugging Face for nær 13 milliarder dollar",
-      "summary": "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding. Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner. Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
-      "keyPoints": [
-        "Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
-        "Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner.",
-        "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding.",
-        "Hugging Face er en nettplattform der utviklere kan dele, finne og bruke AI-modeller og andre AI-verktøy."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/ArQm0A/nvidia-kjoeper-hugging-face-naer-13-milliarder-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/191e473b-af74-3c27-93b5-346882b479aa?fit=crop&h=675&upscale=true&w=1200&s=25ec8b2da97b3d8601f7c86992f9c98ba6b6f694",
-      "localImage": "assets/news/848449739ce8cd.jpg",
-      "score": 18
-    },
-    {
       "id": "4f4135fa46e7d4",
       "category": "Økonomi",
       "published": "04.09. 06:44",
@@ -190,6 +169,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
       "localImage": "assets/news/4f4135fa46e7d4.jpg",
+      "score": 17
+    },
+    {
+      "id": "848449739ce8cd",
+      "category": "Økonomi",
+      "published": "03.09. 14:07",
+      "publishedISO": "2026-09-03T14:07:11+02:00",
+      "title": "Nvidia kjøper Hugging Face for nær 13 milliarder dollar",
+      "summary": "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding. Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner. Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
+      "keyPoints": [
+        "Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
+        "Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner.",
+        "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding.",
+        "Hugging Face er en nettplattform der utviklere kan dele, finne og bruke AI-modeller og andre AI-verktøy."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/ArQm0A/nvidia-kjoeper-hugging-face-naer-13-milliarder-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/191e473b-af74-3c27-93b5-346882b479aa?fit=crop&h=675&upscale=true&w=1200&s=25ec8b2da97b3d8601f7c86992f9c98ba6b6f694",
+      "localImage": "assets/news/848449739ce8cd.jpg",
       "score": 17
     },
     {
