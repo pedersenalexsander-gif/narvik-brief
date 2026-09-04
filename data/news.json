@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 08:37",
-  "updatedISO": "2026-09-04T08:37:10.419669+02:00",
+  "updatedAt": "04.09.2026 kl. 08:57",
+  "updatedISO": "2026-09-04T08:57:09.739485+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -44,6 +44,27 @@
       "image": "https://gfx.nrk.no/MtMz1RUidB722iGQWOuVPAsn49R4Fcbw8Ir08rJIRPHg.jpg",
       "localImage": "assets/news/b90454b7d2f7f3.jpg",
       "score": 17
+    },
+    {
+      "id": "c39008b983dd4b",
+      "category": "Verden",
+      "published": "04.09. 02:54",
+      "publishedISO": "2026-09-04T02:54:46+02:00",
+      "title": "Lindsay Clancy trial tensions flare as judge declines to remove holdout juror",
+      "summary": "Se: Hvordan det var i retten da Lindsay Clancys advokat ba dommeren om å fjerne jurymedlem En dommer har igjen fortalt den fastlåste juryen i Lindsay Clancys mordrettssak om å fortsette å prøve å nå en dom etter en dramatisk sjette dag med overveielser i en sak som har grepet Amerika. Spenningen blusset opp i retten etter at juryforkvinnen sendte dommeren et notat om at en jurymedlem ikke ville følge dommerens instruksjoner ved rimelig tvil. Her er juryens alternativer Se: Øyeblikk Clancys forsvar oppfordrer dommeren til å avskjedige jurymedlem Clancys advokat, Kevin Reddington, sa i retten at juryens forkvinne hadde sendt et nytt notat, denne klaget til dommer William Sullivan at en jurymedlem nektet å lytte til loven om rimelig tvil.",
+      "keyPoints": [
+        "Se: Hvordan det var i retten da Lindsay Clancys advokat ba dommeren om å fjerne jurymedlem En dommer har igjen fortalt den fastlåste juryen i Lindsay Clancys mordrettssak om å fortsette å prøve å nå en dom etter en dramatisk sjette dag med overveielser i en sak som har grepet Amerika.",
+        "Her er juryens alternativer Se: Øyeblikk Clancys forsvar oppfordrer dommeren til å avskjedige jurymedlem Clancys advokat, Kevin Reddington, sa i retten at juryens forkvinne hadde sendt et nytt notat, denne klaget til dommer William Sullivan at en jurymedlem nektet å lytte til loven om rimelig tvil.",
+        "Tensions flared in court after the jury forewoman sent the judge a note saying one juror would not follow the judge's instructions on reasonable doubt.",
+        "Kvinne siktet for trusler mot jurymedlemmer i rettssaken mot Lindsay Clancy Nøkkeløyeblikk i rettssaken mot Lindsay Clancy, moren anklaget for å ha myrdet sine tre barn"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f49e/live/1194d700-a7f1-11f1-8061-c3b9abc6cd07.jpg",
+      "localImage": "assets/news/c39008b983dd4b.jpg",
+      "score": 12
     },
     {
       "id": "848449739ce8cd",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/xbCUeB3eojyUw555DBcfFAVlNUT2Oiv4XtFp1_4BF4ag.jpg",
       "localImage": "assets/news/3866dcb46fad12.jpg",
-      "score": 14
-    },
-    {
-      "id": "7547b63be58d9d",
-      "category": "Økonomi",
-      "published": "03.09. 15:09",
-      "publishedISO": "2026-09-03T15:09:18+02:00",
-      "title": "Akers AI-selskap Nscale inngår robotavtale",
-      "summary": "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure. Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar. Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
-      "keyPoints": [
-        "Akers AI-selskap Nscale har inngått en avtale med robotprodusenten Figure.",
-        "Ved utgangen av andre kvartal var Akers eierpost på 23 prosent i Nscale verdt 32,1 milliarder kroner.",
-        "Figure utvikler såkalte humanoider, og Nscale skal stå for datakraft verdt 3,5 milliarder dollar.",
-        "Nscale skriver at «avtalen representere muligheten» til å sette til verks 100.000 grafikkprosessorer (GPUer) fra Nvidia, som skal brukes til å trene Figures AI-modeller. – Dette er svinghjulet for fysisk AI som vil fremskynde veien fra modeller til roboter i den virkelige verden, sier Nvidia-sjef Jensen Huang i forbindelse med avtalen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/QJOqvJ/akers-ai-selskap-nscale-inngaar-robotavtale-verdt-3-5-milliarder-dollar-med-mulig-utvidelse-til-over-6-milliarder",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3c92ca3c-4f4b-35f0-9ecf-0fe17753a155?fit=crop&h=675&upscale=true&w=1200&s=5737c64171e7d4622857b5d61f1177cb623119c9",
-      "localImage": "assets/news/7547b63be58d9d.jpg",
       "score": 14
     }
   ]
