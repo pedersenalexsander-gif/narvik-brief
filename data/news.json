@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 13:54",
-  "updatedISO": "2026-09-04T13:54:36.209630+02:00",
+  "updatedAt": "04.09.2026 kl. 14:16",
+  "updatedISO": "2026-09-04T14:16:41.198341+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -30,12 +30,12 @@
       "published": "04.09. 12:46",
       "publishedISO": "2026-09-04T12:46:44+02:00",
       "title": "Slik blir sikkerheten under kong Haralds gravferd",
-      "summary": "Sykkelforbud, sjekkpunkter og soldater: Slik sikrer politiet Oslo under kong Haralds begravelse. Fredag orienterer han og flere polititopper om sikkerheten når kong Harald V gravlegges onsdag 9. september. Den gule stiplede linjen viser ruten som prosesjonen med kong Haralds båre skal følge, først fra Slottet til Oslo domkirke, deretter fra domkirken til Akershus slottskirke.",
+      "summary": "Det er ventet at sikkerheten rundt gravferden til Harald V kan bli den største politiaksjonen i norsk historie. – Dette er en av de største politioperasjonene i Norge noensinne. – Og ikke minst, det er et ærefullt oppdrag for oss i politiet, legger han til. – Gjennom mer enn tre tiår på trona, var kong Harald en konge som politifolk over hele landet møtte i tjeneste, sier politidirektør Håkon Skulstad. Fredag orienterer han og flere polititopper om sikkerheten når kong Harald V gravlegges onsdag 9. september. Den gule stiplede linjen viser ruten som prosesjonen med kong Haralds båre skal følge, først fra Slottet til Oslo domkirke, deretter fra domkirken til Akershus slottskirke.",
       "keyPoints": [
-        "Sykkelforbud, sjekkpunkter og soldater: Slik sikrer politiet Oslo under kong Haralds begravelse.",
+        "Det er ventet at sikkerheten rundt gravferden til Harald V kan bli den største politiaksjonen i norsk historie. – Dette er en av de største politioperasjonene i Norge noensinne. – Og ikke minst, det er et ærefullt oppdrag for oss i politiet, legger han til. – Gjennom mer enn tre tiår på trona, var kong Harald en konge som politifolk over hele landet møtte i tjeneste, sier politidirektør Håkon Skulstad.",
         "Fredag orienterer han og flere polititopper om sikkerheten når kong Harald V gravlegges onsdag 9. september.",
         "Den gule stiplede linjen viser ruten som prosesjonen med kong Haralds båre skal følge, først fra Slottet til Oslo domkirke, deretter fra domkirken til Akershus slottskirke.",
-        "Det er ventet at begravelsen av Harald V kan bli den største politiaksjonen i norsk historie. – Dette er en av de største politioperasjonene i Norge noensinne. – Og ikke minst, det er et ærefullt oppdrag for oss i politiet, legger han til. – Gjennom mer enn tre tiår på trona, var kong Harald en konge som politifolk over hele landet møtte i tjeneste, sier politidirektør Håkon Skulstad."
+        "Resten av soldatene bidrar som en del av æresvakten, med korps, salutt, støttepersonell, samt kanonlavetten og bilen som skal trekke kong Haralds båre."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -44,27 +44,6 @@
       "image": "https://gfx.nrk.no/b8HKxic41qAv8bEhxnSKhQqnr6E0LkyLKWi9jC5Is_Qw.jpg",
       "localImage": "assets/news/1d8da9dc4b29bb.jpg",
       "score": 17
-    },
-    {
-      "id": "27ff90ea4ccf9c",
-      "category": "Økonomi",
-      "published": "04.09. 09:01",
-      "publishedISO": "2026-09-04T09:01:29+02:00",
-      "title": "Biotekaksje faller kraftig på Oslo Børs",
-      "summary": "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon. Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner. Thor Medical-aksjen faller 9,9 prosent, til en kurs på 4,93 kroner per aksje.",
-      "keyPoints": [
-        "Thor Medical-aksjen faller 9,9 prosent, til en kurs på 4,93 kroner per aksje.",
-        "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
-        "Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner.",
-        "Brent spot-prisen er 94,9 dollar fatet i skrivende stund, ned 0,9 prosent siden midnatt."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
-      "localImage": "assets/news/27ff90ea4ccf9c.jpg",
-      "score": 20
     },
     {
       "id": "271919c80bc73f",
@@ -85,6 +64,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
       "localImage": "assets/news/271919c80bc73f.jpg",
+      "score": 19
+    },
+    {
+      "id": "27ff90ea4ccf9c",
+      "category": "Økonomi",
+      "published": "04.09. 09:01",
+      "publishedISO": "2026-09-04T09:01:29+02:00",
+      "title": "Biotekaksje faller kraftig på Oslo Børs",
+      "summary": "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon. Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner. Thor Medical-aksjen faller 9,9 prosent, til en kurs på 4,93 kroner per aksje.",
+      "keyPoints": [
+        "Thor Medical-aksjen faller 9,9 prosent, til en kurs på 4,93 kroner per aksje.",
+        "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
+        "Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner.",
+        "Brent spot-prisen er 94,9 dollar fatet i skrivende stund, ned 0,9 prosent siden midnatt."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
+      "localImage": "assets/news/27ff90ea4ccf9c.jpg",
       "score": 19
     },
     {
