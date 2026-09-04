@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 09:13",
-  "updatedISO": "2026-09-04T09:13:31.096610+02:00",
+  "updatedAt": "04.09.2026 kl. 09:28",
+  "updatedISO": "2026-09-04T09:28:45.207995+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,24 +67,24 @@
       "score": 17
     },
     {
-      "id": "525c8890c0b37d",
+      "id": "27ff90ea4ccf9c",
       "category": "Økonomi",
       "published": "04.09. 09:01",
       "publishedISO": "2026-09-04T09:01:29+02:00",
-      "title": "Nedgang på Oslo Børs – biotekaksje faller kraftig",
-      "summary": "Hovedindeksen på Oslo Børs er ned 0,27 prosent rett etter åpning fredag. Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger gjennom en rettert emisjon. Thor Medical-aksjen faller 10,3 prosent i tidlig handel, til en kurs på 4,85 kroner per aksje.",
+      "title": "Biotekaksje faller kraftig på Oslo Børs",
+      "summary": "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon. Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner. Thor Medical-aksjen faller 11,2 prosent i tidlig handel, til en kurs på 4,86 kroner per aksje.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er ned 0,27 prosent rett etter åpning fredag.",
-        "Thor Medical-aksjen faller 10,3 prosent i tidlig handel, til en kurs på 4,85 kroner per aksje.",
-        "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger gjennom en rettert emisjon.",
-        "Brent spot-prisen er 95,5 dollar fatet i skrivende stund, ned 0,3 prosent siden midnatt."
+        "Thor Medical-aksjen faller 11,2 prosent i tidlig handel, til en kurs på 4,86 kroner per aksje.",
+        "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
+        "Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner.",
+        "Brent spot-prisen er 95, dollar fatet i skrivende stund, ned 0,2 prosent siden midnatt."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
-      "localImage": "assets/news/525c8890c0b37d.jpg",
+      "localImage": "assets/news/27ff90ea4ccf9c.jpg",
       "score": 20
     },
     {
