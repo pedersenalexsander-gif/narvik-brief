@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 21:38",
-  "updatedISO": "2026-09-04T21:38:01.463050+02:00",
+  "updatedAt": "04.09.2026 kl. 21:51",
+  "updatedISO": "2026-09-04T21:51:33.252267+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -44,6 +44,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf50/live/afcc7190-a84f-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/f468f736d78fa3.jpg",
       "score": 12
+    },
+    {
+      "id": "9199e972352309",
+      "category": "USA",
+      "published": "04.09. 20:36",
+      "publishedISO": "2026-09-04T20:36:02+02:00",
+      "title": "Lindsay Clancy's case ends in a mistrial - what happens next?",
+      "summary": "Se: BBCs Ione Wells forklarer hva som kan skje videre i saken Etter en uke med å tenke på Lindsay Clancys skjebne, har en dommer erklært en feilrettssak i saken til den amerikanske moren som er anklaget for å ha myrdet sine tre små barn. I det øyeblikket dommeren erklærer en feilrettssak i Lindsay Clancy-saken I henhold til amerikansk lov må juryen enstemmig komme til en konklusjon \"utover rimelig tvil\". Kaster papirer, kaster en ninjastjerne - Lindsay Clancy-advokaten skaper forestillinger i rettssalen Juryen fortsatte å indikere at de ikke kunne komme til enighet, noe som førte til at dommeren sa at han ikke hadde noe annet valg enn å erklære en feilrettssak.",
+      "keyPoints": [
+        "Se: BBCs Ione Wells forklarer hva som kan skje videre i saken Etter en uke med å tenke på Lindsay Clancys skjebne, har en dommer erklært en feilrettssak i saken til den amerikanske moren som er anklaget for å ha myrdet sine tre små barn.",
+        "I det øyeblikket dommeren erklærer en feilrettssak i Lindsay Clancy-saken I henhold til amerikansk lov må juryen enstemmig komme til en konklusjon \"utover rimelig tvil\".",
+        "Kaster papirer, kaster en ninjastjerne - Lindsay Clancy-advokaten skaper forestillinger i rettssalen Juryen fortsatte å indikere at de ikke kunne komme til enighet, noe som førte til at dommeren sa at han ikke hadde noe annet valg enn å erklære en feilrettssak.",
+        "Hvis de ikke kan det, kan dommeren innkalle en feilrettssak, som avslutter rettssaken uten dom."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj9x248npw1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f14/live/e9476f60-a87c-11f1-a291-b542ee92de7c.jpg",
+      "localImage": "assets/news/9199e972352309.jpg",
+      "score": 13
     },
     {
       "id": "3c66ec91d46d72",
@@ -170,27 +191,6 @@
       "image": "https://gfx.nrk.no/b8HKxic41qAv8bEhxnSKhQqnr6E0LkyLKWi9jC5Is_Qw.jpg",
       "localImage": "assets/news/1d8da9dc4b29bb.jpg",
       "score": 16
-    },
-    {
-      "id": "4f4135fa46e7d4",
-      "category": "Økonomi",
-      "published": "04.09. 06:44",
-      "publishedISO": "2026-09-04T06:44:50+02:00",
-      "title": "Kongens gravferd: – Trump kan sende Melania",
-      "summary": "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig. Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater. Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
-      "keyPoints": [
-        "Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
-        "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig.",
-        "Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater.",
-        "Sist gang det var kongelig gravferd i Norge var i 1991: Men omfanget avhenger av hvem som kommer, mener hun. – Jeg tror ikke han kommer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
-      "localImage": "assets/news/4f4135fa46e7d4.jpg",
-      "score": 15
     },
     {
       "id": "848449739ce8cd",
