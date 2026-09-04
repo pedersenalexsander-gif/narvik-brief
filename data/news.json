@@ -1,29 +1,8 @@
 {
-  "updatedAt": "04.09.2026 kl. 16:27",
-  "updatedISO": "2026-09-04T16:27:29.401850+02:00",
+  "updatedAt": "04.09.2026 kl. 16:43",
+  "updatedISO": "2026-09-04T16:43:20.044096+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "6eee775b483d69",
-      "category": "Nord-Norge",
-      "published": "03.09. 15:51",
-      "publishedISO": "2026-09-03T15:51:54+02:00",
-      "title": "Foreslår strategisk EU-status for Narvik-korridoren",
-      "summary": "Transportkorridoren mellom Kiruna og Narvik bør få status som strategisk prosjekt i EU. Det foreslår en ny rapport til Europaparlamentet, skrevet av blant andre Andreas Raspotnik ved Nord universitet. I rapporten fremgår det at EU bør bidra til å oppgradere jernbane, havn og logistikk, slik at mineraler fra Nord-Sverige kan fraktes trygt og effektivt gjennom Narvik. – Europa trenger sikrere tilgang til kritiske råvarer.",
-      "keyPoints": [
-        "Det foreslår en ny rapport til Europaparlamentet, skrevet av blant andre Andreas Raspotnik ved Nord universitet.",
-        "Transportkorridoren mellom Kiruna og Narvik bør få status som strategisk prosjekt i EU.",
-        "I rapporten fremgår det at EU bør bidra til å oppgradere jernbane, havn og logistikk, slik at mineraler fra Nord-Sverige kan fraktes trygt og effektivt gjennom Narvik. – Europa trenger sikrere tilgang til kritiske råvarer.",
-        "EU bør derfor investere i jernbanen og havna som trengs for å få råvarene ut på markedet, sier Raspotnik til rapporten."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/foreslar-strategisk-eu-status-for-narvik-korridoren-1.18013382",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/o0UN1e_2pyyZZiGXuXDW2wZRuSSPs2kaxRe2DTJJ7auw.jpg",
-      "localImage": "assets/news/6eee775b483d69.jpg",
-      "score": 31
-    },
     {
       "id": "1d8da9dc4b29bb",
       "category": "Norge",
@@ -67,25 +46,25 @@
       "score": 16
     },
     {
-      "id": "27ff90ea4ccf9c",
+      "id": "3c66ec91d46d72",
       "category": "Økonomi",
       "published": "04.09. 09:01",
       "publishedISO": "2026-09-04T09:01:29+02:00",
-      "title": "Biotekaksje faller kraftig på Oslo Børs",
-      "summary": "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon. Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner. Thor Medical-aksjen faller 9,9 prosent, til en kurs på 4,93 kroner per aksje.",
+      "title": "Oljenedtur på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag. Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent. Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
       "keyPoints": [
-        "Thor Medical-aksjen faller 9,9 prosent, til en kurs på 4,93 kroner per aksje.",
-        "Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
-        "Pengeinnhenting ble gjort til en kurs på 4,8 kroner per aksje, mens sluttkursen for aksjen på torsdag var 5,47 kroner.",
-        "Brent spot-prisen er 94,9 dollar fatet i skrivende stund, ned 0,9 prosent siden midnatt."
+        "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag.",
+        "Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent.",
+        "Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
+        "Prisen på et fat nordsjøolje ligger på 94,2 dollar, ned 1,6 prosent for dagen og om lag 1,3 dollar siden stengetid torsdag."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
-      "localImage": "assets/news/27ff90ea4ccf9c.jpg",
-      "score": 19
+      "localImage": "assets/news/3c66ec91d46d72.jpg",
+      "score": 22
     },
     {
       "id": "271919c80bc73f",
@@ -135,7 +114,7 @@
       "published": "04.09. 04:02",
       "publishedISO": "2026-09-04T04:02:02+02:00",
       "title": "Er roboter underholdningens fremtid? Denne sørkoreanske fornøyelsesparken mener det",
-      "summary": "Dette er Galaxy Robot Park, en 16 500 kvadratmeter stor arena som er åpnet nær Seoul i Sør-Korea. Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen. Video, 00:01:12Kan roboter være fremtiden til fornøyelsesparker?",
+      "summary": "Dette er Galaxy Robot Park, et 16 500 kvadratmeter stort sted som åpnes nær Seoul i Sør-Korea. Selskapet bak parken sier deres mål er å bringe kunstig intelligens og robotikk inn i underholdningsverdenen. Video, 00:01:12Kan roboter være fremtiden til fornøyelsesparker?",
       "keyPoints": [
         "Video, 00:01:12Could robots be the future of theme parks?",
         "This is Galaxy Robot Park, a 16,500-square-meter venue that’s opened near Seoul in South Korea .",
@@ -211,6 +190,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
       "localImage": "assets/news/4f4135fa46e7d4.jpg",
+      "score": 16
+    },
+    {
+      "id": "848449739ce8cd",
+      "category": "Økonomi",
+      "published": "03.09. 14:07",
+      "publishedISO": "2026-09-03T14:07:11+02:00",
+      "title": "Nvidia kjøper Hugging Face for nær 13 milliarder dollar",
+      "summary": "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding. Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner. Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
+      "keyPoints": [
+        "Ifølge meldingen bruker mer enn 18 millioner utvikler Hugging Face.",
+        "Kjøpesummen på 12,93 milliarder dollar tilsvarer rundt 120 milliarder norske kroner.",
+        "Selskapet har inngått en avtale om å kjøpe AI-plattformen Hugging Face, ifølge en pressemelding.",
+        "Hugging Face er en nettplattform der utviklere kan dele, finne og bruke AI-modeller og andre AI-verktøy."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/ArQm0A/nvidia-kjoeper-hugging-face-naer-13-milliarder-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/191e473b-af74-3c27-93b5-346882b479aa?fit=crop&h=675&upscale=true&w=1200&s=25ec8b2da97b3d8601f7c86992f9c98ba6b6f694",
+      "localImage": "assets/news/848449739ce8cd.jpg",
       "score": 16
     }
   ]
