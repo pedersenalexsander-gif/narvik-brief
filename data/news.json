@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 19:24",
-  "updatedISO": "2026-09-04T19:24:56.551311+02:00",
+  "updatedAt": "04.09.2026 kl. 19:38",
+  "updatedISO": "2026-09-04T19:38:26.379221+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -44,27 +44,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf50/live/afcc7190-a84f-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/f468f736d78fa3.jpg",
       "score": 13
-    },
-    {
-      "id": "83084b68a09d3a",
-      "category": "USA",
-      "published": "04.09. 19:23",
-      "publishedISO": "2026-09-04T19:23:13+02:00",
-      "title": "US jobs figures fuel rate rise bets as they beat expectations",
-      "summary": "Et løft i gjestfrihet og utdanningssysselsetting fikk den amerikanske økonomien til å skape titusenvis flere jobber enn forventet forrige måned, antyder siste tall. De sterkere jobbtallene vil sannsynligvis bidra til økende forventninger om at Federal Reserve vil øke rentene senere denne måneden. Han la til at styrken i arbeidsmarkedet betydde at de siste inflasjonstallene som ble offentliggjort neste uke, bare trenger å være moderat over Feds mål for å stimulere forventningene om en økning i september. \"En renteøkning ble bare litt mer sannsynlig,\" sa Neil Birrell, investeringssjef i investeringsselskapet Premier Miton.",
-      "keyPoints": [
-        "Han la til at styrken i arbeidsmarkedet betydde at de siste inflasjonstallene som ble offentliggjort neste uke, bare trenger å være moderat over Feds mål for å stimulere forventningene om en økning i september. \"En renteøkning ble bare litt mer sannsynlig,\" sa Neil Birrell, investeringssjef i investeringsselskapet Premier Miton.",
-        "De sterkere jobbtallene vil sannsynligvis bidra til økende forventninger om at Federal Reserve vil øke rentene senere denne måneden.",
-        "Et løft i gjestfrihet og utdanningssysselsetting fikk den amerikanske økonomien til å skape titusenvis flere jobber enn forventet forrige måned, antyder siste tall.",
-        "Mens mange flere jobber ble lagt til, holdt den amerikanske arbeidsledigheten seg uendret på 4,1 % forrige måned, med syv millioner uten arbeid."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2654/live/080d87e0-a85f-11f1-ae45-e9984fc27c77.jpg",
-      "localImage": "assets/news/83084b68a09d3a.jpg",
-      "score": 17
     },
     {
       "id": "3c66ec91d46d72",
@@ -148,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/8690d18270cc0a.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "79b8b4d088122c",
@@ -169,27 +148,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/aababa53-eeb3-3a46-8bbb-d7f01cb11f6a?fit=crop&h=675&upscale=true&w=1200&s=2eaf5a338fbc282051d06dfe239ffbec38043ddc",
       "localImage": "assets/news/79b8b4d088122c.jpg",
-      "score": 17
-    },
-    {
-      "id": "acc7e5f5a053ac",
-      "category": "Norge",
-      "published": "04.09. 12:35",
-      "publishedISO": "2026-09-04T12:35:17+02:00",
-      "title": "Trafikkulykke mellom personbil og lastebil på Lundamo i Melhus kommune",
-      "summary": "Han forteller rett før klokka 16 at det fortsatt er en del arbeid som gjenstår før de kan åpne veien. – Politiets kriminalteknikere og ulykkesgruppa til Statens vegvesen er på plass og har en del arbeid å gjøre. Klokka 12.27 rykket politiet ut til Lundamo i Melhus kommune etter melding om en front mot front-kollisjon mellom en lastebil og personbil. – Fremstår som en alvorlig ulykke, skriver operasjonsleder Viola Elvrum i Trøndelag politidistrikt. En lastebil og personbil kolliderte langs en strekning på Lundamovegen i Melhus kommune.",
-      "keyPoints": [
-        "Klokka 12.27 rykket politiet ut til Lundamo i Melhus kommune etter melding om en front mot front-kollisjon mellom en lastebil og personbil. – Fremstår som en alvorlig ulykke, skriver operasjonsleder Viola Elvrum i Trøndelag politidistrikt.",
-        "En lastebil og personbil kolliderte langs en strekning på Lundamovegen i Melhus kommune.",
-        "Han forteller rett før klokka 16 at det fortsatt er en del arbeid som gjenstår før de kan åpne veien. – Politiets kriminalteknikere og ulykkesgruppa til Statens vegvesen er på plass og har en del arbeid å gjøre.",
-        "Operasjonsleder Trond Hangaas bekrefter til NRK at ulykken var en dødsulykke og at pårørende er varslet. – Det var en kvinne i 60-årene som er bosatt i Trøndelag, sier Hangaas."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/trafikkulykke-mellom-personbil-og-lastebil-pa-lundamo-i-melhus-kommune-1.18014312",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/QdL5CH98LRuYdnk0Y29DyQvtjloP8ynNTqjfy5QyvxDw.jpg",
-      "localImage": "assets/news/acc7e5f5a053ac.jpg",
       "score": 16
     },
     {
@@ -212,6 +170,48 @@
       "image": "https://akamai.vgc.no/v2/images/191e473b-af74-3c27-93b5-346882b479aa?fit=crop&h=675&upscale=true&w=1200&s=25ec8b2da97b3d8601f7c86992f9c98ba6b6f694",
       "localImage": "assets/news/848449739ce8cd.jpg",
       "score": 16
+    },
+    {
+      "id": "4f4135fa46e7d4",
+      "category": "Økonomi",
+      "published": "04.09. 06:44",
+      "publishedISO": "2026-09-04T06:44:50+02:00",
+      "title": "Kongens gravferd: – Trump kan sende Melania",
+      "summary": "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig. Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater. Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+      "keyPoints": [
+        "Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+        "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig.",
+        "Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater.",
+        "Sist gang det var kongelig gravferd i Norge var i 1991: Men omfanget avhenger av hvem som kommer, mener hun. – Jeg tror ikke han kommer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
+      "localImage": "assets/news/4f4135fa46e7d4.jpg",
+      "score": 15
+    },
+    {
+      "id": "a4eed819ba881c",
+      "category": "Økonomi",
+      "published": "03.09. 06:25",
+      "publishedISO": "2026-09-03T06:25:44+02:00",
+      "title": "Danske Bank venter tre rentekutt i 2027",
+      "summary": "Danske Bank tror Norges Bank hever renten fra 4,25 til 4,5 prosent på rentemøtet i slutten av september, og samtidig varsler at toppen er nådd. Danske Bank venter en kjerneinflasjon på 3,0 prosent i år og 2,4 prosent neste år. Danske Bank venter at ledigheten stiger til 2,3 prosent i år og 2,4 prosent neste år.",
+      "keyPoints": [
+        "Danske Bank venter en kjerneinflasjon på 3,0 prosent i år og 2,4 prosent neste år.",
+        "Danske Bank tror Norges Bank hever renten fra 4,25 til 4,5 prosent på rentemøtet i slutten av september, og samtidig varsler at toppen er nådd.",
+        "Dermed kan Norges Bank «kutte renten tre ganger neste år og to ganger i 2028».",
+        "Til sammenligning venter Nordea også én heving i høst, men mener «Norges Bank er ikke i mål» og tror ikke på kutt før i 2028."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/m0a0y0/danske-bank-venter-tre-rentekutt-i-2027",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e916dc29-9415-38b2-a2a5-615428457a3a?fit=crop&h=675&upscale=true&w=1200&s=2652a6e37bc39172bfd4b48750b9f8ae5944ca2e",
+      "localImage": "assets/news/a4eed819ba881c.jpg",
+      "score": 15
     }
   ]
 }
