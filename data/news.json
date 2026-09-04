@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 17:56",
-  "updatedISO": "2026-09-04T17:56:03.445843+02:00",
+  "updatedAt": "04.09.2026 kl. 18:12",
+  "updatedISO": "2026-09-04T18:12:42.253176+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -30,7 +30,7 @@
       "published": "04.09. 14:39",
       "publishedISO": "2026-09-04T14:39:05+02:00",
       "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
-      "summary": "Drapet på Omar al-Naasan og Khalil Abu Alia kommer midt i nesten daglige angrep fra jødiske bosettere i landsbyen al-Mughayyir, sør for Nablus. – Vi forventer at når sønnene våre går på gaten, vil de sannsynligvis returnere til deg skadet eller drept, sa Mohammed Al-Naasan, Omars far, til BBC. Mer om denne historien: Palestinske tenåringer drept under bosetterangrep på landsbyen på Vestbredden 'Vi forventer at sønnene våre blir drept,' sier far til tenåringer skutt og drept på Vestbredden til BBC. Video, 00:01:29'Vi forventer at sønnene våre blir drept,' sier far til tenåringer skutt og drept på Vestbredden til BBC Up Next.",
+      "summary": "Drapet på Omar al-Naasan og Khalil Abu Alia kommer midt i nesten daglige angrep fra jødiske bosettere i landsbyen al-Mughayyir, sør for Nablus. – Vi forventer at når sønnene våre går på gaten, vil de sannsynligvis returnere til deg skadet eller drept, sa Mohammed Al-Naasan, Omars far, til BBC. Mer om denne historien: Palestinske tenåringer drept under bosetterangrep på landsbyen på Vestbredden 'Vi forventer at sønnene våre blir drept,' sier far til tenåringer skutt og drept på Vestbredden til BBC. Video, 00:01:29 «Vi forventer at sønnene våre blir drept», forteller en tenåringsfar skutt og drept på Vestbredden til BBC Up Next.",
       "keyPoints": [
         "Video, 00:01:29'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC Up Next.",
         "Drapet på Omar al-Naasan og Khalil Abu Alia kommer midt i nesten daglige angrep fra jødiske bosettere i landsbyen al-Mughayyir, sør for Nablus. – Vi forventer at når sønnene våre går på gaten, vil de sannsynligvis returnere til deg skadet eller drept, sa Mohammed Al-Naasan, Omars far, til BBC.",
@@ -43,6 +43,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bf50/live/afcc7190-a84f-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/f468f736d78fa3.jpg",
+      "score": 13
+    },
+    {
+      "id": "278f45dcd394fa",
+      "category": "USA",
+      "published": "04.09. 16:38",
+      "publishedISO": "2026-09-04T16:38:19+02:00",
+      "title": "US jobs figures fuel rate rise bets as they beat expectations",
+      "summary": "Et løft i gjestfrihet og utdanningssysselsetting fikk den amerikanske økonomien til å skape titusenvis flere jobber enn forventet forrige måned, antyder siste tall. De sterkere jobbtallene vil sannsynligvis bidra til økende forventninger om at Federal Reserve vil øke rentene senere denne måneden. Han la til at styrken i arbeidsmarkedet betydde at de siste inflasjonstallene som ble offentliggjort neste uke, bare trenger å være moderat over Feds mål for å stimulere forventningene om en økning i september. \"En renteøkning ble bare litt mer sannsynlig,\" sa Neil Birrell, investeringssjef i investeringsselskapet Premier Miton.",
+      "keyPoints": [
+        "Han la til at styrken i arbeidsmarkedet betydde at de siste inflasjonstallene som ble offentliggjort neste uke, bare trenger å være moderat over Feds mål for å stimulere forventningene om en økning i september. \"En renteøkning ble bare litt mer sannsynlig,\" sa Neil Birrell, investeringssjef i investeringsselskapet Premier Miton.",
+        "De sterkere jobbtallene vil sannsynligvis bidra til økende forventninger om at Federal Reserve vil øke rentene senere denne måneden.",
+        "Et løft i gjestfrihet og utdanningssysselsetting fikk den amerikanske økonomien til å skape titusenvis flere jobber enn forventet forrige måned, antyder siste tall.",
+        "Mens mange flere jobber ble lagt til, holdt den amerikanske arbeidsledigheten seg uendret på 4,1 % forrige måned, med syv millioner uten arbeid."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2654/live/080d87e0-a85f-11f1-ae45-e9984fc27c77.jpg",
+      "localImage": "assets/news/278f45dcd394fa.jpg",
       "score": 13
     },
     {
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/191e473b-af74-3c27-93b5-346882b479aa?fit=crop&h=675&upscale=true&w=1200&s=25ec8b2da97b3d8601f7c86992f9c98ba6b6f694",
       "localImage": "assets/news/848449739ce8cd.jpg",
       "score": 16
-    },
-    {
-      "id": "4f4135fa46e7d4",
-      "category": "Økonomi",
-      "published": "04.09. 06:44",
-      "publishedISO": "2026-09-04T06:44:50+02:00",
-      "title": "Kongens gravferd: – Trump kan sende Melania",
-      "summary": "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig. Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater. Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
-      "keyPoints": [
-        "Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
-        "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig.",
-        "Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater.",
-        "Sist gang det var kongelig gravferd i Norge var i 1991: Men omfanget avhenger av hvem som kommer, mener hun. – Jeg tror ikke han kommer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
-      "localImage": "assets/news/4f4135fa46e7d4.jpg",
-      "score": 15
     }
   ]
 }
