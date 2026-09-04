@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05.09.2026 kl. 00:52",
-  "updatedISO": "2026-09-05T00:52:13.723468+02:00",
+  "updatedAt": "05.09.2026 kl. 01:11",
+  "updatedISO": "2026-09-05T01:11:03.839443+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -44,6 +44,27 @@
       "image": "https://gfx.nrk.no/GsT35X6BgrqsDSiyfJnhhQ6vJrypsjObfPpEB4zgfOog.jpg",
       "localImage": "assets/news/cbdc8438fcb693.jpg",
       "score": 17
+    },
+    {
+      "id": "131d6d30604c4c",
+      "category": "Verden",
+      "published": "05.09. 00:48",
+      "publishedISO": "2026-09-05T00:48:38+02:00",
+      "title": "Judge declares mistrial in Lindsay Clancy murder case as jury deadlocks",
+      "summary": "Hva skjer videre etter at Lindsay Clancys drapssak ender i en rettssak? Nøkkeløyeblikk fra Lindsay Clancys rettssak over barnedrap \"På dette tidspunktet kommer jeg til å erklære at juryen er fastlåst, og jeg kommer til å erklære en feilrettssak,\" sa dommer Sullivan til juryen på fredag, og avskjediget dem etter uker med vitnesbyrd, nesten en uke med å tenke på Clancys skjebne tre ganger og at panelet var fastlåst. I det øyeblikket dommeren erklærer en feilrettssak i Lindsay Clancy-saken Retssaken kom etter seks uker med rettsforhandling og etter at jurymedlemmer diskuterte i mer enn 40 timer over syv dager. \"Det vil ikke bli tatt noen avgjørelser i dag,\" sa Plymouth County distriktsadvokat Timothy Cruz fredag ​​om hva som kan skje videre i saken.",
+      "keyPoints": [
+        "I det øyeblikket dommeren erklærer en feilrettssak i Lindsay Clancy-saken Retssaken kom etter seks uker med rettsforhandling og etter at jurymedlemmer diskuterte i mer enn 40 timer over syv dager. \"Det vil ikke bli tatt noen avgjørelser i dag,\" sa Plymouth County distriktsadvokat Timothy Cruz fredag ​​om hva som kan skje videre i saken.",
+        "Nøkkeløyeblikk fra Lindsay Clancys rettssak over barnedrap \"På dette tidspunktet kommer jeg til å erklære at juryen er fastlåst, og jeg kommer til å erklære en feilrettssak,\" sa dommer Sullivan til juryen på fredag, og avskjediget dem etter uker med vitnesbyrd, nesten en uke med å tenke på Clancys skjebne tre ganger og at panelet var fastlåst.",
+        "What happens next after Lindsay Clancy's murder case ends in a mistrial?",
+        "Et bilde vist i retten viser Clancy, hennes eksmann og deres barn. Den dystre saken førte til en rekke dramatiske vendinger da juryen vurderte Clancys skjebne."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg",
+      "localImage": "assets/news/131d6d30604c4c.jpg",
+      "score": 13
     },
     {
       "id": "8baa46aad4770e",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/aababa53-eeb3-3a46-8bbb-d7f01cb11f6a?fit=crop&h=675&upscale=true&w=1200&s=2eaf5a338fbc282051d06dfe239ffbec38043ddc",
       "localImage": "assets/news/79b8b4d088122c.jpg",
-      "score": 15
-    },
-    {
-      "id": "1d8da9dc4b29bb",
-      "category": "Norge",
-      "published": "04.09. 12:46",
-      "publishedISO": "2026-09-04T12:46:44+02:00",
-      "title": "Slik blir sikkerheten under kong Haralds gravferd",
-      "summary": "Det er ventet at sikkerheten rundt gravferden til Harald V kan bli den største politiaksjonen i norsk historie. – Dette er en av de største politioperasjonene i Norge noensinne. – Og ikke minst, det er et ærefullt oppdrag for oss i politiet, legger han til. – Jeg er spent. Fredag orienterer han og flere polititopper om sikkerheten når kong Harald V gravlegges onsdag 9. september. Den gule stiplede linjen viser ruten som prosesjonen med kong Haralds båre skal følge, først fra Slottet til Oslo domkirke, deretter fra domkirken til Akershus slottskirke.",
-      "keyPoints": [
-        "Fredag orienterer han og flere polititopper om sikkerheten når kong Harald V gravlegges onsdag 9. september.",
-        "Den gule stiplede linjen viser ruten som prosesjonen med kong Haralds båre skal følge, først fra Slottet til Oslo domkirke, deretter fra domkirken til Akershus slottskirke.",
-        "Det er ventet at sikkerheten rundt gravferden til Harald V kan bli den største politiaksjonen i norsk historie. – Dette er en av de største politioperasjonene i Norge noensinne. – Og ikke minst, det er et ærefullt oppdrag for oss i politiet, legger han til. – Jeg er spent.",
-        "Vi er godt forberedt, men man vet aldri helt hva som skjer til slutt. – Gjennom mer enn tre tiår på trona, var kong Harald en konge som politifolk over hele landet møtte i tjeneste, sier politidirektør Håkon Skulstad."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/slik-blir-sikkerheten-under-kong-haralds-gravferd-1.18013939",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/b8HKxic41qAv8bEhxnSKhQqnr6E0LkyLKWi9jC5Is_Qw.jpg",
-      "localImage": "assets/news/1d8da9dc4b29bb.jpg",
       "score": 15
     }
   ]
