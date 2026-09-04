@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 16:11",
-  "updatedISO": "2026-09-04T16:11:32.571409+02:00",
+  "updatedAt": "04.09.2026 kl. 16:27",
+  "updatedISO": "2026-09-04T16:27:29.401850+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 16
     },
     {
-      "id": "f8a2be52a09335",
-      "category": "Økonomi",
-      "published": "04.09. 16:03",
-      "publishedISO": "2026-09-04T16:03:46+02:00",
-      "title": "Trump ber USAs sentralbank kutte renten – truer med handelskutt for flere land",
-      "summary": "Deretter skriver han at sentralbanken må senke renten, hvis ikke vil han slutte å handle med land USA har et handelsunderskudd med. USAs høyesterett har funnet flere av Trumps tollsatser ugyldige, siden de regnes som skatt – noe som er kongressen og ikke presidentens anliggende. Trump skriver i posten at dette er «latterlig», men at han kan kreve å stanse handel med land som har handelsunderskudd med USA. «Dette er bedre enn toll», skriver presidenten i versaler.",
-      "keyPoints": [
-        "Trump skriver i posten at dette er «latterlig», men at han kan kreve å stanse handel med land som har handelsunderskudd med USA. «Dette er bedre enn toll», skriver presidenten i versaler.",
-        "Deretter skriver han at sentralbanken må senke renten, hvis ikke vil han slutte å handle med land USA har et handelsunderskudd med.",
-        "USAs høyesterett har funnet flere av Trumps tollsatser ugyldige, siden de regnes som skatt – noe som er kongressen og ikke presidentens anliggende.",
-        "I en post på Trumps eget sosiale medium Truth Social, skriver presidenten at han mener renten burde settes ned. «Senk rentene, fordi USA er en mye sterkere kredittverdig nasjon enn landet var for bare kort tid siden!», skriver presidenten."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/Gx823B/trump-ber-usas-sentralbank-kutte-renten-truer-med-handelskutt-for-flere-land",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/29b9ae53-a3de-3aef-897b-653efa822bab?fit=crop&h=675&upscale=true&w=1200&s=e2447a8d4ba4011c3abc6c4bd89e392ef365c2f2",
-      "localImage": "assets/news/f8a2be52a09335.jpg",
-      "score": 21
-    },
-    {
       "id": "27ff90ea4ccf9c",
       "category": "Økonomi",
       "published": "04.09. 09:01",
@@ -107,6 +86,27 @@
       "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
       "localImage": "assets/news/27ff90ea4ccf9c.jpg",
       "score": 19
+    },
+    {
+      "id": "271919c80bc73f",
+      "category": "Økonomi",
+      "published": "04.09. 09:46",
+      "publishedISO": "2026-09-04T09:46:48+02:00",
+      "title": "Kutter 50.000 jobber – aksjemarkedet jubler",
+      "summary": "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel. Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro. De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
+      "keyPoints": [
+        "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel.",
+        "De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
+        "Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro.",
+        "Bilprodusenten varslet torsdag at selskapet vil kutte 50.000 stillinger."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/bOdXBq/kutter-50-000-jobber-aksjemarkedet-jubler",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
+      "localImage": "assets/news/271919c80bc73f.jpg",
+      "score": 18
     },
     {
       "id": "8690d18270cc0a",
@@ -151,27 +151,6 @@
       "score": 15
     },
     {
-      "id": "271919c80bc73f",
-      "category": "Økonomi",
-      "published": "04.09. 09:46",
-      "publishedISO": "2026-09-04T09:46:48+02:00",
-      "title": "Kutter 50.000 jobber – aksjemarkedet jubler",
-      "summary": "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel. Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro. De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
-      "keyPoints": [
-        "Meldingen blir godt tatt imot av investorene på Frankfurt-børsen, som fredag formiddag sendte aksjen opp nær 10 prosent i tidlig handel.",
-        "De 50.000 nye stillingene som skal kuttes tilsvarer rundt åtte prosent av selskapets gobale arbeidsstyrke gjennom fjoråret, ifølge Bloomberg.",
-        "Klokken 9.45 har oppgangen dempet seg noe, og aksjen stiger 5 prosent til en kurs på 80,3 euro.",
-        "Bilprodusenten varslet torsdag at selskapet vil kutte 50.000 stillinger."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/bOdXBq/kutter-50-000-jobber-aksjemarkedet-jubler",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
-      "localImage": "assets/news/271919c80bc73f.jpg",
-      "score": 18
-    },
-    {
       "id": "79b8b4d088122c",
       "category": "Økonomi",
       "published": "04.09. 14:30",
@@ -212,6 +191,27 @@
       "image": "https://gfx.nrk.no/QdL5CH98LRuYdnk0Y29DyQvtjloP8ynNTqjfy5QyvxDw.jpg",
       "localImage": "assets/news/f923a5cca46fec.jpg",
       "score": 17
+    },
+    {
+      "id": "4f4135fa46e7d4",
+      "category": "Økonomi",
+      "published": "04.09. 06:44",
+      "publishedISO": "2026-09-04T06:44:50+02:00",
+      "title": "Kongens gravferd: – Trump kan sende Melania",
+      "summary": "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig. Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater. Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+      "keyPoints": [
+        "Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+        "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig.",
+        "Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater.",
+        "Sist gang det var kongelig gravferd i Norge var i 1991: Men omfanget avhenger av hvem som kommer, mener hun. – Jeg tror ikke han kommer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
+      "localImage": "assets/news/4f4135fa46e7d4.jpg",
+      "score": 16
     }
   ]
 }
