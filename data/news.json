@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.09.2026 kl. 06:44",
-  "updatedISO": "2026-09-04T06:44:18.483623+02:00",
+  "updatedAt": "04.09.2026 kl. 06:54",
+  "updatedISO": "2026-09-04T06:54:57.826311+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/o0UN1e_2pyyZZiGXuXDW2wZRuSSPs2kaxRe2DTJJ7auw.jpg",
       "localImage": "assets/news/6eee775b483d69.jpg",
-      "score": 33
+      "score": 32
     },
     {
       "id": "b90454b7d2f7f3",
@@ -172,6 +172,27 @@
       "score": 17
     },
     {
+      "id": "4f4135fa46e7d4",
+      "category": "Økonomi",
+      "published": "04.09. 06:44",
+      "publishedISO": "2026-09-04T06:44:50+02:00",
+      "title": "Kongens gravferd: – Trump kan sende Melania",
+      "summary": "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig. Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater. Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+      "keyPoints": [
+        "Alternativt kan Trump sende en tidligere president eller førstedame Melania, sier Riddervold. – Dersom han sender Melania, hva signaliserer det? – Trump deltar jo ofte i kongelige sammenhenger med henne.",
+        "Kanskje kommer president Trump – eller Melania – selv om det er mindre sannsynlig.",
+        "Riddervold sier Trump er opptatt av relasjonen til Norge og vil mest sannsynlig sende en høytstående minister. – Visepresident JD Vance eller utenriksminister Marco Rubio er sannsynlige kandidater.",
+        "Kong Haralds gravferd blir trolig det største diplomatiske oppbudet i moderne norsk historie."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/xrymEQ/kongens-gravferd-trump-kan-sende-melania",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6abb891e-cfb3-392b-b75c-7aa87e84e5cd?fit=crop&h=675&upscale=true&w=1200&s=8319239fa1edb4a5d1d0308c20370ab45c0bcbab",
+      "localImage": "assets/news/4f4135fa46e7d4.jpg",
+      "score": 17
+    },
+    {
       "id": "0c24ac4e2603dc",
       "category": "Økonomi",
       "published": "03.09. 19:51",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/51ce215c-dfc6-3d7a-ae23-fac816d007bb?fit=crop&h=675&upscale=true&w=1200&s=f2988cecea0007cf2a6dde9d8b2607b04b31c64a",
       "localImage": "assets/news/0c24ac4e2603dc.jpg",
-      "score": 15
-    },
-    {
-      "id": "a6d6051e8add98",
-      "category": "Norge",
-      "published": "03.09. 19:03",
-      "publishedISO": "2026-09-03T19:03:15+02:00",
-      "title": "Lokalpolitikere avlyste debatt om kraft: – Den offentlige samtalen blir fattigere",
-      "summary": "Generalsekretær i Norsk Redaktørforening Reidun Kjelling Nybø mener den offentlige samtalen blir fattigere når politikere og folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål folk er opptatt av. Prisene lå like under 30 kroner i Alta på tirsdag. – Fremstår mer og mer som en overreaksjon, sier generalsekretær i Norsk Redaktørforening Reidun Kjelling Nybø. – Våre medlemmer rapporterer om svært mange lokalpolitikere som også tolker denne borgfreden helt bokstavelig og avstår helt fra å mene noe som helst disse dagene. Det gjør den offentlige samtalen fattigere. – Vi bør egentlig alle sammen være kritiske til at representanter for politiske myndigheter, som blir enige om å la være å holde i gang en åpen og opplyst offentlig samtale.",
-      "keyPoints": [
-        "Generalsekretær i Norsk Redaktørforening Reidun Kjelling Nybø mener den offentlige samtalen blir fattigere når politikere og folkevalgte nekter å uttale seg om løpende politiske prosesser og spørsmål folk er opptatt av.",
-        "Det gjør den offentlige samtalen fattigere. – Vi bør egentlig alle sammen være kritiske til at representanter for politiske myndigheter, som blir enige om å la være å holde i gang en åpen og opplyst offentlig samtale.",
-        "Prisene lå like under 30 kroner i Alta på tirsdag. – Fremstår mer og mer som en overreaksjon, sier generalsekretær i Norsk Redaktørforening Reidun Kjelling Nybø. – Våre medlemmer rapporterer om svært mange lokalpolitikere som også tolker denne borgfreden helt bokstavelig og avstår helt fra å mene noe som helst disse dagene.",
-        "I likhet med stortingspolitikerne avstår lokalpolitikerne fra debatt for å overholde borgfreden."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/lokalpolitikere-avlyste-debatt-om-kraft_-_-den-offentlige-samtalen-blir-fattigere-1.18012723",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/V9jayIhygeusOwIssPQO9Qtj2h_gGI2HcYl9JiSNayKA.jpg",
-      "localImage": "assets/news/a6d6051e8add98.jpg",
       "score": 15
     }
   ]
