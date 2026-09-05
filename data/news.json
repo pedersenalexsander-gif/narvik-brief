@@ -1,27 +1,27 @@
 {
-  "updatedAt": "05.09.2026 kl. 21:09",
-  "updatedISO": "2026-09-05T21:09:57.910034+02:00",
+  "updatedAt": "05.09.2026 kl. 21:23",
+  "updatedISO": "2026-09-05T21:23:42.562981+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "bdbb02cc071dfc",
+      "id": "5730edbb460a86",
       "category": "Norge",
       "published": "05.09. 21:03",
       "publishedISO": "2026-09-05T21:03:36+02:00",
-      "title": "Kjærestens stikk til Løke: – Ikke opplevd slag fra en proffbokser før",
+      "title": "Havnaa møter Løke: – Ikke opplevd slag fra en proffbokser før",
       "summary": "Det har vært ventet opp mot 4000 tilskuere når Frank Løke møter Kai Robin Havnaa til showkamp ved Pollen i Arendal lørdag kveld. Jeg tror nok ikke han har opplevd slag fra en proffbokser før, sier hun til NRK. Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
       "keyPoints": [
-        "Jeg tror nok ikke han har opplevd slag fra en proffbokser før, sier hun til NRK.",
         "Det har vært ventet opp mot 4000 tilskuere når Frank Løke møter Kai Robin Havnaa til showkamp ved Pollen i Arendal lørdag kveld.",
         "Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
+        "Jeg tror nok ikke han har opplevd slag fra en proffbokser før, sier hun til NRK.",
         "Hun står i kø på vei inn til Pollen i Arendal der den tidligere proffbokseren og forloveden Kai Robin Havnaa senere lørdag kveld skal møte Frank Løke i bokseringen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/kjaerestens-stikk-til-loke_-_-ikke-opplevd-slag-fra-en-proffbokser-for-1.18015446",
+      "url": "https://www.nrk.no/sorlandet/havnaa-moter-loke_-_-ikke-opplevd-slag-fra-en-proffbokser-for-1.18015446",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/htyrh7Hf8o6SxZcCg5jy0wy5E2pCALn2fDFy2Ab5mXxg.jpg",
-      "localImage": "assets/news/bdbb02cc071dfc.webp",
+      "localImage": "assets/news/5730edbb460a86.webp",
       "score": 17
     },
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
       "localImage": "assets/news/f9a4d43fcec9c5.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "8baa46aad4770e",
