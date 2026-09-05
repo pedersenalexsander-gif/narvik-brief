@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05.09.2026 kl. 05:27",
-  "updatedISO": "2026-09-05T05:27:35.914697+02:00",
+  "updatedAt": "05.09.2026 kl. 05:40",
+  "updatedISO": "2026-09-05T05:40:58.390883+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -56,7 +56,7 @@
         "Eksplosjonen skjedde i en brakke i Viacha, ca. 30 km fra La Paz. Minst to personer er drept etter en eksplosjon i en militærbrakke i Bolivia, men myndighetene frykter at bompengene kan bli høyere.",
         "Bolivias forsvarsminister Ernesto Justiniano sa at minst 58 mennesker ble skadet da \"pyroteknisk materiale\" detonerte ved brakkene, der et artilleriregiment er stasjonert, rundt klokken 14:30 (18:30 GMT) fredag.",
         "Nebraska sa at det var fare for ytterligere eksplosjon og oppfordret folk til å holde seg minst 150 meter unna militærbasen.",
-        "Polititalsmann Roger Roca sa til nyhetsbyrået AFP at det var lagret fyrverkeri i brakken, og årsaken til eksplosjonen er fortsatt under etterforskning."
+        "Polititalsmann Roger Roca sa til nyhetsbyrået AFP at det var lagret fyrverkeri i brakkene, og årsaken til eksplosjonen er fortsatt under etterforskning."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -169,7 +169,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/8690d18270cc0a.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "271919c80bc73f",
@@ -211,7 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/aababa53-eeb3-3a46-8bbb-d7f01cb11f6a?fit=crop&h=675&upscale=true&w=1200&s=2eaf5a338fbc282051d06dfe239ffbec38043ddc",
       "localImage": "assets/news/79b8b4d088122c.jpg",
-      "score": 15
+      "score": 14
     }
   ]
 }
