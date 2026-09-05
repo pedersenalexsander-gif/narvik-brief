@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05.09.2026 kl. 10:27",
-  "updatedISO": "2026-09-05T10:27:13.464814+02:00",
+  "updatedAt": "05.09.2026 kl. 10:41",
+  "updatedISO": "2026-09-05T10:41:39.292186+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "Why did USS Lincoln turn up in Thailand looking so rusty?",
         "Da USS Abraham Lincoln la til kai i Thailand denne uken var noen mennesker raske til å kritisere tilstanden den var i.",
         "Video, 00:01:37 Følger USS Lincolns åtte måneder lange oppdrag mens bekymringene for forholdene vokser. Hvordan Lindsay Clancy-rettssaken grep Amerika - og til slutt falt fra hverandre.",
-        "Video, 00:02:13Hvordan Lindsay Clancy-rettssaken grep Amerika - og til slutt falt fra hverandre BBC besøker området i hjertet av politiets etterforskning etter A66-krasj Video, 00:02:34 BBC besøker området i hjertet av politiets etterforskning etter A66-krasj 'Et sjeldent øyeblikk av glede': Nepal-tunnelredninger gir håp om flere flomoverlevende."
+        "Video, 00:02:13Hvordan Lindsay Clancy-rettssaken grep Amerika - og til slutt falt fra hverandre BBC besøker området i hjertet av politiets etterforskning etter A66-ulykken Video, 00:02:34 BBC besøker området i hjertet av politiets etterforskning etter A66-krasj 'Et sjeldent øyeblikk av glede': Nepal-tunnelredninger gir håp om flere flomoverlevende."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -148,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/8690d18270cc0a.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "8dba50cc04dab5",
@@ -193,25 +193,25 @@
       "score": 15
     },
     {
-      "id": "79b8b4d088122c",
-      "category": "Økonomi",
-      "published": "04.09. 14:30",
-      "publishedISO": "2026-09-04T14:30:27+02:00",
-      "title": "162.000 nye jobber i USA i august",
-      "summary": "Det ble skapt 162.000 jobber utenfor landbruket i USA i august, ifølge den viktige arbeidsmarkedsrapporten Nonfarm Payrolls. På forhånd hadde analytikerne anslått 55.000 nye jobber forrige måned, ifølge konsensus av estimater Bloomberg har samlet. Rente- og valutastrateg i Sparebank 1 Markets – Fed trenger ikke å være bekymret for arbeidsmarkedet i USA, som er stabilt.",
+      "id": "eafc0a547c7590",
+      "category": "Norge",
+      "published": "05.09. 10:34",
+      "publishedISO": "2026-09-05T10:34:26+02:00",
+      "title": "Kutter turistkvoten: Frykter turistene vil kaste fisken på havet",
+      "summary": "Nå merker fiskecampene svikt i bestillingene, og frykter at turister vil begynne å kaste matfisk på havet. Flere av kundene ved Saltstraumen Brygge vil se etter andre steder å fiske når kvoten blir 10 kilo, frykter daglig leder Bjørn Tore Zahl. Zahl advarer mot at de lave kvotene vil føre til uønsket praksis ute på fjorden. – Når kvoten blir så liten, frykter jeg at turistene bare beholder de fineste ryggfiletene og kaster resten av fisken over bord. – Man burde heller hatt en ordning der de kan betale for fisken de tar med ut over ti kilo, sier Zahl.",
       "keyPoints": [
-        "Det ble skapt 162.000 jobber utenfor landbruket i USA i august, ifølge den viktige arbeidsmarkedsrapporten Nonfarm Payrolls.",
-        "På forhånd hadde analytikerne anslått 55.000 nye jobber forrige måned, ifølge konsensus av estimater Bloomberg har samlet.",
-        "Rente- og valutastrateg i Sparebank 1 Markets – Fed trenger ikke å være bekymret for arbeidsmarkedet i USA, som er stabilt.",
-        "Måneden før, i juli, viste jobbtallene først et overraskende fall 23.000 jobber."
+        "Zahl advarer mot at de lave kvotene vil føre til uønsket praksis ute på fjorden. – Når kvoten blir så liten, frykter jeg at turistene bare beholder de fineste ryggfiletene og kaster resten av fisken over bord. – Man burde heller hatt en ordning der de kan betale for fisken de tar med ut over ti kilo, sier Zahl.",
+        "Nå merker fiskecampene svikt i bestillingene, og frykter at turister vil begynne å kaste matfisk på havet.",
+        "Flere av kundene ved Saltstraumen Brygge vil se etter andre steder å fiske når kvoten blir 10 kilo, frykter daglig leder Bjørn Tore Zahl.",
+        "Havfisketurisme skaper over 2800 arbeidsplasser i Norge, nær 2 milliarder kroner i verdiskaping og trekker titusener av utenlandske turister til Norge. – For mange bedrifter er muligheten til å ta med fisk hjem selve grunnen til at turistene velger Norge."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/rr3d2e/162-000-nye-jobber-i-usa-i-august-langt-hoeyere-enn-ventet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/aababa53-eeb3-3a46-8bbb-d7f01cb11f6a?fit=crop&h=675&upscale=true&w=1200&s=2eaf5a338fbc282051d06dfe239ffbec38043ddc",
-      "localImage": "assets/news/79b8b4d088122c.jpg",
-      "score": 14
+      "url": "https://www.nrk.no/nordland/kutter-turistkvoten_-frykter-turistene-vil-kaste-fisken-pa-havet-1.18008798",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/QxLEUCCvqaKy8Vz9CpX2BQUzg7KV4JAs7z-KwnE2rfHw.jpg",
+      "localImage": "assets/news/eafc0a547c7590.jpg",
+      "score": 13
     }
   ]
 }
