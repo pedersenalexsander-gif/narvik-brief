@@ -1,14 +1,14 @@
 {
-  "updatedAt": "05.09.2026 kl. 20:29",
-  "updatedISO": "2026-09-05T20:29:18.836868+02:00",
+  "updatedAt": "05.09.2026 kl. 20:44",
+  "updatedISO": "2026-09-05T20:44:14.418451+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "1de8a652b6f23b",
+      "id": "47c13d9cd61e33",
       "category": "Norge",
       "published": "05.09. 19:43",
       "publishedISO": "2026-09-05T19:43:36+02:00",
-      "title": "Møtet mellom Putin og USA er startet",
+      "title": "Møtet mellom Putin og USA har startet",
       "summary": "Møtet mellom Putin og USAs spesialutsending Kushner og Witkoff er nå i gang. Like før 19.00 startet møtet mellom den amerikanske spesialutsendinga Steve Witkoff og Donald Trumps svigersønn Jared Kushner og Russlands president Vladimir Putin. På møtet sa Putin til utsendingene at kontakt mellom Russland og USA alltid er nyttig, og at Russland finner det hensiktsmessig å jobbe med dem.",
       "keyPoints": [
         "Like før 19.00 startet møtet mellom den amerikanske spesialutsendinga Steve Witkoff og Donald Trumps svigersønn Jared Kushner og Russlands president Vladimir Putin.",
@@ -18,11 +18,11 @@
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/motet-mellom-putin-og-usa-er-startet-1.18015547",
+      "url": "https://www.nrk.no/urix/motet-mellom-putin-og-usa-har-startet-1.18015547",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Nb8eU6KMVNrkUlX6Yua4kw70vLV_xX3Hf0ig7JuKFOUQ.jpg",
-      "localImage": "assets/news/1de8a652b6f23b.jpg",
-      "score": 13
+      "localImage": "assets/news/47c13d9cd61e33.jpg",
+      "score": 17
     },
     {
       "id": "f9a4d43fcec9c5",
@@ -130,27 +130,6 @@
       "score": 17
     },
     {
-      "id": "8690d18270cc0a",
-      "category": "AI",
-      "published": "03.09. 18:32",
-      "publishedISO": "2026-09-03T18:32:05+02:00",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "summary": "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare. Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy. I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
-      "keyPoints": [
-        "Nvidia har gått med på å kjøpe kunstig intelligens-plattformen Hugging Face i en avtale verdt rundt 12,9 milliarder dollar (9,5 milliarder pund), et av AI-brikkeprodusentens største oppkjøp ettersom den utvides til programvare.",
-        "I henhold til avtalen vil Nvidia betale rundt 11,9 milliarder dollar til Hugging Face-investorer og tilby opptil 1 milliard dollar i aksjebaserte insentiver til ansatte som slutter seg til selskapet.",
-        "Hugging Face, grunnlagt i 2016, har blitt en populær nettplattform hvor utviklere og forskere kan finne, dele og teste AI-modeller og verktøy.",
-        "Avtalen vil være en \"stor seier for innovatører og forbrukere over hele verden\" hvis Nvidia holder Hugging Face åpen og tilgjengelig, la han til."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/8690d18270cc0a.jpg",
-      "score": 12
-    },
-    {
       "id": "8739cd2e10b410",
       "category": "Økonomi",
       "published": "05.09. 10:03",
@@ -191,6 +170,27 @@
       "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
       "localImage": "assets/news/3c66ec91d46d72.jpg",
       "score": 16
+    },
+    {
+      "id": "6b72eff68eb1bc",
+      "category": "Norge",
+      "published": "05.09. 07:45",
+      "publishedISO": "2026-09-05T07:45:54+02:00",
+      "title": "Mann døde etter ulykke i Gjøvik",
+      "summary": "– Han er sterkt preget, og tar det tungt, sier forsvarer Barbro Røkenes etter at en mann i 30-årene meldte seg etter en dødsulykke i dag. En mann i 20-årene omkom i en ulykke på riksveg 4 i Gjøvik natt til lørdag. Politiet fikk melding om at en hardt skadd person lå langs riksveg 4 mellom Gjøvik og Mjøsbrua klokka 03.30 natt til lørdag.",
+      "keyPoints": [
+        "En mann i 20-årene omkom i en ulykke på riksveg 4 i Gjøvik natt til lørdag.",
+        "– Han er sterkt preget, og tar det tungt, sier forsvarer Barbro Røkenes etter at en mann i 30-årene meldte seg etter en dødsulykke i dag.",
+        "Politiet fikk melding om at en hardt skadd person lå langs riksveg 4 mellom Gjøvik og Mjøsbrua klokka 03.30 natt til lørdag.",
+        "De er også interessert i alle som måtte ha dashbordkamera, og har video som har kjørt på riksveg 4, mellom Gjøvik og Mjøsbrua mellom klokka 02 og 07 natt til lørdag, om å melde seg."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/mann-dode-etter-ulykke-i-gjovik-1.18015102",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ttwRKDlP9cO13bviYxK1DQWlp4Gzu8C6ly_R_0bTZogg.jpg",
+      "localImage": "assets/news/6b72eff68eb1bc.jpg",
+      "score": 15
     },
     {
       "id": "8dba50cc04dab5",
