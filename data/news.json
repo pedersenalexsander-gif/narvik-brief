@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05.09.2026 kl. 12:51",
-  "updatedISO": "2026-09-05T12:51:32.287708+02:00",
+  "updatedAt": "05.09.2026 kl. 13:10",
+  "updatedISO": "2026-09-05T13:10:26.157703+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,24 +25,24 @@
       "score": 14
     },
     {
-      "id": "f9a4d43fcec9c5",
+      "id": "f84933b58f7cd9",
       "category": "Verden",
-      "published": "05.09. 11:12",
-      "publishedISO": "2026-09-05T11:12:48+02:00",
-      "title": "Trump signs order to remove endangered species status for grey wolves",
-      "summary": "Det var 319 meksikanske ulver i naturen i USA i 2025, opp fra bare fire i 1998. Donald Trump har signert en ordre om å fjerne truede arter som beskytter den grå ulven og en underart, den meksikanske ulven. I mellomtiden er det omtrent 18 000 grå ulver over hele USA, selv om de fortsatt anses som truet ettersom det meste av habitatet deres har blitt ødelagt av mennesker. Eksekutivordren gir ikke ranchere umiddelbar lisens til å skyte ulv som forgriper seg på husdyr, men gir i stedet innenriksminister Doug Burgum 90 dager til å avgjøre om de grå og meksikanske ulvebestandene hadde kommet seg nok til å rettferdiggjøre å bli tatt av listen over truede arter.",
+      "published": "05.09. 13:07",
+      "publishedISO": "2026-09-05T13:07:08+02:00",
+      "title": "Trump envoys arrive in Moscow ahead of Ukraine talks",
+      "summary": "Steve Witkoff (til venstre) og Jared Kushner (til høyre) skal reise til Kiev etter samtaler i Moskva To av USAs president Donald Trumps topputsendinger har ankommet Moskva i forkant av en helg med samtaler som tar sikte på å fremskynde innsatsen for å få slutt på krigen i Ukraina. Steve Witkoff (til venstre) ved siden av Jared Kushner (i midten) mens de blir møtt av Russlands Kirill Dmitriev. De to utsendingene har reist til Moskva ved flere anledninger siden Trump kom tilbake til kontoret, men søndag ville være deres første besøk i Kiev. Trumps fredsutsendinger skal besøke Moskva og Kiev i helgen Russland treffer det ukrainske sikkerhetshovedkvarteret i droneangrep, sier Zelensky",
       "keyPoints": [
-        "Det var 319 meksikanske ulver i naturen i USA i 2025, opp fra bare fire i 1998. Donald Trump har signert en ordre om å fjerne truede arter som beskytter den grå ulven og en underart, den meksikanske ulven.",
-        "Eksekutivordren gir ikke ranchere umiddelbar lisens til å skyte ulv som forgriper seg på husdyr, men gir i stedet innenriksminister Doug Burgum 90 dager til å avgjøre om de grå og meksikanske ulvebestandene hadde kommet seg nok til å rettferdiggjøre å bli tatt av listen over truede arter.",
-        "I mellomtiden er det omtrent 18 000 grå ulver over hele USA, selv om de fortsatt anses som truet ettersom det meste av habitatet deres har blitt ødelagt av mennesker.",
-        "Et forsøk på å avliste dem på føderalt nivå i 2022 ble bundet opp i rettssaker, og noen forkjempere har indikert at de har til hensikt å gjøre det samme som det amerikanske innenriksdepartementets handlinger på Trumps ordre."
+        "Steve Witkoff (til venstre) og Jared Kushner (til høyre) skal reise til Kiev etter samtaler i Moskva To av USAs president Donald Trumps topputsendinger har ankommet Moskva i forkant av en helg med samtaler som tar sikte på å fremskynde innsatsen for å få slutt på krigen i Ukraina.",
+        "Steve Witkoff (til venstre) ved siden av Jared Kushner (i midten) mens de blir møtt av Russlands Kirill Dmitriev. De to utsendingene har reist til Moskva ved flere anledninger siden Trump kom tilbake til kontoret, men søndag ville være deres første besøk i Kiev.",
+        "Trump's peace envoys to visit Moscow and Kyiv over weekend Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+        "Steve Witkoff og Jared Kushner skulle til den russiske hovedstaden på lørdag, hvor de vil holde samtaler før de reiser til Kiev på søndag for diskusjoner med Ukraina."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
-      "localImage": "assets/news/f9a4d43fcec9c5.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a17/live/0cde6b70-a910-11f1-9eff-150801023722.jpg",
+      "localImage": "assets/news/f84933b58f7cd9.jpg",
       "score": 17
     },
     {
@@ -127,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
       "localImage": "assets/news/7194e14a6fdfe2.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "8690d18270cc0a",
@@ -149,6 +149,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d9a5/live/f7099cf0-a7a9-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/8690d18270cc0a.jpg",
       "score": 13
+    },
+    {
+      "id": "f9a4d43fcec9c5",
+      "category": "Verden",
+      "published": "05.09. 11:12",
+      "publishedISO": "2026-09-05T11:12:48+02:00",
+      "title": "Trump signs order to remove endangered species status for grey wolves",
+      "summary": "Det var 319 meksikanske ulver i naturen i USA i 2025, opp fra bare fire i 1998. Donald Trump har signert en ordre om å fjerne truede arter som beskytter den grå ulven og en underart, den meksikanske ulven. I mellomtiden er det omtrent 18 000 grå ulver over hele USA, selv om de fortsatt anses som truet ettersom det meste av habitatet deres har blitt ødelagt av mennesker. Eksekutivordren gir ikke ranchere umiddelbar lisens til å skyte ulv som forgriper seg på husdyr, men gir i stedet innenriksminister Doug Burgum 90 dager til å avgjøre om de grå og meksikanske ulvebestandene hadde kommet seg nok til å rettferdiggjøre å bli tatt av listen over truede arter.",
+      "keyPoints": [
+        "Det var 319 meksikanske ulver i naturen i USA i 2025, opp fra bare fire i 1998. Donald Trump har signert en ordre om å fjerne truede arter som beskytter den grå ulven og en underart, den meksikanske ulven.",
+        "Eksekutivordren gir ikke ranchere umiddelbar lisens til å skyte ulv som forgriper seg på husdyr, men gir i stedet innenriksminister Doug Burgum 90 dager til å avgjøre om de grå og meksikanske ulvebestandene hadde kommet seg nok til å rettferdiggjøre å bli tatt av listen over truede arter.",
+        "I mellomtiden er det omtrent 18 000 grå ulver over hele USA, selv om de fortsatt anses som truet ettersom det meste av habitatet deres har blitt ødelagt av mennesker.",
+        "Et forsøk på å avliste dem på føderalt nivå i 2022 ble bundet opp i rettssaker, og noen forkjempere har indikert at de har til hensikt å gjøre det samme som det amerikanske innenriksdepartementets handlinger på Trumps ordre."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg",
+      "localImage": "assets/news/f9a4d43fcec9c5.jpg",
+      "score": 17
     },
     {
       "id": "8dba50cc04dab5",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/55e90071-ee88-37c3-928d-7483dce53e01?fit=crop&h=675&upscale=true&w=1200&s=98eab0689a485658850abd27185911bf127b47fd",
       "localImage": "assets/news/271919c80bc73f.jpg",
       "score": 14
-    },
-    {
-      "id": "07771d0076328a",
-      "category": "Norge",
-      "published": "05.09. 11:35",
-      "publishedISO": "2026-09-05T11:35:25+02:00",
-      "title": "Over en kilometer kø utenfor slottet",
-      "summary": "Vaktene utenfor slottet sier at det kan bli opp mot syv timers ventetid. Det blir omtrent syv timers ventetid, anslår vaktene på Slottet til nyhetsbyrået. Ventetiden for å komme inn i Slottskapellet og gå sakte forbi kong Haralds båre er over en kilometer lørdag formiddag. – Verter vil informere i køen dersom vi ser at det er noen som mest sannsynlig ikke vil rekke å komme inn i Slottskapellet denne dagen, skrev Slottet i en pressemelding fredag.",
-      "keyPoints": [
-        "Ventetiden for å komme inn i Slottskapellet og gå sakte forbi kong Haralds båre er over en kilometer lørdag formiddag. – Verter vil informere i køen dersom vi ser at det er noen som mest sannsynlig ikke vil rekke å komme inn i Slottskapellet denne dagen, skrev Slottet i en pressemelding fredag.",
-        "Vaktene utenfor slottet sier at det kan bli opp mot syv timers ventetid.",
-        "Det blir omtrent syv timers ventetid, anslår vaktene på Slottet til nyhetsbyrået.",
-        "I 11-tiden strekker køen seg helt ned Slottsbakken rundt Fredriks gate og opp til slottsgartneriet i Kristian IVs gate."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/over-en-kilometer-ko-utenfor-slottet-1.18015268",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/IGenJDhmWMgiYqNjzASGCwreCDco3cyWNHDoMILZxe5A.jpg",
-      "localImage": "assets/news/07771d0076328a.jpg",
-      "score": 13
     }
   ]
 }
