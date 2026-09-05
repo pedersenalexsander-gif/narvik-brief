@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05.09.2026 kl. 17:39",
-  "updatedISO": "2026-09-05T17:39:08.687999+02:00",
+  "updatedAt": "05.09.2026 kl. 17:51",
+  "updatedISO": "2026-09-05T17:51:42.454016+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -30,9 +30,9 @@
       "published": "05.09. 17:05",
       "publishedISO": "2026-09-05T17:05:14+02:00",
       "title": "Trump envoys arrive in Moscow ahead of Ukraine talks",
-      "summary": "Steve Witkoff (til venstre) og Jared Kushner (til høyre) skal reise til Kiev etter samtaler i Moskva To av USAs president Donald Trumps topputsendinger har ankommet Moskva i forkant av en helg med samtaler som tar sikte på å fremskynde innsatsen for å få slutt på krigen i Ukraina. Steve Witkoff (til venstre) ved siden av Jared Kushner (i midten) mens de blir møtt av Russlands Kirill Dmitriev Delegasjoner fra Ukraina har deltatt på samtaler i USA de siste 18 månedene. Trumps fredsutsendinger skal besøke Moskva og Kiev i helgen Russland treffer det ukrainske sikkerhetshovedkvarteret i droneangrep, sier Zelensky",
+      "summary": "Jared Kushner (til venstre) og Steve Witkoff (til høyre) avbildet med Russlands Kirill Dmitriev (i midten) ved ankomst til Moskva To av USAs president Donald Trumps øverste utsendinger har ankommet Moskva i forkant av en helg med samtaler med sikte på å fremskynde innsatsen for å få slutt på krigen i Ukraina. Steve Witkoff (til venstre) ved siden av Jared Kushner (i midten) mens de blir møtt av Russlands Kirill Dmitriev Delegasjoner fra Ukraina har deltatt på samtaler i USA de siste 18 månedene. Trumps fredsutsendinger skal besøke Moskva og Kiev i helgen Russland treffer det ukrainske sikkerhetshovedkvarteret i droneangrep, sier Zelensky",
       "keyPoints": [
-        "Steve Witkoff (til venstre) og Jared Kushner (til høyre) skal reise til Kiev etter samtaler i Moskva To av USAs president Donald Trumps topputsendinger har ankommet Moskva i forkant av en helg med samtaler som tar sikte på å fremskynde innsatsen for å få slutt på krigen i Ukraina.",
+        "Jared Kushner (til venstre) og Steve Witkoff (til høyre) avbildet med Russlands Kirill Dmitriev (i midten) ved ankomst til Moskva To av USAs president Donald Trumps øverste utsendinger har ankommet Moskva i forkant av en helg med samtaler med sikte på å fremskynde innsatsen for å få slutt på krigen i Ukraina.",
         "Steve Witkoff (til venstre) ved siden av Jared Kushner (i midten) mens de blir møtt av Russlands Kirill Dmitriev Delegasjoner fra Ukraina har deltatt på samtaler i USA de siste 18 månedene.",
         "Trump's peace envoys to visit Moscow and Kyiv over weekend Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
         "Steve Witkoff og Jared Kushner vil holde samtaler i den russiske hovedstaden før de reiser til Kiev på søndag for diskusjoner med Ukraina."
@@ -41,7 +41,7 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a17/live/0cde6b70-a910-11f1-9eff-150801023722.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/154b/live/41028000-a940-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/f84933b58f7cd9.jpg",
       "score": 17
     },
@@ -67,6 +67,27 @@
       "score": 16
     },
     {
+      "id": "db01696b7abd08",
+      "category": "Økonomi",
+      "published": "05.09. 17:48",
+      "publishedISO": "2026-09-05T17:48:57+02:00",
+      "title": "Bitter skilsmisse kan koste eierskap i hedgefondet",
+      "summary": "Hedgefond-grunnleggeren forklarte at han mener hans eierskap i selskapet han startet 2001 nå er i spill, og at han kan miste kontrollen i selskapet. Laura Overdeck krever langt mer, og har bedt om 35 prosent av Two Sigma, noe hun har verdsatt til 6,2 milliarder dollar, eller over 60 milliarder kroner, ifølge Bloomberg. Hedgefondet forvalter om lag 70 milliarder dollar, tilsvarende over 700 milliarder kroner, ifølge Bloomberg.",
+      "keyPoints": [
+        "Hedgefond-grunnleggeren forklarte at han mener hans eierskap i selskapet han startet 2001 nå er i spill, og at han kan miste kontrollen i selskapet.",
+        "Hedgefondet forvalter om lag 70 milliarder dollar, tilsvarende over 700 milliarder kroner, ifølge Bloomberg.",
+        "Laura Overdeck krever langt mer, og har bedt om 35 prosent av Two Sigma, noe hun har verdsatt til 6,2 milliarder dollar, eller over 60 milliarder kroner, ifølge Bloomberg.",
+        "Overdeck har tilbudt kona Laura 723 millioner dollar, noe som er over 7 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/OkXeGb/bitter-skilsmisse-kan-koste-eierskap-i-hedgefondet",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/f39960f8-8f5b-3329-a33d-beba396c7784?fit=crop&h=675&upscale=true&w=1200&s=eedd68b6a91591bde4c2f1381d0fd5f96df7066c",
+      "localImage": "assets/news/db01696b7abd08.jpg",
+      "score": 17
+    },
+    {
       "id": "8739cd2e10b410",
       "category": "Økonomi",
       "published": "05.09. 10:03",
@@ -85,27 +106,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e5a5ebb7-de41-3d93-8abc-28776d5bc4f0?fit=crop&h=675&upscale=true&w=1200&s=66bbf2adfac7a62e16b65e20696cf28b3d7d871b",
       "localImage": "assets/news/8739cd2e10b410.jpg",
-      "score": 17
-    },
-    {
-      "id": "3c66ec91d46d72",
-      "category": "Økonomi",
-      "published": "04.09. 09:01",
-      "publishedISO": "2026-09-04T09:01:29+02:00",
-      "title": "Oljenedtur på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag. Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent. Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag.",
-        "Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent.",
-        "Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
-        "Prisen på et fat nordsjøolje ligger på 94,2 dollar, ned 1,6 prosent for dagen og om lag 1,3 dollar siden stengetid torsdag."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
-      "localImage": "assets/news/3c66ec91d46d72.jpg",
       "score": 17
     },
     {
@@ -128,6 +128,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
       "localImage": "assets/news/7194e14a6fdfe2.jpg",
       "score": 18
+    },
+    {
+      "id": "3c66ec91d46d72",
+      "category": "Økonomi",
+      "published": "04.09. 09:01",
+      "publishedISO": "2026-09-04T09:01:29+02:00",
+      "title": "Oljenedtur på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag. Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent. Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag.",
+        "Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent.",
+        "Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
+        "Prisen på et fat nordsjøolje ligger på 94,2 dollar, ned 1,6 prosent for dagen og om lag 1,3 dollar siden stengetid torsdag."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
+      "localImage": "assets/news/3c66ec91d46d72.jpg",
+      "score": 17
     },
     {
       "id": "f9a4d43fcec9c5",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cea5/live/8e7be190-a905-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/4ab565dd32bf9d.jpg",
-      "score": 13
-    },
-    {
-      "id": "00c4072d750bfb",
-      "category": "Verden",
-      "published": "05.09. 17:14",
-      "publishedISO": "2026-09-05T17:14:21+02:00",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "USAs sentralkommando la ut opptak av angrepene på Iran-tilknyttede tankskip. Det amerikanske militæret sier det har truffet tre Iran-tilknyttede oljetankere etter at ballistiske missiler ble skutt opp mot to av deres krigsskip i regionen. Iranske statlige medier rapporterte tidligere at en av tankskipene deres hadde blitt truffet utenfor kysten av Kharg Island. Tre eksperter gir sine synspunkter Tidligere denne uken sa USAs visepresident JD Vance at det amerikanske militæret undersøkte iranske påstander om at amerikanske angrep drepte minst fire personer, inkludert to barn, i et bryllup i det sørlige Iran.",
-      "keyPoints": [
-        "USAs sentralkommando la ut opptak av angrepene på Iran-tilknyttede tankskip. Det amerikanske militæret sier det har truffet tre Iran-tilknyttede oljetankere etter at ballistiske missiler ble skutt opp mot to av deres krigsskip i regionen.",
-        "Tre eksperter gir sine synspunkter Tidligere denne uken sa USAs visepresident JD Vance at det amerikanske militæret undersøkte iranske påstander om at amerikanske angrep drepte minst fire personer, inkludert to barn, i et bryllup i det sørlige Iran.",
-        "Iranske statlige medier rapporterte tidligere at en av tankskipene deres hadde blitt truffet utenfor kysten av Kharg Island.",
-        "Den humanitære gruppen Iranian Red Crescent Society sa at splitter fra et missil traff seremonien i et hjem i Sirik tirsdag, noe som fikk Teheran til å erklære det som en \"krigsforbrytelse\"."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
-      "localImage": "assets/news/00c4072d750bfb.jpg",
       "score": 13
     }
   ]
