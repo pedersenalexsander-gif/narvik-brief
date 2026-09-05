@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05.09.2026 kl. 19:51",
-  "updatedISO": "2026-09-05T19:51:37.458188+02:00",
+  "updatedAt": "05.09.2026 kl. 20:12",
+  "updatedISO": "2026-09-05T20:12:26.349081+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,12 +9,12 @@
       "published": "05.09. 19:43",
       "publishedISO": "2026-09-05T19:43:36+02:00",
       "title": "Møtet mellom Putin og USA startet",
-      "summary": "Møtet mellom Putin og USAs spesialsending Kushner og Witkoff skal nå være i gang. Like før 19.00 skal møtet mellom den amerikanske spesialutsendinga Steve Witkoff og Donald Trumps svigersønn Jared Kushner ha startet. Tidligere i dag meldte det russiske nyhetsbyrået Interfax at Putin har gitt ordre om å stanse angrepene mot Ukraina i tre dager fra midnatt. – Fra nå av er vi klare til å overholde en våpenhvile når det gjelder luftangrep mot byene som er involvert i forhandlingsprosessen, skriver Zelenskyj videre på telegram.",
+      "summary": "Møtet mellom Putin og USAs spesialutsending Kushner og Witkoff er nå i gang. Like før 19.00 startet møtet mellom den amerikanske spesialutsendinga Steve Witkoff og Donald Trumps svigersønn Jared Kushner ha startet. På møtet sa Putin til utsendingene at kontakt mellom Russland og USA alltid er nyttig, og at Russland finner det hensiktsmessig å jobbe med dem.",
       "keyPoints": [
-        "Like før 19.00 skal møtet mellom den amerikanske spesialutsendinga Steve Witkoff og Donald Trumps svigersønn Jared Kushner ha startet.",
-        "Møtet mellom Putin og USAs spesialsending Kushner og Witkoff skal nå være i gang.",
-        "Tidligere i dag meldte det russiske nyhetsbyrået Interfax at Putin har gitt ordre om å stanse angrepene mot Ukraina i tre dager fra midnatt. – Fra nå av er vi klare til å overholde en våpenhvile når det gjelder luftangrep mot byene som er involvert i forhandlingsprosessen, skriver Zelenskyj videre på telegram.",
-        "Russlands president Vladimir Putin sier at situasjonen er «vanskelig» ifølge en video publisert på Kremls kanal på meldingsappen MAX."
+        "På møtet sa Putin til utsendingene at kontakt mellom Russland og USA alltid er nyttig, og at Russland finner det hensiktsmessig å jobbe med dem.",
+        "Like før 19.00 startet møtet mellom den amerikanske spesialutsendinga Steve Witkoff og Donald Trumps svigersønn Jared Kushner ha startet.",
+        "Møtet mellom Putin og USAs spesialutsending Kushner og Witkoff er nå i gang.",
+        "Witkoff sa at USAs president Donald Trump hadde sendt sine beste hilsener til Putin og takket ham for våpenhvilen under besøket deres."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -67,6 +67,27 @@
       "score": 15
     },
     {
+      "id": "dbe71a6b0a7319",
+      "category": "Økonomi",
+      "published": "05.09. 19:58",
+      "publishedISO": "2026-09-05T19:58:51+02:00",
+      "title": "Trumps menn og Putin i fredssamtaler",
+      "summary": "Vladimir Putin har gitt et løfte stans i angrep mot Kyiv i tre dager. Vladimir Putin åpnet møtet med å kalle situasjonen «ikke enkel», og ba dem hilse til president Donald Trump, melder Bloomberg. Foran møtet skal Putin ha beordret russiske styrker til å ta en pause i luftangrepene mot Kyiv.",
+      "keyPoints": [
+        "Vladimir Putin åpnet møtet med å kalle situasjonen «ikke enkel», og ba dem hilse til president Donald Trump, melder Bloomberg.",
+        "Vladimir Putin har gitt et løfte stans i angrep mot Kyiv i tre dager.",
+        "Foran møtet skal Putin ha beordret russiske styrker til å ta en pause i luftangrepene mot Kyiv.",
+        "Kreml-talsmann Dmitrij Peskov bekreftet at også Ukraina vil svare med det samme i tre dager. – Fra nå og ut lørdagen, samt søndag og mandag, er Ukraina klar til å avstå fra angrep mot Moskva, og vi forventer at russerne gjør det samme mot Kyiv, skrev Volodymyr Zelenskyj på X."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/k0xbv9/trumps-menn-og-putin-i-fredssamtaler",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a254cc10-32ff-338a-a715-b7a0683ae053?fit=crop&h=675&upscale=true&w=1200&s=ac5686b93e772a7e136a053ee965acbd0c18f7c0",
+      "localImage": "assets/news/dbe71a6b0a7319.jpg",
+      "score": 17
+    },
+    {
       "id": "db01696b7abd08",
       "category": "Økonomi",
       "published": "05.09. 17:48",
@@ -85,27 +106,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f39960f8-8f5b-3329-a33d-beba396c7784?fit=crop&h=675&upscale=true&w=1200&s=eedd68b6a91591bde4c2f1381d0fd5f96df7066c",
       "localImage": "assets/news/db01696b7abd08.jpg",
-      "score": 17
-    },
-    {
-      "id": "8739cd2e10b410",
-      "category": "Økonomi",
-      "published": "05.09. 10:03",
-      "publishedISO": "2026-09-05T10:03:51+02:00",
-      "title": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
-      "summary": "Kong Haakon VIII kan bli den første norske kongen siden Olav den hellige som ikke får portrettet sitt på en mynt. – Jeg synes det er historieløst av Norges Bank, sier Arne Riise, styreleder i Oslo Myntgalleri, til E24. Norges Bank opplyser at behovet for å produsere nye mynter vurderes fortløpende, blant annet på bakgrunn av etterspørselen etter mynt og beholdningen av mynter i omløp. De (Norges Bank, journ.anm.) tar vekk en veldig gammel tradisjon. – Før, da man ikke hadde aviser eller internett, var det veldig viktig å få frem kongens portrett, forklarer Riise.",
-      "keyPoints": [
-        "Kong Haakon VIII kan bli den første norske kongen siden Olav den hellige som ikke får portrettet sitt på en mynt. – Jeg synes det er historieløst av Norges Bank, sier Arne Riise, styreleder i Oslo Myntgalleri, til E24.",
-        "De (Norges Bank, journ.anm.) tar vekk en veldig gammel tradisjon. – Før, da man ikke hadde aviser eller internett, var det veldig viktig å få frem kongens portrett, forklarer Riise.",
-        "Norges Bank opplyser at behovet for å produsere nye mynter vurderes fortløpende, blant annet på bakgrunn av etterspørselen etter mynt og beholdningen av mynter i omløp.",
-        "På grunn av lav etterspørsel er det for tiden ikke behov for å produsere nye mynter, ifølge Norges Bank."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/ArqLlx/norges-bank-kan-bryte-tusen-aar-gammel-tradisjon-historieloest",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e5a5ebb7-de41-3d93-8abc-28776d5bc4f0?fit=crop&h=675&upscale=true&w=1200&s=66bbf2adfac7a62e16b65e20696cf28b3d7d871b",
-      "localImage": "assets/news/8739cd2e10b410.jpg",
       "score": 17
     },
     {
@@ -151,6 +151,27 @@
       "score": 12
     },
     {
+      "id": "8739cd2e10b410",
+      "category": "Økonomi",
+      "published": "05.09. 10:03",
+      "publishedISO": "2026-09-05T10:03:51+02:00",
+      "title": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
+      "summary": "Kong Haakon VIII kan bli den første norske kongen siden Olav den hellige som ikke får portrettet sitt på en mynt. – Jeg synes det er historieløst av Norges Bank, sier Arne Riise, styreleder i Oslo Myntgalleri, til E24. Norges Bank opplyser at behovet for å produsere nye mynter vurderes fortløpende, blant annet på bakgrunn av etterspørselen etter mynt og beholdningen av mynter i omløp. De (Norges Bank, journ.anm.) tar vekk en veldig gammel tradisjon. – Før, da man ikke hadde aviser eller internett, var det veldig viktig å få frem kongens portrett, forklarer Riise.",
+      "keyPoints": [
+        "Kong Haakon VIII kan bli den første norske kongen siden Olav den hellige som ikke får portrettet sitt på en mynt. – Jeg synes det er historieløst av Norges Bank, sier Arne Riise, styreleder i Oslo Myntgalleri, til E24.",
+        "De (Norges Bank, journ.anm.) tar vekk en veldig gammel tradisjon. – Før, da man ikke hadde aviser eller internett, var det veldig viktig å få frem kongens portrett, forklarer Riise.",
+        "Norges Bank opplyser at behovet for å produsere nye mynter vurderes fortløpende, blant annet på bakgrunn av etterspørselen etter mynt og beholdningen av mynter i omløp.",
+        "På grunn av lav etterspørsel er det for tiden ikke behov for å produsere nye mynter, ifølge Norges Bank."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/ArqLlx/norges-bank-kan-bryte-tusen-aar-gammel-tradisjon-historieloest",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e5a5ebb7-de41-3d93-8abc-28776d5bc4f0?fit=crop&h=675&upscale=true&w=1200&s=66bbf2adfac7a62e16b65e20696cf28b3d7d871b",
+      "localImage": "assets/news/8739cd2e10b410.jpg",
+      "score": 16
+    },
+    {
       "id": "3c66ec91d46d72",
       "category": "Økonomi",
       "published": "04.09. 09:01",
@@ -169,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
       "localImage": "assets/news/3c66ec91d46d72.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "8dba50cc04dab5",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/72ff0f5b-39fb-323a-aa73-40470b6aa31c?fit=crop&h=675&upscale=true&w=1200&s=075ad4aba0991cb9524bd18ff3dcfca5f67b75b1",
       "localImage": "assets/news/8dba50cc04dab5.jpg",
       "score": 15
-    },
-    {
-      "id": "00c4072d750bfb",
-      "category": "Verden",
-      "published": "05.09. 19:15",
-      "publishedISO": "2026-09-05T19:15:05+02:00",
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "USAs sentralkommando la ut opptak av angrepene på Iran-tilknyttede tankskip. Det amerikanske militæret sier det har truffet tre Iran-tilknyttede oljetankere etter at Iran skjøt ballistiske missiler mot to amerikanske marine-krigsskip i regionen. Den amerikanske sentralkommandoen (Centcom) sa lørdag at den hadde \"deaktivert permanent\" et tankskip nær Kharg Island og et annet nær Jask i Omanbukta, og \"fullstendig ødelagt\" en tredjedel i Omanbukta. «Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankere deres, skriver forsvarsminister Pete Hegseth på sosiale medier. Iranske statlige medier bekreftet at amerikanske styrker slo til mot tre av oljetankere, inkludert en nær Kharg Island.",
-      "keyPoints": [
-        "USAs sentralkommando la ut opptak av angrepene på Iran-tilknyttede tankskip. Det amerikanske militæret sier det har truffet tre Iran-tilknyttede oljetankere etter at Iran skjøt ballistiske missiler mot to amerikanske marine-krigsskip i regionen.",
-        "Iranian state media confirmed that US forces struck three of its oil tankers, including one near Kharg Island.",
-        "Den amerikanske sentralkommandoen (Centcom) sa lørdag at den hadde \"deaktivert permanent\" et tankskip nær Kharg Island og et annet nær Jask i Omanbukta, og \"fullstendig ødelagt\" en tredjedel i Omanbukta. «Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankere deres, skriver forsvarsminister Pete Hegseth på sosiale medier.",
-        "En av disse tankskipene var tom og den andre fraktet en last med olje, la den til."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png",
-      "localImage": "assets/news/00c4072d750bfb.jpg",
-      "score": 13
     }
   ]
 }
