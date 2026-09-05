@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05.09.2026 kl. 12:11",
-  "updatedISO": "2026-09-05T12:11:00.530304+02:00",
+  "updatedAt": "05.09.2026 kl. 12:24",
+  "updatedISO": "2026-09-05T12:24:47.285391+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/GsT35X6BgrqsDSiyfJnhhQ6vJrypsjObfPpEB4zgfOog.jpg",
       "localImage": "assets/news/cbdc8438fcb693.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "f9a4d43fcec9c5",
@@ -198,11 +198,11 @@
       "published": "05.09. 11:35",
       "publishedISO": "2026-09-05T11:35:25+02:00",
       "title": "Over en kilometer kø utenfor slottet",
-      "summary": "Vaktene utenfor slottet sier at det kan bli opp mot syv timers ventetid. Det blir omtrent syv timers ventetid, anslår vaktene på slottet til nyhetsbyrået. Ventetiden for å komme inn i Slottskapellet og gå sakte forbi kong Haralds båre er over en kilometer lørdag formiddag. – Verter vil informere i køen dersom vi ser at det er noen som mest sannsynlig ikke vil rekke å komme inn i Slottskapellet denne dagen, skrev Slottet i en pressemelding fredag.",
+      "summary": "Vaktene utenfor slottet sier at det kan bli opp mot syv timers ventetid. Det blir omtrent syv timers ventetid, anslår vaktene på Slottet til nyhetsbyrået. Ventetiden for å komme inn i Slottskapellet og gå sakte forbi kong Haralds båre er over en kilometer lørdag formiddag. – Verter vil informere i køen dersom vi ser at det er noen som mest sannsynlig ikke vil rekke å komme inn i Slottskapellet denne dagen, skrev Slottet i en pressemelding fredag.",
       "keyPoints": [
         "Ventetiden for å komme inn i Slottskapellet og gå sakte forbi kong Haralds båre er over en kilometer lørdag formiddag. – Verter vil informere i køen dersom vi ser at det er noen som mest sannsynlig ikke vil rekke å komme inn i Slottskapellet denne dagen, skrev Slottet i en pressemelding fredag.",
         "Vaktene utenfor slottet sier at det kan bli opp mot syv timers ventetid.",
-        "Det blir omtrent syv timers ventetid, anslår vaktene på slottet til nyhetsbyrået.",
+        "Det blir omtrent syv timers ventetid, anslår vaktene på Slottet til nyhetsbyrået.",
         "I 11-tiden strekker køen seg helt ned Slottsbakken rundt Fredriks gate og opp til slottsgartneriet i Kristian IVs gate."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
