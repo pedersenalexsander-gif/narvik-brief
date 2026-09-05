@@ -1,27 +1,27 @@
 {
-  "updatedAt": "05.09.2026 kl. 22:39",
-  "updatedISO": "2026-09-05T22:39:15.743049+02:00",
+  "updatedAt": "05.09.2026 kl. 22:51",
+  "updatedISO": "2026-09-05T22:51:41.824539+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "8dac771069ab52",
+      "id": "1d8480fff3d44f",
       "category": "Norge",
       "published": "05.09. 21:03",
       "publishedISO": "2026-09-05T21:03:36+02:00",
-      "title": "Havnaa møter Løke: – Spennende å se om det blir fight eller flight",
-      "summary": "Det har vært ventet opp mot 4000 tilskuere når Frank Løke møter Kai Robin Havnaa til showkamp ved Pollen i Arendal lørdag kveld. Hun står i kø på vei inn til Pollen i Arendal der den tidligere proffbokseren og forloveden Kai Robin Havnaa senere lørdag kveld skal møte Frank Løke i bokseringen. Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
+      "title": "Havnaa knuste Løke på hjemmebane",
+      "summary": "Hun står i kø på vei inn til Pollen i Arendal der den tidligere proffbokseren og forloveden Kai Robin Havnaa senere lørdag kveld skal møte Frank Løke i bokseringen. Det var ventet opp mot 4000 tilskuere til den omstridte show-kampen mellom Løke og arendalitten Havnaa. Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
       "keyPoints": [
-        "Det har vært ventet opp mot 4000 tilskuere når Frank Løke møter Kai Robin Havnaa til showkamp ved Pollen i Arendal lørdag kveld.",
-        "Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
         "Hun står i kø på vei inn til Pollen i Arendal der den tidligere proffbokseren og forloveden Kai Robin Havnaa senere lørdag kveld skal møte Frank Løke i bokseringen.",
-        "Det var ventet opp mot 4000 tilskuere til den omstridte boksekampen mellom Løke og arendalitten Havnaa."
+        "Det var ventet opp mot 4000 tilskuere til den omstridte show-kampen mellom Løke og arendalitten Havnaa.",
+        "Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
+        "Havnaa og Løke skulle opprinnelig bokset klokken 21.45, men kampen har ifølge Agderposten blitt utsatt en halvtime."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/havnaa-moter-loke_-_-spennende-a-se-om-det-blir-fight-eller-flight-1.18015446",
+      "url": "https://www.nrk.no/sorlandet/havnaa-knuste-loke-pa-hjemmebane-1.18015446",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/htyrh7Hf8o6SxZcCg5jy0wy5E2pCALn2fDFy2Ab5mXxg.jpg",
-      "localImage": "assets/news/8dac771069ab52.webp",
+      "image": "https://gfx.nrk.no/omjjjWeRzKKwZItHjh1QhwpC1FWKWP5mwvuePH-amtpw.jpg",
+      "localImage": "assets/news/1d8480fff3d44f.jpg",
       "score": 17
     },
     {
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f39960f8-8f5b-3329-a33d-beba396c7784?fit=crop&h=675&upscale=true&w=1200&s=eedd68b6a91591bde4c2f1381d0fd5f96df7066c",
       "localImage": "assets/news/db01696b7abd08.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "7194e14a6fdfe2",
@@ -190,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ttwRKDlP9cO13bviYxK1DQWlp4Gzu8C6ly_R_0bTZogg.jpg",
       "localImage": "assets/news/6b72eff68eb1bc.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "8dba50cc04dab5",
