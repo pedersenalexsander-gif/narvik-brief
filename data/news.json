@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 19:51",
-  "updatedISO": "2026-09-06T19:51:30.661688+02:00",
+  "updatedAt": "06.09.2026 kl. 20:13",
+  "updatedISO": "2026-09-06T20:13:19.340633+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,24 +67,24 @@
       "score": 17
     },
     {
-      "id": "29b6f2a84605dd",
+      "id": "e172b1991a942f",
       "category": "Økonomi",
-      "published": "06.09. 11:26",
-      "publishedISO": "2026-09-06T11:26:07+02:00",
-      "title": "Dette tjener staten på strøm",
-      "summary": "I fjor dro staten inn 32,6 milliarder fra kraftsektoren. Flere politikere mener at staten har råd til å støtte forbrukerne, siden dyr strøm øker det offentliges inntekter. Men i tilfelle veldig tørt vær vil ordningen i verste fall kunne koste 55 milliarder i 2027, anslår Volue. – Vi har Norgespris nettopp fordi prisene kan gå i været, sa leder Mani Hussaini (Ap) i Stortingets energi- og miljøkomité til E24 i forrige måned. – Staten, fylkene og kommunene får også inn mer penger når strømprisene er høye, siden vi heldigvis har stort offentlig eierskap i kraftsektoren, sa Hussaini.",
+      "published": "06.09. 19:58",
+      "publishedISO": "2026-09-06T19:58:56+02:00",
+      "title": "Canadas «oljefond» bygger datasenter i Norge",
+      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
       "keyPoints": [
-        "Flere politikere mener at staten har råd til å støtte forbrukerne, siden dyr strøm øker det offentliges inntekter.",
-        "Men i tilfelle veldig tørt vær vil ordningen i verste fall kunne koste 55 milliarder i 2027, anslår Volue. – Vi har Norgespris nettopp fordi prisene kan gå i været, sa leder Mani Hussaini (Ap) i Stortingets energi- og miljøkomité til E24 i forrige måned. – Staten, fylkene og kommunene får også inn mer penger når strømprisene er høye, siden vi heldigvis har stort offentlig eierskap i kraftsektoren, sa Hussaini.",
-        "I fjor dro staten inn 32,6 milliarder fra kraftsektoren.",
-        "De siste årene har det vært flere kriser, og staten har bladd opp hundretalls milliarder i forbindelse med coronakrisen og strømstøtte til husholdningene."
+        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
+        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
+        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/d4P78w/dette-tjener-staten-paa-stroem",
+      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e7aa61d-7906-3fce-aaf3-56279fc51c2d?fit=crop&h=675&upscale=true&w=1200&s=923bd992456af9c1680c747163294958ea9da64b",
-      "localImage": "assets/news/29b6f2a84605dd.jpg",
+      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
+      "localImage": "assets/news/e172b1991a942f.jpg",
       "score": 16
     },
     {
@@ -128,6 +128,27 @@
       "image": "https://gfx.nrk.no/ExwAV_VU633i8joOhC4V0Q-ik39tSbZkIgimrPzP2cyw.jpg",
       "localImage": "assets/news/3b3937f75b81e9.webp",
       "score": 17
+    },
+    {
+      "id": "29b6f2a84605dd",
+      "category": "Økonomi",
+      "published": "06.09. 11:26",
+      "publishedISO": "2026-09-06T11:26:07+02:00",
+      "title": "Dette tjener staten på strøm",
+      "summary": "I fjor dro staten inn 32,6 milliarder fra kraftsektoren. Flere politikere mener at staten har råd til å støtte forbrukerne, siden dyr strøm øker det offentliges inntekter. Men i tilfelle veldig tørt vær vil ordningen i verste fall kunne koste 55 milliarder i 2027, anslår Volue. – Vi har Norgespris nettopp fordi prisene kan gå i været, sa leder Mani Hussaini (Ap) i Stortingets energi- og miljøkomité til E24 i forrige måned. – Staten, fylkene og kommunene får også inn mer penger når strømprisene er høye, siden vi heldigvis har stort offentlig eierskap i kraftsektoren, sa Hussaini.",
+      "keyPoints": [
+        "Flere politikere mener at staten har råd til å støtte forbrukerne, siden dyr strøm øker det offentliges inntekter.",
+        "Men i tilfelle veldig tørt vær vil ordningen i verste fall kunne koste 55 milliarder i 2027, anslår Volue. – Vi har Norgespris nettopp fordi prisene kan gå i været, sa leder Mani Hussaini (Ap) i Stortingets energi- og miljøkomité til E24 i forrige måned. – Staten, fylkene og kommunene får også inn mer penger når strømprisene er høye, siden vi heldigvis har stort offentlig eierskap i kraftsektoren, sa Hussaini.",
+        "I fjor dro staten inn 32,6 milliarder fra kraftsektoren.",
+        "De siste årene har det vært flere kriser, og staten har bladd opp hundretalls milliarder i forbindelse med coronakrisen og strømstøtte til husholdningene."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/d4P78w/dette-tjener-staten-paa-stroem",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1e7aa61d-7906-3fce-aaf3-56279fc51c2d?fit=crop&h=675&upscale=true&w=1200&s=923bd992456af9c1680c747163294958ea9da64b",
+      "localImage": "assets/news/29b6f2a84605dd.jpg",
+      "score": 16
     },
     {
       "id": "7fe9c0f8bde4bc",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
       "localImage": "assets/news/e773db30774452.jpg",
-      "score": 13
-    },
-    {
-      "id": "e2b701c65785de",
-      "category": "Norge",
-      "published": "06.09. 18:44",
-      "publishedISO": "2026-09-06T18:44:07+02:00",
-      "title": "Kristiansund mot Tromsø i Eliteserien",
-      "summary": "Her kan du følge kampen i Kristiansund minutt for minutt. Han kan legge ballen elegant i det lengste hjørne fra ti meter, mens Tromsø sisteskanse Jakob Haugaard er sjanseløs. Tromsø idrettslag måtte klare seg uten kaptein Ruben Yttergård Jenssen i søndagens kamp borte mot Kristiansund.",
-      "keyPoints": [
-        "Tromsø idrettslag måtte klare seg uten kaptein Ruben Yttergård Jenssen i søndagens kamp borte mot Kristiansund.",
-        "Her kan du følge kampen i Kristiansund minutt for minutt.",
-        "Han kan legge ballen elegant i det lengste hjørne fra ti meter, mens Tromsø sisteskanse Jakob Haugaard er sjanseløs.",
-        "Kristiansunds Leander Næss Alvheim jubler for 1–0 Kristiansunds Leander Næss Alvheim fikk ett innlegg fra høyre, signer Marius Elvius."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kristiansund-mot-tromso-i-eliteserien-1.18013938",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/u6DXvO7VB35S0k18gp8RUg0sMogNsJTl76hiwS8qR0Sg.jpg",
-      "localImage": "assets/news/e2b701c65785de.jpg",
       "score": 13
     }
   ]
