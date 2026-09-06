@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 13:25",
-  "updatedISO": "2026-09-06T13:25:33.281077+02:00",
+  "updatedAt": "06.09.2026 kl. 13:38",
+  "updatedISO": "2026-09-06T13:38:59.296925+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,6 +109,27 @@
       "score": 14
     },
     {
+      "id": "dd21036a00aa74",
+      "category": "Økonomi",
+      "published": "06.09. 13:25",
+      "publishedISO": "2026-09-06T13:25:44+02:00",
+      "title": "Anmeldte fem svindelforsøk – henlagt hver gang",
+      "summary": "Fem ganger så langt i år har Frank James Wilson anmeldt digitale bedrageri- og svindelforsøk mot bedriften der han jobber. Fem ganger er de blitt henlagt, noen ganger etter to dager, og én gang samme dag. I flere av svindelforsøkene ble det bedt om at pengene skulle utbetales til en norsk konto. «Saken er henlagt uten etterforskning på grunn av manglende opplysninger om gjerningsperson», skriver politiet i henleggelsene, som E24 har lest. – Det er her jeg mener at AI kan gjøre en stor forskjell og automatisere mye av den første analysen.",
+      "keyPoints": [
+        "Fem ganger er de blitt henlagt, noen ganger etter to dager, og én gang samme dag.",
+        "Fem ganger så langt i år har Frank James Wilson anmeldt digitale bedrageri- og svindelforsøk mot bedriften der han jobber.",
+        "I flere av svindelforsøkene ble det bedt om at pengene skulle utbetales til en norsk konto. «Saken er henlagt uten etterforskning på grunn av manglende opplysninger om gjerningsperson», skriver politiet i henleggelsene, som E24 har lest. – Det er her jeg mener at AI kan gjøre en stor forskjell og automatisere mye av den første analysen.",
+        "Oslo Politidistrikt bekrefter at anmeldelsene er henlagt. – De aktuelle sakene er henlagt fordi det på anmeldelsestidspunktet ikke forelå tilstrekkelige opplysninger til å identifisere en gjerningsperson eller andre etterforskningsspor som gjorde det mulig å komme videre med saken, skriver påtaleavsnittsleder i Oslo politidistrikt, Gard Busterud, til E24."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/Pde755/anmeldte-fem-svindelforsoek-henlagt-hver-gang",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/604f6592-5491-3df6-b59c-afa62698393f?fit=crop&h=675&upscale=true&w=1200&s=81547897343c8584e82f7f401e6b6f82b8fb807f",
+      "localImage": "assets/news/dd21036a00aa74.jpg",
+      "score": 13
+    },
+    {
       "id": "dd841cb0bb077e",
       "category": "Økonomi",
       "published": "06.09. 13:06",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e5a5ebb7-de41-3d93-8abc-28776d5bc4f0?fit=crop&h=675&upscale=true&w=1200&s=66bbf2adfac7a62e16b65e20696cf28b3d7d871b",
       "localImage": "assets/news/8739cd2e10b410.jpg",
-      "score": 13
-    },
-    {
-      "id": "3c66ec91d46d72",
-      "category": "Økonomi",
-      "published": "04.09. 09:01",
-      "publishedISO": "2026-09-04T09:01:29+02:00",
-      "title": "Oljenedtur på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag. Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent. Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag.",
-        "Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent.",
-        "Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
-        "Prisen på et fat nordsjøolje ligger på 94,2 dollar, ned 1,6 prosent for dagen og om lag 1,3 dollar siden stengetid torsdag."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
-      "localImage": "assets/news/3c66ec91d46d72.jpg",
       "score": 13
     }
   ]
