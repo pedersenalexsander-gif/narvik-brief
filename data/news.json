@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 16:26",
-  "updatedISO": "2026-09-06T16:26:36.009575+02:00",
+  "updatedAt": "06.09.2026 kl. 16:39",
+  "updatedISO": "2026-09-06T16:39:53.615235+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1e7aa61d-7906-3fce-aaf3-56279fc51c2d?fit=crop&h=675&upscale=true&w=1200&s=923bd992456af9c1680c747163294958ea9da64b",
       "localImage": "assets/news/29b6f2a84605dd.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "7194e14a6fdfe2",
@@ -130,14 +130,35 @@
       "score": 14
     },
     {
+      "id": "01cb62c8d8e45d",
+      "category": "Norge",
+      "published": "06.09. 16:30",
+      "publishedISO": "2026-09-06T16:30:31+02:00",
+      "title": "Mange anar ikkje kva dei skal gjere – Tor Kristian måtte stupe uti",
+      "summary": "For dødsaren Tor Kristian Tollefson hjelpte bakgrunnen hans da han plutseleg måtte kaste seg ut i vatnet. STUPTE UTI: Tor Kristian Tollefson kasta seg i vatnet da han såg ein mann heldt på å drukne på Sørenga i Oslo. Denne hendinga illustrerer ei brutal verkelegheit: Fem av ti veit nemleg ikkje, eller er usikre på, kva dei skal gjere om nokon er i ferd med å drukne i nærleiken av dei.",
+      "keyPoints": [
+        "Denne hendinga illustrerer ei brutal verkelegheit: Fem av ti veit nemleg ikkje, eller er usikre på, kva dei skal gjere om nokon er i ferd med å drukne i nærleiken av dei.",
+        "STUPTE UTI: Tor Kristian Tollefson kasta seg i vatnet da han såg ein mann heldt på å drukne på Sørenga i Oslo.",
+        "For dødsaren Tor Kristian Tollefson hjelpte bakgrunnen hans da han plutseleg måtte kaste seg ut i vatnet.",
+        "Over halvparten av oss aner ikkje kva vi skal gjere ved ei drukningsulykke."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ostfold/mange-anar-ikkje-kva-dei-skal-gjere-_-tor-kristian-matte-stupe-uti-1.17996601",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/UnL91o7NFGYp8GGE4xlvswkdyXoLpXilwprhtyUW4-mA.jpg",
+      "localImage": "assets/news/01cb62c8d8e45d.jpg",
+      "score": 13
+    },
+    {
       "id": "fac6b29635edb4",
       "category": "Norge",
       "published": "06.09. 16:01",
       "publishedISO": "2026-09-06T16:01:11+02:00",
       "title": "Cupfinalen: Brann vann mot Aalesund etter storspel av Lauren Davidson",
-      "summary": "Det blei grei skuring for Brann då dei møtte Aalesund i cupfinalen på Ullevaal stadion søndag. – Det var aldri noko tvil, men Aalesund gav eit godt forøsk, seier NRKs ekspert Carl-Erik Torp. Men Aalesund, som ligg på andreplass bak Brann i serien, starta sterkt og tok tidleg leiinga. Lauren Davidson gjekk heilt aleine gjennom Aalesund-forsvaret og sette inn 1-1 i det 14. minuttet.",
+      "summary": "Det blei grei skuring for Brann då dei møtte Aalesund i cupfinalen på Ullevaal stadion søndag. – Det var aldri noko tvil, men Aalesund gav eit godt forsøk, seier NRKs ekspert Carl-Erik Torp. Men Aalesund, som ligg på andreplass bak Brann i serien, starta sterkt og tok tidleg leiinga. Lauren Davidson gjekk heilt aleine gjennom Aalesund-forsvaret og sette inn 1-1 i det 14. minuttet.",
       "keyPoints": [
-        "Det blei grei skuring for Brann då dei møtte Aalesund i cupfinalen på Ullevaal stadion søndag. – Det var aldri noko tvil, men Aalesund gav eit godt forøsk, seier NRKs ekspert Carl-Erik Torp.",
+        "Det blei grei skuring for Brann då dei møtte Aalesund i cupfinalen på Ullevaal stadion søndag. – Det var aldri noko tvil, men Aalesund gav eit godt forsøk, seier NRKs ekspert Carl-Erik Torp.",
         "Lauren Davidson gjekk heilt aleine gjennom Aalesund-forsvaret og sette inn 1-1 i det 14. minuttet.",
         "Men Aalesund, som ligg på andreplass bak Brann i serien, starta sterkt og tok tidleg leiinga.",
         "Bergenslaget hadde ikkje tapt ein einaste kamp i cupen eller i Toppserien i år, og var favorittar før søndagens kamp. – Brann er og skal vere eit betre lag, sa Torp då laget sikra 3-1."
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/sTeyHryhQdXkjKCIiXrzYwwoFyTVu0seSH4PbujV-v9Q.jpg",
       "localImage": "assets/news/694997659fae20.jpg",
-      "score": 13
-    },
-    {
-      "id": "dd21036a00aa74",
-      "category": "Økonomi",
-      "published": "06.09. 13:25",
-      "publishedISO": "2026-09-06T13:25:44+02:00",
-      "title": "Anmeldte fem svindelforsøk – henlagt hver gang",
-      "summary": "Fem ganger så langt i år har Frank James Wilson anmeldt digitale bedrageri- og svindelforsøk mot bedriften der han jobber. Fem ganger er de blitt henlagt, noen ganger etter to dager, og én gang samme dag. I flere av svindelforsøkene ble det bedt om at pengene skulle utbetales til en norsk konto. «Saken er henlagt uten etterforskning på grunn av manglende opplysninger om gjerningsperson», skriver politiet i henleggelsene, som E24 har lest. – Det er her jeg mener at AI kan gjøre en stor forskjell og automatisere mye av den første analysen.",
-      "keyPoints": [
-        "Fem ganger er de blitt henlagt, noen ganger etter to dager, og én gang samme dag.",
-        "Fem ganger så langt i år har Frank James Wilson anmeldt digitale bedrageri- og svindelforsøk mot bedriften der han jobber.",
-        "I flere av svindelforsøkene ble det bedt om at pengene skulle utbetales til en norsk konto. «Saken er henlagt uten etterforskning på grunn av manglende opplysninger om gjerningsperson», skriver politiet i henleggelsene, som E24 har lest. – Det er her jeg mener at AI kan gjøre en stor forskjell og automatisere mye av den første analysen.",
-        "Oslo Politidistrikt bekrefter at anmeldelsene er henlagt. – De aktuelle sakene er henlagt fordi det på anmeldelsestidspunktet ikke forelå tilstrekkelige opplysninger til å identifisere en gjerningsperson eller andre etterforskningsspor som gjorde det mulig å komme videre med saken, skriver påtaleavsnittsleder i Oslo politidistrikt, Gard Busterud, til E24."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/Pde755/anmeldte-fem-svindelforsoek-henlagt-hver-gang",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/604f6592-5491-3df6-b59c-afa62698393f?fit=crop&h=675&upscale=true&w=1200&s=81547897343c8584e82f7f401e6b6f82b8fb807f",
-      "localImage": "assets/news/dd21036a00aa74.jpg",
       "score": 13
     }
   ]
