@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 15:51",
-  "updatedISO": "2026-09-06T15:51:32.190295+02:00",
+  "updatedAt": "06.09.2026 kl. 16:11",
+  "updatedISO": "2026-09-06T16:11:18.483162+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,6 +46,27 @@
       "score": 13
     },
     {
+      "id": "df71afcad5449f",
+      "category": "Økonomi",
+      "published": "06.09. 16:00",
+      "publishedISO": "2026-09-06T16:00:50+02:00",
+      "title": "Økning i tvangssalg av boliger: – Renten er en kvern",
+      "summary": "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp. Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp. Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
+      "keyPoints": [
+        "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp.",
+        "Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp.",
+        "Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
+        "Han sier sentralbanken ikke pleier å vise til tvangssalg når de vurderer om renten skal opp eller ned. – De er veldig opptatt av gjennomsnittet og hensyntar sånn sett ikke de svakeste."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/n1XrBx/oekning-i-tvangssalg-av-boliger-renten-er-en-kvern",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/f7dc2963-a2bb-3b65-8478-5910c920d1a8?fit=crop&h=675&upscale=true&w=1200&s=066d7261d0c5e46c5e34954642c5783ef63e696e",
+      "localImage": "assets/news/df71afcad5449f.jpg",
+      "score": 17
+    },
+    {
       "id": "29b6f2a84605dd",
       "category": "Økonomi",
       "published": "06.09. 11:26",
@@ -65,27 +86,6 @@
       "image": "https://akamai.vgc.no/v2/images/1e7aa61d-7906-3fce-aaf3-56279fc51c2d?fit=crop&h=675&upscale=true&w=1200&s=923bd992456af9c1680c747163294958ea9da64b",
       "localImage": "assets/news/29b6f2a84605dd.jpg",
       "score": 17
-    },
-    {
-      "id": "dbe71a6b0a7319",
-      "category": "Økonomi",
-      "published": "05.09. 19:58",
-      "publishedISO": "2026-09-05T19:58:51+02:00",
-      "title": "Trumps menn og Putin i fredssamtaler",
-      "summary": "Vladimir Putin har gitt et løfte stans i angrep mot Kyiv i tre dager. Vladimir Putin åpnet møtet med å kalle situasjonen «ikke enkel», og ba dem hilse til president Donald Trump, melder Bloomberg. Foran møtet skal Putin ha beordret russiske styrker til å ta en pause i luftangrepene mot Kyiv.",
-      "keyPoints": [
-        "Vladimir Putin åpnet møtet med å kalle situasjonen «ikke enkel», og ba dem hilse til president Donald Trump, melder Bloomberg.",
-        "Vladimir Putin har gitt et løfte stans i angrep mot Kyiv i tre dager.",
-        "Foran møtet skal Putin ha beordret russiske styrker til å ta en pause i luftangrepene mot Kyiv.",
-        "Kreml-talsmann Dmitrij Peskov bekreftet at også Ukraina vil svare med det samme i tre dager. – Fra nå og ut lørdagen, samt søndag og mandag, er Ukraina klar til å avstå fra angrep mot Moskva, og vi forventer at russerne gjør det samme mot Kyiv, skrev Volodymyr Zelenskyj på X."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/k0xbv9/trumps-menn-og-putin-i-fredssamtaler",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a254cc10-32ff-338a-a715-b7a0683ae053?fit=crop&h=675&upscale=true&w=1200&s=ac5686b93e772a7e136a053ee965acbd0c18f7c0",
-      "localImage": "assets/news/dbe71a6b0a7319.jpg",
-      "score": 14
     },
     {
       "id": "7194e14a6fdfe2",
@@ -128,6 +128,27 @@
       "image": "https://gfx.nrk.no/l1AK0zJKp6QcIgmYnXXbJQyartqGhw47svB4Wf8wOjuw.jpg",
       "localImage": "assets/news/1d8480fff3d44f.jpg",
       "score": 14
+    },
+    {
+      "id": "fac6b29635edb4",
+      "category": "Norge",
+      "published": "06.09. 16:01",
+      "publishedISO": "2026-09-06T16:01:11+02:00",
+      "title": "Cupfinalen: Brann vann mot Aalesund etter storspel av Lauren Davidson",
+      "summary": "Det blei grei skuring for Brann då dei møtte Aalesund i cupfinalen på Ullevaal stadion søndag. – Det var aldri noko tvil, men Aalesund gav eit godt forøsk, seier NRKs ekspert Carl-Erik Torp. Men Aalesund, som ligg på andreplass bak Brann i serien, starta sterkt og tok tidleg leiinga. Lauren Davidson gjekk heilt aleine gjennom Aalesund-forsvaret og sette inn 1-1 i det 14. minuttet.",
+      "keyPoints": [
+        "Det blei grei skuring for Brann då dei møtte Aalesund i cupfinalen på Ullevaal stadion søndag. – Det var aldri noko tvil, men Aalesund gav eit godt forøsk, seier NRKs ekspert Carl-Erik Torp.",
+        "Lauren Davidson gjekk heilt aleine gjennom Aalesund-forsvaret og sette inn 1-1 i det 14. minuttet.",
+        "Men Aalesund, som ligg på andreplass bak Brann i serien, starta sterkt og tok tidleg leiinga.",
+        "Bergenslaget hadde ikkje tapt ein einaste kamp i cupen eller i Toppserien i år, og var favorittar før søndagens kamp. – Brann er og skal vere eit betre lag, sa Torp då laget sikra 3-1."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/cupfinalen_-brann-vann-mot-aalesund-etter-storspel-av-lauren-davidson-1.18015841",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/IYigQPL_fJ-HYSRVUfsvGAMCFvCq9yfeJRKgGb3O5Y2A.jpg",
+      "localImage": "assets/news/fac6b29635edb4.jpg",
+      "score": 13
     },
     {
       "id": "a7a31c6b3d42a3",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/604f6592-5491-3df6-b59c-afa62698393f?fit=crop&h=675&upscale=true&w=1200&s=81547897343c8584e82f7f401e6b6f82b8fb807f",
       "localImage": "assets/news/dd21036a00aa74.jpg",
-      "score": 13
-    },
-    {
-      "id": "dd841cb0bb077e",
-      "category": "Økonomi",
-      "published": "06.09. 13:06",
-      "publishedISO": "2026-09-06T13:06:24+02:00",
-      "title": "Sist inn, først ut?",
-      "summary": "Hodejeger og partner i Skill Rekruttering med nesten 20 års erfaring innenfor rekruttering. Psykolog Emil Mogård og hodejeger Kathrine Evenmo Ervik svarer på spørsmål fra E24s lesere om karriere, arbeidsliv og balansen mellom jobben og livet. De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs).",
-      "keyPoints": [
-        "Hodejeger og partner i Skill Rekruttering med nesten 20 års erfaring innenfor rekruttering.",
-        "Psykolog Emil Mogård og hodejeger Kathrine Evenmo Ervik svarer på spørsmål fra E24s lesere om karriere, arbeidsliv og balansen mellom jobben og livet.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs).",
-        "Er det dumt å si fra seg en trygg jobb der man har lang ansiennitet, for å ta en ny jobb og øke faren for å bli nedbemannet?"
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/karriere-og-ledelse/i/j0MpyA/sist-inn-foerst-ut",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f8e3c553-4952-3051-9997-ac15654cd9d5?fit=crop&h=675&upscale=true&w=1200&s=31ca00a9740232a578cf26fe817568e1326acbea",
-      "localImage": "assets/news/dd841cb0bb077e.jpg",
       "score": 13
     }
   ]
