@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 04:52",
-  "updatedISO": "2026-09-06T04:52:42.022035+02:00",
+  "updatedAt": "06.09.2026 kl. 05:12",
+  "updatedISO": "2026-09-06T05:12:02.079563+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,6 +172,27 @@
       "score": 15
     },
     {
+      "id": "84418fc3966f85",
+      "category": "Økonomi",
+      "published": "06.09. 05:00",
+      "publishedISO": "2026-09-06T05:00:00+02:00",
+      "title": "Ordfører krever åpenhet fra datasentre: – Et Klondike helt ute av kontroll",
+      "summary": "Handeland har hatt noen travle måneder som ordfører i den lille kraft- og industrikommunen med knappe 5.000 innbyggere. – Sauda ble jo tatt av datasentervinden så til de grader. Samtidig er strømforbruket på vei opp: Norske datasentre brukte 3,3 TWh i 2025, dobbelt så mye som i 2023, ifølge NVE. Derfor har kommunestyret tatt saken i egne hender og vil stille strengere krav. – Det er jo et Klondike som er helt ute av kontroll, sier han.",
+      "keyPoints": [
+        "Derfor har kommunestyret tatt saken i egne hender og vil stille strengere krav. – Det er jo et Klondike som er helt ute av kontroll, sier han.",
+        "Handeland har hatt noen travle måneder som ordfører i den lille kraft- og industrikommunen med knappe 5.000 innbyggere. – Sauda ble jo tatt av datasentervinden så til de grader.",
+        "Samtidig er strømforbruket på vei opp: Norske datasentre brukte 3,3 TWh i 2025, dobbelt så mye som i 2023, ifølge NVE.",
+        "Da planene om en ammoniakkfabrikk i Sauda falt sammen i vår, ble 100 megawatt kraft plutselig tilgjengelig."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/JOLRPX/ordfoerer-krever-aapenhet-fra-datasentre-et-klondike-helt-ute-av-kontroll",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/0ce639e5-93ff-3a02-a97b-a239d615a4f9?fit=crop&h=675&upscale=true&w=1200&s=292ea0a479c87f7f18aef50ed6a92a68041fd613",
+      "localImage": "assets/news/84418fc3966f85.jpg",
+      "score": 13
+    },
+    {
       "id": "eee466dd486ee6",
       "category": "Verden",
       "published": "06.09. 03:54",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/645e/live/47458b70-a994-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/eee466dd486ee6.jpg",
-      "score": 13
-    },
-    {
-      "id": "6b72eff68eb1bc",
-      "category": "Norge",
-      "published": "05.09. 07:45",
-      "publishedISO": "2026-09-05T07:45:54+02:00",
-      "title": "Mann døde etter ulykke i Gjøvik",
-      "summary": "– Han er sterkt preget, og tar det tungt, sier forsvarer Barbro Røkenes etter at en mann i 30-årene meldte seg etter en dødsulykke i dag. ULYKKE: En ung mann døde av skadene han fikk i en ulykke i Gjøvik. • En lokal mann i 20-årene er død etter en mulig påkjørsel på riksveg 4 mellom Gjøvik og Mjøsbrua natt til lørdag. • Sjåføren har nå meldt seg, og politiet etterforsker saken som uaktsomt bildrap. • Det er funnet bildeler og en skadet sykkel på stedet, og politiet mener sporene tyder på at mannen ble påkjørt. En mann i 20-årene omkom i en ulykke på riksveg 4 i Gjøvik natt til lørdag.",
-      "keyPoints": [
-        "ULYKKE: En ung mann døde av skadene han fikk i en ulykke i Gjøvik. • En lokal mann i 20-årene er død etter en mulig påkjørsel på riksveg 4 mellom Gjøvik og Mjøsbrua natt til lørdag. • Sjåføren har nå meldt seg, og politiet etterforsker saken som uaktsomt bildrap. • Det er funnet bildeler og en skadet sykkel på stedet, og politiet mener sporene tyder på at mannen ble påkjørt.",
-        "– Han er sterkt preget, og tar det tungt, sier forsvarer Barbro Røkenes etter at en mann i 30-årene meldte seg etter en dødsulykke i dag.",
-        "Politiet fikk melding om at en hardt skadd person lå langs riksveg 4 mellom Gjøvik og Mjøsbrua klokka 03.30 natt til lørdag.",
-        "De er også interessert i alle som måtte ha dashbordkamera, og har video som har kjørt på riksveg 4, mellom Gjøvik og Mjøsbrua mellom klokka 02 og 07 natt til lørdag, om å melde seg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/mann-dode-etter-ulykke-i-gjovik-1.18015102",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ttwRKDlP9cO13bviYxK1DQWlp4Gzu8C6ly_R_0bTZogg.jpg",
-      "localImage": "assets/news/6b72eff68eb1bc.jpg",
       "score": 13
     }
   ]
