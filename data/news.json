@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 10:12",
-  "updatedISO": "2026-09-06T10:12:30.186412+02:00",
+  "updatedAt": "06.09.2026 kl. 10:29",
+  "updatedISO": "2026-09-06T10:29:12.570151+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "5d09d9a7ace4f0",
+      "category": "Økonomi",
+      "published": "06.09. 10:15",
+      "publishedISO": "2026-09-06T10:15:04+02:00",
+      "title": "Advarer mot prutetabbe",
+      "summary": "Med fremveksten av Finn.no og andre bruktmarkeder har en egenskap som man tidligere forbant mest med sydligere strøk, blitt vanlig – nemlig pruting. – Vi elsker å prute, men vi pruter ikke så utrolig mye, sier Anders Spilling. En som har opparbeidet seg noen år med Finn-kompetanse, er komiker Jan Tore Kristoffersen. – Jeg kjøper alt på Finn, tydeligvis, sa han i en podkast med kollega Henrik Fladseth i 2019. Kristoffersen har et annet triks han mener fungerer bedre. – Hvis du klikker deg inn på profilen til selgeren og ser at de har noe annet smått som du også kunne tenke deg, så foreslår du å lage en pakke, slik at selgeren kan tenke at «her ble jeg kvitt to ting i én smell».",
+      "keyPoints": [
+        "En som har opparbeidet seg noen år med Finn-kompetanse, er komiker Jan Tore Kristoffersen. – Jeg kjøper alt på Finn, tydeligvis, sa han i en podkast med kollega Henrik Fladseth i 2019.",
+        "Med fremveksten av Finn.no og andre bruktmarkeder har en egenskap som man tidligere forbant mest med sydligere strøk, blitt vanlig – nemlig pruting. – Vi elsker å prute, men vi pruter ikke så utrolig mye, sier Anders Spilling.",
+        "Kristoffersen har et annet triks han mener fungerer bedre. – Hvis du klikker deg inn på profilen til selgeren og ser at de har noe annet smått som du også kunne tenke deg, så foreslår du å lage en pakke, slik at selgeren kan tenke at «her ble jeg kvitt to ting i én smell».",
+        "Komiker Jan Tore Kristoffersen kommer med to tips for hvordan man kan gjøre et kupp."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/6q1jq8/advarer-mot-prutetabbe",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6f9478cc-ca9d-3d6c-9922-de32db2708f0?fit=crop&h=675&upscale=true&w=1200&s=ead1e4f93ce8b498059397bae2a06938aa9cf254",
+      "localImage": "assets/news/5d09d9a7ace4f0.png",
+      "score": 13
+    },
+    {
       "id": "c7f6d122cfd7f2",
       "category": "Norge",
       "published": "06.09. 08:24",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3W-vMpxBE_ebJ85FYgsg5Q_Vke32S1qnwZRCLjbAk3oQ.jpg",
       "localImage": "assets/news/c7f6d122cfd7f2.jpg",
-      "score": 13
-    },
-    {
-      "id": "951ea794562b01",
-      "category": "Økonomi",
-      "published": "06.09. 08:08",
-      "publishedISO": "2026-09-06T08:08:08+02:00",
-      "title": "Vellykket rakettoppskytning fra Andøya Space: – Helt fantastisk",
-      "summary": "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12. CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie. Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
-      "keyPoints": [
-        "Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
-        "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12.",
-        "CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie.",
-        "Oppskytingen markerer et gjennombrudd for norsk og europeisk romvirksomhet, og er et resultat av samarbeidet mellom tyske Isar Aerospace og norske Andøya Space."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/xrdbnX/ny-rakettoppskyting-fra-andoeya-space",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/623b4459-18b4-37f2-9af5-e313f6cb4165?fit=crop&h=675&upscale=true&w=1200&s=0c5bb8467a2acdb49e1a0213dfb3c90fc6170924",
-      "localImage": "assets/news/951ea794562b01.jpg",
       "score": 13
     }
   ]
