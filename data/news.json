@@ -1,28 +1,28 @@
 {
-  "updatedAt": "06.09.2026 kl. 11:11",
-  "updatedISO": "2026-09-06T11:11:18.520379+02:00",
+  "updatedAt": "06.09.2026 kl. 11:26",
+  "updatedISO": "2026-09-06T11:26:45.322347+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "1d8480fff3d44f",
+      "id": "7fe9c0f8bde4bc",
       "category": "Norge",
-      "published": "05.09. 21:03",
-      "publishedISO": "2026-09-05T21:03:36+02:00",
-      "title": "Havnaa knuste Løke på hjemmebane",
-      "summary": "Det var tett med folk rundt bokseringen under den mye omtalte boksekampen mellom Kai Robin Havnaa og Frank Røke i Pollen lørdag kveld. Det var ventet opp mot 4000 tilskuere til den mye omtalte show-kampen mellom Løke og arendalitten Havnaa. Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
+      "published": "06.09. 11:12",
+      "publishedISO": "2026-09-06T11:12:36+02:00",
+      "title": "Forberedelsene til kong Haralds gravferd fortsetter søndag",
+      "summary": "Søndag fortsetter forberedelsene til kong Harald V sin gravferd. Kadetter fra landets krigsskoler gjør seg klare til å ta imot sørgende i domkirken. – Vi vil gi kong Harald en verdig avskjed, sier kadettene Helena Sales, 22 år, og Sander Solberg, 23 år. De har ansvaret for å ta imot gjestene som skal komme til kirken under kong Haralds gravferd. – I utgangspunktet er det veldig lite som kan gå galt.",
       "keyPoints": [
-        "Det var ventet opp mot 4000 tilskuere til den mye omtalte show-kampen mellom Løke og arendalitten Havnaa.",
-        "Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
-        "Det var tett med folk rundt bokseringen under den mye omtalte boksekampen mellom Kai Robin Havnaa og Frank Røke i Pollen lørdag kveld.",
-        "Havnaa og Løke skulle opprinnelig bokset klokken 21.45, men kampen ble utsatt en halvtime."
+        "Søndag fortsetter forberedelsene til kong Harald V sin gravferd.",
+        "De har ansvaret for å ta imot gjestene som skal komme til kirken under kong Haralds gravferd. – I utgangspunktet er det veldig lite som kan gå galt.",
+        "Kadetter fra landets krigsskoler gjør seg klare til å ta imot sørgende i domkirken. – Vi vil gi kong Harald en verdig avskjed, sier kadettene Helena Sales, 22 år, og Sander Solberg, 23 år.",
+        "I tillegg skal dn dekoreres med granbar, og fiolette tekstiler. – Granbaret minner oss om den eviggrønne saligheten og evigheten, sier Balstad. – Og samtidig er det også et fint symbol, nettopp fordi kong Harald var glad i naturen, og han var et friluftsmenneske."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/havnaa-knuste-loke-pa-hjemmebane-1.18015446",
+      "url": "https://www.nrk.no/stor-oslo/forberedelsene-til-kong-haralds-gravferd-fortsetter-sondag-1.18015793",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/l1AK0zJKp6QcIgmYnXXbJQyartqGhw47svB4Wf8wOjuw.jpg",
-      "localImage": "assets/news/1d8480fff3d44f.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/ogM0hdi99JZv91uUxDu-lQU_aGVVktUJu1qKMpwMpr1A.jpg",
+      "localImage": "assets/news/7fe9c0f8bde4bc.jpg",
+      "score": 17
     },
     {
       "id": "4f4cc78b15c7e6",
@@ -130,24 +130,45 @@
       "score": 14
     },
     {
-      "id": "bd99c35d5cb204",
+      "id": "1d8480fff3d44f",
       "category": "Norge",
-      "published": "06.09. 11:05",
-      "publishedISO": "2026-09-06T11:05:50+02:00",
-      "title": "Oppskytningen fra Andøya: Har fått kontakt med satelitten",
-      "summary": "Etter at rakettoppskytningen fra Andøya lykkes i går, har de nå fått kontakt med den norske satelitten. – Vi fikk kontakt med satelitten i natt rundt klokken ett, bekrefter pressesjef i studentorganisasjonen Orbit, Sara Heitmann. Orbit er knyttet til Norges teknisk-naturvitenskapelige universitet (NTNU) og fikk være med å bygge norske satelitten «FramSat-1» som ble sendt opp med raketten «Spectrum 2» fra Andøya lørdag kveld. Satelitten deres var den eneste norske satelitten ombord, og har nå begynt å sende ut signaler fra rommet. – Vi fikk først kontakt med den i Trondheim på antennen som står på NTNU, og senere har vi også fått kontakt fra Svalbard satelittstasjon, hvor vi har fått lov til å låne en antenne, forteller Heitmann.",
+      "published": "05.09. 21:03",
+      "publishedISO": "2026-09-05T21:03:36+02:00",
+      "title": "Havnaa knuste Løke på hjemmebane",
+      "summary": "Det var tett med folk rundt bokseringen under den mye omtalte boksekampen mellom Kai Robin Havnaa og Frank Røke i Pollen lørdag kveld. Det var ventet opp mot 4000 tilskuere til den mye omtalte show-kampen mellom Løke og arendalitten Havnaa. Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
       "keyPoints": [
-        "Etter at rakettoppskytningen fra Andøya lykkes i går, har de nå fått kontakt med den norske satelitten. – Vi fikk kontakt med satelitten i natt rundt klokken ett, bekrefter pressesjef i studentorganisasjonen Orbit, Sara Heitmann.",
-        "Satelitten deres var den eneste norske satelitten ombord, og har nå begynt å sende ut signaler fra rommet. – Vi fikk først kontakt med den i Trondheim på antennen som står på NTNU, og senere har vi også fått kontakt fra Svalbard satelittstasjon, hvor vi har fått lov til å låne en antenne, forteller Heitmann.",
-        "Orbit er knyttet til Norges teknisk-naturvitenskapelige universitet (NTNU) og fikk være med å bygge norske satelitten «FramSat-1» som ble sendt opp med raketten «Spectrum 2» fra Andøya lørdag kveld.",
-        "På det sjette forsøket og etter 14 måneder gikk det endelig å skyte opp en rakett fra Andøya med kurs rundt jorden."
+        "Det var ventet opp mot 4000 tilskuere til den mye omtalte show-kampen mellom Løke og arendalitten Havnaa.",
+        "Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
+        "Det var tett med folk rundt bokseringen under den mye omtalte boksekampen mellom Kai Robin Havnaa og Frank Røke i Pollen lørdag kveld.",
+        "Havnaa og Løke skulle opprinnelig bokset klokken 21.45, men kampen ble utsatt en halvtime."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/oppskytningen-fra-andoya_-har-fatt-kontakt-med-satelitten-1.18015744",
+      "url": "https://www.nrk.no/sorlandet/havnaa-knuste-loke-pa-hjemmebane-1.18015446",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/l1AK0zJKp6QcIgmYnXXbJQyartqGhw47svB4Wf8wOjuw.jpg",
+      "localImage": "assets/news/1d8480fff3d44f.jpg",
+      "score": 15
+    },
+    {
+      "id": "09dbd1090c2d2d",
+      "category": "Norge",
+      "published": "06.09. 11:05",
+      "publishedISO": "2026-09-06T11:05:50+02:00",
+      "title": "Oppskytningen fra Andøya: Har fått kontakt med satellitten",
+      "summary": "Etter at rakettoppskytningen fra Andøya lykkes i går, har de nå fått kontakt med den norske satellitten. – Vi fikk kontakt med satellitten i natt rundt klokken ett, bekrefter pressesjef i studentorganisasjonen Orbit, Sara Heitmann. Orbit er knyttet til Norges teknisk-naturvitenskapelige universitet (NTNU) og fikk være med å bygge norske satellitten «FramSat-1» som ble sendt opp med raketten «Spectrum 2» fra Andøya lørdag kveld. Satellitten deres var den eneste norske satellitten ombord, og har nå begynt å sende ut signaler fra rommet. – Vi fikk først kontakt med den i Trondheim på antennen som står på NTNU, og senere har vi også fått kontakt fra Svalbard satellittstasjon, hvor vi har fått lov til å låne en antenne, forteller Heitmann.",
+      "keyPoints": [
+        "Etter at rakettoppskytningen fra Andøya lykkes i går, har de nå fått kontakt med den norske satellitten. – Vi fikk kontakt med satellitten i natt rundt klokken ett, bekrefter pressesjef i studentorganisasjonen Orbit, Sara Heitmann.",
+        "Satellitten deres var den eneste norske satellitten ombord, og har nå begynt å sende ut signaler fra rommet. – Vi fikk først kontakt med den i Trondheim på antennen som står på NTNU, og senere har vi også fått kontakt fra Svalbard satellittstasjon, hvor vi har fått lov til å låne en antenne, forteller Heitmann.",
+        "Orbit er knyttet til Norges teknisk-naturvitenskapelige universitet (NTNU) og fikk være med å bygge norske satellitten «FramSat-1» som ble sendt opp med raketten «Spectrum 2» fra Andøya lørdag kveld.",
+        "På det sjette forsøket og etter 14 måneder gikk det endelig å skyte opp en rakett fra Andøya som skulle sende last i bane rundt jorden."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/oppskytningen-fra-andoya_-har-fatt-kontakt-med-satellitten-1.18015744",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/o382JfwtLhD-LT15rQldQQpS68i4EG87EaUXiMu9vWNg",
-      "localImage": "assets/news/bd99c35d5cb204.jpg",
+      "localImage": "assets/news/09dbd1090c2d2d.jpg",
       "score": 13
     },
     {
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3W-vMpxBE_ebJ85FYgsg5Q_Vke32S1qnwZRCLjbAk3oQ.jpg",
       "localImage": "assets/news/c7f6d122cfd7f2.jpg",
-      "score": 13
-    },
-    {
-      "id": "951ea794562b01",
-      "category": "Økonomi",
-      "published": "06.09. 08:08",
-      "publishedISO": "2026-09-06T08:08:08+02:00",
-      "title": "Vellykket rakettoppskytning fra Andøya Space: – Helt fantastisk",
-      "summary": "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12. CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie. Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
-      "keyPoints": [
-        "Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
-        "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12.",
-        "CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie.",
-        "Oppskytingen markerer et gjennombrudd for norsk og europeisk romvirksomhet, og er et resultat av samarbeidet mellom tyske Isar Aerospace og norske Andøya Space."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/xrdbnX/ny-rakettoppskyting-fra-andoeya-space",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/623b4459-18b4-37f2-9af5-e313f6cb4165?fit=crop&h=675&upscale=true&w=1200&s=0c5bb8467a2acdb49e1a0213dfb3c90fc6170924",
-      "localImage": "assets/news/951ea794562b01.jpg",
       "score": 13
     }
   ]
