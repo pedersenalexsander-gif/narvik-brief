@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 13:38",
-  "updatedISO": "2026-09-06T13:38:59.296925+02:00",
+  "updatedAt": "06.09.2026 kl. 13:51",
+  "updatedISO": "2026-09-06T13:51:59.976937+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,27 +88,6 @@
       "score": 14
     },
     {
-      "id": "db01696b7abd08",
-      "category": "Økonomi",
-      "published": "05.09. 17:48",
-      "publishedISO": "2026-09-05T17:48:57+02:00",
-      "title": "Bitter skilsmisse kan koste eierskap i hedgefondet",
-      "summary": "Hedgefond-grunnleggeren forklarte at han mener hans eierskap i selskapet han startet 2001 nå er i spill, og at han kan miste kontrollen i selskapet. Laura Overdeck krever langt mer, og har bedt om 35 prosent av Two Sigma, noe hun har verdsatt til 6,2 milliarder dollar, eller over 60 milliarder kroner, ifølge Bloomberg. Hedgefondet forvalter om lag 70 milliarder dollar, tilsvarende over 700 milliarder kroner, ifølge Bloomberg.",
-      "keyPoints": [
-        "Hedgefond-grunnleggeren forklarte at han mener hans eierskap i selskapet han startet 2001 nå er i spill, og at han kan miste kontrollen i selskapet.",
-        "Hedgefondet forvalter om lag 70 milliarder dollar, tilsvarende over 700 milliarder kroner, ifølge Bloomberg.",
-        "Laura Overdeck krever langt mer, og har bedt om 35 prosent av Two Sigma, noe hun har verdsatt til 6,2 milliarder dollar, eller over 60 milliarder kroner, ifølge Bloomberg.",
-        "Overdeck har tilbudt kona Laura 723 millioner dollar, noe som er over 7 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/OkXeGb/bitter-skilsmisse-kan-koste-eierskap-i-hedgefondet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f39960f8-8f5b-3329-a33d-beba396c7784?fit=crop&h=675&upscale=true&w=1200&s=eedd68b6a91591bde4c2f1381d0fd5f96df7066c",
-      "localImage": "assets/news/db01696b7abd08.jpg",
-      "score": 14
-    },
-    {
       "id": "dd21036a00aa74",
       "category": "Økonomi",
       "published": "06.09. 13:25",
@@ -190,6 +169,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6f9478cc-ca9d-3d6c-9922-de32db2708f0?fit=crop&h=675&upscale=true&w=1200&s=ead1e4f93ce8b498059397bae2a06938aa9cf254",
       "localImage": "assets/news/5d09d9a7ace4f0.png",
+      "score": 13
+    },
+    {
+      "id": "db01696b7abd08",
+      "category": "Økonomi",
+      "published": "05.09. 17:48",
+      "publishedISO": "2026-09-05T17:48:57+02:00",
+      "title": "Bitter skilsmisse kan koste eierskap i hedgefondet",
+      "summary": "Hedgefond-grunnleggeren forklarte at han mener hans eierskap i selskapet han startet 2001 nå er i spill, og at han kan miste kontrollen i selskapet. Laura Overdeck krever langt mer, og har bedt om 35 prosent av Two Sigma, noe hun har verdsatt til 6,2 milliarder dollar, eller over 60 milliarder kroner, ifølge Bloomberg. Hedgefondet forvalter om lag 70 milliarder dollar, tilsvarende over 700 milliarder kroner, ifølge Bloomberg.",
+      "keyPoints": [
+        "Hedgefond-grunnleggeren forklarte at han mener hans eierskap i selskapet han startet 2001 nå er i spill, og at han kan miste kontrollen i selskapet.",
+        "Hedgefondet forvalter om lag 70 milliarder dollar, tilsvarende over 700 milliarder kroner, ifølge Bloomberg.",
+        "Laura Overdeck krever langt mer, og har bedt om 35 prosent av Two Sigma, noe hun har verdsatt til 6,2 milliarder dollar, eller over 60 milliarder kroner, ifølge Bloomberg.",
+        "Overdeck har tilbudt kona Laura 723 millioner dollar, noe som er over 7 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/OkXeGb/bitter-skilsmisse-kan-koste-eierskap-i-hedgefondet",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/f39960f8-8f5b-3329-a33d-beba396c7784?fit=crop&h=675&upscale=true&w=1200&s=eedd68b6a91591bde4c2f1381d0fd5f96df7066c",
+      "localImage": "assets/news/db01696b7abd08.jpg",
       "score": 13
     },
     {
