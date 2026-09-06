@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 11:40",
-  "updatedISO": "2026-09-06T11:40:53.500082+02:00",
+  "updatedAt": "06.09.2026 kl. 11:51",
+  "updatedISO": "2026-09-06T11:51:50.314981+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,48 +23,6 @@
       "image": "https://gfx.nrk.no/ogM0hdi99JZv91uUxDu-lQU_aGVVktUJu1qKMpwMpr1A.jpg",
       "localImage": "assets/news/7fe9c0f8bde4bc.jpg",
       "score": 17
-    },
-    {
-      "id": "4f4cc78b15c7e6",
-      "category": "Verden",
-      "published": "06.09. 09:06",
-      "publishedISO": "2026-09-06T09:06:50+02:00",
-      "title": "Anak Krakatau: Volcano eruption triggers flight suspensions at Indonesia's main airport",
-      "summary": "Anak Krakataus siste utbrudd har kansellert flyreiser og tvunget noen skoler til å stoppe aktiviteter. Et vulkanutbrudd har stoppet hundrevis av flyreiser på Indonesias viktigste internasjonale flyplass, og har strandet titusenvis av passasjerer. Myndighetene sa at 209 flyvninger ble innstilt etter at aske fra Anak Krakatau ble oppdaget i luftrommet nær Jakartas Soekarno-Hatta internasjonale lufthavn søndag morgen. Anak Krakatau kollaps: \"Advarselsskilt var der\" En vulkanolog forklarer Indonesia-utbruddsbilder",
-      "keyPoints": [
-        "Anak Krakataus siste utbrudd har kansellert flyreiser og tvunget noen skoler til å stoppe aktiviteter. Et vulkanutbrudd har stoppet hundrevis av flyreiser på Indonesias viktigste internasjonale flyplass, og har strandet titusenvis av passasjerer.",
-        "Myndighetene sa at 209 flyvninger ble innstilt etter at aske fra Anak Krakatau ble oppdaget i luftrommet nær Jakartas Soekarno-Hatta internasjonale lufthavn søndag morgen.",
-        "Anak Krakatau collapse: 'Warning signs were there' A volcanologist explains Indonesia eruption images",
-        "Anak Krakatau, som betyr barn av Krakatoa, har vært sporadisk aktiv siden den dukket opp fra havet på begynnelsen av forrige århundre i kalderaen som ble dannet etter utbruddet av Krakatoa-fjellet i 1883."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg",
-      "localImage": "assets/news/4f4cc78b15c7e6.jpg",
-      "score": 13
-    },
-    {
-      "id": "8baa46aad4770e",
-      "category": "USA",
-      "published": "05.09. 08:20",
-      "publishedISO": "2026-09-05T08:20:04+02:00",
-      "title": "Trump's response is key as Argentina's Falklands demands get louder",
-      "summary": "Argentinas president Javier Milei nyter et varmt forhold til president Trump. Tonen over Falklandsøyenes konflikt har blitt skjerpet i Argentina fra lenge før president Javier Mileis nasjonale tale om sanksjoner sent på kvelden tidligere denne uken. Storbritannias støtte til Falklandsøyene \"urokkelig\" etter at Argentina gjentar påstander, nr. 10 sier at den britiske regjeringen ville si at han beleilig overså noen få detaljer: øyene – som de europeiske maktene hadde byttet kontroll over gjennom hele 1600- og 1700-tallet – var ubebodd på det tidspunktet britene okkuperte landet igjen. President Milei mener absolutt det. «Endringens vinder» blåste, forsikret han det argentinske folket, etter at president Trump sa at han «re-evaluerte» USAs posisjon på Falklandsøyene.",
-      "keyPoints": [
-        "Argentinas president Javier Milei nyter et varmt forhold til president Trump. Tonen over Falklandsøyenes konflikt har blitt skjerpet i Argentina fra lenge før president Javier Mileis nasjonale tale om sanksjoner sent på kvelden tidligere denne uken.",
-        "President Milei mener absolutt det. «Endringens vinder» blåste, forsikret han det argentinske folket, etter at president Trump sa at han «re-evaluerte» USAs posisjon på Falklandsøyene.",
-        "Storbritannias støtte til Falklandsøyene \"urokkelig\" etter at Argentina gjentar påstander, nr. 10 sier at den britiske regjeringen ville si at han beleilig overså noen få detaljer: øyene – som de europeiske maktene hadde byttet kontroll over gjennom hele 1600- og 1700-tallet – var ubebodd på det tidspunktet britene okkuperte landet igjen.",
-        "I sin tale malte Javier Milei Argentina som en pålitelig og «pålitelig partner» til Washington, og han nyter Trumps støtte, både ideologisk og personlig."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg",
-      "localImage": "assets/news/8baa46aad4770e.jpg",
-      "score": 12
     },
     {
       "id": "29b6f2a84605dd",
@@ -106,27 +64,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a254cc10-32ff-338a-a715-b7a0683ae053?fit=crop&h=675&upscale=true&w=1200&s=ac5686b93e772a7e136a053ee965acbd0c18f7c0",
       "localImage": "assets/news/dbe71a6b0a7319.jpg",
-      "score": 14
-    },
-    {
-      "id": "7194e14a6fdfe2",
-      "category": "AI",
-      "published": "04.09. 16:59",
-      "publishedISO": "2026-09-04T16:59:13+02:00",
-      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-      "summary": "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face. Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den. Nvidia inngår en avtale på 12,9 milliarder dollar for å kjøpe AI-plattformen Hugging Face Uventet chat mellom OpenAI-agenter førte til Hugging Face-hack",
-      "keyPoints": [
-        "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face.",
-        "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face Unexpected chat between OpenAI agents led to Hugging Face hack",
-        "Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den.",
-        "Hugging Faces systemer ble separat hacket av OpenAI-agenter i juli, med hendelsen beskrevet på den tiden som verdens første AI-aktiverte cyberangrep."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
-      "localImage": "assets/news/7194e14a6fdfe2.jpg",
       "score": 14
     },
     {
@@ -211,6 +148,69 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6f9478cc-ca9d-3d6c-9922-de32db2708f0?fit=crop&h=675&upscale=true&w=1200&s=ead1e4f93ce8b498059397bae2a06938aa9cf254",
       "localImage": "assets/news/5d09d9a7ace4f0.png",
+      "score": 13
+    },
+    {
+      "id": "c7f6d122cfd7f2",
+      "category": "Norge",
+      "published": "06.09. 08:24",
+      "publishedISO": "2026-09-06T08:24:01+02:00",
+      "title": "Hjelper barn i Nepal: – En vanvittig stor humanitær katastrofe",
+      "summary": "Det er en vanvittig stor humanitær katastrofe, sier Ida Oleanna Hagen, generalsekretær i FORUT. Bistandsorganisasjonen FORUT har sitt hovedkontor på Gjøvik i Innlandet, men hjelper til i katastrofen med FORUTs lokalpartner, Child Workers In Nepal (CWIN). De som hjelper jobber med å gi mest mulig trygghet etter katastrofen. – Det de sier, er at barn trenger helt normale ting.",
+      "keyPoints": [
+        "Det er en vanvittig stor humanitær katastrofe, sier Ida Oleanna Hagen, generalsekretær i FORUT.",
+        "Bistandsorganisasjonen FORUT har sitt hovedkontor på Gjøvik i Innlandet, men hjelper til i katastrofen med FORUTs lokalpartner, Child Workers In Nepal (CWIN).",
+        "De som hjelper jobber med å gi mest mulig trygghet etter katastrofen. – Det de sier, er at barn trenger helt normale ting.",
+        "Den 26. august ble Nepal rammet av en voldsom flomkatastrofe."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/forut-_-en-norsk-organisasjon-i-gjovik-bistar-med-midler-til-arbeid-med-barn-i-nepal_-_-verdifull-1.18012972",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/3W-vMpxBE_ebJ85FYgsg5Q_Vke32S1qnwZRCLjbAk3oQ.jpg",
+      "localImage": "assets/news/c7f6d122cfd7f2.jpg",
+      "score": 13
+    },
+    {
+      "id": "951ea794562b01",
+      "category": "Økonomi",
+      "published": "06.09. 08:08",
+      "publishedISO": "2026-09-06T08:08:08+02:00",
+      "title": "Vellykket rakettoppskytning fra Andøya Space: – Helt fantastisk",
+      "summary": "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12. CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie. Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
+      "keyPoints": [
+        "Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
+        "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12.",
+        "CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie.",
+        "Oppskytingen markerer et gjennombrudd for norsk og europeisk romvirksomhet, og er et resultat av samarbeidet mellom tyske Isar Aerospace og norske Andøya Space."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/xrdbnX/ny-rakettoppskyting-fra-andoeya-space",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/623b4459-18b4-37f2-9af5-e313f6cb4165?fit=crop&h=675&upscale=true&w=1200&s=0c5bb8467a2acdb49e1a0213dfb3c90fc6170924",
+      "localImage": "assets/news/951ea794562b01.jpg",
+      "score": 13
+    },
+    {
+      "id": "6ca4745170f9ac",
+      "category": "Norge",
+      "published": "06.09. 07:51",
+      "publishedISO": "2026-09-06T07:51:33+02:00",
+      "title": "Bane Nor og Vy er min «toxic eks»",
+      "summary": "Jeg føler meg absolutt ikke prioritert, skriver kronikkforfatteren. (Bildet) Det har florert med nyheter om Bane Nor den siste tiden. Nei, Bane Nor og Vy har blitt definisjonen på min «toxic eks». SKUFFET: Vi har ikke lenger tillit til at togene skal gå som planlagt, skriver Raha Moafi. (Bildet) Når det er sagt, har jeg hatt veldig fine stunder med min eks, Bane Nor og Vy.",
+      "keyPoints": [
+        "Nei, Bane Nor og Vy har blitt definisjonen på min «toxic eks».",
+        "SKUFFET: Vi har ikke lenger tillit til at togene skal gå som planlagt, skriver Raha Moafi. (Bildet) Når det er sagt, har jeg hatt veldig fine stunder med min eks, Bane Nor og Vy.",
+        "Jeg føler meg absolutt ikke prioritert, skriver kronikkforfatteren. (Bildet) Det har florert med nyheter om Bane Nor den siste tiden.",
+        "Jeg har blitt i dette forholdet i tro og håp om at Bane Nor kom til å endre seg."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ytring/bane-nor-og-vy-er-min-_toxic-eks_-1.18002586",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/C_qthDZ3z6IDOsoYBadcVAqgojZ8AyBFKSwpZDsJyc0w.jpg",
+      "localImage": "assets/news/6ca4745170f9ac.jpg",
       "score": 13
     }
   ]
