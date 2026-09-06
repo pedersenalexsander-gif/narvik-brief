@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 16:51",
-  "updatedISO": "2026-09-06T16:51:48.953578+02:00",
+  "updatedAt": "06.09.2026 kl. 17:11",
+  "updatedISO": "2026-09-06T17:11:39.385096+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg",
       "localImage": "assets/news/224874dbe07d19.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "df71afcad5449f",
@@ -109,25 +109,67 @@
       "score": 13
     },
     {
-      "id": "1d8480fff3d44f",
+      "id": "b8bf34429ecb22",
       "category": "Norge",
-      "published": "05.09. 21:03",
-      "publishedISO": "2026-09-05T21:03:36+02:00",
-      "title": "Havnaa knuste Løke på hjemmebane",
-      "summary": "Det var tett med folk rundt bokseringen under den mye omtalte boksekampen mellom Kai Robin Havnaa og Frank Røke i Pollen lørdag kveld. Det var ventet opp mot 4000 tilskuere til den mye omtalte show-kampen mellom Løke og arendalitten Havnaa. Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
+      "published": "06.09. 17:01",
+      "publishedISO": "2026-09-06T17:01:52+02:00",
+      "title": "Satser på intensive mattekurs på Olav Duun videregående skole i Namsos",
+      "summary": "Det sier mattelærer Ørjan Moa ved Olav Duun videregående skole i Namsos. – I tillegg er det jo en del elever som trenger større utfordringer i faget. Mange av elevene synes det er fint at vi får dette kurset når vi starter på skolen, sier Romstad ved Olav Duun videregående skole. Nå gjør Olav Duun videregående det samme, men på en litt annen måte. – Vårt kurs går ut på at elevene deles inn i grupper hvor de jobber med oppgaver som vi mattelærerne ved skolen har laget.",
       "keyPoints": [
-        "Det var ventet opp mot 4000 tilskuere til den mye omtalte show-kampen mellom Løke og arendalitten Havnaa.",
-        "Tidligere proffbokser Kai Robin Havnaa møter Løke til duell i Pollen i kveld.",
-        "Det var tett med folk rundt bokseringen under den mye omtalte boksekampen mellom Kai Robin Havnaa og Frank Røke i Pollen lørdag kveld.",
-        "Havnaa og Løke skulle opprinnelig bokset klokken 21.45, men kampen ble utsatt en halvtime."
+        "Det sier mattelærer Ørjan Moa ved Olav Duun videregående skole i Namsos. – I tillegg er det jo en del elever som trenger større utfordringer i faget.",
+        "Mange av elevene synes det er fint at vi får dette kurset når vi starter på skolen, sier Romstad ved Olav Duun videregående skole.",
+        "Nå gjør Olav Duun videregående det samme, men på en litt annen måte. – Vårt kurs går ut på at elevene deles inn i grupper hvor de jobber med oppgaver som vi mattelærerne ved skolen har laget.",
+        "Intensive mattekurs skal hjelpe trønderske 16-åringer til å forstå faget bedre."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/havnaa-knuste-loke-pa-hjemmebane-1.18015446",
+      "url": "https://www.nrk.no/trondelag/satser-pa-intensive-mattekurs-pa-olav-duun-videregaende-skole-i-namsos-1.18009008",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/l1AK0zJKp6QcIgmYnXXbJQyartqGhw47svB4Wf8wOjuw.jpg",
-      "localImage": "assets/news/1d8480fff3d44f.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/a9Y-p9uaMbjB5Ew2GjpF-wwmyNrNV9EEbMkoSi3MYQkQ.jpg",
+      "localImage": "assets/news/b8bf34429ecb22.jpg",
+      "score": 13
+    },
+    {
+      "id": "c27d77820d9486",
+      "category": "Norge",
+      "published": "06.09. 16:56",
+      "publishedISO": "2026-09-06T16:56:56+02:00",
+      "title": "Overtidsdrama da United-seieren glapp – kanonscoring reddet Everton",
+      "summary": "Spenningen levde hele veien inn da Manchester United og Everton spilte 2–2 i Liverpool søndag. Scoringen sørget for at Everton reddet ett poeng, og unngikk sesongens første tap. Samtidig står Manchester United med ett tap, én uavgjort og én seier på sesongens tre første kamper Kimi Antonelli startet som nummer 19, men kunne til slutt juble som seierherre i Formel 1-runden i italienske Monza.",
+      "keyPoints": [
+        "Scoringen sørget for at Everton reddet ett poeng, og unngikk sesongens første tap.",
+        "Spenningen levde hele veien inn da Manchester United og Everton spilte 2–2 i Liverpool søndag.",
+        "Samtidig står Manchester United med ett tap, én uavgjort og én seier på sesongens tre første kamper Kimi Antonelli startet som nummer 19, men kunne til slutt juble som seierherre i Formel 1-runden i italienske Monza.",
+        "Flere nasjonale fotballforbund har krevd at han trekker seg eller erstattes, men fotballtoppen står hardt på at han ønsker å beholde posisjonen. «Fifa-presidenten kunngjorde i april at han vil stille til gjenvalg i 2027."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/overtidsdrama-da-united-seieren-glapp-_-kanonscoring-reddet-everton-1.18015983",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/tQdlZPQXDXzV7tekbak3qQBZ5lDX-esaHXNAY97CgLBQ.jpg",
+      "localImage": "assets/news/c27d77820d9486.jpg",
+      "score": 13
+    },
+    {
+      "id": "e7cc9d36c6a3fa",
+      "category": "Norge",
+      "published": "06.09. 16:54",
+      "publishedISO": "2026-09-06T16:54:19+02:00",
+      "title": "Marie (100) har sommarjobb – må tvingast til å ta pausar",
+      "summary": "IKKJE FRED Å FÅ: Når Marie Jøndal (100) bakar, må folk sjå nærare. Når du er 100 år og har sommarjobb, er det nesten ikkje fred å få. Trass i alle menneska som stikk hovudet innom: Marie Jøndal mister ikkje konsentrasjonen eit sekund.",
+      "keyPoints": [
+        "IKKJE FRED Å FÅ: Når Marie Jøndal (100) bakar, må folk sjå nærare.",
+        "Når du er 100 år og har sommarjobb, er det nesten ikkje fred å få.",
+        "Trass i alle menneska som stikk hovudet innom: Marie Jøndal mister ikkje konsentrasjonen eit sekund.",
+        "Det var ikkje gitt at Marie skulle bli kjend som bakstekjerringa på Lesja."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/xl/100-ar-gammal-og-i-sommarjobb_-marie-held-lefsetradisjonen-levande-pa-lesja-bygdemuseum-1.17990109",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/bU2TCcYnAh6KXiCoZThQQA4BRn9LkKqJxCd5PqS0hEsg.jpg",
+      "localImage": "assets/news/e7cc9d36c6a3fa.jpg",
+      "score": 13
     },
     {
       "id": "01cb62c8d8e45d",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/IYigQPL_fJ-HYSRVUfsvGAMCFvCq9yfeJRKgGb3O5Y2A.jpg",
       "localImage": "assets/news/fac6b29635edb4.jpg",
-      "score": 13
-    },
-    {
-      "id": "a7a31c6b3d42a3",
-      "category": "Norge",
-      "published": "06.09. 14:02",
-      "publishedISO": "2026-09-06T14:02:49+02:00",
-      "title": "Slik blir kong Haralds gravferd",
-      "summary": "Kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus og prinsesse Märtha Louise følger kong Haralds båre til fots, mens dronning Mette-Marit og dronning Sonja følger i bil. Kong Haralds gravferd er onsdag 9. september klokken 13 i Oslo domkirke. Én time før skal sørgeprosesjonen med båren gå fra Slottet til domkirken. Du kan følge kong Haralds gravferd direkte på NRK.no, NRK TV og NRK Radio.",
-      "keyPoints": [
-        "Kong Haralds gravferd er onsdag 9. september klokken 13 i Oslo domkirke. Én time før skal sørgeprosesjonen med båren gå fra Slottet til domkirken.",
-        "Kong Haakon, kronprinsesse Ingrid Alexandra, prins Sverre Magnus og prinsesse Märtha Louise følger kong Haralds båre til fots, mens dronning Mette-Marit og dronning Sonja følger i bil.",
-        "Du kan følge kong Haralds gravferd direkte på NRK.no, NRK TV og NRK Radio.",
-        "Les gjerne nedover, eller du kan klikke deg direkte til et punkt i oversikten under her: Før kong Haralds båre forlater Slottet for siste gang, skal de nærmeste ha en privat stund i Slottskapellet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/xl/slik-blir-kong-haralds-gravferd-1.18015368",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/4WiSMhOmzcn1aJNg2HNkbAsAJR7dClXe4wivpeMZfNfw.jpg",
-      "localImage": "assets/news/a7a31c6b3d42a3.jpg",
-      "score": 13
-    },
-    {
-      "id": "694997659fae20",
-      "category": "Norge",
-      "published": "06.09. 13:59",
-      "publishedISO": "2026-09-06T13:59:28+02:00",
-      "title": "Samtaler om fred i Kyiv med amerikanske spesial­utsendinger",
-      "summary": "Dagen før møtte dei amerikanske spesial­utsendingane Russlands president. Søndag er USAs spesial­utsendingane Steve Witkoff og Jared Kushner på plass i Kyiv, der dei skal ha eit møte med Ukrainas president Volodymyr Zelenskyj. – Vi er interessert i å bringe krigen nærmare ein slutt, skriv Zelenskyj på Telegram kort tid før møtet. – Fred er nødvendig. Kort tid før det amerikanske møtet i Kyiv stadfesta det ukrainske militæret at dei natt til søndag gjennomførte eit angrep mot eit oljeraffineri i Rjazan søraust for Moskva.",
-      "keyPoints": [
-        "Søndag er USAs spesial­utsendingane Steve Witkoff og Jared Kushner på plass i Kyiv, der dei skal ha eit møte med Ukrainas president Volodymyr Zelenskyj. – Vi er interessert i å bringe krigen nærmare ein slutt, skriv Zelenskyj på Telegram kort tid før møtet. – Fred er nødvendig.",
-        "Kort tid før det amerikanske møtet i Kyiv stadfesta det ukrainske militæret at dei natt til søndag gjennomførte eit angrep mot eit oljeraffineri i Rjazan søraust for Moskva.",
-        "Dagen før møtte dei amerikanske spesial­utsendingane Russlands president.",
-        "Samtalane om moglege løysingar i arbeidet for fred har vore nyttige, stadfesta både amerikanske og russiske myndigheiter laurdag kveld."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/samtaler-om-fred-i-kyiv-med-amerikanske-spesialutsendinger-1.18015863",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sTeyHryhQdXkjKCIiXrzYwwoFyTVu0seSH4PbujV-v9Q.jpg",
-      "localImage": "assets/news/694997659fae20.jpg",
       "score": 13
     }
   ]
