@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 08:14",
-  "updatedISO": "2026-09-06T08:14:24.727753+02:00",
+  "updatedAt": "06.09.2026 kl. 08:34",
+  "updatedISO": "2026-09-06T08:34:25.006396+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "c7f6d122cfd7f2",
+      "category": "Norge",
+      "published": "06.09. 08:24",
+      "publishedISO": "2026-09-06T08:24:01+02:00",
+      "title": "Hjelper barn i Nepal: – En vanvittig stor humanitær katastrofe",
+      "summary": "Det er en vanvittig stor humanitær katastrofe, sier Ida Oleanna Hagen, generalsekretær i FORUT. Bistandsorganisasjonen FORUT har sitt hovedkontor på Gjøvik i Innlandet, men hjelper til i katastrofen med FORUTs lokalpartner, Child Workers In Nepal (CWIN). De som hjelper jobber med å gi mest mulig trygghet etter katastrofen. – Det de sier, er at barn trenger helt normale ting.",
+      "keyPoints": [
+        "Det er en vanvittig stor humanitær katastrofe, sier Ida Oleanna Hagen, generalsekretær i FORUT.",
+        "Bistandsorganisasjonen FORUT har sitt hovedkontor på Gjøvik i Innlandet, men hjelper til i katastrofen med FORUTs lokalpartner, Child Workers In Nepal (CWIN).",
+        "De som hjelper jobber med å gi mest mulig trygghet etter katastrofen. – Det de sier, er at barn trenger helt normale ting.",
+        "Den 26. august ble Nepal rammet av en voldsom flomkatastrofe."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/forut-_-en-norsk-organisasjon-i-gjovik-bistar-med-midler-til-arbeid-med-barn-i-nepal_-_-verdifull-1.18012972",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/3W-vMpxBE_ebJ85FYgsg5Q_Vke32S1qnwZRCLjbAk3oQ.jpg",
+      "localImage": "assets/news/c7f6d122cfd7f2.jpg",
+      "score": 13
+    },
+    {
       "id": "951ea794562b01",
       "category": "Økonomi",
       "published": "06.09. 08:08",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/623b4459-18b4-37f2-9af5-e313f6cb4165?fit=crop&h=675&upscale=true&w=1200&s=0c5bb8467a2acdb49e1a0213dfb3c90fc6170924",
       "localImage": "assets/news/951ea794562b01.jpg",
-      "score": 13
-    },
-    {
-      "id": "6ca4745170f9ac",
-      "category": "Norge",
-      "published": "06.09. 07:51",
-      "publishedISO": "2026-09-06T07:51:33+02:00",
-      "title": "Bane Nor og Vy er min «toxic eks»",
-      "summary": "Jeg føler meg absolutt ikke prioritert, skriver kronikkforfatteren. (Bildet) Det har florert med nyheter om Bane Nor den siste tiden. Nei, Bane Nor og Vy har blitt definisjonen på min «toxic eks». SKUFFET: Vi har ikke lenger tillit til at togene skal gå som planlagt, skriver Raha Moafi. (Bildet) Når det er sagt, har jeg hatt veldig fine stunder med min eks, Bane Nor og Vy.",
-      "keyPoints": [
-        "Nei, Bane Nor og Vy har blitt definisjonen på min «toxic eks».",
-        "SKUFFET: Vi har ikke lenger tillit til at togene skal gå som planlagt, skriver Raha Moafi. (Bildet) Når det er sagt, har jeg hatt veldig fine stunder med min eks, Bane Nor og Vy.",
-        "Jeg føler meg absolutt ikke prioritert, skriver kronikkforfatteren. (Bildet) Det har florert med nyheter om Bane Nor den siste tiden.",
-        "Jeg har blitt i dette forholdet i tro og håp om at Bane Nor kom til å endre seg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ytring/bane-nor-og-vy-er-min-_toxic-eks_-1.18002586",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/C_qthDZ3z6IDOsoYBadcVAqgojZ8AyBFKSwpZDsJyc0w.jpg",
-      "localImage": "assets/news/6ca4745170f9ac.jpg",
       "score": 13
     }
   ]
