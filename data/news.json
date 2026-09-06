@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 03:52",
-  "updatedISO": "2026-09-06T03:52:52.952643+02:00",
+  "updatedAt": "06.09.2026 kl. 04:11",
+  "updatedISO": "2026-09-06T04:11:34.736774+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -127,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
       "localImage": "assets/news/7194e14a6fdfe2.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "8739cd2e10b410",
@@ -172,24 +172,24 @@
       "score": 15
     },
     {
-      "id": "1d0e6e26d124a9",
+      "id": "eee466dd486ee6",
       "category": "Verden",
-      "published": "05.09. 23:00",
-      "publishedISO": "2026-09-05T23:00:02+02:00",
-      "title": "Prince William to attend King Harald's funeral in Norway",
-      "summary": "Harald, den populære kongen av Norge, skal begraves i Oslo neste uke Prinsen av Wales deltar i begravelsen til kong Harald V av Norge onsdag i Oslo, opplyser Buckingham Palace. Kongelige kilder sier at prins Williams oppmøte, som representerer hans far kong Charles, følger konvensjonen om at monarken vanligvis ikke går i begravelsen til et annet statsoverhode. Ved begravelsen vil, sammen med prins William, være enkedronning Sonja, medlemmer av den norske kongefamilien inkludert den nye kong Haakon VIII, og andre europeiske kongelige.",
+      "published": "06.09. 03:54",
+      "publishedISO": "2026-09-06T03:54:29+02:00",
+      "title": "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home",
+      "summary": "Chandika Shrestha, en 64 år gammel kvinne, ble oppdaget i live i fjerde etasje i sitt delvis nedgravde hus i Nuwakot-distriktet av Nepals væpnede politistyrke 5. september, ifølge Reuters. Se: Øyeblikk 64 år gammel nepalesisk kvinne blir funnet i live i gjørmebegravet hjem. Video, 00:00:32Se: Øyeblikk 64 år gammel nepalsk kvinne blir funnet i live i gjørmebegravet hjem Up Next. «Et sjeldent øyeblikk av glede»: Tunnelredninger i Nepal gir håp for flere overlevende av flom.",
       "keyPoints": [
-        "Harald, den populære kongen av Norge, skal begraves i Oslo neste uke Prinsen av Wales deltar i begravelsen til kong Harald V av Norge onsdag i Oslo, opplyser Buckingham Palace.",
-        "Kongelige kilder sier at prins Williams oppmøte, som representerer hans far kong Charles, følger konvensjonen om at monarken vanligvis ikke går i begravelsen til et annet statsoverhode.",
-        "Ved begravelsen vil, sammen med prins William, være enkedronning Sonja, medlemmer av den norske kongefamilien inkludert den nye kong Haakon VIII, og andre europeiske kongelige.",
-        "Mens prins William skal være i Norge, har kong Charles returnert til Skottland, etter å ha møtt Frankrikes president Macron på Bayeux Tapestry-utstillingen i London denne uken."
+        "Watch: Moment 64-year-old Nepali woman is found alive in mud-buried home.",
+        "Chandika Shrestha, en 64 år gammel kvinne, ble oppdaget i live i fjerde etasje i sitt delvis nedgravde hus i Nuwakot-distriktet av Nepals væpnede politistyrke 5. september, ifølge Reuters.",
+        "Video, 00:01:29'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC Watch: Moment workers are rescued from Nepal tunnel.",
+        "Video, 00:01:10'Et sjeldent øyeblikk av glede': Tunnelredninger i Nepal gir håp for flere flomoverlevende Nepal sier at det vil trenge milliarder i finansiering for å gjenoppbygge etter oversvømmelser."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro",
+      "url": "https://www.bbc.co.uk/news/videos/c4gd24d1d0do",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg",
-      "localImage": "assets/news/1d0e6e26d124a9.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/645e/live/47458b70-a994-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/eee466dd486ee6.jpg",
       "score": 13
     },
     {
