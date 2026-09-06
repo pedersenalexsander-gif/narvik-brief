@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 20:54",
-  "updatedISO": "2026-09-06T20:54:49.655743+02:00",
+  "updatedAt": "06.09.2026 kl. 21:09",
+  "updatedISO": "2026-09-06T21:09:51.811987+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,10 +25,10 @@
       "score": 18
     },
     {
-      "id": "a1475ef4ce1a45",
+      "id": "9f11501b891a5c",
       "category": "Verden",
-      "published": "06.09. 20:15",
-      "publishedISO": "2026-09-06T20:15:11+02:00",
+      "published": "06.09. 21:05",
+      "publishedISO": "2026-09-06T21:05:07+02:00",
       "title": "German far-right set for big win in eastern state of Saxony-Anhalt - projections",
       "summary": "AfD-ledere var overlykkelige da utgangsmålinger anslått en stor ledelse i Sachsen-Anhalt-avstemningen Tysklands AfD er på vei mot en stor seier i den østlige delstaten Sachsen-Anhalt, langt foran sine mainstream-rivaler, ifølge de første anslagene. Det høyreekstreme partiet ligger an til å vinne mer enn 44 % av stemmene, godt foran den konservative CDU på 18,2 %. Sachsen-Anhalt har en liten befolkning på 2,1 millioner og AfD i delstaten vurderes av innenriks etterretning som «høyreekstremistisk», en klassifisering avvist av Siegmund.",
       "keyPoints": [
@@ -42,7 +42,7 @@
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/a1475ef4ce1a45.jpg",
+      "localImage": "assets/news/9f11501b891a5c.jpg",
       "score": 13
     },
     {
@@ -67,25 +67,25 @@
       "score": 22
     },
     {
-      "id": "df71afcad5449f",
+      "id": "e172b1991a942f",
       "category": "Økonomi",
-      "published": "06.09. 16:00",
-      "publishedISO": "2026-09-06T16:00:50+02:00",
-      "title": "Økning i tvangssalg av boliger: – Renten er en kvern",
-      "summary": "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp. Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp. Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
+      "published": "06.09. 19:58",
+      "publishedISO": "2026-09-06T19:58:56+02:00",
+      "title": "Canadas «oljefond» bygger datasenter i Norge",
+      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
       "keyPoints": [
-        "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp.",
-        "Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp.",
-        "Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
-        "Han sier sentralbanken ikke pleier å vise til tvangssalg når de vurderer om renten skal opp eller ned. – De er veldig opptatt av gjennomsnittet og hensyntar sånn sett ikke de svakeste."
+        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
+        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
+        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/n1XrBx/oekning-i-tvangssalg-av-boliger-renten-er-en-kvern",
+      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f7dc2963-a2bb-3b65-8478-5910c920d1a8?fit=crop&h=675&upscale=true&w=1200&s=066d7261d0c5e46c5e34954642c5783ef63e696e",
-      "localImage": "assets/news/df71afcad5449f.jpg",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
+      "localImage": "assets/news/e172b1991a942f.jpg",
+      "score": 16
     },
     {
       "id": "7194e14a6fdfe2",
@@ -130,24 +130,24 @@
       "score": 17
     },
     {
-      "id": "e172b1991a942f",
+      "id": "df71afcad5449f",
       "category": "Økonomi",
-      "published": "06.09. 19:58",
-      "publishedISO": "2026-09-06T19:58:56+02:00",
-      "title": "Canadas «oljefond» bygger datasenter i Norge",
-      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+      "published": "06.09. 16:00",
+      "publishedISO": "2026-09-06T16:00:50+02:00",
+      "title": "Økning i tvangssalg av boliger: – Renten er en kvern",
+      "summary": "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp. Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp. Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
       "keyPoints": [
-        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
-        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
-        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
-        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
+        "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp.",
+        "Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp.",
+        "Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
+        "Han sier sentralbanken ikke pleier å vise til tvangssalg når de vurderer om renten skal opp eller ned. – De er veldig opptatt av gjennomsnittet og hensyntar sånn sett ikke de svakeste."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
+      "url": "https://e24.no/norsk-oekonomi/i/n1XrBx/oekning-i-tvangssalg-av-boliger-renten-er-en-kvern",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
-      "localImage": "assets/news/e172b1991a942f.jpg",
+      "image": "https://akamai.vgc.no/v2/images/f7dc2963-a2bb-3b65-8478-5910c920d1a8?fit=crop&h=675&upscale=true&w=1200&s=066d7261d0c5e46c5e34954642c5783ef63e696e",
+      "localImage": "assets/news/df71afcad5449f.jpg",
       "score": 16
     },
     {
