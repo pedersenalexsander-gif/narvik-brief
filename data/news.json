@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 00:51",
-  "updatedISO": "2026-09-07T00:51:01.091208+02:00",
+  "updatedAt": "07.09.2026 kl. 01:10",
+  "updatedISO": "2026-09-07T01:10:39.084577+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "USAs sentralkommando la ut opptak på lørdag som viser angrep på Iran-tilknyttede tankskip Irans toppforhandler har advart om \"en raskere, tyngre og mer smertefull respons\" på amerikanske angrep, ettersom fiendtlighetene mellom de to sidene eskalerer.",
         "USAs forsvarsminister Pete Hegseth har utstedt sine egne trusler mot Iran, og skrev på sosiale medier på lørdag: \"Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankskipene deres.\" En 60-dagers våpenhvile mellom USA og Iran utløp formelt forrige måned, og denne perioden med relativ ro ble knust da USA gjenopptok angrepene sist søndag.",
         "Hans kommentarer kommer nesten en uke inn i fornyede kamper mellom Iran og USA, og en dag etter at Washington sa at det slo til iranske oljetankere som svar på at Teheran angrep amerikanske krigsskip i regionens farvann.",
-        "USA og Iran handler gjengjeldelsesangrep på skip når konflikten blusser Seks måneder inn i Iran-krigen: Hva har Trump oppnådd?"
+        "USA og Iran handler gjengjeldelsesangrep på skip når konflikten blusser Seks måneder inn i Iran-krigen: Hva har Trump utrettet?"
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -88,27 +88,6 @@
       "score": 17
     },
     {
-      "id": "e172b1991a942f",
-      "category": "Økonomi",
-      "published": "06.09. 19:58",
-      "publishedISO": "2026-09-06T19:58:56+02:00",
-      "title": "Canadas «oljefond» bygger datasenter i Norge",
-      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
-      "keyPoints": [
-        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
-        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
-        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
-        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
-      "localImage": "assets/news/e172b1991a942f.jpg",
-      "score": 16
-    },
-    {
       "id": "3b3937f75b81e9",
       "category": "Norge",
       "published": "06.09. 17:53",
@@ -149,6 +128,27 @@
       "image": "https://akamai.vgc.no/v2/images/f7dc2963-a2bb-3b65-8478-5910c920d1a8?fit=crop&h=675&upscale=true&w=1200&s=066d7261d0c5e46c5e34954642c5783ef63e696e",
       "localImage": "assets/news/df71afcad5449f.jpg",
       "score": 16
+    },
+    {
+      "id": "e172b1991a942f",
+      "category": "Økonomi",
+      "published": "06.09. 19:58",
+      "publishedISO": "2026-09-06T19:58:56+02:00",
+      "title": "Canadas «oljefond» bygger datasenter i Norge",
+      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+      "keyPoints": [
+        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
+        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
+        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
+      "localImage": "assets/news/e172b1991a942f.jpg",
+      "score": 15
     },
     {
       "id": "29b6f2a84605dd",
