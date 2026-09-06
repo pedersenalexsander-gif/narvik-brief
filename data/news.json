@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 23:52",
-  "updatedISO": "2026-09-06T23:52:36.643445+02:00",
+  "updatedAt": "07.09.2026 kl. 00:10",
+  "updatedISO": "2026-09-07T00:10:41.082716+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
       "localImage": "assets/news/e773db30774452.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "110daf58f61c0d",
@@ -86,27 +86,6 @@
       "image": "https://akamai.vgc.no/v2/images/02ffcb18-d93b-3b13-9fdb-2fa7fef25d35?fit=crop&h=675&upscale=true&w=1200&s=db78792dcec0a1ae486e6cfb7648ffab9530711f",
       "localImage": "assets/news/6176590125e321.jpg",
       "score": 17
-    },
-    {
-      "id": "7194e14a6fdfe2",
-      "category": "AI",
-      "published": "04.09. 16:59",
-      "publishedISO": "2026-09-04T16:59:13+02:00",
-      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-      "summary": "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face. Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den. Nvidia inngår en avtale på 12,9 milliarder dollar for å kjøpe AI-plattformen Hugging Face Uventet chat mellom OpenAI-agenter førte til Hugging Face-hack",
-      "keyPoints": [
-        "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face.",
-        "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face Unexpected chat between OpenAI agents led to Hugging Face hack",
-        "Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den.",
-        "Hugging Faces systemer ble separat hacket av OpenAI-agenter i juli, med hendelsen beskrevet på den tiden som verdens første AI-aktiverte cyberangrep."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
-      "localImage": "assets/news/7194e14a6fdfe2.jpg",
-      "score": 12
     },
     {
       "id": "e172b1991a942f",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ogM0hdi99JZv91uUxDu-lQU_aGVVktUJu1qKMpwMpr1A.jpg",
       "localImage": "assets/news/7fe9c0f8bde4bc.jpg",
+      "score": 15
+    },
+    {
+      "id": "240b53df884ff3",
+      "category": "Norge",
+      "published": "06.09. 10:26",
+      "publishedISO": "2026-09-06T10:26:39+02:00",
+      "title": "AfD nærmer seg makt i tysk delstat",
+      "summary": "For første gang siden andre verdenskrig kan et ytre høyre-parti komme til makten i en tysk delstat. Søndag kveld klokken 18 viser valgdagsmålingen i den tyske delstaten Sachsen-Anhalt at det ytre høyre-partiet Alternativ für Deutschland (AfD) ligger an til å få 44,5 prosent av stemmene. – Vi har skapt historie. Vinner partiet er det første gang et ytre høyre-parti kommer til makten i en tysk delstat siden andre verdenskrig.",
+      "keyPoints": [
+        "For første gang siden andre verdenskrig kan et ytre høyre-parti komme til makten i en tysk delstat.",
+        "Søndag kveld klokken 18 viser valgdagsmålingen i den tyske delstaten Sachsen-Anhalt at det ytre høyre-partiet Alternativ für Deutschland (AfD) ligger an til å få 44,5 prosent av stemmene. – Vi har skapt historie.",
+        "Ulrich Siegmund, toppkandidat for AfD i Sachsen-Anhalt, feirer søndagens valgdagsmåling som viser at partiet ligger an til å få 44,5 prosent av stemmene.",
+        "For AfD er delstatsvalget et springbrett mot partiets større ambisjoner om å sikre nasjonal makt i det neste føderale valget, som er planlagt til 2029. – Uansett resultatet av morgendagens valg, har vi allerede skrevet historie, sa partiets toppkandidat Ulrich Siegmund på et avsluttende valgmøte lørdag kveld."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/afd-naermer-seg-makt-i-tysk-delstat-1.18015699",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/MdYRsL4SCekQZFz8DlVs9g9NPkU9W2jg0_5IY6SOqa6Q.jpg",
+      "localImage": "assets/news/240b53df884ff3.jpg",
       "score": 15
     }
   ]
