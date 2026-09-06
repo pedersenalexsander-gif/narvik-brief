@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 10:54",
-  "updatedISO": "2026-09-06T10:54:57.577371+02:00",
+  "updatedAt": "06.09.2026 kl. 11:11",
+  "updatedISO": "2026-09-06T11:11:18.520379+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a254cc10-32ff-338a-a715-b7a0683ae053?fit=crop&h=675&upscale=true&w=1200&s=ac5686b93e772a7e136a053ee965acbd0c18f7c0",
       "localImage": "assets/news/dbe71a6b0a7319.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "db01696b7abd08",
@@ -130,46 +130,25 @@
       "score": 14
     },
     {
-      "id": "8739cd2e10b410",
-      "category": "Økonomi",
-      "published": "05.09. 10:03",
-      "publishedISO": "2026-09-05T10:03:51+02:00",
-      "title": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
-      "summary": "Kong Haakon VIII kan bli den første norske kongen siden Olav den hellige som ikke får portrettet sitt på en mynt. – Jeg synes det er historieløst av Norges Bank, sier Arne Riise, styreleder i Oslo Myntgalleri, til E24. Norges Bank opplyser at behovet for å produsere nye mynter vurderes fortløpende, blant annet på bakgrunn av etterspørselen etter mynt og beholdningen av mynter i omløp. De (Norges Bank, journ.anm.) tar vekk en veldig gammel tradisjon. – Før, da man ikke hadde aviser eller internett, var det veldig viktig å få frem kongens portrett, forklarer Riise.",
+      "id": "bd99c35d5cb204",
+      "category": "Norge",
+      "published": "06.09. 11:05",
+      "publishedISO": "2026-09-06T11:05:50+02:00",
+      "title": "Oppskytningen fra Andøya: Har fått kontakt med satelitten",
+      "summary": "Etter at rakettoppskytningen fra Andøya lykkes i går, har de nå fått kontakt med den norske satelitten. – Vi fikk kontakt med satelitten i natt rundt klokken ett, bekrefter pressesjef i studentorganisasjonen Orbit, Sara Heitmann. Orbit er knyttet til Norges teknisk-naturvitenskapelige universitet (NTNU) og fikk være med å bygge norske satelitten «FramSat-1» som ble sendt opp med raketten «Spectrum 2» fra Andøya lørdag kveld. Satelitten deres var den eneste norske satelitten ombord, og har nå begynt å sende ut signaler fra rommet. – Vi fikk først kontakt med den i Trondheim på antennen som står på NTNU, og senere har vi også fått kontakt fra Svalbard satelittstasjon, hvor vi har fått lov til å låne en antenne, forteller Heitmann.",
       "keyPoints": [
-        "Kong Haakon VIII kan bli den første norske kongen siden Olav den hellige som ikke får portrettet sitt på en mynt. – Jeg synes det er historieløst av Norges Bank, sier Arne Riise, styreleder i Oslo Myntgalleri, til E24.",
-        "De (Norges Bank, journ.anm.) tar vekk en veldig gammel tradisjon. – Før, da man ikke hadde aviser eller internett, var det veldig viktig å få frem kongens portrett, forklarer Riise.",
-        "Norges Bank opplyser at behovet for å produsere nye mynter vurderes fortløpende, blant annet på bakgrunn av etterspørselen etter mynt og beholdningen av mynter i omløp.",
-        "På grunn av lav etterspørsel er det for tiden ikke behov for å produsere nye mynter, ifølge Norges Bank."
+        "Etter at rakettoppskytningen fra Andøya lykkes i går, har de nå fått kontakt med den norske satelitten. – Vi fikk kontakt med satelitten i natt rundt klokken ett, bekrefter pressesjef i studentorganisasjonen Orbit, Sara Heitmann.",
+        "Satelitten deres var den eneste norske satelitten ombord, og har nå begynt å sende ut signaler fra rommet. – Vi fikk først kontakt med den i Trondheim på antennen som står på NTNU, og senere har vi også fått kontakt fra Svalbard satelittstasjon, hvor vi har fått lov til å låne en antenne, forteller Heitmann.",
+        "Orbit er knyttet til Norges teknisk-naturvitenskapelige universitet (NTNU) og fikk være med å bygge norske satelitten «FramSat-1» som ble sendt opp med raketten «Spectrum 2» fra Andøya lørdag kveld.",
+        "På det sjette forsøket og etter 14 måneder gikk det endelig å skyte opp en rakett fra Andøya med kurs rundt jorden."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/ArqLlx/norges-bank-kan-bryte-tusen-aar-gammel-tradisjon-historieloest",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e5a5ebb7-de41-3d93-8abc-28776d5bc4f0?fit=crop&h=675&upscale=true&w=1200&s=66bbf2adfac7a62e16b65e20696cf28b3d7d871b",
-      "localImage": "assets/news/8739cd2e10b410.jpg",
-      "score": 14
-    },
-    {
-      "id": "3c66ec91d46d72",
-      "category": "Økonomi",
-      "published": "04.09. 09:01",
-      "publishedISO": "2026-09-04T09:01:29+02:00",
-      "title": "Oljenedtur på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag. Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent. Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag.",
-        "Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent.",
-        "Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
-        "Prisen på et fat nordsjøolje ligger på 94,2 dollar, ned 1,6 prosent for dagen og om lag 1,3 dollar siden stengetid torsdag."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
-      "localImage": "assets/news/3c66ec91d46d72.jpg",
-      "score": 14
+      "url": "https://www.nrk.no/nordland/oppskytningen-fra-andoya_-har-fatt-kontakt-med-satelitten-1.18015744",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/o382JfwtLhD-LT15rQldQQpS68i4EG87EaUXiMu9vWNg",
+      "localImage": "assets/news/bd99c35d5cb204.jpg",
+      "score": 13
     },
     {
       "id": "5d09d9a7ace4f0",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3W-vMpxBE_ebJ85FYgsg5Q_Vke32S1qnwZRCLjbAk3oQ.jpg",
       "localImage": "assets/news/c7f6d122cfd7f2.jpg",
+      "score": 13
+    },
+    {
+      "id": "951ea794562b01",
+      "category": "Økonomi",
+      "published": "06.09. 08:08",
+      "publishedISO": "2026-09-06T08:08:08+02:00",
+      "title": "Vellykket rakettoppskytning fra Andøya Space: – Helt fantastisk",
+      "summary": "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12. CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie. Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
+      "keyPoints": [
+        "Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
+        "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12.",
+        "CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie.",
+        "Oppskytingen markerer et gjennombrudd for norsk og europeisk romvirksomhet, og er et resultat av samarbeidet mellom tyske Isar Aerospace og norske Andøya Space."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/xrdbnX/ny-rakettoppskyting-fra-andoeya-space",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/623b4459-18b4-37f2-9af5-e313f6cb4165?fit=crop&h=675&upscale=true&w=1200&s=0c5bb8467a2acdb49e1a0213dfb3c90fc6170924",
+      "localImage": "assets/news/951ea794562b01.jpg",
       "score": 13
     }
   ]
