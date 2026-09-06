@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 18:52",
-  "updatedISO": "2026-09-06T18:52:29.362925+02:00",
+  "updatedAt": "06.09.2026 kl. 19:10",
+  "updatedISO": "2026-09-06T19:10:37.435301+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,48 @@
       "image": "https://gfx.nrk.no/7Gs_6pXyPPSArf5P0L3FdAnzpxsbEU9jpIRbQkuj8vKA.jpg",
       "localImage": "assets/news/64dc024ab349cc.jpg",
       "score": 18
+    },
+    {
+      "id": "a1475ef4ce1a45",
+      "category": "Verden",
+      "published": "06.09. 18:59",
+      "publishedISO": "2026-09-06T18:59:25+02:00",
+      "title": "German far-right set for big win in eastern state of Saxony-Anhalt - projections",
+      "summary": "AfD-ledere var overlykkelige da utgangsmålinger anslått en stor ledelse i Sachsen-Anhalt-avstemningen Tysklands AfD er på vei mot en stor seier i den østlige delstaten Sachsen-Anhalt, langt foran sine mainstream-rivaler, ifølge de første anslagene. Høyrepartiet ligger an til å vinne 44,5 % av stemmene, godt foran det konservative CDU på 18,5 %. Sachsen-Anhalt har en liten befolkning på 2,1 millioner og AfD i delstaten vurderes av innenlandsk etterretning som «ekstrem høyreekstremistisk», en klassifisering som avvises av Siegmund.",
+      "keyPoints": [
+        "AfD-ledere var overlykkelige da utgangsmålinger anslått en stor ledelse i Sachsen-Anhalt-avstemningen Tysklands AfD er på vei mot en stor seier i den østlige delstaten Sachsen-Anhalt, langt foran sine mainstream-rivaler, ifølge de første anslagene.",
+        "Sachsen-Anhalt har en liten befolkning på 2,1 millioner og AfD i delstaten vurderes av innenlandsk etterretning som «ekstrem høyreekstremistisk», en klassifisering som avvises av Siegmund.",
+        "Høyrepartiet ligger an til å vinne 44,5 % av stemmene, godt foran det konservative CDU på 18,5 %.",
+        "Ingen høyreekstreme parti har vunnet kontroll over en stat i Tyskland siden andre verdenskrig, og å styre på statlig nivå ville bety makt over politiarbeid, lokal utdanning og kultur."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/a1475ef4ce1a45.jpg",
+      "score": 13
+    },
+    {
+      "id": "e773db30774452",
+      "category": "USA",
+      "published": "06.09. 19:00",
+      "publishedISO": "2026-09-06T19:00:56+02:00",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "summary": "USAs sentralkommando la ut opptak på lørdag som viser angrep på Iran-tilknyttede tankskip Irans toppforhandler har advart om \"en raskere, tyngre og mer smertefull respons\" på amerikanske angrep, ettersom fiendtlighetene mellom de to sidene eskalerer. Hans kommentarer kommer nesten en uke inn i fornyede kamper mellom Iran og USA, og en dag etter at Washington sa at det slo til iranske oljetankere som svar på at Teheran angrep amerikanske krigsskip i regionens farvann. USAs forsvarsminister Pete Hegseth har utstedt sine egne trusler mot Iran, og skrev på sosiale medier på lørdag: \"Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankskipene deres.\" En 60-dagers våpenhvile mellom USA og Iran utløp formelt forrige måned, og denne perioden med relativ ro ble knust da USA gjenopptok angrepene sist søndag.",
+      "keyPoints": [
+        "USAs sentralkommando la ut opptak på lørdag som viser angrep på Iran-tilknyttede tankskip Irans toppforhandler har advart om \"en raskere, tyngre og mer smertefull respons\" på amerikanske angrep, ettersom fiendtlighetene mellom de to sidene eskalerer.",
+        "USAs forsvarsminister Pete Hegseth har utstedt sine egne trusler mot Iran, og skrev på sosiale medier på lørdag: \"Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankskipene deres.\" En 60-dagers våpenhvile mellom USA og Iran utløp formelt forrige måned, og denne perioden med relativ ro ble knust da USA gjenopptok angrepene sist søndag.",
+        "Hans kommentarer kommer nesten en uke inn i fornyede kamper mellom Iran og USA, og en dag etter at Washington sa at det slo til iranske oljetankere som svar på at Teheran angrep amerikanske krigsskip i regionens farvann.",
+        "USA og Iran handler gjengjeldelsesangrep på skip når konflikten blusser Seks måneder inn i Iran-krigen: Hva har Trump utrettet?"
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
+      "localImage": "assets/news/e773db30774452.jpg",
+      "score": 13
     },
     {
       "id": "df71afcad5449f",
@@ -67,6 +109,48 @@
       "score": 16
     },
     {
+      "id": "7194e14a6fdfe2",
+      "category": "AI",
+      "published": "04.09. 16:59",
+      "publishedISO": "2026-09-04T16:59:13+02:00",
+      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+      "summary": "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face. Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den. Nvidia inngår en avtale på 12,9 milliarder dollar for å kjøpe AI-plattform Hugging Face Uventet chat mellom OpenAI-agenter førte til Hugging Face-hack",
+      "keyPoints": [
+        "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face.",
+        "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face Unexpected chat between OpenAI agents led to Hugging Face hack",
+        "Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den.",
+        "Hugging Faces systemer ble separat hacket av OpenAI-agenter i juli, med hendelsen beskrevet på den tiden som verdens første AI-aktiverte cyberangrep."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "localImage": "assets/news/7194e14a6fdfe2.jpg",
+      "score": 12
+    },
+    {
+      "id": "3b3937f75b81e9",
+      "category": "Norge",
+      "published": "06.09. 17:53",
+      "publishedISO": "2026-09-06T17:53:38+02:00",
+      "title": "Dronning Margrethe innlagt på sykehus – kommer ikke i gravferden til kong Harald",
+      "summary": "Dronning Margrethe har en blodansamling i hofteregionen og har mild dehydrering. Det ventes at hun vil være innlagt på sykehus til observasjon og behandling den kommende uken, skriver det danske slottet i en pressemelding. «Det betyr at Hennes Majestet dessverre ikke deltar i Kong Harald Vs begravelse onsdag i Oslo», står det videre. Den abdiserte dronninga kjem derfor ikkje i kong Harald sin gravferd.",
+      "keyPoints": [
+        "Det ventes at hun vil være innlagt på sykehus til observasjon og behandling den kommende uken, skriver det danske slottet i en pressemelding. «Det betyr at Hennes Majestet dessverre ikke deltar i Kong Harald Vs begravelse onsdag i Oslo», står det videre.",
+        "Den abdiserte dronninga kjem derfor ikkje i kong Harald sin gravferd.",
+        "Dronning Margrethe har en blodansamling i hofteregionen og har mild dehydrering.",
+        "Hennes sønn, Kong Frederik 10. er nå overhode i det danske kongehuset."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/dronning-margrethe-innlagt-pa-sykehus-_-kommer-ikke-i-gravferden-til-kong-harald-1.18016087",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ExwAV_VU633i8joOhC4V0Q-ik39tSbZkIgimrPzP2cyw.jpg",
+      "localImage": "assets/news/3b3937f75b81e9.webp",
+      "score": 17
+    },
+    {
       "id": "7fe9c0f8bde4bc",
       "category": "Norge",
       "published": "06.09. 11:12",
@@ -104,113 +188,29 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/urix/afd-naermer-seg-makt-i-tysk-delstat-1.18015699",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/cTH9DxFg8cHEoU607LddMgP3f8aRKxXN1Yi4wR7v1IkA.jpg",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/b599d636abf13b.jpg",
       "score": 16
     },
     {
-      "id": "b3e444495d565a",
+      "id": "32cecd96ca7598",
       "category": "Norge",
-      "published": "06.09. 18:14",
-      "publishedISO": "2026-09-06T18:14:08+02:00",
-      "title": "Dronning Margrethe deltar ikkje i gravferda",
-      "summary": "Den abdiserte dronninga deltar derfor ikkje i kong Harald sin gravferd. INNLAGT: Dronning Margrethe skal ikkje delta i gravferda til kong Harald kommande onsdag. På Rikshospitalet i København får ho behandling for ein blodsamling i hofteregionen og mild dehydrering. – Det betyr at Hennar Majestet dessverre ikkje deltar i Kong Harald Vs gravferd onsdag i Oslo, står det i pressemeldinga.",
+      "published": "06.09. 19:00",
+      "publishedISO": "2026-09-06T19:00:10+02:00",
+      "title": "Lekre Molde-mål da «Kåffa» ble satt på plass",
+      "summary": "Molde tok sin tredje seier på rappen i Eliteserien da KFUM Oslo ble sendt hjem til hovedstaden med 2–0 i sekken. 1–0 til Molde kom på vakkert vis åtte minutter før pause. 19 år gamle Oskar Spiten-Nysæter ladet skuddfoten fra rundt 18 meter hold og bredsidet ballen ned i det lengste hjørnet via stolpen.",
       "keyPoints": [
-        "INNLAGT: Dronning Margrethe skal ikkje delta i gravferda til kong Harald kommande onsdag.",
-        "På Rikshospitalet i København får ho behandling for ein blodsamling i hofteregionen og mild dehydrering. – Det betyr at Hennar Majestet dessverre ikkje deltar i Kong Harald Vs gravferd onsdag i Oslo, står det i pressemeldinga.",
-        "I 2022 feira dronning Margrethe 50 år som monark, men i 2024 abdiserte ho.",
-        "Innlegginga skjer etter at dronning Margrethe har fått eit anfall av uvelheit, skriv det danske slottet i pressemeldinga."
+        "Molde tok sin tredje seier på rappen i Eliteserien da KFUM Oslo ble sendt hjem til hovedstaden med 2–0 i sekken.",
+        "19 år gamle Oskar Spiten-Nysæter ladet skuddfoten fra rundt 18 meter hold og bredsidet ballen ned i det lengste hjørnet via stolpen.",
+        "1–0 til Molde kom på vakkert vis åtte minutter før pause.",
+        "Det var et nydelig mål av tenåringen som ble hentet til Molde fra Stabæk sommeren 2025."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/dronning-margrethe-deltar-ikkje-i-gravferda-1.18016100",
+      "url": "https://www.nrk.no/sport/lekre-molde-mal-da-_kaffa_-ble-satt-pa-plass-1.18016134",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ExwAV_VU633i8joOhC4V0Q-ik39tSbZkIgimrPzP2cyw.jpg",
-      "localImage": "assets/news/b3e444495d565a.webp",
-      "score": 13
-    },
-    {
-      "id": "b8bf34429ecb22",
-      "category": "Norge",
-      "published": "06.09. 17:01",
-      "publishedISO": "2026-09-06T17:01:52+02:00",
-      "title": "Satser på intensive mattekurs på Olav Duun videregående skole i Namsos",
-      "summary": "Det sier mattelærer Ørjan Moa ved Olav Duun videregående skole i Namsos. – I tillegg er det jo en del elever som trenger større utfordringer i faget. Mange av elevene synes det er fint at vi får dette kurset når vi starter på skolen, sier Romstad ved Olav Duun videregående skole. Nå gjør Olav Duun videregående det samme, men på en litt annen måte. – Vårt kurs går ut på at elevene deles inn i grupper hvor de jobber med oppgaver som vi mattelærerne ved skolen har laget.",
-      "keyPoints": [
-        "Det sier mattelærer Ørjan Moa ved Olav Duun videregående skole i Namsos. – I tillegg er det jo en del elever som trenger større utfordringer i faget.",
-        "Mange av elevene synes det er fint at vi får dette kurset når vi starter på skolen, sier Romstad ved Olav Duun videregående skole.",
-        "Nå gjør Olav Duun videregående det samme, men på en litt annen måte. – Vårt kurs går ut på at elevene deles inn i grupper hvor de jobber med oppgaver som vi mattelærerne ved skolen har laget.",
-        "Intensive mattekurs skal hjelpe trønderske 16-åringer til å forstå faget bedre."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/satser-pa-intensive-mattekurs-pa-olav-duun-videregaende-skole-i-namsos-1.18009008",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/a9Y-p9uaMbjB5Ew2GjpF-wwmyNrNV9EEbMkoSi3MYQkQ.jpg",
-      "localImage": "assets/news/b8bf34429ecb22.jpg",
-      "score": 13
-    },
-    {
-      "id": "c27d77820d9486",
-      "category": "Norge",
-      "published": "06.09. 16:56",
-      "publishedISO": "2026-09-06T16:56:56+02:00",
-      "title": "Overtidsdrama da United-seieren glapp – kanonscoring reddet Everton",
-      "summary": "Spenningen levde hele veien inn da Manchester United og Everton spilte 2–2 i Liverpool søndag. Scoringen sørget for at Everton reddet ett poeng, og unngikk sesongens første tap. Samtidig står Manchester United med ett tap, én uavgjort og én seier på sesongens tre første kamper Andreas Leknessund forsøkte angripe vel 2, 5 kilometer før mål, men vart henta inn av resten av tetgruppa.",
-      "keyPoints": [
-        "Scoringen sørget for at Everton reddet ett poeng, og unngikk sesongens første tap.",
-        "Spenningen levde hele veien inn da Manchester United og Everton spilte 2–2 i Liverpool søndag.",
-        "Samtidig står Manchester United med ett tap, én uavgjort og én seier på sesongens tre første kamper Andreas Leknessund forsøkte angripe vel 2, 5 kilometer før mål, men vart henta inn av resten av tetgruppa.",
-        "Evertons Tyrique George la enorm kraft bak ballen, og klinte inn 1–1 i nærmeste kryss."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/overtidsdrama-da-united-seieren-glapp-_-kanonscoring-reddet-everton-1.18015983",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/tQdlZPQXDXzV7tekbak3qQBZ5lDX-esaHXNAY97CgLBQ.jpg",
-      "localImage": "assets/news/c27d77820d9486.jpg",
-      "score": 13
-    },
-    {
-      "id": "e7cc9d36c6a3fa",
-      "category": "Norge",
-      "published": "06.09. 16:54",
-      "publishedISO": "2026-09-06T16:54:19+02:00",
-      "title": "Marie (100) har sommarjobb – må tvingast til å ta pausar",
-      "summary": "IKKJE FRED Å FÅ: Når Marie Jøndal (100) bakar, må folk sjå nærare. Når du er 100 år og har sommarjobb, er det nesten ikkje fred å få. Trass i alle menneska som stikk hovudet innom: Marie Jøndal mister ikkje konsentrasjonen eit sekund.",
-      "keyPoints": [
-        "IKKJE FRED Å FÅ: Når Marie Jøndal (100) bakar, må folk sjå nærare.",
-        "Når du er 100 år og har sommarjobb, er det nesten ikkje fred å få.",
-        "Trass i alle menneska som stikk hovudet innom: Marie Jøndal mister ikkje konsentrasjonen eit sekund.",
-        "Det var ikkje gitt at Marie skulle bli kjend som bakstekjerringa på Lesja."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/xl/100-ar-gammal-og-i-sommarjobb_-marie-held-lefsetradisjonen-levande-pa-lesja-bygdemuseum-1.17990109",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/bU2TCcYnAh6KXiCoZThQQA4BRn9LkKqJxCd5PqS0hEsg.jpg",
-      "localImage": "assets/news/e7cc9d36c6a3fa.jpg",
-      "score": 13
-    },
-    {
-      "id": "01cb62c8d8e45d",
-      "category": "Norge",
-      "published": "06.09. 16:30",
-      "publishedISO": "2026-09-06T16:30:31+02:00",
-      "title": "Mange anar ikkje kva dei skal gjere – Tor Kristian måtte stupe uti",
-      "summary": "For dødsaren Tor Kristian Tollefson hjelpte bakgrunnen hans da han plutseleg måtte kaste seg ut i vatnet. STUPTE UTI: Tor Kristian Tollefson kasta seg i vatnet da han såg ein mann heldt på å drukne på Sørenga i Oslo. Denne hendinga illustrerer ei brutal verkelegheit: Fem av ti veit nemleg ikkje, eller er usikre på, kva dei skal gjere om nokon er i ferd med å drukne i nærleiken av dei.",
-      "keyPoints": [
-        "Denne hendinga illustrerer ei brutal verkelegheit: Fem av ti veit nemleg ikkje, eller er usikre på, kva dei skal gjere om nokon er i ferd med å drukne i nærleiken av dei.",
-        "STUPTE UTI: Tor Kristian Tollefson kasta seg i vatnet da han såg ein mann heldt på å drukne på Sørenga i Oslo.",
-        "For dødsaren Tor Kristian Tollefson hjelpte bakgrunnen hans da han plutseleg måtte kaste seg ut i vatnet.",
-        "Over halvparten av oss aner ikkje kva vi skal gjere ved ei drukningsulykke."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/mange-anar-ikkje-kva-dei-skal-gjere-_-tor-kristian-matte-stupe-uti-1.17996601",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UnL91o7NFGYp8GGE4xlvswkdyXoLpXilwprhtyUW4-mA.jpg",
-      "localImage": "assets/news/01cb62c8d8e45d.jpg",
+      "image": "https://gfx.nrk.no/9Pfng1dNFrMmh5RjovLDogEsAoaciuaDsqGvmj9lPZkg.jpg",
+      "localImage": "assets/news/32cecd96ca7598.jpg",
       "score": 13
     }
   ]
