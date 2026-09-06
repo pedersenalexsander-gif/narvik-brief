@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 02:19",
-  "updatedISO": "2026-09-06T02:19:47.486387+02:00",
+  "updatedAt": "06.09.2026 kl. 02:47",
+  "updatedISO": "2026-09-06T02:47:12.228923+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -193,25 +193,25 @@
       "score": 14
     },
     {
-      "id": "8dba50cc04dab5",
-      "category": "Økonomi",
-      "published": "04.09. 15:32",
-      "publishedISO": "2026-09-04T15:32:19+02:00",
-      "title": "Lululemon-aksjen stupte etter sviktende tights-salg",
-      "summary": "Butikksalget sank med 9 prosent i andre kvartal, mens omsetningen falt 4 prosent sammenlignet med samme periode i fjor. Fredag, før markedet åpnet, kom det nyheter som kjølnet troen på at renten blir holdt i ro ved neste rentemøte: Det ble skapt 162.000 jobber utenfor landbruket i USA i august. Ifølge verktøyet CME FedWatch, som tar utgangspunkt i markedsrenter, falt sjansen for at renten blir liggende i ro fra litt over 50 prosent til 41,6 prosent etter at tallene ble lagt frem.",
+      "id": "1d0e6e26d124a9",
+      "category": "Verden",
+      "published": "05.09. 23:00",
+      "publishedISO": "2026-09-05T23:00:02+02:00",
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "summary": "Harald, den populære kongen av Norge, skal begraves i Oslo neste uke Prinsen av Wales deltar i begravelsen til kong Harald V av Norge onsdag i Oslo, opplyser Buckingham Palace. Kongelige kilder sier at prins Williams oppmøte, som representerer hans far kong Charles, følger konvensjonen om at monarken vanligvis ikke går i begravelsen til et annet statsoverhode. Ved begravelsen vil, sammen med prins William, være enkedronning Sonja, medlemmer av den norske kongefamilien inkludert den nye kong Haakon VIII, og andre europeiske kongelige.",
       "keyPoints": [
-        "Butikksalget sank med 9 prosent i andre kvartal, mens omsetningen falt 4 prosent sammenlignet med samme periode i fjor.",
-        "Fredag, før markedet åpnet, kom det nyheter som kjølnet troen på at renten blir holdt i ro ved neste rentemøte: Det ble skapt 162.000 jobber utenfor landbruket i USA i august.",
-        "Ifølge verktøyet CME FedWatch, som tar utgangspunkt i markedsrenter, falt sjansen for at renten blir liggende i ro fra litt over 50 prosent til 41,6 prosent etter at tallene ble lagt frem.",
-        "På forhånd hadde analytikerne anslått at det ville bli skapt 55.000 nye jobber forrige måned. – Dette tilsier en heving fra Fed i september."
+        "Harald, den populære kongen av Norge, skal begraves i Oslo neste uke Prinsen av Wales deltar i begravelsen til kong Harald V av Norge onsdag i Oslo, opplyser Buckingham Palace.",
+        "Kongelige kilder sier at prins Williams oppmøte, som representerer hans far kong Charles, følger konvensjonen om at monarken vanligvis ikke går i begravelsen til et annet statsoverhode.",
+        "Ved begravelsen vil, sammen med prins William, være enkedronning Sonja, medlemmer av den norske kongefamilien inkludert den nye kong Haakon VIII, og andre europeiske kongelige.",
+        "Mens prins William skal være i Norge, har kong Charles returnert til Skottland, etter å ha møtt Frankrikes president Macron på Bayeux Tapestry-utstillingen i London denne uken."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/vryGmp/blandet-paa-wall-street-etter-jobbtall",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/72ff0f5b-39fb-323a-aa73-40470b6aa31c?fit=crop&h=675&upscale=true&w=1200&s=075ad4aba0991cb9524bd18ff3dcfca5f67b75b1",
-      "localImage": "assets/news/8dba50cc04dab5.jpg",
-      "score": 14
+      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg",
+      "localImage": "assets/news/1d0e6e26d124a9.jpg",
+      "score": 13
     }
   ]
 }
