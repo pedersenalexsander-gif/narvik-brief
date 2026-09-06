@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 13:51",
-  "updatedISO": "2026-09-06T13:51:59.976937+02:00",
+  "updatedAt": "06.09.2026 kl. 14:14",
+  "updatedISO": "2026-09-06T14:14:35.389866+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,6 +23,48 @@
       "image": "https://gfx.nrk.no/ogM0hdi99JZv91uUxDu-lQU_aGVVktUJu1qKMpwMpr1A.jpg",
       "localImage": "assets/news/7fe9c0f8bde4bc.jpg",
       "score": 17
+    },
+    {
+      "id": "224874dbe07d19",
+      "category": "Verden",
+      "published": "06.09. 11:56",
+      "publishedISO": "2026-09-06T11:56:39+02:00",
+      "title": "Anak Krakatau: Volcano eruption closes six Indonesian airports",
+      "summary": "Se: Lavafontene og askesky når vulkanen i Indonesia bryter ut. Mer enn 150 000 passasjerer har blitt strandet etter at et vulkanutbrudd tvang indonesiske myndigheter til å midlertidig stanse operasjonene på seks flyplasser. Anak Krakataus siste utbrudd har kansellert flyreiser og tvunget noen skoler til å stoppe aktiviteter. Transportdepartementet sa at pausen i operasjonene hovedsakelig påvirket flyreiser til og fra Singapore, også andre internasjonale ruter inkludert Doha, Sydney og Kuala Lumpur. Anak Krakatau, som betyr barn av Krakatoa, har vært sporadisk aktiv siden den dukket opp fra havet på begynnelsen av forrige århundre i kalderaen som ble dannet etter utbruddet av Krakatoa-fjellet i 1883.",
+      "keyPoints": [
+        "Se: Lavafontene og askesky når vulkanen i Indonesia bryter ut. Mer enn 150 000 passasjerer har blitt strandet etter at et vulkanutbrudd tvang indonesiske myndigheter til å midlertidig stanse operasjonene på seks flyplasser.",
+        "Anak Krakataus siste utbrudd har kansellert flyreiser og tvunget noen skoler til å stoppe aktiviteter. Transportdepartementet sa at pausen i operasjonene hovedsakelig påvirket flyreiser til og fra Singapore, også andre internasjonale ruter inkludert Doha, Sydney og Kuala Lumpur.",
+        "Anak Krakatau, som betyr barn av Krakatoa, har vært sporadisk aktiv siden den dukket opp fra havet på begynnelsen av forrige århundre i kalderaen som ble dannet etter utbruddet av Krakatoa-fjellet i 1883.",
+        "Anak Krakatau collapse: 'Warning signs were there' A volcanologist explains Indonesia eruption images"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg",
+      "localImage": "assets/news/224874dbe07d19.jpg",
+      "score": 13
+    },
+    {
+      "id": "8baa46aad4770e",
+      "category": "USA",
+      "published": "05.09. 08:20",
+      "publishedISO": "2026-09-05T08:20:04+02:00",
+      "title": "Trump's response is key as Argentina's Falklands demands get louder",
+      "summary": "Argentinas president Javier Milei nyter et varmt forhold til president Trump. Tonen over Falklandsøyenes konflikt har blitt skjerpet i Argentina fra lenge før president Javier Mileis nasjonale tale om sanksjoner sent på kvelden tidligere denne uken. Storbritannias støtte til Falklandsøyene \"urokkelig\" etter at Argentina gjentar påstander, nr. 10 sier at den britiske regjeringen ville si at han beleilig overså noen få detaljer: øyene – som de europeiske maktene hadde byttet kontroll over gjennom hele 1600- og 1700-tallet – var ubebodd på det tidspunktet britene okkuperte landet igjen. President Milei mener absolutt det. «Endringens vinder» blåste, forsikret han det argentinske folket, etter at president Trump sa at han «re-evaluerte» USAs posisjon på Falklandsøyene.",
+      "keyPoints": [
+        "Argentinas president Javier Milei nyter et varmt forhold til president Trump. Tonen over Falklandsøyenes konflikt har blitt skjerpet i Argentina fra lenge før president Javier Mileis nasjonale tale om sanksjoner sent på kvelden tidligere denne uken.",
+        "President Milei mener absolutt det. «Endringens vinder» blåste, forsikret han det argentinske folket, etter at president Trump sa at han «re-evaluerte» USAs posisjon på Falklandsøyene.",
+        "Storbritannias støtte til Falklandsøyene \"urokkelig\" etter at Argentina gjentar påstander, nr. 10 sier at den britiske regjeringen ville si at han beleilig overså noen få detaljer: øyene – som de europeiske maktene hadde byttet kontroll over gjennom hele 1600- og 1700-tallet – var ubebodd på det tidspunktet britene okkuperte landet igjen.",
+        "I sin tale malte Javier Milei Argentina som en pålitelig og «pålitelig partner» til Washington, og han nyter Trumps støtte, både ideologisk og personlig."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg",
+      "localImage": "assets/news/8baa46aad4770e.jpg",
+      "score": 12
     },
     {
       "id": "29b6f2a84605dd",
@@ -67,6 +109,27 @@
       "score": 14
     },
     {
+      "id": "7194e14a6fdfe2",
+      "category": "AI",
+      "published": "04.09. 16:59",
+      "publishedISO": "2026-09-04T16:59:13+02:00",
+      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+      "summary": "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face. Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den. Nvidia inngår en avtale på 12,9 milliarder dollar for å kjøpe AI-plattformen Hugging Face Uventet chat mellom OpenAI-agenter førte til Hugging Face-hack",
+      "keyPoints": [
+        "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face.",
+        "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face Unexpected chat between OpenAI agents led to Hugging Face hack",
+        "Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den.",
+        "Hugging Faces systemer ble separat hacket av OpenAI-agenter i juli, med hendelsen beskrevet på den tiden som verdens første AI-aktiverte cyberangrep."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
+      "localImage": "assets/news/7194e14a6fdfe2.jpg",
+      "score": 13
+    },
+    {
       "id": "1d8480fff3d44f",
       "category": "Norge",
       "published": "05.09. 21:03",
@@ -88,6 +151,48 @@
       "score": 14
     },
     {
+      "id": "a7a31c6b3d42a3",
+      "category": "Norge",
+      "published": "06.09. 14:02",
+      "publishedISO": "2026-09-06T14:02:49+02:00",
+      "title": "Slik blir kong Haralds gravferd",
+      "summary": "Kong Haralds gravferd er onsdag 9. september klokken 13 i Oslo domkirke. Én time før skal sørgeprosesjonen med båren gå fra Slottet til domkirken. Les gjerne nedover, eller du kan klikke deg direkte til et punkt i oversikten under her: Før kong Haralds båre forlater Slottet for siste gang, skal de nærmeste ha en privat stund i Slottskapellet. Du kan følge kong Haralds gravferd direkte på NRK.no, NRK TV og NRK Radio.",
+      "keyPoints": [
+        "Kong Haralds gravferd er onsdag 9. september klokken 13 i Oslo domkirke. Én time før skal sørgeprosesjonen med båren gå fra Slottet til domkirken.",
+        "Du kan følge kong Haralds gravferd direkte på NRK.no, NRK TV og NRK Radio.",
+        "Les gjerne nedover, eller du kan klikke deg direkte til et punkt i oversikten under her: Før kong Haralds båre forlater Slottet for siste gang, skal de nærmeste ha en privat stund i Slottskapellet.",
+        "Både kong Haakon, dronning Mette-Marit, kronprinsesse Ingrid Alexandra, prins Sverre Magnus, prinsesse Märtha Louise og dronning Sonja skal følge båren gjennom Oslos gater, men de to dronningene blir i bil."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/xl/slik-blir-kong-haralds-gravferd-1.18015368",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/4WiSMhOmzcn1aJNg2HNkbAsAJR7dClXe4wivpeMZfNfw.jpg",
+      "localImage": "assets/news/a7a31c6b3d42a3.jpg",
+      "score": 13
+    },
+    {
+      "id": "694997659fae20",
+      "category": "Norge",
+      "published": "06.09. 13:59",
+      "publishedISO": "2026-09-06T13:59:28+02:00",
+      "title": "Samtaler om fred i Kyiv med amerikanske spesial­utsendinger",
+      "summary": "Dagen før møtte dei amerikanske spesial­utsendingane Russlands president. Søndag er USAs spesial­utsendingane Steve Witkoff og Jared Kushner på plass i Kyiv, der dei skal ha eit møte med Ukrainas president Volodymyr Zelenskyj. – Vi er interessert i å bringe krigen nærmare ein slutt, skriv Zelenskyj på Telegram kort tid før møtet. – Fred er nødvendig. Kort tid før det amerikanske møtet i Kyiv stadfesta det ukrainske militæret at dei natt til søndag gjennomførte eit angrep mot eit oljeraffineri i Rjazan søraust for Moskva.",
+      "keyPoints": [
+        "Søndag er USAs spesial­utsendingane Steve Witkoff og Jared Kushner på plass i Kyiv, der dei skal ha eit møte med Ukrainas president Volodymyr Zelenskyj. – Vi er interessert i å bringe krigen nærmare ein slutt, skriv Zelenskyj på Telegram kort tid før møtet. – Fred er nødvendig.",
+        "Kort tid før det amerikanske møtet i Kyiv stadfesta det ukrainske militæret at dei natt til søndag gjennomførte eit angrep mot eit oljeraffineri i Rjazan søraust for Moskva.",
+        "Dagen før møtte dei amerikanske spesial­utsendingane Russlands president.",
+        "Samtalane om moglege løysingar i arbeidet for fred har vore nyttige, stadfesta både amerikanske og russiske myndigheiter laurdag kveld."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/samtaler-om-fred-i-kyiv-med-amerikanske-spesialutsendinger-1.18015863",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/sTeyHryhQdXkjKCIiXrzYwwoFyTVu0seSH4PbujV-v9Q.jpg",
+      "localImage": "assets/news/694997659fae20.jpg",
+      "score": 13
+    },
+    {
       "id": "dd21036a00aa74",
       "category": "Økonomi",
       "published": "06.09. 13:25",
@@ -106,111 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/604f6592-5491-3df6-b59c-afa62698393f?fit=crop&h=675&upscale=true&w=1200&s=81547897343c8584e82f7f401e6b6f82b8fb807f",
       "localImage": "assets/news/dd21036a00aa74.jpg",
-      "score": 13
-    },
-    {
-      "id": "dd841cb0bb077e",
-      "category": "Økonomi",
-      "published": "06.09. 13:06",
-      "publishedISO": "2026-09-06T13:06:24+02:00",
-      "title": "Sist inn, først ut?",
-      "summary": "Hodejeger og partner i Skill Rekruttering med nesten 20 års erfaring innenfor rekruttering. Psykolog Emil Mogård og hodejeger Kathrine Evenmo Ervik svarer på spørsmål fra E24s lesere om karriere, arbeidsliv og balansen mellom jobben og livet. De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs).",
-      "keyPoints": [
-        "Hodejeger og partner i Skill Rekruttering med nesten 20 års erfaring innenfor rekruttering.",
-        "Psykolog Emil Mogård og hodejeger Kathrine Evenmo Ervik svarer på spørsmål fra E24s lesere om karriere, arbeidsliv og balansen mellom jobben og livet.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs).",
-        "Er det dumt å si fra seg en trygg jobb der man har lang ansiennitet, for å ta en ny jobb og øke faren for å bli nedbemannet?"
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/karriere-og-ledelse/i/j0MpyA/sist-inn-foerst-ut",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f8e3c553-4952-3051-9997-ac15654cd9d5?fit=crop&h=675&upscale=true&w=1200&s=31ca00a9740232a578cf26fe817568e1326acbea",
-      "localImage": "assets/news/dd841cb0bb077e.jpg",
-      "score": 13
-    },
-    {
-      "id": "09dbd1090c2d2d",
-      "category": "Norge",
-      "published": "06.09. 11:05",
-      "publishedISO": "2026-09-06T11:05:50+02:00",
-      "title": "Oppskytningen fra Andøya: Har fått kontakt med satellitten",
-      "summary": "Etter at rakettoppskytningen fra Andøya lyktes i går, har de nå fått kontakt med den norske satellitten. – Vi fikk kontakt med satellitten i natt rundt klokken ett, bekrefter pressesjef i studentorganisasjonen Orbit, Sara Heitmann. Orbit fikk være med å bygge norske satellitten «FramSat-1» som ble sendt opp med raketten «Spectrum 2» fra Andøya lørdag kveld. Satellitten deres var den eneste norske satellitten om bord, og har nå begynt å sende ut signaler fra rommet. – Vi fikk først kontakt med den i Trondheim på antennen som står på NTNU, og senere har vi også fått kontakt fra Svalbard satellittstasjon, hvor vi har fått lov til å låne en antenne, forteller Heitmann.",
-      "keyPoints": [
-        "Etter at rakettoppskytningen fra Andøya lyktes i går, har de nå fått kontakt med den norske satellitten. – Vi fikk kontakt med satellitten i natt rundt klokken ett, bekrefter pressesjef i studentorganisasjonen Orbit, Sara Heitmann.",
-        "Satellitten deres var den eneste norske satellitten om bord, og har nå begynt å sende ut signaler fra rommet. – Vi fikk først kontakt med den i Trondheim på antennen som står på NTNU, og senere har vi også fått kontakt fra Svalbard satellittstasjon, hvor vi har fått lov til å låne en antenne, forteller Heitmann.",
-        "Orbit fikk være med å bygge norske satellitten «FramSat-1» som ble sendt opp med raketten «Spectrum 2» fra Andøya lørdag kveld.",
-        "På det sjette forsøket og etter 14 måneder gikk det endelig å skyte opp en rakett fra Andøya som skulle sende last i bane rundt jorden."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/oppskytningen-fra-andoya_-har-fatt-kontakt-med-satellitten-1.18015744",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/o382JfwtLhD-LT15rQldQQpS68i4EG87EaUXiMu9vWNg",
-      "localImage": "assets/news/09dbd1090c2d2d.jpg",
-      "score": 13
-    },
-    {
-      "id": "5d09d9a7ace4f0",
-      "category": "Økonomi",
-      "published": "06.09. 10:15",
-      "publishedISO": "2026-09-06T10:15:04+02:00",
-      "title": "Advarer mot prutetabbe",
-      "summary": "Med fremveksten av Finn.no og andre bruktmarkeder har en egenskap som man tidligere forbant mest med sydligere strøk, blitt vanlig – nemlig pruting. – Vi elsker å prute, men vi pruter ikke så utrolig mye, sier Anders Spilling. En som har opparbeidet seg noen år med Finn-kompetanse, er komiker Jan Tore Kristoffersen. – Jeg kjøper alt på Finn, tydeligvis, sa han i en podkast med kollega Henrik Fladseth i 2019. Kristoffersen har et annet triks han mener fungerer bedre. – Hvis du klikker deg inn på profilen til selgeren og ser at de har noe annet smått som du også kunne tenke deg, så foreslår du å lage en pakke, slik at selgeren kan tenke at «her ble jeg kvitt to ting i én smell».",
-      "keyPoints": [
-        "En som har opparbeidet seg noen år med Finn-kompetanse, er komiker Jan Tore Kristoffersen. – Jeg kjøper alt på Finn, tydeligvis, sa han i en podkast med kollega Henrik Fladseth i 2019.",
-        "Med fremveksten av Finn.no og andre bruktmarkeder har en egenskap som man tidligere forbant mest med sydligere strøk, blitt vanlig – nemlig pruting. – Vi elsker å prute, men vi pruter ikke så utrolig mye, sier Anders Spilling.",
-        "Kristoffersen har et annet triks han mener fungerer bedre. – Hvis du klikker deg inn på profilen til selgeren og ser at de har noe annet smått som du også kunne tenke deg, så foreslår du å lage en pakke, slik at selgeren kan tenke at «her ble jeg kvitt to ting i én smell».",
-        "Komiker Jan Tore Kristoffersen kommer med to tips for hvordan man kan gjøre et kupp."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/6q1jq8/advarer-mot-prutetabbe",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6f9478cc-ca9d-3d6c-9922-de32db2708f0?fit=crop&h=675&upscale=true&w=1200&s=ead1e4f93ce8b498059397bae2a06938aa9cf254",
-      "localImage": "assets/news/5d09d9a7ace4f0.png",
-      "score": 13
-    },
-    {
-      "id": "db01696b7abd08",
-      "category": "Økonomi",
-      "published": "05.09. 17:48",
-      "publishedISO": "2026-09-05T17:48:57+02:00",
-      "title": "Bitter skilsmisse kan koste eierskap i hedgefondet",
-      "summary": "Hedgefond-grunnleggeren forklarte at han mener hans eierskap i selskapet han startet 2001 nå er i spill, og at han kan miste kontrollen i selskapet. Laura Overdeck krever langt mer, og har bedt om 35 prosent av Two Sigma, noe hun har verdsatt til 6,2 milliarder dollar, eller over 60 milliarder kroner, ifølge Bloomberg. Hedgefondet forvalter om lag 70 milliarder dollar, tilsvarende over 700 milliarder kroner, ifølge Bloomberg.",
-      "keyPoints": [
-        "Hedgefond-grunnleggeren forklarte at han mener hans eierskap i selskapet han startet 2001 nå er i spill, og at han kan miste kontrollen i selskapet.",
-        "Hedgefondet forvalter om lag 70 milliarder dollar, tilsvarende over 700 milliarder kroner, ifølge Bloomberg.",
-        "Laura Overdeck krever langt mer, og har bedt om 35 prosent av Two Sigma, noe hun har verdsatt til 6,2 milliarder dollar, eller over 60 milliarder kroner, ifølge Bloomberg.",
-        "Overdeck har tilbudt kona Laura 723 millioner dollar, noe som er over 7 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/OkXeGb/bitter-skilsmisse-kan-koste-eierskap-i-hedgefondet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f39960f8-8f5b-3329-a33d-beba396c7784?fit=crop&h=675&upscale=true&w=1200&s=eedd68b6a91591bde4c2f1381d0fd5f96df7066c",
-      "localImage": "assets/news/db01696b7abd08.jpg",
-      "score": 13
-    },
-    {
-      "id": "8739cd2e10b410",
-      "category": "Økonomi",
-      "published": "05.09. 10:03",
-      "publishedISO": "2026-09-05T10:03:51+02:00",
-      "title": "Norges Bank kan bryte tusen år gammel tradisjon: – Historieløst",
-      "summary": "Kong Haakon VIII kan bli den første norske kongen siden Olav den hellige som ikke får portrettet sitt på en mynt. – Jeg synes det er historieløst av Norges Bank, sier Arne Riise, styreleder i Oslo Myntgalleri, til E24. Norges Bank opplyser at behovet for å produsere nye mynter vurderes fortløpende, blant annet på bakgrunn av etterspørselen etter mynt og beholdningen av mynter i omløp. De (Norges Bank, journ.anm.) tar vekk en veldig gammel tradisjon. – Før, da man ikke hadde aviser eller internett, var det veldig viktig å få frem kongens portrett, forklarer Riise.",
-      "keyPoints": [
-        "Kong Haakon VIII kan bli den første norske kongen siden Olav den hellige som ikke får portrettet sitt på en mynt. – Jeg synes det er historieløst av Norges Bank, sier Arne Riise, styreleder i Oslo Myntgalleri, til E24.",
-        "De (Norges Bank, journ.anm.) tar vekk en veldig gammel tradisjon. – Før, da man ikke hadde aviser eller internett, var det veldig viktig å få frem kongens portrett, forklarer Riise.",
-        "Norges Bank opplyser at behovet for å produsere nye mynter vurderes fortløpende, blant annet på bakgrunn av etterspørselen etter mynt og beholdningen av mynter i omløp.",
-        "På grunn av lav etterspørsel er det for tiden ikke behov for å produsere nye mynter, ifølge Norges Bank."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/ArqLlx/norges-bank-kan-bryte-tusen-aar-gammel-tradisjon-historieloest",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e5a5ebb7-de41-3d93-8abc-28776d5bc4f0?fit=crop&h=675&upscale=true&w=1200&s=66bbf2adfac7a62e16b65e20696cf28b3d7d871b",
-      "localImage": "assets/news/8739cd2e10b410.jpg",
       "score": 13
     }
   ]
