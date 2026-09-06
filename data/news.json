@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 08:34",
-  "updatedISO": "2026-09-06T08:34:25.006396+02:00",
+  "updatedAt": "06.09.2026 kl. 08:54",
+  "updatedISO": "2026-09-06T08:54:47.976535+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -30,9 +30,9 @@
       "published": "06.09. 08:04",
       "publishedISO": "2026-09-06T08:04:51+02:00",
       "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-      "summary": "Schwartz's, en av Montreals mest kjente delikatessebutikker, har sluttet å servere den ikoniske USA-laget sorte kirsebærbrusen som har vært fast inventar på restauranten i flere tiår. Smørbrødbutikken hadde slitt med å opprettholde forsyningen av colaen de siste åtte årene da distributøren kuttet produksjonen på grunn av de økende prisene på aluminium. Hvorfor en berømt smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Video, 00:01:26Hvorfor en kjent smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Up Next. 'Helt latterlig': Kanadiere reagerer på nye tollspenninger med USA.",
+      "summary": "Schwartz's, en av Montreals mest kjente delikatessebutikker, har sluttet å servere den ikoniske USA-laget sorte kirsebærbrusen som har vært fast inventar på restauranten i flere tiår. Smørbrødbutikken hadde slitt med å opprettholde forsyningen av colaen de siste åtte årene da distributøren kuttet produksjonen på grunn av de økende prisene på aluminium. Hvorfor en berømt smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Video, 00:01:26Hvorfor en kjent smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Up Next. 'Absolutt latterlig': Kanadiere reagerer på nye tollspenninger med USA.",
       "keyPoints": [
-        "Hvorfor en berømt smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Video, 00:01:26Hvorfor en kjent smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Up Next. 'Helt latterlig': Kanadiere reagerer på nye tollspenninger med USA.",
+        "Hvorfor en berømt smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Video, 00:01:26Hvorfor en kjent smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Up Next. 'Absolutt latterlig': Kanadiere reagerer på nye tollspenninger med USA.",
         "Schwartz's, en av Montreals mest kjente delikatessebutikker, har sluttet å servere den ikoniske USA-laget sorte kirsebærbrusen som har vært fast inventar på restauranten i flere tiår.",
         "Smørbrødbutikken hadde slitt med å opprettholde forsyningen av colaen de siste åtte årene da distributøren kuttet produksjonen på grunn av de økende prisene på aluminium.",
         "Video, 00:02:13Hvordan Lindsay Clancy-rettssaken grep Amerika - og til slutt falt fra hverandre Hvorfor dukket USS Lincoln opp i Thailand og så så rusten ut?"
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f39960f8-8f5b-3329-a33d-beba396c7784?fit=crop&h=675&upscale=true&w=1200&s=eedd68b6a91591bde4c2f1381d0fd5f96df7066c",
       "localImage": "assets/news/db01696b7abd08.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "7194e14a6fdfe2",
@@ -172,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "c777bb17b752d1",
+      "category": "Norge",
+      "published": "06.09. 08:45",
+      "publishedISO": "2026-09-06T08:45:12+02:00",
+      "title": "Vil at bom på E39 blir ståande i 30 år",
+      "summary": "Den nye E39 er så dyr å køyre på at mange i staden vel den gamle. Ny E39 mellom Kristiansand og Mandal var ferdig i 2022. Når Solfrid Sordal skal på jobb i Mandal, køyrer ho aldri nye E39. – Det blir veldig dyrt for meg som er sjølvstendig og som driv ein liten nisjebutikk.",
+      "keyPoints": [
+        "Den nye E39 er så dyr å køyre på at mange i staden vel den gamle.",
+        "Ny E39 mellom Kristiansand og Mandal var ferdig i 2022.",
+        "Når Solfrid Sordal skal på jobb i Mandal, køyrer ho aldri nye E39. – Det blir veldig dyrt for meg som er sjølvstendig og som driv ein liten nisjebutikk.",
+        "Til hausten skal Stortinget igjen diskutere korleis ein kan få ned prisen i bommen på nye E39."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/vil-at-bom-pa-e39-blir-staande-i-30-ar-1.18011725",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/_G81NG6LgakRx9ArhTvl5wFlMlndf5LFkzChE87M2GLQ.jpg",
+      "localImage": "assets/news/c777bb17b752d1.jpg",
+      "score": 13
+    },
+    {
       "id": "c7f6d122cfd7f2",
       "category": "Norge",
       "published": "06.09. 08:24",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3W-vMpxBE_ebJ85FYgsg5Q_Vke32S1qnwZRCLjbAk3oQ.jpg",
       "localImage": "assets/news/c7f6d122cfd7f2.jpg",
-      "score": 13
-    },
-    {
-      "id": "951ea794562b01",
-      "category": "Økonomi",
-      "published": "06.09. 08:08",
-      "publishedISO": "2026-09-06T08:08:08+02:00",
-      "title": "Vellykket rakettoppskytning fra Andøya Space: – Helt fantastisk",
-      "summary": "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12. CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie. Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
-      "keyPoints": [
-        "Vi har levert infrastrukturen, kompetansen og de operative tjenestene som kreves for å gjennomføre oppskyting trygt og sikkert fra Andøya, sier han. – Helt fantastisk.",
-        "Etter fem mislykkede forsøk, ble endelig raketten skutt opp fra Andøya Space klokken 22.12.",
-        "CEO i Andøya Space, Ketil Olsen, er svært fornøyd. med oppskytingen. – - Vi er stolte av å ha bidratt til å skape historie.",
-        "Oppskytingen markerer et gjennombrudd for norsk og europeisk romvirksomhet, og er et resultat av samarbeidet mellom tyske Isar Aerospace og norske Andøya Space."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/xrdbnX/ny-rakettoppskyting-fra-andoeya-space",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/623b4459-18b4-37f2-9af5-e313f6cb4165?fit=crop&h=675&upscale=true&w=1200&s=0c5bb8467a2acdb49e1a0213dfb3c90fc6170924",
-      "localImage": "assets/news/951ea794562b01.jpg",
       "score": 13
     }
   ]
