@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 21:37",
-  "updatedISO": "2026-09-06T21:37:41.878834+02:00",
+  "updatedAt": "06.09.2026 kl. 21:51",
+  "updatedISO": "2026-09-06T21:51:29.679841+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "USAs sentralkommando la ut opptak på lørdag som viser angrep på Iran-tilknyttede tankskip Irans toppforhandler har advart om \"en raskere, tyngre og mer smertefull respons\" på amerikanske angrep, ettersom fiendtlighetene mellom de to sidene eskalerer.",
         "USAs forsvarsminister Pete Hegseth har utstedt sine egne trusler mot Iran, og skrev på sosiale medier på lørdag: \"Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankskipene deres.\" En 60-dagers våpenhvile mellom USA og Iran utløp formelt forrige måned, og denne perioden med relativ ro ble knust da USA gjenopptok angrepene sist søndag.",
         "Hans kommentarer kommer nesten en uke inn i fornyede kamper mellom Iran og USA, og en dag etter at Washington sa at det slo til iranske oljetankere som svar på at Teheran angrep amerikanske krigsskip i regionens farvann.",
-        "USA og Iran handler gjengjeldelsesangrep på skip når konflikten blusser Seks måneder inn i Iran-krigen: Hva har Trump utrettet?"
+        "USA og Iran handler gjengjeldelsesangrep på skip når konflikten blusser Seks måneder inn i Iran-krigen: Hva har Trump oppnådd?"
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -67,46 +67,25 @@
       "score": 22
     },
     {
-      "id": "e172b1991a942f",
+      "id": "6176590125e321",
       "category": "Økonomi",
-      "published": "06.09. 19:58",
-      "publishedISO": "2026-09-06T19:58:56+02:00",
-      "title": "Canadas «oljefond» bygger datasenter i Norge",
-      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+      "published": "06.09. 21:42",
+      "publishedISO": "2026-09-06T21:42:54+02:00",
+      "title": "Iran vil opprette forbudssone utenfor Hormuz-stredet",
+      "summary": "Hormuz-stredet er «helt stengt, og kontrolleres av væpnede styrker», sier Rezai i intervjuet, ifølge Bloomberg. Konflikten mellom USA og Iran blusset opp tirsdag kveld, da CENTCOM opplyste at amerikanske styrker angrep mål tilhørende Revolusjonsgarden (IRGC) i Iran. Selv om president Trump har insistert på at Hormuz-stredet er åpent for skipstrafikk, viser skipsdata at trafikken gjennom den strategiske vannveien fortsatt ligger langt under nivået fra før konflikten.",
       "keyPoints": [
-        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
-        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
-        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
-        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
+        "Konflikten mellom USA og Iran blusset opp tirsdag kveld, da CENTCOM opplyste at amerikanske styrker angrep mål tilhørende Revolusjonsgarden (IRGC) i Iran.",
+        "Hormuz-stredet er «helt stengt, og kontrolleres av væpnede styrker», sier Rezai i intervjuet, ifølge Bloomberg.",
+        "Selv om president Trump har insistert på at Hormuz-stredet er åpent for skipstrafikk, viser skipsdata at trafikken gjennom den strategiske vannveien fortsatt ligger langt under nivået fra før konflikten.",
+        "Iran svarte med luftangrep mot amerikanske interesser flere steder i Midtøsten, blant annet i Kurdistan-regionen, Kuwait, Bahrain og Jordan."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
+      "url": "https://e24.no/internasjonal-oekonomi/i/xrdyAB/iran-vil-opprette-forbudssone-utenfor-hormuz-stredet",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
-      "localImage": "assets/news/e172b1991a942f.jpg",
-      "score": 16
-    },
-    {
-      "id": "7194e14a6fdfe2",
-      "category": "AI",
-      "published": "04.09. 16:59",
-      "publishedISO": "2026-09-04T16:59:13+02:00",
-      "title": "OpenAI agents hijacked German website before Hugging Face hack, report claims",
-      "summary": "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face. Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den. Nvidia inngår en avtale på 12,9 milliarder dollar for å kjøpe AI-plattform Hugging Face Uventet chat mellom OpenAI-agenter førte til Hugging Face-hack",
-      "keyPoints": [
-        "En ny rapport hevder at en sverm av AI-agenter, utviklet av OpenAI, kapret et tysk nettsted – måneder før firmaet avslørte at AI-en deres hadde hacket teknologiplattformen Hugging Face.",
-        "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face Unexpected chat between OpenAI agents led to Hugging Face hack",
-        "Rapporten er fra en gruppe kalt Nightingale Collective og hevder at OpenAIs agenter i mai begynte å bruke DseWiki som sin egen oppslagstavle, delte tips om hvordan man unngår å bli oppdaget og gjorde 15 000 endringer i den.",
-        "Hugging Faces systemer ble separat hacket av OpenAI-agenter i juli, med hendelsen beskrevet på den tiden som verdens første AI-aktiverte cyberangrep."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckg725z5kgzo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
-      "localImage": "assets/news/7194e14a6fdfe2.jpg",
-      "score": 12
+      "image": "https://akamai.vgc.no/v2/images/02ffcb18-d93b-3b13-9fdb-2fa7fef25d35?fit=crop&h=675&upscale=true&w=1200&s=db78792dcec0a1ae486e6cfb7648ffab9530711f",
+      "localImage": "assets/news/6176590125e321.jpg",
+      "score": 17
     },
     {
       "id": "3b3937f75b81e9",
@@ -128,6 +107,27 @@
       "image": "https://gfx.nrk.no/ExwAV_VU633i8joOhC4V0Q-ik39tSbZkIgimrPzP2cyw.jpg",
       "localImage": "assets/news/3b3937f75b81e9.webp",
       "score": 17
+    },
+    {
+      "id": "e172b1991a942f",
+      "category": "Økonomi",
+      "published": "06.09. 19:58",
+      "publishedISO": "2026-09-06T19:58:56+02:00",
+      "title": "Canadas «oljefond» bygger datasenter i Norge",
+      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+      "keyPoints": [
+        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
+        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
+        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
+      "localImage": "assets/news/e172b1991a942f.jpg",
+      "score": 16
     },
     {
       "id": "df71afcad5449f",
