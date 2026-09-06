@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 13:10",
-  "updatedISO": "2026-09-06T13:10:49.765582+02:00",
+  "updatedAt": "06.09.2026 kl. 13:25",
+  "updatedISO": "2026-09-06T13:25:33.281077+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,27 +172,6 @@
       "score": 13
     },
     {
-      "id": "c7f6d122cfd7f2",
-      "category": "Norge",
-      "published": "06.09. 08:24",
-      "publishedISO": "2026-09-06T08:24:01+02:00",
-      "title": "Hjelper barn i Nepal: – En vanvittig stor humanitær katastrofe",
-      "summary": "Det er en vanvittig stor humanitær katastrofe, sier Ida Oleanna Hagen, generalsekretær i FORUT. Bistandsorganisasjonen FORUT har sitt hovedkontor på Gjøvik i Innlandet, men hjelper til i katastrofen med FORUTs lokalpartner, Child Workers In Nepal (CWIN). De som hjelper jobber med å gi mest mulig trygghet etter katastrofen. – Det de sier, er at barn trenger helt normale ting.",
-      "keyPoints": [
-        "Det er en vanvittig stor humanitær katastrofe, sier Ida Oleanna Hagen, generalsekretær i FORUT.",
-        "Bistandsorganisasjonen FORUT har sitt hovedkontor på Gjøvik i Innlandet, men hjelper til i katastrofen med FORUTs lokalpartner, Child Workers In Nepal (CWIN).",
-        "De som hjelper jobber med å gi mest mulig trygghet etter katastrofen. – Det de sier, er at barn trenger helt normale ting.",
-        "Den 26. august ble Nepal rammet av en voldsom flomkatastrofe."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/forut-_-en-norsk-organisasjon-i-gjovik-bistar-med-midler-til-arbeid-med-barn-i-nepal_-_-verdifull-1.18012972",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/3W-vMpxBE_ebJ85FYgsg5Q_Vke32S1qnwZRCLjbAk3oQ.jpg",
-      "localImage": "assets/news/c7f6d122cfd7f2.jpg",
-      "score": 13
-    },
-    {
       "id": "8739cd2e10b410",
       "category": "Økonomi",
       "published": "05.09. 10:03",
@@ -211,6 +190,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e5a5ebb7-de41-3d93-8abc-28776d5bc4f0?fit=crop&h=675&upscale=true&w=1200&s=66bbf2adfac7a62e16b65e20696cf28b3d7d871b",
       "localImage": "assets/news/8739cd2e10b410.jpg",
+      "score": 13
+    },
+    {
+      "id": "3c66ec91d46d72",
+      "category": "Økonomi",
+      "published": "04.09. 09:01",
+      "publishedISO": "2026-09-04T09:01:29+02:00",
+      "title": "Oljenedtur på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag. Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent. Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs endte ned 0,1 prosent etter et fall i oljeprisen torsdag og gjennom ettermiddagen fredag.",
+        "Energiindeksen på Oslo Børs avsluttet dagen ned 1,2 prosent.",
+        "Slik gikk det med noen av de mest omsatte aksjene: Bioteknologiselskapet Thor Medical har hentet 300 millioner kroner i friske penger, blant annet gjennom en rettet emisjon.",
+        "Prisen på et fat nordsjøolje ligger på 94,2 dollar, ned 1,6 prosent for dagen og om lag 1,3 dollar siden stengetid torsdag."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4do14/nedgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ac6e991c-3de8-32d6-8fe2-1bd485adfe80?fit=crop&h=675&upscale=true&w=1200&s=34a5f4eae2d8ed424a1da058a76b18cd816fe7f1",
+      "localImage": "assets/news/3c66ec91d46d72.jpg",
       "score": 13
     }
   ]
