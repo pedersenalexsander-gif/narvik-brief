@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 19:38",
-  "updatedISO": "2026-09-06T19:38:16.351019+02:00",
+  "updatedAt": "06.09.2026 kl. 19:51",
+  "updatedISO": "2026-09-06T19:51:30.661688+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -27,14 +27,14 @@
     {
       "id": "a1475ef4ce1a45",
       "category": "Verden",
-      "published": "06.09. 19:13",
-      "publishedISO": "2026-09-06T19:13:15+02:00",
+      "published": "06.09. 19:42",
+      "publishedISO": "2026-09-06T19:42:19+02:00",
       "title": "German far-right set for big win in eastern state of Saxony-Anhalt - projections",
-      "summary": "AfD-ledere var overlykkelige da utgangsmålinger anslått en stor ledelse i Sachsen-Anhalt-avstemningen Tysklands AfD er på vei mot en stor seier i den østlige delstaten Sachsen-Anhalt, langt foran sine mainstream-rivaler, ifølge de første anslagene. Det høyreekstreme partiet ligger an til å vinne mer enn 44 % av stemmene, godt foran den konservative CDU på 18,4 %. Sachsen-Anhalt har en liten befolkning på 2,1 millioner og AfD i delstaten vurderes av innenlandsk etterretning som «ekstrem høyreekstremistisk», en klassifisering som avvises av Siegmund.",
+      "summary": "AfD-ledere var overlykkelige da utgangsmålinger anslått en stor ledelse i Sachsen-Anhalt-avstemningen Tysklands AfD er på vei mot en stor seier i den østlige delstaten Sachsen-Anhalt, langt foran sine mainstream-rivaler, ifølge de første anslagene. Det høyreekstreme partiet ligger an til å vinne mer enn 44 % av stemmene, godt foran den konservative CDU på 18,4 %. Sachsen-Anhalt har en liten befolkning på 2,1 millioner og AfD i delstaten vurderes av innenriks etterretning som «høyreekstremistisk», en klassifisering avvist av Siegmund.",
       "keyPoints": [
         "AfD-ledere var overlykkelige da utgangsmålinger anslått en stor ledelse i Sachsen-Anhalt-avstemningen Tysklands AfD er på vei mot en stor seier i den østlige delstaten Sachsen-Anhalt, langt foran sine mainstream-rivaler, ifølge de første anslagene.",
-        "Sachsen-Anhalt har en liten befolkning på 2,1 millioner og AfD i delstaten vurderes av innenlandsk etterretning som «ekstrem høyreekstremistisk», en klassifisering som avvises av Siegmund.",
         "Det høyreekstreme partiet ligger an til å vinne mer enn 44 % av stemmene, godt foran den konservative CDU på 18,4 %.",
+        "Sachsen-Anhalt har en liten befolkning på 2,1 millioner og AfD i delstaten vurderes av innenriks etterretning som «høyreekstremistisk», en klassifisering avvist av Siegmund.",
         "Ingen høyreekstreme parti har vunnet kontroll over en stat i Tyskland siden andre verdenskrig, og å styre på statlig nivå ville bety makt over politiarbeid, lokal utdanning og kultur."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
@@ -167,30 +167,9 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/urix/afd-naermer-seg-makt-i-tysk-delstat-1.18015699",
       "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "image": "https://gfx.nrk.no/MdYRsL4SCekQZFz8DlVs9g9NPkU9W2jg0_5IY6SOqa6Q.jpg",
       "localImage": "assets/news/b599d636abf13b.jpg",
       "score": 16
-    },
-    {
-      "id": "22de09c4b1c068",
-      "category": "Økonomi",
-      "published": "06.09. 19:35",
-      "publishedISO": "2026-09-06T19:35:40+02:00",
-      "title": "AfD med seier i delstatsvalg",
-      "summary": "Alternative für Deutschland (AfD) fikk hele 44,5 prosent av stemmene i delstatsvalget i Sachsen-Anhalt søndag, ifølge tidlige prognoser fra kringkasteren ARD, melder Bloomberg. Det er det beste resultatet yte høyre-partiet noensinne har oppnådd i et delstatsvalg i Tyskland. Alle de andre partiene har utelukket samarbeid med AfD.",
-      "keyPoints": [
-        "Alternative für Deutschland (AfD) fikk hele 44,5 prosent av stemmene i delstatsvalget i Sachsen-Anhalt søndag, ifølge tidlige prognoser fra kringkasteren ARD, melder Bloomberg.",
-        "Det er det beste resultatet yte høyre-partiet noensinne har oppnådd i et delstatsvalg i Tyskland.",
-        "Alle de andre partiene har utelukket samarbeid med AfD.",
-        "Forbundskansler Friedrich Merz sitt kristendemokratiske parti CDU, som lenge har styrt delstaten, fikk kun 18,5 prosent."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/k0xX1L/afd-med-seier-i-delstatsvalg",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1766bfca-fde6-3b73-8d00-f0506ab89472?fit=crop&h=675&upscale=true&w=1200&s=4e6bdbce553935c3215f24338c3c5ef6c4306bbb",
-      "localImage": "assets/news/22de09c4b1c068.jpg",
-      "score": 13
     },
     {
       "id": "e773db30774452",
@@ -211,6 +190,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
       "localImage": "assets/news/e773db30774452.jpg",
+      "score": 13
+    },
+    {
+      "id": "e2b701c65785de",
+      "category": "Norge",
+      "published": "06.09. 18:44",
+      "publishedISO": "2026-09-06T18:44:07+02:00",
+      "title": "Kristiansund mot Tromsø i Eliteserien",
+      "summary": "Her kan du følge kampen i Kristiansund minutt for minutt. Han kan legge ballen elegant i det lengste hjørne fra ti meter, mens Tromsø sisteskanse Jakob Haugaard er sjanseløs. Tromsø idrettslag måtte klare seg uten kaptein Ruben Yttergård Jenssen i søndagens kamp borte mot Kristiansund.",
+      "keyPoints": [
+        "Tromsø idrettslag måtte klare seg uten kaptein Ruben Yttergård Jenssen i søndagens kamp borte mot Kristiansund.",
+        "Her kan du følge kampen i Kristiansund minutt for minutt.",
+        "Han kan legge ballen elegant i det lengste hjørne fra ti meter, mens Tromsø sisteskanse Jakob Haugaard er sjanseløs.",
+        "Kristiansunds Leander Næss Alvheim jubler for 1–0 Kristiansunds Leander Næss Alvheim fikk ett innlegg fra høyre, signer Marius Elvius."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/kristiansund-mot-tromso-i-eliteserien-1.18013938",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/u6DXvO7VB35S0k18gp8RUg0sMogNsJTl76hiwS8qR0Sg.jpg",
+      "localImage": "assets/news/e2b701c65785de.jpg",
       "score": 13
     }
   ]
