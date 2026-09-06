@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.09.2026 kl. 19:24",
-  "updatedISO": "2026-09-06T19:24:27.388364+02:00",
+  "updatedAt": "06.09.2026 kl. 19:38",
+  "updatedISO": "2026-09-06T19:38:16.351019+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,27 +43,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/41a1/live/92680d00-aa0f-11f1-aed2-8d6da8d75094.jpg",
       "localImage": "assets/news/a1475ef4ce1a45.jpg",
-      "score": 13
-    },
-    {
-      "id": "e773db30774452",
-      "category": "USA",
-      "published": "06.09. 19:00",
-      "publishedISO": "2026-09-06T19:00:56+02:00",
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "summary": "USAs sentralkommando la ut opptak på lørdag som viser angrep på Iran-tilknyttede tankskip Irans toppforhandler har advart om \"en raskere, tyngre og mer smertefull respons\" på amerikanske angrep, ettersom fiendtlighetene mellom de to sidene eskalerer. Hans kommentarer kommer nesten en uke inn i fornyede kamper mellom Iran og USA, og en dag etter at Washington sa at det slo til iranske oljetankere som svar på at Teheran angrep amerikanske krigsskip i regionens farvann. USAs forsvarsminister Pete Hegseth har utstedt sine egne trusler mot Iran, og skrev på sosiale medier på lørdag: \"Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankskipene deres.\" En 60-dagers våpenhvile mellom USA og Iran utløp formelt forrige måned, og denne perioden med relativ ro ble knust da USA gjenopptok angrepene sist søndag.",
-      "keyPoints": [
-        "USAs sentralkommando la ut opptak på lørdag som viser angrep på Iran-tilknyttede tankskip Irans toppforhandler har advart om \"en raskere, tyngre og mer smertefull respons\" på amerikanske angrep, ettersom fiendtlighetene mellom de to sidene eskalerer.",
-        "USAs forsvarsminister Pete Hegseth har utstedt sine egne trusler mot Iran, og skrev på sosiale medier på lørdag: \"Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankskipene deres.\" En 60-dagers våpenhvile mellom USA og Iran utløp formelt forrige måned, og denne perioden med relativ ro ble knust da USA gjenopptok angrepene sist søndag.",
-        "Hans kommentarer kommer nesten en uke inn i fornyede kamper mellom Iran og USA, og en dag etter at Washington sa at det slo til iranske oljetankere som svar på at Teheran angrep amerikanske krigsskip i regionens farvann.",
-        "USA og Iran handler gjengjeldelsesangrep på skip når konflikten blusser Seks måneder inn i Iran-krigen: Hva har Trump oppnådd?"
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
-      "localImage": "assets/news/e773db30774452.jpg",
       "score": 13
     },
     {
@@ -193,24 +172,45 @@
       "score": 16
     },
     {
-      "id": "b3e444495d565a",
-      "category": "Norge",
-      "published": "06.09. 18:14",
-      "publishedISO": "2026-09-06T18:14:08+02:00",
-      "title": "Dronning Margrethe deltar ikkje i gravferda",
-      "summary": "INNLAGT: Dronning Margrethe skal ikkje delta i gravferda til kong Harald kommande onsdag. På Rikshospitalet i København får ho behandling for ein blodsamling i hofteregionen og mild dehydrering. – Det betyr at Hennar Majestet dessverre ikkje deltar i Kong Harald Vs gravferd onsdag i Oslo, står det i pressemeldinga. Dronning Margrethe og kong Harald fotografert sammen under et besøk i Danmark i 2023. – Ho var i familie med han, nær venn med han og nær venninne med dronning Sonja, seier Villemann vidare.",
+      "id": "22de09c4b1c068",
+      "category": "Økonomi",
+      "published": "06.09. 19:35",
+      "publishedISO": "2026-09-06T19:35:40+02:00",
+      "title": "AfD med seier i delstatsvalg",
+      "summary": "Alternative für Deutschland (AfD) fikk hele 44,5 prosent av stemmene i delstatsvalget i Sachsen-Anhalt søndag, ifølge tidlige prognoser fra kringkasteren ARD, melder Bloomberg. Det er det beste resultatet yte høyre-partiet noensinne har oppnådd i et delstatsvalg i Tyskland. Alle de andre partiene har utelukket samarbeid med AfD.",
       "keyPoints": [
-        "INNLAGT: Dronning Margrethe skal ikkje delta i gravferda til kong Harald kommande onsdag.",
-        "Dronning Margrethe og kong Harald fotografert sammen under et besøk i Danmark i 2023. – Ho var i familie med han, nær venn med han og nær venninne med dronning Sonja, seier Villemann vidare.",
-        "På Rikshospitalet i København får ho behandling for ein blodsamling i hofteregionen og mild dehydrering. – Det betyr at Hennar Majestet dessverre ikkje deltar i Kong Harald Vs gravferd onsdag i Oslo, står det i pressemeldinga.",
-        "Innlegginga skjer etter at dronning Margrethe har fått eit anfall av uvelheit, skriv det danske slottet i pressemeldinga."
+        "Alternative für Deutschland (AfD) fikk hele 44,5 prosent av stemmene i delstatsvalget i Sachsen-Anhalt søndag, ifølge tidlige prognoser fra kringkasteren ARD, melder Bloomberg.",
+        "Det er det beste resultatet yte høyre-partiet noensinne har oppnådd i et delstatsvalg i Tyskland.",
+        "Alle de andre partiene har utelukket samarbeid med AfD.",
+        "Forbundskansler Friedrich Merz sitt kristendemokratiske parti CDU, som lenge har styrt delstaten, fikk kun 18,5 prosent."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/dronning-margrethe-deltar-ikkje-i-gravferda-1.18016100",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ExwAV_VU633i8joOhC4V0Q-ik39tSbZkIgimrPzP2cyw.jpg",
-      "localImage": "assets/news/b3e444495d565a.webp",
+      "url": "https://e24.no/internasjonal-oekonomi/i/k0xX1L/afd-med-seier-i-delstatsvalg",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1766bfca-fde6-3b73-8d00-f0506ab89472?fit=crop&h=675&upscale=true&w=1200&s=4e6bdbce553935c3215f24338c3c5ef6c4306bbb",
+      "localImage": "assets/news/22de09c4b1c068.jpg",
+      "score": 13
+    },
+    {
+      "id": "e773db30774452",
+      "category": "Verden",
+      "published": "06.09. 19:00",
+      "publishedISO": "2026-09-06T19:00:56+02:00",
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "summary": "USAs sentralkommando la ut opptak på lørdag som viser angrep på Iran-tilknyttede tankskip Irans toppforhandler har advart om \"en raskere, tyngre og mer smertefull respons\" på amerikanske angrep, ettersom fiendtlighetene mellom de to sidene eskalerer. Hans kommentarer kommer nesten en uke inn i fornyede kamper mellom Iran og USA, og en dag etter at Washington sa at det slo til iranske oljetankere som svar på at Teheran angrep amerikanske krigsskip i regionens farvann. USAs forsvarsminister Pete Hegseth har utstedt sine egne trusler mot Iran, og skrev på sosiale medier på lørdag: \"Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankskipene deres.\" En 60-dagers våpenhvile mellom USA og Iran utløp formelt forrige måned, og denne perioden med relativ ro ble knust da USA gjenopptok angrepene sist søndag.",
+      "keyPoints": [
+        "USAs sentralkommando la ut opptak på lørdag som viser angrep på Iran-tilknyttede tankskip Irans toppforhandler har advart om \"en raskere, tyngre og mer smertefull respons\" på amerikanske angrep, ettersom fiendtlighetene mellom de to sidene eskalerer.",
+        "USAs forsvarsminister Pete Hegseth har utstedt sine egne trusler mot Iran, og skrev på sosiale medier på lørdag: \"Det er enkelt: Hvis Iran skyter mot amerikanske skip, vil vi ødelegge (og senke) oljetankskipene deres.\" En 60-dagers våpenhvile mellom USA og Iran utløp formelt forrige måned, og denne perioden med relativ ro ble knust da USA gjenopptok angrepene sist søndag.",
+        "Hans kommentarer kommer nesten en uke inn i fornyede kamper mellom Iran og USA, og en dag etter at Washington sa at det slo til iranske oljetankere som svar på at Teheran angrep amerikanske krigsskip i regionens farvann.",
+        "USA og Iran handler gjengjeldelsesangrep på skip når konflikten blusser Seks måneder inn i Iran-krigen: Hva har Trump oppnådd?"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4169/live/c55f7eb0-aa0e-11f1-9220-c38a4a0d51b4.jpg",
+      "localImage": "assets/news/e773db30774452.jpg",
       "score": 13
     }
   ]
