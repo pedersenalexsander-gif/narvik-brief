@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 09:13",
-  "updatedISO": "2026-09-07T09:13:53.852919+02:00",
+  "updatedAt": "07.09.2026 kl. 09:32",
+  "updatedISO": "2026-09-07T09:32:40.659018+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/7Gs_6pXyPPSArf5P0L3FdAnzpxsbEU9jpIRbQkuj8vKA.jpg",
       "localImage": "assets/news/64dc024ab349cc.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "5059ce8cf247c8",
+      "id": "12e955cbd388d6",
       "category": "Verden",
-      "published": "07.09. 01:02",
-      "publishedISO": "2026-09-07T01:02:40+02:00",
-      "title": "NTA: India's high-stakes exam system faces a crisis of trust",
-      "summary": "Eksperter BBC snakket med sier at problemene går utover papirlekkasjer - fra NTAs ansvarlighet og kapasitet til å undersøke sentralisering, design og om Indias testsystem med høy innsats trenger en ny vurdering. India trenger et system der studenter kan ta viktige opptaksprøver mer enn én gang i året, slik det er vanlig i noen vestlige land, sa Yamini Aiyar, senior gjestestipendiat ved Brown University. \"Dette vil gi studentene en ny sjanse hvis en eksamen blir avlyst eller de ikke presterer bra, og reduserer risikoen for å tape et helt år,\" sier hun. NTA kan kanskje gjøre eksamen sikrere, sier hun. \"Men det kan ikke, i det minste alene, endre et system der millioner av studenter konkurrerer om et begrenset antall seter og en enkelt eksamen kan forme fremtiden deres.\" Noen eksperter sier at reformen må gå utover selve NTA: India trenger et eksamenssystem som er mindre avhengig av engangsprøver med høy innsats, gir studentene flere sjanser og kan bedre motstå forstyrrelser.",
+      "published": "07.09. 09:25",
+      "publishedISO": "2026-09-07T09:25:06+02:00",
+      "title": "Israeli strikes in southern Lebanon kill 11, state media say",
+      "summary": "En av angrepene over natten i Kfar Rumman ødela en tre-etasjes boligbygning Israelske luftangrep på en landsby i Sør-Libanon har drept minst 11 mennesker, inkludert to barn, sier libanesiske statlige medier. Søndag drepte israelske angrep syv mennesker i det sørlige Libanon, da det israelske militæret gjengjeldte det de sa var droneangrep fra den væpnede gruppen Hizbollah på sine tropper i okkuperte områder av landet. Tre bønder arrestert av Israel i Libanon, landsbyleder sier at BBC reiser inn i det okkuperte Libanon mens tjenestemenn sier at Israel utvider stillinger Elleve drept i israelske angrep på Sør-Libanon, sier myndighetene",
       "keyPoints": [
-        "Eksperter BBC snakket med sier at problemene går utover papirlekkasjer - fra NTAs ansvarlighet og kapasitet til å undersøke sentralisering, design og om Indias testsystem med høy innsats trenger en ny vurdering.",
-        "NTA kan kanskje gjøre eksamen sikrere, sier hun. \"Men det kan ikke, i det minste alene, endre et system der millioner av studenter konkurrerer om et begrenset antall seter og en enkelt eksamen kan forme fremtiden deres.\" Noen eksperter sier at reformen må gå utover selve NTA: India trenger et eksamenssystem som er mindre avhengig av engangsprøver med høy innsats, gir studentene flere sjanser og kan bedre motstå forstyrrelser.",
-        "India trenger et system der studenter kan ta viktige opptaksprøver mer enn én gang i året, slik det er vanlig i noen vestlige land, sa Yamini Aiyar, senior gjestestipendiat ved Brown University. \"Dette vil gi studentene en ny sjanse hvis en eksamen blir avlyst eller de ikke presterer bra, og reduserer risikoen for å tape et helt år,\" sier hun.",
-        "Millioner av studenter dukker opp til tester utført av Indias nasjonale testbyrå hvert år. I 2017 introduserte India National Testing Agency (NTA) for å gjennomføre rettferdige, transparente og standardiserte eksamener."
+        "En av angrepene over natten i Kfar Rumman ødela en tre-etasjes boligbygning Israelske luftangrep på en landsby i Sør-Libanon har drept minst 11 mennesker, inkludert to barn, sier libanesiske statlige medier.",
+        "Three farmers detained by Israel in Lebanon, village leader says BBC travels inside occupied Lebanon as officials say Israel expanding positions Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "Søndag drepte israelske angrep syv mennesker i det sørlige Libanon, da det israelske militæret gjengjeldte det de sa var droneangrep fra den væpnede gruppen Hizbollah på sine tropper i okkuperte områder av landet.",
+        "Det israelske militæret sa at de ser på rapportene."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9036/live/4e12b1a0-a77b-11f1-b2d5-535b3b3d379f.jpg",
-      "localImage": "assets/news/5059ce8cf247c8.jpg",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/12e955cbd388d6.jpg",
+      "score": 13
     },
     {
       "id": "110daf58f61c0d",
@@ -172,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "817ff2602c1cef",
+      "category": "Norge",
+      "published": "07.09. 09:26",
+      "publishedISO": "2026-09-07T09:26:01+02:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Den anonyme melderen hevder at enkelte båter har brukt opptil ti fiskestenger samtidig, og anslår at mellom 50 og 100 laks kan ha blitt fanget siden sesongstart. Ifølge fiskereglene for Nordland er det tillatt med to stenger eller håndsnører per båt. Det opplyser vaktleder Trond Rabben ved Nordland 110-sentral til NRK. – Det har begynt å brenne om bord i båten mens den lå ved kai.",
+      "keyPoints": [
+        "Ifølge fiskereglene for Nordland er det tillatt med to stenger eller håndsnører per båt.",
+        "Den anonyme melderen hevder at enkelte båter har brukt opptil ti fiskestenger samtidig, og anslår at mellom 50 og 100 laks kan ha blitt fanget siden sesongstart.",
+        "Det opplyser vaktleder Trond Rabben ved Nordland 110-sentral til NRK. – Det har begynt å brenne om bord i båten mens den lå ved kai.",
+        "Han opplevde at stadig mer av arbeidstiden gikk til å utrede barn for ADHD. – På et tidspunkt vil jeg anslå at det var rundt 50 prosent."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/817ff2602c1cef.jpg",
+      "score": 13
+    },
+    {
       "id": "f04cdc65fb17d1",
       "category": "Økonomi",
       "published": "07.09. 07:46",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd8b/live/df1f9390-a873-11f1-824a-0fc4c5d895ae.jpg",
       "localImage": "assets/news/f04cdc65fb17d1.jpg",
-      "score": 13
-    },
-    {
-      "id": "26948a47196a9d",
-      "category": "Norge",
-      "published": "07.09. 07:10",
-      "publishedISO": "2026-09-07T07:10:03+02:00",
-      "title": "– Sju bad på éin dag og 300 mil på ni døgn",
-      "summary": "På det meste vart det sju bad på éin dag, og 40 mil bak rattet for å rekke alle. Oddny Elin Hukkelberg og mor Aud Irene Tollefsen badar ofte og året rundt på deira absolutte favorittbadeplass: Hjertvikleirå på Gossen i Aukra kommune. – Vi er innmari glad i «Stikk ut», så då kartet kom i postkassa i fjor, tenkte eg at om vi badar og tok Stikk ut i alle kommunane, så har vi nå fått gjort litt, seier Hukkelberg. Dei køyrde over 300 mil på ni døgn, med minst eitt bad i kvar kommune.",
-      "keyPoints": [
-        "På det meste vart det sju bad på éin dag, og 40 mil bak rattet for å rekke alle.",
-        "Dei køyrde over 300 mil på ni døgn, med minst eitt bad i kvar kommune.",
-        "Oddny Elin Hukkelberg og mor Aud Irene Tollefsen badar ofte og året rundt på deira absolutte favorittbadeplass: Hjertvikleirå på Gossen i Aukra kommune. – Vi er innmari glad i «Stikk ut», så då kartet kom i postkassa i fjor, tenkte eg at om vi badar og tok Stikk ut i alle kommunane, så har vi nå fått gjort litt, seier Hukkelberg.",
-        "Bading i Smøla kommune ved Edøya ferjekai, Gurisenteret. – Det har vore mange fine bad, seier Tollefsen og legg til: – Så har det vore elvar der vi bada så lenge at eg trudde vi fekk lakselus."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/mor-og-dotter-bada-i-kvar-kommune-i-trondelag-og-more-og-romsdal-1.18011350",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/QZ4tE92ZJVD6QDvbFswpcQRFol6unTOwvzJcm4t1byfA.jpg",
-      "localImage": "assets/news/26948a47196a9d.webp",
       "score": 13
     }
   ]
