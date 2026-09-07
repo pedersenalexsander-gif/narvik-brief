@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 15:32",
-  "updatedISO": "2026-09-07T15:32:46.329576+02:00",
+  "updatedAt": "07.09.2026 kl. 15:55",
+  "updatedISO": "2026-09-07T15:55:14.628761+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -14,7 +14,7 @@
         "Det påvirker dem som skal ta seg fram i trafikken de neste dagene – og ikke bare i Oslo.",
         "Det største sikkerhetsopplegget i norsk historie er under oppseiling i forbindelse med kong Haralds gravferd.",
         "Statens vegvesen advarer bilistene på lystavler på innfartsveiene. – Trafikanter må regne med stengte veier, omfattende kø og svært redusert fremkommelighet inn mot, i og rundt Oslo tirsdag 8. og onsdag 9. september, skriver Vegvesenet i en pressemelding.",
-        "STENGER: E6 kan bli stengt på kort varsel når kortesjer skal frakte kongelige og statsledere til og fra Gardermoen."
+        "Vegvesenet opplyser at fremkommeligheten blir svært begrenset store deler av dagen både tirsdag og onsdag: Mellom kl 06-20 tirsdag og 07-20 onsdag."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -25,24 +25,24 @@
       "score": 21
     },
     {
-      "id": "a914e4028900cd",
+      "id": "dd97475cc2a113",
       "category": "Verden",
-      "published": "07.09. 14:03",
-      "publishedISO": "2026-09-07T14:03:56+02:00",
-      "title": "Tanzanian President Samia's husband dies in hospital",
-      "summary": "Den tanzanianske presidentens (bildet over) ektemann, Hafidh Ameir Hassan, holdt en lav profil og ble sjelden avbildet. Mannen til Tanzanias president Samia Suluhu Hassan, Hafidh Ameir Hassan, har dødd mens han mottok behandling på et sykehus på Zanzibar. Han ble Tanzanias første første gentleman etter at president Samia tiltrådte i 2021. Kenyas president William Ruto sa at han mottok nyheten om hans bortgang med «dyp sorg». \"President Samia har mistet en livslang følgesvenn, barna hennes en elsket far, og Tanzania en utmerket sønn,\" skrev han på sosiale medier.",
+      "published": "07.09. 15:39",
+      "publishedISO": "2026-09-07T15:39:23+02:00",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
+      "summary": "En av angrepene over natten i Kfar Remman ødela en tre-etasjes boligbygning Israelske luftangrep på en landsby i Sør-Libanon har drept minst 12 mennesker, sier det libanesiske helsedepartementet. Israelske angrep over hele Sør-Libanon har drept minst 27 mennesker de siste tre dagene, ifølge helsedepartementet. Tre bønder arrestert av Israel i Libanon, landsbyleder sier at BBC reiser inn i det okkuperte Libanon mens tjenestemenn sier at Israel utvider stillinger Elleve drept i israelske angrep på Sør-Libanon, sier myndighetene at det israelske militæret har intensivert sine angrep i Sør-Libanon de siste dagene.",
       "keyPoints": [
-        "Den tanzanianske presidentens (bildet over) ektemann, Hafidh Ameir Hassan, holdt en lav profil og ble sjelden avbildet. Mannen til Tanzanias president Samia Suluhu Hassan, Hafidh Ameir Hassan, har dødd mens han mottok behandling på et sykehus på Zanzibar.",
-        "He became Tanzania's first First Gentleman after President Samia took office in 2021.",
-        "Kenyas president William Ruto sa at han mottok nyheten om hans bortgang med \"dyp sorg\". \"President Samia har mistet en livslang følgesvenn, barna hennes en elsket far, og Tanzania en utmerket sønn,\" skrev han på sosiale medier.",
-        "På samme måte ga Burundis president Évariste Ndayishimiye sin respekt og ba om at Samia og hennes familie skulle ha \"trøst og styrke i dette vanskelige øyeblikket\". \"Måtte han [Gud] gi evig hvile til Hafidh Ameir Hassans sjel,\" la han til."
+        "En av angrepene over natten i Kfar Remman ødela en tre-etasjes boligbygning Israelske luftangrep på en landsby i Sør-Libanon har drept minst 12 mennesker, sier det libanesiske helsedepartementet.",
+        "Tre bønder arrestert av Israel i Libanon, landsbyleder sier at BBC reiser inn i det okkuperte Libanon mens tjenestemenn sier at Israel utvider stillinger Elleve drept i israelske angrep på Sør-Libanon, sier myndighetene at det israelske militæret har intensivert sine angrep i Sør-Libanon de siste dagene.",
+        "Israelske angrep over hele Sør-Libanon har drept minst 27 mennesker de siste tre dagene, ifølge helsedepartementet.",
+        "Våpenhvileavtalen mellom Libanon, Israel og USA krever at Hizbollah avvæpnes, at israelske styrker gradvis trekker seg tilbake fra Sør-Libanon, og at den libanesiske hæren skal utplasseres over hele området."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ec3/live/f08c3e30-aaa3-11f1-9eba-7de947fa7cd1.jpg",
-      "localImage": "assets/news/a914e4028900cd.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/dd97475cc2a113.jpg",
       "score": 13
     },
     {
