@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 05:54",
-  "updatedISO": "2026-09-07T05:54:15.049040+02:00",
+  "updatedAt": "07.09.2026 kl. 06:11",
+  "updatedISO": "2026-09-07T06:11:53.941919+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,27 +88,6 @@
       "score": 16
     },
     {
-      "id": "e172b1991a942f",
-      "category": "Økonomi",
-      "published": "06.09. 19:58",
-      "publishedISO": "2026-09-06T19:58:56+02:00",
-      "title": "Canadas «oljefond» bygger datasenter i Norge",
-      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
-      "keyPoints": [
-        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
-        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
-        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
-        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
-      "localImage": "assets/news/e172b1991a942f.jpg",
-      "score": 15
-    },
-    {
       "id": "3b3937f75b81e9",
       "category": "Norge",
       "published": "06.09. 17:53",
@@ -149,6 +128,27 @@
       "image": "https://akamai.vgc.no/v2/images/f7dc2963-a2bb-3b65-8478-5910c920d1a8?fit=crop&h=675&upscale=true&w=1200&s=066d7261d0c5e46c5e34954642c5783ef63e696e",
       "localImage": "assets/news/df71afcad5449f.jpg",
       "score": 15
+    },
+    {
+      "id": "e172b1991a942f",
+      "category": "Økonomi",
+      "published": "06.09. 19:58",
+      "publishedISO": "2026-09-06T19:58:56+02:00",
+      "title": "Canadas «oljefond» bygger datasenter i Norge",
+      "summary": "AtNorth etterspør store mengder kraft til datasenter i Norge. Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt. Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+      "keyPoints": [
+        "AtNorth etterspør store mengder kraft til datasenter i Norge.",
+        "Selskapet har store planer i Norge og håper å starte byggingen av sitt første norske datasenter i Tysvær før vinteren.",
+        "Totalt har atNorth allerede reservert 442 megawatt kraft i Norge og står i kø for ytterligere 230 megawatt.",
+        "Canadas statlige pensjonsfond eier 60 prosent av selskapet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/L4aBEp/canadas-oljefond-bygger-datasenter-i-norge",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
+      "localImage": "assets/news/e172b1991a942f.jpg",
+      "score": 14
     },
     {
       "id": "29b6f2a84605dd",
@@ -193,24 +193,24 @@
       "score": 14
     },
     {
-      "id": "5059ce8cf247c8",
-      "category": "Verden",
-      "published": "07.09. 01:02",
-      "publishedISO": "2026-09-07T01:02:40+02:00",
-      "title": "NTA: India's high-stakes exam system faces a crisis of trust",
-      "summary": "Eksperter BBC snakket med sier at problemene går utover papirlekkasjer - fra NTAs ansvarlighet og kapasitet til å undersøke sentralisering, design og om Indias testsystem med høy innsats trenger en ny vurdering. India trenger et system der studenter kan ta viktige opptaksprøver mer enn én gang i året, slik det er vanlig i noen vestlige land, sa Yamini Aiyar, senior gjestestipendiat ved Brown University. \"Dette vil gi studentene en ny sjanse hvis en eksamen blir avlyst eller de ikke presterer bra, og reduserer risikoen for å tape et helt år,\" sier hun. NTA kan kanskje gjøre eksamen sikrere, sier hun. \"Men det kan ikke, i det minste alene, endre et system der millioner av studenter konkurrerer om et begrenset antall seter og en enkelt eksamen kan forme fremtiden deres.\" Noen eksperter sier at reformen må gå utover selve NTA: India trenger et eksamenssystem som er mindre avhengig av engangsprøver med høy innsats, gir studentene flere sjanser og kan bedre motstå forstyrrelser.",
+      "id": "f46a9e5a3b2366",
+      "category": "Norge",
+      "published": "07.09. 05:53",
+      "publishedISO": "2026-09-07T05:53:44+02:00",
+      "title": "Flere dømmes til tvungent psykisk helsevern",
+      "summary": "Langt flere dømmes til tvungent psykisk helsevern nå enn før. Rundt halvparten av plassene på det nye sykehuset vil bli fylt opp av pasienter dømt til tvungent psykisk helsevern. Personer som er dømt til tvungent psykisk helsevern, opptar stadig flere av døgnplassene i psykisk helsevern for voksne.",
       "keyPoints": [
-        "Eksperter BBC snakket med sier at problemene går utover papirlekkasjer - fra NTAs ansvarlighet og kapasitet til å undersøke sentralisering, design og om Indias testsystem med høy innsats trenger en ny vurdering.",
-        "NTA kan kanskje gjøre eksamen sikrere, sier hun. \"Men det kan ikke, i det minste alene, endre et system der millioner av studenter konkurrerer om et begrenset antall seter og en enkelt eksamen kan forme fremtiden deres.\" Noen eksperter sier at reformen må gå utover selve NTA: India trenger et eksamenssystem som er mindre avhengig av engangsprøver med høy innsats, gir studentene flere sjanser og kan bedre motstå forstyrrelser.",
-        "India trenger et system der studenter kan ta viktige opptaksprøver mer enn én gang i året, slik det er vanlig i noen vestlige land, sa Yamini Aiyar, senior gjestestipendiat ved Brown University. \"Dette vil gi studentene en ny sjanse hvis en eksamen blir avlyst eller de ikke presterer bra, og reduserer risikoen for å tape et helt år,\" sier hun.",
-        "Millioner av studenter dukker opp til tester utført av Indias nasjonale testbyrå hvert år. I 2017 introduserte India National Testing Agency (NTA) for å gjennomføre rettferdige, transparente og standardiserte eksamener."
+        "Langt flere dømmes til tvungent psykisk helsevern nå enn før.",
+        "Personer som er dømt til tvungent psykisk helsevern, opptar stadig flere av døgnplassene i psykisk helsevern for voksne.",
+        "Rundt halvparten av plassene på det nye sykehuset vil bli fylt opp av pasienter dømt til tvungent psykisk helsevern.",
+        "Drøyt 300 dommer til tvungent psykisk helsevern har opphørt siden ordningen ble innført i 2002."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1g7egy9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9036/live/4e12b1a0-a77b-11f1-b2d5-535b3b3d379f.jpg",
-      "localImage": "assets/news/5059ce8cf247c8.jpg",
+      "url": "https://www.nrk.no/stor-oslo/flere-dommes-til-tvungent-psykisk-helsevern-1.17948782",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/lQGrUOpweU4Oyp8WP1JvfABwrT8Is_WXs5au0ueeD39Q.jpg",
+      "localImage": "assets/news/f46a9e5a3b2366.jpg",
       "score": 13
     }
   ]
