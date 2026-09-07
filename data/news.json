@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 11:32",
-  "updatedISO": "2026-09-07T11:32:50.408726+02:00",
+  "updatedAt": "07.09.2026 kl. 11:55",
+  "updatedISO": "2026-09-07T11:55:10.279181+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -84,7 +84,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/bac907b2-90ea-3ce9-aca6-b821c80f3540?fit=crop&h=675&upscale=true&w=1200&s=e4e801b532fe15f88a6746c20219235e8748979e",
       "localImage": "assets/news/110daf58f61c0d.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "705c08f9270793",
@@ -192,24 +192,24 @@
       "score": 14
     },
     {
-      "id": "04c26d507bb39c",
+      "id": "aca1315e89f543",
       "category": "Økonomi",
-      "published": "07.09. 11:11",
-      "publishedISO": "2026-09-07T11:11:55+02:00",
-      "title": "Åpnet CO₂-fangstanlegg: – Viktig dag",
-      "summary": "Mandag ble Yaras CO₂-fangstanlegg i Sluiskil åpnet med flere prominente gjester til stede. Dette er det største industrielle CO₂-fangstanlegget i Europa, oppgir Yara i en melding. – Dette er en viktig dag for Yara og europeisk industri. Fangstanlegget i Sluiskil viser at storskala industriell avkarbonisering er mulig i dag, sier Yara-sjef Svein Tore Holsether i en melding.",
+      "published": "07.09. 11:39",
+      "publishedISO": "2026-09-07T11:39:17+02:00",
+      "title": "Jaguar Land Rover to cut 4,000 jobs",
+      "summary": "Jaguar Land Rover (JLR) skal kutte 4000 arbeidsplasser ettersom bilprodusenten sliter med kinesisk konkurranse, amerikanske tariffer og overgangen til elektriske kjøretøy. JLRs langsiktige problemer ble forverret etter at et cyberangrep i fjor førte til at firmaet, som sysselsetter 43 000 mennesker globalt, stengte produksjonen i mer enn en måned. JLR håper å oppnå kuttene gjennom frivillig oppsigelse, med et vindu åpent til 4. oktober, men sa at det ville foreta obligatoriske oppsigelser med mindre sjenerøse vilkår om nødvendig.",
       "keyPoints": [
-        "Dette er det største industrielle CO₂-fangstanlegget i Europa, oppgir Yara i en melding. – Dette er en viktig dag for Yara og europeisk industri.",
-        "Mandag ble Yaras CO₂-fangstanlegg i Sluiskil åpnet med flere prominente gjester til stede.",
-        "Fangstanlegget i Sluiskil viser at storskala industriell avkarbonisering er mulig i dag, sier Yara-sjef Svein Tore Holsether i en melding.",
-        "Over 15 år vil dette utgjøre 12 millioner tonn som skal lagres på norsk sokkel, hvis rammevilkårene er på plass, skriver Yara i meldingen."
+        "Jaguar Land Rover (JLR) skal kutte 4000 arbeidsplasser ettersom bilprodusenten sliter med kinesisk konkurranse, amerikanske tariffer og overgangen til elektriske kjøretøy.",
+        "JLR håper å oppnå kuttene gjennom frivillig oppsigelse, med et vindu åpent til 4. oktober, men sa at det ville foreta obligatoriske oppsigelser med mindre sjenerøse vilkår om nødvendig.",
+        "JLRs langsiktige problemer ble forverret etter at et cyberangrep i fjor førte til at firmaet, som sysselsetter 43 000 mennesker globalt, stengte produksjonen i mer enn en måned.",
+        "Selskapet foretar oppsigelsene i et forsøk på å spare 1,7 milliarder pund i løpet av de neste to årene."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/q6xEjo/aapnet-co-fangstanlegg-viktig-dag",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c183a895-71dc-3e08-854f-ff13101f7512?fit=crop&h=675&upscale=true&w=1200&s=dd5306037f0710f6aba506d7d66fd0ffcd4476c6",
-      "localImage": "assets/news/04c26d507bb39c.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1ba1/live/1f725c70-aa9a-11f1-ab09-7f2415c9a652.jpg",
+      "localImage": "assets/news/aca1315e89f543.jpg",
       "score": 13
     }
   ]
