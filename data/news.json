@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 15:55",
-  "updatedISO": "2026-09-07T15:55:14.628761+02:00",
+  "updatedAt": "07.09.2026 kl. 16:12",
+  "updatedISO": "2026-09-07T16:12:50.037694+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "En av angrepene over natten i Kfar Remman ødela en tre-etasjes boligbygning Israelske luftangrep på en landsby i Sør-Libanon har drept minst 12 mennesker, sier det libanesiske helsedepartementet.",
         "Tre bønder arrestert av Israel i Libanon, landsbyleder sier at BBC reiser inn i det okkuperte Libanon mens tjenestemenn sier at Israel utvider stillinger Elleve drept i israelske angrep på Sør-Libanon, sier myndighetene at det israelske militæret har intensivert sine angrep i Sør-Libanon de siste dagene.",
         "Israelske angrep over hele Sør-Libanon har drept minst 27 mennesker de siste tre dagene, ifølge helsedepartementet.",
-        "Våpenhvileavtalen mellom Libanon, Israel og USA krever at Hizbollah avvæpnes, at israelske styrker gradvis trekker seg tilbake fra Sør-Libanon, og at den libanesiske hæren skal utplasseres over hele området."
+        "Våpenhvileavtalen mellom Libanon, Israel og USA krever at Hizbollah avvæpnes, at israelske styrker gradvis trekker seg tilbake fra Sør-Libanon, og at den libanesiske hæren skal deployere over hele området."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -44,27 +44,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/dd97475cc2a113.jpg",
       "score": 13
-    },
-    {
-      "id": "83dc5641a7a260",
-      "category": "USA",
-      "published": "07.09. 07:37",
-      "publishedISO": "2026-09-07T07:37:28+02:00",
-      "title": "Five killed as Amazon cargo plane crashes at Miami airport",
-      "summary": "Videoopptak fra Miami viser at et Amazon Air-fraktfly overskrider rullebanen mens det forsøker å lande på byens internasjonale flyplass, dreper fem mennesker og skader ytterligere fem alvorlig. Fem drept da Amazon-lastefly styrtet på flyplassen i Miami. Video, 00:00:59 Fem drept da Amazon-lastefly styrtet på Miami-flyplassen Up Next.",
-      "keyPoints": [
-        "Five killed as Amazon cargo plane crashes at Miami airport.",
-        "Boeing 767-300 lastefly styrtet like før 14:00 lokal tid (19:00 GMT) etter avgang fra Luis Muñoz Marín internasjonale lufthavn i San Juan, Puerto Rico.",
-        "Hvorfor en berømt smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Video, 00:01:26Hvorfor en kjent smørbrødbutikk i Montreal har blitt tvunget til å bytte brus. Hvordan kan Lindsay Clancys sak ha utspilt seg i et annet land?",
-        "BBC besøker området i hjertet av politiets etterforskning etter A66-krasj Video, 00:02:34 BBC besøker området i hjertet av politiets etterforskning etter A66-krasj 'Et sjeldent øyeblikk av glede': Nepal-tunnelredning gir håp for flere overlevende av flom."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fce1/live/b673db00-aa8e-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/83dc5641a7a260.jpg",
-      "score": 12
     },
     {
       "id": "110daf58f61c0d",
@@ -212,6 +191,27 @@
       "image": "https://akamai.vgc.no/v2/images/02ffcb18-d93b-3b13-9fdb-2fa7fef25d35?fit=crop&h=675&upscale=true&w=1200&s=db78792dcec0a1ae486e6cfb7648ffab9530711f",
       "localImage": "assets/news/6176590125e321.jpg",
       "score": 14
+    },
+    {
+      "id": "e4f0b06447c7cb",
+      "category": "Økonomi",
+      "published": "07.09. 16:09",
+      "publishedISO": "2026-09-07T16:09:03+02:00",
+      "title": "Ferd-eid byggmontør konkurs: – Hard kamp om jobbene",
+      "summary": "I forrige uke ble det åpnet konkurs i Byggmontasje AS ved Oslo tingrett, ifølge en kunngjøring i Brønnøysundregistrene. Bostyrer Håvard Wiker opplyser at selskapet hadde cirka 20 ansatte på oppbudstidspunktet. – Selskapet har hatt seks pågående prosjekter ved konkursåpning, og kassekreditt i en lokal sparebank som har hatt pant i det som er. I et marked som nå, hvor det er hard kamp om jobbene, er det betydelig press på lønnsomheten, sier Holst til RB.",
+      "keyPoints": [
+        "I et marked som nå, hvor det er hard kamp om jobbene, er det betydelig press på lønnsomheten, sier Holst til RB.",
+        "I forrige uke ble det åpnet konkurs i Byggmontasje AS ved Oslo tingrett, ifølge en kunngjøring i Brønnøysundregistrene.",
+        "Bostyrer Håvard Wiker opplyser at selskapet hadde cirka 20 ansatte på oppbudstidspunktet. – Selskapet har hatt seks pågående prosjekter ved konkursåpning, og kassekreditt i en lokal sparebank som har hatt pant i det som er.",
+        "Byggmontasje ble etablert i 2017 og har holdt til på Furnes i Ringsaker kommuneRingsaker er en kommune på Hedmarken i Innlandet fylke som omfatter bygdene som ligger vest og nord for Hamar, som Moelv og Brumunddal. på Hedmarken."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/k0x17A/ferd-eid-byggmontoer-konkurs-hard-kamp-om-jobbene",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/bcbf72b9-9788-3d63-9f20-b3f6c678644a?fit=crop&h=675&upscale=true&w=1200&s=62232f1337de57b0c007732c14b92ce88816bb2b",
+      "localImage": "assets/news/e4f0b06447c7cb.jpg",
+      "score": 13
     }
   ]
 }
