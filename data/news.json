@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 07:27",
-  "updatedISO": "2026-09-07T07:27:34.312243+02:00",
+  "updatedAt": "07.09.2026 kl. 07:43",
+  "updatedISO": "2026-09-07T07:43:54.934271+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -172,6 +172,27 @@
       "score": 14
     },
     {
+      "id": "5a4094eae2427b",
+      "category": "Økonomi",
+      "published": "07.09. 07:34",
+      "publishedISO": "2026-09-07T07:34:46+02:00",
+      "title": "Multiconsult vil slå seg sammen med svenske Rejlers",
+      "summary": "Aksjonærerer i Multiconsult vil motta 0,9725 B-aksjer i Rejlers for hver Multiconsult-aksje de eier. Rejlers vil ha hovedlisting på Stockholm-børsen, med en sekundærlisting i Oslo. Multiconsult Rejlers vil ha nærmere 8.000 ansatte og samle fagmiljøer innen ingeniørfag, arkitektur, rådgivning og design.",
+      "keyPoints": [
+        "Aksjonærerer i Multiconsult vil motta 0,9725 B-aksjer i Rejlers for hver Multiconsult-aksje de eier.",
+        "Multiconsult Rejlers vil ha nærmere 8.000 ansatte og samle fagmiljøer innen ingeniørfag, arkitektur, rådgivning og design.",
+        "Rejlers vil ha hovedlisting på Stockholm-børsen, med en sekundærlisting i Oslo.",
+        "Dette gir Multiconsult-aksjonærene en eierandel på 54 prosent i det sammenslåtte selskapet, ifølge meldingen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/8p7111/multiconsult-vil-slaa-seg-sammen-med-svenske-rejlers",
+      "source": "e24.no",
+      "image": "https://e24.no/monorepo-api/og/8p7111.png",
+      "localImage": "assets/news/5a4094eae2427b.png",
+      "score": 13
+    },
+    {
       "id": "26948a47196a9d",
       "category": "Norge",
       "published": "07.09. 07:10",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/QZ4tE92ZJVD6QDvbFswpcQRFol6unTOwvzJcm4t1byfA.jpg",
       "localImage": "assets/news/26948a47196a9d.webp",
-      "score": 13
-    },
-    {
-      "id": "2dac7c944ad6cb",
-      "category": "Norge",
-      "published": "07.09. 07:08",
-      "publishedISO": "2026-09-07T07:08:07+02:00",
-      "title": "Sør-Varanger kommune vil rive det historiske bygget Malmklang",
-      "summary": "Hun reagerer på at kommunedirektøren i Sør-Varanger anbefaler å rive det gamle forsamlingshuset Malmklang. Malmklang har tronet over Kirkenes sentrum siden 1950-tallet, da byen ble bygget opp igjen etter ødeleggelsene under andre verdenskrig. Fasaden til Malmklang viser tydelig tegn på forfall. – Jeg har vært en forkjemper for at vi skal få bygget opp Malmklang igjen.",
-      "keyPoints": [
-        "Hun reagerer på at kommunedirektøren i Sør-Varanger anbefaler å rive det gamle forsamlingshuset Malmklang.",
-        "Malmklang har tronet over Kirkenes sentrum siden 1950-tallet, da byen ble bygget opp igjen etter ødeleggelsene under andre verdenskrig.",
-        "Fasaden til Malmklang viser tydelig tegn på forfall. – Jeg har vært en forkjemper for at vi skal få bygget opp Malmklang igjen.",
-        "Fortidsminneforeningen protesterer og mener det historiske bygget er viktig å bevare."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/sor-varanger-kommune-vil-rive-det-historiske-bygget-malmklang-1.18012687",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/iGrT9g1bwav3Utdn01CaRwrU05zKiEflBidc1neN9gmA.jpg",
-      "localImage": "assets/news/2dac7c944ad6cb.jpg",
       "score": 13
     }
   ]
