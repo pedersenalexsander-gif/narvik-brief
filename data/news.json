@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 11:13",
-  "updatedISO": "2026-09-07T11:13:44.935720+02:00",
+  "updatedAt": "07.09.2026 kl. 11:32",
+  "updatedISO": "2026-09-07T11:32:50.408726+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -192,24 +192,24 @@
       "score": 14
     },
     {
-      "id": "a98fad2f110494",
-      "category": "Norge",
-      "published": "07.09. 11:04",
-      "publishedISO": "2026-09-07T11:04:32+02:00",
-      "title": "Marthe Kristine (36) fra Kviteseid invitert til kong Haralds gravferd",
-      "summary": "Det er så stort, sier Marthe Kristine Paulsen om invitasjonen til kong Haralds gravferd. Der lå en invitasjon fra Slottet til Marthe Kristine om å delta i gravferden til kong Harald. – Jeg skjønte det ikke helt, at lille meg skulle få delta, forteller hun. Marthe Kristine takket kong Harald i en siste hilsen i kondolanseprotokollen i Kviteseid kirke.",
+      "id": "04c26d507bb39c",
+      "category": "Økonomi",
+      "published": "07.09. 11:11",
+      "publishedISO": "2026-09-07T11:11:55+02:00",
+      "title": "Åpnet CO₂-fangstanlegg: – Viktig dag",
+      "summary": "Mandag ble Yaras CO₂-fangstanlegg i Sluiskil åpnet med flere prominente gjester til stede. Dette er det største industrielle CO₂-fangstanlegget i Europa, oppgir Yara i en melding. – Dette er en viktig dag for Yara og europeisk industri. Fangstanlegget i Sluiskil viser at storskala industriell avkarbonisering er mulig i dag, sier Yara-sjef Svein Tore Holsether i en melding.",
       "keyPoints": [
-        "Det er så stort, sier Marthe Kristine Paulsen om invitasjonen til kong Haralds gravferd.",
-        "Marthe Kristine takket kong Harald i en siste hilsen i kondolanseprotokollen i Kviteseid kirke.",
-        "Der lå en invitasjon fra Slottet til Marthe Kristine om å delta i gravferden til kong Harald. – Jeg skjønte det ikke helt, at lille meg skulle få delta, forteller hun.",
-        "Marthe Kristine tror selv at hun er invitert fordi hun fortalte historien nylig."
+        "Dette er det største industrielle CO₂-fangstanlegget i Europa, oppgir Yara i en melding. – Dette er en viktig dag for Yara og europeisk industri.",
+        "Mandag ble Yaras CO₂-fangstanlegg i Sluiskil åpnet med flere prominente gjester til stede.",
+        "Fangstanlegget i Sluiskil viser at storskala industriell avkarbonisering er mulig i dag, sier Yara-sjef Svein Tore Holsether i en melding.",
+        "Over 15 år vil dette utgjøre 12 millioner tonn som skal lagres på norsk sokkel, hvis rammevilkårene er på plass, skriver Yara i meldingen."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/marthe-kristine-_36_-fra-kviteseid-invitert-til-kong-haralds-gravferd-1.18016484",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/fgRzk2nYKhlyoDcccZMXdwxb2hxWXoYXsKgTCHEfTnLQ.jpg",
-      "localImage": "assets/news/a98fad2f110494.jpg",
+      "url": "https://e24.no/energi-og-klima/i/q6xEjo/aapnet-co-fangstanlegg-viktig-dag",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c183a895-71dc-3e08-854f-ff13101f7512?fit=crop&h=675&upscale=true&w=1200&s=dd5306037f0710f6aba506d7d66fd0ffcd4476c6",
+      "localImage": "assets/news/04c26d507bb39c.jpg",
       "score": 13
     }
   ]
