@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 06:46",
-  "updatedISO": "2026-09-07T06:46:26.652523+02:00",
+  "updatedAt": "07.09.2026 kl. 07:11",
+  "updatedISO": "2026-09-07T07:11:16.283573+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,6 +67,27 @@
       "score": 20
     },
     {
+      "id": "df262c65f48d19",
+      "category": "Økonomi",
+      "published": "07.09. 06:58",
+      "publishedISO": "2026-09-07T06:58:58+02:00",
+      "title": "Brikkeopptur i Japan og Sør-Korea",
+      "summary": "Teknologiselskaper bidrar til oppgangen på børsen i Sør-Korea. Det gjelder blant annet brikkeprodusentene SK Hynix og Samsung Electronics, som er opp henholdsvis 8,1 og 4,7 prosent. Aksjen er opp 6,2 prosent etter at et lokalt mediehus rapporterte at selskapet vurderer å hente penger til datterselskapet Bear Robotics før en børsnotering, ifølge CNBC.",
+      "keyPoints": [
+        "Teknologiselskaper bidrar til oppgangen på børsen i Sør-Korea.",
+        "Aksjen er opp 6,2 prosent etter at et lokalt mediehus rapporterte at selskapet vurderer å hente penger til datterselskapet Bear Robotics før en børsnotering, ifølge CNBC.",
+        "Det gjelder blant annet brikkeprodusentene SK Hynix og Samsung Electronics, som er opp henholdsvis 8,1 og 4,7 prosent.",
+        "LG eier mer enn 50 prosent av det amerikanske robotoselskapet, som etter planen skal noteres på Nasdaq."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/3pe7K0/brikkeopptur-i-japan-og-soer-korea",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7f577dce-96a3-3bf5-beef-b9874cbe257d?fit=crop&h=675&upscale=true&w=1200&s=dcb9779e29fcd2ae9953dc66dde5eb137da2fd33",
+      "localImage": "assets/news/df262c65f48d19.jpg",
+      "score": 16
+    },
+    {
       "id": "6176590125e321",
       "category": "Økonomi",
       "published": "06.09. 21:42",
@@ -109,27 +130,6 @@
       "score": 15
     },
     {
-      "id": "df71afcad5449f",
-      "category": "Økonomi",
-      "published": "06.09. 16:00",
-      "publishedISO": "2026-09-06T16:00:50+02:00",
-      "title": "Økning i tvangssalg av boliger: – Renten er en kvern",
-      "summary": "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp. Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp. Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
-      "keyPoints": [
-        "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp.",
-        "Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp.",
-        "Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
-        "Han sier sentralbanken ikke pleier å vise til tvangssalg når de vurderer om renten skal opp eller ned. – De er veldig opptatt av gjennomsnittet og hensyntar sånn sett ikke de svakeste."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/n1XrBx/oekning-i-tvangssalg-av-boliger-renten-er-en-kvern",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f7dc2963-a2bb-3b65-8478-5910c920d1a8?fit=crop&h=675&upscale=true&w=1200&s=066d7261d0c5e46c5e34954642c5783ef63e696e",
-      "localImage": "assets/news/df71afcad5449f.jpg",
-      "score": 15
-    },
-    {
       "id": "e172b1991a942f",
       "category": "Økonomi",
       "published": "06.09. 19:58",
@@ -148,6 +148,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
       "localImage": "assets/news/e172b1991a942f.jpg",
+      "score": 14
+    },
+    {
+      "id": "df71afcad5449f",
+      "category": "Økonomi",
+      "published": "06.09. 16:00",
+      "publishedISO": "2026-09-06T16:00:50+02:00",
+      "title": "Økning i tvangssalg av boliger: – Renten er en kvern",
+      "summary": "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp. Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp. Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
+      "keyPoints": [
+        "Om man ser på trenden for tvangssalg og sammenligner den med styringsrenten, ser man at tvangssalgene pleier å stige etter at renten settes opp.",
+        "Det er de som ikke har vært med på lønnsveksten, men kun prisstigningen. – Hvor mange flere tvangssalg kommer det til å bli hvis renten skal videre opp? – Det er vanskelig å si, men ser man på trenden, ser man at den er på vei opp, og det er ikke noe som tilsier at den ikke skal fortsette opp.",
+        "Dessuten går ofte tvangssalg tregere enn vanlige salg av boliger, og de tvangssolgte eiendommene selges ofte til en lavere pris enn markedspris. – Folk vil jo selvfølgelig beholde hjemmet sitt, men hvis man først har havnet i en situasjon som ikke er mulig å løse uten salg av boligen, vil man komme bedre ut av det ved å selge frivillig enn å la den gå til tvangssalg.",
+        "Han sier sentralbanken ikke pleier å vise til tvangssalg når de vurderer om renten skal opp eller ned. – De er veldig opptatt av gjennomsnittet og hensyntar sånn sett ikke de svakeste."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/n1XrBx/oekning-i-tvangssalg-av-boliger-renten-er-en-kvern",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/f7dc2963-a2bb-3b65-8478-5910c920d1a8?fit=crop&h=675&upscale=true&w=1200&s=066d7261d0c5e46c5e34954642c5783ef63e696e",
+      "localImage": "assets/news/df71afcad5449f.jpg",
       "score": 14
     },
     {
@@ -191,27 +212,6 @@
       "image": "https://gfx.nrk.no/ogM0hdi99JZv91uUxDu-lQU_aGVVktUJu1qKMpwMpr1A.jpg",
       "localImage": "assets/news/7fe9c0f8bde4bc.jpg",
       "score": 14
-    },
-    {
-      "id": "ce0f2b407ece31",
-      "category": "Norge",
-      "published": "07.09. 06:11",
-      "publishedISO": "2026-09-07T06:11:47+02:00",
-      "title": "Hva er det egentlig som skjer når toget ditt blir forsinket?",
-      "summary": "Du står på perrongen når det kommer fra høyttaleranlegget: – Toget er forsinket grunnet signalfeil. For toget var forsinket. – Det er vel sikkert den pendlerstrekningen i Norge som har hatt dårligst regularitet, sier Groven. Over høyttaleranlegget må han forklare passasjerene at toget er forsinket fordi det venter på et annet tog.",
-      "keyPoints": [
-        "Du står på perrongen når det kommer fra høyttaleranlegget: – Toget er forsinket grunnet signalfeil.",
-        "For toget var forsinket. – Det er vel sikkert den pendlerstrekningen i Norge som har hatt dårligst regularitet, sier Groven.",
-        "Over høyttaleranlegget må han forklare passasjerene at toget er forsinket fordi det venter på et annet tog.",
-        "I august var hvert femte tog forsinket eller innstilt. – Jeg blir trist på vegne av jernbanen når ting ikke fungerer."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/her-oppstar-feilene-nar-togene-er-forsinket-1.18014509",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Boz5a2reeeK3_A5cr8aXmQvF4c4JYWaYfDnB6qWPqEJA.jpg",
-      "localImage": "assets/news/ce0f2b407ece31.jpg",
-      "score": 13
     }
   ]
 }
