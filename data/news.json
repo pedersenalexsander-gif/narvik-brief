@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 07:43",
-  "updatedISO": "2026-09-07T07:43:54.934271+02:00",
+  "updatedAt": "07.09.2026 kl. 07:55",
+  "updatedISO": "2026-09-07T07:55:37.599314+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/02ffcb18-d93b-3b13-9fdb-2fa7fef25d35?fit=crop&h=675&upscale=true&w=1200&s=db78792dcec0a1ae486e6cfb7648ffab9530711f",
       "localImage": "assets/news/6176590125e321.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "3b3937f75b81e9",
@@ -172,45 +172,45 @@
       "score": 14
     },
     {
-      "id": "5a4094eae2427b",
-      "category": "Økonomi",
-      "published": "07.09. 07:34",
-      "publishedISO": "2026-09-07T07:34:46+02:00",
-      "title": "Multiconsult vil slå seg sammen med svenske Rejlers",
-      "summary": "Aksjonærerer i Multiconsult vil motta 0,9725 B-aksjer i Rejlers for hver Multiconsult-aksje de eier. Rejlers vil ha hovedlisting på Stockholm-børsen, med en sekundærlisting i Oslo. Multiconsult Rejlers vil ha nærmere 8.000 ansatte og samle fagmiljøer innen ingeniørfag, arkitektur, rådgivning og design.",
-      "keyPoints": [
-        "Aksjonærerer i Multiconsult vil motta 0,9725 B-aksjer i Rejlers for hver Multiconsult-aksje de eier.",
-        "Multiconsult Rejlers vil ha nærmere 8.000 ansatte og samle fagmiljøer innen ingeniørfag, arkitektur, rådgivning og design.",
-        "Rejlers vil ha hovedlisting på Stockholm-børsen, med en sekundærlisting i Oslo.",
-        "Dette gir Multiconsult-aksjonærene en eierandel på 54 prosent i det sammenslåtte selskapet, ifølge meldingen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/8p7111/multiconsult-vil-slaa-seg-sammen-med-svenske-rejlers",
-      "source": "e24.no",
-      "image": "https://e24.no/monorepo-api/og/8p7111.png",
-      "localImage": "assets/news/5a4094eae2427b.png",
-      "score": 13
-    },
-    {
-      "id": "26948a47196a9d",
+      "id": "445b5f36f6d95a",
       "category": "Norge",
-      "published": "07.09. 07:10",
-      "publishedISO": "2026-09-07T07:10:03+02:00",
-      "title": "– Sju bad på éin dag og 300 mil på ni døgn",
-      "summary": "På det meste vart det sju bad på éin dag, og 40 mil bak rattet for å rekke alle. Oddny Elin Hukkelberg og mor Aud Irene Tollefsen badar ofte og året rundt på deira absolutte favorittbadeplass: Hjertvikleirå på Gossen i Aukra kommune. – Vi er innmari glad i «Stikk ut», så då kartet kom i postkassa i fjor, tenkte eg at om vi badar og tok Stikk ut i alle kommunane, så har vi nå fått gjort litt, seier Hukkelberg. Dei køyrde over 300 mil på ni døgn, med minst eitt bad i kvar kommune.",
+      "published": "07.09. 07:51",
+      "publishedISO": "2026-09-07T07:51:20+02:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Han opplevde at stadig mer av arbeidstiden gikk til å utrede barn for ADHD. – På et tidspunkt vil jeg anslå at det var rundt 50 prosent. Han mener noen av barna i det han omtaler som gråsonen, kunne fått bedre hjelp hjemme eller på skolen enn gjennom en lang og kostbar utredning i BUP. Det opplyser vaktleder Trond Rabben ved Nordland 110-sentral til NRK. – Det har begynt å brenne om bord i båten mens den lå ved kai.",
       "keyPoints": [
-        "På det meste vart det sju bad på éin dag, og 40 mil bak rattet for å rekke alle.",
-        "Dei køyrde over 300 mil på ni døgn, med minst eitt bad i kvar kommune.",
-        "Oddny Elin Hukkelberg og mor Aud Irene Tollefsen badar ofte og året rundt på deira absolutte favorittbadeplass: Hjertvikleirå på Gossen i Aukra kommune. – Vi er innmari glad i «Stikk ut», så då kartet kom i postkassa i fjor, tenkte eg at om vi badar og tok Stikk ut i alle kommunane, så har vi nå fått gjort litt, seier Hukkelberg.",
-        "Bading i Smøla kommune ved Edøya ferjekai, Gurisenteret. – Det har vore mange fine bad, seier Tollefsen og legg til: – Så har det vore elvar der vi bada så lenge at eg trudde vi fekk lakselus."
+        "Han opplevde at stadig mer av arbeidstiden gikk til å utrede barn for ADHD. – På et tidspunkt vil jeg anslå at det var rundt 50 prosent.",
+        "Det opplyser vaktleder Trond Rabben ved Nordland 110-sentral til NRK. – Det har begynt å brenne om bord i båten mens den lå ved kai.",
+        "Han mener noen av barna i det han omtaler som gråsonen, kunne fått bedre hjelp hjemme eller på skolen enn gjennom en lang og kostbar utredning i BUP.",
+        "Han tror sosiale medier kan være en del av forklaringen på økningen, men peker først og fremst på hvordan skolen er organisert. – Skolen er kanskje ikke rigget for å håndtere alle barn som er ukonsentrerte eller hyperaktive."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/mor-og-dotter-bada-i-kvar-kommune-i-trondelag-og-more-og-romsdal-1.18011350",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/QZ4tE92ZJVD6QDvbFswpcQRFol6unTOwvzJcm4t1byfA.jpg",
-      "localImage": "assets/news/26948a47196a9d.webp",
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/445b5f36f6d95a.jpg",
+      "score": 13
+    },
+    {
+      "id": "f04cdc65fb17d1",
+      "category": "Økonomi",
+      "published": "07.09. 07:46",
+      "publishedISO": "2026-09-07T07:46:34+02:00",
+      "title": "Cost of living on many minds ahead of Manx election",
+      "summary": "Økning av økonomien har blitt fakturert som en toppprioritet for flertallet av kandidatene. Innbyggere, bedrifter og veldedige organisasjoner sier at de føler at de opplever at de øker kostnadene, og mange beskriver økonomien som en hovedprioritet foran Isle of Man-valget. Beboere i Douglas sa at stigende priser påvirket hverdagen, og flere beskrev levekostnadene som deres største bekymring foran valget. House of Keys-valget bestrides av 82 kandidater. Bolig sitert \"stor prioritet\" foran valget Hvordan vindparkplaner påvirker velgerne i Manx før valget",
+      "keyPoints": [
+        "Beboere i Douglas sa at stigende priser påvirket hverdagen, og flere beskrev levekostnadene som deres største bekymring foran valget.",
+        "Økning av økonomien har blitt fakturert som en toppprioritet for flertallet av kandidatene. Innbyggere, bedrifter og veldedige organisasjoner sier at de føler at de opplever at de øker kostnadene, og mange beskriver økonomien som en hovedprioritet foran Isle of Man-valget.",
+        "House of Keys election contested by 82 candidates Housing cited 'huge priority' ahead of election How wind farm plans are influencing Manx voters ahead of election",
+        "Isle of Man Chamber of Commerce advarte at øya står overfor \"meget vanskelige fem år\" foran seg, med henvisning til et krympende skattegrunnlag og det nylige tapet av mange høyttjenende jobber."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c1dlr2dzv20o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd8b/live/df1f9390-a873-11f1-824a-0fc4c5d895ae.jpg",
+      "localImage": "assets/news/f04cdc65fb17d1.jpg",
       "score": 13
     }
   ]
