@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 13:14",
-  "updatedISO": "2026-09-07T13:14:59.494274+02:00",
+  "updatedAt": "07.09.2026 kl. 13:32",
+  "updatedISO": "2026-09-07T13:32:29.449411+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,24 +25,24 @@
       "score": 21
     },
     {
-      "id": "c1045c5580ba68",
+      "id": "a914e4028900cd",
       "category": "Verden",
-      "published": "07.09. 12:36",
-      "publishedISO": "2026-09-07T12:36:15+02:00",
-      "title": "Tanzanian President Samia Suluhu Hassan's husband dies",
+      "published": "07.09. 13:18",
+      "publishedISO": "2026-09-07T13:18:40+02:00",
+      "title": "Tanzanian President Samia's husband dies in hospital",
       "summary": "Den tanzanianske presidentens (bildet over) ektemann, Hafidh Ameir Hassan, holdt en lav profil og ble sjelden avbildet. Mannen til Tanzanias president Samia Suluhu Hassan, Hafidh Ameir Hassan, har dødd mens han mottok behandling på et sykehus på Zanzibar. Han ble Tanzanias første første gentleman etter at president Samia tiltrådte i 2021. Kenyas president William Ruto sa at han mottok nyheten om hans bortgang med «dyp sorg». \"President Samia har mistet en livslang følgesvenn, barna hennes en elsket far og Tanzania en utmerket sønn,\" skrev han på sosiale medier.",
       "keyPoints": [
         "Den tanzanianske presidentens (bildet over) ektemann, Hafidh Ameir Hassan, holdt en lav profil og ble sjelden avbildet. Mannen til Tanzanias president Samia Suluhu Hassan, Hafidh Ameir Hassan, har dødd mens han mottok behandling på et sykehus på Zanzibar.",
         "He became Tanzania's first First Gentleman after President Samia took office in 2021.",
         "Kenyas president William Ruto sa at han mottok nyheten om hans bortgang med \"dyp sorg\". \"President Samia har mistet en livslang følgesvenn, barna hennes en elsket far og Tanzania en utmerket sønn,\" skrev han på sosiale medier.",
-        "He married Samia in 1978, before she entered national politics."
+        "I sin kunngjøring sa Ndejembi at Ameir døde klokken 08:00 lokal tid (06:00 GMT) mandag på Emilio Mzena Memorial Hospital."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ec3/live/f08c3e30-aaa3-11f1-9eba-7de947fa7cd1.jpg",
-      "localImage": "assets/news/c1045c5580ba68.jpg",
+      "localImage": "assets/news/a914e4028900cd.jpg",
       "score": 13
     },
     {
@@ -105,6 +105,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/649ecb98-ff00-337f-a426-70d68e6b7303?fit=crop&h=675&upscale=true&w=1200&s=ab39b247f12a986271abb4418e949e393edda0e1",
       "localImage": "assets/news/705c08f9270793.jpg",
+      "score": 17
+    },
+    {
+      "id": "770fb9f12b7ba1",
+      "category": "AI",
+      "published": "07.09. 13:30",
+      "publishedISO": "2026-09-07T13:30:27+02:00",
+      "title": "Dolly Partons søster ber om slutt på «AI-søppel»-innlegg etter sangerens død",
+      "summary": "Dolly Parton (til venstre) og søsteren hennes Stella, avbildet på en begivenhet i 2015 Dolly Partons søster har utstedt en bønn til fans om \"falsk AI-søppel\" lagt ut på sosiale medier i kjølvannet av sangerens død. Stella Parton skrev på Instagram og takket de som hadde vist \"ekte støtte\" for stjernen og familien hennes - men sa at en \"enorm mengde AI og uendelig søppel som ble lagt ut\" hadde vært \"utfordrende å absorbere\". På YouTube har en \"hjertelig fan-laget hyllest av Miley Cyrus\" til gudmoren Dolly Parton og sunget i stil med Wrecking Ball-sangerinnen hatt mer enn 1,5 millioner visninger.",
+      "keyPoints": [
+        "Dolly Parton (til venstre) og søsteren hennes Stella, avbildet på en begivenhet i 2015 Dolly Partons søster har utstedt en bønn til fans om \"falsk AI-søppel\" lagt ut på sosiale medier i kjølvannet av sangerens død.",
+        "På YouTube har en \"hjertelig fan-laget hyllest av Miley Cyrus\" til gudmoren Dolly Parton og sunget i stil med Wrecking Ball-sangerinnen hatt mer enn 1,5 millioner visninger.",
+        "Stella Parton skrev på Instagram og takket de som hadde vist \"ekte støtte\" for stjernen og familien hennes - men sa at en \"enorm mengde AI og uendelig søppel som ble lagt ut\" hadde vært \"utfordrende å absorbere\".",
+        "Jeg tror alt dette kan være flott, brukt på riktig måte. \"Men ikke for å erstatte stemmer og skrifter og ikke for å erstatte et menneske som tilhører Gud.\" \"Engel ved min side\" - Miley Cyrus hyller gudmor Dolly Parton Dolly Parton får ny stjerne på Hollywood Walk of Fame etter hærverk OpenAI stopper \"respektløse\" Martin Luther King Jr."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+      "localImage": "assets/news/770fb9f12b7ba1.jpg",
       "score": 17
     },
     {
@@ -176,12 +197,12 @@
       "published": "07.09. 13:11",
       "publishedISO": "2026-09-07T13:11:15+02:00",
       "title": "Sikta angrar på handlingane sine",
-      "summary": "Tre gutar blei den 1. juni i år sikta i saka, og i slutten av juli blei det kjent at dei tre hadde erkjent straffskuld. I rettsmøte skal dei behandle ein tilståingsdom, og dei tre er sikta for å ha utøvd vald mot ein annan person. Den sikta i dag sa han var saman med kameratane sine på 17. mai, og at dei kom frå Bunnpris og ned til Strandgaten.",
+      "summary": "Det forklarte den eine sikta i saka i rettsmøte i Hordaland tingrett i dag. – Dei andre begynte å snakke, og plutseleg var det vald. Tre gutar blei den 1. juni i år sikta i saka, og i slutten av juli blei det kjent at dei tre hadde erkjent straffskuld. Den sikta i dag sa han var saman med kameratane sine på 17. mai, og at dei kom frå Bunnpris og ned til Strandgaten.",
       "keyPoints": [
         "Tre gutar blei den 1. juni i år sikta i saka, og i slutten av juli blei det kjent at dei tre hadde erkjent straffskuld.",
         "Den sikta i dag sa han var saman med kameratane sine på 17. mai, og at dei kom frå Bunnpris og ned til Strandgaten.",
-        "I rettsmøte skal dei behandle ein tilståingsdom, og dei tre er sikta for å ha utøvd vald mot ein annan person.",
-        "Det forklarte den eine sikta i saka i rettsmøte i Hordaland tingrett i dag. – Dei andre begynte å snakke, og plutseleg var det vald."
+        "Det forklarte den eine sikta i saka i rettsmøte i Hordaland tingrett i dag. – Dei andre begynte å snakke, og plutseleg var det vald.",
+        "I staden for 60-70.000 kroner fordelt på dei tre, la Sele ned påstand om 20-30.000 kroner. – Den sikta seier han ikkje har råd til å betale så mykje, men han er innforstått med at han må betale noko, sa Sele under rettsmøte."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -189,27 +210,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/zWH7EqAqTUvBwg-oIW3T4Abf-YBiEjEEo8Co_P8I0evQ.jpg",
       "localImage": "assets/news/3d0b930fb72cc7.jpg",
-      "score": 13
-    },
-    {
-      "id": "463e2c4e49e9d4",
-      "category": "Økonomi",
-      "published": "07.09. 13:07",
-      "publishedISO": "2026-09-07T13:07:12+02:00",
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "summary": "Jaguar Land Rover (JLR) skal kutte 4000 arbeidsplasser ettersom bilprodusenten sliter med kinesisk konkurranse, amerikanske tariffer og overgangen til elektriske kjøretøy. Kuttene vil skje i løpet av de neste to årene og vil for det meste påvirke hovedkontoret, som er basert i Storbritannia. Oppsigelsene gjøres i et forsøk på å spare 1,7 milliarder pund i løpet av de neste to årene.",
-      "keyPoints": [
-        "Jaguar Land Rover (JLR) skal kutte 4000 arbeidsplasser ettersom bilprodusenten sliter med kinesisk konkurranse, amerikanske tariffer og overgangen til elektriske kjøretøy.",
-        "Oppsigelsene gjøres i et forsøk på å spare 1,7 milliarder pund i løpet av de neste to årene.",
-        "Kuttene vil skje i løpet av de neste to årene og vil for det meste påvirke hovedkontoret, som er basert i Storbritannia.",
-        "I sine resultater for året til slutten av mars sa JLR at amerikanske tariffer og fjorårets nettangrep var hovedårsakene til at salget hadde falt med en femtedel til 22,9 milliarder pund fra 29 milliarder pund de to foregående årene."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg",
-      "localImage": "assets/news/463e2c4e49e9d4.jpg",
       "score": 13
     }
   ]
