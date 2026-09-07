@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 23:28",
-  "updatedISO": "2026-09-07T23:28:01.458195+02:00",
+  "updatedAt": "07.09.2026 kl. 23:42",
+  "updatedISO": "2026-09-07T23:42:39.661894+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -23,27 +23,6 @@
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/12291b568ee6fd.jpg",
       "score": 17
-    },
-    {
-      "id": "a914e4028900cd",
-      "category": "Verden",
-      "published": "07.09. 18:23",
-      "publishedISO": "2026-09-07T18:23:02+02:00",
-      "title": "Tanzanian President Samia's husband dies in hospital",
-      "summary": "Hafidh Ameir Hassan holdt en lav profil og ble sjelden sett offentlig sammen med presidenten. Mannen til Tanzanias president Samia Suluhu Hassan, Hafidh Ameir Hassan, har dødd mens han mottok behandling på et sykehus på Zanzibar. Han ble Tanzanias første første gentleman etter at president Samia tiltrådte i 2021. Kenyas president William Ruto sa at han mottok nyheten om hans bortgang med «dyp sorg». \"President Samia har mistet en livslang følgesvenn, barna hennes en elsket far, og Tanzania en utmerket sønn,\" skrev han på sosiale medier.",
-      "keyPoints": [
-        "Hafidh Ameir Hassan holdt en lav profil og ble sjelden sett offentlig sammen med presidenten. Mannen til Tanzanias president Samia Suluhu Hassan, Hafidh Ameir Hassan, har dødd mens han mottok behandling på et sykehus på Zanzibar.",
-        "He became Tanzania's first First Gentleman after President Samia took office in 2021.",
-        "Kenyas president William Ruto sa at han mottok nyheten om hans bortgang med \"dyp sorg\". \"President Samia har mistet en livslang følgesvenn, barna hennes en elsket far, og Tanzania en utmerket sønn,\" skrev han på sosiale medier.",
-        "På samme måte ga Burundis president Évariste Ndayishimiye sin respekt og ba om at Samia og hennes familie skulle ha \"trøst og styrke i dette vanskelige øyeblikket\". \"Måtte han [Gud] gi evig hvile til Hafidh Ameir Hassans sjel,\" la han til."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72c1/live/df574dc0-aad6-11f1-aa35-df10e5ff32f4.png",
-      "localImage": "assets/news/a914e4028900cd.jpg",
-      "score": 12
     },
     {
       "id": "d4b7638884ff5f",
@@ -148,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
       "localImage": "assets/news/770fb9f12b7ba1.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "81ebcce4549fe7",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
       "localImage": "assets/news/76970fde9fe6ca.jpg",
+      "score": 16
+    },
+    {
+      "id": "2f5179c557203a",
+      "category": "Norge",
+      "published": "07.09. 14:07",
+      "publishedISO": "2026-09-07T14:07:10+02:00",
+      "title": "Norge brukte store summer i Mosambik – så gikk virusalarmen",
+      "summary": "Norge har satset stort på utvikling av ferskvannsoppdrett på landsbygda i fattige Mosambik. Nasjonale myndigheter skulle eie anlegget, men finansiering de første årene, planlegging og bygging var et samarbeidsprosjekt mellom Mosambik, Norge og Island. Norges Vel sier de tok opp Høyums råd om å destruere fisken med myndighetene i Mosambik. – Myndighetene, som eier og driver Cepaq, var tydelige på at de krevde dokumentasjon og nye uavhengige tester før vi eventuelt gikk videre med destruksjon, sier Leif-Arne Kristiansen i Norges Vel.",
+      "keyPoints": [
+        "Norge har satset stort på utvikling av ferskvannsoppdrett på landsbygda i fattige Mosambik.",
+        "Norges Vel sier de tok opp Høyums råd om å destruere fisken med myndighetene i Mosambik. – Myndighetene, som eier og driver Cepaq, var tydelige på at de krevde dokumentasjon og nye uavhengige tester før vi eventuelt gikk videre med destruksjon, sier Leif-Arne Kristiansen i Norges Vel.",
+        "Nasjonale myndigheter skulle eie anlegget, men finansiering de første årene, planlegging og bygging var et samarbeidsprosjekt mellom Mosambik, Norge og Island.",
+        "Men jo mer bistandspenger Norge brukte på Cepaq-anlegget, desto mindre fisk produserte det."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/norge-brukte-store-summer-i-mosambik-_-sa-gikk-virusalarmen-1.17334998",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/TUhJEO5GDZ26JEw_ap4nhAFH5ikx-LNpIqVdUsaW_E3w.jpg",
+      "localImage": "assets/news/2f5179c557203a.jpg",
       "score": 16
     }
   ]
