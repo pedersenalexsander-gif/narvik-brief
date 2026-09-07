@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 01:39",
-  "updatedISO": "2026-09-08T01:39:42.682095+02:00",
+  "updatedAt": "08.09.2026 kl. 01:52",
+  "updatedISO": "2026-09-08T01:52:03.815509+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,6 +67,27 @@
       "score": 17
     },
     {
+      "id": "76970fde9fe6ca",
+      "category": "Norge",
+      "published": "07.09. 21:29",
+      "publishedISO": "2026-09-07T21:29:07+02:00",
+      "title": "Hotell sier nei til influensere under gravferden",
+      "summary": "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til. Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer. Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+      "keyPoints": [
+        "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til.",
+        "Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+        "Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer.",
+        "En influenser som allerede bor der, har fått beskjed om å ikke poste noe om hotellet. – Ville det kommet mange bilder av influensere som ser på gravferd hvis dere hadde sluppet dem inn? – Ja, det ville vært."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
+      "localImage": "assets/news/76970fde9fe6ca.jpg",
+      "score": 16
+    },
+    {
       "id": "81ebcce4549fe7",
       "category": "Norge",
       "published": "07.09. 20:45",
@@ -85,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/y6MVa8y8-Bwc1ZfQf8Q1DAxgvF6BhqZQk6-N93SrhZnQ.jpg",
       "localImage": "assets/news/81ebcce4549fe7.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "54c3b7a184a7e3",
@@ -106,27 +127,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/y6MVa8y8-Bwc1ZfQf8Q1DAxgvF6BhqZQk6-N93SrhZnQ.jpg",
       "localImage": "assets/news/54c3b7a184a7e3.jpg",
-      "score": 17
-    },
-    {
-      "id": "76970fde9fe6ca",
-      "category": "Norge",
-      "published": "07.09. 21:29",
-      "publishedISO": "2026-09-07T21:29:07+02:00",
-      "title": "Hotell sier nei til influensere under gravferden",
-      "summary": "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til. Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer. Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
-      "keyPoints": [
-        "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til.",
-        "Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
-        "Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer.",
-        "En influenser som allerede bor der, har fått beskjed om å ikke poste noe om hotellet. – Ville det kommet mange bilder av influensere som ser på gravferd hvis dere hadde sluppet dem inn? – Ja, det ville vært."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
-      "localImage": "assets/news/76970fde9fe6ca.jpg",
       "score": 16
     },
     {
