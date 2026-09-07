@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 06:11",
-  "updatedISO": "2026-09-07T06:11:53.941919+02:00",
+  "updatedAt": "07.09.2026 kl. 06:29",
+  "updatedISO": "2026-09-07T06:29:33.158920+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -41,7 +41,7 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d8f2/live/4a70f2d0-aa39-11f1-9023-2129273d2865.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
       "localImage": "assets/news/c0278dc88051a7.jpg",
       "score": 13
     },
@@ -193,24 +193,24 @@
       "score": 14
     },
     {
-      "id": "f46a9e5a3b2366",
+      "id": "ce0f2b407ece31",
       "category": "Norge",
-      "published": "07.09. 05:53",
-      "publishedISO": "2026-09-07T05:53:44+02:00",
-      "title": "Flere dømmes til tvungent psykisk helsevern",
-      "summary": "Langt flere dømmes til tvungent psykisk helsevern nå enn før. Rundt halvparten av plassene på det nye sykehuset vil bli fylt opp av pasienter dømt til tvungent psykisk helsevern. Personer som er dømt til tvungent psykisk helsevern, opptar stadig flere av døgnplassene i psykisk helsevern for voksne.",
+      "published": "07.09. 06:11",
+      "publishedISO": "2026-09-07T06:11:47+02:00",
+      "title": "Hva er det egentlig som skjer når toget ditt blir forsinket?",
+      "summary": "Du står på perrongen når det kommer fra høyttaleranlegget: – Toget er forsinket grunnet signalfeil. For toget var forsinket. – Det er vel sikkert den pendlerstrekningen i Norge som har hatt dårligst regularitet, sier Groven. Over høyttaleranlegget må han forklare passasjerene at toget er forsinket fordi det venter på et annet tog.",
       "keyPoints": [
-        "Langt flere dømmes til tvungent psykisk helsevern nå enn før.",
-        "Personer som er dømt til tvungent psykisk helsevern, opptar stadig flere av døgnplassene i psykisk helsevern for voksne.",
-        "Rundt halvparten av plassene på det nye sykehuset vil bli fylt opp av pasienter dømt til tvungent psykisk helsevern.",
-        "Drøyt 300 dommer til tvungent psykisk helsevern har opphørt siden ordningen ble innført i 2002."
+        "Du står på perrongen når det kommer fra høyttaleranlegget: – Toget er forsinket grunnet signalfeil.",
+        "For toget var forsinket. – Det er vel sikkert den pendlerstrekningen i Norge som har hatt dårligst regularitet, sier Groven.",
+        "Over høyttaleranlegget må han forklare passasjerene at toget er forsinket fordi det venter på et annet tog.",
+        "I august var hvert femte tog forsinket eller innstilt. – Jeg blir trist på vegne av jernbanen når ting ikke fungerer."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/flere-dommes-til-tvungent-psykisk-helsevern-1.17948782",
+      "url": "https://www.nrk.no/norge/her-oppstar-feilene-nar-togene-er-forsinket-1.18014509",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/lQGrUOpweU4Oyp8WP1JvfABwrT8Is_WXs5au0ueeD39Q.jpg",
-      "localImage": "assets/news/f46a9e5a3b2366.jpg",
+      "image": "https://gfx.nrk.no/Boz5a2reeeK3_A5cr8aXmQvF4c4JYWaYfDnB6qWPqEJA.jpg",
+      "localImage": "assets/news/ce0f2b407ece31.jpg",
       "score": 13
     }
   ]
