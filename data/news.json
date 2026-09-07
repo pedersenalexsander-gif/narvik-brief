@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 07:55",
-  "updatedISO": "2026-09-07T07:55:37.599314+02:00",
+  "updatedAt": "07.09.2026 kl. 08:16",
+  "updatedISO": "2026-09-07T08:16:59.353575+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
       "localImage": "assets/news/c0278dc88051a7.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "110daf58f61c0d",
@@ -172,27 +172,6 @@
       "score": 14
     },
     {
-      "id": "445b5f36f6d95a",
-      "category": "Norge",
-      "published": "07.09. 07:51",
-      "publishedISO": "2026-09-07T07:51:20+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Han opplevde at stadig mer av arbeidstiden gikk til å utrede barn for ADHD. – På et tidspunkt vil jeg anslå at det var rundt 50 prosent. Han mener noen av barna i det han omtaler som gråsonen, kunne fått bedre hjelp hjemme eller på skolen enn gjennom en lang og kostbar utredning i BUP. Det opplyser vaktleder Trond Rabben ved Nordland 110-sentral til NRK. – Det har begynt å brenne om bord i båten mens den lå ved kai.",
-      "keyPoints": [
-        "Han opplevde at stadig mer av arbeidstiden gikk til å utrede barn for ADHD. – På et tidspunkt vil jeg anslå at det var rundt 50 prosent.",
-        "Det opplyser vaktleder Trond Rabben ved Nordland 110-sentral til NRK. – Det har begynt å brenne om bord i båten mens den lå ved kai.",
-        "Han mener noen av barna i det han omtaler som gråsonen, kunne fått bedre hjelp hjemme eller på skolen enn gjennom en lang og kostbar utredning i BUP.",
-        "Han tror sosiale medier kan være en del av forklaringen på økningen, men peker først og fremst på hvordan skolen er organisert. – Skolen er kanskje ikke rigget for å håndtere alle barn som er ukonsentrerte eller hyperaktive."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/445b5f36f6d95a.jpg",
-      "score": 13
-    },
-    {
       "id": "f04cdc65fb17d1",
       "category": "Økonomi",
       "published": "07.09. 07:46",
@@ -211,6 +190,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bd8b/live/df1f9390-a873-11f1-824a-0fc4c5d895ae.jpg",
       "localImage": "assets/news/f04cdc65fb17d1.jpg",
+      "score": 13
+    },
+    {
+      "id": "26948a47196a9d",
+      "category": "Norge",
+      "published": "07.09. 07:10",
+      "publishedISO": "2026-09-07T07:10:03+02:00",
+      "title": "– Sju bad på éin dag og 300 mil på ni døgn",
+      "summary": "På det meste vart det sju bad på éin dag, og 40 mil bak rattet for å rekke alle. Oddny Elin Hukkelberg og mor Aud Irene Tollefsen badar ofte og året rundt på deira absolutte favorittbadeplass: Hjertvikleirå på Gossen i Aukra kommune. – Vi er innmari glad i «Stikk ut», så då kartet kom i postkassa i fjor, tenkte eg at om vi badar og tok Stikk ut i alle kommunane, så har vi nå fått gjort litt, seier Hukkelberg. Dei køyrde over 300 mil på ni døgn, med minst eitt bad i kvar kommune.",
+      "keyPoints": [
+        "På det meste vart det sju bad på éin dag, og 40 mil bak rattet for å rekke alle.",
+        "Dei køyrde over 300 mil på ni døgn, med minst eitt bad i kvar kommune.",
+        "Oddny Elin Hukkelberg og mor Aud Irene Tollefsen badar ofte og året rundt på deira absolutte favorittbadeplass: Hjertvikleirå på Gossen i Aukra kommune. – Vi er innmari glad i «Stikk ut», så då kartet kom i postkassa i fjor, tenkte eg at om vi badar og tok Stikk ut i alle kommunane, så har vi nå fått gjort litt, seier Hukkelberg.",
+        "Bading i Smøla kommune ved Edøya ferjekai, Gurisenteret. – Det har vore mange fine bad, seier Tollefsen og legg til: – Så har det vore elvar der vi bada så lenge at eg trudde vi fekk lakselus."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/mr/mor-og-dotter-bada-i-kvar-kommune-i-trondelag-og-more-og-romsdal-1.18011350",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/QZ4tE92ZJVD6QDvbFswpcQRFol6unTOwvzJcm4t1byfA.jpg",
+      "localImage": "assets/news/26948a47196a9d.webp",
       "score": 13
     }
   ]
