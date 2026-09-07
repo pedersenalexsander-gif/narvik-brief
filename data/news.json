@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 03:41",
-  "updatedISO": "2026-09-07T03:41:16.471784+02:00",
+  "updatedAt": "07.09.2026 kl. 03:54",
+  "updatedISO": "2026-09-07T03:54:25.579091+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -88,27 +88,6 @@
       "score": 16
     },
     {
-      "id": "3b3937f75b81e9",
-      "category": "Norge",
-      "published": "06.09. 17:53",
-      "publishedISO": "2026-09-06T17:53:38+02:00",
-      "title": "Dronning Margrethe innlagt på sykehus – kommer ikke i gravferden til kong Harald",
-      "summary": "Dronning Margrethe har en blodansamling i hofteregionen og har mild dehydrering. Det ventes at hun vil være innlagt på sykehus til observasjon og behandling den kommende uken, skriver det danske slottet i en pressemelding. «Det betyr at Hennes Majestet dessverre ikke deltar i Kong Harald Vs begravelse onsdag i Oslo», står det videre. Den abdiserte dronninga kjem derfor ikkje i kong Harald sin gravferd.",
-      "keyPoints": [
-        "Det ventes at hun vil være innlagt på sykehus til observasjon og behandling den kommende uken, skriver det danske slottet i en pressemelding. «Det betyr at Hennes Majestet dessverre ikke deltar i Kong Harald Vs begravelse onsdag i Oslo», står det videre.",
-        "Den abdiserte dronninga kjem derfor ikkje i kong Harald sin gravferd.",
-        "Dronning Margrethe har en blodansamling i hofteregionen og har mild dehydrering.",
-        "Hennes sønn, Kong Frederik 10. er nå overhode i det danske kongehuset."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/dronning-margrethe-innlagt-pa-sykehus-_-kommer-ikke-i-gravferden-til-kong-harald-1.18016087",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ExwAV_VU633i8joOhC4V0Q-ik39tSbZkIgimrPzP2cyw.jpg",
-      "localImage": "assets/news/3b3937f75b81e9.webp",
-      "score": 16
-    },
-    {
       "id": "e172b1991a942f",
       "category": "Økonomi",
       "published": "06.09. 19:58",
@@ -127,6 +106,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b99c4695-33d7-3055-adcd-cb614f84db7f?fit=crop&h=675&upscale=true&w=1200&s=e63b4020a8386567f89c941093e861afc2f40b5f",
       "localImage": "assets/news/e172b1991a942f.jpg",
+      "score": 15
+    },
+    {
+      "id": "3b3937f75b81e9",
+      "category": "Norge",
+      "published": "06.09. 17:53",
+      "publishedISO": "2026-09-06T17:53:38+02:00",
+      "title": "Dronning Margrethe innlagt på sykehus – kommer ikke i gravferden til kong Harald",
+      "summary": "Dronning Margrethe har en blodansamling i hofteregionen og har mild dehydrering. Det ventes at hun vil være innlagt på sykehus til observasjon og behandling den kommende uken, skriver det danske slottet i en pressemelding. «Det betyr at Hennes Majestet dessverre ikke deltar i Kong Harald Vs begravelse onsdag i Oslo», står det videre. Den abdiserte dronninga kjem derfor ikkje i kong Harald sin gravferd.",
+      "keyPoints": [
+        "Det ventes at hun vil være innlagt på sykehus til observasjon og behandling den kommende uken, skriver det danske slottet i en pressemelding. «Det betyr at Hennes Majestet dessverre ikke deltar i Kong Harald Vs begravelse onsdag i Oslo», står det videre.",
+        "Den abdiserte dronninga kjem derfor ikkje i kong Harald sin gravferd.",
+        "Dronning Margrethe har en blodansamling i hofteregionen og har mild dehydrering.",
+        "Hennes sønn, Kong Frederik 10. er nå overhode i det danske kongehuset."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/dronning-margrethe-innlagt-pa-sykehus-_-kommer-ikke-i-gravferden-til-kong-harald-1.18016087",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ExwAV_VU633i8joOhC4V0Q-ik39tSbZkIgimrPzP2cyw.jpg",
+      "localImage": "assets/news/3b3937f75b81e9.webp",
       "score": 15
     },
     {
