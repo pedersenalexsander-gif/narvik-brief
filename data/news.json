@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 17:28",
-  "updatedISO": "2026-09-07T17:28:25.544870+02:00",
+  "updatedAt": "07.09.2026 kl. 17:44",
+  "updatedISO": "2026-09-07T17:44:58.981117+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "En av angrepene over natten i Kfar Remman ødela en tre-etasjes boligbygning Israelske luftangrep på en landsby i Sør-Libanon har drept minst 12 mennesker, sier det libanesiske helsedepartementet.",
         "Tre bønder arrestert av Israel i Libanon, landsbyleder sier at BBC reiser inn i det okkuperte Libanon mens tjenestemenn sier at Israel utvider stillinger Elleve drept i israelske angrep på Sør-Libanon, sier myndighetene at det israelske militæret har intensivert sine angrep i Sør-Libanon de siste dagene.",
         "Israelske angrep over hele Sør-Libanon har drept minst 27 mennesker de siste tre dagene, ifølge helsedepartementet.",
-        "Våpenhvileavtalen mellom Libanon, Israel og USA krever at Hizbollah avvæpnes, at israelske styrker gradvis trekker seg tilbake fra Sør-Libanon, og at den libanesiske hæren skal utplasseres over hele området."
+        "Våpenhvileavtalen mellom Libanon, Israel og USA krever at Hizbollah avvæpnes, at israelske styrker gradvis trekker seg tilbake fra Sør-Libanon, og at den libanesiske hæren skal deployere over hele området."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -43,6 +43,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg",
       "localImage": "assets/news/dd97475cc2a113.jpg",
+      "score": 13
+    },
+    {
+      "id": "ef72d188fb893b",
+      "category": "USA",
+      "published": "07.09. 16:44",
+      "publishedISO": "2026-09-07T16:44:47+02:00",
+      "title": "'It's not surprising': Americans react to record high Labor Day fuel prices",
+      "summary": "Bensinprisene har nådd rekordhøye for Labor Day weekend, med det nasjonale gjennomsnittet som klatrer til $4,15 (£3,07) per gallon. Samtidig traff diesel et nasjonalt gjennomsnitt på 5,85 dollar (4,33 pund) per gallon på fredag, en rekord, og var deretter 5 cent høyere på mandag, rapporterte AAA. \"Det er ikke overraskende\": Amerikanere reagerer på rekordhøye Labor Day-drivstoffpriser. Video, 00:00:57'Det er ikke overraskende': Amerikanere reagerer på rekordhøye Labor Day-drivstoffpriser Up Next.",
+      "keyPoints": [
+        "At the same time, diesel hit a national average of $5.85 (£4.33) a gallon on Friday, a record, then was 5 cents higher on Monday, AAA reported. 'It's not surprising': Americans react to record high Labor Day fuel prices.",
+        "Bensinprisene har nådd rekordhøye for Labor Day weekend, med det nasjonale gjennomsnittet som klatrer til $4,15 (£3,07) per gallon.",
+        "Prisene har aldri toppet $4 (£2,96) på Labor Day, bemerket American Automobile Association (AAA).",
+        "Landsgjennomsnittet for vanlige gasspriser er fortsatt under rekorden på $5,02 (£3,71) per gallon satt i juni 2022."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c3d71nrpjxmo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d874/live/71170070-aac8-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/ef72d188fb893b.jpg",
       "score": 13
     },
     {
@@ -86,6 +107,27 @@
       "image": "https://akamai.vgc.no/v2/images/bac907b2-90ea-3ce9-aca6-b821c80f3540?fit=crop&h=675&upscale=true&w=1200&s=e4e801b532fe15f88a6746c20219235e8748979e",
       "localImage": "assets/news/110daf58f61c0d.jpg",
       "score": 18
+    },
+    {
+      "id": "e7ee903b999efd",
+      "category": "AI",
+      "published": "07.09. 17:27",
+      "publishedISO": "2026-09-07T17:27:50+02:00",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "summary": "Grindr har gått med på å betale 26 millioner pund for å avgjøre en rettssak på grunn av påstander om at de har delt brukernes personlige opplysninger - inkludert deres HIV-status - med tredjeparter. Folk på Grindr har muligheten til å dele hiv-statusen sin sammen med når de sist ble testet – et grep som har som mål å redusere stigma, lette samtaler og hjelpe brukere med å ta informerte helsevalg. Det fulgte avsløringer i 2018 om at Grindr hadde delt personlige data, inkludert HIV-statusen til brukerne, med de to dataanalyseleverandørene.",
+      "keyPoints": [
+        "Grindr har gått med på å betale 26 millioner pund for å avgjøre en rettssak på grunn av påstander om at de har delt brukernes personlige opplysninger - inkludert deres HIV-status - med tredjeparter.",
+        "Det fulgte avsløringer i 2018 om at Grindr hadde delt personlige data, inkludert HIV-statusen til brukerne, med de to dataanalyseleverandørene.",
+        "Folk på Grindr har muligheten til å dele hiv-statusen sin sammen med når de sist ble testet – et grep som har som mål å redusere stigma, lette samtaler og hjelpe brukere med å ta informerte helsevalg.",
+        "Påstandene som ble fremsatt for mer enn to år siden av advokatfirmaet Austen Hayes, påsto at Grindr hadde delt sensitive data med tredjeparter for kommersielle formål, og bryter britiske personvernlover."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
+      "localImage": "assets/news/e7ee903b999efd.jpg",
+      "score": 17
     },
     {
       "id": "770fb9f12b7ba1",
@@ -170,48 +212,6 @@
       "image": "https://gfx.nrk.no/8VOEgAjIbk4DB6sPUS4EcA6IASkb1tKgfggCHPNOA6EA.jpg",
       "localImage": "assets/news/f22f7a581e380f.jpg",
       "score": 16
-    },
-    {
-      "id": "705c08f9270793",
-      "category": "Økonomi",
-      "published": "07.09. 10:28",
-      "publishedISO": "2026-09-07T10:28:43+02:00",
-      "title": "Iran-krigen drar ut: – Ikke overrasket i det hele tatt",
-      "summary": "Hvor lenge Iran-krigen vil vare, det vet vi simpelthen ikke, sier Peter Edward John Good, førsteamanuensis i arabisk og midtøstenhistorie ved Universitetet i Bergen (UiB). Det kan også være at dette drar ut gjennom hele Trumps presidentperiode og går i arv, slik at det blir opp til en etterfølger å finne en løsning, sier han. Han er ikke forundret over at krigen drar ut. – Jeg er ikke overrasket i det hele tatt.",
-      "keyPoints": [
-        "Han er ikke forundret over at krigen drar ut. – Jeg er ikke overrasket i det hele tatt.",
-        "Det kan også være at dette drar ut gjennom hele Trumps presidentperiode og går i arv, slik at det blir opp til en etterfølger å finne en løsning, sier han.",
-        "Hvor lenge Iran-krigen vil vare, det vet vi simpelthen ikke, sier Peter Edward John Good, førsteamanuensis i arabisk og midtøstenhistorie ved Universitetet i Bergen (UiB).",
-        "Tidligere i år satte representantenes hus av 73 milliarder dollar i ytterligere finansiering knyttet til Iran-krigen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/9p0Gb5/iran-krigen-drar-ut-ikke-overrasket-i-det-hele-tatt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/649ecb98-ff00-337f-a426-70d68e6b7303?fit=crop&h=675&upscale=true&w=1200&s=ab39b247f12a986271abb4418e949e393edda0e1",
-      "localImage": "assets/news/705c08f9270793.jpg",
-      "score": 16
-    },
-    {
-      "id": "df262c65f48d19",
-      "category": "Økonomi",
-      "published": "07.09. 06:58",
-      "publishedISO": "2026-09-07T06:58:58+02:00",
-      "title": "Brikkeopptur i Japan og Sør-Korea",
-      "summary": "Teknologiselskaper bidrar til oppgangen på børsen i Sør-Korea. Det gjelder blant annet brikkeprodusentene SK Hynix og Samsung Electronics, som er opp henholdsvis 8,1 og 4,7 prosent. Aksjen er opp 6,2 prosent etter at et lokalt mediehus rapporterte at selskapet vurderer å hente penger til datterselskapet Bear Robotics før en børsnotering, ifølge CNBC.",
-      "keyPoints": [
-        "Teknologiselskaper bidrar til oppgangen på børsen i Sør-Korea.",
-        "Aksjen er opp 6,2 prosent etter at et lokalt mediehus rapporterte at selskapet vurderer å hente penger til datterselskapet Bear Robotics før en børsnotering, ifølge CNBC.",
-        "Det gjelder blant annet brikkeprodusentene SK Hynix og Samsung Electronics, som er opp henholdsvis 8,1 og 4,7 prosent.",
-        "LG eier mer enn 50 prosent av det amerikanske robotoselskapet, som etter planen skal noteres på Nasdaq."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/3pe7K0/brikkeopptur-i-japan-og-soer-korea",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7f577dce-96a3-3bf5-beef-b9874cbe257d?fit=crop&h=675&upscale=true&w=1200&s=dcb9779e29fcd2ae9953dc66dde5eb137da2fd33",
-      "localImage": "assets/news/df262c65f48d19.jpg",
-      "score": 14
     }
   ]
 }
