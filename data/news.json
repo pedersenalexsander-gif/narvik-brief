@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 16:12",
-  "updatedISO": "2026-09-07T16:12:50.037694+02:00",
+  "updatedAt": "07.09.2026 kl. 16:29",
+  "updatedISO": "2026-09-07T16:29:45.133396+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "En av angrepene over natten i Kfar Remman ødela en tre-etasjes boligbygning Israelske luftangrep på en landsby i Sør-Libanon har drept minst 12 mennesker, sier det libanesiske helsedepartementet.",
         "Tre bønder arrestert av Israel i Libanon, landsbyleder sier at BBC reiser inn i det okkuperte Libanon mens tjenestemenn sier at Israel utvider stillinger Elleve drept i israelske angrep på Sør-Libanon, sier myndighetene at det israelske militæret har intensivert sine angrep i Sør-Libanon de siste dagene.",
         "Israelske angrep over hele Sør-Libanon har drept minst 27 mennesker de siste tre dagene, ifølge helsedepartementet.",
-        "Våpenhvileavtalen mellom Libanon, Israel og USA krever at Hizbollah avvæpnes, at israelske styrker gradvis trekker seg tilbake fra Sør-Libanon, og at den libanesiske hæren skal deployere over hele området."
+        "Våpenhvileavtalen mellom Libanon, Israel og USA krever at Hizbollah avvæpnes, at israelske styrker gradvis trekker seg tilbake fra Sør-Libanon, og at den libanesiske hæren skal utplasseres over hele området."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -193,24 +193,24 @@
       "score": 14
     },
     {
-      "id": "e4f0b06447c7cb",
+      "id": "463e2c4e49e9d4",
       "category": "Økonomi",
-      "published": "07.09. 16:09",
-      "publishedISO": "2026-09-07T16:09:03+02:00",
-      "title": "Ferd-eid byggmontør konkurs: – Hard kamp om jobbene",
-      "summary": "I forrige uke ble det åpnet konkurs i Byggmontasje AS ved Oslo tingrett, ifølge en kunngjøring i Brønnøysundregistrene. Bostyrer Håvard Wiker opplyser at selskapet hadde cirka 20 ansatte på oppbudstidspunktet. – Selskapet har hatt seks pågående prosjekter ved konkursåpning, og kassekreditt i en lokal sparebank som har hatt pant i det som er. I et marked som nå, hvor det er hard kamp om jobbene, er det betydelig press på lønnsomheten, sier Holst til RB.",
+      "published": "07.09. 16:18",
+      "publishedISO": "2026-09-07T16:18:10+02:00",
+      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+      "summary": "Jaguar Land Rover (JLR) skal kutte 4000 arbeidsplasser ettersom bilprodusenten sliter med kinesisk konkurranse, amerikanske tariffer og overgangen til elektriske kjøretøy. Kuttene vil skje i løpet av de neste to årene og vil for det meste påvirke hovedkontoret, som er basert i Storbritannia. Oppsigelsene gjøres i et forsøk på å spare 1,7 milliarder pund i løpet av de neste to årene.",
       "keyPoints": [
-        "I et marked som nå, hvor det er hard kamp om jobbene, er det betydelig press på lønnsomheten, sier Holst til RB.",
-        "I forrige uke ble det åpnet konkurs i Byggmontasje AS ved Oslo tingrett, ifølge en kunngjøring i Brønnøysundregistrene.",
-        "Bostyrer Håvard Wiker opplyser at selskapet hadde cirka 20 ansatte på oppbudstidspunktet. – Selskapet har hatt seks pågående prosjekter ved konkursåpning, og kassekreditt i en lokal sparebank som har hatt pant i det som er.",
-        "Byggmontasje ble etablert i 2017 og har holdt til på Furnes i Ringsaker kommuneRingsaker er en kommune på Hedmarken i Innlandet fylke som omfatter bygdene som ligger vest og nord for Hamar, som Moelv og Brumunddal. på Hedmarken."
+        "Jaguar Land Rover (JLR) skal kutte 4000 arbeidsplasser ettersom bilprodusenten sliter med kinesisk konkurranse, amerikanske tariffer og overgangen til elektriske kjøretøy.",
+        "Oppsigelsene gjøres i et forsøk på å spare 1,7 milliarder pund i løpet av de neste to årene.",
+        "Kuttene vil skje i løpet av de neste to årene og vil for det meste påvirke hovedkontoret, som er basert i Storbritannia.",
+        "I sine resultater for året til slutten av mars sa JLR at amerikanske tariffer og nettangrepet var hovedårsakene til at salget hadde falt med en femtedel til 22,9 milliarder pund fra 29 milliarder pund de to foregående årene."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/k0x17A/ferd-eid-byggmontoer-konkurs-hard-kamp-om-jobbene",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/bcbf72b9-9788-3d63-9f20-b3f6c678644a?fit=crop&h=675&upscale=true&w=1200&s=62232f1337de57b0c007732c14b92ce88816bb2b",
-      "localImage": "assets/news/e4f0b06447c7cb.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg",
+      "localImage": "assets/news/463e2c4e49e9d4.jpg",
       "score": 13
     }
   ]
