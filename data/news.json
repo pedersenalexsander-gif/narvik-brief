@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.09.2026 kl. 21:26",
-  "updatedISO": "2026-09-07T21:26:20.851512+02:00",
+  "updatedAt": "07.09.2026 kl. 21:39",
+  "updatedISO": "2026-09-07T21:39:55.929831+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/bac907b2-90ea-3ce9-aca6-b821c80f3540?fit=crop&h=675&upscale=true&w=1200&s=e4e801b532fe15f88a6746c20219235e8748979e",
       "localImage": "assets/news/110daf58f61c0d.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "e7ee903b999efd",
@@ -193,24 +193,24 @@
       "score": 17
     },
     {
-      "id": "080603efe6e8cf",
+      "id": "76970fde9fe6ca",
       "category": "Norge",
-      "published": "07.09. 16:33",
-      "publishedISO": "2026-09-07T16:33:02+02:00",
-      "title": "Oljeavtalen gjør USA mindre interessert i demokrati i Venezuela, tror eksperter",
-      "summary": "Den nye oljeavtalen vil gjøre USA mindre interessert i demokrati i Venezuela, mener venezuelanere. Maxroberth Graterol er sterkt imot oljeavtalen mellom hjemlandet Venezuela og USA. Ved å hevde at oljeavtalen vil få ned bensinprisene, er Trump ute etter å sanke stemmer i mellomvalget i USA i november, tror Venezuela-eksperten. – Trump sier for eksempel at avtalen innebærer at USA i praksis vil få eierskap til over 65 milliarder fat venezuelansk olje i 100 år.",
+      "published": "07.09. 21:29",
+      "publishedISO": "2026-09-07T21:29:07+02:00",
+      "title": "Hotell sier nei til influensere under gravferden",
+      "summary": "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til. Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer. Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
       "keyPoints": [
-        "Den nye oljeavtalen vil gjøre USA mindre interessert i demokrati i Venezuela, mener venezuelanere.",
-        "Ved å hevde at oljeavtalen vil få ned bensinprisene, er Trump ute etter å sanke stemmer i mellomvalget i USA i november, tror Venezuela-eksperten. – Trump sier for eksempel at avtalen innebærer at USA i praksis vil få eierskap til over 65 milliarder fat venezuelansk olje i 100 år.",
-        "Maxroberth Graterol er sterkt imot oljeavtalen mellom hjemlandet Venezuela og USA.",
-        "Avtalen gjør det langt mindre sannsynlig at Trump vil presse den venezuelanske ledelsen mot en overgang til demokratisk styre, mener Gunson. – Ingen demokratisk regjering i Venezuela ville ha undertegnet eller støttet en avtale som denne, sier han."
+        "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til.",
+        "Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+        "Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer.",
+        "En influenser som allerede bor der, har fått beskjed om å ikke poste noe om hotellet. – Ville det kommet mange bilder av influensere som ser på gravferd hvis dere hadde sluppet dem inn? – Ja, det ville vært."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/oljeavtalen-gjor-usa-mindre-interessert-i-demokrati-i-venezuela_-tror-eksperter-1.18015379",
+      "url": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2BJ4uJt-jf-8pRF7_XpNOAiIR-YTmyCtwbM9FR4zQpkw.jpg",
-      "localImage": "assets/news/080603efe6e8cf.jpg",
+      "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
+      "localImage": "assets/news/76970fde9fe6ca.jpg",
       "score": 16
     }
   ]
