@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 03:11",
-  "updatedISO": "2026-09-08T03:11:54.523642+02:00",
+  "updatedAt": "08.09.2026 kl. 03:28",
+  "updatedISO": "2026-09-08T03:28:12.987099+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,18 +9,18 @@
       "published": "08.09. 02:11",
       "publishedISO": "2026-09-08T02:11:26+02:00",
       "title": "Nye russiske angrep på Kyiv",
-      "summary": "Det er hørt flere eksplosjoner, melder nyhetsbyrået AFP. – Russerne angrep distriktene Boryspil og Fastiv med droner, står det i en uttalelse fra ukrainske nødetater i meldingstjenesten Telegram natt til tirsdag. Det statlige russiske nyhetsbyrået Tass har bekreftet at de russiske styrkenes angrepspause mot Kyiv er avsluttet. Russland hadde satt angrep mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøk til byen.",
+      "summary": "Ukrainske nødetater melder om russiske angrep i flere distrikter. Det statlige russiske nyhetsbyrået Tass har bekreftet at de russiske styrkenes angrepspause mot Kyiv er avsluttet. Russland hadde satt angrep mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøk til byen.",
       "keyPoints": [
         "Russland hadde satt angrep mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøk til byen.",
         "Det statlige russiske nyhetsbyrået Tass har bekreftet at de russiske styrkenes angrepspause mot Kyiv er avsluttet.",
-        "Det er hørt flere eksplosjoner, melder nyhetsbyrået AFP. – Russerne angrep distriktene Boryspil og Fastiv med droner, står det i en uttalelse fra ukrainske nødetater i meldingstjenesten Telegram natt til tirsdag.",
-        "Etter en tre dagers pause har Russland gjenopptatt angrepene mot Ukrainas hovedstad Kyiv."
+        "Ukrainske nødetater melder om russiske angrep i flere distrikter.",
+        "Det er hørt flere eksplosjoner, melder nyhetsbyrået AFP. – Hovedstaden er under angrep fra ballistiske missiler, søk dekning skriver byens ordfører Vitalij Klitsjko på meldingstjenesten Telegram."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/nyheter/nye-russiske-angrep-pa-kyiv----1.18017362",
       "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "image": "https://gfx.nrk.no/4W7sWwt1axfCazSaucPufQKJHCNkrXU1g2A8osEFxGBQ.jpg",
       "localImage": "assets/news/81d48e8fe9f27e.jpg",
       "score": 17
     },
@@ -35,7 +35,7 @@
         "Om Trumps trussel skrev Fréchette: «Jeg vil ikke svare på provokasjon med provokasjon». \"Quebec vil ikke tillate noen å diktere hvor våre selskaper må produsere for å få tilgang til et marked.\" Handelssamtaler mellom Canada og USA kollapset sent i forrige måned etter at Canada gikk bort fra forhandlingsbordet, hvoretter USA innførte nye 50% toll på en rekke kanadiske varer.",
         "Det er uklart hvordan Trump har tenkt å blokkere Bombardier fra å gjøre forretninger i USA.",
         "Selskapet er et av Canadas største, etter å ha bidratt med 7,4 milliarder C$ (5,4 milliarder dollar; £4 milliarder) til landets BNP i 2024, ifølge en rapport bestilt av Bombardier.",
-        "I en uttalelse understreket Bombardier at de sysselsatte tusenvis av amerikanske arbeidere og sa at de verdsatte sine partnerskap med amerikanske selskaper."
+        "I en uttalelse understreket Bombardier at de sysselsatte tusenvis av amerikanske arbeidere og sa at de verdsatte partnerskapene sine med amerikanske selskaper."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
