@@ -1,8 +1,29 @@
 {
-  "updatedAt": "08.09.2026 kl. 16:33",
-  "updatedISO": "2026-09-08T16:33:19.887284+02:00",
+  "updatedAt": "08.09.2026 kl. 16:56",
+  "updatedISO": "2026-09-08T16:56:46.918407+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "255a0e444afee0",
+      "category": "Nord-Norge",
+      "published": "08.09. 16:26",
+      "publishedISO": "2026-09-08T16:26:19+02:00",
+      "title": "Isak Dybvik Määttä forlenget med Glimt",
+      "summary": "To dager før Bodø/Glimt starter et nytt mesterligaeventyr, signerte Isak Dybvik Mättä en ny kontrakt med klubben. Han hadde kontrakt ut 2028-sesongen og har dermed bundet seg til Glimt i 18 måneder ekstra. – Jeg er veldig glad og stolt. jeg trives ekstremt godt i Glimt, så jeg er veldig glad for å ha fått dette på plass, sier Määttä til glimt.no. Torsdag innleder Glimt ligaspillet i mesterligaen med bortekamp mot Bayern München.",
+      "keyPoints": [
+        "To dager før Bodø/Glimt starter et nytt mesterligaeventyr, signerte Isak Dybvik Mättä en ny kontrakt med klubben.",
+        "Han hadde kontrakt ut 2028-sesongen og har dermed bundet seg til Glimt i 18 måneder ekstra. – Jeg er veldig glad og stolt. jeg trives ekstremt godt i Glimt, så jeg er veldig glad for å ha fått dette på plass, sier Määttä til glimt.no.",
+        "Torsdag innleder Glimt ligaspillet i mesterligaen med bortekamp mot Bayern München.",
+        "Det trives han godt med. – Jeg føler meg ønsket og jeg har fått jobbet godt over tid."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/isak-dybvik-maatta-forlenget-med-glimt-1.18018165",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/_QLufFXKs8Db5OSWesmZnQ5DnPCWYHzXS7kbW48Joxpg.jpg",
+      "localImage": "assets/news/255a0e444afee0.jpg",
+      "score": 13
+    },
     {
       "id": "8542a502c1d832",
       "category": "Norge",
@@ -67,16 +88,37 @@
       "score": 26
     },
     {
+      "id": "92044443dbfff2",
+      "category": "Økonomi",
+      "published": "08.09. 16:37",
+      "publishedISO": "2026-09-08T16:37:59+02:00",
+      "title": "Storaksjonær varsler nedsalg i Autostore",
+      "summary": "Lee Advisors (THL) som er oppført som nest største aksjonær i Autostore, vil selge seg ned i robotlagerselskapets. Ifølge en børsmelding er det mulige salget på rundt 103 millioner aksjer, tilsvarende rundt tre prosent av alle aksjene i Autostore. Etter salget venter THL å eie rundt 853 millioner aksjer, tilsvarende 24,9 prosent av Autostore.",
+      "keyPoints": [
+        "Ifølge en børsmelding er det mulige salget på rundt 103 millioner aksjer, tilsvarende rundt tre prosent av alle aksjene i Autostore.",
+        "Etter salget venter THL å eie rundt 853 millioner aksjer, tilsvarende 24,9 prosent av Autostore.",
+        "Lee Advisors (THL) som er oppført som nest største aksjonær i Autostore, vil selge seg ned i robotlagerselskapets.",
+        "Nest største eier vil selge aksjer verdt 1,7 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/XM3AGm/storaksjonaer-varsler-nedsalg-i-autostore-vil-selge-aksjer-verdt-1-7-milliarder-kroner",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fc94ceae-5d7e-3724-a197-be9643b8235c?fit=crop&h=675&upscale=true&w=1200&s=7920fc553a4113dc2ee9b0a3218844ce15e3723f",
+      "localImage": "assets/news/92044443dbfff2.jpg",
+      "score": 20
+    },
+    {
       "id": "e21a52a58775ca",
       "category": "Økonomi",
       "published": "08.09. 15:33",
       "publishedISO": "2026-09-08T15:33:09+02:00",
       "title": "Wall Street tynges etter langhelg",
-      "summary": "Wall Street begynner uken senere enn vanlig, etter at det var stengt på fridagen Labor Day mandag. Slik ligger det an like etter åpning tirsdag: Aksjen til tek-giganten Qualcomm, en viktig leverandør av brikker til mobiltelefoner, hopper 5,9 prosent i tidlig handel. Den ligger på 98,1 dollar fatet rundt åpningstid på Wall Street, opp 0,8 prosent siden midnatt.",
+      "summary": "Wall Street begynner uken senere enn vanlig, etter at det var stengt på fridagen Labor Day mandag. Slik ligger det an en time etter åpning tirsdag: Aksjen til tek-giganten Qualcomm, en viktig leverandør av brikker til mobiltelefoner, hopper 4,9 prosent i tidlig handel. Den ligger på 98,1 dollar fatet rundt åpningstid på Wall Street, opp 0,8 prosent siden midnatt.",
       "keyPoints": [
         "Den ligger på 98,1 dollar fatet rundt åpningstid på Wall Street, opp 0,8 prosent siden midnatt.",
         "Wall Street begynner uken senere enn vanlig, etter at det var stengt på fridagen Labor Day mandag.",
-        "Slik ligger det an like etter åpning tirsdag: Aksjen til tek-giganten Qualcomm, en viktig leverandør av brikker til mobiltelefoner, hopper 5,9 prosent i tidlig handel.",
+        "Slik ligger det an en time etter åpning tirsdag: Aksjen til tek-giganten Qualcomm, en viktig leverandør av brikker til mobiltelefoner, hopper 4,9 prosent i tidlig handel.",
         "USA-børsene faller etter at oljeprisen nærmer seg 100 dollar."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
@@ -86,27 +128,6 @@
       "image": "https://akamai.vgc.no/v2/images/29fbab33-81a5-3a8c-b8f0-0bc893d819de?fit=crop&h=675&upscale=true&w=1200&s=2b476e06ec846696ef9bd163f3d071ae9986702e",
       "localImage": "assets/news/e21a52a58775ca.jpg",
       "score": 20
-    },
-    {
-      "id": "e7ee903b999efd",
-      "category": "AI",
-      "published": "07.09. 17:27",
-      "publishedISO": "2026-09-07T17:27:50+02:00",
-      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
-      "summary": "Grindr har gått med på å betale 26 millioner pund for å avgjøre en rettssak på grunn av påstander om at de har delt brukernes personlige opplysninger - inkludert deres HIV-status - med tredjeparter. Folk på Grindr har muligheten til å dele hiv-statusen sin sammen med når de sist ble testet – et grep som har som mål å redusere stigma, lette samtaler og hjelpe brukere med å ta informerte helsevalg. Det fulgte avsløringer i 2018 om at Grindr hadde delt personlige data, inkludert HIV-statusen til brukerne, med de to dataanalyseleverandørene.",
-      "keyPoints": [
-        "Grindr har gått med på å betale 26 millioner pund for å avgjøre en rettssak på grunn av påstander om at de har delt brukernes personlige opplysninger - inkludert deres HIV-status - med tredjeparter.",
-        "Det fulgte avsløringer i 2018 om at Grindr hadde delt personlige data, inkludert HIV-statusen til brukerne, med de to dataanalyseleverandørene.",
-        "Folk på Grindr har muligheten til å dele hiv-statusen sin sammen med når de sist ble testet – et grep som har som mål å redusere stigma, lette samtaler og hjelpe brukere med å ta informerte helsevalg.",
-        "Påstandene som ble fremsatt for mer enn to år siden av advokatfirmaet Austen Hayes, påsto at Grindr hadde delt sensitive data med tredjeparter for kommersielle formål, og bryter britiske personvernlover."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
-      "localImage": "assets/news/e7ee903b999efd.jpg",
-      "score": 13
     },
     {
       "id": "ef311e3c8f4d9a",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6735/live/dba2ee20-ab1f-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/f675d6d90800bf.jpg",
-      "score": 15
-    },
-    {
-      "id": "f4c05efa593bd5",
-      "category": "Verden",
-      "published": "08.09. 02:48",
-      "publishedISO": "2026-09-08T02:48:43+02:00",
-      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
-      "summary": "Det er uklart hvordan Trump har tenkt å blokkere Bombardier fra å gjøre forretninger i USA. Selskapet er et av Canadas største, etter å ha bidratt med 7,4 milliarder C$ (5,4 milliarder dollar; £4 milliarder) til landets BNP i 2024, ifølge en rapport bestilt av Bombardier. Om Trumps trussel skrev Fréchette: «Jeg vil ikke svare på provokasjon med provokasjon». \"Quebec vil ikke tillate noen å diktere hvor våre selskaper må produsere for å få tilgang til et marked.\" Handelssamtaler mellom Canada og USA kollapset sent i forrige måned etter at Canada gikk bort fra forhandlingsbordet, hvoretter USA innførte nye 50% toll på en rekke kanadiske varer.",
-      "keyPoints": [
-        "Om Trumps trussel skrev Fréchette: «Jeg vil ikke svare på provokasjon med provokasjon». \"Quebec vil ikke tillate noen å diktere hvor våre selskaper må produsere for å få tilgang til et marked.\" Handelssamtaler mellom Canada og USA kollapset sent i forrige måned etter at Canada gikk bort fra forhandlingsbordet, hvoretter USA innførte nye 50% toll på en rekke kanadiske varer.",
-        "Det er uklart hvordan Trump har tenkt å blokkere Bombardier fra å gjøre forretninger i USA.",
-        "Selskapet er et av Canadas største, etter å ha bidratt med 7,4 milliarder C$ (5,4 milliarder dollar; £4 milliarder) til landets BNP i 2024, ifølge en rapport bestilt av Bombardier.",
-        "About half of its fleet – 5,100 aircraft – is operated by Bombardier customers based in the US."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
-      "localImage": "assets/news/f4c05efa593bd5.jpg",
       "score": 15
     }
   ]
