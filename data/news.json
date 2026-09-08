@@ -1,27 +1,27 @@
 {
-  "updatedAt": "08.09.2026 kl. 03:28",
-  "updatedISO": "2026-09-08T03:28:12.987099+02:00",
+  "updatedAt": "08.09.2026 kl. 03:43",
+  "updatedISO": "2026-09-08T03:43:59.072492+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "81d48e8fe9f27e",
+      "id": "7eafc14875ba2d",
       "category": "Norge",
       "published": "08.09. 02:11",
       "publishedISO": "2026-09-08T02:11:26+02:00",
-      "title": "Nye russiske angrep på Kyiv",
-      "summary": "Ukrainske nødetater melder om russiske angrep i flere distrikter. Det statlige russiske nyhetsbyrået Tass har bekreftet at de russiske styrkenes angrepspause mot Kyiv er avsluttet. Russland hadde satt angrep mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøk til byen.",
+      "title": "Nye russiske angrep mot Ukraina",
+      "summary": "Det er hørt flere eksplosjoner, melder nyhetsbyrået AFP. – Hovedstaden er under angrep fra ballistiske missiler, søk dekning skriver byens ordfører Vitalij Klitsjko på meldingstjenesten Telegram. Ukrainske nødetater melder om russiske angrep i flere distrikter. – I Holosijivskyj-distriktet er det meldt om brann på området til en utdanningsinstitusjon. Russland hadde satt angrep mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøk til byen.",
       "keyPoints": [
+        "Ukrainske nødetater melder om russiske angrep i flere distrikter. – I Holosijivskyj-distriktet er det meldt om brann på området til en utdanningsinstitusjon.",
+        "Det er hørt flere eksplosjoner, melder nyhetsbyrået AFP. – Hovedstaden er under angrep fra ballistiske missiler, søk dekning skriver byens ordfører Vitalij Klitsjko på meldingstjenesten Telegram.",
         "Russland hadde satt angrep mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøk til byen.",
-        "Det statlige russiske nyhetsbyrået Tass har bekreftet at de russiske styrkenes angrepspause mot Kyiv er avsluttet.",
-        "Ukrainske nødetater melder om russiske angrep i flere distrikter.",
-        "Det er hørt flere eksplosjoner, melder nyhetsbyrået AFP. – Hovedstaden er under angrep fra ballistiske missiler, søk dekning skriver byens ordfører Vitalij Klitsjko på meldingstjenesten Telegram."
+        "Det statlige russiske nyhetsbyrået Tass har bekreftet at de russiske styrkenes angrepspause mot Kyiv er avsluttet."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/nye-russiske-angrep-pa-kyiv----1.18017362",
+      "url": "https://www.nrk.no/nyheter/nye-russiske-angrep-mot-ukraina-1.18017362",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/4W7sWwt1axfCazSaucPufQKJHCNkrXU1g2A8osEFxGBQ.jpg",
-      "localImage": "assets/news/81d48e8fe9f27e.jpg",
+      "localImage": "assets/news/7eafc14875ba2d.jpg",
       "score": 17
     },
     {
@@ -127,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
       "localImage": "assets/news/e7ee903b999efd.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "770fb9f12b7ba1",
