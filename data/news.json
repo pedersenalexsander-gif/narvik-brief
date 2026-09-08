@@ -1,28 +1,70 @@
 {
-  "updatedAt": "08.09.2026 kl. 02:19",
-  "updatedISO": "2026-09-08T02:19:51.748557+02:00",
+  "updatedAt": "08.09.2026 kl. 02:47",
+  "updatedISO": "2026-09-08T02:47:29.304234+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "76970fde9fe6ca",
+      "id": "12291b568ee6fd",
       "category": "Norge",
-      "published": "07.09. 21:29",
-      "publishedISO": "2026-09-07T21:29:07+02:00",
-      "title": "Hotell sier nei til influensere under gravferden",
-      "summary": "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til. Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer. Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+      "published": "07.09. 21:17",
+      "publishedISO": "2026-09-07T21:17:11+02:00",
+      "title": "Politiet stenger deler av luftrommet over Østlandet tirsdag til torsdag",
+      "summary": "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det. Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem. Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
       "keyPoints": [
-        "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til.",
-        "Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
-        "Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer.",
-        "En influenser som allerede bor der, har fått beskjed om å ikke poste noe om hotellet. – Ville det kommet mange bilder av influensere som ser på gravferd hvis dere hadde sluppet dem inn? – Ja, det ville vært."
+        "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det.",
+        "Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem.",
+        "Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
+        "Kong Haralds gravferd foregår i Oslo sentrum onsdag 9. september."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
+      "url": "https://www.nrk.no/nyheter/politiet-stenger-deler-av-luftrommet-over-ostlandet-tirsdag-til-torsdag-1.18017256",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
-      "localImage": "assets/news/76970fde9fe6ca.jpg",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/12291b568ee6fd.jpg",
       "score": 16
+    },
+    {
+      "id": "f4c05efa593bd5",
+      "category": "Verden",
+      "published": "08.09. 01:29",
+      "publishedISO": "2026-09-08T01:29:12+02:00",
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "summary": "Det er uklart hvordan Trump har tenkt å blokkere Bombardier fra å gjøre forretninger i USA. Bombardiers jetfly bygges ved anlegg i Canada, USA og Mexico, ifølge selskapets nettside. Om Trumps trussel skrev Fréchette: «Jeg vil ikke svare på provokasjon med provokasjon». \"Quebec vil ikke tillate noen å diktere hvor våre selskaper må produsere for å få tilgang til et marked.\" Handelssamtaler mellom Canada og USA kollapset sent i forrige måned etter at Canada gikk bort fra forhandlingsbordet, hvoretter USA innførte nye 50% toll på en rekke kanadiske varer.",
+      "keyPoints": [
+        "Om Trumps trussel skrev Fréchette: «Jeg vil ikke svare på provokasjon med provokasjon». \"Quebec vil ikke tillate noen å diktere hvor våre selskaper må produsere for å få tilgang til et marked.\" Handelssamtaler mellom Canada og USA kollapset sent i forrige måned etter at Canada gikk bort fra forhandlingsbordet, hvoretter USA innførte nye 50% toll på en rekke kanadiske varer.",
+        "Bombardiers jetfly bygges ved anlegg i Canada, USA og Mexico, ifølge selskapets nettside.",
+        "Det er uklart hvordan Trump har tenkt å blokkere Bombardier fra å gjøre forretninger i USA.",
+        "Selskapet er et av Canadas største, etter å ha bidratt med 7,4 milliarder C$ (5,4 milliarder dollar; £4 milliarder) til landets BNP i 2024, ifølge en rapport bestilt av Bombardier."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
+      "localImage": "assets/news/f4c05efa593bd5.jpg",
+      "score": 17
+    },
+    {
+      "id": "d4b7638884ff5f",
+      "category": "USA",
+      "published": "07.09. 20:42",
+      "publishedISO": "2026-09-07T20:42:31+02:00",
+      "title": "Pilot killed in small plane crash near regional airport in Florida",
+      "summary": "Piloten til et lite fly ble drept etter at enmotorsflyet styrtet nær Space Coast Regional Airport i Titusville, Florida, sa tjenestemenn mandag. Ulykken kommer mindre enn 24 timer etter at et Amazon-lastefly overskred rullebanen på Miami International Airport. Fem mennesker ble drept og fem andre ble alvorlig skadet da flyet, en Boeing 767-300, brøytet over en vei utenfor rullebanen og traff flere kjøretøy på bakken.",
+      "keyPoints": [
+        "Piloten til et lite fly ble drept etter at enmotorsflyet styrtet nær Space Coast Regional Airport i Titusville, Florida, sa tjenestemenn mandag.",
+        "Ulykken kommer mindre enn 24 timer etter at et Amazon-lastefly overskred rullebanen på Miami International Airport.",
+        "Fem mennesker ble drept og fem andre ble alvorlig skadet da flyet, en Boeing 767-300, brøytet over en vei utenfor rullebanen og traff flere kjøretøy på bakken.",
+        "På grunn av \"krasjens natur\" har tjenestemenn ennå ikke klart å identifisere piloten, sa brannvesenet."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c33k5m1zdemo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7947/live/eaa88b30-aadb-11f1-aa35-df10e5ff32f4.jpg",
+      "localImage": "assets/news/d4b7638884ff5f.jpg",
+      "score": 12
     },
     {
       "id": "c0cb2549594c6d",
@@ -64,28 +106,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/bac907b2-90ea-3ce9-aca6-b821c80f3540?fit=crop&h=675&upscale=true&w=1200&s=e4e801b532fe15f88a6746c20219235e8748979e",
       "localImage": "assets/news/110daf58f61c0d.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "12291b568ee6fd",
-      "category": "Norge",
-      "published": "07.09. 21:17",
-      "publishedISO": "2026-09-07T21:17:11+02:00",
-      "title": "Politiet stenger deler av luftrommet over Østlandet tirsdag til torsdag",
-      "summary": "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det. Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem. Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
+      "id": "e7ee903b999efd",
+      "category": "AI",
+      "published": "07.09. 17:27",
+      "publishedISO": "2026-09-07T17:27:50+02:00",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "summary": "Grindr har gått med på å betale 26 millioner pund for å avgjøre en rettssak på grunn av påstander om at de har delt brukernes personlige opplysninger - inkludert deres HIV-status - med tredjeparter. Folk på Grindr har muligheten til å dele hiv-statusen sin sammen med når de sist ble testet – et grep som har som mål å redusere stigma, lette samtaler og hjelpe brukere med å ta informerte helsevalg. Det fulgte avsløringer i 2018 om at Grindr hadde delt personlige data, inkludert HIV-statusen til brukerne, med de to dataanalyseleverandørene.",
       "keyPoints": [
-        "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det.",
-        "Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem.",
-        "Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
-        "Kong Haralds gravferd foregår i Oslo sentrum onsdag 9. september."
+        "Grindr har gått med på å betale 26 millioner pund for å avgjøre en rettssak på grunn av påstander om at de har delt brukernes personlige opplysninger - inkludert deres HIV-status - med tredjeparter.",
+        "Det fulgte avsløringer i 2018 om at Grindr hadde delt personlige data, inkludert HIV-statusen til brukerne, med de to dataanalyseleverandørene.",
+        "Folk på Grindr har muligheten til å dele hiv-statusen sin sammen med når de sist ble testet – et grep som har som mål å redusere stigma, lette samtaler og hjelpe brukere med å ta informerte helsevalg.",
+        "Påstandene som ble fremsatt for mer enn to år siden av advokatfirmaet Austen Hayes, påsto at Grindr hadde delt sensitive data med tredjeparter for kommersielle formål, og bryter britiske personvernlover."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/politiet-stenger-deler-av-luftrommet-over-ostlandet-tirsdag-til-torsdag-1.18017256",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/12291b568ee6fd.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
+      "localImage": "assets/news/e7ee903b999efd.jpg",
       "score": 16
+    },
+    {
+      "id": "770fb9f12b7ba1",
+      "category": "AI",
+      "published": "07.09. 13:30",
+      "publishedISO": "2026-09-07T13:30:27+02:00",
+      "title": "Dolly Partons søster ber om slutt på «AI-søppel»-innlegg etter sangerens død",
+      "summary": "Dolly Parton (til venstre) og søsteren hennes Stella, avbildet på en begivenhet i 2015 Dolly Partons søster har utstedt en bønn til fans om \"falsk AI-søppel\" lagt ut på sosiale medier i kjølvannet av sangerens død. Dolly Partons død utløste en ekstraordinær strøm av kjærlighet fra fans og stjerner over hele verden - men hva var det med Dolly som gjorde henne så universelt elsket? På YouTube har en \"hjertelig fan-laget hyllest av Miley Cyrus\" til gudmoren Dolly Parton og sunget i stil med Wrecking Ball-sangerinnen hatt mer enn 1,5 millioner visninger.",
+      "keyPoints": [
+        "Dolly Parton (til venstre) og søsteren hennes Stella, avbildet på en begivenhet i 2015 Dolly Partons søster har utstedt en bønn til fans om \"falsk AI-søppel\" lagt ut på sosiale medier i kjølvannet av sangerens død.",
+        "På YouTube har en \"hjertelig fan-laget hyllest av Miley Cyrus\" til gudmoren Dolly Parton og sunget i stil med Wrecking Ball-sangerinnen hatt mer enn 1,5 millioner visninger.",
+        "Dolly Partons død utløste en ekstraordinær strøm av kjærlighet fra fans og stjerner over hele verden - men hva var det med Dolly som gjorde henne så universelt elsket?",
+        "Stella Parton skrev på Instagram og takket de som hadde vist \"ekte støtte\" for stjernen og familien hennes - men sa at en \"enorm mengde AI og uendelig søppel som ble lagt ut\" hadde vært \"utfordrende å absorbere\"."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+      "localImage": "assets/news/770fb9f12b7ba1.jpg",
+      "score": 15
     },
     {
       "id": "81ebcce4549fe7",
@@ -130,87 +193,24 @@
       "score": 16
     },
     {
-      "id": "080603efe6e8cf",
+      "id": "76970fde9fe6ca",
       "category": "Norge",
-      "published": "07.09. 16:33",
-      "publishedISO": "2026-09-07T16:33:02+02:00",
-      "title": "Oljeavtalen gjør USA mindre interessert i demokrati i Venezuela, tror eksperter",
-      "summary": "Den nye oljeavtalen vil gjøre USA mindre interessert i demokrati i Venezuela, mener venezuelanere. Maxroberth Graterol er sterkt imot oljeavtalen mellom hjemlandet Venezuela og USA. Ved å hevde at oljeavtalen vil få ned bensinprisene, er Trump ute etter å sanke stemmer i mellomvalget i USA i november, tror Venezuela-eksperten. – Trump sier for eksempel at avtalen innebærer at USA i praksis vil få eierskap til over 65 milliarder fat venezuelansk olje i 100 år.",
+      "published": "07.09. 21:29",
+      "publishedISO": "2026-09-07T21:29:07+02:00",
+      "title": "Hotell sier nei til influensere under gravferden",
+      "summary": "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til. Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer. Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
       "keyPoints": [
-        "Den nye oljeavtalen vil gjøre USA mindre interessert i demokrati i Venezuela, mener venezuelanere.",
-        "Ved å hevde at oljeavtalen vil få ned bensinprisene, er Trump ute etter å sanke stemmer i mellomvalget i USA i november, tror Venezuela-eksperten. – Trump sier for eksempel at avtalen innebærer at USA i praksis vil få eierskap til over 65 milliarder fat venezuelansk olje i 100 år.",
-        "Maxroberth Graterol er sterkt imot oljeavtalen mellom hjemlandet Venezuela og USA.",
-        "Avtalen gjør det langt mindre sannsynlig at Trump vil presse den venezuelanske ledelsen mot en overgang til demokratisk styre, mener Gunson. – Ingen demokratisk regjering i Venezuela ville ha undertegnet eller støttet en avtale som denne, sier han."
+        "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til.",
+        "Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+        "Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer.",
+        "En influenser som allerede bor der, har fått beskjed om å ikke poste noe om hotellet. – Ville det kommet mange bilder av influensere som ser på gravferd hvis dere hadde sluppet dem inn? – Ja, det ville vært."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/oljeavtalen-gjor-usa-mindre-interessert-i-demokrati-i-venezuela_-tror-eksperter-1.18015379",
+      "url": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2BJ4uJt-jf-8pRF7_XpNOAiIR-YTmyCtwbM9FR4zQpkw.jpg",
-      "localImage": "assets/news/080603efe6e8cf.jpg",
-      "score": 15
-    },
-    {
-      "id": "2f5179c557203a",
-      "category": "Norge",
-      "published": "07.09. 14:07",
-      "publishedISO": "2026-09-07T14:07:10+02:00",
-      "title": "Norge brukte store summer i Mosambik – så gikk virusalarmen",
-      "summary": "Norge har satset stort på utvikling av ferskvannsoppdrett på landsbygda i fattige Mosambik. Nasjonale myndigheter skulle eie anlegget, men finansiering de første årene, planlegging og bygging var et samarbeidsprosjekt mellom Mosambik, Norge og Island. Norges Vel sier de tok opp Høyums råd om å destruere fisken med myndighetene i Mosambik. – Myndighetene, som eier og driver Cepaq, var tydelige på at de krevde dokumentasjon og nye uavhengige tester før vi eventuelt gikk videre med destruksjon, sier Leif-Arne Kristiansen i Norges Vel.",
-      "keyPoints": [
-        "Norge har satset stort på utvikling av ferskvannsoppdrett på landsbygda i fattige Mosambik.",
-        "Norges Vel sier de tok opp Høyums råd om å destruere fisken med myndighetene i Mosambik. – Myndighetene, som eier og driver Cepaq, var tydelige på at de krevde dokumentasjon og nye uavhengige tester før vi eventuelt gikk videre med destruksjon, sier Leif-Arne Kristiansen i Norges Vel.",
-        "Nasjonale myndigheter skulle eie anlegget, men finansiering de første årene, planlegging og bygging var et samarbeidsprosjekt mellom Mosambik, Norge og Island.",
-        "Men jo mer bistandspenger Norge brukte på Cepaq-anlegget, desto mindre fisk produserte det."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/norge-brukte-store-summer-i-mosambik-_-sa-gikk-virusalarmen-1.17334998",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/TUhJEO5GDZ26JEw_ap4nhAFH5ikx-LNpIqVdUsaW_E3w.jpg",
-      "localImage": "assets/news/2f5179c557203a.jpg",
-      "score": 15
-    },
-    {
-      "id": "fc45a4755889ef",
-      "category": "Økonomi",
-      "published": "07.09. 13:40",
-      "publishedISO": "2026-09-07T13:40:55+02:00",
-      "title": "Bitcoin-tyveri på tre milliarder kroner",
-      "summary": "Den bitcoin-tilknyttede blokkjeden Liquid Network er rammet av et omfattende datainnbrudd, melder Bloomberg. Rundt 4.000 av totalt 4.200 bitcoin i nettverkets «lommebok» er stjålet. Det tilsvarer 2,96 milliarder kroner med dagens vekslingskurs.",
-      "keyPoints": [
-        "Det tilsvarer 2,96 milliarder kroner med dagens vekslingskurs.",
-        "Rundt 4.000 av totalt 4.200 bitcoin i nettverkets «lommebok» er stjålet.",
-        "Den bitcoin-tilknyttede blokkjeden Liquid Network er rammet av et omfattende datainnbrudd, melder Bloomberg.",
-        "Liquid ble startet av teknologiselskapet Blockstream i 2018."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/pBxxLV/bitcoin-tyveri-paa-tre-milliarder-kroner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6cc04f3f-e628-3d5b-beb7-7144ea7d01c5?fit=crop&h=675&upscale=true&w=1200&s=1ee135fec0d3c13e6b55f720452ddd7cc57999cb",
-      "localImage": "assets/news/fc45a4755889ef.jpg",
-      "score": 15
-    },
-    {
-      "id": "f22f7a581e380f",
-      "category": "Norge",
-      "published": "07.09. 11:40",
-      "publishedISO": "2026-09-07T11:40:01+02:00",
-      "title": "Slik påvirker kongens gravferd trafikken i Stor-Oslo",
-      "summary": "Kong Haralds gravferd får store konsekvenser for både fly- og biltrafikken inn til Oslo. Det største sikkerhetsopplegget i norsk historie er under oppseiling i forbindelse med kong Haralds gravferd. Det påvirker dem som skal ta seg fram i trafikken de neste dagene – og ikke bare i Oslo.",
-      "keyPoints": [
-        "Det påvirker dem som skal ta seg fram i trafikken de neste dagene – og ikke bare i Oslo.",
-        "Kong Haralds gravferd får store konsekvenser for både fly- og biltrafikken inn til Oslo.",
-        "Det største sikkerhetsopplegget i norsk historie er under oppseiling i forbindelse med kong Haralds gravferd.",
-        "Også SAS varsler at det vil komme endringer i trafikken onsdag. – Vi har tett og god dialog med Avinor rundt onsdagen, skriver SAS i en pressemelding."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/slik-pavirker-kongens-gravferd-trafikken-i-stor-oslo-1.18014154",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/8VOEgAjIbk4DB6sPUS4EcA6IASkb1tKgfggCHPNOA6EA.jpg",
-      "localImage": "assets/news/f22f7a581e380f.jpg",
+      "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
+      "localImage": "assets/news/76970fde9fe6ca.jpg",
       "score": 15
     }
   ]
