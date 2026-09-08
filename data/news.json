@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 19:54",
-  "updatedISO": "2026-09-08T19:54:36.068960+02:00",
+  "updatedAt": "08.09.2026 kl. 20:14",
+  "updatedISO": "2026-09-08T20:14:44.589093+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -151,6 +151,27 @@
       "score": 20
     },
     {
+      "id": "c9b49901872b09",
+      "category": "Norge",
+      "published": "08.09. 15:01",
+      "publishedISO": "2026-09-08T15:01:40+02:00",
+      "title": "Gjestene til gravferden begynner å ankomme",
+      "summary": "Like før klokken 20 landet det ukrainske regjeringsflyet på Oslo lufthavn. Tidligere på dagen begynte kongelige, statsoverhoder og andre viktige gjester å ankomme Oslo lufthavn. Blant gjestene som har ankommet tirsdag kveld er prins Alois og prinsesse Sofie fra Liechtenstein, det tidligere kronprinsparet av Jugoslavia, Sveits' tidligere president og Japans kronprinspar.",
+      "keyPoints": [
+        "Blant gjestene som har ankommet tirsdag kveld er prins Alois og prinsesse Sofie fra Liechtenstein, det tidligere kronprinsparet av Jugoslavia, Sveits' tidligere president og Japans kronprinspar.",
+        "Tidligere på dagen begynte kongelige, statsoverhoder og andre viktige gjester å ankomme Oslo lufthavn.",
+        "Like før klokken 20 landet det ukrainske regjeringsflyet på Oslo lufthavn.",
+        "Vi rapporterer fra Oslo lufthavn og Oslo sentrum Statsministerens kontor bekrefter at Ukrainas president er på plass i Oslo i anledning kong Haralds gravferd."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/gjestene-til-gravferden-begynner-a-ankomme-1.18017874",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/j6DVvSh2bie4RpgN0hk_CQx_TP3-El8O-3G1y6LO_N8g.jpg",
+      "localImage": "assets/news/c9b49901872b09.jpg",
+      "score": 20
+    },
+    {
       "id": "ef311e3c8f4d9a",
       "category": "Økonomi",
       "published": "08.09. 11:19",
@@ -190,27 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/874d/live/cea15540-aba1-11f1-aed2-8d6da8d75094.png",
       "localImage": "assets/news/1db21e6f71c44f.png",
-      "score": 17
-    },
-    {
-      "id": "c0cb2549594c6d",
-      "category": "Økonomi",
-      "published": "07.09. 09:01",
-      "publishedISO": "2026-09-07T09:01:28+02:00",
-      "title": "Panteaksjer stupte på Oslo Børs",
-      "summary": "Slik så det ut for noen av de mest omsatte aksjene: Shippingindeksen på Oslo Børs, som har steget kraftig i år, falt 1,8 prosent. Panteselskapene Tomra og Envipco falt kraftig på Oslo Børs, etter franske nyhetsmeldinger om at regjeringen dropper planer om å pålegge lokale myndigheter en panteordning. – Det ligger an til at det i stedet vil bli et frivllig lokalt system, sier analytiker Lars August Christensen i Fearnley Securities, som dekker Tomra-aksjen. Sport Outlet-eieren Outlet Group vil søke notering på Oslo Børs og hente inntil 500 millioner kroner.",
-      "keyPoints": [
-        "Slik så det ut for noen av de mest omsatte aksjene: Shippingindeksen på Oslo Børs, som har steget kraftig i år, falt 1,8 prosent.",
-        "Panteselskapene Tomra og Envipco falt kraftig på Oslo Børs, etter franske nyhetsmeldinger om at regjeringen dropper planer om å pålegge lokale myndigheter en panteordning. – Det ligger an til at det i stedet vil bli et frivllig lokalt system, sier analytiker Lars August Christensen i Fearnley Securities, som dekker Tomra-aksjen.",
-        "Sport Outlet-eieren Outlet Group vil søke notering på Oslo Børs og hente inntil 500 millioner kroner.",
-        "Der understrekes det også at nyheten er «klart negativ» for Envipco. «Vi har modellert en markedsandel på 30 prosent for Envipco i Frankrike, tilsvarende 170 millioner euro i inntekter, fordelt på 51 millioner euro mot slutten av 2028, 116 millioner euro i 2029 og 3 millioner euro i 2030», skriver meglerhuset."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Oke221/oslo-boers-aapner-opp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d6f8d8a9-ee92-3137-8910-faa7cde17e13?fit=crop&h=675&upscale=true&w=1200&s=9847b5c91a7f5d3b0ddfbd4eb4e856d603283c7f",
-      "localImage": "assets/news/c0cb2549594c6d.jpg",
       "score": 17
     }
   ]
