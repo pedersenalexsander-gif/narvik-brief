@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 07:11",
-  "updatedISO": "2026-09-08T07:11:19.168781+02:00",
+  "updatedAt": "08.09.2026 kl. 07:27",
+  "updatedISO": "2026-09-08T07:27:43.703106+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -14,7 +14,7 @@
         "NYE ANGREP: En redningsarbeider slokker brannen i en bygning etter et russisk rakettangrep i hovedstaden Kyiv i Ukraina tirsdag 8. september 2026 To personer er drept og ti er såret i russisk luftangrep mot Kyiv, opplyser myndighetene i Ukraina tidlig tirsdag morgen. – Hovedstaden er under angrep fra ballistiske missiler.",
         "Etter at amerikanske tjenestemenn besøkte Kyiv søndag, gjenopptok Russland angrep mot Ukrainas hovedstad i natt.",
         "Etter en tredagers pause gjenopptok Russland angrepene mot Ukrainas hovedstad Kyiv.",
-        "Russland satte angrepene mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøkte president Volodymyr Zelenskyj."
+        "Russland satte angrepene mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøk hos president Volodymyr Zelenskyj."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -169,27 +169,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/4W7sWwt1axfCazSaucPufQKJHCNkrXU1g2A8osEFxGBQ.jpg",
       "localImage": "assets/news/7eafc14875ba2d.jpg",
-      "score": 17
-    },
-    {
-      "id": "12291b568ee6fd",
-      "category": "Norge",
-      "published": "07.09. 21:17",
-      "publishedISO": "2026-09-07T21:17:11+02:00",
-      "title": "Politiet stenger deler av luftrommet over Østlandet tirsdag til torsdag",
-      "summary": "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det. Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem. Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
-      "keyPoints": [
-        "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det.",
-        "Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem.",
-        "Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
-        "Kong Haralds gravferd foregår i Oslo sentrum onsdag 9. september."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/politiet-stenger-deler-av-luftrommet-over-ostlandet-tirsdag-til-torsdag-1.18017256",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/12291b568ee6fd.jpg",
       "score": 16
     },
     {
@@ -212,6 +191,27 @@
       "image": "https://akamai.vgc.no/v2/images/bac907b2-90ea-3ce9-aca6-b821c80f3540?fit=crop&h=675&upscale=true&w=1200&s=e4e801b532fe15f88a6746c20219235e8748979e",
       "localImage": "assets/news/110daf58f61c0d.jpg",
       "score": 16
+    },
+    {
+      "id": "76970fde9fe6ca",
+      "category": "Norge",
+      "published": "07.09. 21:29",
+      "publishedISO": "2026-09-07T21:29:07+02:00",
+      "title": "Hotell sier nei til influensere under gravferden",
+      "summary": "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til. Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer. Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+      "keyPoints": [
+        "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til.",
+        "Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+        "Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer.",
+        "En influenser som allerede bor der, har fått beskjed om å ikke poste noe om hotellet. – Ville det kommet mange bilder av influensere som ser på gravferd hvis dere hadde sluppet dem inn? – Ja, det ville vært."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
+      "localImage": "assets/news/76970fde9fe6ca.jpg",
+      "score": 15
     }
   ]
 }
