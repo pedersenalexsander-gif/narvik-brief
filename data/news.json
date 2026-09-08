@@ -1,28 +1,28 @@
 {
-  "updatedAt": "08.09.2026 kl. 19:42",
-  "updatedISO": "2026-09-08T19:42:48.989428+02:00",
+  "updatedAt": "08.09.2026 kl. 19:54",
+  "updatedISO": "2026-09-08T19:54:36.068960+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "255a0e444afee0",
+      "id": "059067ec24bc2e",
       "category": "Nord-Norge",
-      "published": "08.09. 16:26",
-      "publishedISO": "2026-09-08T16:26:19+02:00",
-      "title": "Isak Dybvik Määttä forlenget med Glimt",
-      "summary": "To dager før Bodø/Glimt starter et nytt mesterligaeventyr, signerte Isak Dybvik Mättä en ny kontrakt med klubben. Han hadde kontrakt ut 2028-sesongen og har dermed bundet seg til Glimt i 18 måneder ekstra. – Jeg er veldig glad og stolt. jeg trives ekstremt godt i Glimt, så jeg er veldig glad for å ha fått dette på plass, sier Määttä til glimt.no. Torsdag innleder Glimt ligaspillet i mesterligaen med bortekamp mot Bayern München.",
+      "published": "08.09. 19:48",
+      "publishedISO": "2026-09-08T19:48:44+02:00",
+      "title": "Jamming hindrer kartlegging av Norge",
+      "summary": "Økende jamming i Nord-Norge hindrer Kartverket i å oppdatere kart over samfunnskritisk infrastruktur. I områder som Sør-Varanger og Varangerhalvøya har forstyrrelser av satellittsignaler (GNSS) gjort at flyfotografering og kartlegging har måtte innstilles. – Når vi ikke får gjennomført flyfotografering, får vi heller ikke oppdatert kartene våre slik vi skal. Her skal et område fotograferes og laserskannes under normale forhold 12.–13. september, før det flys over samme område under simulert jamming og spoofing (manipulering av posisjon og tid) 14.–15. september.",
       "keyPoints": [
-        "To dager før Bodø/Glimt starter et nytt mesterligaeventyr, signerte Isak Dybvik Mättä en ny kontrakt med klubben.",
-        "Han hadde kontrakt ut 2028-sesongen og har dermed bundet seg til Glimt i 18 måneder ekstra. – Jeg er veldig glad og stolt. jeg trives ekstremt godt i Glimt, så jeg er veldig glad for å ha fått dette på plass, sier Määttä til glimt.no.",
-        "Torsdag innleder Glimt ligaspillet i mesterligaen med bortekamp mot Bayern München.",
-        "Det trives han godt med. – Jeg føler meg ønsket og jeg har fått jobbet godt over tid."
+        "Økende jamming i Nord-Norge hindrer Kartverket i å oppdatere kart over samfunnskritisk infrastruktur.",
+        "Her skal et område fotograferes og laserskannes under normale forhold 12.–13. september, før det flys over samme område under simulert jamming og spoofing (manipulering av posisjon og tid) 14.–15. september.",
+        "I områder som Sør-Varanger og Varangerhalvøya har forstyrrelser av satellittsignaler (GNSS) gjort at flyfotografering og kartlegging har måtte innstilles. – Når vi ikke får gjennomført flyfotografering, får vi heller ikke oppdatert kartene våre slik vi skal.",
+        "For å finne løsninger skal Kartverket gjennomføre testflyvninger under Jammertest 2026 på Bleik på Andøya 14.–18. september."
       ],
       "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/isak-dybvik-maatta-forlenget-med-glimt-1.18018165",
+      "url": "https://www.nrk.no/nordland/jamming-hindrer-kartlegging-av-norge-1.18018288",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_QLufFXKs8Db5OSWesmZnQ5DnPCWYHzXS7kbW48Joxpg.jpg",
-      "localImage": "assets/news/255a0e444afee0.jpg",
-      "score": 13
+      "image": "https://gfx.nrk.no/3y_81EUTjou7VntUGKC5iAS6pypF_gvNVgKxcrKT89PA.jpg",
+      "localImage": "assets/news/059067ec24bc2e.jpg",
+      "score": 17
     },
     {
       "id": "a8eca5c2feeaae",
@@ -55,8 +55,8 @@
       "keyPoints": [
         "Bygningen i Kiev som huser den ukrainske TV-kanalen We are Ukraine kollapset delvis etter den russiske streiken En russisk drone har truffet en ukrainsk TV-kanals hovedkvarter i Kiev, og skadet minst fem personer mens journalister sendte direkte, har president Volodymyr Zelensky sagt.",
         "Kyiv-beboere tok ly på underjordiske metrostasjoner under russiske drone- og missilangrep natten over En rekke eksplosjoner over Ukrainas hovedstad drepte tre mennesker og skadet ytterligere 25, sa den statlige nødtjenesten DSNS.",
-        "Med henvisning til tirsdagens russiske droneangrep på den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland et streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
-        "Minst fem mennesker er drept i russiske angrep på Kiev natt til og dag."
+        "Med henvisning til tirsdagens russiske droneangrep mot den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland en streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
+        "Minst fem mennesker er drept i russiske angrep på Kiev over natten og dagtid."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -182,7 +182,7 @@
         "Se: President Trump legger ut redigert video av kong Charles USAs president Donald Trump har delt en villedende video på sosiale medier som ser ut til å vise kong Charles som trekker på skuldrene og går bort fra en mann som besvimte under et kongelig besøk.",
         "Videoen lagt ut av Trump redigerer kongen som holder seg nær arbeideren.",
         "Trump har ofte snakket om sitt gode forhold til Charles og beskrevet ham som «den største kongen i min bok» på slutten av kongen og dronningens statsbesøk til USA i april.",
-        "Klippet av kongen ble hentet fra en lengre video da han som prins av Wales besøkte et distribusjonssenter i et Asda-supermarked i Bristol under Covid-pandemien i juli 2020."
+        "Klippet av kongen ble hentet fra en lengre video da han som Prince of Wales besøkte et Asda-supermarkedsdistribusjonssenter i Bristol under Covid-pandemien i juli 2020."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
