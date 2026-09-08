@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 21:13",
-  "updatedISO": "2026-09-08T21:13:55.720710+02:00",
+  "updatedAt": "08.09.2026 kl. 21:28",
+  "updatedISO": "2026-09-08T21:28:31.834842+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -55,8 +55,8 @@
       "keyPoints": [
         "Bygningen i Kiev som huser den ukrainske TV-kanalen We are Ukraine kollapset delvis etter den russiske streiken En russisk drone har truffet en ukrainsk TV-kanals hovedkvarter i Kiev, og skadet minst fem personer mens journalister sendte direkte, har president Volodymyr Zelensky sagt.",
         "Kyiv-beboere tok ly på underjordiske metrostasjoner under russiske drone- og missilangrep natten over En rekke eksplosjoner over Ukrainas hovedstad drepte tre mennesker og skadet ytterligere 25, sa den statlige nødtjenesten DSNS.",
-        "Med henvisning til tirsdagens russiske droneangrep mot den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland en streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
-        "Minst fem mennesker er drept i russiske angrep på Kiev over natten og dagtid."
+        "Med henvisning til tirsdagens russiske droneangrep på den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland et streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
+        "Minst fem mennesker er drept i russiske angrep på Kiev natt til og dag."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/296d2ee1-883a-35f8-8191-5e053c4e5584?fit=crop&h=675&upscale=true&w=1200&s=342e479873fc3bd04f9f412b89c6df7bff0c8ec2",
       "localImage": "assets/news/4812888a33d1cc.jpg",
-      "score": 26
+      "score": 25
     },
     {
       "id": "92044443dbfff2",
@@ -172,6 +172,27 @@
       "score": 19
     },
     {
+      "id": "1db21e6f71c44f",
+      "category": "USA",
+      "published": "08.09. 18:31",
+      "publishedISO": "2026-09-08T18:31:16+02:00",
+      "title": "Donald Trump shares misleading video of King Charles and fainting worker",
+      "summary": "Se: President Trump legger ut redigert video av kong Charles USAs president Donald Trump har delt en villedende video på sosiale medier som ser ut til å vise kong Charles som trekker på skuldrene og går bort fra en mann som besvimte under et kongelig besøk. Videoen lagt ut av Trump redigerer kongen som holder seg nær arbeideren. Trump har ofte snakket om sitt gode forhold til Charles og beskrevet ham som «den største kongen i min bok» på slutten av kongen og dronningens statsbesøk til USA i april.",
+      "keyPoints": [
+        "Se: President Trump legger ut redigert video av kong Charles USAs president Donald Trump har delt en villedende video på sosiale medier som ser ut til å vise kong Charles som trekker på skuldrene og går bort fra en mann som besvimte under et kongelig besøk.",
+        "Videoen lagt ut av Trump redigerer kongen som holder seg nær arbeideren.",
+        "Trump har ofte snakket om sitt gode forhold til Charles og beskrevet ham som «den største kongen i min bok» på slutten av kongen og dronningens statsbesøk til USA i april.",
+        "Klippet av kongen ble hentet fra en lengre video da han som prins av Wales besøkte et distribusjonssenter i et Asda-supermarked i Bristol under Covid-pandemien i juli 2020."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/874d/live/cea15540-aba1-11f1-aed2-8d6da8d75094.png",
+      "localImage": "assets/news/1db21e6f71c44f.png",
+      "score": 17
+    },
+    {
       "id": "ef311e3c8f4d9a",
       "category": "Økonomi",
       "published": "08.09. 11:19",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/cf3cb61b-260b-3658-901d-59c34a35d5af?fit=crop&h=675&upscale=true&w=1200&s=2beff010a19422269f95e426325fd76756cdd25b",
       "localImage": "assets/news/ef311e3c8f4d9a.jpg",
-      "score": 18
-    },
-    {
-      "id": "1db21e6f71c44f",
-      "category": "USA",
-      "published": "08.09. 18:31",
-      "publishedISO": "2026-09-08T18:31:16+02:00",
-      "title": "Donald Trump shares misleading video of King Charles and fainting worker",
-      "summary": "Se: President Trump legger ut redigert video av kong Charles USAs president Donald Trump har delt en villedende video på sosiale medier som ser ut til å vise kong Charles som trekker på skuldrene og går bort fra en mann som besvimte under et kongelig besøk. Videoen lagt ut av Trump redigerer kongen som holder seg nær arbeideren. Trump har ofte snakket om sitt gode forhold til Charles og beskrevet ham som «den største kongen i min bok» på slutten av kongen og dronningens statsbesøk til USA i april.",
-      "keyPoints": [
-        "Se: President Trump legger ut redigert video av kong Charles USAs president Donald Trump har delt en villedende video på sosiale medier som ser ut til å vise kong Charles som trekker på skuldrene og går bort fra en mann som besvimte under et kongelig besøk.",
-        "Videoen lagt ut av Trump redigerer kongen som holder seg nær arbeideren.",
-        "Trump har ofte snakket om sitt gode forhold til Charles og beskrevet ham som «den største kongen i min bok» på slutten av kongen og dronningens statsbesøk til USA i april.",
-        "Klippet av kongen ble hentet fra en lengre video da han som Prince of Wales besøkte et Asda-supermarkedsdistribusjonssenter i Bristol under Covid-pandemien i juli 2020."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z9n8ew49o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/874d/live/cea15540-aba1-11f1-aed2-8d6da8d75094.png",
-      "localImage": "assets/news/1db21e6f71c44f.png",
       "score": 17
     }
   ]
