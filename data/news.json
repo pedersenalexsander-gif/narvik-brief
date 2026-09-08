@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 15:32",
-  "updatedISO": "2026-09-08T15:32:39.475362+02:00",
+  "updatedAt": "08.09.2026 kl. 15:55",
+  "updatedISO": "2026-09-08T15:55:37.885020+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,25 +67,25 @@
       "score": 27
     },
     {
-      "id": "ef311e3c8f4d9a",
+      "id": "e21a52a58775ca",
       "category": "Økonomi",
-      "published": "08.09. 11:19",
-      "publishedISO": "2026-09-08T11:19:10+02:00",
-      "title": "Oljeprisen nærmer seg 100 dollar",
-      "summary": "Tirsdag er oljeprisen (brent spot) 98,6 dollar fatet ved 14-tiden, opp 1,4 prosent for dagen. Begge deler er opp 5 dollar fra tidligere anslag. – Markedene priser i større grad inn en langvarig konflikt i Midtøsten, skriver Goldman Sachs-analytikerne i notatet, ifølge Bloomberg. – Usikkerheten rundt prisanslaget vårt heller fremdeles betydelig mot oppsiden, påpeker de videre. Dersom angrep mot skip i Midtøsten øker kan oljeprisen øke til så mye som 120 dollar, sa Goldman Sachs-analytiker Daan Struyven i et tv-intervju med Bloomberg.",
+      "published": "08.09. 15:33",
+      "publishedISO": "2026-09-08T15:33:09+02:00",
+      "title": "Wall Street tynges etter langhelg",
+      "summary": "Wall Street begynner uken senere enn vanlig, etter at det var stengt på fridagen Labor Day mandag. Slik ligger det an like etter åpning tirsdag: Aksjen til tek-giganten Qualcomm, en viktig leverandør av brikker til mobiltelefoner, hopper 5,9 prosent i tidlig handel. Den ligger på 98,1 dollar fatet rundt åpningstid på Wall Street, opp 0,8 prosent siden midnatt.",
       "keyPoints": [
-        "Tirsdag er oljeprisen (brent spot) 98,6 dollar fatet ved 14-tiden, opp 1,4 prosent for dagen.",
-        "Dersom angrep mot skip i Midtøsten øker kan oljeprisen øke til så mye som 120 dollar, sa Goldman Sachs-analytiker Daan Struyven i et tv-intervju med Bloomberg.",
-        "Begge deler er opp 5 dollar fra tidligere anslag. – Markedene priser i større grad inn en langvarig konflikt i Midtøsten, skriver Goldman Sachs-analytikerne i notatet, ifølge Bloomberg. – Usikkerheten rundt prisanslaget vårt heller fremdeles betydelig mot oppsiden, påpeker de videre.",
-        "Spådommen for brent-prisen er nå 85 dollar fatet i desember i år, og 80 dollar for 2027."
+        "Den ligger på 98,1 dollar fatet rundt åpningstid på Wall Street, opp 0,8 prosent siden midnatt.",
+        "Wall Street begynner uken senere enn vanlig, etter at det var stengt på fridagen Labor Day mandag.",
+        "Slik ligger det an like etter åpning tirsdag: Aksjen til tek-giganten Qualcomm, en viktig leverandør av brikker til mobiltelefoner, hopper 5,9 prosent i tidlig handel.",
+        "USA-børsene faller etter at oljeprisen nærmer seg 100 dollar."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/bO6bjg/oljeprisen-naermer-seg-100-dollar",
+      "url": "https://e24.no/boers-og-finans/i/7poGQK/wall-street-tynges-etter-langhelg-brikkegigant-bykser-etter-amazon-avtale",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/cf3cb61b-260b-3658-901d-59c34a35d5af?fit=crop&h=675&upscale=true&w=1200&s=2beff010a19422269f95e426325fd76756cdd25b",
-      "localImage": "assets/news/ef311e3c8f4d9a.jpg",
-      "score": 19
+      "image": "https://akamai.vgc.no/v2/images/29fbab33-81a5-3a8c-b8f0-0bc893d819de?fit=crop&h=675&upscale=true&w=1200&s=2b476e06ec846696ef9bd163f3d071ae9986702e",
+      "localImage": "assets/news/e21a52a58775ca.jpg",
+      "score": 20
     },
     {
       "id": "e7ee903b999efd",
@@ -107,6 +107,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
       "localImage": "assets/news/e7ee903b999efd.jpg",
       "score": 13
+    },
+    {
+      "id": "ef311e3c8f4d9a",
+      "category": "Økonomi",
+      "published": "08.09. 11:19",
+      "publishedISO": "2026-09-08T11:19:10+02:00",
+      "title": "Oljeprisen nærmer seg 100 dollar",
+      "summary": "Tirsdag er oljeprisen (brent spot) 98,6 dollar fatet ved 14-tiden, opp 1,4 prosent for dagen. Begge deler er opp 5 dollar fra tidligere anslag. – Markedene priser i større grad inn en langvarig konflikt i Midtøsten, skriver Goldman Sachs-analytikerne i notatet, ifølge Bloomberg. – Usikkerheten rundt prisanslaget vårt heller fremdeles betydelig mot oppsiden, påpeker de videre. Dersom angrep mot skip i Midtøsten øker kan oljeprisen øke til så mye som 120 dollar, sa Goldman Sachs-analytiker Daan Struyven i et tv-intervju med Bloomberg.",
+      "keyPoints": [
+        "Tirsdag er oljeprisen (brent spot) 98,6 dollar fatet ved 14-tiden, opp 1,4 prosent for dagen.",
+        "Dersom angrep mot skip i Midtøsten øker kan oljeprisen øke til så mye som 120 dollar, sa Goldman Sachs-analytiker Daan Struyven i et tv-intervju med Bloomberg.",
+        "Begge deler er opp 5 dollar fra tidligere anslag. – Markedene priser i større grad inn en langvarig konflikt i Midtøsten, skriver Goldman Sachs-analytikerne i notatet, ifølge Bloomberg. – Usikkerheten rundt prisanslaget vårt heller fremdeles betydelig mot oppsiden, påpeker de videre.",
+        "Spådommen for brent-prisen er nå 85 dollar fatet i desember i år, og 80 dollar for 2027."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/bO6bjg/oljeprisen-naermer-seg-100-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/cf3cb61b-260b-3658-901d-59c34a35d5af?fit=crop&h=675&upscale=true&w=1200&s=2beff010a19422269f95e426325fd76756cdd25b",
+      "localImage": "assets/news/ef311e3c8f4d9a.jpg",
+      "score": 19
     },
     {
       "id": "c0cb2549594c6d",
@@ -169,7 +190,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6735/live/dba2ee20-ab1f-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/f675d6d90800bf.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "f4c05efa593bd5",
@@ -191,27 +212,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
       "localImage": "assets/news/f4c05efa593bd5.jpg",
       "score": 15
-    },
-    {
-      "id": "12291b568ee6fd",
-      "category": "Norge",
-      "published": "07.09. 21:17",
-      "publishedISO": "2026-09-07T21:17:11+02:00",
-      "title": "Politiet stenger deler av luftrommet over Østlandet tirsdag til torsdag",
-      "summary": "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det. Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem. Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
-      "keyPoints": [
-        "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det.",
-        "Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem.",
-        "Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
-        "Kong Haralds gravferd foregår i Oslo sentrum onsdag 9. september."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/politiet-stenger-deler-av-luftrommet-over-ostlandet-tirsdag-til-torsdag-1.18017256",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/12291b568ee6fd.jpg",
-      "score": 14
     }
   ]
 }
