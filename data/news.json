@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 07:56",
-  "updatedISO": "2026-09-08T07:56:48.794931+02:00",
+  "updatedAt": "08.09.2026 kl. 08:16",
+  "updatedISO": "2026-09-08T08:16:57.818244+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -130,6 +130,27 @@
       "score": 14
     },
     {
+      "id": "fec5fe538d8184",
+      "category": "Økonomi",
+      "published": "08.09. 07:57",
+      "publishedISO": "2026-09-08T07:57:56+02:00",
+      "title": "Bidens sønn lanserer kryptovaluta med beryktet laptop",
+      "summary": "Hunter Bidens (56) nye memecoin gir et tydelig stikk til Trump-familiens kryptosatsing. Navnet på Bidens meme coinDigitale valutaer basert på internettvitser som ofte blir populære raskt, men kan miste verdi like fort. er $LAPTOP og skal slippes i markedet onsdag, skriver Wall Street Journal (WSJ). Denne nådde en total markedsverdiDen totale verdien av alle mynter eller aksjer i et marked, basert på gjeldende pris. på nesten 15 milliarder dollar før den kollapset og falt til rundt 600 millioner dollar, ifølge WSJ.",
+      "keyPoints": [
+        "Navnet på Bidens meme coinDigitale valutaer basert på internettvitser som ofte blir populære raskt, men kan miste verdi like fort. er $LAPTOP og skal slippes i markedet onsdag, skriver Wall Street Journal (WSJ).",
+        "Hunter Bidens (56) nye memecoin gir et tydelig stikk til Trump-familiens kryptosatsing.",
+        "Denne nådde en total markedsverdiDen totale verdien av alle mynter eller aksjer i et marked, basert på gjeldende pris. på nesten 15 milliarder dollar før den kollapset og falt til rundt 600 millioner dollar, ifølge WSJ.",
+        "Biden og de andre som står bak den nye coinen, skal sitte på 30 prosent av de én milliard myntene som utstedes, får WSJ opplyst av kilder."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/8pVodw/bidens-soenn-lanserer-kryptovaluta-med-beryktet-laptop",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/bc817dcc-0191-379d-9e59-fc0bad16026e?fit=crop&h=675&upscale=true&w=1200&s=bc67539f674d8c6dcccba50c4304d8ea548c6442",
+      "localImage": "assets/news/fec5fe538d8184.jpg",
+      "score": 17
+    },
+    {
       "id": "f4c05efa593bd5",
       "category": "Verden",
       "published": "08.09. 02:48",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/y6MVa8y8-Bwc1ZfQf8Q1DAxgvF6BhqZQk6-N93SrhZnQ.jpg",
       "localImage": "assets/news/81ebcce4549fe7.jpg",
-      "score": 15
-    },
-    {
-      "id": "54c3b7a184a7e3",
-      "category": "Norge",
-      "published": "07.09. 20:45",
-      "publishedISO": "2026-09-07T20:45:02+02:00",
-      "title": "Stavanger universitetssjukehus (SUS) henter ekstern hjelp fra Deloitte for å kutte i antall pleiere",
-      "summary": "Sykepleier Synne Pedersen forteller om travle og gode dager på jobb på Stavanger universitetssjukehus (SUS). – Jeg er urolig. Vi tåler ganske enkelt ikke kutt i bemanningen, sier sykepleier Synne Pedersen ved Stavanger universitetssjukehus (SUS). Sykepleier Synne Pedersen ved Stavanger universitetssjukehus (SU) opplever travle dager.",
-      "keyPoints": [
-        "Vi tåler ganske enkelt ikke kutt i bemanningen, sier sykepleier Synne Pedersen ved Stavanger universitetssjukehus (SUS).",
-        "Sykepleier Synne Pedersen forteller om travle og gode dager på jobb på Stavanger universitetssjukehus (SUS). – Jeg er urolig.",
-        "Deloitte-konsulenter skal undersøke om sengepostene klarer seg med færre pleiere på vakt. – Vil gå direkte utover pasientsikkerheten, sier sykepleier.",
-        "Årlig må SUS ut med over en halv milliard kroner i renter og avdrag på lånet til 12 milliarder kroner for å bygge nytt sykehusbygg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/stavanger-universitetssjukehus-_sus_-henter-ekstern-hjelp-fra-deloitte-for-a-kutte-i-antall-pleiere-1.18010075",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/y6MVa8y8-Bwc1ZfQf8Q1DAxgvF6BhqZQk6-N93SrhZnQ.jpg",
-      "localImage": "assets/news/54c3b7a184a7e3.jpg",
       "score": 15
     }
   ]
