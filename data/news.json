@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 06:29",
-  "updatedISO": "2026-09-08T06:29:25.452176+02:00",
+  "updatedAt": "08.09.2026 kl. 06:45",
+  "updatedISO": "2026-09-08T06:45:41.431351+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,12 +9,12 @@
       "published": "08.09. 05:09",
       "publishedISO": "2026-09-08T05:09:03+02:00",
       "title": "To drept i nye rakett- og missilangrep i Kyiv",
-      "summary": "Etter at amerikanske tjenestemenn besøkte Kyiv søndag gjenopptok Russland angrep mot Ukrainas hovedstad Kyiv i natt. NYE ANGREP: En redningsarbeider slokker brannen i en bygning etter et russisk rakettangrep i hovedstaden Kyiv i Ukraina tirsdag 8. september 2026 To personer er drept og sju er såret i russisk luftangrep mot Kyiv, opplyser myndighetene i Ukraina tidlig tirsdag morgen. – Hovedstaden er under angrep fra ballistiske missiler. Etter en tredagers pause gjenopptok Russland angrepene mot Ukrainas hovedstad Kyiv.",
+      "summary": "Etter at amerikanske tjenestemenn besøkte Kyiv søndag, gjenopptok Russland angrep mot Ukrainas hovedstad i natt. NYE ANGREP: En redningsarbeider slokker brannen i en bygning etter et russisk rakettangrep i hovedstaden Kyiv i Ukraina tirsdag 8. september 2026 To personer er drept og sju er såret i russisk luftangrep mot Kyiv, opplyser myndighetene i Ukraina tidlig tirsdag morgen. – Hovedstaden er under angrep fra ballistiske missiler. Etter en tredagers pause gjenopptok Russland angrepene mot Ukrainas hovedstad Kyiv.",
       "keyPoints": [
         "NYE ANGREP: En redningsarbeider slokker brannen i en bygning etter et russisk rakettangrep i hovedstaden Kyiv i Ukraina tirsdag 8. september 2026 To personer er drept og sju er såret i russisk luftangrep mot Kyiv, opplyser myndighetene i Ukraina tidlig tirsdag morgen. – Hovedstaden er under angrep fra ballistiske missiler.",
-        "Etter at amerikanske tjenestemenn besøkte Kyiv søndag gjenopptok Russland angrep mot Ukrainas hovedstad Kyiv i natt.",
+        "Etter at amerikanske tjenestemenn besøkte Kyiv søndag, gjenopptok Russland angrep mot Ukrainas hovedstad i natt.",
         "Etter en tredagers pause gjenopptok Russland angrepene mot Ukrainas hovedstad Kyiv.",
-        "Russland satt angrepene mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøkte president Volodymyr Zelenskyj."
+        "Russland satte angrepene mot Kyiv på pause i tre døgn i helgen i forbindelse med de amerikanske utsendingene Steve Witkoff og Jared Kushners besøkte president Volodymyr Zelenskyj."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -44,27 +44,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6735/live/dba2ee20-ab1f-11f1-a291-b542ee92de7c.jpg",
       "localImage": "assets/news/f675d6d90800bf.jpg",
       "score": 17
-    },
-    {
-      "id": "d4b7638884ff5f",
-      "category": "USA",
-      "published": "07.09. 20:42",
-      "publishedISO": "2026-09-07T20:42:31+02:00",
-      "title": "Pilot killed in small plane crash near regional airport in Florida",
-      "summary": "Piloten til et lite fly ble drept etter at enmotorsflyet styrtet nær Space Coast Regional Airport i Titusville, Florida, sa tjenestemenn mandag. Ulykken kommer mindre enn 24 timer etter at et Amazon-lastefly overskred rullebanen på Miami International Airport. Fem mennesker ble drept og fem andre ble alvorlig skadet da flyet, en Boeing 767-300, brøytet over en vei utenfor rullebanen og traff flere kjøretøy på bakken.",
-      "keyPoints": [
-        "Piloten til et lite fly ble drept etter at enmotorsflyet styrtet nær Space Coast Regional Airport i Titusville, Florida, sa tjenestemenn mandag.",
-        "Ulykken kommer mindre enn 24 timer etter at et Amazon-lastefly overskred rullebanen på Miami International Airport.",
-        "Fem mennesker ble drept og fem andre ble alvorlig skadet da flyet, en Boeing 767-300, brøytet over en vei utenfor rullebanen og traff flere kjøretøy på bakken.",
-        "På grunn av \"krasjens natur\" har tjenestemenn ennå ikke klart å identifisere piloten, sa brannvesenet."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c33k5m1zdemo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7947/live/eaa88b30-aadb-11f1-aa35-df10e5ff32f4.jpg",
-      "localImage": "assets/news/d4b7638884ff5f.jpg",
-      "score": 12
     },
     {
       "id": "4812888a33d1cc",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/12291b568ee6fd.jpg",
+      "score": 16
+    },
+    {
+      "id": "110daf58f61c0d",
+      "category": "Økonomi",
+      "published": "06.09. 20:38",
+      "publishedISO": "2026-09-06T20:38:57+02:00",
+      "title": "Ett tall kan avgjøre rentehøsten",
+      "summary": "Norges Bank trodde i august at inflasjonen vil gjøre det nødvendig å sette opp renten på et av de nærmeste rentemøteneNeste rentemøte er 24. september. Sentralbankens prognose er 3,3 prosent. – Hvis kjerneinflasjonen kommer inn høyere enn det de venter, kan det rettferdiggjøre en renteheving i september. Sjeføkonom Frank Jullum i Danske Bank mener utfallet av rentemøtet i september kan leses ganske direkte ut fra torsdagens tall. – Det blir nesten helt avgjørende.",
+      "keyPoints": [
+        "Sjeføkonom Frank Jullum i Danske Bank mener utfallet av rentemøtet i september kan leses ganske direkte ut fra torsdagens tall. – Det blir nesten helt avgjørende.",
+        "Sentralbankens prognose er 3,3 prosent. – Hvis kjerneinflasjonen kommer inn høyere enn det de venter, kan det rettferdiggjøre en renteheving i september.",
+        "Norges Bank trodde i august at inflasjonen vil gjøre det nødvendig å sette opp renten på et av de nærmeste rentemøteneNeste rentemøte er 24. september.",
+        "Kommer den på 3,3 prosent eller høyere, blir det renteøkning, sier Jullum. – Kommer den på 3,1–3,2 prosent, blir det mer tvil."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/7po4jB/ett-tall-kan-avgjoere-rentehoesten",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/bac907b2-90ea-3ce9-aca6-b821c80f3540?fit=crop&h=675&upscale=true&w=1200&s=e4e801b532fe15f88a6746c20219235e8748979e",
+      "localImage": "assets/news/110daf58f61c0d.jpg",
       "score": 16
     }
   ]
