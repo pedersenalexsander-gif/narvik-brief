@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 01:26",
-  "updatedISO": "2026-09-09T01:26:01.963129+02:00",
+  "updatedAt": "09.09.2026 kl. 01:39",
+  "updatedISO": "2026-09-09T01:39:28.522107+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -30,11 +30,11 @@
       "published": "09.09. 00:43",
       "publishedISO": "2026-09-09T00:43:22+02:00",
       "title": "USA angrep iranske oljetankere",
-      "summary": "Amerikanske styrker har ødelagt fem iranske oljetankere den 8. september. Angrepet skjedde etter at den iranske revolusjonsgarden angrep et amerikansk krigsskip med ballistiske missiler to ganger i løpet av de siste to dagene. – Hver gang Iran prøver å treffe USAs militærskip, vil de miste oljetankere, advarer USAs utenriksminister Marco Rubio. Det foreligger ingen umiddelbar bekreftelse fra Jordan, melder iranske statlige medier Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
+      "summary": "Amerikanske styrker har ødelagt fem iranske oljetankere den 8. september. Angrepet skjedde etter at den iranske revolusjonsgarden angrep et amerikansk krigsskip med ballistiske missiler to ganger i løpet av de siste to dagene. – Hver gang Iran prøver å treffe USAs militærskip, vil de miste oljetankere, advarer USAs utenriksminister Marco Rubio. Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
       "keyPoints": [
-        "Det foreligger ingen umiddelbar bekreftelse fra Jordan, melder iranske statlige medier Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
         "Angrepet skjedde etter at den iranske revolusjonsgarden angrep et amerikansk krigsskip med ballistiske missiler to ganger i løpet av de siste to dagene. – Hver gang Iran prøver å treffe USAs militærskip, vil de miste oljetankere, advarer USAs utenriksminister Marco Rubio.",
         "Amerikanske styrker har ødelagt fem iranske oljetankere den 8. september.",
+        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
         "Den iranske revolusjonsgarden sier de har angrepet det de beskriver som en amerikansk base i Jordan."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
@@ -55,7 +55,7 @@
       "keyPoints": [
         "Bygningen i Kiev som huser den ukrainske TV-kanalen We are Ukraine kollapset delvis etter den russiske streiken En russisk drone har truffet en ukrainsk TV-kanals hovedkvarter i Kiev, og skadet minst fem personer mens journalister sendte direkte, har president Volodymyr Zelensky sagt.",
         "Kyiv-beboere tok ly på underjordiske metrostasjoner under russiske drone- og missilangrep natten over En rekke eksplosjoner over Ukrainas hovedstad drepte tre mennesker og skadet ytterligere 25, sa den statlige nødtjenesten DSNS.",
-        "Med henvisning til tirsdagens russiske droneangrep mot den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland en streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
+        "Med henvisning til tirsdagens russiske droneangrep på den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland et streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
         "Minst fem mennesker er drept i russiske angrep på Kiev natt til og dag."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
@@ -151,6 +151,27 @@
       "score": 22
     },
     {
+      "id": "ada4c09fdf463c",
+      "category": "AI",
+      "published": "09.09. 01:27",
+      "publishedISO": "2026-09-09T01:27:23+02:00",
+      "title": "Meta continues to run ads promoting child sexual abuse material in India: report",
+      "summary": "Tech Transparency Project (TTP) sier det fant 332 annonser med CSAM som kjørte på Facebook og Instagram Advarsel: Denne historien inneholder beskrivelser av overgrep Meta kjørte hundrevis av betalte annonser med kunstig intelligens-genererte bilder av seksuelt misbruk av barn, inkludert flere i India, i løpet av de siste 10 månedene, har en ny rapport fra USA-baserte kampanjer funnet. Rapporten kommer to måneder etter at den indiske regjeringen beordret Meta til å fjerne alle annonser og innhold som promoterer materiale om seksuelle overgrep mot barn (CSAM) på Instagram. Da BBC brukte Metas rapporteringssystem for å rapportere en av annonsene med seksuelle overgrep mot barn til Instagram, tok ikke plattformen den ned.",
+      "keyPoints": [
+        "Rapporten kommer to måneder etter at den indiske regjeringen beordret Meta til å fjerne alle annonser og innhold som promoterer materiale om seksuelle overgrep mot barn (CSAM) på Instagram.",
+        "Tech Transparency Project (TTP) sier det fant 332 annonser med CSAM som kjørte på Facebook og Instagram Advarsel: Denne historien inneholder beskrivelser av overgrep Meta kjørte hundrevis av betalte annonser med kunstig intelligens-genererte bilder av seksuelt misbruk av barn, inkludert flere i India, i løpet av de siste 10 månedene, har en ny rapport fra USA-baserte kampanjer funnet.",
+        "Da BBC brukte Metas rapporteringssystem for å rapportere en av annonsene med seksuelle overgrep mot barn til Instagram, tok ikke plattformen den ned.",
+        "TTP sa at de prøvde å rapportere annonser via Metas eget rapporteringssystem, og at av de 84 annonsene som kjørte i India, kunne de rapportere 55."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg",
+      "localImage": "assets/news/ada4c09fdf463c.jpg",
+      "score": 17
+    },
+    {
       "id": "81544c31a30df8",
       "category": "Norge",
       "published": "08.09. 21:40",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/5b-Y48k6TDJeTXiG238bWQiyKCFrTkczb7NqwBdIIsWA.jpg",
       "localImage": "assets/news/a8eca5c2feeaae.jpg",
-      "score": 19
-    },
-    {
-      "id": "090482abc41cc1",
-      "category": "Norge",
-      "published": "08.09. 18:00",
-      "publishedISO": "2026-09-08T18:00:03+02:00",
-      "title": "Handelsbanken spår renteheving i september og høyere normalt rentenivå",
-      "summary": "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken. Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover. Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
-      "keyPoints": [
-        "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken.",
-        "Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover.",
-        "Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
-        "Og rentenivået vil legge seg på et høyere nivå enn tidligere antatt, spår banken."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/handelsbanken-spar-renteheving-i-september-og-hoyere-normalt-renteniva-1.18017595",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5b-Y48k6TDJeTXiG238bWQiyKCFrTkczb7NqwBdIIsWA.jpg",
-      "localImage": "assets/news/090482abc41cc1.jpg",
       "score": 19
     }
   ]
