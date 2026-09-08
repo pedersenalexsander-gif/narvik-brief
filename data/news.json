@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 00:42",
-  "updatedISO": "2026-09-09T00:42:21.710651+02:00",
+  "updatedAt": "09.09.2026 kl. 00:53",
+  "updatedISO": "2026-09-09T00:53:43.891308+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3y_81EUTjou7VntUGKC5iAS6pypF_gvNVgKxcrKT89PA.jpg",
       "localImage": "assets/news/059067ec24bc2e.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "81544c31a30df8",
+      "id": "4d365891d6ebc7",
       "category": "Norge",
-      "published": "08.09. 21:40",
-      "publishedISO": "2026-09-08T21:40:10+02:00",
-      "title": "Iransk nyhetsbyrå: Iransk tankskip skal være angrepet",
-      "summary": "Et iransk tankskip skal være angrepet av amerikanske styrker, ifølge nyhetsbyrået Tasmin. Angrepet skal ha skjedd utenfor Kharg-øya, og skal ifølge meldingen være truffet av et amerikansk prosjektil. Ingen skal være drept i angrepet, og mannskapet er evakuert. – Lyden av flere eksplosjoner kunne høres på deler av Kharg-øya for noen minutter siden, het det i en tidligere melding fra det statstilknyttede nyhetsbyrået Mehr.",
+      "published": "09.09. 00:43",
+      "publishedISO": "2026-09-09T00:43:22+02:00",
+      "title": "USA angrep iranske oljetankere",
+      "summary": "Amerikanske styrker har ødelagt fem iranske oljetankere den 8. september. Angrepet skjedde etter at den iranske revolusjonsgarden angrep et amerikansk krigsskip med ballistiske missiler to ganger i løpet av de siste to dagene. – Hver gang Iran prøver å treffe USAs militærskip, vil de miste oljetankere, advarer USAs utenriksminister Marco Rubio. Det foreligger ingen umiddelbar bekreftelse fra Jordan, melder iranske statlige medier Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
       "keyPoints": [
-        "Et iransk tankskip skal være angrepet av amerikanske styrker, ifølge nyhetsbyrået Tasmin.",
-        "Ingen skal være drept i angrepet, og mannskapet er evakuert. – Lyden av flere eksplosjoner kunne høres på deler av Kharg-øya for noen minutter siden, het det i en tidligere melding fra det statstilknyttede nyhetsbyrået Mehr.",
-        "Angrepet skal ha skjedd utenfor Kharg-øya, og skal ifølge meldingen være truffet av et amerikansk prosjektil.",
-        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten."
+        "Det foreligger ingen umiddelbar bekreftelse fra Jordan, melder iranske statlige medier Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten.",
+        "Angrepet skjedde etter at den iranske revolusjonsgarden angrep et amerikansk krigsskip med ballistiske missiler to ganger i løpet av de siste to dagene. – Hver gang Iran prøver å treffe USAs militærskip, vil de miste oljetankere, advarer USAs utenriksminister Marco Rubio.",
+        "Amerikanske styrker har ødelagt fem iranske oljetankere den 8. september.",
+        "Den iranske revolusjonsgarden sier de har angrepet det de beskriver som en amerikansk base i Jordan."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-iransk-tankskip-skal-vaere-angrepet-1.18018501",
+      "url": "https://www.nrk.no/nyheter/usa-angrep-iranske-oljetankere-1.18018562",
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/81544c31a30df8.jpg",
-      "score": 20
+      "localImage": "assets/news/4d365891d6ebc7.jpg",
+      "score": 24
     },
     {
       "id": "038a2ca10130fb",
@@ -55,8 +55,8 @@
       "keyPoints": [
         "Bygningen i Kiev som huser den ukrainske TV-kanalen We are Ukraine kollapset delvis etter den russiske streiken En russisk drone har truffet en ukrainsk TV-kanals hovedkvarter i Kiev, og skadet minst fem personer mens journalister sendte direkte, har president Volodymyr Zelensky sagt.",
         "Kyiv-beboere tok ly på underjordiske metrostasjoner under russiske drone- og missilangrep natten over En rekke eksplosjoner over Ukrainas hovedstad drepte tre mennesker og skadet ytterligere 25, sa den statlige nødtjenesten DSNS.",
-        "Med henvisning til tirsdagens russiske droneangrep på den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland et streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
-        "Minst fem mennesker er drept i russiske angrep på Kiev natt til og dag."
+        "Med henvisning til tirsdagens russiske droneangrep mot den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland en streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
+        "Minst fem mennesker er drept i russiske angrep på Kiev over natten og dagtid."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -151,6 +151,27 @@
       "score": 22
     },
     {
+      "id": "81544c31a30df8",
+      "category": "Norge",
+      "published": "08.09. 21:40",
+      "publishedISO": "2026-09-08T21:40:10+02:00",
+      "title": "Iransk nyhetsbyrå: Iransk tankskip skal være angrepet",
+      "summary": "Et iransk tankskip skal være angrepet av amerikanske styrker, ifølge nyhetsbyrået Tasmin. Angrepet skal ha skjedd utenfor Kharg-øya, og skal ifølge meldingen være truffet av et amerikansk prosjektil. Ingen skal være drept i angrepet, og mannskapet er evakuert. – Lyden av flere eksplosjoner kunne høres på deler av Kharg-øya for noen minutter siden, het det i en tidligere melding fra det statstilknyttede nyhetsbyrået Mehr.",
+      "keyPoints": [
+        "Et iransk tankskip skal være angrepet av amerikanske styrker, ifølge nyhetsbyrået Tasmin.",
+        "Ingen skal være drept i angrepet, og mannskapet er evakuert. – Lyden av flere eksplosjoner kunne høres på deler av Kharg-øya for noen minutter siden, het det i en tidligere melding fra det statstilknyttede nyhetsbyrået Mehr.",
+        "Angrepet skal ha skjedd utenfor Kharg-øya, og skal ifølge meldingen være truffet av et amerikansk prosjektil.",
+        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-iransk-tankskip-skal-vaere-angrepet-1.18018501",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/81544c31a30df8.jpg",
+      "score": 20
+    },
+    {
       "id": "eb2ab6405d8005",
       "category": "Norge",
       "published": "08.09. 15:01",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/5b-Y48k6TDJeTXiG238bWQiyKCFrTkczb7NqwBdIIsWA.jpg",
       "localImage": "assets/news/a8eca5c2feeaae.jpg",
-      "score": 19
-    },
-    {
-      "id": "090482abc41cc1",
-      "category": "Norge",
-      "published": "08.09. 18:00",
-      "publishedISO": "2026-09-08T18:00:03+02:00",
-      "title": "Handelsbanken spår renteheving i september og høyere normalt rentenivå",
-      "summary": "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken. Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover. Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
-      "keyPoints": [
-        "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken.",
-        "Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover.",
-        "Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
-        "Og rentenivået vil legge seg på et høyere nivå enn tidligere antatt, spår banken."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/handelsbanken-spar-renteheving-i-september-og-hoyere-normalt-renteniva-1.18017595",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5b-Y48k6TDJeTXiG238bWQiyKCFrTkczb7NqwBdIIsWA.jpg",
-      "localImage": "assets/news/090482abc41cc1.jpg",
       "score": 19
     }
   ]
