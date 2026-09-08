@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 00:53",
-  "updatedISO": "2026-09-09T00:53:43.891308+02:00",
+  "updatedAt": "09.09.2026 kl. 01:10",
+  "updatedISO": "2026-09-09T01:10:59.558929+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -55,8 +55,8 @@
       "keyPoints": [
         "Bygningen i Kiev som huser den ukrainske TV-kanalen We are Ukraine kollapset delvis etter den russiske streiken En russisk drone har truffet en ukrainsk TV-kanals hovedkvarter i Kiev, og skadet minst fem personer mens journalister sendte direkte, har president Volodymyr Zelensky sagt.",
         "Kyiv-beboere tok ly på underjordiske metrostasjoner under russiske drone- og missilangrep natten over En rekke eksplosjoner over Ukrainas hovedstad drepte tre mennesker og skadet ytterligere 25, sa den statlige nødtjenesten DSNS.",
-        "Med henvisning til tirsdagens russiske droneangrep mot den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland en streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
-        "Minst fem mennesker er drept i russiske angrep på Kiev over natten og dagtid."
+        "Med henvisning til tirsdagens russiske droneangrep på den ukrainske TV-kanalen We Are Ukraine, sa Zelensky: \"I dag gjennomførte Russland et streik mot media, journalister. \"Russland må stoppes, og dette er bare mulig gjennom felles innsats,\" la han til i en fornyet bønn til Ukrainas allierte i Europa, USA og rundt om i verden.",
+        "Minst fem mennesker er drept i russiske angrep på Kiev natt til og dag."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -172,27 +172,6 @@
       "score": 20
     },
     {
-      "id": "eb2ab6405d8005",
-      "category": "Norge",
-      "published": "08.09. 15:01",
-      "publishedISO": "2026-09-08T15:01:40+02:00",
-      "title": "Gjestene til gravferden begynner å ankomme",
-      "summary": "Like før klokken 20 landet det ukrainske regjeringsflyet på Oslo lufthavn. Han kjørte ikke i buss fra flyplassen slik mange av de andre gjestene gjorde. Litt før klokken 21 ankom både statsministeren, finansminister Jens Stoltenberg (Ap) og utenriksminister Espen Barth Eide (Ap) Plaza hotell i Oslo sentrum.",
-      "keyPoints": [
-        "Han kjørte ikke i buss fra flyplassen slik mange av de andre gjestene gjorde.",
-        "Like før klokken 20 landet det ukrainske regjeringsflyet på Oslo lufthavn.",
-        "Litt før klokken 21 ankom både statsministeren, finansminister Jens Stoltenberg (Ap) og utenriksminister Espen Barth Eide (Ap) Plaza hotell i Oslo sentrum.",
-        "Blant gjestene som har ankommet tirsdag kveld er prins Alois og prinsesse Sofie fra Liechtenstein, det tidligere kronprinsparet av Jugoslavia, Sveits' tidligere president og Japans kronprinspar."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/gjestene-til-gravferden-begynner-a-ankomme-1.18017874",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xclLHy6oC8iCdSxOr2HnlgMLZQZDoZLPk1pdE5JB-10w.jpg",
-      "localImage": "assets/news/eb2ab6405d8005.webp",
-      "score": 20
-    },
-    {
       "id": "a8eca5c2feeaae",
       "category": "Norge",
       "published": "08.09. 18:00",
@@ -211,6 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/5b-Y48k6TDJeTXiG238bWQiyKCFrTkczb7NqwBdIIsWA.jpg",
       "localImage": "assets/news/a8eca5c2feeaae.jpg",
+      "score": 19
+    },
+    {
+      "id": "090482abc41cc1",
+      "category": "Norge",
+      "published": "08.09. 18:00",
+      "publishedISO": "2026-09-08T18:00:03+02:00",
+      "title": "Handelsbanken spår renteheving i september og høyere normalt rentenivå",
+      "summary": "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken. Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover. Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
+      "keyPoints": [
+        "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken.",
+        "Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover.",
+        "Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
+        "Og rentenivået vil legge seg på et høyere nivå enn tidligere antatt, spår banken."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/handelsbanken-spar-renteheving-i-september-og-hoyere-normalt-renteniva-1.18017595",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/5b-Y48k6TDJeTXiG238bWQiyKCFrTkczb7NqwBdIIsWA.jpg",
+      "localImage": "assets/news/090482abc41cc1.jpg",
       "score": 19
     }
   ]
