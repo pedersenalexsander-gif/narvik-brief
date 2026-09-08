@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.09.2026 kl. 14:16",
-  "updatedISO": "2026-09-08T14:16:21.289602+02:00",
+  "updatedAt": "08.09.2026 kl. 14:47",
+  "updatedISO": "2026-09-08T14:47:07.668820+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -109,27 +109,6 @@
       "score": 13
     },
     {
-      "id": "770fb9f12b7ba1",
-      "category": "AI",
-      "published": "07.09. 13:30",
-      "publishedISO": "2026-09-07T13:30:27+02:00",
-      "title": "Dolly Partons søster ber om slutt på «AI-søppel»-innlegg etter sangerens død",
-      "summary": "Dolly Parton (til venstre) og søsteren hennes Stella, avbildet på en begivenhet i 2015 Dolly Partons søster har utstedt en bønn til fans om \"falsk AI-søppel\" lagt ut på sosiale medier i kjølvannet av sangerens død. Dolly Partons død utløste en ekstraordinær strøm av kjærlighet fra fans og stjerner over hele verden - men hva var det med Dolly som gjorde henne så universelt elsket? På YouTube har en \"hjertelig fan-laget hyllest av Miley Cyrus\" til gudmoren Dolly Parton og sunget i stil med Wrecking Ball-sangerinnen hatt mer enn 1,5 millioner visninger.",
-      "keyPoints": [
-        "Dolly Parton (til venstre) og søsteren hennes Stella, avbildet på en begivenhet i 2015 Dolly Partons søster har utstedt en bønn til fans om \"falsk AI-søppel\" lagt ut på sosiale medier i kjølvannet av sangerens død.",
-        "På YouTube har en \"hjertelig fan-laget hyllest av Miley Cyrus\" til gudmoren Dolly Parton og sunget i stil med Wrecking Ball-sangerinnen hatt mer enn 1,5 millioner visninger.",
-        "Dolly Partons død utløste en ekstraordinær strøm av kjærlighet fra fans og stjerner over hele verden - men hva var det med Dolly som gjorde henne så universelt elsket?",
-        "Stella Parton skrev på Instagram og takket de som hadde vist \"ekte støtte\" for stjernen og familien hennes - men sa at en \"enorm mengde AI og uendelig søppel som ble lagt ut\" hadde vært \"utfordrende å absorbere\"."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c1wxppnrqlqo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/787a/live/cae3e7b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
-      "localImage": "assets/news/770fb9f12b7ba1.jpg",
-      "score": 13
-    },
-    {
       "id": "c0cb2549594c6d",
       "category": "Økonomi",
       "published": "07.09. 09:01",
@@ -212,6 +191,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
       "localImage": "assets/news/f4c05efa593bd5.jpg",
       "score": 15
+    },
+    {
+      "id": "12291b568ee6fd",
+      "category": "Norge",
+      "published": "07.09. 21:17",
+      "publishedISO": "2026-09-07T21:17:11+02:00",
+      "title": "Politiet stenger deler av luftrommet over Østlandet tirsdag til torsdag",
+      "summary": "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det. Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem. Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
+      "keyPoints": [
+        "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det.",
+        "Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem.",
+        "Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
+        "Kong Haralds gravferd foregår i Oslo sentrum onsdag 9. september."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/politiet-stenger-deler-av-luftrommet-over-ostlandet-tirsdag-til-torsdag-1.18017256",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/12291b568ee6fd.jpg",
+      "score": 14
     }
   ]
 }
