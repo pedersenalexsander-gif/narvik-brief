@@ -1,28 +1,28 @@
 {
-  "updatedAt": "08.09.2026 kl. 01:52",
-  "updatedISO": "2026-09-08T01:52:03.815509+02:00",
+  "updatedAt": "08.09.2026 kl. 02:19",
+  "updatedISO": "2026-09-08T02:19:51.748557+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "12291b568ee6fd",
+      "id": "76970fde9fe6ca",
       "category": "Norge",
-      "published": "07.09. 21:17",
-      "publishedISO": "2026-09-07T21:17:11+02:00",
-      "title": "Politiet stenger deler av luftrommet over Østlandet tirsdag til torsdag",
-      "summary": "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det. Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem. Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
+      "published": "07.09. 21:29",
+      "publishedISO": "2026-09-07T21:29:07+02:00",
+      "title": "Hotell sier nei til influensere under gravferden",
+      "summary": "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til. Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer. Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
       "keyPoints": [
-        "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det.",
-        "Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem.",
-        "Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
-        "Kong Haralds gravferd foregår i Oslo sentrum onsdag 9. september."
+        "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til.",
+        "Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+        "Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer.",
+        "En influenser som allerede bor der, har fått beskjed om å ikke poste noe om hotellet. – Ville det kommet mange bilder av influensere som ser på gravferd hvis dere hadde sluppet dem inn? – Ja, det ville vært."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/politiet-stenger-deler-av-luftrommet-over-ostlandet-tirsdag-til-torsdag-1.18017256",
+      "url": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
       "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/12291b568ee6fd.jpg",
-      "score": 17
+      "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
+      "localImage": "assets/news/76970fde9fe6ca.jpg",
+      "score": 16
     },
     {
       "id": "c0cb2549594c6d",
@@ -67,24 +67,24 @@
       "score": 17
     },
     {
-      "id": "76970fde9fe6ca",
+      "id": "12291b568ee6fd",
       "category": "Norge",
-      "published": "07.09. 21:29",
-      "publishedISO": "2026-09-07T21:29:07+02:00",
-      "title": "Hotell sier nei til influensere under gravferden",
-      "summary": "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til. Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer. Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
+      "published": "07.09. 21:17",
+      "publishedISO": "2026-09-07T21:17:11+02:00",
+      "title": "Politiet stenger deler av luftrommet over Østlandet tirsdag til torsdag",
+      "summary": "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det. Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem. Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
       "keyPoints": [
-        "Vi har sagt nei til alle influensere og de som har tatt kontakt, sier markedssjef Pia Meinstad-Moen ved Karl Johan Hotel. – Av respekt for kongen og kongehuset velger vi å være en rolig aktør, legger hun til.",
-        "Derfor er influensere (også kalt innholdsskapere) som regel velkomne gjester som samarbeider med hotellene. – Vi får daglige spørsmål fra influensere om å være på hotellet, og det er jo den nye markedsføringen, sier markedssjef Meinstad-Moen.",
-        "Det var trangt om plassen på balkongen på Karl Johan Hotel da prosesjonen med kong Haakon kjørte forbi på tirsdag. – Hvorfor ville det være galt hvis det kom mange influensere, tenker du? – Jeg synes ikke det er riktig å skulle tjene penger på situasjonen, eller ta oppmerksomheten bort fra det som faktisk skjer.",
-        "En influenser som allerede bor der, har fått beskjed om å ikke poste noe om hotellet. – Ville det kommet mange bilder av influensere som ser på gravferd hvis dere hadde sluppet dem inn? – Ja, det ville vært."
+        "I forbindelse med kong Haralds begravelse stenges store deler av luftrommet over Østlandet mellom 8.–10. september. – Luftrommet stenges for all annen trafikk enn nødvendig samfunnskritisk luftfart og ordinær rutetrafikk, heter det.",
+        "Politiet presiserer at det gjelder alle luftfartøy, noe som betyr at det ikke er tillatt å fly droner eller småfly i de berørte områdene uten spesiell tillatelse. – Vi ber særlig droneoperatører om å sette seg godt inn i restriksjonene og respektere dem.",
+        "Forsvaret skal bistå politiet i gjennomføringen av tiltakene, står det også.",
+        "Kong Haralds gravferd foregår i Oslo sentrum onsdag 9. september."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/hotell-sier-nei-til-influensere-under-gravferden-1.18011411",
+      "url": "https://www.nrk.no/nyheter/politiet-stenger-deler-av-luftrommet-over-ostlandet-tirsdag-til-torsdag-1.18017256",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Oskkc-tiWE79wZ5UVjzXvgF1nzbI_mCquA5ECQLgp7uQ.jpg",
-      "localImage": "assets/news/76970fde9fe6ca.jpg",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/12291b568ee6fd.jpg",
       "score": 16
     },
     {
