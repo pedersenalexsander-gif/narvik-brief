@@ -1,29 +1,8 @@
 {
-  "updatedAt": "09.09.2026 kl. 21:58",
-  "updatedISO": "2026-09-09T21:58:43.173901+02:00",
+  "updatedAt": "10.09.2026 kl. 00:25",
+  "updatedISO": "2026-09-10T00:25:26.129210+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "6dea194b011185",
-      "category": "Nord-Norge",
-      "published": "09.09. 16:09",
-      "publishedISO": "2026-09-09T16:09:03+02:00",
-      "title": "Hauge optimist før Bayern-kampen: – Har trent overraskende godt",
-      "summary": "Forrige fredag startet Hauge på benken imot Fredrikstad. Fysikken har vært greit de siste dagene og jeg har trent overraskende godt. Jeg velger å være optimist på egne vegne, svarer Hauge på NRKs spørsmål om han er spilleklar før torsdag.",
-      "keyPoints": [
-        "Fysikken har vært greit de siste dagene og jeg har trent overraskende godt.",
-        "Jeg velger å være optimist på egne vegne, svarer Hauge på NRKs spørsmål om han er spilleklar før torsdag.",
-        "Forrige fredag startet Hauge på benken imot Fredrikstad.",
-        "Dobbeltoppgjøret tapte Bayern 5-6. – Vi har sett på kampene mot PSG, og jeg fikk ikke økt selvtillit."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/hauge-optimist-for-bayern-kampen_-_-har-trent-overraskende-godt-1.18019557",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/hpy4YStjDpx_vSsTrvaYgQvjnjSnCBitZL4bPS4C4Xyg.jpg",
-      "localImage": "assets/news/6dea194b011185.jpg",
-      "score": 12
-    },
     {
       "id": "07a5b2d8f1502f",
       "category": "Norge",
@@ -46,45 +25,45 @@
       "score": 17
     },
     {
-      "id": "11b0c3a4220a85",
+      "id": "5aa035fc8084a5",
       "category": "Verden",
-      "published": "09.09. 18:46",
-      "publishedISO": "2026-09-09T18:46:53+02:00",
-      "title": "Oljen når 100 dollar fatet for første gang siden juli etter streik i USA og Houthi",
-      "summary": "Se: Missilavskjæringer sett på Jordans nattehimmel Oljeprisen steg til 100 dollar (74 pund) fatet onsdag, etter at USA og Iran angrep tankskip i Gulf-regionen og jemens houthier traff oljeanlegg i Saudi-Arabia. De Iran-støttede houthiene rapporterte om dusinvis av Saudi-angrep i Jemen, en dag etter at drone- og missilangrep forårsaket branner ved flere oljeanlegg i Saudi-Arabia. Houthiene har også vært rettet mot saudiarabisk energiinfrastruktur og tankskip i Rødehavet siden juli, da en fire år lang våpenhvile i Jemen begynte å løse opp.",
+      "published": "09.09. 23:23",
+      "publishedISO": "2026-09-09T23:23:45+02:00",
+      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+      "summary": "Spanske etterretningstjenester advarte om oppfordringer fra sosiale medier om at en massemigrant skulle krysse inn i Ceuta dagen før titusenvis av mennesker kom inn på territoriet, viser nylig utgitte regjeringsdokumenter. Den 29. juli fortalte Spanias nasjonale etterretningstjeneste (CNI) til marokkanske og Ceuta myndigheter at sosiale mediegrupper oppmuntret migranter til å krysse dagen etter. CNI rapporterte at rundt 180 000 mennesker mottok meldingene, hvorav én lød: \"Den som vil krysse har siste sjanse på trondagen [30. juli] klokken 8, myndighetene vil bli distrahert med feiringen og paradene.\" Den advarte også, via tekstmelding, sentralregjeringens representasjon i Ceuta og sivilvakten om aktiviteten på sosiale medier.",
       "keyPoints": [
-        "Se: Missilavskjæringer sett på Jordans nattehimmel Oljeprisen steg til 100 dollar (74 pund) fatet onsdag, etter at USA og Iran angrep tankskip i Gulf-regionen og jemens houthier traff oljeanlegg i Saudi-Arabia.",
-        "De Iran-støttede houthiene rapporterte om dusinvis av Saudi-angrep i Jemen, en dag etter at drone- og missilangrep forårsaket branner ved flere oljeanlegg i Saudi-Arabia.",
-        "Houthiene har også vært rettet mot saudiarabisk energiinfrastruktur og tankskip i Rødehavet siden juli, da en fire år lang våpenhvile i Jemen begynte å løse opp.",
-        "De eskalerende konfliktene presset prisen på Brent-olje, den globale benchmarken, til det høyeste nivået siden slutten av juli, da Iran og USA gjenopptok fiendtlighetene etter en måneds pause."
+        "Spanske etterretningstjenester advarte om oppfordringer fra sosiale medier om at en massemigrant skulle krysse inn i Ceuta dagen før titusenvis av mennesker kom inn på territoriet, viser nylig utgitte regjeringsdokumenter.",
+        "Den 29. juli fortalte Spanias nasjonale etterretningstjeneste (CNI) til marokkanske og Ceuta myndigheter at sosiale mediegrupper oppmuntret migranter til å krysse dagen etter.",
+        "CNI rapporterte at rundt 180 000 mennesker mottok meldingene, hvorav én lød: \"Den som vil krysse har siste sjanse på trondagen [30. juli] klokken 8, myndighetene vil bli distrahert med feiringen og paradene.\" Den advarte også, via tekstmelding, sentralregjeringens representasjon i Ceuta og sivilvakten om aktiviteten på sosiale medier.",
+        "Meldingene er en del av en transje på mer enn 40 sikkerhetsdokumenter knyttet til Ceuta-overgangen som regjeringen avklassifiserte etter økende press på Sánchez over hans håndtering av krisen og utbredte påstander i Spania om at Marokko hadde spilt en rolle i å tilrettelegge overgangene."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo",
+      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9436/live/65350fe0-ac30-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/11b0c3a4220a85.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/13d6/live/5b9af280-ac92-11f1-ab14-5b9069dc795d.jpg",
+      "localImage": "assets/news/5aa035fc8084a5.jpg",
       "score": 13
     },
     {
-      "id": "619d1b992496a0",
+      "id": "39c8962106ea10",
       "category": "USA",
-      "published": "09.09. 18:28",
-      "publishedISO": "2026-09-09T18:28:15+02:00",
-      "title": "Lindsay Clancy jurors speak out on what led to mistrial",
-      "summary": "Inne i retten mens dommeren erklærer en feilrettssak i Lindsay Clancy-saken Jurymedlemmer i Lindsay Clancy-rettssaken har kommet med sine første offentlige kommentarer om de hemmelige diskusjonene og hva som førte til deres dødlås før den høyprofilerte saken endte i en feilrettssak. Hør: Jurymedlem i Lindsay Clancy-rettssaken snakker om ensom holdout Lindsay Clancys advokat håper på en avtale med påtalemyndigheten etter rettssaken. Hva skjer videre etter at Lindsay Clancys drapssak ender i en rettssak? Jurymedlemmer velger ofte å si fra – noen skriver til og med bøker – etter høyprofilerte saker som Clancy.",
+      "published": "09.09. 23:21",
+      "publishedISO": "2026-09-09T23:21:13+02:00",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+      "summary": "Da Storbritannia avduket sanksjoner mot israelske bosetninger på den okkuperte Vestbredden tirsdag, svarte Israel med raseri og erklærte at de ville stenge Storbritannias diplomatiske oppdrag til palestinerne, sparke ut britiske militære stab fra en internasjonal koordineringsbase nær Gaza og forby nesten et dusin venstreorienterte britiske parlamentsmedlemmer fra å komme inn i Israel. Vi så kunngjøringen deres i dag, men jeg har ingen kommentarer til det akkurat nå.\" Han la til at Storbritannia hadde varslet administrasjonen på forhånd (mest sannsynlig under en telefonsamtale Trump hadde med Storbritannias statsminister Andy Burnham på mandag) og sa at USA delte \"målet om stabilitet\" på et anspent tidspunkt i regionen og ikke \"ønsker å se noen oppgang i voldsoppgjøret på Vestbredden i Storbritannia\". får rasende israelsk respons Palestinske foreldre frykter for barnas liv på skolen ettersom bosetterangrep vokser",
       "keyPoints": [
-        "Inne i retten mens dommeren erklærer en feilrettssak i Lindsay Clancy-saken Jurymedlemmer i Lindsay Clancy-rettssaken har kommet med sine første offentlige kommentarer om de hemmelige diskusjonene og hva som førte til deres dødlås før den høyprofilerte saken endte i en feilrettssak.",
-        "Jurymedlemmer velger ofte å si fra – noen skriver til og med bøker – etter høyprofilerte saker som Clancy.",
-        "Hør: Jurymedlem i Lindsay Clancy-rettssaken snakker om ensom holdout Lindsay Clancys advokat håper på en avtale med påtalemyndigheten etter rettssaken. Hva skjer videre etter at Lindsay Clancys drapssak ender i en rettssak?",
-        "Tre kvinnelige jurymedlemmer - inkludert formannen - fortalte NBC at panelet var klare til å avgi en dom om at Clancy ikke var skyldig i form av galskap i drapet på hennes tre barn, men en jurymedlem ville ikke være enig."
+        "Da Storbritannia avduket sanksjoner mot israelske bosetninger på den okkuperte Vestbredden tirsdag, svarte Israel med raseri og erklærte at de ville stenge Storbritannias diplomatiske oppdrag til palestinerne, sparke ut britiske militære stab fra en internasjonal koordineringsbase nær Gaza og forby nesten et dusin venstreorienterte britiske parlamentsmedlemmer fra å komme inn i Israel.",
+        "UK announces sanctions on West Bank settlements prompting furious Israeli response Palestinian parents fear for children's lives at school as settler attacks grow",
+        "Vi så kunngjøringen deres i dag, men jeg har ingen kommentar til det akkurat nå.\" Han la til at Storbritannia hadde varslet administrasjonen på forhånd (mest sannsynlig under en telefonsamtale Trump hadde med Storbritannias statsminister Andy Burnham på mandag) og sa at USA delte \"målet om stabilitet\" på et spent tidspunkt i regionen og ikke \"ønsket å se noen oppgang i volden på Vestbredden\".",
+        "Frykt for barnas sikkerhet på Vestbredden skole ettersom nybyggerangrep øker. Huckabee, som har langvarige synspunkter basert på bibelske begrunnelser for jødisk bosetting på Vestbredden, så ut til å snakke rett i noen av hans offentlige bemerkninger – et trekk som nå er vanlig for noen Trump-utnevnte ambassadører."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c74k13kpv2no",
+      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fc45/live/4c0ffde0-abdb-11f1-ba40-a905468c0295.jpg",
-      "localImage": "assets/news/619d1b992496a0.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3dfe/live/ef7217b0-ac7c-11f1-994b-c7df927931ed.jpg",
+      "localImage": "assets/news/39c8962106ea10.jpg",
       "score": 13
     },
     {
@@ -106,27 +85,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/296d2ee1-883a-35f8-8191-5e053c4e5584?fit=crop&h=675&upscale=true&w=1200&s=342e479873fc3bd04f9f412b89c6df7bff0c8ec2",
       "localImage": "assets/news/4812888a33d1cc.jpg",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "9095eb62de1f3b",
+      "id": "f7aa24c9d84dea",
       "category": "Økonomi",
       "published": "09.09. 15:30",
       "publishedISO": "2026-09-09T15:30:37+02:00",
-      "title": "Wall Street faller etter oljehopp",
-      "summary": "USA-børsene sendes ned etter at oljeprisen har passert 100 dollar. Oljeprisen (brent spot) har passert 100 dollar onsdag, for første gang siden 24. juli. USA ødela tirsdag fem iranske oljetankere, etter at Iran forsøkte å angripe amerikanske hangarskip og destroyere, skriver Wall Street Journal.",
+      "title": "Wall Street falt etter oljehopp",
+      "summary": "USA-børsene endte ned etter at oljeprisen passerte 100 dollar. Den lå på 101,5 dollar fatet, opp 2,2 dollar ved stengetid på Wall Street. USA ødela tirsdag fem iranske oljetankere, etter at Iran forsøkte å angripe amerikanske hangarskip og destroyere, skriver Wall Street Journal.",
       "keyPoints": [
+        "Den lå på 101,5 dollar fatet, opp 2,2 dollar ved stengetid på Wall Street.",
         "USA ødela tirsdag fem iranske oljetankere, etter at Iran forsøkte å angripe amerikanske hangarskip og destroyere, skriver Wall Street Journal.",
-        "Oljeprisen (brent spot) har passert 100 dollar onsdag, for første gang siden 24. juli.",
-        "USA-børsene sendes ned etter at oljeprisen har passert 100 dollar.",
-        "Den ligger nå på 101,1 dollar fatet, opp 1,8 dollar for dagen."
+        "USA-børsene endte ned etter at oljeprisen passerte 100 dollar.",
+        "Oljeprisen (brent spot) passerte 100 dollar onsdag, for første gang siden 24. juli."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/7p16gK/wall-street-faller-fra-start",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1f4e0292-91a7-38a0-ab4e-20f664523f36?fit=crop&h=675&upscale=true&w=1200&s=07dbff369c669445c83d5a10096306c1bf0f0a06",
-      "localImage": "assets/news/9095eb62de1f3b.jpg",
+      "localImage": "assets/news/f7aa24c9d84dea.jpg",
       "score": 19
     },
     {
@@ -148,27 +127,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
       "localImage": "assets/news/256da5825c1e25.jpg",
-      "score": 18
-    },
-    {
-      "id": "1663a607d360f4",
-      "category": "AI",
-      "published": "09.09. 20:39",
-      "publishedISO": "2026-09-09T20:39:45+02:00",
-      "title": "Apples nye sjef starter med å gamble på kostbar ny sammenleggbar iPhone",
-      "summary": "Ternus, som tok på seg Apples toppjobb etter at Tim Cook trakk seg, var onsdag på scenen på selskapets årlige produktutgivelsesarrangement foran enorme bilder av den første sammenleggbare iPhonen. Endring av designen til iPhone kan adressere noe kritikk om at Apple ennå ikke har fått en stor produkthit eller virkelig spennende innovasjon siden den første iPhonen kom ut i 2007. \"Den sammenleggbare risikerer å bli et premium-priset ornament i porteføljen, og gir merkeverdi, men ikke meningsfull vekst,\" sa Dipanjan Chatterjee, analytiker hos Forrester. Chatterjee sa at den sammenleggbare iPhone kunne gå veien til Apples Vision Pro-headset, som selskapet priset til $3,699 (£2,729) og ikke har vært en hit blant kjøpere.",
-      "keyPoints": [
-        "Endring av designen til iPhone kan adressere noe kritikk om at Apple ennå ikke har fått en stor produkthit eller virkelig spennende innovasjon siden den første iPhonen kom ut i 2007. \"Den sammenleggbare risikerer å bli et premium-priset ornament i porteføljen, og gir merkeverdi, men ikke meningsfull vekst,\" sa Dipanjan Chatterjee, analytiker hos Forrester.",
-        "Chatterjee sa at den sammenleggbare iPhone kunne gå veien til Apples Vision Pro-headset, som selskapet priset til $3,699 (£2,729) og ikke har vært en hit blant kjøpere.",
-        "Ternus, som tok på seg Apples toppjobb etter at Tim Cook trakk seg, var onsdag på scenen på selskapets årlige produktutgivelsesarrangement foran enorme bilder av den første sammenleggbare iPhonen.",
-        "Kritikere sier at Apple ikke har endret designen til iPhone på en meningsfylt måte siden den første lanseringen i 2007. John Ternus har gått inn i sin andre uke som Apples administrerende direktør, og selskapet har avslørt den første store endringen til iPhone siden den ble lansert for nesten 20 år siden."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/569e/live/3eec7030-ac80-11f1-994b-c7df927931ed.png",
-      "localImage": "assets/news/1663a607d360f4.png",
       "score": 17
     },
     {
@@ -190,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
       "localImage": "assets/news/19da51d50f6b3f.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "4d365891d6ebc7",
@@ -212,6 +170,48 @@
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/4d365891d6ebc7.jpg",
       "score": 16
+    },
+    {
+      "id": "81544c31a30df8",
+      "category": "Norge",
+      "published": "08.09. 21:40",
+      "publishedISO": "2026-09-08T21:40:10+02:00",
+      "title": "Iransk nyhetsbyrå: Iransk tankskip skal være angrepet",
+      "summary": "Et iransk tankskip skal være angrepet av amerikanske styrker, ifølge nyhetsbyrået Tasmin. Angrepet skal ha skjedd utenfor Kharg-øya, og skal ifølge meldingen være truffet av et amerikansk prosjektil. Ingen skal være drept i angrepet, og mannskapet er evakuert. – Lyden av flere eksplosjoner kunne høres på deler av Kharg-øya for noen minutter siden, het det i en tidligere melding fra det statstilknyttede nyhetsbyrået Mehr.",
+      "keyPoints": [
+        "Et iransk tankskip skal være angrepet av amerikanske styrker, ifølge nyhetsbyrået Tasmin.",
+        "Ingen skal være drept i angrepet, og mannskapet er evakuert. – Lyden av flere eksplosjoner kunne høres på deler av Kharg-øya for noen minutter siden, het det i en tidligere melding fra det statstilknyttede nyhetsbyrået Mehr.",
+        "Angrepet skal ha skjedd utenfor Kharg-øya, og skal ifølge meldingen være truffet av et amerikansk prosjektil.",
+        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-iransk-tankskip-skal-vaere-angrepet-1.18018501",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/81544c31a30df8.jpg",
+      "score": 15
+    },
+    {
+      "id": "a8eca5c2feeaae",
+      "category": "Norge",
+      "published": "08.09. 18:00",
+      "publishedISO": "2026-09-08T18:00:03+02:00",
+      "title": "Handelsbanken spår renteheving i september og høyere normalt rentenivå",
+      "summary": "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken. Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover. Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
+      "keyPoints": [
+        "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken.",
+        "Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover.",
+        "Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
+        "Og rentenivået vil legge seg på et høyere nivå enn tidligere antatt, spår banken."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/handelsbanken-spar-renteheving-i-september-og-hoyere-normalt-renteniva-1.18017595",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/5b-Y48k6TDJeTXiG238bWQiyKCFrTkczb7NqwBdIIsWA.jpg",
+      "localImage": "assets/news/a8eca5c2feeaae.jpg",
+      "score": 14
     }
   ]
 }
