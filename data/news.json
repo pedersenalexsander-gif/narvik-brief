@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 15:31",
-  "updatedISO": "2026-09-09T15:31:36.942005+02:00",
+  "updatedAt": "09.09.2026 kl. 19:20",
+  "updatedISO": "2026-09-09T19:20:16.122928+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3y_81EUTjou7VntUGKC5iAS6pypF_gvNVgKxcrKT89PA.jpg",
       "localImage": "assets/news/059067ec24bc2e.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "4d365891d6ebc7",
@@ -43,48 +43,27 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/4d365891d6ebc7.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "1afb57a6c7f947",
-      "category": "Verden",
-      "published": "09.09. 07:39",
-      "publishedISO": "2026-09-09T07:39:16+02:00",
-      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-      "summary": "Navneendringen som ble delt med showets offisielle sosiale mediekonto inneholdt et bilde av South Park-skiltet med ordet \"Park\" erstattet med \"Amerika\". \"Vi vil spesielt takke vårt morselskap Paramount - a Skydance Capitulation,\" sa skaperne i innlegget. I løpet av sin 27. sesong beskrev Det hvite hus South Park som et «fjerderangs»-program som «hengte på en tråd med uinspirerte ideer i et desperat forsøk på oppmerksomhet», etter en episode som avbildet Trump naken i sengen med Satan. Etter å ha vunnet prisen for enestående animert program på søndag, delte South Park også et bilde som viser en fiksjonalisert Donald Trump med ordene: «Du har endelig fått din Emmy». Den nye sesongen av South Park har premiere 16. september.",
-      "keyPoints": [
-        "Navneendringen som ble delt med showets offisielle sosiale mediekonto inneholdt et bilde av South Park-skiltet med ordet \"Park\" erstattet med \"Amerika\". \"Vi vil spesielt takke vårt morselskap Paramount - a Skydance Capitulation,\" sa skaperne i innlegget.",
-        "I løpet av sin 27. sesong beskrev Det hvite hus South Park som et «fjerderangs»-program som «hengte på en tråd med uinspirerte ideer i et desperat forsøk på oppmerksomhet», etter en episode som avbildet Trump naken i sengen med Satan.",
-        "Etter å ha vunnet prisen for enestående animert program på søndag, delte South Park også et bilde som viser en fiksjonalisert Donald Trump med ordene: «Du har endelig fått din Emmy». Den nye sesongen av South Park har premiere 16. september.",
-        "Trump undertegnet en eksekutiv ordre i august om å gi nytt navn til Lake Ontario til Lake America, og erklærte i fjor at Mexicogolfen er kjent som Gulf of America."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d37d/live/be700670-ac06-11f1-afbf-77fe6d25f635.jpg",
-      "localImage": "assets/news/1afb57a6c7f947.jpg",
-      "score": 16
-    },
-    {
-      "id": "5cc9dcc04f029b",
+      "id": "473f581b19efa7",
       "category": "USA",
-      "published": "09.09. 11:49",
-      "publishedISO": "2026-09-09T11:49:08+02:00",
-      "title": "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage",
-      "summary": "Aerial footage shows a massive sinkhole in front of a house in Malibu, California, reportedly belonging to US actor Nicolas Cage. Sinkhole appears outside Malibu home thought to belong to Nicolas Cage. Video, 00:00:18Sinkhole appears outside Malibu home thought to belong to Nicolas Cage Up Next.",
+      "published": "09.09. 16:20",
+      "publishedISO": "2026-09-09T16:20:11+02:00",
+      "title": "Listen: Juror in Lindsay Clancy trial speaks about lone holdout",
+      "summary": "Listen: Juror in Lindsay Clancy trial speaks about lone holdout. Video, 00:00:49Listen: Juror in Lindsay Clancy trial speaks about lone holdout Up Next. Video, 00:00:39Moment judge declares a mistrial in Lindsay Clancy case Watch: What happens now after Lindsay Clancy trial jurors deadlocked again?",
       "keyPoints": [
-        "Sinkhole appears outside Malibu home thought to belong to Nicolas Cage.",
-        "Aerial footage shows a massive sinkhole in front of a house in Malibu, California, reportedly belonging to US actor Nicolas Cage.",
-        "Video, 00:00:32Se: Øyeblikk 64 år gammel nepalesisk kvinne blir funnet i live i et gjørmebegravet hjem Hvorfor en berømt smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Video, 00:01:26Hvorfor en kjent smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Copyright © 2026 BBC.",
-        "Skuespilleren kjøpte boligen i 2024, ifølge en rapport i New York Times."
+        "Listen: Juror in Lindsay Clancy trial speaks about lone holdout.",
+        "Video, 00:00:39Moment judge declares a mistrial in Lindsay Clancy case Watch: What happens now after Lindsay Clancy trial jurors deadlocked again?",
+        "Video, 00:02:13How the Lindsay Clancy trial gripped America - and ultimately fell apart Sinkhole appears outside Malibu home thought to belong to Nicolas Cage.",
+        "A week after the Lindsay Clancy trial ended in a mistrial, one of the jurors spoke to CBS News, the BBC's US media partner, about the deliberations."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/czezr8g1n3eo",
+      "url": "https://www.bbc.co.uk/news/videos/ckg7lr0kk06o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20fb/live/2d759300-ac2a-11f1-a540-61c3f7fc4e6c.jpg",
-      "localImage": "assets/news/5cc9dcc04f029b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5dd8/live/c0542bf0-ac57-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/473f581b19efa7.jpg",
       "score": 13
     },
     {
@@ -106,91 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/296d2ee1-883a-35f8-8191-5e053c4e5584?fit=crop&h=675&upscale=true&w=1200&s=342e479873fc3bd04f9f412b89c6df7bff0c8ec2",
       "localImage": "assets/news/4812888a33d1cc.jpg",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "c3ddaf8474e451",
+      "id": "9095eb62de1f3b",
       "category": "Økonomi",
-      "published": "09.09. 09:00",
-      "publishedISO": "2026-09-09T09:00:30+02:00",
-      "title": "Autostore faller kraftig",
-      "summary": "Lee Advisors (THL), som er oppført som nest største aksjonær i Autostore, har solgt aksjer i selskapet verdt 1,6 milliarder kroner. Etter salget eier THL 24,9 prosent av AutoStore, ned fra 27,9 prosent. Aksjen steg kort tid etter børsåpning, men faller 0,6 prosent i 13-tiden.",
+      "published": "09.09. 15:30",
+      "publishedISO": "2026-09-09T15:30:37+02:00",
+      "title": "Wall Street faller etter oljehopp",
+      "summary": "Oljeprisen (brent spot) har passert 100 dollar onsdag, for første gang siden 24. juli. USA ødela tirsdag fem iranske oljetankere, etter at Iran forsøkte å angripe amerikanske hangarskip og destroyere, skriver Wall Street Journal. Samelindeksen Stoxx Europe 600 faller 1,3 prosent i 15-tiden.",
       "keyPoints": [
-        "Lee Advisors (THL), som er oppført som nest største aksjonær i Autostore, har solgt aksjer i selskapet verdt 1,6 milliarder kroner.",
-        "Etter salget eier THL 24,9 prosent av AutoStore, ned fra 27,9 prosent.",
-        "Aksjen steg kort tid etter børsåpning, men faller 0,6 prosent i 13-tiden.",
-        "Autostore opplyser i en separat børsmelding at THL er representert i selskapets styre og anses som nært knyttet til styreleder James C."
+        "USA ødela tirsdag fem iranske oljetankere, etter at Iran forsøkte å angripe amerikanske hangarskip og destroyere, skriver Wall Street Journal.",
+        "Samelindeksen Stoxx Europe 600 faller 1,3 prosent i 15-tiden.",
+        "Oljeprisen (brent spot) har passert 100 dollar onsdag, for første gang siden 24. juli.",
+        "USA-børsene sendes ned etter at oljeprisen har passert 100 dollar."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/bO6dRe/oslo-boers-aapner-opp",
+      "url": "https://e24.no/boers-og-finans/i/7p16gK/wall-street-faller-fra-start",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/93e788cf-fce3-3630-8b6c-25c4dc254411?fit=crop&h=675&upscale=true&w=1200&s=f40bd7abad30ad6f520e874a3fd390f79a62687f",
-      "localImage": "assets/news/c3ddaf8474e451.jpg",
-      "score": 19
-    },
-    {
-      "id": "256da5825c1e25",
-      "category": "AI",
-      "published": "08.09. 22:57",
-      "publishedISO": "2026-09-08T22:57:09+02:00",
-      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-      "summary": "OpenAI sier at de har funnet en løsning på et flere tiår gammelt avansert matematikkproblem i løpet av få timer ved å bruke en ny kunstig intelligens (AI)-modell og tusenvis av AI-roboter. ChatGPT-produsenten sa tirsdag eksternt at ved å fokusere en gruppe på omtrent 10 000 AI-agenter, eller AI-roboter som utfører oppgaver litt autonomt, løste det et notorisk vanskelig matematikkproblem på bare 88 timer. Innen 5. september, eller omtrent 88 timer etter at det hadde satt 10 000 AI-roboter til oppgaven, hadde OpenAI funnet en løsning på det som omtales som Navier–Stokes-eksistens- og jevnhetsproblemet.",
-      "keyPoints": [
-        "OpenAI sier at de har funnet en løsning på et flere tiår gammelt avansert matematikkproblem i løpet av få timer ved å bruke en ny kunstig intelligens (AI)-modell og tusenvis av AI-roboter.",
-        "ChatGPT-produsenten sa tirsdag eksternt at ved å fokusere en gruppe på omtrent 10 000 AI-agenter, eller AI-roboter som utfører oppgaver litt autonomt, løste det et notorisk vanskelig matematikkproblem på bare 88 timer.",
-        "Innen 5. september, eller omtrent 88 timer etter at det hadde satt 10 000 AI-roboter til oppgaven, hadde OpenAI funnet en løsning på det som omtales som Navier–Stokes-eksistens- og jevnhetsproblemet.",
-        "Løsningen som OpenAI sier de nå har nådd for Navier–Stokes-eksistens- og smidighetsproblemet løste to av de fire uttalelsene i beviset som tusenårsprisen hadde krevd."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
-      "localImage": "assets/news/256da5825c1e25.jpg",
-      "score": 19
-    },
-    {
-      "id": "ada4c09fdf463c",
-      "category": "AI",
-      "published": "09.09. 01:27",
-      "publishedISO": "2026-09-09T01:27:23+02:00",
-      "title": "Meta continues to run ads promoting child sexual abuse material in India: report",
-      "summary": "Tech Transparency Project (TTP) sier det fant 332 annonser med CSAM som kjørte på Facebook og Instagram Advarsel: Denne historien inneholder beskrivelser av overgrep Meta kjørte hundrevis av betalte annonser med kunstig intelligens-genererte bilder av seksuelt misbruk av barn, inkludert flere i India, i løpet av de siste 10 månedene, har en ny rapport fra USA-baserte kampanjer funnet. Rapporten kommer to måneder etter at den indiske regjeringen beordret Meta til å fjerne alle annonser og innhold som promoterer materiale om seksuelle overgrep mot barn (CSAM) på Instagram. Da BBC brukte Metas rapporteringssystem for å rapportere en av annonsene med seksuelle overgrep mot barn til Instagram, tok ikke plattformen den ned.",
-      "keyPoints": [
-        "Rapporten kommer to måneder etter at den indiske regjeringen beordret Meta til å fjerne alle annonser og innhold som promoterer materiale om seksuelle overgrep mot barn (CSAM) på Instagram.",
-        "Tech Transparency Project (TTP) sier det fant 332 annonser med CSAM som kjørte på Facebook og Instagram Advarsel: Denne historien inneholder beskrivelser av overgrep Meta kjørte hundrevis av betalte annonser med kunstig intelligens-genererte bilder av seksuelt misbruk av barn, inkludert flere i India, i løpet av de siste 10 månedene, har en ny rapport fra USA-baserte kampanjer funnet.",
-        "Da BBC brukte Metas rapporteringssystem for å rapportere en av annonsene med seksuelle overgrep mot barn til Instagram, tok ikke plattformen den ned.",
-        "TTP sa at de prøvde å rapportere annonser via Metas eget rapporteringssystem, og at av de 84 annonsene som kjørte i India, kunne de rapportere 55."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqxv2vwjjq3o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c81/live/921c3ba0-ab3b-11f1-8710-d518c99f37f3.jpg",
-      "localImage": "assets/news/ada4c09fdf463c.jpg",
-      "score": 15
-    },
-    {
-      "id": "e85a80920d0765",
-      "category": "Økonomi",
-      "published": "09.09. 15:17",
-      "publishedISO": "2026-09-09T15:17:56+02:00",
-      "title": "Energy costs: Share Energy to increase electricity prices by 12.6%",
-      "summary": "Strømleverandøren i Nord-Irland, Share Energy, skal øke sine tariffpriser med 12,6 % fra 1. oktober. Forbrukerrådet for Nord-Irland har sagt at leverandørens kredittkunder og forhåndsbetalingskunder vil se sine årlige strømkostnader øke med rundt 129 pund i året. Share Energy har 41 092 kunder, 417 av disse er kommersielle kunder og 40 675 er innenlandske.",
-      "keyPoints": [
-        "Northern Ireland electricity supplier, Share Energy, is to increase its tariff prices by 12.6% from 1 October.",
-        "Forbrukerrådet for Nord-Irland har sagt at leverandørens kredittkunder og forhåndsbetalingskunder vil se sine årlige strømkostnader øke med rundt 129 pund i året.",
-        "Share Energy har 41 092 kunder, 417 av disse er kommersielle kunder og 40 675 er innenlandske.",
-        "Selskapet gikk inn på Nord-Irlands elektrisitetsmarked i 2004."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c86x0v4ey5yo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/35df/live/4b268270-ac42-11f1-96a2-2f464854ded4.jpg",
-      "localImage": "assets/news/e85a80920d0765.jpg",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/1f4e0292-91a7-38a0-ab4e-20f664523f36?fit=crop&h=675&upscale=true&w=1200&s=07dbff369c669445c83d5a10096306c1bf0f0a06",
+      "localImage": "assets/news/9095eb62de1f3b.jpg",
+      "score": 20
     },
     {
       "id": "81544c31a30df8",
@@ -211,7 +127,91 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/81544c31a30df8.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "a8eca5c2feeaae",
+      "category": "Norge",
+      "published": "08.09. 18:00",
+      "publishedISO": "2026-09-08T18:00:03+02:00",
+      "title": "Handelsbanken spår renteheving i september og høyere normalt rentenivå",
+      "summary": "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken. Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover. Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
+      "keyPoints": [
+        "I tillegg til en ny renteheving fra Norges Bank 24. september, tror banken nordmenn må forberede seg på at rentenivået vil holde seg høyt framover. – Når det kommer til stykket, skal nok ikke renta noe særlig lenger ned enn den er nå, sier Marius Gonsholt Hov, sjeføkonom i Handelsbanken.",
+        "Handelsbankens sjeføkonom Marius Gonsholt Hov spår renteheving i september og fortsatt høyt rentenivå framover.",
+        "Høyere styringsrente betyr økte utgifter dersom en har boliglån Selv om kjerneinflasjonen har gått ned, noe som normalt vil peke i retning av lavere rente, mener han andre økonomiske indikatorer peker i retning av høyere rente på kort sikt. – Norges Bank er fortsatt ikke der at de kan si at jobben er helt gjort, sier Hov.",
+        "Og rentenivået vil legge seg på et høyere nivå enn tidligere antatt, spår banken."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/handelsbanken-spar-renteheving-i-september-og-hoyere-normalt-renteniva-1.18017595",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/5b-Y48k6TDJeTXiG238bWQiyKCFrTkczb7NqwBdIIsWA.jpg",
+      "localImage": "assets/news/a8eca5c2feeaae.jpg",
+      "score": 15
+    },
+    {
+      "id": "92044443dbfff2",
+      "category": "Økonomi",
+      "published": "08.09. 16:37",
+      "publishedISO": "2026-09-08T16:37:59+02:00",
+      "title": "Storaksjonær varsler nedsalg i Autostore",
+      "summary": "Ifølge en børsmelding er det mulige salget på rundt 103 millioner aksjer, tilsvarende rundt tre prosent av alle aksjene i Autostore. Oslo Børs-noterte Autostore har en markedsverdi på rundt 57 milliarder kroner. Etter salget venter THL å eie rundt 853 millioner aksjer, tilsvarende 24,9 prosent av Autostore.",
+      "keyPoints": [
+        "Ifølge en børsmelding er det mulige salget på rundt 103 millioner aksjer, tilsvarende rundt tre prosent av alle aksjene i Autostore.",
+        "Etter salget venter THL å eie rundt 853 millioner aksjer, tilsvarende 24,9 prosent av Autostore.",
+        "Oslo Børs-noterte Autostore har en markedsverdi på rundt 57 milliarder kroner.",
+        "THL har vært investert i Autostore siden 2019, og satt med halvparten av aksjene i forkant av Autostores børsnotering i 2021."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/XM3AGm/storaksjonaer-varsler-nedsalg-i-autostore-vil-selge-aksjer-verdt-1-7-milliarder-kroner",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fc94ceae-5d7e-3724-a197-be9643b8235c?fit=crop&h=675&upscale=true&w=1200&s=7920fc553a4113dc2ee9b0a3218844ce15e3723f",
+      "localImage": "assets/news/92044443dbfff2.jpg",
+      "score": 15
+    },
+    {
+      "id": "c339fb7b108ace",
+      "category": "Økonomi",
+      "published": "08.09. 15:33",
+      "publishedISO": "2026-09-08T15:33:09+02:00",
+      "title": "Rød ukestart på Wall Street",
+      "summary": "Wall Street begynte uken senere enn vanlig, etter at det var stengt på fridagen Labor Day mandag. Som en del av avtalen har Qualcomm utstedt tegningsretter til Amazon, som gir rett til å kjøpe 25 millioner aksjer i selskapet til en pris på 161,26 dollar per aksje, totalt fire milliarder dollar. Den ligger på 98,7 dollar fatet, opp 1,4 dollar for dagen, etter at prisen på det høyeste var 99,4 dollar tirsdag.",
+      "keyPoints": [
+        "Wall Street begynte uken senere enn vanlig, etter at det var stengt på fridagen Labor Day mandag.",
+        "Som en del av avtalen har Qualcomm utstedt tegningsretter til Amazon, som gir rett til å kjøpe 25 millioner aksjer i selskapet til en pris på 161,26 dollar per aksje, totalt fire milliarder dollar.",
+        "Den ligger på 98,7 dollar fatet, opp 1,4 dollar for dagen, etter at prisen på det høyeste var 99,4 dollar tirsdag.",
+        "Aksjen til tek-giganten Qualcomm, en viktig leverandør av brikker til mobiltelefoner, steg 3,2 prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/7poGQK/wall-street-tynges-etter-langhelg-brikkegigant-bykser-etter-amazon-avtale",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/29fbab33-81a5-3a8c-b8f0-0bc893d819de?fit=crop&h=675&upscale=true&w=1200&s=2b476e06ec846696ef9bd163f3d071ae9986702e",
+      "localImage": "assets/news/c339fb7b108ace.jpg",
+      "score": 15
+    },
+    {
+      "id": "723917323d3684",
+      "category": "Norge",
+      "published": "09.09. 17:52",
+      "publishedISO": "2026-09-09T17:52:40+02:00",
+      "title": "Kongefamilien møtt med jubel",
+      "summary": "Onsdag ettermiddag kom kongefamilien ut på slottsbalkongen og blei møtt med enorm jubel og applaus. MØTT MED APPLAUS: Kong Haakon og dronning Mette-Marit helsa til folket og blei møtt med fleire minutt med jubel og applaus. Dei blei møtt av jubel og ein fleire minutt lang applaus frå dei frammøtte.",
+      "keyPoints": [
+        "Onsdag ettermiddag kom kongefamilien ut på slottsbalkongen og blei møtt med enorm jubel og applaus.",
+        "MØTT MED APPLAUS: Kong Haakon og dronning Mette-Marit helsa til folket og blei møtt med fleire minutt med jubel og applaus.",
+        "Dei blei møtt av jubel og ein fleire minutt lang applaus frå dei frammøtte.",
+        "Foto: Lars Martin Hunstad / NRK Kongehuset la onsdag ut eigne bilete som viser korleis det var for kongefamilien å bli møtt av folket på Slottplassen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/artikkel/kongefamilien-mott-med-jubel-1527498",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/EF4f_NuHR2lutCgkf3A7ZgJNBnf_buG-mK67J1jN9muw",
+      "localImage": "assets/news/723917323d3684.webp",
+      "score": 13
     }
   ]
 }
