@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 11:13",
-  "updatedISO": "2026-09-09T11:13:25.139411+02:00",
+  "updatedAt": "09.09.2026 kl. 11:32",
+  "updatedISO": "2026-09-09T11:32:11.313484+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,16 +67,16 @@
       "score": 23
     },
     {
-      "id": "8a73538fd9ad0a",
+      "id": "c3ddaf8474e451",
       "category": "Økonomi",
       "published": "09.09. 09:00",
       "publishedISO": "2026-09-09T09:00:30+02:00",
-      "title": "Autostore faller",
-      "summary": "Lee Advisors (THL), som er oppført som nest største aksjonær i Autostore, har solgt aksjer i selskapet verdt 1,6 milliarder kroner. Etter salget eier THL 24,9 prosent av AutoStore, ned fra 27,9 prosent. Aksjen steg kort tid etter børsåpning, men faller 1,9 prosent i 9.20-tiden.",
+      "title": "Autostore faller kraftig",
+      "summary": "Lee Advisors (THL), som er oppført som nest største aksjonær i Autostore, har solgt aksjer i selskapet verdt 1,6 milliarder kroner. Etter salget eier THL 24,9 prosent av AutoStore, ned fra 27,9 prosent. Aksjen steg kort tid etter børsåpning, men faller 0,5 prosent i 11.10-tiden.",
       "keyPoints": [
         "Lee Advisors (THL), som er oppført som nest største aksjonær i Autostore, har solgt aksjer i selskapet verdt 1,6 milliarder kroner.",
         "Etter salget eier THL 24,9 prosent av AutoStore, ned fra 27,9 prosent.",
-        "Aksjen steg kort tid etter børsåpning, men faller 1,9 prosent i 9.20-tiden.",
+        "Aksjen steg kort tid etter børsåpning, men faller 0,5 prosent i 11.10-tiden.",
         "Autostore opplyser i en separat børsmelding at THL er representert i selskapets styre og anses som nært knyttet til styreleder James C."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
@@ -84,7 +84,7 @@
       "url": "https://e24.no/boers-og-finans/i/bO6dRe/oslo-boers-aapner-opp",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/93e788cf-fce3-3630-8b6c-25c4dc254411?fit=crop&h=675&upscale=true&w=1200&s=f40bd7abad30ad6f520e874a3fd390f79a62687f",
-      "localImage": "assets/news/8a73538fd9ad0a.jpg",
+      "localImage": "assets/news/c3ddaf8474e451.jpg",
       "score": 20
     },
     {
