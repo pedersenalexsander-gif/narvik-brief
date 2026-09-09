@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 11:32",
-  "updatedISO": "2026-09-09T11:32:11.313484+02:00",
+  "updatedAt": "09.09.2026 kl. 11:48",
+  "updatedISO": "2026-09-09T11:48:27.149860+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -190,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/29fbab33-81a5-3a8c-b8f0-0bc893d819de?fit=crop&h=675&upscale=true&w=1200&s=2b476e06ec846696ef9bd163f3d071ae9986702e",
       "localImage": "assets/news/c339fb7b108ace.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "e58639a6ef4e94",
