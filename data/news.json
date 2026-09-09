@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 05:29",
-  "updatedISO": "2026-09-09T05:29:56.653043+02:00",
+  "updatedAt": "09.09.2026 kl. 05:46",
+  "updatedISO": "2026-09-09T05:46:02.684761+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/4d365891d6ebc7.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "d0c41a76b47fac",
@@ -55,8 +55,8 @@
       "keyPoints": [
         "Tung Chee-hwa var den første administrerende direktøren i Hong Kong etter overleveringen i 1997. Tung Chee-hwa, Hong Kongs første leder etter at byen kom tilbake til kinesisk styre, har dødd i en alder av 89.",
         "Til tross for å ha liten politisk erfaring, ble Tung antatt å være håndplukket av Beijing til å lede Hong Kong etter overleveringen.",
-        "Den tidligere skipsavlingen tok over tømmene fra den siste britiske guvernøren Chris Patten i juli 1997 da Storbritannia overlot Hong Kong tilbake til Kina, og avsluttet mer enn 150 år med britisk kontroll.",
-        "Tung Chee-hwa (til høyre) tok over etter den siste britiske guvernøren Chris Patten i 1997. Den asiatiske finanskrisen rammet kort tid etter at Tung tok over, noe som sendte boligprisene ned."
+        "Den tidligere skipsavlingen tok over tømmene fra den siste britiske guvernøren Chris Patten i juli 1997 da Storbritannia ga Hong Kong tilbake til Kina, og avsluttet mer enn 150 år med britisk kontroll.",
+        "Tung Chee-hwa (til høyre) tok over fra den siste britiske guvernøren Chris Patten i 1997. Den asiatiske finanskrisen rammet kort tid etter at Tung tok over, noe som sendte boligprisene ned."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -85,7 +85,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e811/live/4fb37d80-aba6-11f1-8e72-a346833ed029.jpg",
       "localImage": "assets/news/9fd7877bbe5838.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "4812888a33d1cc",
