@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 10:47",
-  "updatedISO": "2026-09-09T10:47:44.912057+02:00",
+  "updatedAt": "09.09.2026 kl. 11:13",
+  "updatedISO": "2026-09-09T11:13:25.139411+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3y_81EUTjou7VntUGKC5iAS6pypF_gvNVgKxcrKT89PA.jpg",
       "localImage": "assets/news/059067ec24bc2e.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "4d365891d6ebc7",
@@ -193,25 +193,25 @@
       "score": 17
     },
     {
-      "id": "57cd62e9acbf22",
+      "id": "e58639a6ef4e94",
       "category": "Økonomi",
-      "published": "09.09. 09:20",
-      "publishedISO": "2026-09-09T09:20:56+02:00",
-      "title": "Oljeprisen bikker 100 dollar fatet",
-      "summary": "Nordsjøoljen Brent passerte onsdag morgen 100 dollar fatet for første gang siden 24. juli, ifølge Infront. Analytikerne i Goldman Sachs anslår at oljeprisen vil havne på 80 dollar fatet i snitt neste år, gitt at eksporten fra regionen etter hvert blir normalisert. Men meglerne mener at prisen kan gå opp til 120 dollar fatet hvis konflikten fortsetter og angrepene på skip i Midtøsten skulle fortsette å øke i omfang, ifølge Bloomberg.",
+      "published": "08.09. 22:57",
+      "publishedISO": "2026-09-08T22:57:13+02:00",
+      "title": "Trump vil kaste ut Canada fra statlige kontrakter",
+      "summary": "Donald Trump varslet tirsdag at han vil instruere den amerikanske innkjøpsmyndigheten General Services Administration og handelsrepresentanten USTR om å fjerne kanadiske produkter fra føderale statlige kontrakter, melder Bloomberg. I et innlegg på Truth Social skrev Trump at tiltakene vil bli iverksatt «med mindre Canada gjenoppretter full og rettferdig gjensidighet for amerikanske bønder og selskaper». Forhandlinger mellom USA og Canada om en bredere handelsavtale brøt sammen i siste liten i august.",
       "keyPoints": [
-        "Analytikerne i Goldman Sachs anslår at oljeprisen vil havne på 80 dollar fatet i snitt neste år, gitt at eksporten fra regionen etter hvert blir normalisert.",
-        "Nordsjøoljen Brent passerte onsdag morgen 100 dollar fatet for første gang siden 24. juli, ifølge Infront.",
-        "Men meglerne mener at prisen kan gå opp til 120 dollar fatet hvis konflikten fortsetter og angrepene på skip i Midtøsten skulle fortsette å øke i omfang, ifølge Bloomberg.",
-        "Etter USA og Israels angrep på Iran 28. februar toppet oljeprisen seg på 119 dollar i mars."
+        "Donald Trump varslet tirsdag at han vil instruere den amerikanske innkjøpsmyndigheten General Services Administration og handelsrepresentanten USTR om å fjerne kanadiske produkter fra føderale statlige kontrakter, melder Bloomberg.",
+        "I et innlegg på Truth Social skrev Trump at tiltakene vil bli iverksatt «med mindre Canada gjenoppretter full og rettferdig gjensidighet for amerikanske bønder og selskaper».",
+        "Forhandlinger mellom USA og Canada om en bredere handelsavtale brøt sammen i siste liten i august.",
+        "Det førte til at Trump-administrasjonen innførte 50 prosent toll på kanadiske varer verdt milliarder av dollar, ifølge Bloomberg."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/q6xMa1/oljeprisen-bikker-100-dollar-fatet",
+      "url": "https://e24.no/internasjonal-oekonomi/i/GxXAd9/trump-vil-kaste-ut-canada-fra-statlige-kontrakter",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3f3ca50f-5aaf-37bb-9062-bd36819e7ed6?fit=crop&h=675&upscale=true&w=1200&s=fb708cc2a6a6120b8bc0f63302991238375fd878",
-      "localImage": "assets/news/57cd62e9acbf22.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/78fbf4e9-82e4-3bca-929a-30c66e1fe8c6?fit=crop&h=675&upscale=true&w=1200&s=26c009cb675dcf96c9992b7bd1ac9d758cfd86a5",
+      "localImage": "assets/news/e58639a6ef4e94.jpg",
+      "score": 15
     }
   ]
 }
