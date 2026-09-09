@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.09.2026 kl. 03:12",
-  "updatedISO": "2026-09-09T03:12:18.869179+02:00",
+  "updatedAt": "09.09.2026 kl. 03:29",
+  "updatedISO": "2026-09-09T03:29:26.555632+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -193,24 +193,24 @@
       "score": 17
     },
     {
-      "id": "8d5fd59fa606aa",
+      "id": "ef311e3c8f4d9a",
       "category": "Økonomi",
-      "published": "08.09. 22:15",
-      "publishedISO": "2026-09-08T22:15:27+02:00",
-      "title": "Oljeprisen passerer 99 dollar",
-      "summary": "Oljeprisen steg brått tirsdag kveld, og litt over klokken 22 passerer prisen 99 dollar per fat. Prisoppgangen kommer etter at Bloomberg melder, med henvisning til det iranske nyhetsbyrået Mehr, om eksplosjoner i området ved den strategisk viktige øya Kharg i Iran. Det har bidratt til å løfte oljeprisen, som på det høyeste tirsdag morgen var på 99,4 dollar fatet før prisen roet seg.",
+      "published": "08.09. 11:19",
+      "publishedISO": "2026-09-08T11:19:10+02:00",
+      "title": "Oljeprisen nærmer seg 100 dollar",
+      "summary": "Tirsdag er oljeprisen (brent spot) 98,6 dollar fatet ved 14-tiden, opp 1,4 prosent for dagen. Begge deler er opp 5 dollar fra tidligere anslag. – Markedene priser i større grad inn en langvarig konflikt i Midtøsten, skriver Goldman Sachs-analytikerne i notatet, ifølge Bloomberg. – Usikkerheten rundt prisanslaget vårt heller fremdeles betydelig mot oppsiden, påpeker de videre. Dersom angrep mot skip i Midtøsten øker kan oljeprisen øke til så mye som 120 dollar, sa Goldman Sachs-analytiker Daan Struyven i et tv-intervju med Bloomberg.",
       "keyPoints": [
-        "Oljeprisen steg brått tirsdag kveld, og litt over klokken 22 passerer prisen 99 dollar per fat.",
-        "Det har bidratt til å løfte oljeprisen, som på det høyeste tirsdag morgen var på 99,4 dollar fatet før prisen roet seg.",
-        "Prisoppgangen kommer etter at Bloomberg melder, med henvisning til det iranske nyhetsbyrået Mehr, om eksplosjoner i området ved den strategisk viktige øya Kharg i Iran.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
+        "Tirsdag er oljeprisen (brent spot) 98,6 dollar fatet ved 14-tiden, opp 1,4 prosent for dagen.",
+        "Dersom angrep mot skip i Midtøsten øker kan oljeprisen øke til så mye som 120 dollar, sa Goldman Sachs-analytiker Daan Struyven i et tv-intervju med Bloomberg.",
+        "Begge deler er opp 5 dollar fra tidligere anslag. – Markedene priser i større grad inn en langvarig konflikt i Midtøsten, skriver Goldman Sachs-analytikerne i notatet, ifølge Bloomberg. – Usikkerheten rundt prisanslaget vårt heller fremdeles betydelig mot oppsiden, påpeker de videre.",
+        "Spådommen for brent-prisen er nå 85 dollar fatet i desember i år, og 80 dollar for 2027."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/QJXkv8/oljeprisen-passerer-99-dollar",
+      "url": "https://e24.no/internasjonal-oekonomi/i/bO6bjg/oljeprisen-naermer-seg-100-dollar",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f447eaef-bf27-3c7c-a8d6-738e8d64d735?fit=crop&h=675&upscale=true&w=1200&s=70fd6de2a34e424da5570c343e3703ba32a96296",
-      "localImage": "assets/news/8d5fd59fa606aa.jpg",
+      "image": "https://akamai.vgc.no/v2/images/cf3cb61b-260b-3658-901d-59c34a35d5af?fit=crop&h=675&upscale=true&w=1200&s=2beff010a19422269f95e426325fd76756cdd25b",
+      "localImage": "assets/news/ef311e3c8f4d9a.jpg",
       "score": 16
     }
   ]
