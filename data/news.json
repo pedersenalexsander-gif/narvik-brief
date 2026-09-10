@@ -1,6 +1,6 @@
 {
-  "updatedAt": "10.09.2026 kl. 22:01",
-  "updatedISO": "2026-09-10T22:01:23.294855+02:00",
+  "updatedAt": "11.09.2026 kl. 00:28",
+  "updatedISO": "2026-09-11T00:28:33.568411+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg",
       "localImage": "assets/news/b3795279d179f2.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "558b05ec8d2598",
@@ -106,7 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1eab1e4d-7050-3cf6-b9e8-3b5fa140c380?fit=crop&h=675&upscale=true&w=1200&s=d460ebda09021a5da11715eb829e75dd9b8156a5",
       "localImage": "assets/news/b520f420d74ed6.jpg",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "724203b9651527",
+      "category": "Økonomi",
+      "published": "10.09. 15:31",
+      "publishedISO": "2026-09-10T15:31:51+02:00",
+      "title": "Nedgang på Wall Street for fjerde dag på rad",
+      "summary": "Oljeprisen (brent spot) ligger på 108,04 dollar per fat, opp 6,4 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag. Brikkegiganten Micron falt 4,9 prosent, Intel endte ned 5,57 prosent, mens Nvidia falt 2,37 prosent.",
+      "keyPoints": [
+        "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
+        "Brikkegiganten Micron falt 4,9 prosent, Intel endte ned 5,57 prosent, mens Nvidia falt 2,37 prosent.",
+        "Oljeprisen (brent spot) ligger på 108,04 dollar per fat, opp 6,4 prosent siden midnatt.",
+        "Tiårsrenten er over 4,95 prosent torsdag, det høyeste nivået siden november 2023."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a2bcfb24-b0d7-3ebd-aa19-dfb2f845a75b?fit=crop&h=675&upscale=true&w=1200&s=5e7e362875c92e637a257be98b12efb19b9c0e46",
+      "localImage": "assets/news/724203b9651527.jpg",
+      "score": 19
     },
     {
       "id": "9015284b4b4c6f",
@@ -127,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ac3a10e8-14ae-3c9e-842e-7102546fb48e?fit=crop&h=675&upscale=true&w=1200&s=0db0628a08820b604dbaed362fdffc6bb0e98d48",
       "localImage": "assets/news/9015284b4b4c6f.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "4510cceb891417",
@@ -148,28 +169,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/XOedesXGtHDAUEkiyYeORwSzPht0aKrf-xOZbPJaW0QQ.jpg",
       "localImage": "assets/news/4510cceb891417.jpg",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "77e4ecbf90b35b",
-      "category": "Økonomi",
-      "published": "10.09. 15:31",
-      "publishedISO": "2026-09-10T15:31:51+02:00",
-      "title": "Bred nedgang på Wall Street",
-      "summary": "Oljeprisen (brent spot) ligger på 107,1 dollar per fat, opp 5,5 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag. Brikkegiganten Micron faller 4,5 prosent, Intel er ned 4,77 prosent, mens Nvidia faller 2,46 prosent.",
+      "id": "8390503ed06837",
+      "category": "Nord-Norge",
+      "published": "10.09. 22:15",
+      "publishedISO": "2026-09-10T22:15:42+02:00",
+      "title": "Skrev 350 millioner kr dyrere kontrakt: – Eneste tilbyder",
+      "summary": "I dag ble det klart at Fylkeskommunen inngår en ny kontrakt med Boreal om den såkalte Nordlands-ekspressen. Det er over 350 millioner kroner dyrere enn forrige kontrakt. Fylkeskommunen innrømmer i dag at Boreal var eneste tilbyder.",
       "keyPoints": [
-        "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
-        "Brikkegiganten Micron faller 4,5 prosent, Intel er ned 4,77 prosent, mens Nvidia faller 2,46 prosent.",
-        "Oljeprisen (brent spot) ligger på 107,1 dollar per fat, opp 5,5 prosent siden midnatt.",
-        "Tiårsrenten er over 4,95 prosent torsdag, det høyeste nivået siden november 2023."
+        "Det er over 350 millioner kroner dyrere enn forrige kontrakt.",
+        "Fylkeskommunen innrømmer i dag at Boreal var eneste tilbyder.",
+        "I dag ble det klart at Fylkeskommunen inngår en ny kontrakt med Boreal om den såkalte Nordlands-ekspressen.",
+        "Richard Dagsvik, fylkesråd for samferdsel, sier det er pålagt med EØS-avtalen å holde et anbud, selv om de bare får ett tilbud. – Er det ikke en falliterklæring at det bare er et selskap som ønsker å drifte hurtigbåtruta? – Det kan du si, men det er et resultat av de strukturelle endringene som har skjedd i denne bransjen."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a2bcfb24-b0d7-3ebd-aa19-dfb2f845a75b?fit=crop&h=675&upscale=true&w=1200&s=5e7e362875c92e637a257be98b12efb19b9c0e46",
-      "localImage": "assets/news/77e4ecbf90b35b.jpg",
-      "score": 19
+      "url": "https://www.nrk.no/nordland/skrev-350-millioner-kr-dyrere-kontrakt_-__eneste-tilbyder-1.18021188",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/gAkkClxyiKRwTQ1EzuDMswPdSodwZ2BY2tT9SnBVrdbA.jpg",
+      "localImage": "assets/news/8390503ed06837.jpg",
+      "score": 17
     },
     {
       "id": "a5db503d715142",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8c26df8b-0eb8-3ced-aa1e-27efa515a4f0?fit=crop&h=675&upscale=true&w=1200&s=c94dfe559f1e13c66ce4c0ee37ee5cc15010f27c",
       "localImage": "assets/news/a5db503d715142.jpg",
-      "score": 17
-    },
-    {
-      "id": "1bdb6f9891ca84",
-      "category": "Norge",
-      "published": "10.09. 19:58",
-      "publishedISO": "2026-09-10T19:58:47+02:00",
-      "title": "Opplysninger til NRK: Flere endringer i Støre-regjeringen",
-      "summary": "Foto: Adrian Heggem Misfjord / NRK, Frode Fjerdingstad / NRK, Aleksandr Nedbaev / NRK Statsminister Jonas Gahr Støre (Ap) gjør flere endringer i sin regjering fredag. Karianne Tung går av som digitaliserings- og forvaltningsminister, Jon-Ivar Nygård går av som samferdselsminister og Andreas Bjelland Eriksen går av som klima- og miljøminister, ifølge NRKs opplysninger. Foto: William Jobling / NRK Ifølge NRKs opplysninger tar Torgeir Micaelsen over for Tung som digitaliserings- og forvaltningsminister.",
-      "keyPoints": [
-        "Foto: Adrian Heggem Misfjord / NRK, Frode Fjerdingstad / NRK, Aleksandr Nedbaev / NRK Statsminister Jonas Gahr Støre (Ap) gjør flere endringer i sin regjering fredag.",
-        "Foto: William Jobling / NRK Ifølge NRKs opplysninger tar Torgeir Micaelsen over for Tung som digitaliserings- og forvaltningsminister.",
-        "Karianne Tung går av som digitaliserings- og forvaltningsminister, Jon-Ivar Nygård går av som samferdselsminister og Andreas Bjelland Eriksen går av som klima- og miljøminister, ifølge NRKs opplysninger.",
-        "Kort tid etter at borgfreden er over, blir det altså endringer i Arbeiderparti-regjeringen, får NRK opplyst torsdag kveld."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/opplysninger-til-nrk-flere-endringer-i-store-regjeringen-1527579",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/thmEWvhjNz9eC9ImV5eipwWef328DQrR97XYQdWwy0UQ",
-      "localImage": "assets/news/1bdb6f9891ca84.webp",
       "score": 17
     }
   ]
