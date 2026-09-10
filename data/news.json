@@ -1,70 +1,91 @@
 {
-  "updatedAt": "10.09.2026 kl. 19:31",
-  "updatedISO": "2026-09-10T19:31:11.866896+02:00",
+  "updatedAt": "10.09.2026 kl. 22:01",
+  "updatedISO": "2026-09-10T22:01:23.294855+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "4510cceb891417",
+      "id": "24fb5f89c4dae7",
       "category": "Nord-Norge",
-      "published": "10.09. 14:13",
-      "publishedISO": "2026-09-10T14:13:02+02:00",
-      "title": "– Andøya-oppskytingen er et viktig skritt i norsk og europisk romsamarbeid",
-      "summary": "Norge vil styrke det europeiske romsamarbeidet og bygge videre på oppskytingen fra Andøya Spaceport. Etter den historiske satellittoppskytingen fra Andøya, understreker næringsministeren at Norge har ambisjoner om å bli en førende romnasjon, skriver Nærings- og fiskeridepartementet i emn melding. – Verdensrommet blir stadig viktigere for oss alle. Den vellykkede oppskytingen fra Andøya viser at Norge spiller en viktig rolle, sier Myrseth.",
+      "published": "10.09. 21:32",
+      "publishedISO": "2026-09-10T21:32:33+02:00",
+      "title": "Vegvesenet må ta millionregning etter fristglipp",
+      "summary": "Årsaken til at reklamasjonssaken nå formelt er avsluttet, er at Vegvesenet overså viktige tidsfrister. Den generelle reklamasjonsfristen på tre år hadde allerede løpt ut da skadene ble forsøkt reklamert på i august 2022 (brua åpnet i 2018). Skadene består i at asfalten på den 10 000 kvadratmeter store stålkassedelen av brua sprekker opp og løsner.",
       "keyPoints": [
-        "Den vellykkede oppskytingen fra Andøya viser at Norge spiller en viktig rolle, sier Myrseth.",
-        "Etter den historiske satellittoppskytingen fra Andøya, understreker næringsministeren at Norge har ambisjoner om å bli en førende romnasjon, skriver Nærings- og fiskeridepartementet i emn melding. – Verdensrommet blir stadig viktigere for oss alle.",
-        "Norge vil styrke det europeiske romsamarbeidet og bygge videre på oppskytingen fra Andøya Spaceport.",
-        "Næringsministeren trekker frem at et tettere samarbeid med EU og europeiske partnerland er helt avgjørende for å nå disse målene. – Vi har mye å bidra med, og vi har store ambisjoner."
+        "Årsaken til at reklamasjonssaken nå formelt er avsluttet, er at Vegvesenet overså viktige tidsfrister.",
+        "Den generelle reklamasjonsfristen på tre år hadde allerede løpt ut da skadene ble forsøkt reklamert på i august 2022 (brua åpnet i 2018).",
+        "Skadene består i at asfalten på den 10 000 kvadratmeter store stålkassedelen av brua sprekker opp og løsner.",
+        "Etaten bekrefter at de har mistet muligheten til å kreve erstatning fra den kinesiske entreprenøren Sichuan Road and Bridge Group (SRBG)."
       ],
       "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/_-andoya-oppskytingen-er-et-viktig-skritt-i-norsk-og-europisk-romsamarbeid-1.18020715",
+      "url": "https://www.nrk.no/nordland/vegvesenet-ma-ta-millionregning-etter-fristglipp-1.18021176",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/XOedesXGtHDAUEkiyYeORwSzPht0aKrf-xOZbPJaW0QQ.jpg",
-      "localImage": "assets/news/4510cceb891417.jpg",
+      "image": "https://gfx.nrk.no/eLmaOKS-UrFaM-qWAGFrLAGLvm0aqQAUCnH9TYSTs9jg.jpg",
+      "localImage": "assets/news/24fb5f89c4dae7.jpg",
       "score": 20
     },
     {
-      "id": "14a3ddc4c988e1",
+      "id": "9375302d9ec51c",
       "category": "Norge",
-      "published": "09.09. 22:54",
-      "publishedISO": "2026-09-09T22:54:34+02:00",
-      "title": "Liverpool med sterk snuoperasjon",
-      "summary": "Liverpool fikk en trøblete start i storkampen mot Atlético Madrid, men reddet seg mesterlig inn og vant til slutt 2–1 på Anfield. Neste mesterligaoppgjør for Liverpool er mot østerrikske LASK i oktober. Barcelonas midtbanespiller Rodri sier han har beklaget til hele Valencia-troppen etter at TV-kameraer tilsynelatende fanget ham i å omtale La Liga-konkurrenten på nedverdigende vis. – Jeg ba om unnskyldning til min venn og kollega Jose Gaya og til hele troppen, sa Rodri etter Barcelonas 5-1-seier mot Feyenoord i Champions League onsdag ifølge BBC.",
+      "published": "10.09. 20:12",
+      "publishedISO": "2026-09-10T20:12:08+02:00",
+      "title": "Tre Hofseth-selskap har fått gebyr på til saman 5,3 millionar kroner frå Arbeidstilsynet",
+      "summary": "Tre av laksemilliardæren sine selskap må punge ut med 5,3 millionar kroner i gebyr. Arbeidstilsynet meiner at dei ålesundsbaserte sjømatbedriftene har vore grovt aktlause og har skrive ut fleire uvanleg høge gebyr. – Det er alvorlege brot på reglane om innleige og arbeidstid, plikta til å informere og halde oppsyn, seier seksjonsleiar hos Arbeidstilsynet Jens Erik Romslo. Fleire av arbeidarane i bemanningsselskapa skal også ha fått for lite betalt, og etter tilsynet fekk dei etterbetalt til saman 380.000 kroner.",
       "keyPoints": [
-        "Liverpool fikk en trøblete start i storkampen mot Atlético Madrid, men reddet seg mesterlig inn og vant til slutt 2–1 på Anfield.",
-        "Barcelonas midtbanespiller Rodri sier han har beklaget til hele Valencia-troppen etter at TV-kameraer tilsynelatende fanget ham i å omtale La Liga-konkurrenten på nedverdigende vis. – Jeg ba om unnskyldning til min venn og kollega Jose Gaya og til hele troppen, sa Rodri etter Barcelonas 5-1-seier mot Feyenoord i Champions League onsdag ifølge BBC.",
-        "Neste mesterligaoppgjør for Liverpool er mot østerrikske LASK i oktober.",
-        "Han skal ha kommet med kommentaren til lagkameratene Pau Cubarsi og Raphinha på benken etter å ha blitt byttet ut under Barcelonas 5-0-seier mot Valencia søndag."
+        "Tre av laksemilliardæren sine selskap må punge ut med 5,3 millionar kroner i gebyr.",
+        "Fleire av arbeidarane i bemanningsselskapa skal også ha fått for lite betalt, og etter tilsynet fekk dei etterbetalt til saman 380.000 kroner.",
+        "Arbeidstilsynet meiner at dei ålesundsbaserte sjømatbedriftene har vore grovt aktlause og har skrive ut fleire uvanleg høge gebyr. – Det er alvorlege brot på reglane om innleige og arbeidstid, plikta til å informere og halde oppsyn, seier seksjonsleiar hos Arbeidstilsynet Jens Erik Romslo.",
+        "Arbeidstilsynet meiner at dei tre selskapa Hofseth Processing, Hofseth Aalesund og Hofseth AS, har drive systematisk og ulovleg innleige av arbeidskraft."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/liverpool-med-sterk-snuoperasjon-1.18019697",
+      "url": "https://www.nrk.no/mr/tre-hofseth-selskap-har-fatt-gebyr-pa-til-saman-5_3-millionar-kroner-fra-arbeidstilsynet-1.18017681",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/h1DltrSevYuP7PeQ3qWAUwbhOHerUa8Srd5v4DH8SInQ.jpg",
-      "localImage": "assets/news/14a3ddc4c988e1.jpg",
+      "image": "https://gfx.nrk.no/D-RoUbPUyymMl8_615q0Hgqk0RW-npczOe5Q11tEe5Bg.jpg",
+      "localImage": "assets/news/9375302d9ec51c.jpg",
       "score": 17
     },
     {
-      "id": "5fdc3596b8b2e3",
+      "id": "b3795279d179f2",
       "category": "Verden",
-      "published": "10.09. 14:24",
-      "publishedISO": "2026-09-10T14:24:54+02:00",
-      "title": "Twenty-five dead after fire erupts on cargo ship in Qingdao, eastern China - state media",
-      "summary": "Se: Tykke røykskyer stiger opp fra lasteskipbrann i Qingdao, Kina. Tjuefem mennesker har blitt drept i en brann på et utenlandsk flagget lasteskip som ligger til kai ved en havn øst i Kina, ifølge den kinesiske statskringkasteren CCTV. Bilder utgitt av statlige medier viste at fartøyet var Ocean Melody, et 190 meter langt Liberia-flagg som ankom Qingdao 31. august, ifølge sporingssiden MarineTraffic. Kinas premier Li Qiang oppfordret til å redde folk som er fanget om bord på skipet Qingdao er et viktig handelsknutepunkt og rangerer blant verdens travleste havner.",
+      "published": "10.09. 18:48",
+      "publishedISO": "2026-09-10T18:48:37+02:00",
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "summary": "USAs president Donald Trump har tilbudt hver voksen amerikaner 5000 dollar (3700 pund) hvis republikanerne vinner mellomvalget i november, men det er uklart hvordan en slik plan vil bli finansiert og om den er lovlig. Hvert parti gjør det hele tiden ... og det er åpenbart helt lovlig.\" Imidlertid sa Laurel Rapp, direktør for USA og Nord-Amerika-programmet ved Chatham House, til BBC at Trumps tilbud så ut til å være \"en veldig forskjellig, veldig transaksjonell avtale\" fra den typen løfter som vanligvis ble gitt av kandidater i en valgperiode. På spørsmål om hvordan utbetalingene kunne fungere, sa Det hvite hus i en uttalelse til BBC og presidenten har ikke tvilt konsekvent. \"Med den fortsatte støtten fra det amerikanske folket, vil president Trump fortsette å levere reelle resultater,\" la talsmann Davis Ingle til.",
       "keyPoints": [
-        "Se: Tykke røykskyer stiger opp fra lasteskipbrann i Qingdao, Kina. Tjuefem mennesker har blitt drept i en brann på et utenlandsk flagget lasteskip som ligger til kai ved en havn øst i Kina, ifølge den kinesiske statskringkasteren CCTV.",
-        "Bilder utgitt av statlige medier viste at fartøyet var Ocean Melody, et 190 meter langt Liberia-flagg som ankom Qingdao 31. august, ifølge sporingssiden MarineTraffic.",
-        "Kinas premier Li Qiang oppfordret til å redde folk som er fanget om bord på skipet Qingdao er et viktig handelsknutepunkt og rangerer blant verdens travleste havner.",
-        "Factory fire kills at least 28 in China's 'shoe capital'"
+        "USAs president Donald Trump har tilbudt hver voksen amerikaner 5000 dollar (3700 pund) hvis republikanerne vinner mellomvalget i november, men det er uklart hvordan en slik plan vil bli finansiert og om den er lovlig.",
+        "Hvert parti gjør det hele tiden ... og det er åpenbart helt lovlig.\" Laurel Rapp, direktør for USA og Nord-Amerika-programmet ved Chatham House, sa imidlertid til BBC at Trumps tilbud så ut til å være \"en veldig annerledes, veldig transaksjonell avtale\" fra den typen løfter som vanligvis gis av kandidater i en valgperiode.",
+        "På spørsmål om hvordan utbetalingene kunne fungere, sa Det hvite hus i en uttalelse til BBC: «Dommemennene og nektene har konsekvent tvilt på president Trump». \"Med den fortsatte støtten fra det amerikanske folket, vil president Trump fortsette å levere reelle resultater,\" la talsmann Davis Ingle til.",
+        "Se: BBC North America-redaktør Sarah Smith undersøker om Trumps løfte holder seg. Bortsett fra spørsmålet om lovlighet, har noen også spurt om Trumps tilbud ville være gjennomførbart økonomisk i sammenheng med økende amerikansk gjeld, delvis som et resultat av krigen i Iran."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77c8/live/9d308770-acfe-11f1-beae-535b95a24b3e.jpg",
-      "localImage": "assets/news/5fdc3596b8b2e3.jpg",
-      "score": 16
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg",
+      "localImage": "assets/news/b3795279d179f2.jpg",
+      "score": 17
+    },
+    {
+      "id": "558b05ec8d2598",
+      "category": "Økonomi",
+      "published": "10.09. 21:38",
+      "publishedISO": "2026-09-10T21:38:49+02:00",
+      "title": "Faren er ikke over",
+      "summary": "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten., som er det Norges Bank er mest opptatt av, kom inn på 3 prosent. Målet til Norges Bank er å få ned prisstigningen til 2 prosent, så det er fortsatt et stykke igjen. For mange økonomer lå skillet på forhånd på 3 prosent: Over 3 prosent var det «bænkers» med renteheving neste uke.",
+      "keyPoints": [
+        "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten., som er det Norges Bank er mest opptatt av, kom inn på 3 prosent.",
+        "Målet til Norges Bank er å få ned prisstigningen til 2 prosent, så det er fortsatt et stykke igjen.",
+        "For mange økonomer lå skillet på forhånd på 3 prosent: Over 3 prosent var det «bænkers» med renteheving neste uke.",
+        "Prisene steg 3,3 prosent det siste året, mens kjerneinflasjonenPrisveksten sett bort fra energipriser og avgiftsendringer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/Pd2La7/faren-er-ikke-over",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6bb86d0b-aca1-3de7-9b03-48039bbc0ebf?fit=crop&h=675&upscale=true&w=1200&s=be5ca7771bf5ea3811caa9bb8f00d0c1435527cc",
+      "localImage": "assets/news/558b05ec8d2598.jpg",
+      "score": 22
     },
     {
       "id": "b520f420d74ed6",
@@ -88,48 +109,6 @@
       "score": 21
     },
     {
-      "id": "77e4ecbf90b35b",
-      "category": "Økonomi",
-      "published": "10.09. 15:31",
-      "publishedISO": "2026-09-10T15:31:51+02:00",
-      "title": "Bred nedgang på Wall Street",
-      "summary": "Oljeprisen (brent spot) ligger på 106,55 dollar per fat, opp 4,9 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag. Brikkegiganten Micron faller 4,9 prosent, Intel er ned 4,69 prosent, mens Nvidia faller 2,21 prosent.",
-      "keyPoints": [
-        "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
-        "Brikkegiganten Micron faller 4,9 prosent, Intel er ned 4,69 prosent, mens Nvidia faller 2,21 prosent.",
-        "Oljeprisen (brent spot) ligger på 106,55 dollar per fat, opp 4,9 prosent siden midnatt.",
-        "Tiårsrenten er over 4,9 prosent torsdag, det høyeste nivået siden november 2023."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a2bcfb24-b0d7-3ebd-aa19-dfb2f845a75b?fit=crop&h=675&upscale=true&w=1200&s=5e7e362875c92e637a257be98b12efb19b9c0e46",
-      "localImage": "assets/news/77e4ecbf90b35b.jpg",
-      "score": 20
-    },
-    {
-      "id": "256da5825c1e25",
-      "category": "AI",
-      "published": "08.09. 22:57",
-      "publishedISO": "2026-09-08T22:57:09+02:00",
-      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-      "summary": "OpenAI sier at de har funnet en løsning på et flere tiår gammelt avansert matematikkproblem i løpet av få timer ved å bruke en ny kunstig intelligens (AI)-modell og tusenvis av AI-roboter. ChatGPT-produsenten sa tirsdag eksternt at ved å fokusere en gruppe på omtrent 10 000 AI-agenter, eller AI-roboter som utfører oppgaver litt autonomt, løste det et notorisk vanskelig matematikkproblem på bare 88 timer. Innen 5. september, eller omtrent 88 timer etter at det hadde satt 10 000 AI-roboter til oppgaven, hadde OpenAI funnet en løsning på det som omtales som Navier–Stokes-eksistens- og jevnhetsproblemet.",
-      "keyPoints": [
-        "OpenAI sier at de har funnet en løsning på et flere tiår gammelt avansert matematikkproblem i løpet av få timer ved å bruke en ny kunstig intelligens (AI)-modell og tusenvis av AI-roboter.",
-        "ChatGPT-produsenten sa tirsdag eksternt at ved å fokusere en gruppe på omtrent 10 000 AI-agenter, eller AI-roboter som utfører oppgaver litt autonomt, løste det et notorisk vanskelig matematikkproblem på bare 88 timer.",
-        "Innen 5. september, eller omtrent 88 timer etter at det hadde satt 10 000 AI-roboter til oppgaven, hadde OpenAI funnet en løsning på det som omtales som Navier–Stokes-eksistens- og jevnhetsproblemet.",
-        "Løsningen som OpenAI sier de nå har nådd for Navier–Stokes-eksistens- og smidighetsproblemet løste to av de fire uttalelsene i beviset som tusenårsprisen hadde krevd."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
-      "localImage": "assets/news/256da5825c1e25.jpg",
-      "score": 14
-    },
-    {
       "id": "9015284b4b4c6f",
       "category": "Økonomi",
       "published": "10.09. 14:15",
@@ -151,67 +130,88 @@
       "score": 20
     },
     {
-      "id": "44dbe4cf93be60",
-      "category": "Økonomi",
-      "published": "10.09. 11:15",
-      "publishedISO": "2026-09-10T11:15:25+02:00",
-      "title": "Oljeprisen stiger kraftig",
-      "summary": "Oljeprisen stiger videre etter meldinger om laveste saudiske oljeproduksjon siden 1990. Onsdag nådde oljeprisen 100 dollar fatet for første gang siden juli. Forstyrrelsene av skipstrafikken gjennom Hormuzstredet fortsetter, og det har vært en rekke angrep mellom USA og Iran den siste tiden. «I tillegg sier Iran at de er klare til eskalering, og Trumps rådgivere advarer privat om at Iran-krigen kan vare helt til 2029», skrev DNB Carnegie i et notat torsdag.",
+      "id": "4510cceb891417",
+      "category": "Nord-Norge",
+      "published": "10.09. 14:13",
+      "publishedISO": "2026-09-10T14:13:02+02:00",
+      "title": "– Andøya-oppskytingen er et viktig skritt i norsk og europisk romsamarbeid",
+      "summary": "Norge vil styrke det europeiske romsamarbeidet og bygge videre på oppskytingen fra Andøya Spaceport. Etter den historiske satellittoppskytingen fra Andøya, understreker næringsministeren at Norge har ambisjoner om å bli en førende romnasjon, skriver Nærings- og fiskeridepartementet i emn melding. – Verdensrommet blir stadig viktigere for oss alle. Den vellykkede oppskytingen fra Andøya viser at Norge spiller en viktig rolle, sier Myrseth.",
       "keyPoints": [
-        "Oljeprisen stiger videre etter meldinger om laveste saudiske oljeproduksjon siden 1990.",
-        "Onsdag nådde oljeprisen 100 dollar fatet for første gang siden juli.",
-        "Forstyrrelsene av skipstrafikken gjennom Hormuzstredet fortsetter, og det har vært en rekke angrep mellom USA og Iran den siste tiden. «I tillegg sier Iran at de er klare til eskalering, og Trumps rådgivere advarer privat om at Iran-krigen kan vare helt til 2029», skrev DNB Carnegie i et notat torsdag.",
-        "Den amerikanske energiadministrasjonen EIA forventer imidlertid at situasjonen skal bedre seg i 2027, og at prisene vil falle betraktelig, ifølge en fersk rapport. – Akkurat for øyeblikket ser det ikke så lystig ut."
+        "Den vellykkede oppskytingen fra Andøya viser at Norge spiller en viktig rolle, sier Myrseth.",
+        "Etter den historiske satellittoppskytingen fra Andøya, understreker næringsministeren at Norge har ambisjoner om å bli en førende romnasjon, skriver Nærings- og fiskeridepartementet i emn melding. – Verdensrommet blir stadig viktigere for oss alle.",
+        "Norge vil styrke det europeiske romsamarbeidet og bygge videre på oppskytingen fra Andøya Spaceport.",
+        "Næringsministeren trekker frem at et tettere samarbeid med EU og europeiske partnerland er helt avgjørende for å nå disse målene. – Vi har mye å bidra med, og vi har store ambisjoner."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/_-andoya-oppskytingen-er-et-viktig-skritt-i-norsk-og-europisk-romsamarbeid-1.18020715",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/XOedesXGtHDAUEkiyYeORwSzPht0aKrf-xOZbPJaW0QQ.jpg",
+      "localImage": "assets/news/4510cceb891417.jpg",
+      "score": 20
+    },
+    {
+      "id": "77e4ecbf90b35b",
+      "category": "Økonomi",
+      "published": "10.09. 15:31",
+      "publishedISO": "2026-09-10T15:31:51+02:00",
+      "title": "Bred nedgang på Wall Street",
+      "summary": "Oljeprisen (brent spot) ligger på 107,1 dollar per fat, opp 5,5 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag. Brikkegiganten Micron faller 4,5 prosent, Intel er ned 4,77 prosent, mens Nvidia faller 2,46 prosent.",
+      "keyPoints": [
+        "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
+        "Brikkegiganten Micron faller 4,5 prosent, Intel er ned 4,77 prosent, mens Nvidia faller 2,46 prosent.",
+        "Oljeprisen (brent spot) ligger på 107,1 dollar per fat, opp 5,5 prosent siden midnatt.",
+        "Tiårsrenten er over 4,95 prosent torsdag, det høyeste nivået siden november 2023."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/gkQxo0/oljeprisen-bikker-102-dollar",
+      "url": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/216fd9ba-5788-38e3-b816-061ca9b85b47?fit=crop&h=675&upscale=true&w=1200&s=efafb1a34c30af561a06e790b4e3b5953e53731a",
-      "localImage": "assets/news/44dbe4cf93be60.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/a2bcfb24-b0d7-3ebd-aa19-dfb2f845a75b?fit=crop&h=675&upscale=true&w=1200&s=5e7e362875c92e637a257be98b12efb19b9c0e46",
+      "localImage": "assets/news/77e4ecbf90b35b.jpg",
+      "score": 19
     },
     {
-      "id": "45b7ceccf5b7d8",
-      "category": "Verden",
-      "published": "10.09. 09:12",
-      "publishedISO": "2026-09-10T09:12:32+02:00",
-      "title": "Watch: Is Donald Trump's $5,000 election pledge legal?",
-      "summary": "Donald Trump har lovet 5000 dollar (3700 pund) til hver amerikaner hvis republikanerne vinner mellomvalget i november. Demokrater stemplet det som et «tomt løfte», og andre har stilt spørsmål ved om et slikt løfte i det hele tatt er lovlig. BBC Nord-Amerika-redaktør Sarah Smith undersøker om Trumps løfte – som vil koste den amerikanske regjeringen rundt 1,3 billioner dollar – holder stand. Video, 00:01:57Se: Er Trumps valgløfte på 5000 dollar lovlig?",
+      "id": "a5db503d715142",
+      "category": "Økonomi",
+      "published": "10.09. 20:08",
+      "publishedISO": "2026-09-10T20:08:37+02:00",
+      "title": "Medier: Støre gjør endringer i regjeringen fredag",
+      "summary": "Tre statsråder skal være på vei ut, melder flere medier. Flere medier, deriblant NRK, Nettavisen, DN og VG melder at statsminister Jonas Gahr Støre skal gjøre flere endringer i regjeringen fredag. Ifølge opplysningene skal det være digitaliserings- og forvaltningsminister Karianne Tung, samferdelsminister Jon-Ivar Nygård og klima- og miljøminister Andreas Bjelland Eriksen som går ut av regjeringen.",
       "keyPoints": [
-        "Video, 00:01:57Watch: Is Trump's $5,000 election pledge legal?",
-        "Demokrater stemplet det som et «tomt løfte», og andre har stilt spørsmål ved om et slikt løfte i det hele tatt er lovlig. BBC Nord-Amerika-redaktør Sarah Smith undersøker om Trumps løfte – som vil koste den amerikanske regjeringen rundt 1,3 billioner dollar – holder stand.",
-        "Donald Trump har lovet 5000 dollar (3700 pund) til hver amerikaner hvis republikanerne vinner mellomvalget i november.",
-        "Video, 00:00:18Sinkhole appears outside Malibu home thought to belong to Nicolas Cage Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii."
+        "Flere medier, deriblant NRK, Nettavisen, DN og VG melder at statsminister Jonas Gahr Støre skal gjøre flere endringer i regjeringen fredag.",
+        "Ifølge opplysningene skal det være digitaliserings- og forvaltningsminister Karianne Tung, samferdelsminister Jon-Ivar Nygård og klima- og miljøminister Andreas Bjelland Eriksen som går ut av regjeringen.",
+        "Tre statsråder skal være på vei ut, melder flere medier.",
+        "Bjelland Eriksen har også hatt sin statsrådspost siden oktober 2023, mens Nygård har vært samferdselsminister siden oktober 2021."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbe7/live/af214ad0-acec-11f1-bc1f-3f186ca4140c.png",
-      "localImage": "assets/news/45b7ceccf5b7d8.png",
-      "score": 15
+      "url": "https://e24.no/naeringsliv/i/7pg7KW/medier-stoere-gjoer-endringer-i-regjeringen-fredag",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8c26df8b-0eb8-3ced-aa1e-27efa515a4f0?fit=crop&h=675&upscale=true&w=1200&s=c94dfe559f1e13c66ce4c0ee37ee5cc15010f27c",
+      "localImage": "assets/news/a5db503d715142.jpg",
+      "score": 17
     },
     {
-      "id": "ea4dae9de777ff",
+      "id": "1bdb6f9891ca84",
       "category": "Norge",
-      "published": "10.09. 09:05",
-      "publishedISO": "2026-09-10T09:05:58+02:00",
-      "title": "Reuters: Russland øvde på å bruke hemmelig våpen mot undersjøiske kabler – hindret av Norge og Nato",
-      "summary": "I vår øvde Russland på å bruke et hemmelig våpen mot undersjøiske kabler. Men operasjonen ved Svalbard ble avslørt og hindret av Norge og andre Nato-land, sier to vestlige tjenestemenn til Reuters. En russisk militær operasjonen i havområdene ved Svalbard ble avslørt og hindret av Norge og andre Nato-land.",
+      "published": "10.09. 19:58",
+      "publishedISO": "2026-09-10T19:58:47+02:00",
+      "title": "Opplysninger til NRK: Flere endringer i Støre-regjeringen",
+      "summary": "Foto: Adrian Heggem Misfjord / NRK, Frode Fjerdingstad / NRK, Aleksandr Nedbaev / NRK Statsminister Jonas Gahr Støre (Ap) gjør flere endringer i sin regjering fredag. Karianne Tung går av som digitaliserings- og forvaltningsminister, Jon-Ivar Nygård går av som samferdselsminister og Andreas Bjelland Eriksen går av som klima- og miljøminister, ifølge NRKs opplysninger. Foto: William Jobling / NRK Ifølge NRKs opplysninger tar Torgeir Micaelsen over for Tung som digitaliserings- og forvaltningsminister.",
       "keyPoints": [
-        "I vår øvde Russland på å bruke et hemmelig våpen mot undersjøiske kabler.",
-        "Men operasjonen ved Svalbard ble avslørt og hindret av Norge og andre Nato-land, sier to vestlige tjenestemenn til Reuters.",
-        "En russisk militær operasjonen i havområdene ved Svalbard ble avslørt og hindret av Norge og andre Nato-land.",
-        "I april avslørte Norge og Storbritannia at de hadde avdekket en hemmelig russisk operasjon i arktisk farvann."
+        "Foto: Adrian Heggem Misfjord / NRK, Frode Fjerdingstad / NRK, Aleksandr Nedbaev / NRK Statsminister Jonas Gahr Støre (Ap) gjør flere endringer i sin regjering fredag.",
+        "Foto: William Jobling / NRK Ifølge NRKs opplysninger tar Torgeir Micaelsen over for Tung som digitaliserings- og forvaltningsminister.",
+        "Karianne Tung går av som digitaliserings- og forvaltningsminister, Jon-Ivar Nygård går av som samferdselsminister og Andreas Bjelland Eriksen går av som klima- og miljøminister, ifølge NRKs opplysninger.",
+        "Kort tid etter at borgfreden er over, blir det altså endringer i Arbeiderparti-regjeringen, får NRK opplyst torsdag kveld."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/reuters_-russland-ovde-pa-a-bruke-hemmelig-vapen-mot-undersjoiske-kabler-_-hindret-av-norge-og-nato-1.18020220",
+      "url": "https://www.nrk.no/artikkel/opplysninger-til-nrk-flere-endringer-i-store-regjeringen-1527579",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6mr61QDkOp05BWOi42k8tAyYKG6AxkhFYGp3b4x75aAQ.jpg",
-      "localImage": "assets/news/ea4dae9de777ff.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/thmEWvhjNz9eC9ImV5eipwWef328DQrR97XYQdWwy0UQ",
+      "localImage": "assets/news/1bdb6f9891ca84.webp",
+      "score": 17
     }
   ]
 }
