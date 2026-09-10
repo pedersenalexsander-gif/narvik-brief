@@ -1,70 +1,28 @@
 {
-  "updatedAt": "10.09.2026 kl. 11:46",
-  "updatedISO": "2026-09-10T11:46:55.617876+02:00",
+  "updatedAt": "10.09.2026 kl. 15:54",
+  "updatedISO": "2026-09-10T15:54:50.084317+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "14a3ddc4c988e1",
-      "category": "Norge",
-      "published": "09.09. 22:54",
-      "publishedISO": "2026-09-09T22:54:34+02:00",
-      "title": "Liverpool med sterk snuoperasjon",
-      "summary": "Liverpool fikk en trøblete start i storkampen mot Atlético Madrid, men reddet seg mesterlig inn og vant til slutt 2–1 på Anfield. Neste mesterligaoppgjør for Liverpool er mot østerrikske LASK i oktober. Det kommer fram i et TV 2-intervju i forkant av Uniteds comeback i Champions League. – Han sender meldinger ganske masse og kommer med lykkønskninger til laget, sier Carrick.",
+      "id": "4510cceb891417",
+      "category": "Nord-Norge",
+      "published": "10.09. 14:13",
+      "publishedISO": "2026-09-10T14:13:02+02:00",
+      "title": "– Andøya-oppskytingen er et viktig skritt i norsk og europisk romsamarbeid",
+      "summary": "Norge vil styrke det europeiske romsamarbeidet og bygge videre på oppskytingen fra Andøya Spaceport. Etter den historiske satellittoppskytingen fra Andøya, understreker næringsministeren at Norge har ambisjoner om å bli en førende romnasjon, skriver Nærings- og fiskeridepartementet i emn melding. – Verdensrommet blir stadig viktigere for oss alle. Den vellykkede oppskytingen fra Andøya viser at Norge spiller en viktig rolle, sier Myrseth.",
       "keyPoints": [
-        "Liverpool fikk en trøblete start i storkampen mot Atlético Madrid, men reddet seg mesterlig inn og vant til slutt 2–1 på Anfield.",
-        "Det kommer fram i et TV 2-intervju i forkant av Uniteds comeback i Champions League. – Han sender meldinger ganske masse og kommer med lykkønskninger til laget, sier Carrick.",
-        "Neste mesterligaoppgjør for Liverpool er mot østerrikske LASK i oktober.",
-        "Carrick var blant kristiansunderens assistenter da han ledet United fra tampen av 2018 til høsten 2021. – Jeg har lært så mye av Ole."
+        "Den vellykkede oppskytingen fra Andøya viser at Norge spiller en viktig rolle, sier Myrseth.",
+        "Etter den historiske satellittoppskytingen fra Andøya, understreker næringsministeren at Norge har ambisjoner om å bli en førende romnasjon, skriver Nærings- og fiskeridepartementet i emn melding. – Verdensrommet blir stadig viktigere for oss alle.",
+        "Norge vil styrke det europeiske romsamarbeidet og bygge videre på oppskytingen fra Andøya Spaceport.",
+        "Næringsministeren trekker frem at et tettere samarbeid med EU og europeiske partnerland er helt avgjørende for å nå disse målene. – Vi har mye å bidra med, og vi har store ambisjoner."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/liverpool-med-sterk-snuoperasjon-1.18019697",
+      "url": "https://www.nrk.no/nordland/_-andoya-oppskytingen-er-et-viktig-skritt-i-norsk-og-europisk-romsamarbeid-1.18020715",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/h1DltrSevYuP7PeQ3qWAUwbhOHerUa8Srd5v4DH8SInQ.jpg",
-      "localImage": "assets/news/14a3ddc4c988e1.jpg",
-      "score": 19
-    },
-    {
-      "id": "e9d6cdc0c7e60f",
-      "category": "Økonomi",
-      "published": "10.09. 08:00",
-      "publishedISO": "2026-09-10T08:00:23+02:00",
-      "title": "Prisveksten økte til 3,3 prosent i august",
-      "summary": "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten. kom som ventet inn på 3 prosent på årsbasis. Anslaget til sentralbanken var kjerneinflasjon på 3,3 prosent i både juni, juli og august. – Vi har nå blitt mer usikre på om det blir renteheving i september, sier sjeføkonom Kjersti Haugland i DNB Carnegie. De hadde ventet at kjerneinflasjonen skulle ta seg enda mer opp til 3,2 prosent. – Spørsmålet er om denne rekylen er nok til at Norges Bank holder seg til planen om å heve i september, eller om de nå velger å avvente.",
-      "keyPoints": [
-        "Anslaget til sentralbanken var kjerneinflasjon på 3,3 prosent i både juni, juli og august. – Vi har nå blitt mer usikre på om det blir renteheving i september, sier sjeføkonom Kjersti Haugland i DNB Carnegie.",
-        "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten. kom som ventet inn på 3 prosent på årsbasis.",
-        "De hadde ventet at kjerneinflasjonen skulle ta seg enda mer opp til 3,2 prosent. – Spørsmålet er om denne rekylen er nok til at Norges Bank holder seg til planen om å heve i september, eller om de nå velger å avvente.",
-        "Matvareprisene falt 1,4 prosent på månedsbasis, fra juli til august."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/5peKLm/prisveksten-oekte-til-3-3-prosent-i-august",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/dcfe5402-e223-333f-a41a-3c804937cce7?fit=crop&h=675&upscale=true&w=1200&s=73cb0531869d3f342f322f75e8deb78eb6f3f6a2",
-      "localImage": "assets/news/e9d6cdc0c7e60f.jpg",
-      "score": 17
-    },
-    {
-      "id": "dd13baab014f02",
-      "category": "Økonomi",
-      "published": "10.09. 11:15",
-      "publishedISO": "2026-09-10T11:15:25+02:00",
-      "title": "Oljeprisen bikker 102 dollar",
-      "summary": "Onsdag nådde oljeprisen 100 dollar fatet for første gang siden juli. Administrasjonen legger til grunn at eksporten i økende grad vil finne veien ut av Midtøsten, slik at produksjonen i regionen kan ta seg opp igjen. «Når oljeproduksjonen øker inn i neste år og oljelagrene bygges opp igjen, venter vi at snittprisen på Brent-olje vil falle gradvis til et snitt på 74 dollar fatet i 2027», skriver EIA. Snittet på oljeprisen i 2026 anslås nå til 91 dollar fatet, oppgir energiadministrasjonen.",
-      "keyPoints": [
-        "Onsdag nådde oljeprisen 100 dollar fatet for første gang siden juli.",
-        "Snittet på oljeprisen i 2026 anslås nå til 91 dollar fatet, oppgir energiadministrasjonen.",
-        "Administrasjonen legger til grunn at eksporten i økende grad vil finne veien ut av Midtøsten, slik at produksjonen i regionen kan ta seg opp igjen. «Når oljeproduksjonen øker inn i neste år og oljelagrene bygges opp igjen, venter vi at snittprisen på Brent-olje vil falle gradvis til et snitt på 74 dollar fatet i 2027», skriver EIA.",
-        "På formiddagen handler nordsjøoljen Brent til 102 dollar fatet, det høyeste nivået siden 22. mai i år."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/gkQxo0/oljeprisen-bikker-102-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/216fd9ba-5788-38e3-b816-061ca9b85b47?fit=crop&h=675&upscale=true&w=1200&s=efafb1a34c30af561a06e790b4e3b5953e53731a",
-      "localImage": "assets/news/dd13baab014f02.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/XOedesXGtHDAUEkiyYeORwSzPht0aKrf-xOZbPJaW0QQ.jpg",
+      "localImage": "assets/news/4510cceb891417.jpg",
+      "score": 21
     },
     {
       "id": "ea4dae9de777ff",
@@ -85,133 +43,175 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/6mr61QDkOp05BWOi42k8tAyYKG6AxkhFYGp3b4x75aAQ.jpg",
       "localImage": "assets/news/ea4dae9de777ff.jpg",
-      "score": 17
-    },
-    {
-      "id": "11daa1a1a30dc8",
-      "category": "Norge",
-      "published": "10.09. 08:32",
-      "publishedISO": "2026-09-10T08:32:31+02:00",
-      "title": "Planane for Nye Tromsøhallen er usikre – kan bli skrotet",
-      "summary": "Med Tromsø kommune på Robek-lista, kan Nye Tromsøhallen til ein halv milliard kroner bli utsett – eller i verste fall stoppa. Nye Tromsøhallen kan bli utsett, eller i verste fall stoppa. Sist haust vedtok kommunestyret storsatsinga «Nye Tromsøhallen» med ei ramme på 525,3 millionar kroner.",
-      "keyPoints": [
-        "Med Tromsø kommune på Robek-lista, kan Nye Tromsøhallen til ein halv milliard kroner bli utsett – eller i verste fall stoppa.",
-        "Sist haust vedtok kommunestyret storsatsinga «Nye Tromsøhallen» med ei ramme på 525,3 millionar kroner.",
-        "Alf-Kondrad Wilhelmsen i Tromsø Idrettsråd er bekymra for framtida til den nye Tromsøhallen.",
-        "Ho legg ikkje skjul på at situasjonen er alvorleg for hallprosjektet. – Med den lange investeringslista kan Tromsøhallen enten bli utsett eller stansa."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/planane-for-nye-tromsohallen-er-usikre__-kan-bli-skrotet-1.18019862",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/dyRrdyKLbsKW_GwmdyCA5gv1rdawd4YYzjRsXdY15p9A.jpg",
-      "localImage": "assets/news/11daa1a1a30dc8.jpg",
-      "score": 17
-    },
-    {
-      "id": "c2350f2b6a8d44",
-      "category": "Norge",
-      "published": "10.09. 08:00",
-      "publishedISO": "2026-09-10T08:00:25+02:00",
-      "title": "Ulukke i Follotunnelen – lange køar på E6",
-      "summary": "Ei ulukke mellom ein personbil og ein lastebil stengde E6 ved Follotunnelen i Vestby like etter klokka 6 torsdag morgon. Det er omkøyring via gamle E6 mellom Sonsveien og Vestby, og hendinga har ført til lange køar. Klokka 08:12 melder politiet at dei ventar på tungberger, og at det tek rundt 30 minutt før han er framme. – Vi oppfordrar øvrige trafikantar på E18 til å sleppe fram tungberger frå Redgo slik at trafikkbildet kan normaliserast så fort som mogleg, skriv operasjonsleiar Harald Johannesen i politiloggen.",
-      "keyPoints": [
-        "Ei ulukke mellom ein personbil og ein lastebil stengde E6 ved Follotunnelen i Vestby like etter klokka 6 torsdag morgon.",
-        "Det er omkøyring via gamle E6 mellom Sonsveien og Vestby, og hendinga har ført til lange køar.",
-        "Klokka 08:12 melder politiet at dei ventar på tungberger, og at det tek rundt 30 minutt før han er framme. – Vi oppfordrar øvrige trafikantar på E18 til å sleppe fram tungberger frå Redgo slik at trafikkbildet kan normaliserast så fort som mogleg, skriv operasjonsleiar Harald Johannesen i politiloggen.",
-        "STENGT: Lastebilen veltet etter kollisjonen med personbilen og stenger nå Follotunnelen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/ulukke-i-follotunnelen-_-lange-koar-pa-e6-1.18020127",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/NcwzCef074gAeCMDvEEyUAG3Ro7_PrSMbpMXS48_Pt7A.jpg",
-      "localImage": "assets/news/c2350f2b6a8d44.jpg",
-      "score": 17
-    },
-    {
-      "id": "707ba24b50c25c",
-      "category": "Norge",
-      "published": "10.09. 08:56",
-      "publishedISO": "2026-09-10T08:56:05+02:00",
-      "title": "Vil selge deler av arvesølvet – kan få 200 millioner hver",
-      "summary": "Moskenes vil selge hele sin eierandel, mens Vågan og Vestvågøy vil selge deler av sine. Vågan og Vestvågøy vil selge seg ned til 25,1 prosent hver. Et salg vil etter planen gi Vågan og Vestvågøy 200 millioner kroner hver. – For vår del er det 200 millioner.",
-      "keyPoints": [
-        "Vågan og Vestvågøy vil selge seg ned til 25,1 prosent hver.",
-        "Moskenes vil selge hele sin eierandel, mens Vågan og Vestvågøy vil selge deler av sine.",
-        "Et salg vil etter planen gi Vågan og Vestvågøy 200 millioner kroner hver. – For vår del er det 200 millioner.",
-        "Nå vil tre kommuner selge hele eller deler av kraftarvesølvet for å betale ned gjeld."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/vil-selge-deler-av-arvesolvet-_-kan-fa-200-millioner-hver-1.18020152",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/LMBFxXJJlzE3eySuYOv8fgY1eMKVUXzNFkM2TAnoLICg.jpg",
-      "localImage": "assets/news/707ba24b50c25c.jpg",
       "score": 16
     },
     {
-      "id": "b717f836240cdc",
-      "category": "Norge",
-      "published": "10.09. 05:06",
-      "publishedISO": "2026-09-10T05:06:53+02:00",
-      "title": "Trump vil gi 5000 dollar til alle voksne ved republikansk valgseier",
-      "summary": "Donald Trump frister med en god neve dollar til alle voksne i USA om partiet hans beholder Kongressen etter mellomvalget. Han frister med å gi alle voksne et «Trump-utbytte». – Hvis republikanerne vinner Representantenes hus og Senatet, begge, som følge av vår økonomiske styrke og suksess, skal jeg utstede et utbytte til hver voksne amerikanske statsborger på 5000 dollar, sa Trump. Trump talte natt til torsdag på det republikanske landsmøtet i Dallas, Texas, og lover å gi 5000 dollar til alle voksne ved republikansk mellonvalgseier.",
+      "id": "5fdc3596b8b2e3",
+      "category": "Verden",
+      "published": "10.09. 14:24",
+      "publishedISO": "2026-09-10T14:24:54+02:00",
+      "title": "Twenty-five dead after fire erupts on cargo ship in Qingdao, eastern China - state media",
+      "summary": "Se: Tykke røykskyer stiger opp fra lasteskipbrann i Qingdao, Kina. Tjuefem mennesker har blitt drept i en brann på et utenlandsk flagget lasteskip som ligger til kai ved en havn øst i Kina, ifølge den kinesiske statskringkasteren CCTV. Bilder utgitt av statlige medier viste at fartøyet var Ocean Melody, et 190 meter langt Liberia-flagg som ankom Qingdao 31. august, ifølge sporingssiden MarineTraffic. Kinas premier Li Qiang oppfordret til å redde folk som er fanget om bord på skipet Qingdao er et viktig handelsknutepunkt og rangerer blant verdens travleste havner.",
       "keyPoints": [
-        "Trump talte natt til torsdag på det republikanske landsmøtet i Dallas, Texas, og lover å gi 5000 dollar til alle voksne ved republikansk mellonvalgseier.",
-        "Han frister med å gi alle voksne et «Trump-utbytte». – Hvis republikanerne vinner Representantenes hus og Senatet, begge, som følge av vår økonomiske styrke og suksess, skal jeg utstede et utbytte til hver voksne amerikanske statsborger på 5000 dollar, sa Trump.",
-        "Donald Trump frister med en god neve dollar til alle voksne i USA om partiet hans beholder Kongressen etter mellomvalget.",
-        "USAs president Donald Trump lover å gi alle voksne et «Trump-utbytte» dersom Republikanerne sikrer seg flertallet i både Representantenes hus og Senatet etter mellomvalget."
+        "Se: Tykke røykskyer stiger opp fra lasteskipbrann i Qingdao, Kina. Tjuefem mennesker har blitt drept i en brann på et utenlandsk flagget lasteskip som ligger til kai ved en havn øst i Kina, ifølge den kinesiske statskringkasteren CCTV.",
+        "Bilder utgitt av statlige medier viste at fartøyet var Ocean Melody, et 190 meter langt Liberia-flagg som ankom Qingdao 31. august, ifølge sporingssiden MarineTraffic.",
+        "Kinas premier Li Qiang oppfordret til å redde folk som er fanget om bord på skipet Qingdao er et viktig handelsknutepunkt og rangerer blant verdens travleste havner.",
+        "Factory fire kills at least 28 in China's 'shoe capital'"
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/trump-vil-gi-5000-dollar-til-alle-voksne-ved-republikansk-valgseier-1.18019994",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2C2WGoBNN_gLqqFOMkHFQAw8QiBULO1YP2OGIyaChHig.jpg",
-      "localImage": "assets/news/b717f836240cdc.jpg",
-      "score": 16
+      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77c8/live/9d308770-acfe-11f1-beae-535b95a24b3e.jpg",
+      "localImage": "assets/news/5fdc3596b8b2e3.jpg",
+      "score": 17
     },
     {
-      "id": "f7aa24c9d84dea",
+      "id": "e186074d5b5c55",
+      "category": "USA",
+      "published": "10.09. 13:41",
+      "publishedISO": "2026-09-10T13:41:59+02:00",
+      "title": "A year after his death, conservative students struggle to fill void left by Kirk",
+      "summary": "Han var frivillig ved Turning Point USA-arrangementet ved Utah Valley University (UVU), hvor Kirk skulle delta i en av sine berømte livedebatter 10. september i fjor. Siden hans død har noen studenter ved UVU protestert mot et minnesmerke på campus over den konservative aktivisten. Du kan se mange folk på høyresiden som prøver å påberope seg... tilknytningen til Kirk.\" \"På noen måter har det kanskje bare økt,\" sa han. \"Kirk selv, i sin egen innflytelse av arven hans, tror jeg ikke det går noen vei.\" Kirks enke Erika har blitt administrerende direktør i Turning Point USA etter ektemannens død, Chapter2USA, startet en etterfølgende av Mary's College i Indiana 2USA i Macy St. Kirks død.",
+      "keyPoints": [
+        "Du kan se mange folk på høyresiden som prøver å påberope seg... tilknytningen til Kirk.\" \"På noen måter har det kanskje bare økt,\" sa han. \"Kirk selv, i sin egen innflytelse av arven hans, tror jeg ikke det går noen vei.\" Kirks enke Erika har blitt administrerende direktør i Turning Point USA etter ektemannens død, Chapter2USA, startet en etterfølgende av Mary's College i Indiana 2USA i Macy St. Kirks død.",
+        "He was a volunteer at the Turning Point USA event at Utah Valley University (UVU), where Kirk was set to engage in one of his famous live debates on 10 September last year.",
+        "Siden hans død har noen studenter ved UVU protestert mot et minnesmerke på campus over den konservative aktivisten.",
+        "Nå, sier han, har ingen klart å fylle tomrommet. Det er ikke samme organisasjon, sier han. \"Det har bare ikke den samme kraften, den samme effekten.\" Derimot benektet en av TPUSAs kapittelledere andre steder i USA ethvert forslag om at organisasjonen ikke var hva den var under Kirk - og sa til BBC \"dette er bokstavelig talt bare begynnelsen\"."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b8e/live/052238c0-ac86-11f1-ab14-5b9069dc795d.jpg",
+      "localImage": "assets/news/e186074d5b5c55.jpg",
+      "score": 13
+    },
+    {
+      "id": "9015284b4b4c6f",
       "category": "Økonomi",
-      "published": "09.09. 15:30",
-      "publishedISO": "2026-09-09T15:30:37+02:00",
-      "title": "Wall Street falt etter oljehopp",
-      "summary": "USA-børsene endte ned etter at oljeprisen passerte 100 dollar. Den lå på 101,5 dollar fatet, opp 2,2 dollar ved stengetid på Wall Street. USA ødela tirsdag fem iranske oljetankere, etter at Iran forsøkte å angripe amerikanske hangarskip og destroyere, skriver Wall Street Journal.",
+      "published": "10.09. 14:15",
+      "publishedISO": "2026-09-10T14:15:11+02:00",
+      "title": "Den europeiske sentralbanken hever renten til 2,5 prosent",
+      "summary": "Den europeiske sentralbanken (ESB) setter opp renten i eurosonen med 0,25 prosentpoeng, til 2,5 prosent. Prisvekten (KPI) i eurosonen tok seg opp til på 3,3 prosent i august, ifølge foreløpige tall. Målet til sentralbanken er stabil prisvekst på to prosent.",
       "keyPoints": [
-        "Den lå på 101,5 dollar fatet, opp 2,2 dollar ved stengetid på Wall Street.",
-        "USA ødela tirsdag fem iranske oljetankere, etter at Iran forsøkte å angripe amerikanske hangarskip og destroyere, skriver Wall Street Journal.",
-        "USA-børsene endte ned etter at oljeprisen passerte 100 dollar.",
-        "Oljeprisen (brent spot) passerte 100 dollar onsdag, for første gang siden 24. juli."
+        "Den europeiske sentralbanken (ESB) setter opp renten i eurosonen med 0,25 prosentpoeng, til 2,5 prosent.",
+        "Målet til sentralbanken er stabil prisvekst på to prosent.",
+        "Prisvekten (KPI) i eurosonen tok seg opp til på 3,3 prosent i august, ifølge foreløpige tall.",
+        "ESB ser for seg 0,9 prosent vekst i 2026, 1,4 prosent i 2027 og 1,5 prosent i 2028."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7p16gK/wall-street-faller-fra-start",
+      "url": "https://e24.no/internasjonal-oekonomi/i/2p04al/den-europeiske-sentralbanken-hever-renten-til-2-5-prosent",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1f4e0292-91a7-38a0-ab4e-20f664523f36?fit=crop&h=675&upscale=true&w=1200&s=07dbff369c669445c83d5a10096306c1bf0f0a06",
-      "localImage": "assets/news/f7aa24c9d84dea.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/ac3a10e8-14ae-3c9e-842e-7102546fb48e?fit=crop&h=675&upscale=true&w=1200&s=0db0628a08820b604dbaed362fdffc6bb0e98d48",
+      "localImage": "assets/news/9015284b4b4c6f.jpg",
+      "score": 21
     },
     {
-      "id": "4fd61e7b4c5044",
+      "id": "77e4ecbf90b35b",
       "category": "Økonomi",
-      "published": "10.09. 05:00",
-      "publishedISO": "2026-09-10T05:00:00+02:00",
-      "title": "– Fra forbrukernes perspektiv ser ikke dette pent ut",
-      "summary": "Det gjelder både olje, gass, drivstoff og strøm. – Fra forbrukernes perspektiv ser ikke dette pent ut, sier Ole Hvalbye i ABG Sundal Collier. Han fremhever prisoppgangen på gass og oljeprodukter som bensin, diesel og flydrivstoff. – Alle ser på oljeprisen, men det er en veldig stor prisdifferanse mellom prisen på olje og prisen på drivstoff. Og vi ser også høy gasspris, og det er den som setter prisnivået for strøm, sier han. – Oljeprisen får ufortjent mye oppmerksomhet, og viser ikke hele bildet.",
+      "published": "10.09. 15:31",
+      "publishedISO": "2026-09-10T15:31:51+02:00",
+      "title": "Bred nedgang på Wall Street",
+      "summary": "Tiårsrenten er over 4,9 prosent torsdag, det høyeste nivået siden november 2023. Oljeprisen (brent spot) ligger på 104,6 dollar per fat, opp 2,95 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
       "keyPoints": [
-        "Det gjelder både olje, gass, drivstoff og strøm. – Fra forbrukernes perspektiv ser ikke dette pent ut, sier Ole Hvalbye i ABG Sundal Collier.",
-        "Han fremhever prisoppgangen på gass og oljeprodukter som bensin, diesel og flydrivstoff. – Alle ser på oljeprisen, men det er en veldig stor prisdifferanse mellom prisen på olje og prisen på drivstoff.",
-        "Og vi ser også høy gasspris, og det er den som setter prisnivået for strøm, sier han. – Oljeprisen får ufortjent mye oppmerksomhet, og viser ikke hele bildet.",
-        "I tillegg ser vi målrettede angrep mot infrastruktur som raffinerier i Russland, der Ukraina har tatt ut 1,4-1,5 millioner fat per dag i raffineringskapasitet."
+        "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
+        "Oljeprisen (brent spot) ligger på 104,6 dollar per fat, opp 2,95 prosent siden midnatt.",
+        "Tiårsrenten er over 4,9 prosent torsdag, det høyeste nivået siden november 2023.",
+        "Slik går det med de toneangivende indeksene i 15.45-tiden: Renten på amerikanske statsobligasjoner stiger."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/d4a8OA/fra-forbrukernes-perspektiv-ser-ikke-dette-pent-ut",
+      "url": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3446baad-e87a-39e1-a49f-af4c72a0e4b4?fit=crop&h=675&upscale=true&w=1200&s=2b8f2d369bfd7ba829671343d520f243b9bf3ac8",
-      "localImage": "assets/news/4fd61e7b4c5044.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/a2bcfb24-b0d7-3ebd-aa19-dfb2f845a75b?fit=crop&h=675&upscale=true&w=1200&s=5e7e362875c92e637a257be98b12efb19b9c0e46",
+      "localImage": "assets/news/77e4ecbf90b35b.jpg",
+      "score": 20
+    },
+    {
+      "id": "256da5825c1e25",
+      "category": "AI",
+      "published": "08.09. 22:57",
+      "publishedISO": "2026-09-08T22:57:09+02:00",
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "summary": "OpenAI sier at de har funnet en løsning på et flere tiår gammelt avansert matematikkproblem i løpet av få timer ved å bruke en ny kunstig intelligens (AI)-modell og tusenvis av AI-roboter. ChatGPT-produsenten sa tirsdag eksternt at ved å fokusere en gruppe på omtrent 10 000 AI-agenter, eller AI-roboter som utfører oppgaver litt autonomt, løste det et notorisk vanskelig matematikkproblem på bare 88 timer. Innen 5. september, eller omtrent 88 timer etter at det hadde satt 10 000 AI-roboter til oppgaven, hadde OpenAI funnet en løsning på det som omtales som Navier–Stokes-eksistens- og jevnhetsproblemet.",
+      "keyPoints": [
+        "OpenAI sier at de har funnet en løsning på et flere tiår gammelt avansert matematikkproblem i løpet av få timer ved å bruke en ny kunstig intelligens (AI)-modell og tusenvis av AI-roboter.",
+        "ChatGPT-produsenten sa tirsdag eksternt at ved å fokusere en gruppe på omtrent 10 000 AI-agenter, eller AI-roboter som utfører oppgaver litt autonomt, løste det et notorisk vanskelig matematikkproblem på bare 88 timer.",
+        "Innen 5. september, eller omtrent 88 timer etter at det hadde satt 10 000 AI-roboter til oppgaven, hadde OpenAI funnet en løsning på det som omtales som Navier–Stokes-eksistens- og jevnhetsproblemet.",
+        "Løsningen som OpenAI sier de nå har nådd for Navier–Stokes-eksistens- og smidighetsproblemet løste to av de fire uttalelsene i beviset som tusenårsprisen hadde krevd."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
+      "localImage": "assets/news/256da5825c1e25.jpg",
+      "score": 14
+    },
+    {
+      "id": "cc7711e74d18cb",
+      "category": "Økonomi",
+      "published": "10.09. 09:01",
+      "publishedISO": "2026-09-10T09:01:04+02:00",
+      "title": "Equinor til nye høyder",
+      "summary": "Equinors markedsverdi har passert 1.000 milliarder kroner. Rundt klokken 14 er Hovedindeksen opp 0,18 prosent for dagen, etter en oppgang i både olje- og gassprisen. Flere av de store oljeaksjene stiger, inkludert Equinor, Aker BP og Vår Energi.",
+      "keyPoints": [
+        "Flere av de store oljeaksjene stiger, inkludert Equinor, Aker BP og Vår Energi.",
+        "Rundt klokken 14 er Hovedindeksen opp 0,18 prosent for dagen, etter en oppgang i både olje- og gassprisen.",
+        "Equinors markedsverdi har passert 1.000 milliarder kroner.",
+        "Samtidig handlet europeisk gass til årets høyeste nivå på 83 euro per megawattime."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/e7wed9/oslo-boers-aapner-ned",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1eab1e4d-7050-3cf6-b9e8-3b5fa140c380?fit=crop&h=675&upscale=true&w=1200&s=d460ebda09021a5da11715eb829e75dd9b8156a5",
+      "localImage": "assets/news/cc7711e74d18cb.jpg",
+      "score": 18
+    },
+    {
+      "id": "44dbe4cf93be60",
+      "category": "Økonomi",
+      "published": "10.09. 11:15",
+      "publishedISO": "2026-09-10T11:15:25+02:00",
+      "title": "Oljeprisen stiger kraftig",
+      "summary": "Oljeprisen stiger videre etter meldinger om laveste saudiske oljeproduksjon siden 1990. Onsdag nådde oljeprisen 100 dollar fatet for første gang siden juli. Forstyrrelsene av skipstrafikken gjennom Hormuzstredet fortsetter, og det har vært en rekke angrep mellom USA og Iran den siste tiden. «I tillegg sier Iran at de er klare til eskalering, og Trumps rådgivere advarer privat om at Iran-krigen kan vare helt til 2029», skrev DNB Carnegie i et notat torsdag.",
+      "keyPoints": [
+        "Oljeprisen stiger videre etter meldinger om laveste saudiske oljeproduksjon siden 1990.",
+        "Onsdag nådde oljeprisen 100 dollar fatet for første gang siden juli.",
+        "Forstyrrelsene av skipstrafikken gjennom Hormuzstredet fortsetter, og det har vært en rekke angrep mellom USA og Iran den siste tiden. «I tillegg sier Iran at de er klare til eskalering, og Trumps rådgivere advarer privat om at Iran-krigen kan vare helt til 2029», skrev DNB Carnegie i et notat torsdag.",
+        "Den amerikanske energiadministrasjonen EIA forventer imidlertid at situasjonen skal bedre seg i 2027, og at prisene vil falle betraktelig, ifølge en fersk rapport. – Akkurat for øyeblikket ser det ikke så lystig ut."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/gkQxo0/oljeprisen-bikker-102-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/216fd9ba-5788-38e3-b816-061ca9b85b47?fit=crop&h=675&upscale=true&w=1200&s=efafb1a34c30af561a06e790b4e3b5953e53731a",
+      "localImage": "assets/news/44dbe4cf93be60.jpg",
+      "score": 16
+    },
+    {
+      "id": "45b7ceccf5b7d8",
+      "category": "Verden",
+      "published": "10.09. 09:12",
+      "publishedISO": "2026-09-10T09:12:32+02:00",
+      "title": "Watch: Is Donald Trump's $5,000 election pledge legal?",
+      "summary": "Donald Trump har lovet 5000 dollar (3700 pund) til hver amerikaner hvis republikanerne vinner mellomvalget i november. Demokrater stemplet det som et «tomt løfte», og andre har stilt spørsmål ved om et slikt løfte er lovlig. BBC Nord-Amerika-redaktør Sarah Smith ser på om Trumps løfte – som vil koste den amerikanske regjeringen rundt 1,3 billioner dollar – holder stand. Video, 00:01:57Se: Er Trumps valgløfte på 5000 dollar lovlig?",
+      "keyPoints": [
+        "Video, 00:01:57Watch: Is Trump's $5,000 election pledge legal?",
+        "Demokrater stemplet det som et «tomt løfte», og andre har stilt spørsmål ved om et slikt løfte er lovlig. BBC Nord-Amerika-redaktør Sarah Smith ser på om Trumps løfte – som vil koste den amerikanske regjeringen rundt 1,3 billioner dollar – holder stand.",
+        "Donald Trump har lovet 5000 dollar (3700 pund) til hver amerikaner hvis republikanerne vinner mellomvalget i november.",
+        "Video, 00:00:18Sinkhole appears outside Malibu home thought to belong to Nicolas Cage Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbe7/live/af214ad0-acec-11f1-bc1f-3f186ca4140c.png",
+      "localImage": "assets/news/45b7ceccf5b7d8.png",
+      "score": 16
     }
   ]
 }
