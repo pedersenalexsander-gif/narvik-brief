@@ -1,20 +1,167 @@
 {
-  "updatedAt": "10.09.2026 kl. 07:06",
-  "updatedISO": "2026-09-10T07:06:14.421404+02:00",
+  "updatedAt": "10.09.2026 kl. 11:46",
+  "updatedISO": "2026-09-10T11:46:55.617876+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "14a3ddc4c988e1",
+      "category": "Norge",
+      "published": "09.09. 22:54",
+      "publishedISO": "2026-09-09T22:54:34+02:00",
+      "title": "Liverpool med sterk snuoperasjon",
+      "summary": "Liverpool fikk en trøblete start i storkampen mot Atlético Madrid, men reddet seg mesterlig inn og vant til slutt 2–1 på Anfield. Neste mesterligaoppgjør for Liverpool er mot østerrikske LASK i oktober. Det kommer fram i et TV 2-intervju i forkant av Uniteds comeback i Champions League. – Han sender meldinger ganske masse og kommer med lykkønskninger til laget, sier Carrick.",
+      "keyPoints": [
+        "Liverpool fikk en trøblete start i storkampen mot Atlético Madrid, men reddet seg mesterlig inn og vant til slutt 2–1 på Anfield.",
+        "Det kommer fram i et TV 2-intervju i forkant av Uniteds comeback i Champions League. – Han sender meldinger ganske masse og kommer med lykkønskninger til laget, sier Carrick.",
+        "Neste mesterligaoppgjør for Liverpool er mot østerrikske LASK i oktober.",
+        "Carrick var blant kristiansunderens assistenter da han ledet United fra tampen av 2018 til høsten 2021. – Jeg har lært så mye av Ole."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/liverpool-med-sterk-snuoperasjon-1.18019697",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/h1DltrSevYuP7PeQ3qWAUwbhOHerUa8Srd5v4DH8SInQ.jpg",
+      "localImage": "assets/news/14a3ddc4c988e1.jpg",
+      "score": 19
+    },
+    {
+      "id": "e9d6cdc0c7e60f",
+      "category": "Økonomi",
+      "published": "10.09. 08:00",
+      "publishedISO": "2026-09-10T08:00:23+02:00",
+      "title": "Prisveksten økte til 3,3 prosent i august",
+      "summary": "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten. kom som ventet inn på 3 prosent på årsbasis. Anslaget til sentralbanken var kjerneinflasjon på 3,3 prosent i både juni, juli og august. – Vi har nå blitt mer usikre på om det blir renteheving i september, sier sjeføkonom Kjersti Haugland i DNB Carnegie. De hadde ventet at kjerneinflasjonen skulle ta seg enda mer opp til 3,2 prosent. – Spørsmålet er om denne rekylen er nok til at Norges Bank holder seg til planen om å heve i september, eller om de nå velger å avvente.",
+      "keyPoints": [
+        "Anslaget til sentralbanken var kjerneinflasjon på 3,3 prosent i både juni, juli og august. – Vi har nå blitt mer usikre på om det blir renteheving i september, sier sjeføkonom Kjersti Haugland i DNB Carnegie.",
+        "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten. kom som ventet inn på 3 prosent på årsbasis.",
+        "De hadde ventet at kjerneinflasjonen skulle ta seg enda mer opp til 3,2 prosent. – Spørsmålet er om denne rekylen er nok til at Norges Bank holder seg til planen om å heve i september, eller om de nå velger å avvente.",
+        "Matvareprisene falt 1,4 prosent på månedsbasis, fra juli til august."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/5peKLm/prisveksten-oekte-til-3-3-prosent-i-august",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/dcfe5402-e223-333f-a41a-3c804937cce7?fit=crop&h=675&upscale=true&w=1200&s=73cb0531869d3f342f322f75e8deb78eb6f3f6a2",
+      "localImage": "assets/news/e9d6cdc0c7e60f.jpg",
+      "score": 17
+    },
+    {
+      "id": "dd13baab014f02",
+      "category": "Økonomi",
+      "published": "10.09. 11:15",
+      "publishedISO": "2026-09-10T11:15:25+02:00",
+      "title": "Oljeprisen bikker 102 dollar",
+      "summary": "Onsdag nådde oljeprisen 100 dollar fatet for første gang siden juli. Administrasjonen legger til grunn at eksporten i økende grad vil finne veien ut av Midtøsten, slik at produksjonen i regionen kan ta seg opp igjen. «Når oljeproduksjonen øker inn i neste år og oljelagrene bygges opp igjen, venter vi at snittprisen på Brent-olje vil falle gradvis til et snitt på 74 dollar fatet i 2027», skriver EIA. Snittet på oljeprisen i 2026 anslås nå til 91 dollar fatet, oppgir energiadministrasjonen.",
+      "keyPoints": [
+        "Onsdag nådde oljeprisen 100 dollar fatet for første gang siden juli.",
+        "Snittet på oljeprisen i 2026 anslås nå til 91 dollar fatet, oppgir energiadministrasjonen.",
+        "Administrasjonen legger til grunn at eksporten i økende grad vil finne veien ut av Midtøsten, slik at produksjonen i regionen kan ta seg opp igjen. «Når oljeproduksjonen øker inn i neste år og oljelagrene bygges opp igjen, venter vi at snittprisen på Brent-olje vil falle gradvis til et snitt på 74 dollar fatet i 2027», skriver EIA.",
+        "På formiddagen handler nordsjøoljen Brent til 102 dollar fatet, det høyeste nivået siden 22. mai i år."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/gkQxo0/oljeprisen-bikker-102-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/216fd9ba-5788-38e3-b816-061ca9b85b47?fit=crop&h=675&upscale=true&w=1200&s=efafb1a34c30af561a06e790b4e3b5953e53731a",
+      "localImage": "assets/news/dd13baab014f02.jpg",
+      "score": 16
+    },
+    {
+      "id": "ea4dae9de777ff",
+      "category": "Norge",
+      "published": "10.09. 09:05",
+      "publishedISO": "2026-09-10T09:05:58+02:00",
+      "title": "Reuters: Russland øvde på å bruke hemmelig våpen mot undersjøiske kabler – hindret av Norge og Nato",
+      "summary": "I vår øvde Russland på å bruke et hemmelig våpen mot undersjøiske kabler. Men operasjonen ved Svalbard ble avslørt og hindret av Norge og andre Nato-land, sier to vestlige tjenestemenn til Reuters. En russisk militær operasjonen i havområdene ved Svalbard ble avslørt og hindret av Norge og andre Nato-land.",
+      "keyPoints": [
+        "I vår øvde Russland på å bruke et hemmelig våpen mot undersjøiske kabler.",
+        "Men operasjonen ved Svalbard ble avslørt og hindret av Norge og andre Nato-land, sier to vestlige tjenestemenn til Reuters.",
+        "En russisk militær operasjonen i havområdene ved Svalbard ble avslørt og hindret av Norge og andre Nato-land.",
+        "I april avslørte Norge og Storbritannia at de hadde avdekket en hemmelig russisk operasjon i arktisk farvann."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/reuters_-russland-ovde-pa-a-bruke-hemmelig-vapen-mot-undersjoiske-kabler-_-hindret-av-norge-og-nato-1.18020220",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/6mr61QDkOp05BWOi42k8tAyYKG6AxkhFYGp3b4x75aAQ.jpg",
+      "localImage": "assets/news/ea4dae9de777ff.jpg",
+      "score": 17
+    },
+    {
+      "id": "11daa1a1a30dc8",
+      "category": "Norge",
+      "published": "10.09. 08:32",
+      "publishedISO": "2026-09-10T08:32:31+02:00",
+      "title": "Planane for Nye Tromsøhallen er usikre – kan bli skrotet",
+      "summary": "Med Tromsø kommune på Robek-lista, kan Nye Tromsøhallen til ein halv milliard kroner bli utsett – eller i verste fall stoppa. Nye Tromsøhallen kan bli utsett, eller i verste fall stoppa. Sist haust vedtok kommunestyret storsatsinga «Nye Tromsøhallen» med ei ramme på 525,3 millionar kroner.",
+      "keyPoints": [
+        "Med Tromsø kommune på Robek-lista, kan Nye Tromsøhallen til ein halv milliard kroner bli utsett – eller i verste fall stoppa.",
+        "Sist haust vedtok kommunestyret storsatsinga «Nye Tromsøhallen» med ei ramme på 525,3 millionar kroner.",
+        "Alf-Kondrad Wilhelmsen i Tromsø Idrettsråd er bekymra for framtida til den nye Tromsøhallen.",
+        "Ho legg ikkje skjul på at situasjonen er alvorleg for hallprosjektet. – Med den lange investeringslista kan Tromsøhallen enten bli utsett eller stansa."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/planane-for-nye-tromsohallen-er-usikre__-kan-bli-skrotet-1.18019862",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/dyRrdyKLbsKW_GwmdyCA5gv1rdawd4YYzjRsXdY15p9A.jpg",
+      "localImage": "assets/news/11daa1a1a30dc8.jpg",
+      "score": 17
+    },
+    {
+      "id": "c2350f2b6a8d44",
+      "category": "Norge",
+      "published": "10.09. 08:00",
+      "publishedISO": "2026-09-10T08:00:25+02:00",
+      "title": "Ulukke i Follotunnelen – lange køar på E6",
+      "summary": "Ei ulukke mellom ein personbil og ein lastebil stengde E6 ved Follotunnelen i Vestby like etter klokka 6 torsdag morgon. Det er omkøyring via gamle E6 mellom Sonsveien og Vestby, og hendinga har ført til lange køar. Klokka 08:12 melder politiet at dei ventar på tungberger, og at det tek rundt 30 minutt før han er framme. – Vi oppfordrar øvrige trafikantar på E18 til å sleppe fram tungberger frå Redgo slik at trafikkbildet kan normaliserast så fort som mogleg, skriv operasjonsleiar Harald Johannesen i politiloggen.",
+      "keyPoints": [
+        "Ei ulukke mellom ein personbil og ein lastebil stengde E6 ved Follotunnelen i Vestby like etter klokka 6 torsdag morgon.",
+        "Det er omkøyring via gamle E6 mellom Sonsveien og Vestby, og hendinga har ført til lange køar.",
+        "Klokka 08:12 melder politiet at dei ventar på tungberger, og at det tek rundt 30 minutt før han er framme. – Vi oppfordrar øvrige trafikantar på E18 til å sleppe fram tungberger frå Redgo slik at trafikkbildet kan normaliserast så fort som mogleg, skriv operasjonsleiar Harald Johannesen i politiloggen.",
+        "STENGT: Lastebilen veltet etter kollisjonen med personbilen og stenger nå Follotunnelen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/stor-oslo/ulukke-i-follotunnelen-_-lange-koar-pa-e6-1.18020127",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/NcwzCef074gAeCMDvEEyUAG3Ro7_PrSMbpMXS48_Pt7A.jpg",
+      "localImage": "assets/news/c2350f2b6a8d44.jpg",
+      "score": 17
+    },
+    {
+      "id": "707ba24b50c25c",
+      "category": "Norge",
+      "published": "10.09. 08:56",
+      "publishedISO": "2026-09-10T08:56:05+02:00",
+      "title": "Vil selge deler av arvesølvet – kan få 200 millioner hver",
+      "summary": "Moskenes vil selge hele sin eierandel, mens Vågan og Vestvågøy vil selge deler av sine. Vågan og Vestvågøy vil selge seg ned til 25,1 prosent hver. Et salg vil etter planen gi Vågan og Vestvågøy 200 millioner kroner hver. – For vår del er det 200 millioner.",
+      "keyPoints": [
+        "Vågan og Vestvågøy vil selge seg ned til 25,1 prosent hver.",
+        "Moskenes vil selge hele sin eierandel, mens Vågan og Vestvågøy vil selge deler av sine.",
+        "Et salg vil etter planen gi Vågan og Vestvågøy 200 millioner kroner hver. – For vår del er det 200 millioner.",
+        "Nå vil tre kommuner selge hele eller deler av kraftarvesølvet for å betale ned gjeld."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/vil-selge-deler-av-arvesolvet-_-kan-fa-200-millioner-hver-1.18020152",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/LMBFxXJJlzE3eySuYOv8fgY1eMKVUXzNFkM2TAnoLICg.jpg",
+      "localImage": "assets/news/707ba24b50c25c.jpg",
+      "score": 16
+    },
     {
       "id": "b717f836240cdc",
       "category": "Norge",
       "published": "10.09. 05:06",
       "publishedISO": "2026-09-10T05:06:53+02:00",
       "title": "Trump vil gi 5000 dollar til alle voksne ved republikansk valgseier",
-      "summary": "USAs president Donald Trump frister med 5000 dollar til alle voksne i USA om partiet hans beholder Kongressen etter mellomvalget. USAs president Donald Trump vil utbetale 5000 dollar «i utbytte» til alle voksne i Amerika dersom Republikanerne sikrer seg flertallet i både Representantenes hus og Senatet etter mellomvalget. – Hvis republikanerne vinner Representantenes hus og Senatet, begge, som følge av vår økonomiske styrke og suksess, skal jeg utstede et utbytte til hver voksne amerikanske statsborger på 5000 dollar, sa Trump. Det er rundt 270 millioner voksne i USA, men Trump sa ingenting om hvor pengene skal hentes fra, eller hvordan utbetalingene skal gjennomføres. – Vinner vi, vinner du med oss.",
+      "summary": "Donald Trump frister med en god neve dollar til alle voksne i USA om partiet hans beholder Kongressen etter mellomvalget. Han frister med å gi alle voksne et «Trump-utbytte». – Hvis republikanerne vinner Representantenes hus og Senatet, begge, som følge av vår økonomiske styrke og suksess, skal jeg utstede et utbytte til hver voksne amerikanske statsborger på 5000 dollar, sa Trump. Trump talte natt til torsdag på det republikanske landsmøtet i Dallas, Texas, og lover å gi 5000 dollar til alle voksne ved republikansk mellonvalgseier.",
       "keyPoints": [
-        "USAs president Donald Trump vil utbetale 5000 dollar «i utbytte» til alle voksne i Amerika dersom Republikanerne sikrer seg flertallet i både Representantenes hus og Senatet etter mellomvalget. – Hvis republikanerne vinner Representantenes hus og Senatet, begge, som følge av vår økonomiske styrke og suksess, skal jeg utstede et utbytte til hver voksne amerikanske statsborger på 5000 dollar, sa Trump.",
-        "USAs president Donald Trump frister med 5000 dollar til alle voksne i USA om partiet hans beholder Kongressen etter mellomvalget.",
-        "Det er rundt 270 millioner voksne i USA, men Trump sa ingenting om hvor pengene skal hentes fra, eller hvordan utbetalingene skal gjennomføres. – Vinner vi, vinner du med oss.",
-        "DALLAS: USAs president Donald Trump holdt tale i Dallas i Texas natt til torsdag."
+        "Trump talte natt til torsdag på det republikanske landsmøtet i Dallas, Texas, og lover å gi 5000 dollar til alle voksne ved republikansk mellonvalgseier.",
+        "Han frister med å gi alle voksne et «Trump-utbytte». – Hvis republikanerne vinner Representantenes hus og Senatet, begge, som følge av vår økonomiske styrke og suksess, skal jeg utstede et utbytte til hver voksne amerikanske statsborger på 5000 dollar, sa Trump.",
+        "Donald Trump frister med en god neve dollar til alle voksne i USA om partiet hans beholder Kongressen etter mellomvalget.",
+        "USAs president Donald Trump lover å gi alle voksne et «Trump-utbytte» dersom Republikanerne sikrer seg flertallet i både Representantenes hus og Senatet etter mellomvalget."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -22,49 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/2C2WGoBNN_gLqqFOMkHFQAw8QiBULO1YP2OGIyaChHig.jpg",
       "localImage": "assets/news/b717f836240cdc.jpg",
-      "score": 17
-    },
-    {
-      "id": "18f0baf230544c",
-      "category": "Verden",
-      "published": "10.09. 00:32",
-      "publishedISO": "2026-09-10T00:32:07+02:00",
-      "title": "Watch: Inside Thailand's school shooter drills following recent attacks",
-      "summary": "Etter at en 14 år gammel gutt drepte åtte mennesker og skadet 22 andre på en skole i Thailands Nonthaburi-provins i august, har bekymringen vokst over økningen i skoleskyting i Sørøst-Asia. Inne i Thailands skole skyter øvelser etter nylige angrep. Video, 00:01:07 Inne i Thailands skoleskyteøvelser etter nylige angrep Up Next.",
-      "keyPoints": [
-        "Inside Thailand's school shooter drills following recent attacks.",
-        "Etter at en 14 år gammel gutt drepte åtte mennesker og skadet 22 andre på en skole i Thailands Nonthaburi-provins i august, har bekymringen vokst over økningen i skoleskyting i Sørøst-Asia.",
-        "BBCs Jonathan Head deltok på en skyteøvelse på en videregående skole i Bangkok drevet av thailandsk politi, som håper øvelsen vil hjelpe med å forberede elevene i tilfelle en aktiv skytter.",
-        "Video, 00:02:42Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement Watch: Norway bids farewell to King Harald."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c07lpp4e993o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c3f5/live/77450b20-ac0a-11f1-aed2-8d6da8d75094.jpg",
-      "localImage": "assets/news/18f0baf230544c.jpg",
-      "score": 12
-    },
-    {
-      "id": "39c8962106ea10",
-      "category": "USA",
-      "published": "09.09. 23:21",
-      "publishedISO": "2026-09-09T23:21:13+02:00",
-      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "summary": "Da Storbritannia avduket sanksjoner mot israelske bosetninger på den okkuperte Vestbredden tirsdag, svarte Israel med raseri og erklærte at de ville stenge Storbritannias diplomatiske oppdrag til palestinerne, sparke ut britiske militære stab fra en internasjonal koordineringsbase nær Gaza og forby nesten et dusin venstreorienterte britiske parlamentsmedlemmer fra å komme inn i Israel. Vi så kunngjøringen deres i dag, men jeg har ingen kommentarer til det akkurat nå.\" Han la til at Storbritannia hadde varslet administrasjonen på forhånd (mest sannsynlig under en telefonsamtale Trump hadde med Storbritannias statsminister Andy Burnham på mandag) og sa at USA delte \"målet om stabilitet\" på et anspent tidspunkt i regionen og ikke \"ønsker å se noen oppgang i voldsoppgjøret på Vestbredden i Storbritannia\". forårsaker rasende israelsk respons Palestinske foreldre frykter for barnas liv på skolen ettersom bosetterangrep vokser",
-      "keyPoints": [
-        "Da Storbritannia avduket sanksjoner mot israelske bosetninger på den okkuperte Vestbredden tirsdag, svarte Israel med raseri og erklærte at de ville stenge Storbritannias diplomatiske oppdrag til palestinerne, sparke ut britiske militære stab fra en internasjonal koordineringsbase nær Gaza og forby nesten et dusin venstreorienterte britiske parlamentsmedlemmer fra å komme inn i Israel.",
-        "UK announces sanctions on West Bank settlements prompting furious Israeli response Palestinian parents fear for children's lives at school as settler attacks grow",
-        "Vi så kunngjøringen deres i dag, men jeg har ingen kommentar til det akkurat nå.\" Han la til at Storbritannia hadde varslet administrasjonen på forhånd (mest sannsynlig under en telefonsamtale Trump hadde med Storbritannias statsminister Andy Burnham på mandag) og sa at USA delte \"målet om stabilitet\" på et spent tidspunkt i regionen og ikke \"ønsket å se noen oppgang i volden på Vestbredden\".",
-        "Frykt for barnas sikkerhet på skolen på Vestbredden ettersom nybyggerangrep øker. Huckabee, som har langvarige synspunkter basert på bibelske begrunnelser for jødisk bosetting på Vestbredden, så ut til å snakke rett i noen av hans offentlige uttalelser – et trekk som nå er vanlig for noen Trump-utnevnte ambassadører."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3dfe/live/ef7217b0-ac7c-11f1-994b-c7df927931ed.jpg",
-      "localImage": "assets/news/39c8962106ea10.jpg",
-      "score": 12
+      "score": 16
     },
     {
       "id": "f7aa24c9d84dea",
@@ -85,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1f4e0292-91a7-38a0-ab4e-20f664523f36?fit=crop&h=675&upscale=true&w=1200&s=07dbff369c669445c83d5a10096306c1bf0f0a06",
       "localImage": "assets/news/f7aa24c9d84dea.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "4fd61e7b4c5044",
@@ -106,112 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3446baad-e87a-39e1-a49f-af4c72a0e4b4?fit=crop&h=675&upscale=true&w=1200&s=2b8f2d369bfd7ba829671343d520f243b9bf3ac8",
       "localImage": "assets/news/4fd61e7b4c5044.jpg",
-      "score": 16
-    },
-    {
-      "id": "256da5825c1e25",
-      "category": "AI",
-      "published": "08.09. 22:57",
-      "publishedISO": "2026-09-08T22:57:09+02:00",
-      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
-      "summary": "OpenAI sier at de har funnet en løsning på et flere tiår gammelt avansert matematikkproblem i løpet av få timer ved å bruke en ny kunstig intelligens (AI)-modell og tusenvis av AI-roboter. ChatGPT-produsenten sa tirsdag eksternt at ved å fokusere en gruppe på omtrent 10 000 AI-agenter, eller AI-roboter som utfører oppgaver litt autonomt, løste det et notorisk vanskelig matematikkproblem på bare 88 timer. Innen 5. september, eller omtrent 88 timer etter at det hadde satt 10 000 AI-roboter til oppgaven, hadde OpenAI funnet en løsning på det som omtales som Navier–Stokes-eksistens- og jevnhetsproblemet.",
-      "keyPoints": [
-        "OpenAI sier at de har funnet en løsning på et flere tiår gammelt avansert matematikkproblem i løpet av få timer ved å bruke en ny kunstig intelligens (AI)-modell og tusenvis av AI-roboter.",
-        "ChatGPT-produsenten sa tirsdag eksternt at ved å fokusere en gruppe på omtrent 10 000 AI-agenter, eller AI-roboter som utfører oppgaver litt autonomt, løste det et notorisk vanskelig matematikkproblem på bare 88 timer.",
-        "Innen 5. september, eller omtrent 88 timer etter at det hadde satt 10 000 AI-roboter til oppgaven, hadde OpenAI funnet en løsning på det som omtales som Navier–Stokes-eksistens- og jevnhetsproblemet.",
-        "Løsningen som OpenAI sier de nå har nådd for Navier–Stokes-eksistens- og smidighetsproblemet løste to av de fire uttalelsene i beviset som tusenårsprisen hadde krevd."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
-      "localImage": "assets/news/256da5825c1e25.jpg",
-      "score": 16
-    },
-    {
-      "id": "19da51d50f6b3f",
-      "category": "AI",
-      "published": "09.09. 19:06",
-      "publishedISO": "2026-09-09T19:06:48+02:00",
-      "title": "Google finansierer finsk kunstig intelligens med investeringer på 13 milliarder euro og atomkraftpakt",
-      "summary": "Google vil kjøpe opptil halvparten av elektrisiteten produsert av et av Finlands atomkraftverk som en del av en rekordstor investering på 13 milliarder euro (11 milliarder pund; 15 milliarder dollar) i landets AI-infrastruktur, kunngjorde selskapet. Som en del av avtalen signerte Google en 22-årig kontrakt med det finske verktøyet Fortum om å kjøpe opptil 50 % av produksjonen fra Lovisa atomkraftverk. Fortum sa at Googles forpliktelse ville støtte et investeringsprogram som tar sikte på å forlenge levetiden til atomstasjonen og øke dens produksjonskapasitet.",
-      "keyPoints": [
-        "Google vil kjøpe opptil halvparten av elektrisiteten produsert av et av Finlands atomkraftverk som en del av en rekordstor investering på 13 milliarder euro (11 milliarder pund; 15 milliarder dollar) i landets AI-infrastruktur, kunngjorde selskapet.",
-        "Som en del av avtalen signerte Google en 22-årig kontrakt med det finske verktøyet Fortum om å kjøpe opptil 50 % av produksjonen fra Lovisa atomkraftverk.",
-        "Fortum sa at Googles forpliktelse ville støtte et investeringsprogram som tar sikte på å forlenge levetiden til atomstasjonen og øke dens produksjonskapasitet.",
-        "Google-investeringen forventes å støtte mer enn 37 000 arbeidsplasser under byggingen og øke Finlands BNP med 3,6 milliarder euro i året, ifølge Google."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2d61/live/80327fa0-ac6a-11f1-80f0-9795d1a5edbc.jpg",
-      "localImage": "assets/news/19da51d50f6b3f.jpg",
       "score": 15
-    },
-    {
-      "id": "07a5b2d8f1502f",
-      "category": "Norge",
-      "published": "09.09. 21:15",
-      "publishedISO": "2026-09-09T21:15:16+02:00",
-      "title": "Sørlendinger i kong Haralds begravelse",
-      "summary": "Han var en av flere sørlendinger som var invitert til kong Haralds gravferdsseremoni. Hun tror at kong Harald har betydd svært mye for mange, og at kongens taler har festet seg hos mange som bor her i landet. Rektor Sunniva Whittaker representerte UiA under gravferden. – Kong Harald var tydelig på at alle er likeverdige og at alle hører hjemme i Norge.",
-      "keyPoints": [
-        "Han var en av flere sørlendinger som var invitert til kong Haralds gravferdsseremoni.",
-        "Hun tror at kong Harald har betydd svært mye for mange, og at kongens taler har festet seg hos mange som bor her i landet.",
-        "Rektor Sunniva Whittaker representerte UiA under gravferden. – Kong Harald var tydelig på at alle er likeverdige og at alle hører hjemme i Norge.",
-        "Flere profilerte sørlendinger var invitert til gravferdsseremonien."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/sorlendinger-i-kong-haralds-begravelse-1.18019666",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nPDHnCuG9BlM-TPG8UFgAwTKZC7oGEMiSZJYD8WuziqA.jpg",
-      "localImage": "assets/news/07a5b2d8f1502f.jpg",
-      "score": 16
-    },
-    {
-      "id": "4d365891d6ebc7",
-      "category": "Norge",
-      "published": "09.09. 00:43",
-      "publishedISO": "2026-09-09T00:43:22+02:00",
-      "title": "USA angrep iranske oljetankere",
-      "summary": "Amerikanske styrker har ødelagt fem iranske oljetankere den 8. september. Angrepet skjedde etter at den iranske revolusjonsgarden angrep et amerikansk krigsskip med ballistiske missiler to ganger i løpet av de siste to dagene. – Hver gang Iran prøver å treffe USAs militærskip, vil de miste oljetankere, advarer USAs utenriksminister Marco Rubio. Ifølge revolusjonsgarden skal angrepene ha skjedd som en reaksjon på at USA nylig ødela fem iranske oljetankere.",
-      "keyPoints": [
-        "Angrepet skjedde etter at den iranske revolusjonsgarden angrep et amerikansk krigsskip med ballistiske missiler to ganger i løpet av de siste to dagene. – Hver gang Iran prøver å treffe USAs militærskip, vil de miste oljetankere, advarer USAs utenriksminister Marco Rubio.",
-        "Ifølge revolusjonsgarden skal angrepene ha skjedd som en reaksjon på at USA nylig ødela fem iranske oljetankere.",
-        "Amerikanske styrker har ødelagt fem iranske oljetankere den 8. september.",
-        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/usa-angrep-iranske-oljetankere-1.18018562",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/4d365891d6ebc7.jpg",
-      "score": 14
-    },
-    {
-      "id": "81544c31a30df8",
-      "category": "Norge",
-      "published": "08.09. 21:40",
-      "publishedISO": "2026-09-08T21:40:10+02:00",
-      "title": "Iransk nyhetsbyrå: Iransk tankskip skal være angrepet",
-      "summary": "Et iransk tankskip skal være angrepet av amerikanske styrker, ifølge nyhetsbyrået Tasmin. Angrepet skal ha skjedd utenfor Kharg-øya, og skal ifølge meldingen være truffet av et amerikansk prosjektil. Ingen skal være drept i angrepet, og mannskapet er evakuert. – Lyden av flere eksplosjoner kunne høres på deler av Kharg-øya for noen minutter siden, het det i en tidligere melding fra det statstilknyttede nyhetsbyrået Mehr.",
-      "keyPoints": [
-        "Et iransk tankskip skal være angrepet av amerikanske styrker, ifølge nyhetsbyrået Tasmin.",
-        "Ingen skal være drept i angrepet, og mannskapet er evakuert. – Lyden av flere eksplosjoner kunne høres på deler av Kharg-øya for noen minutter siden, het det i en tidligere melding fra det statstilknyttede nyhetsbyrået Mehr.",
-        "Angrepet skal ha skjedd utenfor Kharg-øya, og skal ifølge meldingen være truffet av et amerikansk prosjektil.",
-        "Siden USA og Israel gikk til angrep mot Iran 28. februar 2026, har krigen herjet i landet og flere områder i Midtøsten."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/iransk-nyhetsbyra_-iransk-tankskip-skal-vaere-angrepet-1.18018501",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/81544c31a30df8.jpg",
-      "score": 14
     }
   ]
 }
