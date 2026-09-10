@@ -1,6 +1,6 @@
 {
-  "updatedAt": "10.09.2026 kl. 15:54",
-  "updatedISO": "2026-09-10T15:54:50.084317+02:00",
+  "updatedAt": "10.09.2026 kl. 19:31",
+  "updatedISO": "2026-09-10T19:31:11.866896+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/XOedesXGtHDAUEkiyYeORwSzPht0aKrf-xOZbPJaW0QQ.jpg",
       "localImage": "assets/news/4510cceb891417.jpg",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "ea4dae9de777ff",
+      "id": "14a3ddc4c988e1",
       "category": "Norge",
-      "published": "10.09. 09:05",
-      "publishedISO": "2026-09-10T09:05:58+02:00",
-      "title": "Reuters: Russland øvde på å bruke hemmelig våpen mot undersjøiske kabler – hindret av Norge og Nato",
-      "summary": "I vår øvde Russland på å bruke et hemmelig våpen mot undersjøiske kabler. Men operasjonen ved Svalbard ble avslørt og hindret av Norge og andre Nato-land, sier to vestlige tjenestemenn til Reuters. En russisk militær operasjonen i havområdene ved Svalbard ble avslørt og hindret av Norge og andre Nato-land.",
+      "published": "09.09. 22:54",
+      "publishedISO": "2026-09-09T22:54:34+02:00",
+      "title": "Liverpool med sterk snuoperasjon",
+      "summary": "Liverpool fikk en trøblete start i storkampen mot Atlético Madrid, men reddet seg mesterlig inn og vant til slutt 2–1 på Anfield. Neste mesterligaoppgjør for Liverpool er mot østerrikske LASK i oktober. Barcelonas midtbanespiller Rodri sier han har beklaget til hele Valencia-troppen etter at TV-kameraer tilsynelatende fanget ham i å omtale La Liga-konkurrenten på nedverdigende vis. – Jeg ba om unnskyldning til min venn og kollega Jose Gaya og til hele troppen, sa Rodri etter Barcelonas 5-1-seier mot Feyenoord i Champions League onsdag ifølge BBC.",
       "keyPoints": [
-        "I vår øvde Russland på å bruke et hemmelig våpen mot undersjøiske kabler.",
-        "Men operasjonen ved Svalbard ble avslørt og hindret av Norge og andre Nato-land, sier to vestlige tjenestemenn til Reuters.",
-        "En russisk militær operasjonen i havområdene ved Svalbard ble avslørt og hindret av Norge og andre Nato-land.",
-        "I april avslørte Norge og Storbritannia at de hadde avdekket en hemmelig russisk operasjon i arktisk farvann."
+        "Liverpool fikk en trøblete start i storkampen mot Atlético Madrid, men reddet seg mesterlig inn og vant til slutt 2–1 på Anfield.",
+        "Barcelonas midtbanespiller Rodri sier han har beklaget til hele Valencia-troppen etter at TV-kameraer tilsynelatende fanget ham i å omtale La Liga-konkurrenten på nedverdigende vis. – Jeg ba om unnskyldning til min venn og kollega Jose Gaya og til hele troppen, sa Rodri etter Barcelonas 5-1-seier mot Feyenoord i Champions League onsdag ifølge BBC.",
+        "Neste mesterligaoppgjør for Liverpool er mot østerrikske LASK i oktober.",
+        "Han skal ha kommet med kommentaren til lagkameratene Pau Cubarsi og Raphinha på benken etter å ha blitt byttet ut under Barcelonas 5-0-seier mot Valencia søndag."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/reuters_-russland-ovde-pa-a-bruke-hemmelig-vapen-mot-undersjoiske-kabler-_-hindret-av-norge-og-nato-1.18020220",
+      "url": "https://www.nrk.no/sport/liverpool-med-sterk-snuoperasjon-1.18019697",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6mr61QDkOp05BWOi42k8tAyYKG6AxkhFYGp3b4x75aAQ.jpg",
-      "localImage": "assets/news/ea4dae9de777ff.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/h1DltrSevYuP7PeQ3qWAUwbhOHerUa8Srd5v4DH8SInQ.jpg",
+      "localImage": "assets/news/14a3ddc4c988e1.jpg",
+      "score": 17
     },
     {
       "id": "5fdc3596b8b2e3",
@@ -64,48 +64,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77c8/live/9d308770-acfe-11f1-beae-535b95a24b3e.jpg",
       "localImage": "assets/news/5fdc3596b8b2e3.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "e186074d5b5c55",
-      "category": "USA",
-      "published": "10.09. 13:41",
-      "publishedISO": "2026-09-10T13:41:59+02:00",
-      "title": "A year after his death, conservative students struggle to fill void left by Kirk",
-      "summary": "Han var frivillig ved Turning Point USA-arrangementet ved Utah Valley University (UVU), hvor Kirk skulle delta i en av sine berømte livedebatter 10. september i fjor. Siden hans død har noen studenter ved UVU protestert mot et minnesmerke på campus over den konservative aktivisten. Du kan se mange folk på høyresiden som prøver å påberope seg... tilknytningen til Kirk.\" \"På noen måter har det kanskje bare økt,\" sa han. \"Kirk selv, i sin egen innflytelse av arven hans, tror jeg ikke det går noen vei.\" Kirks enke Erika har blitt administrerende direktør i Turning Point USA etter ektemannens død, Chapter2USA, startet en etterfølgende av Mary's College i Indiana 2USA i Macy St. Kirks død.",
-      "keyPoints": [
-        "Du kan se mange folk på høyresiden som prøver å påberope seg... tilknytningen til Kirk.\" \"På noen måter har det kanskje bare økt,\" sa han. \"Kirk selv, i sin egen innflytelse av arven hans, tror jeg ikke det går noen vei.\" Kirks enke Erika har blitt administrerende direktør i Turning Point USA etter ektemannens død, Chapter2USA, startet en etterfølgende av Mary's College i Indiana 2USA i Macy St. Kirks død.",
-        "He was a volunteer at the Turning Point USA event at Utah Valley University (UVU), where Kirk was set to engage in one of his famous live debates on 10 September last year.",
-        "Siden hans død har noen studenter ved UVU protestert mot et minnesmerke på campus over den konservative aktivisten.",
-        "Nå, sier han, har ingen klart å fylle tomrommet. Det er ikke samme organisasjon, sier han. \"Det har bare ikke den samme kraften, den samme effekten.\" Derimot benektet en av TPUSAs kapittelledere andre steder i USA ethvert forslag om at organisasjonen ikke var hva den var under Kirk - og sa til BBC \"dette er bokstavelig talt bare begynnelsen\"."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c1e5j1pvv4yo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b8e/live/052238c0-ac86-11f1-ab14-5b9069dc795d.jpg",
-      "localImage": "assets/news/e186074d5b5c55.jpg",
-      "score": 13
-    },
-    {
-      "id": "9015284b4b4c6f",
+      "id": "b520f420d74ed6",
       "category": "Økonomi",
-      "published": "10.09. 14:15",
-      "publishedISO": "2026-09-10T14:15:11+02:00",
-      "title": "Den europeiske sentralbanken hever renten til 2,5 prosent",
-      "summary": "Den europeiske sentralbanken (ESB) setter opp renten i eurosonen med 0,25 prosentpoeng, til 2,5 prosent. Prisvekten (KPI) i eurosonen tok seg opp til på 3,3 prosent i august, ifølge foreløpige tall. Målet til sentralbanken er stabil prisvekst på to prosent.",
+      "published": "10.09. 09:01",
+      "publishedISO": "2026-09-10T09:01:04+02:00",
+      "title": "Oslo Børs snudde ned tross oljeprishopp",
+      "summary": "Oslo Børs lå i pluss store deler av dagen, men snudde ned mot slutten av handelsdagen. Ved stengetid på Oslo Børs var oljeprisen på 104,2 dollar per fat, opp 2,7 dollar for dagen, mens gassprisen var opp 3 prosent til 81,6 euro per megawattime. I går steg Oslo Børs til ny rekord etter den kraftige oppgangen i oljeprisen.",
       "keyPoints": [
-        "Den europeiske sentralbanken (ESB) setter opp renten i eurosonen med 0,25 prosentpoeng, til 2,5 prosent.",
-        "Målet til sentralbanken er stabil prisvekst på to prosent.",
-        "Prisvekten (KPI) i eurosonen tok seg opp til på 3,3 prosent i august, ifølge foreløpige tall.",
-        "ESB ser for seg 0,9 prosent vekst i 2026, 1,4 prosent i 2027 og 1,5 prosent i 2028."
+        "Oslo Børs lå i pluss store deler av dagen, men snudde ned mot slutten av handelsdagen.",
+        "Ved stengetid på Oslo Børs var oljeprisen på 104,2 dollar per fat, opp 2,7 dollar for dagen, mens gassprisen var opp 3 prosent til 81,6 euro per megawattime.",
+        "I går steg Oslo Børs til ny rekord etter den kraftige oppgangen i oljeprisen.",
+        "Tungvektere som Mowi og Hydro var ned henholdsvis 3,2 prosent og 1,9 prosent, mens Yara og Aker falt henholdsvis 2,2 og 1,7 prosent."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/2p04al/den-europeiske-sentralbanken-hever-renten-til-2-5-prosent",
+      "url": "https://e24.no/boers-og-finans/i/e7wed9/oslo-boers-aapner-ned",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ac3a10e8-14ae-3c9e-842e-7102546fb48e?fit=crop&h=675&upscale=true&w=1200&s=0db0628a08820b604dbaed362fdffc6bb0e98d48",
-      "localImage": "assets/news/9015284b4b4c6f.jpg",
+      "image": "https://akamai.vgc.no/v2/images/1eab1e4d-7050-3cf6-b9e8-3b5fa140c380?fit=crop&h=675&upscale=true&w=1200&s=d460ebda09021a5da11715eb829e75dd9b8156a5",
+      "localImage": "assets/news/b520f420d74ed6.jpg",
       "score": 21
     },
     {
@@ -114,12 +93,12 @@
       "published": "10.09. 15:31",
       "publishedISO": "2026-09-10T15:31:51+02:00",
       "title": "Bred nedgang på Wall Street",
-      "summary": "Tiårsrenten er over 4,9 prosent torsdag, det høyeste nivået siden november 2023. Oljeprisen (brent spot) ligger på 104,6 dollar per fat, opp 2,95 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
+      "summary": "Oljeprisen (brent spot) ligger på 106,55 dollar per fat, opp 4,9 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag. Brikkegiganten Micron faller 4,9 prosent, Intel er ned 4,69 prosent, mens Nvidia faller 2,21 prosent.",
       "keyPoints": [
         "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
-        "Oljeprisen (brent spot) ligger på 104,6 dollar per fat, opp 2,95 prosent siden midnatt.",
-        "Tiårsrenten er over 4,9 prosent torsdag, det høyeste nivået siden november 2023.",
-        "Slik går det med de toneangivende indeksene i 15.45-tiden: Renten på amerikanske statsobligasjoner stiger."
+        "Brikkegiganten Micron faller 4,9 prosent, Intel er ned 4,69 prosent, mens Nvidia faller 2,21 prosent.",
+        "Oljeprisen (brent spot) ligger på 106,55 dollar per fat, opp 4,9 prosent siden midnatt.",
+        "Tiårsrenten er over 4,9 prosent torsdag, det høyeste nivået siden november 2023."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -151,25 +130,25 @@
       "score": 14
     },
     {
-      "id": "cc7711e74d18cb",
+      "id": "9015284b4b4c6f",
       "category": "Økonomi",
-      "published": "10.09. 09:01",
-      "publishedISO": "2026-09-10T09:01:04+02:00",
-      "title": "Equinor til nye høyder",
-      "summary": "Equinors markedsverdi har passert 1.000 milliarder kroner. Rundt klokken 14 er Hovedindeksen opp 0,18 prosent for dagen, etter en oppgang i både olje- og gassprisen. Flere av de store oljeaksjene stiger, inkludert Equinor, Aker BP og Vår Energi.",
+      "published": "10.09. 14:15",
+      "publishedISO": "2026-09-10T14:15:11+02:00",
+      "title": "Den europeiske sentralbanken hever renten til 2,5 prosent",
+      "summary": "Den europeiske sentralbanken (ESB) setter opp renten i eurosonen med 0,25 prosentpoeng, til 2,5 prosent. Prisvekten (KPI) i eurosonen tok seg opp til på 3,3 prosent i august, ifølge foreløpige tall. Målet til sentralbanken er stabil prisvekst på to prosent.",
       "keyPoints": [
-        "Flere av de store oljeaksjene stiger, inkludert Equinor, Aker BP og Vår Energi.",
-        "Rundt klokken 14 er Hovedindeksen opp 0,18 prosent for dagen, etter en oppgang i både olje- og gassprisen.",
-        "Equinors markedsverdi har passert 1.000 milliarder kroner.",
-        "Samtidig handlet europeisk gass til årets høyeste nivå på 83 euro per megawattime."
+        "Den europeiske sentralbanken (ESB) setter opp renten i eurosonen med 0,25 prosentpoeng, til 2,5 prosent.",
+        "Målet til sentralbanken er stabil prisvekst på to prosent.",
+        "Prisvekten (KPI) i eurosonen tok seg opp til på 3,3 prosent i august, ifølge foreløpige tall.",
+        "ESB ser for seg 0,9 prosent vekst i 2026, 1,4 prosent i 2027 og 1,5 prosent i 2028."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/e7wed9/oslo-boers-aapner-ned",
+      "url": "https://e24.no/internasjonal-oekonomi/i/2p04al/den-europeiske-sentralbanken-hever-renten-til-2-5-prosent",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1eab1e4d-7050-3cf6-b9e8-3b5fa140c380?fit=crop&h=675&upscale=true&w=1200&s=d460ebda09021a5da11715eb829e75dd9b8156a5",
-      "localImage": "assets/news/cc7711e74d18cb.jpg",
-      "score": 18
+      "image": "https://akamai.vgc.no/v2/images/ac3a10e8-14ae-3c9e-842e-7102546fb48e?fit=crop&h=675&upscale=true&w=1200&s=0db0628a08820b604dbaed362fdffc6bb0e98d48",
+      "localImage": "assets/news/9015284b4b4c6f.jpg",
+      "score": 20
     },
     {
       "id": "44dbe4cf93be60",
@@ -190,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/216fd9ba-5788-38e3-b816-061ca9b85b47?fit=crop&h=675&upscale=true&w=1200&s=efafb1a34c30af561a06e790b4e3b5953e53731a",
       "localImage": "assets/news/44dbe4cf93be60.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "45b7ceccf5b7d8",
@@ -198,10 +177,10 @@
       "published": "10.09. 09:12",
       "publishedISO": "2026-09-10T09:12:32+02:00",
       "title": "Watch: Is Donald Trump's $5,000 election pledge legal?",
-      "summary": "Donald Trump har lovet 5000 dollar (3700 pund) til hver amerikaner hvis republikanerne vinner mellomvalget i november. Demokrater stemplet det som et «tomt løfte», og andre har stilt spørsmål ved om et slikt løfte er lovlig. BBC Nord-Amerika-redaktør Sarah Smith ser på om Trumps løfte – som vil koste den amerikanske regjeringen rundt 1,3 billioner dollar – holder stand. Video, 00:01:57Se: Er Trumps valgløfte på 5000 dollar lovlig?",
+      "summary": "Donald Trump har lovet 5000 dollar (3700 pund) til hver amerikaner hvis republikanerne vinner mellomvalget i november. Demokrater stemplet det som et «tomt løfte», og andre har stilt spørsmål ved om et slikt løfte i det hele tatt er lovlig. BBC Nord-Amerika-redaktør Sarah Smith undersøker om Trumps løfte – som vil koste den amerikanske regjeringen rundt 1,3 billioner dollar – holder stand. Video, 00:01:57Se: Er Trumps valgløfte på 5000 dollar lovlig?",
       "keyPoints": [
         "Video, 00:01:57Watch: Is Trump's $5,000 election pledge legal?",
-        "Demokrater stemplet det som et «tomt løfte», og andre har stilt spørsmål ved om et slikt løfte er lovlig. BBC Nord-Amerika-redaktør Sarah Smith ser på om Trumps løfte – som vil koste den amerikanske regjeringen rundt 1,3 billioner dollar – holder stand.",
+        "Demokrater stemplet det som et «tomt løfte», og andre har stilt spørsmål ved om et slikt løfte i det hele tatt er lovlig. BBC Nord-Amerika-redaktør Sarah Smith undersøker om Trumps løfte – som vil koste den amerikanske regjeringen rundt 1,3 billioner dollar – holder stand.",
         "Donald Trump har lovet 5000 dollar (3700 pund) til hver amerikaner hvis republikanerne vinner mellomvalget i november.",
         "Video, 00:00:18Sinkhole appears outside Malibu home thought to belong to Nicolas Cage Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii."
       ],
@@ -211,7 +190,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbe7/live/af214ad0-acec-11f1-bc1f-3f186ca4140c.png",
       "localImage": "assets/news/45b7ceccf5b7d8.png",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "ea4dae9de777ff",
+      "category": "Norge",
+      "published": "10.09. 09:05",
+      "publishedISO": "2026-09-10T09:05:58+02:00",
+      "title": "Reuters: Russland øvde på å bruke hemmelig våpen mot undersjøiske kabler – hindret av Norge og Nato",
+      "summary": "I vår øvde Russland på å bruke et hemmelig våpen mot undersjøiske kabler. Men operasjonen ved Svalbard ble avslørt og hindret av Norge og andre Nato-land, sier to vestlige tjenestemenn til Reuters. En russisk militær operasjonen i havområdene ved Svalbard ble avslørt og hindret av Norge og andre Nato-land.",
+      "keyPoints": [
+        "I vår øvde Russland på å bruke et hemmelig våpen mot undersjøiske kabler.",
+        "Men operasjonen ved Svalbard ble avslørt og hindret av Norge og andre Nato-land, sier to vestlige tjenestemenn til Reuters.",
+        "En russisk militær operasjonen i havområdene ved Svalbard ble avslørt og hindret av Norge og andre Nato-land.",
+        "I april avslørte Norge og Storbritannia at de hadde avdekket en hemmelig russisk operasjon i arktisk farvann."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/reuters_-russland-ovde-pa-a-bruke-hemmelig-vapen-mot-undersjoiske-kabler-_-hindret-av-norge-og-nato-1.18020220",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/6mr61QDkOp05BWOi42k8tAyYKG6AxkhFYGp3b4x75aAQ.jpg",
+      "localImage": "assets/news/ea4dae9de777ff.jpg",
+      "score": 15
     }
   ]
 }
