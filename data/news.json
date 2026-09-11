@@ -1,6 +1,6 @@
 {
-  "updatedAt": "11.09.2026 kl. 07:01",
-  "updatedISO": "2026-09-11T07:01:39.509852+02:00",
+  "updatedAt": "11.09.2026 kl. 11:43",
+  "updatedISO": "2026-09-11T11:43:27.038845+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/eLmaOKS-UrFaM-qWAGFrLAGLvm0aqQAUCnH9TYSTs9jg.jpg",
       "localImage": "assets/news/24fb5f89c4dae7.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "9375302d9ec51c",
@@ -43,28 +43,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/D-RoUbPUyymMl8_615q0Hgqk0RW-npczOe5Q11tEe5Bg.jpg",
       "localImage": "assets/news/9375302d9ec51c.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "5fdc3596b8b2e3",
+      "id": "fae6ab0c84b263",
       "category": "Verden",
-      "published": "10.09. 14:24",
-      "publishedISO": "2026-09-10T14:24:54+02:00",
-      "title": "Twenty-five dead after fire erupts on cargo ship in Qingdao, eastern China - state media",
-      "summary": "Se: Tykke røykskyer stiger opp fra lasteskipbrann i Qingdao, Kina. Tjuefem mennesker har blitt drept i en brann på et utenlandsk flagget lasteskip som ligger til kai ved en havn øst i Kina, ifølge den kinesiske statskringkasteren CCTV. Bilder utgitt av statlige medier viste at fartøyet var Ocean Melody, et 190 meter langt Liberia-flagg som ankom Qingdao 31. august, ifølge sporingssiden MarineTraffic. Kinas premier Li Qiang oppfordret til å redde folk som er fanget om bord på skipet Qingdao er et viktig handelsknutepunkt og rangerer blant verdens travleste havner.",
+      "published": "11.09. 01:22",
+      "publishedISO": "2026-09-11T01:22:11+02:00",
+      "title": "Ukraine's fortress cities under fire as Russia bids to seize rest of Donbas",
+      "summary": "Disse nabobyene er de største fortsatt under full ukrainsk kontroll i den østlige Donbas-regionen. Den russiske hæren kontrollerer allerede nesten hele Luhansk-regionen, og har nå kontroll over nesten 80 % av Donetsk-regionen også, der alle tre festningsbyene ligger. Det er droner som ligger i bakhold på veiene også,\" sa han til BBC. \"Du kan alltid høre eksplosjoner i bakgrunnen, pluss at det er mobilgrupper som skyter mot droner.\" Mange av Kramatorsks nøkkelgater er nå dekket med anti-dronenett I løpet av sommeren økte antallet sivile såret av russiske angrep på de to byene fra 70 i august til 212 ukrainske politifolk i august.",
       "keyPoints": [
-        "Se: Tykke røykskyer stiger opp fra lasteskipbrann i Qingdao, Kina. Tjuefem mennesker har blitt drept i en brann på et utenlandsk flagget lasteskip som ligger til kai ved en havn øst i Kina, ifølge den kinesiske statskringkasteren CCTV.",
-        "Bilder utgitt av statlige medier viste at fartøyet var Ocean Melody, et 190 meter langt Liberia-flagg som ankom Qingdao 31. august, ifølge sporingssiden MarineTraffic.",
-        "Kinas premier Li Qiang oppfordret til å redde folk som er fanget om bord på skipet Qingdao er et viktig handelsknutepunkt og rangerer blant verdens travleste havner.",
-        "Factory fire kills at least 28 in China's 'shoe capital'"
+        "Den russiske hæren kontrollerer allerede nesten hele Luhansk-regionen, og har nå kontroll over nesten 80 % av Donetsk-regionen også, der alle tre festningsbyene ligger.",
+        "Disse nabobyene er de største fortsatt under full ukrainsk kontroll i den østlige Donbas-regionen.",
+        "Det er droner som ligger i bakhold på veiene også,\" sa han til BBC. \"Du kan alltid høre eksplosjoner i bakgrunnen, pluss at det er mobilgrupper som skyter mot droner.\" Mange av Kramatorsks nøkkelgater er nå dekket med anti-dronenett I løpet av sommeren økte antallet sivile såret av russiske angrep på de to byene fra 70 i august til 212 ukrainske politifolk i august.",
+        "Full fangst av Donbas, som består av Donetsk- og Luhansk-regionene, er et sentralt mål for Russland."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/77c8/live/9d308770-acfe-11f1-beae-535b95a24b3e.jpg",
-      "localImage": "assets/news/5fdc3596b8b2e3.jpg",
-      "score": 14
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6b20/live/9697c7c0-ada3-11f1-a540-61c3f7fc4e6c.jpg",
+      "localImage": "assets/news/fae6ab0c84b263.jpg",
+      "score": 15
+    },
+    {
+      "id": "9a0690124e414a",
+      "category": "USA",
+      "published": "11.09. 00:53",
+      "publishedISO": "2026-09-11T00:53:00+02:00",
+      "title": "Watch: Three times Trump has promised money to Americans",
+      "summary": "Se: Tre ganger har Trump lovet penger til amerikanere. Video, 00:01:23Se: Tre ganger har Trump lovet penger til Americans Up Next. Video, 00:00:45Se: Trump sier Iran-krigen vil ende 'umiddelbart' etter mellomvalget i USA Se: Er Trumps valgløfte på 5000 dollar lovlig?",
+      "keyPoints": [
+        "Watch: Three times Trump has promised money to Americans.",
+        "Video, 00:00:45Se: Trump sier Iran-krigen vil ende 'umiddelbart' etter mellomvalget i USA Se: Er Trumps valgløfte på 5000 dollar lovlig?",
+        "Watch: Americans remember what they were doing on 9/11.",
+        "BBCs Samira Hussain ser på andre ganger presidenten har gitt lignende løfter."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cgk5nn338peo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4c5/live/bd545cf0-ad69-11f1-bc1f-3f186ca4140c.jpg",
+      "localImage": "assets/news/9a0690124e414a.jpg",
+      "score": 15
     },
     {
       "id": "558b05ec8d2598",
@@ -85,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6bb86d0b-aca1-3de7-9b03-48039bbc0ebf?fit=crop&h=675&upscale=true&w=1200&s=be5ca7771bf5ea3811caa9bb8f00d0c1435527cc",
       "localImage": "assets/news/558b05ec8d2598.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "b520f420d74ed6",
@@ -106,7 +127,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1eab1e4d-7050-3cf6-b9e8-3b5fa140c380?fit=crop&h=675&upscale=true&w=1200&s=d460ebda09021a5da11715eb829e75dd9b8156a5",
       "localImage": "assets/news/b520f420d74ed6.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "5697f4ae6ac96b",
+      "category": "Økonomi",
+      "published": "11.09. 09:14",
+      "publishedISO": "2026-09-11T09:14:27+02:00",
+      "title": "Støre bekrefter endringer i regjeringen",
+      "summary": "Statsminister Jonas Gahr Støre varsler fredag morgen at det kommer endringer i regjeringen, ifølge en pressemelding. Ifølge opplysningene til mediene, deriblant NRK, Nettavisen, DN og VG , skal det være digitaliserings- og forvaltningsminister Karianne Tung, samferdelsminister Jon-Ivar Nygård og klima- og miljøminister Andreas Bjelland Eriksen som går ut av regjeringen. Inn i regjeringen kommer, ifølge opplysningene, Kamzy Gunaratnam som samferdselsminister og Torgeir Micaelsen som digitaliseringsminister.",
+      "keyPoints": [
+        "Statsminister Jonas Gahr Støre varsler fredag morgen at det kommer endringer i regjeringen, ifølge en pressemelding.",
+        "Ifølge opplysningene til mediene, deriblant NRK, Nettavisen, DN og VG , skal det være digitaliserings- og forvaltningsminister Karianne Tung, samferdelsminister Jon-Ivar Nygård og klima- og miljøminister Andreas Bjelland Eriksen som går ut av regjeringen.",
+        "Inn i regjeringen kommer, ifølge opplysningene, Kamzy Gunaratnam som samferdselsminister og Torgeir Micaelsen som digitaliseringsminister.",
+        "11, og kom ute på Slottsplassen sammen med Støre rundt et kvarter senere."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/0p7VBJ/stoere-bekrefter-endringer-i-regjeringen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7ba14dac-cc6c-3422-858d-5ee5c519315c?fit=crop&h=675&upscale=true&w=1200&s=cdf2ba9131a8ca60f7d4131e6081cedace9f282b",
+      "localImage": "assets/news/5697f4ae6ac96b.jpg",
+      "score": 17
     },
     {
       "id": "9015284b4b4c6f",
@@ -127,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ac3a10e8-14ae-3c9e-842e-7102546fb48e?fit=crop&h=675&upscale=true&w=1200&s=0db0628a08820b604dbaed362fdffc6bb0e98d48",
       "localImage": "assets/news/9015284b4b4c6f.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "4510cceb891417",
@@ -148,69 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/XOedesXGtHDAUEkiyYeORwSzPht0aKrf-xOZbPJaW0QQ.jpg",
       "localImage": "assets/news/4510cceb891417.jpg",
-      "score": 18
-    },
-    {
-      "id": "724203b9651527",
-      "category": "Økonomi",
-      "published": "10.09. 15:31",
-      "publishedISO": "2026-09-10T15:31:51+02:00",
-      "title": "Nedgang på Wall Street for fjerde dag på rad",
-      "summary": "Oljeprisen (brent spot) ligger på 108,04 dollar per fat, opp 6,4 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag. Brikkegiganten Micron falt 4,9 prosent, Intel endte ned 5,57 prosent, mens Nvidia falt 2,37 prosent.",
-      "keyPoints": [
-        "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
-        "Brikkegiganten Micron falt 4,9 prosent, Intel endte ned 5,57 prosent, mens Nvidia falt 2,37 prosent.",
-        "Oljeprisen (brent spot) ligger på 108,04 dollar per fat, opp 6,4 prosent siden midnatt.",
-        "Tiårsrenten er over 4,95 prosent torsdag, det høyeste nivået siden november 2023."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a2bcfb24-b0d7-3ebd-aa19-dfb2f845a75b?fit=crop&h=675&upscale=true&w=1200&s=5e7e362875c92e637a257be98b12efb19b9c0e46",
-      "localImage": "assets/news/724203b9651527.jpg",
       "score": 17
     },
     {
-      "id": "9a0690124e414a",
+      "id": "baf3f36fccea7a",
       "category": "Økonomi",
-      "published": "11.09. 00:53",
-      "publishedISO": "2026-09-11T00:53:00+02:00",
-      "title": "Watch: Three times Trump has promised money to Americans",
-      "summary": "Se: Tre ganger har Trump lovet penger til amerikanere. Video, 00:01:23Se: Tre ganger har Trump lovet penger til Americans Up Next. Video, 00:00:45Se: Trump sier Iran-krigen vil ende 'umiddelbart' etter mellomvalget i USA Se: Er Trumps valgløfte på 5000 dollar lovlig?",
+      "published": "11.09. 10:00",
+      "publishedISO": "2026-09-11T10:00:33+02:00",
+      "title": "Olje: IEA jekker ned utsiktene",
+      "summary": "Nok en gang jekker IEA ned utsiktene for global oljeetterspørsel. Slik ser IEA på utviklingen i det globale forbruket: Utfordringer i global produksjon og frakt av olje har ført til at globale oljelagre til sammen er blitt tappet med 507 millioner fat i løpet av krigen, eller 2,8 millioner fat per dag i snitt, ifølge IEA. Det globale tilbudet av olje er i snitt ventet å bli på 100,7 millioner fat per dag i 2026, anslår IEA.",
       "keyPoints": [
-        "Watch: Three times Trump has promised money to Americans.",
-        "Video, 00:00:45Se: Trump sier Iran-krigen vil ende 'umiddelbart' etter mellomvalget i USA Se: Er Trumps valgløfte på 5000 dollar lovlig?",
-        "BBCs Samira Hussain ser på andre ganger presidenten har gitt lignende løfter.",
-        "US President Donald Trump says he would give $5,000 to every American adult if the midterm elections go his way."
+        "Nok en gang jekker IEA ned utsiktene for global oljeetterspørsel.",
+        "Slik ser IEA på utviklingen i det globale forbruket: Utfordringer i global produksjon og frakt av olje har ført til at globale oljelagre til sammen er blitt tappet med 507 millioner fat i løpet av krigen, eller 2,8 millioner fat per dag i snitt, ifølge IEA.",
+        "Det globale tilbudet av olje er i snitt ventet å bli på 100,7 millioner fat per dag i 2026, anslår IEA.",
+        "Totalt var produksjon i Midtøsten på mer enn 10 millioner fat per dag stengt ned av sikkerhetshensyn i august, og global oljeproduksjon endte på 100,1 millioner fat per dag denne måneden, ifølge byrået."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cgk5nn338peo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a4c5/live/bd545cf0-ad69-11f1-bc1f-3f186ca4140c.jpg",
-      "localImage": "assets/news/9a0690124e414a.jpg",
-      "score": 16
-    },
-    {
-      "id": "8390503ed06837",
-      "category": "Nord-Norge",
-      "published": "10.09. 22:15",
-      "publishedISO": "2026-09-10T22:15:42+02:00",
-      "title": "Skrev 350 millioner kr dyrere kontrakt: – Eneste tilbyder",
-      "summary": "I dag ble det klart at Fylkeskommunen inngår en ny kontrakt med Boreal om den såkalte Nordlands-ekspressen. Det er over 350 millioner kroner dyrere enn forrige kontrakt. Fylkeskommunen innrømmer i dag at Boreal var eneste tilbyder.",
-      "keyPoints": [
-        "Det er over 350 millioner kroner dyrere enn forrige kontrakt.",
-        "Fylkeskommunen innrømmer i dag at Boreal var eneste tilbyder.",
-        "I dag ble det klart at Fylkeskommunen inngår en ny kontrakt med Boreal om den såkalte Nordlands-ekspressen.",
-        "Richard Dagsvik, fylkesråd for samferdsel, sier det er pålagt med EØS-avtalen å holde et anbud, selv om de bare får ett tilbud. – Er det ikke en falliterklæring at det bare er et selskap som ønsker å drifte hurtigbåtruta? – Det kan du si, men det er et resultat av de strukturelle endringene som har skjedd i denne bransjen."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/skrev-350-millioner-kr-dyrere-kontrakt_-__eneste-tilbyder-1.18021188",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/gAkkClxyiKRwTQ1EzuDMswPdSodwZ2BY2tT9SnBVrdbA.jpg",
-      "localImage": "assets/news/8390503ed06837.jpg",
+      "url": "https://e24.no/energi-og-klima/i/zOygwO/olje-iea-jekker-ned-utsiktene",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b233dd8d-3787-3570-82cd-d7ac63268f4b?fit=crop&h=675&upscale=true&w=1200&s=2cee043cce2fcf71136e58a5468d2acbc673b4c4",
+      "localImage": "assets/news/baf3f36fccea7a.jpg",
       "score": 16
     }
   ]
