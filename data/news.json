@@ -1,6 +1,6 @@
 {
-  "updatedAt": "11.09.2026 kl. 00:28",
-  "updatedISO": "2026-09-11T00:28:33.568411+02:00",
+  "updatedAt": "11.09.2026 kl. 02:26",
+  "updatedISO": "2026-09-11T02:26:56.827720+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,27 +43,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/D-RoUbPUyymMl8_615q0Hgqk0RW-npczOe5Q11tEe5Bg.jpg",
       "localImage": "assets/news/9375302d9ec51c.jpg",
-      "score": 17
-    },
-    {
-      "id": "b3795279d179f2",
-      "category": "Verden",
-      "published": "10.09. 18:48",
-      "publishedISO": "2026-09-10T18:48:37+02:00",
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "summary": "USAs president Donald Trump har tilbudt hver voksen amerikaner 5000 dollar (3700 pund) hvis republikanerne vinner mellomvalget i november, men det er uklart hvordan en slik plan vil bli finansiert og om den er lovlig. Hvert parti gjør det hele tiden ... og det er åpenbart helt lovlig.\" Imidlertid sa Laurel Rapp, direktør for USA og Nord-Amerika-programmet ved Chatham House, til BBC at Trumps tilbud så ut til å være \"en veldig forskjellig, veldig transaksjonell avtale\" fra den typen løfter som vanligvis ble gitt av kandidater i en valgperiode. På spørsmål om hvordan utbetalingene kunne fungere, sa Det hvite hus i en uttalelse til BBC og presidenten har ikke tvilt konsekvent. \"Med den fortsatte støtten fra det amerikanske folket, vil president Trump fortsette å levere reelle resultater,\" la talsmann Davis Ingle til.",
-      "keyPoints": [
-        "USAs president Donald Trump har tilbudt hver voksen amerikaner 5000 dollar (3700 pund) hvis republikanerne vinner mellomvalget i november, men det er uklart hvordan en slik plan vil bli finansiert og om den er lovlig.",
-        "Hvert parti gjør det hele tiden ... og det er åpenbart helt lovlig.\" Laurel Rapp, direktør for USA og Nord-Amerika-programmet ved Chatham House, sa imidlertid til BBC at Trumps tilbud så ut til å være \"en veldig annerledes, veldig transaksjonell avtale\" fra den typen løfter som vanligvis gis av kandidater i en valgperiode.",
-        "På spørsmål om hvordan utbetalingene kunne fungere, sa Det hvite hus i en uttalelse til BBC: «Dommemennene og nektene har konsekvent tvilt på president Trump». \"Med den fortsatte støtten fra det amerikanske folket, vil president Trump fortsette å levere reelle resultater,\" la talsmann Davis Ingle til.",
-        "Se: BBC North America-redaktør Sarah Smith undersøker om Trumps løfte holder seg. Bortsett fra spørsmålet om lovlighet, har noen også spurt om Trumps tilbud ville være gjennomførbart økonomisk i sammenheng med økende amerikansk gjeld, delvis som et resultat av krigen i Iran."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a721/live/979ac0a0-ad26-11f1-a540-61c3f7fc4e6c.jpg",
-      "localImage": "assets/news/b3795279d179f2.jpg",
       "score": 16
     },
     {
@@ -109,27 +88,6 @@
       "score": 20
     },
     {
-      "id": "724203b9651527",
-      "category": "Økonomi",
-      "published": "10.09. 15:31",
-      "publishedISO": "2026-09-10T15:31:51+02:00",
-      "title": "Nedgang på Wall Street for fjerde dag på rad",
-      "summary": "Oljeprisen (brent spot) ligger på 108,04 dollar per fat, opp 6,4 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag. Brikkegiganten Micron falt 4,9 prosent, Intel endte ned 5,57 prosent, mens Nvidia falt 2,37 prosent.",
-      "keyPoints": [
-        "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
-        "Brikkegiganten Micron falt 4,9 prosent, Intel endte ned 5,57 prosent, mens Nvidia falt 2,37 prosent.",
-        "Oljeprisen (brent spot) ligger på 108,04 dollar per fat, opp 6,4 prosent siden midnatt.",
-        "Tiårsrenten er over 4,95 prosent torsdag, det høyeste nivået siden november 2023."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a2bcfb24-b0d7-3ebd-aa19-dfb2f845a75b?fit=crop&h=675&upscale=true&w=1200&s=5e7e362875c92e637a257be98b12efb19b9c0e46",
-      "localImage": "assets/news/724203b9651527.jpg",
-      "score": 19
-    },
-    {
       "id": "9015284b4b4c6f",
       "category": "Økonomi",
       "published": "10.09. 14:15",
@@ -172,6 +130,27 @@
       "score": 19
     },
     {
+      "id": "724203b9651527",
+      "category": "Økonomi",
+      "published": "10.09. 15:31",
+      "publishedISO": "2026-09-10T15:31:51+02:00",
+      "title": "Nedgang på Wall Street for fjerde dag på rad",
+      "summary": "Oljeprisen (brent spot) ligger på 108,04 dollar per fat, opp 6,4 prosent siden midnatt. Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag. Brikkegiganten Micron falt 4,9 prosent, Intel endte ned 5,57 prosent, mens Nvidia falt 2,37 prosent.",
+      "keyPoints": [
+        "Samtidig er det nedgang i flere teknologi- og brikkeaksjer torsdag.",
+        "Brikkegiganten Micron falt 4,9 prosent, Intel endte ned 5,57 prosent, mens Nvidia falt 2,37 prosent.",
+        "Oljeprisen (brent spot) ligger på 108,04 dollar per fat, opp 6,4 prosent siden midnatt.",
+        "Tiårsrenten er over 4,95 prosent torsdag, det høyeste nivået siden november 2023."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/zO3m8w/bred-nedgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a2bcfb24-b0d7-3ebd-aa19-dfb2f845a75b?fit=crop&h=675&upscale=true&w=1200&s=5e7e362875c92e637a257be98b12efb19b9c0e46",
+      "localImage": "assets/news/724203b9651527.jpg",
+      "score": 18
+    },
+    {
       "id": "8390503ed06837",
       "category": "Nord-Norge",
       "published": "10.09. 22:15",
@@ -211,7 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8c26df8b-0eb8-3ced-aa1e-27efa515a4f0?fit=crop&h=675&upscale=true&w=1200&s=c94dfe559f1e13c66ce4c0ee37ee5cc15010f27c",
       "localImage": "assets/news/a5db503d715142.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "1bdb6f9891ca84",
+      "category": "Norge",
+      "published": "10.09. 19:58",
+      "publishedISO": "2026-09-10T19:58:47+02:00",
+      "title": "Opplysninger til NRK: Store endringer i Støre-regjeringen",
+      "summary": "Foto: Kunnskapsdepartementet, William Jobling / NRK, Regjeringen Statsminister Jonas Gahr Støre (Ap) gjør flere endringer i sin regjering fredag. Foto: William Jobling / NRK Ifølge NRKs opplysninger tar Torgeir Micaelsen over for Tung som digitaliserings- og forvaltningsminister. Foto: Stian Lysberg Solum / NTB Kort tid etter at borgfreden er over, blir det altså endringer i Arbeiderparti-regjeringen, får NRK opplyst torsdag kveld.",
+      "keyPoints": [
+        "Foto: William Jobling / NRK Ifølge NRKs opplysninger tar Torgeir Micaelsen over for Tung som digitaliserings- og forvaltningsminister.",
+        "Foto: Kunnskapsdepartementet, William Jobling / NRK, Regjeringen Statsminister Jonas Gahr Støre (Ap) gjør flere endringer i sin regjering fredag.",
+        "Foto: Stian Lysberg Solum / NTB Kort tid etter at borgfreden er over, blir det altså endringer i Arbeiderparti-regjeringen, får NRK opplyst torsdag kveld.",
+        "NYE ANSIKTER: Eileen Fugelsnes, Kamzy Gunaratnam og Torgeir Micaelsen går inn i Støre-regjeringen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/artikkel/opplysninger-til-nrk-store-endringer-i-store-regjeringen-1527579",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/FClp-6lLs3EsfQ4KGUnxmwQCpaKALOeKJPV2Mmli_btA",
+      "localImage": "assets/news/1bdb6f9891ca84.webp",
+      "score": 16
     }
   ]
 }
