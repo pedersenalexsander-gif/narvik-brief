@@ -1,6 +1,6 @@
 {
-  "updatedAt": "11.09.2026 kl. 11:43",
-  "updatedISO": "2026-09-11T11:43:27.038845+02:00",
+  "updatedAt": "11.09.2026 kl. 15:52",
+  "updatedISO": "2026-09-11T15:52:06.989821+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/eLmaOKS-UrFaM-qWAGFrLAGLvm0aqQAUCnH9TYSTs9jg.jpg",
       "localImage": "assets/news/24fb5f89c4dae7.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "9375302d9ec51c",
@@ -88,6 +88,27 @@
       "score": 15
     },
     {
+      "id": "820f7fc19038e5",
+      "category": "Økonomi",
+      "published": "11.09. 15:30",
+      "publishedISO": "2026-09-11T15:30:42+02:00",
+      "title": "Oppgang på Wall Street",
+      "summary": "Slik går det med de toneangivende indeksene kort tid etter åpning: Etter fire dager med nedgang går Wall Street mot en opptur. De justerte inntektene var på 19,35 milliarder dollar kvartal, hakket over analytikernes forventninger på 19,13 milliarder dollar, ifølge Bloomberg. Inntektene fra denne forretningsdelen, kalt IaaS, steg fra 3,3 milliarder dollar til 7,39 milliarder dollar, mot ventet 7,19 milliarder dollar.",
+      "keyPoints": [
+        "Slik går det med de toneangivende indeksene kort tid etter åpning: Etter fire dager med nedgang går Wall Street mot en opptur.",
+        "Inntektene fra denne forretningsdelen, kalt IaaS, steg fra 3,3 milliarder dollar til 7,39 milliarder dollar, mot ventet 7,19 milliarder dollar.",
+        "De justerte inntektene var på 19,35 milliarder dollar kvartal, hakket over analytikernes forventninger på 19,13 milliarder dollar, ifølge Bloomberg.",
+        "Et fat nordsjøolje (brent spot) ligger på 104 dollar, ned 4,5 prosent siden midnatt."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/zOy3V4/oppgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/249be8cb-66dc-3ff5-a757-ed6882a600b5?fit=crop&h=675&upscale=true&w=1200&s=d22ed37e1fb357cb007f1f20a005307a86775c91",
+      "localImage": "assets/news/820f7fc19038e5.jpg",
+      "score": 20
+    },
+    {
       "id": "558b05ec8d2598",
       "category": "Økonomi",
       "published": "10.09. 21:38",
@@ -106,7 +127,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6bb86d0b-aca1-3de7-9b03-48039bbc0ebf?fit=crop&h=675&upscale=true&w=1200&s=be5ca7771bf5ea3811caa9bb8f00d0c1435527cc",
       "localImage": "assets/news/558b05ec8d2598.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "665ebfb9047e1b",
+      "category": "Økonomi",
+      "published": "11.09. 14:30",
+      "publishedISO": "2026-09-11T14:30:18+02:00",
+      "title": "Prisvekst på 3,4 prosent i USA",
+      "summary": "Den ene er konsumprisindeksen (KPI), mens den andre er Personal Consumption Expenditures Price Index (PCE).) i USA lå på 3,4 prosent på årsbasis i august. Det var som ventet, og et hakk ned fra 2,5 prosent måneden før. – Det heller i retning av at rentene skal opp og det er det markedet priser inn, sier sjeføkonom Harald Magnus Andreassen i SB1 Markets. I markedet prises det nå inn rundt 85 prosent sjanse for renteheving neste uke, mot 70 prosent rett før inflasjonstallene.",
+      "keyPoints": [
+        "Den ene er konsumprisindeksen (KPI), mens den andre er Personal Consumption Expenditures Price Index (PCE).) i USA lå på 3,4 prosent på årsbasis i august.",
+        "Det var som ventet, og et hakk ned fra 2,5 prosent måneden før. – Det heller i retning av at rentene skal opp og det er det markedet priser inn, sier sjeføkonom Harald Magnus Andreassen i SB1 Markets.",
+        "I markedet prises det nå inn rundt 85 prosent sjanse for renteheving neste uke, mot 70 prosent rett før inflasjonstallene.",
+        "Sentralbanken styrer etter et mål om prisvekst på to prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/k0z3GL/prisveksten-i-usa-holdt-seg-paa-3-4-prosent-i-august",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3225b15e-da86-3339-9ec4-cc9f26523b44?fit=crop&h=675&upscale=true&w=1200&s=d605c93fca28c0008cf180bc61d23ffa3fff0f1a",
+      "localImage": "assets/news/665ebfb9047e1b.jpg",
+      "score": 17
+    },
+    {
+      "id": "ae74f928029ba4",
+      "category": "Økonomi",
+      "published": "11.09. 13:44",
+      "publishedISO": "2026-09-11T13:44:17+02:00",
+      "title": "Verdens viktigste rente kryper opp mot «psykologisk grense»",
+      "summary": "Renten på amerikanske statsobligasjoner med tilbakebetalingstid på ti år omtales ofte som «verdens viktigste rente». Lars Mouland, forvalter i Nordkinn Asset Management, omtaler 5-tallet som «en psykologisk grense», selv om det realøkonomisk ikke betyr så mye om den er rett over eller rett under dette. – Veldig mange er nok overrasket at vi har kommet dit. Oljeprisen bykset ytterligere til over 105 dollar fatet torsdag, og det sendte rentene videre opp.",
+      "keyPoints": [
+        "Renten på amerikanske statsobligasjoner med tilbakebetalingstid på ti år omtales ofte som «verdens viktigste rente».",
+        "Lars Mouland, forvalter i Nordkinn Asset Management, omtaler 5-tallet som «en psykologisk grense», selv om det realøkonomisk ikke betyr så mye om den er rett over eller rett under dette. – Veldig mange er nok overrasket at vi har kommet dit.",
+        "Oljeprisen bykset ytterligere til over 105 dollar fatet torsdag, og det sendte rentene videre opp.",
+        "Den har sammen med statsrenter generelt tatt seg kraftig opp de siste ukene og månedene."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Arm3mr/verdens-viktigste-rente-kryper-opp-mot-psykologisk-grense",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/be3598ff-037c-38f9-8acd-2b91850c577e?fit=crop&h=675&upscale=true&w=1200&s=dd58d502d72328649b9a6343890e745a4b83a7f3",
+      "localImage": "assets/news/ae74f928029ba4.jpg",
+      "score": 17
     },
     {
       "id": "b520f420d74ed6",
@@ -127,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1eab1e4d-7050-3cf6-b9e8-3b5fa140c380?fit=crop&h=675&upscale=true&w=1200&s=d460ebda09021a5da11715eb829e75dd9b8156a5",
       "localImage": "assets/news/b520f420d74ed6.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "5697f4ae6ac96b",
@@ -148,69 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7ba14dac-cc6c-3422-858d-5ee5c519315c?fit=crop&h=675&upscale=true&w=1200&s=cdf2ba9131a8ca60f7d4131e6081cedace9f282b",
       "localImage": "assets/news/5697f4ae6ac96b.jpg",
-      "score": 17
-    },
-    {
-      "id": "9015284b4b4c6f",
-      "category": "Økonomi",
-      "published": "10.09. 14:15",
-      "publishedISO": "2026-09-10T14:15:11+02:00",
-      "title": "Den europeiske sentralbanken hever renten til 2,5 prosent",
-      "summary": "Den europeiske sentralbanken (ESB) setter opp renten i eurosonen med 0,25 prosentpoeng, til 2,5 prosent. Prisvekten (KPI) i eurosonen tok seg opp til på 3,3 prosent i august, ifølge foreløpige tall. Målet til sentralbanken er stabil prisvekst på to prosent.",
-      "keyPoints": [
-        "Den europeiske sentralbanken (ESB) setter opp renten i eurosonen med 0,25 prosentpoeng, til 2,5 prosent.",
-        "Målet til sentralbanken er stabil prisvekst på to prosent.",
-        "Prisvekten (KPI) i eurosonen tok seg opp til på 3,3 prosent i august, ifølge foreløpige tall.",
-        "ESB ser for seg 0,9 prosent vekst i 2026, 1,4 prosent i 2027 og 1,5 prosent i 2028."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/2p04al/den-europeiske-sentralbanken-hever-renten-til-2-5-prosent",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ac3a10e8-14ae-3c9e-842e-7102546fb48e?fit=crop&h=675&upscale=true&w=1200&s=0db0628a08820b604dbaed362fdffc6bb0e98d48",
-      "localImage": "assets/news/9015284b4b4c6f.jpg",
-      "score": 17
-    },
-    {
-      "id": "4510cceb891417",
-      "category": "Nord-Norge",
-      "published": "10.09. 14:13",
-      "publishedISO": "2026-09-10T14:13:02+02:00",
-      "title": "– Andøya-oppskytingen er et viktig skritt i norsk og europisk romsamarbeid",
-      "summary": "Norge vil styrke det europeiske romsamarbeidet og bygge videre på oppskytingen fra Andøya Spaceport. Etter den historiske satellittoppskytingen fra Andøya, understreker næringsministeren at Norge har ambisjoner om å bli en førende romnasjon, skriver Nærings- og fiskeridepartementet i emn melding. – Verdensrommet blir stadig viktigere for oss alle. Den vellykkede oppskytingen fra Andøya viser at Norge spiller en viktig rolle, sier Myrseth.",
-      "keyPoints": [
-        "Den vellykkede oppskytingen fra Andøya viser at Norge spiller en viktig rolle, sier Myrseth.",
-        "Etter den historiske satellittoppskytingen fra Andøya, understreker næringsministeren at Norge har ambisjoner om å bli en førende romnasjon, skriver Nærings- og fiskeridepartementet i emn melding. – Verdensrommet blir stadig viktigere for oss alle.",
-        "Norge vil styrke det europeiske romsamarbeidet og bygge videre på oppskytingen fra Andøya Spaceport.",
-        "Næringsministeren trekker frem at et tettere samarbeid med EU og europeiske partnerland er helt avgjørende for å nå disse målene. – Vi har mye å bidra med, og vi har store ambisjoner."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/_-andoya-oppskytingen-er-et-viktig-skritt-i-norsk-og-europisk-romsamarbeid-1.18020715",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/XOedesXGtHDAUEkiyYeORwSzPht0aKrf-xOZbPJaW0QQ.jpg",
-      "localImage": "assets/news/4510cceb891417.jpg",
-      "score": 17
-    },
-    {
-      "id": "baf3f36fccea7a",
-      "category": "Økonomi",
-      "published": "11.09. 10:00",
-      "publishedISO": "2026-09-11T10:00:33+02:00",
-      "title": "Olje: IEA jekker ned utsiktene",
-      "summary": "Nok en gang jekker IEA ned utsiktene for global oljeetterspørsel. Slik ser IEA på utviklingen i det globale forbruket: Utfordringer i global produksjon og frakt av olje har ført til at globale oljelagre til sammen er blitt tappet med 507 millioner fat i løpet av krigen, eller 2,8 millioner fat per dag i snitt, ifølge IEA. Det globale tilbudet av olje er i snitt ventet å bli på 100,7 millioner fat per dag i 2026, anslår IEA.",
-      "keyPoints": [
-        "Nok en gang jekker IEA ned utsiktene for global oljeetterspørsel.",
-        "Slik ser IEA på utviklingen i det globale forbruket: Utfordringer i global produksjon og frakt av olje har ført til at globale oljelagre til sammen er blitt tappet med 507 millioner fat i løpet av krigen, eller 2,8 millioner fat per dag i snitt, ifølge IEA.",
-        "Det globale tilbudet av olje er i snitt ventet å bli på 100,7 millioner fat per dag i 2026, anslår IEA.",
-        "Totalt var produksjon i Midtøsten på mer enn 10 millioner fat per dag stengt ned av sikkerhetshensyn i august, og global oljeproduksjon endte på 100,1 millioner fat per dag denne måneden, ifølge byrået."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/zOygwO/olje-iea-jekker-ned-utsiktene",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b233dd8d-3787-3570-82cd-d7ac63268f4b?fit=crop&h=675&upscale=true&w=1200&s=2cee043cce2fcf71136e58a5468d2acbc673b4c4",
-      "localImage": "assets/news/baf3f36fccea7a.jpg",
       "score": 16
     }
   ]
