@@ -1,49 +1,28 @@
 {
-  "updatedAt": "12.09.2026 kl. 18:20",
-  "updatedISO": "2026-09-12T18:20:32.375996+02:00",
+  "updatedAt": "12.09.2026 kl. 20:37",
+  "updatedISO": "2026-09-12T20:37:03.394282+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "ab13c87dac55f9",
+      "id": "2f63fe428b9d38",
       "category": "Norge",
-      "published": "12.09. 16:21",
-      "publishedISO": "2026-09-12T16:21:35+02:00",
-      "title": "Trump: – Ville elsket å se et forent Irland",
-      "summary": "USAs president er på besøk i Irland for ei golfturnering, men før det møtte Trump landet sine leiarar. UTSEGN: Under ein pressekonferanse sa Trump at eit sameint Irland kjem til å skje til slutt. Under ein pressekonferanse med statsministeren fekk Trump spørsmål frå journalistar. – Eg ville elska å sjå eit sameint Irland, svarte presidenten på eit av spørsmåla.",
+      "published": "12.09. 19:08",
+      "publishedISO": "2026-09-12T19:08:17+02:00",
+      "title": "25.000 ukrainere i Norge aner ikke om de må dra",
+      "summary": "I likhet med familien Pastukh kom om lag 25.000 ukrainere til Norge i 2022. Men på den andre siden får vi hele tiden beskjed om at ukrainere er midlertidige her i Norge, og at vi skal sendes tilbake, sier Bohdan. Siden fullskalainvasjonen startet, har over 100.000 ukrainere flyktet til Norge.",
       "keyPoints": [
-        "Under ein pressekonferanse med statsministeren fekk Trump spørsmål frå journalistar. – Eg ville elska å sjå eit sameint Irland, svarte presidenten på eit av spørsmåla.",
-        "UTSEGN: Under ein pressekonferanse sa Trump at eit sameint Irland kjem til å skje til slutt.",
-        "USAs president er på besøk i Irland for ei golfturnering, men før det møtte Trump landet sine leiarar.",
-        "Sjå nyheitssenteret til NRK for oppdateringar om Irland: Det er ikkje uvanleg at den amerikanske presidenten «kan lite om dei tinga han uttalar seg om», ifølge Eirik Løkke, rådgivar i tankesmia Civita. – Trump liker å skape overskrifter, seier Løkke. – Du kan vere heilt trygg på at Trump ikkje har lese seg opp på den irske historia, legg han til."
+        "I likhet med familien Pastukh kom om lag 25.000 ukrainere til Norge i 2022.",
+        "Siden fullskalainvasjonen startet, har over 100.000 ukrainere flyktet til Norge.",
+        "Men på den andre siden får vi hele tiden beskjed om at ukrainere er midlertidige her i Norge, og at vi skal sendes tilbake, sier Bohdan.",
+        "LEVER I UVISSE: Familien Pastukh flyktet fra Ukraina til Norge i 2022."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/trump_-_-ville-elsket-a-se-et-forent-irland-1.18022779",
+      "url": "https://www.nrk.no/norge/25.000-ukrainere-i-norge-aner-ikke-om-de-ma-dra-1.18014541",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/zBEL7n-xxm2tLpNdXRHKQAx0LEFC3CwsS6FZEddqMO5w.jpg",
-      "localImage": "assets/news/ab13c87dac55f9.jpg",
+      "image": "https://gfx.nrk.no/_8G1dk_C4p4mO8b6eIPUUQFgKxrnDXDOWdDPD8HqkgHQ.png",
+      "localImage": "assets/news/2f63fe428b9d38.webp",
       "score": 17
-    },
-    {
-      "id": "2c92c6150620d3",
-      "category": "Verden",
-      "published": "12.09. 17:09",
-      "publishedISO": "2026-09-12T17:09:55+02:00",
-      "title": "Dødstallene fra fergebrannen på Filippinene stiger til 76, og flere er fortsatt savnet",
-      "summary": "Fergen tok fyr i nærheten av turisthotspot Coron onsdag. Den filippinske kystvakten sier at den har funnet 41 kropper fra vraket av en ferge som tok fyr denne uken, noe som bringer det totale dødstallet til 76. Mer enn 130 mennesker var om bord på MV June Aster da brannen brøt ut onsdag da den nærmet seg destinasjonen ved turiststedet Manila. Atienza Interisland Ferries, fartøyets operatør, har lovet fullt samarbeid med henvendelsen. «Folk tråkket meg»: Filippinsk fergebrannoverlevende husker flukt Filippinske redningsmenn går om bord på fergen 40 timer etter at brannen startet",
-      "keyPoints": [
-        "Fergen tok fyr i nærheten av turisthotspottet Coron onsdag. Den filippinske kystvakten sier at den har funnet 41 kropper fra vraket av en ferge som tok fyr denne uken, og bringer det totale dødstallet til 76.",
-        "Atienza Interisland Ferries, fartøyets operatør, har lovet fullt samarbeid med henvendelsen. «Folk tråkket meg»: Filippinsk fergebrannoverlevende husker flukt Filippinske redningsmenn går om bord på fergen 40 timer etter at brannen startet",
-        "Mer enn 130 mennesker var om bord på MV June Aster da brannen brøt ut onsdag da den nærmet seg destinasjonen ved turisthotspottet Coron, etter avgang fra Manila.",
-        "Fergen, bygget i 2002, hadde gyldige sikkerhetssertifikater og besto en håndhevelsesinspeksjon i mars, men etterforskere ser på potensielle åpenbare avvik, lastingsintegritet og mannskapsberedskapsprotokoller, rapporterte Palawan Daily."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
-      "localImage": "assets/news/2c92c6150620d3.jpg",
-      "score": 13
     },
     {
       "id": "fab593b2d8237d",
@@ -88,6 +67,27 @@
       "score": 15
     },
     {
+      "id": "ab13c87dac55f9",
+      "category": "Norge",
+      "published": "12.09. 16:21",
+      "publishedISO": "2026-09-12T16:21:35+02:00",
+      "title": "Trump: – Ville elsket å se et forent Irland",
+      "summary": "USAs president er på besøk i Irland for ei golfturnering, men før det møtte Trump landet sine leiarar. UTSEGN: Under ein pressekonferanse sa Trump at eit sameint Irland kjem til å skje til slutt. Under ein pressekonferanse med statsministeren fekk Trump spørsmål frå journalistar. – Eg ville elska å sjå eit sameint Irland, svarte presidenten på eit av spørsmåla.",
+      "keyPoints": [
+        "Under ein pressekonferanse med statsministeren fekk Trump spørsmål frå journalistar. – Eg ville elska å sjå eit sameint Irland, svarte presidenten på eit av spørsmåla.",
+        "UTSEGN: Under ein pressekonferanse sa Trump at eit sameint Irland kjem til å skje til slutt.",
+        "USAs president er på besøk i Irland for ei golfturnering, men før det møtte Trump landet sine leiarar.",
+        "Sjå nyheitssenteret til NRK for oppdateringar om Irland: Det er ikkje uvanleg at den amerikanske presidenten «kan lite om dei tinga han uttalar seg om», ifølge Eirik Løkke, rådgivar i tankesmia Civita. – Trump liker å skape overskrifter, seier Løkke. – Du kan vere heilt trygg på at Trump ikkje har lese seg opp på den irske historia, legg han til."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/trump_-_-ville-elsket-a-se-et-forent-irland-1.18022779",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/zBEL7n-xxm2tLpNdXRHKQAx0LEFC3CwsS6FZEddqMO5w.jpg",
+      "localImage": "assets/news/ab13c87dac55f9.jpg",
+      "score": 17
+    },
+    {
       "id": "e494d4a62f6fae",
       "category": "Norge",
       "published": "12.09. 12:06",
@@ -127,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/yJ8HbGA3wNksA-jPFbtvGA5gPtWKdfcbYtkhGo415MNQ.jpg",
       "localImage": "assets/news/fcb64ffd9c75a9.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "bb3e4448b0a4b1",
@@ -148,70 +148,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/PcgQAuYUWV1byeNp6DlvZw3heakQIRfCjOFjPfRUHiiQ.jpg",
       "localImage": "assets/news/bb3e4448b0a4b1.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "4bb8e6e2407757",
+      "id": "f969344b31913d",
       "category": "Norge",
-      "published": "11.09. 22:26",
-      "publishedISO": "2026-09-11T22:26:19+02:00",
-      "title": "Yang var først på stedet etter at flomkatastrofen rammet Kina",
-      "summary": "DRAMATISK: Yang Qiqiao har ikke ord på følelsene han og flokken av redningsarbeidere fikk da de kom til katastrofeområdet. Flommen kom i en rasende fart mens folk ventet på å krysse grensa mellom Nepal og Kina 26. august. Minst 1430 personer er bekreftet omkommet i Nepal og Kina etter at flomkatastrofen rammet begge land.",
+      "published": "12.09. 19:19",
+      "publishedISO": "2026-09-12T19:19:31+02:00",
+      "title": "Sørlending er verdensmester i diskgolf",
+      "summary": "Det norske laget kastet seg til VM-seier i diskgolf i Litauen lørdag. Mandalitten er en av syv spillere på det norske laget som vant VM for lag i diskgolf i Litauen lørdag etter å ha slått Finland 8–0. – Vi er ekstremt fornøyde. I finalen lørdag møtte de nabolandet Finland. – Det spilles fire kamper mot hver nasjon, hvor hver seier gir 2 poeng.",
       "keyPoints": [
-        "Minst 1430 personer er bekreftet omkommet i Nepal og Kina etter at flomkatastrofen rammet begge land.",
-        "Flommen kom i en rasende fart mens folk ventet på å krysse grensa mellom Nepal og Kina 26. august.",
-        "DRAMATISK: Yang Qiqiao har ikke ord på følelsene han og flokken av redningsarbeidere fikk da de kom til katastrofeområdet.",
-        "Yang Qiqiao var en av de første som så de ufattelige konsekvensene på den kinesiske siden av grensa."
+        "Mandalitten er en av syv spillere på det norske laget som vant VM for lag i diskgolf i Litauen lørdag etter å ha slått Finland 8–0. – Vi er ekstremt fornøyde.",
+        "I finalen lørdag møtte de nabolandet Finland. – Det spilles fire kamper mot hver nasjon, hvor hver seier gir 2 poeng.",
+        "I helga er det Norges-Cup i diskgolf på Leira i Valdres.",
+        "Henrik Syvertsen Haaland fra Mandal og de andre på det norske laget gikk helt til topps i verdensmesterskapet."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/yang-var-forst-pa-stedet-etter-at-flomkatastrofen-rammet-kina-1.18020446",
+      "url": "https://www.nrk.no/sorlandet/sorlending-er-verdensmester-i-diskgolf-1.18022976",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/vI6aDZQ6lqPA3yADDYdwOw8p9dz033YfdZ-ImNLCuugg.png",
-      "localImage": "assets/news/4bb8e6e2407757.webp",
-      "score": 14
+      "image": "https://gfx.nrk.no/cG_lXNantIPjG5g0vzT2-QVbNdUQ5ebrkb546KtO2e1A.jpg",
+      "localImage": "assets/news/f969344b31913d.jpg",
+      "score": 13
     },
     {
-      "id": "677e99dee21278",
+      "id": "a597878a90a653",
       "category": "Økonomi",
-      "published": "11.09. 17:53",
-      "publishedISO": "2026-09-11T17:53:17+02:00",
-      "title": "Tidligere OpenAI-topp går inn i Nscale-styret",
-      "summary": "Nscale opplyser i en pressemelding at Fidji Simo, som tidligere hadde en lederstilling i Open AI, har blitt utnevnt til styret. Hun følger dermed andre kjente navn, som tidligere Meta-topp Sheryl Sandberg og tidligere britisk visestatsminister Nick Clegg, som har gått inn i Nscales styre. Han peker på at Nscale allerede har hentet inn flere profilerte navn til styret, blant dem tidligere britisk visestatsminister og Meta-topp Nick Clegg.",
+      "published": "12.09. 19:06",
+      "publishedISO": "2026-09-12T19:06:56+02:00",
+      "title": "Kjøpte elektriske lastebiler: – Vises på regningene våre",
+      "summary": "Men selv sparer selskapet mye på en tung satsing på elektriske lastebiler. – Nå er det jojo-priser på drivstoff, men for vår del er bilparken allerede over femti prosent fossilfri, sier Johnsen til E24. – Vi har tenkt på dette i flere år og har ikke ventet til dieselprisen steg til 29 kroner. Så langt i år har det statlige selskapet gitt over én milliard kroner i støtte til over 1.000 elektriske lastebiler og busser. De siste tre årene har Enova gitt nesten tre milliarder kroner i støtte til over 2.300 elektriske lastebiler og busser, med en økning hvert år. – Det tar typisk et halvt til ett år fra man bestiller bilen til den er på veien.",
       "keyPoints": [
-        "Hun følger dermed andre kjente navn, som tidligere Meta-topp Sheryl Sandberg og tidligere britisk visestatsminister Nick Clegg, som har gått inn i Nscales styre.",
-        "Nscale opplyser i en pressemelding at Fidji Simo, som tidligere hadde en lederstilling i Open AI, har blitt utnevnt til styret.",
-        "Han peker på at Nscale allerede har hentet inn flere profilerte navn til styret, blant dem tidligere britisk visestatsminister og Meta-topp Nick Clegg.",
-        "Han tror derfor en eventuell Anthropic-notering kan bli startskuddet for Nscale. – Det går nok ikke lang tid fra Anthropic blir børsnotert til Nscale følger etter."
+        "Men selv sparer selskapet mye på en tung satsing på elektriske lastebiler. – Nå er det jojo-priser på drivstoff, men for vår del er bilparken allerede over femti prosent fossilfri, sier Johnsen til E24. – Vi har tenkt på dette i flere år og har ikke ventet til dieselprisen steg til 29 kroner.",
+        "De siste tre årene har Enova gitt nesten tre milliarder kroner i støtte til over 2.300 elektriske lastebiler og busser, med en økning hvert år. – Det tar typisk et halvt til ett år fra man bestiller bilen til den er på veien.",
+        "Så langt i år har det statlige selskapet gitt over én milliard kroner i støtte til over 1.000 elektriske lastebiler og busser.",
+        "Hittil i år er 27 prosent av nyregistrerte tunge lastebiler enten elektriske eller gassdrevne, fra 20 prosent i fjor, opplyste Grønt Landtransportprogram (GLP) fredag. – Enova har de siste månedene gitt støtte til rekordmange tunge elektriske lastebiler."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/vrPJBV/tidligere-openai-topp-gaar-inn-i-nscale-styret",
+      "url": "https://e24.no/energi-og-klima/i/M7kJe0/kjoepte-elektriske-lastebiler-vises-paa-regningene-vaare",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/8a07a0e1-aff6-387f-8fd2-96d37398a7ce?fit=crop&h=675&upscale=true&w=1200&s=ae00ffb04f92ba20dc118660cb6705c41cafaccd",
-      "localImage": "assets/news/677e99dee21278.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/71888f51-b29a-3b72-a5c5-bd1b2a7aea0b?fit=crop&h=675&upscale=true&w=1200&s=d4ae4aa9d8feb11e58dff5853d5f997a25a407c1",
+      "localImage": "assets/news/a597878a90a653.jpg",
+      "score": 13
     },
     {
-      "id": "558b05ec8d2598",
-      "category": "Økonomi",
-      "published": "10.09. 21:38",
-      "publishedISO": "2026-09-10T21:38:49+02:00",
-      "title": "Faren er ikke over",
-      "summary": "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten., som er det Norges Bank er mest opptatt av, kom inn på 3 prosent. Målet til Norges Bank er å få ned prisstigningen til 2 prosent, så det er fortsatt et stykke igjen. For mange økonomer lå skillet på forhånd på 3 prosent: Over 3 prosent var det «bænkers» med renteheving neste uke.",
+      "id": "74bf1150d30305",
+      "category": "Norge",
+      "published": "12.09. 18:55",
+      "publishedISO": "2026-09-12T18:55:16+02:00",
+      "title": "Køkaos på E18: Fanget i P-kjeller i over tre timer",
+      "summary": "På Slependen senter i Bærum har kunder vært stengt inne i en parkeringskjeller i timevis på grunn av grunn av køkaos på E18. Martin Vinje var fanget i en parkeringskjeller i nesten tre og en halv time. Martin Vinje var lørdag fanget her tre timer og 20 minutter.",
       "keyPoints": [
-        "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten., som er det Norges Bank er mest opptatt av, kom inn på 3 prosent.",
-        "Målet til Norges Bank er å få ned prisstigningen til 2 prosent, så det er fortsatt et stykke igjen.",
-        "For mange økonomer lå skillet på forhånd på 3 prosent: Over 3 prosent var det «bænkers» med renteheving neste uke.",
-        "Prisene steg 3,3 prosent det siste året, mens kjerneinflasjonenPrisveksten sett bort fra energipriser og avgiftsendringer."
+        "Martin Vinje var lørdag fanget her tre timer og 20 minutter.",
+        "På Slependen senter i Bærum har kunder vært stengt inne i en parkeringskjeller i timevis på grunn av grunn av køkaos på E18.",
+        "Martin Vinje var fanget i en parkeringskjeller i nesten tre og en halv time.",
+        "Så satte de seg i bilen igjen. – Der ble vi stående faktisk i tre timer og tjue minutter."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/Pd2La7/faren-er-ikke-over",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6bb86d0b-aca1-3de7-9b03-48039bbc0ebf?fit=crop&h=675&upscale=true&w=1200&s=be5ca7771bf5ea3811caa9bb8f00d0c1435527cc",
-      "localImage": "assets/news/558b05ec8d2598.jpg",
-      "score": 14
+      "url": "https://www.nrk.no/stor-oslo/kokaos-pa-e18_-fanget-i-p-kjeller-i-over-tre-timer-1.18022932",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ZyX6Lhq2Yme4FYK6nfBq4w66bgWRuN9aTZQFwfd-ak4Q.jpg",
+      "localImage": "assets/news/74bf1150d30305.jpg",
+      "score": 13
     }
   ]
 }
