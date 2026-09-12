@@ -1,6 +1,6 @@
 {
-  "updatedAt": "12.09.2026 kl. 20:37",
-  "updatedISO": "2026-09-12T20:37:03.394282+02:00",
+  "updatedAt": "12.09.2026 kl. 22:59",
+  "updatedISO": "2026-09-12T22:59:07.342745+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,6 +25,48 @@
       "score": 17
     },
     {
+      "id": "86b97bc32907b8",
+      "category": "Verden",
+      "published": "12.09. 22:27",
+      "publishedISO": "2026-09-12T22:27:25+02:00",
+      "title": "Ukraine tennis player's apartment destroyed in Russian strike",
+      "summary": "Dayana Yastremska sa at familiens leilighet ble ødelagt i «et direkte truffet av et Kalibr-kryssermissil» avfyrt av den russiske tennisspilleren Dayana Yastremska, den ukrainske tennisspilleren Dayana Yastremska, har sagt at familiens leilighet har blitt ødelagt i et russisk luftangrep på havnen i Odesa ved Svartehavet. \"Slik ser den 'russiske verden' ut. Yastremska la ut et bilde av et karakteristisk Roland Garros-håndkle i oransje leire fra fjorårets turnering som henger fra vraket av leiligheten hennes. \"En russisk rakett ødela leiligheten vår i Odesa... I fjor sa den ukrainske internasjonale fotball-midtbanespilleren Heorhiy Sudakov at leiligheten hans i hovedstaden Kiev ble skadet av et barn og hans kone.",
+      "keyPoints": [
+        "Dayana Yastremska sa at familiens leilighet ble ødelagt i «et direkte truffet av et Kalibr-kryssermissil» avfyrt av den russiske tennisspilleren Dayana Yastremska, den ukrainske tennisspilleren Dayana Yastremska, har sagt at familiens leilighet har blitt ødelagt i et russisk luftangrep på havnen i Odesa ved Svartehavet. «Slik ser den «russiske verden» ut.",
+        "Yastremska la ut et bilde av et karakteristisk Roland Garros-håndkle av oransje leire fra fjorårets turnering som henger fra vraket av leiligheten hennes \"En russisk rakett ødela leiligheten vår i Odesa...",
+        "I fjor sa den ukrainske internasjonale fotball-midtbanespilleren Heorhiy Sudakov at leiligheten hans i hovedstaden Kiev var blitt alvorlig skadet av en russisk drone mens hans kone og barn var hjemme.",
+        "Hjemmet vårt gjorde det ikke,\" skrev Yastremska på Instagram på lørdag. \"@wta @itf_reviews Se på disse bildene gjennom øynene våre,\" sa hun i en referanse til de styrende organene i verdenstennis - Women's Tennis Association og International Tennis Federation."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b616/live/52d9fcb0-aed9-11f1-91ea-91f4a2a08fa4.png",
+      "localImage": "assets/news/86b97bc32907b8.png",
+      "score": 17
+    },
+    {
+      "id": "334174ce635af2",
+      "category": "USA",
+      "published": "12.09. 17:03",
+      "publishedISO": "2026-09-12T17:03:14+02:00",
+      "title": "Teen boy rescued after days adrift in Alaskan waters",
+      "summary": "Se: Den 15 år gamle gutten ble lokalisert sittende på toppen av den kantrede båten En 15 år gammel gutt har blitt reddet etter å ha tilbrakt dager sittende på toppen av en båt som hadde kantret i det iskalde vannet i Alaskas Beringhavet. Gutten, identifisert av familiemedlemmer som Derek Parker Aghnaanga, var den eneste overlevende fra båten, etter å ha mistet sin eldre bror og fetter i hendelsen. Gutten hadde tegn på hypotermi da han ble reddet, sa USCG.",
+      "keyPoints": [
+        "Se: Den 15 år gamle gutten ble lokalisert sittende på toppen av den kantrede båten En 15 år gammel gutt har blitt reddet etter å ha tilbrakt dager sittende på toppen av en båt som hadde kantret i det iskalde vannet i Alaskas Beringhavet.",
+        "Gutten hadde tegn på hypotermi da han ble reddet, sa USCG.",
+        "Gutten, identifisert av familiemedlemmer som Derek Parker Aghnaanga, var den eneste overlevende fra båten, etter å ha mistet sin eldre bror og fetter i hendelsen.",
+        "Et flymannskap fra kystvakten fant gutten som satt på toppen av den veltede båten mandag morgen, og et nærliggende barmhjertig samaritansk fartøy trakk ham i sikkerhet."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c7907l5nyddo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32c0/live/ad3598f0-aec4-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/334174ce635af2.jpg",
+      "score": 12
+    },
+    {
       "id": "fab593b2d8237d",
       "category": "Økonomi",
       "published": "12.09. 10:41",
@@ -43,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6c6f7343-7178-3ebe-97a4-09bb0bcb2683?fit=crop&h=675&upscale=true&w=1200&s=e196a80e22414a1fe5331a61b1e874742e43475d",
       "localImage": "assets/news/fab593b2d8237d.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "820f7fc19038e5",
@@ -64,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/249be8cb-66dc-3ff5-a757-ed6882a600b5?fit=crop&h=675&upscale=true&w=1200&s=d22ed37e1fb357cb007f1f20a005307a86775c91",
       "localImage": "assets/news/820f7fc19038e5.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "ab13c87dac55f9",
@@ -85,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/zBEL7n-xxm2tLpNdXRHKQAx0LEFC3CwsS6FZEddqMO5w.jpg",
       "localImage": "assets/news/ab13c87dac55f9.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "e494d4a62f6fae",
@@ -106,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Gg-KLRIECd6Cw1h3hPkQWQybyTT16IDb3yNVIoaLKJbw.jpg",
       "localImage": "assets/news/e494d4a62f6fae.webp",
-      "score": 16
+      "score": 15
     },
     {
       "id": "fcb64ffd9c75a9",
@@ -130,87 +172,45 @@
       "score": 15
     },
     {
-      "id": "bb3e4448b0a4b1",
+      "id": "06323f407f8dd8",
       "category": "Norge",
-      "published": "12.09. 08:54",
-      "publishedISO": "2026-09-12T08:54:55+02:00",
-      "title": "Statsforvalterne har ikke hatt så mange innsigelser mot kraftetablering",
-      "summary": "Det vil vi selvsagt også gjøre i denne saken, sier Karlsen, og utdyper: – I de tilfeller hvor Statsforvalteren har innsigelser, er dette fordi Stortinget har vedtatt et lovverk vi skal sørge for blir fulgt. Bare fire av disse har de brukt innsigelsesretten på. – Det er kun en liten prosentandel av energisaker som blir møtt med innsigelse, sammenlignet med hvor mange saker vi har hatt på høring, sier Fossen-Thaugland. Av 32 saker de har hatt på bordet siden 2023, har de bare sagt nei til fire.",
+      "published": "12.09. 21:53",
+      "publishedISO": "2026-09-12T21:53:17+02:00",
+      "title": "Isbjørn dukket opp på video på havforskningsinstituttets tokt",
+      "summary": "På en av disse, i Hornsund på sørvestspissen av Svalbard, dukket isbjørnen opp. En nysgjerrig isbjørn dukket opp på videoen til havforskningsinstituttet. Vi har nærmere 2500 videoopptak fra forskjellige plasser langs norskekysten, og dette er det eneste der en isbjørn oppfører seg på den måten, sier Wenneck.",
       "keyPoints": [
-        "Bare fire av disse har de brukt innsigelsesretten på. – Det er kun en liten prosentandel av energisaker som blir møtt med innsigelse, sammenlignet med hvor mange saker vi har hatt på høring, sier Fossen-Thaugland.",
-        "Av 32 saker de har hatt på bordet siden 2023, har de bare sagt nei til fire.",
-        "Det vil vi selvsagt også gjøre i denne saken, sier Karlsen, og utdyper: – I de tilfeller hvor Statsforvalteren har innsigelser, er dette fordi Stortinget har vedtatt et lovverk vi skal sørge for blir fulgt.",
-        "Det er først da Statsforvalterne vil si hva de egentlig mener om saken."
+        "En nysgjerrig isbjørn dukket opp på videoen til havforskningsinstituttet.",
+        "På en av disse, i Hornsund på sørvestspissen av Svalbard, dukket isbjørnen opp.",
+        "Vi har nærmere 2500 videoopptak fra forskjellige plasser langs norskekysten, og dette er det eneste der en isbjørn oppfører seg på den måten, sier Wenneck.",
+        "Sammen med forskere, og studenter fra UNIS og UiO, har Wenneck og Havforskningsinstituttet lagt ut på tokt for å undersøke hvor mye torskeyngel som finnes rundt Svalbard."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/statsforvalterne-har-ikke-hatt-sa-mange-innsigelser-mot-kraftetablering-1.17986670",
+      "url": "https://www.nrk.no/tromsogfinnmark/isbjorn-dukket-opp-pa-video-pa-havforskningsinstituttets-tokt-1.18022800",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PcgQAuYUWV1byeNp6DlvZw3heakQIRfCjOFjPfRUHiiQ.jpg",
-      "localImage": "assets/news/bb3e4448b0a4b1.jpg",
-      "score": 15
-    },
-    {
-      "id": "f969344b31913d",
-      "category": "Norge",
-      "published": "12.09. 19:19",
-      "publishedISO": "2026-09-12T19:19:31+02:00",
-      "title": "Sørlending er verdensmester i diskgolf",
-      "summary": "Det norske laget kastet seg til VM-seier i diskgolf i Litauen lørdag. Mandalitten er en av syv spillere på det norske laget som vant VM for lag i diskgolf i Litauen lørdag etter å ha slått Finland 8–0. – Vi er ekstremt fornøyde. I finalen lørdag møtte de nabolandet Finland. – Det spilles fire kamper mot hver nasjon, hvor hver seier gir 2 poeng.",
-      "keyPoints": [
-        "Mandalitten er en av syv spillere på det norske laget som vant VM for lag i diskgolf i Litauen lørdag etter å ha slått Finland 8–0. – Vi er ekstremt fornøyde.",
-        "I finalen lørdag møtte de nabolandet Finland. – Det spilles fire kamper mot hver nasjon, hvor hver seier gir 2 poeng.",
-        "I helga er det Norges-Cup i diskgolf på Leira i Valdres.",
-        "Henrik Syvertsen Haaland fra Mandal og de andre på det norske laget gikk helt til topps i verdensmesterskapet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/sorlending-er-verdensmester-i-diskgolf-1.18022976",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/cG_lXNantIPjG5g0vzT2-QVbNdUQ5ebrkb546KtO2e1A.jpg",
-      "localImage": "assets/news/f969344b31913d.jpg",
+      "image": "https://gfx.nrk.no/gOkR20k5CKHKtwD9Dmx_mwNqo8BjNS80DhqyOU75lwHA.jpg",
+      "localImage": "assets/news/06323f407f8dd8.jpg",
       "score": 13
     },
     {
-      "id": "a597878a90a653",
-      "category": "Økonomi",
-      "published": "12.09. 19:06",
-      "publishedISO": "2026-09-12T19:06:56+02:00",
-      "title": "Kjøpte elektriske lastebiler: – Vises på regningene våre",
-      "summary": "Men selv sparer selskapet mye på en tung satsing på elektriske lastebiler. – Nå er det jojo-priser på drivstoff, men for vår del er bilparken allerede over femti prosent fossilfri, sier Johnsen til E24. – Vi har tenkt på dette i flere år og har ikke ventet til dieselprisen steg til 29 kroner. Så langt i år har det statlige selskapet gitt over én milliard kroner i støtte til over 1.000 elektriske lastebiler og busser. De siste tre årene har Enova gitt nesten tre milliarder kroner i støtte til over 2.300 elektriske lastebiler og busser, med en økning hvert år. – Det tar typisk et halvt til ett år fra man bestiller bilen til den er på veien.",
+      "id": "e33c61c2652f36",
+      "category": "Verden",
+      "published": "12.09. 21:36",
+      "publishedISO": "2026-09-12T21:36:50+02:00",
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "summary": "Minst 16 eldre beboere har omkommet i en brann på et sykehjem i Chile, ifølge myndighetene. Ti andre ble evakuert etter at en brann brøt ut i El Edéns hjem i /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, rundt 640 km (400 miles) sør for hovedstaden Santiago, fredag ​​kveld. Brannen, som startet rundt klokken 22:30 (01:30 GMT) ble endelig slukket lørdag morgen.",
       "keyPoints": [
-        "Men selv sparer selskapet mye på en tung satsing på elektriske lastebiler. – Nå er det jojo-priser på drivstoff, men for vår del er bilparken allerede over femti prosent fossilfri, sier Johnsen til E24. – Vi har tenkt på dette i flere år og har ikke ventet til dieselprisen steg til 29 kroner.",
-        "De siste tre årene har Enova gitt nesten tre milliarder kroner i støtte til over 2.300 elektriske lastebiler og busser, med en økning hvert år. – Det tar typisk et halvt til ett år fra man bestiller bilen til den er på veien.",
-        "Så langt i år har det statlige selskapet gitt over én milliard kroner i støtte til over 1.000 elektriske lastebiler og busser.",
-        "Hittil i år er 27 prosent av nyregistrerte tunge lastebiler enten elektriske eller gassdrevne, fra 20 prosent i fjor, opplyste Grønt Landtransportprogram (GLP) fredag. – Enova har de siste månedene gitt støtte til rekordmange tunge elektriske lastebiler."
+        "At least 16 elderly residents have died in a fire at a nursing home in Chile, according to authorities.",
+        "Ti andre ble evakuert etter at en brann brøt ut i El Edéns hjem i /idt2/d9cfcc9a-2842-463f-a4d8-4dd007ef9547, rundt 640 km (400 miles) sør for hovedstaden Santiago, fredag ​​kveld.",
+        "The fire, which began at around 22:30 (01:30 GMT) was finally put out on Saturday morning.",
+        "Jorge Granada, en aktor som leder saken, sa at det ikke er klart på dette stadiet hva som forårsaket hendelsen."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/M7kJe0/kjoepte-elektriske-lastebiler-vises-paa-regningene-vaare",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/71888f51-b29a-3b72-a5c5-bd1b2a7aea0b?fit=crop&h=675&upscale=true&w=1200&s=d4ae4aa9d8feb11e58dff5853d5f997a25a407c1",
-      "localImage": "assets/news/a597878a90a653.jpg",
-      "score": 13
-    },
-    {
-      "id": "74bf1150d30305",
-      "category": "Norge",
-      "published": "12.09. 18:55",
-      "publishedISO": "2026-09-12T18:55:16+02:00",
-      "title": "Køkaos på E18: Fanget i P-kjeller i over tre timer",
-      "summary": "På Slependen senter i Bærum har kunder vært stengt inne i en parkeringskjeller i timevis på grunn av grunn av køkaos på E18. Martin Vinje var fanget i en parkeringskjeller i nesten tre og en halv time. Martin Vinje var lørdag fanget her tre timer og 20 minutter.",
-      "keyPoints": [
-        "Martin Vinje var lørdag fanget her tre timer og 20 minutter.",
-        "På Slependen senter i Bærum har kunder vært stengt inne i en parkeringskjeller i timevis på grunn av grunn av køkaos på E18.",
-        "Martin Vinje var fanget i en parkeringskjeller i nesten tre og en halv time.",
-        "Så satte de seg i bilen igjen. – Der ble vi stående faktisk i tre timer og tjue minutter."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/kokaos-pa-e18_-fanget-i-p-kjeller-i-over-tre-timer-1.18022932",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ZyX6Lhq2Yme4FYK6nfBq4w66bgWRuN9aTZQFwfd-ak4Q.jpg",
-      "localImage": "assets/news/74bf1150d30305.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a76/live/dfbc28f0-aeda-11f1-91ea-91f4a2a08fa4.jpg",
+      "localImage": "assets/news/e33c61c2652f36.jpg",
       "score": 13
     }
   ]
