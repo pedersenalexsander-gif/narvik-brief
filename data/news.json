@@ -1,70 +1,49 @@
 {
-  "updatedAt": "12.09.2026 kl. 07:06",
-  "updatedISO": "2026-09-12T07:06:48.501360+02:00",
+  "updatedAt": "12.09.2026 kl. 11:23",
+  "updatedISO": "2026-09-12T11:23:23.166568+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "24fb5f89c4dae7",
-      "category": "Nord-Norge",
-      "published": "10.09. 21:32",
-      "publishedISO": "2026-09-10T21:32:33+02:00",
-      "title": "Vegvesenet må ta millionregning etter fristglipp",
-      "summary": "Årsaken til at reklamasjonssaken nå formelt er avsluttet, er at Vegvesenet overså viktige tidsfrister. Den generelle reklamasjonsfristen på tre år hadde allerede løpt ut da skadene ble forsøkt reklamert på i august 2022 (brua åpnet i 2018). Skadene består i at asfalten på den 10 000 kvadratmeter store stålkassedelen av brua sprekker opp og løsner.",
-      "keyPoints": [
-        "Årsaken til at reklamasjonssaken nå formelt er avsluttet, er at Vegvesenet overså viktige tidsfrister.",
-        "Den generelle reklamasjonsfristen på tre år hadde allerede løpt ut da skadene ble forsøkt reklamert på i august 2022 (brua åpnet i 2018).",
-        "Skadene består i at asfalten på den 10 000 kvadratmeter store stålkassedelen av brua sprekker opp og løsner.",
-        "Etaten bekrefter at de har mistet muligheten til å kreve erstatning fra den kinesiske entreprenøren Sichuan Road and Bridge Group (SRBG)."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/vegvesenet-ma-ta-millionregning-etter-fristglipp-1.18021176",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/eLmaOKS-UrFaM-qWAGFrLAGLvm0aqQAUCnH9TYSTs9jg.jpg",
-      "localImage": "assets/news/24fb5f89c4dae7.jpg",
-      "score": 14
-    },
-    {
-      "id": "4bb8e6e2407757",
+      "id": "fcb64ffd9c75a9",
       "category": "Norge",
-      "published": "11.09. 22:26",
-      "publishedISO": "2026-09-11T22:26:19+02:00",
-      "title": "Yang var først på stedet etter at flomkatastrofen rammet Kina",
-      "summary": "DRAMATISK: Yang Qiqiao har ikke ord på følelsene han og flokken av redningsarbeidere fikk da de kom til katastrofeområdet. Flommen kom i en rasende fart mens folk ventet på å krysse grensa mellom Nepal og Kina 26. august. Minst 1430 personer er bekreftet omkommet i Nepal og Kina etter at flomkatastrofen rammet begge land.",
+      "published": "12.09. 09:24",
+      "publishedISO": "2026-09-12T09:24:15+02:00",
+      "title": "Intense ukrainske droneangrep mot Krym: – Vi forsøker å ikke få panikk",
+      "summary": "Paret er fra Krym, som ble okkupert og annektert av Russland fra Ukraina i 2014. Emilia sier at det var svært kraftig skyting og eksplosjoner de siste nettene da luftvernet forsøkte å skyte ned ukrainske droner. – Vi forsøker å ikke få panikk, vi forsøker å holde motet oppe, sier den unge kvinnen gjentatte ganger til NRK. Årsaken er at ukrainske droner har angrepet tankbiler som har fraktet drivstoff over veien som går til Krym gjennom de russisk-okkuperte områdene i Ukraina nordøst for halvøya.",
       "keyPoints": [
-        "Minst 1430 personer er bekreftet omkommet i Nepal og Kina etter at flomkatastrofen rammet begge land.",
-        "Flommen kom i en rasende fart mens folk ventet på å krysse grensa mellom Nepal og Kina 26. august.",
-        "DRAMATISK: Yang Qiqiao har ikke ord på følelsene han og flokken av redningsarbeidere fikk da de kom til katastrofeområdet.",
-        "Yang Qiqiao var en av de første som så de ufattelige konsekvensene på den kinesiske siden av grensa."
+        "Emilia sier at det var svært kraftig skyting og eksplosjoner de siste nettene da luftvernet forsøkte å skyte ned ukrainske droner. – Vi forsøker å ikke få panikk, vi forsøker å holde motet oppe, sier den unge kvinnen gjentatte ganger til NRK.",
+        "Paret er fra Krym, som ble okkupert og annektert av Russland fra Ukraina i 2014.",
+        "Årsaken er at ukrainske droner har angrepet tankbiler som har fraktet drivstoff over veien som går til Krym gjennom de russisk-okkuperte områdene i Ukraina nordøst for halvøya.",
+        "Det har stadig vekk ført til at strømmen har blitt borte. – Det er fare for at mange av oss som bor på Krym og arbeider for den russiske IT-industrien kan komme til å miste jobben, sier Nikolai."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/yang-var-forst-pa-stedet-etter-at-flomkatastrofen-rammet-kina-1.18020446",
+      "url": "https://www.nrk.no/urix/intense-ukrainske-droneangrep-mot-krym_-_-vi-forsoker-a-ikke-fa-panikk-1.18001981",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/vI6aDZQ6lqPA3yADDYdwOw8p9dz033YfdZ-ImNLCuugg.png",
-      "localImage": "assets/news/4bb8e6e2407757.webp",
-      "score": 16
+      "image": "https://gfx.nrk.no/yJ8HbGA3wNksA-jPFbtvGA5gPtWKdfcbYtkhGo415MNQ.jpg",
+      "localImage": "assets/news/fcb64ffd9c75a9.jpg",
+      "score": 17
     },
     {
-      "id": "1ae046bf2e844d",
-      "category": "Verden",
-      "published": "12.09. 05:02",
-      "publishedISO": "2026-09-12T05:02:28+02:00",
-      "title": "Dødstallene fra fergebrannen på Filippinene stiger til 35, med dusinvis fortsatt savnet",
-      "summary": "Fergen tok fyr i nærheten av turisthotspot Coron onsdag. Den filippinske kystvakten sier at den har berget 30 kropper fra vraket av en ferge som tok fyr denne uken, noe som bringer det totale dødstallet til 35. Fergen, bygget i 2002, hadde gyldige sikkerhetssertifikater og besto en håndhevelsesinspeksjon i mars, men etterforskere av bilens lasting ser nærmere på potensielle nødhjelps- og beredskapskontroller. protokoller, rapporterte Palawan Daily. Atienza Interisland Ferries, fartøyets operatør, har lovet fullt samarbeid med henvendelsen. \"Våre hjerter forblir hos de berørte familiene, og vi vil ikke hvile før alle individer er gjort rede for,\" sa selskapet i en uttalelse torsdag. \"Folk tråkket meg\": Filippinsk fergebrannoverlevende husker rømning Filippinske redningsmenn går om bord på fergen 40 timer etter at brannen startet",
+      "id": "fab593b2d8237d",
+      "category": "Økonomi",
+      "published": "12.09. 10:41",
+      "publishedISO": "2026-09-12T10:41:17+02:00",
+      "title": "Nervepirrende rentethriller: – Kan vippe det",
+      "summary": "Det ligger an til å bli en skikkelig rentethriller når sentralbanksjef Ida Wolden Bache og resten av rentekomiteen kommer med rentebeslutning torsdag 24. september. Økonomene har lenge vært veldig i tvil om Norges Bank ender opp med å heve styringsrenten til 4,5 prosent eller holder den uendret på dagens 4,25 prosent. Kronen har siden Norges Banks rentemøte i juni styrket seg mer enn sentralbanken hadde i prognosene, noe som potensielt kan dempe prisveksten. – Samtidig er mye av kronestyrkingen drevet av oljeprisoppgang, så det er ikke helt rett frem hvordan Norges Bank håndterer dette, siden en oljeprisoppgang også kan påvirke inflasjonsbildet i Norge på mellomlang sikt, sier makroøkonomen.",
       "keyPoints": [
-        "Fergen tok fyr i nærheten av turisthotspot Coron onsdag. Den filippinske kystvakten sier at den har funnet 30 lik fra vraket av en ferge som tok fyr denne uken, noe som bringer det totale dødstallet til 35.",
-        "Atienza Interisland Ferries, fartøyets operatør, har lovet fullt samarbeid med henvendelsen. \"Våre hjerter forblir hos de berørte familiene, og vi vil ikke hvile før alle individer er gjort rede for,\" sa selskapet i en uttalelse torsdag. \"Folk tråkket meg\": Filippinsk fergebrannoverlevende husker rømning Filippinske redningsmenn går om bord på fergen 40 timer etter at brannen startet",
-        "Fergen, bygget i 2002, hadde gyldige sikkerhetssertifikater og besto en håndhevelsesinspeksjon i mars, men etterforskere ser på potensielle åpenbare avvik, lastingsintegritet og mannskapsberedskapsprotokoller, rapporterte Palawan Daily.",
-        "En overlevende som ble dratt i sikkerhet på en redningsbåt fortalte BBC at han hadde hørt hektiske rop ombord da brannen brøt ut, og ble trampet ned av panikkslagne mennesker da han prøvde å rømme."
+        "Det ligger an til å bli en skikkelig rentethriller når sentralbanksjef Ida Wolden Bache og resten av rentekomiteen kommer med rentebeslutning torsdag 24. september.",
+        "Økonomene har lenge vært veldig i tvil om Norges Bank ender opp med å heve styringsrenten til 4,5 prosent eller holder den uendret på dagens 4,25 prosent.",
+        "Kronen har siden Norges Banks rentemøte i juni styrket seg mer enn sentralbanken hadde i prognosene, noe som potensielt kan dempe prisveksten. – Samtidig er mye av kronestyrkingen drevet av oljeprisoppgang, så det er ikke helt rett frem hvordan Norges Bank håndterer dette, siden en oljeprisoppgang også kan påvirke inflasjonsbildet i Norge på mellomlang sikt, sier makroøkonomen.",
+        "Selv om prisveksten er over målet, var den lavere enn det Norges Bank hadde i sine prognoser. – Basert på de tallene tror vi de holder renten i ro i september, og heller avventer nye inflasjonstall og ser an utviklingen før novembermøtet, sier Midtgaard."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg",
-      "localImage": "assets/news/1ae046bf2e844d.jpg",
-      "score": 13
+      "url": "https://e24.no/norsk-oekonomi/i/zO3z54/nervepirrende-rentethriller-kan-vippe-det",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6c6f7343-7178-3ebe-97a4-09bb0bcb2683?fit=crop&h=675&upscale=true&w=1200&s=e196a80e22414a1fe5331a61b1e874742e43475d",
+      "localImage": "assets/news/fab593b2d8237d.jpg",
+      "score": 17
     },
     {
       "id": "820f7fc19038e5",
@@ -88,67 +67,25 @@
       "score": 17
     },
     {
-      "id": "677e99dee21278",
-      "category": "Økonomi",
-      "published": "11.09. 17:53",
-      "publishedISO": "2026-09-11T17:53:17+02:00",
-      "title": "Tidligere OpenAI-topp går inn i Nscale-styret",
-      "summary": "Nscale opplyser i en pressemelding at Fidji Simo, som tidligere hadde en lederstilling i Open AI, har blitt utnevnt til styret. Hun følger dermed andre kjente navn, som tidligere Meta-topp Sheryl Sandberg og tidligere britisk visestatsminister Nick Clegg, som har gått inn i Nscales styre. Han peker på at Nscale allerede har hentet inn flere profilerte navn til styret, blant dem tidligere britisk visestatsminister og Meta-topp Nick Clegg.",
-      "keyPoints": [
-        "Hun følger dermed andre kjente navn, som tidligere Meta-topp Sheryl Sandberg og tidligere britisk visestatsminister Nick Clegg, som har gått inn i Nscales styre.",
-        "Nscale opplyser i en pressemelding at Fidji Simo, som tidligere hadde en lederstilling i Open AI, har blitt utnevnt til styret.",
-        "Han peker på at Nscale allerede har hentet inn flere profilerte navn til styret, blant dem tidligere britisk visestatsminister og Meta-topp Nick Clegg.",
-        "Han tror derfor en eventuell Anthropic-notering kan bli startskuddet for Nscale. – Det går nok ikke lang tid fra Anthropic blir børsnotert til Nscale følger etter."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/vrPJBV/tidligere-openai-topp-gaar-inn-i-nscale-styret",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/8a07a0e1-aff6-387f-8fd2-96d37398a7ce?fit=crop&h=675&upscale=true&w=1200&s=ae00ffb04f92ba20dc118660cb6705c41cafaccd",
-      "localImage": "assets/news/677e99dee21278.jpg",
-      "score": 16
-    },
-    {
-      "id": "1a4dcbc01975be",
+      "id": "bb3e4448b0a4b1",
       "category": "Norge",
-      "published": "11.09. 21:40",
-      "publishedISO": "2026-09-11T21:40:20+02:00",
-      "title": "Åtte spørsmål og svar om det svenske valget",
-      "summary": "Her får du svar på åtte spørsmål om valget som kan ende med at Sverige får ny regjering. Den svenske riksdagen har 349 plasser og ligger midt i sentrum av Stockholm. Etter valget i 2022 stemte Socialdemokraterna, Vänsterpartiet, Miljöpartiet og Centerpartiet mot Ulf Kristersson.",
+      "published": "12.09. 08:54",
+      "publishedISO": "2026-09-12T08:54:55+02:00",
+      "title": "Statsforvalterne har ikke hatt så mange innsigelser mot kraftetablering",
+      "summary": "Det vil vi selvsagt også gjøre i denne saken, sier Karlsen, og utdyper: – I de tilfeller hvor Statsforvalteren har innsigelser, er dette fordi Stortinget har vedtatt et lovverk vi skal sørge for blir fulgt. Bare fire av disse har de brukt innsigelsesretten på. – Det er kun en liten prosentandel av energisaker som blir møtt med innsigelse, sammenlignet med hvor mange saker vi har hatt på høring, sier Fossen-Thaugland. Av 32 saker de har hatt på bordet siden 2023, har de bare sagt nei til fire.",
       "keyPoints": [
-        "Her får du svar på åtte spørsmål om valget som kan ende med at Sverige får ny regjering.",
-        "Etter valget i 2022 stemte Socialdemokraterna, Vänsterpartiet, Miljöpartiet og Centerpartiet mot Ulf Kristersson.",
-        "Den svenske riksdagen har 349 plasser og ligger midt i sentrum av Stockholm.",
-        "KAMPHANER: Onsdagen før valget møttes Magdalena Andersson og Ulf Kristersson til statsministerduell i SVT."
+        "Bare fire av disse har de brukt innsigelsesretten på. – Det er kun en liten prosentandel av energisaker som blir møtt med innsigelse, sammenlignet med hvor mange saker vi har hatt på høring, sier Fossen-Thaugland.",
+        "Av 32 saker de har hatt på bordet siden 2023, har de bare sagt nei til fire.",
+        "Det vil vi selvsagt også gjøre i denne saken, sier Karlsen, og utdyper: – I de tilfeller hvor Statsforvalteren har innsigelser, er dette fordi Stortinget har vedtatt et lovverk vi skal sørge for blir fulgt.",
+        "Det er først da Statsforvalterne vil si hva de egentlig mener om saken."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/atte-sporsmal-og-svar-om-det-svenske-valget-1.18018359",
+      "url": "https://www.nrk.no/nordland/statsforvalterne-har-ikke-hatt-sa-mange-innsigelser-mot-kraftetablering-1.17986670",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/X__z4q-G7GYFamnUPB-6sAYd6iFKna0Tjk2NwVzxc9Ng.jpg",
-      "localImage": "assets/news/1a4dcbc01975be.webp",
-      "score": 16
-    },
-    {
-      "id": "558b05ec8d2598",
-      "category": "Økonomi",
-      "published": "10.09. 21:38",
-      "publishedISO": "2026-09-10T21:38:49+02:00",
-      "title": "Faren er ikke over",
-      "summary": "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten., som er det Norges Bank er mest opptatt av, kom inn på 3 prosent. Målet til Norges Bank er å få ned prisstigningen til 2 prosent, så det er fortsatt et stykke igjen. For mange økonomer lå skillet på forhånd på 3 prosent: Over 3 prosent var det «bænkers» med renteheving neste uke.",
-      "keyPoints": [
-        "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten., som er det Norges Bank er mest opptatt av, kom inn på 3 prosent.",
-        "Målet til Norges Bank er å få ned prisstigningen til 2 prosent, så det er fortsatt et stykke igjen.",
-        "For mange økonomer lå skillet på forhånd på 3 prosent: Over 3 prosent var det «bænkers» med renteheving neste uke.",
-        "Prisene steg 3,3 prosent det siste året, mens kjerneinflasjonenPrisveksten sett bort fra energipriser og avgiftsendringer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/Pd2La7/faren-er-ikke-over",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6bb86d0b-aca1-3de7-9b03-48039bbc0ebf?fit=crop&h=675&upscale=true&w=1200&s=be5ca7771bf5ea3811caa9bb8f00d0c1435527cc",
-      "localImage": "assets/news/558b05ec8d2598.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/PcgQAuYUWV1byeNp6DlvZw3heakQIRfCjOFjPfRUHiiQ.jpg",
+      "localImage": "assets/news/bb3e4448b0a4b1.jpg",
+      "score": 17
     },
     {
       "id": "382965398df28a",
@@ -172,6 +109,90 @@
       "score": 15
     },
     {
+      "id": "4bb8e6e2407757",
+      "category": "Norge",
+      "published": "11.09. 22:26",
+      "publishedISO": "2026-09-11T22:26:19+02:00",
+      "title": "Yang var først på stedet etter at flomkatastrofen rammet Kina",
+      "summary": "DRAMATISK: Yang Qiqiao har ikke ord på følelsene han og flokken av redningsarbeidere fikk da de kom til katastrofeområdet. Flommen kom i en rasende fart mens folk ventet på å krysse grensa mellom Nepal og Kina 26. august. Minst 1430 personer er bekreftet omkommet i Nepal og Kina etter at flomkatastrofen rammet begge land.",
+      "keyPoints": [
+        "Minst 1430 personer er bekreftet omkommet i Nepal og Kina etter at flomkatastrofen rammet begge land.",
+        "Flommen kom i en rasende fart mens folk ventet på å krysse grensa mellom Nepal og Kina 26. august.",
+        "DRAMATISK: Yang Qiqiao har ikke ord på følelsene han og flokken av redningsarbeidere fikk da de kom til katastrofeområdet.",
+        "Yang Qiqiao var en av de første som så de ufattelige konsekvensene på den kinesiske siden av grensa."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/yang-var-forst-pa-stedet-etter-at-flomkatastrofen-rammet-kina-1.18020446",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/vI6aDZQ6lqPA3yADDYdwOw8p9dz033YfdZ-ImNLCuugg.png",
+      "localImage": "assets/news/4bb8e6e2407757.webp",
+      "score": 15
+    },
+    {
+      "id": "1a4dcbc01975be",
+      "category": "Norge",
+      "published": "11.09. 21:40",
+      "publishedISO": "2026-09-11T21:40:20+02:00",
+      "title": "Åtte spørsmål og svar om det svenske valget",
+      "summary": "Her får du svar på åtte spørsmål om valget som kan ende med at Sverige får ny regjering. Velgerne stemmer først og fremst på et parti, men kan også sette kryss ved en kandidat de vil støtte ekstra Den svenske riksdagen har 349 plasser og ligger midt i sentrum av Stockholm. Etter valget i 2022 stemte Socialdemokraterna, Vänsterpartiet, Miljöpartiet og Centerpartiet mot Ulf Kristersson.",
+      "keyPoints": [
+        "Her får du svar på åtte spørsmål om valget som kan ende med at Sverige får ny regjering.",
+        "Velgerne stemmer først og fremst på et parti, men kan også sette kryss ved en kandidat de vil støtte ekstra Den svenske riksdagen har 349 plasser og ligger midt i sentrum av Stockholm.",
+        "Etter valget i 2022 stemte Socialdemokraterna, Vänsterpartiet, Miljöpartiet og Centerpartiet mot Ulf Kristersson.",
+        "KAMPHANER: Onsdagen før valget møttes Magdalena Andersson og Ulf Kristersson til statsministerduell i SVT."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/atte-sporsmal-og-svar-om-det-svenske-valget-1.18018359",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/X__z4q-G7GYFamnUPB-6sAYd6iFKna0Tjk2NwVzxc9Ng.jpg",
+      "localImage": "assets/news/1a4dcbc01975be.webp",
+      "score": 15
+    },
+    {
+      "id": "677e99dee21278",
+      "category": "Økonomi",
+      "published": "11.09. 17:53",
+      "publishedISO": "2026-09-11T17:53:17+02:00",
+      "title": "Tidligere OpenAI-topp går inn i Nscale-styret",
+      "summary": "Nscale opplyser i en pressemelding at Fidji Simo, som tidligere hadde en lederstilling i Open AI, har blitt utnevnt til styret. Hun følger dermed andre kjente navn, som tidligere Meta-topp Sheryl Sandberg og tidligere britisk visestatsminister Nick Clegg, som har gått inn i Nscales styre. Han peker på at Nscale allerede har hentet inn flere profilerte navn til styret, blant dem tidligere britisk visestatsminister og Meta-topp Nick Clegg.",
+      "keyPoints": [
+        "Hun følger dermed andre kjente navn, som tidligere Meta-topp Sheryl Sandberg og tidligere britisk visestatsminister Nick Clegg, som har gått inn i Nscales styre.",
+        "Nscale opplyser i en pressemelding at Fidji Simo, som tidligere hadde en lederstilling i Open AI, har blitt utnevnt til styret.",
+        "Han peker på at Nscale allerede har hentet inn flere profilerte navn til styret, blant dem tidligere britisk visestatsminister og Meta-topp Nick Clegg.",
+        "Han tror derfor en eventuell Anthropic-notering kan bli startskuddet for Nscale. – Det går nok ikke lang tid fra Anthropic blir børsnotert til Nscale følger etter."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/vrPJBV/tidligere-openai-topp-gaar-inn-i-nscale-styret",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8a07a0e1-aff6-387f-8fd2-96d37398a7ce?fit=crop&h=675&upscale=true&w=1200&s=ae00ffb04f92ba20dc118660cb6705c41cafaccd",
+      "localImage": "assets/news/677e99dee21278.jpg",
+      "score": 15
+    },
+    {
+      "id": "558b05ec8d2598",
+      "category": "Økonomi",
+      "published": "10.09. 21:38",
+      "publishedISO": "2026-09-10T21:38:49+02:00",
+      "title": "Faren er ikke over",
+      "summary": "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten., som er det Norges Bank er mest opptatt av, kom inn på 3 prosent. Målet til Norges Bank er å få ned prisstigningen til 2 prosent, så det er fortsatt et stykke igjen. For mange økonomer lå skillet på forhånd på 3 prosent: Over 3 prosent var det «bænkers» med renteheving neste uke.",
+      "keyPoints": [
+        "Den er denne Norges Bank legger mest vekt på når de vurderer prisveksten og hva som skal skje med renten., som er det Norges Bank er mest opptatt av, kom inn på 3 prosent.",
+        "Målet til Norges Bank er å få ned prisstigningen til 2 prosent, så det er fortsatt et stykke igjen.",
+        "For mange økonomer lå skillet på forhånd på 3 prosent: Over 3 prosent var det «bænkers» med renteheving neste uke.",
+        "Prisene steg 3,3 prosent det siste året, mens kjerneinflasjonenPrisveksten sett bort fra energipriser og avgiftsendringer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/Pd2La7/faren-er-ikke-over",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6bb86d0b-aca1-3de7-9b03-48039bbc0ebf?fit=crop&h=675&upscale=true&w=1200&s=be5ca7771bf5ea3811caa9bb8f00d0c1435527cc",
+      "localImage": "assets/news/558b05ec8d2598.jpg",
+      "score": 15
+    },
+    {
       "id": "41f2019b264459",
       "category": "Norge",
       "published": "11.09. 19:35",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/1J72JLanJDiqqGa1Cwr1Cg_7U-E-MleyEsgpK3769QxQ.jpg",
       "localImage": "assets/news/41f2019b264459.jpg",
-      "score": 15
-    },
-    {
-      "id": "665ebfb9047e1b",
-      "category": "Økonomi",
-      "published": "11.09. 14:30",
-      "publishedISO": "2026-09-11T14:30:18+02:00",
-      "title": "Prisvekst på 3,4 prosent i USA",
-      "summary": "Den ene er konsumprisindeksen (KPI), mens den andre er Personal Consumption Expenditures Price Index (PCE).) i USA lå på 3,4 prosent på årsbasis i august. Det var som ventet, og et hakk ned fra 2,5 prosent måneden før. – Det heller i retning av at rentene skal opp og det er det markedet priser inn, sier sjeføkonom Harald Magnus Andreassen i SB1 Markets. I markedet prises det nå inn rundt 85 prosent sjanse for renteheving neste uke, mot 70 prosent rett før inflasjonstallene.",
-      "keyPoints": [
-        "Den ene er konsumprisindeksen (KPI), mens den andre er Personal Consumption Expenditures Price Index (PCE).) i USA lå på 3,4 prosent på årsbasis i august.",
-        "Det var som ventet, og et hakk ned fra 2,5 prosent måneden før. – Det heller i retning av at rentene skal opp og det er det markedet priser inn, sier sjeføkonom Harald Magnus Andreassen i SB1 Markets.",
-        "I markedet prises det nå inn rundt 85 prosent sjanse for renteheving neste uke, mot 70 prosent rett før inflasjonstallene.",
-        "Sentralbanken styrer etter et mål om prisvekst på to prosent."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/k0z3GL/prisveksten-i-usa-holdt-seg-paa-3-4-prosent-i-august",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3225b15e-da86-3339-9ec4-cc9f26523b44?fit=crop&h=675&upscale=true&w=1200&s=d605c93fca28c0008cf180bc61d23ffa3fff0f1a",
-      "localImage": "assets/news/665ebfb9047e1b.jpg",
       "score": 14
     }
   ]
