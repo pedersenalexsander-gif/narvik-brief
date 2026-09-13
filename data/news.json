@@ -1,28 +1,49 @@
 {
-  "updatedAt": "13.09.2026 kl. 07:25",
-  "updatedISO": "2026-09-13T07:25:11.537016+02:00",
+  "updatedAt": "13.09.2026 kl. 12:31",
+  "updatedISO": "2026-09-13T12:31:33.544762+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "702d8904a36ffa",
-      "category": "Norge",
-      "published": "12.09. 22:55",
-      "publishedISO": "2026-09-12T22:55:45+02:00",
-      "title": "Kanonscoring og keeper-storspill da Arsenal vant igjen",
-      "summary": "Martin Ødegaards Arsenal fortsatte storformen da de slo Sunderland 2–0 lørdag kveld. Men David Raya vartet opp med en praktredning nede ved stolperoten og forhindret 1–0 til Sunderland Og minutter senere smalt det i andre enden. Arsenal har holdt nullen i fem av seks offisielle kamper denne sesongen.",
+      "id": "afd7fbad3c1d20",
+      "category": "Nord-Norge",
+      "published": "13.09. 10:39",
+      "publishedISO": "2026-09-13T10:39:58+02:00",
+      "title": "Flere er strømløse etter nattens uvær",
+      "summary": "Etter nattens kraftige uvær langs Helgelandskysten hadde i morgentimene søndag 115 kunder mistet strømmen på øya Vandve, like utenfor Dønna. 11.15 melder selskapet at mange av kundene har fått strømmen tilbake og at det da var 50 kunder uten strøm. Selv om den nøyaktige feilen foreløpig er ukjent, knyttes strømbruddet direkte til de sterke vindkastene som passerte Helgeland i natt. – Sannsynligvis er det vinden, men vi vet også at det var meldt lynaktivitet i området, sier Frode Dorp, kommunikasjonsansvarlig i Linea – Vi har blant annet fått inn en melding fra en bonde som fortalte at strøminntaket hadde blitt røsket rett ut av veggen i løpet av natten.",
       "keyPoints": [
-        "Martin Ødegaards Arsenal fortsatte storformen da de slo Sunderland 2–0 lørdag kveld.",
-        "Arsenal har holdt nullen i fem av seks offisielle kamper denne sesongen.",
-        "Men David Raya vartet opp med en praktredning nede ved stolperoten og forhindret 1–0 til Sunderland Og minutter senere smalt det i andre enden.",
-        "Store sjanser måtte hjemmefansen vente på helt til Lucas Bergvall i det 89. minutt kom til skudd i feltet og Jordan Pickford måtte ut i full strekk for å slå ballen ut ved stolpen."
+        "Etter nattens kraftige uvær langs Helgelandskysten hadde i morgentimene søndag 115 kunder mistet strømmen på øya Vandve, like utenfor Dønna.",
+        "Selv om den nøyaktige feilen foreløpig er ukjent, knyttes strømbruddet direkte til de sterke vindkastene som passerte Helgeland i natt. – Sannsynligvis er det vinden, men vi vet også at det var meldt lynaktivitet i området, sier Frode Dorp, kommunikasjonsansvarlig i Linea – Vi har blant annet fått inn en melding fra en bonde som fortalte at strøminntaket hadde blitt røsket rett ut av veggen i løpet av natten.",
+        "11.15 melder selskapet at mange av kundene har fått strømmen tilbake og at det da var 50 kunder uten strøm.",
+        "Montører befarer nå linjenettet for å lokalisere feilen ute i havgapet. – Vi krysser fingrene for at feilårsaken lokaliseres raskt, slik at feilrettingen kan starte så snart som mulig, sier Drop."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/flere-er-stromlose-etter-nattens-uvaer-1.18023239",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/u3W1m1iCgv1XK_NWaJyJwwlK74j6QKjlGiQS5y5ZwsbA.jpg",
+      "localImage": "assets/news/afd7fbad3c1d20.jpg",
+      "score": 13
+    },
+    {
+      "id": "2cd434ca35b810",
+      "category": "Norge",
+      "published": "13.09. 10:56",
+      "publishedISO": "2026-09-13T10:56:21+02:00",
+      "title": "Aksjonerte på E6 i helga – nå lover de mer",
+      "summary": "Rafoss er selvstendig næringsdrivende, og er en av mange som virkelig har kjent på hvordan økte drivstoffprisene påvirker hverdagen og lommeboka. – Jeg må ut med 200.000 kroner ekstra i måneden når jeg asfalterer. Nå varsler Dieselbrølet en ny aksjon i Oslo 2. oktober, der målet er å legge et større press på politikerne for å få ned drivstoffprisene. Ifølge Rafoss har gruppa fått 10.000 nye medlemmer siden drivstoffprisene økte i september.",
+      "keyPoints": [
+        "Rafoss er selvstendig næringsdrivende, og er en av mange som virkelig har kjent på hvordan økte drivstoffprisene påvirker hverdagen og lommeboka. – Jeg må ut med 200.000 kroner ekstra i måneden når jeg asfalterer.",
+        "Nå varsler Dieselbrølet en ny aksjon i Oslo 2. oktober, der målet er å legge et større press på politikerne for å få ned drivstoffprisene.",
+        "Ifølge Rafoss har gruppa fått 10.000 nye medlemmer siden drivstoffprisene økte i september.",
+        "Han mener drivstoffavgiftene må ned umiddelbart, og at andre skattelettelser heller får komme i andre rekke. – Jeg tror politikerne på Stortinget kan sette seg ned og ta vedtakene på alvor, slik at vi berger det norske næringslivet som har enorme utgifter til diesel for å få gjort jobben sin, sa Pedersen i Dagsnytt 18."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/kanonscoring-og-keeper-storspill-da-arsenal-vant-igjen-1.18023053",
+      "url": "https://www.nrk.no/trondelag/hoye-drivstoffpriser-gjor-at-_dieselbrolet_-skal-arrangere-flere-_kjor-sakte-aksjoner_-1.18016471",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/oNew6IT4y69FB-Sw7-G-jQQjguTTtLFG1TUHNq9oICQA.jpg",
-      "localImage": "assets/news/702d8904a36ffa.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/8TgopWjig-bjrdSUm7BDjgWZf1CzcyGzH0yoQhSqqpLw",
+      "localImage": "assets/news/2cd434ca35b810.jpg",
+      "score": 17
     },
     {
       "id": "f24519000a2eeb",
@@ -43,49 +64,70 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
       "localImage": "assets/news/f24519000a2eeb.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "0f0b88f4b43900",
+      "id": "74e35c6cc9336b",
       "category": "Økonomi",
-      "published": "13.09. 06:00",
-      "publishedISO": "2026-09-13T06:00:00+02:00",
-      "title": "Nerver i høyspenn på NHH: – Betydelig høyere stressnivå",
-      "summary": "Due og Lorentzen har begge begynt på mastergraden sin ved NHH og er aktive i studentforeningen ved siden av studiene. Man er nok ikke 100 prosent sikret jobb om man blir siviløkonom nå, sier Lorentzen. De fleste vil starte rett i de store konsulenthusene og bankene etter endte studier. – NHH-studentene har jo marsjert veldig taktfast inn i de fire storePWC, EY, Deloitte og KPGM - de fire store, tradisjonelle revisjons- og konsulenthusene. , rådgivning, bank og finans, sier rektor Helge Thorbjørnsen på kontoret sitt. – Jeg opplever et betydelig høyere stressnivå blant studentene nå enn tidligere.",
+      "published": "13.09. 09:27",
+      "publishedISO": "2026-09-13T09:27:10+02:00",
+      "title": "Sjelden enighet om AI-brems",
+      "summary": "Anthropic-sjef Dario Amodei, mannen bak AI-modellen Claude, publiserte lørdag et essay hvor han slår alarm om utviklingen av kunstig intelligens. – Vi må senke tempoet vi forbedrer kapasiteten til AI-modeller med. I en bransje preget av bitter rivalisering, har utspillet nå fått uventet støtte fra to av de mektigste aktørene, skriver Financial Times. – Dario har rett, skriver Elon Musk på X, samtidig som han delte essayet. – Jeg er enig med Dario i at vi må sette tempoet på frontlinjen, skriver han. Amodei frykter lignende svermer om 6–12 måneder kan ta over hele internett og forårsake skader for hundrevis av milliarder dollar.",
       "keyPoints": [
-        "De fleste vil starte rett i de store konsulenthusene og bankene etter endte studier. – NHH-studentene har jo marsjert veldig taktfast inn i de fire storePWC, EY, Deloitte og KPGM - de fire store, tradisjonelle revisjons- og konsulenthusene. , rådgivning, bank og finans, sier rektor Helge Thorbjørnsen på kontoret sitt. – Jeg opplever et betydelig høyere stressnivå blant studentene nå enn tidligere.",
-        "Due og Lorentzen har begge begynt på mastergraden sin ved NHH og er aktive i studentforeningen ved siden av studiene.",
-        "Man er nok ikke 100 prosent sikret jobb om man blir siviløkonom nå, sier Lorentzen.",
-        "Johanne Marie Haanes, studentpolitisk ansvarlig i studentforeningen ved NHH, mener studentene ved NHH har vendt seg til at «alle» får jobb lenge før de er ferdige med studiene. – Når det ikke lenger er like enkelt å få jobb i de fire store, må man løfte blikket og søke litt utenfor den tradisjonelle NHH-boksen."
+        "I en bransje preget av bitter rivalisering, har utspillet nå fått uventet støtte fra to av de mektigste aktørene, skriver Financial Times. – Dario har rett, skriver Elon Musk på X, samtidig som han delte essayet. – Jeg er enig med Dario i at vi må sette tempoet på frontlinjen, skriver han.",
+        "Anthropic-sjef Dario Amodei, mannen bak AI-modellen Claude, publiserte lørdag et essay hvor han slår alarm om utviklingen av kunstig intelligens. – Vi må senke tempoet vi forbedrer kapasiteten til AI-modeller med.",
+        "Amodei frykter lignende svermer om 6–12 måneder kan ta over hele internett og forårsake skader for hundrevis av milliarder dollar.",
+        "Altman skal også internt ha varslet ansatte om at han er åpen for internasjonalt samarbeid om å bremse utviklingen. – Det er en god idé å forplikte seg til å ha uavhengige granskere med tilgang på samme nivå som ansatte, og det kommer vi også til å gjøre."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/d48kJw/nerver-i-hoeyspenn-paa-nhh-betydelig-hoeyere-stressnivaa",
+      "url": "https://e24.no/teknologi/i/y52bn2/ai-topper-i-sjelden-enighet-vil-bremse-utviklingen",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/76348542-7ef5-3ba3-8e8e-237d186d88e5?fit=crop&h=675&upscale=true&w=1200&s=16f820627d892e3c3fae3965c918602103d5b4be",
-      "localImage": "assets/news/0f0b88f4b43900.jpg",
-      "score": 13
+      "image": "https://akamai.vgc.no/v2/images/0ba4e412-0cf3-38ff-8204-b7d16b73883c?fit=crop&h=675&upscale=true&w=1200&s=cc162d5f35e4c9c316e60bc367baa7878dbe5628",
+      "localImage": "assets/news/74e35c6cc9336b.jpg",
+      "score": 23
     },
     {
-      "id": "fab593b2d8237d",
+      "id": "f764042e2ac8a2",
       "category": "Økonomi",
-      "published": "12.09. 10:41",
-      "publishedISO": "2026-09-12T10:41:17+02:00",
-      "title": "Nervepirrende rentethriller: – Kan vippe det",
-      "summary": "Det ligger an til å bli en skikkelig rentethriller når sentralbanksjef Ida Wolden Bache og resten av rentekomiteen kommer med rentebeslutning torsdag 24. september. Økonomene har lenge vært veldig i tvil om Norges Bank ender opp med å heve styringsrenten til 4,5 prosent eller holder den uendret på dagens 4,25 prosent. Kronen har siden Norges Banks rentemøte i juni styrket seg mer enn sentralbanken hadde i prognosene, noe som potensielt kan dempe prisveksten. – Samtidig er mye av kronestyrkingen drevet av oljeprisoppgang, så det er ikke helt rett frem hvordan Norges Bank håndterer dette, siden en oljeprisoppgang også kan påvirke inflasjonsbildet i Norge på mellomlang sikt, sier makroøkonomen.",
+      "published": "13.09. 12:29",
+      "publishedISO": "2026-09-13T12:29:37+02:00",
+      "title": "Taxisjåfør anmeldt etter krav på 22.000 kroner",
+      "summary": "Etter en taxitur fra Gardermoen til Oslo fikk en utenlandsk kvinne belastet kortet med 22.000 kroner, skriver Dagens Næringsliv. Saken ble imidlertid henlagt 19. august på grunn av manglende saksbehandlingskapasitet. Kommunikasjonsrådgiver Carita Storm Røsaasen i Avinor kjente ikke til saken da DN først tok kontakt, men bekreftet hendelsen etter å ha undersøkt. – Først og fremst vil vi si at det som beskrives her må ha vært en svært ubehagelig opplevelse for den reisende, sier Røsaasen til DN.",
       "keyPoints": [
-        "Det ligger an til å bli en skikkelig rentethriller når sentralbanksjef Ida Wolden Bache og resten av rentekomiteen kommer med rentebeslutning torsdag 24. september.",
-        "Økonomene har lenge vært veldig i tvil om Norges Bank ender opp med å heve styringsrenten til 4,5 prosent eller holder den uendret på dagens 4,25 prosent.",
-        "Kronen har siden Norges Banks rentemøte i juni styrket seg mer enn sentralbanken hadde i prognosene, noe som potensielt kan dempe prisveksten. – Samtidig er mye av kronestyrkingen drevet av oljeprisoppgang, så det er ikke helt rett frem hvordan Norges Bank håndterer dette, siden en oljeprisoppgang også kan påvirke inflasjonsbildet i Norge på mellomlang sikt, sier makroøkonomen.",
-        "Selv om prisveksten er over målet, var den lavere enn det Norges Bank hadde i sine prognoser. – Basert på de tallene tror vi de holder renten i ro i september, og heller avventer nye inflasjonstall og ser an utviklingen før novembermøtet, sier Midtgaard."
+        "Etter en taxitur fra Gardermoen til Oslo fikk en utenlandsk kvinne belastet kortet med 22.000 kroner, skriver Dagens Næringsliv.",
+        "Kommunikasjonsrådgiver Carita Storm Røsaasen i Avinor kjente ikke til saken da DN først tok kontakt, men bekreftet hendelsen etter å ha undersøkt. – Først og fremst vil vi si at det som beskrives her må ha vært en svært ubehagelig opplevelse for den reisende, sier Røsaasen til DN.",
+        "Saken ble imidlertid henlagt 19. august på grunn av manglende saksbehandlingskapasitet.",
+        "I meldinger mellom kvinnen og selskapet i etterkant, skriver selskapet at sjåføren har gjort en feil og at pengene skal betales tilbake."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/zO3z54/nervepirrende-rentethriller-kan-vippe-det",
+      "url": "https://e24.no/boers-og-finans/i/2pzJry/taxisjaafoer-krevde-22-000-kroner-for-tur-fra-gardermoen-til-oslo",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6c6f7343-7178-3ebe-97a4-09bb0bcb2683?fit=crop&h=675&upscale=true&w=1200&s=e196a80e22414a1fe5331a61b1e874742e43475d",
-      "localImage": "assets/news/fab593b2d8237d.jpg",
-      "score": 13
+      "image": "https://akamai.vgc.no/v2/images/c4e6a913-ac77-384d-95c2-4955bc951169?fit=crop&h=675&upscale=true&w=1200&s=7f17ac26aa974076c7febbfd48cc490ed5513b70",
+      "localImage": "assets/news/f764042e2ac8a2.jpg",
+      "score": 17
+    },
+    {
+      "id": "702d8904a36ffa",
+      "category": "Norge",
+      "published": "12.09. 22:55",
+      "publishedISO": "2026-09-12T22:55:45+02:00",
+      "title": "Kanonscoring og keeper-storspill da Arsenal vant igjen",
+      "summary": "Martin Ødegaards Arsenal fortsatte storformen da de slo Sunderland 2–0 lørdag kveld. Til tross for beslutningen om å fortsette karrieren, har ikke seiersvante Verstappen vunnet et eneste løp denne sesongen, og han er heller ikke med i kampen om VM-tittelen. (NTB) Lionel Messi forlenget sin utrolige scoringsrekke mot Major League Soccer-leder Nashville da Inter Miami kjempet seg til 2-2 i toppoppgjøret i Eastern Conference lørdag. Tre av fire som vant EM-gull i Birmingham får sjansen igjen.",
+      "keyPoints": [
+        "Martin Ødegaards Arsenal fortsatte storformen da de slo Sunderland 2–0 lørdag kveld.",
+        "Tre av fire som vant EM-gull i Birmingham får sjansen igjen.",
+        "Til tross for beslutningen om å fortsette karrieren, har ikke seiersvante Verstappen vunnet et eneste løp denne sesongen, og han er heller ikke med i kampen om VM-tittelen. (NTB) Lionel Messi forlenget sin utrolige scoringsrekke mot Major League Soccer-leder Nashville da Inter Miami kjempet seg til 2-2 i toppoppgjøret i Eastern Conference lørdag.",
+        "Arsenal har holdt nullen i fem av seks offisielle kamper denne sesongen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/kanonscoring-og-keeper-storspill-da-arsenal-vant-igjen-1.18023053",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/oNew6IT4y69FB-Sw7-G-jQQjguTTtLFG1TUHNq9oICQA.jpg",
+      "localImage": "assets/news/702d8904a36ffa.jpg",
+      "score": 15
     },
     {
       "id": "86b97bc32907b8",
@@ -106,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b616/live/52d9fcb0-aed9-11f1-91ea-91f4a2a08fa4.png",
       "localImage": "assets/news/86b97bc32907b8.png",
-      "score": 16
+      "score": 15
     },
     {
       "id": "2f63fe428b9d38",
@@ -127,90 +169,48 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/_8G1dk_C4p4mO8b6eIPUUQFgKxrnDXDOWdDPD8HqkgHQ.png",
       "localImage": "assets/news/2f63fe428b9d38.webp",
-      "score": 15
-    },
-    {
-      "id": "ab13c87dac55f9",
-      "category": "Norge",
-      "published": "12.09. 16:21",
-      "publishedISO": "2026-09-12T16:21:35+02:00",
-      "title": "Trump: – Ville elsket å se et forent Irland",
-      "summary": "USAs president er på besøk i Irland for ei golfturnering, men før det møtte Trump landet sine leiarar. UTSEGN: Under ein pressekonferanse sa Trump at eit sameint Irland kjem til å skje til slutt. Under ein pressekonferanse med statsministeren fekk Trump spørsmål frå journalistar. – Eg ville elska å sjå eit sameint Irland, svarte presidenten på eit av spørsmåla.",
-      "keyPoints": [
-        "Under ein pressekonferanse med statsministeren fekk Trump spørsmål frå journalistar. – Eg ville elska å sjå eit sameint Irland, svarte presidenten på eit av spørsmåla.",
-        "UTSEGN: Under ein pressekonferanse sa Trump at eit sameint Irland kjem til å skje til slutt.",
-        "USAs president er på besøk i Irland for ei golfturnering, men før det møtte Trump landet sine leiarar.",
-        "Sjå nyheitssenteret til NRK for oppdateringar om Irland: Det er ikkje uvanleg at den amerikanske presidenten «kan lite om dei tinga han uttalar seg om», ifølge Eirik Løkke, rådgivar i tankesmia Civita. – Trump liker å skape overskrifter, seier Løkke. – Du kan vere heilt trygg på at Trump ikkje har lese seg opp på den irske historia, legg han til."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/trump_-_-ville-elsket-a-se-et-forent-irland-1.18022779",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/zBEL7n-xxm2tLpNdXRHKQAx0LEFC3CwsS6FZEddqMO5w.jpg",
-      "localImage": "assets/news/ab13c87dac55f9.jpg",
       "score": 14
     },
     {
-      "id": "e494d4a62f6fae",
+      "id": "3af5601d939fe9",
       "category": "Norge",
-      "published": "12.09. 12:06",
-      "publishedISO": "2026-09-12T12:06:13+02:00",
-      "title": "Trump: Ville elsket å se et forent Irland",
-      "summary": "– Jeg ville elsket å se et forent Irland, sa USAs president Donald Trump under en pressekonferanse med den irske statsministeren Micheál Martin lørdag. Fra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater. Donald Trump ble innsatt som USAs 47. president 20. januar 2025.",
+      "published": "13.09. 12:25",
+      "publishedISO": "2026-09-13T12:25:49+02:00",
+      "title": "Disse «pyramidene» skal stanse snøskredene",
+      "summary": "De skal stanse snømassene før de når den nye riksvei 85. Han har fulgt byggingen av vollene langs riksvei 85, som er en del av Hålogalandsvegen. De største vollene er over ti meter høye og opptil 250 meter lange.",
       "keyPoints": [
-        "– Jeg ville elsket å se et forent Irland, sa USAs president Donald Trump under en pressekonferanse med den irske statsministeren Micheál Martin lørdag.",
-        "Fra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-        "Donald Trump ble innsatt som USAs 47. president 20. januar 2025.",
-        "Uttalelsen var et svar på et spørsmål fra en journalist i salen, og utløste et skred av nye spørsmål. – Det kommer til å skje til slutt, sa Trump videre."
+        "De skal stanse snømassene før de når den nye riksvei 85.",
+        "De største vollene er over ti meter høye og opptil 250 meter lange.",
+        "Han har fulgt byggingen av vollene langs riksvei 85, som er en del av Hålogalandsvegen.",
+        "Uten vollene ville veien vært utsatt for skred, forklarer driftsleder Finn Tore Jensen i Hæhre Entreprenør. – Det er ikke sikkert veien kunne ha gått der den går i dag."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/trump_-ville-elsket-a-se-et-forent-irland-1.18022694",
+      "url": "https://www.nrk.no/nordland/disse-_pyramidene_-skal-stanse-snoskredene-1.18021484",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Gg-KLRIECd6Cw1h3hPkQWQybyTT16IDb3yNVIoaLKJbw.jpg",
-      "localImage": "assets/news/e494d4a62f6fae.webp",
-      "score": 14
-    },
-    {
-      "id": "fcb64ffd9c75a9",
-      "category": "Norge",
-      "published": "12.09. 09:24",
-      "publishedISO": "2026-09-12T09:24:15+02:00",
-      "title": "Intense ukrainske droneangrep mot Krym: – Vi forsøker å ikke få panikk",
-      "summary": "Paret er fra Krym, som ble okkupert og annektert av Russland fra Ukraina i 2014. Emilia sier at det var svært kraftig skyting og eksplosjoner de siste nettene da luftvernet forsøkte å skyte ned ukrainske droner. – Vi forsøker å ikke få panikk, vi forsøker å holde motet oppe, sier den unge kvinnen gjentatte ganger til NRK. Årsaken er at ukrainske droner har angrepet tankbiler som har fraktet drivstoff over veien som går til Krym gjennom de russisk-okkuperte områdene i Ukraina nordøst for halvøya.",
-      "keyPoints": [
-        "Emilia sier at det var svært kraftig skyting og eksplosjoner de siste nettene da luftvernet forsøkte å skyte ned ukrainske droner. – Vi forsøker å ikke få panikk, vi forsøker å holde motet oppe, sier den unge kvinnen gjentatte ganger til NRK.",
-        "Paret er fra Krym, som ble okkupert og annektert av Russland fra Ukraina i 2014.",
-        "Årsaken er at ukrainske droner har angrepet tankbiler som har fraktet drivstoff over veien som går til Krym gjennom de russisk-okkuperte områdene i Ukraina nordøst for halvøya.",
-        "Det har stadig vekk ført til at strømmen har blitt borte. – Det er fare for at mange av oss som bor på Krym og arbeider for den russiske IT-industrien kan komme til å miste jobben, sier Nikolai."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/intense-ukrainske-droneangrep-mot-krym_-_-vi-forsoker-a-ikke-fa-panikk-1.18001981",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/yJ8HbGA3wNksA-jPFbtvGA5gPtWKdfcbYtkhGo415MNQ.jpg",
-      "localImage": "assets/news/fcb64ffd9c75a9.jpg",
+      "image": "https://gfx.nrk.no/uQeW0Q9Y0O5qrKKY_l8ISwS5MI1Lfa7Eses5s5M6pdsQ.jpg",
+      "localImage": "assets/news/3af5601d939fe9.jpg",
       "score": 13
     },
     {
-      "id": "820f7fc19038e5",
-      "category": "Økonomi",
-      "published": "11.09. 15:30",
-      "publishedISO": "2026-09-11T15:30:42+02:00",
-      "title": "Oppgang på Wall Street",
-      "summary": "Slik gikk det med de toneangivende indeksene: Etter fire dager med nedgang ble det opptur på Wall Street. S&P 500 falt 0,8 prosent, Nasdaq Composite endte uken ned 0,66 prosent og Dow Jones falt 1,35 prosent. Den amerikanske tiårsrenten ligger på 4,9731 prosent ved stengetid på Wall Street.",
+      "id": "4a99b016926f1e",
+      "category": "Norge",
+      "published": "13.09. 11:40",
+      "publishedISO": "2026-09-13T11:40:43+02:00",
+      "title": "Det tradisjonsrike utværet Lånan legg ned: – Ei varsla krise for ærfuglen",
+      "summary": "Men grunna mellom anna klimaendringar legg produksjonen no ned. No er derimot fuglebestanden i så stor nedgang at drifta til selskapet ikkje lenger er berekraftig. – Dei siste åra har talet på ærfuglar som kjem til Lånan gått mykje ned. På Lånan har dei i over 1000 år handheva tradisjonen med å sanke dun frå ærfugl.",
       "keyPoints": [
-        "Den amerikanske tiårsrenten ligger på 4,9731 prosent ved stengetid på Wall Street.",
-        "Slik gikk det med de toneangivende indeksene: Etter fire dager med nedgang ble det opptur på Wall Street.",
-        "S&P 500 falt 0,8 prosent, Nasdaq Composite endte uken ned 0,66 prosent og Dow Jones falt 1,35 prosent.",
-        "Inntektene fra denne forretningsdelen, kalt IaaS, steg fra 3,3 milliarder dollar til 7,39 milliarder dollar, mot ventet 7,19 milliarder dollar."
+        "No er derimot fuglebestanden i så stor nedgang at drifta til selskapet ikkje lenger er berekraftig. – Dei siste åra har talet på ærfuglar som kjem til Lånan gått mykje ned.",
+        "Men grunna mellom anna klimaendringar legg produksjonen no ned.",
+        "På Lånan har dei i over 1000 år handheva tradisjonen med å sanke dun frå ærfugl.",
+        "Nedlegginga av Utværet Lånan AS speglar ei dramatisk utvikling som lenge har prega Helgelandskysten."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zOy3V4/oppgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/249be8cb-66dc-3ff5-a757-ed6882a600b5?fit=crop&h=675&upscale=true&w=1200&s=d22ed37e1fb357cb007f1f20a005307a86775c91",
-      "localImage": "assets/news/820f7fc19038e5.jpg",
+      "url": "https://www.nrk.no/nordland/det-tradisjonsrike-utvaeret-lanan-legg-ned_-_-ei-varsla-krise-for-aerfuglen-1.18022886",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/kutpb2Y2UtDOy0C7h55oDgHRP7jYmQjKdfTqxYB5naJg.jpg",
+      "localImage": "assets/news/4a99b016926f1e.jpg",
       "score": 13
     }
   ]
