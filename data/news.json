@@ -1,6 +1,6 @@
 {
-  "updatedAt": "13.09.2026 kl. 02:42",
-  "updatedISO": "2026-09-13T02:42:28.220795+02:00",
+  "updatedAt": "13.09.2026 kl. 07:25",
+  "updatedISO": "2026-09-13T07:25:11.537016+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/oNew6IT4y69FB-Sw7-G-jQQjguTTtLFG1TUHNq9oICQA.jpg",
       "localImage": "assets/news/702d8904a36ffa.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "f24519000a2eeb",
@@ -43,28 +43,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
       "localImage": "assets/news/f24519000a2eeb.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "334174ce635af2",
-      "category": "USA",
-      "published": "12.09. 17:03",
-      "publishedISO": "2026-09-12T17:03:14+02:00",
-      "title": "Teen boy rescued after days adrift in Alaskan waters",
-      "summary": "Se: Den 15 år gamle gutten ble lokalisert sittende på toppen av den kantrede båten En 15 år gammel gutt har blitt reddet etter å ha tilbrakt dager sittende på toppen av en båt som hadde kantret i det iskalde vannet i Alaskas Beringhavet. Gutten, identifisert av familiemedlemmer som Derek Parker Aghnaanga, var den eneste overlevende fra båten, etter å ha mistet sin eldre bror og fetter i hendelsen. Gutten hadde tegn på hypotermi da han ble reddet, sa USCG.",
+      "id": "0f0b88f4b43900",
+      "category": "Økonomi",
+      "published": "13.09. 06:00",
+      "publishedISO": "2026-09-13T06:00:00+02:00",
+      "title": "Nerver i høyspenn på NHH: – Betydelig høyere stressnivå",
+      "summary": "Due og Lorentzen har begge begynt på mastergraden sin ved NHH og er aktive i studentforeningen ved siden av studiene. Man er nok ikke 100 prosent sikret jobb om man blir siviløkonom nå, sier Lorentzen. De fleste vil starte rett i de store konsulenthusene og bankene etter endte studier. – NHH-studentene har jo marsjert veldig taktfast inn i de fire storePWC, EY, Deloitte og KPGM - de fire store, tradisjonelle revisjons- og konsulenthusene. , rådgivning, bank og finans, sier rektor Helge Thorbjørnsen på kontoret sitt. – Jeg opplever et betydelig høyere stressnivå blant studentene nå enn tidligere.",
       "keyPoints": [
-        "Se: Den 15 år gamle gutten ble lokalisert sittende på toppen av den kantrede båten En 15 år gammel gutt har blitt reddet etter å ha tilbrakt dager sittende på toppen av en båt som hadde kantret i det iskalde vannet i Alaskas Beringhavet.",
-        "Gutten hadde tegn på hypotermi da han ble reddet, sa USCG.",
-        "Gutten, identifisert av familiemedlemmer som Derek Parker Aghnaanga, var den eneste overlevende fra båten, etter å ha mistet sin eldre bror og fetter i hendelsen.",
-        "Et flymannskap fra kystvakten fant gutten som satt på toppen av den veltede båten mandag morgen, og et nærliggende barmhjertig samaritansk fartøy trakk ham i sikkerhet."
+        "De fleste vil starte rett i de store konsulenthusene og bankene etter endte studier. – NHH-studentene har jo marsjert veldig taktfast inn i de fire storePWC, EY, Deloitte og KPGM - de fire store, tradisjonelle revisjons- og konsulenthusene. , rådgivning, bank og finans, sier rektor Helge Thorbjørnsen på kontoret sitt. – Jeg opplever et betydelig høyere stressnivå blant studentene nå enn tidligere.",
+        "Due og Lorentzen har begge begynt på mastergraden sin ved NHH og er aktive i studentforeningen ved siden av studiene.",
+        "Man er nok ikke 100 prosent sikret jobb om man blir siviløkonom nå, sier Lorentzen.",
+        "Johanne Marie Haanes, studentpolitisk ansvarlig i studentforeningen ved NHH, mener studentene ved NHH har vendt seg til at «alle» får jobb lenge før de er ferdige med studiene. – Når det ikke lenger er like enkelt å få jobb i de fire store, må man løfte blikket og søke litt utenfor den tradisjonelle NHH-boksen."
       ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c7907l5nyddo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/32c0/live/ad3598f0-aec4-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/334174ce635af2.jpg",
-      "score": 12
+      "url": "https://e24.no/norsk-oekonomi/i/d48kJw/nerver-i-hoeyspenn-paa-nhh-betydelig-hoeyere-stressnivaa",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/76348542-7ef5-3ba3-8e8e-237d186d88e5?fit=crop&h=675&upscale=true&w=1200&s=16f820627d892e3c3fae3965c918602103d5b4be",
+      "localImage": "assets/news/0f0b88f4b43900.jpg",
+      "score": 13
     },
     {
       "id": "fab593b2d8237d",
@@ -85,27 +85,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6c6f7343-7178-3ebe-97a4-09bb0bcb2683?fit=crop&h=675&upscale=true&w=1200&s=e196a80e22414a1fe5331a61b1e874742e43475d",
       "localImage": "assets/news/fab593b2d8237d.jpg",
-      "score": 14
-    },
-    {
-      "id": "820f7fc19038e5",
-      "category": "Økonomi",
-      "published": "11.09. 15:30",
-      "publishedISO": "2026-09-11T15:30:42+02:00",
-      "title": "Oppgang på Wall Street",
-      "summary": "Slik gikk det med de toneangivende indeksene: Etter fire dager med nedgang ble det opptur på Wall Street. S&P 500 falt 0,8 prosent, Nasdaq Composite endte uken ned 0,66 prosent og Dow Jones falt 1,35 prosent. Den amerikanske tiårsrenten ligger på 4,9731 prosent ved stengetid på Wall Street.",
-      "keyPoints": [
-        "Den amerikanske tiårsrenten ligger på 4,9731 prosent ved stengetid på Wall Street.",
-        "Slik gikk det med de toneangivende indeksene: Etter fire dager med nedgang ble det opptur på Wall Street.",
-        "S&P 500 falt 0,8 prosent, Nasdaq Composite endte uken ned 0,66 prosent og Dow Jones falt 1,35 prosent.",
-        "Inntektene fra denne forretningsdelen, kalt IaaS, steg fra 3,3 milliarder dollar til 7,39 milliarder dollar, mot ventet 7,19 milliarder dollar."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zOy3V4/oppgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/249be8cb-66dc-3ff5-a757-ed6882a600b5?fit=crop&h=675&upscale=true&w=1200&s=d22ed37e1fb357cb007f1f20a005307a86775c91",
-      "localImage": "assets/news/820f7fc19038e5.jpg",
       "score": 13
     },
     {
@@ -127,7 +106,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b616/live/52d9fcb0-aed9-11f1-91ea-91f4a2a08fa4.png",
       "localImage": "assets/news/86b97bc32907b8.png",
-      "score": 17
+      "score": 16
     },
     {
       "id": "2f63fe428b9d38",
@@ -148,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/_8G1dk_C4p4mO8b6eIPUUQFgKxrnDXDOWdDPD8HqkgHQ.png",
       "localImage": "assets/news/2f63fe428b9d38.webp",
-      "score": 16
+      "score": 15
     },
     {
       "id": "ab13c87dac55f9",
@@ -169,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/zBEL7n-xxm2tLpNdXRHKQAx0LEFC3CwsS6FZEddqMO5w.jpg",
       "localImage": "assets/news/ab13c87dac55f9.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "e494d4a62f6fae",
@@ -190,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Gg-KLRIECd6Cw1h3hPkQWQybyTT16IDb3yNVIoaLKJbw.jpg",
       "localImage": "assets/news/e494d4a62f6fae.webp",
-      "score": 15
+      "score": 14
     },
     {
       "id": "fcb64ffd9c75a9",
@@ -211,7 +190,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/yJ8HbGA3wNksA-jPFbtvGA5gPtWKdfcbYtkhGo415MNQ.jpg",
       "localImage": "assets/news/fcb64ffd9c75a9.jpg",
-      "score": 14
+      "score": 13
+    },
+    {
+      "id": "820f7fc19038e5",
+      "category": "Økonomi",
+      "published": "11.09. 15:30",
+      "publishedISO": "2026-09-11T15:30:42+02:00",
+      "title": "Oppgang på Wall Street",
+      "summary": "Slik gikk det med de toneangivende indeksene: Etter fire dager med nedgang ble det opptur på Wall Street. S&P 500 falt 0,8 prosent, Nasdaq Composite endte uken ned 0,66 prosent og Dow Jones falt 1,35 prosent. Den amerikanske tiårsrenten ligger på 4,9731 prosent ved stengetid på Wall Street.",
+      "keyPoints": [
+        "Den amerikanske tiårsrenten ligger på 4,9731 prosent ved stengetid på Wall Street.",
+        "Slik gikk det med de toneangivende indeksene: Etter fire dager med nedgang ble det opptur på Wall Street.",
+        "S&P 500 falt 0,8 prosent, Nasdaq Composite endte uken ned 0,66 prosent og Dow Jones falt 1,35 prosent.",
+        "Inntektene fra denne forretningsdelen, kalt IaaS, steg fra 3,3 milliarder dollar til 7,39 milliarder dollar, mot ventet 7,19 milliarder dollar."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/zOy3V4/oppgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/249be8cb-66dc-3ff5-a757-ed6882a600b5?fit=crop&h=675&upscale=true&w=1200&s=d22ed37e1fb357cb007f1f20a005307a86775c91",
+      "localImage": "assets/news/820f7fc19038e5.jpg",
+      "score": 13
     }
   ]
 }
