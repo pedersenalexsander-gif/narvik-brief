@@ -1,6 +1,6 @@
 {
-  "updatedAt": "13.09.2026 kl. 12:31",
-  "updatedISO": "2026-09-13T12:31:33.544762+02:00",
+  "updatedAt": "13.09.2026 kl. 16:39",
+  "updatedISO": "2026-09-13T16:39:08.482031+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/u3W1m1iCgv1XK_NWaJyJwwlK74j6QKjlGiQS5y5ZwsbA.jpg",
       "localImage": "assets/news/afd7fbad3c1d20.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "2cd434ca35b810",
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/8TgopWjig-bjrdSUm7BDjgWZf1CzcyGzH0yoQhSqqpLw",
       "localImage": "assets/news/2cd434ca35b810.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "f24519000a2eeb",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9948/live/1ffb4fe0-919e-11f1-b6b0-d5690aa17db0.jpg",
       "localImage": "assets/news/f24519000a2eeb.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "74e35c6cc9336b",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/0ba4e412-0cf3-38ff-8204-b7d16b73883c?fit=crop&h=675&upscale=true&w=1200&s=cc162d5f35e4c9c316e60bc367baa7878dbe5628",
       "localImage": "assets/news/74e35c6cc9336b.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "f764042e2ac8a2",
@@ -109,17 +109,38 @@
       "score": 17
     },
     {
+      "id": "65bd79df6ebcb9",
+      "category": "Norge",
+      "published": "13.09. 10:56",
+      "publishedISO": "2026-09-13T10:56:21+02:00",
+      "title": "Aksjonerte på E6 i helga – nå lover de mer",
+      "summary": "Rafoss er selvstendig næringsdrivende, og er en av mange som virkelig har kjent på hvordan økte drivstoffprisene påvirker hverdagen og lommeboka. – Jeg må ut med 200.000 kroner ekstra i måneden når jeg asfalterer. Nå varsler Dieselbrølet en ny aksjon i Oslo 2. oktober, der målet er å legge et større press på politikerne for å få ned drivstoffprisene. Ifølge Rafoss har gruppa fått 10.000 nye medlemmer siden drivstoffprisene økte i september.",
+      "keyPoints": [
+        "Rafoss er selvstendig næringsdrivende, og er en av mange som virkelig har kjent på hvordan økte drivstoffprisene påvirker hverdagen og lommeboka. – Jeg må ut med 200.000 kroner ekstra i måneden når jeg asfalterer.",
+        "Nå varsler Dieselbrølet en ny aksjon i Oslo 2. oktober, der målet er å legge et større press på politikerne for å få ned drivstoffprisene.",
+        "Ifølge Rafoss har gruppa fått 10.000 nye medlemmer siden drivstoffprisene økte i september.",
+        "Han mener drivstoffavgiftene må ned umiddelbart, og at andre skattelettelser heller får komme i andre rekke. – Jeg tror politikerne på Stortinget kan sette seg ned og ta vedtakene på alvor, slik at vi berger det norske næringslivet som har enorme utgifter til diesel for å få gjort jobben sin, sa Pedersen i Dagsnytt 18."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/hoye-drivstoffpriser-gjor-at-_dieselbrolet_-skal-arrangere-flere-_kjor-sakte-aksjoner_-1.18016471",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/8TgopWjig-bjrdSUm7BDjgWZf1CzcyGzH0yoQhSqqpLw",
+      "localImage": "assets/news/65bd79df6ebcb9.jpg",
+      "score": 16
+    },
+    {
       "id": "702d8904a36ffa",
       "category": "Norge",
       "published": "12.09. 22:55",
       "publishedISO": "2026-09-12T22:55:45+02:00",
       "title": "Kanonscoring og keeper-storspill da Arsenal vant igjen",
-      "summary": "Martin Ødegaards Arsenal fortsatte storformen da de slo Sunderland 2–0 lørdag kveld. Til tross for beslutningen om å fortsette karrieren, har ikke seiersvante Verstappen vunnet et eneste løp denne sesongen, og han er heller ikke med i kampen om VM-tittelen. (NTB) Lionel Messi forlenget sin utrolige scoringsrekke mot Major League Soccer-leder Nashville da Inter Miami kjempet seg til 2-2 i toppoppgjøret i Eastern Conference lørdag. Tre av fire som vant EM-gull i Birmingham får sjansen igjen.",
+      "summary": "Martin Ødegaards Arsenal fortsatte storformen da de slo Sunderland 2–0 lørdag kveld. Men David Raya vartet opp med en praktredning nede ved stolperoten og forhindret 1–0 til Sunderland Og minutter senere smalt det i andre enden. Arsenal har holdt nullen i fem av seks offisielle kamper denne sesongen.",
       "keyPoints": [
         "Martin Ødegaards Arsenal fortsatte storformen da de slo Sunderland 2–0 lørdag kveld.",
-        "Tre av fire som vant EM-gull i Birmingham får sjansen igjen.",
-        "Til tross for beslutningen om å fortsette karrieren, har ikke seiersvante Verstappen vunnet et eneste løp denne sesongen, og han er heller ikke med i kampen om VM-tittelen. (NTB) Lionel Messi forlenget sin utrolige scoringsrekke mot Major League Soccer-leder Nashville da Inter Miami kjempet seg til 2-2 i toppoppgjøret i Eastern Conference lørdag.",
-        "Arsenal har holdt nullen i fem av seks offisielle kamper denne sesongen."
+        "Arsenal har holdt nullen i fem av seks offisielle kamper denne sesongen.",
+        "Men David Raya vartet opp med en praktredning nede ved stolperoten og forhindret 1–0 til Sunderland Og minutter senere smalt det i andre enden.",
+        "Nå er det ventet at en endelig avgjørelse tas senest kommende fredag. (NTB) Den firedobbelte Formel 1-verdensmesteren Max Verstappen røper nå at han tidligere denne måneden vurderte å avslutte karrieren."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -127,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/oNew6IT4y69FB-Sw7-G-jQQjguTTtLFG1TUHNq9oICQA.jpg",
       "localImage": "assets/news/702d8904a36ffa.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "86b97bc32907b8",
@@ -140,7 +161,7 @@
         "Dayana Yastremska sa at familiens leilighet ble ødelagt i «et direkte truffet av et Kalibr-kryssermissil» avfyrt av den russiske tennisspilleren Dayana Yastremska, den ukrainske tennisspilleren Dayana Yastremska, har sagt at familiens leilighet har blitt ødelagt i et russisk luftangrep på havnen i Odesa ved Svartehavet. «Slik ser den «russiske verden» ut.",
         "Yastremska la ut et bilde av et karakteristisk Roland Garros-håndkle av oransje leire fra fjorårets turnering som henger fra vraket av leiligheten hennes \"En russisk rakett ødela leiligheten vår i Odesa...",
         "I fjor sa den ukrainske internasjonale fotball-midtbanespilleren Heorhiy Sudakov at leiligheten hans i hovedstaden Kiev var blitt alvorlig skadet av en russisk drone mens hans kone og barn var hjemme.",
-        "Hjemmet vårt gjorde det ikke,\" skrev Yastremska på Instagram på lørdag. \"@wta @itf_reviews Se på disse bildene gjennom øynene våre,\" sa hun i en referanse til de styrende organene i verdenstennis - Women's Tennis Association og International Tennis Federation."
+        "Hjemmet vårt gjorde det ikke,\" skrev Yastremska på Instagram på lørdag. \"@wta @itf_reviews Se på disse bildene gjennom øynene våre,\" sa hun i en henvisning til de styrende organene i verdenstennis - Women's Tennis Association og International Tennis Federation."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -148,69 +169,48 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b616/live/52d9fcb0-aed9-11f1-91ea-91f4a2a08fa4.png",
       "localImage": "assets/news/86b97bc32907b8.png",
-      "score": 15
-    },
-    {
-      "id": "2f63fe428b9d38",
-      "category": "Norge",
-      "published": "12.09. 19:08",
-      "publishedISO": "2026-09-12T19:08:17+02:00",
-      "title": "25.000 ukrainere i Norge aner ikke om de må dra",
-      "summary": "I likhet med familien Pastukh kom om lag 25.000 ukrainere til Norge i 2022. Men på den andre siden får vi hele tiden beskjed om at ukrainere er midlertidige her i Norge, og at vi skal sendes tilbake, sier Bohdan. Siden fullskalainvasjonen startet, har over 100.000 ukrainere flyktet til Norge.",
-      "keyPoints": [
-        "I likhet med familien Pastukh kom om lag 25.000 ukrainere til Norge i 2022.",
-        "Siden fullskalainvasjonen startet, har over 100.000 ukrainere flyktet til Norge.",
-        "Men på den andre siden får vi hele tiden beskjed om at ukrainere er midlertidige her i Norge, og at vi skal sendes tilbake, sier Bohdan.",
-        "LEVER I UVISSE: Familien Pastukh flyktet fra Ukraina til Norge i 2022."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/25.000-ukrainere-i-norge-aner-ikke-om-de-ma-dra-1.18014541",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_8G1dk_C4p4mO8b6eIPUUQFgKxrnDXDOWdDPD8HqkgHQ.png",
-      "localImage": "assets/news/2f63fe428b9d38.webp",
       "score": 14
     },
     {
-      "id": "3af5601d939fe9",
-      "category": "Norge",
-      "published": "13.09. 12:25",
-      "publishedISO": "2026-09-13T12:25:49+02:00",
-      "title": "Disse «pyramidene» skal stanse snøskredene",
-      "summary": "De skal stanse snømassene før de når den nye riksvei 85. Han har fulgt byggingen av vollene langs riksvei 85, som er en del av Hålogalandsvegen. De største vollene er over ti meter høye og opptil 250 meter lange.",
+      "id": "2d2c2ba5cdce4f",
+      "category": "Verden",
+      "published": "13.09. 16:01",
+      "publishedISO": "2026-09-13T16:01:44+02:00",
+      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
+      "summary": "Den kanadiske bokseren George Chuvalo, en fem ganger nasjonal tungvektsmester, har dødd i en alder av 89. Chuvalo ble ansett som \"Canadas største kriger\", og var kjent for sin jernhake, nådeløse holdbarhet og kamper mot verdensberømte jagerfly som George Foreman, Joe Frazier og Ali. Chuvalo mistet tre sønner og kona på grunn av overdoser av narkotika og selvmord, har han sagt. \"Jeg vil tenke på at hvis du noen gang har blitt fristet med tanken på å gjøre narkotika, eller du noen gang flørter med å gjøre narkotika, håper jeg du tenker på meg, George Chuvalo, og hva narkotika gjorde med familien min,\" sa han en gang, ifølge en CBC Radio-reportasje i 1998.",
       "keyPoints": [
-        "De skal stanse snømassene før de når den nye riksvei 85.",
-        "De største vollene er over ti meter høye og opptil 250 meter lange.",
-        "Han har fulgt byggingen av vollene langs riksvei 85, som er en del av Hålogalandsvegen.",
-        "Uten vollene ville veien vært utsatt for skred, forklarer driftsleder Finn Tore Jensen i Hæhre Entreprenør. – Det er ikke sikkert veien kunne ha gått der den går i dag."
+        "Den kanadiske bokseren George Chuvalo, en fem ganger nasjonal tungvektsmester, er død i en alder av 89.",
+        "Chuvalo mistet tre sønner og kona på grunn av overdoser av narkotika og selvmord, har han sagt. \"Jeg vil tenke på at hvis du noen gang har blitt fristet med tanken på å gjøre narkotika, eller du noen gang flørter med å gjøre narkotika, håper jeg du tenker på meg, George Chuvalo, og hva narkotika gjorde med familien min,\" sa han en gang, ifølge en CBC Radio-reportasje i 1998.",
+        "Ansett som \"Canadas største kriger\", var Chuvalo kjent for sin jernhake, nådeløse holdbarhet og kamper mot verdensberømte jagerfly som George Foreman, Joe Frazier og Ali.",
+        "Av totalt 93 profesjonelle kamper i karrieren - 73 seire, 18 tap og to uavgjorte - ble Chuvalo aldri slått ned på lerretet. «Bildene hans har hengt på veggene våre i flere tiår."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/disse-_pyramidene_-skal-stanse-snoskredene-1.18021484",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/uQeW0Q9Y0O5qrKKY_l8ISwS5MI1Lfa7Eses5s5M6pdsQ.jpg",
-      "localImage": "assets/news/3af5601d939fe9.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0987/live/ac9590b0-af7a-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/2d2c2ba5cdce4f.jpg",
       "score": 13
     },
     {
-      "id": "4a99b016926f1e",
+      "id": "f0d10dd04c21fc",
       "category": "Norge",
-      "published": "13.09. 11:40",
-      "publishedISO": "2026-09-13T11:40:43+02:00",
-      "title": "Det tradisjonsrike utværet Lånan legg ned: – Ei varsla krise for ærfuglen",
-      "summary": "Men grunna mellom anna klimaendringar legg produksjonen no ned. No er derimot fuglebestanden i så stor nedgang at drifta til selskapet ikkje lenger er berekraftig. – Dei siste åra har talet på ærfuglar som kjem til Lånan gått mykje ned. På Lånan har dei i over 1000 år handheva tradisjonen med å sanke dun frå ærfugl.",
+      "published": "13.09. 14:39",
+      "publishedISO": "2026-09-13T14:39:58+02:00",
+      "title": "Masseslagsmål i Lørenskog",
+      "summary": "Politiet sendte store mannskaper til stedet da de fikk melding om masseslagsmål i Lørenskog. Politiet fikk melding om masseslagsmålet i Lørenskog klokken 14.08. Politiet sendte flere ressurser til stedet. – En person er knivstukket, og flere personer har forlatt stedet, sier operasjonsleder Terje Askautrud i Øst politidistrikt.",
       "keyPoints": [
-        "No er derimot fuglebestanden i så stor nedgang at drifta til selskapet ikkje lenger er berekraftig. – Dei siste åra har talet på ærfuglar som kjem til Lånan gått mykje ned.",
-        "Men grunna mellom anna klimaendringar legg produksjonen no ned.",
-        "På Lånan har dei i over 1000 år handheva tradisjonen med å sanke dun frå ærfugl.",
-        "Nedlegginga av Utværet Lånan AS speglar ei dramatisk utvikling som lenge har prega Helgelandskysten."
+        "Politiet sendte store mannskaper til stedet da de fikk melding om masseslagsmål i Lørenskog.",
+        "Politiet fikk melding om masseslagsmålet i Lørenskog klokken 14.08.",
+        "Politiet sendte flere ressurser til stedet. – En person er knivstukket, og flere personer har forlatt stedet, sier operasjonsleder Terje Askautrud i Øst politidistrikt.",
+        "Politiet rykket søndag ettermiddag ut etter melding om slagsmål med 25 til 30 personer involvert."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/det-tradisjonsrike-utvaeret-lanan-legg-ned_-_-ei-varsla-krise-for-aerfuglen-1.18022886",
+      "url": "https://www.nrk.no/stor-oslo/masseslagsmal-i-lorenskog-1.18023377",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/kutpb2Y2UtDOy0C7h55oDgHRP7jYmQjKdfTqxYB5naJg.jpg",
-      "localImage": "assets/news/4a99b016926f1e.jpg",
+      "image": "https://gfx.nrk.no/-csQrLH9Qffvfej6P4r5IQgu3GOtpfW_otY0fMl4FndA.jpg",
+      "localImage": "assets/news/f0d10dd04c21fc.webp",
       "score": 13
     }
   ]
