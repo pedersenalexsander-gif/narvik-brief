@@ -1,8 +1,71 @@
 {
-  "updatedAt": "14.09.2026 kl. 12:40",
-  "updatedISO": "2026-09-14T12:40:31.582618+02:00",
+  "updatedAt": "14.09.2026 kl. 18:36",
+  "updatedISO": "2026-09-14T18:36:35.848951+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "6af102b4bd7df8",
+      "category": "Norge",
+      "published": "14.09. 17:35",
+      "publishedISO": "2026-09-14T17:35:38+02:00",
+      "title": "Zelenskyj: Ukraina vil avstå fra angrep hvis Russland gjør det samme",
+      "summary": "Ukraina og Russland har blitt enige om å ikke angripe hverandres energianlegg, hevder USAs president Donald Trump i et innlegg på Truth Social. – Ukraina har gått med på å ikke angripe russiske energianlegg. En stund etter kommenterer Zelenskyj uttalelsene: – Ukraina har foreslått at våre partnere bidrar til å sikre en avtale med Russland om å stanse ødeleggelsen av kritisk infrastruktur, skriver Ukrainas president Volodymyr Zelenskyj på Telegram. Han skriver også at dersom Russland faktisk avstår fra å angripe ukrainsk infrastruktur, er Ukraina villig til å avstå fra egne angrep.",
+      "keyPoints": [
+        "Han skriver også at dersom Russland faktisk avstår fra å angripe ukrainsk infrastruktur, er Ukraina villig til å avstå fra egne angrep.",
+        "En stund etter kommenterer Zelenskyj uttalelsene: – Ukraina har foreslått at våre partnere bidrar til å sikre en avtale med Russland om å stanse ødeleggelsen av kritisk infrastruktur, skriver Ukrainas president Volodymyr Zelenskyj på Telegram.",
+        "Ukraina og Russland har blitt enige om å ikke angripe hverandres energianlegg, hevder USAs president Donald Trump i et innlegg på Truth Social. – Ukraina har gått med på å ikke angripe russiske energianlegg.",
+        "I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina»."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-vil-avsta-fra-angrep-hvis-russland-gjor-det-samme-1.18024674",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/6af102b4bd7df8.jpg",
+      "score": 21
+    },
+    {
+      "id": "e90bdeef178354",
+      "category": "Økonomi",
+      "published": "14.09. 16:44",
+      "publishedISO": "2026-09-14T16:44:34+02:00",
+      "title": "Trump avviser AI-frykten: Trenger bare en «smart president»",
+      "summary": "På Trumps egen plattform Truth Social skriver han at AI ikke trenger andre bremseklosser enn ham selv. – Den eneste kontrollen eller «rekkverket» AI trenger er en sterk og smart (Høy IQ!) president, og det har USA i overflod, skriver han. Lørdag fulgte Anthropic-sjef Dario Amodei opp med et langt essay: – Med den raske AI-utviklingen frykter jeg at en sverm av AI-agenter om bare 6–12 måneder kan være i stand til å ta kontroll over internett gjennom et nettverk av hackede datamaskiner, skriver Amodei. I juli klarte 1200 AI-agenterEn kunstig intelligens som ikke bare svarer på spørsmål, men som også kan utføre oppgaver på egen hånd for å nå et mål. fra OpenAI, selskapet bak ChatGPT, å bryte seg ut av en intern test og operere fritt på internett.",
+      "keyPoints": [
+        "På Trumps egen plattform Truth Social skriver han at AI ikke trenger andre bremseklosser enn ham selv. – Den eneste kontrollen eller «rekkverket» AI trenger er en sterk og smart (Høy IQ!) president, og det har USA i overflod, skriver han.",
+        "Lørdag fulgte Anthropic-sjef Dario Amodei opp med et langt essay: – Med den raske AI-utviklingen frykter jeg at en sverm av AI-agenter om bare 6–12 måneder kan være i stand til å ta kontroll over internett gjennom et nettverk av hackede datamaskiner, skriver Amodei.",
+        "I juli klarte 1200 AI-agenterEn kunstig intelligens som ikke bare svarer på spørsmål, men som også kan utføre oppgaver på egen hånd for å nå et mål. fra OpenAI, selskapet bak ChatGPT, å bryte seg ut av en intern test og operere fritt på internett.",
+        "Trump legger til at «den som vinner AI, vinner», og at USA leder foran Kina."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/teknologi/i/WvMyBr/donald-trump-ai-trenger-ingen-bremseklosser",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/986dd94e-ad90-3a31-a2e3-06952e8e8d4f?fit=crop&h=675&upscale=true&w=1200&s=0f5b0fa3839a91ba71d28c2ce4a60d4af7d87818",
+      "localImage": "assets/news/e90bdeef178354.jpg",
+      "score": 21
+    },
+    {
+      "id": "641e1d8c6efa24",
+      "category": "Økonomi",
+      "published": "14.09. 09:00",
+      "publishedISO": "2026-09-14T09:00:39+02:00",
+      "title": "Aker falt kraftig på Oslo Børs",
+      "summary": "Aker falt 4,96 prosent som en av de mest omsatte aksjene. ABG Sundal Collier-analytiker Ole Hvalbye uttalte sist uke til E24, i forbindelse med en nedgradering av aksjen til «hold», at Aker nå er «der du får aller mest AI-eksponering på Oslo Børs». Ellers blant tungvekterne var det flere oljeaksjer som dro Oslo Børs i positiv retning, etter et nytt byks for olje og gassprisene.",
+      "keyPoints": [
+        "ABG Sundal Collier-analytiker Ole Hvalbye uttalte sist uke til E24, i forbindelse med en nedgradering av aksjen til «hold», at Aker nå er «der du får aller mest AI-eksponering på Oslo Børs».",
+        "Aker falt 4,96 prosent som en av de mest omsatte aksjene.",
+        "Ellers blant tungvekterne var det flere oljeaksjer som dro Oslo Børs i positiv retning, etter et nytt byks for olje og gassprisene.",
+        "Kjell Inge Røkkes industrikjempe har ridd AI-bølgen med investeringen i datasenterselskapet Nscale, noe som har løftet verdiene og aksjekursen kraftig."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/k0V17Q/oslo-boers-loeftes-av-oekt-oljepris",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/89b66835-4dd0-311a-aa2c-02cfa2073843?fit=crop&h=675&upscale=true&w=1200&s=5d1ae5f6866b94e26898992ca04434f6682b905b",
+      "localImage": "assets/news/641e1d8c6efa24.jpg",
+      "score": 19
+    },
     {
       "id": "b3a0773a83bd00",
       "category": "Norge",
@@ -22,49 +85,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/gIFIzHyfqKDeVoiE6D1DSAiyQz6qFRkg0k1CH7eNP7ZQ.jpg",
       "localImage": "assets/news/b3a0773a83bd00.jpg",
-      "score": 23
-    },
-    {
-      "id": "eb3f1bc149ef72",
-      "category": "Verden",
-      "published": "14.09. 03:12",
-      "publishedISO": "2026-09-14T03:12:20+02:00",
-      "title": "Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
-      "summary": "En russisk drone traff et tog nær grensen mellom Ukraina og Polen kort tid etter at den tidligere britiske statsministeren Boris Johnson og øverste europeiske sikkerhetstjenestemenn hadde passert. Se: Hvorfor en russisk streik på tog nær grensen mellom Ukraina og Polen kan markere en eskalering. Video, 00:01:04Se: Hvorfor en russisk streik på tog nær grensen mellom Ukraina og Polen kan markere en eskalering Up Next.",
-      "keyPoints": [
-        "Video, 00:01:04Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation Up Next.",
-        "En russisk drone traff et tog nær grensen mellom Ukraina og Polen kort tid etter at den tidligere britiske statsministeren Boris Johnson og øverste europeiske sikkerhetstjenestemenn hadde passert.",
-        "Ingen personskader ble rapportert etter streiken ved Yahodyn, som traff togmotoren.",
-        "BBC's James Landale explains why the incident could signal an escalation in Russia's war against Ukraine."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ba3/live/5f17e7c0-b015-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/eb3f1bc149ef72.jpg",
-      "score": 16
-    },
-    {
-      "id": "52a34a3939e465",
-      "category": "USA",
-      "published": "14.09. 03:00",
-      "publishedISO": "2026-09-14T03:00:30+02:00",
-      "title": "US aviator shot down over Iran recalls 'free-falling' in first interview",
-      "summary": "Innslaget, som ble sendt på søndag, er første gang en av pilotene involvert i april-hendelsen over Iran har uttalt seg om prøvelsen deres. Hvordan redningen av amerikansk flyver i den avsidesliggende delen av Iran utfoldet seg. To-seters F-15E-jetflyet på 30 millioner dollar (22 millioner pund) ble tatt ned av et skulderavfyrt missil, som koster rundt 100 000 dollar, ifølge CBS, BBCs amerikanske partnernettverk. På et tidspunkt var det over 90 amerikanske tjenestemedlemmer på bakken inne i Iran, sa sentralkommandoadmiral Brad Cooper, og la merke til at det hadde vært første gang på 46 år at amerikanske styrker opererte inne i Iran.",
-      "keyPoints": [
-        "På et tidspunkt var det over 90 amerikanske tjenestemedlemmer på bakken inne i Iran, sa sentralkommandoadmiral Brad Cooper, og la merke til at det hadde vært første gang på 46 år at amerikanske styrker opererte inne i Iran.",
-        "Hvordan redningen av amerikansk flyver i den avsidesliggende delen av Iran utfoldet seg. To-seters F-15E-jetflyet på 30 millioner dollar (22 millioner pund) ble tatt ned av et skulderavfyrt missil, som koster rundt 100 000 dollar, ifølge CBS, BBCs amerikanske partnernettverk.",
-        "Innslaget, som ble sendt på søndag, er første gang en av pilotene involvert i april-hendelsen over Iran har uttalt seg om prøvelsen deres.",
-        "The other US airman who was shot down, identified as Alpha, declined to be interviewed by CBS."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cy7zvxe1jm7o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e579/live/16c18970-afe5-11f1-a540-61c3f7fc4e6c.jpg",
-      "localImage": "assets/news/52a34a3939e465.jpg",
-      "score": 12
+      "score": 21
     },
     {
       "id": "a51feb4f0c3d8e",
@@ -85,7 +106,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e9710696-4844-36dc-b7f8-ac36c473858c?fit=crop&h=675&upscale=true&w=1200&s=009d38d215c01bfef2422a839f0b14a743355b54",
       "localImage": "assets/news/a51feb4f0c3d8e.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "770be95560dd4e",
+      "category": "Økonomi",
+      "published": "14.09. 16:15",
+      "publishedISO": "2026-09-14T16:15:04+02:00",
+      "title": "Verdens viktigste rente passerer fem prosent",
+      "summary": "Renten på amerikanske statsobligasjoner med ti års løpetid passerer 5 prosent mandag ettermiddag, det høyeste nivået siden 23. oktober 2023. Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA. Når avkastningen på trygge statsobligasjoner ligger på fem prosent, kan det bli mer attraktivt å plassere penger der fremfor i aksjer.",
+      "keyPoints": [
+        "Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA.",
+        "Renten på amerikanske statsobligasjoner med ti års løpetid passerer 5 prosent mandag ettermiddag, det høyeste nivået siden 23. oktober 2023.",
+        "Når avkastningen på trygge statsobligasjoner ligger på fem prosent, kan det bli mer attraktivt å plassere penger der fremfor i aksjer.",
+        "Omtrent klokken 16.15 norsk tid var renten oppe i 5,0018 prosent, ifølge dataleverandøren Infront."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/7pGdm4/verdens-viktigste-rente-passerer-fem-prosent",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/56dff98f-a99c-3471-b02a-384b975ac990?fit=crop&h=675&upscale=true&w=1200&s=eb87bd6732c00ca40e7c0c66cfd28878d7b9d35b",
+      "localImage": "assets/news/770be95560dd4e.jpg",
+      "score": 17
+    },
+    {
+      "id": "83627e0b37faf6",
+      "category": "Økonomi",
+      "published": "14.09. 13:39",
+      "publishedISO": "2026-09-14T13:39:05+02:00",
+      "title": "Fredriksen-boken «Storeulv» utsolgt: – Svært tydelig Westerlin-effekt",
+      "summary": "Gyldendal forlag, som eier Ark Bokhandel, trykker nå et nytt opplag av boken, som er forventet å komme torsdag 17. september. «Storeulv» er en uautorisert biografi om «Fredriksens turbulente liv» skrevet av Odd Harald Hauge og Gunnar Stavrum. Forlagssjef for salg, marked og kommunikasjon i Gyldendal Litteratur, Pål Stokka, ser en klar sammenheng med Westerlins fremstøt i sosiale medier. – Her snakker vi nok en svært tydelig Westerlin-effekt, ja. Norli har sett et solid oppsving i salget fra siste del av august. – Westerlin-koeffisienten ligger godt over 7 hittil i september, målt mot hele juni eller juli, skriver Norlis markeds- og informasjonsdirektør Caroline Heitmann. – Etterspørselen har vært såpass høy at boka er utsolgt i markedet, og forlaget trykker nytt opplag.",
+      "keyPoints": [
+        "Forlagssjef for salg, marked og kommunikasjon i Gyldendal Litteratur, Pål Stokka, ser en klar sammenheng med Westerlins fremstøt i sosiale medier. – Her snakker vi nok en svært tydelig Westerlin-effekt, ja.",
+        "Gyldendal forlag, som eier Ark Bokhandel, trykker nå et nytt opplag av boken, som er forventet å komme torsdag 17. september. «Storeulv» er en uautorisert biografi om «Fredriksens turbulente liv» skrevet av Odd Harald Hauge og Gunnar Stavrum.",
+        "Norli har sett et solid oppsving i salget fra siste del av august. – Westerlin-koeffisienten ligger godt over 7 hittil i september, målt mot hele juni eller juli, skriver Norlis markeds- og informasjonsdirektør Caroline Heitmann. – Etterspørselen har vært såpass høy at boka er utsolgt i markedet, og forlaget trykker nytt opplag.",
+        "Nå er boken utsolgt hos bokhandlene Ark og Norli, og det er 43 på venteliste for å låne boken hos Deicman-bibliotekene."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/QJzXmW/fredriksen-boken-storeulv-utsolgt-svaert-tydelig-westerlin-effekt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7e6a959e-35f8-30be-9ea0-f57d5286199f?fit=crop&h=675&upscale=true&w=1200&s=c477ecc85e2c06ddcb1865c899a1fbd286bd8c30",
+      "localImage": "assets/news/83627e0b37faf6.jpg",
+      "score": 17
+    },
+    {
+      "id": "c0b3bb0345d9cd",
+      "category": "Norge",
+      "published": "13.09. 21:41",
+      "publishedISO": "2026-09-13T21:41:12+02:00",
+      "title": "Russisk angrep mot tog nær grensen til Polen – svensk eksminister var minutter unna",
+      "summary": "EU og Nato kommer med kraftige reaksjoner etter at en russisk drone traff lokomotivet på et passasjertog rett ved Ukrainas grense til Polen. Russisk droneangrep på et ukrainsk tog ved grensa til Polen. Sveriges tidligere stats- og utenriksminister Carl Bildt sier han befant seg på et tog som krysset grensen bare minutter før toget som ble angrepet. – Det ble evakuert idet den russiske dronen nærmet seg, og ingen ble skadet.",
+      "keyPoints": [
+        "Sveriges tidligere stats- og utenriksminister Carl Bildt sier han befant seg på et tog som krysset grensen bare minutter før toget som ble angrepet. – Det ble evakuert idet den russiske dronen nærmet seg, og ingen ble skadet.",
+        "Russisk droneangrep på et ukrainsk tog ved grensa til Polen.",
+        "EU og Nato kommer med kraftige reaksjoner etter at en russisk drone traff lokomotivet på et passasjertog rett ved Ukrainas grense til Polen.",
+        "En annen russisk drone traff søndag en drivstoffstasjon bare 2 kilometer fra den polsk-ukrainske grensen, opplyser en talsperson for det polske innenriksdepartementet til nyhetsbyrået AFP. – Det ubemannede flyet traff en drivstoffstasjon i byen Jahodyn, 2 kilometer fra den polske grensen, sier talskvinne Karolina Gałecka."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/russisk-angrep-mot-tog-naer-grensen-til-polen-_-svensk-eksminister-var-minutter-unna-1.18023641",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/fHpGAsvvlz6xxYMk-u5izQ3YYTeoeqwVE8Vrh2j62ifQ.jpg",
+      "localImage": "assets/news/c0b3bb0345d9cd.jpg",
+      "score": 17
     },
     {
       "id": "74e35c6cc9336b",
@@ -106,112 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/0ba4e412-0cf3-38ff-8204-b7d16b73883c?fit=crop&h=675&upscale=true&w=1200&s=cc162d5f35e4c9c316e60bc367baa7878dbe5628",
       "localImage": "assets/news/74e35c6cc9336b.jpg",
-      "score": 18
-    },
-    {
-      "id": "3cb02daeea1342",
-      "category": "Økonomi",
-      "published": "14.09. 08:19",
-      "publishedISO": "2026-09-14T08:19:44+02:00",
-      "title": "Færre nye boliger",
-      "summary": "Det ble gitt 1.387 igangsettingstillatelser til nye boliger i august, en nedgang på 7,8 prosent fra måneden før. Kommunal- og distrikstsminister Bjørnar Skjæran (Ap) og regjeringen har et mye omtalt mål om 130.000 nye boliger innen 2030, fra 2025. I 2025 ble det gitt 21.804 igangsettingstillateler for nye boliger og ombygginger.",
-      "keyPoints": [
-        "Det ble gitt 1.387 igangsettingstillatelser til nye boliger i august, en nedgang på 7,8 prosent fra måneden før.",
-        "Kommunal- og distrikstsminister Bjørnar Skjæran (Ap) og regjeringen har et mye omtalt mål om 130.000 nye boliger innen 2030, fra 2025.",
-        "I 2025 ble det gitt 21.804 igangsettingstillateler for nye boliger og ombygginger.",
-        "Det innbar i utgangspunktet en byggetakt på 26.000 nye boliger i året."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/oE2PgB/faerre-nye-boliger",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/25c5ce1e-a3db-3bda-aefd-afe1681d2bea?fit=crop&h=675&upscale=true&w=1200&s=6c910535aaeb2be840ea76a5beb63b2b28e211fc",
-      "localImage": "assets/news/3cb02daeea1342.jpg",
       "score": 17
     },
     {
-      "id": "e09d74431e7743",
+      "id": "16c5ecdb1413ed",
       "category": "Økonomi",
-      "published": "14.09. 09:00",
-      "publishedISO": "2026-09-14T09:00:39+02:00",
-      "title": "Shippingaksje fyker opp etter analyse",
-      "summary": "Hovedindeksen på Oslo Børs er opp 0,03 prosent i 10.50-tiden. Den har dermed falt tilbake etter å ha åpnet opp rundt 0,5 prosent høyere. Litt etter børsåpning i Oslo er nederlandske TTF opp over 5 prosent til 83,7 euro per megawattime.",
+      "published": "14.09. 16:10",
+      "publishedISO": "2026-09-14T16:10:06+02:00",
+      "title": "Saudisk oljerør stengt: – Øker Iran-konfliktens strupetak",
+      "summary": "Saudi-Arabia har stengt øst-vest-rørledningen, som sender olje fra østkysten til Yanbu ved Rødehavet i vest. Det over 1.000 kilometer lange oljerøret mellom Abqaiq og Yanbu i Saudi-Arabia skal ha blitt stengt ned etter droneangrep. Så dette øker Iran-konfliktens strupetak på global oljeeksport, sier han.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er opp 0,03 prosent i 10.50-tiden.",
-        "Den har dermed falt tilbake etter å ha åpnet opp rundt 0,5 prosent høyere.",
-        "Litt etter børsåpning i Oslo er nederlandske TTF opp over 5 prosent til 83,7 euro per megawattime.",
-        "Slik ser det ut for noen av de mest omsatte aksjene: Siden Oslo Børs stengte fredag ettermiddag har prisen på nordsjøolje (brent spot) steget rundt 2 prosent, en utvikling som har blitt drevet av at Saudi-Arabia fredag stengte en viktig oljerørledning."
+        "Så dette øker Iran-konfliktens strupetak på global oljeeksport, sier han.",
+        "Det over 1.000 kilometer lange oljerøret mellom Abqaiq og Yanbu i Saudi-Arabia skal ha blitt stengt ned etter droneangrep.",
+        "Saudi-Arabia har stengt øst-vest-rørledningen, som sender olje fra østkysten til Yanbu ved Rødehavet i vest.",
+        "Hvis Saudi-Arabias oljerør til Yanbu ikke åpnes igjen, rammes om lag fire prosent av verdens oljetilbud."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/k0V17Q/oslo-boers-loeftes-av-oekt-oljepris",
+      "url": "https://e24.no/energi-og-klima/i/V6vXdV/saudisk-oljeroer-stengt-oeker-iran-konfliktens-strupetak",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/89b66835-4dd0-311a-aa2c-02cfa2073843?fit=crop&h=675&upscale=true&w=1200&s=5d1ae5f6866b94e26898992ca04434f6682b905b",
-      "localImage": "assets/news/e09d74431e7743.jpg",
+      "image": "https://akamai.vgc.no/v2/images/8f791bfd-4b23-3c8e-949e-5086c360f008?fit=crop&h=675&upscale=true&w=1200&s=9eb34a71bb9da0ac67a1db45bfe16574b5e67601",
+      "localImage": "assets/news/16c5ecdb1413ed.jpg",
       "score": 16
-    },
-    {
-      "id": "98815b1e918fb4",
-      "category": "Økonomi",
-      "published": "14.09. 06:57",
-      "publishedISO": "2026-09-14T06:57:56+02:00",
-      "title": "Oljeprishopp etter angrep mot Saudi-Arabia",
-      "summary": "Oljeprisen (brent spot) har steget fra rundt 104,5 dollar fatet til 107,6 dollar siden fredag, en økning på over 3 prosent, etter et droneangrep mot en oljerørledning i Saudi-Arabia. Saudi-Arabia opplyste fredag kveld at de hadde stengt den såkalte øst-vest-rørledningen etter et angrep dagen før. Oljeprisen har steget voldsomt hittil i år etter at USA og Israel i slutten av februar angrep Iran og store deler av verdens oljeforsyning ble satt på spill.",
-      "keyPoints": [
-        "Saudi-Arabia opplyste fredag kveld at de hadde stengt den såkalte øst-vest-rørledningen etter et angrep dagen før.",
-        "Oljeprisen (brent spot) har steget fra rundt 104,5 dollar fatet til 107,6 dollar siden fredag, en økning på over 3 prosent, etter et droneangrep mot en oljerørledning i Saudi-Arabia.",
-        "Oljeprisen har steget voldsomt hittil i år etter at USA og Israel i slutten av februar angrep Iran og store deler av verdens oljeforsyning ble satt på spill.",
-        "Oljeprisen kan komme opp på 120 dollar fatet, ifølge analytiker."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/pB2mkw/oljeprishopp-etter-angrep-mot-saudi-arabia",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/79396c07-4b82-308d-9944-ce7cae9f3bf6?fit=crop&h=675&upscale=true&w=1200&s=9bcf6b0e39c8a19924da615091f14a9d8e9824f2",
-      "localImage": "assets/news/98815b1e918fb4.jpg",
-      "score": 15
-    },
-    {
-      "id": "923ce3af122c22",
-      "category": "Norge",
-      "published": "13.09. 21:41",
-      "publishedISO": "2026-09-13T21:41:12+02:00",
-      "title": "Russisk angrep mot tog nær grensen til Polen – svensk eksminister var minutter unna",
-      "summary": "Russisk droneangrep på et ukrainsk tog ved grensa til Polen. Sveriges tidligere stats- og utenriksminister Carl Bildt sier han befant seg på et tog som krysset grensen bare minutter før toget som ble angrepet. – Det ble evakuert idet den russiske dronen nærmet seg, og ingen ble skadet. En annen russisk drone traff søndag en drivstoffstasjon bare 2 kilometer fra den polsk-ukrainske grensen, opplyser en talsperson for det polske innenriksdepartementet til nyhetsbyrået AFP. – Det ubemannede flyet traff en drivstoffstasjon i byen Jahodyn, 2 kilometer fra den polske grensen, sier talskvinne Karolina Gałecka.",
-      "keyPoints": [
-        "Sveriges tidligere stats- og utenriksminister Carl Bildt sier han befant seg på et tog som krysset grensen bare minutter før toget som ble angrepet. – Det ble evakuert idet den russiske dronen nærmet seg, og ingen ble skadet.",
-        "Russisk droneangrep på et ukrainsk tog ved grensa til Polen.",
-        "En annen russisk drone traff søndag en drivstoffstasjon bare 2 kilometer fra den polsk-ukrainske grensen, opplyser en talsperson for det polske innenriksdepartementet til nyhetsbyrået AFP. – Det ubemannede flyet traff en drivstoffstasjon i byen Jahodyn, 2 kilometer fra den polske grensen, sier talskvinne Karolina Gałecka.",
-        "Videoen er hentet fra Kyiv Independent og angrepet skjedde da toget var på stasjonen i Jahodyn i Ukraina, like ved grensen til Polen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/russisk-angrep-mot-tog-naer-grensen-til-polen-_-svensk-eksminister-var-minutter-unna-1.18023641",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/fHpGAsvvlz6xxYMk-u5izQ3YYTeoeqwVE8Vrh2j62ifQ.jpg",
-      "localImage": "assets/news/923ce3af122c22.jpg",
-      "score": 15
-    },
-    {
-      "id": "fa680b044cf194",
-      "category": "Økonomi",
-      "published": "13.09. 20:45",
-      "publishedISO": "2026-09-13T20:45:20+02:00",
-      "title": "Venter rentethriller i USA",
-      "summary": "En spørreundersøkelse blant over 100 økonomer fra samme nyhetsbyrå, viser at ekspertenes anslag er delt på midten, med rundt halvparten som venter økt rente. Rentebeslutningen kommer også kun syv uker før mellomvalget i USA. – Dette blir kjempespennende, sier sjeføkonom Harald Magnus Andreassen i SB1 Markets til E24. Sjeføkonom Kjersti Haugland i DNB Carnegie har vært «veldig i tvil» om hvorvidt det kommer en renteheving fra USA ved september-møtet.",
-      "keyPoints": [
-        "En spørreundersøkelse blant over 100 økonomer fra samme nyhetsbyrå, viser at ekspertenes anslag er delt på midten, med rundt halvparten som venter økt rente.",
-        "Rentebeslutningen kommer også kun syv uker før mellomvalget i USA. – Dette blir kjempespennende, sier sjeføkonom Harald Magnus Andreassen i SB1 Markets til E24.",
-        "Sjeføkonom Kjersti Haugland i DNB Carnegie har vært «veldig i tvil» om hvorvidt det kommer en renteheving fra USA ved september-møtet.",
-        "Det brygger opp til et nervepirrende rentemøte i USA til uken."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/XMQRex/venter-rentethriller-i-usa",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1a9930b6-8beb-30ee-bd37-bf9575c4cb34?fit=crop&h=675&upscale=true&w=1200&s=bdf9f8c98bae1981792d04f7bd722c9e54045e3b",
-      "localImage": "assets/news/fa680b044cf194.jpg",
-      "score": 14
     }
   ]
 }
