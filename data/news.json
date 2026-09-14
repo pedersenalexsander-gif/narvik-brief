@@ -1,6 +1,6 @@
 {
-  "updatedAt": "14.09.2026 kl. 07:01",
-  "updatedISO": "2026-09-14T07:01:39.672271+02:00",
+  "updatedAt": "14.09.2026 kl. 12:40",
+  "updatedISO": "2026-09-14T12:40:31.582618+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/gIFIzHyfqKDeVoiE6D1DSAiyQz6qFRkg0k1CH7eNP7ZQ.jpg",
       "localImage": "assets/news/b3a0773a83bd00.jpg",
-      "score": 24
+      "score": 23
+    },
+    {
+      "id": "eb3f1bc149ef72",
+      "category": "Verden",
+      "published": "14.09. 03:12",
+      "publishedISO": "2026-09-14T03:12:20+02:00",
+      "title": "Why a Russian strike on train near Ukraine-Poland border could mark an escalation",
+      "summary": "En russisk drone traff et tog nær grensen mellom Ukraina og Polen kort tid etter at den tidligere britiske statsministeren Boris Johnson og øverste europeiske sikkerhetstjenestemenn hadde passert. Se: Hvorfor en russisk streik på tog nær grensen mellom Ukraina og Polen kan markere en eskalering. Video, 00:01:04Se: Hvorfor en russisk streik på tog nær grensen mellom Ukraina og Polen kan markere en eskalering Up Next.",
+      "keyPoints": [
+        "Video, 00:01:04Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation Up Next.",
+        "En russisk drone traff et tog nær grensen mellom Ukraina og Polen kort tid etter at den tidligere britiske statsministeren Boris Johnson og øverste europeiske sikkerhetstjenestemenn hadde passert.",
+        "Ingen personskader ble rapportert etter streiken ved Yahodyn, som traff togmotoren.",
+        "BBC's James Landale explains why the incident could signal an escalation in Russia's war against Ukraine."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z5gjj838o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ba3/live/5f17e7c0-b015-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/eb3f1bc149ef72.jpg",
+      "score": 16
+    },
+    {
+      "id": "52a34a3939e465",
+      "category": "USA",
+      "published": "14.09. 03:00",
+      "publishedISO": "2026-09-14T03:00:30+02:00",
+      "title": "US aviator shot down over Iran recalls 'free-falling' in first interview",
+      "summary": "Innslaget, som ble sendt på søndag, er første gang en av pilotene involvert i april-hendelsen over Iran har uttalt seg om prøvelsen deres. Hvordan redningen av amerikansk flyver i den avsidesliggende delen av Iran utfoldet seg. To-seters F-15E-jetflyet på 30 millioner dollar (22 millioner pund) ble tatt ned av et skulderavfyrt missil, som koster rundt 100 000 dollar, ifølge CBS, BBCs amerikanske partnernettverk. På et tidspunkt var det over 90 amerikanske tjenestemedlemmer på bakken inne i Iran, sa sentralkommandoadmiral Brad Cooper, og la merke til at det hadde vært første gang på 46 år at amerikanske styrker opererte inne i Iran.",
+      "keyPoints": [
+        "På et tidspunkt var det over 90 amerikanske tjenestemedlemmer på bakken inne i Iran, sa sentralkommandoadmiral Brad Cooper, og la merke til at det hadde vært første gang på 46 år at amerikanske styrker opererte inne i Iran.",
+        "Hvordan redningen av amerikansk flyver i den avsidesliggende delen av Iran utfoldet seg. To-seters F-15E-jetflyet på 30 millioner dollar (22 millioner pund) ble tatt ned av et skulderavfyrt missil, som koster rundt 100 000 dollar, ifølge CBS, BBCs amerikanske partnernettverk.",
+        "Innslaget, som ble sendt på søndag, er første gang en av pilotene involvert i april-hendelsen over Iran har uttalt seg om prøvelsen deres.",
+        "The other US airman who was shot down, identified as Alpha, declined to be interviewed by CBS."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cy7zvxe1jm7o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e579/live/16c18970-afe5-11f1-a540-61c3f7fc4e6c.jpg",
+      "localImage": "assets/news/52a34a3939e465.jpg",
+      "score": 12
+    },
+    {
+      "id": "a51feb4f0c3d8e",
+      "category": "Økonomi",
+      "published": "14.09. 10:24",
+      "publishedISO": "2026-09-14T10:24:25+02:00",
+      "title": "Globalt AI-fall etter advarsler",
+      "summary": "Aksjer knyttet til utviklingen av kunstig intelligens faller både i førhandelen i USA, tidlig handel i Europa og i de asiatiske aksjemarkedene. – Så lenge oljeprisen stiger, kommer det til å trekke inflasjonsbekymringer og renten opp, og gi negativt sentiment i markedet, sier Joachim Bernhardsen, sjefstrateg i Nordea Wealth Management, til E24. Forrige uke steg oljeprisen over 8 prosent, og vippet 100 dollar fatet for første gang på nesten fire måneder. I førhandelen i USA faller teknologiindeksen Nasdaq mer enn den brede S&P 500-indeksen. – Det viser at det vi ser nå er ganske tek-relatert, og det er nok en reell bekymring som kommer til å prege markedene i dag, sier Bernhardsen.",
+      "keyPoints": [
+        "Aksjer knyttet til utviklingen av kunstig intelligens faller både i førhandelen i USA, tidlig handel i Europa og i de asiatiske aksjemarkedene. – Så lenge oljeprisen stiger, kommer det til å trekke inflasjonsbekymringer og renten opp, og gi negativt sentiment i markedet, sier Joachim Bernhardsen, sjefstrateg i Nordea Wealth Management, til E24.",
+        "I førhandelen i USA faller teknologiindeksen Nasdaq mer enn den brede S&P 500-indeksen. – Det viser at det vi ser nå er ganske tek-relatert, og det er nok en reell bekymring som kommer til å prege markedene i dag, sier Bernhardsen.",
+        "Forrige uke steg oljeprisen over 8 prosent, og vippet 100 dollar fatet for første gang på nesten fire måneder.",
+        "Samtidig har bekymringer rundt utviklingen av kunstig intelligens gjort at flere AI-topper i helgen uttrykte behov for å bremse utviklingen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/WvMX6G/globalt-ai-fall-etter-advarsler",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e9710696-4844-36dc-b7f8-ac36c473858c?fit=crop&h=675&upscale=true&w=1200&s=009d38d215c01bfef2422a839f0b14a743355b54",
+      "localImage": "assets/news/a51feb4f0c3d8e.jpg",
+      "score": 19
     },
     {
       "id": "74e35c6cc9336b",
@@ -43,7 +106,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/0ba4e412-0cf3-38ff-8204-b7d16b73883c?fit=crop&h=675&upscale=true&w=1200&s=cc162d5f35e4c9c316e60bc367baa7878dbe5628",
       "localImage": "assets/news/74e35c6cc9336b.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "3cb02daeea1342",
+      "category": "Økonomi",
+      "published": "14.09. 08:19",
+      "publishedISO": "2026-09-14T08:19:44+02:00",
+      "title": "Færre nye boliger",
+      "summary": "Det ble gitt 1.387 igangsettingstillatelser til nye boliger i august, en nedgang på 7,8 prosent fra måneden før. Kommunal- og distrikstsminister Bjørnar Skjæran (Ap) og regjeringen har et mye omtalt mål om 130.000 nye boliger innen 2030, fra 2025. I 2025 ble det gitt 21.804 igangsettingstillateler for nye boliger og ombygginger.",
+      "keyPoints": [
+        "Det ble gitt 1.387 igangsettingstillatelser til nye boliger i august, en nedgang på 7,8 prosent fra måneden før.",
+        "Kommunal- og distrikstsminister Bjørnar Skjæran (Ap) og regjeringen har et mye omtalt mål om 130.000 nye boliger innen 2030, fra 2025.",
+        "I 2025 ble det gitt 21.804 igangsettingstillateler for nye boliger og ombygginger.",
+        "Det innbar i utgangspunktet en byggetakt på 26.000 nye boliger i året."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/oE2PgB/faerre-nye-boliger",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/25c5ce1e-a3db-3bda-aefd-afe1681d2bea?fit=crop&h=675&upscale=true&w=1200&s=6c910535aaeb2be840ea76a5beb63b2b28e211fc",
+      "localImage": "assets/news/3cb02daeea1342.jpg",
+      "score": 17
+    },
+    {
+      "id": "e09d74431e7743",
+      "category": "Økonomi",
+      "published": "14.09. 09:00",
+      "publishedISO": "2026-09-14T09:00:39+02:00",
+      "title": "Shippingaksje fyker opp etter analyse",
+      "summary": "Hovedindeksen på Oslo Børs er opp 0,03 prosent i 10.50-tiden. Den har dermed falt tilbake etter å ha åpnet opp rundt 0,5 prosent høyere. Litt etter børsåpning i Oslo er nederlandske TTF opp over 5 prosent til 83,7 euro per megawattime.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er opp 0,03 prosent i 10.50-tiden.",
+        "Den har dermed falt tilbake etter å ha åpnet opp rundt 0,5 prosent høyere.",
+        "Litt etter børsåpning i Oslo er nederlandske TTF opp over 5 prosent til 83,7 euro per megawattime.",
+        "Slik ser det ut for noen av de mest omsatte aksjene: Siden Oslo Børs stengte fredag ettermiddag har prisen på nordsjøolje (brent spot) steget rundt 2 prosent, en utvikling som har blitt drevet av at Saudi-Arabia fredag stengte en viktig oljerørledning."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/k0V17Q/oslo-boers-loeftes-av-oekt-oljepris",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/89b66835-4dd0-311a-aa2c-02cfa2073843?fit=crop&h=675&upscale=true&w=1200&s=5d1ae5f6866b94e26898992ca04434f6682b905b",
+      "localImage": "assets/news/e09d74431e7743.jpg",
+      "score": 16
     },
     {
       "id": "98815b1e918fb4",
@@ -51,12 +156,12 @@
       "published": "14.09. 06:57",
       "publishedISO": "2026-09-14T06:57:56+02:00",
       "title": "Oljeprishopp etter angrep mot Saudi-Arabia",
-      "summary": "Nedstengningen av en viktig oljerørledning i Saudi-Arabia sender oljeprisen oppover. Oljeprisen har hoppet fra rundt 104,5 dollar fatet til 107,6 dollar siden fredag, en økning på over 3 prosent, etter et droneangrep mot en oljerørledning i Saudi-Arabia. Øst-vest-rørledningen er svært viktig for å få fraktet olje ut av Saudi-Arabia og unngå Hormuzstredet.",
+      "summary": "Oljeprisen (brent spot) har steget fra rundt 104,5 dollar fatet til 107,6 dollar siden fredag, en økning på over 3 prosent, etter et droneangrep mot en oljerørledning i Saudi-Arabia. Saudi-Arabia opplyste fredag kveld at de hadde stengt den såkalte øst-vest-rørledningen etter et angrep dagen før. Oljeprisen har steget voldsomt hittil i år etter at USA og Israel i slutten av februar angrep Iran og store deler av verdens oljeforsyning ble satt på spill.",
       "keyPoints": [
-        "Oljeprisen har hoppet fra rundt 104,5 dollar fatet til 107,6 dollar siden fredag, en økning på over 3 prosent, etter et droneangrep mot en oljerørledning i Saudi-Arabia.",
-        "Nedstengningen av en viktig oljerørledning i Saudi-Arabia sender oljeprisen oppover.",
-        "Øst-vest-rørledningen er svært viktig for å få fraktet olje ut av Saudi-Arabia og unngå Hormuzstredet.",
-        "Saudi-Arabia-opplyste fredag kveld at de hadde stengt den såkalte øst-vest-rørledningen etter et angrep dagen før."
+        "Saudi-Arabia opplyste fredag kveld at de hadde stengt den såkalte øst-vest-rørledningen etter et angrep dagen før.",
+        "Oljeprisen (brent spot) har steget fra rundt 104,5 dollar fatet til 107,6 dollar siden fredag, en økning på over 3 prosent, etter et droneangrep mot en oljerørledning i Saudi-Arabia.",
+        "Oljeprisen har steget voldsomt hittil i år etter at USA og Israel i slutten av februar angrep Iran og store deler av verdens oljeforsyning ble satt på spill.",
+        "Oljeprisen kan komme opp på 120 dollar fatet, ifølge analytiker."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -64,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/79396c07-4b82-308d-9944-ce7cae9f3bf6?fit=crop&h=675&upscale=true&w=1200&s=9bcf6b0e39c8a19924da615091f14a9d8e9824f2",
       "localImage": "assets/news/98815b1e918fb4.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "923ce3af122c22",
@@ -81,11 +186,11 @@
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/russisk-angrep-mot-tog-naer-grensen-til-polen-_-svensk-eksminister-var-minutter-unna-1.18023641",
+      "url": "https://www.nrk.no/urix/russisk-angrep-mot-tog-naer-grensen-til-polen-_-svensk-eksminister-var-minutter-unna-1.18023641",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/fHpGAsvvlz6xxYMk-u5izQ3YYTeoeqwVE8Vrh2j62ifQ.jpg",
       "localImage": "assets/news/923ce3af122c22.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "fa680b044cf194",
@@ -106,112 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1a9930b6-8beb-30ee-bd37-bf9575c4cb34?fit=crop&h=675&upscale=true&w=1200&s=bdf9f8c98bae1981792d04f7bd722c9e54045e3b",
       "localImage": "assets/news/fa680b044cf194.jpg",
-      "score": 15
-    },
-    {
-      "id": "c5c7924def764c",
-      "category": "Økonomi",
-      "published": "13.09. 20:36",
-      "publishedISO": "2026-09-13T20:36:48+02:00",
-      "title": "Trump fjerner toll på irsk whiskey",
-      "summary": "Til jubel fra publikum sa Trump at han vil fjerne toll på irsk whiskey. – Alle har mast på meg og sagt: «Kan du gjøre meg en tjeneste? Kunne du tenke deg å fjerne tollen på irsk whiskey?», sa Trump, viser en video fra den irske avisen Rte. – På vegne av USA vil jeg ta bort tollene, sa Trump videre. Det inkluderte whiskey fra Nord-Irland, men ikke fra Irland. – Til ære for kongen og dronningen av Storbritannia, som akkurat har forlatt Det hvite hus, vil jeg fjerne tollene og restriksjonene på whisky, skrev Trump på Truth Social.",
-      "keyPoints": [
-        "Til jubel fra publikum sa Trump at han vil fjerne toll på irsk whiskey. – Alle har mast på meg og sagt: «Kan du gjøre meg en tjeneste?",
-        "Kunne du tenke deg å fjerne tollen på irsk whiskey?», sa Trump, viser en video fra den irske avisen Rte. – På vegne av USA vil jeg ta bort tollene, sa Trump videre.",
-        "Det inkluderte whiskey fra Nord-Irland, men ikke fra Irland. – Til ære for kongen og dronningen av Storbritannia, som akkurat har forlatt Det hvite hus, vil jeg fjerne tollene og restriksjonene på whisky, skrev Trump på Truth Social.",
-        "Etter besøket varslet Trump at han ville fjerne toll på britisk whisky."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/8pMW4W/trump-fjerner-toll-paa-irsk-whiskey",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/313b86d4-a8c7-31cb-94ce-87d39f7dc41a?fit=crop&h=675&upscale=true&w=1200&s=4aa1c856dc0687852b062a3d567936fcf6bcf96a",
-      "localImage": "assets/news/c5c7924def764c.jpg",
-      "score": 15
-    },
-    {
-      "id": "ffb87ac028bff8",
-      "category": "Økonomi",
-      "published": "13.09. 18:14",
-      "publishedISO": "2026-09-13T18:14:06+02:00",
-      "title": "Panamakanalen strammer inn: – En inflasjonsdriver",
-      "summary": "Direktoratet anslår nå med 75 prosents sannsynlighet at El NiñoEt værfenomen som oppstår når overflatevannet i deler av Stillehavet blir unormalt varmt. Gir som regel høyere globale temperaturer. i oktober-desember blir sterkere enn alle tidligere hendelser tilbake til 1950. Det er en 40-50 prosent lengre reise. – Den ekstra seilingsdistansen gjør at det blir færre tilgjengelige skip for lasting, fordi mer av kapasiteten brukes på dager til sjøs, sier Sørensen til E24.",
-      "keyPoints": [
-        "Direktoratet anslår nå med 75 prosents sannsynlighet at El NiñoEt værfenomen som oppstår når overflatevannet i deler av Stillehavet blir unormalt varmt.",
-        "Gir som regel høyere globale temperaturer. i oktober-desember blir sterkere enn alle tidligere hendelser tilbake til 1950.",
-        "Det er en 40-50 prosent lengre reise. – Den ekstra seilingsdistansen gjør at det blir færre tilgjengelige skip for lasting, fordi mer av kapasiteten brukes på dager til sjøs, sier Sørensen til E24.",
-        "Det er ikke tvil om at det er en inflasjonsdriver, sier Sørensen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/pBOWno/panamakanalen-strammer-inn-en-inflasjonsdriver",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/01b1e2a4-a331-3514-bf46-6468557a533a?fit=crop&h=675&upscale=true&w=1200&s=7835c7f5dce4381656fad3c0da44d1169d575ac6",
-      "localImage": "assets/news/ffb87ac028bff8.jpg",
-      "score": 15
-    },
-    {
-      "id": "56bc5c13326d85",
-      "category": "Økonomi",
-      "published": "13.09. 16:25",
-      "publishedISO": "2026-09-13T16:25:50+02:00",
-      "title": "Frykter Ap vil åpne Nordland 6: – Holder døren på gløtt",
-      "summary": "Oljebransjen vil ha oljeleting i deler av det omstridte området Nordland 6, men SV mener det strider med Aps program. Det burde vært den enkleste sak i verden for ham å si nei, sier Haltbrekken til E24. – Jeg frykter at han vil tekkes oljeindustrien, og at han vil foreslå en åpning av deler av Nordland 6 når petroleumsmeldingen kommer. Han opplyste at han forholdt seg til Aps program, men sa ikke direkte nei til å åpne Nordland 6. – Nå får vi syretesten på hva Aps partiprogram er verdt.",
-      "keyPoints": [
-        "Det burde vært den enkleste sak i verden for ham å si nei, sier Haltbrekken til E24. – Jeg frykter at han vil tekkes oljeindustrien, og at han vil foreslå en åpning av deler av Nordland 6 når petroleumsmeldingen kommer.",
-        "Han opplyste at han forholdt seg til Aps program, men sa ikke direkte nei til å åpne Nordland 6. – Nå får vi syretesten på hva Aps partiprogram er verdt.",
-        "Oljebransjen vil ha oljeleting i deler av det omstridte området Nordland 6, men SV mener det strider med Aps program.",
-        "Under oljemessen ONS i Stavanger foreslo bransjesammenslutningen Konkraft å gjøre de vestlige delene av området Nordland 6 i havet vest for Røst tilgjengelige for oljeleting igjen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/Wve4oG/frykter-ap-vil-aapne-nordland-6-statsraaden-holder-doera-paa-gloett",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/095f0ce9-ce49-3fe0-b32f-1c9f82b90d00?fit=crop&h=675&upscale=true&w=1200&s=cd44e31720e51d89383029f21604517c442feacb",
-      "localImage": "assets/news/56bc5c13326d85.jpg",
       "score": 14
-    },
-    {
-      "id": "f764042e2ac8a2",
-      "category": "Økonomi",
-      "published": "13.09. 12:29",
-      "publishedISO": "2026-09-13T12:29:37+02:00",
-      "title": "Taxisjåfør anmeldt etter krav på 22.000 kroner",
-      "summary": "Etter en taxitur fra Gardermoen til Oslo fikk en utenlandsk kvinne belastet kortet med 22.000 kroner, skriver Dagens Næringsliv. Saken ble imidlertid henlagt 19. august på grunn av manglende saksbehandlingskapasitet. Kommunikasjonsrådgiver Carita Storm Røsaasen i Avinor kjente ikke til saken da DN først tok kontakt, men bekreftet hendelsen etter å ha undersøkt. – Først og fremst vil vi si at det som beskrives her må ha vært en svært ubehagelig opplevelse for den reisende, sier Røsaasen til DN.",
-      "keyPoints": [
-        "Etter en taxitur fra Gardermoen til Oslo fikk en utenlandsk kvinne belastet kortet med 22.000 kroner, skriver Dagens Næringsliv.",
-        "Kommunikasjonsrådgiver Carita Storm Røsaasen i Avinor kjente ikke til saken da DN først tok kontakt, men bekreftet hendelsen etter å ha undersøkt. – Først og fremst vil vi si at det som beskrives her må ha vært en svært ubehagelig opplevelse for den reisende, sier Røsaasen til DN.",
-        "Saken ble imidlertid henlagt 19. august på grunn av manglende saksbehandlingskapasitet.",
-        "I meldinger mellom kvinnen og selskapet i etterkant, skriver selskapet at sjåføren har gjort en feil og at pengene skal betales tilbake."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2pzJry/taxisjaafoer-krevde-22-000-kroner-for-tur-fra-gardermoen-til-oslo",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c4e6a913-ac77-384d-95c2-4955bc951169?fit=crop&h=675&upscale=true&w=1200&s=7f17ac26aa974076c7febbfd48cc490ed5513b70",
-      "localImage": "assets/news/f764042e2ac8a2.jpg",
-      "score": 14
-    },
-    {
-      "id": "bfcb574a7277a8",
-      "category": "Norge",
-      "published": "14.09. 05:44",
-      "publishedISO": "2026-09-14T05:44:46+02:00",
-      "title": "Leteaksjon etter fisker ved Snåsavatnet",
-      "summary": "Politiet fikk en bekymringsmelding fra pårørende klokka 1.20 i natt og har starta en leteaksjon. Mannen skal ha dratt ut fra sørenden av Snåsavatnet i en 10 fots aluminiumsbåt. Både Røde Kors, Norsk Folkehjelp, brannvesenet og Sivilforsvaret deltar. – Det er vei som går rundt hele Snåsavatnet, så vi har vært rundt hele Snåsavatnet med bil, og så er jo Røde Kors der også med folk som kan gå litt langs vannet, sier Oseid.",
-      "keyPoints": [
-        "Både Røde Kors, Norsk Folkehjelp, brannvesenet og Sivilforsvaret deltar. – Det er vei som går rundt hele Snåsavatnet, så vi har vært rundt hele Snåsavatnet med bil, og så er jo Røde Kors der også med folk som kan gå litt langs vannet, sier Oseid.",
-        "Politiet fikk en bekymringsmelding fra pårørende klokka 1.20 i natt og har starta en leteaksjon.",
-        "Mannen skal ha dratt ut fra sørenden av Snåsavatnet i en 10 fots aluminiumsbåt.",
-        "Det er i natt satt i gang en redningsaksjon ved Snåsavatnet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/leteaksjon-etter-fisker-ved-snasavatnet-1.18023745",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/4bKyrXI2AWYeItTMfM_uPARNmzTkJkSrq0JkjhCa8LPg.jpg",
-      "localImage": "assets/news/bfcb574a7277a8.jpg",
-      "score": 13
     }
   ]
 }
