@@ -1,6 +1,6 @@
 {
-  "updatedAt": "15.09.2026 kl. 01:30",
-  "updatedISO": "2026-09-15T01:30:58.802196+02:00",
+  "updatedAt": "15.09.2026 kl. 03:50",
+  "updatedISO": "2026-09-15T03:50:59.714494+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/6af102b4bd7df8.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "fc30df39b2228c",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/986dd94e-ad90-3a31-a2e3-06952e8e8d4f?fit=crop&h=675&upscale=true&w=1200&s=0f5b0fa3839a91ba71d28c2ce4a60d4af7d87818",
       "localImage": "assets/news/e90bdeef178354.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "641e1d8c6efa24",
@@ -106,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/gIFIzHyfqKDeVoiE6D1DSAiyQz6qFRkg0k1CH7eNP7ZQ.jpg",
       "localImage": "assets/news/b3a0773a83bd00.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "8050712eb69172",
@@ -127,27 +127,6 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/8050712eb69172.jpg",
-      "score": 16
-    },
-    {
-      "id": "770be95560dd4e",
-      "category": "Økonomi",
-      "published": "14.09. 16:15",
-      "publishedISO": "2026-09-14T16:15:04+02:00",
-      "title": "Verdens viktigste rente passerer fem prosent",
-      "summary": "Renten på amerikanske statsobligasjoner med ti års løpetid passerer 5 prosent mandag ettermiddag, det høyeste nivået siden 23. oktober 2023. Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA. Når avkastningen på trygge statsobligasjoner ligger på fem prosent, kan det bli mer attraktivt å plassere penger der fremfor i aksjer.",
-      "keyPoints": [
-        "Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA.",
-        "Renten på amerikanske statsobligasjoner med ti års løpetid passerer 5 prosent mandag ettermiddag, det høyeste nivået siden 23. oktober 2023.",
-        "Når avkastningen på trygge statsobligasjoner ligger på fem prosent, kan det bli mer attraktivt å plassere penger der fremfor i aksjer.",
-        "Omtrent klokken 16.15 norsk tid var renten oppe i 5,0018 prosent, ifølge dataleverandøren Infront."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7pGdm4/verdens-viktigste-rente-passerer-fem-prosent",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/56dff98f-a99c-3471-b02a-384b975ac990?fit=crop&h=675&upscale=true&w=1200&s=eb87bd6732c00ca40e7c0c66cfd28878d7b9d35b",
-      "localImage": "assets/news/770be95560dd4e.jpg",
       "score": 16
     },
     {
@@ -172,6 +151,48 @@
       "score": 16
     },
     {
+      "id": "770be95560dd4e",
+      "category": "Økonomi",
+      "published": "14.09. 16:15",
+      "publishedISO": "2026-09-14T16:15:04+02:00",
+      "title": "Verdens viktigste rente passerer fem prosent",
+      "summary": "Renten på amerikanske statsobligasjoner med ti års løpetid passerer 5 prosent mandag ettermiddag, det høyeste nivået siden 23. oktober 2023. Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA. Når avkastningen på trygge statsobligasjoner ligger på fem prosent, kan det bli mer attraktivt å plassere penger der fremfor i aksjer.",
+      "keyPoints": [
+        "Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA.",
+        "Renten på amerikanske statsobligasjoner med ti års løpetid passerer 5 prosent mandag ettermiddag, det høyeste nivået siden 23. oktober 2023.",
+        "Når avkastningen på trygge statsobligasjoner ligger på fem prosent, kan det bli mer attraktivt å plassere penger der fremfor i aksjer.",
+        "Omtrent klokken 16.15 norsk tid var renten oppe i 5,0018 prosent, ifølge dataleverandøren Infront."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/7pGdm4/verdens-viktigste-rente-passerer-fem-prosent",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/56dff98f-a99c-3471-b02a-384b975ac990?fit=crop&h=675&upscale=true&w=1200&s=eb87bd6732c00ca40e7c0c66cfd28878d7b9d35b",
+      "localImage": "assets/news/770be95560dd4e.jpg",
+      "score": 15
+    },
+    {
+      "id": "83627e0b37faf6",
+      "category": "Økonomi",
+      "published": "14.09. 13:39",
+      "publishedISO": "2026-09-14T13:39:05+02:00",
+      "title": "Fredriksen-boken «Storeulv» utsolgt: – Svært tydelig Westerlin-effekt",
+      "summary": "Gyldendal forlag, som eier Ark Bokhandel, trykker nå et nytt opplag av boken, som er forventet å komme torsdag 17. september. «Storeulv» er en uautorisert biografi om «Fredriksens turbulente liv» skrevet av Odd Harald Hauge og Gunnar Stavrum. Forlagssjef for salg, marked og kommunikasjon i Gyldendal Litteratur, Pål Stokka, ser en klar sammenheng med Westerlins fremstøt i sosiale medier. – Her snakker vi nok en svært tydelig Westerlin-effekt, ja. Norli har sett et solid oppsving i salget fra siste del av august. – Westerlin-koeffisienten ligger godt over 7 hittil i september, målt mot hele juni eller juli, skriver Norlis markeds- og informasjonsdirektør Caroline Heitmann. – Etterspørselen har vært såpass høy at boka er utsolgt i markedet, og forlaget trykker nytt opplag.",
+      "keyPoints": [
+        "Forlagssjef for salg, marked og kommunikasjon i Gyldendal Litteratur, Pål Stokka, ser en klar sammenheng med Westerlins fremstøt i sosiale medier. – Her snakker vi nok en svært tydelig Westerlin-effekt, ja.",
+        "Gyldendal forlag, som eier Ark Bokhandel, trykker nå et nytt opplag av boken, som er forventet å komme torsdag 17. september. «Storeulv» er en uautorisert biografi om «Fredriksens turbulente liv» skrevet av Odd Harald Hauge og Gunnar Stavrum.",
+        "Norli har sett et solid oppsving i salget fra siste del av august. – Westerlin-koeffisienten ligger godt over 7 hittil i september, målt mot hele juni eller juli, skriver Norlis markeds- og informasjonsdirektør Caroline Heitmann. – Etterspørselen har vært såpass høy at boka er utsolgt i markedet, og forlaget trykker nytt opplag.",
+        "Nå er boken utsolgt hos bokhandlene Ark og Norli, og det er 43 på venteliste for å låne boken hos Deicman-bibliotekene."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/QJzXmW/fredriksen-boken-storeulv-utsolgt-svaert-tydelig-westerlin-effekt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7e6a959e-35f8-30be-9ea0-f57d5286199f?fit=crop&h=675&upscale=true&w=1200&s=c477ecc85e2c06ddcb1865c899a1fbd286bd8c30",
+      "localImage": "assets/news/83627e0b37faf6.jpg",
+      "score": 15
+    },
+    {
       "id": "c0b3bb0345d9cd",
       "category": "Norge",
       "published": "13.09. 21:41",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/fHpGAsvvlz6xxYMk-u5izQ3YYTeoeqwVE8Vrh2j62ifQ.jpg",
       "localImage": "assets/news/c0b3bb0345d9cd.jpg",
-      "score": 16
-    },
-    {
-      "id": "16c5ecdb1413ed",
-      "category": "Økonomi",
-      "published": "14.09. 16:10",
-      "publishedISO": "2026-09-14T16:10:06+02:00",
-      "title": "Saudisk oljerør stengt: – Øker Iran-konfliktens strupetak",
-      "summary": "Saudi-Arabia har stengt øst-vest-rørledningen, som sender olje fra østkysten til Yanbu ved Rødehavet i vest. Det over 1.000 kilometer lange oljerøret mellom Abqaiq og Yanbu i Saudi-Arabia skal ha blitt stengt ned etter droneangrep. Så dette øker Iran-konfliktens strupetak på global oljeeksport, sier han.",
-      "keyPoints": [
-        "Så dette øker Iran-konfliktens strupetak på global oljeeksport, sier han.",
-        "Det over 1.000 kilometer lange oljerøret mellom Abqaiq og Yanbu i Saudi-Arabia skal ha blitt stengt ned etter droneangrep.",
-        "Saudi-Arabia har stengt øst-vest-rørledningen, som sender olje fra østkysten til Yanbu ved Rødehavet i vest.",
-        "Hvis Saudi-Arabias oljerør til Yanbu ikke åpnes igjen, rammes om lag fire prosent av verdens oljetilbud."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/V6vXdV/saudisk-oljeroer-stengt-oeker-iran-konfliktens-strupetak",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/8f791bfd-4b23-3c8e-949e-5086c360f008?fit=crop&h=675&upscale=true&w=1200&s=9eb34a71bb9da0ac67a1db45bfe16574b5e67601",
-      "localImage": "assets/news/16c5ecdb1413ed.jpg",
       "score": 15
     }
   ]
