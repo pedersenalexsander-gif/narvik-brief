@@ -1,6 +1,6 @@
 {
-  "updatedAt": "15.09.2026 kl. 03:50",
-  "updatedISO": "2026-09-15T03:50:59.714494+02:00",
+  "updatedAt": "15.09.2026 kl. 09:17",
+  "updatedISO": "2026-09-15T09:17:42.029603+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
       "localImage": "assets/news/6af102b4bd7df8.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "fc30df39b2228c",
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/36f6/live/29acfbb0-b02f-11f1-a8a9-13be82d23441.jpg",
       "localImage": "assets/news/fc30df39b2228c.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "e90bdeef178354",
@@ -64,27 +64,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/986dd94e-ad90-3a31-a2e3-06952e8e8d4f?fit=crop&h=675&upscale=true&w=1200&s=0f5b0fa3839a91ba71d28c2ce4a60d4af7d87818",
       "localImage": "assets/news/e90bdeef178354.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "641e1d8c6efa24",
+      "id": "33d1b640398a1c",
       "category": "Økonomi",
-      "published": "14.09. 09:00",
-      "publishedISO": "2026-09-14T09:00:39+02:00",
-      "title": "Aker falt kraftig på Oslo Børs",
-      "summary": "Aker falt 4,96 prosent som en av de mest omsatte aksjene. ABG Sundal Collier-analytiker Ole Hvalbye uttalte sist uke til E24, i forbindelse med en nedgradering av aksjen til «hold», at Aker nå er «der du får aller mest AI-eksponering på Oslo Børs». Ellers blant tungvekterne var det flere oljeaksjer som dro Oslo Børs i positiv retning, etter et nytt byks for olje og gassprisene.",
+      "published": "15.09. 08:09",
+      "publishedISO": "2026-09-15T08:09:54+02:00",
+      "title": "SSB: Økt kjøpekraft blant husholdningene",
+      "summary": "Renten ventes å være høy de neste to årene, ifølge SSB. SSB har publisert rapporten Konjunkturtendensene, om de økonomiske utsiktene i landet. – Husholdningenes kjøpekraft fortsetter å øke selv om renten forblir høy i år og neste år. Økt konsum i husholdningene og en svakt ekspansiv finanspolitikk bidrar likevel til at veksten vil ta seg opp igjen, sier Thomas von Brasch.",
       "keyPoints": [
-        "ABG Sundal Collier-analytiker Ole Hvalbye uttalte sist uke til E24, i forbindelse med en nedgradering av aksjen til «hold», at Aker nå er «der du får aller mest AI-eksponering på Oslo Børs».",
-        "Aker falt 4,96 prosent som en av de mest omsatte aksjene.",
-        "Ellers blant tungvekterne var det flere oljeaksjer som dro Oslo Børs i positiv retning, etter et nytt byks for olje og gassprisene.",
-        "Kjell Inge Røkkes industrikjempe har ridd AI-bølgen med investeringen i datasenterselskapet Nscale, noe som har løftet verdiene og aksjekursen kraftig."
+        "SSB har publisert rapporten Konjunkturtendensene, om de økonomiske utsiktene i landet. – Husholdningenes kjøpekraft fortsetter å øke selv om renten forblir høy i år og neste år.",
+        "Økt konsum i husholdningene og en svakt ekspansiv finanspolitikk bidrar likevel til at veksten vil ta seg opp igjen, sier Thomas von Brasch.",
+        "Renten ventes å være høy de neste to årene, ifølge SSB.",
+        "Gjennom 2027 og 2028 venter de videre fire rentekutt. «Styringsrenten kommer da ned til 3,5 prosent», skriver SSB."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/k0V17Q/oslo-boers-loeftes-av-oekt-oljepris",
+      "url": "https://e24.no/norsk-oekonomi/i/Bx927v/ssb-oekt-kjoepekraft-blant-husholdningene",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/89b66835-4dd0-311a-aa2c-02cfa2073843?fit=crop&h=675&upscale=true&w=1200&s=5d1ae5f6866b94e26898992ca04434f6682b905b",
-      "localImage": "assets/news/641e1d8c6efa24.jpg",
+      "image": "https://akamai.vgc.no/v2/images/4803465f-4bb3-3b1e-8ce5-ca335fa51e65?fit=crop&h=675&upscale=true&w=1200&s=5754db1d04afee143d09cd28e161acc472e6ab6a",
+      "localImage": "assets/news/33d1b640398a1c.jpg",
       "score": 17
     },
     {
@@ -106,112 +106,112 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/gIFIzHyfqKDeVoiE6D1DSAiyQz6qFRkg0k1CH7eNP7ZQ.jpg",
       "localImage": "assets/news/b3a0773a83bd00.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "8050712eb69172",
-      "category": "Norge",
-      "published": "14.09. 20:28",
-      "publishedISO": "2026-09-14T20:28:29+02:00",
-      "title": "Macklemore droppet fra Ed Sheeran-turné",
-      "summary": "Rapperen Macklemore skulle egentlig varmet opp for Ed Sheeran på en rekke av sistnevntes USA-konserter, men blir droppet fra de resterende konsertene. Flere av arenaene turnéen skulle innom, ga ifølge turnéarrangøren beskjed om at Macklemore ikke var ønsket hos dem. Ifølge Macklemore skyldes det uttalelser han kom med under en av konsertene, der han blant annet sa «fritt Palestina» og snakket om krigen i Gaza, som han lenge har vært en sterk kritiker av.",
+      "id": "6ae993d15b3562",
+      "category": "Verden",
+      "published": "15.09. 08:43",
+      "publishedISO": "2026-09-15T08:43:09+02:00",
+      "title": "China tightens travel restrictions for citizens",
+      "summary": "Kinesiske statsborgere kan nå bli utestengt fra å forlate Kina i opptil tre år på grunn av kriminelle aktiviteter som setter nasjonal sikkerhet i fare. Kina har innført en rekke omfattende nye regler som begrenser reiser inn og ut av landet i et trekk som observatører sier vil gi regjeringen enda mer kontroll over innbyggerne. Innbyggere som anses å ha \"skadet\" Kinas nasjonale sikkerhet eller interesser mens de er i utlandet, kan også utestenges fra å forlate Kina i opptil tre år. Noen i Kina, inkludert embetsmenn og ansatte ved statseide foretak, møter reiserestriksjoner Piyao, en kinesisk myndighets \"rykteavvisende\" plattform, la ut en uttalelse forrige uke der de sa at de nye reglene \"ikke begrenser vanlige borgeres reiser, men tjener snarere som et forebyggende tiltak mot høyrisikodestinasjoner og enkeltpersoner med uvanlige reisemønstre\".",
       "keyPoints": [
-        "Rapperen Macklemore skulle egentlig varmet opp for Ed Sheeran på en rekke av sistnevntes USA-konserter, men blir droppet fra de resterende konsertene.",
-        "Ifølge Macklemore skyldes det uttalelser han kom med under en av konsertene, der han blant annet sa «fritt Palestina» og snakket om krigen i Gaza, som han lenge har vært en sterk kritiker av.",
-        "Flere av arenaene turnéen skulle innom, ga ifølge turnéarrangøren beskjed om at Macklemore ikke var ønsket hos dem.",
-        "Konflikten mellom Israel og Hamas eskalerte etter angrepet fra Hamas 7. oktober 2023."
+        "Noen i Kina, inkludert embetsmenn og ansatte ved statseide foretak, møter reiserestriksjoner Piyao, en kinesisk myndighets \"rykteavvisende\" plattform, la ut en uttalelse forrige uke der de sa at de nye reglene \"ikke begrenser vanlige borgeres reiser, men tjener snarere som et forebyggende tiltak mot høyrisikodestinasjoner og enkeltpersoner med uvanlige reisemønstre\".",
+        "Kinesiske statsborgere kan nå bli utestengt fra å forlate Kina i opptil tre år på grunn av kriminelle aktiviteter som setter nasjonal sikkerhet i fare. Kina har innført en rekke omfattende nye regler som begrenser reiser inn og ut av landet i et trekk som observatører sier vil gi regjeringen enda mer kontroll over innbyggerne.",
+        "Innbyggere som anses å ha \"skadet\" Kinas nasjonale sikkerhet eller interesser mens de er i utlandet, kan også utestenges fra å forlate Kina i opptil tre år.",
+        "Professor Tom Kellogg, administrerende direktør for Senter for asiatisk rett ved Georgetown University, sa til BBC Chinese at de utvidede reiserestriksjonene var \"dypt bekymrende\" og sa at de gjenspeiler en \"voksende ideologisk kontroll under den kinesiske lederen Xi Jinping\", som minner om Mao Zedongs tid."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/macklemore-droppet-fra-ed-sheeran-turne-1.18024720",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/8050712eb69172.jpg",
-      "score": 16
+      "url": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/21cc/live/4793d220-b09d-11f1-9e7d-cb2f675dfcb0.jpg",
+      "localImage": "assets/news/6ae993d15b3562.jpg",
+      "score": 17
     },
     {
-      "id": "a51feb4f0c3d8e",
+      "id": "fe79062760e9c1",
       "category": "Økonomi",
-      "published": "14.09. 10:24",
-      "publishedISO": "2026-09-14T10:24:25+02:00",
-      "title": "Globalt AI-fall etter advarsler",
-      "summary": "Aksjer knyttet til utviklingen av kunstig intelligens faller både i førhandelen i USA, tidlig handel i Europa og i de asiatiske aksjemarkedene. – Så lenge oljeprisen stiger, kommer det til å trekke inflasjonsbekymringer og renten opp, og gi negativt sentiment i markedet, sier Joachim Bernhardsen, sjefstrateg i Nordea Wealth Management, til E24. Forrige uke steg oljeprisen over 8 prosent, og vippet 100 dollar fatet for første gang på nesten fire måneder. I førhandelen i USA faller teknologiindeksen Nasdaq mer enn den brede S&P 500-indeksen. – Det viser at det vi ser nå er ganske tek-relatert, og det er nok en reell bekymring som kommer til å prege markedene i dag, sier Bernhardsen.",
-      "keyPoints": [
-        "Aksjer knyttet til utviklingen av kunstig intelligens faller både i førhandelen i USA, tidlig handel i Europa og i de asiatiske aksjemarkedene. – Så lenge oljeprisen stiger, kommer det til å trekke inflasjonsbekymringer og renten opp, og gi negativt sentiment i markedet, sier Joachim Bernhardsen, sjefstrateg i Nordea Wealth Management, til E24.",
-        "I førhandelen i USA faller teknologiindeksen Nasdaq mer enn den brede S&P 500-indeksen. – Det viser at det vi ser nå er ganske tek-relatert, og det er nok en reell bekymring som kommer til å prege markedene i dag, sier Bernhardsen.",
-        "Forrige uke steg oljeprisen over 8 prosent, og vippet 100 dollar fatet for første gang på nesten fire måneder.",
-        "Samtidig har bekymringer rundt utviklingen av kunstig intelligens gjort at flere AI-topper i helgen uttrykte behov for å bremse utviklingen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/WvMX6G/globalt-ai-fall-etter-advarsler",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e9710696-4844-36dc-b7f8-ac36c473858c?fit=crop&h=675&upscale=true&w=1200&s=009d38d215c01bfef2422a839f0b14a743355b54",
-      "localImage": "assets/news/a51feb4f0c3d8e.jpg",
-      "score": 16
-    },
-    {
-      "id": "770be95560dd4e",
-      "category": "Økonomi",
-      "published": "14.09. 16:15",
-      "publishedISO": "2026-09-14T16:15:04+02:00",
-      "title": "Verdens viktigste rente passerer fem prosent",
-      "summary": "Renten på amerikanske statsobligasjoner med ti års løpetid passerer 5 prosent mandag ettermiddag, det høyeste nivået siden 23. oktober 2023. Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA. Når avkastningen på trygge statsobligasjoner ligger på fem prosent, kan det bli mer attraktivt å plassere penger der fremfor i aksjer.",
+      "published": "15.09. 07:11",
+      "publishedISO": "2026-09-15T07:11:58+02:00",
+      "title": "Verdens viktigste rente: Høyeste siden finanskrisen",
+      "summary": "Renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,0245 prosent tirsdag morgen, viser tall fra Infront. Mandag gikk renten over fem prosent og nådde det høyeste siden 2023. Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA.",
       "keyPoints": [
         "Tiåringen omtales ofte som «verdens viktigste rente», fordi utviklingen i amerikanske statsrenter påvirker renter og finansmarkeder langt utenfor USA.",
-        "Renten på amerikanske statsobligasjoner med ti års løpetid passerer 5 prosent mandag ettermiddag, det høyeste nivået siden 23. oktober 2023.",
-        "Når avkastningen på trygge statsobligasjoner ligger på fem prosent, kan det bli mer attraktivt å plassere penger der fremfor i aksjer.",
-        "Omtrent klokken 16.15 norsk tid var renten oppe i 5,0018 prosent, ifølge dataleverandøren Infront."
+        "Mandag gikk renten over fem prosent og nådde det høyeste siden 2023.",
+        "Renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,0245 prosent tirsdag morgen, viser tall fra Infront.",
+        "Markedet priser inn over 90 prosent sannsynlighet for at Fed vil heve renten med 0,25 prosentpoeng, ifølge CME-verktøyet FedWatch."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7pGdm4/verdens-viktigste-rente-passerer-fem-prosent",
+      "url": "https://e24.no/boers-og-finans/i/XMeXmW/verdens-viktigste-rente-hoeyeste-siden-finanskrisen",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/56dff98f-a99c-3471-b02a-384b975ac990?fit=crop&h=675&upscale=true&w=1200&s=eb87bd6732c00ca40e7c0c66cfd28878d7b9d35b",
-      "localImage": "assets/news/770be95560dd4e.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/9c7fb208-5960-32fd-b5a1-12e25d704d4d?fit=crop&h=675&upscale=true&w=1200&s=2c13f0e134954cca7895642f5c514dce93aad608",
+      "localImage": "assets/news/fe79062760e9c1.jpg",
+      "score": 17
     },
     {
-      "id": "83627e0b37faf6",
-      "category": "Økonomi",
-      "published": "14.09. 13:39",
-      "publishedISO": "2026-09-14T13:39:05+02:00",
-      "title": "Fredriksen-boken «Storeulv» utsolgt: – Svært tydelig Westerlin-effekt",
-      "summary": "Gyldendal forlag, som eier Ark Bokhandel, trykker nå et nytt opplag av boken, som er forventet å komme torsdag 17. september. «Storeulv» er en uautorisert biografi om «Fredriksens turbulente liv» skrevet av Odd Harald Hauge og Gunnar Stavrum. Forlagssjef for salg, marked og kommunikasjon i Gyldendal Litteratur, Pål Stokka, ser en klar sammenheng med Westerlins fremstøt i sosiale medier. – Her snakker vi nok en svært tydelig Westerlin-effekt, ja. Norli har sett et solid oppsving i salget fra siste del av august. – Westerlin-koeffisienten ligger godt over 7 hittil i september, målt mot hele juni eller juli, skriver Norlis markeds- og informasjonsdirektør Caroline Heitmann. – Etterspørselen har vært såpass høy at boka er utsolgt i markedet, og forlaget trykker nytt opplag.",
-      "keyPoints": [
-        "Forlagssjef for salg, marked og kommunikasjon i Gyldendal Litteratur, Pål Stokka, ser en klar sammenheng med Westerlins fremstøt i sosiale medier. – Her snakker vi nok en svært tydelig Westerlin-effekt, ja.",
-        "Gyldendal forlag, som eier Ark Bokhandel, trykker nå et nytt opplag av boken, som er forventet å komme torsdag 17. september. «Storeulv» er en uautorisert biografi om «Fredriksens turbulente liv» skrevet av Odd Harald Hauge og Gunnar Stavrum.",
-        "Norli har sett et solid oppsving i salget fra siste del av august. – Westerlin-koeffisienten ligger godt over 7 hittil i september, målt mot hele juni eller juli, skriver Norlis markeds- og informasjonsdirektør Caroline Heitmann. – Etterspørselen har vært såpass høy at boka er utsolgt i markedet, og forlaget trykker nytt opplag.",
-        "Nå er boken utsolgt hos bokhandlene Ark og Norli, og det er 43 på venteliste for å låne boken hos Deicman-bibliotekene."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/QJzXmW/fredriksen-boken-storeulv-utsolgt-svaert-tydelig-westerlin-effekt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7e6a959e-35f8-30be-9ea0-f57d5286199f?fit=crop&h=675&upscale=true&w=1200&s=c477ecc85e2c06ddcb1865c899a1fbd286bd8c30",
-      "localImage": "assets/news/83627e0b37faf6.jpg",
-      "score": 15
-    },
-    {
-      "id": "c0b3bb0345d9cd",
+      "id": "d113cef2a481cc",
       "category": "Norge",
-      "published": "13.09. 21:41",
-      "publishedISO": "2026-09-13T21:41:12+02:00",
-      "title": "Russisk angrep mot tog nær grensen til Polen – svensk eksminister var minutter unna",
-      "summary": "EU og Nato kommer med kraftige reaksjoner etter at en russisk drone traff lokomotivet på et passasjertog rett ved Ukrainas grense til Polen. Russisk droneangrep på et ukrainsk tog ved grensa til Polen. Sveriges tidligere stats- og utenriksminister Carl Bildt sier han befant seg på et tog som krysset grensen bare minutter før toget som ble angrepet. – Det ble evakuert idet den russiske dronen nærmet seg, og ingen ble skadet.",
+      "published": "15.09. 07:05",
+      "publishedISO": "2026-09-15T07:05:13+02:00",
+      "title": "Støre om skole: Vil ha sterkere statlig styring",
+      "summary": "Statsministeren sier regjeringen vil ha sterkere statlig styring i skolen. MER STYRING: Staten skal ha mer kontroll over både læremidler og metoder i skolen, varsler statsminister Jonas Gahr Støre (AP). Nå varsler regjeringen sterkere statlig styring i skolen.",
       "keyPoints": [
-        "Sveriges tidligere stats- og utenriksminister Carl Bildt sier han befant seg på et tog som krysset grensen bare minutter før toget som ble angrepet. – Det ble evakuert idet den russiske dronen nærmet seg, og ingen ble skadet.",
-        "Russisk droneangrep på et ukrainsk tog ved grensa til Polen.",
-        "EU og Nato kommer med kraftige reaksjoner etter at en russisk drone traff lokomotivet på et passasjertog rett ved Ukrainas grense til Polen.",
-        "Videoen er hentet fra Kyiv Independent og angrepet skjedde da toget var på stasjonen i Jahodyn i Ukraina, like ved grensen til Polen."
+        "Statsministeren sier regjeringen vil ha sterkere statlig styring i skolen.",
+        "MER STYRING: Staten skal ha mer kontroll over både læremidler og metoder i skolen, varsler statsminister Jonas Gahr Støre (AP).",
+        "Vi satser mer på den fysiske boken, sier Støre. – Læreplanene som ble vedtatt i 2020 overlot veldig mye til den enkelte lærer.",
+        "Når Høyres utdanningspolitiske talsperson Mathilde Tybring-Gjedde får høre om det nye utspillet til Støre er hun lite imponert. – Arbeiderpartiet har styrt norsk skole i fem år, og det de drar opp her er nok en gang forsvinnende små tiltak som ikke monner."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/russisk-angrep-mot-tog-naer-grensen-til-polen-_-svensk-eksminister-var-minutter-unna-1.18023641",
+      "url": "https://www.nrk.no/norge/store-om-skole_-vil-ha-sterkere-statlig-styring-1.18024678",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/fHpGAsvvlz6xxYMk-u5izQ3YYTeoeqwVE8Vrh2j62ifQ.jpg",
-      "localImage": "assets/news/c0b3bb0345d9cd.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/PwtnixJ5l0F4q2MNDMK8AA81PcJKO1QFfTB99gw32TQw.jpg",
+      "localImage": "assets/news/d113cef2a481cc.jpg",
+      "score": 17
+    },
+    {
+      "id": "78afcd31d38d88",
+      "category": "Verden",
+      "published": "15.09. 00:56",
+      "publishedISO": "2026-09-15T00:56:44+02:00",
+      "title": "Donald Trump Jr og Bettina Trump sier at Putins allierte betalte for noen bryllupsfestligheter som en \"gave\"",
+      "summary": "Donald Trump Jr. og hans kone, Bettina, går i land fra Air Force One i Irland 12. september. Donald Trump Jrs kone, Bettina Trump, bekreftet at bryllupet deres i mai ble delvis betalt av en alliert av Russlands president Vladimir Putin. Et innlegg på Instagram-kontoen hennes – tilskrevet paret – sa at to netter av deres tre dager lange bryllupsfestligheter på en privat øy på Bahamas ble delvis finansiert av Umar Kremlev, en russisk oligark med nære bånd til Putin.",
+      "keyPoints": [
+        "Donald Trump Jrs kone, Bettina Trump, bekreftet at bryllupet deres i mai ble delvis betalt av en alliert av Russlands president Vladimir Putin.",
+        "Donald Trump Jr. og hans kone, Bettina, går i land fra Air Force One i Irland 12. september.",
+        "Et innlegg på Instagram-kontoen hennes – tilskrevet paret – sa at to netter av deres tre dager lange bryllupsfestligheter på en privat øy på Bahamas ble delvis finansiert av Umar Kremlev, en russisk oligark med nære bånd til Putin.",
+        "Libowitz, fra CREW, sa at enten presidenten, som er milliardær, eller Trump Jr – som er verdt 300 millioner dollar, ifølge Forbes – kunne ha betalt for hele bryllupet for å unngå en interessekonflikt. «Faren hans er verdt milliarder, han kunne ha plukket opp fanen."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmqjkg121kr9o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9db8/live/b910afd0-b08a-11f1-8f9f-33e0914f3492.jpg",
+      "localImage": "assets/news/78afcd31d38d88.jpg",
+      "score": 16
+    },
+    {
+      "id": "641e1d8c6efa24",
+      "category": "Økonomi",
+      "published": "14.09. 09:00",
+      "publishedISO": "2026-09-14T09:00:39+02:00",
+      "title": "Aker falt kraftig på Oslo Børs",
+      "summary": "Aker falt 4,96 prosent som en av de mest omsatte aksjene. ABG Sundal Collier-analytiker Ole Hvalbye uttalte sist uke til E24, i forbindelse med en nedgradering av aksjen til «hold», at Aker nå er «der du får aller mest AI-eksponering på Oslo Børs». Ellers blant tungvekterne var det flere oljeaksjer som dro Oslo Børs i positiv retning, etter et nytt byks for olje og gassprisene.",
+      "keyPoints": [
+        "ABG Sundal Collier-analytiker Ole Hvalbye uttalte sist uke til E24, i forbindelse med en nedgradering av aksjen til «hold», at Aker nå er «der du får aller mest AI-eksponering på Oslo Børs».",
+        "Aker falt 4,96 prosent som en av de mest omsatte aksjene.",
+        "Ellers blant tungvekterne var det flere oljeaksjer som dro Oslo Børs i positiv retning, etter et nytt byks for olje og gassprisene.",
+        "Kjell Inge Røkkes industrikjempe har ridd AI-bølgen med investeringen i datasenterselskapet Nscale, noe som har løftet verdiene og aksjekursen kraftig."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/k0V17Q/oslo-boers-loeftes-av-oekt-oljepris",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/89b66835-4dd0-311a-aa2c-02cfa2073843?fit=crop&h=675&upscale=true&w=1200&s=5d1ae5f6866b94e26898992ca04434f6682b905b",
+      "localImage": "assets/news/641e1d8c6efa24.jpg",
+      "score": 16
     }
   ]
 }
