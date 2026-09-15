@@ -1,15 +1,15 @@
 {
-  "updatedAt": "15.09.2026 kl. 22:26",
-  "updatedISO": "2026-09-15T22:26:25.262524+02:00",
+  "updatedAt": "16.09.2026 kl. 01:05",
+  "updatedISO": "2026-09-16T01:05:41.137846+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "d00bf71aad2964",
+      "id": "9af09bb696769c",
       "category": "Norge",
       "published": "15.09. 16:36",
       "publishedISO": "2026-09-15T16:36:16+02:00",
       "title": "Ein slipp på 500 tonn raste ut i sjøen på Haakonsvern",
-      "summary": "Ein slipp på rundt 500 tonn rasa tysdag ut i sjøen på Sjøforsvarets base på Haakonsvern i Bergen. ARBEIDSULYKKE: Ein slipp på 500 tonn raste ut i sjøen på Haakonsvern. Politiet meiner dei veit kva som var årsaka til at den massive slippen enda i sjøen. – Det kan truleg ha vore ein vaier som har roke, seier operasjonsleiar i Vest politidistrikt, Steinar Hausvik.",
+      "summary": "Ein slipp med kapasitet på rundt 500 tonn rasa tysdag ut i sjøen på Sjøforsvarets base på Haakonsvern i Bergen. ARBEIDSULYKKE: Ein slipp på 500 tonn raste ut i sjøen på Haakonsvern. Politiet meiner dei veit kva som var årsaka til at den massive slippen enda i sjøen. – Det kan truleg ha vore ein vaier som har roke, seier operasjonsleiar i Vest politidistrikt, Steinar Hausvik.",
       "keyPoints": [
         "ARBEIDSULYKKE: Ein slipp på 500 tonn raste ut i sjøen på Haakonsvern.",
         "Politiet meiner dei veit kva som var årsaka til at den massive slippen enda i sjøen. – Det kan truleg ha vore ein vaier som har roke, seier operasjonsleiar i Vest politidistrikt, Steinar Hausvik.",
@@ -21,21 +21,21 @@
       "url": "https://www.nrk.no/vestland/ein-slipp-pa-500-tonn-raste-ut-i-sjoen-pa-haakonsvern-1.18025807",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/32rCvzkrYObf9Z68Pa2ZrAER3slryRH1DXCufbEu57iA.jpg",
-      "localImage": "assets/news/d00bf71aad2964.jpg",
+      "localImage": "assets/news/9af09bb696769c.jpg",
       "score": 16
     },
     {
       "id": "d77981cdc22937",
       "category": "Verden",
-      "published": "15.09. 21:13",
-      "publishedISO": "2026-09-15T21:13:44+02:00",
+      "published": "15.09. 22:34",
+      "publishedISO": "2026-09-15T22:34:12+02:00",
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "summary": "US Patriot luftforsvarssystemer, sett her ved Raytheon-hovedkvarteret i Massachusetts, har blitt mye brukt i Iran-krigen. Det amerikanske forsvarsdepartementets generalinspektør sier at krigen med Iran har ført til \"mangler\" i ammunisjon og en flaskehals i gjenforsyning, i motsetning til president Donald Trump som gjentatte ganger har benektet at USA står overfor mangel. Men den uavhengige vakthunden sa at USA brukte mer enn 22 milliarder dollar på ammunisjon fra februar til juni, noe som førte til \"strategiske lagermangler\".",
+      "summary": "Det amerikanske forsvarsdepartementets generalinspektør sier at krigen med Iran har ført til «mangler» i ammunisjon og en flaskehals i gjenforsyning, i motsetning til president Donald Trump som gjentatte ganger har benektet at USA står overfor mangel. Trump har hevdet at amerikanske ammunisjonsforsyninger er «praktisk talt ubegrensede» og sa å rapportere ellers er «falske nyheter». Men den uavhengige vakthunden sa at USA brukte mer enn 22 milliarder dollar på ammunisjon fra februar til juni, noe som førte til \"strategiske lagermangler\".",
       "keyPoints": [
-        "Det amerikanske forsvarsdepartementets generalinspektør sier at krigen med Iran har ført til \"mangler\" i ammunisjon og en flaskehals i gjenforsyning, i motsetning til president Donald Trump som gjentatte ganger har benektet at USA står overfor mangel.",
+        "Det amerikanske forsvarsdepartementets generalinspektør sier at krigen med Iran har ført til «mangler» i ammunisjon og en flaskehals i gjenforsyning, i motsetning til president Donald Trump som gjentatte ganger har benektet at USA står overfor mangel.",
         "Men den uavhengige vakthunden sa at USA brukte mer enn 22 milliarder dollar på ammunisjon fra februar til juni, noe som førte til \"strategiske lagermangler\".",
-        "US Patriot luftforsvarssystemer, sett her ved Raytheon-hovedkvarteret i Massachusetts, har blitt mye brukt i Iran-krigen.",
-        "Trump har hevdet at amerikanske ammunisjonsforsyninger er «praktisk talt ubegrensede» og sa at å rapportere ellers er «falske nyheter»."
+        "Trump har hevdet at amerikanske ammunisjonsforsyninger er «praktisk talt ubegrensede» og sa å rapportere ellers er «falske nyheter».",
+        "Det hvite hus har avvist vakthundens vurdering. \"Det amerikanske militæret har mer enn nok ammunisjon, ammunisjon og lagre til å tjene alle øverstkommanderendes strategiske mål og utover,\" sa talskvinne Anna Kelly i en uttalelse tirsdag."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -44,6 +44,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
       "localImage": "assets/news/d77981cdc22937.jpg",
       "score": 17
+    },
+    {
+      "id": "489d9a16ffe871",
+      "category": "USA",
+      "published": "15.09. 20:32",
+      "publishedISO": "2026-09-15T20:32:40+02:00",
+      "title": "Sanders ber USA og Kina om å samarbeide for å regulere AI",
+      "summary": "Senator Bernie Sanders ledet et \"pro-menneskelig\" møte i Washington DC, og advarte om farene kunstig intelligens utgjør. Se: Sanders ber USA og Kina samarbeide om å forby AI-superintelligens. Video, 00:01:08Se: Sanders ber USA og Kina samarbeide om å forby AI-superintelligens Up Next. \"Flott\" eller \"alarmerende\" - Bør AI tøyles?",
+      "keyPoints": [
+        "Video, 00:01:08Se: Sanders ber USA og Kina samarbeide om å forby AI-superintelligens Up Next. \"Flott\" eller \"alarmerende\" - Bør AI tøyles?",
+        "Senator Bernie Sanders led a “pro-human” rally in Washington DC, warning of the dangers posed by artificial intelligence.",
+        "Video, 00:01:09AI «sterkere for hver dag», forteller Anthropics medgründer til BBC Watch: Selena Gomez, Zendaya og andre stjerner lyser opp Emmys røde løper.",
+        "Video, 00:01:25Se: Selena Gomez, Zendaya og andre stjerner lyser opp Emmys røde løper «Luck and timing»: Matthew Rhys på sin historiske Emmy Awards-dobbelseier."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c9e8erg0vk64o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfd5/live/64c2b880-b132-11f1-809b-8798d8f198d1.jpg",
+      "localImage": "assets/news/489d9a16ffe871.jpg",
+      "score": 26
     },
     {
       "id": "d1f7df38bf4aa6",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f4df9ecc-b49a-3817-aaba-585009486fb0?fit=crop&h=675&upscale=true&w=1200&s=e0283879d09abde8c202217170ec3cec83b0bd0a",
       "localImage": "assets/news/d1f7df38bf4aa6.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "f0a277265d282d",
@@ -88,88 +109,25 @@
       "score": 16
     },
     {
-      "id": "6af102b4bd7df8",
-      "category": "Norge",
-      "published": "14.09. 17:35",
-      "publishedISO": "2026-09-14T17:35:38+02:00",
-      "title": "Zelenskyj: Ukraina vil avstå fra angrep hvis Russland gjør det samme",
-      "summary": "Ukraina og Russland har blitt enige om å ikke angripe hverandres energianlegg, hevder USAs president Donald Trump i et innlegg på Truth Social. – Ukraina har gått med på å ikke angripe russiske energianlegg. En stund etter kommenterer Zelenskyj uttalelsene: – Ukraina har foreslått at våre partnere bidrar til å sikre en avtale med Russland om å stanse ødeleggelsen av kritisk infrastruktur, skriver Ukrainas president Volodymyr Zelenskyj på Telegram. Han skriver også at dersom Russland faktisk avstår fra å angripe ukrainsk infrastruktur, er Ukraina villig til å avstå fra egne angrep.",
+      "id": "4a510331648ebd",
+      "category": "USA",
+      "published": "15.09. 22:35",
+      "publishedISO": "2026-09-15T22:35:00+02:00",
+      "title": "Watch: Why is Donald Trump so opposed to regulating AI?",
+      "summary": "Video produced by Cai Pigliucci, filmed by Ian Druce, edited by Meiying Wu Why is Donald Trump so opposed to regulating AI? Video, 00:01:12Why is Donald Trump so opposed to regulating AI? Video, 00:00:57'Maybe they'll shoot you' - Carney recalls Trump's gift of White House key Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet.",
       "keyPoints": [
-        "Han skriver også at dersom Russland faktisk avstår fra å angripe ukrainsk infrastruktur, er Ukraina villig til å avstå fra egne angrep.",
-        "En stund etter kommenterer Zelenskyj uttalelsene: – Ukraina har foreslått at våre partnere bidrar til å sikre en avtale med Russland om å stanse ødeleggelsen av kritisk infrastruktur, skriver Ukrainas president Volodymyr Zelenskyj på Telegram.",
-        "Ukraina og Russland har blitt enige om å ikke angripe hverandres energianlegg, hevder USAs president Donald Trump i et innlegg på Truth Social. – Ukraina har gått med på å ikke angripe russiske energianlegg.",
-        "I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina»."
+        "Video produced by Cai Pigliucci, filmed by Ian Druce, edited by Meiying Wu Why is Donald Trump so opposed to regulating AI?",
+        "Video, 00:00:57'Maybe they'll shoot you' - Carney recalls Trump's gift of White House key Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet.",
+        "But US President Donald Trump is opposing calls to regulate the technology.",
+        "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-vil-avsta-fra-angrep-hvis-russland-gjor-det-samme-1.18024674",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/6af102b4bd7df8.jpg",
-      "score": 16
-    },
-    {
-      "id": "e90bdeef178354",
-      "category": "Økonomi",
-      "published": "14.09. 16:44",
-      "publishedISO": "2026-09-14T16:44:34+02:00",
-      "title": "Trump avviser AI-frykten: Trenger bare en «smart president»",
-      "summary": "På Trumps egen plattform Truth Social skriver han at AI ikke trenger andre bremseklosser enn ham selv. – Den eneste kontrollen eller «rekkverket» AI trenger er en sterk og smart (Høy IQ!) president, og det har USA i overflod, skriver han. Lørdag fulgte Anthropic-sjef Dario Amodei opp med et langt essay: – Med den raske AI-utviklingen frykter jeg at en sverm av AI-agenter om bare 6–12 måneder kan være i stand til å ta kontroll over internett gjennom et nettverk av hackede datamaskiner, skriver Amodei. I juli klarte 1200 AI-agenterEn kunstig intelligens som ikke bare svarer på spørsmål, men som også kan utføre oppgaver på egen hånd for å nå et mål. fra OpenAI, selskapet bak ChatGPT, å bryte seg ut av en intern test og operere fritt på internett.",
-      "keyPoints": [
-        "På Trumps egen plattform Truth Social skriver han at AI ikke trenger andre bremseklosser enn ham selv. – Den eneste kontrollen eller «rekkverket» AI trenger er en sterk og smart (Høy IQ!) president, og det har USA i overflod, skriver han.",
-        "Lørdag fulgte Anthropic-sjef Dario Amodei opp med et langt essay: – Med den raske AI-utviklingen frykter jeg at en sverm av AI-agenter om bare 6–12 måneder kan være i stand til å ta kontroll over internett gjennom et nettverk av hackede datamaskiner, skriver Amodei.",
-        "I juli klarte 1200 AI-agenterEn kunstig intelligens som ikke bare svarer på spørsmål, men som også kan utføre oppgaver på egen hånd for å nå et mål. fra OpenAI, selskapet bak ChatGPT, å bryte seg ut av en intern test og operere fritt på internett.",
-        "Trump legger til at «den som vinner AI, vinner», og at USA leder foran Kina."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/teknologi/i/WvMyBr/donald-trump-ai-trenger-ingen-bremseklosser",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/986dd94e-ad90-3a31-a2e3-06952e8e8d4f?fit=crop&h=675&upscale=true&w=1200&s=0f5b0fa3839a91ba71d28c2ce4a60d4af7d87818",
-      "localImage": "assets/news/e90bdeef178354.jpg",
-      "score": 16
-    },
-    {
-      "id": "b3a0773a83bd00",
-      "category": "Norge",
-      "published": "13.09. 21:40",
-      "publishedISO": "2026-09-13T21:40:00+02:00",
-      "title": "Ap-statssekretær på tog som ble evakuert i Ukraina: – Kom fram i rute",
-      "summary": "Statssekretær Eivind Vad Petersson (Ap) var om bord på et tog som ble evakuert ved grensen mellom Ukraina og Polen da et russisk droneangrep traff et lokomotiv på stasjonen Jahodyn. Storbritannias tidligere statsminister Boris Johnson satt på det samme toget. – Jeg vet ikke hva slags forvridd logikk som fikk Putin til å sprenge et ukrainsk lokomotiv på den polske grensen i morges. Det vi vet med sikkerhet, er at dette er den typen tilfeldige og meningsløse angrep ukrainerne må utstå hver eneste dag – selv på sivile jernbaner, skriver Johnson på X.",
-      "keyPoints": [
-        "Statssekretær Eivind Vad Petersson (Ap) var om bord på et tog som ble evakuert ved grensen mellom Ukraina og Polen da et russisk droneangrep traff et lokomotiv på stasjonen Jahodyn.",
-        "Storbritannias tidligere statsminister Boris Johnson satt på det samme toget. – Jeg vet ikke hva slags forvridd logikk som fikk Putin til å sprenge et ukrainsk lokomotiv på den polske grensen i morges.",
-        "Det vi vet med sikkerhet, er at dette er den typen tilfeldige og meningsløse angrep ukrainerne må utstå hver eneste dag – selv på sivile jernbaner, skriver Johnson på X.",
-        "Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/ap-statssekretaer-pa-tog-som-ble-evakuert-i-ukraina_-_-kom-fram-i-rute-1.18023619",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/gIFIzHyfqKDeVoiE6D1DSAiyQz6qFRkg0k1CH7eNP7ZQ.jpg",
-      "localImage": "assets/news/b3a0773a83bd00.jpg",
-      "score": 16
-    },
-    {
-      "id": "70a9862efd8074",
-      "category": "Norge",
-      "published": "15.09. 14:22",
-      "publishedISO": "2026-09-15T14:22:29+02:00",
-      "title": "Oljeprisen stiger – slik påvirker det deg",
-      "summary": "Oljeprisen stiger, og europeiske gasspriser har skutt i været. Før helgen bikket oljeprisen igjen 100 dollar for et fat nordsjøolje, og i skrivende stund ligger den på 109 dollar. Det var etter at det ble kjent at Saudi-Arabias oljeproduksjon i august falt til det laveste nivået siden 1990-tallet, at oljeprisen begynte å stige.",
-      "keyPoints": [
-        "Oljeprisen stiger, og europeiske gasspriser har skutt i været.",
-        "Før helgen bikket oljeprisen igjen 100 dollar for et fat nordsjøolje, og i skrivende stund ligger den på 109 dollar.",
-        "Det var etter at det ble kjent at Saudi-Arabias oljeproduksjon i august falt til det laveste nivået siden 1990-tallet, at oljeprisen begynte å stige.",
-        "Når prisene på olje og gass stiger, håver staten og energiselskapene inn milliarder."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/oljeprisen-stiger-_-slik-pavirker-det-deg-1.18024000",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FASFZ_-obY4WtGFhn_36hQc0d5MhO3hRj4Eri387BkEw.jpg",
-      "localImage": "assets/news/70a9862efd8074.jpg",
-      "score": 15
+      "url": "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cad/live/cc1f3b00-b143-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/4a510331648ebd.jpg",
+      "score": 17
     },
     {
       "id": "2d7a9567d53509",
@@ -193,24 +151,66 @@
       "score": 15
     },
     {
-      "id": "33d1b640398a1c",
-      "category": "Økonomi",
-      "published": "15.09. 08:09",
-      "publishedISO": "2026-09-15T08:09:54+02:00",
-      "title": "SSB: Økt kjøpekraft blant husholdningene",
-      "summary": "Renten ventes å være høy de neste to årene, ifølge SSB. SSB har publisert rapporten Konjunkturtendensene, om de økonomiske utsiktene i landet. – Husholdningenes kjøpekraft fortsetter å øke selv om renten forblir høy i år og neste år. Økt konsum i husholdningene og en svakt ekspansiv finanspolitikk bidrar likevel til at veksten vil ta seg opp igjen, sier Thomas von Brasch.",
+      "id": "6af102b4bd7df8",
+      "category": "Norge",
+      "published": "14.09. 17:35",
+      "publishedISO": "2026-09-14T17:35:38+02:00",
+      "title": "Zelenskyj: Ukraina vil avstå fra angrep hvis Russland gjør det samme",
+      "summary": "Ukraina og Russland har blitt enige om å ikke angripe hverandres energianlegg, hevder USAs president Donald Trump i et innlegg på Truth Social. – Ukraina har gått med på å ikke angripe russiske energianlegg. En stund etter kommenterer Zelenskyj uttalelsene: – Ukraina har foreslått at våre partnere bidrar til å sikre en avtale med Russland om å stanse ødeleggelsen av kritisk infrastruktur, skriver Ukrainas president Volodymyr Zelenskyj på Telegram. Han skriver også at dersom Russland faktisk avstår fra å angripe ukrainsk infrastruktur, er Ukraina villig til å avstå fra egne angrep.",
       "keyPoints": [
-        "SSB har publisert rapporten Konjunkturtendensene, om de økonomiske utsiktene i landet. – Husholdningenes kjøpekraft fortsetter å øke selv om renten forblir høy i år og neste år.",
-        "Økt konsum i husholdningene og en svakt ekspansiv finanspolitikk bidrar likevel til at veksten vil ta seg opp igjen, sier Thomas von Brasch.",
-        "Renten ventes å være høy de neste to årene, ifølge SSB.",
-        "Gjennom 2027 og 2028 venter de videre fire rentekutt. «Styringsrenten kommer da ned til 3,5 prosent», skriver SSB."
+        "Han skriver også at dersom Russland faktisk avstår fra å angripe ukrainsk infrastruktur, er Ukraina villig til å avstå fra egne angrep.",
+        "En stund etter kommenterer Zelenskyj uttalelsene: – Ukraina har foreslått at våre partnere bidrar til å sikre en avtale med Russland om å stanse ødeleggelsen av kritisk infrastruktur, skriver Ukrainas president Volodymyr Zelenskyj på Telegram.",
+        "Ukraina og Russland har blitt enige om å ikke angripe hverandres energianlegg, hevder USAs president Donald Trump i et innlegg på Truth Social. – Ukraina har gått med på å ikke angripe russiske energianlegg.",
+        "I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina»."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-vil-avsta-fra-angrep-hvis-russland-gjor-det-samme-1.18024674",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
+      "localImage": "assets/news/6af102b4bd7df8.jpg",
+      "score": 15
+    },
+    {
+      "id": "e90bdeef178354",
+      "category": "Økonomi",
+      "published": "14.09. 16:44",
+      "publishedISO": "2026-09-14T16:44:34+02:00",
+      "title": "Trump avviser AI-frykten: Trenger bare en «smart president»",
+      "summary": "På Trumps egen plattform Truth Social skriver han at AI ikke trenger andre bremseklosser enn ham selv. – Den eneste kontrollen eller «rekkverket» AI trenger er en sterk og smart (Høy IQ!) president, og det har USA i overflod, skriver han. Lørdag fulgte Anthropic-sjef Dario Amodei opp med et langt essay: – Med den raske AI-utviklingen frykter jeg at en sverm av AI-agenter om bare 6–12 måneder kan være i stand til å ta kontroll over internett gjennom et nettverk av hackede datamaskiner, skriver Amodei. I juli klarte 1200 AI-agenterEn kunstig intelligens som ikke bare svarer på spørsmål, men som også kan utføre oppgaver på egen hånd for å nå et mål. fra OpenAI, selskapet bak ChatGPT, å bryte seg ut av en intern test og operere fritt på internett.",
+      "keyPoints": [
+        "På Trumps egen plattform Truth Social skriver han at AI ikke trenger andre bremseklosser enn ham selv. – Den eneste kontrollen eller «rekkverket» AI trenger er en sterk og smart (Høy IQ!) president, og det har USA i overflod, skriver han.",
+        "Lørdag fulgte Anthropic-sjef Dario Amodei opp med et langt essay: – Med den raske AI-utviklingen frykter jeg at en sverm av AI-agenter om bare 6–12 måneder kan være i stand til å ta kontroll over internett gjennom et nettverk av hackede datamaskiner, skriver Amodei.",
+        "I juli klarte 1200 AI-agenterEn kunstig intelligens som ikke bare svarer på spørsmål, men som også kan utføre oppgaver på egen hånd for å nå et mål. fra OpenAI, selskapet bak ChatGPT, å bryte seg ut av en intern test og operere fritt på internett.",
+        "Trump legger til at «den som vinner AI, vinner», og at USA leder foran Kina."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/Bx927v/ssb-oekt-kjoepekraft-blant-husholdningene",
+      "url": "https://e24.no/teknologi/i/WvMyBr/donald-trump-ai-trenger-ingen-bremseklosser",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4803465f-4bb3-3b1e-8ce5-ca335fa51e65?fit=crop&h=675&upscale=true&w=1200&s=5754db1d04afee143d09cd28e161acc472e6ab6a",
-      "localImage": "assets/news/33d1b640398a1c.jpg",
+      "image": "https://akamai.vgc.no/v2/images/986dd94e-ad90-3a31-a2e3-06952e8e8d4f?fit=crop&h=675&upscale=true&w=1200&s=0f5b0fa3839a91ba71d28c2ce4a60d4af7d87818",
+      "localImage": "assets/news/e90bdeef178354.jpg",
+      "score": 15
+    },
+    {
+      "id": "b3a0773a83bd00",
+      "category": "Norge",
+      "published": "13.09. 21:40",
+      "publishedISO": "2026-09-13T21:40:00+02:00",
+      "title": "Ap-statssekretær på tog som ble evakuert i Ukraina: – Kom fram i rute",
+      "summary": "Statssekretær Eivind Vad Petersson (Ap) var om bord på et tog som ble evakuert ved grensen mellom Ukraina og Polen da et russisk droneangrep traff et lokomotiv på stasjonen Jahodyn. Storbritannias tidligere statsminister Boris Johnson satt på det samme toget. – Jeg vet ikke hva slags forvridd logikk som fikk Putin til å sprenge et ukrainsk lokomotiv på den polske grensen i morges. Det vi vet med sikkerhet, er at dette er den typen tilfeldige og meningsløse angrep ukrainerne må utstå hver eneste dag – selv på sivile jernbaner, skriver Johnson på X.",
+      "keyPoints": [
+        "Statssekretær Eivind Vad Petersson (Ap) var om bord på et tog som ble evakuert ved grensen mellom Ukraina og Polen da et russisk droneangrep traff et lokomotiv på stasjonen Jahodyn.",
+        "Storbritannias tidligere statsminister Boris Johnson satt på det samme toget. – Jeg vet ikke hva slags forvridd logikk som fikk Putin til å sprenge et ukrainsk lokomotiv på den polske grensen i morges.",
+        "Det vi vet med sikkerhet, er at dette er den typen tilfeldige og meningsløse angrep ukrainerne må utstå hver eneste dag – selv på sivile jernbaner, skriver Johnson på X.",
+        "Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/ap-statssekretaer-pa-tog-som-ble-evakuert-i-ukraina_-_-kom-fram-i-rute-1.18023619",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/gIFIzHyfqKDeVoiE6D1DSAiyQz6qFRkg0k1CH7eNP7ZQ.jpg",
+      "localImage": "assets/news/b3a0773a83bd00.jpg",
       "score": 15
     }
   ]
