@@ -1,6 +1,6 @@
 {
-  "updatedAt": "15.09.2026 kl. 19:31",
-  "updatedISO": "2026-09-15T19:31:05.987474+02:00",
+  "updatedAt": "15.09.2026 kl. 22:26",
+  "updatedISO": "2026-09-15T22:26:25.262524+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,19 +22,19 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/32rCvzkrYObf9Z68Pa2ZrAER3slryRH1DXCufbEu57iA.jpg",
       "localImage": "assets/news/d00bf71aad2964.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d77981cdc22937",
       "category": "Verden",
-      "published": "15.09. 17:31",
-      "publishedISO": "2026-09-15T17:31:34+02:00",
+      "published": "15.09. 21:13",
+      "publishedISO": "2026-09-15T21:13:44+02:00",
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "summary": "US Patriot luftvernsystemer, sett her ved Raytheon-hovedkvarteret i Massachusetts, har blitt mye brukt i Iran-krigen. Det amerikanske forsvarsdepartementets generalinspektør sier at krigen med Iran har ført til \"mangler\" i ammunisjon og en flaskehals i gjenforsyning, i motsetning til president Donald Trump som gjentatte ganger har benektet at USA står overfor mangel. Men den uavhengige vakthunden sa at USA brukte mer enn 22 milliarder dollar på ammunisjon fra februar til juni, noe som førte til \"strategiske lagermangler\".",
+      "summary": "US Patriot luftforsvarssystemer, sett her ved Raytheon-hovedkvarteret i Massachusetts, har blitt mye brukt i Iran-krigen. Det amerikanske forsvarsdepartementets generalinspektør sier at krigen med Iran har ført til \"mangler\" i ammunisjon og en flaskehals i gjenforsyning, i motsetning til president Donald Trump som gjentatte ganger har benektet at USA står overfor mangel. Men den uavhengige vakthunden sa at USA brukte mer enn 22 milliarder dollar på ammunisjon fra februar til juni, noe som førte til \"strategiske lagermangler\".",
       "keyPoints": [
         "Det amerikanske forsvarsdepartementets generalinspektør sier at krigen med Iran har ført til \"mangler\" i ammunisjon og en flaskehals i gjenforsyning, i motsetning til president Donald Trump som gjentatte ganger har benektet at USA står overfor mangel.",
         "Men den uavhengige vakthunden sa at USA brukte mer enn 22 milliarder dollar på ammunisjon fra februar til juni, noe som førte til \"strategiske lagermangler\".",
-        "US Patriot luftvernsystemer, sett her ved Raytheon-hovedkvarteret i Massachusetts, har blitt mye brukt i Iran-krigen.",
+        "US Patriot luftforsvarssystemer, sett her ved Raytheon-hovedkvarteret i Massachusetts, har blitt mye brukt i Iran-krigen.",
         "Trump har hevdet at amerikanske ammunisjonsforsyninger er «praktisk talt ubegrensede» og sa at å rapportere ellers er «falske nyheter»."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
@@ -44,27 +44,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
       "localImage": "assets/news/d77981cdc22937.jpg",
       "score": 17
-    },
-    {
-      "id": "3e03536342c4b8",
-      "category": "Økonomi",
-      "published": "15.09. 15:31",
-      "publishedISO": "2026-09-15T15:31:21+02:00",
-      "title": "Nedgangen fortsetter på Wall Street",
-      "summary": "Slik ligger det an for de sentrale indeksene på Wall Street rundt kl. 17.45: I går startet uken med nedgang på Wall Street, da global AI-uro preget verdensmarkedene etter advarsler fra flere AI-topper. Inn mot åpning på Wall Street har den så vingt opp igjen.",
-      "keyPoints": [
-        "17.45: I går startet uken med nedgang på Wall Street, da global AI-uro preget verdensmarkedene etter advarsler fra flere AI-topper.",
-        "Slik ligger det an for de sentrale indeksene på Wall Street rundt kl.",
-        "Inn mot åpning på Wall Street har den så vingt opp igjen.",
-        "«Verdens viktigste rente» har vært på sitt høyeste siden 2007, og oljeprisen stiger."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/9p14yq/nedgangen-fortsetter-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4c5e670b-c267-3093-a2bf-029db9cf58d4?fit=crop&h=675&upscale=true&w=1200&s=766052df1a742aab6cc2fc6da1d342385470f493",
-      "localImage": "assets/news/3e03536342c4b8.jpg",
-      "score": 20
     },
     {
       "id": "d1f7df38bf4aa6",
@@ -106,27 +85,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fd948c5b-3323-3419-a032-ce53c0c35572?fit=crop&h=675&upscale=true&w=1200&s=86f0c0f7be5dab0ad3a0e571f3cb493af796d838",
       "localImage": "assets/news/f0a277265d282d.jpg",
-      "score": 17
-    },
-    {
-      "id": "2d7a9567d53509",
-      "category": "Norge",
-      "published": "15.09. 12:13",
-      "publishedISO": "2026-09-15T12:13:03+02:00",
-      "title": "Kommunedirektøren i Tromsø foreslår å legge Tromsøhallen på is",
-      "summary": "Kommunedirektøren i Robek-kommunen Tromsø ser seg nødt til å kutte investeringer for 377 millioner kroner. Reaksjonen fra basketlederen er kontant etter at kommunedirektør Ellen Beate Lundberg foreslår å legge planene om Nye Tromsøhallen på is. Slik er det planlagte nybygget til over 500 millioner kroner på Templarheimen skissert, men nå foreslår kommunedirektøren å legge hele prosjektet på is.",
-      "keyPoints": [
-        "Slik er det planlagte nybygget til over 500 millioner kroner på Templarheimen skissert, men nå foreslår kommunedirektøren å legge hele prosjektet på is.",
-        "Reaksjonen fra basketlederen er kontant etter at kommunedirektør Ellen Beate Lundberg foreslår å legge planene om Nye Tromsøhallen på is.",
-        "Kommunedirektøren i Robek-kommunen Tromsø ser seg nødt til å kutte investeringer for 377 millioner kroner.",
-        "Her er listen over de største enkeltprosjektene i kommunens handlings- og økonomiplanen for 2027 som kommunedirektøren anbefaler å utsette, stoppe eller gå gjennom på nytt: Storprosjektet Kulturkvartalet i Tromsø er satt i null."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kommunedirektoren-i-tromso-foreslar-a-legge-tromsohallen-pa-is-1.18025237",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/E953xpkd_zdxBXMfKTktVwhOxiicPE-TUpYbN6IK1Whw.jpg",
-      "localImage": "assets/news/2d7a9567d53509.jpg",
       "score": 16
     },
     {
@@ -211,6 +169,48 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/FASFZ_-obY4WtGFhn_36hQc0d5MhO3hRj4Eri387BkEw.jpg",
       "localImage": "assets/news/70a9862efd8074.jpg",
+      "score": 15
+    },
+    {
+      "id": "2d7a9567d53509",
+      "category": "Norge",
+      "published": "15.09. 12:13",
+      "publishedISO": "2026-09-15T12:13:03+02:00",
+      "title": "Kommunedirektøren i Tromsø foreslår å legge Tromsøhallen på is",
+      "summary": "Kommunedirektøren i Robek-kommunen Tromsø ser seg nødt til å kutte investeringer for 377 millioner kroner. Reaksjonen fra basketlederen er kontant etter at kommunedirektør Ellen Beate Lundberg foreslår å legge planene om Nye Tromsøhallen på is. Slik er det planlagte nybygget til over 500 millioner kroner på Templarheimen skissert, men nå foreslår kommunedirektøren å legge hele prosjektet på is.",
+      "keyPoints": [
+        "Slik er det planlagte nybygget til over 500 millioner kroner på Templarheimen skissert, men nå foreslår kommunedirektøren å legge hele prosjektet på is.",
+        "Reaksjonen fra basketlederen er kontant etter at kommunedirektør Ellen Beate Lundberg foreslår å legge planene om Nye Tromsøhallen på is.",
+        "Kommunedirektøren i Robek-kommunen Tromsø ser seg nødt til å kutte investeringer for 377 millioner kroner.",
+        "Her er listen over de største enkeltprosjektene i kommunens handlings- og økonomiplanen for 2027 som kommunedirektøren anbefaler å utsette, stoppe eller gå gjennom på nytt: Storprosjektet Kulturkvartalet i Tromsø er satt i null."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/kommunedirektoren-i-tromso-foreslar-a-legge-tromsohallen-pa-is-1.18025237",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/E953xpkd_zdxBXMfKTktVwhOxiicPE-TUpYbN6IK1Whw.jpg",
+      "localImage": "assets/news/2d7a9567d53509.jpg",
+      "score": 15
+    },
+    {
+      "id": "33d1b640398a1c",
+      "category": "Økonomi",
+      "published": "15.09. 08:09",
+      "publishedISO": "2026-09-15T08:09:54+02:00",
+      "title": "SSB: Økt kjøpekraft blant husholdningene",
+      "summary": "Renten ventes å være høy de neste to årene, ifølge SSB. SSB har publisert rapporten Konjunkturtendensene, om de økonomiske utsiktene i landet. – Husholdningenes kjøpekraft fortsetter å øke selv om renten forblir høy i år og neste år. Økt konsum i husholdningene og en svakt ekspansiv finanspolitikk bidrar likevel til at veksten vil ta seg opp igjen, sier Thomas von Brasch.",
+      "keyPoints": [
+        "SSB har publisert rapporten Konjunkturtendensene, om de økonomiske utsiktene i landet. – Husholdningenes kjøpekraft fortsetter å øke selv om renten forblir høy i år og neste år.",
+        "Økt konsum i husholdningene og en svakt ekspansiv finanspolitikk bidrar likevel til at veksten vil ta seg opp igjen, sier Thomas von Brasch.",
+        "Renten ventes å være høy de neste to årene, ifølge SSB.",
+        "Gjennom 2027 og 2028 venter de videre fire rentekutt. «Styringsrenten kommer da ned til 3,5 prosent», skriver SSB."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/Bx927v/ssb-oekt-kjoepekraft-blant-husholdningene",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4803465f-4bb3-3b1e-8ce5-ca335fa51e65?fit=crop&h=675&upscale=true&w=1200&s=5754db1d04afee143d09cd28e161acc472e6ab6a",
+      "localImage": "assets/news/33d1b640398a1c.jpg",
       "score": 15
     }
   ]
