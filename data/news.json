@@ -1,8 +1,29 @@
 {
-  "updatedAt": "16.09.2026 kl. 08:29",
-  "updatedISO": "2026-09-16T08:29:42.878050+02:00",
+  "updatedAt": "16.09.2026 kl. 13:59",
+  "updatedISO": "2026-09-16T13:59:55.734551+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "600c880e22600a",
+      "category": "Nord-Norge",
+      "published": "16.09. 09:16",
+      "publishedISO": "2026-09-16T09:16:30+02:00",
+      "title": "Foreslår å kutte flyruter i Nordland: Mosjøen og Stokmarknes kan miste FOT-tilbud",
+      "summary": "En ny utredning foreslår å ta Mosjøen og Stokmarknes ut av ordningen med statlig kjøpte flyruter (FOT) fra 2028. Bakgrunnen for forslagene er at ny infrastruktur i Nordland vil endre passasjerenes reisevaner. Konsulentene foreslår også å øke de maksimale gjennomsnittsprisene på FOT-rutene med 30 prosent fra dagens nivå.",
+      "keyPoints": [
+        "En ny utredning foreslår å ta Mosjøen og Stokmarknes ut av ordningen med statlig kjøpte flyruter (FOT) fra 2028.",
+        "Konsulentene foreslår også å øke de maksimale gjennomsnittsprisene på FOT-rutene med 30 prosent fra dagens nivå.",
+        "Bakgrunnen for forslagene er at ny infrastruktur i Nordland vil endre passasjerenes reisevaner.",
+        "Utredningen legger frem et effektiviseringsalternativ for de regionale flyrutene i Nord-Norge for perioden 2028–2033."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/foreslar-a-kutte-flyruter-i-nordland_-mosjoen-og-stokmarknes-kan-miste-fot-tilbud-1.18026384",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/oSHFvgLANX0I73h1vhLpYgDhW2-2NkFlxOKJqyMtM7fA.jpg",
+      "localImage": "assets/news/600c880e22600a.jpg",
+      "score": 24
+    },
     {
       "id": "86fda21882168a",
       "category": "Norge",
@@ -22,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3vzzcIOuDXvyhwpaYzjTJAyfVnTTTP05HhRrfKz4cg8w.jpg",
       "localImage": "assets/news/86fda21882168a.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d77981cdc22937",
@@ -43,28 +64,133 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg",
       "localImage": "assets/news/d77981cdc22937.jpg",
-      "score": 16
+      "score": 14
     },
     {
-      "id": "489d9a16ffe871",
+      "id": "21fef94014daab",
       "category": "USA",
-      "published": "15.09. 20:32",
-      "publishedISO": "2026-09-15T20:32:40+02:00",
-      "title": "Sanders ber USA og Kina om å samarbeide for å regulere AI",
-      "summary": "Senator Bernie Sanders ledet et \"pro-menneskelig\" møte i Washington DC, og advarte om farene kunstig intelligens utgjør. Se: Sanders ber USA og Kina samarbeide om å forby AI-superintelligens. Video, 00:01:08Se: Sanders ber USA og Kina samarbeide om å forby AI-superintelligens Up Next. \"Flott\" eller \"alarmerende\" - Bør AI tøyles?",
+      "published": "16.09. 13:08",
+      "publishedISO": "2026-09-16T13:08:01+02:00",
+      "title": "Carneys nye kjærlighet til EU har alt med Trump å gjøre",
+      "summary": "Katalysatoren for denne svært offentlige, brennende nye kjærligheten er Donald Trump. Carneys nye forelskelse i EU har alt å gjøre med Trump Carney ser på en \"unik allianse\" med EU ettersom handelskrigen med USA intensiverer Island tilkaller USAs ambassadør over Trumps stjerner og stripekart Handelsforhandlinger mellom USA og Canada brøt sammen i slutten av forrige måned. Mens EU, ledet av EU-kommisjonen, ganske enkelt godtok nye generelle Trump-tollsatser uten å slå tilbake, har Carney fremtredende stått opp mot den amerikanske presidenten og raskt innført mottoll på USA.",
       "keyPoints": [
-        "Video, 00:01:08Se: Sanders ber USA og Kina samarbeide om å forby AI-superintelligens Up Next. \"Flott\" eller \"alarmerende\" - Bør AI tøyles?",
-        "Senator Bernie Sanders led a “pro-human” rally in Washington DC, warning of the dangers posed by artificial intelligence.",
-        "Video, 00:01:09AI «sterkere for hver dag», forteller Anthropics medgründer til BBC Watch: Selena Gomez, Zendaya og andre stjerner lyser opp Emmys røde løper.",
-        "Video, 00:01:25Se: Selena Gomez, Zendaya og andre stjerner lyser opp Emmys røde løper «Luck and timing»: Matthew Rhys på sin historiske Emmy Awards-dobbelseier."
+        "Carneys nye forelskelse i EU har alt å gjøre med Trump Carney ser på en \"unik allianse\" med EU ettersom handelskrigen med USA intensiverer Island tilkaller USAs ambassadør over Trumps stjerner og stripekart Handelsforhandlinger mellom USA og Canada brøt sammen i slutten av forrige måned.",
+        "Mens EU, ledet av EU-kommisjonen, ganske enkelt godtok nye generelle Trump-tollsatser uten å slå tilbake, har Carney fremtredende stått opp mot den amerikanske presidenten og raskt innført mottoll på USA.",
+        "Katalysatoren for denne svært offentlige, brennende nye kjærligheten er Donald Trump.",
+        "USAs president Donald Trump, som for tiden er fastlåst i en eskalerende tollstrid med Ottawa, har ved en rekke anledninger erklært sin ambisjon om å gjøre Canada til den 51. amerikanske staten – noe som forårsaker dyp anstøt blant mange kanadiere."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c9e8erg0vk64o",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e3rnxev27o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfd5/live/64c2b880-b132-11f1-809b-8798d8f198d1.jpg",
-      "localImage": "assets/news/489d9a16ffe871.jpg",
-      "score": 24
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/17c3/live/9d415ab0-b1bc-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/21fef94014daab.jpg",
+      "score": 17
+    },
+    {
+      "id": "2c765ba584ba6a",
+      "category": "Økonomi",
+      "published": "16.09. 09:01",
+      "publishedISO": "2026-09-16T09:01:15+02:00",
+      "title": "Oppgang på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs stiger 0,38 prosent rundt klokken 13.30 onsdag. Euronext Growth-noterte Magnora Data Center har inngått en avtale med infrastrukturselskapet Sunly as om å kjøpe 50 prosent av datasenterprosjektet Risti Kampus i Estland, ifølge en melding. Magnora Data Center er eid 52,7 prosent av Oslo Børs-noterte Magnora.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs stiger 0,38 prosent rundt klokken 13.30 onsdag.",
+        "Magnora Data Center er eid 52,7 prosent av Oslo Børs-noterte Magnora.",
+        "Euronext Growth-noterte Magnora Data Center har inngått en avtale med infrastrukturselskapet Sunly as om å kjøpe 50 prosent av datasenterprosjektet Risti Kampus i Estland, ifølge en melding.",
+        "Magnora Data Center-aksjen stiger 2,34 prosent, mens Magnora-aksjen er opp 0,46 prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/6qQJ2e/oslo-boers-stiger-ved-aapning",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c2c261aa-2b24-36b7-9298-e91cf5f33bff?fit=crop&h=675&upscale=true&w=1200&s=71c0c553568b90fd01b69eac5f42cbd6b7dc74eb",
+      "localImage": "assets/news/2c765ba584ba6a.jpg",
+      "score": 20
+    },
+    {
+      "id": "c4baa03a1ff7b3",
+      "category": "Økonomi",
+      "published": "16.09. 13:22",
+      "publishedISO": "2026-09-16T13:22:32+02:00",
+      "title": "2020 Bulkers varsler storsatsing - vil kjøpe inntil 15 offshoreskip",
+      "summary": "Det tidligere tørrlastrederiet 2020 Bulkers, som ble startet opp av Tor Olav Trøim, solgte tidligere i år alle skipene sine og betalte ut hele markedsverdien i utbytte. 2020 Bulkers viser blant annet til en aldrende flåte, begrenset tilgjengelig kapasitet og at kun ett stort AHTS-fartøy er levert siden 2018. – Det er begrenset tilgjengelig kapasitet, og en i praksis fullt utnyttet flåte har ført til den siste tidens rateøkninger, skriver selskapet. Basert på dagens markedsrater, kostnadsnivået i selskapene som kjøpes og den planlagte finansieringen, anslår 2020 Bulkers at virksomheten under visse forutsetninger kan gi en løpende fri kontantstrøm tilsvarende rundt 20 prosent av selskapsverdien.",
+      "keyPoints": [
+        "2020 Bulkers viser blant annet til en aldrende flåte, begrenset tilgjengelig kapasitet og at kun ett stort AHTS-fartøy er levert siden 2018. – Det er begrenset tilgjengelig kapasitet, og en i praksis fullt utnyttet flåte har ført til den siste tidens rateøkninger, skriver selskapet.",
+        "Det tidligere tørrlastrederiet 2020 Bulkers, som ble startet opp av Tor Olav Trøim, solgte tidligere i år alle skipene sine og betalte ut hele markedsverdien i utbytte.",
+        "Basert på dagens markedsrater, kostnadsnivået i selskapene som kjøpes og den planlagte finansieringen, anslår 2020 Bulkers at virksomheten under visse forutsetninger kan gi en løpende fri kontantstrøm tilsvarende rundt 20 prosent av selskapsverdien.",
+        "Disse selskapene eier, eller har avtaler om å kjøpe, totalt opptil 15 store AHTS-fartøy."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/k0Vo39/2020-bulkers-varsler-storsatsing-vil-kjoepe-15-offshoreskip",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8840b9e8-9f15-3a1f-82c0-359ba9efa023?fit=crop&h=675&upscale=true&w=1200&s=22cedf1f536af350eb6a5c61d45f9ad6071582d8",
+      "localImage": "assets/news/c4baa03a1ff7b3.jpg",
+      "score": 17
+    },
+    {
+      "id": "bcfd28e5bc191a",
+      "category": "Økonomi",
+      "published": "16.09. 09:21",
+      "publishedISO": "2026-09-16T09:21:56+02:00",
+      "title": "Frykter USAs gjelds­spiral: – Rente­kostnadene er ventet å eksplodere",
+      "summary": "En høy rente blir særlig problematisk når statens gjeldsberg er på rekordhøye 40.000 milliarder dollar og ligger an til å nå nye høyder de neste årene. Med høye og stigende renter er rentekostnadene ventet å eksplodere herfra. CBO anslår at USAs renteutgifter vil mer enn doble seg de neste ti årene til 2.144 milliarder dollar.",
+      "keyPoints": [
+        "Med høye og stigende renter er rentekostnadene ventet å eksplodere herfra.",
+        "En høy rente blir særlig problematisk når statens gjeldsberg er på rekordhøye 40.000 milliarder dollar og ligger an til å nå nye høyder de neste årene.",
+        "CBO anslår at USAs renteutgifter vil mer enn doble seg de neste ti årene til 2.144 milliarder dollar.",
+        "Tirsdag steg «verdens viktigste rente»Renten på amerikanske statsobligasjoner med ti års løpetid fungerer som en global referanserente."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/QJzz48/frykter-amerikansk-gjeldsspiral-rentekostnadene-er-ventet-aa-eksplodere",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4965ba28-bae3-3619-a97d-cdd43e56cec1?fit=crop&h=675&upscale=true&w=1200&s=93e841c4323449adedcf082623c2f6e4eae4615f",
+      "localImage": "assets/news/bcfd28e5bc191a.jpg",
+      "score": 17
+    },
+    {
+      "id": "89898a67497797",
+      "category": "Økonomi",
+      "published": "16.09. 10:00",
+      "publishedISO": "2026-09-16T10:00:01+02:00",
+      "title": "Nyboligsalget: – Historisk svakt",
+      "summary": "Salget av nye boliger i august ligger 24 prosent under samme måned i fjor, mens igangsettingen av nye boliger er ned 3 prosent. Nyboligsalget i august er den svakeste augustmåneden som er målt siden Boligprodusentenes Forening startet de månedlige målingene i 2010, fremgår det under overskriften «Historisk svakt nyboligsalg før statsbudsjettet». Det betyr at nyboligsalget ligger 52 prosent under behovet, påpeker Boligprodusentene. – Det som selges i dag, er det som skal bygges de neste årene, sier Hoff.",
+      "keyPoints": [
+        "Nyboligsalget i august er den svakeste augustmåneden som er målt siden Boligprodusentenes Forening startet de månedlige målingene i 2010, fremgår det under overskriften «Historisk svakt nyboligsalg før statsbudsjettet».",
+        "Det betyr at nyboligsalget ligger 52 prosent under behovet, påpeker Boligprodusentene. – Det som selges i dag, er det som skal bygges de neste årene, sier Hoff.",
+        "Salget av nye boliger i august ligger 24 prosent under samme måned i fjor, mens igangsettingen av nye boliger er ned 3 prosent.",
+        "Konstituert administrerende direktør i Boligprodusentenes Forening – Hittil i år er salget av nye boliger 18 prosent lavere enn på samme tid i fjor, mens igangsettingen er på nivå med 2025, sier Maria Hoff, konstituert administrerende direktør i Boligprodusentenes Forening."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/Rj0AGr/nyboligsalget-historisk-svakt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8e2d2cb6-57b6-363a-a0aa-7fa9ab0a0a26?fit=crop&h=675&upscale=true&w=1200&s=66bebc3ae58c8051e602fdb2d6679bcba49abf5e",
+      "localImage": "assets/news/89898a67497797.jpg",
+      "score": 16
+    },
+    {
+      "id": "c57ad470e6ddf2",
+      "category": "Norge",
+      "published": "16.09. 07:36",
+      "publishedISO": "2026-09-16T07:36:19+02:00",
+      "title": "Svensk bil funnet i havet i Balsfjord",
+      "summary": "To berusede personer er funnet etter en bil havnet i havet ved Nordbyelva i Balsfjord. Det ble starta et omfattende søk med politi, redningshelikopter og frivillig letemannskap da en bil ble oppdaget i havet ved Malangsveien i Balsfjord. Bilen ble funnet i vannkanten langs Malangsveien i Balsfjord.",
+      "keyPoints": [
+        "To berusede personer er funnet etter en bil havnet i havet ved Nordbyelva i Balsfjord.",
+        "Det ble starta et omfattende søk med politi, redningshelikopter og frivillig letemannskap da en bil ble oppdaget i havet ved Malangsveien i Balsfjord.",
+        "Bilen ble funnet i vannkanten langs Malangsveien i Balsfjord.",
+        "Noen timer senere kom svensk politi i kontakt med eier av den svenskregistrerte bilen, og fikk navn på de som brukte den. – Disse to er vi nå i kontakt med på et overnattingssted i nærheten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/svensk-bil-funnet-i-havet-i-balsfjord-1.18026355",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/nPgdIWtD6h2Dq_9KYms5xgZ6iQhaM_TnYAiu18c3-S8Q.jpg",
+      "localImage": "assets/news/c57ad470e6ddf2.jpg",
+      "score": 16
     },
     {
       "id": "806ec714478e2c",
@@ -85,133 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9ddbbf68-7b92-38f9-9610-ddcaab9df0da?fit=crop&h=675&upscale=true&w=1200&s=cdb89a87a9d414f3d2d62e433aef2260560d3e30",
       "localImage": "assets/news/806ec714478e2c.jpg",
-      "score": 17
-    },
-    {
-      "id": "dde471821912c4",
-      "category": "Økonomi",
-      "published": "16.09. 06:06",
-      "publishedISO": "2026-09-16T06:06:36+02:00",
-      "title": "Når sikkerhetsnettet feiler",
-      "summary": "Kanskje ikke noe nytt i seg selv, men bakteppet er at stadig flere store konsulentselskaper, som historisk nærmest har støvsugd markedet for nyutdannede økonomer, har satt på bremsen. På NHH snakkes det blant studentene i gangene, og rektor Helge Thorbjørnsen bekrefter også et «betydelig høyere stressnivå blant studentene nå enn tidligere». Det har blitt tøffere nå, sier toppsjef Torgeir Dahle i konsulentselskapet Cedra, som ble etablert i 2025 og har kjøpt opp virksomheter fra blant annet KPMG, EY og Deloitte.",
-      "keyPoints": [
-        "Det har blitt tøffere nå, sier toppsjef Torgeir Dahle i konsulentselskapet Cedra, som ble etablert i 2025 og har kjøpt opp virksomheter fra blant annet KPMG, EY og Deloitte.",
-        "Kanskje ikke noe nytt i seg selv, men bakteppet er at stadig flere store konsulentselskaper, som historisk nærmest har støvsugd markedet for nyutdannede økonomer, har satt på bremsen.",
-        "På NHH snakkes det blant studentene i gangene, og rektor Helge Thorbjørnsen bekrefter også et «betydelig høyere stressnivå blant studentene nå enn tidligere».",
-        "Tidligere i år viste en undersøkelse fra NIFUNordisk institutt for studier av innovasjon, forskning og utdanning at arbeidsledigheten blant nyutdannede masterstudenter er skyhøy."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/karriere-og-ledelse/i/pBOLm1/naar-sikkerhetsnettet-feiler",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e9378c4f-6bb0-37a0-95f3-47c0af50cee8?fit=crop&h=675&upscale=true&w=1200&s=a6427dc7a1127d7da74948dd79109d13e876635a",
-      "localImage": "assets/news/dde471821912c4.jpg",
-      "score": 17
-    },
-    {
-      "id": "d50a997cd5c025",
-      "category": "Økonomi",
-      "published": "16.09. 06:10",
-      "publishedISO": "2026-09-16T06:10:53+02:00",
-      "title": "Pareto-sjefen advarer om energisjokk: – Kan bli en alvorlig krise",
-      "summary": "Men det er klart at jo lenger konflikten i Midtøsten trekker ut – til slutt har man ikke lagre igjen. – Og da kan det bli en alvorlig krise, med vesentlig høyere priser enn det vi ser nå. Pareto-sjefen trekker frem at aksjemarkedene, tross mye uro, har klart seg bra. Sluttproduktene, som flybensin og diesel, har steget kraftig, også på grunn av knapphet på raffineriene. – Vi ser et alvorlig bakteppe, men alle energisegmentene har steget mye. – Det er mye uro, hva tror du er grunnen til at markedene klarer seg bra? – Markedet har sett litt gjennom de kortsiktige svingningene foreløpig.",
-      "keyPoints": [
-        "Men det er klart at jo lenger konflikten i Midtøsten trekker ut – til slutt har man ikke lagre igjen. – Og da kan det bli en alvorlig krise, med vesentlig høyere priser enn det vi ser nå.",
-        "Sluttproduktene, som flybensin og diesel, har steget kraftig, også på grunn av knapphet på raffineriene. – Vi ser et alvorlig bakteppe, men alle energisegmentene har steget mye. – Det er mye uro, hva tror du er grunnen til at markedene klarer seg bra? – Markedet har sett litt gjennom de kortsiktige svingningene foreløpig.",
-        "Pareto-sjefen trekker frem at aksjemarkedene, tross mye uro, har klart seg bra.",
-        "Olje- og gassprisene har steget kraftig før toppene møtes på Paretos energikonferanse. – Det er et litt mørkt bakteppe, med geopolitisk uro – krig i Iran og krig i Ukraina, sier Pareto Securities-sjef Christian Jomaas til E24."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/y522JJ/pareto-sjefen-advarer-om-energisjokk-kan-bli-en-alvorlig-krise",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f11ce3c4-bbee-3076-b602-f65944a9146e?fit=crop&h=675&upscale=true&w=1200&s=8f02be519870c8e08f236d2b7eaf35d15efbfe2e",
-      "localImage": "assets/news/d50a997cd5c025.jpg",
       "score": 16
-    },
-    {
-      "id": "4a510331648ebd",
-      "category": "USA",
-      "published": "15.09. 22:35",
-      "publishedISO": "2026-09-15T22:35:00+02:00",
-      "title": "Watch: Why is Donald Trump so opposed to regulating AI?",
-      "summary": "Video produced by Cai Pigliucci, filmed by Ian Druce, edited by Meiying Wu Why is Donald Trump so opposed to regulating AI? Video, 00:01:12Why is Donald Trump so opposed to regulating AI? Video, 00:00:57'Maybe they'll shoot you' - Carney recalls Trump's gift of White House key Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet.",
-      "keyPoints": [
-        "Video produced by Cai Pigliucci, filmed by Ian Druce, edited by Meiying Wu Why is Donald Trump so opposed to regulating AI?",
-        "Video, 00:00:57'Maybe they'll shoot you' - Carney recalls Trump's gift of White House key Watch: Selena Gomez, Zendaya and other stars light up Emmys red carpet.",
-        "But US President Donald Trump is opposing calls to regulate the technology.",
-        "Watch: Why a Russian strike on train near Ukraine-Poland border could mark an escalation."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cmvgyp7n98zvo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5cad/live/cc1f3b00-b143-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/4a510331648ebd.jpg",
-      "score": 16
-    },
-    {
-      "id": "d1f7df38bf4aa6",
-      "category": "Økonomi",
-      "published": "15.09. 09:00",
-      "publishedISO": "2026-09-15T09:00:39+02:00",
-      "title": "Tankaksjer steg på Oslo Børs",
-      "summary": "Oslo Børs hentet seg inn mot slutten av tirsdagen, etter å ha vært ned tidligere på dagen. Den falt i går kveld, steg igjen i dag tidlig, før den falt tilbake i ettermiddag. Tankaksjer har gjort det bra den siste tiden, i kjølvannet av Midtøsten-krigen og forstyrrelsene for handelsruter.",
-      "keyPoints": [
-        "Oslo Børs hentet seg inn mot slutten av tirsdagen, etter å ha vært ned tidligere på dagen.",
-        "Den falt i går kveld, steg igjen i dag tidlig, før den falt tilbake i ettermiddag.",
-        "Tankaksjer har gjort det bra den siste tiden, i kjølvannet av Midtøsten-krigen og forstyrrelsene for handelsruter.",
-        "Riggselskapet Borr Drilling selger sin eierandel på 51 prosent i de meksikanske fellesforetakene Perfomex til sin lokale partner, opplyser selskapet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2pzl8v/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f4df9ecc-b49a-3817-aaba-585009486fb0?fit=crop&h=675&upscale=true&w=1200&s=e0283879d09abde8c202217170ec3cec83b0bd0a",
-      "localImage": "assets/news/d1f7df38bf4aa6.jpg",
-      "score": 16
-    },
-    {
-      "id": "f0a277265d282d",
-      "category": "Økonomi",
-      "published": "15.09. 15:33",
-      "publishedISO": "2026-09-15T15:33:57+02:00",
-      "title": "De frykter AI. Men tør ikke bremse",
-      "summary": "Men i kappløpet mot Kina kan det farligste være å bremse først. Coxon frykter særlig AI-svermer som blir gode nok til å forbedre seg selv. I verste fall frykter 27-åringen at AI kan utslette menneskeheten før tiåret er over.",
-      "keyPoints": [
-        "Men i kappløpet mot Kina kan det farligste være å bremse først.",
-        "I verste fall frykter 27-åringen at AI kan utslette menneskeheten før tiåret er over.",
-        "Coxon frykter særlig AI-svermer som blir gode nok til å forbedre seg selv.",
-        "Strengere regler kan potensielt også beskytte dagens giganter mot nye rivaler og såkalte åpne AI-modellerI en åpen AI-modell gjør en utvikler hele eller deler av modellen tilgjengelig for andre, slik at de kan laste den ned, bruke den, tilpasse den og i noen tilfeller bygge videre på den.."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/n12JOB/de-frykter-ai-men-toer-ikke-bremse",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/fd948c5b-3323-3419-a032-ce53c0c35572?fit=crop&h=675&upscale=true&w=1200&s=86f0c0f7be5dab0ad3a0e571f3cb493af796d838",
-      "localImage": "assets/news/f0a277265d282d.jpg",
-      "score": 14
-    },
-    {
-      "id": "6af102b4bd7df8",
-      "category": "Norge",
-      "published": "14.09. 17:35",
-      "publishedISO": "2026-09-14T17:35:38+02:00",
-      "title": "Zelenskyj: Ukraina vil avstå fra angrep hvis Russland gjør det samme",
-      "summary": "Ukraina og Russland har blitt enige om å ikke angripe hverandres energianlegg, hevder USAs president Donald Trump i et innlegg på Truth Social. – Ukraina har gått med på å ikke angripe russiske energianlegg. En stund etter kommenterer Zelenskyj uttalelsene: – Ukraina har foreslått at våre partnere bidrar til å sikre en avtale med Russland om å stanse ødeleggelsen av kritisk infrastruktur, skriver Ukrainas president Volodymyr Zelenskyj på Telegram. Han skriver også at dersom Russland faktisk avstår fra å angripe ukrainsk infrastruktur, er Ukraina villig til å avstå fra egne angrep.",
-      "keyPoints": [
-        "Han skriver også at dersom Russland faktisk avstår fra å angripe ukrainsk infrastruktur, er Ukraina villig til å avstå fra egne angrep.",
-        "En stund etter kommenterer Zelenskyj uttalelsene: – Ukraina har foreslått at våre partnere bidrar til å sikre en avtale med Russland om å stanse ødeleggelsen av kritisk infrastruktur, skriver Ukrainas president Volodymyr Zelenskyj på Telegram.",
-        "Ukraina og Russland har blitt enige om å ikke angripe hverandres energianlegg, hevder USAs president Donald Trump i et innlegg på Truth Social. – Ukraina har gått med på å ikke angripe russiske energianlegg.",
-        "I februar 2022 gikk Russland til fullskala invasjon – se emneknaggen «Krigen i Ukraina»."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/zelenskyj_-ukraina-vil-avsta-fra-angrep-hvis-russland-gjor-det-samme-1.18024674",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.528/common/img/default.jpg",
-      "localImage": "assets/news/6af102b4bd7df8.jpg",
-      "score": 14
     }
   ]
 }
