@@ -1,6 +1,6 @@
 {
-  "updatedAt": "16.09.2026 kl. 18:42",
-  "updatedISO": "2026-09-16T18:42:11.721483+02:00",
+  "updatedAt": "16.09.2026 kl. 21:44",
+  "updatedISO": "2026-09-16T21:44:17.800453+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/oSHFvgLANX0I73h1vhLpYgDhW2-2NkFlxOKJqyMtM7fA.jpg",
       "localImage": "assets/news/600c880e22600a.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "fb484b25b60365",
@@ -46,24 +46,24 @@
       "score": 17
     },
     {
-      "id": "add19c4a67ada2",
+      "id": "e8e9cc4527e42e",
       "category": "Verden",
-      "published": "16.09. 15:51",
-      "publishedISO": "2026-09-16T15:51:26+02:00",
-      "title": "Charity Ekezie - Nigeria’s ‘sarcasm queen’ - answers ‘silly’ questions about Africa",
-      "summary": "Den nigerianske journalisten og innholdsskaperen Charity Ekezie mener den beste måten å utfordre negative stereotypier om Afrika på er å le av dem. Nigerias «sarkasmedronning» svarer på «dumme» spørsmål om Afrika. Video, 00:02:24Nigerias «sarkasmedronning» svarer på «dumme» spørsmål om Africa Up Next.",
+      "published": "16.09. 20:36",
+      "publishedISO": "2026-09-16T20:36:16+02:00",
+      "title": "Photos show widespread damage at US sites from Iranian attacks",
+      "summary": "Et udatert bilde viser en bil som angivelig ble ødelagt i et iransk angrep ved Camp Buehring i Kuwait. Bilder som viser omfattende skader på flere amerikanske nettsteder i Midtøsten fra iranske angrep er innhentet av BBCs amerikanske partner CBS. De udaterte bildene ble tatt på amerikanske baser og steder i Saudi-Arabia og Kuwait. Trailere ødelagt av iransk streik ved Camp Buehring, Kuwait Udatert bilde viser røyk som bølger opp fra en struktur som fikk skade i et iransk angrep på Camp Buehring, Kuwait Et annet bilde viser en fire-etasjes bygning skadet av et iransk angrep ved Camp Arifjan, i Kuwait.",
       "keyPoints": [
-        "Nigeria’s ‘sarcasm queen’ answers ‘silly’ questions about Africa.",
-        "Den nigerianske journalisten og innholdsskaperen Charity Ekezie mener den beste måten å utfordre negative stereotypier om Afrika på er å le av dem.",
-        "35-åringen forteller BBC om noen av de dummeste spørsmålene hun har svart på.",
-        "In her social media videos, she often replies to questions sarcastically - turning ignorance into comedy."
+        "Et udatert bilde viser en bil som angivelig ble ødelagt i et iransk angrep ved Camp Buehring i Kuwait. Bilder som viser omfattende skader på flere amerikanske nettsteder i Midtøsten fra iranske angrep er innhentet av BBCs amerikanske partner CBS.",
+        "Trailere ødelagt av iransk streik ved Camp Buehring, Kuwait Udatert bilde viser røyk som bølger opp fra en struktur som fikk skade i et iransk angrep på Camp Buehring, Kuwait Et annet bilde viser en fire-etasjes bygning skadet av et iransk angrep ved Camp Arifjan, i Kuwait.",
+        "De udaterte bildene ble tatt på amerikanske baser og steder i Saudi-Arabia og Kuwait.",
+        "Bildene, levert av aktivt militært personell, viser en avkuttet radarjet, sammenflatede trailere og alvorlig skadede bygninger."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cq62jvr18ny4o",
+      "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c0ee/live/52e78110-b1d5-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/add19c4a67ada2.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/e8e9cc4527e42e.jpg",
       "score": 13
     },
     {
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e4bc7f6e-8495-3f3a-abf3-7384fc61fe58?fit=crop&h=675&upscale=true&w=1200&s=19ed09c95df858fbb9d24675588b2aa017ed86fa",
       "localImage": "assets/news/197716d8598f53.jpg",
-      "score": 22
+      "score": 21
     },
     {
       "id": "ba5e68b6d96676",
@@ -148,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c2c261aa-2b24-36b7-9298-e91cf5f33bff?fit=crop&h=675&upscale=true&w=1200&s=71c0c553568b90fd01b69eac5f42cbd6b7dc74eb",
       "localImage": "assets/news/fa8a89dc119b93.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "0249fb1681917a",
@@ -190,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/KOL_0qdURoa8HqCJPcSMmA9zLYwvCkJSWc6D9yz2TDbA.jpg",
       "localImage": "assets/news/e9cb8a8f4c7323.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "bcfd28e5bc191a",
@@ -211,7 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4965ba28-bae3-3619-a97d-cdd43e56cec1?fit=crop&h=675&upscale=true&w=1200&s=93e841c4323449adedcf082623c2f6e4eae4615f",
       "localImage": "assets/news/bcfd28e5bc191a.jpg",
-      "score": 16
+      "score": 15
     }
   ]
 }
