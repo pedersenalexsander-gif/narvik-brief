@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17.09.2026 kl. 02:47",
-  "updatedISO": "2026-09-17T02:47:57.699147+02:00",
+  "updatedAt": "17.09.2026 kl. 07:50",
+  "updatedISO": "2026-09-17T07:50:26.875275+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/oSHFvgLANX0I73h1vhLpYgDhW2-2NkFlxOKJqyMtM7fA.jpg",
       "localImage": "assets/news/600c880e22600a.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "1a9ff9204fe5ba",
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ic0E-JCRlhJWB9FBfB2aRAur_zH1YagdtkP5DkkLqJdA.jpg",
       "localImage": "assets/news/1a9ff9204fe5ba.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "21fef94014daab",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/45cc/live/43719d00-b1cc-11f1-8493-1910d79d53eb.jpg",
       "localImage": "assets/news/21fef94014daab.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "48c5c32ca1e894",
@@ -85,7 +85,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ba5/live/70404c50-b217-11f1-8117-470b3119e06f.jpg",
       "localImage": "assets/news/48c5c32ca1e894.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "e42eba61ab51bc",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1414cbb1-2cc7-3684-91d5-81c80dd92c56?fit=crop&h=675&upscale=true&w=1200&s=4da197d1b1e41365f972ec643db3e541ec4e9668",
       "localImage": "assets/news/e42eba61ab51bc.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "197716d8598f53",
@@ -127,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e4bc7f6e-8495-3f3a-abf3-7384fc61fe58?fit=crop&h=675&upscale=true&w=1200&s=19ed09c95df858fbb9d24675588b2aa017ed86fa",
       "localImage": "assets/news/197716d8598f53.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "ba5e68b6d96676",
@@ -148,19 +148,19 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8840b9e8-9f15-3a1f-82c0-359ba9efa023?fit=crop&h=675&upscale=true&w=1200&s=22cedf1f536af350eb6a5c61d45f9ad6071582d8",
       "localImage": "assets/news/ba5e68b6d96676.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "0f25b3b012ab16",
+      "id": "2f35fb67f0d23d",
       "category": "Økonomi",
       "published": "17.09. 02:38",
       "publishedISO": "2026-09-17T02:38:50+02:00",
-      "title": "How Trump's hand-picked Fed chair defied him by raising interest rates",
-      "summary": "Hvordan Trumps håndplukkede Fed-stol trosset ham ved å heve renten. Video, 00:01:33Hvordan Trumps håndplukkede Fed-stol trosset ham ved å heve renten Up Next. Video, 00:01:21Hvordan økende obligasjonsrenter påvirker amerikanske forbrukere Se: Hvorfor har Federal Reserve hevet renten?",
+      "title": "Why Trump's hand-picked Fed chair defied him by raising interest rates",
+      "summary": "Hvorfor Trumps håndplukkede Fed-stol trosset ham ved å heve renten. Video, 00:01:33Hvorfor Trumps håndplukkede Fed-stol trosset ham ved å heve renten Up Next. Video, 00:01:21Hvordan økende obligasjonsrenter påvirker amerikanske forbrukere Se: Hvorfor har Federal Reserve hevet renten?",
       "keyPoints": [
-        "Video, 00:01:33How Trump's hand-picked Fed chair defied him by raising interest rates Up Next.",
+        "Why Trump's hand-picked Fed chair defied him by raising interest rates.",
         "Video, 00:01:21Hvordan økende obligasjonsrenter påvirker amerikanske forbrukere Se: Hvorfor har Federal Reserve hevet renten?",
-        "Amerikanske renter er hevet for første gang på mer enn tre år til 3,75%-4% fra 3,5%-3,75% av Federal Reserve.",
+        "Amerikanske renter har blitt hevet for første gang på mer enn tre år til 3,75%-4% fra 3,5%-3,75% av Federal Reserve.",
         "Fed Chair Kevin Warsh warned they could be increased further later this year in a bid to slow rising prices."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
@@ -168,8 +168,8 @@
       "url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abef/live/2985fd10-b22f-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/0f25b3b012ab16.jpg",
-      "score": 17
+      "localImage": "assets/news/2f35fb67f0d23d.jpg",
+      "score": 16
     },
     {
       "id": "fa8a89dc119b93",
@@ -190,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c2c261aa-2b24-36b7-9298-e91cf5f33bff?fit=crop&h=675&upscale=true&w=1200&s=71c0c553568b90fd01b69eac5f42cbd6b7dc74eb",
       "localImage": "assets/news/fa8a89dc119b93.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "fb484b25b60365",
@@ -211,7 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ovLjO9c7jZLx8vwzT9OotgR5XK8yCmM_0-vwBeJJFHlg.jpg",
       "localImage": "assets/news/fb484b25b60365.jpg",
-      "score": 16
+      "score": 15
     }
   ]
 }
