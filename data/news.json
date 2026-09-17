@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17.09.2026 kl. 00:24",
-  "updatedISO": "2026-09-17T00:24:13.495099+02:00",
+  "updatedAt": "17.09.2026 kl. 02:47",
+  "updatedISO": "2026-09-17T02:47:57.699147+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,6 +67,27 @@
       "score": 15
     },
     {
+      "id": "48c5c32ca1e894",
+      "category": "USA",
+      "published": "17.09. 01:17",
+      "publishedISO": "2026-09-17T01:17:03+02:00",
+      "title": "Top Democrat Gregory Meeks opposes US sale of heavy bombs to Israel",
+      "summary": "Den øverste demokraten i en kongresskomité som vurderer våpenavtaler har sagt at han ikke vil støtte et foreslått våpensalg på 2,8 milliarder dollar (2,1 milliarder pund) til Israel. Gregory Meeks sa at han ikke ville støtte overføringen av 2000 lb (900 kg) bomber til Israel på grunn av bekymringer om at de ikke kan bli brukt i samsvar med internasjonal lov. New York-kongressmannens innvending følger rapporter om at USA planlegger å forsyne Israel med 40 000 av det Meeks kalte \"noen av de mest ødeleggende ammunisjonene i vårt arsenal\".",
+      "keyPoints": [
+        "Den øverste demokraten i en kongresskomité som vurderer våpenavtaler har sagt at han ikke vil støtte et foreslått våpensalg på 2,8 milliarder dollar (2,1 milliarder pund) til Israel.",
+        "Gregory Meeks sa at han ikke ville støtte overføringen av 2000 lb (900 kg) bomber til Israel på grunn av bekymringer om at de ikke kan bli brukt i samsvar med internasjonal lov.",
+        "New York-kongressmannens innvending følger rapporter om at USA planlegger å forsyne Israel med 40 000 av det Meeks kalte \"noen av de mest ødeleggende ammunisjonene i vårt arsenal\".",
+        "Israel's use of General Dynamics-manufactured 2,000lb bombs in Gaza has drawn international anger owing to their devastating effects in densely populated civilian areas."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/crn8e20lep75o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5ba5/live/70404c50-b217-11f1-8117-470b3119e06f.jpg",
+      "localImage": "assets/news/48c5c32ca1e894.jpg",
+      "score": 17
+    },
+    {
       "id": "e42eba61ab51bc",
       "category": "Økonomi",
       "published": "16.09. 22:40",
@@ -106,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e4bc7f6e-8495-3f3a-abf3-7384fc61fe58?fit=crop&h=675&upscale=true&w=1200&s=19ed09c95df858fbb9d24675588b2aa017ed86fa",
       "localImage": "assets/news/197716d8598f53.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "ba5e68b6d96676",
@@ -128,6 +149,27 @@
       "image": "https://akamai.vgc.no/v2/images/8840b9e8-9f15-3a1f-82c0-359ba9efa023?fit=crop&h=675&upscale=true&w=1200&s=22cedf1f536af350eb6a5c61d45f9ad6071582d8",
       "localImage": "assets/news/ba5e68b6d96676.jpg",
       "score": 19
+    },
+    {
+      "id": "0f25b3b012ab16",
+      "category": "Økonomi",
+      "published": "17.09. 02:38",
+      "publishedISO": "2026-09-17T02:38:50+02:00",
+      "title": "How Trump's hand-picked Fed chair defied him by raising interest rates",
+      "summary": "Hvordan Trumps håndplukkede Fed-stol trosset ham ved å heve renten. Video, 00:01:33Hvordan Trumps håndplukkede Fed-stol trosset ham ved å heve renten Up Next. Video, 00:01:21Hvordan økende obligasjonsrenter påvirker amerikanske forbrukere Se: Hvorfor har Federal Reserve hevet renten?",
+      "keyPoints": [
+        "Video, 00:01:33How Trump's hand-picked Fed chair defied him by raising interest rates Up Next.",
+        "Video, 00:01:21Hvordan økende obligasjonsrenter påvirker amerikanske forbrukere Se: Hvorfor har Federal Reserve hevet renten?",
+        "Amerikanske renter er hevet for første gang på mer enn tre år til 3,75%-4% fra 3,5%-3,75% av Federal Reserve.",
+        "Fed Chair Kevin Warsh warned they could be increased further later this year in a bid to slow rising prices."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c54g7wg1l3d3o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/abef/live/2985fd10-b22f-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/0f25b3b012ab16.jpg",
+      "score": 17
     },
     {
       "id": "fa8a89dc119b93",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ovLjO9c7jZLx8vwzT9OotgR5XK8yCmM_0-vwBeJJFHlg.jpg",
       "localImage": "assets/news/fb484b25b60365.jpg",
-      "score": 16
-    },
-    {
-      "id": "0249fb1681917a",
-      "category": "Økonomi",
-      "published": "16.09. 17:47",
-      "publishedISO": "2026-09-16T17:47:39+02:00",
-      "title": "Kapital: 4,3 milliarder i formue",
-      "summary": "Nå ligger han på 123. plass, ifølge Kapital, som anslår at 26-åringen er god for 4,3 milliarder kroner. Kapital har regnet ut at økningen på 2,5 milliarder på tre år tilsvarer et formuesøkning på 17,5 millioner kroner per mål143 mål jærbuen har scoret i perioden. Et godt stykke bak ham ligger blant annet Arsenal- og landslagskaptein Martin Ødegaard (382. plass). – Bjørn DæhlieNorsk skikonge som har tjent gode penger på blant annet sportsutstyr etter karrieren blir som en Narvesen-kiosk ved siden av Haaland, sier økonomiprofessor Ola Honningsdal Grytten ved Norges Handelshøyskole (NHH) til Kapital.",
-      "keyPoints": [
-        "Kapital har regnet ut at økningen på 2,5 milliarder på tre år tilsvarer et formuesøkning på 17,5 millioner kroner per mål143 mål jærbuen har scoret i perioden.",
-        "Nå ligger han på 123. plass, ifølge Kapital, som anslår at 26-åringen er god for 4,3 milliarder kroner.",
-        "Et godt stykke bak ham ligger blant annet Arsenal- og landslagskaptein Martin Ødegaard (382. plass). – Bjørn DæhlieNorsk skikonge som har tjent gode penger på blant annet sportsutstyr etter karrieren blir som en Narvesen-kiosk ved siden av Haaland, sier økonomiprofessor Ola Honningsdal Grytten ved Norges Handelshøyskole (NHH) til Kapital.",
-        "Kapital anslår at Haaland har samlede årlige inntekter på rundt 800 millioner kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/43wa9G/kapital-4-3-milliarder-i-formue",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/55137408-8c95-3704-ab12-929324514db9?fit=crop&h=675&upscale=true&w=1200&s=df6f2fbac78fc7a114903b8a80e75b0c47d691e5",
-      "localImage": "assets/news/0249fb1681917a.jpg",
-      "score": 16
-    },
-    {
-      "id": "e9cb8a8f4c7323",
-      "category": "Norge",
-      "published": "16.09. 16:13",
-      "publishedISO": "2026-09-16T16:13:41+02:00",
-      "title": "Ny aksjon på Karlsøybruket månadar før rettssaka",
-      "summary": "Vi rapporterer frå Nord-Troms og Senja tingrett Under innleiingsføredraget dei første dagane av den omfattande fiskekrimrettssaka opplyste statsadvokat Tor Børge Nordmo at politiet så seint som 18. juni 2026 gjennomførte ein ny aksjon mot Karlsøybruket på Vannøya. – Politiet fant det nødvendig å aksjonere mot Karlsøybruket igjen, seier Nordmo. Aktor Tor Børge Nordmo opplyste i retten om aksjonen mot Karlsøybruket som skjedde 18. juni 2026. Advokaten til Karlsøybruket, Reidar Andresen, stadfestar at det etter ein fornya gjennomgang internt på Karlsøybruket i mai i år vart funne 12 ringpermar med vegelappar.",
-      "keyPoints": [
-        "Vi rapporterer frå Nord-Troms og Senja tingrett Under innleiingsføredraget dei første dagane av den omfattande fiskekrimrettssaka opplyste statsadvokat Tor Børge Nordmo at politiet så seint som 18. juni 2026 gjennomførte ein ny aksjon mot Karlsøybruket på Vannøya. – Politiet fant det nødvendig å aksjonere mot Karlsøybruket igjen, seier Nordmo.",
-        "Aktor Tor Børge Nordmo opplyste i retten om aksjonen mot Karlsøybruket som skjedde 18. juni 2026.",
-        "Advokaten til Karlsøybruket, Reidar Andresen, stadfestar at det etter ein fornya gjennomgang internt på Karlsøybruket i mai i år vart funne 12 ringpermar med vegelappar.",
-        "Fiskemottaket Karlsøybruket på Vannøya fekk igjen besøk av politiet 18. juni 2026."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/ny-aksjon-pa-karlsoybruket-manadar-for-rettssaka-1.18026631",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/KOL_0qdURoa8HqCJPcSMmA9zLYwvCkJSWc6D9yz2TDbA.jpg",
-      "localImage": "assets/news/e9cb8a8f4c7323.jpg",
       "score": 16
     }
   ]
