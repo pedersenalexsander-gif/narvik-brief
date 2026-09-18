@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.09.2026 kl. 19:43",
-  "updatedISO": "2026-09-18T19:43:34.756221+02:00",
+  "updatedAt": "18.09.2026 kl. 22:00",
+  "updatedISO": "2026-09-18T22:00:04.870388+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,25 +25,25 @@
       "score": 16
     },
     {
-      "id": "842e07e4e2d770",
+      "id": "5c002debde8f27",
       "category": "Verden",
-      "published": "18.09. 19:31",
-      "publishedISO": "2026-09-18T19:31:30+02:00",
-      "title": "Kohat: At least 21 killed in attack on mosque in Pakistan's Khyber Pakhtunkhwa",
-      "summary": "Eksplosjonen skjedde ved en moskébygning nær politiets hovedkvarter. Et bilbombeangrep mot en moske i det nordvestlige Pakistan har drept minst 21 mennesker og skadet mer enn 100, sier tjenestemenn. Femten politimenn og et fire år gammelt barn er blant de drepte i angrepet, som også involverte våpenmenn som skjøt mot et politianlegg i byen Kohat i provinsen Khyber Pakhtunkhwa, rapporterte det pakistanske nyhetsbyrået APP. Khyber Pakhtunkhwa-politiets insp Gen Zulfikar Hameed beskrev det som et \"selvmordsangrep\", ifølge nyhetsbyrået Reuters, som også rapporterte at alle syv angriperne var drept i eksplosjonen og skuddslaget som fulgte.",
+      "published": "18.09. 21:54",
+      "publishedISO": "2026-09-18T21:54:41+02:00",
+      "title": "Donald Trump sier at han forbyr CNN, Politico og MS NÅ fra Det hvite hus",
+      "summary": "Trump har tatt en aggressiv tilnærming til pressekorpset i Det hvite hus siden han kom tilbake til vervet i fjor. USAs president Donald Trump har kunngjort at han «umiddelbart» forbyr CNN, MS NOW og Politico fra Det hvite hus, den siste vrien i hans hektiske forhold til amerikanske medier. Siden han kom tilbake til embetet i januar 2025, har Trump og administrasjonstjenestemenn gjentatte ganger kollidert med medlemmer av Det hvite hus pressekorps.",
       "keyPoints": [
-        "Femten politimenn og et fire år gammelt barn er blant de drepte i angrepet, som også involverte våpenmenn som skjøt mot et politianlegg i byen Kohat i provinsen Khyber Pakhtunkhwa, rapporterte det pakistanske nyhetsbyrået APP.",
-        "Eksplosjonen skjedde ved en moskébygning nær politiets hovedkvarter. Et bilbombeangrep mot en moske i det nordvestlige Pakistan har drept minst 21 mennesker og skadet mer enn 100, sier tjenestemenn.",
-        "Khyber Pakhtunkhwa-politiets insp Gen Zulfikar Hameed beskrev det som et \"selvmordsangrep\", ifølge nyhetsbyrået Reuters, som også rapporterte at alle syv angriperne var drept i eksplosjonen og skuddslaget som fulgte.",
-        "Militansen i Pakistans grenseområder har økt kraftig de siste månedene, med væpnede grupper rettet mot militæret og politiet."
+        "USAs president Donald Trump har kunngjort at han «umiddelbart» forbyr CNN, MS NOW og Politico fra Det hvite hus, den siste vrien i hans hektiske forhold til amerikanske medier.",
+        "Siden han kom tilbake til embetet i januar 2025, har Trump og administrasjonstjenestemenn gjentatte ganger kollidert med medlemmer av Det hvite hus pressekorps.",
+        "Trump har tatt en aggressiv tilnærming til pressekorpset i Det hvite hus siden han kom tilbake til vervet i fjor.",
+        "I februar samme år kunngjorde Det hvite hus at det tok tilbake kontrollen over pressepoolen som har tilgang til Trump og som i mer enn et århundre hadde vært administrert av Det hvite hus korrespondentforening."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
-      "localImage": "assets/news/842e07e4e2d770.jpg",
-      "score": 13
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0c10/live/9d352f80-b39a-11f1-bf60-ad6e22c4842e.jpg",
+      "localImage": "assets/news/5c002debde8f27.jpg",
+      "score": 17
     },
     {
       "id": "232894f3929652",
@@ -85,91 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7fe36542-b857-3fb7-8b90-e5f0438c8105?fit=crop&h=675&upscale=true&w=1200&s=21c853ae198b77d4ea5b89d80cfea12476eff6ce",
       "localImage": "assets/news/94b36437c6f21a.jpg",
-      "score": 19
-    },
-    {
-      "id": "0978bdefa1aeee",
-      "category": "Økonomi",
-      "published": "18.09. 15:31",
-      "publishedISO": "2026-09-18T15:31:58+02:00",
-      "title": "Netflix faller kraftig",
-      "summary": "Klokken 17.40 norsk tid er det nedgang på alle de sentrale indeksene: Torsdag ble første dag de tre indeksene avsluttet med oppgang denne uken. Data fra Citadel Securities viser at amerikanske opsjonskontrakter med en verdi på rundt 7 milliarder dollar utløper fredag, noe som utgjør omtrent en fjerdedel av markedet. Strømmegiganten Netflix falt mer enn tre prosent i førhandelen.",
-      "keyPoints": [
-        "Data fra Citadel Securities viser at amerikanske opsjonskontrakter med en verdi på rundt 7 milliarder dollar utløper fredag, noe som utgjør omtrent en fjerdedel av markedet.",
-        "Strømmegiganten Netflix falt mer enn tre prosent i førhandelen.",
-        "Klokken 17.40 norsk tid er det nedgang på alle de sentrale indeksene: Torsdag ble første dag de tre indeksene avsluttet med oppgang denne uken.",
-        "Oljeprisen er lavere enn tidligere i uken og et fat nordsjøolje (brent spot) handles nå for 104,4 dollar, ifølge Infront."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/GxEv6B/smaa-utslag-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/eafb7427-b41a-3398-9c23-a65a51b11274?fit=crop&h=675&upscale=true&w=1200&s=77b14e1c8070abf72a22b270b76cebcc38893365",
-      "localImage": "assets/news/0978bdefa1aeee.jpg",
-      "score": 16
-    },
-    {
-      "id": "1b5796d341521b",
-      "category": "AI",
-      "published": "18.09. 01:00",
-      "publishedISO": "2026-09-18T01:00:47+02:00",
-      "title": "Robotics: Firms race to improve robot training systems",
-      "summary": "Grunnleggerne Michelle Lu og Kier Storey håper programvaren deres en dag vil kontrollere roboter som kan navigere og utføre nyttige oppgaver i hjemmet og på arbeidsplassen. \"Det er en merkelig situasjon med robotikk, for faktisk de tingene vi synes som mennesker er utrolig vanskelige, som gymnastikk, kan du få roboter til å gjøre det rimelig bra. Robottreningssystemer bruker virtuelle miljøer der oppgaver praktiseres Vsim er en oppstart med 10 ingeniører som jobber med teknologien sin. Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, en ekstern, og kalt en robotverden som gir en forståelse av den virkelige roboten. hvordan miljøet kan endre seg når det beveger seg rundt.",
-      "keyPoints": [
-        "Robot training systems use virtual environments where tasks are practised Vsim is a start-up with 10 engineers working on its tech.",
-        "Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, ekstern, kalt Cosmos, som gir en robot en forståelse av fysikken i den virkelige verden og hvordan miljøet kan endre seg når den beveger seg rundt.",
-        "Founders Michelle Lu and Kier Storey hope one day their software will control robots that can navigate and do useful tasks in the home and workplace. \"It's a weird situation with robotics because actually the stuff that we find as humans to be incredibly difficult, like gymnastics, you can get robots to do reasonably well.",
-        "I 2022 bestemte de seg for å sette opp Vsim, for å bygge sitt eget treningssystemmiljø og andre verktøy."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-      "localImage": "assets/news/1b5796d341521b.jpg",
-      "score": 14
-    },
-    {
-      "id": "e232769634829f",
-      "category": "Økonomi",
-      "published": "18.09. 11:19",
-      "publishedISO": "2026-09-18T11:19:35+02:00",
-      "title": "Klimakunnskapen som blir for tung å bære",
-      "summary": "Kostnadene blir helt sikkert mange titalls milliarder kroner i året. Innen 2035 skal norske utslipp være 70 prosent lavere enn de var i 1990. Disse tiltakene skal kutte norske utslipp med 10 prosent av 1990-nivået i 2035, tilsvarende 5 millioner tonn.",
-      "keyPoints": [
-        "Innen 2035 skal norske utslipp være 70 prosent lavere enn de var i 1990.",
-        "Disse tiltakene skal kutte norske utslipp med 10 prosent av 1990-nivået i 2035, tilsvarende 5 millioner tonn.",
-        "Kostnadene blir helt sikkert mange titalls milliarder kroner i året.",
-        "Regjeringen vil ikke vite hvor mye klimapolitikken vi har vedtatt skal koste."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/d4eAbj/klimakunnskapen-som-blir-for-tung-aa-baere",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3c245d38-12c2-3064-b4d2-0bafb9c72801?fit=crop&h=675&upscale=true&w=1200&s=5300bbcaa435e3818fd773c9f94c663872a92215",
-      "localImage": "assets/news/e232769634829f.jpg",
-      "score": 16
-    },
-    {
-      "id": "61714d64f00075",
-      "category": "Norge",
-      "published": "18.09. 09:51",
-      "publishedISO": "2026-09-18T09:51:55+02:00",
-      "title": "Regjeringen vil starte arbeidet med EU-saker tidligere – varsler nye grep",
-      "summary": "Regjeringen vil starte arbeidet med EU-saker tidligere, sier utenriksminister Espen Barth Eide. EØS-ENDRINGER: Utenriksminister Espen Barth Eide (Ap) og næringsminister Cecilie Myrseth (Ap) varslet fredag nye grep i arbeidet med EØS-saker. Blant endringene er at arbeidet med EU- og EØS-saker skal starte tidligere. – Dette er den største omleggingen og moderniseringen i måten vi arbeider med EØS-saker på siden 1994, altså siden EØS ble til, sa Eide.",
-      "keyPoints": [
-        "Regjeringen vil starte arbeidet med EU-saker tidligere, sier utenriksminister Espen Barth Eide.",
-        "Blant endringene er at arbeidet med EU- og EØS-saker skal starte tidligere. – Dette er den største omleggingen og moderniseringen i måten vi arbeider med EØS-saker på siden 1994, altså siden EØS ble til, sa Eide.",
-        "EØS-ENDRINGER: Utenriksminister Espen Barth Eide (Ap) og næringsminister Cecilie Myrseth (Ap) varslet fredag nye grep i arbeidet med EØS-saker.",
-        "Regjeringen vil blant annet innføre en mekanisme som framtvinger at arbeidet starter når en rettsregel er under utarbeiding, ikke først når den er ferdig vedtatt i EU, sier Eide."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/regjeringen-vil-starte-arbeidet-med-eu-saker-tidligere-_-varsler-nye-grep-1.18028999",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SVXCqkV8weYNdfvwzKDJZgLaFlFZqiYDBjHQC5heLmkg.jpg",
-      "localImage": "assets/news/61714d64f00075.jpg",
-      "score": 16
+      "score": 18
     },
     {
       "id": "b65a80372da042",
@@ -193,6 +109,90 @@
       "score": 16
     },
     {
+      "id": "1b5796d341521b",
+      "category": "AI",
+      "published": "18.09. 01:00",
+      "publishedISO": "2026-09-18T01:00:47+02:00",
+      "title": "Robotics: Firms race to improve robot training systems",
+      "summary": "Grunnleggerne Michelle Lu og Kier Storey håper programvaren deres en dag vil kontrollere roboter som kan navigere og utføre nyttige oppgaver i hjemmet og på arbeidsplassen. \"Det er en merkelig situasjon med robotikk, for faktisk de tingene vi synes som mennesker er utrolig vanskelige, som gymnastikk, kan du få roboter til å gjøre det rimelig bra. Robottreningssystemer bruker virtuelle miljøer der oppgaver praktiseres Vsim er en oppstart med 10 ingeniører som jobber med teknologien sin. Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, en ekstern, og kalt en robotverden som gir en forståelse av den virkelige roboten. hvordan miljøet kan endre seg når det beveger seg rundt.",
+      "keyPoints": [
+        "Robot training systems use virtual environments where tasks are practised Vsim is a start-up with 10 engineers working on its tech.",
+        "Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, ekstern, kalt Cosmos, som gir en robot en forståelse av fysikken i den virkelige verden og hvordan miljøet kan endre seg når den beveger seg rundt.",
+        "Grunnleggerne Michelle Lu og Kier Storey håper programvaren deres en dag vil kontrollere roboter som kan navigere og utføre nyttige oppgaver i hjemmet og på arbeidsplassen. \"Det er en merkelig situasjon med robotikk, fordi de tingene vi synes som mennesker er utrolig vanskelige, som gymnastikk, kan du få roboter til å gjøre det rimelig bra.",
+        "I 2022 bestemte de seg for å sette opp Vsim, for å bygge sitt eget treningssystemmiljø og andre verktøy."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
+      "localImage": "assets/news/1b5796d341521b.jpg",
+      "score": 13
+    },
+    {
+      "id": "0978bdefa1aeee",
+      "category": "Økonomi",
+      "published": "18.09. 15:31",
+      "publishedISO": "2026-09-18T15:31:58+02:00",
+      "title": "Netflix faller kraftig",
+      "summary": "Slik ser det ut på de sentrale indeksene kort tid før klokken 20: Torsdag ble første dag de tre indeksene avsluttet med oppgang denne uken. Data fra Citadel Securities viser at amerikanske opsjonskontrakter med en verdi på rundt 7 milliarder dollar utløper fredag, noe som utgjør omtrent en fjerdedel av markedet. Strømmegiganten Netflix falt mer enn tre prosent i førhandelen.",
+      "keyPoints": [
+        "Slik ser det ut på de sentrale indeksene kort tid før klokken 20: Torsdag ble første dag de tre indeksene avsluttet med oppgang denne uken.",
+        "Data fra Citadel Securities viser at amerikanske opsjonskontrakter med en verdi på rundt 7 milliarder dollar utløper fredag, noe som utgjør omtrent en fjerdedel av markedet.",
+        "Strømmegiganten Netflix falt mer enn tre prosent i førhandelen.",
+        "Oljeprisen er lavere enn tidligere i uken og et fat nordsjøolje (brent spot) handles nå for 103,7 dollar, ifølge Infront."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/GxEv6B/smaa-utslag-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/06c83003-c192-32b0-be38-098511905142?fit=crop&h=675&upscale=true&w=1200&s=b7f367b73cef634a344bbace3bb297b9921dda77",
+      "localImage": "assets/news/0978bdefa1aeee.jpg",
+      "score": 15
+    },
+    {
+      "id": "e232769634829f",
+      "category": "Økonomi",
+      "published": "18.09. 11:19",
+      "publishedISO": "2026-09-18T11:19:35+02:00",
+      "title": "Klimakunnskapen som blir for tung å bære",
+      "summary": "Kostnadene blir helt sikkert mange titalls milliarder kroner i året. Innen 2035 skal norske utslipp være 70 prosent lavere enn de var i 1990. Disse tiltakene skal kutte norske utslipp med 10 prosent av 1990-nivået i 2035, tilsvarende 5 millioner tonn.",
+      "keyPoints": [
+        "Innen 2035 skal norske utslipp være 70 prosent lavere enn de var i 1990.",
+        "Disse tiltakene skal kutte norske utslipp med 10 prosent av 1990-nivået i 2035, tilsvarende 5 millioner tonn.",
+        "Kostnadene blir helt sikkert mange titalls milliarder kroner i året.",
+        "Regjeringen vil ikke vite hvor mye klimapolitikken vi har vedtatt skal koste."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/d4eAbj/klimakunnskapen-som-blir-for-tung-aa-baere",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3c245d38-12c2-3064-b4d2-0bafb9c72801?fit=crop&h=675&upscale=true&w=1200&s=5300bbcaa435e3818fd773c9f94c663872a92215",
+      "localImage": "assets/news/e232769634829f.jpg",
+      "score": 15
+    },
+    {
+      "id": "61714d64f00075",
+      "category": "Norge",
+      "published": "18.09. 09:51",
+      "publishedISO": "2026-09-18T09:51:55+02:00",
+      "title": "Regjeringen vil starte arbeidet med EU-saker tidligere – varsler nye grep",
+      "summary": "Regjeringen vil starte arbeidet med EU-saker tidligere, sier utenriksminister Espen Barth Eide. EØS-ENDRINGER: Utenriksminister Espen Barth Eide (Ap) og næringsminister Cecilie Myrseth (Ap) varslet fredag nye grep i arbeidet med EØS-saker. Blant endringene er at arbeidet med EU- og EØS-saker skal starte tidligere. – Dette er den største omleggingen og moderniseringen i måten vi arbeider med EØS-saker på siden 1994, altså siden EØS ble til, sa Eide.",
+      "keyPoints": [
+        "Regjeringen vil starte arbeidet med EU-saker tidligere, sier utenriksminister Espen Barth Eide.",
+        "Blant endringene er at arbeidet med EU- og EØS-saker skal starte tidligere. – Dette er den største omleggingen og moderniseringen i måten vi arbeider med EØS-saker på siden 1994, altså siden EØS ble til, sa Eide.",
+        "EØS-ENDRINGER: Utenriksminister Espen Barth Eide (Ap) og næringsminister Cecilie Myrseth (Ap) varslet fredag nye grep i arbeidet med EØS-saker.",
+        "Regjeringen vil blant annet innføre en mekanisme som framtvinger at arbeidet starter når en rettsregel er under utarbeiding, ikke først når den er ferdig vedtatt i EU, sier Eide."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/regjeringen-vil-starte-arbeidet-med-eu-saker-tidligere-_-varsler-nye-grep-1.18028999",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/SVXCqkV8weYNdfvwzKDJZgLaFlFZqiYDBjHQC5heLmkg.jpg",
+      "localImage": "assets/news/61714d64f00075.jpg",
+      "score": 15
+    },
+    {
       "id": "06d8d4d8135e3a",
       "category": "Norge",
       "published": "18.09. 08:55",
@@ -200,10 +200,10 @@
       "title": "Punget ut for kynisk grep: – Kan si at planen vår funket godt",
       "summary": "FORNØYD: Casper Ruud spiller denne helgen Davis Cup på favorittunderlaget sitt. – Jeg vet ikke helt hva jeg skal svare til det, sier Norges nest beste tennisspiller, Nicolai Budkov Kjær med et lurt smil. I åpningskampen fredag møter han Te Rigele, rangert som nummer 835. – Jeg skjønner jo godt at de beste ikke har kommet. Det var litt av planen vår også med å legge det på grus.",
       "keyPoints": [
-        "I åpningskampen fredag møter han Te Rigele, rangert som nummer 835. – Jeg skjønner jo godt at de beste ikke har kommet.",
         "Det var litt av planen vår også med å legge det på grus.",
+        "I åpningskampen fredag møter han Te Rigele, rangert som nummer 835. – Jeg skjønner jo godt at de beste ikke har kommet.",
         "FORNØYD: Casper Ruud spiller denne helgen Davis Cup på favorittunderlaget sitt. – Jeg vet ikke helt hva jeg skal svare til det, sier Norges nest beste tennisspiller, Nicolai Budkov Kjær med et lurt smil.",
-        "Denne helgen er han, Casper Ruud og resten av det norske landslaget samlet i Trondheim for å spille Davis Cup."
+        "Jeg håper at Casper og jeg kan spille verdensklassetennis og at flest mulig kan komme og se, sier Kjær og legger til: – Kina er et godt lag og vi har et godt lag vi også."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
