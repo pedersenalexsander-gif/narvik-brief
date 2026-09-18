@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.09.2026 kl. 16:10",
-  "updatedISO": "2026-09-18T16:10:02.517994+02:00",
+  "updatedAt": "18.09.2026 kl. 19:43",
+  "updatedISO": "2026-09-18T19:43:34.756221+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,27 +22,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ISrcht6t_YP4Pt6KBmR3OQOVzTJEP54xfAIbaCD8d55g.jpg",
       "localImage": "assets/news/e88e5984a0a974.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "3517286ad93aa4",
+      "id": "842e07e4e2d770",
       "category": "Verden",
-      "published": "18.09. 16:02",
-      "publishedISO": "2026-09-18T16:02:09+02:00",
-      "title": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "summary": "Frankrikes president Emmanuel Macron har advart om at trusselen om hybridangrep fra Russland mot Europa og Frankrike har forsterket seg. Han sa at Frankrike hadde vært mål for russiske hybridangrep de siste ukene som ikke ville bli stående «uten svar». Russlands president Vladimir Putin har gjentatte ganger sagt at Russland ikke planlegger å angripe Europa, men utenriksminister Sergey Lavrov advarte europeiske nasjoner mot å sende tropper til Ukraina, noe som vil bli sett på av Russland som en krigserklæring. – Hvis Europa angriper Russland, vil det bli en helt annen krig, og den vil vare veldig kort, sa han.",
+      "published": "18.09. 19:31",
+      "publishedISO": "2026-09-18T19:31:30+02:00",
+      "title": "Kohat: At least 21 killed in attack on mosque in Pakistan's Khyber Pakhtunkhwa",
+      "summary": "Eksplosjonen skjedde ved en moskébygning nær politiets hovedkvarter. Et bilbombeangrep mot en moske i det nordvestlige Pakistan har drept minst 21 mennesker og skadet mer enn 100, sier tjenestemenn. Femten politimenn og et fire år gammelt barn er blant de drepte i angrepet, som også involverte våpenmenn som skjøt mot et politianlegg i byen Kohat i provinsen Khyber Pakhtunkhwa, rapporterte det pakistanske nyhetsbyrået APP. Khyber Pakhtunkhwa-politiets insp Gen Zulfikar Hameed beskrev det som et \"selvmordsangrep\", ifølge nyhetsbyrået Reuters, som også rapporterte at alle syv angriperne var drept i eksplosjonen og skuddslaget som fulgte.",
       "keyPoints": [
-        "Frankrikes president Emmanuel Macron har advart om at trusselen om hybridangrep fra Russland mot Europa og Frankrike har forsterket seg.",
-        "Russlands president Vladimir Putin har gjentatte ganger sagt at Russland ikke planlegger å angripe Europa, men utenriksminister Sergey Lavrov advarte europeiske nasjoner mot å sende tropper til Ukraina, noe som vil bli sett på av Russland som en krigserklæring. – Hvis Europa angriper Russland, vil det bli en helt annen krig, og den vil vare veldig kort, sa han.",
-        "Han sa at Frankrike hadde vært mål for russiske hybridangrep de siste ukene som ikke ville bli stående «uten svar».",
-        "Macron tok også opp energisituasjonen og sa at regjeringen hadde fått i oppgave å beskytte kritisk infrastruktur og de «mest sensitive» forsvarsindustrien og teknologistedene mot drone- og nettangrep."
+        "Femten politimenn og et fire år gammelt barn er blant de drepte i angrepet, som også involverte våpenmenn som skjøt mot et politianlegg i byen Kohat i provinsen Khyber Pakhtunkhwa, rapporterte det pakistanske nyhetsbyrået APP.",
+        "Eksplosjonen skjedde ved en moskébygning nær politiets hovedkvarter. Et bilbombeangrep mot en moske i det nordvestlige Pakistan har drept minst 21 mennesker og skadet mer enn 100, sier tjenestemenn.",
+        "Khyber Pakhtunkhwa-politiets insp Gen Zulfikar Hameed beskrev det som et \"selvmordsangrep\", ifølge nyhetsbyrået Reuters, som også rapporterte at alle syv angriperne var drept i eksplosjonen og skuddslaget som fulgte.",
+        "Militansen i Pakistans grenseområder har økt kraftig de siste månedene, med væpnede grupper rettet mot militæret og politiet."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo",
+      "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72d4/live/9686b940-b360-11f1-8f19-bd786ea30d0b.jpg",
-      "localImage": "assets/news/3517286ad93aa4.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/629b/live/fef4ee20-b356-11f1-bc1f-3f186ca4140c.jpg",
+      "localImage": "assets/news/842e07e4e2d770.jpg",
       "score": 13
     },
     {
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/58d4/live/123845a0-b2f7-11f1-8ed8-9d8eb22ef0c3.jpg",
       "localImage": "assets/news/232894f3929652.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "94b36437c6f21a",
@@ -85,28 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7fe36542-b857-3fb7-8b90-e5f0438c8105?fit=crop&h=675&upscale=true&w=1200&s=21c853ae198b77d4ea5b89d80cfea12476eff6ce",
       "localImage": "assets/news/94b36437c6f21a.jpg",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "4715b409b97c07",
+      "id": "0978bdefa1aeee",
       "category": "Økonomi",
-      "published": "17.09. 09:02",
-      "publishedISO": "2026-09-17T09:02:38+02:00",
-      "title": "Oppgang på Oslo Børs tross oljefall",
-      "summary": "De har trukket ned, og bidratt til at oppturen i Oslo er mer forsiktig enn eller på børsene i Europa og USA. Nordsjøolje (brent spot) handles for 102,9 dollar fatet rundt stengetid på børsen, ned 2,4 prosent siden midnatt. Børsene i USA snudde ned etter rentehevingen og kommentarene fra Warsh, men torsdag ettermiddag er det markant oppgang på Wall Street.",
+      "published": "18.09. 15:31",
+      "publishedISO": "2026-09-18T15:31:58+02:00",
+      "title": "Netflix faller kraftig",
+      "summary": "Klokken 17.40 norsk tid er det nedgang på alle de sentrale indeksene: Torsdag ble første dag de tre indeksene avsluttet med oppgang denne uken. Data fra Citadel Securities viser at amerikanske opsjonskontrakter med en verdi på rundt 7 milliarder dollar utløper fredag, noe som utgjør omtrent en fjerdedel av markedet. Strømmegiganten Netflix falt mer enn tre prosent i førhandelen.",
       "keyPoints": [
-        "De har trukket ned, og bidratt til at oppturen i Oslo er mer forsiktig enn eller på børsene i Europa og USA.",
-        "Børsene i USA snudde ned etter rentehevingen og kommentarene fra Warsh, men torsdag ettermiddag er det markant oppgang på Wall Street.",
-        "Nordsjøolje (brent spot) handles for 102,9 dollar fatet rundt stengetid på børsen, ned 2,4 prosent siden midnatt.",
-        "Og slik gikk det med noen av de andre mye omsatte aksjene: Onsdag varslet det tidligere tørrlastrederiet 2020 Bulkers en intensjonsavtale om kjøp av AHTS as og flere tilknyttede selskaper, fremgår det."
+        "Data fra Citadel Securities viser at amerikanske opsjonskontrakter med en verdi på rundt 7 milliarder dollar utløper fredag, noe som utgjør omtrent en fjerdedel av markedet.",
+        "Strømmegiganten Netflix falt mer enn tre prosent i førhandelen.",
+        "Klokken 17.40 norsk tid er det nedgang på alle de sentrale indeksene: Torsdag ble første dag de tre indeksene avsluttet med oppgang denne uken.",
+        "Oljeprisen er lavere enn tidligere i uken og et fat nordsjøolje (brent spot) handles nå for 104,4 dollar, ifølge Infront."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/WvMVek/oslo-boers-faller-fra-start",
+      "url": "https://e24.no/boers-og-finans/i/GxEv6B/smaa-utslag-paa-wall-street",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/47d375fb-9731-3c42-b73c-6fb85aac6c03?fit=crop&h=675&upscale=true&w=1200&s=b5e6942ab4fe4de98837bb927b2a5d50ea14a28f",
-      "localImage": "assets/news/4715b409b97c07.jpg",
-      "score": 20
+      "image": "https://akamai.vgc.no/v2/images/eafb7427-b41a-3398-9c23-a65a51b11274?fit=crop&h=675&upscale=true&w=1200&s=77b14e1c8070abf72a22b270b76cebcc38893365",
+      "localImage": "assets/news/0978bdefa1aeee.jpg",
+      "score": 16
     },
     {
       "id": "1b5796d341521b",
@@ -118,7 +118,7 @@
       "keyPoints": [
         "Robot training systems use virtual environments where tasks are practised Vsim is a start-up with 10 engineers working on its tech.",
         "Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, ekstern, kalt Cosmos, som gir en robot en forståelse av fysikken i den virkelige verden og hvordan miljøet kan endre seg når den beveger seg rundt.",
-        "Grunnleggerne Michelle Lu og Kier Storey håper programvaren deres en dag vil kontrollere roboter som kan navigere og utføre nyttige oppgaver i hjemmet og på arbeidsplassen. \"Det er en merkelig situasjon med robotikk, fordi de tingene vi synes som mennesker er utrolig vanskelige, som gymnastikk, kan du få roboter til å gjøre det rimelig bra.",
+        "Founders Michelle Lu and Kier Storey hope one day their software will control robots that can navigate and do useful tasks in the home and workplace. \"It's a weird situation with robotics because actually the stuff that we find as humans to be incredibly difficult, like gymnastics, you can get robots to do reasonably well.",
         "I 2022 bestemte de seg for å sette opp Vsim, for å bygge sitt eget treningssystemmiljø og andre verktøy."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
@@ -148,48 +148,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3c245d38-12c2-3064-b4d2-0bafb9c72801?fit=crop&h=675&upscale=true&w=1200&s=5300bbcaa435e3818fd773c9f94c663872a92215",
       "localImage": "assets/news/e232769634829f.jpg",
-      "score": 17
-    },
-    {
-      "id": "b65a80372da042",
-      "category": "Økonomi",
-      "published": "17.09. 21:21",
-      "publishedISO": "2026-09-17T21:21:48+02:00",
-      "title": "Fondspanikken i Tyrkia: Forvaltere utestenges fra Istanbul-børsen",
-      "summary": "Istanbul-børsen raste mer enn fem prosent onsdag, og finansaksjer falt kraftig. Totalt 38 personer er anklages for markedsmanipulasjon og er utestengt fra å handle på Istanbul-børsen i to år, ifølge finanstilsynsmyndigheten i Tyrkia. Myndighetene planlegger også å avvikle flere fond styrt av Tera, Pusula og andre forvaltere, ifølge Bloomberg.",
-      "keyPoints": [
-        "Totalt 38 personer er anklages for markedsmanipulasjon og er utestengt fra å handle på Istanbul-børsen i to år, ifølge finanstilsynsmyndigheten i Tyrkia.",
-        "Myndighetene planlegger også å avvikle flere fond styrt av Tera, Pusula og andre forvaltere, ifølge Bloomberg.",
-        "Istanbul-børsen raste mer enn fem prosent onsdag, og finansaksjer falt kraftig.",
-        "Tyrkiske myndigheter anklager forvaltere for markedsmanipulasjon."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/aJnpxL/fondspanikken-i-tyrkia-forvaltere-utestenges-fra-istanbul-boersen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/51bd72a4-15d9-37d2-b7c4-f5c824bddccf?fit=crop&h=675&upscale=true&w=1200&s=e705e7ca68c41fcb6ff775f555eac0bf45e5a9e6",
-      "localImage": "assets/news/b65a80372da042.jpg",
-      "score": 17
-    },
-    {
-      "id": "0978bdefa1aeee",
-      "category": "Økonomi",
-      "published": "18.09. 15:31",
-      "publishedISO": "2026-09-18T15:31:58+02:00",
-      "title": "Netflix faller kraftig",
-      "summary": "Oljeprisen er lavere enn tidligere i uken og et fat nordsjøolje (brent spot) handles nå for 104,6 dollar, ifølge Infront. Strømmegiganten Netflix falt mer enn tre prosent i førhandelen. I starten av august viste regnskapet til Berkshire Hathaway et driftsresultatet på 12,9 milliarder dollar, opp fra 11,2 milliarder i samme kvartal i fjor.",
-      "keyPoints": [
-        "Strømmegiganten Netflix falt mer enn tre prosent i førhandelen.",
-        "Oljeprisen er lavere enn tidligere i uken og et fat nordsjøolje (brent spot) handles nå for 104,6 dollar, ifølge Infront.",
-        "I starten av august viste regnskapet til Berkshire Hathaway et driftsresultatet på 12,9 milliarder dollar, opp fra 11,2 milliarder i samme kvartal i fjor.",
-        "Bloomberg anslår at 96-åringen har en formue på rundt 145 milliarder dollar, noe som plasserer han på 10. plass på listen over verdens rikeste mennesker."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/GxEv6B/smaa-utslag-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/eafb7427-b41a-3398-9c23-a65a51b11274?fit=crop&h=675&upscale=true&w=1200&s=77b14e1c8070abf72a22b270b76cebcc38893365",
-      "localImage": "assets/news/0978bdefa1aeee.jpg",
       "score": 16
     },
     {
@@ -212,6 +170,48 @@
       "image": "https://gfx.nrk.no/SVXCqkV8weYNdfvwzKDJZgLaFlFZqiYDBjHQC5heLmkg.jpg",
       "localImage": "assets/news/61714d64f00075.jpg",
       "score": 16
+    },
+    {
+      "id": "b65a80372da042",
+      "category": "Økonomi",
+      "published": "17.09. 21:21",
+      "publishedISO": "2026-09-17T21:21:48+02:00",
+      "title": "Fondspanikken i Tyrkia: Forvaltere utestenges fra Istanbul-børsen",
+      "summary": "Istanbul-børsen raste mer enn fem prosent onsdag, og finansaksjer falt kraftig. Totalt 38 personer er anklages for markedsmanipulasjon og er utestengt fra å handle på Istanbul-børsen i to år, ifølge finanstilsynsmyndigheten i Tyrkia. Myndighetene planlegger også å avvikle flere fond styrt av Tera, Pusula og andre forvaltere, ifølge Bloomberg.",
+      "keyPoints": [
+        "Totalt 38 personer er anklages for markedsmanipulasjon og er utestengt fra å handle på Istanbul-børsen i to år, ifølge finanstilsynsmyndigheten i Tyrkia.",
+        "Myndighetene planlegger også å avvikle flere fond styrt av Tera, Pusula og andre forvaltere, ifølge Bloomberg.",
+        "Istanbul-børsen raste mer enn fem prosent onsdag, og finansaksjer falt kraftig.",
+        "Tyrkiske myndigheter anklager forvaltere for markedsmanipulasjon."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/aJnpxL/fondspanikken-i-tyrkia-forvaltere-utestenges-fra-istanbul-boersen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/51bd72a4-15d9-37d2-b7c4-f5c824bddccf?fit=crop&h=675&upscale=true&w=1200&s=e705e7ca68c41fcb6ff775f555eac0bf45e5a9e6",
+      "localImage": "assets/news/b65a80372da042.jpg",
+      "score": 16
+    },
+    {
+      "id": "06d8d4d8135e3a",
+      "category": "Norge",
+      "published": "18.09. 08:55",
+      "publishedISO": "2026-09-18T08:55:56+02:00",
+      "title": "Punget ut for kynisk grep: – Kan si at planen vår funket godt",
+      "summary": "FORNØYD: Casper Ruud spiller denne helgen Davis Cup på favorittunderlaget sitt. – Jeg vet ikke helt hva jeg skal svare til det, sier Norges nest beste tennisspiller, Nicolai Budkov Kjær med et lurt smil. I åpningskampen fredag møter han Te Rigele, rangert som nummer 835. – Jeg skjønner jo godt at de beste ikke har kommet. Det var litt av planen vår også med å legge det på grus.",
+      "keyPoints": [
+        "I åpningskampen fredag møter han Te Rigele, rangert som nummer 835. – Jeg skjønner jo godt at de beste ikke har kommet.",
+        "Det var litt av planen vår også med å legge det på grus.",
+        "FORNØYD: Casper Ruud spiller denne helgen Davis Cup på favorittunderlaget sitt. – Jeg vet ikke helt hva jeg skal svare til det, sier Norges nest beste tennisspiller, Nicolai Budkov Kjær med et lurt smil.",
+        "Denne helgen er han, Casper Ruud og resten av det norske landslaget samlet i Trondheim for å spille Davis Cup."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/punget-ut-for-kynisk-grep_-_-kan-si-at-planen-var-funket-godt-1.18028530",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/3oM-OnHjEJhLDQld95RKEAS4DqHhp0x9a0OfGgFTUZdA.jpg",
+      "localImage": "assets/news/06d8d4d8135e3a.jpg",
+      "score": 15
     }
   ]
 }
