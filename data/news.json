@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.09.2026 kl. 00:22",
-  "updatedISO": "2026-09-18T00:22:07.979265+02:00",
+  "updatedAt": "18.09.2026 kl. 02:39",
+  "updatedISO": "2026-09-18T02:39:51.043043+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -67,27 +67,6 @@
       "score": 13
     },
     {
-      "id": "94b36437c6f21a",
-      "category": "Økonomi",
-      "published": "17.09. 15:31",
-      "publishedISO": "2026-09-17T15:31:28+02:00",
-      "title": "Wall Street markant opp: – Usikkerheten har avtatt",
-      "summary": "Rentefrykt, oljeprisoppgang og AI-uro har satt sitt preg på Wall Street tidligere denne uken. Slik ser det ut ved stengetid på Wall Street torsdag: Nedgangen etter rentebeslutningen og pressekonferansen til Warsh var en «overreaksjon», mener investeringsdirektør Bob Edwards hos Edwards Asset Management. – Nå som vi er forbi denne rentehevingen, kan aksjemarkedet gå videre ettersom usikkerheten har avtatt, sier Edwards ifølge Bloomberg. Ved stengetid på Wall Street ligger den på 104 dollar fatet, ned 1,3 prosent siden midnatt.",
-      "keyPoints": [
-        "Slik ser det ut ved stengetid på Wall Street torsdag: Nedgangen etter rentebeslutningen og pressekonferansen til Warsh var en «overreaksjon», mener investeringsdirektør Bob Edwards hos Edwards Asset Management. – Nå som vi er forbi denne rentehevingen, kan aksjemarkedet gå videre ettersom usikkerheten har avtatt, sier Edwards ifølge Bloomberg.",
-        "Ved stengetid på Wall Street ligger den på 104 dollar fatet, ned 1,3 prosent siden midnatt.",
-        "Rentefrykt, oljeprisoppgang og AI-uro har satt sitt preg på Wall Street tidligere denne uken.",
-        "Teknologi- og AI-aksjer har på sin side ledet an i oppgangen på Wall Street."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Gx93k4/wall-street-aapner-markant-opp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7fe36542-b857-3fb7-8b90-e5f0438c8105?fit=crop&h=675&upscale=true&w=1200&s=21c853ae198b77d4ea5b89d80cfea12476eff6ce",
-      "localImage": "assets/news/94b36437c6f21a.jpg",
-      "score": 23
-    },
-    {
       "id": "4715b409b97c07",
       "category": "Økonomi",
       "published": "17.09. 09:02",
@@ -109,6 +88,48 @@
       "score": 23
     },
     {
+      "id": "94b36437c6f21a",
+      "category": "Økonomi",
+      "published": "17.09. 15:31",
+      "publishedISO": "2026-09-17T15:31:28+02:00",
+      "title": "Wall Street markant opp: – Usikkerheten har avtatt",
+      "summary": "Rentefrykt, oljeprisoppgang og AI-uro har satt sitt preg på Wall Street tidligere denne uken. Slik ser det ut ved stengetid på Wall Street torsdag: Nedgangen etter rentebeslutningen og pressekonferansen til Warsh var en «overreaksjon», mener investeringsdirektør Bob Edwards hos Edwards Asset Management. – Nå som vi er forbi denne rentehevingen, kan aksjemarkedet gå videre ettersom usikkerheten har avtatt, sier Edwards ifølge Bloomberg. Ved stengetid på Wall Street ligger den på 104 dollar fatet, ned 1,3 prosent siden midnatt.",
+      "keyPoints": [
+        "Slik ser det ut ved stengetid på Wall Street torsdag: Nedgangen etter rentebeslutningen og pressekonferansen til Warsh var en «overreaksjon», mener investeringsdirektør Bob Edwards hos Edwards Asset Management. – Nå som vi er forbi denne rentehevingen, kan aksjemarkedet gå videre ettersom usikkerheten har avtatt, sier Edwards ifølge Bloomberg.",
+        "Ved stengetid på Wall Street ligger den på 104 dollar fatet, ned 1,3 prosent siden midnatt.",
+        "Rentefrykt, oljeprisoppgang og AI-uro har satt sitt preg på Wall Street tidligere denne uken.",
+        "Teknologi- og AI-aksjer har på sin side ledet an i oppgangen på Wall Street."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Gx93k4/wall-street-aapner-markant-opp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7fe36542-b857-3fb7-8b90-e5f0438c8105?fit=crop&h=675&upscale=true&w=1200&s=21c853ae198b77d4ea5b89d80cfea12476eff6ce",
+      "localImage": "assets/news/94b36437c6f21a.jpg",
+      "score": 22
+    },
+    {
+      "id": "1b5796d341521b",
+      "category": "AI",
+      "published": "18.09. 01:00",
+      "publishedISO": "2026-09-18T01:00:47+02:00",
+      "title": "Robotics: Firms race to improve robot training systems",
+      "summary": "Grunnleggerne Michelle Lu og Kier Storey håper programvaren deres en dag vil kontrollere roboter som kan navigere og utføre nyttige oppgaver i hjemmet og på arbeidsplassen. \"Det er en merkelig situasjon med robotikk, for faktisk de tingene vi synes som mennesker er utrolig vanskelige, som gymnastikk, kan du få roboter til å gjøre det rimelig bra. Robottreningssystemer bruker virtuelle miljøer der oppgaver praktiseres Vsim er en oppstart med 10 ingeniører som jobber med teknologien sin. Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, en ekstern, og kalt en robotverden som gir en forståelse av den virkelige roboten. hvordan miljøet kan endre seg når det beveger seg rundt.",
+      "keyPoints": [
+        "Robot training systems use virtual environments where tasks are practised Vsim is a start-up with 10 engineers working on its tech.",
+        "Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, ekstern, kalt Cosmos, som gir en robot en forståelse av fysikken i den virkelige verden og hvordan miljøet kan endre seg når den beveger seg rundt.",
+        "Grunnleggerne Michelle Lu og Kier Storey håper programvaren deres en dag vil kontrollere roboter som kan navigere og utføre nyttige oppgaver i hjemmet og på arbeidsplassen. \"Det er en merkelig situasjon med robotikk, fordi de tingene vi synes som mennesker er utrolig vanskelige, som gymnastikk, kan du få roboter til å gjøre det rimelig bra.",
+        "I 2022 bestemte de seg for å sette opp Vsim, for å bygge sitt eget treningssystemmiljø og andre verktøy."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
+      "localImage": "assets/news/1b5796d341521b.jpg",
+      "score": 17
+    },
+    {
       "id": "b65a80372da042",
       "category": "Økonomi",
       "published": "17.09. 21:21",
@@ -127,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/51bd72a4-15d9-37d2-b7c4-f5c824bddccf?fit=crop&h=675&upscale=true&w=1200&s=e705e7ca68c41fcb6ff775f555eac0bf45e5a9e6",
       "localImage": "assets/news/b65a80372da042.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "1ded6249cabc18",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/ZzQeeMu75Bx0VgYnNE4xhgJ5b0bB10MB4hSaRpPVTL_g.jpg",
       "localImage": "assets/news/9b729c6f5ba8a5.jpg",
-      "score": 16
-    },
-    {
-      "id": "e42eba61ab51bc",
-      "category": "Økonomi",
-      "published": "16.09. 22:40",
-      "publishedISO": "2026-09-16T22:40:00+02:00",
-      "title": "Trump etter renteheving: – Senk renten",
-      "summary": "USAs sentralbanken (Fed) hevet onsdag kvelden renten til intervallet 3,75 til 4 prosent. President Donald Trump, som mange ganger har vært tydelig på at han vil ha lavere rente, har ikke latt beslutningen gå upåaktet hen. – Senk renten for USA, og det fort!, skriver Trump i et innlegg på Truth Social. Trump kom tidligere i september med utspill om at renten måtte kuttes, ikke økes.",
-      "keyPoints": [
-        "President Donald Trump, som mange ganger har vært tydelig på at han vil ha lavere rente, har ikke latt beslutningen gå upåaktet hen. – Senk renten for USA, og det fort!, skriver Trump i et innlegg på Truth Social.",
-        "Trump kom tidligere i september med utspill om at renten måtte kuttes, ikke økes.",
-        "USAs sentralbanken (Fed) hevet onsdag kvelden renten til intervallet 3,75 til 4 prosent.",
-        "Rentestrateg Dane Cekov i SB1 Markets mener kjeft fra Trump er en «hedersbetegnelse» for Warsh, og at «det egentlig bare betyr at Warsh gjør jobben sin». – Warsh sin jobb er ikke å bli godt likt av den sittende presidenten, sier strategen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/j025W9/trump-etter-renteheving-senk-renten-for-usa-og-det-fort",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1414cbb1-2cc7-3684-91d5-81c80dd92c56?fit=crop&h=675&upscale=true&w=1200&s=4da197d1b1e41365f972ec643db3e541ec4e9668",
-      "localImage": "assets/news/e42eba61ab51bc.jpg",
       "score": 16
     }
   ]
