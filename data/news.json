@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.09.2026 kl. 20:57",
-  "updatedISO": "2026-09-19T20:57:21.426929+02:00",
+  "updatedAt": "19.09.2026 kl. 23:22",
+  "updatedISO": "2026-09-19T23:22:03.743607+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,6 +46,27 @@
       "score": 21
     },
     {
+      "id": "4e8589bff3c035",
+      "category": "USA",
+      "published": "19.09. 23:01",
+      "publishedISO": "2026-09-19T23:01:56+02:00",
+      "title": "Trump sier at USA vil danne 'AI Force' og utnevne en tsar med kunstig intelligens",
+      "summary": "USAs president Donald Trump har kunngjort at han vil danne en «AI Force» og utnevne en tsar med kunstig intelligens midt i advarsler om den nye teknologien. Hvorfor Trump er all-in på AI til tross for advarslene \"AI er den neste industrielle revolusjonen, eller Internett, men vil være enda større og mer effektfull, muligens så mye som 25% av landets BNP,\" sa han på sosiale medier, og la til at han ønsker at USA skal fortsette å lede Kina innen AI. I Storbritannia har parlamentsmedlemmer på tvers av partier og jevnaldrende identifisert menneskerettighetsrisikoer forbundet med kunstig intelligens og har hevdet at eksisterende lover er dårlig rustet til å håndtere teknologiens raske vekst.",
+      "keyPoints": [
+        "USAs president Donald Trump har kunngjort at han vil danne en «AI Force» og utnevne en tsar med kunstig intelligens midt i advarsler om den nye teknologien.",
+        "I Storbritannia har parlamentsmedlemmer på tvers av partier og jevnaldrende identifisert menneskerettighetsrisikoer forbundet med kunstig intelligens og har hevdet at eksisterende lover er dårlig rustet til å håndtere teknologiens raske vekst.",
+        "Hvorfor Trump er all-in på AI til tross for advarslene \"AI er den neste industrielle revolusjonen, eller Internett, men vil være enda større og mer effektfull, muligens så mye som 25% av landets BNP,\" sa han på sosiale medier, og la til at han ønsker at USA skal fortsette å lede Kina innen AI.",
+        "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards Anthropic blocks possible attempt to use AI to make biological weapons"
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
+      "localImage": "assets/news/4e8589bff3c035.jpg",
+      "score": 22
+    },
+    {
       "id": "15d01956164a1c",
       "category": "Økonomi",
       "published": "19.09. 17:54",
@@ -64,41 +85,41 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6cead986-fddd-3ad0-b4fc-f11948cb686b?fit=crop&h=675&upscale=true&w=1200&s=e12752ba862ba917f70e40643e6ad87b528a52e9",
       "localImage": "assets/news/15d01956164a1c.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "f17b8aeed107d0",
+      "id": "ced21d369c3948",
       "category": "Økonomi",
-      "published": "19.09. 17:52",
-      "publishedISO": "2026-09-19T17:52:45+02:00",
-      "title": "Årets dyreste og billigste strøm: – Vi har vinterpriser allerede",
-      "summary": "Denne uken har strømprisen helt sør i landet vært både årets dyreste og årets billigste. Denne uken har strømprisen i NO2 svinget fra årets høyeste til årets laveste nivå: Dette gjelder prisen på selve strømmen. Lilleholt venter at strømprisene vil holde seg oppe i høst. – Vi har vinterpriser allerede.",
+      "published": "19.09. 22:08",
+      "publishedISO": "2026-09-19T22:08:20+02:00",
+      "title": "Converse trekker reklame etter Ku Klux Klan-sammenligning",
+      "summary": "Men på bildet mener fans at belysningen på skjørtet til K-popstjernen skaper en hvit trekantform som ligner en Ku Klux KlanEn rasistisk organisasjon i USA kjent for vold og hat mot svarte mennesker og andre minoriteter.- hette. Fredag sa Converse i en offentlig pressemelding at de beklager å ha delt bildet, ifølge BBC. – Vi forstår hvorfor dette bildet er dypt opprørende og erkjenner at vi tok feil. Han mener at det ikke er nok at bildet er fjernet og at Converse har kommet med en unnskyldning. – Offentligheten fortjener å vite hvordan dette skjedde, hvem som var ansvarlig og hva du har tenkt å gjøre med det, sier han.",
       "keyPoints": [
-        "Denne uken har strømprisen helt sør i landet vært både årets dyreste og årets billigste.",
-        "Lilleholt venter at strømprisene vil holde seg oppe i høst. – Vi har vinterpriser allerede.",
-        "Denne uken har strømprisen i NO2 svinget fra årets høyeste til årets laveste nivå: Dette gjelder prisen på selve strømmen.",
-        "Og så er det typisk lavere forbruk i helgen enn i ukedagene, sier analysesjef Tor Reier Lilleholt i Volue. – Det er gunstig for vannkraftsystemet i Norge at vi kan importere strøm til lave priser og spare på vannet, sier han."
+        "Men på bildet mener fans at belysningen på skjørtet til K-popstjernen skaper en hvit trekantform som ligner en Ku Klux KlanEn rasistisk organisasjon i USA kjent for vold og hat mot svarte mennesker og andre minoriteter.- hette.",
+        "Fredag sa Converse i en offentlig pressemelding at de beklager å ha delt bildet, ifølge BBC. – Vi forstår hvorfor dette bildet er dypt opprørende og erkjenner at vi tok feil.",
+        "Han mener at det ikke er nok at bildet er fjernet og at Converse har kommet med en unnskyldning. – Offentligheten fortjener å vite hvordan dette skjedde, hvem som var ansvarlig og hva du har tenkt å gjøre med det, sier han.",
+        "Converse ble startet i Massachusetts tidlig på 1900-tallet."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/PdlkqX/aarets-dyreste-og-billigste-stroem-vi-har-vinterpriser-allerede",
+      "url": "https://e24.no/internasjonal-oekonomi/i/d4AwnA/converse-trekker-reklame",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/36a9e0a8-1d98-3673-a44d-4cb7cbc0ff97?fit=crop&h=675&upscale=true&w=1200&s=4108673cc935d356e8995c4917ade453f69b6a82",
-      "localImage": "assets/news/f17b8aeed107d0.jpg",
+      "image": "https://akamai.vgc.no/v2/images/52f1ed5d-b89a-3ddc-bb94-6d2387d6eaed?fit=crop&h=675&upscale=true&w=1200&s=d4d74c77c2fc5b12ab42a8768004ec90a6c94f05",
+      "localImage": "assets/news/ced21d369c3948.jpg",
       "score": 13
     },
     {
       "id": "157cf9738dfec8",
       "category": "Verden",
-      "published": "19.09. 17:19",
-      "publishedISO": "2026-09-19T17:19:39+02:00",
+      "published": "19.09. 21:13",
+      "publishedISO": "2026-09-19T21:13:49+02:00",
       "title": "CNN, MS NOW og Politico sier at journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier",
-      "summary": "Se: Trump sier at forbud mot noen nyhetskanaler fra Det hvite hus er «fordi de er falske nyheter» Journalister fra Politico, CNN og MS NOW har blitt nektet tilgang til Det hvite hus etter at USAs president Donald Trump kunngjorde at han forbyr utsalgsstedene. Både CNN og Politico sa også lørdag morgen at deres reportere ble nektet tilgang og fikk beslaglagt merkene deres. Trump sa fredag ​​at han sperret alle tre store amerikanske medier fra Det hvite hus, og anklaget dem for å skrive «fiksjon eller løgner» om administrasjonen hans.",
+      "summary": "Se: Trump sier at forbud mot noen nyhetskanaler fra Det hvite hus er «fordi de er falske nyheter» Journalister fra Politico, CNN og MS NOW har blitt nektet tilgang til Det hvite hus etter at USAs president Donald Trump kunngjorde at han forbyr utsalgsstedene. Både CNN og Politico sa også lørdag morgen at deres reportere ble nektet tilgang og fikk beslaglagt merkene deres. Trump sa fredag ​​at han sperret alle tre store amerikanske medier fra Det hvite hus, og anklaget dem for å skrive «fiksjon eller løgner» om administrasjonen hans. «Betjenten ba meg om å overlevere merket mitt.",
       "keyPoints": [
         "Se: Trump sier at forbud mot noen nyhetskanaler fra Det hvite hus er «fordi de er falske nyheter» Journalister fra Politico, CNN og MS NOW har blitt nektet tilgang til Det hvite hus etter at USAs president Donald Trump kunngjorde at han forbyr utsalgsstedene.",
-        "Trump sa fredag ​​at han sperret alle tre store amerikanske medier fra Det hvite hus, og anklaget dem for å skrive «fiksjon eller løgner» om administrasjonen hans.",
+        "Trump sa fredag ​​at han sperret alle tre store amerikanske medier fra Det hvite hus, og anklaget dem for å skrive «fiksjon eller løgner» om administrasjonen hans. «Betjenten ba meg om å overlevere merket mitt.",
         "Både CNN og Politico sa også lørdag morgen at deres reportere ble nektet tilgang og fikk beslaglagt merkene deres.",
-        "Dommer slår ned \"overflødig\" Trump-søksmål mot New York Times. Dommer byttet i Trumps ærekrenkelsessak mot BBC Trump sier at han utestenger CNN og Politico fra Det hvite hus"
+        "Dommer slår ned \"overflødig\" Trump-søksmål mot New York Times. Dommer byttet i Trumps ærekrenkelsessak mot BBC Trump sier han utestenger CNN og Politico fra Det hvite hus"
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -106,6 +127,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg",
       "localImage": "assets/news/157cf9738dfec8.jpg",
+      "score": 17
+    },
+    {
+      "id": "1d436784a2c033",
+      "category": "USA",
+      "published": "19.09. 19:23",
+      "publishedISO": "2026-09-19T19:23:37+02:00",
+      "title": "Trump øker feiden med pressen etter uke med tilbakeslag",
+      "summary": "President Donald Trump har tilført sin pågående feide med pressen i Det hvite hus et nytt nivå av bitterhet. Mens medievakthundorganisasjoner og Det hvite hus korrespondentforening gråter stygt, ser det ut til at Trump er klar til å gå videre med en omfattende innsats for å straffe disse utsalgsstedene. Journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier. Presidentens frustrasjon over media kom imidlertid etter en uke med tilbakeslag der store institusjoner ga ham en rekke tap på tvers av agendaen hans.",
+      "keyPoints": [
+        "Journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier. Presidentens frustrasjon over media kom imidlertid etter en uke med tilbakeslag der store institusjoner ga ham en rekke tap på tvers av agendaen hans.",
+        "President Donald Trump har tilført sin pågående feide med pressen i Det hvite hus et nytt nivå av bitterhet.",
+        "Mens medievakthundorganisasjoner og Det hvite hus korrespondentforening gråter stygt, ser det ut til at Trump er klar til å gå videre med en omfattende innsats for å straffe disse utsalgsstedene.",
+        "I fjor forbød Det hvite hus reportere for Associated Press fra å delta i presidentens pressebasseng – som gir medier tilgang til mindre presidentopptredener i byen og omreisende – fordi nyhetstjenesten ikke ville følge Trumps trekk om å omdøpe Mexicogolfen til Gulf of America."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c72/live/446b36e0-b44b-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/1d436784a2c033.jpg",
       "score": 17
     },
     {
@@ -130,87 +172,45 @@
       "score": 17
     },
     {
-      "id": "2c2922d4bb75e5",
-      "category": "Norge",
-      "published": "19.09. 20:01",
-      "publishedISO": "2026-09-19T20:01:49+02:00",
-      "title": "Aalesund senket Molde i fylkesderbyet – «reddet» to ganger av VAR",
-      "summary": "Aalesund klatret over nedrykksstreken med 2-1-seieren borte mot storfavoritt Molde. Storskjermen i Molde viste VAR-avgjørelsen som gjorde rødt til gult kort for Aalesunds keeper Luca Podlech I det 82. minutt kunne selv ikke VAR redde Aalesund. Aalesund dominerte stort andre halvdel av de første 45 minuttene, og det var lite som minnet om formen Molde har hatt de siste ukene. – Det er så langt under pari at jeg ikke skjønner noe av det i det hele tatt, sa Moldes trener Sindre Tjelmeland til TV 2 på vei ut til 2. omgang.",
+      "id": "5c17ff66d8d2b9",
+      "category": "Økonomi",
+      "published": "19.09. 21:12",
+      "publishedISO": "2026-09-19T21:12:06+02:00",
+      "title": "Stor test: AI-chatboter bommet på over halvparten av økonomispørsmålene",
+      "summary": "Undersøkelsen er omtalt av Financial Times (FT), som skriver at de mest populære modellene fra ChatGPT, Claude, Copilot, Grok og Gemini i gjennomsnitt hadde feil på 57 prosent av spørsmålene de ble stilt om finansielle råd. Ifølge resultatene til Saturn er det stor forskjell i hvor godt gratis- og betalings-versjonene gjør det. Næss er selv en hyppig bruker av AI, og sier at kvaliteten man får ut av modellene i stor grad handler om hvor mye kontekst, og hvor gode spørsmål du stiller dem.",
       "keyPoints": [
-        "Storskjermen i Molde viste VAR-avgjørelsen som gjorde rødt til gult kort for Aalesunds keeper Luca Podlech I det 82. minutt kunne selv ikke VAR redde Aalesund.",
-        "Aalesund klatret over nedrykksstreken med 2-1-seieren borte mot storfavoritt Molde.",
-        "Aalesund dominerte stort andre halvdel av de første 45 minuttene, og det var lite som minnet om formen Molde har hatt de siste ukene. – Det er så langt under pari at jeg ikke skjønner noe av det i det hele tatt, sa Moldes trener Sindre Tjelmeland til TV 2 på vei ut til 2. omgang.",
-        "Lonebu kom til Molde fra nettopp Aalesund i slutten av august."
+        "Undersøkelsen er omtalt av Financial Times (FT), som skriver at de mest populære modellene fra ChatGPT, Claude, Copilot, Grok og Gemini i gjennomsnitt hadde feil på 57 prosent av spørsmålene de ble stilt om finansielle råd.",
+        "Næss er selv en hyppig bruker av AI, og sier at kvaliteten man får ut av modellene i stor grad handler om hvor mye kontekst, og hvor gode spørsmål du stiller dem.",
+        "Ifølge resultatene til Saturn er det stor forskjell i hvor godt gratis- og betalings-versjonene gjør det.",
+        "Ifølge rapporten, som kan lastes ned i sin helhet på Saturns hjemmeside, så tok gratismodellene Google Gemini 3.5 Flash og Claude Haiku 4.5 feil på 99 prosent av disse spørsmålene."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/aalesund-senket-molde-i-fylkesderbyet-_-_reddet_-to-ganger-av-var-1.18030433",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/d1eAVoo0rZx3U2bKHI0_fQzYuGWxEbGuJ4y8K1FbNrIg.jpg",
-      "localImage": "assets/news/2c2922d4bb75e5.jpg",
+      "url": "https://e24.no/privatoekonomi/i/wroO1o/ai-chatboter-bommet-paa-over-halvparten-av-oekonomispoersmaalene",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/64007a6d-546c-3595-9c54-9d88d7cc2f4e?fit=crop&h=675&upscale=true&w=1200&s=28a90e9b7ca60694fe3033e4a5221ff3c565fa62",
+      "localImage": "assets/news/5c17ff66d8d2b9.jpg",
       "score": 13
     },
     {
-      "id": "b0597cd9ae4d56",
-      "category": "Verden",
-      "published": "19.09. 19:50",
-      "publishedISO": "2026-09-19T19:50:14+02:00",
-      "title": "Houthis claim attack on Riyadh after fire near airport",
-      "summary": "Se: Tykke, svarte røykskyer stiger opp fra nær Riyadhs internasjonale flyplass Iran-støttede Houthi-militanter i Jemen sier at de utførte drone- og missilangrep mot Saudi-hovedstaden Riyadh og energisteder ved landets Rødehavskyst. En søyle med svart røyk ble sett stige opp fra det som så ut til å være drivstofftanker nær den saudiarabiske hovedstadens internasjonale flyplass på lørdag, timer etter at det ble utstedt luftangrep. I en uttalelse lagt ut på nettet sa Houthi-militærtalsmann Yahya al-Sarea at et \"stort antall ballistiske missiler og kryssermissiler og droner\" har blitt brukt til å angripe \"sensitive steder\" i Riyadh og Aramco statlige olje- og gasselskaper i Yanbu på kysten.",
-      "keyPoints": [
-        "Se: Tykke, svarte røykskyer stiger opp fra nær Riyadhs internasjonale flyplass Iran-støttede Houthi-militanter i Jemen sier at de utførte drone- og missilangrep mot Saudi-hovedstaden Riyadh og energisteder ved landets Rødehavskyst.",
-        "En søyle med svart røyk ble sett stige opp fra det som så ut til å være drivstofftanker nær den saudiarabiske hovedstadens internasjonale flyplass på lørdag, timer etter at det ble utstedt luftangrep.",
-        "I en uttalelse lagt ut på nettet sa Houthi-militærtalsmann Yahya al-Sarea at et \"stort antall ballistiske missiler og kryssermissiler og droner\" har blitt brukt til å angripe \"sensitive steder\" i Riyadh og Aramco statlige olje- og gasselskaper i Yanbu på kysten.",
-        "Ifølge en ubekreftet rapport fra nyhetsbyrået AFP, som siterer militærkilder på begge sider av Jemens borgerkrig, krevde kampene mellom houthiene og Saudi-støttede regjeringsstyrker 48 menneskeliv lørdag."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/65d3/live/ee41c280-b426-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/b0597cd9ae4d56.jpg",
-      "score": 13
-    },
-    {
-      "id": "d0b956faf184a4",
+      "id": "065203e05c439e",
       "category": "Norge",
-      "published": "19.09. 19:27",
-      "publishedISO": "2026-09-19T19:27:53+02:00",
-      "title": "Knivstikking i Fredrikstad",
-      "summary": "En person er alvorlig skadd etter en knivstikking i Fredrikstad lørdag kveld. Klokken 19:16 melder politiet at de har kontroll på alle involverte. Operasjonsleder Håkon Hatlen forklarer at de i forkant av hendelsen fikk flere meldinger om at det kunne brygge opp til en voldshendelse i området. – Det ble observert flere med slagvåpen, så vi sendte ut en patrulje mot stedet, sier Hatlen.",
+      "published": "19.09. 21:00",
+      "publishedISO": "2026-09-19T21:00:10+02:00",
+      "title": "Haiket fra Lindesnes til Nordkapp på rekordtid",
+      "summary": "Med det norske flagget og et stort smil, kastet Alexander Sirris seg ut på en lang haiketur fra Lindesnes til Nordkapp. Han haiket først ned til bestemoren sin, som bor en time unna Lindesnes. Han ladet opp kreftene og ble kjørt videre av onkelen sin til Lindesnes.",
       "keyPoints": [
-        "En person er alvorlig skadd etter en knivstikking i Fredrikstad lørdag kveld.",
-        "Klokken 19:16 melder politiet at de har kontroll på alle involverte.",
-        "Operasjonsleder Håkon Hatlen forklarer at de i forkant av hendelsen fikk flere meldinger om at det kunne brygge opp til en voldshendelse i området. – Det ble observert flere med slagvåpen, så vi sendte ut en patrulje mot stedet, sier Hatlen.",
-        "Politiet har anholdt tre personer som har status som mistenkt. – Vi ønsker å innbringe de for å avklare deres rolle, om det kan ha vært medvirkning, opplyser innsatsleder, Svein Roger Lunde."
+        "Med det norske flagget og et stort smil, kastet Alexander Sirris seg ut på en lang haiketur fra Lindesnes til Nordkapp.",
+        "Han haiket først ned til bestemoren sin, som bor en time unna Lindesnes.",
+        "Han ladet opp kreftene og ble kjørt videre av onkelen sin til Lindesnes.",
+        "Alexander Sirris (19) hadde akkurat kommet tilbake til skolebenken etter en backpackingtur i Tyskland. – Som alle gode idéer så kommer den i badstua, sier han."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/knivstikking-i-fredrikstad-1.18030402",
+      "url": "https://www.nrk.no/tromsogfinnmark/haiket-fra-lindesnes-til-nordkapp-pa-rekordtid-1.18021490",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/XYvz7O4Mjix9qsvrOFnmaQyA8nJ0J8M-m9z5W3_HZfjg.jpg",
-      "localImage": "assets/news/d0b956faf184a4.webp",
-      "score": 13
-    },
-    {
-      "id": "32a66a8c525cc7",
-      "category": "Norge",
-      "published": "19.09. 18:21",
-      "publishedISO": "2026-09-19T18:21:21+02:00",
-      "title": "MS «Hollendaren» kolliderte med en stake: – Så det før det skjedde",
-      "summary": "En av de seks passasjerene så øyeblikket rett før MS «Hollendaren» kjørte på en stake under innseilingen til Ingøy. Slik sto MS Hollendaren da passasjerene gikk i land på Ingøya etter hendelsen i natt. Da MS «Hollendaren» var fortøyd ved kaia på Ingøy, var det lite å se på selve fartøyet etter hendelsen. – Vi gikk frem for å se på båten.",
-      "keyPoints": [
-        "En av de seks passasjerene så øyeblikket rett før MS «Hollendaren» kjørte på en stake under innseilingen til Ingøy.",
-        "Slik sto MS Hollendaren da passasjerene gikk i land på Ingøya etter hendelsen i natt.",
-        "Da MS «Hollendaren» var fortøyd ved kaia på Ingøy, var det lite å se på selve fartøyet etter hendelsen. – Vi gikk frem for å se på båten.",
-        "Fadnes melder at hendelsen ikke har fått konsekvenser for trafikken denne lørdagen, da MS «Hollendaren» ikke har ordinære ruteavganger i dag. – Når inspeksjonen er gjennomført og vi har fått de nødvendige avklaringene, vil vi kunne si mer om den videre driften."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/ms-_hollendaren_-kolliderte-med-en-stake_-_-sa-det-for-det-skjedde-1.18030053",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0pzfKg992XmnZfDScw-ruQlctLvfTHx_vNnz7Ht2uWtQ.jpg",
-      "localImage": "assets/news/32a66a8c525cc7.jpg",
+      "image": "https://gfx.nrk.no/2eW3oOThjgBXMb23IQjhlQRw93nDIBC_qx8BR_m73WUQ.jpg",
+      "localImage": "assets/news/065203e05c439e.jpg",
       "score": 13
     }
   ]
