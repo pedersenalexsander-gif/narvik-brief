@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.09.2026 kl. 23:22",
-  "updatedISO": "2026-09-19T23:22:03.743607+02:00",
+  "updatedAt": "20.09.2026 kl. 01:21",
+  "updatedISO": "2026-09-20T01:21:56.493277+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,32 +22,11 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/2Dl2KVzoDtnzW6DxzvU19gj-PHOpoGUjlK5BXNMkBNGw.jpg",
       "localImage": "assets/news/2e7862868d51f6.jpg",
-      "score": 17
-    },
-    {
-      "id": "bfb37aab4f00c9",
-      "category": "Verden",
-      "published": "19.09. 00:05",
-      "publishedISO": "2026-09-19T00:05:47+02:00",
-      "title": "Trump takes aim at Russia's energy sector with sanctions bill",
-      "summary": "USAs president Donald Trump signerte lovforslaget på fredag ​​USAs president Donald Trump har undertegnet et omfattende sanksjonsforslag, som tar sikte på Russlands økonomi ved å straffe store kjøpere av olje og gass. På Trumps anmodning strekker lovforslaget seg også til Irans energi- og våpensektorer. I tillegg inkluderer lovforslaget sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner.",
-      "keyPoints": [
-        "USAs president Donald Trump signerte lovforslaget på fredag ​​USAs president Donald Trump har undertegnet et omfattende sanksjonsforslag, som tar sikte på Russlands økonomi ved å straffe store kjøpere av olje og gass.",
-        "I tillegg inkluderer lovforslaget sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner.",
-        "På Trumps anmodning strekker lovforslaget seg også til Irans energi- og våpensektorer.",
-        "Lovforslaget, som ble vedtatt av det amerikanske representantenes hus tidligere denne uken, gir Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på de fem beste kjøperne av russisk olje og gass – særlig Kina og India."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
-      "localImage": "assets/news/bfb37aab4f00c9.jpg",
-      "score": 21
+      "score": 16
     },
     {
       "id": "4e8589bff3c035",
-      "category": "USA",
+      "category": "Verden",
       "published": "19.09. 23:01",
       "publishedISO": "2026-09-19T23:01:56+02:00",
       "title": "Trump sier at USA vil danne 'AI Force' og utnevne en tsar med kunstig intelligens",
@@ -58,13 +37,34 @@
         "Hvorfor Trump er all-in på AI til tross for advarslene \"AI er den neste industrielle revolusjonen, eller Internett, men vil være enda større og mer effektfull, muligens så mye som 25% av landets BNP,\" sa han på sosiale medier, og la til at han ønsker at USA skal fortsette å lede Kina innen AI.",
         "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards Anthropic blocks possible attempt to use AI to make biological weapons"
       ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
       "localImage": "assets/news/4e8589bff3c035.jpg",
       "score": 22
+    },
+    {
+      "id": "1d436784a2c033",
+      "category": "USA",
+      "published": "19.09. 19:23",
+      "publishedISO": "2026-09-19T19:23:37+02:00",
+      "title": "Trump øker feiden med pressen etter uke med tilbakeslag",
+      "summary": "President Donald Trump har tilført sin pågående feide med pressen i Det hvite hus et nytt nivå av bitterhet. Mens medievakthundorganisasjoner og Det hvite hus korrespondentforening gråter stygt, ser det ut til at Trump er klar til å gå videre med en omfattende innsats for å straffe disse utsalgsstedene. Journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier. Presidentens frustrasjon over media kom imidlertid etter en uke med tilbakeslag der store institusjoner ga ham en rekke tap på tvers av agendaen hans.",
+      "keyPoints": [
+        "Journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier. Presidentens frustrasjon over media kom imidlertid etter en uke med tilbakeslag der store institusjoner ga ham en rekke tap på tvers av agendaen hans.",
+        "President Donald Trump har tilført sin pågående feide med pressen i Det hvite hus et nytt nivå av bitterhet.",
+        "Mens medievakthundorganisasjoner og Det hvite hus korrespondentforening gråter stygt, ser det ut til at Trump er klar til å gå videre med en omfattende innsats for å straffe disse utsalgsstedene.",
+        "I fjor forbød Det hvite hus reportere for Associated Press fra å delta i presidentens pressebasseng – som gir media tilgang til mindre presidentopptredener i byen og omreisende – fordi nyhetstjenesten ikke ville følge Trumps trekk om å gi nytt navn til Mexicogulfen til Amerikabukta."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c72/live/446b36e0-b44b-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/1d436784a2c033.jpg",
+      "score": 16
     },
     {
       "id": "15d01956164a1c",
@@ -109,6 +109,27 @@
       "score": 13
     },
     {
+      "id": "bfb37aab4f00c9",
+      "category": "Verden",
+      "published": "19.09. 00:05",
+      "publishedISO": "2026-09-19T00:05:47+02:00",
+      "title": "Trump takes aim at Russia's energy sector with sanctions bill",
+      "summary": "USAs president Donald Trump signerte lovforslaget på fredag ​​USAs president Donald Trump har undertegnet et omfattende sanksjonsforslag, som tar sikte på Russlands økonomi ved å straffe store kjøpere av olje og gass. På Trumps anmodning strekker lovforslaget seg også til Irans energi- og våpensektorer. I tillegg inkluderer lovforslaget sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner.",
+      "keyPoints": [
+        "USAs president Donald Trump signerte lovforslaget på fredag ​​USAs president Donald Trump har undertegnet et omfattende sanksjonsforslag, som tar sikte på Russlands økonomi ved å straffe store kjøpere av olje og gass.",
+        "I tillegg inkluderer lovforslaget sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner.",
+        "På Trumps anmodning strekker lovforslaget seg også til Irans energi- og våpensektorer.",
+        "Lovforslaget, som ble vedtatt av det amerikanske representantenes hus tidligere denne uken, gir Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på de fem beste kjøperne av russisk olje og gass – særlig Kina og India."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
+      "localImage": "assets/news/bfb37aab4f00c9.jpg",
+      "score": 20
+    },
+    {
       "id": "157cf9738dfec8",
       "category": "Verden",
       "published": "19.09. 21:13",
@@ -119,7 +140,7 @@
         "Se: Trump sier at forbud mot noen nyhetskanaler fra Det hvite hus er «fordi de er falske nyheter» Journalister fra Politico, CNN og MS NOW har blitt nektet tilgang til Det hvite hus etter at USAs president Donald Trump kunngjorde at han forbyr utsalgsstedene.",
         "Trump sa fredag ​​at han sperret alle tre store amerikanske medier fra Det hvite hus, og anklaget dem for å skrive «fiksjon eller løgner» om administrasjonen hans. «Betjenten ba meg om å overlevere merket mitt.",
         "Både CNN og Politico sa også lørdag morgen at deres reportere ble nektet tilgang og fikk beslaglagt merkene deres.",
-        "Dommer slår ned \"overflødig\" Trump-søksmål mot New York Times. Dommer byttet i Trumps ærekrenkelsessak mot BBC Trump sier han utestenger CNN og Politico fra Det hvite hus"
+        "Dommer slår ned \"overflødig\" Trump-søksmål mot New York Times. Dommer byttet i Trumps ærekrenkelsessak mot BBC Trump sier at han utestenger CNN og Politico fra Det hvite hus"
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -127,27 +148,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg",
       "localImage": "assets/news/157cf9738dfec8.jpg",
-      "score": 17
-    },
-    {
-      "id": "1d436784a2c033",
-      "category": "USA",
-      "published": "19.09. 19:23",
-      "publishedISO": "2026-09-19T19:23:37+02:00",
-      "title": "Trump øker feiden med pressen etter uke med tilbakeslag",
-      "summary": "President Donald Trump har tilført sin pågående feide med pressen i Det hvite hus et nytt nivå av bitterhet. Mens medievakthundorganisasjoner og Det hvite hus korrespondentforening gråter stygt, ser det ut til at Trump er klar til å gå videre med en omfattende innsats for å straffe disse utsalgsstedene. Journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier. Presidentens frustrasjon over media kom imidlertid etter en uke med tilbakeslag der store institusjoner ga ham en rekke tap på tvers av agendaen hans.",
-      "keyPoints": [
-        "Journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier. Presidentens frustrasjon over media kom imidlertid etter en uke med tilbakeslag der store institusjoner ga ham en rekke tap på tvers av agendaen hans.",
-        "President Donald Trump har tilført sin pågående feide med pressen i Det hvite hus et nytt nivå av bitterhet.",
-        "Mens medievakthundorganisasjoner og Det hvite hus korrespondentforening gråter stygt, ser det ut til at Trump er klar til å gå videre med en omfattende innsats for å straffe disse utsalgsstedene.",
-        "I fjor forbød Det hvite hus reportere for Associated Press fra å delta i presidentens pressebasseng – som gir medier tilgang til mindre presidentopptredener i byen og omreisende – fordi nyhetstjenesten ikke ville følge Trumps trekk om å omdøpe Mexicogolfen til Gulf of America."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c72/live/446b36e0-b44b-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/1d436784a2c033.jpg",
       "score": 17
     },
     {
@@ -169,7 +169,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/7GVlWECfiSyQ5jHSYvbMjwDZqwi1ADTIvgrkejEIEJ_g.jpg",
       "localImage": "assets/news/b744e53ade04b1.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "28e8b8cf334300",
+      "category": "Verden",
+      "published": "20.09. 01:01",
+      "publishedISO": "2026-09-20T01:01:38+02:00",
+      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
+      "summary": "Men dette var ikke henne på linjen – det var Yusrons tidligere hovedlærer. Og nå var Abah på telefonen til Yusron, og stilte akkurat den typen krav. \"Dekk skammen til læreren din. Den hadde blitt satt opp av en ung kvinne kalt Ayu Masruroh, som hadde hjulpet venninnen hennes med å få rettferdighet etter at hun hadde blitt utsatt for seksuelle overgrep på en annen skole, av en lærer kalt Moch Subchi Azal Tsani.",
+      "keyPoints": [
+        "It had been set up by a young woman called Ayu Masruroh, who had helped her friend get justice after she had been sexually assaulted at another school, by a teacher called Moch Subchi Azal Tsani.",
+        "Men dette var ikke henne på linjen – det var Yusrons tidligere hovedlærer.",
+        "Og nå var Abah på telefonen til Yusron, og stilte akkurat den typen krav. \"Dekk skammen til læreren din.",
+        "Yusron, photographed here at boarding school, had always looked up to his head teacher But he also could not stop thinking about it."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8aa3/live/ce27ab50-b029-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/28e8b8cf334300.jpg",
+      "score": 13
     },
     {
       "id": "5c17ff66d8d2b9",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/64007a6d-546c-3595-9c54-9d88d7cc2f4e?fit=crop&h=675&upscale=true&w=1200&s=28a90e9b7ca60694fe3033e4a5221ff3c565fa62",
       "localImage": "assets/news/5c17ff66d8d2b9.jpg",
-      "score": 13
-    },
-    {
-      "id": "065203e05c439e",
-      "category": "Norge",
-      "published": "19.09. 21:00",
-      "publishedISO": "2026-09-19T21:00:10+02:00",
-      "title": "Haiket fra Lindesnes til Nordkapp på rekordtid",
-      "summary": "Med det norske flagget og et stort smil, kastet Alexander Sirris seg ut på en lang haiketur fra Lindesnes til Nordkapp. Han haiket først ned til bestemoren sin, som bor en time unna Lindesnes. Han ladet opp kreftene og ble kjørt videre av onkelen sin til Lindesnes.",
-      "keyPoints": [
-        "Med det norske flagget og et stort smil, kastet Alexander Sirris seg ut på en lang haiketur fra Lindesnes til Nordkapp.",
-        "Han haiket først ned til bestemoren sin, som bor en time unna Lindesnes.",
-        "Han ladet opp kreftene og ble kjørt videre av onkelen sin til Lindesnes.",
-        "Alexander Sirris (19) hadde akkurat kommet tilbake til skolebenken etter en backpackingtur i Tyskland. – Som alle gode idéer så kommer den i badstua, sier han."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/haiket-fra-lindesnes-til-nordkapp-pa-rekordtid-1.18021490",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2eW3oOThjgBXMb23IQjhlQRw93nDIBC_qx8BR_m73WUQ.jpg",
-      "localImage": "assets/news/065203e05c439e.jpg",
       "score": 13
     }
   ]
