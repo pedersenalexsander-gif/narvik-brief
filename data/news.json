@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.09.2026 kl. 11:32",
-  "updatedISO": "2026-09-19T11:32:14.336105+02:00",
+  "updatedAt": "19.09.2026 kl. 15:26",
+  "updatedISO": "2026-09-19T15:26:18.974892+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/7GVlWECfiSyQ5jHSYvbMjwDZqwi1ADTIvgrkejEIEJ_g.jpg",
       "localImage": "assets/news/b744e53ade04b1.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "bfb37aab4f00c9",
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
       "localImage": "assets/news/bfb37aab4f00c9.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "79791fbda25400",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9e1ec739-b8c0-3bd2-8546-cccae489f1b2?fit=crop&h=675&upscale=true&w=1200&s=d7b2a01d306a23b028304ca8e0fac9162e780e76",
       "localImage": "assets/news/79791fbda25400.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "e232769634829f",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3c245d38-12c2-3064-b4d2-0bafb9c72801?fit=crop&h=675&upscale=true&w=1200&s=5300bbcaa435e3818fd773c9f94c663872a92215",
       "localImage": "assets/news/e232769634829f.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "ed2a65553db006",
@@ -106,7 +106,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5034/live/0c472f40-b3aa-11f1-a7fa-c95bcf5935e4.jpg",
       "localImage": "assets/news/ed2a65553db006.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "bb7675b62b1fdf",
@@ -127,90 +127,90 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/edbV7c8KcDXX00o8LY3g_gJcYJTf-o_oEEq-62BCd1qQ.jpg",
       "localImage": "assets/news/bb7675b62b1fdf.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "22f4ee1aa569d7",
+      "id": "12a47cfeadb834",
       "category": "Norge",
-      "published": "19.09. 11:01",
-      "publishedISO": "2026-09-19T11:01:28+02:00",
-      "title": "Reality-romanser: – Jeg skjønner at det fra utsiden virker underlig",
-      "summary": "MER ENN KONKURRENTER: Sivert Gimmestad (25) fra Sandane og Tora Jørnsdatter Sørensen (23) fra Bodø er med i årets sesong av «Norges tøffeste». – Jeg har sett at mange kritiserer det litt. For mellom de tøffe slagene oppsto mer enn vennskapelige følelser. – Jeg skjønner at det fra utsiden virker underlig ... Jeg tror det blant annet handler om at i ekstreme situasjoner går alt mye fortere, sier Sørensen.",
+      "published": "19.09. 15:21",
+      "publishedISO": "2026-09-19T15:21:41+02:00",
+      "title": "Én av tre sliter med lesing: – Det har aldri vært så kjedelig å være ungdomsbibliotekar",
+      "summary": "På Alta bibliotek er de ikke overrasket over resultatene i PISA-undersøkelsen, som viser at norske 15-åringer aldri har vært dårligere til å lese enn nå. Barne- og ungdomsbibliotekarene Annelene Steine og Monica Wirkola sier de over flere år har sett trenden med at ungdommer leser mindre enn før. – Det har aldri vært så kjedelig å være ungdomsbibliotekar som nå. Annelene Thomassen Steine og Monica Wirkola sier det aldri har vært så kjedelig å være ungdomsbibleotikar som nå.",
       "keyPoints": [
-        "For mellom de tøffe slagene oppsto mer enn vennskapelige følelser. – Jeg skjønner at det fra utsiden virker underlig ...",
-        "MER ENN KONKURRENTER: Sivert Gimmestad (25) fra Sandane og Tora Jørnsdatter Sørensen (23) fra Bodø er med i årets sesong av «Norges tøffeste». – Jeg har sett at mange kritiserer det litt.",
-        "Jeg tror det blant annet handler om at i ekstreme situasjoner går alt mye fortere, sier Sørensen.",
-        "Jeg var veldig lite forberedt på at jeg i tillegg skulle møte noen jeg ble så glad i, sier Klæboe."
+        "Barne- og ungdomsbibliotekarene Annelene Steine og Monica Wirkola sier de over flere år har sett trenden med at ungdommer leser mindre enn før. – Det har aldri vært så kjedelig å være ungdomsbibliotekar som nå.",
+        "På Alta bibliotek er de ikke overrasket over resultatene i PISA-undersøkelsen, som viser at norske 15-åringer aldri har vært dårligere til å lese enn nå.",
+        "Da de fikk høre om de svake resultatene i den ferske PISA-undersøkelsen, var de enige i at økt fokus på lesing kan være nødvendig. – Jeg tror egentlig bare det er bra.",
+        "Begge mener det kan være positivt med regjeringens ønske om flere fysiske lærebøker. – Det er litt mer oversiktlig når man har det i bøker, og så blir ting litt for digitalisert på en måte, sier Ronja. – Når man leser mye, så forstår man mer, sier hun."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/romantikk-pa-norges-toffeste-og-i-andre-reality-programmer_-den-vitenskapelige-forklaringen-1.18000510",
+      "url": "https://www.nrk.no/tromsogfinnmark/en-av-tre-sliter-med-lesing_-_-det-har-aldri-vaert-sa-kjedelig-a-vaere-ungdomsbibliotekar-1.18028947",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xQcfdUPgvbA9QdkQaNhFgA66jT9oAfzBpyY2zmI-thtw.jpg",
-      "localImage": "assets/news/22f4ee1aa569d7.jpg",
+      "image": "https://gfx.nrk.no/XsCNcp9pGSKz2Du1rJMitwQMt7IkrGIKuFw-XNiC7tLA.png",
+      "localImage": "assets/news/12a47cfeadb834.png",
       "score": 13
     },
     {
-      "id": "ed9ba5d5df6af6",
+      "id": "9be893e30e3bee",
       "category": "Norge",
-      "published": "19.09. 09:48",
-      "publishedISO": "2026-09-19T09:48:10+02:00",
-      "title": "Jakob Ingebrigtsen om samtalen med Josh Kerr etter Ultimate Championship",
-      "summary": "Då Josh Kerr og Jakob Asserson Ingebrigtsen stod side om side for første gong på to år, gjekk bilda viralt. Då duellen mellom Josh Kerr og Jakob Ingebrigtsen ikkje blei noko av under Ultimate Championship i Budapest, fekk friidrettsverda sjå noko uventa. PRATAR UT: Jakob Ingebrigtsen fortel om dei virale bilda frå Ultimate Championship tidlegare i september.",
+      "published": "19.09. 15:05",
+      "publishedISO": "2026-09-19T15:05:48+02:00",
+      "title": "Friidrett: Jakob Ingebrigtsen måtte ta til takke med VM-sølv",
+      "summary": "SLÅTT: Jakob Asserson Ingebrigtsen måtte ta til takke med sølvet under VM i gateløp. – Jeg synes han ser litt eldre ut. Han fyller 26 år i dag, så det hadde vært en fin bursdagsgave å gjøre et veldig godt løp i dag, sa storebror Henrik før Jakob Asserson Ingebrigtsen skulle løpe fem kilometer i gateløp-VM. Dermed måtte Ingebrigtsen ta til takke med sølvet. – Han stoppet litt opp på oppløpet. jeg legger meg bak, men så bestemmer jeg meg for å gå og ta han litt psykologisk, og så kjenner jeg da jeg må bremse bak ham og så gire opp igjen ...",
       "keyPoints": [
-        "Då duellen mellom Josh Kerr og Jakob Ingebrigtsen ikkje blei noko av under Ultimate Championship i Budapest, fekk friidrettsverda sjå noko uventa.",
-        "Då Josh Kerr og Jakob Asserson Ingebrigtsen stod side om side for første gong på to år, gjekk bilda viralt.",
-        "PRATAR UT: Jakob Ingebrigtsen fortel om dei virale bilda frå Ultimate Championship tidlegare i september.",
-        "VANN: Jakob Ingebrigtsen vann 5000-meteren i Ultimate Championship i midten av september."
+        "SLÅTT: Jakob Asserson Ingebrigtsen måtte ta til takke med sølvet under VM i gateløp. – Jeg synes han ser litt eldre ut.",
+        "Dermed måtte Ingebrigtsen ta til takke med sølvet. – Han stoppet litt opp på oppløpet. jeg legger meg bak, men så bestemmer jeg meg for å gå og ta han litt psykologisk, og så kjenner jeg da jeg må bremse bak ham og så gire opp igjen ...",
+        "Han fyller 26 år i dag, så det hadde vært en fin bursdagsgave å gjøre et veldig godt løp i dag, sa storebror Henrik før Jakob Asserson Ingebrigtsen skulle løpe fem kilometer i gateløp-VM.",
+        "For på de siste 100 meterne klarte ikke Ingebrigtsen å holde farten til eritreiske Seare, som han tidligere på oppløpet hadde hentet inn. – Da er det bare rød sone. jeg synes vi springer ufattelig fort, tatt løypa og forhold i betraktning, fortsatte Sandnes-løperen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/jakob-ingebrigtsen-om-samtalen-med-josh-kerr-etter-ultimate-championship-1.18029812",
+      "url": "https://www.nrk.no/sport/friidrett_-jakob-ingebrigtsen-matte-ta-til-takke-med-vm-solv-1.18030171",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/KQ-HpRT2wSrOs1Fxlnu_oQ0xgdVnuiO6MxGTWBM-yrEA.jpg",
-      "localImage": "assets/news/ed9ba5d5df6af6.jpg",
+      "image": "https://gfx.nrk.no/3z9OkkgsYXk6muT1m2Od6QGzcQJkYVK1W1zhW1GZx9QQ.jpg",
+      "localImage": "assets/news/9be893e30e3bee.jpg",
       "score": 13
     },
     {
-      "id": "54d90b60334d38",
+      "id": "c0dd5138ffff98",
       "category": "Norge",
-      "published": "19.09. 09:38",
-      "publishedISO": "2026-09-19T09:38:22+02:00",
-      "title": "Her tjuvstartet de aksjonen: – Vi håper mange bidrar",
-      "summary": "10. klasse ved Bardu ungdomsskole har tjuvstartet den nasjonale Demensaksjonen. Tiendeklassingene har lært at sykdommen rammer flere barn enn de trodde, sier Anna. – Jeg visste ikke at det var så mange barn som fikk det, og at man kunne dø i så ung alder. Jentene på Setermoen står parate og klare for å formidle informasjon og ta imot donasjoner på vegne av Demensaksjonen. – Vi håper at mange bidrar i år.",
+      "published": "19.09. 13:37",
+      "publishedISO": "2026-09-19T13:37:01+02:00",
+      "title": "Urix forklarer enigheten mellom USA, Danmark og Grønland: Kan grønlenderne puste ut nå",
+      "summary": "Enigheten mellom USA, Danmark og Grønland er trolig bygd på en avtale som «alltid» har vært der. Både Danmark, Grønland og USA presenterer det som en seier, selv om offentligheten ikke kjenner alle detaljene ennå. Konflikten med USA knyttet Grønland tettere på Danmark Det som har skjedd er nok ikke det Donald Trump dypest sett hadde ønsket seg: Konflikten om Grønlands fremtid styrket båndene mellom Grønland og Danmark.",
       "keyPoints": [
-        "Jentene på Setermoen står parate og klare for å formidle informasjon og ta imot donasjoner på vegne av Demensaksjonen. – Vi håper at mange bidrar i år.",
-        "10. klasse ved Bardu ungdomsskole har tjuvstartet den nasjonale Demensaksjonen.",
-        "Tiendeklassingene har lært at sykdommen rammer flere barn enn de trodde, sier Anna. – Jeg visste ikke at det var så mange barn som fikk det, og at man kunne dø i så ung alder.",
-        "Med på «bøsse-teamet» er også Anna Sofie Eide Langum. – Jeg håper at forskningen vil lede til en potensiell kur, for det finnes ikke."
+        "Enigheten mellom USA, Danmark og Grønland er trolig bygd på en avtale som «alltid» har vært der.",
+        "Både Danmark, Grønland og USA presenterer det som en seier, selv om offentligheten ikke kjenner alle detaljene ennå.",
+        "Konflikten med USA knyttet Grønland tettere på Danmark Det som har skjedd er nok ikke det Donald Trump dypest sett hadde ønsket seg: Konflikten om Grønlands fremtid styrket båndene mellom Grønland og Danmark.",
+        "Det er ikke mer enn ni måneder siden grønlendere snakket om å flytte til Norge eller Danmark fordi de var redde for at amerikanerne ville ta Grønland med makt."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/tjuvstartet-demensaksjonen-pa-setermoen-i-bardu_-_team-polsa_-syver-er-frontfigur-1.18028549",
+      "url": "https://www.nrk.no/urix/urix-forklarer-enigheten-mellom-usa_-danmark-og-gronland_-kan-gronlenderne-puste-ut-na-1.18030021",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/wnHhbCIWAbMM20oZWoj9AgxeKXQKMuF_C7Xi8y0tMv5w.jpg",
-      "localImage": "assets/news/54d90b60334d38.jpg",
+      "image": "https://gfx.nrk.no/3OlbmUZ8WOyOhV07ZW_6RwZgMavnlqUtv4ne7ZCxCObg.jpg",
+      "localImage": "assets/news/c0dd5138ffff98.webp",
       "score": 13
     },
     {
-      "id": "dd7ba80cdad715",
+      "id": "ffaeca65c1075f",
       "category": "Norge",
-      "published": "19.09. 08:12",
-      "publishedISO": "2026-09-19T08:12:00+02:00",
-      "title": "Leitar etter fiskebåt med fire turistar utanfor Averøy",
-      "summary": "Det er funne ein båt i sjøen utanfor Averøy, etter at fire turistar la ut på fisketur fredag morgon. Fredag føremiddag skal ein utleigebåt med fire utanlandske turistar har reist ut for å fiske utanfor Averøya i Møre og Romsdal. Det har vore leita med store styrkar etter fire personar i ein liten fiskebåt i heile natt.",
+      "published": "19.09. 11:43",
+      "publishedISO": "2026-09-19T11:43:26+02:00",
+      "title": "Skal vere alvorleg skadd etter fallulykke på Romsdalseggen",
+      "summary": "Ei kvinne er omkomen etter ei fallulykke på Romsdalseggen. – Fallet skal ha vore fleire titals meter, seier operasjonsleiar Eivind Klokkersund. Politiet fekk tidlegare laudag melding om at ein person i eit turfølgje har hatt eit fall like ved toppunktet på Romsdalseggen (1329 moh). Den som sto igjen skal ha varsla politiet om fallulykka. – Det skal ha vore to personar i eit turfølgje, og den eine av desse har hatt ei fallulykke i nærleiken av toppen av Romsdalseggen, ved sjølve toppunktet, seier Klokkersund.",
       "keyPoints": [
-        "Det er funne ein båt i sjøen utanfor Averøy, etter at fire turistar la ut på fisketur fredag morgon.",
-        "Fredag føremiddag skal ein utleigebåt med fire utanlandske turistar har reist ut for å fiske utanfor Averøya i Møre og Romsdal.",
-        "Det har vore leita med store styrkar etter fire personar i ein liten fiskebåt i heile natt.",
-        "Politiet seier dei fire turistane har leigd båt av eit lokalt firma og bur på Averøya under opphaldet."
+        "Ei kvinne er omkomen etter ei fallulykke på Romsdalseggen. – Fallet skal ha vore fleire titals meter, seier operasjonsleiar Eivind Klokkersund.",
+        "Den som sto igjen skal ha varsla politiet om fallulykka. – Det skal ha vore to personar i eit turfølgje, og den eine av desse har hatt ei fallulykke i nærleiken av toppen av Romsdalseggen, ved sjølve toppunktet, seier Klokkersund.",
+        "Politiet fekk tidlegare laudag melding om at ein person i eit turfølgje har hatt eit fall like ved toppunktet på Romsdalseggen (1329 moh).",
+        "Ei kvinne i 30-åra omkom etter eit fall frå Romsdalseggen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/leitar-etter-fiskebat-med-fire-turistar-utanfor-averoy-1.18029970",
+      "url": "https://www.nrk.no/mr/skal-vere-alvorleg-skadd-etter-fallulykke-pa-romsdalseggen-1.18030113",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/kd637QPK4o6Qt7iVsEn3dQHesS5d1nOosUteZckASlnA.jpg",
-      "localImage": "assets/news/dd7ba80cdad715.jpg",
+      "image": "https://gfx.nrk.no/WC3oYPqamdVY_qmU27BZWgiw0elN3K_amGtuVsCuRaIQ.jpg",
+      "localImage": "assets/news/ffaeca65c1075f.jpg",
       "score": 13
     }
   ]
