@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.09.2026 kl. 00:30",
-  "updatedISO": "2026-09-19T00:30:29.318036+02:00",
+  "updatedAt": "19.09.2026 kl. 02:33",
+  "updatedISO": "2026-09-19T02:33:54.079205+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -27,8 +27,8 @@
     {
       "id": "ed2a65553db006",
       "category": "Verden",
-      "published": "18.09. 23:45",
-      "publishedISO": "2026-09-18T23:45:19+02:00",
+      "published": "19.09. 01:26",
+      "publishedISO": "2026-09-19T01:26:48+02:00",
       "title": "Trump sier at han forbyr CNN, Politico og MS NÅ fra Det hvite hus",
       "summary": "Følg med: Trump sier at forbudet mot enkelte nyhetskanaler fra Det hvite hus er «fordi de er falske nyheter» USAs president Donald Trump har kunngjort at han «umiddelbart» forbyr CNN, MS NOW og Politico fra Det hvite hus, den siste vrien i hans hektiske forhold til media. Trump tok spørsmål fra pressen i Det ovale kontor kort tid etter kunngjøringen Reportere fra både Politico og CNN var fortsatt på Det hvite hus-området kort tid etter kunngjøringen. Et CNN-skilt teipet til en stand viser et samarbeidsrom i Det hvite hus pressekontor. Siden han kom tilbake til kontoret i januar 2025, har Trump og administrasjonstjenestemenn gjentatte ganger kollidert med medlemmer av Det hvite hus pressekorps.",
       "keyPoints": [
@@ -67,27 +67,6 @@
       "score": 13
     },
     {
-      "id": "94b36437c6f21a",
-      "category": "Økonomi",
-      "published": "17.09. 15:31",
-      "publishedISO": "2026-09-17T15:31:28+02:00",
-      "title": "Wall Street markant opp: – Usikkerheten har avtatt",
-      "summary": "Rentefrykt, oljeprisoppgang og AI-uro har satt sitt preg på Wall Street tidligere denne uken. Slik ser det ut ved stengetid på Wall Street torsdag: Nedgangen etter rentebeslutningen og pressekonferansen til Warsh var en «overreaksjon», mener investeringsdirektør Bob Edwards hos Edwards Asset Management. – Nå som vi er forbi denne rentehevingen, kan aksjemarkedet gå videre ettersom usikkerheten har avtatt, sier Edwards ifølge Bloomberg. Ved stengetid på Wall Street ligger den på 104 dollar fatet, ned 1,3 prosent siden midnatt.",
-      "keyPoints": [
-        "Slik ser det ut ved stengetid på Wall Street torsdag: Nedgangen etter rentebeslutningen og pressekonferansen til Warsh var en «overreaksjon», mener investeringsdirektør Bob Edwards hos Edwards Asset Management. – Nå som vi er forbi denne rentehevingen, kan aksjemarkedet gå videre ettersom usikkerheten har avtatt, sier Edwards ifølge Bloomberg.",
-        "Ved stengetid på Wall Street ligger den på 104 dollar fatet, ned 1,3 prosent siden midnatt.",
-        "Rentefrykt, oljeprisoppgang og AI-uro har satt sitt preg på Wall Street tidligere denne uken.",
-        "Teknologi- og AI-aksjer har på sin side ledet an i oppgangen på Wall Street."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Gx93k4/wall-street-aapner-markant-opp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7fe36542-b857-3fb7-8b90-e5f0438c8105?fit=crop&h=675&upscale=true&w=1200&s=21c853ae198b77d4ea5b89d80cfea12476eff6ce",
-      "localImage": "assets/news/94b36437c6f21a.jpg",
-      "score": 18
-    },
-    {
       "id": "79791fbda25400",
       "category": "Økonomi",
       "published": "18.09. 21:56",
@@ -109,25 +88,46 @@
       "score": 17
     },
     {
-      "id": "1b5796d341521b",
-      "category": "AI",
-      "published": "18.09. 01:00",
-      "publishedISO": "2026-09-18T01:00:47+02:00",
-      "title": "Robotics: Firms race to improve robot training systems",
-      "summary": "Grunnleggerne Michelle Lu og Kier Storey håper programvaren deres en dag vil kontrollere roboter som kan navigere og utføre nyttige oppgaver i hjemmet og på arbeidsplassen. \"Det er en merkelig situasjon med robotikk, for faktisk de tingene vi synes som mennesker er utrolig vanskelige, som gymnastikk, kan du få roboter til å gjøre det rimelig bra. Robottreningssystemer bruker virtuelle miljøer der oppgaver praktiseres Vsim er en oppstart med 10 ingeniører som jobber med teknologien sin. Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, en ekstern, og kalt en robotverden som gir en forståelse av den virkelige roboten. hvordan miljøet kan endre seg når det beveger seg rundt.",
+      "id": "94b36437c6f21a",
+      "category": "Økonomi",
+      "published": "17.09. 15:31",
+      "publishedISO": "2026-09-17T15:31:28+02:00",
+      "title": "Wall Street markant opp: – Usikkerheten har avtatt",
+      "summary": "Rentefrykt, oljeprisoppgang og AI-uro har satt sitt preg på Wall Street tidligere denne uken. Slik ser det ut ved stengetid på Wall Street torsdag: Nedgangen etter rentebeslutningen og pressekonferansen til Warsh var en «overreaksjon», mener investeringsdirektør Bob Edwards hos Edwards Asset Management. – Nå som vi er forbi denne rentehevingen, kan aksjemarkedet gå videre ettersom usikkerheten har avtatt, sier Edwards ifølge Bloomberg. Ved stengetid på Wall Street ligger den på 104 dollar fatet, ned 1,3 prosent siden midnatt.",
       "keyPoints": [
-        "Robot training systems use virtual environments where tasks are practised Vsim is a start-up with 10 engineers working on its tech.",
-        "Det inkluderer virtuelle simuleringstreningssystemer og en såkalt verdensmodell, ekstern, kalt Cosmos, som gir en robot en forståelse av fysikken i den virkelige verden og hvordan miljøet kan endre seg når den beveger seg rundt.",
-        "Grunnleggerne Michelle Lu og Kier Storey håper programvaren deres en dag vil kontrollere roboter som kan navigere og utføre nyttige oppgaver i hjemmet og på arbeidsplassen. \"Det er en merkelig situasjon med robotikk, fordi de tingene vi synes som mennesker er utrolig vanskelige, som gymnastikk, kan du få roboter til å gjøre det rimelig bra.",
-        "I 2022 bestemte de seg for å sette opp Vsim, for å bygge sitt eget treningssystemmiljø og andre verktøy."
+        "Slik ser det ut ved stengetid på Wall Street torsdag: Nedgangen etter rentebeslutningen og pressekonferansen til Warsh var en «overreaksjon», mener investeringsdirektør Bob Edwards hos Edwards Asset Management. – Nå som vi er forbi denne rentehevingen, kan aksjemarkedet gå videre ettersom usikkerheten har avtatt, sier Edwards ifølge Bloomberg.",
+        "Ved stengetid på Wall Street ligger den på 104 dollar fatet, ned 1,3 prosent siden midnatt.",
+        "Rentefrykt, oljeprisoppgang og AI-uro har satt sitt preg på Wall Street tidligere denne uken.",
+        "Teknologi- og AI-aksjer har på sin side ledet an i oppgangen på Wall Street."
       ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o",
+      "url": "https://e24.no/boers-og-finans/i/Gx93k4/wall-street-aapner-markant-opp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7fe36542-b857-3fb7-8b90-e5f0438c8105?fit=crop&h=675&upscale=true&w=1200&s=21c853ae198b77d4ea5b89d80cfea12476eff6ce",
+      "localImage": "assets/news/94b36437c6f21a.jpg",
+      "score": 17
+    },
+    {
+      "id": "2ddb5a2ec6582e",
+      "category": "Verden",
+      "published": "19.09. 00:58",
+      "publishedISO": "2026-09-19T00:58:55+02:00",
+      "title": "USA og Danmark kommer til enighet om Grønlands sikkerhet etter trusler fra Trump",
+      "summary": "USA og Danmark har kunngjort en avtale om Grønlands sikkerhet, som løser en diplomatisk tvist utløst av president Donald Trumps trusler om å erobre territoriet med makt. Danmarks statsminister sa at avtalen «styrker sikkerheten i Arktis og det nordatlantiske området», men tok ikke opp detaljer i avtalen som Trump nevnte i et innlegg på sosiale medier. Avtalen kommer etter måneder med trusler fra Trump om å «ta» Grønland over nasjonale sikkerhetshensyn, med henvisning til dens strategiske plassering for forsvarsformål og mineralrikdommen.",
+      "keyPoints": [
+        "USA og Danmark har kunngjort en avtale om Grønlands sikkerhet, som løser en diplomatisk tvist utløst av president Donald Trumps trusler om å erobre territoriet med makt.",
+        "Avtalen kommer etter måneder med trusler fra Trump om å «ta» Grønland over nasjonale sikkerhetshensyn, med henvisning til dens strategiske plassering for forsvarsformål og mineralrikdommen.",
+        "Danmarks statsminister sa at avtalen «styrker sikkerheten i Arktis og det nordatlantiske området», men tok ikke opp detaljer i avtalen som Trump nevnte i et innlegg på sosiale medier.",
+        "Styreleder for Grønlands regjering Jens-Frederik Nielsen sa i en uttalelse som kunngjorde avtalen at det «er gledelig at vi er i ferd med å inngå en avtale som sikrer og styrker sikkerheten» til Grønland, Danmark og USA. «Avtalen anerkjenner Grønlands interesser og vår plass i internasjonalt samarbeid."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4861/live/2c408c40-a786-11f1-b2d5-535b3b3d379f.jpg",
-      "localImage": "assets/news/1b5796d341521b.jpg",
-      "score": 13
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a1d9/live/919d1120-b3ad-11f1-baa2-f576e6b1431d.jpg",
+      "localImage": "assets/news/2ddb5a2ec6582e.jpg",
+      "score": 17
     },
     {
       "id": "e88e5984a0a974",
@@ -151,6 +151,27 @@
       "score": 15
     },
     {
+      "id": "b65a80372da042",
+      "category": "Økonomi",
+      "published": "17.09. 21:21",
+      "publishedISO": "2026-09-17T21:21:48+02:00",
+      "title": "Fondspanikken i Tyrkia: Forvaltere utestenges fra Istanbul-børsen",
+      "summary": "Istanbul-børsen raste mer enn fem prosent onsdag, og finansaksjer falt kraftig. Totalt 38 personer er anklages for markedsmanipulasjon og er utestengt fra å handle på Istanbul-børsen i to år, ifølge finanstilsynsmyndigheten i Tyrkia. Myndighetene planlegger også å avvikle flere fond styrt av Tera, Pusula og andre forvaltere, ifølge Bloomberg.",
+      "keyPoints": [
+        "Totalt 38 personer er anklages for markedsmanipulasjon og er utestengt fra å handle på Istanbul-børsen i to år, ifølge finanstilsynsmyndigheten i Tyrkia.",
+        "Myndighetene planlegger også å avvikle flere fond styrt av Tera, Pusula og andre forvaltere, ifølge Bloomberg.",
+        "Istanbul-børsen raste mer enn fem prosent onsdag, og finansaksjer falt kraftig.",
+        "Tyrkiske myndigheter anklager forvaltere for markedsmanipulasjon."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/aJnpxL/fondspanikken-i-tyrkia-forvaltere-utestenges-fra-istanbul-boersen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/51bd72a4-15d9-37d2-b7c4-f5c824bddccf?fit=crop&h=675&upscale=true&w=1200&s=e705e7ca68c41fcb6ff775f555eac0bf45e5a9e6",
+      "localImage": "assets/news/b65a80372da042.jpg",
+      "score": 15
+    },
+    {
       "id": "e232769634829f",
       "category": "Økonomi",
       "published": "18.09. 11:19",
@@ -169,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3c245d38-12c2-3064-b4d2-0bafb9c72801?fit=crop&h=675&upscale=true&w=1200&s=5300bbcaa435e3818fd773c9f94c663872a92215",
       "localImage": "assets/news/e232769634829f.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "61714d64f00075",
@@ -190,28 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/SVXCqkV8weYNdfvwzKDJZgLaFlFZqiYDBjHQC5heLmkg.jpg",
       "localImage": "assets/news/61714d64f00075.jpg",
-      "score": 15
-    },
-    {
-      "id": "b65a80372da042",
-      "category": "Økonomi",
-      "published": "17.09. 21:21",
-      "publishedISO": "2026-09-17T21:21:48+02:00",
-      "title": "Fondspanikken i Tyrkia: Forvaltere utestenges fra Istanbul-børsen",
-      "summary": "Istanbul-børsen raste mer enn fem prosent onsdag, og finansaksjer falt kraftig. Totalt 38 personer er anklages for markedsmanipulasjon og er utestengt fra å handle på Istanbul-børsen i to år, ifølge finanstilsynsmyndigheten i Tyrkia. Myndighetene planlegger også å avvikle flere fond styrt av Tera, Pusula og andre forvaltere, ifølge Bloomberg.",
-      "keyPoints": [
-        "Totalt 38 personer er anklages for markedsmanipulasjon og er utestengt fra å handle på Istanbul-børsen i to år, ifølge finanstilsynsmyndigheten i Tyrkia.",
-        "Myndighetene planlegger også å avvikle flere fond styrt av Tera, Pusula og andre forvaltere, ifølge Bloomberg.",
-        "Istanbul-børsen raste mer enn fem prosent onsdag, og finansaksjer falt kraftig.",
-        "Tyrkiske myndigheter anklager forvaltere for markedsmanipulasjon."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/aJnpxL/fondspanikken-i-tyrkia-forvaltere-utestenges-fra-istanbul-boersen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/51bd72a4-15d9-37d2-b7c4-f5c824bddccf?fit=crop&h=675&upscale=true&w=1200&s=e705e7ca68c41fcb6ff775f555eac0bf45e5a9e6",
-      "localImage": "assets/news/b65a80372da042.jpg",
-      "score": 15
+      "score": 14
     }
   ]
 }
