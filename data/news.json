@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.09.2026 kl. 17:35",
-  "updatedISO": "2026-09-20T17:35:10.193725+02:00",
+  "updatedAt": "20.09.2026 kl. 20:19",
+  "updatedISO": "2026-09-20T20:19:22.093958+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/hFh7QIy-Ld1hwoBl2EmjQAbCF9Rg_NyH7jVaaRUIhzFg.jpg",
       "localImage": "assets/news/5c4a57eb8449d4.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "4e8589bff3c035",
@@ -43,7 +43,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
       "localImage": "assets/news/4e8589bff3c035.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "f43ff6fd58f720",
+      "category": "Økonomi",
+      "published": "20.09. 19:58",
+      "publishedISO": "2026-09-20T19:58:23+02:00",
+      "title": "– Her bygges Nordens største batteri",
+      "summary": "E24 har fått på oss hjelm og refleksvest, blitt ledet gjennom tre svingdører med adgangskontroll og gått gjennom en labyrint rundt på byggeplassen før vi er kommet hit – til det som altså skal bli det største batteriet i Norden. Eller hele Trondheim i 45 minutter. – Det er jo et enormt batteri, da, sier Bryhni. Foto: Skjalg Bøhmer Vold Bryhni mener det burde vært lovpålagt å benytte varmen fra datasentrene som bygges ut over hele landet.",
+      "keyPoints": [
+        "Eller hele Trondheim i 45 minutter. – Det er jo et enormt batteri, da, sier Bryhni.",
+        "E24 har fått på oss hjelm og refleksvest, blitt ledet gjennom tre svingdører med adgangskontroll og gått gjennom en labyrint rundt på byggeplassen før vi er kommet hit – til det som altså skal bli det største batteriet i Norden.",
+        "Foto: Skjalg Bøhmer Vold Bryhni mener det burde vært lovpålagt å benytte varmen fra datasentrene som bygges ut over hele landet.",
+        "Haakon Bryhni, styreleder og gründer av Tydal Data Center, viser E24 rundt på byggeplassen på Kirkvollen industriområde i Tydal."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/ln2oEA/her-bygges-nordens-stoerste-batteri",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/085da219-d192-39dd-a674-b1b56203cf37?fit=crop&h=675&upscale=true&w=1200&s=aed261a7e9cea5495636b840db5951e0a0bb3a9e",
+      "localImage": "assets/news/f43ff6fd58f720.jpg",
+      "score": 13
     },
     {
       "id": "edc9d8c6c72f01",
@@ -64,49 +85,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e8c/live/353ee2e0-b4da-11f1-b1d1-571ed4d7ff2c.jpg",
       "localImage": "assets/news/edc9d8c6c72f01.jpg",
-      "score": 13
-    },
-    {
-      "id": "15d01956164a1c",
-      "category": "Økonomi",
-      "published": "19.09. 17:54",
-      "publishedISO": "2026-09-19T17:54:28+02:00",
-      "title": "Milliardær vil ha full NRK-tilgang fra Sveits: – Ikke rettferdig",
-      "summary": "Men tilgang til hele NRK-katalogen får han ikke fra Sveits. Eiendomsmilliardær Kjartan Aas savner å kunne se hele NRKs TV-tilbud fra hjemmet sitt i Sveits. Aas trekker frem at han fortsatt betaler mye skatt til spleiselaget i Norge, og omtaler seg selv som den største skatteyteren i Tvedestrand. «Når NRK finansieres over skatteseddelen er det ikke rettferdig å bli ekskludert fra NRK TV.",
-      "keyPoints": [
-        "Aas trekker frem at han fortsatt betaler mye skatt til spleiselaget i Norge, og omtaler seg selv som den største skatteyteren i Tvedestrand. «Når NRK finansieres over skatteseddelen er det ikke rettferdig å bli ekskludert fra NRK TV.",
-        "Men tilgang til hele NRK-katalogen får han ikke fra Sveits.",
-        "Eiendomsmilliardær Kjartan Aas savner å kunne se hele NRKs TV-tilbud fra hjemmet sitt i Sveits.",
-        "DN har fått innsyn i en e-post hvor milliardæren, som flyttet fra Norge i 2021, stiller spørsmål med hvorfor han ikke har tilgang til NRK TV."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/K8Jzm4/milliardaer-vil-ha-full-nrk-tilgang-fra-sveits-ikke-rettferdig",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6cead986-fddd-3ad0-b4fc-f11948cb686b?fit=crop&h=675&upscale=true&w=1200&s=e12752ba862ba917f70e40643e6ad87b528a52e9",
-      "localImage": "assets/news/15d01956164a1c.jpg",
-      "score": 13
-    },
-    {
-      "id": "d4c2d7fe308078",
-      "category": "Verden",
-      "published": "20.09. 12:45",
-      "publishedISO": "2026-09-20T12:45:39+02:00",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "summary": "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning. Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet. Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
-      "keyPoints": [
-        "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning.",
-        "Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet.",
-        "Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
-        "Russiske statsmedier rapporterte at en valgfunksjonær var en av to personer som ble drept av et droneangrep på en buss i en Moskva-kontrollert del av Kherson i Ukraina søndag, med henvisning til lederen for Russlands valgkommisjon."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/d4c2d7fe308078.jpg",
-      "score": 17
+      "score": 12
     },
     {
       "id": "bfb37aab4f00c9",
@@ -130,6 +109,27 @@
       "score": 17
     },
     {
+      "id": "d4c2d7fe308078",
+      "category": "Verden",
+      "published": "20.09. 12:45",
+      "publishedISO": "2026-09-20T12:45:39+02:00",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "summary": "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning. Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet. Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
+      "keyPoints": [
+        "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning.",
+        "Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet.",
+        "Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
+        "Russiske statsmedier rapporterte at en valgfunksjonær var en av to personer som ble drept av et droneangrep på en buss i en Moskva-kontrollert del av Kherson i Ukraina søndag, med henvisning til lederen av Russlands valgkommisjon."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/d4c2d7fe308078.jpg",
+      "score": 16
+    },
+    {
       "id": "0460392bdfec61",
       "category": "Norge",
       "published": "20.09. 08:16",
@@ -148,7 +148,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nrrEbQ9Q1nGzrhAhhXxheQLyDqZSbfvVMDbvzTlHpc1g.jpg",
       "localImage": "assets/news/0460392bdfec61.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "611a972ca5586f",
+      "category": "Norge",
+      "published": "20.09. 19:41",
+      "publishedISO": "2026-09-20T19:41:44+02:00",
+      "title": "Energi i Nord mener strømselskaper i nord kan lære av Sverige: Ryddet i kraftkøen og frigjorde strøm",
+      "summary": "Vambheim i Energi i Nord (til venstre) og markedssjef Carina Zolland i Luleå Energi. Gjennom bedre samhandling ryddet de opp i kraftkøen og frigjorde nettkapasitet tilsvarende 20.000 hurtigladere for elbil. Marit Vambheim, daglig leder i Energi i Nord, mener strømselskaper i Nord-Norge kan lære av modellen.",
+      "keyPoints": [
+        "Marit Vambheim, daglig leder i Energi i Nord, mener strømselskaper i Nord-Norge kan lære av modellen.",
+        "Gjennom bedre samhandling ryddet de opp i kraftkøen og frigjorde nettkapasitet tilsvarende 20.000 hurtigladere for elbil.",
+        "Vambheim i Energi i Nord (til venstre) og markedssjef Carina Zolland i Luleå Energi.",
+        "Energi i Nord består av et bredt partnerskap fra hele energisektoren i Nord-Norge."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/energi-i-nord-mener-stromselskaper-i-nord-kan-laere-av-sverige_-ryddet-i-kraftkoen-og-frigjorde-strom-1.18028857",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/L7TYR3igiJfMBDK9CFKUNApSM2vaB9ptMvhCz7S4NBpg.jpg",
+      "localImage": "assets/news/611a972ca5586f.jpg",
+      "score": 13
     },
     {
       "id": "137486603963da",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/z2ln7gAmjnPIygMekZXGkgeAhXJ7z-LrM-pM7mdVALmQ.jpg",
       "localImage": "assets/news/8e0b608d2c7259.jpg",
-      "score": 13
-    },
-    {
-      "id": "49e6a2ef789615",
-      "category": "Norge",
-      "published": "20.09. 15:45",
-      "publishedISO": "2026-09-20T15:45:52+02:00",
-      "title": "Vil ha høyt­svevende satsing til Setesdal",
-      "summary": "Lokalpolitikerne i Evje og Hornnes vil ha en dronelinje til Setesdal videregående skole. Evjemoen trekkes fram som et sted hvor studentene kan øve hvis det blir drone linje i Setesdal. – Det finnes ingen slik linje i Agder i dag, men behovet er stort, sier ordfører i Evje og Hornnes Morten Haraldstad (KrF). Bakgrunnen er at et samlet kommunestyre i Evje og Hornnes ønsker en slik linje til den videregående skolen i Setesdal. – Det er fristende å si at det er et høytsvevende forslag, men det er i alle fall ambisiøst.",
-      "keyPoints": [
-        "Evjemoen trekkes fram som et sted hvor studentene kan øve hvis det blir drone linje i Setesdal. – Det finnes ingen slik linje i Agder i dag, men behovet er stort, sier ordfører i Evje og Hornnes Morten Haraldstad (KrF).",
-        "Lokalpolitikerne i Evje og Hornnes vil ha en dronelinje til Setesdal videregående skole.",
-        "Bakgrunnen er at et samlet kommunestyre i Evje og Hornnes ønsker en slik linje til den videregående skolen i Setesdal. – Det er fristende å si at det er et høytsvevende forslag, men det er i alle fall ambisiøst.",
-        "De peker blant annet på at Setesdal har unike forutsetninger for utdanningen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/vil-ha-hoytsvevende-satsing-til-setesdal-1.18030067",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/w_MdgQBG0EMsHinSqM4tOw_EQ0ooE9OgT58MMrEE38zw.jpg",
-      "localImage": "assets/news/49e6a2ef789615.jpg",
       "score": 13
     }
   ]
