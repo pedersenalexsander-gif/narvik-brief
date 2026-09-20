@@ -1,70 +1,28 @@
 {
-  "updatedAt": "20.09.2026 kl. 03:25",
-  "updatedISO": "2026-09-20T03:25:35.084170+02:00",
+  "updatedAt": "20.09.2026 kl. 08:44",
+  "updatedISO": "2026-09-20T08:44:18.902270+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "2e7862868d51f6",
+      "id": "0460392bdfec61",
       "category": "Norge",
-      "published": "19.09. 18:43",
-      "publishedISO": "2026-09-19T18:43:02+02:00",
-      "title": "Regjeringen gjør det vanskeligere å ta beslag i russiske skip på Svalbard",
-      "summary": "I en hastig innført forskrift begrenser regjeringen muligheten til å beslaglegge russiske skip på Svalbard. Sysselmesteren på Svalbard tok beslag i det russiske forskningsskipet Professor Moltsjanov i begynnelsen av september. I den nye forskriften, som ble sendt ut sent fredag ettermiddag, begrunner regjeringen tiltaket med at «Svalbard har en beliggenhet som gjør at forsyningslinjene til enkelte av lokalsamfunnene kan være mer utsatt enn for lokalsamfunn på fastlandet».",
+      "published": "20.09. 08:16",
+      "publishedISO": "2026-09-20T08:16:06+02:00",
+      "title": "Tyskland trenger 80 000 nye soldater for å bli krigsdyktige",
+      "summary": "Tyskland vil bygge Europas mektigste hær men sliter med å finne nok soldater. Forsvarsminister Boris Pistorius har sagt at Tyskland trenger 80 000 nye soldater så landet kan bli krigsdyktig. KAMPANJE: Det tyske forbundsforsvaret trenger 80 000 nye soldater.",
       "keyPoints": [
-        "I en hastig innført forskrift begrenser regjeringen muligheten til å beslaglegge russiske skip på Svalbard.",
-        "Sysselmesteren på Svalbard tok beslag i det russiske forskningsskipet Professor Moltsjanov i begynnelsen av september.",
-        "I den nye forskriften, som ble sendt ut sent fredag ettermiddag, begrunner regjeringen tiltaket med at «Svalbard har en beliggenhet som gjør at forsyningslinjene til enkelte av lokalsamfunnene kan være mer utsatt enn for lokalsamfunn på fastlandet».",
-        "Den nye forskriften gjør det vanskeligere å gå til slike skritt."
+        "Forsvarsminister Boris Pistorius har sagt at Tyskland trenger 80 000 nye soldater så landet kan bli krigsdyktig.",
+        "KAMPANJE: Det tyske forbundsforsvaret trenger 80 000 nye soldater.",
+        "Tyskland vil bygge Europas mektigste hær men sliter med å finne nok soldater.",
+        "PILOT: – Man må jo gjøre det man elsker og jeg elsker å fly, sier 14 år gamle Ronja som drømmer om å bli pilot. – Herregud dette var gøy!"
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-gjor-det-vanskeligere-a-ta-beslag-i-russiske-skip-pa-svalbard-1.18030381",
+      "url": "https://www.nrk.no/urix/tyskland-trenger-80-000-nye-soldater-for-a-bli-krigsdyktige-1.18026481",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2Dl2KVzoDtnzW6DxzvU19gj-PHOpoGUjlK5BXNMkBNGw.jpg",
-      "localImage": "assets/news/2e7862868d51f6.jpg",
-      "score": 16
-    },
-    {
-      "id": "4e8589bff3c035",
-      "category": "Verden",
-      "published": "19.09. 23:01",
-      "publishedISO": "2026-09-19T23:01:56+02:00",
-      "title": "Trump sier at USA vil danne 'AI Force' og utnevne en tsar med kunstig intelligens",
-      "summary": "USAs president Donald Trump har kunngjort at han vil danne en «AI Force» og utnevne en tsar med kunstig intelligens midt i advarsler om den nye teknologien. Hvorfor Trump er all-in på AI til tross for advarslene \"AI er den neste industrielle revolusjonen, eller Internett, men vil være enda større og mer effektfull, muligens så mye som 25% av landets BNP,\" sa han på sosiale medier, og la til at han ønsker at USA skal fortsette å lede Kina innen AI. I Storbritannia har parlamentsmedlemmer på tvers av partier og jevnaldrende identifisert menneskerettighetsrisikoer forbundet med kunstig intelligens og har hevdet at eksisterende lover er dårlig rustet til å håndtere teknologiens raske vekst.",
-      "keyPoints": [
-        "USAs president Donald Trump har kunngjort at han vil danne en «AI Force» og utnevne en tsar med kunstig intelligens midt i advarsler om den nye teknologien.",
-        "I Storbritannia har parlamentsmedlemmer på tvers av partier og jevnaldrende identifisert menneskerettighetsrisikoer forbundet med kunstig intelligens og har hevdet at eksisterende lover er dårlig rustet til å håndtere teknologiens raske vekst.",
-        "Hvorfor Trump er all-in på AI til tross for advarslene \"AI er den neste industrielle revolusjonen, eller Internett, men vil være enda større og mer effektfull, muligens så mye som 25% av landets BNP,\" sa han på sosiale medier, og la til at han ønsker at USA skal fortsette å lede Kina innen AI.",
-        "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards Anthropic blocks possible attempt to use AI to make biological weapons"
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
-      "localImage": "assets/news/4e8589bff3c035.jpg",
-      "score": 22
-    },
-    {
-      "id": "1d436784a2c033",
-      "category": "USA",
-      "published": "19.09. 19:23",
-      "publishedISO": "2026-09-19T19:23:37+02:00",
-      "title": "Trump øker feiden med pressen etter uke med tilbakeslag",
-      "summary": "President Donald Trump har tilført sin pågående feide med pressen i Det hvite hus et nytt nivå av bitterhet. Mens medievakthundorganisasjoner og Det hvite hus korrespondentforening gråter stygt, ser det ut til at Trump er klar til å gå videre med en omfattende innsats for å straffe disse utsalgsstedene. Journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier. Presidentens frustrasjon over media kom imidlertid etter en uke med tilbakeslag der store institusjoner ga ham en rekke tap på tvers av agendaen hans.",
-      "keyPoints": [
-        "Journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier. Presidentens frustrasjon over media kom imidlertid etter en uke med tilbakeslag der store institusjoner ga ham en rekke tap på tvers av agendaen hans.",
-        "President Donald Trump har tilført sin pågående feide med pressen i Det hvite hus et nytt nivå av bitterhet.",
-        "Mens medievakthundorganisasjoner og Det hvite hus korrespondentforening gråter stygt, ser det ut til at Trump er klar til å gå videre med en omfattende innsats for å straffe disse utsalgsstedene.",
-        "I fjor forbød Det hvite hus reportere for Associated Press fra å delta i presidentens pressebasseng – som gir media tilgang til mindre presidentopptredener i byen og omreisende – fordi nyhetstjenesten ikke ville følge Trumps trekk om å gi nytt navn til Mexicogulfen til Amerikabukta."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmn8ed1xpxnyo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c72/live/446b36e0-b44b-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/1d436784a2c033.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/nrrEbQ9Q1nGzrhAhhXxheQLyDqZSbfvVMDbvzTlHpc1g.jpg",
+      "localImage": "assets/news/0460392bdfec61.jpg",
+      "score": 17
     },
     {
       "id": "15d01956164a1c",
@@ -85,70 +43,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6cead986-fddd-3ad0-b4fc-f11948cb686b?fit=crop&h=675&upscale=true&w=1200&s=e12752ba862ba917f70e40643e6ad87b528a52e9",
       "localImage": "assets/news/15d01956164a1c.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "ced21d369c3948",
+      "id": "3f45528b26e6c6",
       "category": "Økonomi",
-      "published": "19.09. 22:08",
-      "publishedISO": "2026-09-19T22:08:20+02:00",
-      "title": "Converse trekker reklame etter Ku Klux Klan-sammenligning",
-      "summary": "Men på bildet mener fans at belysningen på skjørtet til K-popstjernen skaper en hvit trekantform som ligner en Ku Klux KlanEn rasistisk organisasjon i USA kjent for vold og hat mot svarte mennesker og andre minoriteter.- hette. Fredag sa Converse i en offentlig pressemelding at de beklager å ha delt bildet, ifølge BBC. – Vi forstår hvorfor dette bildet er dypt opprørende og erkjenner at vi tok feil. Han mener at det ikke er nok at bildet er fjernet og at Converse har kommet med en unnskyldning. – Offentligheten fortjener å vite hvordan dette skjedde, hvem som var ansvarlig og hva du har tenkt å gjøre med det, sier han.",
+      "published": "20.09. 05:00",
+      "publishedISO": "2026-09-20T05:00:00+02:00",
+      "title": "Oskar «Lilleulv» Westerlin: – Jeg vil bli en vis gris",
+      "summary": "Oskar Westerlin (28) lener seg tilbake på sofaen på Frogner-kontoret. Sammen driver de selskapet Fjeldberg Westerlin, som produserer innholdet hans. – Jeg og Jørgen er jo barndomskompiser, og har drevet mye kjøp og salg. Og så bare deler jeg det. – Jeg har lyst til å bli vis, men fortsatt være gris.",
       "keyPoints": [
-        "Men på bildet mener fans at belysningen på skjørtet til K-popstjernen skaper en hvit trekantform som ligner en Ku Klux KlanEn rasistisk organisasjon i USA kjent for vold og hat mot svarte mennesker og andre minoriteter.- hette.",
-        "Fredag sa Converse i en offentlig pressemelding at de beklager å ha delt bildet, ifølge BBC. – Vi forstår hvorfor dette bildet er dypt opprørende og erkjenner at vi tok feil.",
-        "Han mener at det ikke er nok at bildet er fjernet og at Converse har kommet med en unnskyldning. – Offentligheten fortjener å vite hvordan dette skjedde, hvem som var ansvarlig og hva du har tenkt å gjøre med det, sier han.",
-        "Converse ble startet i Massachusetts tidlig på 1900-tallet."
+        "Og så bare deler jeg det. – Jeg har lyst til å bli vis, men fortsatt være gris.",
+        "Oskar Westerlin (28) lener seg tilbake på sofaen på Frogner-kontoret.",
+        "Sammen driver de selskapet Fjeldberg Westerlin, som produserer innholdet hans. – Jeg og Jørgen er jo barndomskompiser, og har drevet mye kjøp og salg.",
+        "Selv om Westerlin er lynrask på avtrekkeren, tenker han ikke like mye på klikk og visninger som før, forklarer han. – Før la jeg ut mer trendbasert."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/d4AwnA/converse-trekker-reklame",
+      "url": "https://e24.no/naeringsliv/i/bOxVxA/oskar-lilleulv-westerlin-jeg-vil-bli-en-vis-gris",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/52f1ed5d-b89a-3ddc-bb94-6d2387d6eaed?fit=crop&h=675&upscale=true&w=1200&s=d4d74c77c2fc5b12ab42a8768004ec90a6c94f05",
-      "localImage": "assets/news/ced21d369c3948.jpg",
-      "score": 12
+      "image": "https://akamai.vgc.no/v2/images/43d8a489-d1b7-32bf-961f-fab4cb3705fe?fit=crop&h=675&upscale=true&w=1200&s=1cafd76f89a24242dd258b7d26793f6b241a8ab8",
+      "localImage": "assets/news/3f45528b26e6c6.jpg",
+      "score": 13
     },
     {
-      "id": "bfb37aab4f00c9",
-      "category": "Verden",
-      "published": "19.09. 00:05",
-      "publishedISO": "2026-09-19T00:05:47+02:00",
-      "title": "Trump takes aim at Russia's energy sector with sanctions bill",
-      "summary": "USAs president Donald Trump signerte lovforslaget på fredag ​​USAs president Donald Trump har undertegnet et omfattende sanksjonsforslag, som tar sikte på Russlands økonomi ved å straffe store kjøpere av olje og gass. På Trumps anmodning strekker lovforslaget seg også til Irans energi- og våpensektorer. I tillegg inkluderer lovforslaget sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner.",
+      "id": "2e7862868d51f6",
+      "category": "Norge",
+      "published": "19.09. 18:43",
+      "publishedISO": "2026-09-19T18:43:02+02:00",
+      "title": "Regjeringen gjør det vanskeligere å ta beslag i russiske skip på Svalbard",
+      "summary": "I en hastig innført forskrift begrenser regjeringen muligheten til å beslaglegge russiske skip på Svalbard. Sysselmesteren på Svalbard tok beslag i det russiske forskningsskipet Professor Moltsjanov i begynnelsen av september. I den nye forskriften, som ble sendt ut sent fredag ettermiddag, begrunner regjeringen tiltaket med at «Svalbard har en beliggenhet som gjør at forsyningslinjene til enkelte av lokalsamfunnene kan være mer utsatt enn for lokalsamfunn på fastlandet».",
       "keyPoints": [
-        "USAs president Donald Trump signerte lovforslaget på fredag ​​USAs president Donald Trump har undertegnet et omfattende sanksjonsforslag, som tar sikte på Russlands økonomi ved å straffe store kjøpere av olje og gass.",
-        "I tillegg inkluderer lovforslaget sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner.",
-        "På Trumps anmodning strekker lovforslaget seg også til Irans energi- og våpensektorer.",
-        "Lovforslaget, som ble vedtatt av det amerikanske representantenes hus tidligere denne uken, gir Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på de fem beste kjøperne av russisk olje og gass – særlig Kina og India."
+        "I en hastig innført forskrift begrenser regjeringen muligheten til å beslaglegge russiske skip på Svalbard.",
+        "Sysselmesteren på Svalbard tok beslag i det russiske forskningsskipet Professor Moltsjanov i begynnelsen av september.",
+        "I den nye forskriften, som ble sendt ut sent fredag ettermiddag, begrunner regjeringen tiltaket med at «Svalbard har en beliggenhet som gjør at forsyningslinjene til enkelte av lokalsamfunnene kan være mer utsatt enn for lokalsamfunn på fastlandet».",
+        "Den nye forskriften gjør det vanskeligere å gå til slike skritt."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
-      "localImage": "assets/news/bfb37aab4f00c9.jpg",
-      "score": 20
-    },
-    {
-      "id": "157cf9738dfec8",
-      "category": "Verden",
-      "published": "19.09. 21:13",
-      "publishedISO": "2026-09-19T21:13:49+02:00",
-      "title": "CNN, MS NOW og Politico sier at journalister nektet Det hvite hus tilgang etter at Trump forbød noen medier",
-      "summary": "Se: Trump sier at forbud mot noen nyhetskanaler fra Det hvite hus er «fordi de er falske nyheter» Journalister fra Politico, CNN og MS NOW har blitt nektet tilgang til Det hvite hus etter at USAs president Donald Trump kunngjorde at han forbyr utsalgsstedene. Både CNN og Politico sa også lørdag morgen at deres reportere ble nektet tilgang og fikk beslaglagt merkene deres. Trump sa fredag ​​at han sperret alle tre store amerikanske medier fra Det hvite hus, og anklaget dem for å skrive «fiksjon eller løgner» om administrasjonen hans. «Betjenten ba meg om å overlevere merket mitt.",
-      "keyPoints": [
-        "Se: Trump sier at forbud mot noen nyhetskanaler fra Det hvite hus er «fordi de er falske nyheter» Journalister fra Politico, CNN og MS NOW har blitt nektet tilgang til Det hvite hus etter at USAs president Donald Trump kunngjorde at han forbyr utsalgsstedene.",
-        "Trump sa fredag ​​at han sperret alle tre store amerikanske medier fra Det hvite hus, og anklaget dem for å skrive «fiksjon eller løgner» om administrasjonen hans. «Betjenten ba meg om å overlevere merket mitt.",
-        "Både CNN og Politico sa også lørdag morgen at deres reportere ble nektet tilgang og fikk beslaglagt merkene deres.",
-        "Dommer slår ned \"overflødig\" Trump-søksmål mot New York Times. Dommer byttet i Trumps ærekrenkelsessak mot BBC Trump sier at han utestenger CNN og Politico fra Det hvite hus"
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b27/live/d8b31f40-b435-11f1-9fa0-111a12dcb7b0.jpg",
-      "localImage": "assets/news/157cf9738dfec8.jpg",
-      "score": 16
+      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-gjor-det-vanskeligere-a-ta-beslag-i-russiske-skip-pa-svalbard-1.18030381",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/2Dl2KVzoDtnzW6DxzvU19gj-PHOpoGUjlK5BXNMkBNGw.jpg",
+      "localImage": "assets/news/2e7862868d51f6.jpg",
+      "score": 15
     },
     {
       "id": "b744e53ade04b1",
@@ -169,49 +106,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/7GVlWECfiSyQ5jHSYvbMjwDZqwi1ADTIvgrkejEIEJ_g.jpg",
       "localImage": "assets/news/b744e53ade04b1.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "4ff781413142cb",
-      "category": "Verden",
-      "published": "20.09. 03:10",
-      "publishedISO": "2026-09-20T03:10:01+02:00",
-      "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy",
-      "summary": "Ed Sheeran og Macklemore: Hvordan en turné ble kontroversiell. Da vi spurte hva de syntes om kontroversen og Macklemores fjerning, svarte de «Hvem er Macklemore?». Amerikanske fans med Ed Sheeran-billetter blir revet av Macklemore-kontroversen",
+      "id": "9c6b8521426ec9",
+      "category": "Norge",
+      "published": "20.09. 08:26",
+      "publishedISO": "2026-09-20T08:26:56+02:00",
+      "title": "Våtere klima tvinger fram gamle byggekunster – Over 700 bygninger på Røros har blitt restaurert",
+      "summary": "Over 700 bygninger på Røros har blitt restaurert etter gamle prinsipper gjennom 30 år. Kulturminneforvalter Erik Roll i Røros kommune håper de aldri blir ferdig med å restaurere bygninger i Rørosområdet. De blir sett på som arkitektoniske klenodium, nettopp fordi de har blitt restaurert etter gamle prinsipper.",
       "keyPoints": [
-        "Ed Sheeran og Macklemore: Hvordan en turné ble kontroversiell.",
-        "US fans with Ed Sheeran tickets are left torn by Macklemore controversy",
-        "Da vi spurte hva de syntes om kontroversen og Macklemores fjerning, svarte de «Hvem er Macklemore?».",
-        "Men dette er et humanitært spørsmål, og jeg kan ikke skjule hvordan jeg føler om det lenger.\" Sheeran sa at det som skjedde i Israel under angrepene 7. oktober 2023 var \"grusomme og sammensatte århundrer med jødisk smerte\"."
+        "Over 700 bygninger på Røros har blitt restaurert etter gamle prinsipper gjennom 30 år.",
+        "De blir sett på som arkitektoniske klenodium, nettopp fordi de har blitt restaurert etter gamle prinsipper.",
+        "Kulturminneforvalter Erik Roll i Røros kommune håper de aldri blir ferdig med å restaurere bygninger i Rørosområdet.",
+        "Fra 1920-åra og fram til i dag ble rundt 100 hus i Røros freda, blant andre husa i Rasmusgården."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96c0/live/a2a58bf0-b48e-11f1-8168-ab6075de3970.jpg",
-      "localImage": "assets/news/4ff781413142cb.jpg",
+      "url": "https://www.nrk.no/trondelag/vatere-klima-tvinger-fram-gamle-byggekunster-_-over-700-bygninger-pa-roros-har-blitt-restaurert-1.18012836",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/l8wg5cc-OL63Yp4Lq-xdSACwW_jQPXPeRrygbe9seDjQ.jpg",
+      "localImage": "assets/news/9c6b8521426ec9.jpg",
       "score": 13
     },
     {
-      "id": "8840f4d3789843",
-      "category": "Verden",
-      "published": "20.09. 01:18",
-      "publishedISO": "2026-09-20T01:18:18+02:00",
-      "title": "Kulturskatter blir ødelagt av krig, og folk vil ha rettferdighet",
-      "summary": "Kulturskatter blir ødelagt av krig, og folk vil ha rettferdighet August var en brutal måned for Ukraina. Bare i løpet av den siste måneden rapporterte Ukrainas kulturdepartement at 148 kulturminner ble registrert som skadet eller ødelagt, inkludert i Odesa. Den store Omari-moskeen i Gaza ble i stor grad ødelagt i et israelsk angrep i 2023. Nå sier Dayyeh at hjertet hans er knust hver gang han ser ruinene. \"Når fortiden din er ødelagt, har du ingen nåtid.\" Krigen i Gaza har krevd titusenvis av menneskeliv og anslagsvis 200 000 bygninger er blitt skadet eller ødelagt av israelsk bombardement.",
+      "id": "1fa23df89dc7bd",
+      "category": "Norge",
+      "published": "20.09. 08:17",
+      "publishedISO": "2026-09-20T08:17:37+02:00",
+      "title": "Tønsberg og Færder med ny erfaringskonsulentskule",
+      "summary": "No i september har organisasjonen starta erfaringskonsulentskule i Tønsberg og Færder. Deltakarane kjem frå dei lokale arbeidsinkluderingsbedriftene RAK, Smiløkka, VIA Færder og Tangent. Satsinga samlar lokale krefter i Tønsberg og Færder, og handlar først og fremst om å ta kunnskapen til dei det gjeld på alvor.",
       "keyPoints": [
-        "Kulturskatter blir ødelagt av krig, og folk vil ha rettferdighet August var en brutal måned for Ukraina.",
-        "Den store Omari-moskeen i Gaza ble i stor grad ødelagt i et israelsk angrep i 2023. Nå sier Dayyeh at hjertet hans er knust hver gang han ser ruinene. \"Når fortiden din er ødelagt, har du ingen nåtid.\" Krigen i Gaza har krevd titusenvis av menneskeliv og anslagsvis 200 000 bygninger er blitt skadet eller ødelagt av israelsk bombardement.",
-        "Bare i løpet av den siste måneden rapporterte Ukrainas kulturdepartement at 148 kulturminner ble registrert som skadet eller ødelagt, inkludert i Odesa.",
-        "Som svar på den massive ødeleggelsen av andre verdenskrig, ble den første internasjonale traktaten noensinne dedikert til å beskytte kulturarven under væpnet konflikt vedtatt i Haag i 1954."
+        "No i september har organisasjonen starta erfaringskonsulentskule i Tønsberg og Færder.",
+        "Satsinga samlar lokale krefter i Tønsberg og Færder, og handlar først og fremst om å ta kunnskapen til dei det gjeld på alvor.",
+        "Deltakarane kjem frå dei lokale arbeidsinkluderingsbedriftene RAK, Smiløkka, VIA Færder og Tangent.",
+        "Fleire gonger har eg måtte forklare ting fleire gonger, seier Adrian Gjersøe Fløisand. – Det er det som er så fint med denne plassen her, at dei hjelper deg med å ikkje bli misforstått."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2fc2/live/3b2c77f0-b023-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/8840f4d3789843.jpg",
+      "url": "https://www.nrk.no/vestfoldogtelemark/tonsberg-og-faerder-med-ny-erfaringskonsulentskule-1.18025146",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xU_tWnFHwBlbYzdEVCU-fg8W2jFTgBCeqhOUajgeyI2w.jpg",
+      "localImage": "assets/news/1fa23df89dc7bd.jpg",
       "score": 13
+    },
+    {
+      "id": "359cc06587b99b",
+      "category": "Norge",
+      "published": "20.09. 03:15",
+      "publishedISO": "2026-09-20T03:15:26+02:00",
+      "title": "Sheeran kommenterte Gaza-kritikken fra scenen",
+      "summary": "Den britiske popstjernen Ed Sheeran har snakket om kontroversen rundt Gaza-kritikken på en konsertscene i Philadelphia. Det har stormet rundt artisten etter at rapperen Macklemore, som varmet opp for Sheeran, ble droppet fra turneen etter at han blant annet uttrykte støtte til palestinerne og sa «Fri Palestina» fra scenen. Sheeran sa fra konsertscenen i Philadelphia natt til søndag at det som skjer på Gaza «kan ikke rettferdiggjøres». – Jeg har måttet ta og gjøre vanskelige avgjørelser, og jeg gjør feil, og jeg er så lei meg, sa Sheeran, ifølge AFP.",
+      "keyPoints": [
+        "Det har stormet rundt artisten etter at rapperen Macklemore, som varmet opp for Sheeran, ble droppet fra turneen etter at han blant annet uttrykte støtte til palestinerne og sa «Fri Palestina» fra scenen.",
+        "Den britiske popstjernen Ed Sheeran har snakket om kontroversen rundt Gaza-kritikken på en konsertscene i Philadelphia.",
+        "Sheeran sa fra konsertscenen i Philadelphia natt til søndag at det som skjer på Gaza «kan ikke rettferdiggjøres». – Jeg har måttet ta og gjøre vanskelige avgjørelser, og jeg gjør feil, og jeg er så lei meg, sa Sheeran, ifølge AFP.",
+        "Sheeran sa senere at det ikke var hans beslutning, men har fått kritikk fra flere hold."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/sheeran-kommenterte-gaza-kritikken-fra-scenen-1.18030510",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/zOpZBUWjzvE2fjK4GrXHNgVTIiqFQSfWqFjLiu55o5Uw.jpg",
+      "localImage": "assets/news/359cc06587b99b.jpg",
+      "score": 12
     }
   ]
 }
