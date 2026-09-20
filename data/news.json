@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.09.2026 kl. 20:19",
-  "updatedISO": "2026-09-20T20:19:22.093958+02:00",
+  "updatedAt": "20.09.2026 kl. 23:00",
+  "updatedISO": "2026-09-20T23:00:33.875721+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -106,7 +106,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
       "localImage": "assets/news/bfb37aab4f00c9.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d4c2d7fe308078",
@@ -127,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
       "localImage": "assets/news/d4c2d7fe308078.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "0460392bdfec61",
@@ -149,6 +149,27 @@
       "image": "https://gfx.nrk.no/nrrEbQ9Q1nGzrhAhhXxheQLyDqZSbfvVMDbvzTlHpc1g.jpg",
       "localImage": "assets/news/0460392bdfec61.jpg",
       "score": 15
+    },
+    {
+      "id": "bb374cf2e30e33",
+      "category": "Norge",
+      "published": "20.09. 21:19",
+      "publishedISO": "2026-09-20T21:19:06+02:00",
+      "title": "Brann satte fyr på gullkampen – slo Bodø/Glimt 2-1 i Bergen",
+      "summary": "Brann leverte en sterk prestasjon ved å snu til 2-1-seier over Bodø/Glimt. Kristall Mani Ingason ble tildelt det røde kortet mot Bodø/Glimt søndag. Glimt hadde nesten dobbelt så mange poeng som Brann før oppgjøret, men det var tilsynelatende to jevngode lag som kjempet om seieren på den flombelyste gressmatten i Bergen.",
+      "keyPoints": [
+        "Brann leverte en sterk prestasjon ved å snu til 2-1-seier over Bodø/Glimt.",
+        "Glimt hadde nesten dobbelt så mange poeng som Brann før oppgjøret, men det var tilsynelatende to jevngode lag som kjempet om seieren på den flombelyste gressmatten i Bergen.",
+        "Kristall Mani Ingason ble tildelt det røde kortet mot Bodø/Glimt søndag.",
+        "Med ni kamper igjen av sesongen står både Glimt og Viking med 50 poeng og pluss 34 i målforskjell."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/brann-satte-fyr-pa-gullkampen-_-slo-bodo_glimt-2-1-i-bergen-1.18030956",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/aY3-BVyO7jAxik2Sill8ognJx_3HXhZ06m7yXG-3nyeA.jpg",
+      "localImage": "assets/news/bb374cf2e30e33.webp",
+      "score": 13
     },
     {
       "id": "611a972ca5586f",
@@ -190,28 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/JvGH_8rHntlAJZNW07BzrA3IRMXR-Axy-fpMM8Wjez6Q.jpg",
       "localImage": "assets/news/137486603963da.jpg",
-      "score": 13
-    },
-    {
-      "id": "8e0b608d2c7259",
-      "category": "Norge",
-      "published": "20.09. 16:58",
-      "publishedISO": "2026-09-20T16:58:03+02:00",
-      "title": "Erling Braut Haaland med kjempemiss – så brøt han en ny barriere",
-      "summary": "SATT TIL SLUTT: Erling Braut Haaland har nå scoret mot alle lag han har møtt i Premier League. Erling Braut Haaland har bøttet inn mål siden han kom til Premier League, og hadde scoret mot alle lag han har møtte i den engelske toppdivisjonen, unntatt ett. SATT TIL SLUTT: Erling Braut Haaland brukte andre mulighet til å vise at høyrebeinet ikke er så dårlig som det så ut til da han bommet på åpent mål i første omgang.",
-      "keyPoints": [
-        "Erling Braut Haaland har bøttet inn mål siden han kom til Premier League, og hadde scoret mot alle lag han har møtte i den engelske toppdivisjonen, unntatt ett.",
-        "SATT TIL SLUTT: Erling Braut Haaland brukte andre mulighet til å vise at høyrebeinet ikke er så dårlig som det så ut til da han bommet på åpent mål i første omgang.",
-        "Så gjorde altså Erling Braut Haaland det han nesten alltid gjør.",
-        "Kampen hadde allerede sju mål, uten Erling Braut Haaland på scoringslista."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/erling-braut-haaland-med-kjempemiss-_-sa-brot-han-en-ny-barriere-1.18030797",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/z2ln7gAmjnPIygMekZXGkgeAhXJ7z-LrM-pM7mdVALmQ.jpg",
-      "localImage": "assets/news/8e0b608d2c7259.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
