@@ -1,28 +1,28 @@
 {
-  "updatedAt": "20.09.2026 kl. 23:00",
-  "updatedISO": "2026-09-20T23:00:33.875721+02:00",
+  "updatedAt": "21.09.2026 kl. 01:09",
+  "updatedISO": "2026-09-21T01:09:56.537791+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "5c4a57eb8449d4",
+      "id": "22c63411dd2f27",
       "category": "Norge",
-      "published": "20.09. 10:10",
-      "publishedISO": "2026-09-20T10:10:36+02:00",
-      "title": "Museet til over ein halv milliard opna denne helga",
-      "summary": "Prosjektet tok 15 år å realisere og har vore gjennom fleire krevjande finansieringsrundar, har til slutt kosta over ein halv milliard kroner å realisere. – Eg har med meg ei stor nyheit. Vi i regjeringa har bestemt oss, skreiprosjektet blir ein realitet, sa Raja under opninga av det nye Hurtigrute museet på Stokmarknes i 2021. Senteret opna dørene for publikum 30. juni 2026 Under Laurdagens offisielle opning var det også Lubna Jaffery som klypte snora i Storvågen i Kabelvåg. – Det er ein veldig spesiell og historisk dag.",
+      "published": "20.09. 23:07",
+      "publishedISO": "2026-09-20T23:07:46+02:00",
+      "title": "Trump har satt naboskapet med Canada på prøve",
+      "summary": "PÅ PRØVE: På grensen mellom USA og Canada er alt tilsynelatende som før, men mange canadiere velger å droppe USA-turen nå. Huset til Tuyen Nguyens sønn ligger i Trump Avenue i Ottawa. Hun viser til den amerikanske presidentens politikk, angrep på Canada og syn på kvinner. – Jeg vet at det kan være upraktisk for noen å endre skjøter, vannregninger og slikt.",
       "keyPoints": [
-        "Prosjektet tok 15 år å realisere og har vore gjennom fleire krevjande finansieringsrundar, har til slutt kosta over ein halv milliard kroner å realisere. – Eg har med meg ei stor nyheit.",
-        "Vi i regjeringa har bestemt oss, skreiprosjektet blir ein realitet, sa Raja under opninga av det nye Hurtigrute museet på Stokmarknes i 2021.",
-        "Senteret opna dørene for publikum 30. juni 2026 Under Laurdagens offisielle opning var det også Lubna Jaffery som klypte snora i Storvågen i Kabelvåg. – Det er ein veldig spesiell og historisk dag.",
-        "Men denne helga markerte dei den offisielle opninga av Skreimuseet i Kabelvåg i Lofoten."
+        "PÅ PRØVE: På grensen mellom USA og Canada er alt tilsynelatende som før, men mange canadiere velger å droppe USA-turen nå.",
+        "Hun viser til den amerikanske presidentens politikk, angrep på Canada og syn på kvinner. – Jeg vet at det kan være upraktisk for noen å endre skjøter, vannregninger og slikt.",
+        "Huset til Tuyen Nguyens sønn ligger i Trump Avenue i Ottawa.",
+        "Alle nabogatene har navn hentet fra New York, som Bloomingdales, Central Park og Trump Tower."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/offisiell-opning-skrei-museet-i-lofoten-1.18029638",
+      "url": "https://www.nrk.no/urix/trump-har-satt-naboskapet-med-canada-pa-prove-1.18030513",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/hFh7QIy-Ld1hwoBl2EmjQAbCF9Rg_NyH7jVaaRUIhzFg.jpg",
-      "localImage": "assets/news/5c4a57eb8449d4.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/S9v3LFchTN_iqSR_fjnclAhkL526swQOxtbbQ86qXKdg.jpg",
+      "localImage": "assets/news/22c63411dd2f27.jpg",
+      "score": 17
     },
     {
       "id": "4e8589bff3c035",
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
       "localImage": "assets/news/4e8589bff3c035.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "f43ff6fd58f720",
@@ -64,27 +64,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/085da219-d192-39dd-a674-b1b56203cf37?fit=crop&h=675&upscale=true&w=1200&s=aed261a7e9cea5495636b840db5951e0a0bb3a9e",
       "localImage": "assets/news/f43ff6fd58f720.jpg",
-      "score": 13
-    },
-    {
-      "id": "edc9d8c6c72f01",
-      "category": "Økonomi",
-      "published": "20.09. 13:22",
-      "publishedISO": "2026-09-20T13:22:21+02:00",
-      "title": "Sir Jim Ratcliffe loses moral high ground by living in tax exile - Labour Party Chair",
-      "summary": "Arbeiderpartiets leder har sagt at Sir Jim Ratcliffe mister \"den moralske høye terrenget\" ved å komme med uttalelser om Storbritannia mens han lever i skatteeksil. Sir Jim, grunnleggeren av den petrokjemiske giganten Ineos og Manchester Uniteds medeier, sa til BBC at han har mistet tilliten til Storbritannia på grunn av en kombinasjon av høye skatter og høy immigrasjon. På spørsmål om kommentarene sa Phillipson at Sir Jim mister \"den moralske høye terrenget\" ved å \"komme med slike uttalelser mens han velger å ta avgjørelser, som han har rett til å ta, for å bli et skatteeksil\".",
-      "keyPoints": [
-        "Arbeiderpartiets leder har sagt at Sir Jim Ratcliffe mister \"den moralske høye terrenget\" ved å komme med uttalelser om Storbritannia mens han lever i skatteeksil.",
-        "På spørsmål om kommentarene sa Phillipson at Sir Jim mister \"den moralske høye terrenget\" ved å \"komme med slike uttalelser mens han velger å ta avgjørelser, som han har rett til å ta, for å bli et skatteeksil\".",
-        "Sir Jim, grunnleggeren av den petrokjemiske giganten Ineos og Manchester Uniteds medeier, sa til BBC at han har mistet tilliten til Storbritannia på grunn av en kombinasjon av høye skatter og høy immigrasjon.",
-        "Milliardær Man United-eier sier at han har mistet tilliten til Storbritannias tredje største skattebetaler for å reise til Hellas Sir Jim, hvis formue er anslått til rundt 15 milliarder pund, kritiserte også regjeringen for å ha unnlatt å investere ytterligere i olje og gass fra Nordsjøen, og hevdet at det utgjorde \"galskap\". \"Du forventer at [regjeringen] skal utnytte naturressursene våre, og vi gjør tydeligvis ikke det."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1e8c/live/353ee2e0-b4da-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/edc9d8c6c72f01.jpg",
       "score": 12
     },
     {
@@ -119,7 +98,7 @@
         "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning.",
         "Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet.",
         "Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
-        "Russiske statsmedier rapporterte at en valgfunksjonær var en av to personer som ble drept av et droneangrep på en buss i en Moskva-kontrollert del av Kherson i Ukraina søndag, med henvisning til lederen av Russlands valgkommisjon."
+        "Russiske statsmedier rapporterte at en valgfunksjonær var en av to personer som ble drept av et droneangrep på en buss i en Moskva-kontrollert del av Kherson i Ukraina søndag, med henvisning til lederen for Russlands valgkommisjon."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -127,6 +106,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
       "localImage": "assets/news/d4c2d7fe308078.jpg",
+      "score": 15
+    },
+    {
+      "id": "5c4a57eb8449d4",
+      "category": "Norge",
+      "published": "20.09. 10:10",
+      "publishedISO": "2026-09-20T10:10:36+02:00",
+      "title": "Museet til over ein halv milliard opna denne helga",
+      "summary": "Prosjektet tok 15 år å realisere og har vore gjennom fleire krevjande finansieringsrundar, har til slutt kosta over ein halv milliard kroner å realisere. – Eg har med meg ei stor nyheit. Vi i regjeringa har bestemt oss, skreiprosjektet blir ein realitet, sa Raja under opninga av det nye Hurtigrute museet på Stokmarknes i 2021. Senteret opna dørene for publikum 30. juni 2026 Under Laurdagens offisielle opning var det også Lubna Jaffery som klypte snora i Storvågen i Kabelvåg. – Det er ein veldig spesiell og historisk dag.",
+      "keyPoints": [
+        "Prosjektet tok 15 år å realisere og har vore gjennom fleire krevjande finansieringsrundar, har til slutt kosta over ein halv milliard kroner å realisere. – Eg har med meg ei stor nyheit.",
+        "Vi i regjeringa har bestemt oss, skreiprosjektet blir ein realitet, sa Raja under opninga av det nye Hurtigrute museet på Stokmarknes i 2021.",
+        "Senteret opna dørene for publikum 30. juni 2026 Under Laurdagens offisielle opning var det også Lubna Jaffery som klypte snora i Storvågen i Kabelvåg. – Det er ein veldig spesiell og historisk dag.",
+        "Men denne helga markerte dei den offisielle opninga av Skreimuseet i Kabelvåg i Lofoten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/offisiell-opning-skrei-museet-i-lofoten-1.18029638",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/hFh7QIy-Ld1hwoBl2EmjQAbCF9Rg_NyH7jVaaRUIhzFg.jpg",
+      "localImage": "assets/news/5c4a57eb8449d4.jpg",
       "score": 15
     },
     {
@@ -148,7 +148,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nrrEbQ9Q1nGzrhAhhXxheQLyDqZSbfvVMDbvzTlHpc1g.jpg",
       "localImage": "assets/news/0460392bdfec61.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "54e7318be99c21",
+      "category": "Verden",
+      "published": "20.09. 23:17",
+      "publishedISO": "2026-09-20T23:17:22+02:00",
+      "title": "Vouliagmeni-stranden: Mann (82) dør etter strandslagsmål med 76-åring over solseng i Hellas",
+      "summary": "Hendelsen skjedde på Vouliagmeni-stranden i nærheten av Athen søndag En 82 år gammel mann er død etter å ha havnet i et slagsmål med en mann i 70-årene om en solseng på en strand i Hellas, melder lokale medier. Vitner sier at en uenighet om bruken av solsengene på Vouliagmeni-stranden, nær Athen, eskalerte til en voldelig slåsskamp, ​​som deretter økte til å involvere andre mennesker. Den yngre mannen, som var 76, skal ha blitt arrestert.",
+      "keyPoints": [
+        "Hendelsen skjedde på Vouliagmeni-stranden i nærheten av Athen søndag En 82 år gammel mann er død etter å ha havnet i et slagsmål med en mann i 70-årene om en solseng på en strand i Hellas, melder lokale medier.",
+        "Vitner sier at en uenighet om bruken av solsengene på Vouliagmeni-stranden, nær Athen, eskalerte til en voldelig slåsskamp, ​​som deretter økte til å involvere andre mennesker.",
+        "Den yngre mannen, som var 76, skal ha blitt arrestert.",
+        "Et øyenvitne fortalte til avisen Kathimerini at scenen var så kaotisk at skrikingen kunne høres fra den andre enden av stranden."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27pnyd294o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba6d/live/1888a050-b534-11f1-8269-df0566d86672.jpg",
+      "localImage": "assets/news/54e7318be99c21.jpg",
+      "score": 13
     },
     {
       "id": "bb374cf2e30e33",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/L7TYR3igiJfMBDK9CFKUNApSM2vaB9ptMvhCz7S4NBpg.jpg",
       "localImage": "assets/news/611a972ca5586f.jpg",
-      "score": 13
-    },
-    {
-      "id": "137486603963da",
-      "category": "Norge",
-      "published": "20.09. 17:22",
-      "publishedISO": "2026-09-20T17:22:05+02:00",
-      "title": "Fikk akupunkturbehandling – ble sykemeldt i åtte måneder",
-      "summary": "I november 2023 dro en kvinne for å få akupunkturbehandling i Oslo sentrum. Blødningen kunne vært livstruende, og kvinnen ble sykemeldt i 8 måneder. ADVOKAT: Trygve Staff er kvinnen i 40-årenes forsvarer. – Det er ikke akupunkturbehandlingen som har ført til tilstanden den fornærmede havnet i, sier Staff.",
-      "keyPoints": [
-        "Blødningen kunne vært livstruende, og kvinnen ble sykemeldt i 8 måneder.",
-        "I november 2023 dro en kvinne for å få akupunkturbehandling i Oslo sentrum.",
-        "ADVOKAT: Trygve Staff er kvinnen i 40-årenes forsvarer. – Det er ikke akupunkturbehandlingen som har ført til tilstanden den fornærmede havnet i, sier Staff.",
-        "Hun nekter for at behandlingen skal ha vært uaktsom. – Hun, og jeg på hennes vegne, er tydelige på at hun ikke har utvist noen type uaktsomhet, sier behandlerens advokat Trygve Staff."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/fikk-akupunkturbehandling-_-ble-sykemeldt-i-atte-maneder-1.18028838",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/JvGH_8rHntlAJZNW07BzrA3IRMXR-Axy-fpMM8Wjez6Q.jpg",
-      "localImage": "assets/news/137486603963da.jpg",
       "score": 12
     }
   ]
