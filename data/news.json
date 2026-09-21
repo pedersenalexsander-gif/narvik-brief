@@ -1,32 +1,53 @@
 {
-  "updatedAt": "21.09.2026 kl. 08:22",
-  "updatedISO": "2026-09-21T08:22:16.726519+02:00",
+  "updatedAt": "21.09.2026 kl. 15:12",
+  "updatedISO": "2026-09-21T15:12:12.208492+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "d132a6354dad4e",
+      "id": "5cd9de4cd74df4",
       "category": "Norge",
-      "published": "21.09. 07:28",
-      "publishedISO": "2026-09-21T07:28:58+02:00",
-      "title": "– Må være forberedt på det verste, også krig",
-      "summary": "Å ruste Oslo for krise og krig er en hovedsatsing når Oslo-budsjettet blir lagt fram onsdag. Byrådsleder Eirik Lae Solberg sier at krig er en del av Oslo kommunes krisescenario. Vi må være forberedt på det verste. – Så vi forbereder oss både på alvorlig krise og krig, i tråd med det statlige myndigheter også gjør, sier Eirik Lae Solberg.",
+      "published": "21.09. 12:13",
+      "publishedISO": "2026-09-21T12:13:26+02:00",
+      "title": "USA gjør klar for krig i verdensrommet",
+      "summary": "Hva slags våpen det er, sier ikke USA noe om, men mye peker på en helt spesiell type. Reaksjonene har vært skarpe etter at USA innrømmet at landet hadde utplassert våpen i verdensrommet. Det kinesiske utenriksdepartementet ba USA om å stanse forberedelsene på å utkjempe krig i rommet.",
       "keyPoints": [
-        "Vi må være forberedt på det verste. – Så vi forbereder oss både på alvorlig krise og krig, i tråd med det statlige myndigheter også gjør, sier Eirik Lae Solberg.",
-        "Byrådsleder Eirik Lae Solberg sier at krig er en del av Oslo kommunes krisescenario.",
-        "Å ruste Oslo for krise og krig er en hovedsatsing når Oslo-budsjettet blir lagt fram onsdag.",
-        "Nær 400 millioner blir satt av til å styrke beredskapen de neste fire årene. – Vi tar nå grep og setter av 330 millioner kroner for å oppgradere og rehabilitere tilfluktsrommene i Oslo, slik at de er klare til å brukes, sier Eirik Lae Solberg."
+        "Reaksjonene har vært skarpe etter at USA innrømmet at landet hadde utplassert våpen i verdensrommet.",
+        "Det kinesiske utenriksdepartementet ba USA om å stanse forberedelsene på å utkjempe krig i rommet.",
+        "Hva slags våpen det er, sier ikke USA noe om, men mye peker på en helt spesiell type.",
+        "USA har mest å tape dersom verdensrommet blir en arena for faktisk konflikt, skriver Samson til SpacePolicyOnline."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/byradet-med-satsing-pa-beredskap-og-tilfluktsrom-i-oslo-1.18027722",
+      "url": "https://www.nrk.no/urix/usa-gjor-klar-for-krig-i-verdensrommet-1.18030540",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/7GJyKPdvwOSLWwvAFBwYVwjDONxJAfMxKGCC91sYNNiA.jpg",
-      "localImage": "assets/news/d132a6354dad4e.jpg",
+      "image": "https://gfx.nrk.no/LoSMazAIKB5dBO3_Ussptg55k6YsN5jQjh4ZyOdCoLgQ.jpg",
+      "localImage": "assets/news/5cd9de4cd74df4.jpg",
       "score": 17
     },
     {
-      "id": "4e8589bff3c035",
+      "id": "5b9d2377bcc5b6",
       "category": "Verden",
+      "published": "21.09. 14:08",
+      "publishedISO": "2026-09-21T14:08:56+02:00",
+      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+      "summary": "Rapporten kommer to dager etter at det amerikanske militæret publiserte disse bildene av et angrep på påståtte menneskehandlere i Karibia. En FN-rapport har konkludert med at nylige amerikanske luftangrep på fartøyer som angivelig smugler narkotika brøt med internasjonal lov og kan utgjøre forbrytelser mot menneskeheten. Rapporten fra spesialrapportør Ben Saul sa siden september i fjor at det hadde vært minst 68 amerikanske angrep i Karibia og Stillehavet, utenfor amerikansk territorialfarvann, som drepte mer enn 220 mennesker. To drept i angrep på angivelig narkotikabåt i Stillehavet, amerikansk militær sier elleve drept i flere angrep på angivelige narkotikabåter, sier amerikansk militær",
+      "keyPoints": [
+        "Two killed in strike on alleged drug boat in Pacific Ocean, US military says Eleven killed in multiple strikes on alleged drug boats, US military says",
+        "Rapporten kommer to dager etter at det amerikanske militæret publiserte disse bildene av et angrep på påståtte menneskehandlere i Karibia. En FN-rapport har konkludert med at nylige amerikanske luftangrep på fartøyer som angivelig smugler narkotika brøt med internasjonal lov og kan utgjøre forbrytelser mot menneskeheten.",
+        "Rapporten fra spesialrapportør Ben Saul sa siden september i fjor at det hadde vært minst 68 amerikanske angrep i Karibia og Stillehavet, utenfor amerikansk territorialfarvann, som drepte mer enn 220 mennesker.",
+        "Siden starten har eksperter stilt spørsmål ved lovligheten av streikene, som i utgangspunktet mottok sterk kritikk fra latinamerikanske ledere hvis innbyggere har vært målrettet."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f80/live/a313f290-b5a9-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/5b9d2377bcc5b6.jpg",
+      "score": 13
+    },
+    {
+      "id": "4e8589bff3c035",
+      "category": "USA",
       "published": "19.09. 23:01",
       "publishedISO": "2026-09-19T23:01:56+02:00",
       "title": "Trump sier at USA vil danne 'AI Force' og utnevne en tsar med kunstig intelligens",
@@ -37,13 +58,34 @@
         "Hvorfor Trump er all-in på AI til tross for advarslene \"AI er den neste industrielle revolusjonen, eller Internett, men vil være enda større og mer effektfull, muligens så mye som 25% av landets BNP,\" sa han på sosiale medier, og la til at han ønsker at USA skal fortsette å lede Kina innen AI.",
         "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards Anthropic blocks possible attempt to use AI to make biological weapons"
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/093a/live/5485b600-b46d-11f1-9dd6-3102a0e415e4.jpg",
       "localImage": "assets/news/4e8589bff3c035.jpg",
-      "score": 16
+      "score": 14
+    },
+    {
+      "id": "e2ace39bec8e09",
+      "category": "Økonomi",
+      "published": "21.09. 10:37",
+      "publishedISO": "2026-09-21T10:37:37+02:00",
+      "title": "Vil ta tankrederi på børs i shippingfest",
+      "summary": "Volare Shipping vil hente inn 4,7 milliarder kroner og seile til Oslo Børs. Samtidig planlegges det å hente inn rundt 500 millioner dollar gjennom en rettet emisjon. Tegningskursen er satt til 154 kroner, som gir en verdsettelse av selskapet på rundt 6,1 milliarder kroner før kapitalinnhentingen.",
+      "keyPoints": [
+        "Volare Shipping vil hente inn 4,7 milliarder kroner og seile til Oslo Børs.",
+        "Tegningskursen er satt til 154 kroner, som gir en verdsettelse av selskapet på rundt 6,1 milliarder kroner før kapitalinnhentingen.",
+        "Samtidig planlegges det å hente inn rundt 500 millioner dollar gjennom en rettet emisjon.",
+        "Seks av VLCC-skipene til Volare Shipping er på vannet, mens resten leveres fra mai 2027 til oktober 2028, fremgår det."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/xrolPB/vil-ta-tankrederi-paa-boers-i-shippingfest",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/74f3aac6-f848-3129-b1b0-9c4f79782d66?fit=crop&h=675&upscale=true&w=1200&s=01571d21251e2222d61629611c622c69f2ac3408",
+      "localImage": "assets/news/e2ace39bec8e09.jpg",
+      "score": 21
     },
     {
       "id": "f54ef82baae2da",
@@ -64,20 +106,104 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/13a8e578-239c-301d-94e6-4ff418e9ea62?fit=crop&h=675&upscale=true&w=1200&s=efa47f4e462dc442a4d36581daaaf664ba1370b8",
       "localImage": "assets/news/f54ef82baae2da.jpg",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "91ff6f12f0c295",
+      "category": "Økonomi",
+      "published": "21.09. 13:48",
+      "publishedISO": "2026-09-21T13:48:53+02:00",
+      "title": "Oljeprisen faller – nær 100 dollar",
+      "summary": "På det høyeste forrige uke var den over 109 dollar fatet, nivåer den ikke hadde vært på siden mai. De siste dagene har oljeprisen roet seg noe igjen, og vært nær ved å bikke under 100 dollar. Så sent som i slutten av august var oljeprisen nede i 85 dollar fatet.",
+      "keyPoints": [
+        "De siste dagene har oljeprisen roet seg noe igjen, og vært nær ved å bikke under 100 dollar.",
+        "Så sent som i slutten av august var oljeprisen nede i 85 dollar fatet.",
+        "På det høyeste forrige uke var den over 109 dollar fatet, nivåer den ikke hadde vært på siden mai.",
+        "Siste den var under 100 dollar var 9. september, for snaut to uker siden."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/BxaMEl/oljeprisen-faller-naer-100-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e3e4d48a-05ce-3a02-b728-8c369551b73f?fit=crop&h=675&upscale=true&w=1200&s=93767b4a44a46fa22d1f30f17039ca5102e74552",
+      "localImage": "assets/news/91ff6f12f0c295.jpg",
+      "score": 20
+    },
+    {
+      "id": "c1ee8d00359942",
+      "category": "Økonomi",
+      "published": "21.09. 13:35",
+      "publishedISO": "2026-09-21T13:35:20+02:00",
+      "title": "Ingen vet hvor oljeprisen hopper",
+      "summary": "Oljeprisen steg kraftig i april, og nådde rundt 120 dollar fatet mot slutten av den måneden, men disse høye prisene viste seg å være svært kortvarige. I skrivende stund er oljeprisen på rundt 100 dollar fatet, og selv om det er godt nytt for AS Norge, gir det pumpepriser som svir i lommeboka. Ingen vet hva som venter bak neste sving i en verden med Donald Trump bak roret på verdens oljetanker.",
+      "keyPoints": [
+        "Oljeprisen steg kraftig i april, og nådde rundt 120 dollar fatet mot slutten av den måneden, men disse høye prisene viste seg å være svært kortvarige.",
+        "Ingen vet hva som venter bak neste sving i en verden med Donald Trump bak roret på verdens oljetanker.",
+        "I skrivende stund er oljeprisen på rundt 100 dollar fatet, og selv om det er godt nytt for AS Norge, gir det pumpepriser som svir i lommeboka.",
+        "USAs angrep på Iran i februar og den påfølgende nesten fullstendige stengingen av det kritiske Hormuzstredet gjorde at flere analytikere og eksperter før sommeren spådde priser opp mot 150 og 200 dollar fatet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/aJRlBL/ingen-vet-hvor-oljeprisen-hopper",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/f826b0f1-e519-3f1a-814d-49abdc10d5e3?fit=crop&h=675&upscale=true&w=1200&s=8bec0aba7023ee93680e6d4db1612706146775c9",
+      "localImage": "assets/news/c1ee8d00359942.jpg",
+      "score": 16
+    },
+    {
+      "id": "7886539e041aee",
+      "category": "Økonomi",
+      "published": "21.09. 12:00",
+      "publishedISO": "2026-09-21T12:00:30+02:00",
+      "title": "Grønland-aksjer skyter i været",
+      "summary": "I førhandelen stiger aksjene i Greenland Energy med 143 prosent, Greenland Mines er opp mer enn 70 prosent, mens Critical Metals Corps stiger nær 30 prosent. Styreleder Larry Swets mener den nye avtalen fjerner en betydelig geopolitisk usikkerhet som har preget Grønland det siste året. – Større klarhet og stabilitet gjør langsiktige investeringer mer gjennomførbare og reduserer den opplevde risikoen ved å investere kapital, sier Swets til Wall Street Journal. Avtalen legger opp til en betydelig utvidelse av USAs militære tilstedeværelse på Grønland og skal hindre amerikanske motstandere i å etablere militærbaser på øya, ifølge president Donald Trump.",
+      "keyPoints": [
+        "I førhandelen stiger aksjene i Greenland Energy med 143 prosent, Greenland Mines er opp mer enn 70 prosent, mens Critical Metals Corps stiger nær 30 prosent.",
+        "Styreleder Larry Swets mener den nye avtalen fjerner en betydelig geopolitisk usikkerhet som har preget Grønland det siste året. – Større klarhet og stabilitet gjør langsiktige investeringer mer gjennomførbare og reduserer den opplevde risikoen ved å investere kapital, sier Swets til Wall Street Journal.",
+        "Avtalen legger opp til en betydelig utvidelse av USAs militære tilstedeværelse på Grønland og skal hindre amerikanske motstandere i å etablere militærbaser på øya, ifølge president Donald Trump.",
+        "Greenland Energy planlegger å bruke 60 millioner dollar på oljeboring øst på øya."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/k0ovpB/groenland-aksjer-skyter-i-vaeret",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3b137abe-cc15-3894-bcb6-2c5832d56625?fit=crop&h=675&upscale=true&w=1200&s=2842530491470cbfba08feeff6ab18d51de7b413",
+      "localImage": "assets/news/7886539e041aee.jpg",
+      "score": 16
+    },
+    {
+      "id": "25004fa7999b2b",
+      "category": "Økonomi",
+      "published": "21.09. 09:01",
+      "publishedISO": "2026-09-21T09:01:02+02:00",
+      "title": "Aker stiger på Oslo Børs",
+      "summary": "Oslo Børs har svingt mellom svak oppgang og svak nedgang mandag Hovedindeksen er ned 0,09 prosent rundt kl. Før helgen var det svak oppgang på Wall Street i USA fredag kveld, og røde tall både Oslo Børs og Europa-børsene fredag. Oslo Børs har så langt dette kvartalet klart seg bedre en verdensmarkedene totalt sett, med en oppgang på 11 prosent for Hovedindeksen.",
+      "keyPoints": [
+        "Oslo Børs har svingt mellom svak oppgang og svak nedgang mandag Hovedindeksen er ned 0,09 prosent rundt kl.",
+        "Før helgen var det svak oppgang på Wall Street i USA fredag kveld, og røde tall både Oslo Børs og Europa-børsene fredag.",
+        "Oslo Børs har så langt dette kvartalet klart seg bedre en verdensmarkedene totalt sett, med en oppgang på 11 prosent for Hovedindeksen.",
+        "Det påpeker sjefstrateg Nils Kristian Knudsen i et notat. – Investorbildet er derfor todelt: Oslo Børs kan fortsatt slå globale markeder dersom energiinntektene og shippingratene holder seg høye, men høyere norsk rente og sterkere krone øker forskjellene mellom sektorene, skriver Knudsen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/n1o125/aker-aksjen-hopper-4-prosent-etter-nscales-boerssoeknad",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3c3b79b5-9100-3eb1-aaa5-e54a8915d54e?fit=crop&h=675&upscale=true&w=1200&s=7f34271c7c28eba1f568b7e9dea5d21cae243cc7",
+      "localImage": "assets/news/25004fa7999b2b.jpg",
+      "score": 16
     },
     {
       "id": "f981f5e180ac36",
       "category": "Økonomi",
-      "published": "21.09. 02:34",
-      "publishedISO": "2026-09-21T02:34:53+02:00",
+      "published": "21.09. 08:25",
+      "publishedISO": "2026-09-21T08:25:43+02:00",
       "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-      "summary": "Nvidia-sjef Jensen Huang har beskrevet advarsler om at AI kan føre til menneskehetens utryddelse innen det neste tiåret som «dommedagsnarrativer». \"2030 kommer ikke til å bli verdens undergang. De ber om å bli fritatt for lovene vi har, og jeg tror det er et problem.\" Ikke alle AI-arbeidere tror at teknologien kan drepe alle OpenAI-sjefen sier at verden har rett til å være redd, men bør stole på AI-firmaer. Hvorfor er det bekymringer om at AI kan true menneskeheten, og hvor ekte er de? Trump tok en overraskende telefonsamtale til Huang mens Nvidia-sjefen talte på scenen på en teknologikonferanse i Los Angeles 14. september.",
+      "summary": "Nvidia-sjef Jensen Huang har beskrevet advarsler om at AI kan føre til menneskehetens utryddelse innen det neste tiåret som «dommedagsnarrativer». \"2030 kommer ikke til å bli verdens undergang. Coxons bekymringer utløste debatt om teknologiens risikoer, inkludert oppringninger fra toppledere som Anthropic-sjef Dario Amodei og OpenAIs Sam Altman som oppfordret til at utviklingen av AI skulle bremses. Trump tok en overraskende telefonsamtale til Huang mens Nvidia-sjefen talte på en teknologikonferanse i Los Angeles i Los Angeles 14. september.",
       "keyPoints": [
         "Nvidia-sjef Jensen Huang har beskrevet advarsler om at AI kan føre til menneskehetens utryddelse innen det neste tiåret som «dommedagsnarrativer». «2030 kommer ikke til å bli verdens undergang.",
         "Trump made a surprise phone call to Huang while the Nvidia boss was speaking on stage at a tech conference in Los Angeles on 14 September.",
-        "De ber om å bli fritatt for lovene vi har, og jeg tror at det er et problem.\" Ikke alle AI-arbeidere tror at teknologien kan drepe alle OpenAI-sjefen sier at verden har rett til å være redd, men bør stole på AI-firmaer. Hvorfor er det bekymringer om at AI kan true menneskeheten, og hvor reelle er de?",
-        "Coxons bekymringer utløste debatt om teknologiens risikoer, inkludert samtaler fra toppledere som Antropisk sjef Dario Amodei og OpenAIs Sam Altman som oppfordret til å bremse utviklingen av AI."
+        "Coxons bekymringer utløste debatt om teknologiens risikoer, inkludert samtaler fra toppledere som Antropisk sjef Dario Amodei og OpenAIs Sam Altman som oppfordret til å bremse utviklingen av AI.",
+        "Ikke alle AI-arbeidere tror at teknologien kan drepe alle OpenAI-sjefen sier at verden har rett til å være redd, men bør stole på AI-firmaer. Hvorfor er det bekymringer om at AI kan true menneskeheten, og hvor ekte er de?"
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -86,132 +212,6 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
       "localImage": "assets/news/f981f5e180ac36.jpg",
       "score": 16
-    },
-    {
-      "id": "4d7b5b5fc782fe",
-      "category": "Norge",
-      "published": "21.09. 06:20",
-      "publishedISO": "2026-09-21T06:20:58+02:00",
-      "title": "Regjeringen vil gjøre det vanskeligere å bli norsk fra Svalbard",
-      "summary": "Botid på Svalbard skal ikke lenger telle med når utenlandske borgere søker om norsk statsborgerskap, foreslår regjeringen. I dag kan nordiske borgere bli norske statsborgere gjennom botid på Svalbard, selv om de aldri har bodd på fastlandet. Etter at Norge åpnet for dobbelt statsborgerskap i 2020, har det blitt flere slike saker. – Statsborgerskap oppnås gjennom en særlig tilknytning til et land, og botid på Svalbard gir ikke en særlig tilknytning til Fastlands-Norge, heter det i høringsnotatet.",
-      "keyPoints": [
-        "Botid på Svalbard skal ikke lenger telle med når utenlandske borgere søker om norsk statsborgerskap, foreslår regjeringen.",
-        "I dag kan nordiske borgere bli norske statsborgere gjennom botid på Svalbard, selv om de aldri har bodd på fastlandet.",
-        "Etter at Norge åpnet for dobbelt statsborgerskap i 2020, har det blitt flere slike saker. – Statsborgerskap oppnås gjennom en særlig tilknytning til et land, og botid på Svalbard gir ikke en særlig tilknytning til Fastlands-Norge, heter det i høringsnotatet.",
-        "I dag kan opphold på Svalbard inngå i kravet om åtte års botid i Norge i løpet av de siste elleve årene. – Botid på Svalbard vil ikke kunne medregnes i botidskravet for statsborgerskap, hverken for nordiske borgere, personer med permanent oppholdstillatelse eller EØS-/Efta-borgere med varig oppholdsrett, sier statssekretær Edvin Søvik (Ap)."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-vil-gjore-det-vanskeligere-a-bli-norsk-fra-svalbard-1.18031051",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/olwV8sJWWJY4aRQnDEgREgLB60SUeir-6KmUtMUBrSuA.jpg",
-      "localImage": "assets/news/4d7b5b5fc782fe.jpg",
-      "score": 17
-    },
-    {
-      "id": "22c63411dd2f27",
-      "category": "Norge",
-      "published": "20.09. 23:07",
-      "publishedISO": "2026-09-20T23:07:46+02:00",
-      "title": "Trump har satt naboskapet med Canada på prøve",
-      "summary": "PÅ PRØVE: På grensen mellom USA og Canada er alt tilsynelatende som før, men mange canadiere velger å droppe USA-turen nå. Huset til Tuyen Nguyens sønn ligger i Trump Avenue i Ottawa. Hun viser til den amerikanske presidentens politikk, angrep på Canada og syn på kvinner. – Jeg vet at det kan være upraktisk for noen å endre skjøter, vannregninger og slikt.",
-      "keyPoints": [
-        "PÅ PRØVE: På grensen mellom USA og Canada er alt tilsynelatende som før, men mange canadiere velger å droppe USA-turen nå.",
-        "Hun viser til den amerikanske presidentens politikk, angrep på Canada og syn på kvinner. – Jeg vet at det kan være upraktisk for noen å endre skjøter, vannregninger og slikt.",
-        "Huset til Tuyen Nguyens sønn ligger i Trump Avenue i Ottawa.",
-        "Alle nabogatene har navn hentet fra New York, som Bloomingdales, Central Park og Trump Tower."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/trump-har-satt-naboskapet-med-canada-pa-prove-1.18030513",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/S9v3LFchTN_iqSR_fjnclAhkL526swQOxtbbQ86qXKdg.jpg",
-      "localImage": "assets/news/22c63411dd2f27.jpg",
-      "score": 16
-    },
-    {
-      "id": "d4c2d7fe308078",
-      "category": "Verden",
-      "published": "20.09. 12:45",
-      "publishedISO": "2026-09-20T12:45:39+02:00",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "summary": "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning. Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet. Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
-      "keyPoints": [
-        "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning.",
-        "Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet.",
-        "Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
-        "Russiske statsmedier rapporterte at en valgfunksjonær var en av to personer som ble drept av et droneangrep på en buss i en Moskva-kontrollert del av Kherson i Ukraina søndag, med henvisning til lederen av Russlands valgkommisjon."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/d4c2d7fe308078.jpg",
-      "score": 14
-    },
-    {
-      "id": "bfb37aab4f00c9",
-      "category": "Verden",
-      "published": "19.09. 00:05",
-      "publishedISO": "2026-09-19T00:05:47+02:00",
-      "title": "Trump takes aim at Russia's energy sector with sanctions bill",
-      "summary": "USAs president Donald Trump signerte lovforslaget på fredag ​​USAs president Donald Trump har undertegnet et omfattende sanksjonsforslag, som tar sikte på Russlands økonomi ved å straffe store kjøpere av olje og gass. På Trumps anmodning strekker lovforslaget seg også til Irans energi- og våpensektorer. I tillegg inkluderer lovforslaget sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner.",
-      "keyPoints": [
-        "USAs president Donald Trump signerte lovforslaget på fredag ​​USAs president Donald Trump har undertegnet et omfattende sanksjonsforslag, som tar sikte på Russlands økonomi ved å straffe store kjøpere av olje og gass.",
-        "I tillegg inkluderer lovforslaget sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner.",
-        "På Trumps anmodning strekker lovforslaget seg også til Irans energi- og våpensektorer.",
-        "Lovforslaget, som ble vedtatt av det amerikanske representantenes hus tidligere denne uken, gir Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på de fem beste kjøperne av russisk olje og gass – særlig Kina og India."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
-      "localImage": "assets/news/bfb37aab4f00c9.jpg",
-      "score": 14
-    },
-    {
-      "id": "aea02c40d1f3da",
-      "category": "Norge",
-      "published": "21.09. 08:07",
-      "publishedISO": "2026-09-21T08:07:21+02:00",
-      "title": "Norske Lakseelver: En dårlig laksesesong i norske lakseelver, men med enkelte unntak",
-      "summary": "Med enkelte unntak var det dårlig fiskesesong i de norske lakseelvene i år. I Altaelva ble det tatt rundt oppunder 2000 fisk, noe som tilsvarer cirka 25 prosent under gjennomsnittet de siste ti årene, forteller Norske lakseelver. Foreløpige tall som Norske Lakseelver har hentet inn viser at det jevnt over er en dårlig sesong, selv om enkelte elver i Nordland, Vestland og Trøndelag leverte godt.",
-      "keyPoints": [
-        "Foreløpige tall som Norske Lakseelver har hentet inn viser at det jevnt over er en dårlig sesong, selv om enkelte elver i Nordland, Vestland og Trøndelag leverte godt.",
-        "Med enkelte unntak var det dårlig fiskesesong i de norske lakseelvene i år.",
-        "I Altaelva ble det tatt rundt oppunder 2000 fisk, noe som tilsvarer cirka 25 prosent under gjennomsnittet de siste ti årene, forteller Norske lakseelver.",
-        "Det uttaler generalsekretær i Norske Lakseelver, Torfinn Evensen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/norske-lakseelver_-en-darlig-laksesesong-i-norske-lakseelver_-men-med-enkelte-unntak-1.18029251",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/YSxLzT0u4dGfTSWVfcPTEAIx-i7Wj4XtKN4L5iesUWaA.jpg",
-      "localImage": "assets/news/aea02c40d1f3da.jpg",
-      "score": 13
-    },
-    {
-      "id": "de32e6d95e1799",
-      "category": "Økonomi",
-      "published": "21.09. 06:56",
-      "publishedISO": "2026-09-21T06:56:35+02:00",
-      "title": "Handsworth baby bank helping more parents in full-time work",
-      "summary": "Kavita og Karvinder Dhillon sier at flere mennesker i heltidsarbeid bruker babybanken. En babybank i Birmingham sier at den hjelper et økende antall mennesker i heltidsarbeid som sliter med å ha råd til det nødvendige til barna sine. Kavita Kaur Dhillon og mannen hennes Karvinder driver Handsworth Baby and Family Bank på Soho Road, som tilbyr gratis varer, inkludert bleier, babyerstatning, klær og leker. Folk kan dømme, men realiteten er at folk sliter.\" Banken tilbyr gratis nødvendigheter, inkludert bleier, klær, leker og babyerstatning. Banken, som opererer fra innsiden av parets Dhillons Boutique-butikk, har hjulpet familier siden 2024.",
-      "keyPoints": [
-        "Kavita og Karvinder Dhillon sier at flere mennesker i heltidsarbeid bruker babybanken. En babybank i Birmingham sier at den hjelper et økende antall mennesker i heltidsarbeid som sliter med å ha råd til det nødvendige til barna sine.",
-        "Folk kan dømme, men realiteten er at folk sliter.\" Banken tilbyr gratis nødvendigheter, inkludert bleier, klær, leker og babyerstatning. Banken, som opererer fra innsiden av parets Dhillons Boutique-butikk, har hjulpet familier siden 2024.",
-        "Kavita Kaur Dhillon og mannen hennes Karvinder driver Handsworth Baby and Family Bank på Soho Road, som tilbyr gratis varer, inkludert bleier, babyerstatning, klær og leker.",
-        "Karvinder sa at etterspørselen hadde endret seg de siste årene. \"Ettersom de daglige levekostnadene har økt, trenger folk hjelp med flere daglige ting.\" Paret sa at de for øyeblikket hadde et desperat behov for morsmelkerstatning og ofte bare hadde en håndfull kar igjen på lager. \"Bare fordi du kler deg pent, eller kjører en fin bil, betyr det ikke at du ikke trenger hjelp,\" sa Kavita. «Ingen kjenner til folks omstendigheter."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4848pzjro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8623/live/51bb1da0-b357-11f1-b949-71f91f81d1ab.jpg",
-      "localImage": "assets/news/de32e6d95e1799.jpg",
-      "score": 13
     }
   ]
 }
