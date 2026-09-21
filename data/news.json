@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.09.2026 kl. 01:09",
-  "updatedISO": "2026-09-21T01:09:56.537791+02:00",
+  "updatedAt": "21.09.2026 kl. 03:06",
+  "updatedISO": "2026-09-21T03:06:28.576330+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,6 +46,27 @@
       "score": 17
     },
     {
+      "id": "f981f5e180ac36",
+      "category": "Økonomi",
+      "published": "21.09. 02:34",
+      "publishedISO": "2026-09-21T02:34:53+02:00",
+      "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
+      "summary": "Nvidia-sjef Jensen Huang har beskrevet advarsler om at kunstig intelligens kan føre til menneskehetens utryddelse innen det neste tiåret som «dommedagsnarrativer». \"2030 kommer ikke til å bli verdens undergang. De ber om å bli fritatt for lovene vi har, og jeg tror det er et problem.\" Ikke alle AI-arbeidere tror at teknologien kan drepe alle OpenAI-sjefen sier at verden har rett til å være redd, men bør stole på AI-firmaer. Hvorfor er det bekymringer om at AI kan true menneskeheten, og hvor ekte er de? Trump tok en overraskende telefonsamtale til Huang mens Nvidia-sjefen talte på scenen på en teknologikonferanse i Los Angeles 14. september.",
+      "keyPoints": [
+        "Nvidia-sjef Jensen Huang har beskrevet advarsler om at kunstig intelligens kan føre til menneskehetens utryddelse innen det neste tiåret som «dommedagsnarrativer». «2030 kommer ikke til å bli verdens undergang.",
+        "Trump made a surprise phone call to Huang while the Nvidia boss was speaking on stage at a tech conference in Los Angeles on 14 September.",
+        "De ber om å bli fritatt for lovene vi har, og jeg tror det er et problem.\" Ikke alle AI-arbeidere tror at teknologien kan drepe alle OpenAI-sjefen sier at verden har rett til å være redd, men bør stole på AI-firmaer. Hvorfor er det bekymringer om at AI kan true menneskeheten, og hvor reelle er de?",
+        "Coxons bekymringer utløste debatt om teknologiens risikoer, inkludert samtaler fra toppledere som Antropisk sjef Dario Amodei og OpenAIs Sam Altman som oppfordret til å bremse utviklingen av AI."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ba1f/live/38ae4b30-b54a-11f1-a718-f1288d239f82.jpg",
+      "localImage": "assets/news/f981f5e180ac36.jpg",
+      "score": 17
+    },
+    {
       "id": "f43ff6fd58f720",
       "category": "Økonomi",
       "published": "20.09. 19:58",
@@ -67,6 +88,27 @@
       "score": 12
     },
     {
+      "id": "d4c2d7fe308078",
+      "category": "Verden",
+      "published": "20.09. 12:45",
+      "publishedISO": "2026-09-20T12:45:39+02:00",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "summary": "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning. Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet. Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
+      "keyPoints": [
+        "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning.",
+        "Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet.",
+        "Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
+        "Russiske statsmedier rapporterte at en valgfunksjonær var en av to personer som ble drept av et droneangrep på en buss i en Moskva-kontrollert del av Kherson i Ukraina søndag, med henvisning til lederen av Russlands valgkommisjon."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/d4c2d7fe308078.jpg",
+      "score": 15
+    },
+    {
       "id": "bfb37aab4f00c9",
       "category": "Verden",
       "published": "19.09. 00:05",
@@ -85,27 +127,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/402a/live/1f49c870-b3f3-11f1-a710-1de24a8819a3.jpg",
       "localImage": "assets/news/bfb37aab4f00c9.jpg",
-      "score": 16
-    },
-    {
-      "id": "d4c2d7fe308078",
-      "category": "Verden",
-      "published": "20.09. 12:45",
-      "publishedISO": "2026-09-20T12:45:39+02:00",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "summary": "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning. Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet. Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
-      "keyPoints": [
-        "Oljeraffineriet i Moskva sett i brann etter ukrainsk droneangrep Ukraina har skutt sitt største droneangrep mot Moskva-regionen, sa ordføreren, og traff byens viktigste oljeraffineri og en boligbygning.",
-        "Ordfører Sergei Sobyanin sa at 450 droner på vei mot hovedstaden ble skutt ned i det han kalte \"det mest massive\" angrepet.",
-        "Ukrainas president Volodymyr Zelensky bekreftet at Kiev hadde truffet et \"nøkkelt\" russisk oljeanlegg og et logistikksted i regionen med droner og missiler, som representerer \"milliarder av dollar som opprettholder krigsmaskinen\".",
-        "Russiske statsmedier rapporterte at en valgfunksjonær var en av to personer som ble drept av et droneangrep på en buss i en Moskva-kontrollert del av Kherson i Ukraina søndag, med henvisning til lederen for Russlands valgkommisjon."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c3/live/41153930-b4bb-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/d4c2d7fe308078.jpg",
       "score": 15
     },
     {
@@ -127,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/hFh7QIy-Ld1hwoBl2EmjQAbCF9Rg_NyH7jVaaRUIhzFg.jpg",
       "localImage": "assets/news/5c4a57eb8449d4.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "0460392bdfec61",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/aY3-BVyO7jAxik2Sill8ognJx_3HXhZ06m7yXG-3nyeA.jpg",
       "localImage": "assets/news/bb374cf2e30e33.webp",
-      "score": 13
-    },
-    {
-      "id": "611a972ca5586f",
-      "category": "Norge",
-      "published": "20.09. 19:41",
-      "publishedISO": "2026-09-20T19:41:44+02:00",
-      "title": "Energi i Nord mener strømselskaper i nord kan lære av Sverige: Ryddet i kraftkøen og frigjorde strøm",
-      "summary": "Vambheim i Energi i Nord (til venstre) og markedssjef Carina Zolland i Luleå Energi. Gjennom bedre samhandling ryddet de opp i kraftkøen og frigjorde nettkapasitet tilsvarende 20.000 hurtigladere for elbil. Marit Vambheim, daglig leder i Energi i Nord, mener strømselskaper i Nord-Norge kan lære av modellen.",
-      "keyPoints": [
-        "Marit Vambheim, daglig leder i Energi i Nord, mener strømselskaper i Nord-Norge kan lære av modellen.",
-        "Gjennom bedre samhandling ryddet de opp i kraftkøen og frigjorde nettkapasitet tilsvarende 20.000 hurtigladere for elbil.",
-        "Vambheim i Energi i Nord (til venstre) og markedssjef Carina Zolland i Luleå Energi.",
-        "Energi i Nord består av et bredt partnerskap fra hele energisektoren i Nord-Norge."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/energi-i-nord-mener-stromselskaper-i-nord-kan-laere-av-sverige_-ryddet-i-kraftkoen-og-frigjorde-strom-1.18028857",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/L7TYR3igiJfMBDK9CFKUNApSM2vaB9ptMvhCz7S4NBpg.jpg",
-      "localImage": "assets/news/611a972ca5586f.jpg",
       "score": 12
     }
   ]
