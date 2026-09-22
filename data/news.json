@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.09.2026 kl. 03:02",
-  "updatedISO": "2026-09-22T03:02:24.756963+02:00",
+  "updatedAt": "22.09.2026 kl. 08:15",
+  "updatedISO": "2026-09-22T08:15:45.405007+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/qedHFBk19_2gCzbm0YuNUg3_7a4V9oc5hZMKvHKZwyEQ.jpg",
       "localImage": "assets/news/befa87a2f12aba.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "4fe43f1dff891f",
@@ -43,28 +43,7 @@
       "source": "vg.no",
       "image": "https://akamai.vgc.no/v2/images/94edf559-06ed-3db2-b4f3-5815bfd83fd8?format=auto&w=1080&s=f479b4bd4590896ab6a5505048afa61a880050cc",
       "localImage": "assets/news/4fe43f1dff891f.jpg",
-      "score": 15
-    },
-    {
-      "id": "77c2f32aeb8cda",
-      "category": "USA",
-      "published": "21.09. 20:48",
-      "publishedISO": "2026-09-21T20:48:27+02:00",
-      "title": "Carney condemns Yom Kippur shooting outside Canadian synagogue",
-      "summary": "Den kanadiske statsministeren Mark Carney og andre politikere har fordømt antisemittisk vold etter at et skyting nær en jødisk synagoge gjorde at en politimann ble kritisk skadet. Skytingen fant sted utenfor Sons of Jacob-synagogen i Belleville, Ontario, søndag kveld under Yom Kippur, den helligste natten i den jødiske kalenderen. Som et ekko av Carneys fordømmelse sa Ontarios premier Doug Ford at han er \"avsky\" over skytingen og at medlemmer av det jødiske samfunnet \"har all rett til å samles og tilbe trygt og uten frykt\".",
-      "keyPoints": [
-        "Skytingen fant sted utenfor Sons of Jacob-synagogen i Belleville, Ontario, søndag kveld under Yom Kippur, den helligste natten i den jødiske kalenderen.",
-        "Den kanadiske statsministeren Mark Carney og andre politikere har fordømt antisemittisk vold etter at et skyting nær en jødisk synagoge gjorde at en politimann ble kritisk skadet.",
-        "Som et ekko av Carneys fordømmelse sa Ontarios premier Doug Ford at han er \"avsky\" over skytingen og at medlemmer av det jødiske samfunnet \"har all rett til å samles og tilbe trygt og uten frykt\".",
-        "Canadian opposition leader Pierre Poilievre wrote on social media that \"this vile antisemitic violence in Canada must end\" while urging Carney's government to \"act now to protect our people\"."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cjy5z2vpre21o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/711d/live/6998a400-b5e7-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/77c2f32aeb8cda.jpg",
-      "score": 12
+      "score": 14
     },
     {
       "id": "90061004230cb8",
@@ -85,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3c3b79b5-9100-3eb1-aaa5-e54a8915d54e?fit=crop&h=675&upscale=true&w=1200&s=7f34271c7c28eba1f568b7e9dea5d21cae243cc7",
       "localImage": "assets/news/90061004230cb8.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "d18bb9fc735ada",
@@ -106,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e3e4d48a-05ce-3a02-b728-8c369551b73f?fit=crop&h=675&upscale=true&w=1200&s=93767b4a44a46fa22d1f30f17039ca5102e74552",
       "localImage": "assets/news/d18bb9fc735ada.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "e2ace39bec8e09",
@@ -127,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/74f3aac6-f848-3129-b1b0-9c4f79782d66?fit=crop&h=675&upscale=true&w=1200&s=01571d21251e2222d61629611c622c69f2ac3408",
       "localImage": "assets/news/e2ace39bec8e09.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "f54ef82baae2da",
@@ -148,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/13a8e578-239c-301d-94e6-4ff418e9ea62?fit=crop&h=675&upscale=true&w=1200&s=efa47f4e462dc442a4d36581daaaf664ba1370b8",
       "localImage": "assets/news/f54ef82baae2da.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "c7b09488799d3b",
@@ -169,49 +148,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f5fed7d7-ce7d-3f7a-9e97-b5cfc9f18926?fit=crop&h=675&upscale=true&w=1200&s=1de4f2dec8293e79e7cb3dd2d320c1cd652640b1",
       "localImage": "assets/news/c7b09488799d3b.jpg",
-      "score": 16
-    },
-    {
-      "id": "5cd9de4cd74df4",
-      "category": "Norge",
-      "published": "21.09. 12:13",
-      "publishedISO": "2026-09-21T12:13:26+02:00",
-      "title": "USA gjør klar for krig i verdensrommet",
-      "summary": "Hva slags våpen det er, sier ikke USA noe om, men mye peker på en helt spesiell type. Reaksjonene har vært skarpe etter at USA innrømmet at landet hadde utplassert våpen i verdensrommet. Det kinesiske utenriksdepartementet ba USA om å stanse forberedelsene på å utkjempe krig i rommet.",
-      "keyPoints": [
-        "Reaksjonene har vært skarpe etter at USA innrømmet at landet hadde utplassert våpen i verdensrommet.",
-        "Det kinesiske utenriksdepartementet ba USA om å stanse forberedelsene på å utkjempe krig i rommet.",
-        "Hva slags våpen det er, sier ikke USA noe om, men mye peker på en helt spesiell type.",
-        "USA har mest å tape dersom verdensrommet blir en arena for faktisk konflikt, skriver Samson til SpacePolicyOnline."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/usa-gjor-klar-for-krig-i-verdensrommet-1.18030540",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/LoSMazAIKB5dBO3_Ussptg55k6YsN5jQjh4ZyOdCoLgQ.jpg",
-      "localImage": "assets/news/5cd9de4cd74df4.jpg",
       "score": 15
     },
     {
-      "id": "c1ee8d00359942",
+      "id": "3e27ac51451e42",
       "category": "Økonomi",
-      "published": "21.09. 13:35",
-      "publishedISO": "2026-09-21T13:35:20+02:00",
-      "title": "Ingen vet hvor oljeprisen hopper",
-      "summary": "Oljeprisen steg kraftig i april, og nådde rundt 120 dollar fatet mot slutten av den måneden, men disse høye prisene viste seg å være svært kortvarige. I skrivende stund er oljeprisen på rundt 100 dollar fatet, og selv om det er godt nytt for AS Norge, gir det pumpepriser som svir i lommeboka. Ingen vet hva som venter bak neste sving i en verden med Donald Trump bak roret på verdens oljetanker.",
+      "published": "22.09. 07:24",
+      "publishedISO": "2026-09-22T07:24:01+02:00",
+      "title": "Rising fuel prices 'cost Jersey tow truck business an extra £10k'",
+      "summary": "Stigende drivstoffpriser rammer bedrifter, og eieren av en bilhavaritjeneste sa at prisene hadde kostet virksomheten hans mellom £9.000 og £11.000. Finansminister Alan Maclean sa at å kutte drivstoffavgiften ville være et \"stumpt verktøy\" Drivstoffprisene har fortsatt å stige siden utbruddet av USAs krig med Iran i februar. Han sa at han forventet at prisene ville fortsette å stige, og selv om virksomheten hans hadde absorbert høyere kostnader så langt, kan det hende han måtte belaste kundene mer.",
       "keyPoints": [
-        "Oljeprisen steg kraftig i april, og nådde rundt 120 dollar fatet mot slutten av den måneden, men disse høye prisene viste seg å være svært kortvarige.",
-        "Ingen vet hva som venter bak neste sving i en verden med Donald Trump bak roret på verdens oljetanker.",
-        "I skrivende stund er oljeprisen på rundt 100 dollar fatet, og selv om det er godt nytt for AS Norge, gir det pumpepriser som svir i lommeboka.",
-        "USAs angrep på Iran i februar og den påfølgende nesten fullstendige stengingen av det kritiske Hormuzstredet gjorde at flere analytikere og eksperter før sommeren spådde priser opp mot 150 og 200 dollar fatet."
+        "Stigende drivstoffpriser rammer bedrifter, og eieren av en bilhavaritjeneste sa at prisene hadde kostet virksomheten hans mellom £9.000 og £11.000.",
+        "Han sa at han forventet at prisene ville fortsette å stige, og selv om virksomheten hans hadde absorbert høyere kostnader så langt, kan det hende han måtte belaste kundene mer.",
+        "Finansminister Alan Maclean sa at å kutte drivstoffavgiften ville være et \"stumpt verktøy\" Drivstoffprisene har fortsatt å stige siden utbruddet av USAs krig med Iran i februar.",
+        "Jerseys finansminister sa at det ville være \"målrettede tiltak\" i regjeringens budsjett for å hjelpe folk med levekostnadene."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/aJRlBL/ingen-vet-hvor-oljeprisen-hopper",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f826b0f1-e519-3f1a-814d-49abdc10d5e3?fit=crop&h=675&upscale=true&w=1200&s=8bec0aba7023ee93680e6d4db1612706146775c9",
-      "localImage": "assets/news/c1ee8d00359942.jpg",
-      "score": 14
+      "url": "https://www.bbc.co.uk/news/articles/cxp845vnpv27o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1188/live/e6c94290-b5ba-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/3e27ac51451e42.jpg",
+      "score": 13
+    },
+    {
+      "id": "bc61e8358ca184",
+      "category": "Norge",
+      "published": "22.09. 07:21",
+      "publishedISO": "2026-09-22T07:21:05+02:00",
+      "title": "Professor: – Fosendommen styrker sjøsamiske fiskerettigheter",
+      "summary": "Professor mener det samme rettsgrunnlaget også omfatter sjøsamisk kultur. Øyvind Ravna, professor i rettsvitenskap, mener Finnmarkskommisjonens vurdering om at lokalbefolkningen har særrett til fiske i Tanafjorden, bygger på et solid og etablert rettsgrunnlag. Jusprofessoren ved UiT mener både Fosendommen og flere tidligere Høyesterettsavgjørelser gir klare føringer for fjordfolkets rettigheter i Finnmark. – Jeg er ikke overrasket over at kommisjonen konkluderer med en kollektiv særrett til fiske i Tanafjorden.",
+      "keyPoints": [
+        "Jusprofessoren ved UiT mener både Fosendommen og flere tidligere Høyesterettsavgjørelser gir klare føringer for fjordfolkets rettigheter i Finnmark. – Jeg er ikke overrasket over at kommisjonen konkluderer med en kollektiv særrett til fiske i Tanafjorden.",
+        "Øyvind Ravna, professor i rettsvitenskap, mener Finnmarkskommisjonens vurdering om at lokalbefolkningen har særrett til fiske i Tanafjorden, bygger på et solid og etablert rettsgrunnlag.",
+        "Professor mener det samme rettsgrunnlaget også omfatter sjøsamisk kultur.",
+        "Jusprofessor Øyvind Ravna mener det finnes tydelige paralleller mellom reindriftas kamp på Fosen i Trøndelag og de sjøsamiske kravene i Tanafjorden."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/professor_-_-fosendommen-styrker-sjosamiske-fiskerettigheter-1.18025838",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/CiTxHvwqEhP5ZqRmT2Fn7gkykrqg5wNBuWMZsnvRWd9Q.jpg",
+      "localImage": "assets/news/bc61e8358ca184.jpg",
+      "score": 13
+    },
+    {
+      "id": "1c6c5999589e0b",
+      "category": "Verden",
+      "published": "22.09. 07:16",
+      "publishedISO": "2026-09-22T07:16:07+02:00",
+      "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "summary": "Iran må «avslutte sin bevæpning av og støtte» til houthiene i Jemen, har utenriksministrene til G7-landene sagt i en felles uttalelse. Uttalelsen kommer i forkant av FNs årlige generalforsamling i New York, hvor høytstående iranske tjenestemenn skal tale. – Vi ber houthiene umiddelbart stanse alle militære aksjoner, alle trusler og angrep mot sivil skipsfart, og gå tilbake til den politiske prosessen i god tro, sa utenriksministrene i Storbritannia, Canada, Frankrike, Tyskland, Italia, Japan og USA. Tidligere denne måneden tok houthiene, som allerede hadde erobret mesteparten av de befolkede delene av Jemen, kontroll over Bab al-Mandab, et smalt, maritimt chokepoint der det sørlige Rødehavet renner ut i Adenbukta og det bredere Indiahavet.",
+      "keyPoints": [
+        "Iran må «avslutte sin bevæpning av og støtte» til houthiene i Jemen, har utenriksministrene til G7-landene sagt i en felles uttalelse.",
+        "Uttalelsen kommer i forkant av FNs årlige generalforsamling i New York, hvor høytstående iranske tjenestemenn skal tale. – Vi ber houthiene umiddelbart stanse alle militære aksjoner, alle trusler og angrep mot sivil skipsfart, og gå tilbake til den politiske prosessen i god tro, sa utenriksministrene i Storbritannia, Canada, Frankrike, Tyskland, Italia, Japan og USA.",
+        "Tidligere denne måneden tok houthiene, som allerede hadde erobret mesteparten av de befolkede delene av Jemen, kontroll over Bab al-Mandab, et smalt, maritimt chokepoint der det sørlige Rødehavet renner ut i Adenbukta og det bredere Indiahavet.",
+        "Uttalelsen deres ble avgitt etter et møte på sidelinjen av FNs generalforsamling."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8de9/live/2f1c8fd0-b63c-11f1-b5fe-031254885cd0.jpg",
+      "localImage": "assets/news/1c6c5999589e0b.jpg",
+      "score": 13
     }
   ]
 }
