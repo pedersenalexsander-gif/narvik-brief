@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.09.2026 kl. 00:18",
-  "updatedISO": "2026-09-22T00:18:42.592867+02:00",
+  "updatedAt": "22.09.2026 kl. 03:02",
+  "updatedISO": "2026-09-22T03:02:24.756963+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "vg.no",
       "image": "https://akamai.vgc.no/v2/images/94edf559-06ed-3db2-b4f3-5815bfd83fd8?format=auto&w=1080&s=f479b4bd4590896ab6a5505048afa61a880050cc",
       "localImage": "assets/news/4fe43f1dff891f.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "77c2f32aeb8cda",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/711d/live/6998a400-b5e7-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/77c2f32aeb8cda.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "90061004230cb8",
@@ -88,48 +88,6 @@
       "score": 20
     },
     {
-      "id": "e2ace39bec8e09",
-      "category": "Økonomi",
-      "published": "21.09. 10:37",
-      "publishedISO": "2026-09-21T10:37:37+02:00",
-      "title": "Vil ta tankrederi på børs i shippingfest",
-      "summary": "Volare Shipping vil hente inn 4,7 milliarder kroner og seile til Oslo Børs. Samtidig planlegges det å hente inn rundt 500 millioner dollar gjennom en rettet emisjon. Tegningskursen er satt til 154 kroner, som gir en verdsettelse av selskapet på rundt 6,1 milliarder kroner før kapitalinnhentingen.",
-      "keyPoints": [
-        "Volare Shipping vil hente inn 4,7 milliarder kroner og seile til Oslo Børs.",
-        "Tegningskursen er satt til 154 kroner, som gir en verdsettelse av selskapet på rundt 6,1 milliarder kroner før kapitalinnhentingen.",
-        "Samtidig planlegges det å hente inn rundt 500 millioner dollar gjennom en rettet emisjon.",
-        "Seks av VLCC-skipene til Volare Shipping er på vannet, mens resten leveres fra mai 2027 til oktober 2028, fremgår det."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/xrolPB/vil-ta-tankrederi-paa-boers-i-shippingfest",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/74f3aac6-f848-3129-b1b0-9c4f79782d66?fit=crop&h=675&upscale=true&w=1200&s=01571d21251e2222d61629611c622c69f2ac3408",
-      "localImage": "assets/news/e2ace39bec8e09.jpg",
-      "score": 19
-    },
-    {
-      "id": "f54ef82baae2da",
-      "category": "Økonomi",
-      "published": "21.09. 06:07",
-      "publishedISO": "2026-09-21T06:07:36+02:00",
-      "title": "Ber Norges Bank droppe renteheving: – Vil være galskap",
-      "summary": "Andreassen i Eika vil ikke utelukke at Norges Bank hever styringsrenten nå, men hans klare anbefaling er å droppe en renteøkning. – Jeg mener selvfølgelig at de ikke burde heve renten. Men den økonomiske utviklingen siden forrige hovedmøte i Norges Bank i juni peker ikke tydelig i retning av hverken uendret rente eller en økning, mener Dalstø. – Likevel heller jeg mot en renteøkning på 0,25 prosentpoeng. – Høyere energipriser gir økt prispress utenfra, men dette balanseres av at kronen har styrket seg. Olav Chen i Storebrand holder en knapp på at Norges Bank setter opp renten på torsdag, men understreker at det er usikkerhet om beslutningen. – Hvis de ikke skulle heve nå, ligger det an til en renteheving senere i år.",
-      "keyPoints": [
-        "Andreassen i Eika vil ikke utelukke at Norges Bank hever styringsrenten nå, men hans klare anbefaling er å droppe en renteøkning. – Jeg mener selvfølgelig at de ikke burde heve renten.",
-        "Olav Chen i Storebrand holder en knapp på at Norges Bank setter opp renten på torsdag, men understreker at det er usikkerhet om beslutningen. – Hvis de ikke skulle heve nå, ligger det an til en renteheving senere i år.",
-        "Men den økonomiske utviklingen siden forrige hovedmøte i Norges Bank i juni peker ikke tydelig i retning av hverken uendret rente eller en økning, mener Dalstø. – Likevel heller jeg mot en renteøkning på 0,25 prosentpoeng. – Høyere energipriser gir økt prispress utenfra, men dette balanseres av at kronen har styrket seg.",
-        "Norges Bank har et mål om at årlig prisvekst skal være på to prosent. – Vi er på tretallet, og der har vi egentlig vært sammenhengende i to år."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/d4eVaB/ber-norges-bank-droppe-renteheving-vil-vaere-galskap",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/13a8e578-239c-301d-94e6-4ff418e9ea62?fit=crop&h=675&upscale=true&w=1200&s=efa47f4e462dc442a4d36581daaaf664ba1370b8",
-      "localImage": "assets/news/f54ef82baae2da.jpg",
-      "score": 19
-    },
-    {
       "id": "d18bb9fc735ada",
       "category": "Økonomi",
       "published": "21.09. 13:48",
@@ -151,6 +109,48 @@
       "score": 18
     },
     {
+      "id": "e2ace39bec8e09",
+      "category": "Økonomi",
+      "published": "21.09. 10:37",
+      "publishedISO": "2026-09-21T10:37:37+02:00",
+      "title": "Vil ta tankrederi på børs i shippingfest",
+      "summary": "Volare Shipping vil hente inn 4,7 milliarder kroner og seile til Oslo Børs. Samtidig planlegges det å hente inn rundt 500 millioner dollar gjennom en rettet emisjon. Tegningskursen er satt til 154 kroner, som gir en verdsettelse av selskapet på rundt 6,1 milliarder kroner før kapitalinnhentingen.",
+      "keyPoints": [
+        "Volare Shipping vil hente inn 4,7 milliarder kroner og seile til Oslo Børs.",
+        "Tegningskursen er satt til 154 kroner, som gir en verdsettelse av selskapet på rundt 6,1 milliarder kroner før kapitalinnhentingen.",
+        "Samtidig planlegges det å hente inn rundt 500 millioner dollar gjennom en rettet emisjon.",
+        "Seks av VLCC-skipene til Volare Shipping er på vannet, mens resten leveres fra mai 2027 til oktober 2028, fremgår det."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/xrolPB/vil-ta-tankrederi-paa-boers-i-shippingfest",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/74f3aac6-f848-3129-b1b0-9c4f79782d66?fit=crop&h=675&upscale=true&w=1200&s=01571d21251e2222d61629611c622c69f2ac3408",
+      "localImage": "assets/news/e2ace39bec8e09.jpg",
+      "score": 18
+    },
+    {
+      "id": "f54ef82baae2da",
+      "category": "Økonomi",
+      "published": "21.09. 06:07",
+      "publishedISO": "2026-09-21T06:07:36+02:00",
+      "title": "Ber Norges Bank droppe renteheving: – Vil være galskap",
+      "summary": "Andreassen i Eika vil ikke utelukke at Norges Bank hever styringsrenten nå, men hans klare anbefaling er å droppe en renteøkning. – Jeg mener selvfølgelig at de ikke burde heve renten. Men den økonomiske utviklingen siden forrige hovedmøte i Norges Bank i juni peker ikke tydelig i retning av hverken uendret rente eller en økning, mener Dalstø. – Likevel heller jeg mot en renteøkning på 0,25 prosentpoeng. – Høyere energipriser gir økt prispress utenfra, men dette balanseres av at kronen har styrket seg. Olav Chen i Storebrand holder en knapp på at Norges Bank setter opp renten på torsdag, men understreker at det er usikkerhet om beslutningen. – Hvis de ikke skulle heve nå, ligger det an til en renteheving senere i år.",
+      "keyPoints": [
+        "Andreassen i Eika vil ikke utelukke at Norges Bank hever styringsrenten nå, men hans klare anbefaling er å droppe en renteøkning. – Jeg mener selvfølgelig at de ikke burde heve renten.",
+        "Olav Chen i Storebrand holder en knapp på at Norges Bank setter opp renten på torsdag, men understreker at det er usikkerhet om beslutningen. – Hvis de ikke skulle heve nå, ligger det an til en renteheving senere i år.",
+        "Men den økonomiske utviklingen siden forrige hovedmøte i Norges Bank i juni peker ikke tydelig i retning av hverken uendret rente eller en økning, mener Dalstø. – Likevel heller jeg mot en renteøkning på 0,25 prosentpoeng. – Høyere energipriser gir økt prispress utenfra, men dette balanseres av at kronen har styrket seg.",
+        "Norges Bank har et mål om at årlig prisvekst skal være på to prosent. – Vi er på tretallet, og der har vi egentlig vært sammenhengende i to år."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/d4eVaB/ber-norges-bank-droppe-renteheving-vil-vaere-galskap",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/13a8e578-239c-301d-94e6-4ff418e9ea62?fit=crop&h=675&upscale=true&w=1200&s=efa47f4e462dc442a4d36581daaaf664ba1370b8",
+      "localImage": "assets/news/f54ef82baae2da.jpg",
+      "score": 18
+    },
+    {
       "id": "c7b09488799d3b",
       "category": "Økonomi",
       "published": "21.09. 20:18",
@@ -169,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f5fed7d7-ce7d-3f7a-9e97-b5cfc9f18926?fit=crop&h=675&upscale=true&w=1200&s=1de4f2dec8293e79e7cb3dd2d320c1cd652640b1",
       "localImage": "assets/news/c7b09488799d3b.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "5cd9de4cd74df4",
