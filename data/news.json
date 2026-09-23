@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.09.2026 kl. 00:47",
-  "updatedISO": "2026-09-23T00:47:31.445072+02:00",
+  "updatedAt": "23.09.2026 kl. 03:19",
+  "updatedISO": "2026-09-23T03:19:03.169829+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/G5ZYLEo-DFeCsOmTUdL32gG1TjbnusuCtRZUg08Zj4aw.jpg",
       "localImage": "assets/news/578edefbcb788d.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "12783075c1d899",
+      "id": "2161e1a61d2222",
       "category": "Verden",
-      "published": "22.09. 23:50",
-      "publishedISO": "2026-09-22T23:50:31+02:00",
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
-      "summary": "Se: Trump truer med å \"utslette\" Iran hvis ingen avtale oppnås. President Donald Trump har fortalt FNs generalforsamling at han står overfor en \"stor avgjørelse\" om han skal angripe Iran igjen eller forfølge en fredsavtale. Et enkelt medlem av Irans delegasjon fulgte med under presidentens tale tirsdag i New York, der han sa at han kunne «utslette» den islamske republikken hvis konflikten ble uløst. Trump fortalte senere journalister at amerikanske tjenestemenn hadde hatt et \"veldig produktivt\" tre timer langt møte med den iranske delegasjonen på sidelinjen av generalforsamlingen.",
+      "published": "22.09. 21:06",
+      "publishedISO": "2026-09-22T21:06:06+02:00",
+      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
+      "summary": "Usmanov beskrives som å ha spesielt nære bånd til president Putin. Den europeiske union skal fjerne sanksjonene mot to oligarker som ble innført etter Russlands fullskala invasjon av Ukraina i 2022, ifølge rapporter, noe som førte til sinne i Ukraina. Latvia motsatte seg først avtalen, men gikk med på et kompromiss, hvorav en del innebar utvidelse av sanksjoner mot nesten 3000 andre individer og enheter i tre år. Kreml-talsperson Dmitrij Peskov ønsket tidligere at de to oligarkene skulle bli tatt av listen, og hevdet at EUs sanksjoner var ulovlige og at alle russere burde fjernes.",
       "keyPoints": [
-        "Se: Trump truer med å \"utslette\" Iran hvis ingen avtale oppnås. President Donald Trump har fortalt FNs generalforsamling at han står overfor en \"stor avgjørelse\" om han skal angripe Iran igjen eller forfølge en fredsavtale.",
-        "Et enkelt medlem av Irans delegasjon fulgte med under presidentens tale tirsdag i New York, der han sa at han kunne «utslette» den islamske republikken hvis konflikten ble uløst.",
-        "Trump fortalte senere journalister at amerikanske tjenestemenn hadde hatt et \"veldig produktivt\" tre timer langt møte med den iranske delegasjonen på sidelinjen av generalforsamlingen.",
-        "Driver jeg dem inn i helvete?\" Trump sa at han trodde en Iran-avtale, som så langt har unngått ham, ville komme rett etter valget i november."
+        "Usmanov beskrives som å ha spesielt nære bånd til president Putin. Den europeiske union skal fjerne sanksjonene mot to oligarker som ble innført etter Russlands fullskala invasjon av Ukraina i 2022, ifølge rapporter, noe som førte til sinne i Ukraina.",
+        "Kreml-talsperson Dmitrij Peskov ønsket tidligere at de to oligarkene skulle bli tatt av listen, og hevdet at EUs sanksjoner var ulovlige og at alle russere burde fjernes.",
+        "Latvia motsatte seg først avtalen, men gikk med på et kompromiss, hvorav en del innebar utvidelse av sanksjoner mot nesten 3000 andre individer og enheter i tre år.",
+        "EU frøs eiendeler hans i 2022, og beskrev ham som \"en pro-Kreml-oligark med spesielt nære bånd til Russlands president Vladimir Putin\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2ce7/live/a35e4ee0-b6a2-11f1-ba3d-1d5c8a47f823.jpg",
-      "localImage": "assets/news/12783075c1d899.jpg",
-      "score": 17
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/2161e1a61d2222.jpg",
+      "score": 16
     },
     {
       "id": "0b8ceb0fcf281f",
@@ -64,7 +64,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4750/live/f9ba3d90-b6c9-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/0b8ceb0fcf281f.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "9d4d704590fa05",
+      "category": "Økonomi",
+      "published": "22.09. 17:53",
+      "publishedISO": "2026-09-22T17:53:25+02:00",
+      "title": "Trump floats rebranding artificial intelligence as super intelligence",
+      "summary": "Donald Trump har en forkjærlighet for merkevarebygging og i sin tale ga han kunstig intelligens et nytt navn: superintelligens. \"Bruken av ordet kunstig får det til å høres falskt ut,\" sa han. \"Det er ikke falskt, det er faktisk fantastisk. Se: Trump flyter rebranding kunstig intelligens som super intelligens. Video, 00:00:44Se: Trump flyter rebranding kunstig intelligens som super intelligens Up Next.",
+      "keyPoints": [
+        "Video, 00:00:44Watch: Trump floats rebranding artificial intelligence as super intelligence Up Next.",
+        "Donald Trump har en forkjærlighet for merkevarebygging og i sin tale ga han kunstig intelligens et nytt navn: superintelligens. \"Bruken av ordet kunstig får det til å høres falskt ut,\" sa han. \"Det er ikke falskt, det er faktisk fantastisk.",
+        "Video, 00:01:28Se: Mamdani sier at presse er tillatt ved arrangement med Trump uavhengig av medieforbud Se: Trump sier at forbud mot noen nyhetskanaler er 'fordi de er falske nyheter' Video, 00:00:54Se: Trump sier at forbud mot noen nyhetskanaler er 'fordi de er falske nyheter' Se: Trusler og lidenskapelige UNGA-arrangementer,.",
+        "Men vi må være forsiktige,\" la han til. \"Velkommen til den nye verden av superintelligens – SI,\" fortsatte han med å si."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c8n5d9x10v14o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd34/live/958ea3f0-b69d-11f1-b1d1-571ed4d7ff2c.jpg",
+      "localImage": "assets/news/9d4d704590fa05.jpg",
+      "score": 21
     },
     {
       "id": "1ac1e3b9e5f403",
@@ -88,33 +109,12 @@
       "score": 20
     },
     {
-      "id": "8f6b1dabac62c5",
-      "category": "Økonomi",
-      "published": "22.09. 15:32",
-      "publishedISO": "2026-09-22T15:32:11+02:00",
-      "title": "Nasdaq setter ny rekord igjen",
-      "summary": "Forvalterne knyttet mandagens rekord på teknologiindeksen til optimisme rundt kunstig intelligens (AI) i tillegg til en nedgang i oljeprisen. Slik lå det an med de viktigste indeksene ved stengetid klokken 22 norsk tid: Flere teknologiaksjer har gjort det bra denne uken, etter en «ruglete periode». – Vi hører om positive samtaler mellom USA og Kina rundt utviklingen av AI. Selskapet har i det siste ligget tett opp under en markedsverdi på 5.000 milliarder dollar, en verdi det også var oppe i tidligere i år.",
-      "keyPoints": [
-        "Forvalterne knyttet mandagens rekord på teknologiindeksen til optimisme rundt kunstig intelligens (AI) i tillegg til en nedgang i oljeprisen.",
-        "Slik lå det an med de viktigste indeksene ved stengetid klokken 22 norsk tid: Flere teknologiaksjer har gjort det bra denne uken, etter en «ruglete periode». – Vi hører om positive samtaler mellom USA og Kina rundt utviklingen av AI.",
-        "Selskapet har i det siste ligget tett opp under en markedsverdi på 5.000 milliarder dollar, en verdi det også var oppe i tidligere i år.",
-        "Nvidia er fortsatt noe mer verdt enn Apple, med en markedsverdi på om lag 5.500 milliarder dollar."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/JOdvO7/wall-street-stiger-videre",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/487f5bc9-e761-3871-930e-4cf86674b328?fit=crop&h=675&upscale=true&w=1200&s=e2c16ca3a103bcaa637e08d2dd52353b9cd7dc23",
-      "localImage": "assets/news/8f6b1dabac62c5.jpg",
-      "score": 15
-    },
-    {
       "id": "cdb32a13a2b480",
       "category": "AI",
       "published": "23.09. 00:03",
       "publishedISO": "2026-09-23T00:03:48+02:00",
       "title": "Rare look at the remote data centres powering China's AI ambitions",
-      "summary": "BBCs Laura Bicker er i Indre Mongolia hvor dusinvis av kinesiske datasentre bygges, da landet har som mål å lede verden innen kunstig intelligens. En sjelden titt på de eksterne maskinrommene som driver Kinas AI-ambisjoner. Video, 00:01:07Sjeldent blikk på de eksterne maskinrommene som driver Kinas AI-ambisjoner Up Next.",
+      "summary": "BBCs Laura Bicker er i Indre Mongolia hvor dusinvis av kinesiske datasentre bygges, da landet har som mål å lede verden innen kunstig intelligens. Sjeldent blikk på de eksterne maskinrommene som driver Kinas AI-ambisjoner. Video, 00:01:07Sjeldent blikk på de eksterne maskinrommene som driver Kinas AI-ambisjoner Up Next.",
       "keyPoints": [
         "Rare look at the remote engine rooms powering China's AI ambitions.",
         "BBCs Laura Bicker er i Indre Mongolia hvor dusinvis av kinesiske datasentre bygges, da landet har som mål å lede verden innen kunstig intelligens.",
@@ -134,7 +134,7 @@
       "category": "AI",
       "published": "23.09. 00:04",
       "publishedISO": "2026-09-23T00:04:31+02:00",
-      "title": "Kina AI: Datasentre reiser seg fra de bølgende slettene i indre Mongolia",
+      "title": "Kina AI: Datasentre reiser seg fra de bølgende slettene i Indre Mongolia",
       "summary": "I de vidstrakte gressområdene i Indre Mongolia plukker bøndene fyldige poteter sammen med nye naboer: enorme, rektangulære blokker som vil drive Kinas AI-plattformer. Dette er den andre fasen,\" forklarer en elektroingeniør. \"Det vil være mange flere faser etterpå.\" Kunstig intelligens er kjernen i Kinas konkurranse med USA, og nøkkelen til det er datakraften inne i datasentrene her. Se: Sjeldent blikk på de eksterne datasentrene som driver Kinas AI-ambisjoner Kina bygger ikke bare infrastrukturen.",
       "keyPoints": [
         "Dette er den andre fasen,\" forklarer en elektroingeniør. \"Det vil være mange flere faser etterpå.\" Kunstig intelligens sitter i hjertet av Kinas konkurranse med USA, og nøkkelen til det er datakraften inne i datasentrene her.",
@@ -151,24 +151,24 @@
       "score": 25
     },
     {
-      "id": "2161e1a61d2222",
-      "category": "Verden",
-      "published": "22.09. 21:06",
-      "publishedISO": "2026-09-22T21:06:06+02:00",
-      "title": "Ukraine anger as EU removes Russian oligarchs from sanctions list",
-      "summary": "Usmanov beskrives som å ha spesielt nære bånd til president Putin. Den europeiske union skal fjerne sanksjonene mot to oligarker som ble innført etter Russlands fullskala invasjon av Ukraina i 2022, ifølge rapporter, noe som førte til sinne i Ukraina. Latvia motsatte seg først avtalen, men gikk med på et kompromiss, hvorav en del innebar utvidelse av sanksjoner mot nesten 3000 andre individer og enheter i tre år. Kreml-talsperson Dmitrij Peskov ønsket tidligere at de to oligarkene skulle bli tatt av listen, og hevdet at EUs sanksjoner var ulovlige og at alle russere burde fjernes.",
+      "id": "e81703d7f94b6c",
+      "category": "AI",
+      "published": "23.09. 01:03",
+      "publishedISO": "2026-09-23T01:03:48+02:00",
+      "title": "Data centres: Developers hope fibre optics will cut power use",
+      "summary": "Datasentre bruker enorme mengder kobber i elektriske systemer og datasystemer \"Jeg tror vi er på slutten av kobber,\" sier Chris Sharp, teknologisjef hos datasenteroperatøren Digital Reality. Datasentre bruker enorme mengder av metallet: rundt 400 tonn, eksternt vil gå inn i typiske anlegg på rundt 100MW (datasenterstørrelse er målt megawatt, en enhet av elektrisk kraft). Men forskere og bedrifter ønsker å utvide bruken av fiber til inne i datasenteret.",
       "keyPoints": [
-        "Usmanov beskrives som å ha spesielt nære bånd til president Putin. Den europeiske union skal fjerne sanksjonene mot to oligarker som ble innført etter Russlands fullskala invasjon av Ukraina i 2022, ifølge rapporter, noe som førte til sinne i Ukraina.",
-        "Kreml-talsperson Dmitrij Peskov ønsket tidligere at de to oligarkene skulle bli tatt av listen, og hevdet at EUs sanksjoner var ulovlige og at alle russere burde fjernes.",
-        "Latvia motsatte seg først avtalen, men gikk med på et kompromiss, hvorav en del innebar utvidelse av sanksjoner mot nesten 3000 andre individer og enheter i tre år.",
-        "EU frøs eiendeler hans i 2022, og beskrev ham som \"en pro-Kreml-oligark med spesielt nære bånd til Russlands president Vladimir Putin\"."
+        "Datasentre bruker enorme mengder av metallet: rundt 400 tonn, eksternt vil gå inn i typiske anlegg på rundt 100MW (datasenterstørrelse er målt megawatt, en enhet av elektrisk kraft).",
+        "Datasentre bruker enorme mengder kobber i elektriske systemer og datasystemer \"Jeg tror vi er på slutten av kobber,\" sier Chris Sharp, teknologisjef hos datasenteroperatøren Digital Reality.",
+        "Men forskere og bedrifter ønsker å utvide bruken av fiber til inne i datasenteret.",
+        "Det er små nyanser i hvordan man strukturerer det.\" Fiberoptikkkabler genererer lite varme sammenlignet med kobbertråder Til syvende og sist kan fordelene med optisk nettverk bare realiseres fullt ut når lys brukes til ikke bare å bære data, men også til å behandle dem, sier Ofer Shapiro, administrerende direktør i det optiske selskapet Resolight.ai."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6dj4k98107do",
+      "url": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9373/live/8fd92fe0-b6b4-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/2161e1a61d2222.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7f83/live/bddd95b0-a12a-11f1-aed2-8d6da8d75094.jpg",
+      "localImage": "assets/news/e81703d7f94b6c.jpg",
       "score": 17
     },
     {
@@ -193,25 +193,25 @@
       "score": 15
     },
     {
-      "id": "1e880c14af4028",
+      "id": "8f6b1dabac62c5",
       "category": "Økonomi",
-      "published": "22.09. 10:13",
-      "publishedISO": "2026-09-22T10:13:58+02:00",
-      "title": "I Norge har vi ingen tid å miste. Men Ukraina har kjøpt oss tid.",
-      "summary": "Jeg er usikker på om vi eller andre bedrifter i Norge har en slik liste liggende klar. Vi snakket ikke kun om beredskap, men om hva som forventes av oss i Norge når kriser og kriger varer, ikke i uker, men år. Norge kommer ikke til å kunne etablere noe lignende over natten, men vi kan gjøre noe.",
+      "published": "22.09. 15:32",
+      "publishedISO": "2026-09-22T15:32:11+02:00",
+      "title": "Nasdaq setter ny rekord igjen",
+      "summary": "Forvalterne knyttet mandagens rekord på teknologiindeksen til optimisme rundt kunstig intelligens (AI) i tillegg til en nedgang i oljeprisen. Slik lå det an med de viktigste indeksene ved stengetid klokken 22 norsk tid: Flere teknologiaksjer har gjort det bra denne uken, etter en «ruglete periode». – Vi hører om positive samtaler mellom USA og Kina rundt utviklingen av AI. Selskapet har i det siste ligget tett opp under en markedsverdi på 5.000 milliarder dollar, en verdi det også var oppe i tidligere i år.",
       "keyPoints": [
-        "Vi snakket ikke kun om beredskap, men om hva som forventes av oss i Norge når kriser og kriger varer, ikke i uker, men år.",
-        "Jeg er usikker på om vi eller andre bedrifter i Norge har en slik liste liggende klar.",
-        "Norge kommer ikke til å kunne etablere noe lignende over natten, men vi kan gjøre noe.",
-        "Da er du enten kvinne, over 60 år, eller du innehar en kritisk stilling i en bedrift hvis drift er viktig å opprettholde i krise eller krig."
+        "Forvalterne knyttet mandagens rekord på teknologiindeksen til optimisme rundt kunstig intelligens (AI) i tillegg til en nedgang i oljeprisen.",
+        "Slik lå det an med de viktigste indeksene ved stengetid klokken 22 norsk tid: Flere teknologiaksjer har gjort det bra denne uken, etter en «ruglete periode». – Vi hører om positive samtaler mellom USA og Kina rundt utviklingen av AI.",
+        "Selskapet har i det siste ligget tett opp under en markedsverdi på 5.000 milliarder dollar, en verdi det også var oppe i tidligere i år.",
+        "Nvidia er fortsatt noe mer verdt enn Apple, med en markedsverdi på om lag 5.500 milliarder dollar."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/wroR6o/i-norge-har-vi-ingen-tid-aa-miste-men-ukraina-har-kjoept-oss-tid",
+      "url": "https://e24.no/boers-og-finans/i/JOdvO7/wall-street-stiger-videre",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/23fad7fc-fdea-3c5b-a96f-089851d089a0?fit=crop&h=675&upscale=true&w=1200&s=8790db08b7ffeb68046f5ce30d05f6ca6850a950",
-      "localImage": "assets/news/1e880c14af4028.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/487f5bc9-e761-3871-930e-4cf86674b328?fit=crop&h=675&upscale=true&w=1200&s=e2c16ca3a103bcaa637e08d2dd52353b9cd7dc23",
+      "localImage": "assets/news/8f6b1dabac62c5.jpg",
+      "score": 14
     }
   ]
 }
