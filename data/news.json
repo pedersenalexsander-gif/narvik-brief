@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.09.2026 kl. 02:56",
-  "updatedISO": "2026-09-24T02:56:05.886531+02:00",
+  "updatedAt": "24.09.2026 kl. 07:56",
+  "updatedISO": "2026-09-24T07:56:21.190310+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/lNXKuZkcUC6i-3RWgAXDpAqkBTMFm6HtpnJrlHG1sq5A.jpg",
       "localImage": "assets/news/90b2ebae90744d.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "6a6ad515c75f9b",
@@ -43,28 +43,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0796/live/9166c030-b721-11f1-b1d1-571ed4d7ff2c.jpg",
       "localImage": "assets/news/6a6ad515c75f9b.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "0197fece2b993a",
+      "id": "ae7c4e6251ae88",
       "category": "USA",
-      "published": "23.09. 23:30",
-      "publishedISO": "2026-09-23T23:30:22+02:00",
-      "title": "FBI investigates apparent breach of its employee database by hackers",
-      "summary": "FBI sier at de etterforsker et rapportert brudd på systemet etter at en nettkriminalitetsgruppe hevdet å ha stjålet sensitiv informasjon om tusenvis av byråpersonell. Hackerne, Shiny Hunters, sier at de nå har private data om alle byråansatte - rundt 38 000 personer - inkludert alle som søkte om å bli med i etterforskningsbyrået. Gruppen hevder å ha funnet en sårbarhet i Oracle-skylagringssystemet brukt av FBI for å bryte flere systemer, inkludert FBIJOBS, FBI BEAST, som gjør bakgrunnssjekker av ansatte og søkere, FBI MedLink, som har agentens medisinske journaler og FBI BICS, som har etterforskningsinformasjon.",
+      "published": "24.09. 02:43",
+      "publishedISO": "2026-09-24T02:43:53+02:00",
+      "title": "Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says",
+      "summary": "Fungerende marinesekretær Hung Cao har sagt at åtte besetningsmedlemmer som ble tildelt USS Abraham Lincoln-angrepsgruppen forsøkte selvmord under deres lange utplassering. Han sa at de åtte sjømennene inkluderte \"Lincoln-mannskapet og seilere fra flyvevingen, streikegruppen og ødeleggerskvadronens stab, eskorterende destroyere og alle ombordværende luftfartsskvadroner\". Hvis du eller noen du kjenner har blitt berørt av problemene som er tatt opp i denne artikkelen, er detaljer om organisasjoner som tilbyr informasjon tilgjengelig på BBC Action Line, eller du kan ringe US Suicide and Crisis Lifeline på 988. 'Et flytende fengsel' - sjømenn beskriver livet på krigsskip som USS Abraham Lincoln. Forhold på amerikansk hangarskip til sjøs i mer enn 250 dager vekker alarm",
       "keyPoints": [
-        "Gruppen hevder å ha funnet en sårbarhet i Oracle-skylagringssystemet brukt av FBI for å bryte flere systemer, inkludert FBIJOBS, FBI BEAST, som gjør bakgrunnssjekker av ansatte og søkere, FBI MedLink, som har agentens medisinske journaler og FBI BICS, som har etterforskningsinformasjon.",
-        "FBI sier at de etterforsker et rapportert brudd på systemet etter at en nettkriminalitetsgruppe hevdet å ha stjålet sensitiv informasjon om tusenvis av byråpersonell.",
-        "Hackerne, Shiny Hunters, sier at de nå har private data om alle byråansatte - rundt 38 000 personer - inkludert alle som søkte om å bli med i etterforskningsbyrået.",
-        "FBIs kunngjøring om offentlig tjeneste beskrev ShinyHunters som \"trusselaktører\" som ofte \"bruker sine reelle eller overdrevne påstander om tilgang til sensitiv eller personlig informasjon for å be om betaling fra ofre\". \"De retter seg mot store selskaper på tvers av teknologi, finans og detaljhandel, og stjeler ofte millioner av kundeposter på en gang,\" sa rådgiveren."
+        "Fungerende marinesekretær Hung Cao har sagt at åtte besetningsmedlemmer som ble tildelt USS Abraham Lincoln-angrepsgruppen forsøkte selvmord under deres lange utplassering.",
+        "Hvis du eller noen du kjenner har blitt berørt av problemene som er tatt opp i denne artikkelen, er detaljer om organisasjoner som tilbyr informasjon tilgjengelig på BBC Action Line, eller du kan ringe US Suicide and Crisis Lifeline på 988. 'Et flytende fengsel' - sjømenn beskriver livet på krigsskip som USS Abraham Lincoln. Forhold på amerikansk hangarskip til sjøs i mer enn 250 dager vekker alarm",
+        "Han sa at de åtte sjømennene inkluderte \"Lincoln-mannskapet og seilere fra flyvevingen, streikegruppen og ødeleggerskvadronens stab, eskorterende destroyere og alle ombordværende luftfartsskvadroner\".",
+        "Amerikanske seilere går på shopping før de treffer barene i Thailand etter 250-dagers seilas. Amerikanske sjømenn ankommer Thailands Pattaya etter rekordhøye 250 dager til sjøs. Selvmord er fortsatt en ledende dødsårsak i US Navy and Marines, ifølge en analyse av militærdata fra USNI News, mens veteraner har høyere selvmordsrate enn amerikanere som ikke har tjenestegjort i militæradministrasjonen."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9n74574elljo",
+      "url": "https://www.bbc.co.uk/news/articles/cr3wj0px283xo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6dff/live/04222c60-b793-11f1-a7dc-51a9fb487fda.jpg",
-      "localImage": "assets/news/0197fece2b993a.jpg",
-      "score": 13
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ac2/live/94a8bed0-b7b0-11f1-90db-7b495a17b701.jpg",
+      "localImage": "assets/news/ae7c4e6251ae88.jpg",
+      "score": 16
     },
     {
       "id": "2c7b0345962731",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d89344cb-63f0-3d73-a5db-baa685859c81?fit=crop&h=675&upscale=true&w=1200&s=98a289ef2d21680d604c3468434a93e259110e5f",
       "localImage": "assets/news/2c7b0345962731.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "21f9977ca5b62c",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/08005e82-7d74-3f54-bb86-284df8503b8a?fit=crop&h=675&upscale=true&w=1200&s=5a21dd99a17ade799c41a11420e1b9dcd85a3338",
       "localImage": "assets/news/21f9977ca5b62c.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "6c5d846edbcfeb",
@@ -127,13 +127,34 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg",
       "localImage": "assets/news/6c5d846edbcfeb.jpg",
-      "score": 29
+      "score": 28
+    },
+    {
+      "id": "e4acb7aecb2fe2",
+      "category": "AI",
+      "published": "24.09. 07:18",
+      "publishedISO": "2026-09-24T07:18:26+02:00",
+      "title": "What you need to know about the OpenAI Australian government hack",
+      "summary": "En useriøs OpenAI-agent har hacket et australsk regjeringsnettsted, sa statsminister Anthony Albanese. Hva du trenger å vite om OpenAI Australian Government Hack. Video, 00:01:01Hva du trenger å vite om OpenAI Australian Government Hack Up Next.",
+      "keyPoints": [
+        "Video, 00:01:01What you need to know about the OpenAI Australian government hack Up Next.",
+        "A rogue OpenAI agent has hacked an Australian government website, Prime Minister Anthony Albanese said.",
+        "BBCs Nord-Amerika teknologikorrespondent Lily Jamali forklarer hva du trenger å vite om bruddet, og hvorfor det er viktig.",
+        "Video, 00:01:07Sjeldent blikk på de avsidesliggende maskinrommene som gir næring til Kinas AI-boom. Kan AI utslette mennesker og hvordan kan det gjøre det?"
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb5/live/f0712fb0-b7d6-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/e4acb7aecb2fe2.jpg",
+      "score": 22
     },
     {
       "id": "f97ce9ec24a12c",
       "category": "AI",
-      "published": "24.09. 02:28",
-      "publishedISO": "2026-09-24T02:28:46+02:00",
+      "published": "24.09. 05:22",
+      "publishedISO": "2026-09-24T05:22:54+02:00",
       "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
       "summary": "Albanese sa at det tok \"for lang tid\" for OpenAI å informere australske tjenestemenn om bruddet i juni. En kunstig intelligens-agent utviklet av OpenAI \"infiltrerte\" et australsk regjeringsnettsted i juni, har statsminister Anthony Albanese sagt. Han hadde en \"veldig ærlig diskusjon\" med OpenAI-sjef Sam Altman fordi han tok \"for lang tid\" på å fortelle dem om bruddet, som antas å være en av verdens første offentlig rapporterte AI-ledede hacks av et statlig nettsted. Albanese sa at bruddet skjedde i juni i år, men OpenAI informerte kun Services Australia – det nasjonale knutepunktet som leder brukere på tvers av offentlige tjenester – via e-post 10. september.",
       "keyPoints": [
@@ -169,49 +190,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1ba/live/c4418760-b64a-11f1-bc1f-3f186ca4140c.jpg",
       "localImage": "assets/news/2fa46081f16398.jpg",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "29d49926d68eff",
-      "category": "Verden",
-      "published": "23.09. 20:15",
-      "publishedISO": "2026-09-23T20:15:31+02:00",
-      "title": "Irans president sier til Trump at den aldri vil \"bøye kneet\"",
-      "summary": "President Masoud Pezeshkian har sagt at Iran aldri vil \"bøye kneet\" etter nesten syv måneders krig med USA og Israel, men er klar for en diplomatisk løsning på konflikten. USA og Iran holder første samtaler siden juni etter Trumps «utslettelse»-trussel Amerikansk makt, AI og en walkout - nøkkeløyeblikk fra Trumps FN-tale FN-eksperter sier grunn til å tro at USA begikk krigsforbrytelser i Iran-angrep \"Den amerikanske presidenten beskrev oss som terrorister. Han gjentok også at Iran ikke vil gi opp sin rett til å ha et sivilt atomvåpenprogram og at det klart ikke vil si at vi ikke vil utvikle kjernefysisk program og at det ikke klart vil si det. atomvåpen og ingen begrensninger på fredelig kjernefysisk teknologi.\" Trump argumenterte i talen sin at krigen hadde forhindret Iran fra å skaffe en atombombe og krevde at lederne skulle \"gi fra seg sine atomambisjoner\".",
+      "id": "7d0922a19f000c",
+      "category": "Norge",
+      "published": "24.09. 05:24",
+      "publishedISO": "2026-09-24T05:24:07+02:00",
+      "title": "Hun er spent på renteavgjørelsen – merker at den biter",
+      "summary": "Bussjåføren har fortalt bladet FriFagbevegelse om hvordan høye renter og økende matpriser gjør at hun tviler på at hun får bedre råd det neste året. Hun kjenner seg ikke igjen i at folk skal ha fått mer å rutte med. – Jeg vil heller si at jeg har fått dårligere råd siste fem–seks årene. Når hun hører NRKs spørsmål, blir det også humring – selv om hun kanskje ikke egentlig synes det er så veldig morsomt. – Hvordan reagerer du når politikerne sier at folk har fått bedre råd? – Ja, da lurer jeg på hvem i grunnen det er snakk om.",
       "keyPoints": [
-        "President Masoud Pezeshkian har sagt at Iran aldri vil \"bøye kneet\" etter nesten syv måneders krig med USA og Israel, men er klar for en diplomatisk løsning på konflikten.",
-        "USA og Iran har de første samtalene siden juni etter Trumps «utslettelse»-trussel Amerikansk makt, AI og en walkout – nøkkeløyeblikk fra Trumps FN-tale FN-eksperter sier grunn til å tro at USA begikk krigsforbrytelser i Iran-angrep «Den amerikanske presidenten beskrev oss som terrorister.",
-        "Han gjentok også at Iran ikke vil gi opp sin rett til å ha et sivilt atomprogram og at det ikke vil søke å utvikle atomvåpen. \"Vi sier det tydelig: ingen atomvåpen og ingen begrensninger på fredelig atomteknologi.\" Trump hevdet i sin tale at krigen hadde forhindret Iran i å skaffe seg en atombombe og krevde at dets ledere skulle «gi fra seg sine atomambisjoner».",
-        "Se: Trump truer med å «utslette» Iran hvis ingen avtale oppnås I sin tale til FNs generalforsamling tirsdag sa Trump at han sto overfor en «stor avgjørelse» – enten forhandle frem en avtale som vil tillate iranere å gjenoppbygge landet sitt, eller «utslette den islamske republikken og gjøre det raskt»."
+        "Hun kjenner seg ikke igjen i at folk skal ha fått mer å rutte med. – Jeg vil heller si at jeg har fått dårligere råd siste fem–seks årene.",
+        "Bussjåføren har fortalt bladet FriFagbevegelse om hvordan høye renter og økende matpriser gjør at hun tviler på at hun får bedre råd det neste året.",
+        "Når hun hører NRKs spørsmål, blir det også humring – selv om hun kanskje ikke egentlig synes det er så veldig morsomt. – Hvordan reagerer du når politikerne sier at folk har fått bedre råd? – Ja, da lurer jeg på hvem i grunnen det er snakk om.",
+        "Hun reiser mindre til utlandet, og spiser sjeldnere ute."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg",
-      "localImage": "assets/news/29d49926d68eff.jpg",
-      "score": 16
-    },
-    {
-      "id": "839f5815d69e3f",
-      "category": "Økonomi",
-      "published": "23.09. 19:03",
-      "publishedISO": "2026-09-23T19:03:14+02:00",
-      "title": "17 økonomer: Slik blir renten de neste årene",
-      "summary": "Hvis du håper på mange rentekutt de neste årene, kan du fort bli skuffet. Selv om mange økonomer er usikre på hva Norges Bank vil gjøre denne uken, tror flere at renten settes opp til 4,5 prosent enten nå eller senere i år. – Prisveksten er den viktige faktoren, både nå og fremover. Selv om renten nå er høyere enn det mange har vendt seg til de siste 10–15 årene, kan dagens nivåer ha kommet for å bli.",
-      "keyPoints": [
-        "Selv om mange økonomer er usikre på hva Norges Bank vil gjøre denne uken, tror flere at renten settes opp til 4,5 prosent enten nå eller senere i år. – Prisveksten er den viktige faktoren, både nå og fremover.",
-        "Selv om renten nå er høyere enn det mange har vendt seg til de siste 10–15 årene, kan dagens nivåer ha kommet for å bli.",
-        "Hvis du håper på mange rentekutt de neste årene, kan du fort bli skuffet.",
-        "For at renten skal kuttes må den komme klart under tretallet gjennom neste år, mener Kjersti Haugland. – Gjør den ikke det, vil det ikke ligge an til rentekutt, sier hun."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/2papQv/17-oekonomer-slik-blir-renten-de-neste-aarene",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c530d2bb-0652-3540-b398-635f3c5798af?fit=crop&h=675&upscale=true&w=1200&s=eb7418827498ebfbdd2e0e5aba0e4c1c00a443f9",
-      "localImage": "assets/news/839f5815d69e3f.jpg",
-      "score": 16
+      "url": "https://www.nrk.no/norge/spenning-for-rentemote-_-mange-merker-at-pengene-ikke-strekker-til-som-for-1.18034645",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/S3ubD0GNjIcosbeUoUFoNAoFoZ3W6sPz48X-qsqRiG9Q.jpg",
+      "localImage": "assets/news/7d0922a19f000c.webp",
+      "score": 17
     }
   ]
 }
