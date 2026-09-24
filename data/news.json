@@ -1,28 +1,49 @@
 {
-  "updatedAt": "24.09.2026 kl. 07:56",
-  "updatedISO": "2026-09-24T07:56:21.190310+02:00",
+  "updatedAt": "24.09.2026 kl. 13:14",
+  "updatedISO": "2026-09-24T13:14:38.414533+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "90b2ebae90744d",
-      "category": "Norge",
-      "published": "23.09. 14:59",
-      "publishedISO": "2026-09-23T14:59:30+02:00",
-      "title": "Misha (11) går på to skole i to land",
-      "summary": "I fem år har Misha gått på skole i både Norge og Ukraina. For mens vennene bare går på skole i Norge, har Misha i fem år fulgt skoleløp i to land samtidig. Derfor er mange usikre på hvor lenge de får bli, og om de må tilbake til Ukraina, sier Libe Rieber-Mohn, direktør i IMDi. – En del foreldre forsøker å helgardere seg ved at barna både går i norsk skole og følger ukrainsk undervisning, sier Libe Rieber-Mohn, direktør i IMDi.",
+      "id": "092a3e6295bf72",
+      "category": "Nord-Norge",
+      "published": "24.09. 09:29",
+      "publishedISO": "2026-09-24T09:29:44+02:00",
+      "title": "Fylkestopper hardt ut mot foreslåtte ambulansekutt: – Nei, nei og atter nei",
+      "summary": "Det gjør de i en felles uttalelse med overskriften; «Nei, nei og atter nei.» – De skal selvfølgelig få tilpasse budsjettene til økonomien, men det er jo ikke på de prehospitale tjenestene, de tjenestene som er nærmest folk, at kuttene bør gjøres, sier gruppeleder fro Høyre Stig Tore Skogsholm til NRK. Nordlandssykehuset har store økonomiske utfordringer og styrer mot et underskudd på 120 millioner kroner i år. Nå foreslås disse strakstiltakene for å spare penger: *Nedleggelse av ambulansestasjonen på Tverlandet i Bodø og omgjøring av døgnbil til dagbil *Nedleggelse av ambulansestasjonen på Åse i Andøy kommune – Jeg registrerer jo at man argumenterer med at det er vanskelig å få til bemanning, men vi legger jo ikke ned båtruter fordi det er vanskelig å bemanne dem, sier Skogsholm.",
       "keyPoints": [
-        "For mens vennene bare går på skole i Norge, har Misha i fem år fulgt skoleløp i to land samtidig.",
-        "Derfor er mange usikre på hvor lenge de får bli, og om de må tilbake til Ukraina, sier Libe Rieber-Mohn, direktør i IMDi. – En del foreldre forsøker å helgardere seg ved at barna både går i norsk skole og følger ukrainsk undervisning, sier Libe Rieber-Mohn, direktør i IMDi.",
-        "I fem år har Misha gått på skole i både Norge og Ukraina.",
-        "Og noen ganger ble jeg veldig sliten etter ukrainsk skole, sier Misha."
+        "Det gjør de i en felles uttalelse med overskriften; «Nei, nei og atter nei.» – De skal selvfølgelig få tilpasse budsjettene til økonomien, men det er jo ikke på de prehospitale tjenestene, de tjenestene som er nærmest folk, at kuttene bør gjøres, sier gruppeleder fro Høyre Stig Tore Skogsholm til NRK.",
+        "Nå foreslås disse strakstiltakene for å spare penger: *Nedleggelse av ambulansestasjonen på Tverlandet i Bodø og omgjøring av døgnbil til dagbil *Nedleggelse av ambulansestasjonen på Åse i Andøy kommune – Jeg registrerer jo at man argumenterer med at det er vanskelig å få til bemanning, men vi legger jo ikke ned båtruter fordi det er vanskelig å bemanne dem, sier Skogsholm.",
+        "Nordlandssykehuset har store økonomiske utfordringer og styrer mot et underskudd på 120 millioner kroner i år.",
+        "Klinikksjef ved Nordlandssykehuset, Arne Johansen, har uttalt at han forstår reaksjonene fra politikerne. – Samtidig så har vi et nødvendig ansvar for å forsikre oss om at vi har en bærekraftig ambulansetjeneste, også for fremtiden, sa Johansen til NRK."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/fylkestopper-hardt-ut-mot-foreslatte-ambulansekutt_-_-nei_-nei-og-atter-nei-1.18035089",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/DNveohOXeDITuXaN-dvyKQ_gMvhAFhmyf7mpdjvsMXCQ.jpg",
+      "localImage": "assets/news/092a3e6295bf72.jpg",
+      "score": 13
+    },
+    {
+      "id": "40f90c81f5c0e0",
+      "category": "Norge",
+      "published": "24.09. 07:59",
+      "publishedISO": "2026-09-24T07:59:30+02:00",
+      "title": "Slik brukar Kina velkomsten Xi fekk av Trump som propagandamat",
+      "summary": "Xi Jinping fekk ei sjeldan personleg mottaking av Donald Trump. Propagandamaskina til Kina kunne berre smashe inn sigeren. – Drog Trump faktisk for å ta imot han på flyplassen personleg? Russlands president Vladimir Putin fekk også personleg helsing av Trump då han landa på Joint Base Elmendorf-Richardson 15. august i fjor.",
+      "keyPoints": [
+        "Russlands president Vladimir Putin fekk også personleg helsing av Trump då han landa på Joint Base Elmendorf-Richardson 15. august i fjor.",
+        "Propagandamaskina til Kina kunne berre smashe inn sigeren. – Drog Trump faktisk for å ta imot han på flyplassen personleg?",
+        "Xi Jinping fekk ei sjeldan personleg mottaking av Donald Trump.",
+        "Folka rundt Trump i Det kvite hus tenkte kanskje at Xi kunne bli fornærma om han ikkje får same behandling som Putin fekk i Alaska for eitt år sidan."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/mange-ukrainske-barn-gar-bade-pa-norsk-og-ukrainsk-skole-1.18023959",
+      "url": "https://www.nrk.no/urix/slik-brukar-kina-velkomsten-xi-fekk-av-trump-som-propagandamat-1.18031733",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/lNXKuZkcUC6i-3RWgAXDpAqkBTMFm6HtpnJrlHG1sq5A.jpg",
-      "localImage": "assets/news/90b2ebae90744d.jpg",
-      "score": 18
+      "image": "https://gfx.nrk.no/cPCIQwozFo4M3TOoTIuukgbvno0x_vtHdy651ILkFVLg.jpg",
+      "localImage": "assets/news/40f90c81f5c0e0.jpg",
+      "score": 20
     },
     {
       "id": "6a6ad515c75f9b",
@@ -43,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0796/live/9166c030-b721-11f1-b1d1-571ed4d7ff2c.jpg",
       "localImage": "assets/news/6a6ad515c75f9b.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "ae7c4e6251ae88",
@@ -64,49 +85,49 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3ac2/live/94a8bed0-b7b0-11f1-90db-7b495a17b701.jpg",
       "localImage": "assets/news/ae7c4e6251ae88.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "2c7b0345962731",
+      "id": "e7fb432d7771b0",
       "category": "Økonomi",
-      "published": "23.09. 16:11",
-      "publishedISO": "2026-09-23T16:11:11+02:00",
-      "title": "Kan Trump og Xi gi Norge en tollpause?",
-      "summary": "Men akkurat nå har Norge og diktaturet Kina noe til felles. Granskingen kan ende med enda mer toll, på toppen av tilleggstollen på 12,5 prosent som Norge ble ilagt i sommer. Blir Trump og Xi enige om å dempe tollkrigen, kan Norge også tjene på det.",
+      "published": "24.09. 10:07",
+      "publishedISO": "2026-09-24T10:07:58+02:00",
+      "title": "Kronesvingninger etter rentebeslutning",
+      "summary": "Like etter at Norges Bank hevet renten til 4,5 prosent svinger kroneverdien noe mot de største valutaene. Etter noen minutter styrket krona seg med om lag 2 øre mot både dollaren og euroen. En dollar koster nå 9,47 kroner, og en euro koster 10,78 kroner.",
       "keyPoints": [
-        "Blir Trump og Xi enige om å dempe tollkrigen, kan Norge også tjene på det.",
-        "Granskingen kan ende med enda mer toll, på toppen av tilleggstollen på 12,5 prosent som Norge ble ilagt i sommer.",
-        "Men akkurat nå har Norge og diktaturet Kina noe til felles.",
-        "Donald Trump og Xi Jinping tenker neppe på vårt lille land når de treffes i Washington D.C. torsdag."
+        "Like etter at Norges Bank hevet renten til 4,5 prosent svinger kroneverdien noe mot de største valutaene.",
+        "En dollar koster nå 9,47 kroner, og en euro koster 10,78 kroner.",
+        "Etter noen minutter styrket krona seg med om lag 2 øre mot både dollaren og euroen.",
+        "Norges Bank har spådd 113,2 for 2026 og 112 for årene som kommer."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/9pa6Kq/kan-trump-og-xi-gi-norge-en-tollpause",
+      "url": "https://e24.no/norsk-oekonomi/i/V6npdV/krona-styrker-seg-etter-rentebeslutning",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d89344cb-63f0-3d73-a5db-baa685859c81?fit=crop&h=675&upscale=true&w=1200&s=98a289ef2d21680d604c3468434a93e259110e5f",
-      "localImage": "assets/news/2c7b0345962731.jpg",
-      "score": 18
+      "image": "https://akamai.vgc.no/v2/images/b515437d-61ab-320e-b454-6fa03fdc9f67?fit=crop&h=675&upscale=true&w=1200&s=14c453ecaf27159f7247f6d4a5e1099e85dd0436",
+      "localImage": "assets/news/e7fb432d7771b0.jpg",
+      "score": 22
     },
     {
-      "id": "21f9977ca5b62c",
+      "id": "68a6a7e3ce1aad",
       "category": "Økonomi",
-      "published": "23.09. 09:01",
-      "publishedISO": "2026-09-23T09:01:47+02:00",
-      "title": "Nordic Mining raste på Oslo Børs",
-      "summary": "Tirsdag meldte styret i Nordic Mining at de vil foreslå en restrukturering av selskapet. Nordic Mining har tidligere varslet at det har slitt med å få produksjonen opp på forventet nivå, og at det bare har finansiering frem til midten av oktober. Prisen per aksje var på 90 kroner, 18 prosent under prisen på 110 kroner før emisjonen ble varslet. – Finansieringen gjør at vi kan basere foreløpige resultater fra fase 2-studien i eggstokkreft på et større og mer modent datagrunnlag, og gå videre med forberedelsene til fase 3, sier konsernsjef Øystein Soug.",
+      "published": "24.09. 10:00",
+      "publishedISO": "2026-09-24T10:00:03+02:00",
+      "title": "Norges Bank hever renten til 4,5 prosent",
+      "summary": "Helt direkte gjelder styringsrenten for bankers innskudd hos Norges Bank. med 0,25 prosentpoeng til 4,5 prosent. – Prisveksten har ligget over målet i flere år. Renten ble satt opp også i mai, og på møtene i etterkant signaliserte Norges Bank at det var aktuelt å sette den videre opp. – På rentemøtet i juni mente vi at det trolig ville bli nødvendig å heve renten på et av de nærmeste rentemøtene. Det er kjerneinflasjonen Norges Bank er mest opptatt av når de setter renten. var tre prosent i august, og har ligget rundt det nivået i flere år.",
       "keyPoints": [
-        "Tirsdag meldte styret i Nordic Mining at de vil foreslå en restrukturering av selskapet.",
-        "Nordic Mining har tidligere varslet at det har slitt med å få produksjonen opp på forventet nivå, og at det bare har finansiering frem til midten av oktober.",
-        "Prisen per aksje var på 90 kroner, 18 prosent under prisen på 110 kroner før emisjonen ble varslet. – Finansieringen gjør at vi kan basere foreløpige resultater fra fase 2-studien i eggstokkreft på et større og mer modent datagrunnlag, og gå videre med forberedelsene til fase 3, sier konsernsjef Øystein Soug.",
-        "Oljeprisen er oppe i godt over 101 dollar ved stengetid, fra 99 dollar fatet ved stenging tirsdag."
+        "Helt direkte gjelder styringsrenten for bankers innskudd hos Norges Bank. med 0,25 prosentpoeng til 4,5 prosent. – Prisveksten har ligget over målet i flere år.",
+        "Det er kjerneinflasjonen Norges Bank er mest opptatt av når de setter renten. var tre prosent i august, og har ligget rundt det nivået i flere år.",
+        "Renten ble satt opp også i mai, og på møtene i etterkant signaliserte Norges Bank at det var aktuelt å sette den videre opp. – På rentemøtet i juni mente vi at det trolig ville bli nødvendig å heve renten på et av de nærmeste rentemøtene.",
+        "Det var stor spenning knyttet til om Norges Bank ville sette opp renten enda en gang nå, eller avvente."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/M7095m/oslo-boers-aapner-ned",
+      "url": "https://e24.no/norsk-oekonomi/i/oEo1GW/norges-bank-hever-renten-til-4-5-prosent",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/08005e82-7d74-3f54-bb86-284df8503b8a?fit=crop&h=675&upscale=true&w=1200&s=5a21dd99a17ade799c41a11420e1b9dcd85a3338",
-      "localImage": "assets/news/21f9977ca5b62c.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/4c131801-3176-3601-9134-78eeed64368f?fit=crop&h=675&upscale=true&w=1200&s=12c5bd75d4a1c94236613730cac19a171ef94e8f",
+      "localImage": "assets/news/68a6a7e3ce1aad.jpg",
+      "score": 22
     },
     {
       "id": "6c5d846edbcfeb",
@@ -127,7 +148,49 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg",
       "localImage": "assets/news/6c5d846edbcfeb.jpg",
-      "score": 28
+      "score": 27
+    },
+    {
+      "id": "23343ea9391cd2",
+      "category": "AI",
+      "published": "24.09. 09:10",
+      "publishedISO": "2026-09-24T09:10:58+02:00",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "summary": "Se: Hva du trenger å vite om OpenAI Australian Government Hack En useriøs OpenAI-agent hacket et australsk regjeringsnettsted i juni og fikk tilgang til private data i det eksperter sier er det første kjente tilfellet av sitt slag i verden. Agenten \"infiltrerte\" en statistikkportal som inneholder \"ikke-sensitive\" data fra Australias universelle helsevesen Medicare, sa statsminister Anthony Albanese i New York onsdag, lokal tid. OpenAI sa at de først fikk vite om bruddet i august mens de gjennomgikk «feiljustert modellaktivitet» og sendte en e-post til en generell innboks til et australsk myndighetsorgan 10. september.",
+      "keyPoints": [
+        "Se: Hva du trenger å vite om OpenAI Australian Government Hack En useriøs OpenAI-agent hacket et australsk regjeringsnettsted i juni og fikk tilgang til private data i det eksperter sier er det første kjente tilfellet av sitt slag i verden.",
+        "OpenAI sa at de først fikk vite om bruddet i august mens de gjennomgikk «feiljustert modellaktivitet» og sendte en e-post til en generell innboks til et australsk myndighetsorgan 10. september.",
+        "Agenten \"infiltrerte\" en statistikkportal som inneholder \"ikke-sensitive\" data fra Australias universelle helsevesen Medicare, sa statsminister Anthony Albanese i New York onsdag, lokal tid.",
+        "Den australske lederen sa at Altman hadde erkjent at det var \"problemer med protokoller\" ved OpenAI."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/23343ea9391cd2.jpg",
+      "score": 22
+    },
+    {
+      "id": "30e14c87b8cf6f",
+      "category": "Økonomi",
+      "published": "24.09. 09:30",
+      "publishedISO": "2026-09-24T09:30:14+02:00",
+      "title": "Den svenske sentralbanken holder styringsrenten uendret",
+      "summary": "Riksbanken holder styringsrenten i Sverige uendret på 1,75 prosent. I en pressemelding skriver Riksbanken at styringsrenten bør heves mer fremover enn hva som ble lagt til grunn i juni-prognosen, for at inflasjonen skal stabilisere seg rundt 2 prosent. Dersom utsiktene til høyere inflasjon og økonomisk vekst holder seg opp, forventer Riksbanken at hevingene vil starte i løpet av 2026.",
+      "keyPoints": [
+        "Riksbanken holder styringsrenten i Sverige uendret på 1,75 prosent.",
+        "I en pressemelding skriver Riksbanken at styringsrenten bør heves mer fremover enn hva som ble lagt til grunn i juni-prognosen, for at inflasjonen skal stabilisere seg rundt 2 prosent.",
+        "Dersom utsiktene til høyere inflasjon og økonomisk vekst holder seg opp, forventer Riksbanken at hevingene vil starte i løpet av 2026.",
+        "Den svenske kronen har svekket seg i løpet av sommeren, etter en kraftig oppsving i 2025."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/bOloKA/den-svenske-sentralbanken-holder-styringsrenten-uendret-paa-1-75-prosent",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/268dbcd3-807e-3206-9710-58e31a60f349?fit=crop&h=675&upscale=true&w=1200&s=c4e208ff397a27c9600770200e5a4295d905eed0",
+      "localImage": "assets/news/30e14c87b8cf6f.jpg",
+      "score": 22
     },
     {
       "id": "e4acb7aecb2fe2",
@@ -135,9 +198,9 @@
       "published": "24.09. 07:18",
       "publishedISO": "2026-09-24T07:18:26+02:00",
       "title": "What you need to know about the OpenAI Australian government hack",
-      "summary": "En useriøs OpenAI-agent har hacket et australsk regjeringsnettsted, sa statsminister Anthony Albanese. Hva du trenger å vite om OpenAI Australian Government Hack. Video, 00:01:01Hva du trenger å vite om OpenAI Australian Government Hack Up Next.",
+      "summary": "En useriøs OpenAI-agent har hacket et australsk regjeringsnettsted, sa statsminister Anthony Albanese. Hva du trenger å vite om OpenAI Australian Government Hack. Video, 00:01:02Hva du trenger å vite om OpenAI australske regjeringshack Up Next.",
       "keyPoints": [
-        "Video, 00:01:01What you need to know about the OpenAI Australian government hack Up Next.",
+        "Video, 00:01:02What you need to know about the OpenAI Australian government hack Up Next.",
         "A rogue OpenAI agent has hacked an Australian government website, Prime Minister Anthony Albanese said.",
         "BBCs Nord-Amerika teknologikorrespondent Lily Jamali forklarer hva du trenger å vite om bruddet, og hvorfor det er viktig.",
         "Video, 00:01:07Sjeldent blikk på de avsidesliggende maskinrommene som gir næring til Kinas AI-boom. Kan AI utslette mennesker og hvordan kan det gjøre det?"
@@ -148,70 +211,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/feb5/live/f0712fb0-b7d6-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/e4acb7aecb2fe2.jpg",
-      "score": 22
-    },
-    {
-      "id": "f97ce9ec24a12c",
-      "category": "AI",
-      "published": "24.09. 05:22",
-      "publishedISO": "2026-09-24T05:22:54+02:00",
-      "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
-      "summary": "Albanese sa at det tok \"for lang tid\" for OpenAI å informere australske tjenestemenn om bruddet i juni. En kunstig intelligens-agent utviklet av OpenAI \"infiltrerte\" et australsk regjeringsnettsted i juni, har statsminister Anthony Albanese sagt. Han hadde en \"veldig ærlig diskusjon\" med OpenAI-sjef Sam Altman fordi han tok \"for lang tid\" på å fortelle dem om bruddet, som antas å være en av verdens første offentlig rapporterte AI-ledede hacks av et statlig nettsted. Albanese sa at bruddet skjedde i juni i år, men OpenAI informerte kun Services Australia – det nasjonale knutepunktet som leder brukere på tvers av offentlige tjenester – via e-post 10. september.",
-      "keyPoints": [
-        "Albanese sa at det tok \"for lang tid\" for OpenAI å informere australske tjenestemenn om bruddet i juni. En kunstig intelligens-agent utviklet av OpenAI \"infiltrerte\" et australsk regjeringsnettsted i juni, har statsminister Anthony Albanese sagt.",
-        "Han hadde en \"veldig ærlig diskusjon\" med OpenAI-sjef Sam Altman fordi han tok \"for lang tid\" på å fortelle dem om bruddet, som antas å være en av verdens første offentlig rapporterte AI-ledede hacks av et statlig nettsted.",
-        "Albanese sa at bruddet skjedde i juni i år, men OpenAI informerte kun Services Australia – det nasjonale knutepunktet som leder brukere på tvers av offentlige tjenester – via e-post 10. september.",
-        "OpenAI sa at de først ble klar over hendelsen i august \"under en pågående gjennomgang\" av \"feiljustert modellaktivitet\", og fortalte australske tjenestemenn 10. september."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/f97ce9ec24a12c.jpg",
-      "score": 22
-    },
-    {
-      "id": "2fa46081f16398",
-      "category": "AI",
-      "published": "23.09. 00:03",
-      "publishedISO": "2026-09-23T00:03:48+02:00",
-      "title": "Rare look at the remote data centres powering China's AI ambitions",
-      "summary": "Hun forklarer hvordan holdningene er forskjellige mellom folk i Kina og USA når det gjelder datasenterindustrien, i forkant av lederne Xi Jinping og Donald Trumps møte i Washington senere denne uken. Sjeldent blikk på de avsidesliggende maskinrommene som gir næring til Kinas AI-boom. Video, 00:01:07Sjeldent blikk på de avsidesliggende maskinrommene som gir næring til Kinas AI-boom Up Next.",
-      "keyPoints": [
-        "Rare look at the remote engine rooms fuelling China's AI boom.",
-        "Hun forklarer hvordan holdningene er forskjellige mellom folk i Kina og USA når det gjelder datasenterindustrien, i forkant av lederne Xi Jinping og Donald Trumps møte i Washington senere denne uken.",
-        "BBCs Laura Bicker er i Indre Mongolia hvor dusinvis av kinesiske datasentre bygges, da landet har som mål å lede verden innen kunstig intelligens.",
-        "Video, 00:00:29Se: Seks år gammel jente fra Kina setter ny verdensrekord i Rubik's Cube Kina sensurerer videoer som viser dødelige oversvømmelser på grensen mellom Nepal og Tibet."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ejvv0leno",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d1ba/live/c4418760-b64a-11f1-bc1f-3f186ca4140c.jpg",
-      "localImage": "assets/news/2fa46081f16398.jpg",
-      "score": 20
-    },
-    {
-      "id": "7d0922a19f000c",
-      "category": "Norge",
-      "published": "24.09. 05:24",
-      "publishedISO": "2026-09-24T05:24:07+02:00",
-      "title": "Hun er spent på renteavgjørelsen – merker at den biter",
-      "summary": "Bussjåføren har fortalt bladet FriFagbevegelse om hvordan høye renter og økende matpriser gjør at hun tviler på at hun får bedre råd det neste året. Hun kjenner seg ikke igjen i at folk skal ha fått mer å rutte med. – Jeg vil heller si at jeg har fått dårligere råd siste fem–seks årene. Når hun hører NRKs spørsmål, blir det også humring – selv om hun kanskje ikke egentlig synes det er så veldig morsomt. – Hvordan reagerer du når politikerne sier at folk har fått bedre råd? – Ja, da lurer jeg på hvem i grunnen det er snakk om.",
-      "keyPoints": [
-        "Hun kjenner seg ikke igjen i at folk skal ha fått mer å rutte med. – Jeg vil heller si at jeg har fått dårligere råd siste fem–seks årene.",
-        "Bussjåføren har fortalt bladet FriFagbevegelse om hvordan høye renter og økende matpriser gjør at hun tviler på at hun får bedre råd det neste året.",
-        "Når hun hører NRKs spørsmål, blir det også humring – selv om hun kanskje ikke egentlig synes det er så veldig morsomt. – Hvordan reagerer du når politikerne sier at folk har fått bedre råd? – Ja, da lurer jeg på hvem i grunnen det er snakk om.",
-        "Hun reiser mindre til utlandet, og spiser sjeldnere ute."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/spenning-for-rentemote-_-mange-merker-at-pengene-ikke-strekker-til-som-for-1.18034645",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/S3ubD0GNjIcosbeUoUFoNAoFoZ3W6sPz48X-qsqRiG9Q.jpg",
-      "localImage": "assets/news/7d0922a19f000c.webp",
-      "score": 17
+      "score": 21
     }
   ]
 }
