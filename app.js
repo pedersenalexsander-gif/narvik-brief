@@ -3,11 +3,659 @@ let profiles = load();
 let selectedPeriod = "all";
 const $ = (s) => document.querySelector(s);
 const dialog = $("#profileDialog");
+const DEFAULT_PROFILES = [
+  {
+    "id": "seed-1",
+    "name": "Auto-Pluss AS - Sandeid/ MECA",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 90,
+    "date": "2026-09-25",
+    "notes": "",
+    "createdAt": 1790337600000
+  },
+  {
+    "id": "seed-2",
+    "name": "Auto-Pluss AS Haugesund/ MECA",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 50,
+    "date": "2026-09-24",
+    "notes": "",
+    "createdAt": 1790251200001
+  },
+  {
+    "id": "seed-3",
+    "name": "Sørlandets Bilverksted",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 43,
+    "date": "2026-09-24",
+    "notes": "",
+    "createdAt": 1790251200002
+  },
+  {
+    "id": "seed-4",
+    "name": "Huset Kafé Raufoss",
+    "category": "kafe",
+    "producer": "Alex",
+    "minutes": 12,
+    "date": "2026-09-22",
+    "notes": "",
+    "createdAt": 1790078400003
+  },
+  {
+    "id": "seed-5",
+    "name": "Kaffeskvetten",
+    "category": "kafe",
+    "producer": "Alex",
+    "minutes": 28,
+    "date": "2026-09-22",
+    "notes": "",
+    "createdAt": 1790078400004
+  },
+  {
+    "id": "seed-6",
+    "name": "ProCare Helse BPA Narvik",
+    "category": "Helse og velvære",
+    "producer": "Alex",
+    "minutes": 41,
+    "date": "2026-09-22",
+    "notes": "",
+    "createdAt": 1790078400005
+  },
+  {
+    "id": "seed-7",
+    "name": "Gordon Hotel",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 75,
+    "date": "2026-09-22",
+    "notes": "",
+    "createdAt": 1790078400006
+  },
+  {
+    "id": "seed-8",
+    "name": "Storfjord Auto",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 56,
+    "date": "2026-09-21",
+    "notes": "",
+    "createdAt": 1789992000007
+  },
+  {
+    "id": "seed-9",
+    "name": "Gordon Hotel",
+    "category": "Hotell",
+    "producer": "Alex",
+    "minutes": 60,
+    "date": "2026-09-21",
+    "notes": "",
+    "createdAt": 1789992000008
+  },
+  {
+    "id": "seed-10",
+    "name": "ProCare Helse BPA Finnsnes",
+    "category": "Helse og velvære",
+    "producer": "Alex",
+    "minutes": 60,
+    "date": "2026-09-18",
+    "notes": "",
+    "createdAt": 1789732800009
+  },
+  {
+    "id": "seed-11",
+    "name": "Fengselet Gjestegård",
+    "category": "Hotell",
+    "producer": "Alex",
+    "minutes": 59,
+    "date": "2026-09-17",
+    "notes": "",
+    "createdAt": 1789646400010
+  },
+  {
+    "id": "seed-12",
+    "name": "Craftel",
+    "category": "Elektriker",
+    "producer": "Alex",
+    "minutes": 127,
+    "date": "2026-09-17",
+    "notes": "",
+    "createdAt": 1789646400011
+  },
+  {
+    "id": "seed-13",
+    "name": "Autosentrum AS / MECA",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 27,
+    "date": "2026-09-16",
+    "notes": "",
+    "createdAt": 1789560000012
+  },
+  {
+    "id": "seed-14",
+    "name": "Ulstein Bil / MECA bilverksted",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 97,
+    "date": "2026-09-16",
+    "notes": "",
+    "createdAt": 1789560000013
+  },
+  {
+    "id": "seed-15",
+    "name": "Florø Bilverksted AS",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 38,
+    "date": "2026-09-14",
+    "notes": "",
+    "createdAt": 1789387200014
+  },
+  {
+    "id": "seed-16",
+    "name": "Økoråd Helgeland",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 35,
+    "date": "2026-09-14",
+    "notes": "",
+    "createdAt": 1789387200015
+  },
+  {
+    "id": "seed-17",
+    "name": "AutoSwap AS - Bilverksted i Fyllingsdalen",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 90,
+    "date": "2026-09-11",
+    "notes": "",
+    "createdAt": 1789128000016
+  },
+  {
+    "id": "seed-18",
+    "name": "Rabbenkroken Bil AS (Mekonomen)",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 30,
+    "date": "2026-09-11",
+    "notes": "",
+    "createdAt": 1789128000017
+  },
+  {
+    "id": "seed-19",
+    "name": "Lakselv Motor",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 37,
+    "date": "2026-09-11",
+    "notes": "",
+    "createdAt": 1789128000018
+  },
+  {
+    "id": "seed-20",
+    "name": "Trofors Bil og Landbruksverksted AS (Mekonomen)",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 11,
+    "date": "2026-09-11",
+    "notes": "",
+    "createdAt": 1789128000019
+  },
+  {
+    "id": "seed-21",
+    "name": "Flissundet Motorservice AS",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 47,
+    "date": "2026-09-11",
+    "notes": "",
+    "createdAt": 1789128000020
+  },
+  {
+    "id": "seed-22",
+    "name": "Lunner Auto AS (Mekonomen)",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 41,
+    "date": "2026-09-11",
+    "notes": "",
+    "createdAt": 1789128000021
+  },
+  {
+    "id": "seed-23",
+    "name": "Kristiansand Bilverksted AS",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 52,
+    "date": "2026-09-11",
+    "notes": "",
+    "createdAt": 1789128000022
+  },
+  {
+    "id": "seed-24",
+    "name": "Sandøy Byggservice AS",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 60,
+    "date": "2026-09-10",
+    "notes": "",
+    "createdAt": 1789041600023
+  },
+  {
+    "id": "seed-25",
+    "name": "Vang Auto Hamar",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 60,
+    "date": "2026-09-08",
+    "notes": "",
+    "createdAt": 1788868800024
+  },
+  {
+    "id": "seed-26",
+    "name": "Valdres Lastebilservice AS (MECA)",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 60,
+    "date": "2026-09-08",
+    "notes": "",
+    "createdAt": 1788868800025
+  },
+  {
+    "id": "seed-27",
+    "name": "Thuen & Matre",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 50,
+    "date": "2026-09-04",
+    "notes": "",
+    "createdAt": 1788523200026
+  },
+  {
+    "id": "seed-28",
+    "name": "Varmepumpe Bergen Vestrheim",
+    "category": "varmepumpeforhandler",
+    "producer": "Alex",
+    "minutes": 28,
+    "date": "2026-09-03",
+    "notes": "",
+    "createdAt": 1788436800027
+  },
+  {
+    "id": "seed-29",
+    "name": "Volden Tollefsen (Hauge i Dalane)",
+    "category": "Rørlegger",
+    "producer": "Alex",
+    "minutes": 78,
+    "date": "2026-09-03",
+    "notes": "",
+    "createdAt": 1788436800028
+  },
+  {
+    "id": "seed-30",
+    "name": "Servicehallen Dombås AS",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 67,
+    "date": "2026-09-03",
+    "notes": "",
+    "createdAt": 1788436800029
+  },
+  {
+    "id": "seed-31",
+    "name": "S Holand Bilverksted",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 41,
+    "date": "2026-09-03",
+    "notes": "",
+    "createdAt": 1788436800030
+  },
+  {
+    "id": "seed-32",
+    "name": "MECA PlanetHifi",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 71,
+    "date": "2026-09-03",
+    "notes": "",
+    "createdAt": 1788436800031
+  },
+  {
+    "id": "seed-33",
+    "name": "Rotstigen AS",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 120,
+    "date": "2026-09-02",
+    "notes": "",
+    "createdAt": 1788350400032
+  },
+  {
+    "id": "seed-34",
+    "name": "Mesterhus Innlandet AS avd. Hedmark",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 65,
+    "date": "2026-09-02",
+    "notes": "",
+    "createdAt": 1788350400033
+  },
+  {
+    "id": "seed-35",
+    "name": "Greverud Grill & Indisk",
+    "category": "Restaurant",
+    "producer": "Alex",
+    "minutes": 85,
+    "date": "2026-09-02",
+    "notes": "",
+    "createdAt": 1788350400034
+  },
+  {
+    "id": "seed-36",
+    "name": "Sauda Bilverksted",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 31,
+    "date": "2026-09-02",
+    "notes": "",
+    "createdAt": 1788350400035
+  },
+  {
+    "id": "seed-37",
+    "name": "Mesterhus Innlandet AS",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 73,
+    "date": "2026-09-01",
+    "notes": "",
+    "createdAt": 1788264000036
+  },
+  {
+    "id": "seed-38",
+    "name": "Brobekk Grill & Pizza",
+    "category": "Restaurant",
+    "producer": "Alex",
+    "minutes": 60,
+    "date": "2026-09-01",
+    "notes": "",
+    "createdAt": 1788264000037
+  },
+  {
+    "id": "seed-39",
+    "name": "Volden Tollefsen (Egersund)",
+    "category": "Rørlegger",
+    "producer": "Alex",
+    "minutes": 64,
+    "date": "2026-08-31",
+    "notes": "",
+    "createdAt": 1788177600038
+  },
+  {
+    "id": "seed-40",
+    "name": "Skadesenteret Riko",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 68,
+    "date": "2026-08-31",
+    "notes": "",
+    "createdAt": 1788177600039
+  },
+  {
+    "id": "seed-41",
+    "name": "Nærøy Bil AS",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 123,
+    "date": "2026-08-31",
+    "notes": "",
+    "createdAt": 1788177600040
+  },
+  {
+    "id": "seed-42",
+    "name": "Jærprosjekt AS",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 114,
+    "date": "2026-08-28",
+    "notes": "",
+    "createdAt": 1787918400041
+  },
+  {
+    "id": "seed-43",
+    "name": "Andreassen Brønnboring og Energiboring AS",
+    "category": "boring",
+    "producer": "Alex",
+    "minutes": 67,
+    "date": "2026-08-28",
+    "notes": "",
+    "createdAt": 1787918400042
+  },
+  {
+    "id": "seed-44",
+    "name": "Stoa Autorep MECA bilverksted Arendal",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 51,
+    "date": "2026-08-26",
+    "notes": "",
+    "createdAt": 1787745600043
+  },
+  {
+    "id": "seed-45",
+    "name": "Steam Tours Tromsø",
+    "category": "aktiviteter",
+    "producer": "Alex",
+    "minutes": 39,
+    "date": "2026-08-26",
+    "notes": "",
+    "createdAt": 1787745600044
+  },
+  {
+    "id": "seed-46",
+    "name": "Steam Sauna Tromsø",
+    "category": "badstu",
+    "producer": "Alex",
+    "minutes": 42,
+    "date": "2026-08-25",
+    "notes": "",
+    "createdAt": 1787659200045
+  },
+  {
+    "id": "seed-47",
+    "name": "Skadesenteret Riko",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 60,
+    "date": "2026-08-25",
+    "notes": "",
+    "createdAt": 1787659200046
+  },
+  {
+    "id": "seed-48",
+    "name": "Forma Studio AS",
+    "category": "interiør selger",
+    "producer": "Alex",
+    "minutes": 120,
+    "date": "2026-08-25",
+    "notes": "",
+    "createdAt": 1787659200047
+  },
+  {
+    "id": "seed-49",
+    "name": "Johs. E. Øvsthus AS",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 180,
+    "date": "2026-08-24",
+    "notes": "",
+    "createdAt": 1787572800048
+  },
+  {
+    "id": "seed-50",
+    "name": "Steam Pier",
+    "category": "Hotell",
+    "producer": "Alex",
+    "minutes": 32,
+    "date": "2026-08-24",
+    "notes": "",
+    "createdAt": 1787572800049
+  },
+  {
+    "id": "seed-51",
+    "name": "Revisorgruppen Fjordane",
+    "category": "Regnskap og revisjon",
+    "producer": "Alex",
+    "minutes": 11,
+    "date": "2026-08-20",
+    "notes": "",
+    "createdAt": 1787227200050
+  },
+  {
+    "id": "seed-52",
+    "name": "Byggmesterfirma Jørgensen & Kemkers AS",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 100,
+    "date": "2026-08-20",
+    "notes": "",
+    "createdAt": 1787227200051
+  },
+  {
+    "id": "seed-53",
+    "name": "Sevland Autoteknikk",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 54,
+    "date": "2026-08-20",
+    "notes": "",
+    "createdAt": 1787227200052
+  },
+  {
+    "id": "seed-54",
+    "name": "Digital Revisor AS",
+    "category": "Regnskap og revisjon",
+    "producer": "Alex",
+    "minutes": 102,
+    "date": "2026-08-19",
+    "notes": "",
+    "createdAt": 1787140800053
+  },
+  {
+    "id": "seed-55",
+    "name": "Digital Revisor AS - Bergen",
+    "category": "Regnskap og revisjon",
+    "producer": "Alex",
+    "minutes": 98,
+    "date": "2026-08-19",
+    "notes": "",
+    "createdAt": 1787140800054
+  },
+  {
+    "id": "seed-56",
+    "name": "Byggefirma Nilsen & Andersen AS",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 101,
+    "date": "2026-08-18",
+    "notes": "",
+    "createdAt": 1787054400055
+  },
+  {
+    "id": "seed-57",
+    "name": "Narvik Car Rental",
+    "category": "bil utleie",
+    "producer": "Alex",
+    "minutes": 46,
+    "date": "2026-08-18",
+    "notes": "",
+    "createdAt": 1787054400056
+  },
+  {
+    "id": "seed-58",
+    "name": "Kafé & restaurant Spesial Bergen",
+    "category": "kafe",
+    "producer": "Alex",
+    "minutes": 105,
+    "date": "2026-08-17",
+    "notes": "",
+    "createdAt": 1786968000057
+  },
+  {
+    "id": "seed-59",
+    "name": "Byggmester Liljebakk",
+    "category": "Håndverker",
+    "producer": "Alex",
+    "minutes": 82,
+    "date": "2026-08-17",
+    "notes": "",
+    "createdAt": 1786968000058
+  },
+  {
+    "id": "seed-60",
+    "name": "Bilstellet AS",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 94,
+    "date": "2026-08-14",
+    "notes": "",
+    "createdAt": 1786708800059
+  },
+  {
+    "id": "seed-61",
+    "name": "Ledge Construction LLC",
+    "category": "anleggsarbeider",
+    "producer": "Alex",
+    "minutes": 92,
+    "date": "2026-08-14",
+    "notes": "",
+    "createdAt": 1786708800060
+  },
+  {
+    "id": "seed-62",
+    "name": "Elektriker på Hjul Hovedkontor",
+    "category": "Elektriker",
+    "producer": "Alex",
+    "minutes": 88,
+    "date": "2026-08-12",
+    "notes": "",
+    "createdAt": 1786536000061
+  },
+  {
+    "id": "seed-63",
+    "name": "Stormglass AS",
+    "category": "glassmontør",
+    "producer": "Alex",
+    "minutes": 125,
+    "date": "2026-08-12",
+    "notes": "",
+    "createdAt": 1786536000062
+  },
+  {
+    "id": "seed-64",
+    "name": "Superdekk Bømlo Bil",
+    "category": "Bilverksted",
+    "producer": "Alex",
+    "minutes": 114,
+    "date": "2026-08-11",
+    "notes": "",
+    "createdAt": 1786449600063
+  }
+];
 function load() {
   try {
-    return JSON.parse(localStorage.getItem(KEY) || "[]");
+    const stored = localStorage.getItem(KEY);
+    if (stored) {
+      const parsed = JSON.parse(stored);
+      if (Array.isArray(parsed) && parsed.length) return parsed;
+    }
+    localStorage.setItem(KEY, JSON.stringify(DEFAULT_PROFILES));
+    return DEFAULT_PROFILES.map((p) => ({ ...p }));
   } catch {
-    return [];
+    return DEFAULT_PROFILES.map((p) => ({ ...p }));
   }
 }
 function save() {
