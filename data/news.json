@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.09.2026 kl. 19:27",
-  "updatedISO": "2026-09-25T19:27:08.750966+02:00",
+  "updatedAt": "25.09.2026 kl. 22:40",
+  "updatedISO": "2026-09-25T22:40:22.840015+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/zwgZrqt3zzmnwR_D4oMbygpWDgUHgDdFEdrEks2D1LXg.jpg",
       "localImage": "assets/news/786a8f13eccee0.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "38e71eb96c045b",
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8291/live/f0778150-b8d3-11f1-bc1f-3f186ca4140c.jpg",
       "localImage": "assets/news/38e71eb96c045b.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "621453228a95e9",
@@ -127,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg",
       "localImage": "assets/news/6c5d846edbcfeb.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "23343ea9391cd2",
@@ -151,25 +151,25 @@
       "score": 17
     },
     {
-      "id": "e972de03b07664",
+      "id": "c57aa986d631c7",
       "category": "Økonomi",
-      "published": "24.09. 09:00",
-      "publishedISO": "2026-09-24T09:00:54+02:00",
-      "title": "Sport Outlet-eier steg i debuten på Oslo Børs",
-      "summary": "Sportsbutikk-kjeden endte med en markedsverdi over 4 milliarder kroner etter første dag på Oslo Børs. Det var stort sett oppgang på Oslo Børs i løpet av torsdagen før Hovedindeksen falt under sluttauksjonen og endte flatt for dagen ved stenging. Siden onsdag morgen har oljeprisen steget godt over 7 dollar til 105,8 dollar fatet ved stenging på Oslo Børs torsdag.",
+      "published": "25.09. 22:09",
+      "publishedISO": "2026-09-25T22:09:33+02:00",
+      "title": "Flybilletter på billigsalg",
+      "summary": "Det virker å være priskrig på flybilletter fredag kveld. E24 har sett at mellom Oslo og Trondheim får man enkelt en reise tur/retur for 700 kroner. Flest billetter er ikke overraskende tilgjengelig på ukedager, men også i en rekke helger har E24 sett uvanlig billige flybilletter.",
       "keyPoints": [
-        "Sportsbutikk-kjeden endte med en markedsverdi over 4 milliarder kroner etter første dag på Oslo Børs.",
-        "Siden onsdag morgen har oljeprisen steget godt over 7 dollar til 105,8 dollar fatet ved stenging på Oslo Børs torsdag.",
-        "Det var stort sett oppgang på Oslo Børs i løpet av torsdagen før Hovedindeksen falt under sluttauksjonen og endte flatt for dagen ved stenging.",
-        "Aksjen endte med en oppgang på 10,3 prosent fra noteringskursen på 33 kroner per aksje til 36,4 kroner per aksje."
+        "Det virker å være priskrig på flybilletter fredag kveld.",
+        "Flest billetter er ikke overraskende tilgjengelig på ukedager, men også i en rekke helger har E24 sett uvanlig billige flybilletter.",
+        "E24 har sett at mellom Oslo og Trondheim får man enkelt en reise tur/retur for 700 kroner.",
+        "For eksempel var det da vi sjekket mulig å reise fra Trondheim til Oslo en helgetur i midten av desember for rundt 600 kroner tur/retur med Norwegian."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/lnobgy/sport-outlet-eieren-stiger-11-prosent-i-debuten-paa-oslo-boers",
+      "url": "https://e24.no/naeringsliv/i/e7VreQ/flybilletter-paa-billigsalg",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/67315874-95d5-32a3-88d6-6090dcc1a228?fit=crop&h=675&upscale=true&w=1200&s=525ac548e1a2051cc0b5d146b07de30ab380e637",
-      "localImage": "assets/news/e972de03b07664.jpg",
-      "score": 18
+      "image": "https://akamai.vgc.no/v2/images/be2cb359-6de3-363d-be31-7d09cba4a866?fit=crop&h=675&upscale=true&w=1200&s=e39be137b15e6d91201776d5e6d7be7be2ad9cd5",
+      "localImage": "assets/news/c57aa986d631c7.jpg",
+      "score": 17
     },
     {
       "id": "59f2166e9a58b8",
