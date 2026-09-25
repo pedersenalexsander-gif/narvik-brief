@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.09.2026 kl. 22:40",
-  "updatedISO": "2026-09-25T22:40:22.840015+02:00",
+  "updatedAt": "26.09.2026 kl. 01:35",
+  "updatedISO": "2026-09-26T01:35:41.456273+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8291/live/f0778150-b8d3-11f1-bc1f-3f186ca4140c.jpg",
       "localImage": "assets/news/38e71eb96c045b.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "621453228a95e9",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b5e/live/bc2f2640-b87f-11f1-bc1f-3f186ca4140c.jpg",
       "localImage": "assets/news/621453228a95e9.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "77f8ce07a0602f",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9aec0779-fc6e-3869-a249-9a72c9619760?fit=crop&h=675&upscale=true&w=1200&s=527073ba4868d599e3fd3ff73f8fbd49bc7a416f",
       "localImage": "assets/news/77f8ce07a0602f.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "2f3a0133760589",
@@ -106,28 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/79566e7c-457b-3a76-9e0b-5dfafa08ce06?fit=crop&h=675&upscale=true&w=1200&s=3c8f7db602b79c502ba30f1a8fa877a68259610c",
       "localImage": "assets/news/2f3a0133760589.jpg",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "6c5d846edbcfeb",
+      "id": "03c8b2a646e5da",
       "category": "AI",
-      "published": "23.09. 14:01",
-      "publishedISO": "2026-09-23T14:01:37+02:00",
-      "title": "OpenAI gives AI cyber defence tools to Ukraine",
-      "summary": "Teknologigiganten OpenAI vil dele sitt AI-cyberforsvarssystem Daybreak gratis med Ukrainas regjering for å hjelpe den med å beskytte sivil infrastruktur, som sykehus og kraftverk, mot cyberangrep. Jamie MacColl, en seniorforsker som spesialiserer seg på cyber ved Royal United Services Institute (RUSI), fortalte BBC at vestlige teknologifirmaer hadde støttet Ukraina en stund – delvis av altruistiske grunner, men også fordi de får svært verdifull data og etterretning fra en aktiv konflikt. \"Gitt dette er det ingen overraskelse at OpenAI nå også tilbyr defensive cybersikkerhetstjenester,\" sa han. Men han bemerket at Ukraina allerede hadde tilgang til AI-verktøy levert av OpenAIs konkurrenter, som Google.",
+      "published": "26.09. 00:43",
+      "publishedISO": "2026-09-26T00:43:54+02:00",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "summary": "OpenAI sa fredag ​​at de hadde varslet \"dusinvis\" av globale institusjoner om at deres nettsider kan ha blitt påvirket av deres AI-agenter som handlet feil. OpenAI-agenter forsøkte å få informasjon fra \"myndigheter, universiteter, offentlige etater og andre institusjoner\" på noen ganger ekstreme måter, sa selskapet. Slik aktivitet resulterte i minst 53 hendelser der en OpenAI-agent tok et bilde fra ChatGPT-brukeraktivitet og overførte det andre steder.",
       "keyPoints": [
-        "Teknologigiganten OpenAI vil dele sitt AI-cyberforsvarssystem Daybreak gratis med Ukrainas regjering for å hjelpe den med å beskytte sivil infrastruktur, som sykehus og kraftverk, mot cyberangrep.",
-        "Jamie MacColl, en seniorforsker som spesialiserer seg på cyber ved Royal United Services Institute (RUSI), fortalte BBC at vestlige teknologifirmaer hadde støttet Ukraina en stund – delvis av altruistiske grunner, men også fordi de får svært verdifull data og etterretning fra en aktiv konflikt. \"Gitt dette er det ingen overraskelse at OpenAI nå også tilbyr defensive cybersikkerhetstjenester,\" sa han.",
-        "But he noted Ukraine already had access to AI tools provided by OpenAI's competitors, like Google.",
-        "I følge Computer Emergency Response Team of Ukraine (CERT-UA), det nasjonale responsteamet for cyberhendelser, registrerte Ukraina nesten 6000 angrep i 2025."
+        "OpenAI sa fredag ​​at de hadde varslet \"dusinvis\" av globale institusjoner om at deres nettsider kan ha blitt påvirket av deres AI-agenter som handlet feil.",
+        "OpenAI-agenter forsøkte å få informasjon fra \"myndigheter, universiteter, offentlige etater og andre institusjoner\" på noen ganger ekstreme måter, sa selskapet.",
+        "Slik aktivitet resulterte i minst 53 hendelser der en OpenAI-agent tok et bilde fra ChatGPT-brukeraktivitet og overførte det andre steder.",
+        "Selskapet sa at i hvert tilfelle av et brukerbilde som ble brukt og overført av en AI-agent, hadde brukeren tillatt OpenAI å trene modeller ved å bruke dataene deres."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg",
-      "localImage": "assets/news/6c5d846edbcfeb.jpg",
-      "score": 20
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
+      "localImage": "assets/news/03c8b2a646e5da.jpg",
+      "score": 22
     },
     {
       "id": "23343ea9391cd2",
@@ -148,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/23343ea9391cd2.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "c57aa986d631c7",
@@ -190,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4a79109e-0644-357b-b4d3-c4c860c10d46?fit=crop&h=675&upscale=true&w=1200&s=2f39a429af286c2d0a414269a62b20260b4f58bd",
       "localImage": "assets/news/59f2166e9a58b8.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "c830901c5c3100",
@@ -211,7 +211,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/602f/live/4a515750-b8a7-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/c830901c5c3100.jpg",
-      "score": 17
+      "score": 16
     }
   ]
 }
