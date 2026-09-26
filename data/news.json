@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26.09.2026 kl. 21:26",
-  "updatedISO": "2026-09-26T21:26:06.850324+02:00",
+  "updatedAt": "27.09.2026 kl. 00:06",
+  "updatedISO": "2026-09-27T00:06:33.070983+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,13 +22,13 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/kartoteket/01M3ERFZE574H7FXXZQR45KY89/F169/650w.png",
       "localImage": "assets/news/941e0f6a468bd9.png",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "8c69827ac2257b",
+      "id": "7c1d5dfe4c63a5",
       "category": "Norge",
-      "published": "26.09. 19:35",
-      "publishedISO": "2026-09-26T19:35:44+02:00",
+      "published": "26.09. 19:09",
+      "publishedISO": "2026-09-26T19:09:00+02:00",
       "title": "Tore O. Sandvik mener et dybdekart fra polarinstituttet viser hvorfor USA ikke forlater Nato",
       "summary": "Nordområdene har blitt viktigere etter at Sverige og Finland ble med i Nato, og er ifølge Sandvik en grunn til at USA aldri vil forlate alliansen. Når forsvarsministeren er på reise, har han med seg noe i lomma han mener er en grunn til at USA aldri vil forlate Nato. Vi spør ham om kartet forsvarsministeren drar med seg overalt – kartet Sandvik mener sikrer at USA aldri forlater Nato. – Jeg vil ikke være så bastant på det.",
       "keyPoints": [
@@ -42,7 +42,7 @@
       "url": "https://www.nrk.no/tromsogfinnmark/xl/tore-o.-sandvik-mener-et-dybdekart-fra-polarinstituttet-viser-hvorfor-usa-ikke-forlater-nato-1.17999578",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/bGO2jETaA9psmE_D94ECsAjPZat0NCenvvVPKe6Oe_1Q.jpg",
-      "localImage": "assets/news/8c69827ac2257b.jpg",
+      "localImage": "assets/news/7c1d5dfe4c63a5.jpg",
       "score": 21
     },
     {
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/985b4593-b57d-388a-9306-f166e3ee65f7?fit=crop&h=675&upscale=true&w=1200&s=1f1600e24e0a6f48459fb8566590a09327651556",
       "localImage": "assets/news/0ed582d506f4f4.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "2f3a0133760589",
@@ -130,27 +130,6 @@
       "score": 12
     },
     {
-      "id": "fb421afcd01e15",
-      "category": "AI",
-      "published": "24.09. 16:08",
-      "publishedISO": "2026-09-24T16:08:38+02:00",
-      "title": "Hvorfor hacket et OpenAI-system Australias helsesystem – og kan det stoppes i fremtiden?",
-      "summary": "Se: Hva du trenger å vite om OpenAI Australian Government Hack En OpenAI-agent har blitt \"skurk\" og \"infiltrert\" et australsk regjeringsnettsted i det cybersikkerhetseksperter kaller det første hacket i sitt slag. Den 18. juni ble en av OpenAIs agenter useriøs under en testøvelse - selskapet har sagt at det var ment å \"slå opp svar og tilgjengelig statistikk for spørsmål om Australia under en intern evaluering\". OpenAI er selskapet bak den populære ChatGPT-tjenesten Australia har sagt at denne hendelsen er den første i sitt slag, og eksperter er enige om at det kan være det.",
-      "keyPoints": [
-        "Se: Hva du trenger å vite om OpenAI Australian Government Hack En OpenAI-agent har blitt \"skurk\" og \"infiltrert\" et australsk regjeringsnettsted i det cybersikkerhetseksperter kaller det første hacket i sitt slag.",
-        "Den 18. juni ble en av OpenAIs agenter useriøs under en testøvelse - selskapet har sagt at det var ment å \"slå opp svar og tilgjengelig statistikk for spørsmål om Australia under en intern evaluering\".",
-        "OpenAI er selskapet bak den populære ChatGPT-tjenesten Australia har sagt at denne hendelsen er den første i sitt slag, og eksperter er enige om at det kan være det.",
-        "Men hvorfor tok det regjeringen måneder å oppdage hva som skjedde – og kunne det skje igjen?"
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
-      "localImage": "assets/news/fb421afcd01e15.jpg",
-      "score": 12
-    },
-    {
       "id": "59420050ef3d7e",
       "category": "Norge",
       "published": "26.09. 02:30",
@@ -169,10 +148,10 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/RNH_UyyNW1BG5V8mGd3MpAkLoDVRFucAfQmhtTDx_pGg",
       "localImage": "assets/news/59420050ef3d7e.webp",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "d23d7439566c03",
+      "id": "dcabc0677a2391",
       "category": "Norge",
       "published": "26.09. 09:24",
       "publishedISO": "2026-09-26T09:24:11+02:00",
@@ -189,28 +168,49 @@
       "url": "https://www.nrk.no/sorlandet/mer-lek-pa-1_2.-trinn-i-skolen-1.18031282",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jdQmzt1yEEUpa7txUbZIuQjcSFqvxuf3_C044CgZCMVA.jpg",
-      "localImage": "assets/news/d23d7439566c03.webp",
+      "localImage": "assets/news/dcabc0677a2391.webp",
       "score": 15
     },
     {
-      "id": "0627c707baec31",
+      "id": "7984f6c222b836",
       "category": "Verden",
-      "published": "26.09. 20:30",
-      "publishedISO": "2026-09-26T20:30:04+02:00",
-      "title": "Tenth woman's body found in South Africa suburb as police probe killings",
-      "summary": "Arkivbilde av sørafrikanske polititjenestemenn i Johannesburg-politiet i Sør-Afrika sier at de har funnet en kvinnes kropp i en forstad til Johannesburg, den tiende de siste månedene. Mens sørafrikansk politistatistikk ikke skiller ofre etter kjønn, sa den sørafrikanske menneskerettighetskommisjonen forrige uke at 569 kvinner ble drept og 1052 andre overlevde drapsforsøk mellom april og juni i år. Dystre funn av drepte kvinner vekker frykt i Sør-Afrika Den niende kvinnens kropp funnet mens sørafrikansk politi etterforsker en rekke dødsfall",
+      "published": "26.09. 23:13",
+      "publishedISO": "2026-09-26T23:13:13+02:00",
+      "title": "Mother of woman found hanging in tree shocked as police say body was staged",
+      "summary": "Tasia Fortune, en 29 år gammel mor til fire, ble funnet hengende i et tre i august Advarsel: Denne historien inneholder urovekkende detaljer Moren til en kvinne som ble funnet hengende i et tre i Mississippi har snakket om sjokket hennes etter at myndighetene sa at de trodde datteren hennes var død før kroppen hennes ble plassert på det angivelig \"iscenesatte\" åstedet. Tasia Fortune, en 29 år gammel mor til fire, ble funnet hengende i et tre i et forlatt hjem i Jackson i august. Svart kvinne som ble funnet hengende fra treet var død før kroppen ble \"iscenesatt\", sier politiet krever svar, uker etter at svart kvinne ble funnet hengende fra Mississippi-treet",
       "keyPoints": [
-        "Arkivbilde av sørafrikanske polititjenestemenn i Johannesburg-politiet i Sør-Afrika sier at de har funnet en kvinnes kropp i en forstad til Johannesburg, den tiende de siste månedene.",
-        "Grim discoveries of murdered women spark fear in South Africa Ninth woman's body found as South African police investigate string of deaths",
-        "Mens sørafrikansk politistatistikk ikke skiller ofre etter kjønn, sa den sørafrikanske menneskerettighetskommisjonen forrige uke at 569 kvinner ble drept og 1052 andre overlevde drapsforsøk mellom april og juni i år.",
-        "Sør-Afrika har en av de høyeste drapsratene - med 5.427 mennesker drept mellom april og juni bare i år."
+        "Svart kvinne som ble funnet hengende fra treet var død før kroppen ble \"iscenesatt\", sier politiet krever svar, uker etter at svart kvinne ble funnet hengende fra Mississippi-treet",
+        "Tasia Fortune, en 29 år gammel mor til fire, ble funnet hengende i et tre i august Advarsel: Denne historien inneholder urovekkende detaljer Moren til en kvinne som ble funnet hengende i et tre i Mississippi har snakket om sjokket hennes etter at myndighetene sa at de trodde datteren hennes var død før kroppen hennes ble plassert på det angivelig \"iscenesatte\" åstedet.",
+        "Men fredag ​​sa politiet at Fortune hadde vært død før kroppen hennes ble hengt fra treet. Jeg har flere spørsmål nå enn det jeg gjorde før, sa moren Christy Spivey til BBC.",
+        "Jackson Police Department sa at legen som gjennomførte Fortunes obduksjonsundersøkelse hadde fastslått at hennes død var et drap og at \"scenen og hengingen var iscenesatt\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgyyj8q807o",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gmmdl52rgo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2323/live/c5e43700-b9d0-11f1-b9a2-c51fbcac2d8e.jpg",
-      "localImage": "assets/news/0627c707baec31.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a17c/live/ff226520-ac63-11f1-be57-03729df1d736.jpg",
+      "localImage": "assets/news/7984f6c222b836.jpg",
+      "score": 13
+    },
+    {
+      "id": "07c3fc6b49f636",
+      "category": "Verden",
+      "published": "26.09. 21:48",
+      "publishedISO": "2026-09-26T21:48:06+02:00",
+      "title": "Pope praises young people's energy at huge open-air Mass in Paris",
+      "summary": "Se: Enorme folkemengder hilste paven da han reiste nedover Champs-Élysées. Pave Leo XIV har berømmet «entusiasmen, energien og engasjementet» unge mennesker bringer til den katolske kirken mens tette folkemengder deltok på en friluftsmesse i Paris. Anslagsvis 700 000 mennesker hadde samlet seg til messen feiret av paven fra et spesielt alter på Place de la Concorde, den andre dagen av hans fire dager lange besøk i Frankrike. Etter å ha blitt ønsket velkommen av Macron fredag, fikk paven selskap av 80 000 unge mennesker på Stade de France nord i Paris.",
+      "keyPoints": [
+        "Se: Enorme folkemengder hilste paven da han reiste nedover Champs-Élysées. Pave Leo XIV har berømmet «entusiasmen, energien og engasjementet» unge mennesker bringer til den katolske kirken mens tette folkemengder deltok på en friluftsmesse i Paris.",
+        "Etter å ha blitt ønsket velkommen av Macron fredag, fikk paven selskap av 80 000 unge mennesker på Stade de France nord i Paris.",
+        "Anslagsvis 700 000 mennesker hadde samlet seg til messen feiret av paven fra et spesielt alter på Place de la Concorde, den andre dagen av hans fire dager lange besøk i Frankrike.",
+        "Lederen for den katolske kirke henvendte seg også til unge mennesker i sin tale, og beskrev dem som \"dagens kirke\". \"Så vakkert det er å se din entusiasme, energi og engasjement, og gleden du bringer til kristne samfunn,\" sa han."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/07c3fc6b49f636.jpg",
       "score": 13
     }
   ]
