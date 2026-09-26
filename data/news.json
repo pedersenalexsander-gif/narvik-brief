@@ -1,8 +1,29 @@
 {
-  "updatedAt": "26.09.2026 kl. 09:43",
-  "updatedISO": "2026-09-26T09:43:11.933977+02:00",
+  "updatedAt": "26.09.2026 kl. 14:30",
+  "updatedISO": "2026-09-26T14:30:05.430064+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "941e0f6a468bd9",
+      "category": "Nord-Norge",
+      "published": "26.09. 13:18",
+      "publishedISO": "2026-09-26T13:18:21+02:00",
+      "title": "Brann i trailerhenger på E10 ved Sørdalstunnelen",
+      "summary": "– Brannvesenet har besluttet at innholdet skal brenne ned, og så slipper vi trafikk puljevis gjennom, opplyser operasjonsleder i Nordland politidistrikt Kai Eriksen til NRK. Det ble først satt opp en sikkerhetsavstand på 100 meter, men den er nå redusert slik at trafikk kan slippes forbi i puljer på fem og fem. Sørdalstunnelen går mellom Sørdalen i Kvæfjord kommune i Troms og Øksfjorden i Lødingen kommune i Nordland.",
+      "keyPoints": [
+        "Sørdalstunnelen går mellom Sørdalen i Kvæfjord kommune i Troms og Øksfjorden i Lødingen kommune i Nordland.",
+        "Det ble først satt opp en sikkerhetsavstand på 100 meter, men den er nå redusert slik at trafikk kan slippes forbi i puljer på fem og fem.",
+        "– Brannvesenet har besluttet at innholdet skal brenne ned, og så slipper vi trafikk puljevis gjennom, opplyser operasjonsleder i Nordland politidistrikt Kai Eriksen til NRK.",
+        "På grunn av innholdet i hengeren er det ikke bare å slukke brannen med vann. – Det er jernskrot, isolasjon og så var det snakk om en viss prosent med litiumbatteri."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/brann-i-trailerhenger-pa-e10-ved-sordalstunnelen-1.18037382",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/kartoteket/01M3ERFZE574H7FXXZQR45KY89/F169/650w.png",
+      "localImage": "assets/news/941e0f6a468bd9.png",
+      "score": 17
+    },
     {
       "id": "59420050ef3d7e",
       "category": "Norge",
@@ -22,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/RNH_UyyNW1BG5V8mGd3MpAkLoDVRFucAfQmhtTDx_pGg",
       "localImage": "assets/news/59420050ef3d7e.webp",
-      "score": 20
+      "score": 19
     },
     {
       "id": "4b740e727e3253",
@@ -43,28 +64,49 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1747/live/dc2a8ea0-b85a-11f1-a8b8-8b929801ec51.jpg",
       "localImage": "assets/news/4b740e727e3253.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "621453228a95e9",
+      "id": "38e71eb96c045b",
       "category": "USA",
-      "published": "25.09. 13:22",
-      "publishedISO": "2026-09-25T13:22:48+02:00",
-      "title": "Why Trump gave Xi an eagle statue at White House state dinner",
-      "summary": "President Trump sa at han og First Lady Melania hjalp til med å designe statuen USAs president Donald Trump har presentert Kinas president Xi Jinping med en skulptur av en skallet ørn, en fugl som er hjemmehørende i Nord-Amerika og landets nasjonalsymbol, under en overdådig statsmiddag i Washington. Gaven, som ble avduket for VIP-gjester på torsdagsmiddagen, legemliggjør «den frie og svevende ånden i Amerika», sa Trump. Den nåværende utvekslingen hjelper til med å utjevne forskjellene og bør sees på samme måte som de militære flyovers, festspillene og statsmiddagen, sier Kritenbrink. \"Det er protokoll og det er optikk, og det er gave å gi alt som et middel til et mål, som er stabile forhold mellom USA og Kina. \"Jeg vil ta en skjør våpenhvile over en hvit-glødende handelskrig hvilken som helst dag i uken.\"",
+      "published": "25.09. 15:23",
+      "publishedISO": "2026-09-25T15:23:33+02:00",
+      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+      "summary": "Copenhaver var en av tre deltakere i Trump-rally som ble skutt, i tillegg til Trump, hvis øre ble slått av en kule En av de tre deltakerne som ble skutt på Donald Trumps presidentkampanje i 2024 i Butler, Pennsylvania, har gått bort på grunn av komplikasjoner som stammet fra skadene hans, ifølge statsadvokaten i Pennsylvania. Måneder senere, Trump-skytingsvitne fortsatt lamslått av sikkerhetsbrudd I et innlegg på sitt sosiale medienettsted Truth Social kalte Trump Copenhaver for en \"ekte amerikansk patriot\". \"For mer enn to år siden i Butler, Pennsylvania, forsøkte en gal våpenmann å kvele vår America First Movement. I et intervju med CBS et år etter Butler-rallyet sa Copenhaver og David Dutch, den tredje deltakeren som ble skutt, at de hadde vært gjennom infeksjoner og operasjoner etter å ha blitt såret.",
       "keyPoints": [
-        "President Trump sa at han og First Lady Melania hjalp til med å designe statuen USAs president Donald Trump har presentert Kinas president Xi Jinping med en skulptur av en skallet ørn, en fugl som er hjemmehørende i Nord-Amerika og landets nasjonalsymbol, under en overdådig statsmiddag i Washington.",
-        "Gaven, som ble avduket for VIP-gjester på torsdagsmiddagen, legemliggjør «den frie og svevende ånden i Amerika», sa Trump.",
-        "Den nåværende utvekslingen hjelper til med å utjevne forskjellene og bør sees på samme måte som de militære flyovers, festspillene og statsmiddagen, sier Kritenbrink. \"Det er protokoll og det er optikk, og det er gave å gi alt som et middel til et mål, som er stabile forhold mellom USA og Kina. \"Jeg vil ta en skjør våpenhvile over en hvit-glødende handelskrig hvilken som helst dag i uken.\"",
-        "Det var et mer lysende eksempel enn i 2009, da daværende britiske statsminister Gordon Brown ga Obama en dekorativ pennholder laget av tømmeret fra et historisk anti-slaveskip; mens Obama ga Brown et sett med DVDer, som angivelig ikke var formatert for britiske DVD-spillere. \"Det er ett eksempel på en slags pinlig ordveksling,\" sier Sending."
+        "Copenhaver var en av tre deltakere i Trump-rally som ble skutt, i tillegg til Trump, hvis øre ble slått av en kule En av de tre deltakerne som ble skutt på Donald Trumps presidentkampanje i 2024 i Butler, Pennsylvania, har gått bort på grunn av komplikasjoner som stammet fra skadene hans, ifølge statsadvokaten i Pennsylvania.",
+        "I et intervju med CBS et år etter Butler-rallyet sa Copenhaver og David Dutch, den tredje deltakeren som ble skutt, at de hadde vært gjennom infeksjoner og operasjoner etter å ha blitt såret.",
+        "Months on, Trump shooting witness still stunned by security lapse In a post on his social media site Truth Social, Trump called Copenhaver a \"true American patriot\". \"More than two years ago in Butler, Pennsylvania, a crazed gunman attempted to stifle our America First Movement.",
+        "En annen deltaker, Corey Comperatore, ble drept i skytingen og Trumps øre ble slått av en kule."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8b5e/live/bc2f2640-b87f-11f1-bc1f-3f186ca4140c.jpg",
-      "localImage": "assets/news/621453228a95e9.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8291/live/f0778150-b8d3-11f1-bc1f-3f186ca4140c.jpg",
+      "localImage": "assets/news/38e71eb96c045b.jpg",
       "score": 13
+    },
+    {
+      "id": "0ed582d506f4f4",
+      "category": "Økonomi",
+      "published": "26.09. 13:20",
+      "publishedISO": "2026-09-26T13:20:36+02:00",
+      "title": "Fra rentekutt til heving på ett år: – Klart det føles smertefullt",
+      "summary": "Etter den siste rentehevingen fra Norges Bank til 4,5 prosent, er vi nå tilbake på samme nivå som vi hadde i starten av 2025. Mens norsk økonomi har klart seg bedre enn ventet i møte med relativt høy rente, har prisveksten vært vanskeligere å få ned enn sentralbanken hadde trodd. – Det er klart at da må Norges Bank, med inflasjonsmåletNorges Bank styrer etter et mål om å ha lav og stabil prisvekst på rundt to prosent. Argumentene var blant annet at prisveksten var klart høyere enn ventet, og at krigen i Midtøsten løftet energiprisene og skapte usikkerhet.",
+      "keyPoints": [
+        "Mens norsk økonomi har klart seg bedre enn ventet i møte med relativt høy rente, har prisveksten vært vanskeligere å få ned enn sentralbanken hadde trodd. – Det er klart at da må Norges Bank, med inflasjonsmåletNorges Bank styrer etter et mål om å ha lav og stabil prisvekst på rundt to prosent.",
+        "Etter den siste rentehevingen fra Norges Bank til 4,5 prosent, er vi nå tilbake på samme nivå som vi hadde i starten av 2025.",
+        "Argumentene var blant annet at prisveksten var klart høyere enn ventet, og at krigen i Midtøsten løftet energiprisene og skapte usikkerhet.",
+        "I juni 2025 begynte Norges Bank å kutte renten igjen, og den ble satt ytterligere ned til 4 prosent i september i fjor."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/zOpdqv/fra-rentekutt-til-heving-paa-ett-aar-klart-det-foeles-smertefullt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/985b4593-b57d-388a-9306-f166e3ee65f7?fit=crop&h=675&upscale=true&w=1200&s=1f1600e24e0a6f48459fb8566590a09327651556",
+      "localImage": "assets/news/0ed582d506f4f4.jpg",
+      "score": 22
     },
     {
       "id": "2f3a0133760589",
@@ -85,28 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/79566e7c-457b-3a76-9e0b-5dfafa08ce06?fit=crop&h=675&upscale=true&w=1200&s=3c8f7db602b79c502ba30f1a8fa877a68259610c",
       "localImage": "assets/news/2f3a0133760589.jpg",
-      "score": 19
-    },
-    {
-      "id": "c57aa986d631c7",
-      "category": "Økonomi",
-      "published": "25.09. 22:09",
-      "publishedISO": "2026-09-25T22:09:33+02:00",
-      "title": "Flybilletter på billigsalg",
-      "summary": "Det virker å være priskrig på flybilletter fredag kveld. E24 har sett at mellom Oslo og Trondheim får man enkelt en reise tur/retur for 700 kroner. Flest billetter er ikke overraskende tilgjengelig på ukedager, men også i en rekke helger har E24 sett uvanlig billige flybilletter.",
-      "keyPoints": [
-        "Det virker å være priskrig på flybilletter fredag kveld.",
-        "Flest billetter er ikke overraskende tilgjengelig på ukedager, men også i en rekke helger har E24 sett uvanlig billige flybilletter.",
-        "E24 har sett at mellom Oslo og Trondheim får man enkelt en reise tur/retur for 700 kroner.",
-        "For eksempel var det da vi sjekket mulig å reise fra Trondheim til Oslo en helgetur i midten av desember for rundt 600 kroner tur/retur med Norwegian."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/e7VreQ/flybilletter-paa-billigsalg",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/be2cb359-6de3-363d-be31-7d09cba4a866?fit=crop&h=675&upscale=true&w=1200&s=e39be137b15e6d91201776d5e6d7be7be2ad9cd5",
-      "localImage": "assets/news/c57aa986d631c7.jpg",
-      "score": 15
+      "score": 18
     },
     {
       "id": "23343ea9391cd2",
@@ -127,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/23343ea9391cd2.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "fb421afcd01e15",
@@ -148,7 +169,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg",
       "localImage": "assets/news/fb421afcd01e15.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "d23d7439566c03",
@@ -169,48 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jdQmzt1yEEUpa7txUbZIuQjcSFqvxuf3_C044CgZCMVA.jpg",
       "localImage": "assets/news/d23d7439566c03.webp",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "e972de03b07664",
+      "id": "c57aa986d631c7",
       "category": "Økonomi",
-      "published": "24.09. 09:00",
-      "publishedISO": "2026-09-24T09:00:54+02:00",
-      "title": "Sport Outlet-eier steg i debuten på Oslo Børs",
-      "summary": "Sportsbutikk-kjeden endte med en markedsverdi over 4 milliarder kroner etter første dag på Oslo Børs. Det var stort sett oppgang på Oslo Børs i løpet av torsdagen før Hovedindeksen falt under sluttauksjonen og endte flatt for dagen ved stenging. Siden onsdag morgen har oljeprisen steget godt over 7 dollar til 105,8 dollar fatet ved stenging på Oslo Børs torsdag.",
+      "published": "25.09. 22:09",
+      "publishedISO": "2026-09-25T22:09:33+02:00",
+      "title": "Flybilletter på billigsalg",
+      "summary": "Det virker å være priskrig på flybilletter fredag kveld. E24 har sett at mellom Oslo og Trondheim får man enkelt en reise tur/retur for 700 kroner. Flest billetter er ikke overraskende tilgjengelig på ukedager, men også i en rekke helger har E24 sett uvanlig billige flybilletter.",
       "keyPoints": [
-        "Sportsbutikk-kjeden endte med en markedsverdi over 4 milliarder kroner etter første dag på Oslo Børs.",
-        "Siden onsdag morgen har oljeprisen steget godt over 7 dollar til 105,8 dollar fatet ved stenging på Oslo Børs torsdag.",
-        "Det var stort sett oppgang på Oslo Børs i løpet av torsdagen før Hovedindeksen falt under sluttauksjonen og endte flatt for dagen ved stenging.",
-        "Aksjen endte med en oppgang på 10,3 prosent fra noteringskursen på 33 kroner per aksje til 36,4 kroner per aksje."
+        "Det virker å være priskrig på flybilletter fredag kveld.",
+        "Flest billetter er ikke overraskende tilgjengelig på ukedager, men også i en rekke helger har E24 sett uvanlig billige flybilletter.",
+        "E24 har sett at mellom Oslo og Trondheim får man enkelt en reise tur/retur for 700 kroner.",
+        "For eksempel var det da vi sjekket mulig å reise fra Trondheim til Oslo en helgetur i midten av desember for rundt 600 kroner tur/retur med Norwegian."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/lnobgy/sport-outlet-eieren-stiger-11-prosent-i-debuten-paa-oslo-boers",
+      "url": "https://e24.no/naeringsliv/i/e7VreQ/flybilletter-paa-billigsalg",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/67315874-95d5-32a3-88d6-6090dcc1a228?fit=crop&h=675&upscale=true&w=1200&s=525ac548e1a2051cc0b5d146b07de30ab380e637",
-      "localImage": "assets/news/e972de03b07664.jpg",
-      "score": 15
-    },
-    {
-      "id": "59f2166e9a58b8",
-      "category": "Økonomi",
-      "published": "25.09. 18:15",
-      "publishedISO": "2026-09-25T18:15:49+02:00",
-      "title": "Vil regulere AI: – Kraftig nok til å forårsake én milliard dødsfall",
-      "summary": "Ifølge NBC spiller han ikke ned advarslene om hvor stor skade som kan gjøres med kunstig intelligens. – AI er absolutt kraftig nok til å drive hendelser som, du vet, forårsaker en milliard dødsfall. Du vet, selv om det er vanskelig å komme til 100 prosent, så har det aldri funnes et så kraftig våpen som kombinasjonen av folk med onde hensikter som bruker de seneste AI-verktøyene, sier Gates til NBC. Bill Gates’ løsning er økt overvåkning og regulering av teknologien. – Ingen tror at selvregulering er nok, sier Gates til NBC. – Politimyndighetene og politikerne må inn i diskusjonen rundt hvordan man kan beskytte seg og overvåkne dette, sier han.",
-      "keyPoints": [
-        "Ifølge NBC spiller han ikke ned advarslene om hvor stor skade som kan gjøres med kunstig intelligens. – AI er absolutt kraftig nok til å drive hendelser som, du vet, forårsaker en milliard dødsfall.",
-        "Du vet, selv om det er vanskelig å komme til 100 prosent, så har det aldri funnes et så kraftig våpen som kombinasjonen av folk med onde hensikter som bruker de seneste AI-verktøyene, sier Gates til NBC.",
-        "Bill Gates’ løsning er økt overvåkning og regulering av teknologien. – Ingen tror at selvregulering er nok, sier Gates til NBC. – Politimyndighetene og politikerne må inn i diskusjonen rundt hvordan man kan beskytte seg og overvåkne dette, sier han.",
-        "Bill Gates mener AI kan bli brukt til å forårsake enorme skader og ber om økt statlig kontroll."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zOqQ4r/vil-regulere-ai-kraftig-nok-til-aa-foraarsake-en-milliard-doedsfall",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4a79109e-0644-357b-b4d3-c4c860c10d46?fit=crop&h=675&upscale=true&w=1200&s=2f39a429af286c2d0a414269a62b20260b4f58bd",
-      "localImage": "assets/news/59f2166e9a58b8.jpg",
+      "image": "https://akamai.vgc.no/v2/images/be2cb359-6de3-363d-be31-7d09cba4a866?fit=crop&h=675&upscale=true&w=1200&s=e39be137b15e6d91201776d5e6d7be7be2ad9cd5",
+      "localImage": "assets/news/c57aa986d631c7.jpg",
       "score": 14
     }
   ]
