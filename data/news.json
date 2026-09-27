@@ -1,6 +1,6 @@
 {
-  "updatedAt": "27.09.2026 kl. 00:06",
-  "updatedISO": "2026-09-27T00:06:33.070983+02:00",
+  "updatedAt": "27.09.2026 kl. 02:37",
+  "updatedISO": "2026-09-27T02:37:04.532998+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,18 +43,18 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/bGO2jETaA9psmE_D94ECsAjPZat0NCenvvVPKe6Oe_1Q.jpg",
       "localImage": "assets/news/7c1d5dfe4c63a5.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "673ca43ccab615",
       "category": "Verden",
-      "published": "26.09. 20:17",
-      "publishedISO": "2026-09-26T20:17:12+02:00",
+      "published": "27.09. 00:15",
+      "publishedISO": "2026-09-27T00:15:59+02:00",
       "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-      "summary": "USAs president Donald Trump har avvist et iransk forslag om å gjenåpne Hormuzstredet for kommersiell skipsfart innen en uke. Abbas Araghchi sa at Iran ikke la til noen nye betingelser i sine siste forslag. Araghchi sa til journalister på fredag: \"Hvis de nødvendige betingelsene er oppfylt, kan sundet gjenåpnes, en normal maritim passasje gjenopprettes innen syv dager,\" la han til at \"handlingene som USA bør ta er ikke nye. Se: Trump truer med å 'utslette' Iran og i det minste ble utslettet til Iran hvis ikke en del-fire ble utformet. gjenåpne Hormuzstredet.",
+      "summary": "USAs president Donald Trump har avvist et iransk forslag om å gjenåpne Hormuzstredet for kommersiell skipsfart innen en uke. Abbas Araghchi sa at Iran ikke la til noen nye betingelser i sine siste forslag Araghchi sa til journalister på fredag: \"Hvis de nødvendige betingelsene er oppfylt, kan sundet gjenåpnes, en normal maritim passasje gjenopprettes innen syv dager,\" la han til at \"handlingene som USA bør ta er ikke nye. Se: Trump truer med å 'utslette' Iran og i det minste ble utslettet til Iran hvis ingen delfyring i det minste ble utformet. gjenåpne Hormuzstredet.",
       "keyPoints": [
         "Se: Trump truer med å \"utslette\" Iran hvis ingen avtale oppnås. MOUen var utformet for å få til en våpenhvile og i det minste delvis gjenåpne Hormuzstredet.",
-        "Abbas Araghchi sa at Iran ikke la til noen nye betingelser i sine siste forslag, sa Araghchi til journalister fredag: \"Hvis de nødvendige betingelsene er oppfylt, kan sundet gjenåpnes, en normal maritim passasje gjenopprettes innen syv dager,\" la han til at \"handlingene som USA bør ta er ikke nye.",
+        "Abbas Araghchi sa at Iran ikke la til noen nye betingelser i sine siste forslag, sa Araghchi til journalister fredag: «Hvis de nødvendige betingelsene er oppfylt, kan sundet gjenåpnes, en normal maritim passasje gjenopprettes innen syv dager», la han til at «handlingene som USA bør ta er ikke nye.",
         "USAs president Donald Trump har avvist et iransk forslag om å gjenåpne Hormuzstredet for kommersiell skipsfart innen en uke.",
         "Den livsviktige vannveien som rundt en femtedel av verdens gass- og oljeforsyning vanligvis strømmer gjennom, har vært effektivt stengt siden krigsutbruddet i februar. «Jeg avviser avtalen deres», sa Trump lørdag, og la til at USA allerede hadde «total kontroll» over stredet, med «massive mengder olje» som passerte gjennom det. «De ønsker å gjøre en avtale, og jeg synes det er greit."
       ],
@@ -106,28 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/79566e7c-457b-3a76-9e0b-5dfafa08ce06?fit=crop&h=675&upscale=true&w=1200&s=3c8f7db602b79c502ba30f1a8fa877a68259610c",
       "localImage": "assets/news/2f3a0133760589.jpg",
-      "score": 16
-    },
-    {
-      "id": "23343ea9391cd2",
-      "category": "AI",
-      "published": "24.09. 17:42",
-      "publishedISO": "2026-09-24T17:42:07+02:00",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "summary": "Se: Hva du trenger å vite om OpenAI Australian Government Hack En useriøs OpenAI-agent hacket et australsk regjeringsnettsted i juni og fikk tilgang til private data i det eksperter sier er det første kjente tilfellet av sitt slag i verden. Agenten \"infiltrerte\" en statistikkportal som inneholder \"ikke-sensitive\" data fra Australias universelle helsevesen Medicare, sa statsminister Anthony Albanese i New York onsdag, lokal tid. OpenAI sa at de først fikk vite om bruddet i august mens de gjennomgikk «feiljustert modellaktivitet» og sendte en e-post til en generell innboks til et australsk myndighetsorgan 10. september.",
-      "keyPoints": [
-        "Se: Hva du trenger å vite om OpenAI Australian Government Hack En useriøs OpenAI-agent hacket et australsk regjeringsnettsted i juni og fikk tilgang til private data i det eksperter sier er det første kjente tilfellet av sitt slag i verden.",
-        "OpenAI sa at de først fikk vite om bruddet i august mens de gjennomgikk «feiljustert modellaktivitet» og sendte en e-post til en generell innboks til et australsk myndighetsorgan 10. september.",
-        "Agenten \"infiltrerte\" en statistikkportal som inneholder \"ikke-sensitive\" data fra Australias universelle helsevesen Medicare, sa statsminister Anthony Albanese i New York onsdag, lokal tid.",
-        "Den australske lederen sa at Altman hadde erkjent at det var \"problemer med protokoller\" ved OpenAI."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/23343ea9391cd2.jpg",
-      "score": 12
+      "score": 15
     },
     {
       "id": "59420050ef3d7e",
@@ -169,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jdQmzt1yEEUpa7txUbZIuQjcSFqvxuf3_C044CgZCMVA.jpg",
       "localImage": "assets/news/dcabc0677a2391.webp",
-      "score": 15
+      "score": 14
     },
     {
       "id": "7984f6c222b836",
@@ -212,6 +191,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/217d/live/4be6b6f0-b9b0-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/07c3fc6b49f636.jpg",
       "score": 13
+    },
+    {
+      "id": "27f4f5c4881161",
+      "category": "Norge",
+      "published": "26.09. 19:46",
+      "publishedISO": "2026-09-26T19:46:56+02:00",
+      "title": "Avslutta ulvejakt etter DNA-funn: – Leik med dyrevelferd",
+      "summary": "Då ulven tok dette lammet i Evje og Hornnes i Agder, blei det også sikra DNA-prøver frå ulven. Denne veka blei det gjeve fellingsløyve på ein ulv i Agder. Laurdag omgjorde Statsforvaltaren i Agder vedtaket om fellingsløyve, og jakta er no avslutta. – Dette er ein leik med dyrevelferd og det er veldig lite greitt at vi blir eit offer for det, seier Kåre Blålid, leiar i Agder Sau og Geit.",
+      "keyPoints": [
+        "Laurdag omgjorde Statsforvaltaren i Agder vedtaket om fellingsløyve, og jakta er no avslutta. – Dette er ein leik med dyrevelferd og det er veldig lite greitt at vi blir eit offer for det, seier Kåre Blålid, leiar i Agder Sau og Geit.",
+        "Då ulven tok dette lammet i Evje og Hornnes i Agder, blei det også sikra DNA-prøver frå ulven.",
+        "Denne veka blei det gjeve fellingsløyve på ein ulv i Agder.",
+        "Noreg og Sverige har blitt samde om felles retningslinjer for korleis ein kan sikre at genetisk viktige dyr ikkje blir jakta Og ulven som streifar gjennom Agder er eit slikt dyr. – Så langt som mogleg skal det ikkje gå føre seg skadefellingsjakt eller lisensjakt på dei, seier Anette Aanesland, assisterande statsforvaltar i Agder."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/avslutta-ulvejakt-etter-dna-funn_-_-leik-med-dyrevelferd-1.18037561",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/NFvV8GCNKMQtqfWA6TXSdggd8WqCAsIVFEFycmnmIXlQ.jpg",
+      "localImage": "assets/news/27f4f5c4881161.jpg",
+      "score": 12
     }
   ]
 }
