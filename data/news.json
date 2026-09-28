@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28.09.2026 kl. 00:34",
-  "updatedISO": "2026-09-28T00:34:37.706678+02:00",
+  "updatedAt": "28.09.2026 kl. 03:12",
+  "updatedISO": "2026-09-28T03:12:57.170427+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,15 +22,15 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/H6G47wpGieWJdqqEI7j7KQ4GnOmAD7oN7NUvNHUmSYCA.jpg",
       "localImage": "assets/news/27dc9d9609d62c.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "a05e42b7aff202",
       "category": "Verden",
       "published": "27.09. 22:05",
       "publishedISO": "2026-09-27T22:05:07+02:00",
-      "title": "Oppturene og nedturene på Space Xs Starship-testflyvninger",
-      "summary": "SpaceX planlegger å gjennomføre sin 14. Starship-raketttestflyging på mandag. Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger. Video, 00:01:31Se: Oppturene og nedturene av SpaceXs 13 Starship-testflyvninger Up Next.",
+      "title": "Oppturene og nedturene til Space Xs Starship-testflyvninger",
+      "summary": "SpaceX planlegger å gjennomføre sin 14. Starship raketttestflyging på mandag. Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger. Video, 00:01:31Se: Oppturene og nedturene av SpaceXs 13 Starship-testflyvninger Up Next.",
       "keyPoints": [
         "Video, 00:01:31Se: Oppturene og nedturene av SpaceXs 13 Starship-testflyvninger Up Next.",
         "SpaceX is planning to carry out its 14th Starship rocket test flight on Monday.",
@@ -43,7 +43,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67d7/live/f341a470-baad-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/a05e42b7aff202.jpg",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "285ccc1b99bc77",
+      "category": "USA",
+      "published": "27.09. 22:10",
+      "publishedISO": "2026-09-27T22:10:51+02:00",
+      "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
+      "summary": "En stor hendelse ble erklært og dusinvis av hjem i nærheten av RAF Fairford i Gloucestershire ble evakuert etter rapporten rundt 00:45 BST søndag. Hva vi vet om RAF Fairford-motterrorsonde Flere spørsmål enn svar etter en stor hendelse nær flybasen. Statsminister Andy Burnham ble holdt oppdatert om den \"dypt bekymringsfulle\" situasjonen nær basen. Dette bildet sirkulerte etter arrestasjonene av fem menn i nærheten av RAF Fairford Counter Terrorism Policing (CTP) og Gloucestershire-politiet sa at etterforskningen var i et tidlig stadium, med de fem mennene fortsatt i varetekt fra søndag kveld.",
+      "keyPoints": [
+        "Hva vi vet om RAF Fairford-motterrorsonde Flere spørsmål enn svar etter en stor hendelse nær flybasen. Statsminister Andy Burnham ble holdt oppdatert om den \"dypt bekymringsfulle\" situasjonen nær basen.",
+        "En stor hendelse ble erklært og dusinvis av hjem i nærheten av RAF Fairford i Gloucestershire ble evakuert etter rapporten rundt 00:45 BST søndag.",
+        "Dette bildet sirkulerte etter arrestasjonene av fem menn i nærheten av RAF Fairford Counter Terrorism Policing (CTP) og Gloucestershire-politiet sa at etterforskningen var i et tidlig stadium, med de fem mennene fortsatt i varetekt fra søndag kveld.",
+        "Politiet forble på stedet hele dagen. Fem menn har blitt arrestert mistenkt for å ha forberedt en terrorhandling og eksplosive lovbrudd etter at tre «mistenkelige kjøretøy» ble rapportert på vei mot en RAF-base, opplyser politiet."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqrm99mm9l84o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81eb/live/0d9d7aa0-bab4-11f1-bb00-3d60b0ebadb6.jpg",
+      "localImage": "assets/news/285ccc1b99bc77.jpg",
+      "score": 12
     },
     {
       "id": "0a95d357b9e5bf",
@@ -85,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/dc341935-59e3-3651-9298-345a60165191?fit=crop&h=675&upscale=true&w=1200&s=8793e63ca20642ce5772fcb12a9757064f1e2be8",
       "localImage": "assets/news/ad77937404575a.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "84d57bf8ee0176",
@@ -106,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/8vyGnKTHYTONESod33OOUATICcE2IuRtsyFNL8B1FcjQ.jpg",
       "localImage": "assets/news/84d57bf8ee0176.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "7c1d5dfe4c63a5",
@@ -127,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/bGO2jETaA9psmE_D94ECsAjPZat0NCenvvVPKe6Oe_1Q.jpg",
       "localImage": "assets/news/7c1d5dfe4c63a5.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "0ed582d506f4f4",
@@ -172,45 +193,24 @@
       "score": 14
     },
     {
-      "id": "d3a0b0bd9bdefd",
-      "category": "Økonomi",
-      "published": "27.09. 11:20",
-      "publishedISO": "2026-09-27T11:20:39+02:00",
-      "title": "Salgsflom i fjellet: – Et tydelig kjøpers marked",
-      "summary": "Per fredag 25. september var det 3.841 aktive annonser på Finn.no, 65 færre enn på samme dato i fjor. – Fjellhyttemarkedet er et tydelig kjøpers marked nå. Så langt i årPer 25. september. har nær 8078,8 prosent. prosent av andelen solgte fjellhytter, eller fire av fem, blitt solgt under prisantydning, ifølge Finn.no. Fjellhytter til mellom 5 og 10 millioner kroner er opp 5 prosent til 792 aktive, fra samme tid i fjor, ifølge Finn.no Men, veksten er størst for de dyrere hyttene, opp 10 prosent til 134 aktive annonser over samme periode. – Fra 2021 til nå har antallet fjellhytter til salgs over 10 millioner mer enn femdoblet seg, sier Dysthe.",
-      "keyPoints": [
-        "Per fredag 25. september var det 3.841 aktive annonser på Finn.no, 65 færre enn på samme dato i fjor. – Fjellhyttemarkedet er et tydelig kjøpers marked nå.",
-        "Fjellhytter til mellom 5 og 10 millioner kroner er opp 5 prosent til 792 aktive, fra samme tid i fjor, ifølge Finn.no Men, veksten er størst for de dyrere hyttene, opp 10 prosent til 134 aktive annonser over samme periode. – Fra 2021 til nå har antallet fjellhytter til salgs over 10 millioner mer enn femdoblet seg, sier Dysthe.",
-        "Så langt i årPer 25. september. har nær 8078,8 prosent. prosent av andelen solgte fjellhytter, eller fire av fem, blitt solgt under prisantydning, ifølge Finn.no.",
-        "Salget hittil i år (2.513) ligger 3 prosent under fjoråret, der både nye annonser og salg går ned, ifølge Finn. – Lageret vokser fordi hyttene bruker lengre tid før de blir solgt, ikke fordi flere enn normalt kommer på markedet, sier Dysthe."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/Rjkj4W/salgsflom-i-fjellet-et-tydelig-kjoepers-marked",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/768029e6-e47a-33db-b5a8-0228dd42ede2?fit=crop&h=675&upscale=true&w=1200&s=5a1647cbd66e338ab467a98be1cbf2a39c2d24b1",
-      "localImage": "assets/news/d3a0b0bd9bdefd.jpg",
-      "score": 14
-    },
-    {
-      "id": "9c6fc4be3f171a",
+      "id": "0f7f3049bd751f",
       "category": "Norge",
       "published": "27.09. 23:32",
       "publishedISO": "2026-09-27T23:32:12+02:00",
       "title": "I harnisk etter Ødegaard-takling: – Grisete og stygt",
-      "summary": "Det er en grisete spiller, og det der er helt unødvendig. Stygt er det, freste TV 2s ekspertkommentator Simen Stamsø Møller like etter at portugiseren hadde meid ned Martin Ødegaard. For på overtid av Norges 1-2-tap mot Portugal vartet den tidligere Manchester City-kapteinen opp med en ordentlig ettersleng på Norges kaptein.",
+      "summary": "På overtid av Norges 1-2-tap mot Portugal vartet den tidligere Manchester City-kapteinen opp med en ordentlig ettersleng på Norges kaptein. Jeg skjønner ikke hva han driver med, sier Ødegaard til TV 2. Stygt er det, freste TV 2s ekspertkommentator Simen Stamsø Møller like etter at portugiseren hadde meid ned Ødegaard.",
       "keyPoints": [
-        "Stygt er det, freste TV 2s ekspertkommentator Simen Stamsø Møller like etter at portugiseren hadde meid ned Martin Ødegaard.",
-        "Det er en grisete spiller, og det der er helt unødvendig.",
-        "For på overtid av Norges 1-2-tap mot Portugal vartet den tidligere Manchester City-kapteinen opp med en ordentlig ettersleng på Norges kaptein.",
-        "Det er helt unødvendig sånn jeg ser det, sier Patrick Berg til NRK. – Jeg så den akkurat igjen og det var en ganske stygg ettersleng med et spark, så at han ikke blir straffet noe mer enn det, det synes jeg er litt rart, sier Benfica-spilleren og fortsetter: – Da jeg så det igjen så var det et ganske bevisst spark."
+        "Stygt er det, freste TV 2s ekspertkommentator Simen Stamsø Møller like etter at portugiseren hadde meid ned Ødegaard.",
+        "På overtid av Norges 1-2-tap mot Portugal vartet den tidligere Manchester City-kapteinen opp med en ordentlig ettersleng på Norges kaptein.",
+        "Jeg skjønner ikke hva han driver med, sier Ødegaard til TV 2.",
+        "Det er en grisete spiller, og det der er helt unødvendig."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/sport/i-harnisk-etter-odegaard-takling_-_-grisete-og-stygt-1.18038236",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/MXudAxI7kbiGZMQjTQFRvAcEzfTGZ-sCH656oVClUo4A.jpg",
-      "localImage": "assets/news/9c6fc4be3f171a.webp",
+      "localImage": "assets/news/0f7f3049bd751f.webp",
       "score": 13
     }
   ]
