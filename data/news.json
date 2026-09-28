@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28.09.2026 kl. 03:12",
-  "updatedISO": "2026-09-28T03:12:57.170427+02:00",
+  "updatedAt": "28.09.2026 kl. 08:58",
+  "updatedISO": "2026-09-28T08:58:02.443546+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,41 +22,40 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/H6G47wpGieWJdqqEI7j7KQ4GnOmAD7oN7NUvNHUmSYCA.jpg",
       "localImage": "assets/news/27dc9d9609d62c.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "a05e42b7aff202",
+      "id": "1a3df41253d763",
       "category": "Verden",
-      "published": "27.09. 22:05",
-      "publishedISO": "2026-09-27T22:05:07+02:00",
-      "title": "Oppturene og nedturene til Space Xs Starship-testflyvninger",
-      "summary": "SpaceX planlegger å gjennomføre sin 14. Starship raketttestflyging på mandag. Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger. Video, 00:01:31Se: Oppturene og nedturene av SpaceXs 13 Starship-testflyvninger Up Next.",
+      "published": "28.09. 08:22",
+      "publishedISO": "2026-09-28T08:22:52+02:00",
+      "title": "Se: Madonna og Taylor Swift vinner stort på MTV VMAs",
+      "summary": "Taylor Swift, Madonna og LISA var blant de store vinnerne ved MTV Video Music Awards (VMAs) søndag kveld i Los Angeles sentrum. Se: Madonna og Taylor Swift vinner stort på MTV VMAs. Video, 00:00:58Se: Madonna og Taylor Swift vinner stort på MTV VMAs Up Next.",
       "keyPoints": [
-        "Video, 00:01:31Se: Oppturene og nedturene av SpaceXs 13 Starship-testflyvninger Up Next.",
-        "SpaceX is planning to carry out its 14th Starship rocket test flight on Monday.",
-        "Men som BBCs Ricky Boleto melder, har det vært mange opp- og nedturer underveis.",
-        "Hvis det lykkes, vil det være det første stjerneskipet som går i bane rundt jorden og det lengste som noen gang har fløyet."
+        "Se: Madonna og Taylor Swift vinner stort på MTV VMAs.",
+        "Video, 00:01:03Taylor Swift og Charli XCX blant stjerner for å lyse opp VMAs røde løper Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger.",
+        "I mellomtiden ble Taylor Swift tildelt den første æresbevisningen for artist regissør noensinne og vant også nattens beste pris, årets video."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cm0e30lpngxpo",
+      "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/67d7/live/f341a470-baad-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/a05e42b7aff202.jpg",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/822a/live/5cfc7bf0-bb04-11f1-bd21-bdf910f2cec6.jpg",
+      "localImage": "assets/news/1a3df41253d763.jpg",
+      "score": 13
     },
     {
       "id": "285ccc1b99bc77",
       "category": "USA",
-      "published": "27.09. 22:10",
-      "publishedISO": "2026-09-27T22:10:51+02:00",
+      "published": "28.09. 08:17",
+      "publishedISO": "2026-09-28T08:17:12+02:00",
       "title": "Five arrested as counter-terror police investigate major incident near RAF Fairford",
       "summary": "En stor hendelse ble erklært og dusinvis av hjem i nærheten av RAF Fairford i Gloucestershire ble evakuert etter rapporten rundt 00:45 BST søndag. Hva vi vet om RAF Fairford-motterrorsonde Flere spørsmål enn svar etter en stor hendelse nær flybasen. Statsminister Andy Burnham ble holdt oppdatert om den \"dypt bekymringsfulle\" situasjonen nær basen. Dette bildet sirkulerte etter arrestasjonene av fem menn i nærheten av RAF Fairford Counter Terrorism Policing (CTP) og Gloucestershire-politiet sa at etterforskningen var i et tidlig stadium, med de fem mennene fortsatt i varetekt fra søndag kveld.",
       "keyPoints": [
         "Hva vi vet om RAF Fairford-motterrorsonde Flere spørsmål enn svar etter en stor hendelse nær flybasen. Statsminister Andy Burnham ble holdt oppdatert om den \"dypt bekymringsfulle\" situasjonen nær basen.",
         "En stor hendelse ble erklært og dusinvis av hjem i nærheten av RAF Fairford i Gloucestershire ble evakuert etter rapporten rundt 00:45 BST søndag.",
         "Dette bildet sirkulerte etter arrestasjonene av fem menn i nærheten av RAF Fairford Counter Terrorism Policing (CTP) og Gloucestershire-politiet sa at etterforskningen var i et tidlig stadium, med de fem mennene fortsatt i varetekt fra søndag kveld.",
-        "Politiet forble på stedet hele dagen. Fem menn har blitt arrestert mistenkt for å ha forberedt en terrorhandling og eksplosive lovbrudd etter at tre «mistenkelige kjøretøy» ble rapportert på vei mot en RAF-base, opplyser politiet."
+        "Politiet holdt seg på stedet hele dagen. Fem menn har blitt arrestert mistenkt for å ha forberedt en terrorhandling og eksplosive lovbrudd etter at tre «mistenkelige kjøretøy» ble rapportert på vei mot en RAF-base, opplyser politiet."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
@@ -64,7 +63,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81eb/live/0d9d7aa0-bab4-11f1-bb00-3d60b0ebadb6.jpg",
       "localImage": "assets/news/285ccc1b99bc77.jpg",
-      "score": 12
+      "score": 13
     },
     {
       "id": "0a95d357b9e5bf",
@@ -85,7 +84,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e3c47ca4-9a80-3776-8580-0f6b09ddd3b3?fit=crop&h=675&upscale=true&w=1200&s=0e431deec9515c85287d5d3ec4fea201b07b2b64",
       "localImage": "assets/news/0a95d357b9e5bf.jpg",
-      "score": 24
+      "score": 22
+    },
+    {
+      "id": "1ff6045a1000c1",
+      "category": "Økonomi",
+      "published": "28.09. 05:00",
+      "publishedISO": "2026-09-28T05:00:00+02:00",
+      "title": "Nscale-datasenter beskyldes for forurensning: – Elven blir grå og brun",
+      "summary": "Naboer til Røkkes AI-satsing i Narvik har varslet kommunen om misfarging av den lokale elven. De mener at episodene med misfarging av vannet i elven begynte etter at Nscale startet å bygge sitt gigantiske datasenter i Bjerkvik i Narvik kommune. Da blir elven grå og brun, sier Fjell. – Vi naboer har meldt fra til kommunen, men så spør kommunen de som forurenser, om de forurenser.",
+      "keyPoints": [
+        "Da blir elven grå og brun, sier Fjell. – Vi naboer har meldt fra til kommunen, men så spør kommunen de som forurenser, om de forurenser.",
+        "Naboer til Røkkes AI-satsing i Narvik har varslet kommunen om misfarging av den lokale elven.",
+        "De mener at episodene med misfarging av vannet i elven begynte etter at Nscale startet å bygge sitt gigantiske datasenter i Bjerkvik i Narvik kommune.",
+        "Fjell sier hun har opplevd flere ganger at vannet i elven ser ut som det hun beskriver som en tyktflytende, grå-brun masse. – De river opp terrenget for at området skal legges flatt til fabrikkområdet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/7paxG8/nscale-datasenter-beskyldes-for-forurensning-elven-blir-graa-og-brun",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/801212e2-e9ca-33a8-bad6-3700e0924b2c?fit=crop&h=675&upscale=true&w=1200&s=d3b451957912541ac8bfcb47eb5954232571ce42",
+      "localImage": "assets/news/1ff6045a1000c1.jpg",
+      "score": 20
     },
     {
       "id": "ad77937404575a",
@@ -106,28 +126,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/dc341935-59e3-3651-9298-345a60165191?fit=crop&h=675&upscale=true&w=1200&s=8793e63ca20642ce5772fcb12a9757064f1e2be8",
       "localImage": "assets/news/ad77937404575a.jpg",
-      "score": 19
-    },
-    {
-      "id": "84d57bf8ee0176",
-      "category": "Norge",
-      "published": "27.09. 20:13",
-      "publishedISO": "2026-09-27T20:13:52+02:00",
-      "title": "Raudt fryktar nytt prissjokk: – Regjeringa må gripe inn no",
-      "summary": "Raudt meiner regjeringa må gripe inn mot låge vassmagasin og høge straumprisar, men får lite støtte. URO: Raudt ber regjeringa gripe inn mot lite vatn i vassmagasina og konsekvensane av det. Dette er ein situasjon Raudt seier dei har åtvara regjeringa om fleire gonger – men at dei blir ignorerte.",
-      "keyPoints": [
-        "Raudt meiner regjeringa må gripe inn mot låge vassmagasin og høge straumprisar, men får lite støtte.",
-        "URO: Raudt ber regjeringa gripe inn mot lite vatn i vassmagasina og konsekvensane av det.",
-        "Dette er ein situasjon Raudt seier dei har åtvara regjeringa om fleire gonger – men at dei blir ignorerte.",
-        "Stortingsrepresentant Bjørnar Moxnes seier dei har åtvara regjeringa fleire gonger, men at dei blir ignorerte. – Regjeringa må på bana for å hindre skyhøge straumprisar, seier stortingsrepresentant Bjørnar Moxnes, som også har stilt ministeren eit skriftleg spørsmål om saka."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/raudt-fryktar-nytt-prissjokk_-_-regjeringa-ma-gripe-inn-no-1.18035986",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/8vyGnKTHYTONESod33OOUATICcE2IuRtsyFNL8B1FcjQ.jpg",
-      "localImage": "assets/news/84d57bf8ee0176.jpg",
-      "score": 16
+      "score": 18
     },
     {
       "id": "7c1d5dfe4c63a5",
@@ -148,7 +147,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/bGO2jETaA9psmE_D94ECsAjPZat0NCenvvVPKe6Oe_1Q.jpg",
       "localImage": "assets/news/7c1d5dfe4c63a5.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "0ed582d506f4f4",
@@ -169,48 +168,48 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/985b4593-b57d-388a-9306-f166e3ee65f7?fit=crop&h=675&upscale=true&w=1200&s=1f1600e24e0a6f48459fb8566590a09327651556",
       "localImage": "assets/news/0ed582d506f4f4.jpg",
-      "score": 15
-    },
-    {
-      "id": "b0d0e3ce86e5df",
-      "category": "Økonomi",
-      "published": "27.09. 14:12",
-      "publishedISO": "2026-09-27T14:12:47+02:00",
-      "title": "Bolig i Ski solgt 2,75 millioner over prisantydning",
-      "summary": "Etter 431 dager på markedet, drev to budgivere prisen opp til 12,25 millioner kroner. Noen ganger lønner det seg å ha is i magen: Boligen i Ski fra 1943 ble lagt ut for 10 millioner kroner i fjor sommer. Stavsholt sier det hører til sjeldenhetene at en bolig går så langt over prisantydningen etter såpass lang tid på markedet. – Det er første gang jeg har vært med på at en eiendom gikk så mye over prisantydning etter å ha ligget ute såpass lenge.",
-      "keyPoints": [
-        "Noen ganger lønner det seg å ha is i magen: Boligen i Ski fra 1943 ble lagt ut for 10 millioner kroner i fjor sommer.",
-        "Stavsholt sier det hører til sjeldenhetene at en bolig går så langt over prisantydningen etter såpass lang tid på markedet. – Det er første gang jeg har vært med på at en eiendom gikk så mye over prisantydning etter å ha ligget ute såpass lenge.",
-        "Etter 431 dager på markedet, drev to budgivere prisen opp til 12,25 millioner kroner.",
-        "Det vil si at den gikk 2,75 millioner kroner over prisantydningen etter 431 dager på markedet. «Det er ikke hverdagskost», skriver lokalavisen Østlandets Blad som omtalte saken først."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/9pRmG9/solgt-nesten-3-millioner-over-prisantydning-etter-et-droeyt-aar-viktig-aa-ha-taalmodighet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3a814c89-faa5-3daf-af05-f68f9691982f?fit=crop&h=675&upscale=true&w=1200&s=5088302cd6dee3b8a23d1af016e9ac12babc3d98",
-      "localImage": "assets/news/b0d0e3ce86e5df.jpg",
       "score": 14
     },
     {
-      "id": "0f7f3049bd751f",
+      "id": "7e946aaf71d223",
       "category": "Norge",
-      "published": "27.09. 23:32",
-      "publishedISO": "2026-09-27T23:32:12+02:00",
-      "title": "I harnisk etter Ødegaard-takling: – Grisete og stygt",
-      "summary": "På overtid av Norges 1-2-tap mot Portugal vartet den tidligere Manchester City-kapteinen opp med en ordentlig ettersleng på Norges kaptein. Jeg skjønner ikke hva han driver med, sier Ødegaard til TV 2. Stygt er det, freste TV 2s ekspertkommentator Simen Stamsø Møller like etter at portugiseren hadde meid ned Ødegaard.",
+      "published": "28.09. 07:24",
+      "publishedISO": "2026-09-28T07:24:37+02:00",
+      "title": "Fikk åpenbaring i VM: «Wow, her har det skjedd noe»",
+      "summary": "Andreas Schjelderup (22) fikk sjansen på Norges høyrekant mot Portugal. Patrick Berg forteller til NRK at han fikk en åpenbaring allerede under VM i USA. – Da vi kom på trening under VM-oppladningen, så tenkte jeg bare med en gang: «Wow, her har det skjedd noe». Solbakken svarer slik på NRKs spørsmål om han fikk gode svar fra 22-åringen. – Ja, han finner gode posisjoner inn i banen mens Aursnes kommer rundt, og de kombinerer godt.",
       "keyPoints": [
-        "Stygt er det, freste TV 2s ekspertkommentator Simen Stamsø Møller like etter at portugiseren hadde meid ned Ødegaard.",
-        "På overtid av Norges 1-2-tap mot Portugal vartet den tidligere Manchester City-kapteinen opp med en ordentlig ettersleng på Norges kaptein.",
-        "Jeg skjønner ikke hva han driver med, sier Ødegaard til TV 2.",
-        "Det er en grisete spiller, og det der er helt unødvendig."
+        "Patrick Berg forteller til NRK at han fikk en åpenbaring allerede under VM i USA. – Da vi kom på trening under VM-oppladningen, så tenkte jeg bare med en gang: «Wow, her har det skjedd noe».",
+        "Andreas Schjelderup (22) fikk sjansen på Norges høyrekant mot Portugal.",
+        "Solbakken svarer slik på NRKs spørsmål om han fikk gode svar fra 22-åringen. – Ja, han finner gode posisjoner inn i banen mens Aursnes kommer rundt, og de kombinerer godt.",
+        "Reagerer på Portugal-stjernens Ødegaard-svar: – Blir for dumt At han viste kvalitetene sine på trening allerede i VM, og demonstrerte overfor lagkameratene at han hadde tatt steg, mener han har sin naturlige forklaring. – I de fire-fem månedene før VM, så var det første gang jeg fikk spille hver eneste kamp i Benfica."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/i-harnisk-etter-odegaard-takling_-_-grisete-og-stygt-1.18038236",
+      "url": "https://www.nrk.no/sport/fikk-apenbaring-i-vm_-_wow_-her-har-det-skjedd-noe_-1.18038008",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/MXudAxI7kbiGZMQjTQFRvAcEzfTGZ-sCH656oVClUo4A.jpg",
-      "localImage": "assets/news/0f7f3049bd751f.webp",
+      "image": "https://gfx.nrk.no/rChg8fpQai2Hzv7EXoajbQA_LOqal8bNSZwOhAdLokow.jpg",
+      "localImage": "assets/news/7e946aaf71d223.jpg",
+      "score": 13
+    },
+    {
+      "id": "35feb4734cad1f",
+      "category": "Økonomi",
+      "published": "28.09. 07:22",
+      "publishedISO": "2026-09-28T07:22:50+02:00",
+      "title": "How much is in your savings account?",
+      "summary": "Video, 00:00:58Se: Madonna og Taylor Swift vinner stort på MTV VMAs Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger. Video, 00:01:02Se: BBC rapporterer fra frontlinjen av en eskalerende krig i Yemen. Se: Tusenvis viser seg å se paven under Lourdes og Paris besøk. Video, 00:01:27Se: Tusenvis viser seg å se paven under Lourdes og Paris besøk Se: Bangkok erklært flomkatastrofesone.",
+      "keyPoints": [
+        "Video, 00:01:02Se: BBC rapporterer fra frontlinjen av en eskalerende krig i Yemen. Se: Tusenvis viser seg å se paven under Lourdes og Paris besøk.",
+        "Video, 00:01:27Watch: Thousands turn out to see Pope during Lourdes and Paris visit Watch: Bangkok declared flood disaster zone.",
+        "Video, 00:00:58Se: Madonna og Taylor Swift vinner stort på MTV VMAs Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger.",
+        "Video, 00:01:31Se: Oppturene og nedturene av SpaceXs 13 Starship-testflyvninger Se: BBC rapporterer fra frontlinjen til en eskalerende krig i Jemen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cqrm99we3rjxo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4113/live/da550f40-b8f2-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/35feb4734cad1f.jpg",
       "score": 13
     }
   ]
