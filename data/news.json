@@ -1,27 +1,48 @@
 {
-  "updatedAt": "28.09.2026 kl. 08:58",
-  "updatedISO": "2026-09-28T08:58:02.443546+02:00",
+  "updatedAt": "28.09.2026 kl. 17:11",
+  "updatedISO": "2026-09-28T17:11:25.685467+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "27dc9d9609d62c",
-      "category": "Norge",
-      "published": "27.09. 10:47",
-      "publishedISO": "2026-09-27T10:47:31+02:00",
-      "title": "Den norske dronekrigeren",
-      "summary": "Nordmannen «Snow» jakter gjerningspersonene om natten. – Vi jobber med å stoppe dem og hindre dem i å kunne operere fritt, sier den høyreiste mannen med kallesignalet «Snow» til NRK. Den norske fremmedkrigeren har kjempet i Ukraina siden 2024. Den type krig som vi driver med her, er ikke det vi har trent på i Norge, forteller «Snow». «Snow» bruker en AK-74 som standardvåpen, men hadde med seg en hagle da han tok NRK med på oppdrag.",
+      "id": "4baa16877bb964",
+      "category": "Nord-Norge",
+      "published": "28.09. 14:17",
+      "publishedISO": "2026-09-28T14:17:07+02:00",
+      "title": "Fikk nei til bjørnejakt under elgjakta: – Vi vil anke",
+      "summary": "Statsforvalteren har sagt nei til å la elgjegerne felle bjørn i Susendalen. Før helga skrev avisa Helgelendingen at det i løpet av sommeren er påvist 21 bjørneangrep på sau og rein i både Susendal, Eiterådal, Vikdal, Svenningdal og Dunfjellet. Sankingen av sau skulle egentlig vært ferdig til elgjakta startet 25. september, men rovdyrene gjør arbeidet krevende. – Når det er rovdyr i området blir sauene jaget ut av sine vante plasser, sier Wika.",
       "keyPoints": [
-        "Den norske fremmedkrigeren har kjempet i Ukraina siden 2024.",
-        "Nordmannen «Snow» jakter gjerningspersonene om natten. – Vi jobber med å stoppe dem og hindre dem i å kunne operere fritt, sier den høyreiste mannen med kallesignalet «Snow» til NRK.",
-        "Den type krig som vi driver med her, er ikke det vi har trent på i Norge, forteller «Snow». «Snow» bruker en AK-74 som standardvåpen, men hadde med seg en hagle da han tok NRK med på oppdrag.",
-        "Salgsmannen blir jaktet av en russisk FPV-drone i Kherson, men overlever angrepet. – Hvis vi klarer å ta ut deres operatører eller treffe lagrene med droner, sprengstoff, drivstoff og det de trenger for å operere, føles det godt å beskytte de sivile nærme fronten, sier «Snow»."
+        "Sankingen av sau skulle egentlig vært ferdig til elgjakta startet 25. september, men rovdyrene gjør arbeidet krevende. – Når det er rovdyr i området blir sauene jaget ut av sine vante plasser, sier Wika.",
+        "Statsforvalteren har sagt nei til å la elgjegerne felle bjørn i Susendalen.",
+        "Før helga skrev avisa Helgelendingen at det i løpet av sommeren er påvist 21 bjørneangrep på sau og rein i både Susendal, Eiterådal, Vikdal, Svenningdal og Dunfjellet.",
+        "Ifølge svaret fra Statsforvalteren er ikke situasjonen nå ikke kan anses som en akutt. – Vi er nå på slutten av beitesesongen og normal sankedato er 15. september."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/fikk-nei-til-bjornejakt-under-elgjakta_-_-vi-vil-anke-1.18038908",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Ruf3J-8lLKS7EGgMV-fzKAhMv4Qh4DQYtZoflkQyktpA.jpg",
+      "localImage": "assets/news/4baa16877bb964.jpg",
+      "score": 13
+    },
+    {
+      "id": "77cc6b34147ab7",
+      "category": "Norge",
+      "published": "28.09. 16:49",
+      "publishedISO": "2026-09-28T16:49:03+02:00",
+      "title": "Horten kommune søker støtte etter 11 millioner i kostnader for båtfølge",
+      "summary": "Horten kommune har brukt over elleve millioner kroner på å få vekk båtfølget som er forvist fra flere havner i Oslofjorden. DYR REGNING: Båtfølge har kostet kommunen mange millioner kroner. Nå skriver lokalavisen Gjengangeren at oppholdet koster Horten kommune over elleve millioner kroner. – Det er mye penger, det er derfor vi søker om å få refundert kostnadene, sier kommunedirektør i Horten, Finn-Øyvind Langfjell.",
+      "keyPoints": [
+        "Nå skriver lokalavisen Gjengangeren at oppholdet koster Horten kommune over elleve millioner kroner. – Det er mye penger, det er derfor vi søker om å få refundert kostnadene, sier kommunedirektør i Horten, Finn-Øyvind Langfjell.",
+        "Horten kommune har brukt over elleve millioner kroner på å få vekk båtfølget som er forvist fra flere havner i Oslofjorden.",
+        "DYR REGNING: Båtfølge har kostet kommunen mange millioner kroner.",
+        "Det er heller ikke to streker under regninga på 11 millioner kroner, den kan bli høyere. – Pengene har gått til vakthold, rettslige prosesser, koordinering, kommunikasjon og båtfølge som sådan, så jeg tror regningen kan bli høyere."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/xl/den-norske-dronekrigeren-1.18031145",
+      "url": "https://www.nrk.no/vestfoldogtelemark/horten-kommune-soker-stotte-etter-11-millioner-i-kostnader-for-batfolge-1.18038838",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/H6G47wpGieWJdqqEI7j7KQ4GnOmAD7oN7NUvNHUmSYCA.jpg",
-      "localImage": "assets/news/27dc9d9609d62c.jpg",
+      "image": "https://gfx.nrk.no/YXR7LQCWbhws9zChH92aDwN2egv-EwcCf7IuCusWThhg.jpg",
+      "localImage": "assets/news/77cc6b34147ab7.jpg",
       "score": 17
     },
     {
@@ -33,16 +54,16 @@
       "summary": "Taylor Swift, Madonna og LISA var blant de store vinnerne ved MTV Video Music Awards (VMAs) søndag kveld i Los Angeles sentrum. Se: Madonna og Taylor Swift vinner stort på MTV VMAs. Video, 00:00:58Se: Madonna og Taylor Swift vinner stort på MTV VMAs Up Next.",
       "keyPoints": [
         "Se: Madonna og Taylor Swift vinner stort på MTV VMAs.",
-        "Video, 00:01:03Taylor Swift og Charli XCX blant stjerner for å lyse opp VMAs røde løper Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger.",
+        "Video, 00:01:03Taylor Swift og Charli XCX blant stjerner for å lyse opp VMAs røde løper Se: Var arrestasjonene nær RAF Fairford \"ren flaks\"?",
         "I mellomtiden ble Taylor Swift tildelt den første æresbevisningen for artist regissør noensinne og vant også nattens beste pris, årets video."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/videos/ckvgy6j4594yo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/822a/live/5cfc7bf0-bb04-11f1-bd21-bdf910f2cec6.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9360/live/451038a0-bb1e-11f1-a430-4d16ee157c41.jpg",
       "localImage": "assets/news/1a3df41253d763.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "285ccc1b99bc77",
@@ -63,7 +84,70 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/81eb/live/0d9d7aa0-bab4-11f1-bb00-3d60b0ebadb6.jpg",
       "localImage": "assets/news/285ccc1b99bc77.jpg",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "d854e89968f61d",
+      "category": "Økonomi",
+      "published": "28.09. 15:32",
+      "publishedISO": "2026-09-28T15:32:43+02:00",
+      "title": "Bredt Wall Street-fall",
+      "summary": "Renten på amerikanske statsobligasjoner med 10 års løpetid, ofte kalt «verdens viktigste rente», stiger til over 5,2 prosent mandag. I løpet av uken kommer ellers flere amerikanske nøkkeltall, der PCEPCE-indeksen (Personal Consumption Expenditures).-inflasjonstall onsdag kan gi markedsutslag og vise om Fed må fortsette renteøkninger, ifølge Handelsbanken-strateg Nils Kristian Knudsen. Fasiten er ventet å komme inn på 3,7 prosent på årsbasis i august, mens kjerne-PCE, som ser bort fra energi og matvarer, ventes til 3,3 prosent, samme nivåer som i juli.",
+      "keyPoints": [
+        "Renten på amerikanske statsobligasjoner med 10 års løpetid, ofte kalt «verdens viktigste rente», stiger til over 5,2 prosent mandag.",
+        "Fasiten er ventet å komme inn på 3,7 prosent på årsbasis i august, mens kjerne-PCE, som ser bort fra energi og matvarer, ventes til 3,3 prosent, samme nivåer som i juli.",
+        "I løpet av uken kommer ellers flere amerikanske nøkkeltall, der PCEPCE-indeksen (Personal Consumption Expenditures).-inflasjonstall onsdag kan gi markedsutslag og vise om Fed må fortsette renteøkninger, ifølge Handelsbanken-strateg Nils Kristian Knudsen.",
+        "Styret i Nvidia har godkjent en økning av tilbakekjøpsprogrammet for aksjer med 150 milliarder dollar."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/oEXzkV/bredt-wall-street-fall",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/dcea02ef-999c-375e-8bbd-2ddb8fa82902?fit=crop&h=675&upscale=true&w=1200&s=82d9f24f407074a4d87044f3ccf03ec8780ab1d9",
+      "localImage": "assets/news/d854e89968f61d.jpg",
+      "score": 27
+    },
+    {
+      "id": "11c06bad122c73",
+      "category": "Økonomi",
+      "published": "28.09. 10:39",
+      "publishedISO": "2026-09-28T10:39:42+02:00",
+      "title": "DNB setter opp boliglånsrenten",
+      "summary": "Nå setter DNB, Norges største bank, også opp renten på lån og innskudd. Banken skriver at boliglånsrenten i snitt økes med 0,25 prosentpoeng, mens renten på innskudd justeres med inntil 0,25 prosentpoeng. Fra før har blant andre Sparebank 1 Sør-Norge, Sparebank 1 Østfold Akershus, Nordea og Handelsbanken satt opp boliglånsrenten.",
+      "keyPoints": [
+        "Nå setter DNB, Norges største bank, også opp renten på lån og innskudd.",
+        "Fra før har blant andre Sparebank 1 Sør-Norge, Sparebank 1 Østfold Akershus, Nordea og Handelsbanken satt opp boliglånsrenten.",
+        "Banken skriver at boliglånsrenten i snitt økes med 0,25 prosentpoeng, mens renten på innskudd justeres med inntil 0,25 prosentpoeng.",
+        "For eksisterende boliglån hos DNB gjelder de nye satsene fra 29. november."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Bxg6j7/dnb-setter-opp-boliglaansrenten",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/82a4565c-c2b9-3abc-bad5-b0d55529f5be?fit=crop&h=675&upscale=true&w=1200&s=f7a27d7c4d4ac0eeae402491138e31348d851408",
+      "localImage": "assets/news/11c06bad122c73.jpg",
+      "score": 21
+    },
+    {
+      "id": "5c39ced906d389",
+      "category": "AI",
+      "published": "28.09. 13:16",
+      "publishedISO": "2026-09-28T13:16:08+02:00",
+      "title": "Apple ordered to pay $5.7bn in haptic tech patent case",
+      "summary": "Apple har blitt dømt til å betale 5,7 milliarder dollar (4,3 milliarder pund) i erstatning etter at en amerikansk jury fant ut at de hadde brukt et annet firmas teknologi uten tillatelse. Apples «Taptic Engine»-system – som muliggjør haptisk tilbakemelding i enhetene – debuterte først med Apple Watch i 2014. I november 2025 beordret en dommer Apple til å betale 634 millioner dollar, eksternt til medisinsk teknologifirmaet Masimo etter at en jury fant at det hadde krenket et patent for blodoksygenavlesningsteknologi.",
+      "keyPoints": [
+        "Apple har blitt dømt til å betale 5,7 milliarder dollar (4,3 milliarder pund) i erstatning etter at en amerikansk jury fant ut at de hadde brukt et annet firmas teknologi uten tillatelse.",
+        "I november 2025 beordret en dommer Apple til å betale 634 millioner dollar, eksternt til det medisinske teknologifirmaet Masimo etter at en jury fant at det hadde krenket et patent for avlesningsteknologi for blodoksygen.",
+        "Apples \"Taptic Engine\"-system - som muliggjør haptisk tilbakemelding i enhetene sine - debuterte først med Apple Watch i 2014.",
+        "Denne teknologien er innebygd i enheter som iPhone og Apple Watch."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg",
+      "localImage": "assets/news/5c39ced906d389.jpg",
+      "score": 17
     },
     {
       "id": "0a95d357b9e5bf",
@@ -84,7 +168,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e3c47ca4-9a80-3776-8580-0f6b09ddd3b3?fit=crop&h=675&upscale=true&w=1200&s=0e431deec9515c85287d5d3ec4fea201b07b2b64",
       "localImage": "assets/news/0a95d357b9e5bf.jpg",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "8ca76fc36f40bc",
+      "category": "Økonomi",
+      "published": "28.09. 09:00",
+      "publishedISO": "2026-09-28T09:00:19+02:00",
+      "title": "DNB-aksjen steg på positiv børs: – Medvind",
+      "summary": "Hovedindeksen på Oslo Børs endte opp 0,56 prosent på ukens første handelsdag. Forrige uke endte Hovedindeksen på Oslo Børs ned 1,5 prosent. DNB-aksjen steg 1,92 prosent etter at ABG Sundal Collier hevet anbefalingen sin til «kjøp».",
+      "keyPoints": [
+        "DNB-aksjen steg 1,92 prosent etter at ABG Sundal Collier hevet anbefalingen sin til «kjøp».",
+        "Hovedindeksen på Oslo Børs endte opp 0,56 prosent på ukens første handelsdag.",
+        "Forrige uke endte Hovedindeksen på Oslo Børs ned 1,5 prosent.",
+        "Kursmålet ble satt til 352 kroner, mens aksjen avsluttet til 323,2 kroner. – Det norske bankmarkedet er fortsatt konstruktivt, med bedring i etterspørselen etter lån, sterk innskuddsvekst, kortsiktige renter på relativt høye, men sunne nivåer, robuste aksjemarkeder og rekordhøye kapitalinnskudd som støtter gebyrinntektene, samt god kostnadskontroll, skriver analytiker Simon Skåland Brun."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/43MrBV/svak-oppgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c1b60313-584d-3e9f-b4c0-018fc2310877?fit=crop&h=675&upscale=true&w=1200&s=ca9cc6a65247cdabede9f3b3c8830304ac930164",
+      "localImage": "assets/news/8ca76fc36f40bc.jpg",
+      "score": 19
     },
     {
       "id": "1ff6045a1000c1",
@@ -105,112 +210,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/801212e2-e9ca-33a8-bad6-3700e0924b2c?fit=crop&h=675&upscale=true&w=1200&s=d3b451957912541ac8bfcb47eb5954232571ce42",
       "localImage": "assets/news/1ff6045a1000c1.jpg",
-      "score": 20
-    },
-    {
-      "id": "ad77937404575a",
-      "category": "Økonomi",
-      "published": "27.09. 21:34",
-      "publishedISO": "2026-09-27T21:34:30+02:00",
-      "title": "Sjefstrateg: – Derfor man skal opp med renten",
-      "summary": "Sjefstrateg Nils Kristian Knudsen i Handelsbanken har blikket rettet mot amerikansk inflasjon. Sjefstrateg aksjer, valuta og renter i Handelsbanken. – Hvis det kommer inn som ventet, bekrefter det at inflasjonen er for høy. Det er FedFederal Reserve (Fed), Den amerikanske sentralbanken. s hovedbekymring, og det er derfor man skal opp med renten, sier Knudsen til E24.",
-      "keyPoints": [
-        "Det er FedFederal Reserve (Fed), Den amerikanske sentralbanken. s hovedbekymring, og det er derfor man skal opp med renten, sier Knudsen til E24.",
-        "Sjefstrateg Nils Kristian Knudsen i Handelsbanken har blikket rettet mot amerikansk inflasjon.",
-        "Sjefstrateg aksjer, valuta og renter i Handelsbanken. – Hvis det kommer inn som ventet, bekrefter det at inflasjonen er for høy.",
-        "Brent for umiddelbar levering er fortsatt opp rundt 4,3 prosent den siste uken, og rundt 16,5 prosent den siste måneden."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/gk8j0B/sjefstrateg-derfor-man-skal-opp-med-renten",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/dc341935-59e3-3651-9298-345a60165191?fit=crop&h=675&upscale=true&w=1200&s=8793e63ca20642ce5772fcb12a9757064f1e2be8",
-      "localImage": "assets/news/ad77937404575a.jpg",
       "score": 18
-    },
-    {
-      "id": "7c1d5dfe4c63a5",
-      "category": "Norge",
-      "published": "26.09. 19:09",
-      "publishedISO": "2026-09-26T19:09:00+02:00",
-      "title": "Tore O. Sandvik mener et dybdekart fra polarinstituttet viser hvorfor USA ikke forlater Nato",
-      "summary": "Nordområdene har blitt viktigere etter at Sverige og Finland ble med i Nato, og er ifølge Sandvik en grunn til at USA aldri vil forlate alliansen. Når forsvarsministeren er på reise, har han med seg noe i lomma han mener er en grunn til at USA aldri vil forlate Nato. Vi spør ham om kartet forsvarsministeren drar med seg overalt – kartet Sandvik mener sikrer at USA aldri forlater Nato. – Jeg vil ikke være så bastant på det.",
-      "keyPoints": [
-        "Vi spør ham om kartet forsvarsministeren drar med seg overalt – kartet Sandvik mener sikrer at USA aldri forlater Nato. – Jeg vil ikke være så bastant på det.",
-        "Når forsvarsministeren er på reise, har han med seg noe i lomma han mener er en grunn til at USA aldri vil forlate Nato.",
-        "Nordområdene har blitt viktigere etter at Sverige og Finland ble med i Nato, og er ifølge Sandvik en grunn til at USA aldri vil forlate alliansen.",
-        "For å holde Nato-alliansen sammen. – Tror du USA noen gang kommer til å forlate Nato? – Den største trusselen mot USA er Kolahalvøya, og verdens største atomvåpenarsenal som er plassert der. – Så kartet er en viktig grunn til at USA ikke forlater Nato? – USA har ikke venner."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/xl/tore-o.-sandvik-mener-et-dybdekart-fra-polarinstituttet-viser-hvorfor-usa-ikke-forlater-nato-1.17999578",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/bGO2jETaA9psmE_D94ECsAjPZat0NCenvvVPKe6Oe_1Q.jpg",
-      "localImage": "assets/news/7c1d5dfe4c63a5.jpg",
-      "score": 14
-    },
-    {
-      "id": "0ed582d506f4f4",
-      "category": "Økonomi",
-      "published": "26.09. 13:20",
-      "publishedISO": "2026-09-26T13:20:36+02:00",
-      "title": "Fra rentekutt til heving på ett år: – Klart det føles smertefullt",
-      "summary": "Etter den siste rentehevingen fra Norges Bank til 4,5 prosent, er vi nå tilbake på samme nivå som vi hadde i starten av 2025. Mens norsk økonomi har klart seg bedre enn ventet i møte med relativt høy rente, har prisveksten vært vanskeligere å få ned enn sentralbanken hadde trodd. – Det er klart at da må Norges Bank, med inflasjonsmåletNorges Bank styrer etter et mål om å ha lav og stabil prisvekst på rundt to prosent. Argumentene var blant annet at prisveksten var klart høyere enn ventet, og at krigen i Midtøsten løftet energiprisene og skapte usikkerhet.",
-      "keyPoints": [
-        "Mens norsk økonomi har klart seg bedre enn ventet i møte med relativt høy rente, har prisveksten vært vanskeligere å få ned enn sentralbanken hadde trodd. – Det er klart at da må Norges Bank, med inflasjonsmåletNorges Bank styrer etter et mål om å ha lav og stabil prisvekst på rundt to prosent.",
-        "Etter den siste rentehevingen fra Norges Bank til 4,5 prosent, er vi nå tilbake på samme nivå som vi hadde i starten av 2025.",
-        "Argumentene var blant annet at prisveksten var klart høyere enn ventet, og at krigen i Midtøsten løftet energiprisene og skapte usikkerhet.",
-        "I juni 2025 begynte Norges Bank å kutte renten igjen, og den ble satt ytterligere ned til 4 prosent i september i fjor."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/zOpdqv/fra-rentekutt-til-heving-paa-ett-aar-klart-det-foeles-smertefullt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/985b4593-b57d-388a-9306-f166e3ee65f7?fit=crop&h=675&upscale=true&w=1200&s=1f1600e24e0a6f48459fb8566590a09327651556",
-      "localImage": "assets/news/0ed582d506f4f4.jpg",
-      "score": 14
-    },
-    {
-      "id": "7e946aaf71d223",
-      "category": "Norge",
-      "published": "28.09. 07:24",
-      "publishedISO": "2026-09-28T07:24:37+02:00",
-      "title": "Fikk åpenbaring i VM: «Wow, her har det skjedd noe»",
-      "summary": "Andreas Schjelderup (22) fikk sjansen på Norges høyrekant mot Portugal. Patrick Berg forteller til NRK at han fikk en åpenbaring allerede under VM i USA. – Da vi kom på trening under VM-oppladningen, så tenkte jeg bare med en gang: «Wow, her har det skjedd noe». Solbakken svarer slik på NRKs spørsmål om han fikk gode svar fra 22-åringen. – Ja, han finner gode posisjoner inn i banen mens Aursnes kommer rundt, og de kombinerer godt.",
-      "keyPoints": [
-        "Patrick Berg forteller til NRK at han fikk en åpenbaring allerede under VM i USA. – Da vi kom på trening under VM-oppladningen, så tenkte jeg bare med en gang: «Wow, her har det skjedd noe».",
-        "Andreas Schjelderup (22) fikk sjansen på Norges høyrekant mot Portugal.",
-        "Solbakken svarer slik på NRKs spørsmål om han fikk gode svar fra 22-åringen. – Ja, han finner gode posisjoner inn i banen mens Aursnes kommer rundt, og de kombinerer godt.",
-        "Reagerer på Portugal-stjernens Ødegaard-svar: – Blir for dumt At han viste kvalitetene sine på trening allerede i VM, og demonstrerte overfor lagkameratene at han hadde tatt steg, mener han har sin naturlige forklaring. – I de fire-fem månedene før VM, så var det første gang jeg fikk spille hver eneste kamp i Benfica."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/fikk-apenbaring-i-vm_-_wow_-her-har-det-skjedd-noe_-1.18038008",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/rChg8fpQai2Hzv7EXoajbQA_LOqal8bNSZwOhAdLokow.jpg",
-      "localImage": "assets/news/7e946aaf71d223.jpg",
-      "score": 13
-    },
-    {
-      "id": "35feb4734cad1f",
-      "category": "Økonomi",
-      "published": "28.09. 07:22",
-      "publishedISO": "2026-09-28T07:22:50+02:00",
-      "title": "How much is in your savings account?",
-      "summary": "Video, 00:00:58Se: Madonna og Taylor Swift vinner stort på MTV VMAs Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger. Video, 00:01:02Se: BBC rapporterer fra frontlinjen av en eskalerende krig i Yemen. Se: Tusenvis viser seg å se paven under Lourdes og Paris besøk. Video, 00:01:27Se: Tusenvis viser seg å se paven under Lourdes og Paris besøk Se: Bangkok erklært flomkatastrofesone.",
-      "keyPoints": [
-        "Video, 00:01:02Se: BBC rapporterer fra frontlinjen av en eskalerende krig i Yemen. Se: Tusenvis viser seg å se paven under Lourdes og Paris besøk.",
-        "Video, 00:01:27Watch: Thousands turn out to see Pope during Lourdes and Paris visit Watch: Bangkok declared flood disaster zone.",
-        "Video, 00:00:58Se: Madonna og Taylor Swift vinner stort på MTV VMAs Se: Oppturene og nedturene til SpaceXs 13 Starship-testflyvninger.",
-        "Video, 00:01:31Se: Oppturene og nedturene av SpaceXs 13 Starship-testflyvninger Se: BBC rapporterer fra frontlinjen til en eskalerende krig i Jemen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cqrm99we3rjxo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4113/live/da550f40-b8f2-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/35feb4734cad1f.jpg",
-      "score": 13
     }
   ]
 }
