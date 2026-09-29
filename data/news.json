@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28.09.2026 kl. 23:15",
-  "updatedISO": "2026-09-28T23:15:57.703198+02:00",
+  "updatedAt": "29.09.2026 kl. 03:04",
+  "updatedISO": "2026-09-29T03:04:04.573347+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,10 +22,10 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/YXR7LQCWbhws9zChH92aDwN2egv-EwcCf7IuCusWThhg.jpg",
       "localImage": "assets/news/77cc6b34147ab7.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "57a53cd9f91180",
+      "id": "fcf5c2c5a87753",
       "category": "Verden",
       "published": "28.09. 20:37",
       "publishedISO": "2026-09-28T20:37:15+02:00",
@@ -42,28 +42,28 @@
       "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6d3/live/86c72290-b8a8-11f1-8257-a79ccb54f692.jpg",
-      "localImage": "assets/news/57a53cd9f91180.jpg",
-      "score": 17
+      "localImage": "assets/news/fcf5c2c5a87753.jpg",
+      "score": 16
     },
     {
-      "id": "cc16f2e6926d3d",
+      "id": "194b586ae77009",
       "category": "USA",
-      "published": "28.09. 20:18",
-      "publishedISO": "2026-09-28T20:18:30+02:00",
-      "title": "What Trump's potential US diesel export ban could mean for you",
-      "summary": "USAs president Donald Trump har sagt at han vil støtte et forbud mot dieselprodusenter å selge til utlandet ettersom økende drivstoffpriser rammer sjåførene før midtveisvalget. Trump og støttespillerne hans sier at et forbud mot dieseleksport fra USA vil beskytte innenlandske forbrukere mot de økende kostnadene, men eksperter sier at det kan utløse store økonomiske bølger både hjemme og over hele verden hvis det skulle skje. Storbritannias kansler John Healey har sagt til BBC News at Storbritannia er i samtaler med amerikanske myndigheter om et potensielt dieseleksportforbud og har begynt å forberede seg på det.",
+      "published": "28.09. 22:31",
+      "publishedISO": "2026-09-28T22:31:59+02:00",
+      "title": "Why an investigation into alleged frat house gang rape is reopening",
+      "summary": "En tidligere student ved Cornell University, bare identifisert som Jane Doe, saksøker universitetet og syv brorskapsmedlemmer, og påstår at hun ble dopet og gjengvoldtatt over flere timer i oktober 2024 ved Cornells Chi Phi brorskapshus i Ithaca, New York. Hvorfor en etterforskning av påstått gjengvoldtekt fra et hus gjenåpnes. Video, 00:01:34Hvorfor en etterforskning av påstått gjengvoldtekt fra et hus gjenåpner Up Next.",
       "keyPoints": [
-        "Trump og støttespillerne hans sier at et forbud mot dieseleksport fra USA vil beskytte innenlandske forbrukere mot de økende kostnadene, men eksperter sier at det kan utløse store økonomiske bølger både hjemme og over hele verden hvis det skulle skje.",
-        "Storbritannias kansler John Healey har sagt til BBC News at Storbritannia er i samtaler med amerikanske myndigheter om et potensielt dieseleksportforbud og har begynt å forberede seg på det.",
-        "USAs president Donald Trump har sagt at han vil støtte et forbud mot dieselprodusenter å selge til utlandet ettersom økende drivstoffpriser rammer sjåførene før midtveisvalget.",
-        "Let us know Trump says he would back ban on diesel exports"
+        "Why an investigation into alleged frat house gang rape is reopening.",
+        "En tidligere student ved Cornell University, bare identifisert som Jane Doe, saksøker universitetet og syv brorskapsmedlemmer, og påstår at hun ble dopet og gjengvoldtatt over flere timer i oktober 2024 ved Cornells Chi Phi brorskapshus i Ithaca, New York.",
+        "Video, 00:01:08Watch: Bangkok declared flood disaster zone Why an international arrest warrant didn't stop Netanyahu's US trip.",
+        "Video, 00:01:38 Kvinner protesterer i gatene i Delhi etter en rekke seksuelle overgrep Se: BBC rapporterer fra frontlinjen av en eskalerende krig i Jemen."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo",
+      "url": "https://www.bbc.co.uk/news/videos/cqvgyrr0mrngo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e413/live/471b3a50-bb5f-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/cc16f2e6926d3d.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4c0f/live/09818250-bb7b-11f1-b505-77b42c904b07.jpg",
+      "localImage": "assets/news/194b586ae77009.jpg",
       "score": 13
     },
     {
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/82a4565c-c2b9-3abc-bad5-b0d55529f5be?fit=crop&h=675&upscale=true&w=1200&s=f7a27d7c4d4ac0eeae402491138e31348d851408",
       "localImage": "assets/news/11c06bad122c73.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "0a95d357b9e5bf",
@@ -106,28 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e3c47ca4-9a80-3776-8580-0f6b09ddd3b3?fit=crop&h=675&upscale=true&w=1200&s=0e431deec9515c85287d5d3ec4fea201b07b2b64",
       "localImage": "assets/news/0a95d357b9e5bf.jpg",
-      "score": 20
-    },
-    {
-      "id": "5c39ced906d389",
-      "category": "AI",
-      "published": "28.09. 13:16",
-      "publishedISO": "2026-09-28T13:16:08+02:00",
-      "title": "Apple ordered to pay $5.7bn in haptic tech patent case",
-      "summary": "Apple har blitt dømt til å betale 5,7 milliarder dollar (4,3 milliarder pund) i erstatning etter at en amerikansk jury fant ut at de hadde brukt et annet firmas teknologi uten tillatelse. Apples «Taptic Engine»-system – som muliggjør haptisk tilbakemelding i enhetene – debuterte først med Apple Watch i 2014. I november 2025 beordret en dommer Apple til å betale 634 millioner dollar, eksternt til medisinsk teknologifirmaet Masimo etter at en jury fant at det hadde krenket et patent for blodoksygenavlesningsteknologi.",
-      "keyPoints": [
-        "Apple har blitt dømt til å betale 5,7 milliarder dollar (4,3 milliarder pund) i erstatning etter at en amerikansk jury fant ut at de hadde brukt et annet firmas teknologi uten tillatelse.",
-        "I november 2025 beordret en dommer Apple til å betale 634 millioner dollar, eksternt til det medisinske teknologifirmaet Masimo etter at en jury fant at det hadde krenket et patent for avlesningsteknologi for blodoksygen.",
-        "Apples \"Taptic Engine\"-system - som muliggjør haptisk tilbakemelding i enhetene sine - debuterte først med Apple Watch i 2014.",
-        "Denne teknologien er innebygd i enheter som iPhone og Apple Watch."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg",
-      "localImage": "assets/news/5c39ced906d389.jpg",
-      "score": 16
+      "score": 19
     },
     {
       "id": "d854e89968f61d",
@@ -148,27 +127,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/dcea02ef-999c-375e-8bbd-2ddb8fa82902?fit=crop&h=675&upscale=true&w=1200&s=82d9f24f407074a4d87044f3ccf03ec8780ab1d9",
       "localImage": "assets/news/d854e89968f61d.jpg",
-      "score": 19
-    },
-    {
-      "id": "8ca76fc36f40bc",
-      "category": "Økonomi",
-      "published": "28.09. 09:00",
-      "publishedISO": "2026-09-28T09:00:19+02:00",
-      "title": "DNB-aksjen steg på positiv børs: – Medvind",
-      "summary": "Hovedindeksen på Oslo Børs endte opp 0,56 prosent på ukens første handelsdag. Forrige uke endte Hovedindeksen på Oslo Børs ned 1,5 prosent. DNB-aksjen steg 1,92 prosent etter at ABG Sundal Collier hevet anbefalingen sin til «kjøp».",
-      "keyPoints": [
-        "DNB-aksjen steg 1,92 prosent etter at ABG Sundal Collier hevet anbefalingen sin til «kjøp».",
-        "Hovedindeksen på Oslo Børs endte opp 0,56 prosent på ukens første handelsdag.",
-        "Forrige uke endte Hovedindeksen på Oslo Børs ned 1,5 prosent.",
-        "Kursmålet ble satt til 352 kroner, mens aksjen avsluttet til 323,2 kroner. – Det norske bankmarkedet er fortsatt konstruktivt, med bedring i etterspørselen etter lån, sterk innskuddsvekst, kortsiktige renter på relativt høye, men sunne nivåer, robuste aksjemarkeder og rekordhøye kapitalinnskudd som støtter gebyrinntektene, samt god kostnadskontroll, skriver analytiker Simon Skåland Brun."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/43MrBV/svak-oppgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c1b60313-584d-3e9f-b4c0-018fc2310877?fit=crop&h=675&upscale=true&w=1200&s=ca9cc6a65247cdabede9f3b3c8830304ac930164",
-      "localImage": "assets/news/8ca76fc36f40bc.jpg",
       "score": 18
     },
     {
@@ -193,6 +151,27 @@
       "score": 17
     },
     {
+      "id": "8ca76fc36f40bc",
+      "category": "Økonomi",
+      "published": "28.09. 09:00",
+      "publishedISO": "2026-09-28T09:00:19+02:00",
+      "title": "DNB-aksjen steg på positiv børs: – Medvind",
+      "summary": "Hovedindeksen på Oslo Børs endte opp 0,56 prosent på ukens første handelsdag. Forrige uke endte Hovedindeksen på Oslo Børs ned 1,5 prosent. DNB-aksjen steg 1,92 prosent etter at ABG Sundal Collier hevet anbefalingen sin til «kjøp».",
+      "keyPoints": [
+        "DNB-aksjen steg 1,92 prosent etter at ABG Sundal Collier hevet anbefalingen sin til «kjøp».",
+        "Hovedindeksen på Oslo Børs endte opp 0,56 prosent på ukens første handelsdag.",
+        "Forrige uke endte Hovedindeksen på Oslo Børs ned 1,5 prosent.",
+        "Kursmålet ble satt til 352 kroner, mens aksjen avsluttet til 323,2 kroner. – Det norske bankmarkedet er fortsatt konstruktivt, med bedring i etterspørselen etter lån, sterk innskuddsvekst, kortsiktige renter på relativt høye, men sunne nivåer, robuste aksjemarkeder og rekordhøye kapitalinnskudd som støtter gebyrinntektene, samt god kostnadskontroll, skriver analytiker Simon Skåland Brun."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/43MrBV/svak-oppgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c1b60313-584d-3e9f-b4c0-018fc2310877?fit=crop&h=675&upscale=true&w=1200&s=ca9cc6a65247cdabede9f3b3c8830304ac930164",
+      "localImage": "assets/news/8ca76fc36f40bc.jpg",
+      "score": 17
+    },
+    {
       "id": "e10ec254d11db0",
       "category": "Verden",
       "published": "28.09. 19:04",
@@ -211,7 +190,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f9/live/6c252360-bb5a-11f1-b3b3-91d0b491a464.jpg",
       "localImage": "assets/news/e10ec254d11db0.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "1ff6045a1000c1",
+      "category": "Økonomi",
+      "published": "28.09. 05:00",
+      "publishedISO": "2026-09-28T05:00:00+02:00",
+      "title": "Nscale-datasenter beskyldes for forurensning: – Elven blir grå og brun",
+      "summary": "Naboer til Røkkes AI-satsing i Narvik har varslet kommunen om misfarging av den lokale elven. De mener at episodene med misfarging av vannet i elven begynte etter at Nscale startet å bygge sitt gigantiske datasenter i Bjerkvik i Narvik kommune. Da blir elven grå og brun, sier Fjell. – Vi naboer har meldt fra til kommunen, men så spør kommunen de som forurenser, om de forurenser.",
+      "keyPoints": [
+        "Da blir elven grå og brun, sier Fjell. – Vi naboer har meldt fra til kommunen, men så spør kommunen de som forurenser, om de forurenser.",
+        "Naboer til Røkkes AI-satsing i Narvik har varslet kommunen om misfarging av den lokale elven.",
+        "De mener at episodene med misfarging av vannet i elven begynte etter at Nscale startet å bygge sitt gigantiske datasenter i Bjerkvik i Narvik kommune.",
+        "Fjell sier hun har opplevd flere ganger at vannet i elven ser ut som det hun beskriver som en tyktflytende, grå-brun masse. – De river opp terrenget for at området skal legges flatt til fabrikkområdet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/7paxG8/nscale-datasenter-beskyldes-for-forurensning-elven-blir-graa-og-brun",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/801212e2-e9ca-33a8-bad6-3700e0924b2c?fit=crop&h=675&upscale=true&w=1200&s=d3b451957912541ac8bfcb47eb5954232571ce42",
+      "localImage": "assets/news/1ff6045a1000c1.jpg",
+      "score": 16
     }
   ]
 }
