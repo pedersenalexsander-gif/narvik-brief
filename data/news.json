@@ -1,48 +1,69 @@
 {
-  "updatedAt": "29.09.2026 kl. 08:56",
-  "updatedISO": "2026-09-29T08:56:35.400458+02:00",
+  "updatedAt": "29.09.2026 kl. 15:48",
+  "updatedISO": "2026-09-29T15:48:45.335616+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "9059f9f8bd877e",
-      "category": "Norge",
-      "published": "29.09. 07:57",
-      "publishedISO": "2026-09-29T07:57:28+02:00",
-      "title": "Storstilt spionsatsing fra regjeringen: 400 millioner mer til E-tjenesten",
-      "summary": "Regjeringen vil gi E-tjenesten flere hundre millioner mer i neste års statsbudsjett. Summen kommer på toppen av fjorårsbudsjettet, der E-tjenesten fikk litt over 4,8 milliarder kroner. Det er det som er overskriften. – Vi går ikke mer inn på graderte vurderinger knyttet til det, men det er folk og teknologi det handler om i stor grad. – E-tjenesten trenger flere folk.",
+      "id": "2239864830b432",
+      "category": "Nord-Norge",
+      "published": "29.09. 09:30",
+      "publishedISO": "2026-09-29T09:30:55+02:00",
+      "title": "Mener FFI-stillinger også burde havnet i Bodø",
+      "summary": "Ordfører Odd-Emil Ingebrigtsen i Bodø (H) mener derimot at FFI-stillingene, også burde vært plassert i hans kommune. – Jeg mener det er helt naturlig å plassere noen av forskningsressursene i Andøya, men også i Bodø hvor det er generasjoner med kompetanse og erfaring innen forsvar, sikkerhet og beredskap, sier Ingebrigtsen. Han får støtte fra stortingspolitiker Bård Ludvig Thorheim (H) som mener det er en god tanke å etablere FFI-stillinger i nord, med et viktig premiss. Regjeringen har som kjent ikke flertall på Stortinget, er avhengig av andre partier for å få vedtatt budsjettet. – Det gjenstår å se hvordan Stortingets behandling av denne saken blir, sier Thorheim som har sin bakgrunn fra Forsvaret og etterettningstjenesten.",
       "keyPoints": [
-        "Regjeringen vil gi E-tjenesten flere hundre millioner mer i neste års statsbudsjett.",
-        "Det er det som er overskriften. – Vi går ikke mer inn på graderte vurderinger knyttet til det, men det er folk og teknologi det handler om i stor grad. – E-tjenesten trenger flere folk.",
-        "Summen kommer på toppen av fjorårsbudsjettet, der E-tjenesten fikk litt over 4,8 milliarder kroner.",
-        "Vardøradaren hvor E-tjenesten jobber med etterretning i Vardø. – Når vi nå bygger opp Forsvaret vårt, må vi vite hva trusselen er, hvor den er og hvilket tidsperspektiv det er på den."
+        "Ordfører Odd-Emil Ingebrigtsen i Bodø (H) mener derimot at FFI-stillingene, også burde vært plassert i hans kommune. – Jeg mener det er helt naturlig å plassere noen av forskningsressursene i Andøya, men også i Bodø hvor det er generasjoner med kompetanse og erfaring innen forsvar, sikkerhet og beredskap, sier Ingebrigtsen.",
+        "Han får støtte fra stortingspolitiker Bård Ludvig Thorheim (H) som mener det er en god tanke å etablere FFI-stillinger i nord, med et viktig premiss.",
+        "Regjeringen har som kjent ikke flertall på Stortinget, er avhengig av andre partier for å få vedtatt budsjettet. – Det gjenstår å se hvordan Stortingets behandling av denne saken blir, sier Thorheim som har sin bakgrunn fra Forsvaret og etterettningstjenesten.",
+        "I går ble det kjent at regjeringen foreslår å etablere ei ny avdeling av Forvarets forskningsinstitutt (FFI) i Tromsø, med en liten lokasjon også på Andøya."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/mener-ffi-stillinger-ogsa-burde-havnet-i-bodo-1.18039575",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Y1-CvttLeA4zR3BEb0M7Mw7Q35C-o0cyrk_e2GlyLsSA.jpg",
+      "localImage": "assets/news/2239864830b432.jpg",
+      "score": 36
+    },
+    {
+      "id": "8ad9bbc24a6cb6",
+      "category": "Norge",
+      "published": "29.09. 12:14",
+      "publishedISO": "2026-09-29T12:14:15+02:00",
+      "title": "Varsler tvangsmulkt mot KI-senter i Narvik",
+      "summary": "Nscale startet byggingen av datasenteret i Narvik før selskapet hadde levert en analyse av hva overskuddsvarmen kan brukes til. I Kvandalen utenfor Narvik er byggingen av Stargate Norway i gang. Nå har direktoratet pålagt selskapet å levere den innen 15. november. – Dersom vi ikke har mottatt denne innen 15. november, har vi varslet at de kan få tvangsmulkt, sier Nordberg.",
+      "keyPoints": [
+        "Nscale startet byggingen av datasenteret i Narvik før selskapet hadde levert en analyse av hva overskuddsvarmen kan brukes til.",
+        "I Kvandalen utenfor Narvik er byggingen av Stargate Norway i gang.",
+        "Nå har direktoratet pålagt selskapet å levere den innen 15. november. – Dersom vi ikke har mottatt denne innen 15. november, har vi varslet at de kan få tvangsmulkt, sier Nordberg.",
+        "Selskapene har også inngått en avtale om å levere KI-kapasitet til Microsoft fra Narvik."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/storstilt-spionsatsing-fra-regjeringen_-400-millioner-mer-til-e-tjenesten-1.18039475",
+      "url": "https://www.nrk.no/nordland/varsler-tvangsmulkt-mot-ki-senter-i-narvik-1.18039782",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/m-ltCPFi8JSosdVlnpTKqwvQlHDkKHwPMsYupmbtnzwQ.jpg",
-      "localImage": "assets/news/9059f9f8bd877e.jpg",
-      "score": 21
+      "image": "https://gfx.nrk.no/tx6Jt7Dz9p3YklsYiwoNxAHDLbPrWd5SdA3CzHO9AYGw.jpg",
+      "localImage": "assets/news/8ad9bbc24a6cb6.jpg",
+      "score": 20
     },
     {
-      "id": "fcf5c2c5a87753",
+      "id": "4032f39e6b72ff",
       "category": "Verden",
-      "published": "28.09. 20:37",
-      "publishedISO": "2026-09-28T20:37:15+02:00",
-      "title": "Stuck between superpowers: How Australia navigates the China-US rivalry",
-      "summary": "Men sikkerhetspartnerskapet mellom USA, Storbritannia og Australia - Aukus - bevæpning av Australia med atomubåter, er uten tvil det største eksemplet på utdyping av bånd. Når det kommer til Kina som investerer i Australia, er de imidlertid mer forsiktige. \"Det er en rekke europeiske land som er større investorer i Australia enn Kina, og det er fordi våre jurisdiksjoner er mye mer like, og det er et større nivå av tillit mellom våre myndigheter,\" sier Lyons-Jones. Med Australia fanget mellom to supermakter, har hver utveksling mellom deres ledere vekt.",
+      "published": "29.09. 03:12",
+      "publishedISO": "2026-09-29T03:12:52+02:00",
+      "title": "Watch: Are Trump's US government funded ads legal?",
+      "summary": "President Trump har møtt kritikk etter å ha frontet TV-reklamer betalt av den amerikanske regjeringen. BBC Verifys Jake Horton undersøkte annonsene og snakket med juridiske eksperter om deres lovlighet. Video, 00:01:30Er Trumps amerikanske regjeringsfinansierte annonser ulovlige?",
       "keyPoints": [
-        "With Australia caught between two superpowers, every exchange between their leaders carries weight.",
-        "Når det kommer til Kina som investerer i Australia, er de imidlertid mer forsiktige. \"Det er en rekke europeiske land som er større investorer i Australia enn Kina, og det er fordi våre jurisdiksjoner er mye mer like, og det er et større nivå av tillit mellom våre myndigheter,\" sier Lyons-Jones.",
-        "Men sikkerhetspartnerskapet mellom USA, Storbritannia og Australia - Aukus - bevæpning av Australia med atomubåter, er uten tvil det største eksemplet på utdyping av bånd.",
-        "China's Xi Jingping and Australia's Anthony Albanese in 2024."
+        "Video, 00:01:30Are Trump's US government funded ads illegal?",
+        "President Trump har møtt kritikk etter å ha frontet TV-reklamer betalt av den amerikanske regjeringen.",
+        "BBC Verifys Jake Horton undersøkte annonsene og snakket med juridiske eksperter om deres lovlighet.",
+        "Video, 00:01:15What happens next in the RAF Fairford investigation Watch: Luxury units uncovered inside an Indonesian prison."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c61wxyzr4rwyo",
+      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6d3/live/86c72290-b8a8-11f1-8257-a79ccb54f692.jpg",
-      "localImage": "assets/news/fcf5c2c5a87753.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e14/live/0a5827b0-bb85-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/4032f39e6b72ff.jpg",
       "score": 15
     },
     {
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ba837f34-1f82-3882-bf3f-a00fac495380?fit=crop&h=675&upscale=true&w=1200&s=1c08bcfa2d156854f2e4900b34ae12a6591f1f04",
       "localImage": "assets/news/5f4e54ed94f3b8.jpg",
-      "score": 20
+      "score": 18
     },
     {
       "id": "11c06bad122c73",
@@ -85,132 +106,111 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/82a4565c-c2b9-3abc-bad5-b0d55529f5be?fit=crop&h=675&upscale=true&w=1200&s=f7a27d7c4d4ac0eeae402491138e31348d851408",
       "localImage": "assets/news/11c06bad122c73.jpg",
-      "score": 18
-    },
-    {
-      "id": "5c39ced906d389",
-      "category": "AI",
-      "published": "28.09. 13:16",
-      "publishedISO": "2026-09-28T13:16:08+02:00",
-      "title": "Apple ordered to pay $5.7bn in haptic tech patent case",
-      "summary": "Apple har blitt dømt til å betale 5,7 milliarder dollar (4,3 milliarder pund) i erstatning etter at en amerikansk jury fant ut at de hadde brukt et annet firmas teknologi uten tillatelse. Apples «Taptic Engine»-system – som muliggjør haptisk tilbakemelding i enhetene – debuterte først med Apple Watch i 2014. I november 2025 beordret en dommer Apple til å betale 634 millioner dollar, eksternt til medisinsk teknologifirmaet Masimo etter at en jury fant at det hadde krenket et patent for blodoksygenavlesningsteknologi.",
-      "keyPoints": [
-        "Apple har blitt dømt til å betale 5,7 milliarder dollar (4,3 milliarder pund) i erstatning etter at en amerikansk jury fant ut at de hadde brukt et annet firmas teknologi uten tillatelse.",
-        "I november 2025 beordret en dommer Apple til å betale 634 millioner dollar, eksternt til det medisinske teknologifirmaet Masimo etter at en jury fant at det hadde krenket et patent for avlesningsteknologi for blodoksygen.",
-        "Apples \"Taptic Engine\"-system - som muliggjør haptisk tilbakemelding i enhetene sine - debuterte først med Apple Watch i 2014.",
-        "Denne teknologien er innebygd i enheter som iPhone og Apple Watch."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg",
-      "localImage": "assets/news/5c39ced906d389.jpg",
-      "score": 14
-    },
-    {
-      "id": "0a95d357b9e5bf",
-      "category": "Økonomi",
-      "published": "27.09. 12:17",
-      "publishedISO": "2026-09-27T12:17:27+02:00",
-      "title": "Hvordan forhindre krig som følge av kunstig intelligens?",
-      "summary": "USA og Kina har konkurrert om å utvikle stadig kraftigere AI-systemer, og ingen av dem har vist særlig vilje til å bremse utviklingen. Professor i rettsvitenskap ved University of Southern California Professor i ledelse og virksomhetsstyring ved London Business School E24s faste spaltister skriver jevnlig og gir uttrykk for sine egne holdninger. Et risikomoment er knyttet til hvordan kunstig intelligens blir stadig bedre til å identifisere sårbarheter i programvare og gjennomføre komplekse cyberoperasjoner.",
-      "keyPoints": [
-        "Et risikomoment er knyttet til hvordan kunstig intelligens blir stadig bedre til å identifisere sårbarheter i programvare og gjennomføre komplekse cyberoperasjoner.",
-        "Professor i rettsvitenskap ved University of Southern California Professor i ledelse og virksomhetsstyring ved London Business School E24s faste spaltister skriver jevnlig og gir uttrykk for sine egne holdninger.",
-        "USA og Kina har konkurrert om å utvikle stadig kraftigere AI-systemer, og ingen av dem har vist særlig vilje til å bremse utviklingen.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/teknologi/i/j0R3A9/hvordan-forhindre-krig-som-foelge-av-kunstig-intelligens",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e3c47ca4-9a80-3776-8580-0f6b09ddd3b3?fit=crop&h=675&upscale=true&w=1200&s=0e431deec9515c85287d5d3ec4fea201b07b2b64",
-      "localImage": "assets/news/0a95d357b9e5bf.jpg",
-      "score": 18
-    },
-    {
-      "id": "dcecdbf72fe893",
-      "category": "Norge",
-      "published": "29.09. 06:01",
-      "publishedISO": "2026-09-29T06:01:54+02:00",
-      "title": "Budsjettlekkasje frå regjeringa: Nesten 100 millionar til integrering",
-      "summary": "Regjeringa foreslår no å bruke 96 millionar kroner meir på integrering. – Regjeringa stiller opp, men stiller også krav i integreringspolitikken. Kjersti Stenseng vil bruke nesten 100 millionar kroner meir på integrering i neste års statsbudsjett. Blant anna vil regjeringa bruke nesten 18 millionar kroner på betre og meir fleksibel norskopplæring.",
-      "keyPoints": [
-        "Regjeringa foreslår no å bruke 96 millionar kroner meir på integrering. – Regjeringa stiller opp, men stiller også krav i integreringspolitikken.",
-        "Kjersti Stenseng vil bruke nesten 100 millionar kroner meir på integrering i neste års statsbudsjett.",
-        "Blant anna vil regjeringa bruke nesten 18 millionar kroner på betre og meir fleksibel norskopplæring.",
-        "Men professor etterlyser eit breiare fokus frå politikarane."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/budsjettlekkasje-fra-regjeringa_-nesten-100-millionar-til-integrering-1.18038493",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/vWgcYl79UiYvFDeHH-3Y8Q6ZOqj-2JJ5PqA-VYaHAhFg.jpg",
-      "localImage": "assets/news/dcecdbf72fe893.jpg",
       "score": 17
     },
     {
-      "id": "eb734d831f46dd",
-      "category": "Norge",
-      "published": "29.09. 05:41",
-      "publishedISO": "2026-09-29T05:41:33+02:00",
-      "title": "Turistnæringa i nord tjener rekordstore milliardbeløp – 90 prosent av skatten går til staten",
-      "summary": "Men 90 prosent av skattepengene går til staten, og 10 prosent tilbake til kommunene hvor turistaktiviteten skjer i. – Det oppleves ikke rett, men det er sånn det er, sier påtroppende reiselivssjef i Visit Tromsø-Region, Helga Bårdsdatter Kristiansen. Turistene strømmer særlig til Nord-Norge i vintersesongen, med mål om å se nordlyset. – Vi har innrettet skattesystemet sånn at de aller fleste skattene går til staten og ikke til kommunene. Jakobsen, partner og styreleder i Menon Economics. – Så går en del tilbake til kommunene via staten, men da er koblingen mellom reiselivsaktiviteten og belastningen som reiselivet gir på kommunen, helt frikoblet fra de inntektene man får.",
+      "id": "1297d8fa15e2f7",
+      "category": "Nord-Norge",
+      "published": "29.09. 11:33",
+      "publishedISO": "2026-09-29T11:33:28+02:00",
+      "title": "Nscale varsles om tvangsmulkt",
+      "summary": "NVE varsler tvangsmulkt mot datasenterselskapet Nscale Norway i Narvik. NVE varslet selskapet om den manglende analysen allerede i sommer. – At Nscale ikke har levert en slik analyse før byggingen startet, er alvorlig og et brudd på energiloven, sier NVE-direktør Inga Nordberg i en pressemelding. Nscale startet byggingen av datasenteret i Narvik før selskapet hadde levert en analyse av hva overskuddsvarmen kan brukes til.",
       "keyPoints": [
-        "Men 90 prosent av skattepengene går til staten, og 10 prosent tilbake til kommunene hvor turistaktiviteten skjer i. – Det oppleves ikke rett, men det er sånn det er, sier påtroppende reiselivssjef i Visit Tromsø-Region, Helga Bårdsdatter Kristiansen.",
-        "Jakobsen, partner og styreleder i Menon Economics. – Så går en del tilbake til kommunene via staten, men da er koblingen mellom reiselivsaktiviteten og belastningen som reiselivet gir på kommunen, helt frikoblet fra de inntektene man får.",
-        "Turistene strømmer særlig til Nord-Norge i vintersesongen, med mål om å se nordlyset. – Vi har innrettet skattesystemet sånn at de aller fleste skattene går til staten og ikke til kommunene.",
-        "Turistnæringen i Nord-Norge tjener rekordmye, men lite drypper tilbake på kommunene som får besøk."
+        "NVE varsler tvangsmulkt mot datasenterselskapet Nscale Norway i Narvik.",
+        "NVE varslet selskapet om den manglende analysen allerede i sommer. – At Nscale ikke har levert en slik analyse før byggingen startet, er alvorlig og et brudd på energiloven, sier NVE-direktør Inga Nordberg i en pressemelding.",
+        "Nscale startet byggingen av datasenteret i Narvik før selskapet hadde levert en analyse av hva overskuddsvarmen kan brukes til.",
+        "Dersom fristen ikke overholdes, kan selskapet få tvangsmulkt."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/nscale-varsles-om-tvangsmulkt-1.18039577",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/tx6Jt7Dz9p3YklsYiwoNxAHDLbPrWd5SdA3CzHO9AYGw.jpg",
+      "localImage": "assets/news/1297d8fa15e2f7.jpg",
+      "score": 20
+    },
+    {
+      "id": "9059f9f8bd877e",
+      "category": "Norge",
+      "published": "29.09. 07:57",
+      "publishedISO": "2026-09-29T07:57:28+02:00",
+      "title": "Storstilt spionsatsing fra regjeringen: 400 millioner mer til E-tjenesten",
+      "summary": "Regjeringen vil gi E-tjenesten flere hundre millioner mer i neste års statsbudsjett. Sandvik (Ap) i et intervju med NTB at regjeringen foreslår å styrke Etterretningstjenesten med 398,7 millioner kroner i 2027. Det er det som er overskriften. – Vi går ikke mer inn på graderte vurderinger knyttet til det, men det er folk og teknologi det handler om i stor grad. – E-tjenesten trenger flere folk.",
+      "keyPoints": [
+        "Regjeringen vil gi E-tjenesten flere hundre millioner mer i neste års statsbudsjett.",
+        "Sandvik (Ap) i et intervju med NTB at regjeringen foreslår å styrke Etterretningstjenesten med 398,7 millioner kroner i 2027.",
+        "Det er det som er overskriften. – Vi går ikke mer inn på graderte vurderinger knyttet til det, men det er folk og teknologi det handler om i stor grad. – E-tjenesten trenger flere folk.",
+        "Vardøradaren hvor E-tjenesten jobber med etterretning i Vardø. – Norge står i den mest alvorlige sikkerhetspolitiske situasjonen siden andre verdenskrig."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/turistnaeringa-i-nord-tjener-rekordstore-milliardbelop-_-90-prosent-av-skatten-gar-til-staten-1.18033926",
+      "url": "https://www.nrk.no/tromsogfinnmark/storstilt-spionsatsing-fra-regjeringen_-400-millioner-mer-til-e-tjenesten-1.18039475",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SdI7dL2OuuEe4qPVg49x8QmB3xlMR1zBjtUT3V-fMOpg.jpg",
-      "localImage": "assets/news/eb734d831f46dd.jpg",
-      "score": 17
+      "image": "https://gfx.nrk.no/m-ltCPFi8JSosdVlnpTKqwvQlHDkKHwPMsYupmbtnzwQ.jpg",
+      "localImage": "assets/news/9059f9f8bd877e.jpg",
+      "score": 20
     },
     {
-      "id": "d854e89968f61d",
-      "category": "Økonomi",
-      "published": "28.09. 15:32",
-      "publishedISO": "2026-09-28T15:32:43+02:00",
-      "title": "Bredt Wall Street-fall",
-      "summary": "Renten på amerikanske statsobligasjoner med 10 års løpetid, ofte kalt «verdens viktigste rente», har tikket videre oppover. Mandag var den oppe i 5,27 prosent, mens den ved børsslutt ligger på 5,24 prosent. Fasiten er ventet å komme inn på 3,7 prosent på årsbasis i august, mens kjerne-PCE, som ser bort fra energi og matvarer, ventes til 3,3 prosent, samme nivåer som i juli.",
+      "id": "2e1a0df849cb77",
+      "category": "Nord-Norge",
+      "published": "29.09. 09:19",
+      "publishedISO": "2026-09-29T09:19:38+02:00",
+      "title": "Vil bruke «statens muskler» på raffineri i nord",
+      "summary": "Bentzen viser til en rapport fra Forsvarets forskningsinstitutt (FFI), som peker på at Norge er sårbart med bare ett raffineri på Mongstad. Rapporten anbefaler også å sikre driften ved Mongstad, men ikke å bygge et nytt raffineri. Han viser til at staten eier Equinor, som driver Mongstad. – Vi vet at det ikke er kommersielt lønnsomt å drive raffineri i Norge.",
       "keyPoints": [
+        "Han viser til at staten eier Equinor, som driver Mongstad. – Vi vet at det ikke er kommersielt lønnsomt å drive raffineri i Norge.",
+        "Bentzen viser til en rapport fra Forsvarets forskningsinstitutt (FFI), som peker på at Norge er sårbart med bare ett raffineri på Mongstad.",
+        "Rapporten anbefaler også å sikre driften ved Mongstad, men ikke å bygge et nytt raffineri.",
+        "Han advarer mot å pålegge Equinor å drive et raffineri med tap. – Beredskap er dyrt, og det må vi bare ta med."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/vil-bruke-_statens-muskler_-pa-raffineri-i-nord-1.18039518",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/cy-5Hxn9RL9FJVL3reKnlAC3LgiVjITSOZEcEt3YuYnQ",
+      "localImage": "assets/news/2e1a0df849cb77.jpg",
+      "score": 19
+    },
+    {
+      "id": "595da51b7e409e",
+      "category": "Økonomi",
+      "published": "29.09. 15:32",
+      "publishedISO": "2026-09-29T15:32:06+02:00",
+      "title": "S&P 500-indeksen stiger forsiktig",
+      "summary": "Carnival Corporation stiger ti prosent etter at cruiskjempen la frem tallene for sitt tredje kvartal. Fasiten ble et justert resultat per aksje på 1,43 dollar, mens det var ventet 1,35 dollar, ifølge Bloomberg. Fasiten er ventet å komme inn på 3,7 prosent på årsbasis i august, mens kjerne-PCE, som ser bort fra energi og matvarer, ventes til 3,3 prosent, samme nivåer som i juli.",
+      "keyPoints": [
+        "Carnival Corporation stiger ti prosent etter at cruiskjempen la frem tallene for sitt tredje kvartal.",
+        "Fasiten ble et justert resultat per aksje på 1,43 dollar, mens det var ventet 1,35 dollar, ifølge Bloomberg.",
         "Fasiten er ventet å komme inn på 3,7 prosent på årsbasis i august, mens kjerne-PCE, som ser bort fra energi og matvarer, ventes til 3,3 prosent, samme nivåer som i juli.",
-        "Renten på amerikanske statsobligasjoner med 10 års løpetid, ofte kalt «verdens viktigste rente», har tikket videre oppover.",
-        "Mandag var den oppe i 5,27 prosent, mens den ved børsslutt ligger på 5,24 prosent.",
-        "Oljeprisen ligger samtidig over 100 dollar per fat igjen."
+        "I fjerde kvartal ventes 0,20 dollar per aksje, ifølge rapporten."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/oEXzkV/bredt-wall-street-fall",
+      "url": "https://e24.no/boers-og-finans/i/OkGQxw/s-p-500-indeksen-stiger-forsiktig-cruiseaksje-sendes-rett-opp",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/dcea02ef-999c-375e-8bbd-2ddb8fa82902?fit=crop&h=675&upscale=true&w=1200&s=82d9f24f407074a4d87044f3ccf03ec8780ab1d9",
-      "localImage": "assets/news/d854e89968f61d.jpg",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/e989142a-754d-381c-9c50-1a980e497cd4?fit=crop&h=675&upscale=true&w=1200&s=2eeb9a84c074910e243653eff62d0a0ab5a575c6",
+      "localImage": "assets/news/595da51b7e409e.jpg",
+      "score": 16
     },
     {
-      "id": "8ca76fc36f40bc",
+      "id": "d10bd8d44b0cbb",
       "category": "Økonomi",
-      "published": "28.09. 09:00",
-      "publishedISO": "2026-09-28T09:00:19+02:00",
-      "title": "DNB-aksjen steg på positiv børs: – Medvind",
-      "summary": "Hovedindeksen på Oslo Børs endte opp 0,56 prosent på ukens første handelsdag. Forrige uke endte Hovedindeksen på Oslo Børs ned 1,5 prosent. DNB-aksjen steg 1,92 prosent etter at ABG Sundal Collier hevet anbefalingen sin til «kjøp».",
+      "published": "29.09. 09:19",
+      "publishedISO": "2026-09-29T09:19:04+02:00",
+      "title": "UK tries to stop Trump's diesel export ban",
+      "summary": "Storbritannia er i samtaler med amerikanske myndigheter om en potensiell stans i dieseleksporten og har begynt å forberede seg på et forbud, har kansler John Healey sagt til BBC News. Amerikanske kilder antyder at Trump vurderer et forbud mot å forsøke å få ned prisene for innenlandske forbrukere i forkant av det kritiske midtveisvalget. La oss få vite at Trump sier at han vil støtte forbudet mot dieseleksport. Dieselprisen i Storbritannia har nådd rekorden, sier RAC",
       "keyPoints": [
-        "DNB-aksjen steg 1,92 prosent etter at ABG Sundal Collier hevet anbefalingen sin til «kjøp».",
-        "Hovedindeksen på Oslo Børs endte opp 0,56 prosent på ukens første handelsdag.",
-        "Forrige uke endte Hovedindeksen på Oslo Børs ned 1,5 prosent.",
-        "Kursmålet ble satt til 352 kroner, mens aksjen avsluttet til 323,2 kroner. – Det norske bankmarkedet er fortsatt konstruktivt, med bedring i etterspørselen etter lån, sterk innskuddsvekst, kortsiktige renter på relativt høye, men sunne nivåer, robuste aksjemarkeder og rekordhøye kapitalinnskudd som støtter gebyrinntektene, samt god kostnadskontroll, skriver analytiker Simon Skåland Brun."
+        "Let us know Trump says he would back ban on diesel exports UK diesel price hits all-time high, the RAC says",
+        "Storbritannia er i samtaler med amerikanske myndigheter om en potensiell stans i dieseleksporten og har begynt å forberede seg på et forbud, har kansler John Healey sagt til BBC News.",
+        "Amerikanske kilder antyder at Trump vurderer et forbud mot å forsøke å få ned prisene for innenlandske forbrukere i forkant av det kritiske midtveisvalget.",
+        "I Storbritannia nådde gjennomsnittsprisen for en liter diesel 199,33p på mandag, ifølge RAC-motororganisasjonen, og overgikk et tidligere høydepunkt på 199,09p i juni 2022 etter at Russland startet sin fullskala invasjon av Ukraina."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/43MrBV/svak-oppgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c1b60313-584d-3e9f-b4c0-018fc2310877?fit=crop&h=675&upscale=true&w=1200&s=ca9cc6a65247cdabede9f3b3c8830304ac930164",
-      "localImage": "assets/news/8ca76fc36f40bc.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/445a/live/ee159a80-bb5a-11f1-b3b3-91d0b491a464.jpg",
+      "localImage": "assets/news/d10bd8d44b0cbb.jpg",
       "score": 16
     }
   ]
