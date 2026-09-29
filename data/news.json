@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.09.2026 kl. 15:48",
-  "updatedISO": "2026-09-29T15:48:45.335616+02:00",
+  "updatedAt": "29.09.2026 kl. 21:09",
+  "updatedISO": "2026-09-29T21:09:55.699047+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,91 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Y1-CvttLeA4zR3BEb0M7Mw7Q35C-o0cyrk_e2GlyLsSA.jpg",
       "localImage": "assets/news/2239864830b432.jpg",
-      "score": 36
+      "score": 35
+    },
+    {
+      "id": "6356cd95e5d8bb",
+      "category": "Norge",
+      "published": "29.09. 18:11",
+      "publishedISO": "2026-09-29T18:11:50+02:00",
+      "title": "Regjeringen vil stramme inn reglene for datasentre i Norge",
+      "summary": "Digitaliserings- og forvaltningsministeren sier til NRK at regjeringen er i gang med en stortingsmelding som vil skjerpe forventningene og krav til nye datasentre. Nå kan det bli annerledes og regjeringen vil kunne stille krav til hvilke datasentre som får etablere seg, sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap). – Vi må stille oss spørsmålet om vi får de riktige datasentrene til Norge. Statsråden sier vi er helt avhengige av datasentre i et så digitalt samfunn, men at veksten må være mer kontrollert. – Den geopolitiske sikkerhetsmessige situasjonen i verden tilsier dessverre at vi er nødt til å gjøre oss mer uavhengige og ha større handlefrihet. – Datasenteret er en grunnleggende digital infrastruktur som vi er helt avhengige av i Norge.",
+      "keyPoints": [
+        "Nå kan det bli annerledes og regjeringen vil kunne stille krav til hvilke datasentre som får etablere seg, sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap). – Vi må stille oss spørsmålet om vi får de riktige datasentrene til Norge.",
+        "Digitaliserings- og forvaltningsministeren sier til NRK at regjeringen er i gang med en stortingsmelding som vil skjerpe forventningene og krav til nye datasentre.",
+        "Statsråden sier vi er helt avhengige av datasentre i et så digitalt samfunn, men at veksten må være mer kontrollert. – Den geopolitiske sikkerhetsmessige situasjonen i verden tilsier dessverre at vi er nødt til å gjøre oss mer uavhengige og ha større handlefrihet. – Datasenteret er en grunnleggende digital infrastruktur som vi er helt avhengige av i Norge.",
+        "Selv om det kan ta tid før alle retningslinjer er på plass, vil det ikke bli stopp på datasenterutbyggingen, lover statsråden – Fordi Norge både skal og bør være et attraktivt sted for å investere i grunnleggende digital infrastruktur, som datasentre er."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/regjeringen-vil-stramme-inn-reglene-for-datasentre-i-norge-1.18040088",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/iXdWgXqV2pp8gPEpJxNl-QAkYwbZ3xr9ZyxW6zdA2O2A.jpg",
+      "localImage": "assets/news/6356cd95e5d8bb.jpg",
+      "score": 21
+    },
+    {
+      "id": "4032f39e6b72ff",
+      "category": "Verden",
+      "published": "29.09. 03:12",
+      "publishedISO": "2026-09-29T03:12:52+02:00",
+      "title": "Watch: Are Trump's US government funded ads legal?",
+      "summary": "President Trump har møtt kritikk etter å ha frontet TV-reklamer betalt av den amerikanske regjeringen. Video, 00:01:30Er Trumps amerikanske regjeringsfinansierte annonser ulovlige? Video, 00:01:15Hva skjer videre i RAF Fairford-etterforskningen Se: Den amerikanske journalisten Evan Gershkovich beskriver å bli arrestert av russiske agenter Video, 00:02:17Se: Den amerikanske journalisten Evan Gershkovich beskriver å bli arrestert av russiske agenter Nærbilde av Turners '50 millioner pund' i Roma by-maleri.",
+      "keyPoints": [
+        "Video, 00:01:30Are Trump's US government funded ads illegal?",
+        "President Trump har møtt kritikk etter å ha frontet TV-reklamer betalt av den amerikanske regjeringen.",
+        "Video, 00:01:15Hva skjer videre i RAF Fairford-etterforskningen Se: Den amerikanske journalisten Evan Gershkovich beskriver å bli arrestert av russiske agenter Video, 00:02:17Se: Den amerikanske journalisten Evan Gershkovich beskriver å bli arrestert av russiske agenter Nærbilde av Turners '50 millioner pund' i Roma by-maleri.",
+        "Video, 00:01:40Apple Maps utvisker interneringsfasiliteter i Kina. Undersøker amerikanske tjenestemenns påstand om at datasentre 'ikke bruker vann' Video, 00:01:31Undersøker amerikanske tjenestemenns påstand om at datasentre 'ikke bruker vann' Se: Hvordan gikk Burnhams tale i konferansesalen?"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e14/live/0a5827b0-bb85-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/4032f39e6b72ff.jpg",
+      "score": 14
+    },
+    {
+      "id": "0ddb5d558fd2cf",
+      "category": "Økonomi",
+      "published": "29.09. 15:32",
+      "publishedISO": "2026-09-29T15:32:06+02:00",
+      "title": "Rentefrykt sender Wall Street nedover",
+      "summary": "Mandag endte indeksene i minus, forklart blant annet med rentefrykt. Fasiten ble et justert resultat per aksje på 1,43 dollar, mens det var ventet 1,35 dollar, ifølge Bloomberg. Renten på amerikanske statsobligasjoner med 30 års løpetid har samtidig steget til 5,61 prosent, som er det høyeste nivået siden 2002, ifølge CNBC.",
+      "keyPoints": [
+        "Mandag endte indeksene i minus, forklart blant annet med rentefrykt.",
+        "Fasiten ble et justert resultat per aksje på 1,43 dollar, mens det var ventet 1,35 dollar, ifølge Bloomberg.",
+        "Renten på amerikanske statsobligasjoner med 30 års løpetid har samtidig steget til 5,61 prosent, som er det høyeste nivået siden 2002, ifølge CNBC.",
+        "Renten på amerikanske statsobligasjoner med 10 års løpetid, ofte kalt «verdens viktigste rente», har tikket oppover den siste tiden."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/OkGQxw/s-p-500-indeksen-stiger-forsiktig-cruiseaksje-sendes-rett-opp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e989142a-754d-381c-9c50-1a980e497cd4?fit=crop&h=675&upscale=true&w=1200&s=2eeb9a84c074910e243653eff62d0a0ab5a575c6",
+      "localImage": "assets/news/0ddb5d558fd2cf.jpg",
+      "score": 20
+    },
+    {
+      "id": "90061004230cb8",
+      "category": "Økonomi",
+      "published": "29.09. 09:00",
+      "publishedISO": "2026-09-29T09:00:32+02:00",
+      "title": "Nedgang på Oslo Børs",
+      "summary": "Oslo Børs startet uken med oppgang mandag, blant annet løftet av en betydelig oljeprisøkning. PPI verdsetter tilbudet som er en blanding av PPI-aksjer og kontanter til rundt 320 millioner svenske kroner ut fra verdien av PPIs eiendeler, ifølge børsmeldingen. SBB eier om lag 40,6 prosent av PPI og 35 prosent av Preservium.",
+      "keyPoints": [
+        "Oslo Børs startet uken med oppgang mandag, blant annet løftet av en betydelig oljeprisøkning.",
+        "PPI verdsetter tilbudet som er en blanding av PPI-aksjer og kontanter til rundt 320 millioner svenske kroner ut fra verdien av PPIs eiendeler, ifølge børsmeldingen.",
+        "SBB eier om lag 40,6 prosent av PPI og 35 prosent av Preservium.",
+        "PPI eier fra før rundt 1 prosent av Origa Care og 36 prosent av One Publicus."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/ArjyrA/nedgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7fefe3b5-314a-3f65-b707-c6e6dc29bdd7?fit=crop&h=675&upscale=true&w=1200&s=6fb9dd3f90d8cbfce99ae32a6db4033745fb8d64",
+      "localImage": "assets/news/90061004230cb8.jpg",
+      "score": 18
     },
     {
       "id": "8ad9bbc24a6cb6",
@@ -33,8 +117,8 @@
       "summary": "Nscale startet byggingen av datasenteret i Narvik før selskapet hadde levert en analyse av hva overskuddsvarmen kan brukes til. I Kvandalen utenfor Narvik er byggingen av Stargate Norway i gang. Nå har direktoratet pålagt selskapet å levere den innen 15. november. – Dersom vi ikke har mottatt denne innen 15. november, har vi varslet at de kan få tvangsmulkt, sier Nordberg.",
       "keyPoints": [
         "Nscale startet byggingen av datasenteret i Narvik før selskapet hadde levert en analyse av hva overskuddsvarmen kan brukes til.",
-        "I Kvandalen utenfor Narvik er byggingen av Stargate Norway i gang.",
         "Nå har direktoratet pålagt selskapet å levere den innen 15. november. – Dersom vi ikke har mottatt denne innen 15. november, har vi varslet at de kan få tvangsmulkt, sier Nordberg.",
+        "I Kvandalen utenfor Narvik er byggingen av Stargate Norway i gang.",
         "Selskapene har også inngått en avtale om å levere KI-kapasitet til Microsoft fra Narvik."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
@@ -43,70 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/tx6Jt7Dz9p3YklsYiwoNxAHDLbPrWd5SdA3CzHO9AYGw.jpg",
       "localImage": "assets/news/8ad9bbc24a6cb6.jpg",
-      "score": 20
-    },
-    {
-      "id": "4032f39e6b72ff",
-      "category": "Verden",
-      "published": "29.09. 03:12",
-      "publishedISO": "2026-09-29T03:12:52+02:00",
-      "title": "Watch: Are Trump's US government funded ads legal?",
-      "summary": "President Trump har møtt kritikk etter å ha frontet TV-reklamer betalt av den amerikanske regjeringen. BBC Verifys Jake Horton undersøkte annonsene og snakket med juridiske eksperter om deres lovlighet. Video, 00:01:30Er Trumps amerikanske regjeringsfinansierte annonser ulovlige?",
-      "keyPoints": [
-        "Video, 00:01:30Are Trump's US government funded ads illegal?",
-        "President Trump har møtt kritikk etter å ha frontet TV-reklamer betalt av den amerikanske regjeringen.",
-        "BBC Verifys Jake Horton undersøkte annonsene og snakket med juridiske eksperter om deres lovlighet.",
-        "Video, 00:01:15What happens next in the RAF Fairford investigation Watch: Luxury units uncovered inside an Indonesian prison."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0e14/live/0a5827b0-bb85-11f1-a430-4d16ee157c41.jpg",
-      "localImage": "assets/news/4032f39e6b72ff.jpg",
-      "score": 15
-    },
-    {
-      "id": "5f4e54ed94f3b8",
-      "category": "Økonomi",
-      "published": "29.09. 05:00",
-      "publishedISO": "2026-09-29T05:00:00+02:00",
-      "title": "Høy rente slår inn i bolig­markedet: – Prisene vil falle",
-      "summary": "Samtidig valgte de å oppjustere rentebanen. – Tommelfingerregelen er at ett prosentpoeng høyere rente gir ti prosent lavere boligpriser, forteller Midsem. Årets bolighøst er vesentlig kjøligere enn i fjor, påpeker hun. – Boligprisene vil falle, som er normalt nå på høsten. Tar vi bort den sesongeffekten, tror jeg prisene vil være tett mot uendret, sier Midsem.",
-      "keyPoints": [
-        "Samtidig valgte de å oppjustere rentebanen. – Tommelfingerregelen er at ett prosentpoeng høyere rente gir ti prosent lavere boligpriser, forteller Midsem.",
-        "Tar vi bort den sesongeffekten, tror jeg prisene vil være tett mot uendret, sier Midsem.",
-        "Årets bolighøst er vesentlig kjøligere enn i fjor, påpeker hun. – Boligprisene vil falle, som er normalt nå på høsten.",
-        "Tilbudssiden har vært høy i boligmarkedet en stund (med noen unntak) – samtidig har husholdningene fått økt betjeningsevne. – Husholdningene har fått bedre kjøpekraften som følge av reallønnsvekst de siste årene."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/e796o9/hoey-rente-slaar-inn-i-boligmarkedet-prisene-vil-falle",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ba837f34-1f82-3882-bf3f-a00fac495380?fit=crop&h=675&upscale=true&w=1200&s=1c08bcfa2d156854f2e4900b34ae12a6591f1f04",
-      "localImage": "assets/news/5f4e54ed94f3b8.jpg",
-      "score": 18
-    },
-    {
-      "id": "11c06bad122c73",
-      "category": "Økonomi",
-      "published": "28.09. 10:39",
-      "publishedISO": "2026-09-28T10:39:42+02:00",
-      "title": "DNB setter opp boliglånsrenten",
-      "summary": "Nå setter DNB, Norges største bank, også opp renten på lån og innskudd. Banken skriver at boliglånsrenten i snitt økes med 0,25 prosentpoeng, mens renten på innskudd justeres med inntil 0,25 prosentpoeng. Fra før har blant andre Sparebank 1 Sør-Norge, Sparebank 1 Østfold Akershus, Nordea og Handelsbanken satt opp boliglånsrenten.",
-      "keyPoints": [
-        "Nå setter DNB, Norges største bank, også opp renten på lån og innskudd.",
-        "Fra før har blant andre Sparebank 1 Sør-Norge, Sparebank 1 Østfold Akershus, Nordea og Handelsbanken satt opp boliglånsrenten.",
-        "Banken skriver at boliglånsrenten i snitt økes med 0,25 prosentpoeng, mens renten på innskudd justeres med inntil 0,25 prosentpoeng.",
-        "For eksisterende boliglån hos DNB gjelder de nye satsene fra 29. november."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Bxg6j7/dnb-setter-opp-boliglaansrenten",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/82a4565c-c2b9-3abc-bad5-b0d55529f5be?fit=crop&h=675&upscale=true&w=1200&s=f7a27d7c4d4ac0eeae402491138e31348d851408",
-      "localImage": "assets/news/11c06bad122c73.jpg",
-      "score": 17
+      "score": 19
     },
     {
       "id": "1297d8fa15e2f7",
@@ -127,28 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/tx6Jt7Dz9p3YklsYiwoNxAHDLbPrWd5SdA3CzHO9AYGw.jpg",
       "localImage": "assets/news/1297d8fa15e2f7.jpg",
-      "score": 20
-    },
-    {
-      "id": "9059f9f8bd877e",
-      "category": "Norge",
-      "published": "29.09. 07:57",
-      "publishedISO": "2026-09-29T07:57:28+02:00",
-      "title": "Storstilt spionsatsing fra regjeringen: 400 millioner mer til E-tjenesten",
-      "summary": "Regjeringen vil gi E-tjenesten flere hundre millioner mer i neste års statsbudsjett. Sandvik (Ap) i et intervju med NTB at regjeringen foreslår å styrke Etterretningstjenesten med 398,7 millioner kroner i 2027. Det er det som er overskriften. – Vi går ikke mer inn på graderte vurderinger knyttet til det, men det er folk og teknologi det handler om i stor grad. – E-tjenesten trenger flere folk.",
-      "keyPoints": [
-        "Regjeringen vil gi E-tjenesten flere hundre millioner mer i neste års statsbudsjett.",
-        "Sandvik (Ap) i et intervju med NTB at regjeringen foreslår å styrke Etterretningstjenesten med 398,7 millioner kroner i 2027.",
-        "Det er det som er overskriften. – Vi går ikke mer inn på graderte vurderinger knyttet til det, men det er folk og teknologi det handler om i stor grad. – E-tjenesten trenger flere folk.",
-        "Vardøradaren hvor E-tjenesten jobber med etterretning i Vardø. – Norge står i den mest alvorlige sikkerhetspolitiske situasjonen siden andre verdenskrig."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/storstilt-spionsatsing-fra-regjeringen_-400-millioner-mer-til-e-tjenesten-1.18039475",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/m-ltCPFi8JSosdVlnpTKqwvQlHDkKHwPMsYupmbtnzwQ.jpg",
-      "localImage": "assets/news/9059f9f8bd877e.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "2e1a0df849cb77",
@@ -169,49 +169,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/cy-5Hxn9RL9FJVL3reKnlAC3LgiVjITSOZEcEt3YuYnQ",
       "localImage": "assets/news/2e1a0df849cb77.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "595da51b7e409e",
-      "category": "Økonomi",
-      "published": "29.09. 15:32",
-      "publishedISO": "2026-09-29T15:32:06+02:00",
-      "title": "S&P 500-indeksen stiger forsiktig",
-      "summary": "Carnival Corporation stiger ti prosent etter at cruiskjempen la frem tallene for sitt tredje kvartal. Fasiten ble et justert resultat per aksje på 1,43 dollar, mens det var ventet 1,35 dollar, ifølge Bloomberg. Fasiten er ventet å komme inn på 3,7 prosent på årsbasis i august, mens kjerne-PCE, som ser bort fra energi og matvarer, ventes til 3,3 prosent, samme nivåer som i juli.",
+      "id": "f1ff491b548d81",
+      "category": "Norge",
+      "published": "29.09. 19:58",
+      "publishedISO": "2026-09-29T19:58:03+02:00",
+      "title": "Sjeføkonom: Nordmenn har bedre råd enn før",
+      "summary": "BETRE RÅD: Harald Magnus Andreassen er klar på at tala viser betre kjøpekraft hos nordmenn flest. Det seier sjeføkonom Harald Magnus Andreassen i Sparebank 1 Markets til NRK. – Dermed kan dei fleste handle meir enn det dei har kunne handla før, legg han til. Harald Magnus Andreassen er klar på at tala viser betre kjøpekraft hos nordmenn flest.",
       "keyPoints": [
-        "Carnival Corporation stiger ti prosent etter at cruiskjempen la frem tallene for sitt tredje kvartal.",
-        "Fasiten ble et justert resultat per aksje på 1,43 dollar, mens det var ventet 1,35 dollar, ifølge Bloomberg.",
-        "Fasiten er ventet å komme inn på 3,7 prosent på årsbasis i august, mens kjerne-PCE, som ser bort fra energi og matvarer, ventes til 3,3 prosent, samme nivåer som i juli.",
-        "I fjerde kvartal ventes 0,20 dollar per aksje, ifølge rapporten."
+        "Det seier sjeføkonom Harald Magnus Andreassen i Sparebank 1 Markets til NRK. – Dermed kan dei fleste handle meir enn det dei har kunne handla før, legg han til.",
+        "BETRE RÅD: Harald Magnus Andreassen er klar på at tala viser betre kjøpekraft hos nordmenn flest.",
+        "Stoltenberg peikar på lågare inntektsskatt, billige barnehagar og straumstøtte-ordningar som meir treffsikre ordningar. – Vi er opptatt av at folk skal få betre råd, heldigvis har folk fått betre råd.",
+        "I 2024 og 2025 auka kjøpekrafta i norske hushaldningar, viser tal frå Statistisk sentralbyrå (SSB). – Det vi har av tal tilgjengeleg er at dei aller fleste har fått auka inntekt etter skatt og renter, og etter at prisen har stige."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/sjefokonom_-nordmenn-har-bedre-rad-enn-for-1.18040221",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/4Gy1RlNmxW9QCf5LW7POcAZr3e1zNfkvCLWjAQAmTB3A.jpg",
+      "localImage": "assets/news/f1ff491b548d81.jpg",
+      "score": 17
+    },
+    {
+      "id": "8f659bd4005b5d",
+      "category": "Økonomi",
+      "published": "29.09. 16:31",
+      "publishedISO": "2026-09-29T16:31:13+02:00",
+      "title": "Kan i verste fall skade saken",
+      "summary": "Allerede i 2008 ble han dømt, men etterpå lykkes han i å komme tilbake. I verste fall kan en rotete prosess påvirke granskingskommisjonens arbeid på en uheldig måte. I aller verste fall vil politikerne rote seg inn i noe som skader en pågående etterforskning – noe de selv har erkjent kan være en fare.",
+      "keyPoints": [
+        "I aller verste fall vil politikerne rote seg inn i noe som skader en pågående etterforskning – noe de selv har erkjent kan være en fare.",
+        "I verste fall kan en rotete prosess påvirke granskingskommisjonens arbeid på en uheldig måte.",
+        "Allerede i 2008 ble han dømt, men etterpå lykkes han i å komme tilbake.",
+        "Kontrollkomiteen på Stortinget vil være handlekraftig, men det kan vise seg å være en tabbe."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/OkGQxw/s-p-500-indeksen-stiger-forsiktig-cruiseaksje-sendes-rett-opp",
+      "url": "https://e24.no/norsk-oekonomi/i/rrkQ4l/kan-i-verste-fall-skade-saken",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e989142a-754d-381c-9c50-1a980e497cd4?fit=crop&h=675&upscale=true&w=1200&s=2eeb9a84c074910e243653eff62d0a0ab5a575c6",
-      "localImage": "assets/news/595da51b7e409e.jpg",
-      "score": 16
-    },
-    {
-      "id": "d10bd8d44b0cbb",
-      "category": "Økonomi",
-      "published": "29.09. 09:19",
-      "publishedISO": "2026-09-29T09:19:04+02:00",
-      "title": "UK tries to stop Trump's diesel export ban",
-      "summary": "Storbritannia er i samtaler med amerikanske myndigheter om en potensiell stans i dieseleksporten og har begynt å forberede seg på et forbud, har kansler John Healey sagt til BBC News. Amerikanske kilder antyder at Trump vurderer et forbud mot å forsøke å få ned prisene for innenlandske forbrukere i forkant av det kritiske midtveisvalget. La oss få vite at Trump sier at han vil støtte forbudet mot dieseleksport. Dieselprisen i Storbritannia har nådd rekorden, sier RAC",
-      "keyPoints": [
-        "Let us know Trump says he would back ban on diesel exports UK diesel price hits all-time high, the RAC says",
-        "Storbritannia er i samtaler med amerikanske myndigheter om en potensiell stans i dieseleksporten og har begynt å forberede seg på et forbud, har kansler John Healey sagt til BBC News.",
-        "Amerikanske kilder antyder at Trump vurderer et forbud mot å forsøke å få ned prisene for innenlandske forbrukere i forkant av det kritiske midtveisvalget.",
-        "I Storbritannia nådde gjennomsnittsprisen for en liter diesel 199,33p på mandag, ifølge RAC-motororganisasjonen, og overgikk et tidligere høydepunkt på 199,09p i juni 2022 etter at Russland startet sin fullskala invasjon av Ukraina."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/445a/live/ee159a80-bb5a-11f1-b3b3-91d0b491a464.jpg",
-      "localImage": "assets/news/d10bd8d44b0cbb.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/e8a31002-e031-33bb-9c71-ec25a4c985d5?fit=crop&h=675&upscale=true&w=1200&s=e34c22315f0ea74caddd02d3288a6fd97e64b17a",
+      "localImage": "assets/news/8f659bd4005b5d.jpg",
+      "score": 17
     }
   ]
 }
