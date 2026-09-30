@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.09.2026 kl. 21:54",
-  "updatedISO": "2026-09-30T21:54:23.156949+02:00",
+  "updatedAt": "01.10.2026 kl. 01:32",
+  "updatedISO": "2026-10-01T01:32:24.346432+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "Klima- og miljødepartementet seier ja til deponering av gruveavfall i Førdefjorden i tre år framover.",
         "FÅR LØYVE, MEN SJEFEN SLUTTAR: Regjeringa gav i dag eit mellombels utsleppsløyve for gruvedrifta ved Førdefjorden.",
         "Her får du forklart kva spelerom regjeringa har hatt å forhalda seg til etter at høgsterettsdommen fall: Anne-Line Thingnes Førsund i Naturvernforbundet i Sogn og Fjordane reagerer sterkt på dagens vedtak: – Dette er forferdeleg trist for Førdefjorden og forferdeleg trist for den norske rettsstaten.",
-        "Konsernsjef Finn Ivar Marum i Nordic Mining skriv i ei pressemelding at dagens løyve frå regjeringa «gir grunnlag for fortsatt drift ved Engebø-anlegget medan styremaktene vurderer ei langsiktig løysing»."
+        "Det er deprimerande og komplett uforståelig at regjeringa ikkje eingong prøver å få til eit miljøvenleg prosjekt ved Førdefjorden. – Dette er ei miljøpolitisk skandalesak."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/1XEBfQBKQnMp878yD6OAXwEda_htKJwFxkz1oo36jqFQ.jpg",
       "localImage": "assets/news/eae4c5f18ce1ae.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "e3128e4ea979d5",
@@ -67,24 +67,25 @@
       "score": 16
     },
     {
-      "id": "29d61c459ef2b4",
+      "id": "1cee4dab0849a0",
       "category": "USA",
-      "published": "30.09. 15:51",
-      "publishedISO": "2026-09-30T15:51:52+02:00",
-      "title": "Watch: Meet 'Backpack', the chunky bear who won Fat Bear Week",
-      "summary": "Ryggsekken har vunnet den årlige Fat Bear Week-konkurransen etter å ha vunnet i det US National Park Service kalte en \"kamp om størrelse, dyktighet, snacks og strategisk loafing\". Møt \"Backpack\", den tykke bjørnen som vant Fat Bear Week. Video, 00:00:27Møt 'Backpack', den tykke bjørnen som vant Fat Bear Week Up Next.",
+      "published": "01.10. 01:23",
+      "publishedISO": "2026-10-01T01:23:23+02:00",
+      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+      "summary": "USAs høyesterett har ryddet veien for at Tennessee-innsatte Christa Pike kan bli henrettet, og omstøter en utsettelse i siste øyeblikk. Hvis henrettelsen fortsetter, vil Christa Pike være den første kvinnen som blir henrettet i Tennessee på mer enn 200 år. Høyesterettsdommer Brett Kavanaugh innvilget søknaden om å fravike henrettelsen.",
       "keyPoints": [
-        "Meet 'Backpack', the chunky bear who won Fat Bear Week.",
-        "Fat Bear Week kicks off - watch some of the contestants.",
-        "Video, 00:00:33Fat Bear Week: Hvilken bjørn har lagt på seg mest?"
+        "USAs høyesterett har ryddet veien for at Tennessee-innsatte Christa Pike kan bli henrettet, og omstøter en utsettelse i siste øyeblikk.",
+        "Hvis henrettelsen fortsetter, vil Christa Pike være den første kvinnen som blir henrettet i Tennessee på mer enn 200 år.",
+        "Høyesterettsdommer Brett Kavanaugh innvilget søknaden om å fravike henrettelsen.",
+        "Pike, 50, har ventet på henrettelse siden hun ble dømt og dømt til døden i 1996 for drapet på Colleen Slemmer."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cqkg07lp9dvlo",
+      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2840/live/c92415f0-bcd4-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/29d61c459ef2b4.jpg",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6311/live/31a802d0-bd25-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/1cee4dab0849a0.jpg",
+      "score": 13
     },
     {
       "id": "370b65386433ae",
@@ -105,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1e99cae9-11e4-3965-b6dd-3ad393da6fc4?fit=crop&h=675&upscale=true&w=1200&s=4466bfa45725388a004d788523635040609c3a6d",
       "localImage": "assets/news/370b65386433ae.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "6fe3b4c21ef1e2",
@@ -127,6 +128,27 @@
       "image": "https://akamai.vgc.no/v2/images/12213fd7-99ba-3e7a-a73c-a4085e9ce5b8?fit=crop&h=675&upscale=true&w=1200&s=53310dbd64c02e99c6708852da1b0620b2fbe0ff",
       "localImage": "assets/news/6fe3b4c21ef1e2.jpg",
       "score": 16
+    },
+    {
+      "id": "afd5149294fe40",
+      "category": "AI",
+      "published": "01.10. 01:10",
+      "publishedISO": "2026-10-01T01:10:19+02:00",
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "summary": "Nikons årlige Small World In Motion-konkurranse aksepterer bilder og video tatt med kraftige mikroskoper, og har gått årlig de siste 15 årene. Vinneren var en kort video sendt inn av Dr Ning Xu, en forsker ved Tsinghua University i Kina, som hevder å være opptak av små, hårlignende strukturer kalt flimmerhår som beveger seg inne i luftveiene til et barn med en sjelden sykdom. I et svar på et innlegg fra Nikon på LinkedIn, eksternt, bestred han ikke bruken av kunstig intelligens i bildebehandlingen, men sa at han holdt seg innenfor reglene for konkurransen. \"AI ble ikke brukt til å generere den eksperimentelle filmen, flimmerhårene eller bevegelsene deres,\" sa han.",
+      "keyPoints": [
+        "I et svar på et innlegg fra Nikon på LinkedIn, eksternt, bestred han ikke bruken av kunstig intelligens i bildebehandlingen, men sa at han holdt seg innenfor reglene for konkurransen. \"AI ble ikke brukt til å generere den eksperimentelle filmen, flimmerhårene eller bevegelsene deres,\" sa han.",
+        "Nikons årlige Small World In Motion-konkurranse aksepterer bilder og video tatt med kraftige mikroskoper, og har gått årlig de siste 15 årene.",
+        "Vinneren var en kort video sendt inn av Dr Ning Xu, en forsker ved Tsinghua University i Kina, som hevder å være opptak av små, hårlignende strukturer kalt flimmerhår som beveger seg inne i luftveiene til et barn med en sjelden sykdom.",
+        "Men utfordringene fra andre forskere inkluderer påstander om at videoen inneholder former og bevegelser som ikke passet med normale cellestrukturer eller atferd, og at flimmerhårene så ut til å være for store."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
+      "localImage": "assets/news/afd5149294fe40.jpg",
+      "score": 17
     },
     {
       "id": "f42838e0d6d157",
@@ -171,46 +193,25 @@
       "score": 16
     },
     {
-      "id": "2ac86e245ffbbf",
+      "id": "46fc97f40c9cc4",
       "category": "Økonomi",
-      "published": "30.09. 10:01",
-      "publishedISO": "2026-09-30T10:01:19+02:00",
-      "title": "Norges Bank fortsetter å selge kroner i oktober",
-      "summary": "Norges Bank skal totalt sett selge 176 millioner kroner daglig i oktober, ifølge en melding fra sentralbanken. Det er akkurat det samme som i september, da Norges Bank snudde til kjøp. I tillegg har Norges Bank vedtatt at det skal overføres rundt 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+      "published": "30.09. 11:17",
+      "publishedISO": "2026-09-30T11:17:58+02:00",
+      "title": "Vil bruke 650 millioner på ny rakettrampe på Andøya",
+      "summary": "Andøya Spaceport i Nordland har blitt en strategisk viktig rombase for Norge og Europa etter at tyske Isar Aerospace klarte å skyte opp «Spectrum»-raketten i bane 5. september. Tilbake i 2020 ga daværende næringsminister Iselin Nybø tilsagn om 365 millioner til Andøya Spaceport. Andøya Space og Isar Aerospace har en 20 år lang avtale om oppskytning, som ble inngått i 2021.",
       "keyPoints": [
-        "Norges Bank skal totalt sett selge 176 millioner kroner daglig i oktober, ifølge en melding fra sentralbanken.",
-        "I tillegg har Norges Bank vedtatt at det skal overføres rundt 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
-        "Det er akkurat det samme som i september, da Norges Bank snudde til kjøp.",
-        "I oktober utgjør disse kronekjøpene 124 millioner daglig, akkurat som måneden før."
+        "Tilbake i 2020 ga daværende næringsminister Iselin Nybø tilsagn om 365 millioner til Andøya Spaceport.",
+        "Andøya Spaceport i Nordland har blitt en strategisk viktig rombase for Norge og Europa etter at tyske Isar Aerospace klarte å skyte opp «Spectrum»-raketten i bane 5. september.",
+        "Andøya Space og Isar Aerospace har en 20 år lang avtale om oppskytning, som ble inngått i 2021.",
+        "Staten eier 90 prosent av Andøya Space, mens Kongsberg Gruppen eier de siste 10 prosentene."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/9pj6Od/norges-bank-skal-selge-kroner-for-176-millioner-daglig-i-oktober",
+      "url": "https://e24.no/naeringsliv/i/n150QB/vil-bruke-650-millioner-paa-ny-rakettrampe-paa-andoeya",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0d1eb20b-2823-39f4-a7c4-80684ff90e02?fit=crop&h=675&upscale=true&w=1200&s=82d70127769fbf7baf94a9e1ade2fd7ab4a2feaf",
-      "localImage": "assets/news/2ac86e245ffbbf.jpg",
-      "score": 16
-    },
-    {
-      "id": "6356cd95e5d8bb",
-      "category": "Norge",
-      "published": "29.09. 18:11",
-      "publishedISO": "2026-09-29T18:11:50+02:00",
-      "title": "Regjeringen vil stramme inn reglene for datasentre i Norge",
-      "summary": "Digitaliserings- og forvaltningsministeren sier til NRK at regjeringen er i gang med en stortingsmelding som vil skjerpe forventningene og krav til nye datasentre. Nå kan det bli annerledes og regjeringen vil kunne stille krav til hvilke datasentre som får etablere seg, sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap). – Vi må stille oss spørsmålet om vi får de riktige datasentrene til Norge. Statsråden sier vi er helt avhengige av datasentre i et så digitalt samfunn, men at veksten må være mer kontrollert. – Den geopolitiske sikkerhetsmessige situasjonen i verden tilsier dessverre at vi er nødt til å gjøre oss mer uavhengige og ha større handlefrihet. – Datasenteret er en grunnleggende digital infrastruktur som vi er helt avhengige av i Norge.",
-      "keyPoints": [
-        "Nå kan det bli annerledes og regjeringen vil kunne stille krav til hvilke datasentre som får etablere seg, sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap). – Vi må stille oss spørsmålet om vi får de riktige datasentrene til Norge.",
-        "Digitaliserings- og forvaltningsministeren sier til NRK at regjeringen er i gang med en stortingsmelding som vil skjerpe forventningene og krav til nye datasentre.",
-        "Statsråden sier vi er helt avhengige av datasentre i et så digitalt samfunn, men at veksten må være mer kontrollert. – Den geopolitiske sikkerhetsmessige situasjonen i verden tilsier dessverre at vi er nødt til å gjøre oss mer uavhengige og ha større handlefrihet. – Datasenteret er en grunnleggende digital infrastruktur som vi er helt avhengige av i Norge.",
-        "Selv om det kan ta tid før alle retningslinjer er på plass, vil det ikke bli stopp på datasenterutbyggingen, lover statsråden – Fordi Norge både skal og bør være et attraktivt sted for å investere i grunnleggende digital infrastruktur, som datasentre er."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/regjeringen-vil-stramme-inn-reglene-for-datasentre-i-norge-1.18040088",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/iXdWgXqV2pp8gPEpJxNl-QAkYwbZ3xr9ZyxW6zdA2O2A.jpg",
-      "localImage": "assets/news/6356cd95e5d8bb.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/a84872e4-8aa2-3dd3-a54e-e0632740fcb5?fit=crop&h=675&upscale=true&w=1200&s=14bc6ab6c0597e23413d49183469f9938139963c",
+      "localImage": "assets/news/46fc97f40c9cc4.jpg",
+      "score": 15
     }
   ]
 }
