@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.09.2026 kl. 03:57",
-  "updatedISO": "2026-09-30T03:57:02.805974+02:00",
+  "updatedAt": "30.09.2026 kl. 10:11",
+  "updatedISO": "2026-09-30T10:11:45.874659+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,133 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Y1-CvttLeA4zR3BEb0M7Mw7Q35C-o0cyrk_e2GlyLsSA.jpg",
       "localImage": "assets/news/2239864830b432.jpg",
-      "score": 34
-    },
-    {
-      "id": "6356cd95e5d8bb",
-      "category": "Norge",
-      "published": "29.09. 18:11",
-      "publishedISO": "2026-09-29T18:11:50+02:00",
-      "title": "Regjeringen vil stramme inn reglene for datasentre i Norge",
-      "summary": "Digitaliserings- og forvaltningsministeren sier til NRK at regjeringen er i gang med en stortingsmelding som vil skjerpe forventningene og krav til nye datasentre. Nå kan det bli annerledes og regjeringen vil kunne stille krav til hvilke datasentre som får etablere seg, sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap). – Vi må stille oss spørsmålet om vi får de riktige datasentrene til Norge. Statsråden sier vi er helt avhengige av datasentre i et så digitalt samfunn, men at veksten må være mer kontrollert. – Den geopolitiske sikkerhetsmessige situasjonen i verden tilsier dessverre at vi er nødt til å gjøre oss mer uavhengige og ha større handlefrihet. – Datasenteret er en grunnleggende digital infrastruktur som vi er helt avhengige av i Norge.",
-      "keyPoints": [
-        "Nå kan det bli annerledes og regjeringen vil kunne stille krav til hvilke datasentre som får etablere seg, sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap). – Vi må stille oss spørsmålet om vi får de riktige datasentrene til Norge.",
-        "Digitaliserings- og forvaltningsministeren sier til NRK at regjeringen er i gang med en stortingsmelding som vil skjerpe forventningene og krav til nye datasentre.",
-        "Statsråden sier vi er helt avhengige av datasentre i et så digitalt samfunn, men at veksten må være mer kontrollert. – Den geopolitiske sikkerhetsmessige situasjonen i verden tilsier dessverre at vi er nødt til å gjøre oss mer uavhengige og ha større handlefrihet. – Datasenteret er en grunnleggende digital infrastruktur som vi er helt avhengige av i Norge.",
-        "Selv om det kan ta tid før alle retningslinjer er på plass, vil det ikke bli stopp på datasenterutbyggingen, lover statsråden – Fordi Norge både skal og bør være et attraktivt sted for å investere i grunnleggende digital infrastruktur, som datasentre er."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/regjeringen-vil-stramme-inn-reglene-for-datasentre-i-norge-1.18040088",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/iXdWgXqV2pp8gPEpJxNl-QAkYwbZ3xr9ZyxW6zdA2O2A.jpg",
-      "localImage": "assets/news/6356cd95e5d8bb.jpg",
-      "score": 20
-    },
-    {
-      "id": "4ef986c665ac85",
-      "category": "Verden",
-      "published": "30.09. 01:33",
-      "publishedISO": "2026-09-30T01:33:34+02:00",
-      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
-      "summary": "Nå, etter en rekke russiske missilangrep, har dette hjertet sluttet å slå. Zaporizhstal-verket har blitt rammet av fire bølger av russiske angrep Russlands vedvarende kampanje med luftangrep mot ukrainske metallurgiske anlegg startet i august. På grunn av de nylige russiske angrepene har det nesten stoppet opp, og dets bidrag til Ukrainas BNP er nå \"sannsynligvis nær null\", sier Myronenko.",
-      "keyPoints": [
-        "Zaporizhstal-verket har blitt rammet av fire bølger av russiske angrep Russlands vedvarende kampanje med luftangrep mot ukrainske metallurgiske anlegg startet i august.",
-        "Nå, etter en rekke russiske missilangrep, har dette hjertet sluttet å slå.",
-        "På grunn av de nylige russiske angrepene har det nesten stoppet opp, og dets bidrag til Ukrainas BNP er nå \"sannsynligvis nær null\", sier Myronenko.",
-        "Den enorme fabrikken som sysselsetter 8500 mennesker stengte på ubestemt tid etter fire bølger av russiske angrep – to i august, og to i september. – Alt utstyret er nesten fullstendig ødelagt."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea31/live/c8137c70-bc28-11f1-bd53-1b67dc8fba34.jpg",
-      "localImage": "assets/news/4ef986c665ac85.jpg",
-      "score": 17
-    },
-    {
-      "id": "68466b864441cb",
-      "category": "USA",
-      "published": "29.09. 22:39",
-      "publishedISO": "2026-09-29T22:39:59+02:00",
-      "title": "Hva er kratom, \"bensinstasjonsheroin\" alarmerende tjenestemenn i USA",
-      "summary": "Jeffrey Deaver, en 58 år gammel pensjonert tømmerhogger i delstaten Washington, har tatt kratom i fire år for å hjelpe med alvorlige kroniske hofte- og knesmerter. Selv om dødsfallene deres ikke ble tilskrevet kratom, utsteder tjenestemenn nå advarsler om forbruket. Eksperter sa til BBC at de største farene kommer fra det faktum at kratom ikke er føderalt regulert. \"Finnes det en sikker dose?\" sa Speights. \"Mitt svar kommer til å være nei fordi - jeg kommer til å gå tilbake til dette - vi vet ikke hva som er i det.\" Kratom er forbudt i 11 stater: Alabama, Arkansas, Connecticut, Indiana, Kansas, Louisiana, Massachusetts, North Dakota, Tennessee, Vermont og Wisconsin.",
-      "keyPoints": [
-        "Although their deaths were not attributed to kratom, officials are now issuing warnings about its consumption.",
-        "Jeffrey Deaver, en 58 år gammel pensjonert tømmerhogger i delstaten Washington, har tatt kratom i fire år for å hjelpe med alvorlige kroniske hofte- og knesmerter.",
-        "Eksperter sa til BBC at de største farene kommer fra det faktum at kratom ikke er føderalt regulert. \"Finnes det en sikker dose?\" sa Speights. \"Mitt svar kommer til å være nei fordi - jeg kommer til å gå tilbake til dette - vi vet ikke hva som er i det.\" Kratom er forbudt i 11 stater: Alabama, Arkansas, Connecticut, Indiana, Kansas, Louisiana, Massachusetts, North Dakota, Tennessee, Vermont og Wisconsin.",
-        "På grunn av tilleggsklassifiseringen er kratom-produkter ikke føderalt regulert. \"Det er ingen måte å vite nøyaktig hva du får,\" sa Speight. \"Du kan gå og lage noe i kjelleren din, markedsføre det som et supplement, og ingen kommer virkelig til å sjekke og se hva som er i det.\" Kratom markedsføres ofte som et trygt, naturlig urtetilskudd som hjelper med smertebehandling, angst og depresjon."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e2af/live/bf4743d0-b910-11f1-a7d5-4340f404ef0f.jpg",
-      "localImage": "assets/news/68466b864441cb.jpg",
-      "score": 12
-    },
-    {
-      "id": "5fcb51188de3fe",
-      "category": "Økonomi",
-      "published": "29.09. 15:32",
-      "publishedISO": "2026-09-29T15:32:06+02:00",
-      "title": "Rentefrykt tynget Wall Street",
-      "summary": "Mandag endte indeksene i minus, forklart blant annet med rentefrykt. Fasiten ble et justert resultat per aksje på 1,43 dollar, mens det var ventet 1,35 dollar, ifølge Bloomberg. Renten på amerikanske statsobligasjoner med 30 års løpetid har samtidig steget til 5,61 prosent, som er det høyeste nivået siden 2002, ifølge CNBC.",
-      "keyPoints": [
-        "Mandag endte indeksene i minus, forklart blant annet med rentefrykt.",
-        "Fasiten ble et justert resultat per aksje på 1,43 dollar, mens det var ventet 1,35 dollar, ifølge Bloomberg.",
-        "Renten på amerikanske statsobligasjoner med 30 års løpetid har samtidig steget til 5,61 prosent, som er det høyeste nivået siden 2002, ifølge CNBC.",
-        "Renten på amerikanske statsobligasjoner med 10 års løpetid, ofte kalt «verdens viktigste rente», har tikket oppover den siste tiden."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/OkGQxw/s-p-500-indeksen-stiger-forsiktig-cruiseaksje-sendes-rett-opp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e989142a-754d-381c-9c50-1a980e497cd4?fit=crop&h=675&upscale=true&w=1200&s=2eeb9a84c074910e243653eff62d0a0ab5a575c6",
-      "localImage": "assets/news/5fcb51188de3fe.jpg",
-      "score": 19
-    },
-    {
-      "id": "90061004230cb8",
-      "category": "Økonomi",
-      "published": "29.09. 09:00",
-      "publishedISO": "2026-09-29T09:00:32+02:00",
-      "title": "Nedgang på Oslo Børs",
-      "summary": "Oslo Børs startet uken med oppgang mandag, blant annet løftet av en betydelig oljeprisøkning. PPI verdsetter tilbudet som er en blanding av PPI-aksjer og kontanter til rundt 320 millioner svenske kroner ut fra verdien av PPIs eiendeler, ifølge børsmeldingen. SBB eier om lag 40,6 prosent av PPI og 35 prosent av Preservium.",
-      "keyPoints": [
-        "Oslo Børs startet uken med oppgang mandag, blant annet løftet av en betydelig oljeprisøkning.",
-        "PPI verdsetter tilbudet som er en blanding av PPI-aksjer og kontanter til rundt 320 millioner svenske kroner ut fra verdien av PPIs eiendeler, ifølge børsmeldingen.",
-        "SBB eier om lag 40,6 prosent av PPI og 35 prosent av Preservium.",
-        "PPI eier fra før rundt 1 prosent av Origa Care og 36 prosent av One Publicus."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/ArjyrA/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7fefe3b5-314a-3f65-b707-c6e6dc29bdd7?fit=crop&h=675&upscale=true&w=1200&s=6fb9dd3f90d8cbfce99ae32a6db4033745fb8d64",
-      "localImage": "assets/news/90061004230cb8.jpg",
-      "score": 17
-    },
-    {
-      "id": "f42838e0d6d157",
-      "category": "AI",
-      "published": "30.09. 01:15",
-      "publishedISO": "2026-09-30T01:15:29+02:00",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "summary": "Den kinesiske AI-utvikleren Moonshot gjennomfører en intern gjennomgang etter at forskere klarte å overtale to av deres populære Kimi-modeller til å fortelle dem hvordan de lager biologiske våpen og utfører attentater. Mindgard, som tester sikkerheten til AI-systemer, fortalte BBC at de oppdaget i juli at Kimi K2.6 og K3 Swarm kunne unngå sikkerhetsgrenser satt på plass av utviklere. Mindgards grunnlegger Peter Garraghan fortalte BBC World Service-programmet Tech Life at funnene deres om Kimi K2.6 og K3 Swarm var bekymringsfulle. \"Når jailbreaket fungerer, vil det snakke om et hvilket som helst emne, det vil til og med fritt gi anbefalinger om andre emner som også er uhyggelige, og det vil være oppfinnsomt og kreativt,\" sa han.",
-      "keyPoints": [
-        "Den kinesiske AI-utvikleren Moonshot gjennomfører en intern gjennomgang etter at forskere klarte å overtale to av deres populære Kimi-modeller til å fortelle dem hvordan de lager biologiske våpen og utfører attentater.",
-        "Mindgards grunnlegger Peter Garraghan fortalte BBC World Service-programmet Tech Life at funnene deres om Kimi K2.6 og K3 Swarm var bekymringsfulle. \"Når jailbreaket fungerer, vil det snakke om et hvilket som helst emne, det vil til og med fritt gi anbefalinger om andre emner som også er uhyggelige, og det vil være oppfinnsomt og kreativt,\" sa han.",
-        "Mindgard, som tester sikkerheten til AI-systemer, fortalte BBC at de oppdaget i juli at Kimi K2.6 og K3 Swarm kunne unngå sikkerhetsgrenser satt på plass av utviklere.",
-        "Det oppsto under en prosess kalt \"jailbreaking\", der forskere bruker en rekke komplekse instruksjoner for å se om AI-verktøy ignorerer rekkverk - som Mindgard sa burde ha stoppet Kimi fra å diskutere angående emner."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
-      "localImage": "assets/news/f42838e0d6d157.jpg",
-      "score": 17
+      "score": 33
     },
     {
       "id": "81dfdeb44f2a83",
@@ -169,7 +43,154 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/POq1GGfTJta3EvrspjFdCQC0Ybu1HTV9YhVxDy9ni4zQ.jpg",
       "localImage": "assets/news/81dfdeb44f2a83.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "4ef986c665ac85",
+      "category": "Verden",
+      "published": "30.09. 01:33",
+      "publishedISO": "2026-09-30T01:33:34+02:00",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "summary": "Nå, etter en rekke russiske missilangrep, har dette hjertet sluttet å slå. Zaporizhstal-verket har blitt rammet av fire bølger av russiske angrep Russlands vedvarende kampanje med luftangrep mot ukrainske metallurgiske anlegg startet i august. På grunn av de nylige russiske angrepene har det nesten stoppet opp, og dets bidrag til Ukrainas BNP er nå \"sannsynligvis nær null\", sier Myronenko.",
+      "keyPoints": [
+        "Zaporizhstal-verket har blitt rammet av fire bølger av russiske angrep Russlands vedvarende kampanje med luftangrep mot ukrainske metallurgiske anlegg startet i august.",
+        "Nå, etter en rekke russiske missilangrep, har dette hjertet sluttet å slå.",
+        "På grunn av de nylige russiske angrepene har det nesten stoppet opp, og dets bidrag til Ukrainas BNP er nå \"sannsynligvis nær null\", sier Myronenko.",
+        "Den enorme fabrikken som sysselsetter 8500 mennesker stengte på ubestemt tid etter fire bølger av russiske angrep – to i august, og to i september. – Alt utstyret er nesten fullstendig ødelagt."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea31/live/c8137c70-bc28-11f1-bd53-1b67dc8fba34.jpg",
+      "localImage": "assets/news/4ef986c665ac85.jpg",
+      "score": 16
+    },
+    {
+      "id": "291b386cc1c0a4",
+      "category": "USA",
+      "published": "30.09. 00:13",
+      "publishedISO": "2026-09-30T00:13:36+02:00",
+      "title": "Former American Idol contestant Caleb Flynn found guilty of murdering wife",
+      "summary": "Se: Øyeblikk Caleb Flynn er funnet skyldig i drap En tidligere musikkpastor i Ohio som en gang dukket opp i TV-talentkonkurransen American Idol er funnet skyldig i drap på sin kone. Ashley Flynn, sett på et Facebook-bilde fra 2023, sammen med ektemannen. De kalte også dusinvis av vitner, inkludert hans tidligere elskerinne Alleigha Botner, som han møtte mens hun var praktikant i kirken hans. Flynn sa at han fant sin 37 år gamle kone død på soverommet, etter å ha lagt merke til at sidedøren til garasjen var åpen.",
+      "keyPoints": [
+        "Se: Øyeblikk Caleb Flynn er funnet skyldig i drap En tidligere musikkpastor i Ohio som en gang dukket opp i TV-talentkonkurransen American Idol er funnet skyldig i drap på sin kone.",
+        "Flynn sa at han fant sin 37 år gamle kone død på soverommet, etter å ha lagt merke til at sidedøren til garasjen var åpen.",
+        "Ashley Flynn, seen in a 2023 Facebook photo, alongside her husband They also called dozens of witnesses, including his former mistress Alleigha Botner, whom he met while she was an intern at his church.",
+        "Caleb Flynn (40) skjøt Ashley Flynn dødelig to ganger i bakhodet mens hun sov hjemme hos dem i Ohio 16. februar i år, og prøvde deretter å hevde at inntrengere hadde skutt henne."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c946/live/279db040-bc4f-11f1-b0ee-af1df8a6445f.jpg",
+      "localImage": "assets/news/291b386cc1c0a4.jpg",
+      "score": 12
+    },
+    {
+      "id": "4725d4a6a0c466",
+      "category": "Økonomi",
+      "published": "30.09. 09:27",
+      "publishedISO": "2026-09-30T09:27:11+02:00",
+      "title": "People troll my DIY but they just spur me on",
+      "summary": "Omtrent tre fjerdedeler av Gen Z-kvinnene i undersøkelsen sa at de liker DIY, sammenlignet med 60 % av alle kvinnelige respondenter. Og 82 % av Gen Z-kvinnene sa at det å se kvinner gjøre mer komplekse hjemme-DIY på sosiale medier hadde inspirert dem til å gjøre mer selv, mot 60 % av kvinnene generelt. Folk foretrekker kanskje en handelskvinne av en rekke årsaker - bransjeundersøkelser tyder på at de kan føle seg mer vel med en kvinne som kommer inn i hjemmet deres, eksternt, føler at en kvinne vil være mer respektfull, eller ønsker å støtte kvinner som jobber i tradisjonelle mannsroller.",
+      "keyPoints": [
+        "Around three-quarters of Gen Z women surveyed said they enjoy DIY, compared to 60% of all female respondents.",
+        "Folk foretrekker kanskje en handelskvinne av en rekke årsaker - bransjeundersøkelser tyder på at de kan føle seg mer vel med en kvinne som kommer inn i hjemmet deres, eksternt, føler at en kvinne vil være mer respektfull, eller ønsker å støtte kvinner som jobber i tradisjonelle mannsroller.",
+        "Og 82 % av Gen Z-kvinnene sa at det å se kvinner gjøre mer komplekse hjemme-DIY på sosiale medier hadde inspirert dem til å gjøre mer selv, mot 60 % av kvinnene generelt.",
+        "Jasmine Gurney sier at DIY-innleggene hennes på sosiale medier tok fart under Covid-nedstenginger. Det er vanskelig å gå glipp av eksplosjonen av DIY-innhold som har rammet våre sosiale medier-feeds det siste tiåret."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm89jkn232xxo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/27c0/live/c0b51950-bbfd-11f1-90b9-913e4354ed35.jpg",
+      "localImage": "assets/news/4725d4a6a0c466.jpg",
+      "score": 13
+    },
+    {
+      "id": "b2e96aee6e0a3a",
+      "category": "Økonomi",
+      "published": "30.09. 07:27",
+      "publishedISO": "2026-09-30T07:27:23+02:00",
+      "title": "Household energy bills forecast to see biggest rise in four years",
+      "summary": "Husholdningenes energipriser er satt til å stige i januar, med en typisk årlig regning som anslås å hoppe med £276, viser tall delt med BBC. Den anslåtte økningen på 16 % vil ramme millioner av husholdninger på den kaldeste tiden av året, og vil markere den største økningen i regninger på fire år. Herr Rossi snakket eksklusivt til BBCs Big Boss Interview-podcast: \"Vi går faktisk inn i en annen betydelig energikrise etter den vi opplevde for bare fire år siden.\" Han sa at regjeringen bør utvide kuttet i merverdiavgift på strømregninger fra 5 % til 0 % utover april, når det skal utløpe.",
+      "keyPoints": [
+        "Den anslåtte økningen på 16 % vil ramme millioner av husholdninger på den kaldeste tiden av året, og vil markere den største økningen i regninger på fire år.",
+        "Herr Rossi snakket eksklusivt til BBCs Big Boss Interview-podcast: \"Vi går faktisk inn i en annen betydelig energikrise etter den vi opplevde for bare fire år siden.\" Han sa at regjeringen bør utvide kuttet i merverdiavgift på strømregninger fra 5 % til 0 % utover april, når det skal utløpe.",
+        "Husholdningenes energipriser er satt til å stige i januar, med en typisk årlig regning som anslås å hoppe med £276, viser tall delt med BBC.",
+        "Disse hjemmene vil se en prisøkning på 4 % på torsdag, tilsvarende omtrent £60 per år – eller £5 per måned – som tar en årlig regning til £1 723 for den typiske husholdningen som bruker både strøm og gass og betaler med avtalegiro dersom dette nivået ble opprettholdt i et år."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/00c4/live/78692c20-bc9a-11f1-a430-4d16ee157c41.jpg",
+      "localImage": "assets/news/b2e96aee6e0a3a.jpg",
+      "score": 13
+    },
+    {
+      "id": "f42838e0d6d157",
+      "category": "AI",
+      "published": "30.09. 01:15",
+      "publishedISO": "2026-09-30T01:15:29+02:00",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "summary": "Den kinesiske AI-utvikleren Moonshot gjennomfører en intern gjennomgang etter at forskere klarte å overtale to av deres populære Kimi-modeller til å fortelle dem hvordan de lager biologiske våpen og utfører attentater. Mindgard, som tester sikkerheten til AI-systemer, fortalte BBC at de oppdaget i juli at Kimi K2.6 og K3 Swarm kunne unngå sikkerhetsgrenser satt på plass av utviklere. Mindgards grunnlegger Peter Garraghan fortalte BBC World Service-programmet Tech Life at funnene deres om Kimi K2.6 og K3 Swarm var bekymringsfulle. \"Når jailbreaket fungerer, vil det snakke om et hvilket som helst emne, det vil til og med fritt gi anbefalinger om andre emner som også er uhyggelige, og det vil være oppfinnsomt og kreativt,\" sa han.",
+      "keyPoints": [
+        "Den kinesiske AI-utvikleren Moonshot gjennomfører en intern gjennomgang etter at forskere klarte å overtale to av deres populære Kimi-modeller til å fortelle dem hvordan de lager biologiske våpen og utfører attentater.",
+        "Mindgards grunnlegger Peter Garraghan fortalte BBC World Service-programmet Tech Life at funnene deres om Kimi K2.6 og K3 Swarm var bekymringsfulle. \"Når jailbreaket fungerer, vil det snakke om et hvilket som helst emne, det vil til og med fritt gi anbefalinger om andre emner som også er uhyggelige, og det vil være oppfinnsomt og kreativt,\" sa han.",
+        "Mindgard, som tester sikkerheten til AI-systemer, fortalte BBC at de oppdaget i juli at Kimi K2.6 og K3 Swarm kunne unngå sikkerhetsgrenser satt på plass av utviklere.",
+        "Det oppsto under en prosess kalt \"jailbreaking\", der forskere bruker en rekke komplekse instruksjoner for å se om AI-verktøy ignorerer rekkverk - som Mindgard sa burde ha stoppet Kimi fra å diskutere angående emner."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
+      "localImage": "assets/news/f42838e0d6d157.jpg",
+      "score": 16
+    },
+    {
+      "id": "6356cd95e5d8bb",
+      "category": "Norge",
+      "published": "29.09. 18:11",
+      "publishedISO": "2026-09-29T18:11:50+02:00",
+      "title": "Regjeringen vil stramme inn reglene for datasentre i Norge",
+      "summary": "Digitaliserings- og forvaltningsministeren sier til NRK at regjeringen er i gang med en stortingsmelding som vil skjerpe forventningene og krav til nye datasentre. Nå kan det bli annerledes og regjeringen vil kunne stille krav til hvilke datasentre som får etablere seg, sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap). – Vi må stille oss spørsmålet om vi får de riktige datasentrene til Norge. Statsråden sier vi er helt avhengige av datasentre i et så digitalt samfunn, men at veksten må være mer kontrollert. – Den geopolitiske sikkerhetsmessige situasjonen i verden tilsier dessverre at vi er nødt til å gjøre oss mer uavhengige og ha større handlefrihet. – Datasenteret er en grunnleggende digital infrastruktur som vi er helt avhengige av i Norge.",
+      "keyPoints": [
+        "Nå kan det bli annerledes og regjeringen vil kunne stille krav til hvilke datasentre som får etablere seg, sier digitaliserings- og forvaltningsminister Torgeir Micaelsen (Ap). – Vi må stille oss spørsmålet om vi får de riktige datasentrene til Norge.",
+        "Digitaliserings- og forvaltningsministeren sier til NRK at regjeringen er i gang med en stortingsmelding som vil skjerpe forventningene og krav til nye datasentre.",
+        "Statsråden sier vi er helt avhengige av datasentre i et så digitalt samfunn, men at veksten må være mer kontrollert. – Den geopolitiske sikkerhetsmessige situasjonen i verden tilsier dessverre at vi er nødt til å gjøre oss mer uavhengige og ha større handlefrihet. – Datasenteret er en grunnleggende digital infrastruktur som vi er helt avhengige av i Norge.",
+        "Selv om det kan ta tid før alle retningslinjer er på plass, vil det ikke bli stopp på datasenterutbyggingen, lover statsråden – Fordi Norge både skal og bør være et attraktivt sted for å investere i grunnleggende digital infrastruktur, som datasentre er."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/regjeringen-vil-stramme-inn-reglene-for-datasentre-i-norge-1.18040088",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/iXdWgXqV2pp8gPEpJxNl-QAkYwbZ3xr9ZyxW6zdA2O2A.jpg",
+      "localImage": "assets/news/6356cd95e5d8bb.jpg",
+      "score": 18
+    },
+    {
+      "id": "a06c62f18ec654",
+      "category": "Norge",
+      "published": "30.09. 06:00",
+      "publishedISO": "2026-09-30T06:00:00+02:00",
+      "title": "Regjeringen vil bruke nær 650 millioner på ny rakettrampe på Andøya",
+      "summary": "Nå vil regjeringen gi flere tilgang til verdensrommet fra Andøya – under norsk kontroll. Regjeringen foreslår å bruke 323,3 millioner kroner til en ny oppskytingsrampe ved Andøya Spaceport i statsbudsjettet for 2027. Hittil har regjeringen bidratt med nær 400 millioner kroner på oppskytingsrampen til Andøya Space.",
+      "keyPoints": [
+        "Regjeringen foreslår å bruke 323,3 millioner kroner til en ny oppskytingsrampe ved Andøya Spaceport i statsbudsjettet for 2027.",
+        "Hittil har regjeringen bidratt med nær 400 millioner kroner på oppskytingsrampen til Andøya Space.",
+        "Nå vil regjeringen gi flere tilgang til verdensrommet fra Andøya – under norsk kontroll.",
+        "Adm.dir. ved Andøya Space, Ketil Olsen, mener regjeringen bør hoste opp mer penger. – Jeg tror og håper regjeringen er villig til å gjøre dette, men jeg er selvfølgelig utålmodig, for dette burde vi gjort for mange år siden."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/regjeringen-vil-bruke-naer-650-millioner-pa-ny-rakettrampe-pa-andoya-1.18039629",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Pfny2doDhY7nrTO8IzirZQ4Cp_xtD_BiKj82txOBPFIg.jpg",
+      "localImage": "assets/news/a06c62f18ec654.jpg",
+      "score": 17
     },
     {
       "id": "1297d8fa15e2f7",
@@ -190,28 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/tx6Jt7Dz9p3YklsYiwoNxAHDLbPrWd5SdA3CzHO9AYGw.jpg",
       "localImage": "assets/news/1297d8fa15e2f7.jpg",
-      "score": 17
-    },
-    {
-      "id": "2e1a0df849cb77",
-      "category": "Nord-Norge",
-      "published": "29.09. 09:19",
-      "publishedISO": "2026-09-29T09:19:38+02:00",
-      "title": "Vil bruke «statens muskler» på raffineri i nord",
-      "summary": "Bentzen viser til en rapport fra Forsvarets forskningsinstitutt (FFI), som peker på at Norge er sårbart med bare ett raffineri på Mongstad. Rapporten anbefaler også å sikre driften ved Mongstad, men ikke å bygge et nytt raffineri. Han viser til at staten eier Equinor, som driver Mongstad. – Vi vet at det ikke er kommersielt lønnsomt å drive raffineri i Norge.",
-      "keyPoints": [
-        "Han viser til at staten eier Equinor, som driver Mongstad. – Vi vet at det ikke er kommersielt lønnsomt å drive raffineri i Norge.",
-        "Bentzen viser til en rapport fra Forsvarets forskningsinstitutt (FFI), som peker på at Norge er sårbart med bare ett raffineri på Mongstad.",
-        "Rapporten anbefaler også å sikre driften ved Mongstad, men ikke å bygge et nytt raffineri.",
-        "Han advarer mot å pålegge Equinor å drive et raffineri med tap. – Beredskap er dyrt, og det må vi bare ta med."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/vil-bruke-_statens-muskler_-pa-raffineri-i-nord-1.18039518",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/cy-5Hxn9RL9FJVL3reKnlAC3LgiVjITSOZEcEt3YuYnQ",
-      "localImage": "assets/news/2e1a0df849cb77.jpg",
-      "score": 17
+      "score": 16
     }
   ]
 }
