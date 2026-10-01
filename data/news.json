@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.10.2026 kl. 01:32",
-  "updatedISO": "2026-10-01T01:32:24.346432+02:00",
+  "updatedAt": "01.10.2026 kl. 04:29",
+  "updatedISO": "2026-10-01T04:29:03.741539+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.530/common/img/default.jpg",
       "localImage": "assets/news/062998e6d873fa.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "eae4c5f18ce1ae",
@@ -43,49 +43,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/1XEBfQBKQnMp878yD6OAXwEda_htKJwFxkz1oo36jqFQ.jpg",
       "localImage": "assets/news/eae4c5f18ce1ae.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "e3128e4ea979d5",
+      "id": "f72d0ff9bae01e",
       "category": "Verden",
-      "published": "30.09. 16:53",
-      "publishedISO": "2026-09-30T16:53:02+02:00",
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "summary": "Russland har satt i gang det største angrepet på Ukrainas energiinfrastruktur siden våren, først og fremst rettet mot Kiev og regionen rundt, har Ukrainas statsminister sagt. Koretskyi skrev på Telegram: \"Siden sommeren har det faktisk ikke vært en eneste dag uten fiendtlige angrep på energiinfrastrukturen vår. \"Men et masse- og kombinert angrep av denne skalaen har skjedd for første gang siden slutten av forrige oppvarmingssesong.\" Ukraina har ventet nok et langvarig russisk angrep på landets energinett. Ukrainas kampangrep er slått av Russlands rakettindustris liv som er ødelagt av Russlands stålindustri. angrep på Ukrainas datasentre, sier Zelensky. Det største angrepet på Moskva ser at Ukraina skyter hundrevis av droner, sier ordfører",
+      "published": "01.10. 01:25",
+      "publishedISO": "2026-10-01T01:25:23+02:00",
+      "title": "Kina har slått ned på AI-forhold. Er det i forkant av kampen?",
+      "summary": "Den 15. juli i år ble denne kontrollen utvidet til å omfatte relasjoner og kunstig intelligens (AI) da Kina innførte de mest vidtrekkende reguleringene i verden for «menneskelignende» AI-chatboter. Men det ser ut til at Kina allerede har anerkjent en annen eksistensiell risiko, om enn en der slutten på menneskeheten er mindre umiddelbar: AIs kraft til å erstatte menneskelige relasjoner. Forskning har funnet ut at noen kinesiske barn foretrekker å snakke med AI fremfor mennesker. En undersøkelse av 8563 grunnskole- og ungdomsskoleelever i Kina i 2025, som har blitt mye sitert i kinesiske statlige medier, fant at ett av fem barn sa at de bare ønsket å snakke med AI og ikke ekte mennesker.",
       "keyPoints": [
-        "Russland har satt i gang det største angrepet på Ukrainas energiinfrastruktur siden våren, først og fremst rettet mot Kiev og regionen rundt, har Ukrainas statsminister sagt.",
-        "Koretskyi skrev på Telegram: \"Siden sommeren har det faktisk ikke vært en eneste dag uten fiendtlige angrep på energiinfrastrukturen vår. \"Men et masse- og kombinert angrep av denne skalaen har skjedd for første gang siden slutten av forrige oppvarmingssesong. \" Ukraina har ventet et nytt langvarig russisk angrep på landets energinett.",
-        "Ukraine's prized steel industry left in ruins by Russian missile campaign Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "Streikene påvirket også folks strømforsyning, og Ukrainas største private energiselskap DTEK sa at strømmen til 8000 hjem var gjenopprettet etter \"en vanskelig natt\" for hovedstaden."
+        "Men det ser ut til at Kina allerede har anerkjent en annen eksistensiell risiko, om enn en der slutten på menneskeheten er mindre umiddelbar: AIs kraft til å erstatte menneskelige relasjoner.",
+        "Den 15. juli i år ble denne kontrollen utvidet til å omfatte relasjoner og kunstig intelligens (AI) da Kina innførte de mest vidtrekkende reguleringene i verden for «menneskelignende» AI-chatboter.",
+        "Forskning har funnet ut at noen kinesiske barn foretrekker å snakke med AI fremfor mennesker. En undersøkelse av 8563 grunnskole- og ungdomsskoleelever i Kina i 2025, som har blitt mye sitert i kinesiske statlige medier, fant at ett av fem barn sa at de bare ønsket å snakke med AI og ikke ekte mennesker.",
+        "Det fungerer også som et vindu inn i overvåkingsarkitekturen som Kina har bygget for å overvåke og kontrollere hvordan folk bruker teknologi."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjy9lr551o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
-      "localImage": "assets/news/e3128e4ea979d5.jpg",
-      "score": 16
-    },
-    {
-      "id": "1cee4dab0849a0",
-      "category": "USA",
-      "published": "01.10. 01:23",
-      "publishedISO": "2026-10-01T01:23:23+02:00",
-      "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-      "summary": "USAs høyesterett har ryddet veien for at Tennessee-innsatte Christa Pike kan bli henrettet, og omstøter en utsettelse i siste øyeblikk. Hvis henrettelsen fortsetter, vil Christa Pike være den første kvinnen som blir henrettet i Tennessee på mer enn 200 år. Høyesterettsdommer Brett Kavanaugh innvilget søknaden om å fravike henrettelsen.",
-      "keyPoints": [
-        "USAs høyesterett har ryddet veien for at Tennessee-innsatte Christa Pike kan bli henrettet, og omstøter en utsettelse i siste øyeblikk.",
-        "Hvis henrettelsen fortsetter, vil Christa Pike være den første kvinnen som blir henrettet i Tennessee på mer enn 200 år.",
-        "Høyesterettsdommer Brett Kavanaugh innvilget søknaden om å fravike henrettelsen.",
-        "Pike, 50, har ventet på henrettelse siden hun ble dømt og dømt til døden i 1996 for drapet på Colleen Slemmer."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6311/live/31a802d0-bd25-11f1-bc2e-018d645d8d21.jpg",
-      "localImage": "assets/news/1cee4dab0849a0.jpg",
-      "score": 13
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/035f/live/4e878500-bcdb-11f1-babe-4199b0e7ccea.jpg",
+      "localImage": "assets/news/f72d0ff9bae01e.jpg",
+      "score": 17
     },
     {
       "id": "370b65386433ae",
@@ -127,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/12213fd7-99ba-3e7a-a73c-a4085e9ce5b8?fit=crop&h=675&upscale=true&w=1200&s=53310dbd64c02e99c6708852da1b0620b2fbe0ff",
       "localImage": "assets/news/6fe3b4c21ef1e2.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "afd5149294fe40",
@@ -135,12 +114,12 @@
       "published": "01.10. 01:10",
       "publishedISO": "2026-10-01T01:10:19+02:00",
       "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "summary": "Nikons årlige Small World In Motion-konkurranse aksepterer bilder og video tatt med kraftige mikroskoper, og har gått årlig de siste 15 årene. Vinneren var en kort video sendt inn av Dr Ning Xu, en forsker ved Tsinghua University i Kina, som hevder å være opptak av små, hårlignende strukturer kalt flimmerhår som beveger seg inne i luftveiene til et barn med en sjelden sykdom. I et svar på et innlegg fra Nikon på LinkedIn, eksternt, bestred han ikke bruken av kunstig intelligens i bildebehandlingen, men sa at han holdt seg innenfor reglene for konkurransen. \"AI ble ikke brukt til å generere den eksperimentelle filmen, flimmerhårene eller bevegelsene deres,\" sa han.",
+      "summary": "Nikon undersøker om vinnervideoen (vist til venstre) ble endret med AI. Vinnerbidraget til en prestisjefylt vitenskapelig fotokonkurranse blir revurdert etter kritikk fra andre forskere om at den ble laget med AI. Nikons årlige Small World In Motion-konkurranse aksepterer bilder og video tatt med kraftige mikroskoper, og har gått årlig de siste 15 årene. I et svar på et innlegg fra Nikon på LinkedIn, eksternt, bestred han ikke bruken av kunstig intelligens i bildebehandlingen, men sa at han holdt seg innenfor reglene for konkurransen. \"AI ble ikke brukt til å generere den eksperimentelle filmen, flimmerhårene eller bevegelsene deres,\" sa han.",
       "keyPoints": [
         "I et svar på et innlegg fra Nikon på LinkedIn, eksternt, bestred han ikke bruken av kunstig intelligens i bildebehandlingen, men sa at han holdt seg innenfor reglene for konkurransen. \"AI ble ikke brukt til å generere den eksperimentelle filmen, flimmerhårene eller bevegelsene deres,\" sa han.",
         "Nikons årlige Small World In Motion-konkurranse aksepterer bilder og video tatt med kraftige mikroskoper, og har gått årlig de siste 15 årene.",
-        "Vinneren var en kort video sendt inn av Dr Ning Xu, en forsker ved Tsinghua University i Kina, som hevder å være opptak av små, hårlignende strukturer kalt flimmerhår som beveger seg inne i luftveiene til et barn med en sjelden sykdom.",
-        "Men utfordringene fra andre forskere inkluderer påstander om at videoen inneholder former og bevegelser som ikke passet med normale cellestrukturer eller atferd, og at flimmerhårene så ut til å være for store."
+        "Nikon undersøker om vinnervideoen (vist til venstre) ble endret med AI. Vinnerbidraget til en prestisjefylt vitenskapelig fotokonkurranse blir revurdert etter kritikk fra andre forskere om at den ble laget med AI.",
+        "Vinneren var en kort video sendt inn av Dr Ning Xu, en forsker ved Tsinghua University i Kina, som hevder å være opptak av små, hårlignende strukturer kalt flimmerhår som beveger seg inne i luftveiene til et barn med en sjelden sykdom."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
@@ -169,7 +148,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
       "localImage": "assets/news/f42838e0d6d157.jpg",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "e3128e4ea979d5",
+      "category": "Verden",
+      "published": "30.09. 16:53",
+      "publishedISO": "2026-09-30T16:53:02+02:00",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "summary": "Russland har satt i gang det største angrepet på Ukrainas energiinfrastruktur siden våren, først og fremst rettet mot Kiev og regionen rundt, har Ukrainas statsminister sagt. Koretskyi skrev på Telegram: \"Siden sommeren har det faktisk ikke vært en eneste dag uten fiendtlige angrep på energiinfrastrukturen vår. \"Men et masse- og kombinert angrep av denne skalaen har skjedd for første gang siden slutten av forrige oppvarmingssesong.\" Ukraina har ventet nok et langvarig russisk angrep på landets energinett. Ukrainas kampangrep er slått av Russlands rakettindustris liv som er ødelagt av Russlands stålindustri. angrep på Ukrainas datasentre, sier Zelensky. Det største angrepet på Moskva ser Ukraina avfyre hundrevis av droner, sier ordfører",
+      "keyPoints": [
+        "Russland har satt i gang det største angrepet på Ukrainas energiinfrastruktur siden våren, først og fremst rettet mot Kiev og regionen rundt, har Ukrainas statsminister sagt.",
+        "Koretskyi skrev på Telegram: \"Siden sommeren har det faktisk ikke vært en eneste dag uten fiendtlige angrep på energiinfrastrukturen vår. \"Men et masse- og kombinert angrep av denne skalaen har skjedd for første gang siden slutten av forrige oppvarmingssesong. \" Ukraina har ventet et nytt langvarig russisk angrep på landets energinett.",
+        "Ukraine's prized steel industry left in ruins by Russian missile campaign Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+        "Streikene påvirket også folks strømforsyning, og Ukrainas største private energiselskap DTEK sa at strømmen til 8000 hjem var gjenopprettet etter \"en vanskelig natt\" for hovedstaden."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
+      "localImage": "assets/news/e3128e4ea979d5.jpg",
+      "score": 15
     },
     {
       "id": "3dd74e7b5ef00c",
@@ -190,27 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/4RgoRjP8fh1BsUw2QKVHPQf3oI4TUWNwp5Va6Xd2eXSQ.jpg",
       "localImage": "assets/news/3dd74e7b5ef00c.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "46fc97f40c9cc4",
+      "id": "2ac86e245ffbbf",
       "category": "Økonomi",
-      "published": "30.09. 11:17",
-      "publishedISO": "2026-09-30T11:17:58+02:00",
-      "title": "Vil bruke 650 millioner på ny rakettrampe på Andøya",
-      "summary": "Andøya Spaceport i Nordland har blitt en strategisk viktig rombase for Norge og Europa etter at tyske Isar Aerospace klarte å skyte opp «Spectrum»-raketten i bane 5. september. Tilbake i 2020 ga daværende næringsminister Iselin Nybø tilsagn om 365 millioner til Andøya Spaceport. Andøya Space og Isar Aerospace har en 20 år lang avtale om oppskytning, som ble inngått i 2021.",
+      "published": "30.09. 10:01",
+      "publishedISO": "2026-09-30T10:01:19+02:00",
+      "title": "Norges Bank fortsetter å selge kroner i oktober",
+      "summary": "Norges Bank skal totalt sett selge 176 millioner kroner daglig i oktober, ifølge en melding fra sentralbanken. Det er akkurat det samme som i september, da Norges Bank snudde til kjøp. I tillegg har Norges Bank vedtatt at det skal overføres rundt 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
       "keyPoints": [
-        "Tilbake i 2020 ga daværende næringsminister Iselin Nybø tilsagn om 365 millioner til Andøya Spaceport.",
-        "Andøya Spaceport i Nordland har blitt en strategisk viktig rombase for Norge og Europa etter at tyske Isar Aerospace klarte å skyte opp «Spectrum»-raketten i bane 5. september.",
-        "Andøya Space og Isar Aerospace har en 20 år lang avtale om oppskytning, som ble inngått i 2021.",
-        "Staten eier 90 prosent av Andøya Space, mens Kongsberg Gruppen eier de siste 10 prosentene."
+        "Norges Bank skal totalt sett selge 176 millioner kroner daglig i oktober, ifølge en melding fra sentralbanken.",
+        "I tillegg har Norges Bank vedtatt at det skal overføres rundt 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+        "Det er akkurat det samme som i september, da Norges Bank snudde til kjøp.",
+        "I oktober utgjør disse kronekjøpene 124 millioner daglig, akkurat som måneden før."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/n150QB/vil-bruke-650-millioner-paa-ny-rakettrampe-paa-andoeya",
+      "url": "https://e24.no/boers-og-finans/i/9pj6Od/norges-bank-skal-selge-kroner-for-176-millioner-daglig-i-oktober",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a84872e4-8aa2-3dd3-a54e-e0632740fcb5?fit=crop&h=675&upscale=true&w=1200&s=14bc6ab6c0597e23413d49183469f9938139963c",
-      "localImage": "assets/news/46fc97f40c9cc4.jpg",
+      "image": "https://akamai.vgc.no/v2/images/0d1eb20b-2823-39f4-a7c4-80684ff90e02?fit=crop&h=675&upscale=true&w=1200&s=82d70127769fbf7baf94a9e1ade2fd7ab4a2feaf",
+      "localImage": "assets/news/2ac86e245ffbbf.jpg",
       "score": 15
     }
   ]
