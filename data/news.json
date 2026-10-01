@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.10.2026 kl. 11:20",
-  "updatedISO": "2026-10-01T11:20:45.931687+02:00",
+  "updatedAt": "01.10.2026 kl. 18:40",
+  "updatedISO": "2026-10-01T18:40:13.116081+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/N26SpPBB8B9qRofKxeYc9g18U_op7nxjin-u5zJOo4vQ.jpg",
       "localImage": "assets/news/5d703c7e84b7a6.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "f72d0ff9bae01e",
@@ -35,7 +35,7 @@
         "Men det ser ut til at Kina allerede har anerkjent en annen eksistensiell risiko, om enn en der slutten på menneskeheten er mindre umiddelbar: AIs kraft til å erstatte menneskelige relasjoner.",
         "Den 15. juli i år ble denne kontrollen utvidet til å omfatte relasjoner og kunstig intelligens (AI) da Kina innførte de mest vidtrekkende reguleringene i verden for «menneskelignende» AI-chatboter.",
         "Forskning har funnet ut at noen kinesiske barn foretrekker å snakke med AI fremfor mennesker. En undersøkelse av 8563 grunnskole- og ungdomsskoleelever i Kina i 2025, som har blitt mye sitert i kinesiske statlige medier, fant at ett av fem barn sa at de bare ønsket å snakke med AI og ikke ekte mennesker.",
-        "Det fungerer også som et vindu inn i overvåkingsarkitekturen som Kina har bygget for å overvåke og kontrollere hvordan folk bruker teknologi."
+        "Den fungerer også som et vindu inn i overvåkingsarkitekturen som Kina har bygget for å overvåke og kontrollere hvordan folk bruker teknologi."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -43,7 +43,49 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/035f/live/4e878500-bcdb-11f1-babe-4199b0e7ccea.jpg",
       "localImage": "assets/news/f72d0ff9bae01e.jpg",
-      "score": 16
+      "score": 14
+    },
+    {
+      "id": "548b41e467ad4c",
+      "category": "USA",
+      "published": "01.10. 18:02",
+      "publishedISO": "2026-10-01T18:02:07+02:00",
+      "title": "Trump says 'some' munitions are low as Iran stalemate grinds on",
+      "summary": "I et intervju med Time sa Trump at en fornyet bombekampanje i Iran er \"mulig\" etter midtveisperioden i november. President Donald Trump har erkjent at USAs forsyninger av noen ammunisjon «er litt lavere» som et resultat av Iran-krigen, men lovet å fylle på dem til «nivåer vi aldri har gjort før». I et intervju publisert av Time på torsdag, sa Trump også at det var mulig at USA kunne øke angrepene på Iran etter midtveisvalget i november, til tross for hans tidligere uttalelser om at USA allerede hadde oppnådd seier i krigen.",
+      "keyPoints": [
+        "President Donald Trump har erkjent at USAs forsyninger av noen ammunisjon «er litt lavere» som et resultat av Iran-krigen, men lovet å fylle på dem til «nivåer vi aldri har gjort før».",
+        "I et intervju publisert av Time på torsdag, sa Trump også at det var mulig at USA kunne øke angrepene på Iran etter midtveisvalget i november, til tross for hans tidligere uttalelser om at USA allerede hadde oppnådd seier i krigen.",
+        "I et intervju med Time sa Trump at en fornyet bombekampanje i Iran er \"mulig\" etter midtveisperioden i november.",
+        "Bare 17 % av amerikanske voksne godkjente Trumps håndtering av levekostnadene og bare 26 % godkjente hans håndtering av den bredere økonomien – et nytt lavpunkt – i en meningsmåling fra Associated Press-NORC Center for Public Affairs Research som ble offentliggjort torsdag."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjgzjrvp5o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a0d7/live/baeb2400-bda2-11f1-8373-27235719cf2a.jpg",
+      "localImage": "assets/news/548b41e467ad4c.jpg",
+      "score": 17
+    },
+    {
+      "id": "99046c3b955d32",
+      "category": "Økonomi",
+      "published": "01.10. 17:21",
+      "publishedISO": "2026-10-01T17:21:21+02:00",
+      "title": "Tom Hagen saksøkt – partner krever å bli betalt ut av milliardselskap",
+      "summary": "Tom Hagen har havnet i en bitter strid om selskapet som er hjørnesteinen i hans gigantformue. Og han krever at Hagen betaler ham i cash for hans eierandel i selskapet. E24 har vært i kontakt med advokat Simen Søgaard, som representerer Tom Hagen i saken.",
+      "keyPoints": [
+        "Og han krever at Hagen betaler ham i cash for hans eierandel i selskapet.",
+        "Tom Hagen har havnet i en bitter strid om selskapet som er hjørnesteinen i hans gigantformue.",
+        "E24 har vært i kontakt med advokat Simen Søgaard, som representerer Tom Hagen i saken.",
+        "Med andre ord vil Nerbye kreve at Elkraft og Tom Hagen kjøper samtlige aksjer av ham."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/K8Jr94/tom-hagen-saksoekt-partner-krever-aa-bli-betalt-ut-av-milliardselskap",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/926e7ce9-8369-32af-8c5e-5bc21e768a84?fit=crop&h=675&upscale=true&w=1200&s=7a9ef6d8e1a19531c60a8535a99424356b7f56b5",
+      "localImage": "assets/news/99046c3b955d32.jpg",
+      "score": 21
     },
     {
       "id": "3e03761538fc8f",
@@ -64,28 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e444fb54-bc06-3ef5-9079-b6e0360d08f2?fit=crop&h=675&upscale=true&w=1200&s=15f05074d39897012e029047eebf4c1ee9b04726",
       "localImage": "assets/news/3e03761538fc8f.jpg",
-      "score": 21
-    },
-    {
-      "id": "29bfa442c6b057",
-      "category": "Økonomi",
-      "published": "01.10. 09:00",
-      "publishedISO": "2026-10-01T09:00:24+02:00",
-      "title": "Børsen faller etter global rentefrykt",
-      "summary": "Hovedindeksen på Oslo Børs er ned rundt 1,11 prosent litt etter klokken 9.30 på ukens nest siste handelsdag. Slik ser det ut for noen av de mest omsatte aksjene: Siden Oslo Børs stengte onsdag, har oljeprisen falt med nesten 1,5 prosent. Onsdag falt Børsen 0,02 prosent, på en handelsdag der blant annet Hafnia-aksjen steg etter at Pareto høynet anbefalingen sin til kjøp.",
-      "keyPoints": [
-        "Onsdag falt Børsen 0,02 prosent, på en handelsdag der blant annet Hafnia-aksjen steg etter at Pareto høynet anbefalingen sin til kjøp.",
-        "Slik ser det ut for noen av de mest omsatte aksjene: Siden Oslo Børs stengte onsdag, har oljeprisen falt med nesten 1,5 prosent.",
-        "Hovedindeksen på Oslo Børs er ned rundt 1,11 prosent litt etter klokken 9.30 på ukens nest siste handelsdag.",
-        "Renteuro preger de globale markedene torsdag, og renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent, ifølge dataleverandøren Infront."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/vlWWRl/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c8bd603c-beb8-30ea-80f4-d79084fe55b7?fit=crop&h=675&upscale=true&w=1200&s=040885d9cd30a0f9c3af3170128dcb38d1858145",
-      "localImage": "assets/news/29bfa442c6b057.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "afd5149294fe40",
@@ -106,112 +127,91 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
       "localImage": "assets/news/afd5149294fe40.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "a0066f8479eded",
+      "id": "a8bc5873d44dd2",
       "category": "Økonomi",
-      "published": "01.10. 09:50",
-      "publishedISO": "2026-10-01T09:50:02+02:00",
-      "title": "Global renteuro: «Tiåringen» stiger til høyeste nivå siden 2002",
-      "summary": "Renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent torsdag formiddag, ifølge dataleverandøren Infront. Renten på amerikanske statsobligasjoner med 30 års løpetid stiger også til sitt høyeste nivå siden 2002. Oljeprisen stiger, og et fat nordsjøolje (brent spot) bikket igjen over 100 dollar tirsdag formiddag.",
+      "published": "01.10. 09:00",
+      "publishedISO": "2026-10-01T09:00:24+02:00",
+      "title": "Oslo Børs falt etter global rentefrykt",
+      "summary": "Renteuro preger de globale markedene torsdag, og renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent, ifølge dataleverandøren Infront. Aksjestrateg Paul Harper i DNB Carnegie sier at Oslo Børs i utgangspunktet er mindre rentesensitivt enn gjennomsnittet av globale aksjer. Utviklingen i det norske aksjemarkedet er mer knyttet til globale råvarepriser. – Samtidig svekker det risikoapetitten i markeder globalt, og det har påvirkning på Oslo Børs også.",
       "keyPoints": [
-        "Renten på amerikanske statsobligasjoner med 30 års løpetid stiger også til sitt høyeste nivå siden 2002.",
-        "Renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent torsdag formiddag, ifølge dataleverandøren Infront.",
-        "Oljeprisen stiger, og et fat nordsjøolje (brent spot) bikket igjen over 100 dollar tirsdag formiddag.",
-        "Wilhelmsen viser til at de siste løypemeldingene fra USA viste lavere prisvekst enn ventet sist måned, samtidig som Fed-toppen John Williams har indikert synspunkter om gradvis renteoppgang. – Til tross for det så har lange renterLangsiktige statsrenter, som rentepapirer med ti eller 30 års løpetid. steget videre."
+        "Aksjestrateg Paul Harper i DNB Carnegie sier at Oslo Børs i utgangspunktet er mindre rentesensitivt enn gjennomsnittet av globale aksjer.",
+        "Utviklingen i det norske aksjemarkedet er mer knyttet til globale råvarepriser. – Samtidig svekker det risikoapetitten i markeder globalt, og det har påvirkning på Oslo Børs også.",
+        "Renteuro preger de globale markedene torsdag, og renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent, ifølge dataleverandøren Infront.",
+        "Oljeprisen steg utover torsdagen, og nordsjøolje (brent spot) handles for rundt 1 prosent mer enn ved stengetid onsdag."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zl5E94/tiaaringen-stiger-til-hoeyeste-nivaa-siden-2002",
+      "url": "https://e24.no/boers-og-finans/i/vlWWRl/nedgang-paa-oslo-boers",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/df47ed13-8918-3a22-815c-c492f5ea77a4?fit=crop&h=675&upscale=true&w=1200&s=c9df808c3178b88fd4942000272f9727e3c24625",
-      "localImage": "assets/news/a0066f8479eded.jpg",
+      "image": "https://akamai.vgc.no/v2/images/c8bd603c-beb8-30ea-80f4-d79084fe55b7?fit=crop&h=675&upscale=true&w=1200&s=040885d9cd30a0f9c3af3170128dcb38d1858145",
+      "localImage": "assets/news/a8bc5873d44dd2.jpg",
+      "score": 20
+    },
+    {
+      "id": "fb17b1229e1c83",
+      "category": "Økonomi",
+      "published": "01.10. 11:47",
+      "publishedISO": "2026-10-01T11:47:58+02:00",
+      "title": "Nå slår rentefrykten inn",
+      "summary": "Renten på amerikanske statslånsåkalte statsobligasjoner med ti års løpetidvarigheten på et lån har skutt over 5 prosent. Såkalte lange renterLange renter er renter på lån eller verdipapirer med lang løpetid, typisk statsobligasjoner med 10, 20 eller 30 års løpetid. stiger kraftig. Investeringene har etter hvert blitt så store at de slår godt inn i amerikansk økonomi.",
+      "keyPoints": [
+        "Såkalte lange renterLange renter er renter på lån eller verdipapirer med lang løpetid, typisk statsobligasjoner med 10, 20 eller 30 års løpetid. stiger kraftig.",
+        "Renten på amerikanske statslånsåkalte statsobligasjoner med ti års løpetidvarigheten på et lån har skutt over 5 prosent.",
+        "Investeringene har etter hvert blitt så store at de slår godt inn i amerikansk økonomi.",
+        "Renten på norske statslån med ti års løpetid har steget til rundt 4,6 prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/0BjGx0/naa-slaar-rentefrykten-inn",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/afe2d090-069a-3b71-89ac-c2ba77bebfca?fit=crop&h=675&upscale=true&w=1200&s=9255aa49c6741c46ffe16d472952b7f205175735",
+      "localImage": "assets/news/fb17b1229e1c83.jpg",
+      "score": 19
+    },
+    {
+      "id": "cf915c0c7c9b99",
+      "category": "Økonomi",
+      "published": "01.10. 14:48",
+      "publishedISO": "2026-10-01T14:48:45+02:00",
+      "title": "Renteuro: – Kan få udisiplinerte politikere til å stramme inn",
+      "summary": "Oppgang i rentemarkedet kommer fordi markedsaktørene «tror sentralbankene vil øke rentene videre og holde de høyere lengre. – Det er ikke at investorene nå får full panikk på vegne av statsgjelden som gjør at staten må betale mer. – Det hadde vært langt mer dramatisk hvis alle statsgjeldsmarkedene steg bare på bakgrunn av at investorene ikke ville kjøpe mer statsgjeld, altså at risikopremien økte. Der har rentenivået på statsgjelden økt kraftig og ligger betydelig høyere enn for eksempel i nabolandet Tyskland. – Det er ikke bare fordi markedet tror at ESBDen europeiske sentralbanken, som setter renten i eurosonen som Frankrike er en del av. vil øke renten mer, men også fordi det i Frankrike er reelle bekymringer på vegne av statsgjelden, sier Cekov. Magnussen, seniorøkonom i DNB Carnegie, trekker frem svake statsfinanser som en viktig del av bakteppet, i tillegg til inflasjons- og renteutsiktene. – Gjeldsnivåer har vært høye nå en god stund, og så er det utsikter til at man ikke greier å stramme til på budsjettene.",
+      "keyPoints": [
+        "Magnussen, seniorøkonom i DNB Carnegie, trekker frem svake statsfinanser som en viktig del av bakteppet, i tillegg til inflasjons- og renteutsiktene. – Gjeldsnivåer har vært høye nå en god stund, og så er det utsikter til at man ikke greier å stramme til på budsjettene.",
+        "Oppgang i rentemarkedet kommer fordi markedsaktørene «tror sentralbankene vil øke rentene videre og holde de høyere lengre. – Det er ikke at investorene nå får full panikk på vegne av statsgjelden som gjør at staten må betale mer. – Det hadde vært langt mer dramatisk hvis alle statsgjeldsmarkedene steg bare på bakgrunn av at investorene ikke ville kjøpe mer statsgjeld, altså at risikopremien økte.",
+        "Der har rentenivået på statsgjelden økt kraftig og ligger betydelig høyere enn for eksempel i nabolandet Tyskland. – Det er ikke bare fordi markedet tror at ESBDen europeiske sentralbanken, som setter renten i eurosonen som Frankrike er en del av. vil øke renten mer, men også fordi det i Frankrike er reelle bekymringer på vegne av statsgjelden, sier Cekov.",
+        "Forventninger om høyere rente fremover er et viktig bakteppe, blant annet etter at høyere energipriser har skapt usikkerhet og løftet utsiktene for prisveksten. – For de som har mye gjeld er renteoppgangen selvfølgelig veldig ubehagelig, sier SB1 Markets-strateg Dane Cekov."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/gdawo5/renteuro-kan-faa-udisiplinerte-politikere-til-aa-stramme-inn",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5e5cc689-fff4-3f9b-bbdf-af454230fd3c?fit=crop&h=675&upscale=true&w=1200&s=c0db24b025388ebe65a185b2bed723ae91fdede2",
+      "localImage": "assets/news/cf915c0c7c9b99.jpg",
       "score": 17
     },
     {
-      "id": "1949963f089f83",
-      "category": "Norge",
-      "published": "01.10. 07:25",
-      "publishedISO": "2026-10-01T07:25:33+02:00",
-      "title": "Vedum vil stoppe ambulansekuttene",
-      "summary": "Men hele ideen om at man skal spare penger med å sentralisere ambulansetjenesten ytterligere, mener Senterpartiet er feil, sier Trygve Slagsvold Vedum til NTB. Partiet vil sette prosessene på vent til Stortinget har behandlet en sak om helhetlig ambulanseberedskap for hele landet. – Det handler om grunnberedskapen i alle deler av landet vårt, sier Vedum. Tall Helse- og omsorgsdepartementet ga til VG i fjor, viste 641 direktører i helsesektoren. – Helseforetaksmodellen har blitt en mastodont, og vi jobber også langsiktig med å få lagt ned modellen, sier Vedum.",
+      "id": "5e004eb66d0ab8",
+      "category": "Økonomi",
+      "published": "01.10. 14:29",
+      "publishedISO": "2026-10-01T14:29:46+02:00",
+      "title": "Dyrtiden er en rentetid",
+      "summary": "Ifølge SSB fikk husholdningene i 2024 den sterkeste realinntektsveksten på over ti år. Med to prosent lånerente kostet 400 000 kroner ekstra i boliglånet rundt 8 000 kroner i året i renter. Sentralbanken har selv regnet ut at en husholdning med gjeld på tre ganger inntekten kutter forbruket med om lag 1,5 prosent av inntekten for hvert prosentpoeng renten stiger.",
       "keyPoints": [
-        "Tall Helse- og omsorgsdepartementet ga til VG i fjor, viste 641 direktører i helsesektoren. – Helseforetaksmodellen har blitt en mastodont, og vi jobber også langsiktig med å få lagt ned modellen, sier Vedum.",
-        "Men hele ideen om at man skal spare penger med å sentralisere ambulansetjenesten ytterligere, mener Senterpartiet er feil, sier Trygve Slagsvold Vedum til NTB.",
-        "Partiet vil sette prosessene på vent til Stortinget har behandlet en sak om helhetlig ambulanseberedskap for hele landet. – Det handler om grunnberedskapen i alle deler av landet vårt, sier Vedum.",
-        "Sp-leder Trygve Slagsvold Vedum vil ha Stortinget med på å sette planlagte kutt og sentralisering av ambulansetjenesten på pause. – Det er jo store avstander i Norge."
+        "Med to prosent lånerente kostet 400 000 kroner ekstra i boliglånet rundt 8 000 kroner i året i renter.",
+        "Sentralbanken har selv regnet ut at en husholdning med gjeld på tre ganger inntekten kutter forbruket med om lag 1,5 prosent av inntekten for hvert prosentpoeng renten stiger.",
+        "Ifølge SSB fikk husholdningene i 2024 den sterkeste realinntektsveksten på over ti år.",
+        "Vi har jo aldri hatt bedre råd!» Det var tittelen på tirsdagens Debatten på NRK, der bankøkonomer og partiledere sto steilt mot hverandre."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/vedum-vil-stoppe-ambulansekuttene-1.18041749",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xDOn78YE46ka_S3pojTOIAny3mL9Mt3OYyx1ZSQ5Hj8w.jpg",
-      "localImage": "assets/news/1949963f089f83.jpg",
+      "url": "https://e24.no/norsk-oekonomi/i/Vgl9WV/dyrtiden-er-en-rentetid",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c8e95802-e0bc-34a5-bf4e-590dc3142148?fit=crop&h=675&upscale=true&w=1200&s=f4a5fbd7844e07af6fea7a8987831b2148e1c436",
+      "localImage": "assets/news/5e004eb66d0ab8.png",
       "score": 17
-    },
-    {
-      "id": "ae4942527fd8ba",
-      "category": "Økonomi",
-      "published": "01.10. 10:11",
-      "publishedISO": "2026-10-01T10:11:58+02:00",
-      "title": "Obos-prisene i Oslo falt i september",
-      "summary": "Prisene på brukte Obos-boliger i Oslo falt med 1,1 prosent fra august til september. I august steg Obos-prisene med 0,8 prosent, som var en mindre oppgang enn vanlig. For landet som helhet falt Obos-prisene hele 2,9 prosent i september.",
-      "keyPoints": [
-        "Prisene på brukte Obos-boliger i Oslo falt med 1,1 prosent fra august til september.",
-        "For landet som helhet falt Obos-prisene hele 2,9 prosent i september.",
-        "I august steg Obos-prisene med 0,8 prosent, som var en mindre oppgang enn vanlig.",
-        "Statistikken til Obos dekker rundt 25 prosent av bruktmarkedet i Oslo."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/El442o/obos-boligprisene-i-oslo-falt-1-1-prosent-i-september",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4caf58e7-f5b4-3163-adbf-5a9a8241c789?fit=crop&h=675&upscale=true&w=1200&s=03e9ef551a3945a9501e809bc86737d03993f747",
-      "localImage": "assets/news/ae4942527fd8ba.jpg",
-      "score": 16
-    },
-    {
-      "id": "4472f05dad0999",
-      "category": "Norge",
-      "published": "01.10. 10:06",
-      "publishedISO": "2026-10-01T10:06:34+02:00",
-      "title": "ConocoPhillips vurderer å trekke seg ut av Norge",
-      "summary": "Nå har ConocoPhillips informert ansatte, partnere og myndigheter om at selskapet vurderer et mulig salg av virksomheten i Norge. Over flere år har interessen blant utenlandske selskaper på norsk sokkel vært dalende: Kommunikasjonsdirektør Elisabeth Fiveland sier årsaken til at de vurderer å trekke seg ut er at de har mottatt et tilbud. – Denne vurderingen er i tråd med selskapets strategi for å optimalisere og videreutvikle porteføljen, skriver hun i en pressemelding. Dersom tilbudet ikke er godt nok vil ConocoPhillips bli i Norge, skriver hun videre.",
-      "keyPoints": [
-        "Nå har ConocoPhillips informert ansatte, partnere og myndigheter om at selskapet vurderer et mulig salg av virksomheten i Norge.",
-        "Over flere år har interessen blant utenlandske selskaper på norsk sokkel vært dalende: Kommunikasjonsdirektør Elisabeth Fiveland sier årsaken til at de vurderer å trekke seg ut er at de har mottatt et tilbud. – Denne vurderingen er i tråd med selskapets strategi for å optimalisere og videreutvikle porteføljen, skriver hun i en pressemelding.",
-        "Dersom tilbudet ikke er godt nok vil ConocoPhillips bli i Norge, skriver hun videre.",
-        "I 2024 produserte selskapet rundt 128.000 fat oljeekvivalenter daglig i Norge."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/conocophillips-vurderer-a-trekke-seg-ut-av-norge-1.18041972",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/s3gjS7iKDPDQPlHNBgHsgAnWyWpW96wUnCF8Z_zvXZzg.jpg",
-      "localImage": "assets/news/4472f05dad0999.jpg",
-      "score": 16
-    },
-    {
-      "id": "370b65386433ae",
-      "category": "Økonomi",
-      "published": "30.09. 10:00",
-      "publishedISO": "2026-09-30T10:00:19+02:00",
-      "title": "Regjeringen vil bruke 120 millioner på AI-tiltak",
-      "summary": "Sikkerhet, helseråd og ny kunnskap er blant områdene som skal prioriteres hvis regjeringen får det som den vil. – Kunstig intelligens forandrer Norge, og det forandrer økonomien vår. Regjeringen foreslår å bruke litt over 120 millioner kroner på AI-tiltak i statsbudsjettet for 2027. Man må se på helheten, sier han. – 120 millioner kroner, er det litt puslete på en teknologisk revolusjon? – Nei, fordi dette er målrettede tiltak på viktige områder, som at både offentlig og privat sektor skal bruke disse teknologiene enda bedre.",
-      "keyPoints": [
-        "Regjeringen foreslår å bruke litt over 120 millioner kroner på AI-tiltak i statsbudsjettet for 2027.",
-        "Man må se på helheten, sier han. – 120 millioner kroner, er det litt puslete på en teknologisk revolusjon? – Nei, fordi dette er målrettede tiltak på viktige områder, som at både offentlig og privat sektor skal bruke disse teknologiene enda bedre.",
-        "Sikkerhet, helseråd og ny kunnskap er blant områdene som skal prioriteres hvis regjeringen får det som den vil. – Kunstig intelligens forandrer Norge, og det forandrer økonomien vår.",
-        "Han mener advarslene om hva kunstig intelligens kan føre til må tas alvorlig. – Men det er like viktig for regjeringen at vi også utnytter de offensive mulighetene, fordi kunstig intelligens brukt på en trygg og smart måte har stort potensial til å forbedre Norge."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/ln6LOL/regjeringen-vil-bruke-120-millioner-paa-ai-tiltak",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e99cae9-11e4-3965-b6dd-3ad393da6fc4?fit=crop&h=675&upscale=true&w=1200&s=4466bfa45725388a004d788523635040609c3a6d",
-      "localImage": "assets/news/370b65386433ae.jpg",
-      "score": 16
     }
   ]
 }
