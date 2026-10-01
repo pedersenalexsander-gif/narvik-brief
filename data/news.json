@@ -1,49 +1,28 @@
 {
-  "updatedAt": "01.10.2026 kl. 04:29",
-  "updatedISO": "2026-10-01T04:29:03.741539+02:00",
+  "updatedAt": "01.10.2026 kl. 11:20",
+  "updatedISO": "2026-10-01T11:20:45.931687+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "062998e6d873fa",
-      "category": "Nord-Norge",
-      "published": "30.09. 20:35",
-      "publishedISO": "2026-09-30T20:35:08+02:00",
-      "title": "Rekordmange oppdrag i Nordland",
-      "summary": "De frivillige redningsmannskapene i Norsk Folkehjelp i Nordland har rykket ut på over 60 aksjoner så langt i år. Særlig mye dårlig vær og krevende terreng får skylden for den voldsomme økningen i oppdrag. Omtrent én tredel av aksjonene har handlet om skade eller sykdom på tur, mens resten har vært leteaksjoner etter savnede personer. – Det er lettere å skade seg eller rote seg bort i dårlig vær, og i sommer har det vært mye av nettopp det, sier beredskapsleder i Nordland, Eiolf Steinvik.",
-      "keyPoints": [
-        "Omtrent én tredel av aksjonene har handlet om skade eller sykdom på tur, mens resten har vært leteaksjoner etter savnede personer. – Det er lettere å skade seg eller rote seg bort i dårlig vær, og i sommer har det vært mye av nettopp det, sier beredskapsleder i Nordland, Eiolf Steinvik.",
-        "De frivillige redningsmannskapene i Norsk Folkehjelp i Nordland har rykket ut på over 60 aksjoner så langt i år.",
-        "Særlig mye dårlig vær og krevende terreng får skylden for den voldsomme økningen i oppdrag.",
-        "Likevel merkes det økte presset på redningsmannskapene, spesielt når alarmen går midt i arbeidstiden. – Vi løser de oppdragene vi får, men det er ikke alltid like lett for alle å stille opp hver gang."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/rekordmange-oppdrag-i-nordland--1.18041570",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.530/common/img/default.jpg",
-      "localImage": "assets/news/062998e6d873fa.jpg",
-      "score": 12
-    },
-    {
-      "id": "eae4c5f18ce1ae",
+      "id": "5d703c7e84b7a6",
       "category": "Norge",
-      "published": "30.09. 17:58",
-      "publishedISO": "2026-09-30T17:58:56+02:00",
-      "title": "Regjeringa gir grønt lys til tømming av gruveavfall i Førdefjorden i tre år",
-      "summary": "Klima- og miljødepartementet seier ja til deponering av gruveavfall i tre år framover. – Eit grovt brot med høgsterettsdommen, meiner Naturvernforbundet. FÅR LØYVE, MEN SJEFEN SLUTTAR: Regjeringa gav i dag eit mellombels utsleppsløyve for gruvedrifta ved Førdefjorden. Klima- og miljødepartementet seier ja til deponering av gruveavfall i Førdefjorden i tre år framover.",
+      "published": "01.10. 11:07",
+      "publishedISO": "2026-10-01T11:07:35+02:00",
+      "title": "17 milliardar kroner i vedlikehaldsetterslep på fylkesvegar i Møre og Romsdal",
+      "summary": "Etterslepet på vedlikehald av fylkesvegane blei i 2023 berekna å vere på like under 17 milliardar kroner berre i Møre og Romsdal. Ifølge NAF er etterslepet på godt over 100 milliardar kroner på landsbasis. – Vi merkar det godt på slitasje på bilar, utstyr og varer og kjenner det på kroppen også, seier lastebilsjåfør Geir Sætran. Statssekretær Jakob Vorren (Ap) viser til at regjeringa allereie har auka løyvingane til fylkesvegane. – I Nasjonal transportplan 2025–2036 har regjeringa prioritert å auke rammene til fylkesvegar med om lag 15,7 milliardar kroner, samanlikna med ei vidareføring av 2024-nivået.",
       "keyPoints": [
-        "Klima- og miljødepartementet seier ja til deponering av gruveavfall i Førdefjorden i tre år framover.",
-        "FÅR LØYVE, MEN SJEFEN SLUTTAR: Regjeringa gav i dag eit mellombels utsleppsløyve for gruvedrifta ved Førdefjorden.",
-        "Her får du forklart kva spelerom regjeringa har hatt å forhalda seg til etter at høgsterettsdommen fall: Anne-Line Thingnes Førsund i Naturvernforbundet i Sogn og Fjordane reagerer sterkt på dagens vedtak: – Dette er forferdeleg trist for Førdefjorden og forferdeleg trist for den norske rettsstaten.",
-        "Det er deprimerande og komplett uforståelig at regjeringa ikkje eingong prøver å få til eit miljøvenleg prosjekt ved Førdefjorden. – Dette er ei miljøpolitisk skandalesak."
+        "Etterslepet på vedlikehald av fylkesvegane blei i 2023 berekna å vere på like under 17 milliardar kroner berre i Møre og Romsdal.",
+        "Statssekretær Jakob Vorren (Ap) viser til at regjeringa allereie har auka løyvingane til fylkesvegane. – I Nasjonal transportplan 2025–2036 har regjeringa prioritert å auke rammene til fylkesvegar med om lag 15,7 milliardar kroner, samanlikna med ei vidareføring av 2024-nivået.",
+        "Ifølge NAF er etterslepet på godt over 100 milliardar kroner på landsbasis. – Vi merkar det godt på slitasje på bilar, utstyr og varer og kjenner det på kroppen også, seier lastebilsjåfør Geir Sætran.",
+        "No vil dei intensivere innsatsen i Møre og Romsdal, men det krevst pengar. – Det er veldig mykje dårlege vegar her, med stygge hol og sår i asfalten, som gjer at ein må vere veldig obs."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/regjeringa-gir-gront-lys-til-tomming-av-gruveavfall-i-fordefjorden-i-tre-ar-1.18041425",
+      "url": "https://www.nrk.no/mr/17-milliardar-kroner-i-vedlikehaldsetterslep-pa-fylkesvegar-i-more-og-romsdal-1.18026392",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/1XEBfQBKQnMp878yD6OAXwEda_htKJwFxkz1oo36jqFQ.jpg",
-      "localImage": "assets/news/eae4c5f18ce1ae.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/N26SpPBB8B9qRofKxeYc9g18U_op7nxjin-u5zJOo4vQ.jpg",
+      "localImage": "assets/news/5d703c7e84b7a6.jpg",
+      "score": 17
     },
     {
       "id": "f72d0ff9bae01e",
@@ -64,49 +43,49 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/035f/live/4e878500-bcdb-11f1-babe-4199b0e7ccea.jpg",
       "localImage": "assets/news/f72d0ff9bae01e.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "370b65386433ae",
+      "id": "3e03761538fc8f",
       "category": "Økonomi",
-      "published": "30.09. 10:00",
-      "publishedISO": "2026-09-30T10:00:19+02:00",
-      "title": "Regjeringen vil bruke 120 millioner på AI-tiltak",
-      "summary": "Sikkerhet, helseråd og ny kunnskap er blant områdene som skal prioriteres hvis regjeringen får det som den vil. – Kunstig intelligens forandrer Norge, og det forandrer økonomien vår. Regjeringen foreslår å bruke litt over 120 millioner kroner på AI-tiltak i statsbudsjettet for 2027. Man må se på helheten, sier han. – 120 millioner kroner, er det litt puslete på en teknologisk revolusjon? – Nei, fordi dette er målrettede tiltak på viktige områder, som at både offentlig og privat sektor skal bruke disse teknologiene enda bedre.",
+      "published": "01.10. 10:00",
+      "publishedISO": "2026-10-01T10:00:44+02:00",
+      "title": "Rentefrykt på Europa-børsene",
+      "summary": "Renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent torsdag formiddag. Den britiske «30-åringen» hopper over 6 prosent for første gang siden 1998. Renten på amerikanske statsobligasjoner med 30 års løpetid stiger også til sitt høyeste nivå siden 2002.",
       "keyPoints": [
-        "Regjeringen foreslår å bruke litt over 120 millioner kroner på AI-tiltak i statsbudsjettet for 2027.",
-        "Man må se på helheten, sier han. – 120 millioner kroner, er det litt puslete på en teknologisk revolusjon? – Nei, fordi dette er målrettede tiltak på viktige områder, som at både offentlig og privat sektor skal bruke disse teknologiene enda bedre.",
-        "Sikkerhet, helseråd og ny kunnskap er blant områdene som skal prioriteres hvis regjeringen får det som den vil. – Kunstig intelligens forandrer Norge, og det forandrer økonomien vår.",
-        "Han mener advarslene om hva kunstig intelligens kan føre til må tas alvorlig. – Men det er like viktig for regjeringen at vi også utnytter de offensive mulighetene, fordi kunstig intelligens brukt på en trygg og smart måte har stort potensial til å forbedre Norge."
+        "Renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent torsdag formiddag.",
+        "Renten på amerikanske statsobligasjoner med 30 års løpetid stiger også til sitt høyeste nivå siden 2002.",
+        "Den britiske «30-åringen» hopper over 6 prosent for første gang siden 1998.",
+        "Den ligger nå på 5,67 prosent, ifølge Infront. – Det er en fortsettelse av en trend som har pågått en stund, sier sjeføkonom Bjørn Roger Wilhelmsen i Nordkinn Asset Management."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/ln6LOL/regjeringen-vil-bruke-120-millioner-paa-ai-tiltak",
+      "url": "https://e24.no/boers-og-finans/i/2VnBwG/rentefrykt-paa-europa-boersene",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1e99cae9-11e4-3965-b6dd-3ad393da6fc4?fit=crop&h=675&upscale=true&w=1200&s=4466bfa45725388a004d788523635040609c3a6d",
-      "localImage": "assets/news/370b65386433ae.jpg",
-      "score": 18
+      "image": "https://akamai.vgc.no/v2/images/e444fb54-bc06-3ef5-9079-b6e0360d08f2?fit=crop&h=675&upscale=true&w=1200&s=15f05074d39897012e029047eebf4c1ee9b04726",
+      "localImage": "assets/news/3e03761538fc8f.jpg",
+      "score": 21
     },
     {
-      "id": "6fe3b4c21ef1e2",
+      "id": "29bfa442c6b057",
       "category": "Økonomi",
-      "published": "30.09. 16:13",
-      "publishedISO": "2026-09-30T16:13:10+02:00",
-      "title": "Industritopp avviser rolleblanding etter rapport-lekkasje",
-      "summary": "Tirsdag kom Sverre Gotaas, daglig leder i Herøya Industripark i Porsgrunn, med kritikk mot datasenternæringen i Norge som han sier «krever enormt med strøm og gir begrenset verdiskaping». Han sier det var tydelig hvilken rolle han hadde, da han snakket med NRK. – Det var helt uttrykkelig som rådsleder i Teknologirådet, sier han. Ifølge Gotaas var han ikke klar over at NRK også intervjuet Bjørnar Moxnes på Herøya om datasentre. – Hvorfor har du delt funnene fra Teknologirådet med NRK før rapporten er publisert? – Jeg trodde rapporten skulle ut i dag (tirsdag, journ. anm.).",
+      "published": "01.10. 09:00",
+      "publishedISO": "2026-10-01T09:00:24+02:00",
+      "title": "Børsen faller etter global rentefrykt",
+      "summary": "Hovedindeksen på Oslo Børs er ned rundt 1,11 prosent litt etter klokken 9.30 på ukens nest siste handelsdag. Slik ser det ut for noen av de mest omsatte aksjene: Siden Oslo Børs stengte onsdag, har oljeprisen falt med nesten 1,5 prosent. Onsdag falt Børsen 0,02 prosent, på en handelsdag der blant annet Hafnia-aksjen steg etter at Pareto høynet anbefalingen sin til kjøp.",
       "keyPoints": [
-        "Ifølge Gotaas var han ikke klar over at NRK også intervjuet Bjørnar Moxnes på Herøya om datasentre. – Hvorfor har du delt funnene fra Teknologirådet med NRK før rapporten er publisert? – Jeg trodde rapporten skulle ut i dag (tirsdag, journ. anm.).",
-        "Han sier det var tydelig hvilken rolle han hadde, da han snakket med NRK. – Det var helt uttrykkelig som rådsleder i Teknologirådet, sier han.",
-        "Tirsdag kom Sverre Gotaas, daglig leder i Herøya Industripark i Porsgrunn, med kritikk mot datasenternæringen i Norge som han sier «krever enormt med strøm og gir begrenset verdiskaping».",
-        "– Her har det skjedd en glipp, sier regjeringens teknologirådgiver etter at han ga NRK tilgang til funn fra en upublisert rapport, og gikk hardt ut mot datasentre."
+        "Onsdag falt Børsen 0,02 prosent, på en handelsdag der blant annet Hafnia-aksjen steg etter at Pareto høynet anbefalingen sin til kjøp.",
+        "Slik ser det ut for noen av de mest omsatte aksjene: Siden Oslo Børs stengte onsdag, har oljeprisen falt med nesten 1,5 prosent.",
+        "Hovedindeksen på Oslo Børs er ned rundt 1,11 prosent litt etter klokken 9.30 på ukens nest siste handelsdag.",
+        "Renteuro preger de globale markedene torsdag, og renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent, ifølge dataleverandøren Infront."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/zOvnlr/industritopp-avviser-rolleblanding-etter-rapport-lekkasje",
+      "url": "https://e24.no/boers-og-finans/i/vlWWRl/nedgang-paa-oslo-boers",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/12213fd7-99ba-3e7a-a73c-a4085e9ce5b8?fit=crop&h=675&upscale=true&w=1200&s=53310dbd64c02e99c6708852da1b0620b2fbe0ff",
-      "localImage": "assets/news/6fe3b4c21ef1e2.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/c8bd603c-beb8-30ea-80f4-d79084fe55b7?fit=crop&h=675&upscale=true&w=1200&s=040885d9cd30a0f9c3af3170128dcb38d1858145",
+      "localImage": "assets/news/29bfa442c6b057.jpg",
+      "score": 21
     },
     {
       "id": "afd5149294fe40",
@@ -127,91 +106,112 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/96e1/live/ce7836b0-bcea-11f1-8ce2-417f8f7cb095.jpg",
       "localImage": "assets/news/afd5149294fe40.jpg",
-      "score": 17
-    },
-    {
-      "id": "f42838e0d6d157",
-      "category": "AI",
-      "published": "30.09. 01:15",
-      "publishedISO": "2026-09-30T01:15:29+02:00",
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "summary": "Den kinesiske AI-utvikleren Moonshot gjennomfører en intern gjennomgang etter at forskere klarte å overtale to av deres populære Kimi-modeller til å fortelle dem hvordan de lager biologiske våpen og utfører attentater. Mindgard, som tester sikkerheten til AI-systemer, fortalte BBC at de oppdaget i juli at Kimi K2.6 og K3 Swarm kunne unngå sikkerhetsgrenser satt på plass av utviklere. Mindgards grunnlegger Peter Garraghan fortalte BBC World Service-programmet Tech Life at funnene deres om Kimi K2.6 og K3 Swarm var bekymringsfulle. \"Når jailbreaket fungerer, vil det snakke om et hvilket som helst emne, det vil til og med fritt gi anbefalinger om andre emner som også er uhyggelige, og det vil være oppfinnsomt og kreativt,\" sa han.",
-      "keyPoints": [
-        "Den kinesiske AI-utvikleren Moonshot gjennomfører en intern gjennomgang etter at forskere klarte å overtale to av deres populære Kimi-modeller til å fortelle dem hvordan de lager biologiske våpen og utfører attentater.",
-        "Mindgards grunnlegger Peter Garraghan fortalte BBC World Service-programmet Tech Life at funnene deres om Kimi K2.6 og K3 Swarm var bekymringsfulle. \"Når jailbreaket fungerer, vil det snakke om et hvilket som helst emne, det vil til og med fritt gi anbefalinger om andre emner som også er uhyggelige, og det vil være oppfinnsomt og kreativt,\" sa han.",
-        "Mindgard, som tester sikkerheten til AI-systemer, fortalte BBC at de oppdaget i juli at Kimi K2.6 og K3 Swarm kunne unngå sikkerhetsgrenser satt på plass av utviklere.",
-        "Det oppsto under en prosess kalt \"jailbreaking\", der forskere bruker en rekke komplekse instruksjoner for å se om AI-verktøy ignorerer rekkverk - som Mindgard sa burde ha stoppet Kimi fra å diskutere angående emner."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
-      "localImage": "assets/news/f42838e0d6d157.jpg",
-      "score": 12
-    },
-    {
-      "id": "e3128e4ea979d5",
-      "category": "Verden",
-      "published": "30.09. 16:53",
-      "publishedISO": "2026-09-30T16:53:02+02:00",
-      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "summary": "Russland har satt i gang det største angrepet på Ukrainas energiinfrastruktur siden våren, først og fremst rettet mot Kiev og regionen rundt, har Ukrainas statsminister sagt. Koretskyi skrev på Telegram: \"Siden sommeren har det faktisk ikke vært en eneste dag uten fiendtlige angrep på energiinfrastrukturen vår. \"Men et masse- og kombinert angrep av denne skalaen har skjedd for første gang siden slutten av forrige oppvarmingssesong.\" Ukraina har ventet nok et langvarig russisk angrep på landets energinett. Ukrainas kampangrep er slått av Russlands rakettindustris liv som er ødelagt av Russlands stålindustri. angrep på Ukrainas datasentre, sier Zelensky. Det største angrepet på Moskva ser Ukraina avfyre hundrevis av droner, sier ordfører",
-      "keyPoints": [
-        "Russland har satt i gang det største angrepet på Ukrainas energiinfrastruktur siden våren, først og fremst rettet mot Kiev og regionen rundt, har Ukrainas statsminister sagt.",
-        "Koretskyi skrev på Telegram: \"Siden sommeren har det faktisk ikke vært en eneste dag uten fiendtlige angrep på energiinfrastrukturen vår. \"Men et masse- og kombinert angrep av denne skalaen har skjedd for første gang siden slutten av forrige oppvarmingssesong. \" Ukraina har ventet et nytt langvarig russisk angrep på landets energinett.",
-        "Ukraine's prized steel industry left in ruins by Russian missile campaign Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "Streikene påvirket også folks strømforsyning, og Ukrainas største private energiselskap DTEK sa at strømmen til 8000 hjem var gjenopprettet etter \"en vanskelig natt\" for hovedstaden."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4cc3/live/0f9ce800-bcc0-11f1-babe-4199b0e7ccea.jpg",
-      "localImage": "assets/news/e3128e4ea979d5.jpg",
       "score": 15
     },
     {
-      "id": "3dd74e7b5ef00c",
-      "category": "Norge",
-      "published": "30.09. 16:34",
-      "publishedISO": "2026-09-30T16:34:34+02:00",
-      "title": "Ett år før flyplassen Fagerlia i Mo i Rana skal åpne er det mye som er uavklart",
-      "summary": "Dronebilde av den nye flyplassen i Mo i Rana under bygging. – Dersom de store flyselskapene ikke etablerer ruter til den nye flyplassen, vil den raskt bli utropt til et av de største sløseprosjektene i moderne norsk samferdselshistorie, sier Skjalg Fjellheim, samfunnsredaktør i Nettavisen. 30 september 2027 skal den nye storflyplassen i Mo i Rana etter planen åpne. Men ett år før åpning, har realitetene for den nye flyplassen i Mo i Rana endret seg: Ole Kolstad er prosjektansvarlig i Rana Utvikling.",
-      "keyPoints": [
-        "Men ett år før åpning, har realitetene for den nye flyplassen i Mo i Rana endret seg: Ole Kolstad er prosjektansvarlig i Rana Utvikling.",
-        "Dronebilde av den nye flyplassen i Mo i Rana under bygging. – Dersom de store flyselskapene ikke etablerer ruter til den nye flyplassen, vil den raskt bli utropt til et av de største sløseprosjektene i moderne norsk samferdselshistorie, sier Skjalg Fjellheim, samfunnsredaktør i Nettavisen.",
-        "30 september 2027 skal den nye storflyplassen i Mo i Rana etter planen åpne.",
-        "Men ett år før åpningen er det en del ubesvarte spørsmål rundt flyplassen til nærmere 5 milliarder kroner."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/ett-ar-for-flyplassen-fagerlia-i-mo-i-rana-skal-apne-er-det-mye-som-er-uavklart-1.18035325",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/4RgoRjP8fh1BsUw2QKVHPQf3oI4TUWNwp5Va6Xd2eXSQ.jpg",
-      "localImage": "assets/news/3dd74e7b5ef00c.jpg",
-      "score": 15
-    },
-    {
-      "id": "2ac86e245ffbbf",
+      "id": "a0066f8479eded",
       "category": "Økonomi",
-      "published": "30.09. 10:01",
-      "publishedISO": "2026-09-30T10:01:19+02:00",
-      "title": "Norges Bank fortsetter å selge kroner i oktober",
-      "summary": "Norges Bank skal totalt sett selge 176 millioner kroner daglig i oktober, ifølge en melding fra sentralbanken. Det er akkurat det samme som i september, da Norges Bank snudde til kjøp. I tillegg har Norges Bank vedtatt at det skal overføres rundt 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+      "published": "01.10. 09:50",
+      "publishedISO": "2026-10-01T09:50:02+02:00",
+      "title": "Global renteuro: «Tiåringen» stiger til høyeste nivå siden 2002",
+      "summary": "Renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent torsdag formiddag, ifølge dataleverandøren Infront. Renten på amerikanske statsobligasjoner med 30 års løpetid stiger også til sitt høyeste nivå siden 2002. Oljeprisen stiger, og et fat nordsjøolje (brent spot) bikket igjen over 100 dollar tirsdag formiddag.",
       "keyPoints": [
-        "Norges Bank skal totalt sett selge 176 millioner kroner daglig i oktober, ifølge en melding fra sentralbanken.",
-        "I tillegg har Norges Bank vedtatt at det skal overføres rundt 30 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
-        "Det er akkurat det samme som i september, da Norges Bank snudde til kjøp.",
-        "I oktober utgjør disse kronekjøpene 124 millioner daglig, akkurat som måneden før."
+        "Renten på amerikanske statsobligasjoner med 30 års løpetid stiger også til sitt høyeste nivå siden 2002.",
+        "Renten på amerikanske statsobligasjoner med ti års løpetid stiger til 5,33 prosent torsdag formiddag, ifølge dataleverandøren Infront.",
+        "Oljeprisen stiger, og et fat nordsjøolje (brent spot) bikket igjen over 100 dollar tirsdag formiddag.",
+        "Wilhelmsen viser til at de siste løypemeldingene fra USA viste lavere prisvekst enn ventet sist måned, samtidig som Fed-toppen John Williams har indikert synspunkter om gradvis renteoppgang. – Til tross for det så har lange renterLangsiktige statsrenter, som rentepapirer med ti eller 30 års løpetid. steget videre."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/9pj6Od/norges-bank-skal-selge-kroner-for-176-millioner-daglig-i-oktober",
+      "url": "https://e24.no/boers-og-finans/i/zl5E94/tiaaringen-stiger-til-hoeyeste-nivaa-siden-2002",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0d1eb20b-2823-39f4-a7c4-80684ff90e02?fit=crop&h=675&upscale=true&w=1200&s=82d70127769fbf7baf94a9e1ade2fd7ab4a2feaf",
-      "localImage": "assets/news/2ac86e245ffbbf.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/df47ed13-8918-3a22-815c-c492f5ea77a4?fit=crop&h=675&upscale=true&w=1200&s=c9df808c3178b88fd4942000272f9727e3c24625",
+      "localImage": "assets/news/a0066f8479eded.jpg",
+      "score": 17
+    },
+    {
+      "id": "1949963f089f83",
+      "category": "Norge",
+      "published": "01.10. 07:25",
+      "publishedISO": "2026-10-01T07:25:33+02:00",
+      "title": "Vedum vil stoppe ambulansekuttene",
+      "summary": "Men hele ideen om at man skal spare penger med å sentralisere ambulansetjenesten ytterligere, mener Senterpartiet er feil, sier Trygve Slagsvold Vedum til NTB. Partiet vil sette prosessene på vent til Stortinget har behandlet en sak om helhetlig ambulanseberedskap for hele landet. – Det handler om grunnberedskapen i alle deler av landet vårt, sier Vedum. Tall Helse- og omsorgsdepartementet ga til VG i fjor, viste 641 direktører i helsesektoren. – Helseforetaksmodellen har blitt en mastodont, og vi jobber også langsiktig med å få lagt ned modellen, sier Vedum.",
+      "keyPoints": [
+        "Tall Helse- og omsorgsdepartementet ga til VG i fjor, viste 641 direktører i helsesektoren. – Helseforetaksmodellen har blitt en mastodont, og vi jobber også langsiktig med å få lagt ned modellen, sier Vedum.",
+        "Men hele ideen om at man skal spare penger med å sentralisere ambulansetjenesten ytterligere, mener Senterpartiet er feil, sier Trygve Slagsvold Vedum til NTB.",
+        "Partiet vil sette prosessene på vent til Stortinget har behandlet en sak om helhetlig ambulanseberedskap for hele landet. – Det handler om grunnberedskapen i alle deler av landet vårt, sier Vedum.",
+        "Sp-leder Trygve Slagsvold Vedum vil ha Stortinget med på å sette planlagte kutt og sentralisering av ambulansetjenesten på pause. – Det er jo store avstander i Norge."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/vedum-vil-stoppe-ambulansekuttene-1.18041749",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xDOn78YE46ka_S3pojTOIAny3mL9Mt3OYyx1ZSQ5Hj8w.jpg",
+      "localImage": "assets/news/1949963f089f83.jpg",
+      "score": 17
+    },
+    {
+      "id": "ae4942527fd8ba",
+      "category": "Økonomi",
+      "published": "01.10. 10:11",
+      "publishedISO": "2026-10-01T10:11:58+02:00",
+      "title": "Obos-prisene i Oslo falt i september",
+      "summary": "Prisene på brukte Obos-boliger i Oslo falt med 1,1 prosent fra august til september. I august steg Obos-prisene med 0,8 prosent, som var en mindre oppgang enn vanlig. For landet som helhet falt Obos-prisene hele 2,9 prosent i september.",
+      "keyPoints": [
+        "Prisene på brukte Obos-boliger i Oslo falt med 1,1 prosent fra august til september.",
+        "For landet som helhet falt Obos-prisene hele 2,9 prosent i september.",
+        "I august steg Obos-prisene med 0,8 prosent, som var en mindre oppgang enn vanlig.",
+        "Statistikken til Obos dekker rundt 25 prosent av bruktmarkedet i Oslo."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/El442o/obos-boligprisene-i-oslo-falt-1-1-prosent-i-september",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4caf58e7-f5b4-3163-adbf-5a9a8241c789?fit=crop&h=675&upscale=true&w=1200&s=03e9ef551a3945a9501e809bc86737d03993f747",
+      "localImage": "assets/news/ae4942527fd8ba.jpg",
+      "score": 16
+    },
+    {
+      "id": "4472f05dad0999",
+      "category": "Norge",
+      "published": "01.10. 10:06",
+      "publishedISO": "2026-10-01T10:06:34+02:00",
+      "title": "ConocoPhillips vurderer å trekke seg ut av Norge",
+      "summary": "Nå har ConocoPhillips informert ansatte, partnere og myndigheter om at selskapet vurderer et mulig salg av virksomheten i Norge. Over flere år har interessen blant utenlandske selskaper på norsk sokkel vært dalende: Kommunikasjonsdirektør Elisabeth Fiveland sier årsaken til at de vurderer å trekke seg ut er at de har mottatt et tilbud. – Denne vurderingen er i tråd med selskapets strategi for å optimalisere og videreutvikle porteføljen, skriver hun i en pressemelding. Dersom tilbudet ikke er godt nok vil ConocoPhillips bli i Norge, skriver hun videre.",
+      "keyPoints": [
+        "Nå har ConocoPhillips informert ansatte, partnere og myndigheter om at selskapet vurderer et mulig salg av virksomheten i Norge.",
+        "Over flere år har interessen blant utenlandske selskaper på norsk sokkel vært dalende: Kommunikasjonsdirektør Elisabeth Fiveland sier årsaken til at de vurderer å trekke seg ut er at de har mottatt et tilbud. – Denne vurderingen er i tråd med selskapets strategi for å optimalisere og videreutvikle porteføljen, skriver hun i en pressemelding.",
+        "Dersom tilbudet ikke er godt nok vil ConocoPhillips bli i Norge, skriver hun videre.",
+        "I 2024 produserte selskapet rundt 128.000 fat oljeekvivalenter daglig i Norge."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/conocophillips-vurderer-a-trekke-seg-ut-av-norge-1.18041972",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/s3gjS7iKDPDQPlHNBgHsgAnWyWpW96wUnCF8Z_zvXZzg.jpg",
+      "localImage": "assets/news/4472f05dad0999.jpg",
+      "score": 16
+    },
+    {
+      "id": "370b65386433ae",
+      "category": "Økonomi",
+      "published": "30.09. 10:00",
+      "publishedISO": "2026-09-30T10:00:19+02:00",
+      "title": "Regjeringen vil bruke 120 millioner på AI-tiltak",
+      "summary": "Sikkerhet, helseråd og ny kunnskap er blant områdene som skal prioriteres hvis regjeringen får det som den vil. – Kunstig intelligens forandrer Norge, og det forandrer økonomien vår. Regjeringen foreslår å bruke litt over 120 millioner kroner på AI-tiltak i statsbudsjettet for 2027. Man må se på helheten, sier han. – 120 millioner kroner, er det litt puslete på en teknologisk revolusjon? – Nei, fordi dette er målrettede tiltak på viktige områder, som at både offentlig og privat sektor skal bruke disse teknologiene enda bedre.",
+      "keyPoints": [
+        "Regjeringen foreslår å bruke litt over 120 millioner kroner på AI-tiltak i statsbudsjettet for 2027.",
+        "Man må se på helheten, sier han. – 120 millioner kroner, er det litt puslete på en teknologisk revolusjon? – Nei, fordi dette er målrettede tiltak på viktige områder, som at både offentlig og privat sektor skal bruke disse teknologiene enda bedre.",
+        "Sikkerhet, helseråd og ny kunnskap er blant områdene som skal prioriteres hvis regjeringen får det som den vil. – Kunstig intelligens forandrer Norge, og det forandrer økonomien vår.",
+        "Han mener advarslene om hva kunstig intelligens kan føre til må tas alvorlig. – Men det er like viktig for regjeringen at vi også utnytter de offensive mulighetene, fordi kunstig intelligens brukt på en trygg og smart måte har stort potensial til å forbedre Norge."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/ln6LOL/regjeringen-vil-bruke-120-millioner-paa-ai-tiltak",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1e99cae9-11e4-3965-b6dd-3ad393da6fc4?fit=crop&h=675&upscale=true&w=1200&s=4466bfa45725388a004d788523635040609c3a6d",
+      "localImage": "assets/news/370b65386433ae.jpg",
+      "score": 16
     }
   ]
 }
