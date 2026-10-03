@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.10.2026 kl. 09:42",
-  "updatedISO": "2026-10-03T09:42:05.054957+02:00",
+  "updatedAt": "03.10.2026 kl. 14:46",
+  "updatedISO": "2026-10-03T14:46:15.937659+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/uBsz8XL_t0Ao-DSN0MjBJQmVKpuER8WNGjCzCPMIxv8Q.jpg",
       "localImage": "assets/news/704850d232c787.jpg",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "7bc33c68ce57f5",
+      "id": "f841aed66e4c95",
       "category": "Verden",
-      "published": "03.10. 09:25",
-      "publishedISO": "2026-10-03T09:25:09+02:00",
-      "title": "Russia strikes second major bridge in Kyiv, mayor says",
-      "summary": "Den nordlige broen er den andre store broen som er målrettet av Russland de siste dagene, sa Kievs ordfører Et russisk angrep har truffet en andre større bro i Kiev, har ordfører Vitali Klitschko sagt, mens Russland øker angrepene på kritisk infrastruktur i den ukrainske hovedstaden. Streik på Southern Bridge forårsaket store trafikkforsinkelser over hele byen Etter at Southern Bridge ble angrepet, beskrev passasjerene hvordan støv fra en eksplosjonsbølge kom inn i vognen deres gjennom ventilasjonssystemet. De vil at folk skal flykte fra byene sine.\" Intenserte russiske streiker river Kiev fra hverandre, advarer ordføreren",
+      "published": "03.10. 13:48",
+      "publishedISO": "2026-10-03T13:48:41+02:00",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "summary": "Teknikere reparerer overliggende trolleybuss kraftledninger på Kievs Pivnichnyi (nordlige) bro Et russisk angrep har truffet en andre større bro i Kiev, sa ordfører Vitaliy Klitschko, mens Moskva øker angrepene på kritisk infrastruktur i Ukrainas hovedstad. I fredagens angrep traff en russisk drone kablene til Kyivs Pivdennyi-bro. Skrev på Telegram lørdag morgen, sa Klitschko at \"nødtjenestene er på vei\" etter at Pivnichnyi-broen ble truffet. \"Trafikken på broen fra venstre til høyre bredd er for øyeblikket blokkert,\" la han til. Russlands droneangrep på Pivdennyi-broen forårsaket store trafikkork over Kiev på fredag ​​Etter at Pivdennyi-broen ble angrepet, beskrev passasjerene hvordan støv fra en eksplosjonsbølge kom inn i vognen deres gjennom ventilasjonssystemet.",
       "keyPoints": [
-        "Den nordlige broen er den andre store broen som er målrettet av Russland de siste dagene, sa Kievs ordfører Et russisk angrep har truffet en andre større bro i Kiev, har ordfører Vitali Klitschko sagt, mens Russland øker angrepene på kritisk infrastruktur i den ukrainske hovedstaden.",
-        "Streik på Southern Bridge forårsaket store trafikkforsinkelser over hele byen Etter at Southern Bridge ble angrepet, beskrev passasjerene hvordan støv fra en eksplosjonsbølge kom inn i vognen deres gjennom ventilasjonssystemet.",
-        "They want people to flee their cities.\" Intensified Russian strikes are tearing Kyiv apart, warns mayor",
-        "Angrepet kommer etter at en annen nøkkelbro i byen, Southern Bridge, ble målrettet flere ganger av russiske droner torsdag og fredag, med Klitschko tidligere advart om at slike angrep \"sliter Kiev fra hverandre\"."
+        "Teknikere reparerer overliggende trolleybuss kraftledninger på Kievs Pivnichnyi (nordlige) bro Et russisk angrep har truffet en andre større bro i Kiev, sa ordfører Vitaliy Klitschko, mens Moskva øker angrepene på kritisk infrastruktur i Ukrainas hovedstad.",
+        "Russlands droneangrep på Pivdennyi-broen forårsaket store trafikkork over Kiev på fredag ​​Etter at Pivdennyi-broen ble angrepet, beskrev passasjerene hvordan støv fra en eksplosjonsbølge kom inn i vognen deres gjennom ventilasjonssystemet.",
+        "I fredagens angrep traff en russisk drone kablene til Kyivs Pivdennyi-bro. Skrev på Telegram lørdag morgen, sa Klitschko at \"nødtjenestene er på vei\" etter at Pivnichnyi-broen ble truffet. \"Trafikken på broen fra venstre til høyre bredd er for øyeblikket blokkert,\" la han til.",
+        "Det kommer etter at Pivdennyi (sørlige) broen ble truffet flere ganger av russiske droner denne uken, med Klitschko advart om at \"fienden river Kiev fra hverandre\"."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/40ff/live/e6e2a0c0-beeb-11f1-a8d6-110a5391f5ce.jpg",
-      "localImage": "assets/news/7bc33c68ce57f5.jpg",
-      "score": 13
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg",
+      "localImage": "assets/news/f841aed66e4c95.jpg",
+      "score": 17
     },
     {
       "id": "064cfc99a8effa",
@@ -56,7 +56,7 @@
         "Donald Trump har sagt at han kan be europeiske land om å frigjøre noen av dieselreservene sine da han vurderer å forby amerikansk eksport av drivstoffet.",
         "On Thursday, Trump was asked whether he would call on European countries to release some of their own diesel reserves. \"We may do that.",
         "Hva et amerikansk dieseleksportforbud kan bety for deg Det internasjonale energibyråets regler sier at medlemsland, inkludert Storbritannia, må holde oljelagre tilsvarende 90 dagers netto oljeimport.",
-        "Et tidligere innlegg fra US Treasury Scott Bessent på sosiale medier oppfordret Europa til å gjøre seg klar til å frigi noen av sine egne dieselforsyninger umiddelbart, og argumenterte for at amerikanske bønder, lastebilsjåfører og bedrifter \"ikke burde bli stående å bære byrden\" når prisene stiger."
+        "Et tidligere innlegg fra US Treasury Scott Bessent på sosiale medier oppfordret Europa til å gjøre seg klar til å frigjøre noen av sine egne dieselforsyninger umiddelbart, og argumenterte for at amerikanske bønder, lastebilsjåfører og bedrifter \"ikke burde bli stående å bære byrden\" når prisene stiger."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
@@ -64,7 +64,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/95a3/live/c2123c20-be1d-11f1-8202-6fffc4c0ebaa.jpg",
       "localImage": "assets/news/064cfc99a8effa.jpg",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "35900385838727",
+      "category": "Økonomi",
+      "published": "03.10. 13:44",
+      "publishedISO": "2026-10-03T13:44:05+02:00",
+      "title": "Dagligvaregigantens milliardgebyrer: – Fremstår oppsiktsvekkende",
+      "summary": "Professor peker på ett sentralt spørsmål som kan avgjøre om Norgesgruppen, Rema 1000 og Coop får rekordstraff i prisjegersaken. Eier også grossisten Asko som leverer varer til alle kjedene. , Rema 1000 og Coop avviser klart og tydelig at dette har skadet konkurransen. Han understreker at det bør være uproblematisk å gripe inn mot et samarbeid dersom økonomisk teori tilsier at konkurransen kan bli svekket. – Men jeg kan se at det fremstår oppsiktsvekkende å ilegge høye gebyrer, hvis det eneste man kan bygge på er en generell teoretisk tilnærming, sier professoren.",
+      "keyPoints": [
+        "Han understreker at det bør være uproblematisk å gripe inn mot et samarbeid dersom økonomisk teori tilsier at konkurransen kan bli svekket. – Men jeg kan se at det fremstår oppsiktsvekkende å ilegge høye gebyrer, hvis det eneste man kan bygge på er en generell teoretisk tilnærming, sier professoren.",
+        "Professor peker på ett sentralt spørsmål som kan avgjøre om Norgesgruppen, Rema 1000 og Coop får rekordstraff i prisjegersaken.",
+        "Eier også grossisten Asko som leverer varer til alle kjedene. , Rema 1000 og Coop avviser klart og tydelig at dette har skadet konkurransen.",
+        "Da kunne en prisjeger, det vil si en utsending med håndscanner, være opptil 20 timer i uken i hver enkelt butikk."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/Ar1ggE/dagligvaregigantens-milliardboeter-fremstaar-oppsiktsvekkende",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/eb51ee45-c536-3c38-b52e-8a6b87bd80e4?fit=crop&h=675&upscale=true&w=1200&s=cfc130f2bf9ce50351e7154ee47241dcc946d5b8",
+      "localImage": "assets/news/35900385838727.jpg",
+      "score": 17
     },
     {
       "id": "88b7dd0c970ab3",
@@ -85,132 +106,111 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2ba492cd-cea8-358d-ba9f-85f16ebc32b1?fit=crop&h=675&upscale=true&w=1200&s=3ba54c61d442881ec1c704ee9c6417ef92dca27e",
       "localImage": "assets/news/88b7dd0c970ab3.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "360cb26719c386",
+      "id": "eb490647a2754e",
       "category": "Økonomi",
-      "published": "03.10. 07:29",
-      "publishedISO": "2026-10-03T07:29:39+02:00",
-      "title": "Gründeren gjør alt selv: – Jobber livet av meg",
-      "summary": "På et tidspunkt besvimte han. – Å starte Wabba har føltes som å dale i fritt fall mot den sikre død, hvor jeg på veien nedover må lære meg å skru sammen et fly, samtidig som jeg lærer meg å fly det, uten noen form for manual. At de fargerike posene nå er å finne i over 1200 utsalgssteder, fordelt på ni land, er det ingen andre enn han selv som kan ta æren for. Fredheim legger til at det er mye fint med gründertilværelsen også, som å kunne styre retning og form på egne premisser. – Liker du arbeidshverdagen bedre som en som jobber livet av seg, men uten å ha en sjef? – Ja, når jeg har kontroll.",
+      "published": "03.10. 11:47",
+      "publishedISO": "2026-10-03T11:47:55+02:00",
+      "title": "Dyrere strøm til vinteren",
+      "summary": "Markedet venter høyere sørnorske strømpriser nå til vinteren enn sist vinter. –⁠ Kan selvsagt være dramatisk for noen bedrifter, sier analytiker. Strømprisene i de tre prisområdene i Sør-Norge ligger an til å bli på om lag 207 øre kilowattimen i januar og 208 øre kilowattimen i februar neste år, medregnet momsmerverdiavgiften på strøm (moms) er på 25 prosent. I januar og februar i år lå strømprisene i disse områdene i snitt på mellom 143 øre og 159 øre per kilowattime, medregnet moms. – Slik det ser ut nå må de tre sørligste prisområdene belage seg på en snittpris rundt to kroner til vinteren, sier produktdirektør Renate Larsen i Fjordkraft i en melding.",
       "keyPoints": [
-        "På et tidspunkt besvimte han. – Å starte Wabba har føltes som å dale i fritt fall mot den sikre død, hvor jeg på veien nedover må lære meg å skru sammen et fly, samtidig som jeg lærer meg å fly det, uten noen form for manual.",
-        "Fredheim legger til at det er mye fint med gründertilværelsen også, som å kunne styre retning og form på egne premisser. – Liker du arbeidshverdagen bedre som en som jobber livet av seg, men uten å ha en sjef? – Ja, når jeg har kontroll.",
-        "At de fargerike posene nå er å finne i over 1200 utsalgssteder, fordelt på ni land, er det ingen andre enn han selv som kan ta æren for.",
-        "Resultatet har vært at Fredheim har gjort alt selv og tidlig har vært nødt til å levere økonomisk."
+        "Strømprisene i de tre prisområdene i Sør-Norge ligger an til å bli på om lag 207 øre kilowattimen i januar og 208 øre kilowattimen i februar neste år, medregnet momsmerverdiavgiften på strøm (moms) er på 25 prosent.",
+        "I januar og februar i år lå strømprisene i disse områdene i snitt på mellom 143 øre og 159 øre per kilowattime, medregnet moms. – Slik det ser ut nå må de tre sørligste prisområdene belage seg på en snittpris rundt to kroner til vinteren, sier produktdirektør Renate Larsen i Fjordkraft i en melding.",
+        "Markedet venter høyere sørnorske strømpriser nå til vinteren enn sist vinter. –⁠ Kan selvsagt være dramatisk for noen bedrifter, sier analytiker.",
+        "I mars 2027 venter markedet at prisene i Sør-Norge synker til rundt 160 øre kilowattimen, medregnet moms, ifølge tallene Fjordkraft oppgir."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/GrlBGx/grunderen-gjoer-alt-selv-jobber-livet-av-meg",
+      "url": "https://e24.no/energi-og-klima/i/zl54G4/dyrere-stroem-til-vinteren",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/faa28594-8305-3cab-8d7e-0441915bd317?fit=crop&h=675&upscale=true&w=1200&s=bb855babd632ceded547399ab4dc6699a8cf33d4",
-      "localImage": "assets/news/360cb26719c386.jpg",
+      "image": "https://akamai.vgc.no/v2/images/8594f8dd-f7b9-315d-b85d-3c8f33accc38?fit=crop&h=675&upscale=true&w=1200&s=9b37b89418becdf1824f0ed28f8a293bcc37c2e6",
+      "localImage": "assets/news/eb490647a2754e.jpg",
+      "score": 16
+    },
+    {
+      "id": "d66981b6afd5b2",
+      "category": "Verden",
+      "published": "03.10. 14:26",
+      "publishedISO": "2026-10-03T14:26:30+02:00",
+      "title": "Will Spain's housing crisis lead to a snap election?",
+      "summary": "Tusenvis av mennesker fortsetter protestene over hele Spania, etter at kongressen avviste en rekke tiltak rettet mot å takle landets boligkrise. BBCs Guy Hedgecoe er på en av protestene i Madrid og ser på om regjeringens nederlag vil føre til et tidlig stortingsvalg, som først kommer neste sommer. Video, 00:01:02 Vil Spanias boligkrise føre til et raskt valg?",
+      "keyPoints": [
+        "Video, 00:01:02Will Spain's housing crisis lead to a snap election?",
+        "Tusenvis av mennesker fortsetter protestene over hele Spania, etter at kongressen avviste en rekke tiltak rettet mot å takle landets boligkrise.",
+        "BBCs Guy Hedgecoe er på en av protestene i Madrid og ser på om regjeringens nederlag vil føre til et tidlig stortingsvalg, som først kommer neste sommer.",
+        "Video, 00:00:46Millioner ser på \"surrealistisk\" solformørkelse i Storbritannia og Europa Se: Titusenvis av migranter kommer inn i Spanias Ceuta fra Marokko."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2169/live/c040d170-bf23-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/d66981b6afd5b2.jpg",
       "score": 13
     },
     {
-      "id": "f39e26593ca93d",
-      "category": "Norge",
-      "published": "03.10. 08:28",
-      "publishedISO": "2026-10-03T08:28:40+02:00",
-      "title": "Unik haiforskning: – Nå er vi veldig spente på hva de kommer til å gjøre",
-      "summary": "De hadde vært til sjøs utenfor Lofoten og Vesterålen for å merke hai, men etter fem dager uten napp vurderte havforsker Keno Ferter å gi opp på grunn av dårlige værutsikter. – Vi hadde som mål å merke minst fem fisk, sier Ferter til NRK. Turen til Stefjorden ga uttelling og forskerne fikk satellittmerket fire haibabyer og en ungdom. – Denne gangen var det babyer på rundt 110 centimeter. Haiene vandret store distanser gjennom hele Nordøst-Atlanteren. – Nå er vi veldig spente på hva de kommer til å gjøre.",
+      "id": "edec92d5e0a0e3",
+      "category": "Verden",
+      "published": "03.10. 12:58",
+      "publishedISO": "2026-10-03T12:58:51+02:00",
+      "title": "UK-Iranian dual national arrested over RAF Fairford investigation bailed",
+      "summary": "En britisk-iransk statsborger arrestert mistenkt for forberedelse av terrorhandlinger i forbindelse med en hendelse ved RAF Fairford er løslatt mot kausjon. Sist helg ble de fem mennene mellom 23 og 25 arrestert tidlig om morgenen etter at kjøretøy ble rapportert å kjøre mot basen som drives av US Air Force (USAF), og utløste en stor sikkerhetshendelse. RAF Fairford har blitt brukt som et fremdriftssted av US Air Force (USAF) i flere tiår.",
       "keyPoints": [
-        "Haiene vandret store distanser gjennom hele Nordøst-Atlanteren. – Nå er vi veldig spente på hva de kommer til å gjøre.",
-        "Turen til Stefjorden ga uttelling og forskerne fikk satellittmerket fire haibabyer og en ungdom. – Denne gangen var det babyer på rundt 110 centimeter.",
-        "De hadde vært til sjøs utenfor Lofoten og Vesterålen for å merke hai, men etter fem dager uten napp vurderte havforsker Keno Ferter å gi opp på grunn av dårlige værutsikter. – Vi hadde som mål å merke minst fem fisk, sier Ferter til NRK.",
-        "Satellittmerkene loggfører fiskens bevegelser i ett år, før de løsner fra finnen og kommer til overflaten."
+        "En britisk-iransk statsborger arrestert mistenkt for forberedelse av terrorhandlinger i forbindelse med en hendelse ved RAF Fairford er løslatt mot kausjon.",
+        "Sist helg ble de fem mennene mellom 23 og 25 arrestert tidlig om morgenen etter at kjøretøy ble rapportert å kjøre mot basen som drives av US Air Force (USAF), og utløste en stor sikkerhetshendelse.",
+        "RAF Fairford har blitt brukt som et fremdriftssted av US Air Force (USAF) i flere tiår.",
+        "Det er en som helt klart involverer hendene til en utenlandsk skuespiller.\" I en tale tidligere på Det ovale kontor sa USAs president Donald Trump at han ikke ville ha latt de fem mennene som ble arrestert ut mot kausjon, og at han var \"overrasket\" over at de hadde blitt løslatt. \"Vi vet alt om dem, vi ville ikke ha løslatt dem,\" sa han, og la til at Storbritannia hadde jobbet \"svært tett\" med USA om dette."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b53/live/fc7bdb70-bf15-11f1-9947-0584c244b963.jpg",
+      "localImage": "assets/news/edec92d5e0a0e3.jpg",
+      "score": 13
+    },
+    {
+      "id": "f2f48955806bfb",
+      "category": "Verden",
+      "published": "03.10. 12:34",
+      "publishedISO": "2026-10-03T12:34:09+02:00",
+      "title": "Marerittet i Qusra",
+      "summary": "VG møtte familien som ble omringet av voldelige bosettere og israelske soldater i tre uker på Vestbredden. Høyt oppe i åsen, ved Qusra på okkuperte Vestbredden, med utsikt over olivenlunder og palestinske landsbyer ligger den store villaen. Frem til 13. september var denne familien omringet i boligen sin av bosetterebosettereIsraelere som bor i bosetninger på Vestbredden. og det israelske forsvaret (IDF), som erklærte området som militær sonemilitær soneEt område som er avsperret og kontrollert av militæret, hvor vanlige regler og lover ikke gjelder..",
+      "keyPoints": [
+        "Høyt oppe i åsen, ved Qusra på okkuperte Vestbredden, med utsikt over olivenlunder og palestinske landsbyer ligger den store villaen.",
+        "Frem til 13. september var denne familien omringet i boligen sin av bosetterebosettereIsraelere som bor i bosetninger på Vestbredden. og det israelske forsvaret (IDF), som erklærte området som militær sonemilitær soneEt område som er avsperret og kontrollert av militæret, hvor vanlige regler og lover ikke gjelder..",
+        "VG møtte familien som ble omringet av voldelige bosettere og israelske soldater i tre uker på Vestbredden.",
+        "Inne i huset var 48 år gamle Qusay Ridi, sammen med flere familiemedlemmer."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.vg.no/nyheter/i/OkK3Rw/vg-moette-familien-som-ble-omringet-av-voldelige-bosettere-og-israelske-soldater",
+      "source": "vg.no",
+      "image": "https://akamai.vgc.no/v2/images/bb10adc1-ccc2-330e-bc77-52519a4d8044?format=auto&w=1080&s=ef3483ad4b16110486e84336990b5f17c960bb14",
+      "localImage": "assets/news/f2f48955806bfb.jpg",
+      "score": 13
+    },
+    {
+      "id": "398bd11fda632a",
+      "category": "Norge",
+      "published": "03.10. 12:01",
+      "publishedISO": "2026-10-03T12:01:00+02:00",
+      "title": "Transportører ber lakseprodusentene ta regninga",
+      "summary": "Håvard Sandnes i Nærøysund og andre transportører ber lakseprodusentene ta ansvaret om de blir straffet for avrenning fra bilene de kjører. Regjeringen har nettopp varslet at de vil straffe sjåfører og transportselskaper med gebyrer på 2000 og 20.000 kroner hvis det renner blodvann fra bilene som frakter laks. Nå ser Norges Lastebileier-Forbund og norske transportører rødt.",
+      "keyPoints": [
+        "Håvard Sandnes i Nærøysund og andre transportører ber lakseprodusentene ta ansvaret om de blir straffet for avrenning fra bilene de kjører.",
+        "Nå ser Norges Lastebileier-Forbund og norske transportører rødt.",
+        "Regjeringen har nettopp varslet at de vil straffe sjåfører og transportselskaper med gebyrer på 2000 og 20.000 kroner hvis det renner blodvann fra bilene som frakter laks.",
+        "De aller fleste transportører gjør en god jobb og følger regelverket, fortsetter hun."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/merket-fire-habrann_-haibabyer-kan-lose-et-hittil-ulost-mysterium-1.18039076",
+      "url": "https://www.nrk.no/trondelag/transportorer-ber-lakseprodusentene-ta-regninga-1.18039706",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sMctIcCnLRBe5bI8lNmWVAwSGpKWfpbg2is0niJE0vew.jpg",
-      "localImage": "assets/news/f39e26593ca93d.jpg",
-      "score": 13
-    },
-    {
-      "id": "394cca96b66657",
-      "category": "Økonomi",
-      "published": "03.10. 07:27",
-      "publishedISO": "2026-10-03T07:27:38+02:00",
-      "title": "Ekspertene faller",
-      "summary": "Det er ingen overdrivelse at etterkrigstidens Norge ble bygget på en voldsom tiltro til eksperter. Disse ekspertene – « ... som slippes løs på en vergeløs befolkning», som høyrepolitiker C.J. Om ekspertene ikke er detronisert, har de i det minste fått selskap av utallige andre. «Selverklærte eksperter», som ekspertene ofte vil kalle dem.",
-      "keyPoints": [
-        "Disse ekspertene – « ... som slippes løs på en vergeløs befolkning», som høyrepolitiker C.J.",
-        "Om ekspertene ikke er detronisert, har de i det minste fått selskap av utallige andre. «Selverklærte eksperter», som ekspertene ofte vil kalle dem.",
-        "Det er ingen overdrivelse at etterkrigstidens Norge ble bygget på en voldsom tiltro til eksperter.",
-        "Eksperter på ulike fagområder kunne finstyre økonomien, sosialpolitikken, kostholdet og byutviklingen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/xr1M0p/ekspertene-faller",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7a22e42b-ae19-38f6-b2c1-191861773968?fit=crop&h=675&upscale=true&w=1200&s=f931e70ff3d4dc17ae6d42610ab56f824b6ca718",
-      "localImage": "assets/news/394cca96b66657.png",
-      "score": 13
-    },
-    {
-      "id": "cb6cf0ef43edd3",
-      "category": "Økonomi",
-      "published": "02.10. 18:14",
-      "publishedISO": "2026-10-02T18:14:56+02:00",
-      "title": "Ingen kvinner i Oljefondets AI-team: – Det er kleint",
-      "summary": "Og i det Tangen viste frem bildet av Oljefondets AI-team, var det heller ingen kvinner representert. – Det eneste som ikke er helt perfekt med dette teamet, er kjønnsbalansen. Så derfor går vi raskt videre (...), sier Tangen. – Vi har ikke kvinner på akkurat det teamet, og det er kleint. Han påpeker at de har andre team med overvekt av kvinner og oppfordrer flere dyktige kvinner til å søke på AI-teamet, men at det gjenstår en stor jobb. – Det har vært veldig vanskelig å finne dyktige kvinner til det teamet, sier Tangen. – Det er jo derfor vi er her på universitetet for å snakke om disse tingene, slik at vi tiltrekker oss bedre søkere.",
-      "keyPoints": [
-        "Og i det Tangen viste frem bildet av Oljefondets AI-team, var det heller ingen kvinner representert. – Det eneste som ikke er helt perfekt med dette teamet, er kjønnsbalansen.",
-        "Så derfor går vi raskt videre (...), sier Tangen. – Vi har ikke kvinner på akkurat det teamet, og det er kleint.",
-        "Han påpeker at de har andre team med overvekt av kvinner og oppfordrer flere dyktige kvinner til å søke på AI-teamet, men at det gjenstår en stor jobb. – Det har vært veldig vanskelig å finne dyktige kvinner til det teamet, sier Tangen. – Det er jo derfor vi er her på universitetet for å snakke om disse tingene, slik at vi tiltrekker oss bedre søkere.",
-        "Under Tangens ledelse har kvinneandelen i fondet gått fra 25 til 35 prosent. – Vi forsøker etter beste evne å ansette kvinner og jobber ekstremt hardt for å få det til, sier han."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/K8Q2Ky/ingen-kvinner-i-oljefondets-ai-team-det-er-kleint",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d8cf0111-9a10-3a4b-b8dd-17ccd8ccc35b?fit=crop&h=675&upscale=true&w=1200&s=c5a2776fe2ee1c1c7aa35378b134ee0a7074456d",
-      "localImage": "assets/news/cb6cf0ef43edd3.jpg",
-      "score": 13
-    },
-    {
-      "id": "1dbe9fa9d8eec3",
-      "category": "Økonomi",
-      "published": "02.10. 15:31",
-      "publishedISO": "2026-10-02T15:31:12+02:00",
-      "title": "Bredt Wall Street-hopp etter jobbtall",
-      "summary": "De toneangivende indeksene stiger etter jobbtall som var langt svakere enn ventet. Slik gikk det med de toneangivende indeksene: Til tross for fredagens oppgang, endte kun Nasdaq-indeksen uken i pluss med en oppgang på 0,45 prosent. Dow Jones endte uken ned 1,26 prosent og S&P 500 falt 0,26 prosent.",
-      "keyPoints": [
-        "De toneangivende indeksene stiger etter jobbtall som var langt svakere enn ventet.",
-        "Slik gikk det med de toneangivende indeksene: Til tross for fredagens oppgang, endte kun Nasdaq-indeksen uken i pluss med en oppgang på 0,45 prosent.",
-        "Dow Jones endte uken ned 1,26 prosent og S&P 500 falt 0,26 prosent.",
-        "Blant annet sliter Nike fortsatt med fallende Kina-salg, der inntektene stupte 26 prosent fra samme periode året før."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/mKR5zl/bredt-wall-street-hopp-etter-jobbtall",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/97875809-f279-3d5a-a446-6d5d21f121c2?fit=crop&h=675&upscale=true&w=1200&s=3482fdcac71ad87c212966c5a04a0fe6ccd5ce0f",
-      "localImage": "assets/news/1dbe9fa9d8eec3.jpg",
-      "score": 13
-    },
-    {
-      "id": "84add630b3df51",
-      "category": "Økonomi",
-      "published": "02.10. 10:41",
-      "publishedISO": "2026-10-02T10:41:53+02:00",
-      "title": "Slakter lønnsoppgjør etter milliardoverskudd: – Fryktelig skuffet",
-      "summary": "Mens toppsjefen sitter med en lønn på mange millioner og eierne får milliardutbytte, øker frustrasjonen på gulvet i lakseslakteriene etter årets lønnsoppgjør. – Folk er fryktelig skuffet. Mowi er verdens største lakseoppdretter, med en markedsverdi på drøye 108 milliarder kroner. Der er de ansatte skuffet over hva de får i lønnsøkning.",
-      "keyPoints": [
-        "Mens toppsjefen sitter med en lønn på mange millioner og eierne får milliardutbytte, øker frustrasjonen på gulvet i lakseslakteriene etter årets lønnsoppgjør. – Folk er fryktelig skuffet.",
-        "Der er de ansatte skuffet over hva de får i lønnsøkning.",
-        "Mowi er verdens største lakseoppdretter, med en markedsverdi på drøye 108 milliarder kroner.",
-        "Da kuttes lønnen til 62,4 prosent fra første dag – noe staten tar regningen for. – Vi er opptatt av gode resultater og å holde kostnadene nede, og så sitter toppsjefene med så høye lønninger, sier Jensen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/hav-og-sjoemat/i/QJK5L8/slakter-loennsoppgjoer-etter-milliardoverskudd-fryktelig-skuffet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/15725a36-924a-3d8e-ace4-3e529956e496?fit=crop&h=675&upscale=true&w=1200&s=953580964db01030f1c69b490a8c930ce273e7bf",
-      "localImage": "assets/news/84add630b3df51.png",
+      "image": "https://gfx.nrk.no/AVPp_x3HZrFcDzkngOZB-wbmd4X4I30Maa6cfafA9rlg.jpg",
+      "localImage": "assets/news/398bd11fda632a.jpg",
       "score": 13
     }
   ]
