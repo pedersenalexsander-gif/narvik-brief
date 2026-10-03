@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.10.2026 kl. 18:47",
-  "updatedISO": "2026-10-03T18:47:40.375172+02:00",
+  "updatedAt": "03.10.2026 kl. 21:42",
+  "updatedISO": "2026-10-03T21:42:25.723516+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/uBsz8XL_t0Ao-DSN0MjBJQmVKpuER8WNGjCzCPMIxv8Q.jpg",
       "localImage": "assets/news/704850d232c787.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "f841aed66e4c95",
@@ -46,6 +46,27 @@
       "score": 17
     },
     {
+      "id": "b59720bad72dbc",
+      "category": "USA",
+      "published": "03.10. 19:38",
+      "publishedISO": "2026-10-03T19:38:49+02:00",
+      "title": "Hva skjedde i den mislykkede henrettelsen av Christa Pike – og hva videre?",
+      "summary": "Hva vi vet etter at Christa Pike overlevde to dødelige injeksjoner Advarsel: Denne artikkelen inneholder detaljer som lesere kan finne den plagsomme amerikansk dømte morderen Christa Pike er i en kritisk tilstand på sykehus etter at myndighetene i Tennessee ikke klarte å henrette henne ved dødelig injeksjon, sier advokaten hennes. Se: Vitner forteller om Christa Pikes mislykkede henrettelsesforsøk Advokatene hennes hadde advart om at noe slikt kunne skje. Jeg har sett nesten 500 henrettelser - men aldri en som Christa Pikes Tennessee stopper henrettelsene etter at dødsdømte Christa Pike overlever hennes. Tennessee Department of Correction har forsvart metoden den brukte, og sa \"protokollen tillater ikke ytterligere prosedyrer utover det som ble utført\".",
+      "keyPoints": [
+        "Watch: Witnesses recount Christa Pike's failed execution attempt Her lawyers had warned something like this might occur.",
+        "Hva vi vet etter at Christa Pike overlevde to dødelige injeksjoner Advarsel: Denne artikkelen inneholder detaljer som lesere kan finne den plagsomme amerikansk dømte morderen Christa Pike er i en kritisk tilstand på sykehus etter at myndighetene i Tennessee ikke klarte å henrette henne ved dødelig injeksjon, sier advokaten hennes.",
+        "Jeg har sett nesten 500 henrettelser - men aldri en som Christa Pikes Tennessee stopper henrettelsene etter at dødsdømte Christa Pike overlever hennes. Tennessee Department of Correction har forsvart metoden den brukte, og sa \"protokollen tillater ikke ytterligere prosedyrer utover det som ble utført\".",
+        "Motstandere av dødsstraff sa at det var vanskelig å vite hva som gikk galt, fordi en del av henrettelsen til Pike skjedde bak et forheng."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/b59720bad72dbc.jpg",
+      "score": 13
+    },
+    {
       "id": "35900385838727",
       "category": "Økonomi",
       "published": "03.10. 13:44",
@@ -64,27 +85,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eb51ee45-c536-3c38-b52e-8a6b87bd80e4?fit=crop&h=675&upscale=true&w=1200&s=cfc130f2bf9ce50351e7154ee47241dcc946d5b8",
       "localImage": "assets/news/35900385838727.jpg",
-      "score": 16
-    },
-    {
-      "id": "88b7dd0c970ab3",
-      "category": "Økonomi",
-      "published": "02.10. 14:48",
-      "publishedISO": "2026-10-02T14:48:11+02:00",
-      "title": "Krever at milliardkonsesjon inndras: – Slutt å gi Røkke særfordeler",
-      "summary": "I stedet blir det strengere fremover. – Ap-regjeringen må slutte å gi Røkke særfordeler, sier SVs Ingrid Fiskaa til E24. Striden bygger på at Kjell Inge Røkkes krillrederi Aker BioMarine solgte krillvirksomheten til Aker Qrill Company, som eies av det amerikanske oppkjøpsfondet American Industrial Partners (60 prosent) og Aker Capital (40 prosent). Fiskeridirektoratet godkjente eierendringene i juli 2024. – Røkke har jo dessverre erfaring med å omgå intensjonene i norsk fiskerilovgiving, og nå er det på høy tid å sette ned foten.",
-      "keyPoints": [
-        "I stedet blir det strengere fremover. – Ap-regjeringen må slutte å gi Røkke særfordeler, sier SVs Ingrid Fiskaa til E24.",
-        "Fiskeridirektoratet godkjente eierendringene i juli 2024. – Røkke har jo dessverre erfaring med å omgå intensjonene i norsk fiskerilovgiving, og nå er det på høy tid å sette ned foten.",
-        "Striden bygger på at Kjell Inge Røkkes krillrederi Aker BioMarine solgte krillvirksomheten til Aker Qrill Company, som eies av det amerikanske oppkjøpsfondet American Industrial Partners (60 prosent) og Aker Capital (40 prosent).",
-        "Thorheim vil derimot ikke legge føringer på om konsesjonen skal inndras eller ikke, ut fra det han foreløpig vet. – Men regjeringen må helt klart vise mer handling for at deltakerlovens intensjon og bestemmelser følges."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/hav-og-sjoemat/i/gkbKoB/krever-at-milliardkonsesjon-inndras-slutt-aa-gi-roekke-saerfordeler",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2ba492cd-cea8-358d-ba9f-85f16ebc32b1?fit=crop&h=675&upscale=true&w=1200&s=3ba54c61d442881ec1c704ee9c6417ef92dca27e",
-      "localImage": "assets/news/88b7dd0c970ab3.jpg",
       "score": 16
     },
     {
@@ -109,108 +109,108 @@
       "score": 15
     },
     {
-      "id": "bfd2f1da3fa056",
-      "category": "Norge",
-      "published": "03.10. 18:03",
-      "publishedISO": "2026-10-03T18:03:02+02:00",
-      "title": "Nyhetssenter Nordland",
-      "summary": "Narvik tapte 3–5 mot Lillehammer lørdag, etter å ha ledet 3–1 midway i kampen. Vogntoget fraktet en 60 tonn tung transformator fra Slovenia med kurs mot Leirfjord i Nordland. Det var kun et kjøretøy involvert i ulykken. – Det jobbes med pasient på stedet, opplyser Remi Johansen i Nordland politidistrikt klokken 22.07.",
+      "id": "88b7dd0c970ab3",
+      "category": "Økonomi",
+      "published": "02.10. 14:48",
+      "publishedISO": "2026-10-02T14:48:11+02:00",
+      "title": "Krever at milliardkonsesjon inndras: – Slutt å gi Røkke særfordeler",
+      "summary": "I stedet blir det strengere fremover. – Ap-regjeringen må slutte å gi Røkke særfordeler, sier SVs Ingrid Fiskaa til E24. Striden bygger på at Kjell Inge Røkkes krillrederi Aker BioMarine solgte krillvirksomheten til Aker Qrill Company, som eies av det amerikanske oppkjøpsfondet American Industrial Partners (60 prosent) og Aker Capital (40 prosent). Fiskeridirektoratet godkjente eierendringene i juli 2024. – Røkke har jo dessverre erfaring med å omgå intensjonene i norsk fiskerilovgiving, og nå er det på høy tid å sette ned foten.",
       "keyPoints": [
-        "Vogntoget fraktet en 60 tonn tung transformator fra Slovenia med kurs mot Leirfjord i Nordland.",
-        "Det var kun et kjøretøy involvert i ulykken. – Det jobbes med pasient på stedet, opplyser Remi Johansen i Nordland politidistrikt klokken 22.07.",
-        "Narvik tapte 3–5 mot Lillehammer lørdag, etter å ha ledet 3–1 midway i kampen.",
-        "Klokken 18.21 opplyste politiet at én person blir pågrepet, mens den andre blir bortvist fra Bodø sentrum."
+        "I stedet blir det strengere fremover. – Ap-regjeringen må slutte å gi Røkke særfordeler, sier SVs Ingrid Fiskaa til E24.",
+        "Fiskeridirektoratet godkjente eierendringene i juli 2024. – Røkke har jo dessverre erfaring med å omgå intensjonene i norsk fiskerilovgiving, og nå er det på høy tid å sette ned foten.",
+        "Striden bygger på at Kjell Inge Røkkes krillrederi Aker BioMarine solgte krillvirksomheten til Aker Qrill Company, som eies av det amerikanske oppkjøpsfondet American Industrial Partners (60 prosent) og Aker Capital (40 prosent).",
+        "Thorheim vil derimot ikke legge føringer på om konsesjonen skal inndras eller ikke, ut fra det han foreløpig vet. – Men regjeringen må helt klart vise mer handling for at deltakerlovens intensjon og bestemmelser følges."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/hav-og-sjoemat/i/gkbKoB/krever-at-milliardkonsesjon-inndras-slutt-aa-gi-roekke-saerfordeler",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/2ba492cd-cea8-358d-ba9f-85f16ebc32b1?fit=crop&h=675&upscale=true&w=1200&s=3ba54c61d442881ec1c704ee9c6417ef92dca27e",
+      "localImage": "assets/news/88b7dd0c970ab3.jpg",
+      "score": 15
+    },
+    {
+      "id": "ea17eae2c48d72",
+      "category": "Norge",
+      "published": "03.10. 21:29",
+      "publishedISO": "2026-10-03T21:29:30+02:00",
+      "title": "Norsk designer gir ødelagte klær nytt liv – men får ikke hjelpen hun trenger",
+      "summary": "Likevel sliter gründer og designer Hilde Hoff Nordskar med å finne klær hun kan bruke. Men selv om den opprinnelige drømmen var å gi brukte og ødelagte klær og møbler nytt liv, ser Nordskar nå at det ikke lenger er mulig dersom bedriften skal overleve. – Jeg skulle ønske systemet var lagt til rette slik at jeg kunne jobbe kun med ødelagte produkter og gi dem nytt liv. 44-åringen har derfor måttet begynne å designe klær av helt nytt stoff, eller nye klær kjøpt på outlet.",
+      "keyPoints": [
+        "Men selv om den opprinnelige drømmen var å gi brukte og ødelagte klær og møbler nytt liv, ser Nordskar nå at det ikke lenger er mulig dersom bedriften skal overleve. – Jeg skulle ønske systemet var lagt til rette slik at jeg kunne jobbe kun med ødelagte produkter og gi dem nytt liv.",
+        "Likevel sliter gründer og designer Hilde Hoff Nordskar med å finne klær hun kan bruke.",
+        "44-åringen har derfor måttet begynne å designe klær av helt nytt stoff, eller nye klær kjøpt på outlet.",
+        "Vi vil jobbe for å vise den norske kulturarven, sier Nordskar, og legger til hun fortsatt vil jobbe med gjenbruk når hun får tak i de rette varene."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
+      "url": "https://www.nrk.no/norge/norsk-designer-gir-odelagte-klaer-nytt-liv-_-men-far-ikke-hjelpen-hun-trenger-1.18032683",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
-      "localImage": "assets/news/bfd2f1da3fa056.jpg",
+      "image": "https://gfx.nrk.no/a6UlvpkDdwktNpYs-UuXfwlvnxWHYLIpMA7gh4263o3g.jpg",
+      "localImage": "assets/news/ea17eae2c48d72.jpg",
       "score": 13
     },
     {
-      "id": "9c6d74f71db966",
+      "id": "e7ce95c7bbabd2",
       "category": "Norge",
-      "published": "03.10. 18:00",
-      "publishedISO": "2026-10-03T18:00:50+02:00",
-      "title": "NTNU-student omkom etter fall i gruvesjakt i Holtålen: – Våre tanker går til mannens familie",
-      "summary": "Mannen i 20-årene døde fredag etter å ha falt 14 meter ned i en gruvesjakt i Trøndelag. DØDSULYKKE: Her omkom en mann i 20-årene etter å ha falt 14 meter ned i en sjakt. Grøn forteller at universitetet vil følge dem opp i dagene som kommer, og at det har stor prioritet hos dem. – Våre tanker går til mannens familie, venner og nærstående, sier han.",
+      "published": "03.10. 20:49",
+      "publishedISO": "2026-10-03T20:49:49+02:00",
+      "title": "Maren Sømme-saken startet debatt om partnervold: Dette betyr love bombing, gaslighting og traumebånd",
+      "summary": "I starten ble hun møtt med det som kalles love bombing. Det er ingen tilfeldighet at love bombing treffer så hardt. Først da hun ble kjent med begreper som love bombing, gaslighting, fawning og traumebånd, forsto hun etter hvert hvilke krefter som hadde holdt henne nede.",
       "keyPoints": [
-        "Grøn forteller at universitetet vil følge dem opp i dagene som kommer, og at det har stor prioritet hos dem. – Våre tanker går til mannens familie, venner og nærstående, sier han.",
-        "Mannen i 20-årene døde fredag etter å ha falt 14 meter ned i en gruvesjakt i Trøndelag.",
-        "DØDSULYKKE: Her omkom en mann i 20-årene etter å ha falt 14 meter ned i en sjakt.",
-        "Ulykken skjedde i den nedlagte Killingdalsgruva i Holtålen, 3 mil nord for Røros."
+        "Først da hun ble kjent med begreper som love bombing, gaslighting, fawning og traumebånd, forsto hun etter hvert hvilke krefter som hadde holdt henne nede.",
+        "I starten ble hun møtt med det som kalles love bombing.",
+        "Det er ingen tilfeldighet at love bombing treffer så hardt.",
+        "Love bombing – veldig intens oppmerksomhet, kjærlighet og idealisering som senere kan vise seg å være del av et større manipulerende eller kontrollerende mønster."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/ntnu-student-omkom-etter-fall-i-gruvesjakt-i-holtalen_-_-vare-tanker-gar-til-mannens-familie-1.18044355",
+      "url": "https://www.nrk.no/rogaland/xl/maren-somme-saken-startet-debatt-om-partnervold_-dette-betyr-love-bombing_-gaslighting-og-traumeband-1.17980783",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FlO_JXBeG0AAiz0qrIjDzgS9EvNOOuM2Mtncw__hTVWA.jpg",
-      "localImage": "assets/news/9c6d74f71db966.jpg",
+      "image": "https://gfx.nrk.no/R1qxRj3RB6JKPSQWAe4d4QkZZ1XjLFpkZ0w-ZCfVjFhg.jpg",
+      "localImage": "assets/news/e7ce95c7bbabd2.jpg",
       "score": 13
     },
     {
-      "id": "76164e3c01660c",
+      "id": "52651f63b3c746",
       "category": "Norge",
-      "published": "03.10. 16:31",
-      "publishedISO": "2026-10-03T16:31:55+02:00",
-      "title": "Norge Rundt 50 år: – Et slikt program hadde blitt sabla ned i dag",
-      "summary": "I disse dager fyller Norge Rundt 50 år. – Hadde man foreslått dette i dag, tror jeg det hadde blitt sabla ned, sier tidligere programleder. I fem tiår har Norge Rundt samlet hundretusenvis av nordmenn foran TV-skjermen hver eneste fredag. – Det kan sammenlignes med et tre som har stått på tunet lenge med dype røtter. Torkil Stoltz kan man i disse dager både se og høre i NRK Troms sine programmer. – Hadde det vært et foreslått program i dag, så tror jeg den hadde blitt sabla ned – om å følge én hovedhistorie, for å så skulle gå ut fem ganger i hver sending og prate om noe helt annet.",
+      "published": "03.10. 20:27",
+      "publishedISO": "2026-10-03T20:27:59+02:00",
+      "title": "Nordmann løslatt etter dødsfall under jakt i Sverige",
+      "summary": "Den norske mannen som er siktet etter at en jaktkamerat døde i Arjeplog torsdag, er løslatt. Han har sittet i arrest siden fredag etter at en norsk mann i 60-årene fra Nordland døde under jakt i Arjeplog kommune torsdag. Mannen som nå er løslatt, var en av de andre jegerne i følget. – Etter at det er gjort flere undersøkelser i saken, mener jeg det ikke er tilstrekkelig grunnlag for å holde mannen i arrest eller be om varetektsfengsling.",
       "keyPoints": [
-        "I disse dager fyller Norge Rundt 50 år. – Hadde man foreslått dette i dag, tror jeg det hadde blitt sabla ned, sier tidligere programleder.",
-        "Torkil Stoltz kan man i disse dager både se og høre i NRK Troms sine programmer. – Hadde det vært et foreslått program i dag, så tror jeg den hadde blitt sabla ned – om å følge én hovedhistorie, for å så skulle gå ut fem ganger i hver sending og prate om noe helt annet.",
-        "I fem tiår har Norge Rundt samlet hundretusenvis av nordmenn foran TV-skjermen hver eneste fredag. – Det kan sammenlignes med et tre som har stått på tunet lenge med dype røtter.",
-        "Uansett vær og vind, nye trender eller ny teknologi, så har Norge Rundt vært tro mot sin grunnidé og sitt format, sier professor i medievitenskap, Gunn Enli."
+        "Han har sittet i arrest siden fredag etter at en norsk mann i 60-årene fra Nordland døde under jakt i Arjeplog kommune torsdag.",
+        "Mannen som nå er løslatt, var en av de andre jegerne i følget. – Etter at det er gjort flere undersøkelser i saken, mener jeg det ikke er tilstrekkelig grunnlag for å holde mannen i arrest eller be om varetektsfengsling.",
+        "Den norske mannen som er siktet etter at en jaktkamerat døde i Arjeplog torsdag, er løslatt.",
+        "Etterforskningen fortsetter selv om mannen er løslatt. – Etterforskningen fortsetter nå for å avklare nøyaktig hva som skjedde, og hva som var årsaken til at en mann døde under jakten."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/norge-rundt-50-ar_-_-et-slikt-program-hadde-blitt-sabla-ned-i-dag-1.18044414",
+      "url": "https://www.nrk.no/nordland/nordmann-loslatt-etter-dodsfall-under-jakt-i-sverige-1.18044283",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/98TeNXCAQ8UImEaNiKJFAg2d_2zklDA-lNA9iR-f4vCw.jpg",
-      "localImage": "assets/news/76164e3c01660c.jpg",
+      "image": "https://gfx.nrk.no/IU60TmTMGEFkOcQN7xqlZwVUWBd5xaFsW9W7fklugfSQ.jpg",
+      "localImage": "assets/news/52651f63b3c746.jpg",
       "score": 13
     },
     {
-      "id": "e3ccadc21a38f4",
+      "id": "0f9dde27435dc1",
       "category": "Norge",
-      "published": "03.10. 16:31",
-      "publishedISO": "2026-10-03T16:31:55+02:00",
-      "title": "Norge Rundt 50 år: – Et slikt program hadde blitt sabla ned i dag",
-      "summary": "I disse dager fyller Norge Rundt 50 år. – Hadde man foreslått dette i dag, tror jeg det hadde blitt sabla ned, sier tidligere programleder. I fem tiår har Norge Rundt samlet hundretusenvis av nordmenn foran TV-skjermen hver eneste fredag. – Det kan sammenlignes med et tre som har stått på tunet lenge med dype røtter. Torkil Stoltz kan man i disse dager både se og høre i NRK Troms sine programmer. – Hadde det vært et foreslått program i dag, så tror jeg den hadde blitt sabla ned – om å følge én hovedhistorie, for å så skulle gå ut fem ganger i hver sending og prate om noe helt annet.",
+      "published": "03.10. 19:36",
+      "publishedISO": "2026-10-03T19:36:44+02:00",
+      "title": "Friidrett: Noah Fronth Høybø bruker ADHD-diagnosen som en drivkraft",
+      "summary": "I hverdagen har han møtt på motstand, men på løpebanen er Noah Fronth Høybøs diagnose alt annet enn et problem. TALENTFULL: 13 år gamle Noah Fronth Høybø er en svært ivrig sprinter. – Det er et sted jeg kan bruke all energien jeg har til å gjøre noe bra ut av det. Jeg er mye roligere når jeg kommer hjem og kan slappe av litt, forteller Noah.",
       "keyPoints": [
-        "I disse dager fyller Norge Rundt 50 år. – Hadde man foreslått dette i dag, tror jeg det hadde blitt sabla ned, sier tidligere programleder.",
-        "Torkil Stoltz kan man i disse dager både se og høre i NRK Troms sine programmer. – Hadde det vært et foreslått program i dag, så tror jeg den hadde blitt sabla ned – om å følge én hovedhistorie, for å så skulle gå ut fem ganger i hver sending og prate om noe helt annet.",
-        "I fem tiår har Norge Rundt samlet hundretusenvis av nordmenn foran TV-skjermen hver eneste fredag. – Det kan sammenlignes med et tre som har stått på tunet lenge med dype røtter.",
-        "Uansett vær og vind, nye trender eller ny teknologi, så har Norge Rundt vært tro mot sin grunnidé og sitt format, sier professor i medievitenskap, Gunn Enli."
+        "TALENTFULL: 13 år gamle Noah Fronth Høybø er en svært ivrig sprinter. – Det er et sted jeg kan bruke all energien jeg har til å gjøre noe bra ut av det.",
+        "I hverdagen har han møtt på motstand, men på løpebanen er Noah Fronth Høybøs diagnose alt annet enn et problem.",
+        "Jeg er mye roligere når jeg kommer hjem og kan slappe av litt, forteller Noah.",
+        "Plutselig fikk jeg sjansen til å trene med ham. – Jeg har vært ganske fan av ham ganske lenge, legger Noah til."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/norge-rundt-50-ar_-_-et-slikt-program-hadde-blitt-sabla-ned-i-dag-1.18044414",
+      "url": "https://www.nrk.no/sport/friidrett_-noah-fronth-hoybo-bruker-adhd-diagnosen-som-en-drivkraft-1.18031292",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/98TeNXCAQ8UImEaNiKJFAg2d_2zklDA-lNA9iR-f4vCw.jpg",
-      "localImage": "assets/news/e3ccadc21a38f4.jpg",
-      "score": 13
-    },
-    {
-      "id": "c4d3f50676f3ac",
-      "category": "Norge",
-      "published": "03.10. 16:14",
-      "publishedISO": "2026-10-03T16:14:50+02:00",
-      "title": "Har 1150 dorulldukker: Forbinder dem med mormor",
-      "summary": "Laila Andersen (50) bor i Lyngdal sammen med mann og tre barn – og 1150 dorulldukker. Men tanten ville ikke ha den, og ga den videre til Laila. – Jeg forbinder den med mormor. Dorulldukker har eksistert siden 1900-tallet Dorullsamlingen hennes skulle egentlig fullføreses da hun nådde 1000 stykker, men det ble det ikke noe av. – En samler kan aldri gi seg, forteller hun smilende.",
-      "keyPoints": [
-        "Men tanten ville ikke ha den, og ga den videre til Laila. – Jeg forbinder den med mormor.",
-        "Dorulldukker har eksistert siden 1900-tallet Dorullsamlingen hennes skulle egentlig fullføreses da hun nådde 1000 stykker, men det ble det ikke noe av. – En samler kan aldri gi seg, forteller hun smilende.",
-        "Laila Andersen (50) bor i Lyngdal sammen med mann og tre barn – og 1150 dorulldukker.",
-        "Den ene dukken ble starten på en samling som har vokst seg enorm. – Jeg bare bestemte meg for å begynne å samle på dem fordi jeg blir så glad av å se på dem."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/har-1150-dorulldukker_-forbinder-dem-med-mormor-1.18016457",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/7f4SSk5DBx8JUjrEOS9G8gJyxMreZ3dyKt2YSnUvXJjQ.jpg",
-      "localImage": "assets/news/c4d3f50676f3ac.jpg",
+      "image": "https://gfx.nrk.no/2TPkzVLVkxGaPjjwduU22QZtHl_tkQRPWN5ZtXiOtMyw.jpg",
+      "localImage": "assets/news/0f9dde27435dc1.jpg",
       "score": 13
     }
   ]
