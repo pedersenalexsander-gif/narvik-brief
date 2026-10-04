@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.10.2026 kl. 19:52",
-  "updatedISO": "2026-10-04T19:52:49.558670+02:00",
+  "updatedAt": "04.10.2026 kl. 22:56",
+  "updatedISO": "2026-10-04T22:56:55.752675+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -35,7 +35,7 @@
         "Soldater rir bak på en lastebil på en grusvei nær Taiz, midt i kamper mellom jemenittiske regjeringsstyrker og houthier Lederen for Jemens internasjonalt anerkjente regjering har kunngjort at den vil føre en fullstendig krig i et forsøk på å ta alt territorium som holdes av houthiene.",
         "Lørdag sa Jemens regjering også at styrkene deres hadde truffet Houthi-mål over hele landet, inkludert i Sanaa, Saada og gruppens stillinger nær Taiz i sørvest.",
         "Frontlinjen i Jemen er fortsatt fokusert rundt nøkkelbyen Taiz, som fortsatt er kontrollert av den internasjonalt anerkjente regjeringen.",
-        "Den jemenittiske regjeringens voldsomme uttalelse var ventet etter houthienes offensiv forrige måned, som førte til at de tok kontroll over landets kystlinje, inkludert den livsviktige skipsleia i Bab al-Mandab-stredet."
+        "Den jemenittiske regjeringens voldsomme uttalelse var ventet etter houthienes offensiv forrige måned, som førte til at de tok kontroll over landets kystlinje, inkludert den vitale skipsleia i Bab al-Mandab-stredet."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -43,6 +43,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
       "localImage": "assets/news/bc7aaffd931812.jpg",
+      "score": 13
+    },
+    {
+      "id": "12615a5d2f8398",
+      "category": "USA",
+      "published": "04.10. 20:25",
+      "publishedISO": "2026-10-04T20:25:50+02:00",
+      "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+      "summary": "Politikommisær Richard Worley i Baltimore talte lørdag kveld. En 12 år gammel jente ble drept i Baltimore i helgen under en tilsynelatende uenighet om en parkeringsplass, sa politiet i den amerikanske byen. Jenta ble fanget i kryssilden av kuler mellom to menn som ifølge politiet skal slåss om en parkeringsplass i en park der barn spilte amerikansk fotball. I kryssilden ble en 12 år gammel liten jente, som sannsynligvis var der nede og så på fotball, skutt og drept.\" Worley sa at jenta, som politiet ikke har navngitt, ikke var et mål for skytingen.",
+      "keyPoints": [
+        "Politikommisær Richard Worley i Baltimore talte lørdag kveld. En 12 år gammel jente ble drept i Baltimore i helgen under en tilsynelatende uenighet om en parkeringsplass, sa politiet i den amerikanske byen.",
+        "Jenta ble fanget i kryssilden av kuler mellom to menn som ifølge politiet skal slåss om en parkeringsplass i en park der barn spilte amerikansk fotball.",
+        "I kryssilden ble en 12 år gammel liten jente, som sannsynligvis var der nede og så på fotball, skutt og drept.\" Worley sa at jenta, som politiet ikke har navngitt, ikke var et mål for skytingen.",
+        "Det som skjedde her ute i dag er noe av det mest avskyelige jeg noen gang har sett i mitt liv.\" New York Times-leder skutt dødelig av eldre svigerfamilie, politiet sier \"A lover of life\" - Seattle hyller matfestivalens skyteofre En død og minst 10 andre såret i skytingen i Texas"
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e40/live/b6f332e0-c034-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/12615a5d2f8398.jpg",
       "score": 13
     },
     {
@@ -67,25 +88,25 @@
       "score": 22
     },
     {
-      "id": "736658f3e98f4f",
+      "id": "f31a13bb57dcd6",
       "category": "Økonomi",
-      "published": "04.10. 15:57",
-      "publishedISO": "2026-10-04T15:57:38+02:00",
-      "title": "Palantir-toppens eiendommer i Norden",
-      "summary": "Sammen med et kobbel andre gründere startet Alex Karp selskapet etter terrorangrepene 11. september i 2001. Markedsverdien til selskapet har nesten syvdoblet seg de siste fem årene, og Karp er ifølge Bloomberg verdt 20,7 milliarder dollar. Han betalte da 12,4 millioner for en hytte like ved alpintraseen på Hafjell.",
+      "published": "04.10. 21:39",
+      "publishedISO": "2026-10-04T21:39:25+02:00",
+      "title": "Dette er lekkasjene fra statsbudsjettet",
+      "summary": "Mer penger på forsvaret, nytt toppidrettssenter og en nasjonal klokke er blant lekkasjene før statsbudsjettet neste uke. Onsdag legger regjeringen frem statsbudsjettet for 2027, der alle dokumenter, pressmeldinger og nøkkeltall presenteres. Dette er noen av de viktigste lekkasjene som har kommet i forkant av budsjettet: Budsjettdagen sparkes i gang med at Finansdepartementet klokken 8 offentliggjør enkelte nøkkeltall i en pressemelding før statsbudsjettet formelt legges frem.",
       "keyPoints": [
-        "Sammen med et kobbel andre gründere startet Alex Karp selskapet etter terrorangrepene 11. september i 2001.",
-        "Markedsverdien til selskapet har nesten syvdoblet seg de siste fem årene, og Karp er ifølge Bloomberg verdt 20,7 milliarder dollar.",
-        "Han betalte da 12,4 millioner for en hytte like ved alpintraseen på Hafjell.",
-        "Så vidt E24 har klart å kartlegge, kjøpte Karp sin første eiendom i Norge i 2021."
+        "Dette er noen av de viktigste lekkasjene som har kommet i forkant av budsjettet: Budsjettdagen sparkes i gang med at Finansdepartementet klokken 8 offentliggjør enkelte nøkkeltall i en pressemelding før statsbudsjettet formelt legges frem.",
+        "Mer penger på forsvaret, nytt toppidrettssenter og en nasjonal klokke er blant lekkasjene før statsbudsjettet neste uke.",
+        "Onsdag legger regjeringen frem statsbudsjettet for 2027, der alle dokumenter, pressmeldinger og nøkkeltall presenteres.",
+        "Klokken 13 er det duket for at finansminister Jens Stoltenberg (Ap) presenterer statsbudsjettet på en pressekonferanse."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/8p6GGQ/palantir-toppens-eiendommer-i-norden",
+      "url": "https://e24.no/norsk-oekonomi/i/Gxz6BQ/dette-er-lekkasjene-fra-statsbudsjettet",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/71b14f43-6886-3e97-b677-e34c750728eb?fit=crop&h=675&upscale=true&w=1200&s=1daf463acb1a8355e908acf149931a3505858c39",
-      "localImage": "assets/news/736658f3e98f4f.jpg",
-      "score": 13
+      "image": "https://akamai.vgc.no/v2/images/90d74f7f-ed05-3567-bf57-34ed30f0a23c?fit=crop&h=675&upscale=true&w=1200&s=aa28775bc9c3a05310004cd46a64bde08d3c7c00",
+      "localImage": "assets/news/f31a13bb57dcd6.jpg",
+      "score": 17
     },
     {
       "id": "704850d232c787",
@@ -106,7 +127,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/uBsz8XL_t0Ao-DSN0MjBJQmVKpuER8WNGjCzCPMIxv8Q.jpg",
       "localImage": "assets/news/704850d232c787.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "69f0a1fc00b63b",
+      "category": "Norge",
+      "published": "04.10. 21:17",
+      "publishedISO": "2026-10-04T21:17:06+02:00",
+      "title": "Det blir trolig ikke fiske etter lodde neste år, sier forsker i Havforskningsinstituttet",
+      "summary": "Det forteller forsker ved Havforskningsinstituttet, Georg Skaret. Forskerne på Havforskningsinstituttet vil trolig anbefale å ikke fiske lodde i 2027. Nå skal Skaret og hans kolleger sette seg ned sammen med russerne og finne ut om det skal fiskes lodde i 2027 eller ikke. – Datoen for møtet er ikke spikret, men det ligger i kortene at det ikke blir noen tilrådning om fiske neste år heller, understreker han.",
+      "keyPoints": [
+        "Forskerne på Havforskningsinstituttet vil trolig anbefale å ikke fiske lodde i 2027.",
+        "Nå skal Skaret og hans kolleger sette seg ned sammen med russerne og finne ut om det skal fiskes lodde i 2027 eller ikke. – Datoen for møtet er ikke spikret, men det ligger i kortene at det ikke blir noen tilrådning om fiske neste år heller, understreker han.",
+        "Det forteller forsker ved Havforskningsinstituttet, Georg Skaret.",
+        "For å hjelpe lodda tilbake til normalen, har det ikke vært lov å fiske etter lodde i år."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/det-blir-trolig-ikke-fiske-etter-lodde-neste-ar_-sier-forsker-i-havforskningsinstituttet-1.18044934",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/rjXIapsARWMwUDhRkYBQpQEnr8-X1CIUb9ULI_Ij3PWA.jpg",
+      "localImage": "assets/news/69f0a1fc00b63b.jpg",
+      "score": 13
+    },
+    {
+      "id": "3d4be2abc83f2f",
+      "category": "Norge",
+      "published": "04.10. 19:24",
+      "publishedISO": "2026-10-04T19:24:06+02:00",
+      "title": "Portugal – Norge: Lagkameratene måpte etter drømmemål fra Kristoffer Ajer",
+      "summary": "Lagkameratene trodde knapt det de så da Kristoffer Vassbakk Ajer (28) banket Norge i ledelsen med et drømmemål. UTVIST: Francisco Conceicao fikk to gule kort på få sekunder mot Norge. – Det er selvfølgelig skuffende, sier målscorer Kristoffer Vassbakk Ajer til TV 2. Med 12 minutter igjen av full tid scoret Portugal igjen da Gonçalo Ramos snek seg bak målscorer Ajer og satte inn ledelsen til vertene. – Norge henger dessverre ikke med, fastslo Torp.",
+      "keyPoints": [
+        "Lagkameratene trodde knapt det de så da Kristoffer Vassbakk Ajer (28) banket Norge i ledelsen med et drømmemål.",
+        "UTVIST: Francisco Conceicao fikk to gule kort på få sekunder mot Norge. – Det er selvfølgelig skuffende, sier målscorer Kristoffer Vassbakk Ajer til TV 2.",
+        "Med 12 minutter igjen av full tid scoret Portugal igjen da Gonçalo Ramos snek seg bak målscorer Ajer og satte inn ledelsen til vertene. – Norge henger dessverre ikke med, fastslo Torp.",
+        "Norges midtstopper sendte Norge i ledelsen med en perlescoring i første omgang, før Portugal slo tilbake to ganger hjemme i Porto i nasjonsligaens fjerde kamp."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/portugal-_-norge_-lagkameratene-mapte-etter-drommemal-fra-kristoffer-ajer-1.18044998",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/B3ON6zc5Buv_B3wAcy-bzwEfSXQ9aZov7TUjkfFTfTPA.jpg",
+      "localImage": "assets/news/3d4be2abc83f2f.jpg",
+      "score": 13
     },
     {
       "id": "b707079536bb0c",
@@ -148,69 +211,6 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg",
       "localImage": "assets/news/76a60533cea88f.jpg",
-      "score": 13
-    },
-    {
-      "id": "e7ce8cf525fb75",
-      "category": "Norge",
-      "published": "04.10. 17:00",
-      "publishedISO": "2026-10-04T17:00:44+02:00",
-      "title": "Branns lange rekke tok slutt – Aalesund tente gullhåpet",
-      "summary": "Nystemten var knapt ferdig før Aalesund sjokkerte på Brann Stadion. I staden vart det Aalesund som tok kontroll på oppgjeret. Om lag tolv minutt før slutt vart det diskutert om kampen kunne halde fram.",
-      "keyPoints": [
-        "I staden vart det Aalesund som tok kontroll på oppgjeret.",
-        "Nystemten var knapt ferdig før Aalesund sjokkerte på Brann Stadion.",
-        "Om lag tolv minutt før slutt vart det diskutert om kampen kunne halde fram.",
-        "Det var Aalesund som kunne juble til slutt etter tre poeng i banken."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/branns-lange-rekke-tok-slutt-_-aalesund-tente-gullhapet-1.18044951",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/l1sgh3znBrFKHF6zPZVABQbLDjImD-8zx2tthIJMkEgA.jpg",
-      "localImage": "assets/news/e7ce8cf525fb75.jpg",
-      "score": 13
-    },
-    {
-      "id": "16b699976c411b",
-      "category": "Norge",
-      "published": "04.10. 16:48",
-      "publishedISO": "2026-10-04T16:48:43+02:00",
-      "title": "Start med niende hjemmeseier – ett poeng unna Toppserien",
-      "summary": "Start-kvinnene tok sin niende hjemmeseier med 1–0 over Tromsø søndag. Men med seier over Tromsø, må Viking og Åsane vinne begge sine resterende kamper for å kunne ta opprykket til Toppserien fra Start. Nå mangler vi bare ett poeng, sier målscoreren. – Vi kan aldri være sikker.",
-      "keyPoints": [
-        "Start-kvinnene tok sin niende hjemmeseier med 1–0 over Tromsø søndag.",
-        "Men med seier over Tromsø, må Viking og Åsane vinne begge sine resterende kamper for å kunne ta opprykket til Toppserien fra Start.",
-        "Nå mangler vi bare ett poeng, sier målscoreren. – Vi kan aldri være sikker.",
-        "Det sier Start Kvinners daglige leder Trond Mæstad etter 1–0 over Tromsø søndag."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/start-med-niende-hjemmeseier-_-ett-poeng-unna-toppserien-1.18044971",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/IrKTFLCWvaH-iBwZZpxCRATCBbSBI1UFRbftyeeD6_Tw.jpg",
-      "localImage": "assets/news/16b699976c411b.jpg",
-      "score": 13
-    },
-    {
-      "id": "595e9c29ac5f6f",
-      "category": "Verden",
-      "published": "04.10. 15:33",
-      "publishedISO": "2026-10-04T15:33:05+02:00",
-      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-      "summary": "En regjeringsvennlig soldat som står vakt på en gate i Etiopias Tigray-region på søndag. Opprørsstyrker i Etiopias nordlige Tigray-region har sagt at de midlertidig har trukket seg tilbake fra den regionale hovedstaden Mekelle, mens kampene med den nasjonale hæren beveger seg mot byen. Kamper har brutt ut de siste ukene mellom TPLF og føderale regjeringsstyrker sammen med allierte jagerfly i deler av Etiopias nordlige regioner Tigray, Afar og Amhara. Hvordan friske kamper i Tigray kan utløse større konflikt i Etiopia Tigray-innbyggere har forsøkt å komme seg etter en ødeleggende to år lang borgerkrig som endte i 2022 da Den afrikanske union (AU) meglet en fredsavtale, kjent som Pretoria-avtalen, mellom de to sidene.",
-      "keyPoints": [
-        "En regjeringsvennlig soldat som står vakt på en gate i Etiopias Tigray-region på søndag. Opprørsstyrker i Etiopias nordlige Tigray-region har sagt at de midlertidig har trukket seg tilbake fra den regionale hovedstaden Mekelle, mens kampene med den nasjonale hæren beveger seg mot byen.",
-        "Kamper har brutt ut de siste ukene mellom TPLF og føderale regjeringsstyrker sammen med allierte jagerfly i deler av Etiopias nordlige regioner Tigray, Afar og Amhara.",
-        "Hvordan friske kamper i Tigray kan utløse større konflikt i Etiopia Tigray-innbyggere har forsøkt å komme seg etter en ødeleggende to år lang borgerkrig som endte i 2022 da Den afrikanske union (AU) meglet en fredsavtale, kjent som Pretoria-avtalen, mellom de to sidene.",
-        "Etiopia og Eritrea kuttet diplomatiske bånd ettersom konflikten i nord eskalerer Etiopia-kampene eskalerer i Tigray og dreper 52 sivile, sier lege til BBC. De unge kvinnene som kjempet i Etiopias siste borgerkrig og ikke ønsker å se en ny."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg",
-      "localImage": "assets/news/595e9c29ac5f6f.jpg",
       "score": 13
     }
   ]
