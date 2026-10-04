@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.10.2026 kl. 22:56",
-  "updatedISO": "2026-10-04T22:56:55.752675+02:00",
+  "updatedAt": "05.10.2026 kl. 01:53",
+  "updatedISO": "2026-10-05T01:53:07.894306+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,48 +22,48 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/vmX99OdRrZJSD0XmVnt4tAInOs4ax8vZCb63agR2Mpgw.jpg",
       "localImage": "assets/news/d22c853d9eac12.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "bc7aaffd931812",
+      "id": "49503bd05845bd",
       "category": "Verden",
-      "published": "04.10. 18:51",
-      "publishedISO": "2026-10-04T18:51:30+02:00",
-      "title": "Yemen government announces major operation to retake Houthi territory",
-      "summary": "Soldater rir bak på en lastebil på en grusvei nær Taiz, midt i kamper mellom jemenittiske regjeringsstyrker og houthier Lederen for Jemens internasjonalt anerkjente regjering har kunngjort at den vil føre en fullstendig krig i et forsøk på å ta alt territorium som holdes av houthiene. Frontlinjen i Jemen er fortsatt fokusert rundt nøkkelbyen Taiz, som fortsatt er kontrollert av den internasjonalt anerkjente regjeringen. Lørdag sa Jemens regjering også at styrkene deres hadde truffet Houthi-mål over hele landet, inkludert i Sanaa, Saada og gruppens stillinger nær Taiz i sørvest.",
+      "published": "05.10. 01:29",
+      "publishedISO": "2026-10-05T01:29:18+02:00",
+      "title": "Redningsmenn avbryter søket etter overlevende etter at flyet ble savnet utenfor USAs kyst",
+      "summary": "Søket etter flyet utføres nær Nantucket, en øy utenfor kysten av den amerikanske delstaten Massachusetts. Amerikanske myndigheter har suspendert søket etter seks personer ombord på et medisinsk transportfly som ble savnet på lørdag mens det var på reise fra Bermuda til Boston. Kystvakten sa søndag kveld at den avslutter søket utenfor kysten av Nantucket, en øy i Massachusetts, etter 66 timers leting etter passasjerene. – Vi uttrykker vår dypeste medfølelse til familiene og de kjære, sa Kystvakten søndag. I følge halenummeret utgitt av kystvakten, tilhørte flyet Latitude Air Ambulances, et selskap som tilbyr internasjonale medisinske flyreiser for pasienter som reiser hjem.",
       "keyPoints": [
-        "Soldater rir bak på en lastebil på en grusvei nær Taiz, midt i kamper mellom jemenittiske regjeringsstyrker og houthier Lederen for Jemens internasjonalt anerkjente regjering har kunngjort at den vil føre en fullstendig krig i et forsøk på å ta alt territorium som holdes av houthiene.",
-        "Lørdag sa Jemens regjering også at styrkene deres hadde truffet Houthi-mål over hele landet, inkludert i Sanaa, Saada og gruppens stillinger nær Taiz i sørvest.",
-        "Frontlinjen i Jemen er fortsatt fokusert rundt nøkkelbyen Taiz, som fortsatt er kontrollert av den internasjonalt anerkjente regjeringen.",
-        "Den jemenittiske regjeringens voldsomme uttalelse var ventet etter houthienes offensiv forrige måned, som førte til at de tok kontroll over landets kystlinje, inkludert den vitale skipsleia i Bab al-Mandab-stredet."
+        "Søket etter flyet utføres nær Nantucket, en øy utenfor kysten av den amerikanske delstaten Massachusetts. Amerikanske myndigheter har suspendert søket etter seks personer ombord på et medisinsk transportfly som ble savnet på lørdag mens det var på reise fra Bermuda til Boston.",
+        "Kystvakten sa søndag kveld at den avslutter søket utenfor kysten av Nantucket, en øy i Massachusetts, etter 66 timers leting etter passasjerene. – Vi uttrykker vår dypeste medfølelse til familiene og de kjære, sa Kystvakten søndag.",
+        "I følge halenummeret utgitt av kystvakten, tilhørte flyet Latitude Air Ambulances, et selskap som tilbyr internasjonale medisinske flyreiser for pasienter som reiser hjem.",
+        "Federal Aviation Administration fortalte BBC at de hadde mistet kontakten med Gulfstream G-100-flyet like etter 01:00 lokal tid (05:00 GMT)."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o",
+      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg",
-      "localImage": "assets/news/bc7aaffd931812.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg",
+      "localImage": "assets/news/49503bd05845bd.jpg",
       "score": 13
     },
     {
-      "id": "12615a5d2f8398",
+      "id": "b59720bad72dbc",
       "category": "USA",
-      "published": "04.10. 20:25",
-      "publishedISO": "2026-10-04T20:25:50+02:00",
-      "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
-      "summary": "Politikommisær Richard Worley i Baltimore talte lørdag kveld. En 12 år gammel jente ble drept i Baltimore i helgen under en tilsynelatende uenighet om en parkeringsplass, sa politiet i den amerikanske byen. Jenta ble fanget i kryssilden av kuler mellom to menn som ifølge politiet skal slåss om en parkeringsplass i en park der barn spilte amerikansk fotball. I kryssilden ble en 12 år gammel liten jente, som sannsynligvis var der nede og så på fotball, skutt og drept.\" Worley sa at jenta, som politiet ikke har navngitt, ikke var et mål for skytingen.",
+      "published": "05.10. 00:46",
+      "publishedISO": "2026-10-05T00:46:03+02:00",
+      "title": "Hva skjedde i den mislykkede henrettelsen av Christa Pike – og hva videre?",
+      "summary": "Hva vi vet etter at Christa Pike overlevde to dødelige injeksjoner Advarsel: Denne artikkelen inneholder detaljer som lesere kan finne den plagsomme amerikansk dømte morderen Christa Pike forblir kritisk syk på sykehus, og prognosen hennes er fortsatt uklar dager etter at myndighetene i Tennessee ødela henrettelsen hennes med dødelig injeksjon, sa advokaten hennes. Se: Vitner forteller om Christa Pikes mislykkede henrettelsesforsøk Advokatene hennes hadde advart om at noe slikt kunne skje. Jeg har sett nesten 500 henrettelser - men aldri en som Christa Pikes Tennessee stopper henrettelsene etter at dødsdømte Christa Pike overlever hennes. Tennessee Department of Correction har forsvart metoden den brukte, og sa \"protokollen tillater ikke ytterligere prosedyrer utover det som ble utført\".",
       "keyPoints": [
-        "Politikommisær Richard Worley i Baltimore talte lørdag kveld. En 12 år gammel jente ble drept i Baltimore i helgen under en tilsynelatende uenighet om en parkeringsplass, sa politiet i den amerikanske byen.",
-        "Jenta ble fanget i kryssilden av kuler mellom to menn som ifølge politiet skal slåss om en parkeringsplass i en park der barn spilte amerikansk fotball.",
-        "I kryssilden ble en 12 år gammel liten jente, som sannsynligvis var der nede og så på fotball, skutt og drept.\" Worley sa at jenta, som politiet ikke har navngitt, ikke var et mål for skytingen.",
-        "Det som skjedde her ute i dag er noe av det mest avskyelige jeg noen gang har sett i mitt liv.\" New York Times-leder skutt dødelig av eldre svigerfamilie, politiet sier \"A lover of life\" - Seattle hyller matfestivalens skyteofre En død og minst 10 andre såret i skytingen i Texas"
+        "Watch: Witnesses recount Christa Pike's failed execution attempt Her lawyers had warned something like this might occur.",
+        "Hva vi vet etter at Christa Pike overlevde to dødelige injeksjoner Advarsel: Denne artikkelen inneholder detaljer som lesere kan finne den plagsomme amerikansk dømte morderen Christa Pike forblir kritisk syk på sykehus, og prognosen hennes er fortsatt uklar dager etter at myndighetene i Tennessee ødela henrettelsen hennes med dødelig injeksjon, sa advokaten hennes.",
+        "Jeg har sett nesten 500 henrettelser - men aldri en som Christa Pikes Tennessee stopper henrettelsene etter at dødsdømte Christa Pike overlever hennes. Tennessee Department of Correction har forsvart metoden den brukte, og sa \"protokollen tillater ikke ytterligere prosedyrer utover det som ble utført\".",
+        "Motstandere av dødsstraff sa at det var vanskelig å vite hva som gikk galt, fordi en del av henrettelsen til Pike skjedde bak et forheng."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e40/live/b6f332e0-c034-11f1-bc2e-018d645d8d21.jpg",
-      "localImage": "assets/news/12615a5d2f8398.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/b59720bad72dbc.jpg",
       "score": 13
     },
     {
@@ -85,28 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/dec88637-2bee-3464-8e49-cda328a628a2?fit=crop&h=675&upscale=true&w=1200&s=1669fa61f23a7f1993945ed302367aa515afc389",
       "localImage": "assets/news/cdd9aaf4636a9b.jpg",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "f31a13bb57dcd6",
+      "id": "736658f3e98f4f",
       "category": "Økonomi",
-      "published": "04.10. 21:39",
-      "publishedISO": "2026-10-04T21:39:25+02:00",
-      "title": "Dette er lekkasjene fra statsbudsjettet",
-      "summary": "Mer penger på forsvaret, nytt toppidrettssenter og en nasjonal klokke er blant lekkasjene før statsbudsjettet neste uke. Onsdag legger regjeringen frem statsbudsjettet for 2027, der alle dokumenter, pressmeldinger og nøkkeltall presenteres. Dette er noen av de viktigste lekkasjene som har kommet i forkant av budsjettet: Budsjettdagen sparkes i gang med at Finansdepartementet klokken 8 offentliggjør enkelte nøkkeltall i en pressemelding før statsbudsjettet formelt legges frem.",
+      "published": "04.10. 15:57",
+      "publishedISO": "2026-10-04T15:57:38+02:00",
+      "title": "Palantir-toppens eiendommer i Norden",
+      "summary": "Sammen med et kobbel andre gründere startet Alex Karp selskapet etter terrorangrepene 11. september i 2001. Markedsverdien til selskapet har nesten syvdoblet seg de siste fem årene, og Karp er ifølge Bloomberg verdt 20,7 milliarder dollar. Han betalte da 12,4 millioner for en hytte like ved alpintraseen på Hafjell.",
       "keyPoints": [
-        "Dette er noen av de viktigste lekkasjene som har kommet i forkant av budsjettet: Budsjettdagen sparkes i gang med at Finansdepartementet klokken 8 offentliggjør enkelte nøkkeltall i en pressemelding før statsbudsjettet formelt legges frem.",
-        "Mer penger på forsvaret, nytt toppidrettssenter og en nasjonal klokke er blant lekkasjene før statsbudsjettet neste uke.",
-        "Onsdag legger regjeringen frem statsbudsjettet for 2027, der alle dokumenter, pressmeldinger og nøkkeltall presenteres.",
-        "Klokken 13 er det duket for at finansminister Jens Stoltenberg (Ap) presenterer statsbudsjettet på en pressekonferanse."
+        "Sammen med et kobbel andre gründere startet Alex Karp selskapet etter terrorangrepene 11. september i 2001.",
+        "Markedsverdien til selskapet har nesten syvdoblet seg de siste fem årene, og Karp er ifølge Bloomberg verdt 20,7 milliarder dollar.",
+        "Han betalte da 12,4 millioner for en hytte like ved alpintraseen på Hafjell.",
+        "Så vidt E24 har klart å kartlegge, kjøpte Karp sin første eiendom i Norge i 2021."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/Gxz6BQ/dette-er-lekkasjene-fra-statsbudsjettet",
+      "url": "https://e24.no/boers-og-finans/i/8p6GGQ/palantir-toppens-eiendommer-i-norden",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/90d74f7f-ed05-3567-bf57-34ed30f0a23c?fit=crop&h=675&upscale=true&w=1200&s=aa28775bc9c3a05310004cd46a64bde08d3c7c00",
-      "localImage": "assets/news/f31a13bb57dcd6.jpg",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/71b14f43-6886-3e97-b677-e34c750728eb?fit=crop&h=675&upscale=true&w=1200&s=1daf463acb1a8355e908acf149931a3505858c39",
+      "localImage": "assets/news/736658f3e98f4f.jpg",
+      "score": 12
     },
     {
       "id": "704850d232c787",
@@ -130,6 +130,27 @@
       "score": 14
     },
     {
+      "id": "e18fde3f6ce13c",
+      "category": "Norge",
+      "published": "04.10. 22:54",
+      "publishedISO": "2026-10-04T22:54:38+02:00",
+      "title": "Nasjonsligaen: Norge mener Portugal-mål burde blitt annullert etter disse bildene",
+      "summary": "Det endte i nok et surt tap for Norge mot Portugal da det endte med et 1-2-tap i Porto. Han reagerte i hvert fall slik sekundene etter målet: NRKs Carl-Erik Torp mener den norske benken ikke har mye de skulle sagt om situasjonen. – Det ville vært like skandale om den ble annullert. Norge har startet Nasjonsligaen på vaklende vis resultatmessig.",
+      "keyPoints": [
+        "Det endte i nok et surt tap for Norge mot Portugal da det endte med et 1-2-tap i Porto.",
+        "Han reagerte i hvert fall slik sekundene etter målet: NRKs Carl-Erik Torp mener den norske benken ikke har mye de skulle sagt om situasjonen. – Det ville vært like skandale om den ble annullert.",
+        "Norge har startet Nasjonsligaen på vaklende vis resultatmessig.",
+        "Norge startet kampen på strålende vis da Kristoffer Ajer serverte et kremmerhus av de sjeldne."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/nasjonsligaen_-norge-mener-portugal-mal-burde-blitt-annullert-etter-disse-bildene-1.18045000",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xdRWcmWEQSxksR4WjiqLnQAzwX6QBIWuRK8fbID8iHjw.jpg",
+      "localImage": "assets/news/e18fde3f6ce13c.jpg",
+      "score": 13
+    },
+    {
       "id": "69f0a1fc00b63b",
       "category": "Norge",
       "published": "04.10. 21:17",
@@ -151,67 +172,46 @@
       "score": 13
     },
     {
-      "id": "3d4be2abc83f2f",
+      "id": "12615a5d2f8398",
+      "category": "USA",
+      "published": "04.10. 20:25",
+      "publishedISO": "2026-10-04T20:25:50+02:00",
+      "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+      "summary": "Politikommisær Richard Worley i Baltimore talte lørdag kveld. En 12 år gammel jente ble drept i Baltimore i helgen under en tilsynelatende uenighet om en parkeringsplass, sa politiet i den amerikanske byen. Jenta ble fanget i kryssilden av kuler mellom to menn som ifølge politiet skal slåss om en parkeringsplass i en park der barn spilte amerikansk fotball. I kryssilden ble en 12 år gammel liten jente, som sannsynligvis var der nede og så på fotball, skutt og drept.\" Worley sa at jenta, som politiet ikke har navngitt, ikke var et mål for skytingen.",
+      "keyPoints": [
+        "Politikommisær Richard Worley i Baltimore talte lørdag kveld. En 12 år gammel jente ble drept i Baltimore i helgen under en tilsynelatende uenighet om en parkeringsplass, sa politiet i den amerikanske byen.",
+        "Jenta ble fanget i kryssilden av kuler mellom to menn som ifølge politiet skal slåss om en parkeringsplass i en park der barn spilte amerikansk fotball.",
+        "I kryssilden ble en 12 år gammel liten jente, som sannsynligvis var der nede og så på fotball, skutt og drept.\" Worley sa at jenta, som politiet ikke har navngitt, ikke var et mål for skytingen.",
+        "Det som skjedde her ute i dag er noe av det mest avskyelige jeg noen gang har sett i mitt liv.\" New York Times-leder skutt dødelig av eldre svigerfamilie, politiet sier \"A lover of life\" - Seattle hyller matfestivalens skyteofre En død og minst 10 andre såret i skytingen i Texas"
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5e40/live/b6f332e0-c034-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/12615a5d2f8398.jpg",
+      "score": 12
+    },
+    {
+      "id": "6a49cbb0ba8fc8",
       "category": "Norge",
       "published": "04.10. 19:24",
       "publishedISO": "2026-10-04T19:24:06+02:00",
       "title": "Portugal – Norge: Lagkameratene måpte etter drømmemål fra Kristoffer Ajer",
-      "summary": "Lagkameratene trodde knapt det de så da Kristoffer Vassbakk Ajer (28) banket Norge i ledelsen med et drømmemål. UTVIST: Francisco Conceicao fikk to gule kort på få sekunder mot Norge. – Det er selvfølgelig skuffende, sier målscorer Kristoffer Vassbakk Ajer til TV 2. Med 12 minutter igjen av full tid scoret Portugal igjen da Gonçalo Ramos snek seg bak målscorer Ajer og satte inn ledelsen til vertene. – Norge henger dessverre ikke med, fastslo Torp.",
+      "summary": "Lagkameratene trodde knapt det de så da Kristoffer Vassbakk Ajer (28) banket Norge i ledelsen med et drømmemål. UTVIST: Francisco Conceicao fikk to gule kort på få sekunder mot Norge. – Det er selvfølgelig skuffende, sier målscorer Kristoffer Vassbakk Ajer til TV 2. 12 minutter før full tid scoret Portugal igjen da Gonçalo Ramos snek seg bak målscorer Ajer og scoret seiersmålet Sist gang Norge tapte tre kamper på rad var mellom august og oktober 2016. – Tre poeng på fire kamper er brutalt.",
       "keyPoints": [
         "Lagkameratene trodde knapt det de så da Kristoffer Vassbakk Ajer (28) banket Norge i ledelsen med et drømmemål.",
         "UTVIST: Francisco Conceicao fikk to gule kort på få sekunder mot Norge. – Det er selvfølgelig skuffende, sier målscorer Kristoffer Vassbakk Ajer til TV 2.",
-        "Med 12 minutter igjen av full tid scoret Portugal igjen da Gonçalo Ramos snek seg bak målscorer Ajer og satte inn ledelsen til vertene. – Norge henger dessverre ikke med, fastslo Torp.",
-        "Norges midtstopper sendte Norge i ledelsen med en perlescoring i første omgang, før Portugal slo tilbake to ganger hjemme i Porto i nasjonsligaens fjerde kamp."
+        "12 minutter før full tid scoret Portugal igjen da Gonçalo Ramos snek seg bak målscorer Ajer og scoret seiersmålet Sist gang Norge tapte tre kamper på rad var mellom august og oktober 2016. – Tre poeng på fire kamper er brutalt.",
+        "Norges midtstopper sendte Norge i ledelsen med en perlescoring i første omgang, før Portugal slo tilbake to ganger i Porto."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/sport/portugal-_-norge_-lagkameratene-mapte-etter-drommemal-fra-kristoffer-ajer-1.18044998",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/B3ON6zc5Buv_B3wAcy-bzwEfSXQ9aZov7TUjkfFTfTPA.jpg",
-      "localImage": "assets/news/3d4be2abc83f2f.jpg",
-      "score": 13
-    },
-    {
-      "id": "b707079536bb0c",
-      "category": "Norge",
-      "published": "04.10. 19:01",
-      "publishedISO": "2026-10-04T19:01:23+02:00",
-      "title": "Saksøker staten: «Jon» meiner han fekk ME av covid-vaksine",
-      "summary": "SJUKEPLEIAR: «Jon» arbeida som sjukepleiar før han fekk ME. No går han til sak mot staten for å få erstatning. – Det var ein veldig god jobb, nesten ein drøymejobb, fortel «Jon». Jon fekk ikkje medhald i tingretten om at han har krav på pasientskadeerstatning.",
-      "keyPoints": [
-        "No går han til sak mot staten for å få erstatning. – Det var ein veldig god jobb, nesten ein drøymejobb, fortel «Jon».",
-        "SJUKEPLEIAR: «Jon» arbeida som sjukepleiar før han fekk ME.",
-        "Jon fekk ikkje medhald i tingretten om at han har krav på pasientskadeerstatning.",
-        "Han meiner det er covid-19 vaksinen han tok som er årsaka til sjukdomen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/saksoker-staten_-_jon_-meiner-han-fekk-me-av-covid-vaksine-1.18039679",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/mh4gTkHyQ2l4aW1JbMi4BQ-iMew3ooO89aru5LSxpzIw.jpg",
-      "localImage": "assets/news/b707079536bb0c.jpg",
-      "score": 13
-    },
-    {
-      "id": "76a60533cea88f",
-      "category": "Verden",
-      "published": "04.10. 18:24",
-      "publishedISO": "2026-10-04T18:24:48+02:00",
-      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
-      "summary": "Den amerikanske morderen Christa Pike er fortsatt kritisk syk på sykehus og prognosen hennes er fortsatt uklar etter hennes mislykkede henrettelse, sa advokaten hennes søndag. I en tale til CNN søndag morgen sa Pikes advokat Stephen Ferrell at legene fortsatt prøvde å fjerne to doser pentobarbital fra kroppen hennes. Tennessee fengselssjef vil trekke seg etter Christa Pikes mislykkede henrettelse Jeg har sett nesten 500 henrettelser - men aldri en som Christa Pikes",
-      "keyPoints": [
-        "Den amerikanske morderen Christa Pike er fortsatt kritisk syk på sykehus og prognosen hennes er fortsatt uklar etter hennes mislykkede henrettelse, sa advokaten hennes søndag.",
-        "Tennessee prison chief to resign after Christa Pike's failed execution I've seen nearly 500 executions - but never one like Christa Pike's",
-        "I en tale til CNN søndag morgen sa Pikes advokat Stephen Ferrell at legene fortsatt prøvde å fjerne to doser pentobarbital fra kroppen hennes.",
-        "Ferrell sa: \"Hun er fortsatt på sykehuset, på respirator, kritisk syk, vi vet egentlig ikke prognosen ennå, og vet kanskje ikke på flere dager.\" Han trodde ikke at hun hadde gjenvunnet bevissthet på noe tidspunkt, og la til at han har mottatt oppdateringer gjennom hennes medisinske fullmakt i stedet for å konsultere direkte med leger."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg",
-      "localImage": "assets/news/76a60533cea88f.jpg",
-      "score": 13
+      "localImage": "assets/news/6a49cbb0ba8fc8.jpg",
+      "score": 12
     }
   ]
 }
