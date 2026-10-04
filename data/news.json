@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.10.2026 kl. 00:27",
-  "updatedISO": "2026-10-04T00:27:33.812934+02:00",
+  "updatedAt": "04.10.2026 kl. 03:55",
+  "updatedISO": "2026-10-04T03:55:17.311378+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/uBsz8XL_t0Ao-DSN0MjBJQmVKpuER8WNGjCzCPMIxv8Q.jpg",
       "localImage": "assets/news/704850d232c787.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "f841aed66e4c95",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg",
       "localImage": "assets/news/b59720bad72dbc.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "35900385838727",
@@ -106,28 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2ba492cd-cea8-358d-ba9f-85f16ebc32b1?fit=crop&h=675&upscale=true&w=1200&s=3ba54c61d442881ec1c704ee9c6417ef92dca27e",
       "localImage": "assets/news/88b7dd0c970ab3.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "eb490647a2754e",
-      "category": "Økonomi",
-      "published": "03.10. 11:47",
-      "publishedISO": "2026-10-03T11:47:55+02:00",
-      "title": "Dyrere strøm til vinteren",
-      "summary": "Markedet venter høyere sørnorske strømpriser nå til vinteren enn sist vinter. –⁠ Kan selvsagt være dramatisk for noen bedrifter, sier analytiker. Strømprisene i de tre prisområdene i Sør-Norge ligger an til å bli på om lag 207 øre kilowattimen i januar og 208 øre kilowattimen i februar neste år, medregnet momsmerverdiavgiften på strøm (moms) er på 25 prosent. I januar og februar i år lå strømprisene i disse områdene i snitt på mellom 143 øre og 159 øre per kilowattime, medregnet moms. – Slik det ser ut nå må de tre sørligste prisområdene belage seg på en snittpris rundt to kroner til vinteren, sier produktdirektør Renate Larsen i Fjordkraft i en melding.",
+      "id": "b844cb93a99669",
+      "category": "Norge",
+      "published": "04.10. 03:38",
+      "publishedISO": "2026-10-04T03:38:43+02:00",
+      "title": "Tre store skip har kollidert ved Ålesund",
+      "summary": "En tankbåt og to lasteskip har kollidert ved Ålesund natt til søndag. Natt til søndag er det igangsatt en omfattende aksjon etter at tre fartøy var involvert i et sammenstøt på Valderhaugfjorden ved Ålesund. Mayday-meldingen kom inn klokka 1.37 natt til søndag, ifølge Hovedredningssentralen (HRS) Sør-Norge.",
       "keyPoints": [
-        "Strømprisene i de tre prisområdene i Sør-Norge ligger an til å bli på om lag 207 øre kilowattimen i januar og 208 øre kilowattimen i februar neste år, medregnet momsmerverdiavgiften på strøm (moms) er på 25 prosent.",
-        "I januar og februar i år lå strømprisene i disse områdene i snitt på mellom 143 øre og 159 øre per kilowattime, medregnet moms. – Slik det ser ut nå må de tre sørligste prisområdene belage seg på en snittpris rundt to kroner til vinteren, sier produktdirektør Renate Larsen i Fjordkraft i en melding.",
-        "Markedet venter høyere sørnorske strømpriser nå til vinteren enn sist vinter. –⁠ Kan selvsagt være dramatisk for noen bedrifter, sier analytiker.",
-        "I mars 2027 venter markedet at prisene i Sør-Norge synker til rundt 160 øre kilowattimen, medregnet moms, ifølge tallene Fjordkraft oppgir."
+        "Natt til søndag er det igangsatt en omfattende aksjon etter at tre fartøy var involvert i et sammenstøt på Valderhaugfjorden ved Ålesund.",
+        "En tankbåt og to lasteskip har kollidert ved Ålesund natt til søndag.",
+        "Mayday-meldingen kom inn klokka 1.37 natt til søndag, ifølge Hovedredningssentralen (HRS) Sør-Norge.",
+        "Redningshelikopter, fregatten Fridtjof Nansen, Redningsselskapet og alle nødetater på land ble satt inn i aksjonen. – Nå er situasjonen litt mer avklart."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/zl54G4/dyrere-stroem-til-vinteren",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/8594f8dd-f7b9-315d-b85d-3c8f33accc38?fit=crop&h=675&upscale=true&w=1200&s=9b37b89418becdf1824f0ed28f8a293bcc37c2e6",
-      "localImage": "assets/news/eb490647a2754e.jpg",
-      "score": 14
+      "url": "https://www.nrk.no/norge/tre-store-skip-har-kollidert-ved-alesund-1.18044704",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/kartoteket/01M429NQTCCBS1770N8R8TDFDH/F169/650w.png",
+      "localImage": "assets/news/b844cb93a99669.png",
+      "score": 13
     },
     {
       "id": "033e33fd98bf68",
@@ -151,6 +151,27 @@
       "score": 13
     },
     {
+      "id": "eb490647a2754e",
+      "category": "Økonomi",
+      "published": "03.10. 11:47",
+      "publishedISO": "2026-10-03T11:47:55+02:00",
+      "title": "Dyrere strøm til vinteren",
+      "summary": "Markedet venter høyere sørnorske strømpriser nå til vinteren enn sist vinter. –⁠ Kan selvsagt være dramatisk for noen bedrifter, sier analytiker. Strømprisene i de tre prisområdene i Sør-Norge ligger an til å bli på om lag 207 øre kilowattimen i januar og 208 øre kilowattimen i februar neste år, medregnet momsmerverdiavgiften på strøm (moms) er på 25 prosent. I januar og februar i år lå strømprisene i disse områdene i snitt på mellom 143 øre og 159 øre per kilowattime, medregnet moms. – Slik det ser ut nå må de tre sørligste prisområdene belage seg på en snittpris rundt to kroner til vinteren, sier produktdirektør Renate Larsen i Fjordkraft i en melding.",
+      "keyPoints": [
+        "Strømprisene i de tre prisområdene i Sør-Norge ligger an til å bli på om lag 207 øre kilowattimen i januar og 208 øre kilowattimen i februar neste år, medregnet momsmerverdiavgiften på strøm (moms) er på 25 prosent.",
+        "I januar og februar i år lå strømprisene i disse områdene i snitt på mellom 143 øre og 159 øre per kilowattime, medregnet moms. – Slik det ser ut nå må de tre sørligste prisområdene belage seg på en snittpris rundt to kroner til vinteren, sier produktdirektør Renate Larsen i Fjordkraft i en melding.",
+        "Markedet venter høyere sørnorske strømpriser nå til vinteren enn sist vinter. –⁠ Kan selvsagt være dramatisk for noen bedrifter, sier analytiker.",
+        "I mars 2027 venter markedet at prisene i Sør-Norge synker til rundt 160 øre kilowattimen, medregnet moms, ifølge tallene Fjordkraft oppgir."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/zl54G4/dyrere-stroem-til-vinteren",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8594f8dd-f7b9-315d-b85d-3c8f33accc38?fit=crop&h=675&upscale=true&w=1200&s=9b37b89418becdf1824f0ed28f8a293bcc37c2e6",
+      "localImage": "assets/news/eb490647a2754e.jpg",
+      "score": 13
+    },
+    {
       "id": "5cbeab7099fab5",
       "category": "Norge",
       "published": "03.10. 22:20",
@@ -169,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/GQ9hIHo0RON7ny5Z95qDkgadq8eP2kE9C-fFh-Q3RY0w.jpg",
       "localImage": "assets/news/5cbeab7099fab5.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "892c56739f0596",
@@ -190,28 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/MsOua09kSk5l6OFaySZkvwT2sg9FOqVE6FKkzotwXr1w.jpg",
       "localImage": "assets/news/892c56739f0596.jpg",
-      "score": 13
-    },
-    {
-      "id": "ea17eae2c48d72",
-      "category": "Norge",
-      "published": "03.10. 21:29",
-      "publishedISO": "2026-10-03T21:29:30+02:00",
-      "title": "Norsk designer gir ødelagte klær nytt liv – men får ikke hjelpen hun trenger",
-      "summary": "Likevel sliter gründer og designer Hilde Hoff Nordskar med å finne klær hun kan bruke. Men selv om den opprinnelige drømmen var å gi brukte og ødelagte klær og møbler nytt liv, ser Nordskar nå at det ikke lenger er mulig dersom bedriften skal overleve. – Jeg skulle ønske systemet var lagt til rette slik at jeg kunne jobbe kun med ødelagte produkter og gi dem nytt liv. 44-åringen har derfor måttet begynne å designe klær av helt nytt stoff, eller nye klær kjøpt på outlet.",
-      "keyPoints": [
-        "Men selv om den opprinnelige drømmen var å gi brukte og ødelagte klær og møbler nytt liv, ser Nordskar nå at det ikke lenger er mulig dersom bedriften skal overleve. – Jeg skulle ønske systemet var lagt til rette slik at jeg kunne jobbe kun med ødelagte produkter og gi dem nytt liv.",
-        "Likevel sliter gründer og designer Hilde Hoff Nordskar med å finne klær hun kan bruke.",
-        "44-åringen har derfor måttet begynne å designe klær av helt nytt stoff, eller nye klær kjøpt på outlet.",
-        "Vi vil jobbe for å vise den norske kulturarven, sier Nordskar, og legger til hun fortsatt vil jobbe med gjenbruk når hun får tak i de rette varene."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/norsk-designer-gir-odelagte-klaer-nytt-liv-_-men-far-ikke-hjelpen-hun-trenger-1.18032683",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/a6UlvpkDdwktNpYs-UuXfwlvnxWHYLIpMA7gh4263o3g.jpg",
-      "localImage": "assets/news/ea17eae2c48d72.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
