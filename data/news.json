@@ -1,28 +1,91 @@
 {
-  "updatedAt": "05.10.2026 kl. 13:46",
-  "updatedISO": "2026-10-05T13:46:45.796034+02:00",
+  "updatedAt": "06.10.2026 kl. 03:24",
+  "updatedISO": "2026-10-06T03:24:02.519173+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "dec6020ff88267",
+      "id": "5d19aa0af152da",
       "category": "Norge",
-      "published": "05.10. 12:06",
-      "publishedISO": "2026-10-05T12:06:04+02:00",
-      "title": "Her kolliderer tre skip med kvarandre i Valderhaugfjorden utanfor Ålesund",
-      "summary": "Dramatikken var stor då tre skip kolliderte med kvarandre utanfor Ålesund natt til søndag. Tre skip kolliderte i Valderhaugfjorden utanfor Ålesund natt til søndag. – Smellet var så kraftig at vi vakna. Det blei etter kvart klart at tre skip hadde kollidert i Valderhaugfjorden utanfor Ålesund. – Vi løp opp på verandaen.",
+      "published": "05.10. 17:26",
+      "publishedISO": "2026-10-05T17:26:08+02:00",
+      "title": "KSAT signerer kontrakt for satellitter med det spanske romfartsselskapet Xoople",
+      "summary": "Tromsø-baserte KSAT og spanske Xoople signerte mandag ettermiddag en stor satellittavtale. Kongsberg Satellite Services (KSAT) og det spanske selskapet Xoople skal lage en gruppe satellitter som gjør observasjoner av jorda fra verdensrommet. Mandag signerte selskapene avtalen i den spanske hovedstaden, Madrid. – Denne avtalen handler om mer enn satellitter og teknologi.",
       "keyPoints": [
-        "Dramatikken var stor då tre skip kolliderte med kvarandre utanfor Ålesund natt til søndag.",
-        "Tre skip kolliderte i Valderhaugfjorden utanfor Ålesund natt til søndag. – Smellet var så kraftig at vi vakna.",
-        "Det blei etter kvart klart at tre skip hadde kollidert i Valderhaugfjorden utanfor Ålesund. – Vi løp opp på verandaen.",
-        "Video/skjermdump frå Kystverket sin kartteneste Det blei sett i gang ein omfattande aksjon då det blei klart at tre skip hadde kollidert."
+        "Kongsberg Satellite Services (KSAT) og det spanske selskapet Xoople skal lage en gruppe satellitter som gjør observasjoner av jorda fra verdensrommet.",
+        "Tromsø-baserte KSAT og spanske Xoople signerte mandag ettermiddag en stor satellittavtale.",
+        "Mandag signerte selskapene avtalen i den spanske hovedstaden, Madrid. – Denne avtalen handler om mer enn satellitter og teknologi.",
+        "Fra venstre: Kommersiell direktør i KSAT, Arild José Jensen, næringsminister Cecilie Myrseth og daglig leder i Xoople, Fabrizio Pirondini."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/her-kolliderer-tre-skip-med-kvarandre-i-valderhaugfjorden-utanfor-alesund-1.18045337",
+      "url": "https://www.nrk.no/tromsogfinnmark/ksat-signerer-kontrakt-for-satellitter-med-det-spanske-romfartsselskapet-xoople-1.18045753",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ikwDV5CRvEqTlUEGCgriYg0AkeP2wo1VNQNj6NaKuTQw",
-      "localImage": "assets/news/dec6020ff88267.jpg",
+      "image": "https://gfx.nrk.no/e7ob0NWE-kruL247ZPCKYwU1D1zOrlHCnN28fxBFDTQw.jpg",
+      "localImage": "assets/news/5d19aa0af152da.jpg",
+      "score": 16
+    },
+    {
+      "id": "3875b762e47e4a",
+      "category": "Verden",
+      "published": "05.10. 23:46",
+      "publishedISO": "2026-10-05T23:46:22+02:00",
+      "title": "Donald Trump says a 'threat' led US to move bombers from RAF Fairford",
+      "summary": "Trump: USA «hadde en trussel» som førte til tilbaketrekking av bombefly ved RAF Fairford President Donald Trump har sagt at USA flyttet sine bombefly ut av RAF Fairford på grunn av «noen trusler» mot basen. Trump snakket med journalister da han dro til Nebraska mandag, og sa at USA hadde kjent til en «trussel» som førte til at de flyttet bombeflyene. Trumps kommentarer ser ut til å bekrefte rapporter fra amerikanske medier om at en ny trussel førte til at bombeflyene ble fjernet etter en stor hendelse 27. september da politiet ble varslet om tre «mistenkelige kjøretøy» nær flybasen.",
+      "keyPoints": [
+        "Trump: USA «hadde en trussel» som førte til tilbaketrekking av bombefly ved RAF Fairford President Donald Trump har sagt at USA flyttet sine bombefly ut av RAF Fairford på grunn av «noen trusler» mot basen.",
+        "Trump snakket med journalister da han dro til Nebraska mandag, og sa at USA hadde kjent til en «trussel» som førte til at de flyttet bombeflyene.",
+        "Trumps kommentarer ser ut til å bekrefte rapporter fra amerikanske medier om at en ny trussel førte til at bombeflyene ble fjernet etter en stor hendelse 27. september da politiet ble varslet om tre «mistenkelige kjøretøy» nær flybasen.",
+        "Mens han snakket med en gruppe journalister utenfor Det hvite hus, ble Trump spurt om en «spesifikk trussel» hadde ført til at USA trakk sine bombefly fra flybasen."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7744/live/83f27ce0-c0fa-11f1-812d-715b1c9a79e7.jpg",
+      "localImage": "assets/news/3875b762e47e4a.jpg",
       "score": 17
+    },
+    {
+      "id": "12615a5d2f8398",
+      "category": "USA",
+      "published": "05.10. 21:23",
+      "publishedISO": "2026-10-05T21:23:17+02:00",
+      "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+      "summary": "Politikommisær Richard Worley i Baltimore talte lørdag kveld. En 12 år gammel jente ble drept i Baltimore i helgen under en tilsynelatende uenighet om en parkeringsplass, sa politiet i den amerikanske byen. Offeret, Khloe Ishway, ble fanget i kryssilden av kuler mellom to menn som ifølge politiet skal slåss om en parkeringsplass i en park der barn spilte amerikansk fotball. \"Jeg kommer bare til å savne babyen min hel,\" sa Ishways mor til CBS, BBCs amerikanske partner, dagen etter den dødelige skytingen. I kryssilden ble en 12 år gammel liten jente, som sannsynligvis var der nede og så på fotball, skutt og drept.\" Worley sa at jenta ikke var et mål for skytingen.",
+      "keyPoints": [
+        "Politikommisær Richard Worley i Baltimore talte lørdag kveld. En 12 år gammel jente ble drept i Baltimore i helgen under en tilsynelatende uenighet om en parkeringsplass, sa politiet i den amerikanske byen.",
+        "I kryssilden ble en 12 år gammel liten jente, som sannsynligvis var der nede og så på fotball, skutt og drept.\" Worley sa at jenta ikke var et mål for skytingen.",
+        "Offeret, Khloe Ishway, ble fanget i kryssilden av kuler mellom to menn som ifølge politiet skal slåss om en parkeringsplass i en park der barn spilte amerikansk fotball. \"Jeg kommer bare til å savne babyen min hel,\" sa Ishways mor til CBS, BBCs amerikanske partner, dagen etter den dødelige skytingen.",
+        "Det som skjedde her ute i dag er noe av det mest avskyelige jeg noen gang har sett i mitt liv.\" New York Times-leder skutt dødelig av eldre svigerfamilie, politiet sier \"A lover of life\" - Seattle hyller matfestivalens skyteofre En død og minst 10 andre såret i skytingen i Texas"
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/849d/live/97a0a2f0-c080-11f1-babe-4199b0e7ccea.jpg",
+      "localImage": "assets/news/12615a5d2f8398.jpg",
+      "score": 12
+    },
+    {
+      "id": "4da9f4f31127ef",
+      "category": "Økonomi",
+      "published": "05.10. 15:31",
+      "publishedISO": "2026-10-05T15:31:14+02:00",
+      "title": "Tek-oppgang på Wall Street",
+      "summary": "Renten på tiårige statsobligasjoner klatrer til 5,311 prosent, mens 30-åringen ligger på 5,662 prosent. Tiåringen nådde da sitt høyeste nivå siden april 2002, ifølge CNBC. SpaceX hoppet 7,63 prosent etter at Morgan Stanley omtalte aksjen som «billig og stadig billigere» i et notat til kundene, ifølge CNBC.",
+      "keyPoints": [
+        "Renten på tiårige statsobligasjoner klatrer til 5,311 prosent, mens 30-åringen ligger på 5,662 prosent.",
+        "Tiåringen nådde da sitt høyeste nivå siden april 2002, ifølge CNBC.",
+        "SpaceX hoppet 7,63 prosent etter at Morgan Stanley omtalte aksjen som «billig og stadig billigere» i et notat til kundene, ifølge CNBC.",
+        "Sentralbanken hevet renten med 0,25 prosentpoeng forrige måned, og onsdag kommer referatet fra septembermøtet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/0Bn2J6/forsiktig-aapning-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/bdae8227-bf21-312c-b840-caeaa53d4fb9?fit=crop&h=675&upscale=true&w=1200&s=b6fdc7942f90b4b3b1b8ee9d10c93f8d479896c4",
+      "localImage": "assets/news/4da9f4f31127ef.jpg",
+      "score": 19
     },
     {
       "id": "10fc1b910af02d",
@@ -43,7 +106,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1edc01e8-ff9a-3bb3-b44a-e6f395f6edc5?fit=crop&h=675&upscale=true&w=1200&s=df96db3b47337e7fd16210a53f6922259e14f5d2",
       "localImage": "assets/news/10fc1b910af02d.jpg",
-      "score": 20
+      "score": 18
+    },
+    {
+      "id": "55b47f5d1d2395",
+      "category": "AI",
+      "published": "05.10. 18:13",
+      "publishedISO": "2026-10-05T18:13:21+02:00",
+      "title": "Pentagon stops using Anthropic tools after blacklisting company, BBC told",
+      "summary": "Forsvarssekretær Pete Hegseth har offentlig kritisert Anthropics sjef Dario Amodei. Det amerikanske forsvarsdepartementet bruker ikke lenger Anthropics AI-verktøy, sa en tjenestemann til BBC, måneder etter at de utpekte selskapet som en forsyningskjederisiko på grunn av nasjonal sikkerhet. OpenAI-verktøy har blitt mer utbredt de siste månedene i noen militæravdelinger, ifølge to personer som er kjent med AI-bruk i forsvarsavdelingen. Pentagons uttalelse på mandag kom som svar på et spørsmål fra BBC om bruken av Anthropic, etter at flere personer sa i intervjuer at Claude fortsatt ble mye brukt. Pentagon-ansatte fortsatte å bruke Anthropics Claude-verktøy, inkludert dens kraftige Mythos-modeller, \"gjennom hele perioden med kontroversen\" med selskapet, sa en av personene.",
+      "keyPoints": [
+        "Forsvarssekretær Pete Hegseth har offentlig kritisert Anthropics sjef Dario Amodei. Det amerikanske forsvarsdepartementet bruker ikke lenger Anthropics AI-verktøy, sa en tjenestemann til BBC, måneder etter at de utpekte selskapet som en forsyningskjederisiko på grunn av nasjonal sikkerhet.",
+        "OpenAI-verktøy har blitt mer utbredt de siste månedene i noen militæravdelinger, ifølge to personer som er kjent med AI-bruk i forsvarsavdelingen. Pentagons uttalelse på mandag kom som svar på et spørsmål fra BBC om bruken av Anthropic, etter at flere personer sa i intervjuer at Claude fortsatt ble mye brukt.",
+        "Pentagon-ansatte fortsatte å bruke Anthropics Claude-verktøy, inkludert dens kraftige Mythos-modeller, \"gjennom hele perioden med kontroversen\" med selskapet, sa en av personene.",
+        "Trump møtte nylig antropisk sjef Dario Amodei i Det hvite hus BBC snakket med forsvarsentreprenører som spesialiserer seg på AI og har jobbet tett med Pentagon, samt tidligere amerikanske forsvarstjenestemenn og andre som er kjent med Pentagons bruk av kunstig intelligens."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/55b47f5d1d2395.jpg",
+      "score": 21
+    },
+    {
+      "id": "18321dc791e2fd",
+      "category": "Verden",
+      "published": "05.10. 23:33",
+      "publishedISO": "2026-10-05T23:33:49+02:00",
+      "title": "US 'watching closely' after plague researcher dies in Russia",
+      "summary": "Utenriksminister Marco Rubio sa at Washington fulgte nøye med på grunn av bekymringer om at hendelsen kan føre til spredning av lungepest, men det var ingen grunn til alarm. Alle som har et slikt problem, vi vil alltid hjelpe.\" Ingen andre tilfeller av ansatte fra pestinstituttet som har søkt medisinsk hjelp siden laboratorieteknikerens død, har blitt rapportert, sa Irkutsk-guvernør Igor Kobzev, som siterer Russlands forbruker- og helsevakthund, Rospotrebnadzor. Russland slår ned på murmeldyrpesten, sier offisielle bevis fra murmeldyrpesten i Arizona. av svartedauden i Edinburgh funnet på skjelett",
+      "keyPoints": [
+        "Utenriksminister Marco Rubio sa at Washington fulgte nøye med på grunn av bekymringer om at hendelsen kan føre til spredning av lungepest, men det var ingen grunn til alarm.",
+        "Russia cracks down on marmot hunt in plague scare Arizona resident dies from plague, health officials say First scientific evidence of Black Death in Edinburgh found on skeleton",
+        "Alle som har slike problemer, vi vil alltid hjelpe.\" Ingen andre tilfeller av ansatte fra pestinstituttet som har søkt lege etter laboratoriets død, har blitt rapportert, sa Irkutsk-guvernør Igor Kobzev, som siterer Russlands forbruker- og helsevakthund, Rospotrebnadzor.",
+        "På spørsmål fra en reporter om en \"oppdatering om den mistenkte pestsaken i Russland\", sa utenriksminister Marco Rubio: \"Det ser ut til at det var en arbeider ved laboratoriet som ble smittet, og det er bekymring for at det, du vet, kunne ha spredt seg, i det minste internt - du har sett dem gjøre karantene av denne og den arten. \"Hvis noe sånt kan spre seg raskt,"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bee8/live/9f1fa570-c103-11f1-a64c-550be9e3c66b.jpg",
+      "localImage": "assets/news/18321dc791e2fd.jpg",
+      "score": 17
     },
     {
       "id": "cdd9aaf4636a9b",
@@ -64,154 +169,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/dec88637-2bee-3464-8e49-cda328a628a2?fit=crop&h=675&upscale=true&w=1200&s=1669fa61f23a7f1993945ed302367aa515afc389",
       "localImage": "assets/news/cdd9aaf4636a9b.jpg",
-      "score": 19
-    },
-    {
-      "id": "f14fc16989a79f",
-      "category": "Norge",
-      "published": "05.10. 11:18",
-      "publishedISO": "2026-10-05T11:18:39+02:00",
-      "title": "Mye nedbør i Rogaland: oversvømmelse i veibaner",
-      "summary": "Men så er det også mye overvann, det er mye vann i veiene og i terrenget, sier Ottar Fagerlid. Fylkesvei 520 ved Juvastøl i Sauda er stengt på grunn av fare for steinsprang, etter varsel om 63 milimeter nedbør i Sauda. Det er venta mye oppholdsvær fra i ettermiddag og flere dager fram i tid, sier meteorolog Ottar Fagerlid.",
-      "keyPoints": [
-        "Fylkesvei 520 ved Juvastøl i Sauda er stengt på grunn av fare for steinsprang, etter varsel om 63 milimeter nedbør i Sauda.",
-        "Men så er det også mye overvann, det er mye vann i veiene og i terrenget, sier Ottar Fagerlid.",
-        "Det er venta mye oppholdsvær fra i ettermiddag og flere dager fram i tid, sier meteorolog Ottar Fagerlid.",
-        "Store nedbørsmengder fører blant annet til mye regn i veibanene."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/mye-nedbor-i-rogaland_-oversvommelse-i-veibaner-1.18045493",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/1igFymfMMibYS7v2wdT6hgwg2TiCbK5ksmoIDNcm8OJw",
-      "localImage": "assets/news/f14fc16989a79f.jpg",
-      "score": 17
-    },
-    {
-      "id": "01bd1d1cb20098",
-      "category": "Økonomi",
-      "published": "05.10. 10:17",
-      "publishedISO": "2026-10-05T10:17:27+02:00",
-      "title": "Ingen slipper unna",
-      "summary": "Shipping, oppdrett, finans og industri: Ingen sektorer slipper unna. Det amerikanske NOAA, som overvåker og forsker på vær, klima, hav og atmosfære, og som kan ses på som en slags kombinasjon av Meteorologisk institutt og Havforskningsinstituttet, varslet nylig at det er mer enn 90 prosent sjanse for en såkalt super-El Niño den kommende vinteren. Byrået har kjørt sin såkalte SPEAR-prognosemodell hele 30 ganger, og alle viser i samme retning: Årets El Niño ser ut til å bli «very strong», og meteorologene skriver at modellen er uvanlig samstemt og at årets El Niño kan bli den sterkeste noensinne.",
-      "keyPoints": [
-        "Shipping, oppdrett, finans og industri: Ingen sektorer slipper unna.",
-        "Byrået har kjørt sin såkalte SPEAR-prognosemodell hele 30 ganger, og alle viser i samme retning: Årets El Niño ser ut til å bli «very strong», og meteorologene skriver at modellen er uvanlig samstemt og at årets El Niño kan bli den sterkeste noensinne.",
-        "Det amerikanske NOAA, som overvåker og forsker på vær, klima, hav og atmosfære, og som kan ses på som en slags kombinasjon av Meteorologisk institutt og Havforskningsinstituttet, varslet nylig at det er mer enn 90 prosent sjanse for en såkalt super-El Niño den kommende vinteren.",
-        "Forskningen deres, publisert i 2023, sier at den hittil mest kostbare super-El Ninoen i 1997–1998 kostet verden 5.700 milliarder dollar i tapt global inntekt."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/aJxyVA/ingen-slipper-unna",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/802f9b5b-74e9-327a-b464-cd2114d86c7a?fit=crop&h=675&upscale=true&w=1200&s=3aa37b66aeb466e5d80e72c7283522f92ff4ec24",
-      "localImage": "assets/news/01bd1d1cb20098.jpg",
-      "score": 17
-    },
-    {
-      "id": "bd38089b145b59",
-      "category": "Norge",
-      "published": "05.10. 08:36",
-      "publishedISO": "2026-10-05T08:36:12+02:00",
-      "title": "Regjeringa vil ha midlertidig forbod mot KI-briller",
-      "summary": "Regjeringa vil innføre eit midlertidig forbod mot KI-briller på offentlege stader som skular, sjukehus, kjøpesenter og parkar. FORBOD: Regjeringa vil innføre eit midlertidig forbod mot KI-briller. – Eg er uroleg for at det introduserer ny, kraftig teknologi der folk risikerer å bli fotografert, filma eller tatt lydopptak av utan at dei veit det. Forbodet vil gjelde der «allmenta ferdast» og er midlertidig fordi regjeringa vil sette ned ei ekspertgruppe som skal gje råd om ei varig, nasjonal regulering av KI-briller. – Dette skal vi no greie ut, og raskt kome tilbake til med eit lovforslag, seier ministeren.",
-      "keyPoints": [
-        "FORBOD: Regjeringa vil innføre eit midlertidig forbod mot KI-briller. – Eg er uroleg for at det introduserer ny, kraftig teknologi der folk risikerer å bli fotografert, filma eller tatt lydopptak av utan at dei veit det.",
-        "Regjeringa vil innføre eit midlertidig forbod mot KI-briller på offentlege stader som skular, sjukehus, kjøpesenter og parkar.",
-        "Forbodet vil gjelde der «allmenta ferdast» og er midlertidig fordi regjeringa vil sette ned ei ekspertgruppe som skal gje råd om ei varig, nasjonal regulering av KI-briller. – Dette skal vi no greie ut, og raskt kome tilbake til med eit lovforslag, seier ministeren.",
-        "Det seier digitaliserings- og forvaltingsminister, Torgeir Micaelsen (Ap), som innfører eit midlertidig mot KI-briller på utvalde stader. – Vi meiner det er den beste og raskaste måten å sende eit tydeleg signal om at dette er produkt og tenester som me ikkje ønsker at skal brukast, legg ministeren til."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/regjeringa-vil-ha-midlertidig-forbod-mot-ki-briller-1.18045258",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/gQ6b93GScB2vl1ZZWlDx_gSQZpCM8CzGxHUY9qEpj36Q.jpg",
-      "localImage": "assets/news/bd38089b145b59.jpg",
       "score": 16
     },
     {
-      "id": "b135d89159c777",
-      "category": "Norge",
-      "published": "05.10. 06:00",
-      "publishedISO": "2026-10-05T06:00:00+02:00",
-      "title": "Marian Hussein tar ikke gjenvalg som SV-nestleder",
-      "summary": "FERDIG: Marian Hussein ønsker ikke å fortsette som SV-nestleder og tar ikke gjenvalg ved landsmøtet i vår. – Etter mange måneder i tvil har jeg landet på å ikke ta gjenvalg som nestleder, sier Marian Hussein til NRK. I TVIL: Da Marian Hussein møtte NRK på Furuset i september fortalte hun at hun var i tvil om hun ville fortsette i SV-toppen. – Jeg har jo satt enormt pris på den støtten jeg har fått fra mange mennesker de siste ukene. 40 år gamle Marian Hussein ble valgt til nestleder i SV i 2023, bare to år etter at hun ble valgt inn på Stortinget.",
+      "id": "082902afd3c5bb",
+      "category": "Verden",
+      "published": "05.10. 17:17",
+      "publishedISO": "2026-10-05T17:17:23+02:00",
+      "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
+      "summary": "Det brannskadde fartøyet ble avbildet etter at rumenske myndigheter startet et redningsoppdrag. Ukrainas president Volodymyr Zelensky har fordømt et «grusomt» russisk angrep på et fartøy som frakter mais i Svartehavet. Russland har banket på ukrainsk infrastruktur i det de sier er gjengjeldelse for ukrainske angrep på russiske oljeraffinerier og skip i Svartehavet. Mandagens angrep fra Russland var rettet mot «et sivilt fartøy i nøytralt farvann som fraktet mais og eies av Tyrkia», sa Volodymyr Zelensky.",
       "keyPoints": [
-        "FERDIG: Marian Hussein ønsker ikke å fortsette som SV-nestleder og tar ikke gjenvalg ved landsmøtet i vår. – Etter mange måneder i tvil har jeg landet på å ikke ta gjenvalg som nestleder, sier Marian Hussein til NRK.",
-        "I TVIL: Da Marian Hussein møtte NRK på Furuset i september fortalte hun at hun var i tvil om hun ville fortsette i SV-toppen. – Jeg har jo satt enormt pris på den støtten jeg har fått fra mange mennesker de siste ukene.",
-        "40 år gamle Marian Hussein ble valgt til nestleder i SV i 2023, bare to år etter at hun ble valgt inn på Stortinget.",
-        "SV-nestleder Lars Haltbrekken ønsker gjenvalg, men ber valgkomiteen gjøre en grundig prosess."
+        "Det brannskadde fartøyet ble avbildet etter at rumenske myndigheter startet et redningsoppdrag. Ukrainas president Volodymyr Zelensky har fordømt et «grusomt» russisk angrep på et fartøy som frakter mais i Svartehavet.",
+        "Russland har banket på ukrainsk infrastruktur i det de sier er gjengjeldelse for ukrainske angrep på russiske oljeraffinerier og skip i Svartehavet.",
+        "Monday's attack by Russia targeted \"a civilian vessel in neutral waters carrying corn and owned by Turkey\", Volodymyr Zelensky said.",
+        "Skipets kaptein ble drept i streiken som involverte to droner, sa Zelensky, og en annen sjømann ble ikke gjort rede for."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/marian-hussein-tar-ikke-gjenvalg-som-sv-nestleder-1.18045088",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/rO3zVX6HuLw_myZFJCgddAPtAF32x9ejUDPO8ofNPn-Q.jpg",
-      "localImage": "assets/news/b135d89159c777.jpg",
-      "score": 16
+      "url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c6a7/live/046b8fe0-c0f3-11f1-babe-4199b0e7ccea.jpg",
+      "localImage": "assets/news/082902afd3c5bb.jpg",
+      "score": 15
     },
     {
-      "id": "f31a13bb57dcd6",
+      "id": "7bd9a171a90541",
       "category": "Økonomi",
-      "published": "04.10. 21:39",
-      "publishedISO": "2026-10-04T21:39:25+02:00",
-      "title": "Dette er lekkasjene fra statsbudsjettet",
-      "summary": "Mer penger på forsvaret, nytt toppidrettssenter og en nasjonal klokke er blant lekkasjene før statsbudsjettet neste uke. Onsdag legger regjeringen frem statsbudsjettet for 2027, der alle dokumenter, pressmeldinger og nøkkeltall presenteres. Dette er noen av de viktigste lekkasjene som har kommet i forkant av budsjettet: Budsjettdagen sparkes i gang med at Finansdepartementet klokken 8 offentliggjør enkelte nøkkeltall i en pressemelding før statsbudsjettet formelt legges frem.",
+      "published": "05.10. 16:46",
+      "publishedISO": "2026-10-05T16:46:28+02:00",
+      "title": "Refser politikernes pengebruk",
+      "summary": "Sjeføkonom i Sparebank 1, Elisabeth Holvik, mener offentlig pengebruk og svak produktivitetsvekst må ta skylden. Mens de fleste øyne var rettet mot styringsrenten, var det noe annet som fanget oppmerksomheten til Holvik. «Den nøytrale renten» ble satt opp til 3,2 prosent. Det skal føre til at folk og bedrifter bruker mindre penger slik at prisveksten blir lavere. – Når finanspolitikken stimulerer økonomien og bidrar til at den offentlige delen av økonomien vokser mer enn den private og konkurranseutsatte delen, så vokser jo den delen av økonomien som har lavest produktivitetsvekst.",
       "keyPoints": [
-        "Dette er noen av de viktigste lekkasjene som har kommet i forkant av budsjettet: Budsjettdagen sparkes i gang med at Finansdepartementet klokken 8 offentliggjør enkelte nøkkeltall i en pressemelding før statsbudsjettet formelt legges frem.",
-        "Mer penger på forsvaret, nytt toppidrettssenter og en nasjonal klokke er blant lekkasjene før statsbudsjettet neste uke.",
-        "Onsdag legger regjeringen frem statsbudsjettet for 2027, der alle dokumenter, pressmeldinger og nøkkeltall presenteres.",
-        "Klokken 13 er det duket for at finansminister Jens Stoltenberg (Ap) presenterer statsbudsjettet på en pressekonferanse."
+        "Sjeføkonom i Sparebank 1, Elisabeth Holvik, mener offentlig pengebruk og svak produktivitetsvekst må ta skylden.",
+        "Mens de fleste øyne var rettet mot styringsrenten, var det noe annet som fanget oppmerksomheten til Holvik. «Den nøytrale renten» ble satt opp til 3,2 prosent.",
+        "Det skal føre til at folk og bedrifter bruker mindre penger slik at prisveksten blir lavere. – Når finanspolitikken stimulerer økonomien og bidrar til at den offentlige delen av økonomien vokser mer enn den private og konkurranseutsatte delen, så vokser jo den delen av økonomien som har lavest produktivitetsvekst.",
+        "Sjeføkonomen har en teori om hva som har skjedd med økonomien. – En åpenbar kandidat er at vi opplever svakere vekst i produktivitetProduktivitetsvekst vil si at vi klarer å produsere mer varer tjenester, med samme mengde arbeid og ressurser. enn før, sier hun."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/Gxz6BQ/dette-er-lekkasjene-fra-statsbudsjettet",
+      "url": "https://e24.no/norsk-oekonomi/i/Wvnpya/refser-politikernes-pengebruk",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/90d74f7f-ed05-3567-bf57-34ed30f0a23c?fit=crop&h=675&upscale=true&w=1200&s=aa28775bc9c3a05310004cd46a64bde08d3c7c00",
-      "localImage": "assets/news/f31a13bb57dcd6.jpg",
-      "score": 14
-    },
-    {
-      "id": "44dda102c63936",
-      "category": "Økonomi",
-      "published": "05.10. 13:27",
-      "publishedISO": "2026-10-05T13:27:32+02:00",
-      "title": "Statnett: Nettet blir dyrere",
-      "summary": "Statnett advarer nok en gang om at det blir dyrere å bygge strømnett. Nå advarer selskapet om at geopolitisk uro og krevende leverandørmarkeder gir økte kostnader og større usikkerhet. – Når flere land bygger nett samtidig, blir leverandørmarkedene strammere og prisene øker, sier konsernsjef Elisabeth Vike Vardheim i Statnett i en melding. Også i fjor advarte selskapet om økte kostnader. – For store nettanleggsprosjekter hvor vi har sendt ut forespørsler til markedet i 2026, ser vi generelt at om lag 80-90 prosent av kostnadsøkningene skyldes økte markedspriser, økte renter og øvrig usikkerhet, sier Vardheim. – Fornyet geopolitisk uro kan gi større uforutsigbarhet i renter og råvarepriser, sier hun.",
-      "keyPoints": [
-        "Statnett advarer nok en gang om at det blir dyrere å bygge strømnett.",
-        "Nå advarer selskapet om at geopolitisk uro og krevende leverandørmarkeder gir økte kostnader og større usikkerhet. – Når flere land bygger nett samtidig, blir leverandørmarkedene strammere og prisene øker, sier konsernsjef Elisabeth Vike Vardheim i Statnett i en melding.",
-        "Også i fjor advarte selskapet om økte kostnader. – For store nettanleggsprosjekter hvor vi har sendt ut forespørsler til markedet i 2026, ser vi generelt at om lag 80-90 prosent av kostnadsøkningene skyldes økte markedspriser, økte renter og øvrig usikkerhet, sier Vardheim. – Fornyet geopolitisk uro kan gi større uforutsigbarhet i renter og råvarepriser, sier hun.",
-        "I fjorårets plan anslo Statnett investeringene de neste ti årene til mellom 150 milliarder og 200 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/rMAePa/statnett-nettet-blir-dyrere",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/af6dc833-a701-360a-b02a-19f1d851b93b?fit=crop&h=675&upscale=true&w=1200&s=77846763ae09317436f11b410502585ca641a286",
-      "localImage": "assets/news/44dda102c63936.jpg",
-      "score": 13
-    },
-    {
-      "id": "58639dc5e0e6d0",
-      "category": "Økonomi",
-      "published": "05.10. 13:09",
-      "publishedISO": "2026-10-05T13:09:07+02:00",
-      "title": "Rystad gir fra seg sjefsstolen – får inn medeier",
-      "summary": "Samtidig får selskapet ny toppsjef, skriver Rystad Energy i en pressemelding mandag. Nicolaisen har vært nestsjef de siste åtte årene og erstatter gründer Jarand Rystad, som har ledet selskapet i 22 år. Rystad selv går over i rollen som arbeidende styrelederJarand Rystad har vært både administrerende direktør og styreleder i Rystad Energy frem til i dag. og beholder kontrollerende eierandel i selskapet, fremgår det.",
-      "keyPoints": [
-        "Samtidig får selskapet ny toppsjef, skriver Rystad Energy i en pressemelding mandag.",
-        "Nicolaisen har vært nestsjef de siste åtte årene og erstatter gründer Jarand Rystad, som har ledet selskapet i 22 år.",
-        "Rystad selv går over i rollen som arbeidende styrelederJarand Rystad har vært både administrerende direktør og styreleder i Rystad Energy frem til i dag. og beholder kontrollerende eierandel i selskapet, fremgår det.",
-        "Rystad Energy har vokst fra nær ingenting til en omsetning på nær en milliard kroner i 2025."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/4OqJVo/rystad-gir-fra-seg-sjefsstolen-faar-inn-medeier",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/770c571d-4b02-323f-87f5-8ce147b187a1?fit=crop&h=675&upscale=true&w=1200&s=b1e9c9fafc8dae6d96ec776f6ce8148fda4e489e",
-      "localImage": "assets/news/58639dc5e0e6d0.jpg",
-      "score": 13
+      "image": "https://akamai.vgc.no/v2/images/98265fbc-7122-3922-adfd-cad2f13dba96?fit=crop&h=675&upscale=true&w=1200&s=13b958ad54d40e8822b4eefe6f1c0e73309f798c",
+      "localImage": "assets/news/7bd9a171a90541.jpg",
+      "score": 15
     }
   ]
 }
