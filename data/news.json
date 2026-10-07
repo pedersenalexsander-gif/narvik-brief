@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.10.2026 kl. 01:45",
-  "updatedISO": "2026-10-07T01:45:52.603387+02:00",
+  "updatedAt": "07.10.2026 kl. 04:45",
+  "updatedISO": "2026-10-07T04:45:46.256170+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Zlv4RNDniN3lS5yhGAxNfQ0YJZDfeV7Sn26KAoja3rAg.jpg",
       "localImage": "assets/news/26f717c1b40f81.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "36aee73eaaa720",
+      "category": "Verden",
+      "published": "06.10. 22:15",
+      "publishedISO": "2026-10-06T22:15:31+02:00",
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "summary": "Trump om Iran: «La dem ta ut LA, la dem ta ut San Diego» Donald Trumps bemerkning om at Iran kan «ta ut» Los Angeles og San Diego har utløst voldsom tilbakeslag fra California-politikere – og en sterkt formulert tilbakevisning fra Det hvite hus. Ifølge Det hvite hus sa Trump imidlertid at amerikanske byer ville blitt truet av Iran hvis han ikke hadde startet en krig der tidligere i år. La dem ta ut Los Angeles, la dem ta ut San Diego.\" Det var jubel fra deler av publikum da kommentarene om de to californiske byene ble gitt.",
+      "keyPoints": [
+        "Trump om Iran: «La dem ta ut LA, la dem ta ut San Diego» Donald Trumps bemerkning om at Iran kan «ta ut» Los Angeles og San Diego har utløst voldsom tilbakeslag fra California-politikere – og en sterkt formulert tilbakevisning fra Det hvite hus.",
+        "La dem ta ut Los Angeles, la dem ta ut San Diego.\" Det var jubel fra deler av publikum da kommentarene om de to californiske byene ble gitt.",
+        "Ifølge Det hvite hus sa Trump imidlertid at amerikanske byer ville blitt truet av Iran hvis han ikke hadde startet en krig der tidligere i år.",
+        "I et innlegg på X beskrev kommunikasjonsdirektør i Det hvite hus Stephen Cheung «mediefreakout» over Trumps kommentarer som «ikke forankret i virkeligheten». \"Han sa tydelig at amerikanske byer ville blitt truet hvis et atomvåpen Iran ikke hadde blitt stoppet,\" skrev Cheung. «Amerika er tryggere på grunn av presidenten."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg",
+      "localImage": "assets/news/36aee73eaaa720.jpg",
+      "score": 16
+    },
+    {
+      "id": "b59720bad72dbc",
+      "category": "USA",
+      "published": "07.10. 02:55",
+      "publishedISO": "2026-10-07T02:55:55+02:00",
+      "title": "Hva skjedde i den mislykkede henrettelsen av Christa Pike – og hva videre?",
+      "summary": "Se: Hva vi vet om Christa Pikes \"enestående\" bedring etter mislykket henrettelse Advarsel: Denne artikkelen inneholder detaljer som lesere kan synes er urovekkende Den dømte morderen Christa Pike har våknet opp og begynt å snakke fra sykehussengen sin nesten en uke etter at myndighetene i den amerikanske delstaten Tennessee forkastet henrettelsen hennes, sa advokatene hennes. Saken om Pike, hvis henrettelsesforsøk allerede hadde vært gjenstand for en høyprofilert juridisk kamp, ​​reiste en rekke spørsmål, inkludert hvordan en henrettelse kan mislykkes og hva som kan skje videre. Se: Vitner forteller om Christa Pikes mislykkede henrettelsesforsøk Advokatene hennes hadde advart om at noe slikt kunne skje.",
+      "keyPoints": [
+        "Se: Hva vi vet om Christa Pikes \"enestående\" bedring etter mislykket henrettelse Advarsel: Denne artikkelen inneholder detaljer som lesere kan synes er urovekkende Den dømte morderen Christa Pike har våknet opp og begynt å snakke fra sykehussengen sin nesten en uke etter at myndighetene i den amerikanske delstaten Tennessee forkastet henrettelsen hennes, sa advokatene hennes.",
+        "Watch: Witnesses recount Christa Pike's failed execution attempt Her lawyers had warned something like this might occur.",
+        "Saken om Pike, hvis henrettelsesforsøk allerede hadde vært gjenstand for en høyprofilert juridisk kamp, ​​reiste en rekke spørsmål, inkludert hvordan en henrettelse kan mislykkes og hva som kan skje videre.",
+        "Mens hun mottok de to dosene, \"kunne hun høres gråte, sutre og puste høyt\", sa advokatene hennes. \"På intet tidspunkt innså noe medlem av henrettelsesteamet at IV-slangene ikke var riktig plassert eller at venene hadde blåst og at pentobarbital, helt eller delvis, kom inn i Pikes kropp,\" sa hennes advokater i arkivet."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0aea/live/fb54d760-c064-11f1-9816-99dd566c1d1d.jpg",
+      "localImage": "assets/news/b59720bad72dbc.jpg",
+      "score": 13
     },
     {
       "id": "f953b3fb77de7e",
@@ -67,6 +109,48 @@
       "score": 20
     },
     {
+      "id": "21adbda936dabc",
+      "category": "AI",
+      "published": "06.10. 19:50",
+      "publishedISO": "2026-10-06T19:50:19+02:00",
+      "title": "'ASOS hacked': App users receive notifications sent by hackers",
+      "summary": "Asos sier at de undersøker \"uautorisert aktivitet\" som involverer tredjepartsplattformer den bruker etter at kunder mottok et varsel fra appen deres sendt av hackere. Dusinvis av mennesker fortalte BBC at de mottok den merkelige \"ASOS HACKED\"-meldingen fra kles- og skjønnhetsbutikkens app tirsdag morgen - med noen som sa at det gjorde dem \"redde\" for å åpne appen. Meldingen dukket opp på mange Asos-appbrukeres startskjermer tirsdag morgen. Brukere av Asos-appen så ut til å ha mottatt det alarmerende varselet rundt klokken 10:00 BST tirsdag.",
+      "keyPoints": [
+        "Asos sier at de undersøker \"uautorisert aktivitet\" som involverer tredjepartsplattformer den bruker etter at kunder mottok et varsel fra appen deres sendt av hackere.",
+        "Meldingen dukket opp på mange Asos-appbrukeres startskjermer tirsdag morgen. Brukere av Asos-appen så ut til å ha mottatt det alarmerende varselet rundt klokken 10:00 BST tirsdag.",
+        "Dusinvis av mennesker fortalte BBC at de mottok den merkelige \"ASOS HACKED\"-meldingen fra kles- og skjønnhetsbutikkens app tirsdag morgen - med noen som sa at det gjorde dem \"redde\" for å åpne appen.",
+        "Noen Asos-appbrukere i Australia, Frankrike, Sverige og Irland hadde også mottatt varselet, ifølge lokale rapporter tirsdag."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg",
+      "localImage": "assets/news/21adbda936dabc.jpg",
+      "score": 16
+    },
+    {
+      "id": "55b47f5d1d2395",
+      "category": "AI",
+      "published": "05.10. 18:13",
+      "publishedISO": "2026-10-05T18:13:21+02:00",
+      "title": "Pentagon stops using Anthropic tools after blacklisting company, BBC told",
+      "summary": "Forsvarssekretær Pete Hegseth har offentlig kritisert Anthropics sjef Dario Amodei. Det amerikanske forsvarsdepartementet bruker ikke lenger Anthropics AI-verktøy, sa en tjenestemann til BBC, måneder etter at de utpekte selskapet som en forsyningskjederisiko på grunn av nasjonal sikkerhet. OpenAI-verktøy har blitt mer utbredt de siste månedene i noen militæravdelinger, ifølge to personer som er kjent med AI-bruk i forsvarsavdelingen. Pentagons uttalelse på mandag kom som svar på et spørsmål fra BBC om bruken av Anthropic, etter at flere personer sa i intervjuer at Claude fortsatt ble mye brukt. Pentagon-ansatte fortsatte å bruke Anthropics Claude-verktøy, inkludert dens kraftige Mythos-modeller, \"gjennom hele perioden med kontroversen\" med selskapet, sa en av personene.",
+      "keyPoints": [
+        "Forsvarssekretær Pete Hegseth har offentlig kritisert Anthropics sjef Dario Amodei. Det amerikanske forsvarsdepartementet bruker ikke lenger Anthropics AI-verktøy, sa en tjenestemann til BBC, måneder etter at de utpekte selskapet som en forsyningskjederisiko på grunn av nasjonal sikkerhet.",
+        "OpenAI-verktøy har blitt mer utbredt de siste månedene i noen militæravdelinger, ifølge to personer som er kjent med AI-bruk i forsvarsavdelingen. Pentagons uttalelse på mandag kom som svar på et spørsmål fra BBC om bruken av Anthropic, etter at flere personer sa i intervjuer at Claude fortsatt ble mye brukt.",
+        "Pentagon-ansatte fortsatte å bruke Anthropics Claude-verktøy, inkludert dens kraftige Mythos-modeller, \"gjennom hele perioden med kontroversen\" med selskapet, sa en av personene.",
+        "Trump møtte nylig antropisk sjef Dario Amodei i Det hvite hus BBC snakket med forsvarsentreprenører som spesialiserer seg på AI og har jobbet tett med Pentagon, samt tidligere amerikanske forsvarstjenestemenn og andre som er kjent med Pentagons bruk av kunstig intelligens."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/55b47f5d1d2395.jpg",
+      "score": 16
+    },
+    {
       "id": "b4fdddfaaf1f5e",
       "category": "Norge",
       "published": "06.10. 16:29",
@@ -85,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/XcpeYtu7ssMx2rOoRhru2APgIKIamsrbzLFG99_1Hb3g.jpg",
       "localImage": "assets/news/b4fdddfaaf1f5e.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "ad2142f970c826",
@@ -128,90 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/eb0e7585-a133-3ef6-ba76-b2f5d54c8a40?fit=crop&h=675&upscale=true&w=1200&s=3a0dc24f6199edf7fc5022b72a00013d12bb53ac",
       "localImage": "assets/news/ccfe0aef219082.jpg",
       "score": 16
-    },
-    {
-      "id": "d0d0732f52292c",
-      "category": "Norge",
-      "published": "06.10. 23:09",
-      "publishedISO": "2026-10-06T23:09:08+02:00",
-      "title": "Dette forventer akademia, næringslivet og kommunene av statsbudsjettet",
-      "summary": "Finansminister Jens Stoltenberg legger frem statsbudsjettet klokken 10 onsdag. Rektor Dag Rune Olsen vet at universitetet får ei startbevilgning på statsbudsjettet på 10 millioner kroner, med løfte om økning til 20 millioner kroner årlig deretter. – Det er en fantastisk mulighet for oss. Da forventer vi at det kommer penger på statsbudsjettet.",
-      "keyPoints": [
-        "Da forventer vi at det kommer penger på statsbudsjettet.",
-        "Rektor Dag Rune Olsen vet at universitetet får ei startbevilgning på statsbudsjettet på 10 millioner kroner, med løfte om økning til 20 millioner kroner årlig deretter. – Det er en fantastisk mulighet for oss.",
-        "Finansminister Jens Stoltenberg legger frem statsbudsjettet klokken 10 onsdag.",
-        "Når det gjelder spørsmålet om et nytt universitetsmuseum, forventer ikke rektoren penger over dette budsjettet, men krever at prosjektet holdes i gang: – Der er det ikke slik at vi forventer og har behov for penger neste år."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/dette-forventer-akademia_-naeringslivet-og-kommunene-av-statsbudsjettet-1.18047349",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/X77uH7NyXVKHA6Bsg4ZqJgGZe-8rzkoibAZCGzkAyWkg.jpg",
-      "localImage": "assets/news/d0d0732f52292c.jpg",
-      "score": 13
-    },
-    {
-      "id": "dff20ea56da1f9",
-      "category": "Norge",
-      "published": "06.10. 23:04",
-      "publishedISO": "2026-10-06T23:04:09+02:00",
-      "title": "Henrettelsesforsøket i Tennessee: Pike er våken og kan snakke",
-      "summary": "Christa Pike (50) er våken etter at hun overlevde et henrettelsesforsøk i delstaten Tennessee, opplyser advokaten hennes. Christa Pike skal være våken og kan snakke etter det mislykkede henrettelsesforsøket. Pike har ligget på sykehus mens leger har forsøkt å rense kroppen hennes for stoffet pentobarbital, som hun fikk injisert.",
-      "keyPoints": [
-        "Christa Pike skal være våken og kan snakke etter det mislykkede henrettelsesforsøket.",
-        "Christa Pike (50) er våken etter at hun overlevde et henrettelsesforsøk i delstaten Tennessee, opplyser advokaten hennes.",
-        "Pike har ligget på sykehus mens leger har forsøkt å rense kroppen hennes for stoffet pentobarbital, som hun fikk injisert.",
-        "Pike ble dømt til døden i 1996 for drapet på 19 år gamle Colleen Slemmer."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/henrettelsesforsoket-i-tennessee_-pike-er-vaken-og-kan-snakke-1.18047406",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ZG2FxYwyiO40PIoqfYyBwQP6vPWH4DucaAdQ0xHtPDsw.jpg",
-      "localImage": "assets/news/dff20ea56da1f9.jpg",
-      "score": 13
-    },
-    {
-      "id": "b467ffd4c98870",
-      "category": "Norge",
-      "published": "06.10. 23:02",
-      "publishedISO": "2026-10-06T23:02:10+02:00",
-      "title": "Kampen om Ceuta – migranter og innbyggere i opphetet konflikt",
-      "summary": "Minst 10.000 migranter er fortsatt igjen på det lille området nord i Afrika. Innbyggerne vil ta dem tilbake fordi mange av migrantene bor i slike turtelt rundt Ceuta by. – Problemet er at vi ikke har nok ressurser til å dekke alt vi trenger – og det de trenger. Opp mot 140 mennesker mistet livet en solskinnsdag i juli da en stor mengde migranter svømte over grensen til Ceuta mens verden fulgte med på TV.",
-      "keyPoints": [
-        "Opp mot 140 mennesker mistet livet en solskinnsdag i juli da en stor mengde migranter svømte over grensen til Ceuta mens verden fulgte med på TV.",
-        "Minst 10.000 migranter er fortsatt igjen på det lille området nord i Afrika.",
-        "Innbyggerne vil ta dem tilbake fordi mange av migrantene bor i slike turtelt rundt Ceuta by. – Problemet er at vi ikke har nok ressurser til å dekke alt vi trenger – og det de trenger.",
-        "Det blir vått i flere av teltene. – Vi dro til Ceuta for å endre situasjonen vår."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/xl/kampen-om-ceuta-_-migranter-og-innbyggere-i-opphetet-konflikt-1.18043331",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/NAUACbqcm5wr6BuoWEk6SAWn2mUJcJtAYxj-DgAJywgA.jpg",
-      "localImage": "assets/news/b467ffd4c98870.jpg",
-      "score": 13
-    },
-    {
-      "id": "5250cca3cce02b",
-      "category": "Norge",
-      "published": "06.10. 22:34",
-      "publishedISO": "2026-10-06T22:34:56+02:00",
-      "title": "Lege om covid-vaksine: Sannsynlig at vaksinen kan gi kronisk utmattelse i sjeldne tilfeller",
-      "summary": "RETTSSAK: Frostating lagmannsrett skal vurdere om sykepleieren har rett på pasientskadeerstatning. – Etter min oppfatning er det overveiende sannsynlig at vaksinen i sjeldne tilfeller kan gi et postvaksinasjons-syndrom, sier Elling Ulvestad. Samtidig er det rapportert 67 tilfeller knyttet til langvarig utmattelse til bivirkningsregisteret, forteller han. – Det betyr at dette er en ekstremt sjelden tilstand. Ulvestad forklarer videre at det er vanskelig å påvise med sikkerhet at vaksinen kan føre til utmattelse. – De aller beste studiene er eksperimentelle studier der du gjør såkalte randomiserte, kontrollerte utvalg. – Men det er umulig å gjøre på dette materialet, sier professoren og viser til at en slik studie måtte ha blitt gjennomført før vaksinen ble gjort tilgjengelig.",
-      "keyPoints": [
-        "RETTSSAK: Frostating lagmannsrett skal vurdere om sykepleieren har rett på pasientskadeerstatning. – Etter min oppfatning er det overveiende sannsynlig at vaksinen i sjeldne tilfeller kan gi et postvaksinasjons-syndrom, sier Elling Ulvestad.",
-        "Samtidig er det rapportert 67 tilfeller knyttet til langvarig utmattelse til bivirkningsregisteret, forteller han. – Det betyr at dette er en ekstremt sjelden tilstand.",
-        "Ulvestad forklarer videre at det er vanskelig å påvise med sikkerhet at vaksinen kan føre til utmattelse. – De aller beste studiene er eksperimentelle studier der du gjør såkalte randomiserte, kontrollerte utvalg. – Men det er umulig å gjøre på dette materialet, sier professoren og viser til at en slik studie måtte ha blitt gjennomført før vaksinen ble gjort tilgjengelig.",
-        "Saksøker staten: «Jon» meiner han fekk ME av covid-vaksine For at sykepleieren skal ha krav på erstatning er det ikke nødvendig å bevise at det med sikkerhet er vaksinen som har ført til ME."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/lege-om-covid-vaksine_-sannsynlig-at-vaksinen-kan-gi-kronisk-utmattelse-i-sjeldne-tilfeller-1.18046485",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_c87aXlAAtIG_MQUm0vZSQ-CLyLEEnllzNZFI8E7VrkQ.jpg",
-      "localImage": "assets/news/5250cca3cce02b.jpg",
-      "score": 13
     }
   ]
 }
