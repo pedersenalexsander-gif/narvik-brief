@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.10.2026 kl. 11:23",
-  "updatedISO": "2026-10-07T11:23:30.754354+02:00",
+  "updatedAt": "07.10.2026 kl. 18:49",
+  "updatedISO": "2026-10-07T18:49:23.145676+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,12 +9,12 @@
       "published": "07.10. 10:38",
       "publishedISO": "2026-10-07T10:38:59+02:00",
       "title": "Her drysses det forsvarspenger i statsbudsjettet",
-      "summary": "Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg. Blant annet innebærer dette om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord. Regjeringen planlegger å investere i eiendom, bygg og anlegg for om lag 450 millioner kroner i 2027, hvorav 200 millioner kroner planlegges benyttet ved Porsangmoen og 30 millioner kroner ved Høybuktmoen.",
+      "summary": "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år. Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg. I statsbudsjettet settes det av om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
       "keyPoints": [
-        "Regjeringen planlegger å investere i eiendom, bygg og anlegg for om lag 450 millioner kroner i 2027, hvorav 200 millioner kroner planlegges benyttet ved Porsangmoen og 30 millioner kroner ved Høybuktmoen.",
-        "Blant annet innebærer dette om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
+        "I statsbudsjettet settes det av om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
         "Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg.",
-        "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år."
+        "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år.",
+        "Regjeringen planlegger å investere i eiendom, bygg og anlegg for om lag 450 millioner kroner i 2027, hvorav 200 millioner kroner planlegges benyttet ved Porsangmoen og 30 millioner kroner ved Høybuktmoen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -22,49 +22,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/L-VyZH__ACRrJ40tB6bwGwamX5-1BB0grCvjZaV2lupQ.jpg",
       "localImage": "assets/news/3f8ee961948a1d.jpg",
-      "score": 25
+      "score": 24
     },
     {
-      "id": "36aee73eaaa720",
+      "id": "c03940a3b33a80",
       "category": "Verden",
-      "published": "06.10. 22:15",
-      "publishedISO": "2026-10-06T22:15:31+02:00",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "summary": "Trump om Iran: «La dem ta ut LA, la dem ta ut San Diego» Donald Trumps bemerkning om at Iran kan «ta ut» Los Angeles og San Diego har utløst voldsom tilbakeslag fra California-politikere – og en sterkt formulert tilbakevisning fra Det hvite hus. Ifølge Det hvite hus sa Trump imidlertid at amerikanske byer ville blitt truet av Iran hvis han ikke hadde startet en krig der tidligere i år. La dem ta ut Los Angeles, la dem ta ut San Diego.\" Det var jubel fra deler av publikum da kommentarene om de to californiske byene ble gitt.",
+      "published": "07.10. 16:50",
+      "publishedISO": "2026-10-07T16:50:28+02:00",
+      "title": "Trump to speak to Putin about plague lab death in Russia",
+      "summary": "Offeret jobbet ved anti-pest-instituttet i byen Irkutsk i Sibir. USAs president Donald Trump har sagt at han snart vil snakke med Vladimir Putin om døden til en laboratoriearbeider ved et pestforskningssenter i Sibir. – Så langt er vi i veldig dype diskusjoner, sa Trump og la til at han «sannsynligvis» vil kunne rapportere om samtalene sine med den russiske lederen torsdag. Putins talsmann sa til journalister onsdag at Russlands rapportering om dødsfallet til WHO var i tråd med standard praksis, og anklaget media for å rapportere «falsk informasjon». Pågående spekulasjoner om laboratoriearbeiderens død har utløst en frem og tilbake mellom Russland og USA, med spørsmål om en mulig spredning utenfor Russland.",
       "keyPoints": [
-        "Trump om Iran: «La dem ta ut LA, la dem ta ut San Diego» Donald Trumps bemerkning om at Iran kan «ta ut» Los Angeles og San Diego har utløst voldsom tilbakeslag fra California-politikere – og en sterkt formulert tilbakevisning fra Det hvite hus.",
-        "La dem ta ut Los Angeles, la dem ta ut San Diego.\" Det var jubel fra deler av publikum da kommentarene om de to californiske byene ble gitt.",
-        "Ifølge Det hvite hus sa Trump imidlertid at amerikanske byer ville blitt truet av Iran hvis han ikke hadde startet en krig der tidligere i år.",
-        "I et innlegg på X beskrev kommunikasjonsdirektør i Det hvite hus Stephen Cheung «mediefreakout» over Trumps kommentarer som «ikke forankret i virkeligheten». \"Han sa tydelig at amerikanske byer ville blitt truet hvis et atomvåpen Iran ikke hadde blitt stoppet,\" skrev Cheung. «Amerika er tryggere på grunn av presidenten."
+        "Offeret jobbet ved anti-pest-instituttet i byen Irkutsk i Sibir. USAs president Donald Trump har sagt at han snart vil snakke med Vladimir Putin om døden til en laboratoriearbeider ved et pestforskningssenter i Sibir. – Så langt er vi i veldig dype diskusjoner, sa Trump og la til at han «sannsynligvis» vil kunne rapportere om samtalene sine med den russiske lederen torsdag.",
+        "Putins talsmann sa til journalister onsdag at Russlands rapportering om dødsfallet til WHO var i tråd med standard praksis, og anklaget media for å rapportere «falsk informasjon».",
+        "Pågående spekulasjoner om laboratoriearbeiderens død har utløst en frem og tilbake mellom Russland og USA, med spørsmål om en mulig spredning utenfor Russland.",
+        "Russiske tjenestemenn sier de undersøker årsaken til 28-åringens død og har ikke bekreftet at den mistenkte sykdommen er lungepest."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg",
-      "localImage": "assets/news/36aee73eaaa720.jpg",
-      "score": 15
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png",
+      "localImage": "assets/news/c03940a3b33a80.png",
+      "score": 17
     },
     {
-      "id": "b59720bad72dbc",
+      "id": "d6ff957a102c69",
       "category": "USA",
-      "published": "07.10. 02:55",
-      "publishedISO": "2026-10-07T02:55:55+02:00",
-      "title": "Hva skjedde i den mislykkede henrettelsen av Christa Pike – og hva videre?",
-      "summary": "Se: Hva vi vet om Christa Pikes \"enestående\" bedring etter mislykket henrettelse Advarsel: Denne artikkelen inneholder detaljer som lesere kan synes er urovekkende Den dømte morderen Christa Pike har våknet opp og begynt å snakke fra sykehussengen sin nesten en uke etter at myndighetene i den amerikanske delstaten Tennessee forkastet henrettelsen hennes, sa advokatene hennes. Saken om Pike, hvis henrettelsesforsøk allerede hadde vært gjenstand for en høyprofilert juridisk kamp, ​​reiste en rekke spørsmål, inkludert hvordan en henrettelse kan mislykkes og hva som kan skje videre. Se: Vitner forteller om Christa Pikes mislykkede henrettelsesforsøk Advokatene hennes hadde advart om at noe slikt kunne skje.",
+      "published": "07.10. 16:09",
+      "publishedISO": "2026-10-07T16:09:54+02:00",
+      "title": "China Open: Coco Gauff on 'draining few days' after online racist abuse",
+      "summary": "Coco Gauff vant China Open i 2024 og nådde semifinalen i fjor. Coco Gauff sa at hun hadde en \"tømming\" noen dager etter å ha mottatt rasistiske overgrep på nettet før hennes avslutning i fjerde runde av China Open. På spørsmål om hvordan hun hadde følt seg de siste 36 timene, sa Gauff: \"Det har vært litt slitsomt, jeg kommer ikke til å lyve. \"Jeg slår av telefonen min og går videre. Gauff fordømmer rasistiske overgrep etter China Open-seier Kvinnelige tennisspillere møtte 12 000 voldelige innlegg i 2025",
       "keyPoints": [
-        "Se: Hva vi vet om Christa Pikes \"enestående\" bedring etter mislykket henrettelse Advarsel: Denne artikkelen inneholder detaljer som lesere kan synes er urovekkende Den dømte morderen Christa Pike har våknet opp og begynt å snakke fra sykehussengen sin nesten en uke etter at myndighetene i den amerikanske delstaten Tennessee forkastet henrettelsen hennes, sa advokatene hennes.",
-        "Watch: Witnesses recount Christa Pike's failed execution attempt Her lawyers had warned something like this might occur.",
-        "Saken om Pike, hvis henrettelsesforsøk allerede hadde vært gjenstand for en høyprofilert juridisk kamp, ​​reiste en rekke spørsmål, inkludert hvordan en henrettelse kan mislykkes og hva som kan skje videre.",
-        "Mens hun mottok de to dosene, \"kunne hun høres gråte, sutre og puste høyt\", sa advokatene hennes. \"På intet tidspunkt innså noe medlem av henrettelsesteamet at IV-slangene ikke var riktig plassert eller at venene hadde blåst og at pentobarbital, helt eller delvis, kom inn i Pikes kropp,\" sa hennes advokater i arkivet."
+        "Coco Gauff vant China Open i 2024 og nådde semifinalen i fjor. Coco Gauff sa at hun hadde en \"tømming\" noen dager etter å ha mottatt rasistiske overgrep på nettet før hennes avslutning i fjerde runde av China Open.",
+        "Gauff condemns racist abuse after China Open win Female tennis players faced 12,000 abusive posts in 2025",
+        "På spørsmål om hvordan hun hadde følt seg de siste 36 timene, sa Gauff: \"Det har vært litt slitsomt, jeg kommer ikke til å lyve. \"Jeg slår av telefonen min og går videre.",
+        "22-åringen la ut en lang uttalelse som forklarte hva som hadde skjedd og fordømte senere de rasistiske overgrepene hun mottok som svar."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c6pqgdr4z08xo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0aea/live/fb54d760-c064-11f1-9816-99dd566c1d1d.jpg",
-      "localImage": "assets/news/b59720bad72dbc.jpg",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9923/live/7ff8d500-c242-11f1-a64c-550be9e3c66b.jpg",
+      "localImage": "assets/news/d6ff957a102c69.jpg",
+      "score": 17
+    },
+    {
+      "id": "e6ff65ca472099",
+      "category": "Økonomi",
+      "published": "07.10. 09:02",
+      "publishedISO": "2026-10-07T09:02:32+02:00",
+      "title": "Shippingaksjer tynget Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs stengte ned 0,76 prosent onsdag. Det kom etter at rederiet hentet 300 millioner dollar, eller 2,9 milliarder kroner. Det varsles samtidig at rederiet venter et justert driftsresultat (ebitda) på mellom 420 og 450 millioner dollar i tredje kvartal.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs stengte ned 0,76 prosent onsdag.",
+        "Det kom etter at rederiet hentet 300 millioner dollar, eller 2,9 milliarder kroner.",
+        "Det varsles samtidig at rederiet venter et justert driftsresultat (ebitda) på mellom 420 og 450 millioner dollar i tredje kvartal.",
+        "Knekken i bilfraktrederiene Wallenius Wilhelmsen og Höegh Autoliners kom etter at Bloomberg meldte at EU forbereder beskyttelsestiltak som vil begrense importen av kinesiske hybridbiler til unionen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/jvQbze/shippingaksje-faller-paa-flat-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/9239748d-aea7-387e-9991-e3baec1c00c2?fit=crop&h=675&upscale=true&w=1200&s=1b8bfb6f472c36a7c8521888914b433c4ee5fa4f",
+      "localImage": "assets/news/e6ff65ca472099.jpg",
+      "score": 23
     },
     {
       "id": "ad4b5161b4819b",
@@ -85,70 +106,91 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/22ce5a7f-2fd7-37c5-8e81-b4cba5073bcd?fit=crop&h=675&upscale=true&w=1200&s=77b1490cbe7cfb3c61e0ecacb7dd11f82d52cc7d",
       "localImage": "assets/news/ad4b5161b4819b.jpg",
-      "score": 24
-    },
-    {
-      "id": "f953b3fb77de7e",
-      "category": "Økonomi",
-      "published": "06.10. 09:02",
-      "publishedISO": "2026-10-06T09:02:59+02:00",
-      "title": "Svak børsnedtur etter oljeprisfall",
-      "summary": "Gassprisen i Europa var opp rundt 5 prosent tidlig tirsdag, men oppgangen avtok til 3,9 prosent på ettermiddagen. Mandag kveld varslet Norsk Hydro en kostnadseffekt på 90-110 millioner dollar (rundt en milliard norske kroner) i fjerde kvartal, knyttet til sin produksjon i Alunorte i Brasil. Fingeravtrykkselskapet Idex hadde foreløpige inntekter på rundt 6,6 millioner kroner i tredje kvartal, mot mer enn 8,5 millioner kroner som selskapet tidligere hadde varslet.",
-      "keyPoints": [
-        "Mandag kveld varslet Norsk Hydro en kostnadseffekt på 90-110 millioner dollar (rundt en milliard norske kroner) i fjerde kvartal, knyttet til sin produksjon i Alunorte i Brasil.",
-        "Fingeravtrykkselskapet Idex hadde foreløpige inntekter på rundt 6,6 millioner kroner i tredje kvartal, mot mer enn 8,5 millioner kroner som selskapet tidligere hadde varslet.",
-        "Gassprisen i Europa var opp rundt 5 prosent tidlig tirsdag, men oppgangen avtok til 3,9 prosent på ettermiddagen.",
-        "I løpet av handelsdagen har nordsjøoljen Brent (spot) falt nær 2 dollar til 98 dollar fatet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/8GBW7G/oslo-boers-aapner-lite-endret-vend-aksjen-faller-tungt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7e0f2749-065e-321a-81fc-2af88e916751?fit=crop&h=675&upscale=true&w=1200&s=59475304258eaa4a0ab037391cdab138af69d48e",
-      "localImage": "assets/news/f953b3fb77de7e.jpg",
       "score": 22
     },
     {
-      "id": "21adbda936dabc",
-      "category": "AI",
-      "published": "06.10. 19:50",
-      "publishedISO": "2026-10-06T19:50:19+02:00",
-      "title": "'ASOS hacked': App users receive notifications sent by hackers",
-      "summary": "Asos sier at de undersøker \"uautorisert aktivitet\" som involverer tredjepartsplattformer den bruker etter at kunder mottok et varsel fra appen deres sendt av hackere. Dusinvis av mennesker fortalte BBC at de mottok den merkelige \"ASOS HACKED\"-meldingen fra kles- og skjønnhetsbutikkens app tirsdag morgen - med noen som sa at det gjorde dem \"redde\" for å åpne appen. Meldingen dukket opp på mange Asos-appbrukeres startskjermer tirsdag morgen. Brukere av Asos-appen så ut til å ha mottatt det alarmerende varselet rundt klokken 10:00 BST tirsdag.",
+      "id": "b811efb25e8d61",
+      "category": "Norge",
+      "published": "07.10. 17:49",
+      "publishedISO": "2026-10-07T17:49:03+02:00",
+      "title": "MDG-politiker synes vanlige folk langs russegrensa blir glemt i statsbudsjettet",
+      "summary": "Heller ikke blant Aps egne i fylket slippes jubelen løs over forslagene i statsbudsjettet. Selv om gratis barnehage videreføres og regjeringen vil sette av 54 millioner kroner ekstra til bekjempelsen av pukkellaksen, mener Jensen at pengene som er satt av til diverse forsvarsprosjekter er feilprioritert. – Jeg frykter at regjeringen forveksler økte forsvarsbudsjetter med distriktsutvikling. Blant annet er det foreslått å investere omtrent 450 millioner kroner i eiendom, bygg og anlegg neste år.",
       "keyPoints": [
-        "Asos sier at de undersøker \"uautorisert aktivitet\" som involverer tredjepartsplattformer den bruker etter at kunder mottok et varsel fra appen deres sendt av hackere.",
-        "Meldingen dukket opp på mange Asos-appbrukeres startskjermer tirsdag morgen. Brukere av Asos-appen så ut til å ha mottatt det alarmerende varselet rundt klokken 10:00 BST tirsdag.",
-        "Dusinvis av mennesker fortalte BBC at de mottok den merkelige \"ASOS HACKED\"-meldingen fra kles- og skjønnhetsbutikkens app tirsdag morgen - med noen som sa at det gjorde dem \"redde\" for å åpne appen.",
-        "Noen Asos-appbrukere i Australia, Frankrike, Sverige og Irland hadde også mottatt varselet, ifølge lokale rapporter tirsdag."
+        "Selv om gratis barnehage videreføres og regjeringen vil sette av 54 millioner kroner ekstra til bekjempelsen av pukkellaksen, mener Jensen at pengene som er satt av til diverse forsvarsprosjekter er feilprioritert. – Jeg frykter at regjeringen forveksler økte forsvarsbudsjetter med distriktsutvikling.",
+        "Heller ikke blant Aps egne i fylket slippes jubelen løs over forslagene i statsbudsjettet.",
+        "Blant annet er det foreslått å investere omtrent 450 millioner kroner i eiendom, bygg og anlegg neste år.",
+        "200 millioner kroner av dette skal brukes på militærleiren på Porsangmoen og 30 millioner kroner på Høybuktmoen leir."
       ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ebee/live/d275dfa0-c218-11f1-bc2e-018d645d8d21.jpg",
-      "localImage": "assets/news/21adbda936dabc.jpg",
-      "score": 14
+      "url": "https://www.nrk.no/tromsogfinnmark/mdg-politiker-synes-vanlige-folk-langs-russegrensa-blir-glemt-i-statsbudsjettet-1.18048255",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/7PCCK7ytRrGrSUW3nCPWNg_qQ5mgVrtok0aMHOZhCyGQ.jpg",
+      "localImage": "assets/news/b811efb25e8d61.jpg",
+      "score": 21
     },
     {
-      "id": "55b47f5d1d2395",
-      "category": "AI",
-      "published": "05.10. 18:13",
-      "publishedISO": "2026-10-05T18:13:21+02:00",
-      "title": "Pentagon stops using Anthropic tools after blacklisting company, BBC told",
-      "summary": "Forsvarssekretær Pete Hegseth har offentlig kritisert Anthropics sjef Dario Amodei. Det amerikanske forsvarsdepartementet bruker ikke lenger Anthropics AI-verktøy, sa en tjenestemann til BBC, måneder etter at de utpekte selskapet som en forsyningskjederisiko på grunn av nasjonal sikkerhet. OpenAI-verktøy har blitt mer utbredt de siste månedene i noen militæravdelinger, ifølge to personer som er kjent med AI-bruk i forsvarsavdelingen. Pentagons uttalelse på mandag kom som svar på et spørsmål fra BBC om bruken av Anthropic, etter at flere personer sa i intervjuer at Claude fortsatt ble mye brukt. Pentagon-ansatte fortsatte å bruke Anthropics Claude-verktøy, inkludert dens kraftige Mythos-modeller, \"gjennom hele perioden med kontroversen\" med selskapet, sa en av personene.",
+      "id": "e2feb2b799548b",
+      "category": "Norge",
+      "published": "07.10. 15:22",
+      "publishedISO": "2026-10-07T15:22:32+02:00",
+      "title": "Drukningsulykken i Narvik: Polsk kvinne i 40-årene omkom",
+      "summary": "Den 40 år gamle kvinnen omkom forrige uke under et dykk ved skipsvrak i Narvik. I og rundt Ofotfjorden og Narvik havn ligger det rundt 30–35 skipsvrak fra andre verdenskrig. Undervannsfotograf Frank Bang har selv dykket på «Odin» utenfor Narvik. «Odin» ligger cirka 200 meter fra det tyske skipet «Erich Giese».",
       "keyPoints": [
-        "Forsvarssekretær Pete Hegseth har offentlig kritisert Anthropics sjef Dario Amodei. Det amerikanske forsvarsdepartementet bruker ikke lenger Anthropics AI-verktøy, sa en tjenestemann til BBC, måneder etter at de utpekte selskapet som en forsyningskjederisiko på grunn av nasjonal sikkerhet.",
-        "OpenAI-verktøy har blitt mer utbredt de siste månedene i noen militæravdelinger, ifølge to personer som er kjent med AI-bruk i forsvarsavdelingen. Pentagons uttalelse på mandag kom som svar på et spørsmål fra BBC om bruken av Anthropic, etter at flere personer sa i intervjuer at Claude fortsatt ble mye brukt.",
-        "Pentagon-ansatte fortsatte å bruke Anthropics Claude-verktøy, inkludert dens kraftige Mythos-modeller, \"gjennom hele perioden med kontroversen\" med selskapet, sa en av personene.",
-        "Trump møtte nylig antropisk sjef Dario Amodei i Det hvite hus BBC snakket med forsvarsentreprenører som spesialiserer seg på AI og har jobbet tett med Pentagon, samt tidligere amerikanske forsvarstjenestemenn og andre som er kjent med Pentagons bruk av kunstig intelligens."
+        "Den 40 år gamle kvinnen omkom forrige uke under et dykk ved skipsvrak i Narvik.",
+        "Undervannsfotograf Frank Bang har selv dykket på «Odin» utenfor Narvik. «Odin» ligger cirka 200 meter fra det tyske skipet «Erich Giese».",
+        "I og rundt Ofotfjorden og Narvik havn ligger det rundt 30–35 skipsvrak fra andre verdenskrig.",
+        "På vei ut av Narvik traff skipet en mine og gikk til bunns. – De skal ha kommet seg ned til bunnen og vært der en stund."
       ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
-      "localImage": "assets/news/55b47f5d1d2395.jpg",
-      "score": 14
+      "url": "https://www.nrk.no/nordland/drukningsulykken-i-narvik_-polsk-kvinne-i-40-arene-omkom-1.18048455",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/uBsz8XL_t0Ao-DSN0MjBJQmVKpuER8WNGjCzCPMIxv8Q.jpg",
+      "localImage": "assets/news/e2feb2b799548b.jpg",
+      "score": 20
+    },
+    {
+      "id": "99144222dfe368",
+      "category": "Norge",
+      "published": "07.10. 13:17",
+      "publishedISO": "2026-10-07T13:17:04+02:00",
+      "title": "Statsbudsjettet 2027: Ingen pengar til nye politihelikopter",
+      "summary": "Regjeringa vil ikkje prioritera nye politihelikopter i neste års statsbudsjett, trass vedtak i Stortinget. Politihelikopter er et helt nødvendig og svært effektivt verktøy som bidrar til langt betre beredskap, men Vestlandet og Nord-Norge har ingen helikopterkapasitet, seier leiaren av Justiskomiteen på Stortinget Jon Helgheim (Frp). Vidare skriv dei at «av omsyn til mange saker i justissektoren foreslår regjeringa ikkje å løyve midlar til å utløyse opsjon på nye politihelikopter».",
+      "keyPoints": [
+        "Regjeringa vil ikkje prioritera nye politihelikopter i neste års statsbudsjett, trass vedtak i Stortinget.",
+        "Politihelikopter er et helt nødvendig og svært effektivt verktøy som bidrar til langt betre beredskap, men Vestlandet og Nord-Norge har ingen helikopterkapasitet, seier leiaren av Justiskomiteen på Stortinget Jon Helgheim (Frp).",
+        "Vidare skriv dei at «av omsyn til mange saker i justissektoren foreslår regjeringa ikkje å løyve midlar til å utløyse opsjon på nye politihelikopter».",
+        "Ei eventuell avgjerd om å auke politiet sine luftkapasitetar må sjåast opp mot andre behov i politiet, og justissektoren generelt, seier Aas-Hansen. – Sjølv om vi ikkje foreslår pengar til å utløyse opsjon, vil vi sørge for at arbeidet med å greie ut politiet sine luftkapasitetar held fram, seier justisministeren."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestland/statsbudsjettet-2027_-ingen-pengar-til-nye-politihelikopter-1.18048202",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/aqD8IhGpo5hVLMSPQqdbsQfwYWCovsdGhXaEniUGYk7A.jpg",
+      "localImage": "assets/news/99144222dfe368.jpg",
+      "score": 20
+    },
+    {
+      "id": "bd8fdfdbc1b613",
+      "category": "Norge",
+      "published": "07.10. 10:30",
+      "publishedISO": "2026-10-07T10:30:04+02:00",
+      "title": "Statsbudsjettet 2027: Regjeringen vil gi Mari Boine 200.000 kroner i året",
+      "summary": "Mari Boine får Statens æreslønn på 200.000 kroner i året livet ut. Summen er på 200 000 kroner i året og er skattefri. – Det er en stor ære og jeg er svært takknemlig, sier Boine til NRK. Dermed sier regjeringen nei til Sametingets historiske krav om 767,5 millioner kroner ekstra, som ville ha økt deres faste ramme til over 1,55 milliarder kroner. – Det har vært store prioriteringer i andre budsjettposter, men vi ser at det virker vanskelig for regjeringen å prioritere samiske mål i statsbudsjettet, sier sametingsråd Maren Benedicte Nystad Storslett (NSR).",
+      "keyPoints": [
+        "Mari Boine får Statens æreslønn på 200.000 kroner i året livet ut.",
+        "Summen er på 200 000 kroner i året og er skattefri. – Det er en stor ære og jeg er svært takknemlig, sier Boine til NRK.",
+        "Dermed sier regjeringen nei til Sametingets historiske krav om 767,5 millioner kroner ekstra, som ville ha økt deres faste ramme til over 1,55 milliarder kroner. – Det har vært store prioriteringer i andre budsjettposter, men vi ser at det virker vanskelig for regjeringen å prioritere samiske mål i statsbudsjettet, sier sametingsråd Maren Benedicte Nystad Storslett (NSR).",
+        "LØNN: Regjeringen vil gjerne beære Mari Boine med æreslønn."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sapmi/statsbudsjettet-2027_-regjeringen-vil-gi-mari-boine-200.000-kroner-i-aret-1.18047120",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/VZi4EDexYUGemxY-IEOMRwHPL0CQfkEPsUuMSCRQkjgA.jpg",
+      "localImage": "assets/news/bd8fdfdbc1b613.jpg",
+      "score": 20
     },
     {
       "id": "ce8c1b859b7613",
@@ -169,49 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d4afb03f-e654-3903-9a1d-df343c999e10?fit=crop&h=675&upscale=true&w=1200&s=604b817575a45cc00c9d03be292ccce603aee951",
       "localImage": "assets/news/ce8c1b859b7613.jpg",
-      "score": 20
-    },
-    {
-      "id": "e0515c7793b594",
-      "category": "Økonomi",
-      "published": "07.10. 09:02",
-      "publishedISO": "2026-10-07T09:02:32+02:00",
-      "title": "Shippingaksjer sendes rett ned etter Kina-rykter",
-      "summary": "Hovedindeksen på Oslo Børs er ned 0,38 prosent i 10.40-tiden onsdag. Oljeprisen (brent spot) er ned 0,3 prosent til 100,8 dollar per fat siden midnatt. Wallenius Wilhelmsen-aksjen var ned rundt fire prosent før EU-nyheten.",
-      "keyPoints": [
-        "Oljeprisen (brent spot) er ned 0,3 prosent til 100,8 dollar per fat siden midnatt.",
-        "Hovedindeksen på Oslo Børs er ned 0,38 prosent i 10.40-tiden onsdag.",
-        "Wallenius Wilhelmsen-aksjen var ned rundt fire prosent før EU-nyheten.",
-        "Det kom etter at rederiet hentet 300 millioner dollar, eller 2,9 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/jvQbze/shippingaksje-faller-paa-flat-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9239748d-aea7-387e-9991-e3baec1c00c2?fit=crop&h=675&upscale=true&w=1200&s=1b8bfb6f472c36a7c8521888914b433c4ee5fa4f",
-      "localImage": "assets/news/e0515c7793b594.jpg",
-      "score": 20
-    },
-    {
-      "id": "028950b81f98e4",
-      "category": "Økonomi",
-      "published": "07.10. 05:00",
-      "publishedISO": "2026-10-07T05:00:00+02:00",
-      "title": "Renteutgiftene til familien har nesten doblet seg: – Alt kommer på én gang",
-      "summary": "Det er som om alt kommer på én gang, sier Tovengen til E24. I samme periode har familiens boliglånsrente økt fra 2,95 til 5,99 prosent (i november). – Så er vi jo nesten tre voksne da, med en 15-åring i huset, som gjør at vi merker de økte matprisene godt. Med to barn i barnehagen anslår Tovengen at familien har utgifter på om lag 3.000 kronerKostpenger i barnehage kommer i tillegg til den nasjonale maksprisen. til barnehage i måneden. – Barnehageprisen ble kuttet for et år siden.",
-      "keyPoints": [
-        "Det er som om alt kommer på én gang, sier Tovengen til E24.",
-        "Med to barn i barnehagen anslår Tovengen at familien har utgifter på om lag 3.000 kronerKostpenger i barnehage kommer i tillegg til den nasjonale maksprisen. til barnehage i måneden. – Barnehageprisen ble kuttet for et år siden.",
-        "I samme periode har familiens boliglånsrente økt fra 2,95 til 5,99 prosent (i november). – Så er vi jo nesten tre voksne da, med en 15-åring i huset, som gjør at vi merker de økte matprisene godt.",
-        "Hun er i full jobb og bor i Askim med samboer og tre barn på 15, tre og halvannet år. – På papiret er ikke økonomien vår dårlig med to voksne i full jobb."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/p1LeQ6/renteutgiftene-til-familien-har-nesten-doblet-seg-alt-kommer-paa-en-gang",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f21ff633-eeb7-3ac2-b478-cb70a66f76ff?fit=crop&h=675&upscale=true&w=1200&s=e19724e0ac55de85029444a534e8d5a58e715dee",
-      "localImage": "assets/news/028950b81f98e4.jpg",
-      "score": 20
+      "score": 19
     }
   ]
 }
