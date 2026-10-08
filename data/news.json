@@ -1,8 +1,29 @@
 {
-  "updatedAt": "08.10.2026 kl. 10:02",
-  "updatedISO": "2026-10-08T10:02:04.598173+02:00",
+  "updatedAt": "08.10.2026 kl. 17:39",
+  "updatedISO": "2026-10-08T17:39:00.068291+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "b68795cf9b7015",
+      "category": "Nord-Norge",
+      "published": "08.10. 10:13",
+      "publishedISO": "2026-10-08T10:13:19+02:00",
+      "title": "Omstridte ambulansekutt - fortsatt uavklart om veien videre",
+      "summary": "Nordlandssykehuset utreder for tiden kutt av ambulanser i fem kommuner i Nordland. – Å foreslå disse kuttene er å spenne beina under dem som er avhengige av helsetilbudet i distriktene, sa gruppeleder og fylkesvaraordfører Linda Haukland (Krf). Det er 28 ambulanser i drift i distriktet i dag, og disse foreslåtte kuttene vil utgjøre i underkant av 20 prosent av kapasiteten. NRK har spurt Nordlandssykehuset om det ligger an til at saka kommer på bordet i styremøtet 28.oktober. – Arbeidet med de kortsiktige tiltakene innenfor prehospitale tjenester pågår fortsatt.",
+      "keyPoints": [
+        "NRK har spurt Nordlandssykehuset om det ligger an til at saka kommer på bordet i styremøtet 28.oktober. – Arbeidet med de kortsiktige tiltakene innenfor prehospitale tjenester pågår fortsatt.",
+        "Det er 28 ambulanser i drift i distriktet i dag, og disse foreslåtte kuttene vil utgjøre i underkant av 20 prosent av kapasiteten.",
+        "Nordlandssykehuset utreder for tiden kutt av ambulanser i fem kommuner i Nordland. – Å foreslå disse kuttene er å spenne beina under dem som er avhengige av helsetilbudet i distriktene, sa gruppeleder og fylkesvaraordfører Linda Haukland (Krf).",
+        "Styreleder Eivind Hansen lovet derimot en grundig prosess før eventuelle vedtak."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/omstridte-ambulansekutt---fortsatt-uavklart-om-veien-videre-1.18049185",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/O1n4ClFSXLEy_9OFqvOHLg9fWhv_u3WLE3D8kQ09UnBA.jpg",
+      "localImage": "assets/news/b68795cf9b7015.jpg",
+      "score": 16
+    },
     {
       "id": "e7d97da9a69c2d",
       "category": "Norge",
@@ -22,49 +43,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/j5myItisUaGDuZnSYCvCYQEk2b-C50-h_2KU5cHL6ang.jpg",
       "localImage": "assets/news/e7d97da9a69c2d.webp",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "16f4fcc938ebe5",
+      "id": "eb3d58386c5a87",
       "category": "Verden",
-      "published": "08.10. 05:00",
-      "publishedISO": "2026-10-08T05:00:50+02:00",
-      "title": "Trump wants a new Camp David retreat at his posh Florida golf club",
-      "summary": "President Trump gestikulerer før han går ombord på Marine One etter et kabinettmøte på Camp David 31. juli 2026 i Thurmont, Maryland. USAs president Donald Trump ønsker å skape et presidenttilfluktssted som ligner på Camp David ved golfklubben hans i Florida. Klubben vil betale konstruksjonskostnader som en \"gave\" til amerikanere og gi gratis medlemskap til fremtidige presidenter - og overnatting til besøkende utenlandske æresmedlemmer. \"Det er bare omtrent to minutter unna flyplassen ... og de kan tilbringe helgen der, som et tilfluktssted, som et slags Camp David-tilfluktssted,\" sa Trump onsdag. På spørsmål fra journalister om han ville kalle det nye presidenttilfluktsstedet på golfklubben sin «Camp Donald», svarte Trump: «Vel, det heter allerede Trump International.",
+      "published": "08.10. 14:43",
+      "publishedISO": "2026-10-08T14:43:56+02:00",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "summary": "Ukrainas president Volodymyr Zelensky sa at Kievs allierte trengte å iverksette \"konkrete handlinger\" Minst 30 mennesker er drept i et russisk glidebombeangrep på to sivile busser i den østlige frontlinjebyen Kramatorsk, sier redningstjenestemenn. Det følger en dramatisk økning i russiske angrep over hele landet og en kraftig økning i sivile tap. Barn drept mens de sov mens russiske missiler dreper 22 i blokkleiligheter Sivile får beskjed om å flykte fra Ukrainas festningsbyer mens Russland prøver å kontrollere Donbas. Russland starter også konstante luftangrep mot hovedstaden Kiev, med sirener som ringer hele dagen.",
       "keyPoints": [
-        "President Trump gestures before boarding Marine One after a Cabinet meeting at Camp David on 31 July 2026 in Thurmont, Maryland US President Donald Trump is looking to create a presidential retreat similar to Camp David at his Florida golf club.",
-        "På spørsmål fra journalister om han ville kalle det nye presidenttilfluktsstedet på golfklubben sin «Camp Donald», svarte Trump: «Vel, det heter allerede Trump International.",
-        "Klubben vil betale konstruksjonskostnader som en \"gave\" til amerikanere og gi gratis medlemskap til fremtidige presidenter - og overnatting til besøkende utenlandske æresmedlemmer. \"Det er bare omtrent to minutter unna flyplassen ... og de kan tilbringe helgen der, som et tilfluktssted, som et slags Camp David-tilfluktssted,\" sa Trump onsdag.",
-        "Daværende amerikanske president Barack Obama møter ledere i eurosonen på Laurel Cabin-terrassen under G8-toppmøtet i 2012 på Camp David Trump International Golf Club i West Palm Beach, derimot, er forbundet med resten av byen med store veier, hvorav noen er omkranset av støttespillere eller demonstranter når presidenten er der."
+        "Ukrainas president Volodymyr Zelensky sa at Kievs allierte trengte å iverksette \"konkrete handlinger\" Minst 30 mennesker er drept i et russisk glidebombeangrep på to sivile busser i den østlige frontlinjebyen Kramatorsk, sier redningstjenestemenn.",
+        "Barn drept mens de sov mens russiske missiler dreper 22 i blokkleiligheter Sivile får beskjed om å flykte fra Ukrainas festningsbyer mens Russland prøver å kontrollere Donbas. Russland starter også konstante luftangrep mot hovedstaden Kiev, med sirener som ringer hele dagen.",
+        "Det følger en dramatisk økning i russiske angrep over hele landet og en kraftig økning i sivile tap.",
+        "Ukrainas president Volodymyr Zelensky sa: \"Denne streiken vil ikke gå uten vår respons.\" I et innlegg på Telegram sa han: \"Russland prøver å ødelegge alt liv i Donbas, og verden må reagere på dette."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9gkvxjvl7v3o",
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2f8e/live/f2a8e0a0-c2e1-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/16f4fcc938ebe5.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
+      "localImage": "assets/news/eb3d58386c5a87.jpg",
       "score": 17
-    },
-    {
-      "id": "d6ff957a102c69",
-      "category": "USA",
-      "published": "07.10. 16:09",
-      "publishedISO": "2026-10-07T16:09:54+02:00",
-      "title": "China Open: Coco Gauff on 'draining few days' after online racist abuse",
-      "summary": "Coco Gauff vant China Open i 2024 og nådde semifinalen i fjor. Coco Gauff sa at hun hadde en \"tømming\" noen dager etter å ha mottatt rasistiske overgrep på nettet før hennes avslutning i fjerde runde av China Open. På spørsmål om hvordan hun hadde følt seg de siste 36 timene, sa Gauff: \"Det har vært litt slitsomt, jeg kommer ikke til å lyve. \"Jeg slår av telefonen min og går videre. Gauff fordømmer rasistiske overgrep etter China Open-seier Kvinnelige tennisspillere møtte 12 000 voldelige innlegg i 2025",
-      "keyPoints": [
-        "Coco Gauff vant China Open i 2024 og nådde semifinalen i fjor. Coco Gauff sa at hun hadde en \"tømming\" noen dager etter å ha mottatt rasistiske overgrep på nettet før hennes avslutning i fjerde runde av China Open.",
-        "Gauff condemns racist abuse after China Open win Female tennis players faced 12,000 abusive posts in 2025",
-        "På spørsmål om hvordan hun hadde følt seg de siste 36 timene, sa Gauff: \"Det har vært litt slitsomt, jeg kommer ikke til å lyve. \"Jeg slår av telefonen min og går videre.",
-        "22-åringen la ut en lang uttalelse som forklarte hva som hadde skjedd og fordømte senere de rasistiske overgrepene hun mottok som svar."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/c6pqgdr4z08xo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/9923/live/7ff8d500-c242-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/d6ff957a102c69.jpg",
-      "score": 14
     },
     {
       "id": "841d94943348d6",
@@ -77,7 +77,7 @@
         "Interiørkjeden Kid fikk inntekter på 1,01 millliarder kroner i tredje kvartal, et hopp på 15 prosent fra 879 millioner kroner i tilsvarende kvartal i fjor.",
         "I segmentet Kid interiør var salgsveksten på 14,3 prosent til 656 millioner kroner, mens den var på 17 prosent til 362 millioner svenske kroner i Hemtex.",
         "Møbelkjeden Bohus hadde en urevidert omsetning på 1,03 milliarder kroner i tredje kvartal.",
-        "I oljemarkedet handles nordsjøoljen (spot) for 103,6 dollar per fat, opp fra 101,7 dollar ved stengetid på Børsen onsdag."
+        "I oljemarkedet handles nordsjøoljen (spot) for 104,5 dollar per fat, opp fra 101,7 dollar ved stengetid på Børsen onsdag."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -85,28 +85,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f3ada29e-d2ed-3be5-8166-cacd1be9ec60?fit=crop&h=675&upscale=true&w=1200&s=2c3b2014f3ea1723c1d10257b2c3c69526340598",
       "localImage": "assets/news/841d94943348d6.jpg",
-      "score": 23
+      "score": 22
     },
     {
-      "id": "e6ff65ca472099",
+      "id": "e311fdf3c5dcab",
       "category": "Økonomi",
-      "published": "07.10. 09:02",
-      "publishedISO": "2026-10-07T09:02:32+02:00",
-      "title": "Shippingaksjer tynget Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs stengte ned 0,76 prosent onsdag. Det kom etter at rederiet hentet 300 millioner dollar, eller 2,9 milliarder kroner. Det varsles samtidig at rederiet venter et justert driftsresultat (ebitda) på mellom 420 og 450 millioner dollar i tredje kvartal.",
+      "published": "08.10. 13:49",
+      "publishedISO": "2026-10-08T13:49:02+02:00",
+      "title": "Kepler Cheuvreux legger ned avdeling i Norge",
+      "summary": "Han understreker at det Paris-baserte meglerhuset fortsatt skal dekke norske selskaper – bare fra andre kontorer. – Vi har 12 kontorer forskjellige steder i Europa og USA. Vi skal ikke legge ned norsk research, men vi kommer til å dekke det fra andre kontorer. Swedbank gikk i stedet sammen med norske Sparebank 1 Markets om et meglerhus i Sverige. – Da vi var et større analysemiljø i Norge, var det basert på at vi hadde samarbeid med Swedbank.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs stengte ned 0,76 prosent onsdag.",
-        "Det kom etter at rederiet hentet 300 millioner dollar, eller 2,9 milliarder kroner.",
-        "Det varsles samtidig at rederiet venter et justert driftsresultat (ebitda) på mellom 420 og 450 millioner dollar i tredje kvartal.",
-        "Knekken i bilfraktrederiene Wallenius Wilhelmsen og Höegh Autoliners kom etter at Bloomberg meldte at EU forbereder beskyttelsestiltak som vil begrense importen av kinesiske hybridbiler til unionen."
+        "Swedbank gikk i stedet sammen med norske Sparebank 1 Markets om et meglerhus i Sverige. – Da vi var et større analysemiljø i Norge, var det basert på at vi hadde samarbeid med Swedbank.",
+        "Vi skal ikke legge ned norsk research, men vi kommer til å dekke det fra andre kontorer.",
+        "Han understreker at det Paris-baserte meglerhuset fortsatt skal dekke norske selskaper – bare fra andre kontorer. – Vi har 12 kontorer forskjellige steder i Europa og USA.",
+        "I Norge beholder meglerhuset aksjemegling, møter mellom selskaper og investorer, og håndtering av kundeordre."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/jvQbze/shippingaksje-faller-paa-flat-oslo-boers",
+      "url": "https://e24.no/boers-og-finans/i/d77lvX/kepler-cheuvreux-legger-ned-avdeling-i-norge",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9239748d-aea7-387e-9991-e3baec1c00c2?fit=crop&h=675&upscale=true&w=1200&s=1b8bfb6f472c36a7c8521888914b433c4ee5fa4f",
-      "localImage": "assets/news/e6ff65ca472099.jpg",
-      "score": 20
+      "image": "https://akamai.vgc.no/v2/images/243690f0-5b8c-39c2-ac1a-8620eab9c546?fit=crop&h=675&upscale=true&w=1200&s=974429c8a082c0d8e0497748aa2df6eef5c1a9df",
+      "localImage": "assets/news/e311fdf3c5dcab.jpg",
+      "score": 18
+    },
+    {
+      "id": "1ec46dc74594cb",
+      "category": "AI",
+      "published": "08.10. 13:01",
+      "publishedISO": "2026-10-08T13:01:29+02:00",
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "summary": "Den ga ut oppdateringen etter at BBC News fortalte forhandleren at den hadde blitt kontaktet av nettkriminelle som sa at denne ukens brudd gikk utover de \"grunnleggende kontaktdetaljene\" Asos tidligere sa at kunne ha blitt åpnet. I sin e-post til kundene bekreftet Asos at dataprofiler ble tatt, men sa at ingen bankdetaljer eller passord ble åpnet. \"Vennligst vær forsiktig med uventede meldinger eller anrop som hevder å være fra Asos,\" sa den. \"Vi vil aldri be deg om å dele passord, sikkerhetskoder eller betalingsdetaljer gjennom en uoppfordret melding eller samtale.\" Selskapet svarte ikke på spørsmål om omfanget av bruddet. BBC holdt ut å publisere denne artikkelen for å la Asos kontakte kundene først.",
+      "keyPoints": [
+        "Den ga ut oppdateringen etter at BBC News fortalte forhandleren at den hadde blitt kontaktet av nettkriminelle som sa at denne ukens brudd gikk utover de \"grunnleggende kontaktdetaljene\" Asos tidligere sa at kunne ha blitt åpnet.",
+        "BBC holdt ut å publisere denne artikkelen for å la Asos kontakte kundene først.",
+        "I sin e-post til kundene bekreftet Asos at dataprofiler ble tatt, men sa at ingen bankdetaljer eller passord ble åpnet. \"Vennligst vær forsiktig med uventede meldinger eller anrop som hevder å være fra Asos,\" sa den. \"Vi vil aldri be deg om å dele passord, sikkerhetskoder eller betalingsdetaljer gjennom en uoppfordret melding eller samtale.\" Selskapet svarte ikke på spørsmål om omfanget av bruddet.",
+        "Senere samme dag bekreftet firmaet til aksjonærene via London Stock Exchange at pop-upen ble sendt av en \"uautorisert tredjepart\" og \"grunnleggende personlig informasjon inkludert navn og kontaktinformasjon kan ha blitt åpnet.\" Selskapet sendte deretter en e-post til kunder med lignende ordlyd."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef63/live/b1b98540-c30e-11f1-a64c-550be9e3c66b.jpg",
+      "localImage": "assets/news/1ec46dc74594cb.jpg",
+      "score": 17
     },
     {
       "id": "3f8ee961948a1d",
@@ -127,90 +148,69 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/L-VyZH__ACRrJ40tB6bwGwamX5-1BB0grCvjZaV2lupQ.jpg",
       "localImage": "assets/news/3f8ee961948a1d.jpg",
-      "score": 21
+      "score": 19
     },
     {
-      "id": "e446e517831dfb",
+      "id": "c59e946b74d8a6",
       "category": "Norge",
-      "published": "07.10. 21:36",
-      "publishedISO": "2026-10-07T21:36:05+02:00",
-      "title": "Stortinget ba om avvikling – regjeringen foreslår videre drift",
-      "summary": "Stortinget har bedt regjeringen avvikle normprisrådet fra 2027. I stedet foreslår regjeringen 20,1 millioner kroner til videre drift. Beskjeden fra Stortinget kom i juni: Regjeringen skulle legge fram forslag om å avvikle både normprisrådet og ordningen med normpriser fra inntektsåret 2027.",
+      "published": "08.10. 15:43",
+      "publishedISO": "2026-10-08T15:43:05+02:00",
+      "title": "Skjøt jaktkameraten: – En misforståelse",
+      "summary": "Den norske 60-åringen som er siktet mener han ikke har gjort noe straffbart etter jaktulykken i Sverige, opplyser forsvareren til NRK. Politiet ble varslet om hendelsen klokka 17.35 torsdag 1. oktober. – Han mener han ikke har gjort noe straffbart. Det skyldes menneskelige faktorer og en misforståelse, forteller Jaldeby.",
       "keyPoints": [
-        "I stedet foreslår regjeringen 20,1 millioner kroner til videre drift.",
-        "Beskjeden fra Stortinget kom i juni: Regjeringen skulle legge fram forslag om å avvikle både normprisrådet og ordningen med normpriser fra inntektsåret 2027.",
-        "Regjeringen tar sikte på å sende et forslag på høring våren 2027, slik at en nærmere vurdering og forslag kan legges frem i statsbudsjettet for 2028. – Stortinget har ikke sagt noe om hva som skal erstatte normpriser og prisråd.",
-        "Også administrerende direktør Geir Ove Ystmark i Sjømat Norge reagerer. – Regjeringen har ikke fått forslag fra Stortinget, men et vedtak og en beskjed til regjeringen."
+        "Den norske 60-åringen som er siktet mener han ikke har gjort noe straffbart etter jaktulykken i Sverige, opplyser forsvareren til NRK.",
+        "Det skyldes menneskelige faktorer og en misforståelse, forteller Jaldeby.",
+        "Politiet ble varslet om hendelsen klokka 17.35 torsdag 1. oktober. – Han mener han ikke har gjort noe straffbart.",
+        "Den siktede mannen i 60-årene, som også var norsk og med i jaktlaget, ble pågrepet og er siktet for uaktsomt drap."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/stortinget-ba-om-avvikling-_-regjeringen-foreslar-videre-drift-1.18048383",
+      "url": "https://www.nrk.no/nordland/skjot-jaktkameraten_-_-en-misforstaelse-1.18047910",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/cyeWVsv9D20WYnWbGDsEWQH0D47DEmDFbDLtSWMeWWjA.jpg",
-      "localImage": "assets/news/e446e517831dfb.jpg",
-      "score": 19
+      "image": "https://gfx.nrk.no/IU60TmTMGEFkOcQN7xqlZwVUWBd5xaFsW9W7fklugfSQ.jpg",
+      "localImage": "assets/news/c59e946b74d8a6.jpg",
+      "score": 17
     },
     {
-      "id": "2266a2fac70b84",
+      "id": "8d3fbc758165d1",
       "category": "Økonomi",
-      "published": "07.10. 20:24",
-      "publishedISO": "2026-10-07T20:24:10+02:00",
-      "title": "Hedgefond-milliardær advarer: Tror AI-boble nærmer seg bristepunktet",
-      "summary": "Dalio advarte i starten av året om at vi var i en tidlig fase av en AI-boble. Nå som han tror vi nærmer oss sprekken, trekker han også frem andre faktorer som kan trigge kollapsen. Flere norske finansprofiler har også vært bekymret for en eventuell AI-boble. – Men jeg tror fremdeles ikke vi er i «sprekkeferdig-boble»-territorium, har forvalter Magnus Vie Sundal i Borea Asset Management tidligere sagt til E24.",
+      "published": "08.10. 15:31",
+      "publishedISO": "2026-10-08T15:31:44+02:00",
+      "title": "Chipotle hopper på oppkjøpsrykter",
+      "summary": "Slik går det med de toneangivende indeksene rundt klokken 16.20: Oljeprisen (brent spot) ligger på 104,7 dollar per fat, opp rundt 3,9 prosent siden midnatt. Hurtigmatkjeden Chipotle stiger på New York-børsen etter en Financial Times-artikkel om at kaffekjeden Starbucks vurderer å kjøpe opp selskapet. Chipotle har en markedsverdi på nær 39 milliarder dollar.",
       "keyPoints": [
-        "Nå som han tror vi nærmer oss sprekken, trekker han også frem andre faktorer som kan trigge kollapsen.",
-        "Flere norske finansprofiler har også vært bekymret for en eventuell AI-boble. – Men jeg tror fremdeles ikke vi er i «sprekkeferdig-boble»-territorium, har forvalter Magnus Vie Sundal i Borea Asset Management tidligere sagt til E24.",
-        "Dalio advarte i starten av året om at vi var i en tidlig fase av en AI-boble.",
-        "Dersom en AI-boble sprekker, kan det føre til kraftige fall i teknologiaksjer, som igjen påvirker børser og investeringer over hele verden."
+        "Chipotle har en markedsverdi på nær 39 milliarder dollar.",
+        "Hurtigmatkjeden Chipotle stiger på New York-børsen etter en Financial Times-artikkel om at kaffekjeden Starbucks vurderer å kjøpe opp selskapet.",
+        "Slik går det med de toneangivende indeksene rundt klokken 16.20: Oljeprisen (brent spot) ligger på 104,7 dollar per fat, opp rundt 3,9 prosent siden midnatt.",
+        "Starbucks-sjef Brian Niccol har tidligere vært toppsjef i Chipotle."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/n91XBo/hedgefond-milliardaer-advarer-tror-ai-boble-naermer-seg-bristepunktet",
+      "url": "https://e24.no/boers-og-finans/i/644zgz/nedgang-paa-wall-street",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/62ae3a03-6bb1-3d42-862c-d82e4aa5df63?fit=crop&h=675&upscale=true&w=1200&s=56ccbc87f76ac3719c1185bbf07051aa53b5ce57",
-      "localImage": "assets/news/2266a2fac70b84.jpg",
-      "score": 19
+      "image": "https://akamai.vgc.no/v2/images/06e95d0e-db82-314f-9e37-b7c4e086073b?fit=crop&h=675&upscale=true&w=1200&s=e0883f4786a63edfafb8e2eff134bb0c173c9e40",
+      "localImage": "assets/news/8d3fbc758165d1.jpg",
+      "score": 17
     },
     {
-      "id": "ad4b5161b4819b",
-      "category": "Økonomi",
-      "published": "07.10. 08:00",
-      "publishedISO": "2026-10-07T08:00:47+02:00",
-      "title": "Vil bruke 608 milliarder oljekroner neste år",
-      "summary": "Statsminister Jonas Gahr Støre har allerede gått ut i VG og lekket at det vil bli brede skattelettelser på inntekt, som til sammen tilsvarer 6,4 milliarder kroner. – Når man ser store skattelettelser som går bredt gjennom befolkningen så underbygger det den økonomiske aktiviteten og inflasjonspresset, sier sjeføkonom i SEB Erica Dalstø. I budsjettet er det lagt til grunn en anslått verdi av fondet på 22.400 milliarder kroner ved inngangen til 2027. Budsjettet vil ha «en om lag nøytral effekt på aktiviteten i økonomien neste år», skriver Finansdepartementet i en pressemelding. «Norsk økonomi går godt, men veksten har avtatt noe det siste året», skriver departementet.",
+      "id": "f42bb83a3e5e48",
+      "category": "Norge",
+      "published": "08.10. 15:26",
+      "publishedISO": "2026-10-08T15:26:46+02:00",
+      "title": "OL-gullvinner Solfrid Koanda dropper VM: – Kjedelig",
+      "summary": "En ryggskade gjør at vektløfter Solfrid Koanda fra Grimstad må stå over VM i Kina. Mesterskapet som starter i månedsskiftet oktober-november, går uten den norske favoritten. – Så det er veldig kjedelig, innrømmer den regjerende mesteren. Solfrid Koanda smiler når hun tenker tilbake på OL-gullet i Paris i 2024.",
       "keyPoints": [
-        "Statsminister Jonas Gahr Støre har allerede gått ut i VG og lekket at det vil bli brede skattelettelser på inntekt, som til sammen tilsvarer 6,4 milliarder kroner. – Når man ser store skattelettelser som går bredt gjennom befolkningen så underbygger det den økonomiske aktiviteten og inflasjonspresset, sier sjeføkonom i SEB Erica Dalstø.",
-        "I budsjettet er det lagt til grunn en anslått verdi av fondet på 22.400 milliarder kroner ved inngangen til 2027.",
-        "Budsjettet vil ha «en om lag nøytral effekt på aktiviteten i økonomien neste år», skriver Finansdepartementet i en pressemelding. «Norsk økonomi går godt, men veksten har avtatt noe det siste året», skriver departementet.",
-        "Oljefondets verdi er for øyeblikket rundt 22.140 milliarder kroner."
+        "Solfrid Koanda smiler når hun tenker tilbake på OL-gullet i Paris i 2024.",
+        "En ryggskade gjør at vektløfter Solfrid Koanda fra Grimstad må stå over VM i Kina.",
+        "Mesterskapet som starter i månedsskiftet oktober-november, går uten den norske favoritten. – Så det er veldig kjedelig, innrømmer den regjerende mesteren.",
+        "Koanda fryktet at kroppen ville få en knekk dersom hun presset seg gjennom et VM nå."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/R5rrg2/regjeringen-vil-bruke-608-4-milliarder-oljekroner-neste-aar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/22ce5a7f-2fd7-37c5-8e81-b4cba5073bcd?fit=crop&h=675&upscale=true&w=1200&s=77b1490cbe7cfb3c61e0ecacb7dd11f82d52cc7d",
-      "localImage": "assets/news/ad4b5161b4819b.jpg",
-      "score": 19
-    },
-    {
-      "id": "547f23fffb04e4",
-      "category": "Økonomi",
-      "published": "07.10. 15:33",
-      "publishedISO": "2026-10-07T15:33:16+02:00",
-      "title": "Rentefrykt trakk Wall Street ned fra rekordnivåer",
-      "summary": "Tekgiganter som Nvidia, SpaceX og Facebook trakk fortsatt ned, mens Google og Microsoft snudde i pluss. Oljeprisen snudde marginalt ned for dagen til 101 dollar fatet, etter oppgang tidligere på dagen. Renten på tiårig amerikansk statsgjeld steg tidligere på dagen til 5,35 prosent, det høyeste siden april 2002, men kom litt ned etter en auksjon i statsgjeld som viste solid etterspørsel, ifølge CNBC.",
-      "keyPoints": [
-        "Tekgiganter som Nvidia, SpaceX og Facebook trakk fortsatt ned, mens Google og Microsoft snudde i pluss.",
-        "Renten på tiårig amerikansk statsgjeld steg tidligere på dagen til 5,35 prosent, det høyeste siden april 2002, men kom litt ned etter en auksjon i statsgjeld som viste solid etterspørsel, ifølge CNBC.",
-        "Oljeprisen snudde marginalt ned for dagen til 101 dollar fatet, etter oppgang tidligere på dagen.",
-        "Musks mer jordnære selskap, Tesla, endte ned 0,8 prosent."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2Vp5OR/wall-street-faller-etter-renteoppgang-og-hoeyere-oljepris",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e4535f15-6b9f-3abd-87e9-ac9c418aa14c?fit=crop&h=675&upscale=true&w=1200&s=c99553bfa013db8194513aa5334cb3687ec026ce",
-      "localImage": "assets/news/547f23fffb04e4.jpg",
+      "url": "https://www.nrk.no/sorlandet/ryggtrobbel-stopper-ol-mesteren_-koanda-dropper-vm-i-kina-1.18049577",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/kAWRuLNODdwLIjOEf7UXlg8RF44A1P8FSkwRbBnrbSUw.jpg",
+      "localImage": "assets/news/f42bb83a3e5e48.jpg",
       "score": 17
     }
   ]
