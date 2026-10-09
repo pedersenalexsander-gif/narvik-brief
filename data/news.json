@@ -1,6 +1,6 @@
 {
-  "updatedAt": "09.10.2026 kl. 03:01",
-  "updatedISO": "2026-10-09T03:01:51.470201+02:00",
+  "updatedAt": "09.10.2026 kl. 09:25",
+  "updatedISO": "2026-10-09T09:25:49.004016+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BeBZ_SEJaH6vGT8K38SsKwWh0w7-vsFOMTgtZB4CI2KA.jpg",
       "localImage": "assets/news/a13e5b2588653f.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "b6a2a3e6f62371",
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/9RWAVAfg_f-5WvrXJ3aY_w-WakfqPKzl4P9jHCbIQGeQ.jpg",
       "localImage": "assets/news/b6a2a3e6f62371.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "eb3d58386c5a87",
@@ -64,7 +64,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
       "localImage": "assets/news/eb3d58386c5a87.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "bbea3927c6d051",
+      "category": "Økonomi",
+      "published": "09.10. 09:03",
+      "publishedISO": "2026-10-09T09:03:21+02:00",
+      "title": "Oljeaksjer faller på flat Oslo Børs",
+      "summary": "I oljemarkedet handles nordsjøoljen for 103,5 dollar per fat, ned fra 104,3 dollar fatet ved stengetid på Børsen torsdag. Flere Oslo Børs-selskaper har kommet med oppdateringer i forkant av kvartalsresultater. Det oppnådde en netto fraktrate på 82 dollar per kubikkmeter i september, mens brutto fraktrate var på 99 dollar per kubikkmeter, ifølge en børsmelding.",
+      "keyPoints": [
+        "Det oppnådde en netto fraktrate på 82 dollar per kubikkmeter i september, mens brutto fraktrate var på 99 dollar per kubikkmeter, ifølge en børsmelding.",
+        "I oljemarkedet handles nordsjøoljen for 103,5 dollar per fat, ned fra 104,3 dollar fatet ved stengetid på Børsen torsdag.",
+        "Flere Oslo Børs-selskaper har kommet med oppdateringer i forkant av kvartalsresultater.",
+        "Olje- og gasselskapet BlueNord produserte rundt 43.900 fat oljeekvivalenter per dag i september, ifølge foreløpige tall i en børsmelding."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/p11P76/oljeaksjer-faller-paa-flat-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c7741b14-2d6d-3ee2-af8f-75e8321a2beb?fit=crop&h=675&upscale=true&w=1200&s=d104d25dff0f9cd47186ff12496549efe1526e4a",
+      "localImage": "assets/news/bbea3927c6d051.jpg",
+      "score": 23
     },
     {
       "id": "3f056fd21d59ea",
@@ -85,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eef7d14f-b3d2-3899-b1fc-2d9223684c62?fit=crop&h=675&upscale=true&w=1200&s=65921090da07f06d04dbab2b8b450028cae2e62b",
       "localImage": "assets/news/3f056fd21d59ea.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "841d94943348d6",
@@ -106,7 +127,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f3ada29e-d2ed-3be5-8166-cacd1be9ec60?fit=crop&h=675&upscale=true&w=1200&s=2c3b2014f3ea1723c1d10257b2c3c69526340598",
       "localImage": "assets/news/841d94943348d6.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "e9d396ba11f820",
+      "category": "Norge",
+      "published": "09.10. 06:50",
+      "publishedISO": "2026-10-09T06:50:02+02:00",
+      "title": "Idretten vil overta Nye Tromsø­hallen",
+      "summary": "Etter at Tromsø havna på ROBEK-lista, foreslo kommunedirektøren å legge planene om å bygge den nye Tromsøhallen på is. Selv om kommunedirektøren ønsker å sette en pause på hele prosjektet, ønsker idretten å ta over. – Ei mulig løsning kan være å se om vi kan realisere prosjektet på idrettens egne hender. Han tror at i praksis betyr samarbeidet mellom kommunen at kommunen ikke trenger å ta opp lånene som de hadde tenkt i prosjektet, men at det overføres til de idrettslagene som nå er en del av det prosjektet. – Hvordan skal man da finansiere den nye Tromsøhallen? – Det betyr at i dag så ligger det inne både spillemidler og momskompensasjon.",
+      "keyPoints": [
+        "Etter at Tromsø havna på ROBEK-lista, foreslo kommunedirektøren å legge planene om å bygge den nye Tromsøhallen på is.",
+        "Han tror at i praksis betyr samarbeidet mellom kommunen at kommunen ikke trenger å ta opp lånene som de hadde tenkt i prosjektet, men at det overføres til de idrettslagene som nå er en del av det prosjektet. – Hvordan skal man da finansiere den nye Tromsøhallen? – Det betyr at i dag så ligger det inne både spillemidler og momskompensasjon.",
+        "Selv om kommunedirektøren ønsker å sette en pause på hele prosjektet, ønsker idretten å ta over. – Ei mulig løsning kan være å se om vi kan realisere prosjektet på idrettens egne hender.",
+        "Alf-Konrad Wilhelmsen, daglig leder, Tromsø idrettsråd. – Så langt er det jo kjent at Samfunnsløftet har sagt at de vil være en del av dette."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/idretten-vil-overta-nye-tromsohallen-1.18049836",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/FAn_8iHrhT-_DLCtcAKvSw40KZrSU29yH4F7vll_I_TA.jpg",
+      "localImage": "assets/news/e9d396ba11f820.jpg",
+      "score": 17
+    },
+    {
+      "id": "2313de7b2be88a",
+      "category": "Norge",
+      "published": "09.10. 06:28",
+      "publishedISO": "2026-10-09T06:28:31+02:00",
+      "title": "Mímir Kristjánsson og Erna Solberg i munter ordkrig før vestlandsderbyet mellom Brann og Viking",
+      "summary": "Mímir Kristjánsson og Erna Solberg i munter ordkrig før vestlandsderbyet mellom Brann og Viking. Mímir Kristjánsson i bar overkropp saman med supportergruppa Viking Oslo på bortekamp då laget spelte i 1. divisjon i 2018-sesongen. Fredag 9. oktober er det nytt vestlandsderby mellom Brann og Viking i Bergen. – Kor vondt gjer det for bergensarane å sjå Viking i Meisterligaen, om dei i det heile tatt gjer det, Mímir Kristjánsson? – Dei påstår at det ikkje angår dei fordi Stavanger er ein liten filleby og så vidare.",
+      "keyPoints": [
+        "Mímir Kristjánsson og Erna Solberg i munter ordkrig før vestlandsderbyet mellom Brann og Viking.",
+        "Fredag 9. oktober er det nytt vestlandsderby mellom Brann og Viking i Bergen. – Kor vondt gjer det for bergensarane å sjå Viking i Meisterligaen, om dei i det heile tatt gjer det, Mímir Kristjánsson? – Dei påstår at det ikkje angår dei fordi Stavanger er ein liten filleby og så vidare.",
+        "Mímir Kristjánsson i bar overkropp saman med supportergruppa Viking Oslo på bortekamp då laget spelte i 1. divisjon i 2018-sesongen.",
+        "Raudt-politikar Mímir Kristjánsson frå Stavanger er blant dei mest profilerte Viking-supporterane."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/mimir-kristjansson-og-erna-solberg-i-munter-ordkrig-for-vestlandsderbyet-mellom-brann-og-viking-1.18040662",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/NdjEPm64pafSQlpLs0Ls8gs3fGFoCpqpV87AgPX2o2-g.jpg",
+      "localImage": "assets/news/2313de7b2be88a.webp",
+      "score": 17
+    },
+    {
+      "id": "dcd3afba21d8d2",
+      "category": "Norge",
+      "published": "09.10. 06:00",
+      "publishedISO": "2026-10-09T06:00:17+02:00",
+      "title": "Sammen om sikkerhet og beredskap",
+      "summary": "Derfor forplikter RUV, NRK, SVT, DR, SR, UR og Yle seg nå gjennom Reykjavik-avtalen til et tettere samarbeid om beredskap, motstandsdyktighet og kontinuitet i krisetider. Til sammen skal organisasjonene våre nå ut til mer enn 28 millioner mennesker på Island og i Danmark, Norge, Sverige og Finland. Dette er ikke en hypotetisk bekymring – det er en virkelighet nordiske allmennkringkastere må være forberedt på å møte sammen.",
+      "keyPoints": [
+        "Til sammen skal organisasjonene våre nå ut til mer enn 28 millioner mennesker på Island og i Danmark, Norge, Sverige og Finland.",
+        "Derfor forplikter RUV, NRK, SVT, DR, SR, UR og Yle seg nå gjennom Reykjavik-avtalen til et tettere samarbeid om beredskap, motstandsdyktighet og kontinuitet i krisetider.",
+        "Dette er ikke en hypotetisk bekymring – det er en virkelighet nordiske allmennkringkastere må være forberedt på å møte sammen.",
+        "Foran fra venstre: Cilla Benkø (SR), Vibeke Fürst Haugen (NRK), Anne Lagercrantz (SVT), Yles Marit Valentina af Björkesten og Stefán Eiríksson (RÚV)."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/ytring/sammen-om-sikkerhet-og-beredskap-1.18049164",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/RrsTn1ipanaAMyP3xBv83wZA4XubPxIEBeEt3XF-u9dA.jpg",
+      "localImage": "assets/news/dcd3afba21d8d2.webp",
+      "score": 17
     },
     {
       "id": "a5dd6c99b1d9e6",
@@ -127,91 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/23564acb-1476-3523-a10b-da652e0364a5?fit=crop&h=675&upscale=true&w=1200&s=fb78eb81b8434d3fd3a488ea584fb6ad70462a2a",
       "localImage": "assets/news/a5dd6c99b1d9e6.jpg",
-      "score": 19
-    },
-    {
-      "id": "e7d97da9a69c2d",
-      "category": "Norge",
-      "published": "08.10. 09:16",
-      "publishedISO": "2026-10-08T09:16:37+02:00",
-      "title": "Regjeringen har vedtatt å bruke 80 milliarder på sivil beredskap, i Finnmark ser man lite til dette",
-      "summary": "Skuffelsen til Mæland er særlig stor fordi regjeringen i fjor vedtok å bruke 5 prosent av BNP, Norges brutto nasjonalprodukt, på å styrke forsvarsevnen og trygge folk i Norge. 1,5 prosent av dette, om lag 80 milliarder, skulle gå til sivil beredskap. Regjeringen setter av 15 millioner kroner til Senter for motstandskraft i Kirkenes og 6 millioner ekstra til kommunale beredskapskoordinatorer i Finnmark.",
-      "keyPoints": [
-        "1,5 prosent av dette, om lag 80 milliarder, skulle gå til sivil beredskap.",
-        "Skuffelsen til Mæland er særlig stor fordi regjeringen i fjor vedtok å bruke 5 prosent av BNP, Norges brutto nasjonalprodukt, på å styrke forsvarsevnen og trygge folk i Norge.",
-        "Regjeringen setter av 15 millioner kroner til Senter for motstandskraft i Kirkenes og 6 millioner ekstra til kommunale beredskapskoordinatorer i Finnmark.",
-        "Etterslepet bare på vedlikehold av veiene i Finnmark er på 3,5 milliarder kroner."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-har-vedtatt-a-bruke-80-milliarder-pa-sivil-beredskap_-i-finnmark-ser-man-lite-til-dette-1.18045467",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/j5myItisUaGDuZnSYCvCYQEk2b-C50-h_2KU5cHL6ang.jpg",
-      "localImage": "assets/news/e7d97da9a69c2d.webp",
-      "score": 18
-    },
-    {
-      "id": "9d328ffb949804",
-      "category": "Norge",
-      "published": "08.10. 22:30",
-      "publishedISO": "2026-10-08T22:30:09+02:00",
-      "title": "Gaza etter tre år med krig",
-      "summary": "Som mange i Gaza deler Jadou livet inn i før og etter 7. oktober 2023. Over 74.000 mennesker er drept, ifølge helsemyndighetene i Gaza. For de over 2 millionene palestinere i Gaza er livet ikke til å kjenne igjen. – Det finnes ingen i Gaza som ikke har mistet venner, slektninger eller søsken.",
-      "keyPoints": [
-        "Som mange i Gaza deler Jadou livet inn i før og etter 7. oktober 2023.",
-        "For de over 2 millionene palestinere i Gaza er livet ikke til å kjenne igjen. – Det finnes ingen i Gaza som ikke har mistet venner, slektninger eller søsken.",
-        "Over 74.000 mennesker er drept, ifølge helsemyndighetene i Gaza.",
-        "Jeg kunne ta vare på familien min, og vi hadde det meste vi trengte, sier han til NRKs lokale team i Gaza."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/xl/dette-er-gaza-etter-tre-ar-med-krig-1.18047555",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/N8jl5Cb8QvxucMXACOHxFAMb0Lr7Hb0ZXaRv65jkDp-w.jpg",
-      "localImage": "assets/news/9d328ffb949804.jpg",
       "score": 17
-    },
-    {
-      "id": "3f8ee961948a1d",
-      "category": "Norge",
-      "published": "07.10. 10:38",
-      "publishedISO": "2026-10-07T10:38:59+02:00",
-      "title": "Her drysses det forsvarspenger i statsbudsjettet",
-      "summary": "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år. Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg. I statsbudsjettet settes det av om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
-      "keyPoints": [
-        "I statsbudsjettet settes det av om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
-        "Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg.",
-        "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år.",
-        "Regjeringen planlegger å investere i eiendom, bygg og anlegg for om lag 450 millioner kroner i 2027, hvorav 200 millioner kroner planlegges benyttet ved Porsangmoen og 30 millioner kroner ved Høybuktmoen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/her-drysses-det-forsvarspenger-i-statsbudsjettet-1.18047863",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/L-VyZH__ACRrJ40tB6bwGwamX5-1BB0grCvjZaV2lupQ.jpg",
-      "localImage": "assets/news/3f8ee961948a1d.jpg",
-      "score": 17
-    },
-    {
-      "id": "276d83b86466ae",
-      "category": "Norge",
-      "published": "08.10. 21:33",
-      "publishedISO": "2026-10-08T21:33:12+02:00",
-      "title": "Vil kutte i stipend til folkehøyskoler - kan miste 40.000 kroner",
-      "summary": "Regjeringa foreslår igjen å kutte stipendandelen på folkehøyskoler fra 40 til 15 prosent. Regjeringa vil kutte kraftig i elevstipendet til studenter på folkehøyskoler. Hun tror hun hadde droppet folkehøyskole dersom hun hadde mistet rundt 40.000 kroner i stipend. – Da hadde jeg nok funnet på noe annet.",
-      "keyPoints": [
-        "Hun tror hun hadde droppet folkehøyskole dersom hun hadde mistet rundt 40.000 kroner i stipend. – Da hadde jeg nok funnet på noe annet.",
-        "Regjeringa foreslår igjen å kutte stipendandelen på folkehøyskoler fra 40 til 15 prosent.",
-        "Regjeringa vil kutte kraftig i elevstipendet til studenter på folkehøyskoler.",
-        "I dag kan elever som fullfører ett år på folkehøyskole få omgjort 40 prosent av lånet sitt til stipend."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/vil-kutte-i-stipend-til-folkehoyskoler---kan-miste-40.000-kroner-1.18048385",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/CQOWQLZE_qvshSns5SIbNASwGgA1gZMptOKvx8rzh4Xg.jpg",
-      "localImage": "assets/news/276d83b86466ae.jpg",
-      "score": 16
     }
   ]
 }
