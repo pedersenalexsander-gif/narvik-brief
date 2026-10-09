@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.10.2026 kl. 22:51",
-  "updatedISO": "2026-10-08T22:51:53.530911+02:00",
+  "updatedAt": "09.10.2026 kl. 03:01",
+  "updatedISO": "2026-10-09T03:01:51.470201+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BeBZ_SEJaH6vGT8K38SsKwWh0w7-vsFOMTgtZB4CI2KA.jpg",
       "localImage": "assets/news/a13e5b2588653f.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "e7d97da9a69c2d",
+      "id": "b6a2a3e6f62371",
       "category": "Norge",
-      "published": "08.10. 09:16",
-      "publishedISO": "2026-10-08T09:16:37+02:00",
-      "title": "Regjeringen har vedtatt å bruke 80 milliarder på sivil beredskap, i Finnmark ser man lite til dette",
-      "summary": "Skuffelsen til Mæland er særlig stor fordi regjeringen i fjor vedtok å bruke 5 prosent av BNP, Norges brutto nasjonalprodukt, på å styrke forsvarsevnen og trygge folk i Norge. 1,5 prosent av dette, om lag 80 milliarder, skulle gå til sivil beredskap. Regjeringen setter av 15 millioner kroner til Senter for motstandskraft i Kirkenes og 6 millioner ekstra til kommunale beredskapskoordinatorer i Finnmark.",
+      "published": "09.10. 01:58",
+      "publishedISO": "2026-10-09T01:58:18+02:00",
+      "title": "Hegseth om planlagt henrettelse: Skal være «offentlig»",
+      "summary": "Den planlagte henrettelsen av Fort Hood-skytteren Nidal Hasan skal være «offentlig». Det sier USAs forsvarsminister Pete Hegseth i et intervju med TV-kanalen Real America's Voice, melder CBS News. Før kunngjøringen torsdag fikk de pårørende til dem som ble drept i massakren i 2009, spørsmål om de ville være til stede fysisk eller se henrettelsen digitalt, melder CBS News.",
       "keyPoints": [
-        "1,5 prosent av dette, om lag 80 milliarder, skulle gå til sivil beredskap.",
-        "Skuffelsen til Mæland er særlig stor fordi regjeringen i fjor vedtok å bruke 5 prosent av BNP, Norges brutto nasjonalprodukt, på å styrke forsvarsevnen og trygge folk i Norge.",
-        "Regjeringen setter av 15 millioner kroner til Senter for motstandskraft i Kirkenes og 6 millioner ekstra til kommunale beredskapskoordinatorer i Finnmark.",
-        "Etterslepet bare på vedlikehold av veiene i Finnmark er på 3,5 milliarder kroner."
+        "Den planlagte henrettelsen av Fort Hood-skytteren Nidal Hasan skal være «offentlig».",
+        "Før kunngjøringen torsdag fikk de pårørende til dem som ble drept i massakren i 2009, spørsmål om de ville være til stede fysisk eller se henrettelsen digitalt, melder CBS News.",
+        "Det sier USAs forsvarsminister Pete Hegseth i et intervju med TV-kanalen Real America's Voice, melder CBS News.",
+        "Det er uklart om dette eventuelt betyr at henrettelsen vil være tilgjengelig for alle eller bare utvalgte personer, melder nyhetsnettstedet Axios."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-har-vedtatt-a-bruke-80-milliarder-pa-sivil-beredskap_-i-finnmark-ser-man-lite-til-dette-1.18045467",
+      "url": "https://www.nrk.no/nyheter/hegseth-om-planlagt-henrettelse_-skal-vaere__offentlig_-1.18050036",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/j5myItisUaGDuZnSYCvCYQEk2b-C50-h_2KU5cHL6ang.jpg",
-      "localImage": "assets/news/e7d97da9a69c2d.webp",
-      "score": 19
+      "image": "https://gfx.nrk.no/9RWAVAfg_f-5WvrXJ3aY_w-WakfqPKzl4P9jHCbIQGeQ.jpg",
+      "localImage": "assets/news/b6a2a3e6f62371.jpg",
+      "score": 21
     },
     {
       "id": "eb3d58386c5a87",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
       "localImage": "assets/news/eb3d58386c5a87.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "3f056fd21d59ea",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eef7d14f-b3d2-3899-b1fc-2d9223684c62?fit=crop&h=675&upscale=true&w=1200&s=65921090da07f06d04dbab2b8b450028cae2e62b",
       "localImage": "assets/news/3f056fd21d59ea.jpg",
-      "score": 24
+      "score": 23
     },
     {
       "id": "841d94943348d6",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f3ada29e-d2ed-3be5-8166-cacd1be9ec60?fit=crop&h=675&upscale=true&w=1200&s=2c3b2014f3ea1723c1d10257b2c3c69526340598",
       "localImage": "assets/news/841d94943348d6.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "a5dd6c99b1d9e6",
@@ -127,27 +127,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/23564acb-1476-3523-a10b-da652e0364a5?fit=crop&h=675&upscale=true&w=1200&s=fb78eb81b8434d3fd3a488ea584fb6ad70462a2a",
       "localImage": "assets/news/a5dd6c99b1d9e6.jpg",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "3f8ee961948a1d",
+      "id": "e7d97da9a69c2d",
       "category": "Norge",
-      "published": "07.10. 10:38",
-      "publishedISO": "2026-10-07T10:38:59+02:00",
-      "title": "Her drysses det forsvarspenger i statsbudsjettet",
-      "summary": "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år. Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg. I statsbudsjettet settes det av om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
+      "published": "08.10. 09:16",
+      "publishedISO": "2026-10-08T09:16:37+02:00",
+      "title": "Regjeringen har vedtatt å bruke 80 milliarder på sivil beredskap, i Finnmark ser man lite til dette",
+      "summary": "Skuffelsen til Mæland er særlig stor fordi regjeringen i fjor vedtok å bruke 5 prosent av BNP, Norges brutto nasjonalprodukt, på å styrke forsvarsevnen og trygge folk i Norge. 1,5 prosent av dette, om lag 80 milliarder, skulle gå til sivil beredskap. Regjeringen setter av 15 millioner kroner til Senter for motstandskraft i Kirkenes og 6 millioner ekstra til kommunale beredskapskoordinatorer i Finnmark.",
       "keyPoints": [
-        "I statsbudsjettet settes det av om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
-        "Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg.",
-        "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år.",
-        "Regjeringen planlegger å investere i eiendom, bygg og anlegg for om lag 450 millioner kroner i 2027, hvorav 200 millioner kroner planlegges benyttet ved Porsangmoen og 30 millioner kroner ved Høybuktmoen."
+        "1,5 prosent av dette, om lag 80 milliarder, skulle gå til sivil beredskap.",
+        "Skuffelsen til Mæland er særlig stor fordi regjeringen i fjor vedtok å bruke 5 prosent av BNP, Norges brutto nasjonalprodukt, på å styrke forsvarsevnen og trygge folk i Norge.",
+        "Regjeringen setter av 15 millioner kroner til Senter for motstandskraft i Kirkenes og 6 millioner ekstra til kommunale beredskapskoordinatorer i Finnmark.",
+        "Etterslepet bare på vedlikehold av veiene i Finnmark er på 3,5 milliarder kroner."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/her-drysses-det-forsvarspenger-i-statsbudsjettet-1.18047863",
+      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-har-vedtatt-a-bruke-80-milliarder-pa-sivil-beredskap_-i-finnmark-ser-man-lite-til-dette-1.18045467",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/L-VyZH__ACRrJ40tB6bwGwamX5-1BB0grCvjZaV2lupQ.jpg",
-      "localImage": "assets/news/3f8ee961948a1d.jpg",
+      "image": "https://gfx.nrk.no/j5myItisUaGDuZnSYCvCYQEk2b-C50-h_2KU5cHL6ang.jpg",
+      "localImage": "assets/news/e7d97da9a69c2d.webp",
       "score": 18
     },
     {
@@ -172,46 +172,46 @@
       "score": 17
     },
     {
-      "id": "b75efff25d9e7c",
+      "id": "3f8ee961948a1d",
       "category": "Norge",
-      "published": "08.10. 18:29",
-      "publishedISO": "2026-10-08T18:29:11+02:00",
-      "title": "Vil videreføre reisestøtten i Nord-Norge: 5 millioner kroner til idretten",
-      "summary": "Regjeringen foreslår fem millioner kroner i reisestøtte til nordnorske idrettslag i statsbudsjettet. De første seks månedene i 2026 ble det totalt søkt om 25,7 millioner kroner i reisestøtte. – Vi er glade for at reisestøtten videreføres. Regjeringen vil videreføre prøveordningen som sikrer reisestøtte til idrettslag og utøvere fra Nord-Norge.",
+      "published": "07.10. 10:38",
+      "publishedISO": "2026-10-07T10:38:59+02:00",
+      "title": "Her drysses det forsvarspenger i statsbudsjettet",
+      "summary": "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år. Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg. I statsbudsjettet settes det av om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
       "keyPoints": [
-        "De første seks månedene i 2026 ble det totalt søkt om 25,7 millioner kroner i reisestøtte. – Vi er glade for at reisestøtten videreføres.",
-        "Regjeringen foreslår fem millioner kroner i reisestøtte til nordnorske idrettslag i statsbudsjettet.",
-        "Regjeringen vil videreføre prøveordningen som sikrer reisestøtte til idrettslag og utøvere fra Nord-Norge.",
-        "Det er en viktig anerkjennelse av de særlige utfordringene idretten i Nord-Norge møter med lange avstander og høye reisekostnader."
+        "I statsbudsjettet settes det av om lag 100 millioner kroner i 2027 til oppgradering av Bell-helikoptre til spesialstyrkene og Brigade Nord.",
+        "Det innebærer en økning på 6,5 milliarder kroner neste år, sier Stoltenberg.",
+        "Regjeringen varsler en økning på 6,5 milliarder i forsvarsbudsjettet neste år.",
+        "Regjeringen planlegger å investere i eiendom, bygg og anlegg for om lag 450 millioner kroner i 2027, hvorav 200 millioner kroner planlegges benyttet ved Porsangmoen og 30 millioner kroner ved Høybuktmoen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/vil-viderefore-reisestotten-i-nord-norge_-5-millioner-kroner-til-idretten-1.18049441",
+      "url": "https://www.nrk.no/tromsogfinnmark/her-drysses-det-forsvarspenger-i-statsbudsjettet-1.18047863",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/67Pp4sEh2fajblleU_AGzA_CxQNQanFjhEvDPl0YIbnQ.jpg",
-      "localImage": "assets/news/b75efff25d9e7c.jpg",
+      "image": "https://gfx.nrk.no/L-VyZH__ACRrJ40tB6bwGwamX5-1BB0grCvjZaV2lupQ.jpg",
+      "localImage": "assets/news/3f8ee961948a1d.jpg",
       "score": 17
     },
     {
-      "id": "e311fdf3c5dcab",
-      "category": "Økonomi",
-      "published": "08.10. 13:49",
-      "publishedISO": "2026-10-08T13:49:02+02:00",
-      "title": "Kepler Cheuvreux legger ned avdeling i Norge",
-      "summary": "Han understreker at det Paris-baserte meglerhuset fortsatt skal dekke norske selskaper – bare fra andre kontorer. – Vi har 12 kontorer forskjellige steder i Europa og USA. Vi skal ikke legge ned norsk research, men vi kommer til å dekke det fra andre kontorer. Swedbank gikk i stedet sammen med norske Sparebank 1 Markets om et meglerhus i Sverige. – Da vi var et større analysemiljø i Norge, var det basert på at vi hadde samarbeid med Swedbank.",
+      "id": "276d83b86466ae",
+      "category": "Norge",
+      "published": "08.10. 21:33",
+      "publishedISO": "2026-10-08T21:33:12+02:00",
+      "title": "Vil kutte i stipend til folkehøyskoler - kan miste 40.000 kroner",
+      "summary": "Regjeringa foreslår igjen å kutte stipendandelen på folkehøyskoler fra 40 til 15 prosent. Regjeringa vil kutte kraftig i elevstipendet til studenter på folkehøyskoler. Hun tror hun hadde droppet folkehøyskole dersom hun hadde mistet rundt 40.000 kroner i stipend. – Da hadde jeg nok funnet på noe annet.",
       "keyPoints": [
-        "Swedbank gikk i stedet sammen med norske Sparebank 1 Markets om et meglerhus i Sverige. – Da vi var et større analysemiljø i Norge, var det basert på at vi hadde samarbeid med Swedbank.",
-        "Vi skal ikke legge ned norsk research, men vi kommer til å dekke det fra andre kontorer.",
-        "Han understreker at det Paris-baserte meglerhuset fortsatt skal dekke norske selskaper – bare fra andre kontorer. – Vi har 12 kontorer forskjellige steder i Europa og USA.",
-        "I Norge beholder meglerhuset aksjemegling, møter mellom selskaper og investorer, og håndtering av kundeordre."
+        "Hun tror hun hadde droppet folkehøyskole dersom hun hadde mistet rundt 40.000 kroner i stipend. – Da hadde jeg nok funnet på noe annet.",
+        "Regjeringa foreslår igjen å kutte stipendandelen på folkehøyskoler fra 40 til 15 prosent.",
+        "Regjeringa vil kutte kraftig i elevstipendet til studenter på folkehøyskoler.",
+        "I dag kan elever som fullfører ett år på folkehøyskole få omgjort 40 prosent av lånet sitt til stipend."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/d77lvX/kepler-cheuvreux-legger-ned-avdeling-i-norge",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/243690f0-5b8c-39c2-ac1a-8620eab9c546?fit=crop&h=675&upscale=true&w=1200&s=974429c8a082c0d8e0497748aa2df6eef5c1a9df",
-      "localImage": "assets/news/e311fdf3c5dcab.jpg",
-      "score": 17
+      "url": "https://www.nrk.no/sorlandet/vil-kutte-i-stipend-til-folkehoyskoler---kan-miste-40.000-kroner-1.18048385",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/CQOWQLZE_qvshSns5SIbNASwGgA1gZMptOKvx8rzh4Xg.jpg",
+      "localImage": "assets/news/276d83b86466ae.jpg",
+      "score": 16
     }
   ]
 }
