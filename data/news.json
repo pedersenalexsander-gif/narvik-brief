@@ -1,6 +1,6 @@
 {
-  "updatedAt": "11.10.2026 kl. 04:13",
-  "updatedISO": "2026-10-11T04:13:30.432475+02:00",
+  "updatedAt": "11.10.2026 kl. 10:57",
+  "updatedISO": "2026-10-11T10:57:42.391565+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,48 +22,48 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/5554892ffcb160.jpg",
-      "score": 27
+      "score": 25
     },
     {
-      "id": "caf32489902bb5",
+      "id": "2eb10a97611e6e",
       "category": "Økonomi",
-      "published": "09.10. 15:33",
-      "publishedISO": "2026-10-09T15:33:06+02:00",
-      "title": "Wall Street snudde opp - telegiganter stupte etter Musk-kjøp",
-      "summary": "S&P 500 steg 1,15 prosent, den teknologitunge Nasdaq-indeksen gikk opp 0,64 prosent og Dow Jones endte uken opp 0,93 prosent. Nordsjøoljen handles i skrivende stund til 104,26 dollar fatet, opp 0,43 dollar for dagen. De store mobiloperatørene som AT&T (ned 9,85 prosent), T-Mobile (ned 13,51 prosent) og Verizon Communications (ned 8,87 prosent) stupte etter nyheten.",
+      "published": "11.10. 06:00",
+      "publishedISO": "2026-10-11T06:00:00+02:00",
+      "title": "Stortinget skal selge pendlerboliger for 100 millioner",
+      "summary": "Stortinget har elleve pendlerboliger de ikke lenger har bruk for. I budsjettet har regjeringen ført opp en forventet inntekt på 100 millioner kroner fra salgene. – Stortinget har gjort en vurdering av sitt boligbehov. Siden 2014, forrige året Stortinget kjøpte en leilighet i Oslo som skulle brukes som pendlerbolig, har boligmarkedet I Norge steget med nesten 61 prosent, ifølge tall fra Eiendom Norge.",
       "keyPoints": [
-        "S&P 500 steg 1,15 prosent, den teknologitunge Nasdaq-indeksen gikk opp 0,64 prosent og Dow Jones endte uken opp 0,93 prosent.",
-        "De store mobiloperatørene som AT&T (ned 9,85 prosent), T-Mobile (ned 13,51 prosent) og Verizon Communications (ned 8,87 prosent) stupte etter nyheten.",
-        "Nordsjøoljen handles i skrivende stund til 104,26 dollar fatet, opp 0,43 dollar for dagen.",
-        "Stemningen snudde oppover på børsene i USA fredag, etter tekfallet torsdag."
+        "I budsjettet har regjeringen ført opp en forventet inntekt på 100 millioner kroner fra salgene. – Stortinget har gjort en vurdering av sitt boligbehov.",
+        "Stortinget har elleve pendlerboliger de ikke lenger har bruk for.",
+        "Siden 2014, forrige året Stortinget kjøpte en leilighet i Oslo som skulle brukes som pendlerbolig, har boligmarkedet I Norge steget med nesten 61 prosent, ifølge tall fra Eiendom Norge.",
+        "Pendlerboligene var grunnlaget i skandalen som rammet Stortinget i 2021."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/311opP/bred-oppgang-paa-wall-street-spacex-hopper-2-6-prosent",
+      "url": "https://e24.no/norsk-oekonomi/i/X9jk4m/helg-stortinget-skal-selge-pendlerboliger-for-100-millioner",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7c903059-0631-3a85-b70f-c9233ec9c5e1?fit=crop&h=675&upscale=true&w=1200&s=145f78ca210bd675f615f1b48851076ae67231ac",
-      "localImage": "assets/news/caf32489902bb5.jpg",
+      "image": "https://akamai.vgc.no/v2/images/6e03d1de-3f01-3d91-8c17-513147a7f110?fit=crop&h=675&upscale=true&w=1200&s=2f84781233dc9ef78f5a2a77cf13f419cfe2cae7",
+      "localImage": "assets/news/2eb10a97611e6e.jpg",
       "score": 17
     },
     {
-      "id": "1bab6a9de9ce1a",
+      "id": "c81f3c29710bf4",
       "category": "Økonomi",
-      "published": "09.10. 16:28",
-      "publishedISO": "2026-10-09T16:28:08+02:00",
-      "title": "Solid oppgang på Oslo Børs",
-      "summary": "Hovedindeksen avsluttet uken med en oppgang på 1,12 prosent. Oljeprisen falt tidligere på dagen etter at president Donald Trump skrev på sitt sosiale medium, Truth Social, at USA ikke vil angripe Iran før mellomvalget 3. november. Det oppnådde en netto fraktrate på 82 dollar per kubikkmeter i september, mens brutto fraktrate var på 99 dollar per kubikkmeter, ifølge en børsmelding.",
+      "published": "11.10. 10:09",
+      "publishedISO": "2026-10-11T10:09:44+02:00",
+      "title": "Bare menn i Oljefondets AI-team: 12 av 116 søkere var kvinner",
+      "summary": "Bare 12 av søkerne var kvinner. – Vi er selvsagt ikke fornøyde med andelen kvinner i AI-teamet, og skulle gjerne hatt flere kvinnelige søkere til AI-stillingene. Forrige uke skrev E24 om fondets AI-team, som utelukkende består av menn. – Vi har ikke kvinner på akkurat det teamet, og det er kleint, sa Oljefondsjef Nicolai Tangen til E24 i den forbindelse. Hun mener at søkertallene til Oljefondets AI-team også viser at kvinner må «tørre å melde seg på». – Vi vet at kvinner har høyere terskel enn menn når det kommer til å søke jobber hvor de ikke kan huke av på alle kriteriene.",
       "keyPoints": [
-        "Hovedindeksen avsluttet uken med en oppgang på 1,12 prosent.",
-        "Det oppnådde en netto fraktrate på 82 dollar per kubikkmeter i september, mens brutto fraktrate var på 99 dollar per kubikkmeter, ifølge en børsmelding.",
-        "Oljeprisen falt tidligere på dagen etter at president Donald Trump skrev på sitt sosiale medium, Truth Social, at USA ikke vil angripe Iran før mellomvalget 3. november.",
-        "Utover dagen kommer oljeprisen tilbake til over 104 dollar fatet, opp 0,3 dollar for dagen."
+        "Hun mener at søkertallene til Oljefondets AI-team også viser at kvinner må «tørre å melde seg på». – Vi vet at kvinner har høyere terskel enn menn når det kommer til å søke jobber hvor de ikke kan huke av på alle kriteriene.",
+        "Bare 12 av søkerne var kvinner. – Vi er selvsagt ikke fornøyde med andelen kvinner i AI-teamet, og skulle gjerne hatt flere kvinnelige søkere til AI-stillingene.",
+        "Forrige uke skrev E24 om fondets AI-team, som utelukkende består av menn. – Vi har ikke kvinner på akkurat det teamet, og det er kleint, sa Oljefondsjef Nicolai Tangen til E24 i den forbindelse.",
+        "Av totalt 119 søkere til stillingene i januar 2026 var det 12 kvinner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/p11P76/oljeaksjer-faller-paa-flat-oslo-boers",
+      "url": "https://e24.no/teknologi/i/Oggpm3/bare-menn-i-oljefondets-ai-team-12-av-116-soekerne-var-kvinner",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c7741b14-2d6d-3ee2-af8f-75e8321a2beb?fit=crop&h=675&upscale=true&w=1200&s=d104d25dff0f9cd47186ff12496549efe1526e4a",
-      "localImage": "assets/news/1bab6a9de9ce1a.jpg",
+      "image": "https://akamai.vgc.no/v2/images/974d26ac-1e06-345d-bf87-078ff08fa8b0?fit=crop&h=675&upscale=true&w=1200&s=e635bdea13e449139d176421482d04b5d8993f86",
+      "localImage": "assets/news/c81f3c29710bf4.jpg",
       "score": 16
     },
     {
@@ -85,7 +85,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/eccf83863010ab.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "830b0831131ef7",
@@ -106,112 +106,112 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/LVYWrB75KkZcXuRI57MPZgy6OcVAl2P-ASENPW0ww-Qg.jpg",
       "localImage": "assets/news/830b0831131ef7.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "c9281008b6af85",
-      "category": "Norge",
-      "published": "10.10. 14:52",
-      "publishedISO": "2026-10-10T14:52:50+02:00",
-      "title": "Fredsprisvinneren om Trumps sanksjoner mot ICC: – Uhørt og uakseptabelt",
-      "summary": "Fredsprisvinner Navi Pillay slår tilbake mot USA og de nye sanksjonene mot Den internasjonale straffedomstolen (ICC), som ble varslet rett etter tildelingen. Noen av de ansatte fra USA har sluttet. – Men viktigst av alt, så har ett land erklært sanksjoner mot dommere kun på grunn av rettsordrene de gir ut. Fra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
+      "id": "caf32489902bb5",
+      "category": "Økonomi",
+      "published": "09.10. 15:33",
+      "publishedISO": "2026-10-09T15:33:06+02:00",
+      "title": "Wall Street snudde opp - telegiganter stupte etter Musk-kjøp",
+      "summary": "S&P 500 steg 1,15 prosent, den teknologitunge Nasdaq-indeksen gikk opp 0,64 prosent og Dow Jones endte uken opp 0,93 prosent. Nordsjøoljen handles i skrivende stund til 104,26 dollar fatet, opp 0,43 dollar for dagen. De store mobiloperatørene som AT&T (ned 9,85 prosent), T-Mobile (ned 13,51 prosent) og Verizon Communications (ned 8,87 prosent) stupte etter nyheten.",
       "keyPoints": [
-        "Fredsprisvinner Navi Pillay slår tilbake mot USA og de nye sanksjonene mot Den internasjonale straffedomstolen (ICC), som ble varslet rett etter tildelingen.",
-        "Noen av de ansatte fra USA har sluttet. – Men viktigst av alt, så har ett land erklært sanksjoner mot dommere kun på grunn av rettsordrene de gir ut.",
-        "Fra 20. januar 2025 er Donald Trump igjen president i USA, hvor det bor mer enn 330 millioner mennesker fordelt på 50 stater.",
-        "Hun snakket om anspentheten og bekymringen over de internasjonale domstolenes fremtid, spesielt domstolen i Haag. – Det er hundrevis av ansatte som føler seg truet."
+        "S&P 500 steg 1,15 prosent, den teknologitunge Nasdaq-indeksen gikk opp 0,64 prosent og Dow Jones endte uken opp 0,93 prosent.",
+        "De store mobiloperatørene som AT&T (ned 9,85 prosent), T-Mobile (ned 13,51 prosent) og Verizon Communications (ned 8,87 prosent) stupte etter nyheten.",
+        "Nordsjøoljen handles i skrivende stund til 104,26 dollar fatet, opp 0,43 dollar for dagen.",
+        "Stemningen snudde oppover på børsene i USA fredag, etter tekfallet torsdag."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/fredsprisvinneren-om-trumps-sanksjoner-mot-icc_-_-uhort-og-uakseptabelt-1.18051372",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6rj3BbO0LeU8GlBc7H1JjgXBXgxfRLaLBtkQSkaj6vcA.jpg",
-      "localImage": "assets/news/c9281008b6af85.jpg",
+      "url": "https://e24.no/boers-og-finans/i/311opP/bred-oppgang-paa-wall-street-spacex-hopper-2-6-prosent",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7c903059-0631-3a85-b70f-c9233ec9c5e1?fit=crop&h=675&upscale=true&w=1200&s=145f78ca210bd675f615f1b48851076ae67231ac",
+      "localImage": "assets/news/caf32489902bb5.jpg",
+      "score": 16
+    },
+    {
+      "id": "1bab6a9de9ce1a",
+      "category": "Økonomi",
+      "published": "09.10. 16:28",
+      "publishedISO": "2026-10-09T16:28:08+02:00",
+      "title": "Solid oppgang på Oslo Børs",
+      "summary": "Hovedindeksen avsluttet uken med en oppgang på 1,12 prosent. Oljeprisen falt tidligere på dagen etter at president Donald Trump skrev på sitt sosiale medium, Truth Social, at USA ikke vil angripe Iran før mellomvalget 3. november. Det oppnådde en netto fraktrate på 82 dollar per kubikkmeter i september, mens brutto fraktrate var på 99 dollar per kubikkmeter, ifølge en børsmelding.",
+      "keyPoints": [
+        "Hovedindeksen avsluttet uken med en oppgang på 1,12 prosent.",
+        "Det oppnådde en netto fraktrate på 82 dollar per kubikkmeter i september, mens brutto fraktrate var på 99 dollar per kubikkmeter, ifølge en børsmelding.",
+        "Oljeprisen falt tidligere på dagen etter at president Donald Trump skrev på sitt sosiale medium, Truth Social, at USA ikke vil angripe Iran før mellomvalget 3. november.",
+        "Utover dagen kommer oljeprisen tilbake til over 104 dollar fatet, opp 0,3 dollar for dagen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/p11P76/oljeaksjer-faller-paa-flat-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c7741b14-2d6d-3ee2-af8f-75e8321a2beb?fit=crop&h=675&upscale=true&w=1200&s=d104d25dff0f9cd47186ff12496549efe1526e4a",
+      "localImage": "assets/news/1bab6a9de9ce1a.jpg",
       "score": 15
     },
     {
-      "id": "451c3aca35d342",
-      "category": "Økonomi",
-      "published": "09.10. 21:02",
-      "publishedISO": "2026-10-09T21:02:38+02:00",
-      "title": "Trump: Russland skal levere diesel til USA og verdensmarkedet",
-      "summary": "Ifølge presidenten skal Russland umiddelbart levere over 300.000 tonn diesel til det amerikanske og globale markedet. Trump hevder også at Russland skal levere ytterligere tre millioner tonn diesel innen kort tid, avhengig av tilstanden ved landets raffinerier. Totalt omtaler presidenten dermed leveranser på rundt 4,8 millioner tonn diesel. – Mellom vår totale kontroll over Hormuzstredet og denne fantastiske kunngjøringen om russisk energi, vil dieselprisene for amerikanere, og faktisk hele verden, falle rekordmye og raskt, hevder Trump.",
-      "keyPoints": [
-        "Trump hevder også at Russland skal levere ytterligere tre millioner tonn diesel innen kort tid, avhengig av tilstanden ved landets raffinerier.",
-        "Ifølge presidenten skal Russland umiddelbart levere over 300.000 tonn diesel til det amerikanske og globale markedet.",
-        "Totalt omtaler presidenten dermed leveranser på rundt 4,8 millioner tonn diesel. – Mellom vår totale kontroll over Hormuzstredet og denne fantastiske kunngjøringen om russisk energi, vil dieselprisene for amerikanere, og faktisk hele verden, falle rekordmye og raskt, hevder Trump.",
-        "Siden den gang har Trump kommet med en lang rekke lovnader om at krigen vil ta slutt «snart», men fortsatt foreligger det ingen permanent fredsavtale mellom USA og Iran."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/d77x3B/trump-russland-skal-levere-diesel-til-usa-og-verdensmarkedet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/70d4e622-ba4a-305d-8997-d2efd0147f38?fit=crop&h=675&upscale=true&w=1200&s=9cb24e3fc7ac97016de63d2fea9b4597be5361f0",
-      "localImage": "assets/news/451c3aca35d342.jpg",
-      "score": 14
-    },
-    {
-      "id": "0c63c2288194e5",
-      "category": "Økonomi",
-      "published": "10.10. 06:00",
-      "publishedISO": "2026-10-10T06:00:00+02:00",
-      "title": "Slår Temu-alarm: – Vi har ikke kontroll",
-      "summary": "Foto: Tolletaten – Vi har ikke kontroll på hva som kommer. Da ble over 1,1 millioner småpakkerVerdi under 3000 kroner, grensen i VOEC-ordningen som tillater tollfri import til Norge. – sendt fra Temu, Shein og andre kinesiske nettaktører – registrert hos Tolletaten. Den totale mengden pakker, kombinert med varierende grad av informasjon om produktenes innhold, gjør imidlertid kontroll vanskelig – for ikke å si umulig, ifølge Schaug. – Det er veldig varierende kvalitet på dokumentene som kommer med varene.",
-      "keyPoints": [
-        "Den totale mengden pakker, kombinert med varierende grad av informasjon om produktenes innhold, gjør imidlertid kontroll vanskelig – for ikke å si umulig, ifølge Schaug. – Det er veldig varierende kvalitet på dokumentene som kommer med varene.",
-        "Foto: Tolletaten – Vi har ikke kontroll på hva som kommer.",
-        "Da ble over 1,1 millioner småpakkerVerdi under 3000 kroner, grensen i VOEC-ordningen som tillater tollfri import til Norge. – sendt fra Temu, Shein og andre kinesiske nettaktører – registrert hos Tolletaten.",
-        "Over 1,1 millioner pakker fra Kina kom til Norge på én måned."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/9kvK9d/slaar-temu-alarm-vi-har-ikke-kontroll",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7878e9b7-2a3a-3aaf-bd6d-8af7059a992e?fit=crop&h=675&upscale=true&w=1200&s=733f8f72ef0c3ae5452f1f760da3f917aa89694f",
-      "localImage": "assets/news/0c63c2288194e5.jpg",
-      "score": 13
-    },
-    {
-      "id": "3f056fd21d59ea",
-      "category": "Økonomi",
-      "published": "08.10. 15:31",
-      "publishedISO": "2026-10-08T15:31:44+02:00",
-      "title": "Brikkeaksjer tynget Wall Street",
-      "summary": "Brikkeaksjene falt markant, tynget av renteuro og nye opplysninger om OpenAIs inntekter. Slik gikk det med de toneangivende indeksene: Oljeprisen (brent spot) ligger på 103,77 dollar per fat, opp rundt 2,9 prosent siden midnatt. Flere brikkeaksjer faller etter nye opplysninger om OpenAIs inntekter.",
-      "keyPoints": [
-        "Brikkeaksjene falt markant, tynget av renteuro og nye opplysninger om OpenAIs inntekter.",
-        "Slik gikk det med de toneangivende indeksene: Oljeprisen (brent spot) ligger på 103,77 dollar per fat, opp rundt 2,9 prosent siden midnatt.",
-        "Flere brikkeaksjer faller etter nye opplysninger om OpenAIs inntekter.",
-        "Oljeprisen falt rundt to dollar etter en Trump-melding om at USA ikke vil angripe Iran før mellomvalget 3. november."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/644zgz/nedgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/eef7d14f-b3d2-3899-b1fc-2d9223684c62?fit=crop&h=675&upscale=true&w=1200&s=65921090da07f06d04dbab2b8b450028cae2e62b",
-      "localImage": "assets/news/3f056fd21d59ea.jpg",
-      "score": 13
-    },
-    {
-      "id": "8677029700d248",
+      "id": "3f8307c0997b2a",
       "category": "Norge",
-      "published": "10.10. 22:29",
-      "publishedISO": "2026-10-10T22:29:59+02:00",
-      "title": "Ironman-VM 2026: Solveig Løvseth med utrolig kollaps og Gustav Iden tok sølv",
-      "summary": "Solveig Løvseth stormet mot sitt andre strake VM-gull – så sa det bom stopp. Gustav Iden kjempet seg til sølv etter en heroisk opphenting og tre minutter i straffeteltet. Dermed ble Gustav Iden (30) eneste norske medaljør på Hawaii.",
+      "published": "11.10. 09:17",
+      "publishedISO": "2026-10-11T09:17:14+02:00",
+      "title": "En hektisk natt for politiet i Trøndelag: – En sliten gjeng som dro hjem",
+      "summary": "– Det har vært en stor mengde oppdrag fordelt utover hele Trøndelag, som gjør at patruljene har hatt en travel natt, sier politiets operasjonsleder Ketil Stene. Like før klokka 01 natt rykket politiet ut etter melding om en mann med pistol i Midtbyen i Trondheim. Operasjonsleder Ketil Stene sier at det vanligvis er i Trondheim de har en del oppdrag i helgene, men at det i natt var i hele Trøndelag. – Det var en sliten gjeng som dro hjem, sier Stene om politipatruljene som var ferdig nå på morgenen.",
       "keyPoints": [
-        "Gustav Iden kjempet seg til sølv etter en heroisk opphenting og tre minutter i straffeteltet.",
-        "Dermed ble Gustav Iden (30) eneste norske medaljør på Hawaii.",
-        "Solveig Løvseth stormet mot sitt andre strake VM-gull – så sa det bom stopp.",
-        "Solveig Løvseth på vei inn til skiftesonen før løpedelen. – Det er et løp vi vil snakke om i lang tid, oppsummeres det på Ironman-sendingen."
+        "Operasjonsleder Ketil Stene sier at det vanligvis er i Trondheim de har en del oppdrag i helgene, men at det i natt var i hele Trøndelag. – Det var en sliten gjeng som dro hjem, sier Stene om politipatruljene som var ferdig nå på morgenen.",
+        "Like før klokka 01 natt rykket politiet ut etter melding om en mann med pistol i Midtbyen i Trondheim.",
+        "– Det har vært en stor mengde oppdrag fordelt utover hele Trøndelag, som gjør at patruljene har hatt en travel natt, sier politiets operasjonsleder Ketil Stene.",
+        "Etter kort tid fikk politiet tak i mannen i 20-åra som hadde med seg luftpistol. – Vedkommende har forklart at han hadde vært på fest og hadde tatt den med ut på byen på tull, skrev operasjonsleder Einar Røstum."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/ironman-vm-2026_-solveig-lovseth-med-utrolig-kollaps-og-gustav-iden-tok-solv-1.18051483",
+      "url": "https://www.nrk.no/trondelag/en-hektisk-natt-for-politiet-i-trondelag_-_-en-sliten-gjeng-som-dro-hjem-1.18051713",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/3qMZ3JIhdeDqaZwmvfOamAf0Ofyk5gYunhobjqLhEXig.jpg",
-      "localImage": "assets/news/8677029700d248.webp",
-      "score": 12
+      "image": "https://gfx.nrk.no/NncpbHWC4199QTgRG8TSYAJqrVvPnhVKtIw8KWu431iw.jpg",
+      "localImage": "assets/news/3f8307c0997b2a.jpg",
+      "score": 13
+    },
+    {
+      "id": "7afffd075d7ddd",
+      "category": "Norge",
+      "published": "11.10. 08:45",
+      "publishedISO": "2026-10-11T08:45:48+02:00",
+      "title": "Derfor er starten på joggeturen alltid så slitsom",
+      "summary": "Sammen med venninner gjør hun seg klar for det de kaller «tirsdagsmila». – De første to kilometerne er verst, men etterpå føles det som man kunne ha sprunget mye lenger, sier hun. Hanne Sæther synes starten på løpeturen er tøff hver bidige gang, men hun vet at det lønner seg å ikke gi opp. Hun har også et ekstra tips til de som vurderer å gi opp fordi starten føles så tung: Fra venstre: Linda Aalberg, Hanne Sæther, Julie Tangstad og Maren Gangstad.",
+      "keyPoints": [
+        "Hanne Sæther synes starten på løpeturen er tøff hver bidige gang, men hun vet at det lønner seg å ikke gi opp.",
+        "Hun har også et ekstra tips til de som vurderer å gi opp fordi starten føles så tung: Fra venstre: Linda Aalberg, Hanne Sæther, Julie Tangstad og Maren Gangstad.",
+        "Sammen med venninner gjør hun seg klar for det de kaller «tirsdagsmila». – De første to kilometerne er verst, men etterpå føles det som man kunne ha sprunget mye lenger, sier hun.",
+        "Nå som du vet at starten på jogginga kan være litt vrien, og at dette absolutt ikke trenger å si noe om formen din, er det ingen grunn til å gi opp."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/dette-gjor-starten-pa-joggeturen-sa-toff-_-handler-ikke-om-at-man-er-i-darlig-form-1.18043184",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/BGcJ9PnA8TFTMbsknbdv4QqF_c-AfMg987RdJNGZZYcQ.jpg",
+      "localImage": "assets/news/7afffd075d7ddd.jpg",
+      "score": 13
+    },
+    {
+      "id": "d1ccd72f1d0f56",
+      "category": "Økonomi",
+      "published": "11.10. 08:36",
+      "publishedISO": "2026-10-11T08:36:42+02:00",
+      "title": "Er «muskismen» fremtidens ideologi?",
+      "summary": "Det mener forfatter og skribent Ben Tarnoff som er aktuell med boken Muskismen som nylig er oversatt til norsk. I samtale med politisk redaktør Torbjørn Røe Isaksen snakker han om hvordan science fiction, Sør-Afrika, tek-utopier og en utrolig evne til å selge fremtiden til sammen utgjør noe som ligner en helhetlig ideologi. I Stopp verden møter politisk redaktør Torbjørn Røe Isaksen en gjest hver uke for å snakke om et tema – over et godt glass med drikke.",
+      "keyPoints": [
+        "I samtale med politisk redaktør Torbjørn Røe Isaksen snakker han om hvordan science fiction, Sør-Afrika, tek-utopier og en utrolig evne til å selge fremtiden til sammen utgjør noe som ligner en helhetlig ideologi.",
+        "Det mener forfatter og skribent Ben Tarnoff som er aktuell med boken Muskismen som nylig er oversatt til norsk.",
+        "I Stopp verden møter politisk redaktør Torbjørn Røe Isaksen en gjest hver uke for å snakke om et tema – over et godt glass med drikke.",
+        "Samtalene handler om de store spørsmålene og de lange linjene, om hvordan samfunnet vårt har utviklet seg og hvordan vi skal manøvrere fremover."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/teknologi/i/Abbpdz/er-muskismen-fremtidens-ideologi",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/966ec556-b45d-357e-9da5-d42f0215ecae?fit=crop&h=675&upscale=true&w=1200&s=1f8d3739b36dd01919b7e90e421b01c192bfaae9",
+      "localImage": "assets/news/d1ccd72f1d0f56.jpg",
+      "score": 13
     }
   ]
 }
