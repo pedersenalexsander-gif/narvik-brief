@@ -1,8 +1,71 @@
 {
-  "updatedAt": "11.10.2026 kl. 10:57",
-  "updatedISO": "2026-10-11T10:57:42.391565+02:00",
+  "updatedAt": "11.10.2026 kl. 17:26",
+  "updatedISO": "2026-10-11T17:26:56.347214+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "79cf5f5a717255",
+      "category": "Norge",
+      "published": "11.10. 16:20",
+      "publishedISO": "2026-10-11T16:20:27+02:00",
+      "title": "Trump: Hevdar energi-våpenkvile mellom Russland og Ukraina",
+      "summary": "USAs president Donald Trump hevdar at Russland og Ukraina er einige om våpenkvile for energisektoren. Det kjem etter at Trump har sagt at Ukraina må stoppe angrepa på russiske oljeinstallasjonar og bedt Ukrainas president Volodymyr Zelenskyj om å gå av. – Ukraina er klar til å slutte å angripe russiske oljeraffineri om Russland sluttar å angripe infrastrukturen vår, sa Zelenskyj tidlegare søndag. Trump har tidlegare gjort det tydeleg at han misliker at Ukraina ikkje har gått med på å stanse angrepa mot russisk energiinfrastruktur.",
+      "keyPoints": [
+        "USAs president Donald Trump hevdar at Russland og Ukraina er einige om våpenkvile for energisektoren.",
+        "Det kjem etter at Trump har sagt at Ukraina må stoppe angrepa på russiske oljeinstallasjonar og bedt Ukrainas president Volodymyr Zelenskyj om å gå av. – Ukraina er klar til å slutte å angripe russiske oljeraffineri om Russland sluttar å angripe infrastrukturen vår, sa Zelenskyj tidlegare søndag.",
+        "Trump har tidlegare gjort det tydeleg at han misliker at Ukraina ikkje har gått med på å stanse angrepa mot russisk energiinfrastruktur.",
+        "Trump har nyleg inngått ein avtale om å kjøpe diesel frå Russland."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/trump_-hevdar-energi-vapenkvile-mellom-russland-og-ukraina-1.18051868",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
+      "localImage": "assets/news/79cf5f5a717255.jpg",
+      "score": 24
+    },
+    {
+      "id": "fd1fe1c2b1b0f1",
+      "category": "Økonomi",
+      "published": "11.10. 17:14",
+      "publishedISO": "2026-10-11T17:14:40+02:00",
+      "title": "– Kan trekke i retning av høyere prisvekst",
+      "summary": "Regjeringen legger i budsjettet opp til 608 milliarder oljekroner neste år, som utgjør 12,6 prosent av fastlands-BNPVerdien av alle varer og tjenester produsert i Norge, unntatt olje- og gassutvinning, en marginal nedgang fra 12,7 prosent i 2026. – Hva slags type finanspolitikk påvirker pengepolitikken i større grad enn andre? – Det avhenger av en lang rekke forhold, ikke minst hvordan de ulike tiltakene finansieres. I sin siste såkalte pengepolitiske rapport, som kommer fire ganger i året og består av prognoser og analyser, viser Norges Bank til at veksten i offentlig etterspørsel blir høyere enn veksten i BNP for Fastlands-Norge fremover. Hun trekker også frem økte forventninger om inflasjon. – At prisveksten har vært høy lenge, kan ha gjort at forventningene har blitt høyere, og det kan igjen forplante seg til en mer seiglivet prisvekst, sier Wolden Bache.",
+      "keyPoints": [
+        "Hun trekker også frem økte forventninger om inflasjon. – At prisveksten har vært høy lenge, kan ha gjort at forventningene har blitt høyere, og det kan igjen forplante seg til en mer seiglivet prisvekst, sier Wolden Bache.",
+        "I sin siste såkalte pengepolitiske rapport, som kommer fire ganger i året og består av prognoser og analyser, viser Norges Bank til at veksten i offentlig etterspørsel blir høyere enn veksten i BNP for Fastlands-Norge fremover.",
+        "Regjeringen legger i budsjettet opp til 608 milliarder oljekroner neste år, som utgjør 12,6 prosent av fastlands-BNPVerdien av alle varer og tjenester produsert i Norge, unntatt olje- og gassutvinning, en marginal nedgang fra 12,7 prosent i 2026. – Hva slags type finanspolitikk påvirker pengepolitikken i større grad enn andre? – Det avhenger av en lang rekke forhold, ikke minst hvordan de ulike tiltakene finansieres.",
+        "Hun har nettopp holdt foredrag på BI om Handelshøyskolen BI der temaet var hvorfor det har tatt lang tid for sentralbanken å få inflasjonen ned på målet på 2 prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/mKKBB1/kan-trekke-i-retning-av-hoeyere-prisvekst",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/cd399d8d-cd38-3dac-aeaa-b1f3135ddfac?fit=crop&h=675&upscale=true&w=1200&s=dd623226e6c0bb656b3a2ad332d023e0d91427af",
+      "localImage": "assets/news/fd1fe1c2b1b0f1.jpg",
+      "score": 17
+    },
+    {
+      "id": "b9490cba719f44",
+      "category": "Økonomi",
+      "published": "11.10. 14:42",
+      "publishedISO": "2026-10-11T14:42:03+02:00",
+      "title": "Ukrainsk dagligvaretopp: – Ha litt kontanter",
+      "summary": "Roman Korsak er sjef for Spar i Ukraina, hvor kjeden har 107 butikker i drift. – Vi har åpnet 90 nye butikker gjennom krigen. Siden Russlands fullskalainvasjon i februar 2022 har butikker blitt bombet, varehus blitt ødelagt av russiske droner og strømnettet rammet av gjentatte angrep. Overfor E24 legger Korsak til en tredje ting: å ha kontanter tilgjengelig i tilfelle betalingssystemene svikter.",
+      "keyPoints": [
+        "Roman Korsak er sjef for Spar i Ukraina, hvor kjeden har 107 butikker i drift. – Vi har åpnet 90 nye butikker gjennom krigen.",
+        "Overfor E24 legger Korsak til en tredje ting: å ha kontanter tilgjengelig i tilfelle betalingssystemene svikter.",
+        "Siden Russlands fullskalainvasjon i februar 2022 har butikker blitt bombet, varehus blitt ødelagt av russiske droner og strømnettet rammet av gjentatte angrep.",
+        "Roman Korsak har drevet dagligvarebutikker gjennom fire år med krig."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/6445gO/ukrainsk-dagligvaretopp-ha-litt-kontanter",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a36960e4-15bb-3102-9f20-6ba07fa49afa?fit=crop&h=675&upscale=true&w=1200&s=aa83f06438df5333797ddbcfe7e1d14b9fa486fb",
+      "localImage": "assets/news/b9490cba719f44.jpg",
+      "score": 17
+    },
     {
       "id": "5554892ffcb160",
       "category": "Norge",
@@ -22,49 +85,28 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/5554892ffcb160.jpg",
-      "score": 25
+      "score": 24
     },
     {
-      "id": "2eb10a97611e6e",
-      "category": "Økonomi",
-      "published": "11.10. 06:00",
-      "publishedISO": "2026-10-11T06:00:00+02:00",
-      "title": "Stortinget skal selge pendlerboliger for 100 millioner",
-      "summary": "Stortinget har elleve pendlerboliger de ikke lenger har bruk for. I budsjettet har regjeringen ført opp en forventet inntekt på 100 millioner kroner fra salgene. – Stortinget har gjort en vurdering av sitt boligbehov. Siden 2014, forrige året Stortinget kjøpte en leilighet i Oslo som skulle brukes som pendlerbolig, har boligmarkedet I Norge steget med nesten 61 prosent, ifølge tall fra Eiendom Norge.",
+      "id": "5649066aa9d31b",
+      "category": "Norge",
+      "published": "11.10. 15:19",
+      "publishedISO": "2026-10-11T15:19:32+02:00",
+      "title": "Manchester City-skandalen: Nye regler skaper hodebry - slik er veien videre i City-saken",
+      "summary": "Nye regler, utallige straffemuligheter og enorm usikkerhet. Manchester City er dømt for 114 brudd på Premier League-reglene. Da er det som utgangspunkt mindre problematisk å anvende nye regler på en sak som allerede er i gang, sier advokat i Advokatfirmaet Kleven & Kristensen, Pål Kleven.",
       "keyPoints": [
-        "I budsjettet har regjeringen ført opp en forventet inntekt på 100 millioner kroner fra salgene. – Stortinget har gjort en vurdering av sitt boligbehov.",
-        "Stortinget har elleve pendlerboliger de ikke lenger har bruk for.",
-        "Siden 2014, forrige året Stortinget kjøpte en leilighet i Oslo som skulle brukes som pendlerbolig, har boligmarkedet I Norge steget med nesten 61 prosent, ifølge tall fra Eiendom Norge.",
-        "Pendlerboligene var grunnlaget i skandalen som rammet Stortinget i 2021."
+        "Nye regler, utallige straffemuligheter og enorm usikkerhet.",
+        "Manchester City er dømt for 114 brudd på Premier League-reglene.",
+        "Da er det som utgangspunkt mindre problematisk å anvende nye regler på en sak som allerede er i gang, sier advokat i Advokatfirmaet Kleven & Kristensen, Pål Kleven.",
+        "Han forteller at dersom City velger å protestere på de nye fristene, så vil spørsmålene avgjøres av ankeutvalget. – En slik protest setter ikke automatisk saken på vent."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/X9jk4m/helg-stortinget-skal-selge-pendlerboliger-for-100-millioner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6e03d1de-3f01-3d91-8c17-513147a7f110?fit=crop&h=675&upscale=true&w=1200&s=2f84781233dc9ef78f5a2a77cf13f419cfe2cae7",
-      "localImage": "assets/news/2eb10a97611e6e.jpg",
+      "url": "https://www.nrk.no/sport/manchester-city-skandalen_-nye-regler-skaper-hodebry---slik-er-veien-videre-i-city-saken-1.18046597",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/g8woupqdkE4S05PG9kgPtAMEsG3FqKUDtz6X8re5I06Q.jpg",
+      "localImage": "assets/news/5649066aa9d31b.jpg",
       "score": 17
-    },
-    {
-      "id": "c81f3c29710bf4",
-      "category": "Økonomi",
-      "published": "11.10. 10:09",
-      "publishedISO": "2026-10-11T10:09:44+02:00",
-      "title": "Bare menn i Oljefondets AI-team: 12 av 116 søkere var kvinner",
-      "summary": "Bare 12 av søkerne var kvinner. – Vi er selvsagt ikke fornøyde med andelen kvinner i AI-teamet, og skulle gjerne hatt flere kvinnelige søkere til AI-stillingene. Forrige uke skrev E24 om fondets AI-team, som utelukkende består av menn. – Vi har ikke kvinner på akkurat det teamet, og det er kleint, sa Oljefondsjef Nicolai Tangen til E24 i den forbindelse. Hun mener at søkertallene til Oljefondets AI-team også viser at kvinner må «tørre å melde seg på». – Vi vet at kvinner har høyere terskel enn menn når det kommer til å søke jobber hvor de ikke kan huke av på alle kriteriene.",
-      "keyPoints": [
-        "Hun mener at søkertallene til Oljefondets AI-team også viser at kvinner må «tørre å melde seg på». – Vi vet at kvinner har høyere terskel enn menn når det kommer til å søke jobber hvor de ikke kan huke av på alle kriteriene.",
-        "Bare 12 av søkerne var kvinner. – Vi er selvsagt ikke fornøyde med andelen kvinner i AI-teamet, og skulle gjerne hatt flere kvinnelige søkere til AI-stillingene.",
-        "Forrige uke skrev E24 om fondets AI-team, som utelukkende består av menn. – Vi har ikke kvinner på akkurat det teamet, og det er kleint, sa Oljefondsjef Nicolai Tangen til E24 i den forbindelse.",
-        "Av totalt 119 søkere til stillingene i januar 2026 var det 12 kvinner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/teknologi/i/Oggpm3/bare-menn-i-oljefondets-ai-team-12-av-116-soekerne-var-kvinner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/974d26ac-1e06-345d-bf87-078ff08fa8b0?fit=crop&h=675&upscale=true&w=1200&s=e635bdea13e449139d176421482d04b5d8993f86",
-      "localImage": "assets/news/c81f3c29710bf4.jpg",
-      "score": 16
     },
     {
       "id": "eccf83863010ab",
@@ -85,133 +127,91 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/eccf83863010ab.jpg",
-      "score": 19
-    },
-    {
-      "id": "830b0831131ef7",
-      "category": "Norge",
-      "published": "10.10. 12:13",
-      "publishedISO": "2026-10-10T12:13:16+02:00",
-      "title": "Framskrittspartiet kritiserer regjeringa sin eldrepolitikk",
-      "summary": "Kristian Eilertsen kritiserer regjeringa si eldreomsorgsstrategi. – Det som Arbeidarpartiet presenterer som eit eldreløft, er i realiteten ein eldrebløff, sa stortingsrepresentant Kristian Eilertsen (Frp) i laurdagens Helgemorgen. Frp-politikar Kristian Eilertsen meiner Pårørendealliansen treff spikaren på hovudet med sine skildringar, og meiner regjeringa har gjort ein altfor dårleg jobb i eldreomsorga dei siste åra. – Mange plassar rundt omkring i landets kommunar ville ikkje eldreomsorga gått rundt utan dei pårørande sin innsats. Eilertsen understreka at Noreg vil trenge 23.000 fleire plassar fram mot 2035, og meiner at budsjettforslaget frå regjeringa er milevis unna å nå dette målet. – Dei snakkar om at dei skal byggje fleire sjukeheimsplassar, men kvar blir det av desse plassane?",
-      "keyPoints": [
-        "Kristian Eilertsen kritiserer regjeringa si eldreomsorgsstrategi. – Det som Arbeidarpartiet presenterer som eit eldreløft, er i realiteten ein eldrebløff, sa stortingsrepresentant Kristian Eilertsen (Frp) i laurdagens Helgemorgen.",
-        "Eilertsen understreka at Noreg vil trenge 23.000 fleire plassar fram mot 2035, og meiner at budsjettforslaget frå regjeringa er milevis unna å nå dette målet. – Dei snakkar om at dei skal byggje fleire sjukeheimsplassar, men kvar blir det av desse plassane?",
-        "Frp-politikar Kristian Eilertsen meiner Pårørendealliansen treff spikaren på hovudet med sine skildringar, og meiner regjeringa har gjort ein altfor dårleg jobb i eldreomsorga dei siste åra. – Mange plassar rundt omkring i landets kommunar ville ikkje eldreomsorga gått rundt utan dei pårørande sin innsats.",
-        "Regjeringa set av over 4 milliardar kroner til «Eldreløftet» i det ferske statsbudsjettet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/framskrittspartiet-kritiserer-regjeringa-sin-eldrepolitikk-1.18051298",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/LVYWrB75KkZcXuRI57MPZgy6OcVAl2P-ASENPW0ww-Qg.jpg",
-      "localImage": "assets/news/830b0831131ef7.jpg",
       "score": 17
     },
     {
-      "id": "caf32489902bb5",
+      "id": "253c084054df26",
       "category": "Økonomi",
-      "published": "09.10. 15:33",
-      "publishedISO": "2026-10-09T15:33:06+02:00",
-      "title": "Wall Street snudde opp - telegiganter stupte etter Musk-kjøp",
-      "summary": "S&P 500 steg 1,15 prosent, den teknologitunge Nasdaq-indeksen gikk opp 0,64 prosent og Dow Jones endte uken opp 0,93 prosent. Nordsjøoljen handles i skrivende stund til 104,26 dollar fatet, opp 0,43 dollar for dagen. De store mobiloperatørene som AT&T (ned 9,85 prosent), T-Mobile (ned 13,51 prosent) og Verizon Communications (ned 8,87 prosent) stupte etter nyheten.",
+      "published": "11.10. 15:20",
+      "publishedISO": "2026-10-11T15:20:56+02:00",
+      "title": "IEA: Ber land vurdere nye diesel-slipp",
+      "summary": "Det internasjonale energibyrået (IEA) ber land vurdere om de kan slipper mer ut fra lagrene. Ifølge IEA-sjefen krever markedssituasjonen umiddelbar håndtering. «Direktøren noterer seg også de fornyede angrepene på sivil infrastruktur og energiinfrastruktur i Saudi-Arabia, inkludert de tragiske angrepene på den internasjonale flyplassen i Riyadh», skriver IEA i meldingen. IEA-sjefen ber nå medlemslandene om å vurdere nye grep: Prisene på diesel har vært høye i det siste.",
       "keyPoints": [
-        "S&P 500 steg 1,15 prosent, den teknologitunge Nasdaq-indeksen gikk opp 0,64 prosent og Dow Jones endte uken opp 0,93 prosent.",
-        "De store mobiloperatørene som AT&T (ned 9,85 prosent), T-Mobile (ned 13,51 prosent) og Verizon Communications (ned 8,87 prosent) stupte etter nyheten.",
-        "Nordsjøoljen handles i skrivende stund til 104,26 dollar fatet, opp 0,43 dollar for dagen.",
-        "Stemningen snudde oppover på børsene i USA fredag, etter tekfallet torsdag."
+        "Det internasjonale energibyrået (IEA) ber land vurdere om de kan slipper mer ut fra lagrene.",
+        "IEA-sjefen ber nå medlemslandene om å vurdere nye grep: Prisene på diesel har vært høye i det siste.",
+        "Ifølge IEA-sjefen krever markedssituasjonen umiddelbar håndtering. «Direktøren noterer seg også de fornyede angrepene på sivil infrastruktur og energiinfrastruktur i Saudi-Arabia, inkludert de tragiske angrepene på den internasjonale flyplassen i Riyadh», skriver IEA i meldingen.",
+        "Det kommer frem i en melding fra IEA søndag ettermiddag. – Som i mars tror jeg vi igjen kan demonstrere IEAs kapasitet til å handle sammen og støtte opp under energisikkerheten og økonomisk stabilitet, sier IEA-sjef Dr."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/311opP/bred-oppgang-paa-wall-street-spacex-hopper-2-6-prosent",
+      "url": "https://e24.no/energi-og-klima/i/4OL9ma/iea-ber-land-vurdere-nye-diesel-slipp",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7c903059-0631-3a85-b70f-c9233ec9c5e1?fit=crop&h=675&upscale=true&w=1200&s=145f78ca210bd675f615f1b48851076ae67231ac",
-      "localImage": "assets/news/caf32489902bb5.jpg",
+      "image": "https://akamai.vgc.no/v2/images/d8b5cc34-8792-364f-8688-875e47698d56?fit=crop&h=675&upscale=true&w=1200&s=a806c02bcb9928638cdeb97eafbc8fccb311deaa",
+      "localImage": "assets/news/253c084054df26.jpg",
       "score": 16
     },
     {
-      "id": "1bab6a9de9ce1a",
-      "category": "Økonomi",
-      "published": "09.10. 16:28",
-      "publishedISO": "2026-10-09T16:28:08+02:00",
-      "title": "Solid oppgang på Oslo Børs",
-      "summary": "Hovedindeksen avsluttet uken med en oppgang på 1,12 prosent. Oljeprisen falt tidligere på dagen etter at president Donald Trump skrev på sitt sosiale medium, Truth Social, at USA ikke vil angripe Iran før mellomvalget 3. november. Det oppnådde en netto fraktrate på 82 dollar per kubikkmeter i september, mens brutto fraktrate var på 99 dollar per kubikkmeter, ifølge en børsmelding.",
+      "id": "8f84ac49ac53d3",
+      "category": "Norge",
+      "published": "11.10. 11:00",
+      "publishedISO": "2026-10-11T11:00:15+02:00",
+      "title": "Nå vakler Donald Trumps skanse i Iowa",
+      "summary": "To bønder merker president Trumps politikk på hver sin måte, men de har én felles bekymring. I delstaten Iowa har Donald Trump lenge kunnet regne med velgerne. President Donald Trumps siste diesel-grep betyr fint lite for bonden Randy Dreher.",
       "keyPoints": [
-        "Hovedindeksen avsluttet uken med en oppgang på 1,12 prosent.",
-        "Det oppnådde en netto fraktrate på 82 dollar per kubikkmeter i september, mens brutto fraktrate var på 99 dollar per kubikkmeter, ifølge en børsmelding.",
-        "Oljeprisen falt tidligere på dagen etter at president Donald Trump skrev på sitt sosiale medium, Truth Social, at USA ikke vil angripe Iran før mellomvalget 3. november.",
-        "Utover dagen kommer oljeprisen tilbake til over 104 dollar fatet, opp 0,3 dollar for dagen."
+        "I delstaten Iowa har Donald Trump lenge kunnet regne med velgerne.",
+        "President Donald Trumps siste diesel-grep betyr fint lite for bonden Randy Dreher.",
+        "To bønder merker president Trumps politikk på hver sin måte, men de har én felles bekymring.",
+        "Målinger viser at demokratene plutselig har satt Iowa i spill."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/na-vakler-donald-trumps-skanse-i-iowa-1.18050801",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/7KgcDNc3yovpKEdLGV3AyARtCi0T0YR_Az3Un76x02nw.jpg",
+      "localImage": "assets/news/8f84ac49ac53d3.jpg",
+      "score": 16
+    },
+    {
+      "id": "c81f3c29710bf4",
+      "category": "Økonomi",
+      "published": "11.10. 10:09",
+      "publishedISO": "2026-10-11T10:09:44+02:00",
+      "title": "Bare menn i Oljefondets AI-team: 12 av 116 søkere var kvinner",
+      "summary": "Bare 12 av søkerne var kvinner. – Vi er selvsagt ikke fornøyde med andelen kvinner i AI-teamet, og skulle gjerne hatt flere kvinnelige søkere til AI-stillingene. Forrige uke skrev E24 om fondets AI-team, som utelukkende består av menn. – Vi har ikke kvinner på akkurat det teamet, og det er kleint, sa Oljefondsjef Nicolai Tangen til E24 i den forbindelse. Hun mener at søkertallene til Oljefondets AI-team også viser at kvinner må «tørre å melde seg på». – Vi vet at kvinner har høyere terskel enn menn når det kommer til å søke jobber hvor de ikke kan huke av på alle kriteriene.",
+      "keyPoints": [
+        "Hun mener at søkertallene til Oljefondets AI-team også viser at kvinner må «tørre å melde seg på». – Vi vet at kvinner har høyere terskel enn menn når det kommer til å søke jobber hvor de ikke kan huke av på alle kriteriene.",
+        "Bare 12 av søkerne var kvinner. – Vi er selvsagt ikke fornøyde med andelen kvinner i AI-teamet, og skulle gjerne hatt flere kvinnelige søkere til AI-stillingene.",
+        "Forrige uke skrev E24 om fondets AI-team, som utelukkende består av menn. – Vi har ikke kvinner på akkurat det teamet, og det er kleint, sa Oljefondsjef Nicolai Tangen til E24 i den forbindelse.",
+        "Av totalt 119 søkere til stillingene i januar 2026 var det 12 kvinner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/p11P76/oljeaksjer-faller-paa-flat-oslo-boers",
+      "url": "https://e24.no/teknologi/i/Oggpm3/bare-menn-i-oljefondets-ai-team-12-av-116-soekerne-var-kvinner",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c7741b14-2d6d-3ee2-af8f-75e8321a2beb?fit=crop&h=675&upscale=true&w=1200&s=d104d25dff0f9cd47186ff12496549efe1526e4a",
-      "localImage": "assets/news/1bab6a9de9ce1a.jpg",
+      "image": "https://akamai.vgc.no/v2/images/974d26ac-1e06-345d-bf87-078ff08fa8b0?fit=crop&h=675&upscale=true&w=1200&s=e635bdea13e449139d176421482d04b5d8993f86",
+      "localImage": "assets/news/c81f3c29710bf4.jpg",
       "score": 15
     },
     {
-      "id": "3f8307c0997b2a",
-      "category": "Norge",
-      "published": "11.10. 09:17",
-      "publishedISO": "2026-10-11T09:17:14+02:00",
-      "title": "En hektisk natt for politiet i Trøndelag: – En sliten gjeng som dro hjem",
-      "summary": "– Det har vært en stor mengde oppdrag fordelt utover hele Trøndelag, som gjør at patruljene har hatt en travel natt, sier politiets operasjonsleder Ketil Stene. Like før klokka 01 natt rykket politiet ut etter melding om en mann med pistol i Midtbyen i Trondheim. Operasjonsleder Ketil Stene sier at det vanligvis er i Trondheim de har en del oppdrag i helgene, men at det i natt var i hele Trøndelag. – Det var en sliten gjeng som dro hjem, sier Stene om politipatruljene som var ferdig nå på morgenen.",
-      "keyPoints": [
-        "Operasjonsleder Ketil Stene sier at det vanligvis er i Trondheim de har en del oppdrag i helgene, men at det i natt var i hele Trøndelag. – Det var en sliten gjeng som dro hjem, sier Stene om politipatruljene som var ferdig nå på morgenen.",
-        "Like før klokka 01 natt rykket politiet ut etter melding om en mann med pistol i Midtbyen i Trondheim.",
-        "– Det har vært en stor mengde oppdrag fordelt utover hele Trøndelag, som gjør at patruljene har hatt en travel natt, sier politiets operasjonsleder Ketil Stene.",
-        "Etter kort tid fikk politiet tak i mannen i 20-åra som hadde med seg luftpistol. – Vedkommende har forklart at han hadde vært på fest og hadde tatt den med ut på byen på tull, skrev operasjonsleder Einar Røstum."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/en-hektisk-natt-for-politiet-i-trondelag_-_-en-sliten-gjeng-som-dro-hjem-1.18051713",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/NncpbHWC4199QTgRG8TSYAJqrVvPnhVKtIw8KWu431iw.jpg",
-      "localImage": "assets/news/3f8307c0997b2a.jpg",
-      "score": 13
-    },
-    {
-      "id": "7afffd075d7ddd",
-      "category": "Norge",
-      "published": "11.10. 08:45",
-      "publishedISO": "2026-10-11T08:45:48+02:00",
-      "title": "Derfor er starten på joggeturen alltid så slitsom",
-      "summary": "Sammen med venninner gjør hun seg klar for det de kaller «tirsdagsmila». – De første to kilometerne er verst, men etterpå føles det som man kunne ha sprunget mye lenger, sier hun. Hanne Sæther synes starten på løpeturen er tøff hver bidige gang, men hun vet at det lønner seg å ikke gi opp. Hun har også et ekstra tips til de som vurderer å gi opp fordi starten føles så tung: Fra venstre: Linda Aalberg, Hanne Sæther, Julie Tangstad og Maren Gangstad.",
-      "keyPoints": [
-        "Hanne Sæther synes starten på løpeturen er tøff hver bidige gang, men hun vet at det lønner seg å ikke gi opp.",
-        "Hun har også et ekstra tips til de som vurderer å gi opp fordi starten føles så tung: Fra venstre: Linda Aalberg, Hanne Sæther, Julie Tangstad og Maren Gangstad.",
-        "Sammen med venninner gjør hun seg klar for det de kaller «tirsdagsmila». – De første to kilometerne er verst, men etterpå føles det som man kunne ha sprunget mye lenger, sier hun.",
-        "Nå som du vet at starten på jogginga kan være litt vrien, og at dette absolutt ikke trenger å si noe om formen din, er det ingen grunn til å gi opp."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/dette-gjor-starten-pa-joggeturen-sa-toff-_-handler-ikke-om-at-man-er-i-darlig-form-1.18043184",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BGcJ9PnA8TFTMbsknbdv4QqF_c-AfMg987RdJNGZZYcQ.jpg",
-      "localImage": "assets/news/7afffd075d7ddd.jpg",
-      "score": 13
-    },
-    {
-      "id": "d1ccd72f1d0f56",
+      "id": "2eb10a97611e6e",
       "category": "Økonomi",
-      "published": "11.10. 08:36",
-      "publishedISO": "2026-10-11T08:36:42+02:00",
-      "title": "Er «muskismen» fremtidens ideologi?",
-      "summary": "Det mener forfatter og skribent Ben Tarnoff som er aktuell med boken Muskismen som nylig er oversatt til norsk. I samtale med politisk redaktør Torbjørn Røe Isaksen snakker han om hvordan science fiction, Sør-Afrika, tek-utopier og en utrolig evne til å selge fremtiden til sammen utgjør noe som ligner en helhetlig ideologi. I Stopp verden møter politisk redaktør Torbjørn Røe Isaksen en gjest hver uke for å snakke om et tema – over et godt glass med drikke.",
+      "published": "11.10. 06:00",
+      "publishedISO": "2026-10-11T06:00:00+02:00",
+      "title": "Stortinget skal selge pendlerboliger for 100 millioner",
+      "summary": "Stortinget har elleve pendlerboliger de ikke lenger har bruk for. I budsjettet har regjeringen ført opp en forventet inntekt på 100 millioner kroner fra salgene. – Stortinget har gjort en vurdering av sitt boligbehov. Siden 2014, forrige året Stortinget kjøpte en leilighet i Oslo som skulle brukes som pendlerbolig, har boligmarkedet I Norge steget med nesten 61 prosent, ifølge tall fra Eiendom Norge.",
       "keyPoints": [
-        "I samtale med politisk redaktør Torbjørn Røe Isaksen snakker han om hvordan science fiction, Sør-Afrika, tek-utopier og en utrolig evne til å selge fremtiden til sammen utgjør noe som ligner en helhetlig ideologi.",
-        "Det mener forfatter og skribent Ben Tarnoff som er aktuell med boken Muskismen som nylig er oversatt til norsk.",
-        "I Stopp verden møter politisk redaktør Torbjørn Røe Isaksen en gjest hver uke for å snakke om et tema – over et godt glass med drikke.",
-        "Samtalene handler om de store spørsmålene og de lange linjene, om hvordan samfunnet vårt har utviklet seg og hvordan vi skal manøvrere fremover."
+        "I budsjettet har regjeringen ført opp en forventet inntekt på 100 millioner kroner fra salgene. – Stortinget har gjort en vurdering av sitt boligbehov.",
+        "Stortinget har elleve pendlerboliger de ikke lenger har bruk for.",
+        "Siden 2014, forrige året Stortinget kjøpte en leilighet i Oslo som skulle brukes som pendlerbolig, har boligmarkedet I Norge steget med nesten 61 prosent, ifølge tall fra Eiendom Norge.",
+        "Pendlerboligene var grunnlaget i skandalen som rammet Stortinget i 2021."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/teknologi/i/Abbpdz/er-muskismen-fremtidens-ideologi",
+      "url": "https://e24.no/norsk-oekonomi/i/X9jk4m/helg-stortinget-skal-selge-pendlerboliger-for-100-millioner",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/966ec556-b45d-357e-9da5-d42f0215ecae?fit=crop&h=675&upscale=true&w=1200&s=1f8d3739b36dd01919b7e90e421b01c192bfaae9",
-      "localImage": "assets/news/d1ccd72f1d0f56.jpg",
-      "score": 13
+      "image": "https://akamai.vgc.no/v2/images/6e03d1de-3f01-3d91-8c17-513147a7f110?fit=crop&h=675&upscale=true&w=1200&s=2f84781233dc9ef78f5a2a77cf13f419cfe2cae7",
+      "localImage": "assets/news/2eb10a97611e6e.jpg",
+      "score": 15
     }
   ]
 }
