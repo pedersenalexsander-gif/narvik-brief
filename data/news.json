@@ -1,6 +1,6 @@
 {
-  "updatedAt": "11.10.2026 kl. 01:35",
-  "updatedISO": "2026-10-11T01:35:15.664400+02:00",
+  "updatedAt": "11.10.2026 kl. 04:13",
+  "updatedISO": "2026-10-11T04:13:30.432475+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7c903059-0631-3a85-b70f-c9233ec9c5e1?fit=crop&h=675&upscale=true&w=1200&s=145f78ca210bd675f615f1b48851076ae67231ac",
       "localImage": "assets/news/caf32489902bb5.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "1bab6a9de9ce1a",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c7741b14-2d6d-3ee2-af8f-75e8321a2beb?fit=crop&h=675&upscale=true&w=1200&s=d104d25dff0f9cd47186ff12496549efe1526e4a",
       "localImage": "assets/news/1bab6a9de9ce1a.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "eccf83863010ab",
@@ -85,7 +85,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/eccf83863010ab.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "830b0831131ef7",
@@ -106,28 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/LVYWrB75KkZcXuRI57MPZgy6OcVAl2P-ASENPW0ww-Qg.jpg",
       "localImage": "assets/news/830b0831131ef7.jpg",
-      "score": 19
-    },
-    {
-      "id": "e45bd2640f9006",
-      "category": "Norge",
-      "published": "10.10. 22:29",
-      "publishedISO": "2026-10-10T22:29:59+02:00",
-      "title": "Ironman-VM 2026: Følg Kristian Blummenfelt, Gustav Iden og Solveig Løvseths gulljakt",
-      "summary": "Kristian Blummenfelt har aldri vunnet det meste, men aldri Ironman-VM på ikoniske Hawaii. Gustav Iden (t.v.) og Kristian Blummenfelt jakter edelt metall på Hawaii. TRIPPEL: Gustav Iden (t.v.), Casper Stornes og Kristian Blummenfelt i Nice i fjor.",
-      "keyPoints": [
-        "Gustav Iden (t.v.) og Kristian Blummenfelt jakter edelt metall på Hawaii.",
-        "Kristian Blummenfelt har aldri vunnet det meste, men aldri Ironman-VM på ikoniske Hawaii.",
-        "TRIPPEL: Gustav Iden (t.v.), Casper Stornes og Kristian Blummenfelt i Nice i fjor.",
-        "Kristian Blummenfelt (32) henter inn konkurrentene på det avsluttende maratonløpet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/ironman-vm-2026_-folg-kristian-blummenfelt_-gustav-iden-og-solveig-lovseths-gulljakt-1.18051483",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5X79hyfcsqm8THfeMfsDJAuDe7lips7TJruL1_5060fw.jpg",
-      "localImage": "assets/news/e45bd2640f9006.jpg",
-      "score": 17
+      "score": 18
     },
     {
       "id": "c9281008b6af85",
@@ -169,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/70d4e622-ba4a-305d-8997-d2efd0147f38?fit=crop&h=675&upscale=true&w=1200&s=9cb24e3fc7ac97016de63d2fea9b4597be5361f0",
       "localImage": "assets/news/451c3aca35d342.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "0c63c2288194e5",
@@ -190,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7878e9b7-2a3a-3aaf-bd6d-8af7059a992e?fit=crop&h=675&upscale=true&w=1200&s=733f8f72ef0c3ae5452f1f760da3f917aa89694f",
       "localImage": "assets/news/0c63c2288194e5.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "3f056fd21d59ea",
@@ -211,7 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eef7d14f-b3d2-3899-b1fc-2d9223684c62?fit=crop&h=675&upscale=true&w=1200&s=65921090da07f06d04dbab2b8b450028cae2e62b",
       "localImage": "assets/news/3f056fd21d59ea.jpg",
-      "score": 14
+      "score": 13
+    },
+    {
+      "id": "8677029700d248",
+      "category": "Norge",
+      "published": "10.10. 22:29",
+      "publishedISO": "2026-10-10T22:29:59+02:00",
+      "title": "Ironman-VM 2026: Solveig Løvseth med utrolig kollaps og Gustav Iden tok sølv",
+      "summary": "Solveig Løvseth stormet mot sitt andre strake VM-gull – så sa det bom stopp. Gustav Iden kjempet seg til sølv etter en heroisk opphenting og tre minutter i straffeteltet. Dermed ble Gustav Iden (30) eneste norske medaljør på Hawaii.",
+      "keyPoints": [
+        "Gustav Iden kjempet seg til sølv etter en heroisk opphenting og tre minutter i straffeteltet.",
+        "Dermed ble Gustav Iden (30) eneste norske medaljør på Hawaii.",
+        "Solveig Løvseth stormet mot sitt andre strake VM-gull – så sa det bom stopp.",
+        "Solveig Løvseth på vei inn til skiftesonen før løpedelen. – Det er et løp vi vil snakke om i lang tid, oppsummeres det på Ironman-sendingen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/ironman-vm-2026_-solveig-lovseth-med-utrolig-kollaps-og-gustav-iden-tok-solv-1.18051483",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/3qMZ3JIhdeDqaZwmvfOamAf0Ofyk5gYunhobjqLhEXig.jpg",
+      "localImage": "assets/news/8677029700d248.webp",
+      "score": 12
     }
   ]
 }
