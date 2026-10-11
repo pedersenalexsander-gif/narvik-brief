@@ -1,6 +1,6 @@
 {
-  "updatedAt": "11.10.2026 kl. 17:26",
-  "updatedISO": "2026-10-11T17:26:56.347214+02:00",
+  "updatedAt": "11.10.2026 kl. 21:40",
+  "updatedISO": "2026-10-11T21:40:31.877612+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/79cf5f5a717255.jpg",
-      "score": 24
+      "score": 23
     },
     {
       "id": "fd1fe1c2b1b0f1",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a36960e4-15bb-3102-9f20-6ba07fa49afa?fit=crop&h=675&upscale=true&w=1200&s=aa83f06438df5333797ddbcfe7e1d14b9fa486fb",
       "localImage": "assets/news/b9490cba719f44.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "5554892ffcb160",
@@ -85,28 +85,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/5554892ffcb160.jpg",
-      "score": 24
-    },
-    {
-      "id": "5649066aa9d31b",
-      "category": "Norge",
-      "published": "11.10. 15:19",
-      "publishedISO": "2026-10-11T15:19:32+02:00",
-      "title": "Manchester City-skandalen: Nye regler skaper hodebry - slik er veien videre i City-saken",
-      "summary": "Nye regler, utallige straffemuligheter og enorm usikkerhet. Manchester City er dømt for 114 brudd på Premier League-reglene. Da er det som utgangspunkt mindre problematisk å anvende nye regler på en sak som allerede er i gang, sier advokat i Advokatfirmaet Kleven & Kristensen, Pål Kleven.",
-      "keyPoints": [
-        "Nye regler, utallige straffemuligheter og enorm usikkerhet.",
-        "Manchester City er dømt for 114 brudd på Premier League-reglene.",
-        "Da er det som utgangspunkt mindre problematisk å anvende nye regler på en sak som allerede er i gang, sier advokat i Advokatfirmaet Kleven & Kristensen, Pål Kleven.",
-        "Han forteller at dersom City velger å protestere på de nye fristene, så vil spørsmålene avgjøres av ankeutvalget. – En slik protest setter ikke automatisk saken på vent."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/manchester-city-skandalen_-nye-regler-skaper-hodebry---slik-er-veien-videre-i-city-saken-1.18046597",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/g8woupqdkE4S05PG9kgPtAMEsG3FqKUDtz6X8re5I06Q.jpg",
-      "localImage": "assets/news/5649066aa9d31b.jpg",
-      "score": 17
+      "score": 23
     },
     {
       "id": "eccf83863010ab",
@@ -130,6 +109,27 @@
       "score": 17
     },
     {
+      "id": "5649066aa9d31b",
+      "category": "Norge",
+      "published": "11.10. 15:19",
+      "publishedISO": "2026-10-11T15:19:32+02:00",
+      "title": "Manchester City-skandalen: Nye regler skaper hodebry - slik er veien videre i City-saken",
+      "summary": "Nye regler, utallige straffemuligheter og enorm usikkerhet. Manchester City er dømt for 114 brudd på Premier League-reglene. Da er det som utgangspunkt mindre problematisk å anvende nye regler på en sak som allerede er i gang, sier advokat i Advokatfirmaet Kleven & Kristensen, Pål Kleven.",
+      "keyPoints": [
+        "Nye regler, utallige straffemuligheter og enorm usikkerhet.",
+        "Manchester City er dømt for 114 brudd på Premier League-reglene.",
+        "Da er det som utgangspunkt mindre problematisk å anvende nye regler på en sak som allerede er i gang, sier advokat i Advokatfirmaet Kleven & Kristensen, Pål Kleven.",
+        "Han forteller at dersom City velger å protestere på de nye fristene, så vil spørsmålene avgjøres av ankeutvalget. – En slik protest setter ikke automatisk saken på vent."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/manchester-city-skandalen_-nye-regler-skaper-hodebry---slik-er-veien-videre-i-city-saken-1.18046597",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/g8woupqdkE4S05PG9kgPtAMEsG3FqKUDtz6X8re5I06Q.jpg",
+      "localImage": "assets/news/5649066aa9d31b.jpg",
+      "score": 16
+    },
+    {
       "id": "253c084054df26",
       "category": "Økonomi",
       "published": "11.10. 15:20",
@@ -148,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d8b5cc34-8792-364f-8688-875e47698d56?fit=crop&h=675&upscale=true&w=1200&s=a806c02bcb9928638cdeb97eafbc8fccb311deaa",
       "localImage": "assets/news/253c084054df26.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "8f84ac49ac53d3",
@@ -169,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/7KgcDNc3yovpKEdLGV3AyARtCi0T0YR_Az3Un76x02nw.jpg",
       "localImage": "assets/news/8f84ac49ac53d3.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "c81f3c29710bf4",
@@ -190,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/974d26ac-1e06-345d-bf87-078ff08fa8b0?fit=crop&h=675&upscale=true&w=1200&s=e635bdea13e449139d176421482d04b5d8993f86",
       "localImage": "assets/news/c81f3c29710bf4.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "2eb10a97611e6e",
@@ -211,7 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6e03d1de-3f01-3d91-8c17-513147a7f110?fit=crop&h=675&upscale=true&w=1200&s=2f84781233dc9ef78f5a2a77cf13f419cfe2cae7",
       "localImage": "assets/news/2eb10a97611e6e.jpg",
-      "score": 15
+      "score": 14
     }
   ]
 }
