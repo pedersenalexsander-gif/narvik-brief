@@ -1,6 +1,6 @@
 {
-  "updatedAt": "12.10.2026 kl. 01:12",
-  "updatedISO": "2026-10-12T01:12:23.781136+02:00",
+  "updatedAt": "12.10.2026 kl. 04:26",
+  "updatedISO": "2026-10-12T04:26:37.630258+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,70 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/79cf5f5a717255.jpg",
-      "score": 23
+      "score": 22
+    },
+    {
+      "id": "6bd1eaed5fa5c8",
+      "category": "Verden",
+      "published": "12.10. 00:45",
+      "publishedISO": "2026-10-12T00:45:58+02:00",
+      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
+      "summary": "Se: Scenen på Riyadh internasjonale flyplass etter streiken En person er drept og 11 skadet i et andre angrep på den internasjonale flyplassen i Saudi-hovedstaden Riyadh, har tjenestemenn sagt. Houthiene har sagt at de retter seg mot Saudi-Arabia på grunn av støtten til regjeringsstyrkene i Jemens borgerkrig, samt et luftangrep på flyplassen i Sanaa. Søndag sa generalmajor Turki al-Maliki, talsmann for den Saudi-ledede militærkoalisjonen, at luftforsvaret hadde fanget opp et missil nær flyplassen i Riyadh, mens myndighetene håndterte brannen forårsaket av et \"ukjent prosjektil\" som traff passasjerhall nr. 4.",
+      "keyPoints": [
+        "Se: Scenen på Riyadh internasjonale flyplass etter streiken En person er drept og 11 skadet i et andre angrep på den internasjonale flyplassen i Saudi-hovedstaden Riyadh, har tjenestemenn sagt.",
+        "Houthiene har sagt at de retter seg mot Saudi-Arabia på grunn av støtten til regjeringsstyrkene i Jemens borgerkrig, samt et luftangrep på flyplassen i Sanaa.",
+        "Søndag sa generalmajor Turki al-Maliki, talsmann for den Saudi-ledede militærkoalisjonen, at luftforsvaret hadde fanget opp et missil nær flyplassen i Riyadh, mens myndighetene håndterte brannen forårsaket av et \"ukjent prosjektil\" som traff passasjerhall nr. 4.",
+        "A Saudi military spokesman said a projectile had hit King Khalid International Airport on Sunday, causing a fire in one of its passenger halls."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg",
+      "localImage": "assets/news/6bd1eaed5fa5c8.jpg",
+      "score": 13
+    },
+    {
+      "id": "1af05e852cb940",
+      "category": "USA",
+      "published": "10.10. 16:24",
+      "publishedISO": "2026-10-10T16:24:14+02:00",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin'",
+      "summary": "Donald Trump og Vladimir Putin møttes i Alaska i fjor. Ukrainas president Volodymyr Zelensky har fordømt Donald Trumps kunngjøring av en avtale om import av russisk diesel til USA. Zelensky kalte det en gave til Russlands president Vladimir Putin som utgjør \"en investering i en krig som må avsluttes, ikke forlenges\", en posisjon som raskt støttes av Ukrainas europeiske allierte. Trump sa at Putin hadde gått med på å slippe ut 300.000 tonn diesel umiddelbart «til den amerikanske og globale markedsplassen» fulgt av 500.000 tonn i november og ytterligere én million etter det.",
+      "keyPoints": [
+        "Donald Trump og Vladimir Putin møttes i Alaska i fjor. Ukrainas president Volodymyr Zelensky har fordømt Donald Trumps kunngjøring av en avtale om import av russisk diesel til USA.",
+        "Zelensky kalte det en gave til Russlands president Vladimir Putin som utgjør \"en investering i en krig som må avsluttes, ikke forlenges\", en posisjon som raskt støttes av Ukrainas europeiske allierte.",
+        "Trump sa at Putin hadde gått med på å slippe ut 300.000 tonn diesel umiddelbart «til den amerikanske og globale markedsplassen» fulgt av 500.000 tonn i november og ytterligere én million etter det.",
+        "Analyse: Trumps sjokk Russland-avtale fremhever økende press for å dempe drivstoffprisene Russisk glidebombeangrep på Zaporizhzhia dreper minst 15 mennesker Tim Armitage, en investeringsstrateg hos Quilter Cheviot, sa at tallene nevnt av Trump var \"relativt små\"."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d06b/live/625e43c0-c54b-11f1-b4f1-2359026a88ee.jpg",
+      "localImage": "assets/news/1af05e852cb940.jpg",
+      "score": 14
+    },
+    {
+      "id": "57bb2c5a68bb4e",
+      "category": "Økonomi",
+      "published": "12.10. 01:18",
+      "publishedISO": "2026-10-12T01:18:45+02:00",
+      "title": "Trump faces growing backlash over plans to import diesel from Russia",
+      "summary": "Globale drivstoffpriser har steget siden USA-Israel-krigen med Iran begynte i slutten av februar USAs president Donald Trump står overfor et økende tilbakeslag over planer om å importere diesel fra Russland ettersom Iran-krigen fortsetter å påvirke globale energipriser. Trump kunngjorde fredag ​​at Russlands president Vladimir Putin hadde gått med på å slippe 300.000 tonn diesel umiddelbart «til den amerikanske og globale markedsplassen» etterfulgt av flere andre forsendelser. I tillegg til den første utgivelsen av 300.000 tonn diesel, sa Trump at Russland da ville levere 500.000 tonn i november og en million mer etter det.",
+      "keyPoints": [
+        "Globale drivstoffpriser har steget siden USA-Israel-krigen med Iran begynte i slutten av februar USAs president Donald Trump står overfor et økende tilbakeslag over planer om å importere diesel fra Russland ettersom Iran-krigen fortsetter å påvirke globale energipriser.",
+        "I tillegg til den første utgivelsen av 300.000 tonn diesel, sa Trump at Russland da ville levere 500.000 tonn i november og en million mer etter det.",
+        "Trump kunngjorde fredag ​​at Russlands president Vladimir Putin hadde gått med på å slippe 300.000 tonn diesel umiddelbart «til den amerikanske og globale markedsplassen» etterfulgt av flere andre forsendelser.",
+        "UK does not support Trump's Russia diesel deal, says Streeting Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin"
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
+      "localImage": "assets/news/57bb2c5a68bb4e.jpg",
+      "score": 17
     },
     {
       "id": "fd1fe1c2b1b0f1",
@@ -43,28 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/cd399d8d-cd38-3dac-aeaa-b1f3135ddfac?fit=crop&h=675&upscale=true&w=1200&s=dd623226e6c0bb656b3a2ad332d023e0d91427af",
       "localImage": "assets/news/fd1fe1c2b1b0f1.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "253c084054df26",
-      "category": "Økonomi",
-      "published": "11.10. 15:20",
-      "publishedISO": "2026-10-11T15:20:56+02:00",
-      "title": "IEA: Ber land vurdere nye diesel-slipp",
-      "summary": "Det internasjonale energibyrået (IEA) ber land vurdere om de kan slipper mer ut fra lagrene. Ifølge IEA-sjefen krever markedssituasjonen umiddelbar håndtering. «Direktøren noterer seg også de fornyede angrepene på sivil infrastruktur og energiinfrastruktur i Saudi-Arabia, inkludert de tragiske angrepene på den internasjonale flyplassen i Riyadh», skriver IEA i meldingen. IEA-sjefen ber nå medlemslandene om å vurdere nye grep: Prisene på diesel har vært høye i det siste.",
+      "id": "b02ac4c1ea9b51",
+      "category": "AI",
+      "published": "10.10. 12:06",
+      "publishedISO": "2026-10-10T12:06:23+02:00",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "summary": "AI-teknologiselskapet Anthropic kjørte en test som involverte interaksjoner med tilfeldig utvalgte nettsteder, da det sendte et falskt drapstips til politiet En agent for kunstig intelligens (AI) utviklet av Anthropic gikk useriøst og sendte amerikansk politi et falskt tips om et uløst drap tidligere i år, har myndighetene avslørt. Den sa at det falske tipset kom gjennom et offentlig nettsted der folk kan dele informasjon om uløste drap, og at AI-agenten hadde hevdet å ha sett \"noen som matchet beskrivelsen\". Med henvisning til Anthropic sa politiavdelingen at AI-agenten deres hadde kjørt en test som involverte interaksjoner med tilfeldig utvalgte nettsteder da den sendte det falske tipset.",
       "keyPoints": [
-        "Det internasjonale energibyrået (IEA) ber land vurdere om de kan slipper mer ut fra lagrene.",
-        "IEA-sjefen ber nå medlemslandene om å vurdere nye grep: Prisene på diesel har vært høye i det siste.",
-        "Ifølge IEA-sjefen krever markedssituasjonen umiddelbar håndtering. «Direktøren noterer seg også de fornyede angrepene på sivil infrastruktur og energiinfrastruktur i Saudi-Arabia, inkludert de tragiske angrepene på den internasjonale flyplassen i Riyadh», skriver IEA i meldingen.",
-        "Det kommer frem i en melding fra IEA søndag ettermiddag. – Som i mars tror jeg vi igjen kan demonstrere IEAs kapasitet til å handle sammen og støtte opp under energisikkerheten og økonomisk stabilitet, sier IEA-sjef Dr."
+        "AI-teknologiselskapet Anthropic kjørte en test som involverte interaksjoner med tilfeldig utvalgte nettsteder, da det sendte et falskt drapstips til politiet En agent for kunstig intelligens (AI) utviklet av Anthropic gikk useriøst og sendte amerikansk politi et falskt tips om et uløst drap tidligere i år, har myndighetene avslørt.",
+        "Den sa at det falske tipset kom gjennom et offentlig nettsted der folk kan dele informasjon om uløste drap, og at AI-agenten hadde hevdet å ha sett \"noen som matchet beskrivelsen\".",
+        "Politiet i Philadelphia sa at tipset fra 18. juli ble \"flagget som spam\" og ikke ble sendt videre for etterforskning - men styrken kritiserte teknologifirmaet for å ha brukt mer enn to måneder på å oppdage og rapportere bruddet.",
+        "Det antas å være første gang en AI-agent har sendt fabrikkert informasjon til myndighetene, men er den siste i en rekke hendelser som involverer useriøs AI-aktivitet, inkludert hacking av systemer eller å ta kontroll over plattformer."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/4OL9ma/iea-ber-land-vurdere-nye-diesel-slipp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d8b5cc34-8792-364f-8688-875e47698d56?fit=crop&h=675&upscale=true&w=1200&s=a806c02bcb9928638cdeb97eafbc8fccb311deaa",
-      "localImage": "assets/news/253c084054df26.jpg",
-      "score": 15
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
+      "localImage": "assets/news/b02ac4c1ea9b51.jpg",
+      "score": 14
     },
     {
       "id": "5554892ffcb160",
@@ -106,28 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/g8woupqdkE4S05PG9kgPtAMEsG3FqKUDtz6X8re5I06Q.jpg",
       "localImage": "assets/news/5649066aa9d31b.jpg",
-      "score": 16
-    },
-    {
-      "id": "eccf83863010ab",
-      "category": "Norge",
-      "published": "10.10. 20:47",
-      "publishedISO": "2026-10-10T20:47:23+02:00",
-      "title": "UD ber nordmenn unngå flyplass i Saudi-Arabia",
-      "summary": "Utenriksdepartementet har oppdatert reiserådene for Saudi-Arabia etter angrepet mot King Khalid internasjonale lufthavn i Riyadh. – Vi har sendt ut varsel til norske borgere som er registrert i landet, og vi oppfordrer reisende i området om å unngå flyplassen og områdene rundt og vurdere alternative reiseruter, skriver pressetalsperson Thea Finstad til NRK. Utenriksdepartementet har ikke mottatt opplysninger som tyder på at norske borgere er rammet av hendelsen lørdag. – Vi ber reisende om å holde kontakt med flyselskapet de reiser med, samt å vurdere egen sikkerhet og lytte til råd fra pålitelige lokale kilder, skriver Finstad. Saudi-Arabia innledet nylig en offensiv mot Houthi-militsen i nabolandet Jemen.",
-      "keyPoints": [
-        "Utenriksdepartementet har oppdatert reiserådene for Saudi-Arabia etter angrepet mot King Khalid internasjonale lufthavn i Riyadh. – Vi har sendt ut varsel til norske borgere som er registrert i landet, og vi oppfordrer reisende i området om å unngå flyplassen og områdene rundt og vurdere alternative reiseruter, skriver pressetalsperson Thea Finstad til NRK.",
-        "Utenriksdepartementet har ikke mottatt opplysninger som tyder på at norske borgere er rammet av hendelsen lørdag. – Vi ber reisende om å holde kontakt med flyselskapet de reiser med, samt å vurdere egen sikkerhet og lytte til råd fra pålitelige lokale kilder, skriver Finstad.",
-        "Saudi-Arabia innledet nylig en offensiv mot Houthi-militsen i nabolandet Jemen.",
-        "Norsk UD skjerpet reiserådet til Saudi-Arabia torsdag denne uken."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/ud-ber-nordmenn-unnga-flyplass-i-saudi-arabia-1.18051370",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
-      "localImage": "assets/news/eccf83863010ab.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "b9490cba719f44",
@@ -151,67 +193,25 @@
       "score": 15
     },
     {
-      "id": "8f84ac49ac53d3",
+      "id": "eccf83863010ab",
       "category": "Norge",
-      "published": "11.10. 11:00",
-      "publishedISO": "2026-10-11T11:00:15+02:00",
-      "title": "Nå vakler Donald Trumps skanse i Iowa",
-      "summary": "To bønder merker president Trumps politikk på hver sin måte, men de har én felles bekymring. I delstaten Iowa har Donald Trump lenge kunnet regne med velgerne. President Donald Trumps siste diesel-grep betyr fint lite for bonden Randy Dreher.",
+      "published": "10.10. 20:47",
+      "publishedISO": "2026-10-10T20:47:23+02:00",
+      "title": "UD ber nordmenn unngå flyplass i Saudi-Arabia",
+      "summary": "Utenriksdepartementet har oppdatert reiserådene for Saudi-Arabia etter angrepet mot King Khalid internasjonale lufthavn i Riyadh. – Vi har sendt ut varsel til norske borgere som er registrert i landet, og vi oppfordrer reisende i området om å unngå flyplassen og områdene rundt og vurdere alternative reiseruter, skriver pressetalsperson Thea Finstad til NRK. Utenriksdepartementet har ikke mottatt opplysninger som tyder på at norske borgere er rammet av hendelsen lørdag. – Vi ber reisende om å holde kontakt med flyselskapet de reiser med, samt å vurdere egen sikkerhet og lytte til råd fra pålitelige lokale kilder, skriver Finstad. Saudi-Arabia innledet nylig en offensiv mot Houthi-militsen i nabolandet Jemen.",
       "keyPoints": [
-        "I delstaten Iowa har Donald Trump lenge kunnet regne med velgerne.",
-        "President Donald Trumps siste diesel-grep betyr fint lite for bonden Randy Dreher.",
-        "To bønder merker president Trumps politikk på hver sin måte, men de har én felles bekymring.",
-        "Målinger viser at demokratene plutselig har satt Iowa i spill."
+        "Utenriksdepartementet har oppdatert reiserådene for Saudi-Arabia etter angrepet mot King Khalid internasjonale lufthavn i Riyadh. – Vi har sendt ut varsel til norske borgere som er registrert i landet, og vi oppfordrer reisende i området om å unngå flyplassen og områdene rundt og vurdere alternative reiseruter, skriver pressetalsperson Thea Finstad til NRK.",
+        "Utenriksdepartementet har ikke mottatt opplysninger som tyder på at norske borgere er rammet av hendelsen lørdag. – Vi ber reisende om å holde kontakt med flyselskapet de reiser med, samt å vurdere egen sikkerhet og lytte til råd fra pålitelige lokale kilder, skriver Finstad.",
+        "Saudi-Arabia innledet nylig en offensiv mot Houthi-militsen i nabolandet Jemen.",
+        "Norsk UD skjerpet reiserådet til Saudi-Arabia torsdag denne uken."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/na-vakler-donald-trumps-skanse-i-iowa-1.18050801",
+      "url": "https://www.nrk.no/nyheter/ud-ber-nordmenn-unnga-flyplass-i-saudi-arabia-1.18051370",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/7KgcDNc3yovpKEdLGV3AyARtCi0T0YR_Az3Un76x02nw.jpg",
-      "localImage": "assets/news/8f84ac49ac53d3.jpg",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
+      "localImage": "assets/news/eccf83863010ab.jpg",
       "score": 15
-    },
-    {
-      "id": "2eb10a97611e6e",
-      "category": "Økonomi",
-      "published": "11.10. 06:00",
-      "publishedISO": "2026-10-11T06:00:00+02:00",
-      "title": "Stortinget skal selge pendlerboliger for 100 millioner",
-      "summary": "Stortinget har elleve pendlerboliger de ikke lenger har bruk for. I budsjettet har regjeringen ført opp en forventet inntekt på 100 millioner kroner fra salgene. – Stortinget har gjort en vurdering av sitt boligbehov. Siden 2014, forrige året Stortinget kjøpte en leilighet i Oslo som skulle brukes som pendlerbolig, har boligmarkedet I Norge steget med nesten 61 prosent, ifølge tall fra Eiendom Norge.",
-      "keyPoints": [
-        "I budsjettet har regjeringen ført opp en forventet inntekt på 100 millioner kroner fra salgene. – Stortinget har gjort en vurdering av sitt boligbehov.",
-        "Stortinget har elleve pendlerboliger de ikke lenger har bruk for.",
-        "Siden 2014, forrige året Stortinget kjøpte en leilighet i Oslo som skulle brukes som pendlerbolig, har boligmarkedet I Norge steget med nesten 61 prosent, ifølge tall fra Eiendom Norge.",
-        "Pendlerboligene var grunnlaget i skandalen som rammet Stortinget i 2021."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/X9jk4m/helg-stortinget-skal-selge-pendlerboliger-for-100-millioner",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6e03d1de-3f01-3d91-8c17-513147a7f110?fit=crop&h=675&upscale=true&w=1200&s=2f84781233dc9ef78f5a2a77cf13f419cfe2cae7",
-      "localImage": "assets/news/2eb10a97611e6e.jpg",
-      "score": 14
-    },
-    {
-      "id": "e986f7c5d14f4d",
-      "category": "Norge",
-      "published": "11.10. 22:33",
-      "publishedISO": "2026-10-11T22:33:14+02:00",
-      "title": "Molde-trener med tirade etter dommeravgjørelse: – Fyfaen",
-      "summary": "INNE ELLER UTE?: Det er denne situasjonen som får Molde-leiren til å reagere. – Fyfaen. For meg er den ballen klart inne, raser Molde-trener Sindre Tjelmeland til TV 2. – Det kan være jeg er full av adrenalin, men det er så dårlig. RASER: Molde-trener Sindre Tjelmeland var alt annet enn fornøyd med dommeravgjørelsen på overtid og kalte situasjonen «ræva» Molde var nære scoring da innbytter Victor Bender avsluttet fra kort hold, men LSK-keeper Pontus Dahlberg stoppet ballen helt på målstreken.",
-      "keyPoints": [
-        "For meg er den ballen klart inne, raser Molde-trener Sindre Tjelmeland til TV 2. – Det kan være jeg er full av adrenalin, men det er så dårlig.",
-        "RASER: Molde-trener Sindre Tjelmeland var alt annet enn fornøyd med dommeravgjørelsen på overtid og kalte situasjonen «ræva» Molde var nære scoring da innbytter Victor Bender avsluttet fra kort hold, men LSK-keeper Pontus Dahlberg stoppet ballen helt på målstreken.",
-        "INNE ELLER UTE?: Det er denne situasjonen som får Molde-leiren til å reagere. – Fyfaen.",
-        "Da er det bare flaut og pinlig og jeg håper virkelig det får noe etterspill for noen av de som sitter og vurderer det her, for det går bare ikke an, sier Tjelmeland til NRK. – På de bildene jeg har sett, så ser det ganske klart ut som ballen er inne."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/molde-trener-med-tirade-etter-dommeravgjorelse_-_-fyfaen-1.18051995",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/S9_zL0HrsaYzJo7m-pWyOQtm1bSRUJy-KWrg_B_yUR3g.jpg",
-      "localImage": "assets/news/e986f7c5d14f4d.jpg",
-      "score": 13
     }
   ]
 }
