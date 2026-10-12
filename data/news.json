@@ -1,8 +1,92 @@
 {
-  "updatedAt": "12.10.2026 kl. 04:26",
-  "updatedISO": "2026-10-12T04:26:37.630258+02:00",
+  "updatedAt": "12.10.2026 kl. 11:37",
+  "updatedISO": "2026-10-12T11:37:04.336777+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "5cdc6063dd59ba",
+      "category": "Nord-Norge",
+      "published": "12.10. 10:22",
+      "publishedISO": "2026-10-12T10:22:33+02:00",
+      "title": "Alvorlige avvik hos Statkraft: NVE avdekket mangler ved damsikkerheten",
+      "summary": "NVE har avdekket 46 alvorlige avvik i Statkrafts arbeid med damsikkerhet i Sauda og Nord-Norge. I Sauda ble det funnet 26 avvik, mens det i Nord-Norge ble avdekket 20, skriver NVE i en pressemelding. At de samme manglene går igjen på tvers av anleggene, gjør at NVE vurderer at dette gjelder generelle, strukturelle mangler i Statkraft som organisasjon. – Funnene i revisjonene er alvorlige, og viser at Statkraft over tid ikke har fulgt opp flere viktige krav til damsikkerhet godt nok.",
+      "keyPoints": [
+        "NVE har avdekket 46 alvorlige avvik i Statkrafts arbeid med damsikkerhet i Sauda og Nord-Norge.",
+        "At de samme manglene går igjen på tvers av anleggene, gjør at NVE vurderer at dette gjelder generelle, strukturelle mangler i Statkraft som organisasjon. – Funnene i revisjonene er alvorlige, og viser at Statkraft over tid ikke har fulgt opp flere viktige krav til damsikkerhet godt nok.",
+        "I Sauda ble det funnet 26 avvik, mens det i Nord-Norge ble avdekket 20, skriver NVE i en pressemelding.",
+        "Revisjonene avdekket mangler ved oppfølging av tekniske krav, internkontroll, overvåking og gjennomføring av sikkerhetsvurderinger."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/alvorlige-avvik-hos-statkraft_-nve-avdekket-mangler-ved-damsikkerheten-1.18052314",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/tT_dFJROOV9VQTwO5aC0kQe3mE3gCNrhFHB8izvvP4jw.jpg",
+      "localImage": "assets/news/5cdc6063dd59ba.jpg",
+      "score": 17
+    },
+    {
+      "id": "bae0a2e9394d5a",
+      "category": "Norge",
+      "published": "12.10. 09:34",
+      "publishedISO": "2026-10-12T09:34:59+02:00",
+      "title": "Prisjegersaken starter i Gulating lagmannsrett i dag",
+      "summary": "PRISJEGERSAKEN: I dag starter rettssaken i Gulating lagmannsrett Konkurransetilsynet mener dagligvaregigantene har samarbeidet om å sjekke hverandres priser på en måte som har virket skadelig på konkurransen i dagligvaremarkedet. De neste ukene skal saken behandles i Gulating lagmannsrett i Bergen. Det er satt av to måneder til saken i Gulating lagmannsrett.",
+      "keyPoints": [
+        "PRISJEGERSAKEN: I dag starter rettssaken i Gulating lagmannsrett Konkurransetilsynet mener dagligvaregigantene har samarbeidet om å sjekke hverandres priser på en måte som har virket skadelig på konkurransen i dagligvaremarkedet.",
+        "De neste ukene skal saken behandles i Gulating lagmannsrett i Bergen.",
+        "Det er satt av to måneder til saken i Gulating lagmannsrett.",
+        "Nå vil dagligvarekjedene at lagmannsretten skal omgjøre en bot på nesten 5 milliarder kroner."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/prisjegersaken-starter-i-gulating-lagmannsrett-i-dag-1.18052237",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/SvodZbKZ-GbZekwfv7g-8Q4SMnkNloGzWBjsZr2J2ebg.jpg",
+      "localImage": "assets/news/bae0a2e9394d5a.jpg",
+      "score": 21
+    },
+    {
+      "id": "7292e719616445",
+      "category": "Økonomi",
+      "published": "12.10. 09:01",
+      "publishedISO": "2026-10-12T09:01:12+02:00",
+      "title": "Oljeaksjer faller på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs er marginalt ned 0,06 prosent ved 10-tiden mandag. Olje- og gasselskapet Vår Energi kom mandag med en oppdatering på produksjonen og salget i tredje kvartal, i forkant av at den fullstendige kvartalsrapporten kommer 21. oktober. Når det kommer til pris oppnådde Vår Energi 103 dollar fatet for oljen i tredje kvartal, ned fra 110 dollar i kvartalet før.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er marginalt ned 0,06 prosent ved 10-tiden mandag.",
+        "Når det kommer til pris oppnådde Vår Energi 103 dollar fatet for oljen i tredje kvartal, ned fra 110 dollar i kvartalet før.",
+        "Olje- og gasselskapet Vår Energi kom mandag med en oppdatering på produksjonen og salget i tredje kvartal, i forkant av at den fullstendige kvartalsrapporten kommer 21. oktober.",
+        "Netto produksjonen var 369.000 fat oljeekvivalenter per dag i kvartalet, litt ned fra kvartalet før."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Vgjzx6/nedgang-paa-oslo-boers-oljeaksjer-faller",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fcd131c0-f1a9-33e2-bf41-de37d338d3c0?fit=crop&h=675&upscale=true&w=1200&s=8db979efe98c66c7f8f0a1f53c25af1ccc5ce581",
+      "localImage": "assets/news/7292e719616445.jpg",
+      "score": 23
+    },
+    {
+      "id": "06d9baed686ff8",
+      "category": "Økonomi",
+      "published": "12.10. 11:32",
+      "publishedISO": "2026-10-12T11:32:34+02:00",
+      "title": "Fastlåst i Midtøsten: – Kan nok vedvare et halvt år til",
+      "summary": "Konflikten ser fastlåst ut, sier analysesjef Per Magnus Nysveen i Rystad Energy. – Vi tror at oljeprisen har hatt såpass effekt på etterspørselen at den ikke vil gå så veldig mye over 100 dollar. Volumene av råolje som kommer ut av Hormuzstredet og Midtøsten er mindre enn det de var før krigen startet 28. februar, påpeker Nysveen. – De ligger for tiden på rundt 80 prosent av det som kom ut før krigen. Kina har virket som svingkonsument, men det er usikkert hvor lenge de kan fortsette med det, sier Nysveen. – Situasjonen kan nok vedvare et halvt år til med de volumene vi ser ut fra Hormuzstredet.",
+      "keyPoints": [
+        "Kina har virket som svingkonsument, men det er usikkert hvor lenge de kan fortsette med det, sier Nysveen. – Situasjonen kan nok vedvare et halvt år til med de volumene vi ser ut fra Hormuzstredet.",
+        "Konflikten ser fastlåst ut, sier analysesjef Per Magnus Nysveen i Rystad Energy. – Vi tror at oljeprisen har hatt såpass effekt på etterspørselen at den ikke vil gå så veldig mye over 100 dollar.",
+        "Volumene av råolje som kommer ut av Hormuzstredet og Midtøsten er mindre enn det de var før krigen startet 28. februar, påpeker Nysveen. – De ligger for tiden på rundt 80 prosent av det som kom ut før krigen.",
+        "Senest i helgen var det nye angrep i Midtøsten, blant annet mot hovedflyplassen i Saudi-Arabia. – Det er ingen utsikter til at oljeprisen skal bedre seg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/d7v4vA/fastlaast-i-midtoesten-kan-nok-vedvare-et-halvt-aar-til",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/2837e01c-2c85-37d8-96ea-a955d9a7c97d?fit=crop&h=675&upscale=true&w=1200&s=9e9fce1bd022dc34fdc0b52a624f5711b63476a8",
+      "localImage": "assets/news/06d9baed686ff8.jpg",
+      "score": 20
+    },
     {
       "id": "79cf5f5a717255",
       "category": "Norge",
@@ -22,112 +106,28 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/79cf5f5a717255.jpg",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "6bd1eaed5fa5c8",
-      "category": "Verden",
-      "published": "12.10. 00:45",
-      "publishedISO": "2026-10-12T00:45:58+02:00",
-      "title": "Saudi Arabia's Riyadh airport hit by second Houthi strike in two days",
-      "summary": "Se: Scenen på Riyadh internasjonale flyplass etter streiken En person er drept og 11 skadet i et andre angrep på den internasjonale flyplassen i Saudi-hovedstaden Riyadh, har tjenestemenn sagt. Houthiene har sagt at de retter seg mot Saudi-Arabia på grunn av støtten til regjeringsstyrkene i Jemens borgerkrig, samt et luftangrep på flyplassen i Sanaa. Søndag sa generalmajor Turki al-Maliki, talsmann for den Saudi-ledede militærkoalisjonen, at luftforsvaret hadde fanget opp et missil nær flyplassen i Riyadh, mens myndighetene håndterte brannen forårsaket av et \"ukjent prosjektil\" som traff passasjerhall nr. 4.",
-      "keyPoints": [
-        "Se: Scenen på Riyadh internasjonale flyplass etter streiken En person er drept og 11 skadet i et andre angrep på den internasjonale flyplassen i Saudi-hovedstaden Riyadh, har tjenestemenn sagt.",
-        "Houthiene har sagt at de retter seg mot Saudi-Arabia på grunn av støtten til regjeringsstyrkene i Jemens borgerkrig, samt et luftangrep på flyplassen i Sanaa.",
-        "Søndag sa generalmajor Turki al-Maliki, talsmann for den Saudi-ledede militærkoalisjonen, at luftforsvaret hadde fanget opp et missil nær flyplassen i Riyadh, mens myndighetene håndterte brannen forårsaket av et \"ukjent prosjektil\" som traff passasjerhall nr. 4.",
-        "A Saudi military spokesman said a projectile had hit King Khalid International Airport on Sunday, causing a fire in one of its passenger halls."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/01f0/live/59d06e70-c57a-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/6bd1eaed5fa5c8.jpg",
-      "score": 13
-    },
-    {
-      "id": "1af05e852cb940",
-      "category": "USA",
-      "published": "10.10. 16:24",
-      "publishedISO": "2026-10-10T16:24:14+02:00",
-      "title": "Trump announces deal for Russian diesel as Zelensky calls it a 'gift to Putin'",
-      "summary": "Donald Trump og Vladimir Putin møttes i Alaska i fjor. Ukrainas president Volodymyr Zelensky har fordømt Donald Trumps kunngjøring av en avtale om import av russisk diesel til USA. Zelensky kalte det en gave til Russlands president Vladimir Putin som utgjør \"en investering i en krig som må avsluttes, ikke forlenges\", en posisjon som raskt støttes av Ukrainas europeiske allierte. Trump sa at Putin hadde gått med på å slippe ut 300.000 tonn diesel umiddelbart «til den amerikanske og globale markedsplassen» fulgt av 500.000 tonn i november og ytterligere én million etter det.",
-      "keyPoints": [
-        "Donald Trump og Vladimir Putin møttes i Alaska i fjor. Ukrainas president Volodymyr Zelensky har fordømt Donald Trumps kunngjøring av en avtale om import av russisk diesel til USA.",
-        "Zelensky kalte det en gave til Russlands president Vladimir Putin som utgjør \"en investering i en krig som må avsluttes, ikke forlenges\", en posisjon som raskt støttes av Ukrainas europeiske allierte.",
-        "Trump sa at Putin hadde gått med på å slippe ut 300.000 tonn diesel umiddelbart «til den amerikanske og globale markedsplassen» fulgt av 500.000 tonn i november og ytterligere én million etter det.",
-        "Analyse: Trumps sjokk Russland-avtale fremhever økende press for å dempe drivstoffprisene Russisk glidebombeangrep på Zaporizhzhia dreper minst 15 mennesker Tim Armitage, en investeringsstrateg hos Quilter Cheviot, sa at tallene nevnt av Trump var \"relativt små\"."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d06b/live/625e43c0-c54b-11f1-b4f1-2359026a88ee.jpg",
-      "localImage": "assets/news/1af05e852cb940.jpg",
-      "score": 14
-    },
-    {
-      "id": "57bb2c5a68bb4e",
+      "id": "486d6c99733649",
       "category": "Økonomi",
-      "published": "12.10. 01:18",
-      "publishedISO": "2026-10-12T01:18:45+02:00",
-      "title": "Trump faces growing backlash over plans to import diesel from Russia",
-      "summary": "Globale drivstoffpriser har steget siden USA-Israel-krigen med Iran begynte i slutten av februar USAs president Donald Trump står overfor et økende tilbakeslag over planer om å importere diesel fra Russland ettersom Iran-krigen fortsetter å påvirke globale energipriser. Trump kunngjorde fredag ​​at Russlands president Vladimir Putin hadde gått med på å slippe 300.000 tonn diesel umiddelbart «til den amerikanske og globale markedsplassen» etterfulgt av flere andre forsendelser. I tillegg til den første utgivelsen av 300.000 tonn diesel, sa Trump at Russland da ville levere 500.000 tonn i november og en million mer etter det.",
+      "published": "12.10. 10:31",
+      "publishedISO": "2026-10-12T10:31:35+02:00",
+      "title": "Milliardveddemål mot bilaksje",
+      "summary": "Fra tid til annen blir aksjer angrepet av shortselgereEn shortselger er en investor som vedder på at en aksje skal falle i verdi. Det gjøres ved å låne aksjer og selge dem i markedet, med mål om å kjøpe dem tilbake til en lavere pris senere.Dersom aksjekursen faller, tjener shortselgeren på mellomlegget. De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs).",
       "keyPoints": [
-        "Globale drivstoffpriser har steget siden USA-Israel-krigen med Iran begynte i slutten av februar USAs president Donald Trump står overfor et økende tilbakeslag over planer om å importere diesel fra Russland ettersom Iran-krigen fortsetter å påvirke globale energipriser.",
-        "I tillegg til den første utgivelsen av 300.000 tonn diesel, sa Trump at Russland da ville levere 500.000 tonn i november og en million mer etter det.",
-        "Trump kunngjorde fredag ​​at Russlands president Vladimir Putin hadde gått med på å slippe 300.000 tonn diesel umiddelbart «til den amerikanske og globale markedsplassen» etterfulgt av flere andre forsendelser.",
-        "UK does not support Trump's Russia diesel deal, says Streeting Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin"
+        "Det gjøres ved å låne aksjer og selge dem i markedet, med mål om å kjøpe dem tilbake til en lavere pris senere.Dersom aksjekursen faller, tjener shortselgeren på mellomlegget.",
+        "Fra tid til annen blir aksjer angrepet av shortselgereEn shortselger er en investor som vedder på at en aksje skal falle i verdi.",
+        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs).",
+        "E24 arbeider etterVær Varsom-plakatens regler for god presseskikk,E24s etiske retningslinjer ogRedaktørplakaten."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
-      "localImage": "assets/news/57bb2c5a68bb4e.jpg",
-      "score": 17
-    },
-    {
-      "id": "fd1fe1c2b1b0f1",
-      "category": "Økonomi",
-      "published": "11.10. 17:14",
-      "publishedISO": "2026-10-11T17:14:40+02:00",
-      "title": "– Kan trekke i retning av høyere prisvekst",
-      "summary": "Regjeringen legger i budsjettet opp til 608 milliarder oljekroner neste år, som utgjør 12,6 prosent av fastlands-BNPVerdien av alle varer og tjenester produsert i Norge, unntatt olje- og gassutvinning, en marginal nedgang fra 12,7 prosent i 2026. – Hva slags type finanspolitikk påvirker pengepolitikken i større grad enn andre? – Det avhenger av en lang rekke forhold, ikke minst hvordan de ulike tiltakene finansieres. I sin siste såkalte pengepolitiske rapport, som kommer fire ganger i året og består av prognoser og analyser, viser Norges Bank til at veksten i offentlig etterspørsel blir høyere enn veksten i BNP for Fastlands-Norge fremover. Hun trekker også frem økte forventninger om inflasjon. – At prisveksten har vært høy lenge, kan ha gjort at forventningene har blitt høyere, og det kan igjen forplante seg til en mer seiglivet prisvekst, sier Wolden Bache.",
-      "keyPoints": [
-        "Hun trekker også frem økte forventninger om inflasjon. – At prisveksten har vært høy lenge, kan ha gjort at forventningene har blitt høyere, og det kan igjen forplante seg til en mer seiglivet prisvekst, sier Wolden Bache.",
-        "I sin siste såkalte pengepolitiske rapport, som kommer fire ganger i året og består av prognoser og analyser, viser Norges Bank til at veksten i offentlig etterspørsel blir høyere enn veksten i BNP for Fastlands-Norge fremover.",
-        "Regjeringen legger i budsjettet opp til 608 milliarder oljekroner neste år, som utgjør 12,6 prosent av fastlands-BNPVerdien av alle varer og tjenester produsert i Norge, unntatt olje- og gassutvinning, en marginal nedgang fra 12,7 prosent i 2026. – Hva slags type finanspolitikk påvirker pengepolitikken i større grad enn andre? – Det avhenger av en lang rekke forhold, ikke minst hvordan de ulike tiltakene finansieres.",
-        "Hun har nettopp holdt foredrag på BI om Handelshøyskolen BI der temaet var hvorfor det har tatt lang tid for sentralbanken å få inflasjonen ned på målet på 2 prosent."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/mKKBB1/kan-trekke-i-retning-av-hoeyere-prisvekst",
+      "url": "https://e24.no/boers-og-finans/i/OgW6nq/milliardveddemaal-mot-bilaksje",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/cd399d8d-cd38-3dac-aeaa-b1f3135ddfac?fit=crop&h=675&upscale=true&w=1200&s=dd623226e6c0bb656b3a2ad332d023e0d91427af",
-      "localImage": "assets/news/fd1fe1c2b1b0f1.jpg",
-      "score": 15
-    },
-    {
-      "id": "b02ac4c1ea9b51",
-      "category": "AI",
-      "published": "10.10. 12:06",
-      "publishedISO": "2026-10-10T12:06:23+02:00",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "summary": "AI-teknologiselskapet Anthropic kjørte en test som involverte interaksjoner med tilfeldig utvalgte nettsteder, da det sendte et falskt drapstips til politiet En agent for kunstig intelligens (AI) utviklet av Anthropic gikk useriøst og sendte amerikansk politi et falskt tips om et uløst drap tidligere i år, har myndighetene avslørt. Den sa at det falske tipset kom gjennom et offentlig nettsted der folk kan dele informasjon om uløste drap, og at AI-agenten hadde hevdet å ha sett \"noen som matchet beskrivelsen\". Med henvisning til Anthropic sa politiavdelingen at AI-agenten deres hadde kjørt en test som involverte interaksjoner med tilfeldig utvalgte nettsteder da den sendte det falske tipset.",
-      "keyPoints": [
-        "AI-teknologiselskapet Anthropic kjørte en test som involverte interaksjoner med tilfeldig utvalgte nettsteder, da det sendte et falskt drapstips til politiet En agent for kunstig intelligens (AI) utviklet av Anthropic gikk useriøst og sendte amerikansk politi et falskt tips om et uløst drap tidligere i år, har myndighetene avslørt.",
-        "Den sa at det falske tipset kom gjennom et offentlig nettsted der folk kan dele informasjon om uløste drap, og at AI-agenten hadde hevdet å ha sett \"noen som matchet beskrivelsen\".",
-        "Politiet i Philadelphia sa at tipset fra 18. juli ble \"flagget som spam\" og ikke ble sendt videre for etterforskning - men styrken kritiserte teknologifirmaet for å ha brukt mer enn to måneder på å oppdage og rapportere bruddet.",
-        "Det antas å være første gang en AI-agent har sendt fabrikkert informasjon til myndighetene, men er den siste i en rekke hendelser som involverer useriøs AI-aktivitet, inkludert hacking av systemer eller å ta kontroll over plattformer."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
-      "localImage": "assets/news/b02ac4c1ea9b51.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/eeaf96d4-6433-3267-a7d3-0d9a791fffa2?fit=crop&h=675&upscale=true&w=1200&s=ec90cd6dc6a1fbca557c73c81f4633380ba96d84",
+      "localImage": "assets/news/486d6c99733649.jpg",
+      "score": 20
     },
     {
       "id": "5554892ffcb160",
@@ -148,70 +148,70 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/5554892ffcb160.jpg",
-      "score": 22
+      "score": 20
     },
     {
-      "id": "5649066aa9d31b",
-      "category": "Norge",
-      "published": "11.10. 15:19",
-      "publishedISO": "2026-10-11T15:19:32+02:00",
-      "title": "Manchester City-skandalen: Nye regler skaper hodebry - slik er veien videre i City-saken",
-      "summary": "Nye regler, utallige straffemuligheter og enorm usikkerhet. Manchester City er dømt for 114 brudd på Premier League-reglene. Da er det som utgangspunkt mindre problematisk å anvende nye regler på en sak som allerede er i gang, sier advokat i Advokatfirmaet Kleven & Kristensen, Pål Kleven.",
-      "keyPoints": [
-        "Nye regler, utallige straffemuligheter og enorm usikkerhet.",
-        "Manchester City er dømt for 114 brudd på Premier League-reglene.",
-        "Da er det som utgangspunkt mindre problematisk å anvende nye regler på en sak som allerede er i gang, sier advokat i Advokatfirmaet Kleven & Kristensen, Pål Kleven.",
-        "Han forteller at dersom City velger å protestere på de nye fristene, så vil spørsmålene avgjøres av ankeutvalget. – En slik protest setter ikke automatisk saken på vent."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/manchester-city-skandalen_-nye-regler-skaper-hodebry---slik-er-veien-videre-i-city-saken-1.18046597",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/g8woupqdkE4S05PG9kgPtAMEsG3FqKUDtz6X8re5I06Q.jpg",
-      "localImage": "assets/news/5649066aa9d31b.jpg",
-      "score": 15
-    },
-    {
-      "id": "b9490cba719f44",
+      "id": "d49aae6d01c484",
       "category": "Økonomi",
-      "published": "11.10. 14:42",
-      "publishedISO": "2026-10-11T14:42:03+02:00",
-      "title": "Ukrainsk dagligvaretopp: – Ha litt kontanter",
-      "summary": "Roman Korsak er sjef for Spar i Ukraina, hvor kjeden har 107 butikker i drift. – Vi har åpnet 90 nye butikker gjennom krigen. Siden Russlands fullskalainvasjon i februar 2022 har butikker blitt bombet, varehus blitt ødelagt av russiske droner og strømnettet rammet av gjentatte angrep. Overfor E24 legger Korsak til en tredje ting: å ha kontanter tilgjengelig i tilfelle betalingssystemene svikter.",
+      "published": "12.10. 07:46",
+      "publishedISO": "2026-10-12T07:46:07+02:00",
+      "title": "Telia nedbemanner – kutter 150 stillinger i Norge",
+      "summary": "Totalt skal 900 stillinger bort i hele konsernet, der det er 14.100 ansatte. Målet til Telia er å spare én milliard svenske kroner, som tilsvarer omtrent det samme i norske kroner. Telekomselskapet Telia leverer blant annet tjenester som mobilnett, TV og internett i Norge.",
       "keyPoints": [
-        "Roman Korsak er sjef for Spar i Ukraina, hvor kjeden har 107 butikker i drift. – Vi har åpnet 90 nye butikker gjennom krigen.",
-        "Overfor E24 legger Korsak til en tredje ting: å ha kontanter tilgjengelig i tilfelle betalingssystemene svikter.",
-        "Siden Russlands fullskalainvasjon i februar 2022 har butikker blitt bombet, varehus blitt ødelagt av russiske droner og strømnettet rammet av gjentatte angrep.",
-        "Roman Korsak har drevet dagligvarebutikker gjennom fire år med krig."
+        "Telekomselskapet Telia leverer blant annet tjenester som mobilnett, TV og internett i Norge.",
+        "Totalt skal 900 stillinger bort i hele konsernet, der det er 14.100 ansatte.",
+        "Målet til Telia er å spare én milliard svenske kroner, som tilsvarer omtrent det samme i norske kroner.",
+        "Telia varsler mandag om planer for å spare penger, og at selskapet skal nedbemanne."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/6445gO/ukrainsk-dagligvaretopp-ha-litt-kontanter",
+      "url": "https://e24.no/naeringsliv/i/9kopl5/telia-nedbemanner-kutter-150-stillinger-i-norge",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a36960e4-15bb-3102-9f20-6ba07fa49afa?fit=crop&h=675&upscale=true&w=1200&s=aa83f06438df5333797ddbcfe7e1d14b9fa486fb",
-      "localImage": "assets/news/b9490cba719f44.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/63d34066-d221-370c-8110-e32f62f54c15?fit=crop&h=675&upscale=true&w=1200&s=a5638a6a41cc0e3fc47ee56dda58cc0859482933",
+      "localImage": "assets/news/d49aae6d01c484.jpg",
+      "score": 17
     },
     {
-      "id": "eccf83863010ab",
+      "id": "e4ace3882528d0",
       "category": "Norge",
-      "published": "10.10. 20:47",
-      "publishedISO": "2026-10-10T20:47:23+02:00",
-      "title": "UD ber nordmenn unngå flyplass i Saudi-Arabia",
-      "summary": "Utenriksdepartementet har oppdatert reiserådene for Saudi-Arabia etter angrepet mot King Khalid internasjonale lufthavn i Riyadh. – Vi har sendt ut varsel til norske borgere som er registrert i landet, og vi oppfordrer reisende i området om å unngå flyplassen og områdene rundt og vurdere alternative reiseruter, skriver pressetalsperson Thea Finstad til NRK. Utenriksdepartementet har ikke mottatt opplysninger som tyder på at norske borgere er rammet av hendelsen lørdag. – Vi ber reisende om å holde kontakt med flyselskapet de reiser med, samt å vurdere egen sikkerhet og lytte til råd fra pålitelige lokale kilder, skriver Finstad. Saudi-Arabia innledet nylig en offensiv mot Houthi-militsen i nabolandet Jemen.",
+      "published": "12.10. 06:40",
+      "publishedISO": "2026-10-12T06:40:20+02:00",
+      "title": "Frp ut mot tog-skryt: – Bør være sannferdig",
+      "summary": "Det får Fremskrittspartiet (Frp) til å reagere. – En statsråd bør være sannferdig i måten hun framstiller budsjettet på. Det smeller det fra tidligere samferdselsminister for Frp, nå samfunnsøkonom i Civita, Ketil Solvik-Olsen. Totalt har jernbanen tapt over 25 milliarder kroner, mener Solvik-Olsen. – Det er penger som hadde kommet godt med når jernbanen nå forfaller, og infrastrukturen svikter.",
       "keyPoints": [
-        "Utenriksdepartementet har oppdatert reiserådene for Saudi-Arabia etter angrepet mot King Khalid internasjonale lufthavn i Riyadh. – Vi har sendt ut varsel til norske borgere som er registrert i landet, og vi oppfordrer reisende i området om å unngå flyplassen og områdene rundt og vurdere alternative reiseruter, skriver pressetalsperson Thea Finstad til NRK.",
-        "Utenriksdepartementet har ikke mottatt opplysninger som tyder på at norske borgere er rammet av hendelsen lørdag. – Vi ber reisende om å holde kontakt med flyselskapet de reiser med, samt å vurdere egen sikkerhet og lytte til råd fra pålitelige lokale kilder, skriver Finstad.",
-        "Saudi-Arabia innledet nylig en offensiv mot Houthi-militsen i nabolandet Jemen.",
-        "Norsk UD skjerpet reiserådet til Saudi-Arabia torsdag denne uken."
+        "Det får Fremskrittspartiet (Frp) til å reagere. – En statsråd bør være sannferdig i måten hun framstiller budsjettet på.",
+        "Det smeller det fra tidligere samferdselsminister for Frp, nå samfunnsøkonom i Civita, Ketil Solvik-Olsen.",
+        "Totalt har jernbanen tapt over 25 milliarder kroner, mener Solvik-Olsen. – Det er penger som hadde kommet godt med når jernbanen nå forfaller, og infrastrukturen svikter.",
+        "Også i neste års budsjett er det satt av mindre enn de siste årene, og 5 milliarder mindre enn i toppåret 2021."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/ud-ber-nordmenn-unnga-flyplass-i-saudi-arabia-1.18051370",
+      "url": "https://www.nrk.no/stor-oslo/frp-ut-mot-tog-skryt_-_-bor-vaere-sannferdig-1.18050546",
       "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
-      "localImage": "assets/news/eccf83863010ab.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/5BSW7ILSPKgFKEYJ0yj6ww_6wfe-90n8OkmxG_RCgBnQ.jpg",
+      "localImage": "assets/news/e4ace3882528d0.webp",
+      "score": 17
+    },
+    {
+      "id": "539b7119a6f3b1",
+      "category": "Økonomi",
+      "published": "12.10. 06:03",
+      "publishedISO": "2026-10-12T06:03:37+02:00",
+      "title": "Reagerer på rentegrep: – De gir kundene fingeren",
+      "summary": "I Norges største bank har DNB valgt å øke renten på innskudd med mellom 0,25inntil 100.000 kroner og 0,1over 100.000 kroner prosentpoeng på sin standard sparekonto. Denne meldingen gikk ut til kunder 28. september: Kristian Susnic er kunde i DNB og reagerer kraftig på bankens grep. Hun påpeker at «de aller fleste» av kundene har fått en økning på 0,25 prosentpoeng på sparekonto, mens fem av ni innskuddsprodukter har økt med 0,2 eller 0,25 prosentpoeng. – Når DNB justerer renter, gjør vi en helhetlig vurdering av flere faktorer.",
+      "keyPoints": [
+        "Hun påpeker at «de aller fleste» av kundene har fått en økning på 0,25 prosentpoeng på sparekonto, mens fem av ni innskuddsprodukter har økt med 0,2 eller 0,25 prosentpoeng. – Når DNB justerer renter, gjør vi en helhetlig vurdering av flere faktorer.",
+        "Denne meldingen gikk ut til kunder 28. september: Kristian Susnic er kunde i DNB og reagerer kraftig på bankens grep.",
+        "I Norges største bank har DNB valgt å øke renten på innskudd med mellom 0,25inntil 100.000 kroner og 0,1over 100.000 kroner prosentpoeng på sin standard sparekonto.",
+        "Etter at Norges Bank satte opp styringsrenten med 0,25 prosentpoeng i september, fulgte bankene etter og hevet sine renter."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/privatoekonomi/i/OgnV1b/reagerer-paa-rentegrep-de-gir-kundene-fingeren",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/14bef9bc-9296-31f4-947a-c9b839d54a67?fit=crop&h=675&upscale=true&w=1200&s=c52dabf7004de8d8a4635405b937a83c5854b9dc",
+      "localImage": "assets/news/539b7119a6f3b1.jpg",
+      "score": 16
     }
   ]
 }
