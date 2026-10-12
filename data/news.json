@@ -1,6 +1,6 @@
 {
-  "updatedAt": "12.10.2026 kl. 11:37",
-  "updatedISO": "2026-10-12T11:37:04.336777+02:00",
+  "updatedAt": "12.10.2026 kl. 21:22",
+  "updatedISO": "2026-10-12T21:22:05.061961+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/tT_dFJROOV9VQTwO5aC0kQe3mE3gCNrhFHB8izvvP4jw.jpg",
       "localImage": "assets/news/5cdc6063dd59ba.jpg",
-      "score": 17
+      "score": 15
     },
     {
       "id": "bae0a2e9394d5a",
@@ -30,41 +30,125 @@
       "published": "12.10. 09:34",
       "publishedISO": "2026-10-12T09:34:59+02:00",
       "title": "Prisjegersaken starter i Gulating lagmannsrett i dag",
-      "summary": "PRISJEGERSAKEN: I dag starter rettssaken i Gulating lagmannsrett Konkurransetilsynet mener dagligvaregigantene har samarbeidet om å sjekke hverandres priser på en måte som har virket skadelig på konkurransen i dagligvaremarkedet. De neste ukene skal saken behandles i Gulating lagmannsrett i Bergen. Det er satt av to måneder til saken i Gulating lagmannsrett.",
+      "summary": "PRISJEGERSAKEN: I dag starter rettssaken i Gulating lagmannsrett. Her ankommer representanter fra Konkurransetilsynet, med Karin Laastad i spissen, Gulating lagmannsrett. De neste ukene skal saken behandles i Gulating lagmannsrett i Bergen.",
       "keyPoints": [
-        "PRISJEGERSAKEN: I dag starter rettssaken i Gulating lagmannsrett Konkurransetilsynet mener dagligvaregigantene har samarbeidet om å sjekke hverandres priser på en måte som har virket skadelig på konkurransen i dagligvaremarkedet.",
+        "PRISJEGERSAKEN: I dag starter rettssaken i Gulating lagmannsrett.",
+        "Her ankommer representanter fra Konkurransetilsynet, med Karin Laastad i spissen, Gulating lagmannsrett.",
         "De neste ukene skal saken behandles i Gulating lagmannsrett i Bergen.",
-        "Det er satt av to måneder til saken i Gulating lagmannsrett.",
         "Nå vil dagligvarekjedene at lagmannsretten skal omgjøre en bot på nesten 5 milliarder kroner."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/norge/prisjegersaken-starter-i-gulating-lagmannsrett-i-dag-1.18052237",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SvodZbKZ-GbZekwfv7g-8Q4SMnkNloGzWBjsZr2J2ebg.jpg",
+      "image": "https://gfx.nrk.no/bjXDzmh5d4wvYgwtvfvQtw5qzhIxznwgu7Surx2t7F1w.jpg",
       "localImage": "assets/news/bae0a2e9394d5a.jpg",
+      "score": 19
+    },
+    {
+      "id": "c65f50c8712974",
+      "category": "Verden",
+      "published": "12.10. 19:32",
+      "publishedISO": "2026-10-12T19:32:13+02:00",
+      "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "summary": "Nødetatene reagerte på et russisk droneangrep på en boligbygning i Kharkiv, nordøst i Ukraina mandag, Russland slo til seks ukrainske energianlegg timer etter at USAs president Donald Trump kunngjorde at de to landene hadde blitt enige om en energivåpenhvile, sa Volodymyr Zelensky. Zelensky støtter Trumps «energivåpenhvile», men sier at Russland fortsetter å ramme kraftverk. Zelensky sa at 33 mennesker ble skadet i angrepene på energianlegg over hele landet. Energianlegg i Kharkiv ble rammet av russiske streiker søndag kveld, sa Ukrainas president Volodymyr Zelensky at Trump har oppfordret Ukraina til å stoppe streikene på russisk oljeinfrastruktur, slik at Russland kan oppfylle den nylig inngåtte avtalen om å frigjøre diesel til USA og det globale markedet.",
+      "keyPoints": [
+        "Nødetatene reagerte på et russisk droneangrep på en boligbygning i Kharkiv, nordøst i Ukraina mandag, Russland slo til seks ukrainske energianlegg timer etter at USAs president Donald Trump kunngjorde at de to landene hadde blitt enige om en energivåpenhvile, sa Volodymyr Zelensky.",
+        "Zelensky støtter Trumps «energivåpenhvile», men sier at Russland fortsetter å ramme kraftverk. Zelensky sa at 33 mennesker ble skadet i angrepene på energianlegg over hele landet.",
+        "Energianlegg i Kharkiv ble rammet av russiske streiker søndag kveld, sa Ukrainas president Volodymyr Zelensky at Trump har oppfordret Ukraina til å stoppe streikene på russisk oljeinfrastruktur, slik at Russland kan oppfylle den nylig inngåtte avtalen om å frigjøre diesel til USA og det globale markedet.",
+        "Til tross for at Trump på søndag sa at våpenhvilen ville være «umiddelbar effektiv», sa den ukrainske presidenten at Russland hadde truffet «våre bensinstasjoner, energiinfrastruktur og andre anlegg»."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fbda/live/375348b0-c659-11f1-8600-efb62b613ab5.jpg",
+      "localImage": "assets/news/c65f50c8712974.jpg",
       "score": 21
     },
     {
-      "id": "7292e719616445",
-      "category": "Økonomi",
-      "published": "12.10. 09:01",
-      "publishedISO": "2026-10-12T09:01:12+02:00",
-      "title": "Oljeaksjer faller på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs er marginalt ned 0,06 prosent ved 10-tiden mandag. Olje- og gasselskapet Vår Energi kom mandag med en oppdatering på produksjonen og salget i tredje kvartal, i forkant av at den fullstendige kvartalsrapporten kommer 21. oktober. Når det kommer til pris oppnådde Vår Energi 103 dollar fatet for oljen i tredje kvartal, ned fra 110 dollar i kvartalet før.",
+      "id": "411b42f8758f03",
+      "category": "USA",
+      "published": "12.10. 18:12",
+      "publishedISO": "2026-10-12T18:12:57+02:00",
+      "title": "Storm Rachel batters California, brings flooding to Las Vegas",
+      "summary": "Rachel also brought flash flooding to Las Vegas near the Strip. Storm Rachel batters Southern California, brings flooding to Las Vegas. Video, 00:01:07Storm Rachel batters Southern California, brings flooding to Las Vegas Up Next.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er marginalt ned 0,06 prosent ved 10-tiden mandag.",
-        "Når det kommer til pris oppnådde Vår Energi 103 dollar fatet for oljen i tredje kvartal, ned fra 110 dollar i kvartalet før.",
-        "Olje- og gasselskapet Vår Energi kom mandag med en oppdatering på produksjonen og salget i tredje kvartal, i forkant av at den fullstendige kvartalsrapporten kommer 21. oktober.",
-        "Netto produksjonen var 369.000 fat oljeekvivalenter per dag i kvartalet, litt ned fra kvartalet før."
+        "Storm Rachel batters Southern California, brings flooding to Las Vegas.",
+        "Rachel also brought flash flooding to Las Vegas near the Strip.",
+        "Store bølger fra den post-tropiske syklonen Rachel slo hjem over hele Sør-California i helgen, og etterlot noen eiendommer i fare for kollaps.",
+        "Video, 00:01:10BBC om orkanen Isaias og dens forventede landfall ved Gulf Coast BBC bryter ned videoen av kjølvannet av ICE-skytingen i New York City."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cmj47n488v47o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c26/live/f91f9640-c656-11f1-8600-efb62b613ab5.jpg",
+      "localImage": "assets/news/411b42f8758f03.jpg",
+      "score": 13
+    },
+    {
+      "id": "56dbcebd46ecef",
+      "category": "Økonomi",
+      "published": "12.10. 18:34",
+      "publishedISO": "2026-10-12T18:34:40+02:00",
+      "title": "Mote-smell i Kina for børstaper LVMH",
+      "summary": "Lukusgiganten LVMH Moët Hennessy Louis Vuitton rapporterer inntekter på 57,1 milliarder dollar så langt i 2026 etter stenging på Paris-børsen mandag. Nedgangen skyldes lavere etterspørsel i Kina, skriver LVMH, som mener veksten er god i USA, Europa og Japan. Det viktigste motemerket Louis Vuitton gjør det dårligere som følge av en boikott i Kina, skriver Bloomberg.",
+      "keyPoints": [
+        "Nedgangen skyldes lavere etterspørsel i Kina, skriver LVMH, som mener veksten er god i USA, Europa og Japan.",
+        "Lukusgiganten LVMH Moët Hennessy Louis Vuitton rapporterer inntekter på 57,1 milliarder dollar så langt i 2026 etter stenging på Paris-børsen mandag.",
+        "Det viktigste motemerket Louis Vuitton gjør det dårligere som følge av en boikott i Kina, skriver Bloomberg.",
+        "Inntektene fra mote og lærvarer falt 5 prosent i tredje kvartal mot året før, mens analytikere forventet en nedgang på kun 1,57 prosent, ifølge Bloomberg."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Vgjzx6/nedgang-paa-oslo-boers-oljeaksjer-faller",
+      "url": "https://e24.no/boers-og-finans/i/mK3J8p/mote-smell-i-kina-for-boerstaper-lvmh",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/fcd131c0-f1a9-33e2-bf41-de37d338d3c0?fit=crop&h=675&upscale=true&w=1200&s=8db979efe98c66c7f8f0a1f53c25af1ccc5ce581",
-      "localImage": "assets/news/7292e719616445.jpg",
-      "score": 23
+      "image": "https://akamai.vgc.no/v2/images/6b82aa06-9acd-320a-9aa9-e0348c132fb9?fit=crop&h=675&upscale=true&w=1200&s=5e4e93c962cf9cdcbec3d1f4b3e649affb5a9bff",
+      "localImage": "assets/news/56dbcebd46ecef.jpg",
+      "score": 21
+    },
+    {
+      "id": "d146b550d952ac",
+      "category": "Økonomi",
+      "published": "12.10. 15:31",
+      "publishedISO": "2026-10-12T15:31:10+02:00",
+      "title": "Burrito-aksje faller på Wall Street etter Starbucks-nei",
+      "summary": "Fredag snudde stemningen på Wall Street opp etter at oljeprisen falt i kjølvannet av uttalelser fra Trump. Starbucks er opp 1,7 prosent og Chipotle faller 4,8 prosent. Tirsdag ligger det an til bankbonanza når en rekke av de største Wall Street-bankene legger frem tall.",
+      "keyPoints": [
+        "Fredag snudde stemningen på Wall Street opp etter at oljeprisen falt i kjølvannet av uttalelser fra Trump.",
+        "Starbucks er opp 1,7 prosent og Chipotle faller 4,8 prosent.",
+        "Tirsdag ligger det an til bankbonanza når en rekke av de største Wall Street-bankene legger frem tall.",
+        "104,3 dollar da New York-børsen stengte før helgen til 106,8 dollar."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Jrvgam/blandet-aapning-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/f83eca41-d579-3705-bae0-2c78cae4c802?fit=crop&h=675&upscale=true&w=1200&s=9da84d3ccd49a4c62fb4d438a71d1370f7086cc3",
+      "localImage": "assets/news/d146b550d952ac.jpg",
+      "score": 19
+    },
+    {
+      "id": "9c4818c10d068b",
+      "category": "AI",
+      "published": "12.10. 17:03",
+      "publishedISO": "2026-10-12T17:03:42+02:00",
+      "title": "AI minister warns it is 'likely' UK's cyber defences will be breached",
+      "summary": "Storbritannias AI-minister har advart om at det er «sannsynlig, om ikke uunngåelig» at landets cyberforsvar på et tidspunkt vil bli brutt. Ministeren sa at flyttingen ville bygge på to eksisterende piloter som har hjulpet med å identifisere og fikse over 1000 sårbarheter på tvers av offentlige systemer. Han sa også at Storbritannia også vil se på å skape sterkere beskyttelse gjennom lovforslaget om cybersikkerhet og motstandskraft, spesielt på hvordan alvorlige AI-hendelser kan identifiseres og rapporteres.",
+      "keyPoints": [
+        "Storbritannias AI-minister har advart om at det er «sannsynlig, om ikke uunngåelig» at landets cyberforsvar på et tidspunkt vil bli brutt.",
+        "Ministeren sa at flyttingen ville bygge på to eksisterende piloter som har hjulpet med å identifisere og fikse over 1000 sårbarheter på tvers av offentlige systemer.",
+        "Han sa også at Storbritannia også vil se på å skape sterkere beskyttelse gjennom lovforslaget om cybersikkerhet og motstandskraft, spesielt på hvordan alvorlige AI-hendelser kan identifiseres og rapporteres.",
+        "AISI begynte å evaluere risikoene ved de nyeste frontier AI-modellene, før de ble offentliggjort, kort tid etter at de ble etablert i november 2023."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/9c4818c10d068b.jpg",
+      "score": 17
     },
     {
       "id": "06d9baed686ff8",
@@ -85,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2837e01c-2c85-37d8-96ea-a955d9a7c97d?fit=crop&h=675&upscale=true&w=1200&s=9e9fce1bd022dc34fdc0b52a624f5711b63476a8",
       "localImage": "assets/news/06d9baed686ff8.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "79cf5f5a717255",
@@ -106,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/79cf5f5a717255.jpg",
-      "score": 21
+      "score": 19
     },
     {
       "id": "486d6c99733649",
@@ -127,91 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eeaf96d4-6433-3267-a7d3-0d9a791fffa2?fit=crop&h=675&upscale=true&w=1200&s=ec90cd6dc6a1fbca557c73c81f4633380ba96d84",
       "localImage": "assets/news/486d6c99733649.jpg",
-      "score": 20
-    },
-    {
-      "id": "5554892ffcb160",
-      "category": "Norge",
-      "published": "10.10. 19:01",
-      "publishedISO": "2026-10-10T19:01:21+02:00",
-      "title": "Trump angriper Zelenskyj",
-      "summary": "Trump sier Ukraina må stoppe å angripe russiske oljeraffinerier. Fredag sa Trump at han hadde inngått en avtale med Putin om at Russland skal selge diesel til USA. – Det er et motsatt signal fra det vi trenger nå. Zelenskyj varslet i forrige uke at Ukraina vil trappe opp slike angrep.",
-      "keyPoints": [
-        "Fredag sa Trump at han hadde inngått en avtale med Putin om at Russland skal selge diesel til USA. – Det er et motsatt signal fra det vi trenger nå.",
-        "Trump sier Ukraina må stoppe å angripe russiske oljeraffinerier.",
-        "Zelenskyj varslet i forrige uke at Ukraina vil trappe opp slike angrep.",
-        "Russland gikk til full krig mot Ukraina i 2022, og har siden gjennomført regelmessige angrep mot ukrainske energianlegg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/trump-angriper-zelenskyj-1.18051512",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
-      "localImage": "assets/news/5554892ffcb160.jpg",
-      "score": 20
-    },
-    {
-      "id": "d49aae6d01c484",
-      "category": "Økonomi",
-      "published": "12.10. 07:46",
-      "publishedISO": "2026-10-12T07:46:07+02:00",
-      "title": "Telia nedbemanner – kutter 150 stillinger i Norge",
-      "summary": "Totalt skal 900 stillinger bort i hele konsernet, der det er 14.100 ansatte. Målet til Telia er å spare én milliard svenske kroner, som tilsvarer omtrent det samme i norske kroner. Telekomselskapet Telia leverer blant annet tjenester som mobilnett, TV og internett i Norge.",
-      "keyPoints": [
-        "Telekomselskapet Telia leverer blant annet tjenester som mobilnett, TV og internett i Norge.",
-        "Totalt skal 900 stillinger bort i hele konsernet, der det er 14.100 ansatte.",
-        "Målet til Telia er å spare én milliard svenske kroner, som tilsvarer omtrent det samme i norske kroner.",
-        "Telia varsler mandag om planer for å spare penger, og at selskapet skal nedbemanne."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/9kopl5/telia-nedbemanner-kutter-150-stillinger-i-norge",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/63d34066-d221-370c-8110-e32f62f54c15?fit=crop&h=675&upscale=true&w=1200&s=a5638a6a41cc0e3fc47ee56dda58cc0859482933",
-      "localImage": "assets/news/d49aae6d01c484.jpg",
-      "score": 17
-    },
-    {
-      "id": "e4ace3882528d0",
-      "category": "Norge",
-      "published": "12.10. 06:40",
-      "publishedISO": "2026-10-12T06:40:20+02:00",
-      "title": "Frp ut mot tog-skryt: – Bør være sannferdig",
-      "summary": "Det får Fremskrittspartiet (Frp) til å reagere. – En statsråd bør være sannferdig i måten hun framstiller budsjettet på. Det smeller det fra tidligere samferdselsminister for Frp, nå samfunnsøkonom i Civita, Ketil Solvik-Olsen. Totalt har jernbanen tapt over 25 milliarder kroner, mener Solvik-Olsen. – Det er penger som hadde kommet godt med når jernbanen nå forfaller, og infrastrukturen svikter.",
-      "keyPoints": [
-        "Det får Fremskrittspartiet (Frp) til å reagere. – En statsråd bør være sannferdig i måten hun framstiller budsjettet på.",
-        "Det smeller det fra tidligere samferdselsminister for Frp, nå samfunnsøkonom i Civita, Ketil Solvik-Olsen.",
-        "Totalt har jernbanen tapt over 25 milliarder kroner, mener Solvik-Olsen. – Det er penger som hadde kommet godt med når jernbanen nå forfaller, og infrastrukturen svikter.",
-        "Også i neste års budsjett er det satt av mindre enn de siste årene, og 5 milliarder mindre enn i toppåret 2021."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/frp-ut-mot-tog-skryt_-_-bor-vaere-sannferdig-1.18050546",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5BSW7ILSPKgFKEYJ0yj6ww_6wfe-90n8OkmxG_RCgBnQ.jpg",
-      "localImage": "assets/news/e4ace3882528d0.webp",
-      "score": 17
-    },
-    {
-      "id": "539b7119a6f3b1",
-      "category": "Økonomi",
-      "published": "12.10. 06:03",
-      "publishedISO": "2026-10-12T06:03:37+02:00",
-      "title": "Reagerer på rentegrep: – De gir kundene fingeren",
-      "summary": "I Norges største bank har DNB valgt å øke renten på innskudd med mellom 0,25inntil 100.000 kroner og 0,1over 100.000 kroner prosentpoeng på sin standard sparekonto. Denne meldingen gikk ut til kunder 28. september: Kristian Susnic er kunde i DNB og reagerer kraftig på bankens grep. Hun påpeker at «de aller fleste» av kundene har fått en økning på 0,25 prosentpoeng på sparekonto, mens fem av ni innskuddsprodukter har økt med 0,2 eller 0,25 prosentpoeng. – Når DNB justerer renter, gjør vi en helhetlig vurdering av flere faktorer.",
-      "keyPoints": [
-        "Hun påpeker at «de aller fleste» av kundene har fått en økning på 0,25 prosentpoeng på sparekonto, mens fem av ni innskuddsprodukter har økt med 0,2 eller 0,25 prosentpoeng. – Når DNB justerer renter, gjør vi en helhetlig vurdering av flere faktorer.",
-        "Denne meldingen gikk ut til kunder 28. september: Kristian Susnic er kunde i DNB og reagerer kraftig på bankens grep.",
-        "I Norges største bank har DNB valgt å øke renten på innskudd med mellom 0,25inntil 100.000 kroner og 0,1over 100.000 kroner prosentpoeng på sin standard sparekonto.",
-        "Etter at Norges Bank satte opp styringsrenten med 0,25 prosentpoeng i september, fulgte bankene etter og hevet sine renter."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/privatoekonomi/i/OgnV1b/reagerer-paa-rentegrep-de-gir-kundene-fingeren",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/14bef9bc-9296-31f4-947a-c9b839d54a67?fit=crop&h=675&upscale=true&w=1200&s=c52dabf7004de8d8a4635405b937a83c5854b9dc",
-      "localImage": "assets/news/539b7119a6f3b1.jpg",
-      "score": 16
+      "score": 18
     }
   ]
 }
