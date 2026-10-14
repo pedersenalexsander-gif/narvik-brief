@@ -1,29 +1,8 @@
 {
-  "updatedAt": "13.10.2026 kl. 23:27",
-  "updatedISO": "2026-10-13T23:27:23.273499+02:00",
+  "updatedAt": "14.10.2026 kl. 02:31",
+  "updatedISO": "2026-10-14T02:31:30.771712+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "82f24773943f81",
-      "category": "Nord-Norge",
-      "published": "13.10. 17:35",
-      "publishedISO": "2026-10-13T17:35:03+02:00",
-      "title": "Ryerson forventes klar til Glimt-møtet: – Er her av en grunn",
-      "summary": "Kovac forteller at Ryerson skal trene tirsdag, og at han forventer å ha samtlige 23 spillere som reiste til Norge til disposisjon til onsdagens kamp. – Hvor «på» har du vært for å få spille i morgen? Ryerson har ikke vært kampklar etter ribbeinsskaden som gjorde at han måtte reise hjem fra Norges landslagssamling før siste kamp. – Jeg har egentlig ikke gjort så mye med ball før i går. Fin fremgang som har gått fortere enn jeg hadde trodd, så jeg er her av en grunn, sier Ryerson på pressekonferansen.",
-      "keyPoints": [
-        "Fin fremgang som har gått fortere enn jeg hadde trodd, så jeg er her av en grunn, sier Ryerson på pressekonferansen.",
-        "Kovac forteller at Ryerson skal trene tirsdag, og at han forventer å ha samtlige 23 spillere som reiste til Norge til disposisjon til onsdagens kamp. – Hvor «på» har du vært for å få spille i morgen?",
-        "Ryerson har ikke vært kampklar etter ribbeinsskaden som gjorde at han måtte reise hjem fra Norges landslagssamling før siste kamp. – Jeg har egentlig ikke gjort så mye med ball før i går.",
-        "På Borussia Dortmunds pressekonferanse dagen før møtet med Bodø/Glimt forteller Dortmund-trener Niko Kovac at han forventer at Julian Ryerson blir kampklar."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/ryerson-forventes-klar-til-glimt-motet_-_-er-her-av-en-grunn-1.18053946",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/n9QHhXn1Dsssh_zRfOcwegQwWm6rtVE49koHP2U5iSSg.jpg",
-      "localImage": "assets/news/82f24773943f81.webp",
-      "score": 12
-    },
     {
       "id": "df6cd5df781d12",
       "category": "Norge",
@@ -43,14 +22,35 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/trNXvsIBKtzNkE_9jTTwuAnkiSzJIU1Q1npNTSPUlcDA.jpg",
       "localImage": "assets/news/df6cd5df781d12.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "f891b4118f8364",
+      "category": "Verden",
+      "published": "14.10. 00:02",
+      "publishedISO": "2026-10-14T00:02:09+02:00",
+      "title": "Paid companionship grows as loneliness rises in China",
+      "summary": "Se: Hvorfor de ensomme i Kina ansetter 'midlertidige barn' \"Den største vanskeligheten var egentlig ensomheten. Noen ganger, hvis jeg ville snakke med noen, ville jeg snakke med TVen.\" Yang, 91, bor i utkanten av Kinas travle hovedstad Beijing. Kjernen i mange virksomheter som tar vare på ensomhet i Kina er et enkelt tilbud: menneskelig forbindelse.",
+      "keyPoints": [
+        "Se: Hvorfor de ensomme i Kina ansetter «midlertidige barn» «Den største vanskeligheten var egentlig ensomheten.",
+        "Noen ganger, hvis jeg ville snakke med noen, ville jeg snakke med TVen.\" Yang, 91, bor i utkanten av Kinas travle hovedstad Beijing.",
+        "At the core of many businesses catering to loneliness in China is a simple offering: human connection.",
+        "Det meste skjer når migranter på landsbygda forfølger økonomiske muligheter, og etterlater seg tette støttenettverk for bysentre der ensomhet og usikkerhet kan være vanskelig å overvinne, eller når nyutdannede rykker opp med roten og jager jobb på den andre siden av landet."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b864/live/f45a9340-c74a-11f1-a64c-550be9e3c66b.jpg",
+      "localImage": "assets/news/f891b4118f8364.jpg",
+      "score": 17
     },
     {
       "id": "d5cb405b934012",
-      "category": "Verden",
+      "category": "USA",
       "published": "13.10. 07:02",
       "publishedISO": "2026-10-13T07:02:44+02:00",
-      "title": "Hvor mellomvalget i USA vil vinnes og tapes",
+      "title": "Hvor det amerikanske mellomvalget vil vinnes og tapes",
       "summary": "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes. Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene. Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
       "keyPoints": [
         "Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
@@ -58,7 +58,7 @@
         "Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene.",
         "I begge tilfeller mistet den sittende presidenten kontrollen over huset i mellomperiodene, men beholdt grepet om senatet."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o",
       "source": "bbc.co.uk",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/521eef33-8870-3b12-834b-8cbf5c7a2d47?fit=crop&h=675&upscale=true&w=1200&s=e185fdf88b99c1cb05fc538ec1e3b3e5683746f5",
       "localImage": "assets/news/8d7588b0738245.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "ea42a9d77dedb7",
@@ -114,7 +114,7 @@
       "published": "13.10. 11:34",
       "publishedISO": "2026-10-13T11:34:43+02:00",
       "title": "Phase Eight owner hit by cyber-attack as H&M probes separate hack claim",
-      "summary": "Eieren av high-end motemerkene Hobbs, Whistles og Phase Eight sier at de etterforsker en cybersikkerhetshendelse. I følge TFG London - den britiske grenen av detaljhandelskonglomeratet The Foschini Group - identifiserte den en hendelse på søndag som påvirket noen IT-systemer og \"spesifikt påvirket våre fase åtte, Hobbs og Whistles-merker\". \"Vi undersøker aktivt og jobber med eksterne cybersikkerhetsspesialister,\" sa selskapet til BBC News i en uttalelse. I mellomtiden etterforsker H&M en egen påstand om at den ble angrepet av en beryktet hackergruppe.",
+      "summary": "Eieren av high-end motemerkene Hobbs, Whistles og Phase Eight sier at de etterforsker en cybersikkerhetshendelse. I følge TFG London - den britiske grenen av detaljhandelskonglomeratet The Foschini Group - identifiserte den en hendelse på søndag som påvirket noen IT-systemer og \"spesifikt påvirket våre fase åtte, Hobbs og Whistles-merker\". \"Vi undersøker aktivt og jobber med eksterne cybersikkerhetsspesialister,\" sa selskapet til BBC News i en uttalelse. I mellomtiden undersøker H&M en egen påstand om at den ble angrepet av en beryktet hackergruppe.",
       "keyPoints": [
         "Eieren av high-end motemerkene Hobbs, Whistles og Phase Eight sier at de etterforsker en cybersikkerhetshendelse.",
         "I følge TFG London - den britiske grenen av detaljhandelskonglomeratet The Foschini Group - identifiserte den en hendelse på søndag som påvirket noen IT-systemer og \"spesifikt påvirket våre fase åtte, Hobbs og Whistles-merker\". \"Vi undersøker aktivt og jobber med eksterne cybersikkerhetsspesialister,\" sa selskapet til BBC News i en uttalelse.",
@@ -128,6 +128,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca77/live/ea185dd0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
       "localImage": "assets/news/ea42a9d77dedb7.jpg",
       "score": 15
+    },
+    {
+      "id": "c8cfc6d8fcea72",
+      "category": "Verden",
+      "published": "14.10. 00:00",
+      "publishedISO": "2026-10-14T00:00:20+02:00",
+      "title": "Why the lonely in China are hiring 'temporary children'",
+      "summary": "Les mer om de betalte følgesvennene som bringer varme til Kinas ensomme. Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Video, 00:01:38Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Up Next. Video, 00:01:07Sjeldent blikk på de avsidesliggende maskinrommene som gir næring til Kinas AI-boom. Verdens to mektigste menn har nettopp møtt hverandre.",
+      "keyPoints": [
+        "Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Video, 00:01:38Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Up Next.",
+        "Read more about the paid companions bringing warmth to China's lonely.",
+        "Video, 00:01:07Sjeldent blikk på de avsidesliggende maskinrommene som gir næring til Kinas AI-boom. Verdens to mektigste menn har nettopp møtt hverandre.",
+        "Nå har en ny bransje som blir kalt \"ensomhetsøkonomien\" dukket opp, med folk som leier seg ut som følgesvenner for å hjelpe eldre."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg",
+      "localImage": "assets/news/c8cfc6d8fcea72.jpg",
+      "score": 17
     },
     {
       "id": "8c64fc0d5996bf",
@@ -148,27 +169,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/-70DrPIWqFAswfTNJdz1Aw2eBWs_0e2BVbIeA1Vm9cwQ.jpg",
       "localImage": "assets/news/8c64fc0d5996bf.jpg",
-      "score": 16
-    },
-    {
-      "id": "da307de748e66e",
-      "category": "Norge",
-      "published": "13.10. 15:56",
-      "publishedISO": "2026-10-13T15:56:28+02:00",
-      "title": "Pasient skulle kjøres 500 meter i Bærum – havnet i Hallingdal",
-      "summary": "Mariehaven helsehus ligger bare 500 meter fra Bærum sykehus. – Rundt klokken to ringer de fra Pasientreiser og lurer på hvilken adresse min mor skal leveres på i Ål i Hallingdal. Kvinnen skulle egentlig bare kjøres 500 meter fra Bærum sykehus til Mariehaven helsehus. Moren var borte i flere timer uten å få tilbud om mat, drikke eller toalettbesøk. – Hun sa selv at hun ikke forsto helt hvor hun skulle, og trodde hun skulle på et annet sted, forklarer sønnen.",
-      "keyPoints": [
-        "Kvinnen skulle egentlig bare kjøres 500 meter fra Bærum sykehus til Mariehaven helsehus.",
-        "Mariehaven helsehus ligger bare 500 meter fra Bærum sykehus. – Rundt klokken to ringer de fra Pasientreiser og lurer på hvilken adresse min mor skal leveres på i Ål i Hallingdal.",
-        "Moren var borte i flere timer uten å få tilbud om mat, drikke eller toalettbesøk. – Hun sa selv at hun ikke forsto helt hvor hun skulle, og trodde hun skulle på et annet sted, forklarer sønnen.",
-        "Også denne pasienten skulle fraktes fra Bærum sykehus til Mariehaven."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/pasient-skulle-kjores-500-meter-i-baerum-_-havnet-i-hallingdal-1.18053245",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Xmzgy-xqa9ALwNVhv8iJSQzQq7O954LgbUqCSL90fopw.jpg",
-      "localImage": "assets/news/da307de748e66e.jpg",
       "score": 16
     },
     {
@@ -193,25 +193,25 @@
       "score": 16
     },
     {
-      "id": "56dbcebd46ecef",
+      "id": "6e4b610a09d5b2",
       "category": "Økonomi",
-      "published": "12.10. 18:34",
-      "publishedISO": "2026-10-12T18:34:40+02:00",
-      "title": "Mote-smell i Kina for børstaper LVMH",
-      "summary": "Lukusgiganten LVMH Moët Hennessy Louis Vuitton rapporterer inntekter på 57,1 milliarder dollar så langt i 2026 etter stenging på Paris-børsen mandag. Nedgangen skyldes lavere etterspørsel i Kina, skriver LVMH, som mener veksten er god i USA, Europa og Japan. Det viktigste motemerket Louis Vuitton gjør det dårligere som følge av en boikott i Kina, skriver Bloomberg.",
+      "published": "13.10. 18:04",
+      "publishedISO": "2026-10-13T18:04:35+02:00",
+      "title": "Solgt til sveitsere for 135 mill.: – Nå løsnet det",
+      "summary": "Hotellgründer og investor Asmund Haare har solgt strandeiendommen i Dr. Nå løsnet det, og det var både norske og andre interessenter, sier Haare. Kjøpesummen på 135 millioner kroner gjør eiendommen til den dyreste som noen gang er solgt på Nesøya.",
       "keyPoints": [
-        "Nedgangen skyldes lavere etterspørsel i Kina, skriver LVMH, som mener veksten er god i USA, Europa og Japan.",
-        "Lukusgiganten LVMH Moët Hennessy Louis Vuitton rapporterer inntekter på 57,1 milliarder dollar så langt i 2026 etter stenging på Paris-børsen mandag.",
-        "Det viktigste motemerket Louis Vuitton gjør det dårligere som følge av en boikott i Kina, skriver Bloomberg.",
-        "Inntektene fra mote og lærvarer falt 5 prosent i tredje kvartal mot året før, mens analytikere forventet en nedgang på kun 1,57 prosent, ifølge Bloomberg."
+        "Hotellgründer og investor Asmund Haare har solgt strandeiendommen i Dr.",
+        "Nå løsnet det, og det var både norske og andre interessenter, sier Haare.",
+        "Kjøpesummen på 135 millioner kroner gjør eiendommen til den dyreste som noen gang er solgt på Nesøya.",
+        "Natvigs vei på Nesøya i Asker kommune for 135 millioner kroner til sveitsiske kjøpere."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/mK3J8p/mote-smell-i-kina-for-boerstaper-lvmh",
+      "url": "https://e24.no/naeringsliv/i/L39L2V/solgt-til-sveitsere-for-135-mill-naa-loesnet-det",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6b82aa06-9acd-320a-9aa9-e0348c132fb9?fit=crop&h=675&upscale=true&w=1200&s=5e4e93c962cf9cdcbec3d1f4b3e649affb5a9bff",
-      "localImage": "assets/news/56dbcebd46ecef.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/82bd14c5-69cb-4fc3-92f3-bede389ca6e8?fit=crop&h=675&upscale=true&w=1200&s=4bff388758df830e3b77d07512faf3693851db61",
+      "localImage": "assets/news/6e4b610a09d5b2.jpg",
+      "score": 15
     }
   ]
 }
