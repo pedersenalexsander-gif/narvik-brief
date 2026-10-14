@@ -1,70 +1,91 @@
 {
-  "updatedAt": "14.10.2026 kl. 12:29",
-  "updatedISO": "2026-10-14T12:29:25.135846+02:00",
+  "updatedAt": "14.10.2026 kl. 17:25",
+  "updatedISO": "2026-10-14T17:25:32.901003+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "8a62572160bc6e",
-      "category": "Norge",
-      "published": "14.10. 05:31",
-      "publishedISO": "2026-10-14T05:31:05+02:00",
-      "title": "Mental Helse mistenker at KI gir færre henvendelser",
-      "summary": "Man må ikke slutte å snakke, sier styreleder Ole-Marius Minde Johnsen i Mental Helse. – Vi har sett en nedgang i bruken av chat-tjenesten vår de siste årene. Mental Helse får mellom 300.000 og 350.000 henvendelser i året, mens Røde Kors har 20.000–25.000. I snitt får Mental Helse opp mot 1000 henvendelser hver eneste dag. – Dessverre klarer vi ikke å svare alle.",
+      "id": "5fec7a883e0b60",
+      "category": "Nord-Norge",
+      "published": "14.10. 14:54",
+      "publishedISO": "2026-10-14T14:54:21+02:00",
+      "title": "– Kong Haakons første reise i nord sender et tydelig signal",
+      "summary": "Kong Haakon VIII valgte Nordland og Finnmark som målet for sin aller første offisielle reise som monark. Tirsdag morgen startet kongens første reise i Narvik, før turen gikk videre til Jarfjord Grensestasjon i Sør-Varanger og Porsangmoen leir i Finnmark. – Kong Haakon markerer at han er konge over hver millimeter av norsk jord, skriver politisk redaktør Frøy Gudbrandsen i VG. Professor i sikkerhetsstudier ved UiT, Gunhild Hoogensen Gjørv, kaller reisen en klar tillitserklæring til befolkningen i nord: – Han er der, han føler seg trygg der, og det sender et sterkt signal om at Finnmark er viktig. (NTB)",
       "keyPoints": [
-        "Mental Helse får mellom 300.000 og 350.000 henvendelser i året, mens Røde Kors har 20.000–25.000.",
-        "I snitt får Mental Helse opp mot 1000 henvendelser hver eneste dag. – Dessverre klarer vi ikke å svare alle.",
-        "Man må ikke slutte å snakke, sier styreleder Ole-Marius Minde Johnsen i Mental Helse. – Vi har sett en nedgang i bruken av chat-tjenesten vår de siste årene.",
-        "Det er vanskelig for oss i Mental Helse å konkurrere med den typen hastighet, sier seniorrådgiver Joachim Kjennerud i Mental Helse."
+        "Tirsdag morgen startet kongens første reise i Narvik, før turen gikk videre til Jarfjord Grensestasjon i Sør-Varanger og Porsangmoen leir i Finnmark. – Kong Haakon markerer at han er konge over hver millimeter av norsk jord, skriver politisk redaktør Frøy Gudbrandsen i VG.",
+        "Professor i sikkerhetsstudier ved UiT, Gunhild Hoogensen Gjørv, kaller reisen en klar tillitserklæring til befolkningen i nord: – Han er der, han føler seg trygg der, og det sender et sterkt signal om at Finnmark er viktig. (NTB)",
+        "Kong Haakon VIII valgte Nordland og Finnmark som målet for sin aller første offisielle reise som monark.",
+        "Forskningsleder Andreas Østhagen ved Fridtjof Nansens Institutt (FNI) fremhever at Nord-Norge er landets mest strategiske område, særlig med tanke på den 198 kilometer lange landegrensen mot Russland. – Kongen viser som øverste leder for Forsvaret at han er opptatt av sikkerhetspolitikk og norsk suverenitet i nord, sier Østhagen."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/_-kong-haakons-forste-reise-i-nord-sender-et-tydelig-signal-1.18054860",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/y6PyTS4Xt-6XLX67o_NMBQmIAox2T8skMgUumyf47F6Q.jpg",
+      "localImage": "assets/news/5fec7a883e0b60.jpg",
+      "score": 28
+    },
+    {
+      "id": "97878edcbbe0df",
+      "category": "Norge",
+      "published": "14.10. 16:16",
+      "publishedISO": "2026-10-14T16:16:51+02:00",
+      "title": "Underskuddet i Vestre Viken nærmer seg en milliard",
+      "summary": "Underskuddet i Vestre Viken helseforetak ventes å nærme seg én milliard kroner i år, langt over de budsjetterte 600 millionene. Det har ført til et underskudd på 600 millioner som Vestre Viken har dratt med seg inn i 2026. Men nå er underskuddet på over 900 millioner kroner og kan komme opp i en milliard innen styret skal møtes den 26. oktober.",
+      "keyPoints": [
+        "Underskuddet i Vestre Viken helseforetak ventes å nærme seg én milliard kroner i år, langt over de budsjetterte 600 millionene.",
+        "Men nå er underskuddet på over 900 millioner kroner og kan komme opp i en milliard innen styret skal møtes den 26. oktober.",
+        "Det har ført til et underskudd på 600 millioner som Vestre Viken har dratt med seg inn i 2026.",
+        "Lisbeth Sommervoll er helseforetakets administrerende direktør. – Vestre Viken får et vesentlig svakere økonomisk resultat i 2026 enn budsjettert."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/mental-helse-mistenker-at-ki-gir-faerre-henvendelser-1.18051518",
+      "url": "https://www.nrk.no/buskerud/underskuddet-i-vestre-viken-naermer-seg-en-milliard-1.18054437",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/e-mfBzbNoreyBL9Ge_sXmwghLSj9gDonVeP3e7czUmRw.jpg",
-      "localImage": "assets/news/8a62572160bc6e.jpg",
+      "image": "https://gfx.nrk.no/Ui4o8WExjrPyl8ll7go6Ogr5nsj0SumWAkO8H0lT27rQ.jpg",
+      "localImage": "assets/news/97878edcbbe0df.jpg",
       "score": 17
     },
     {
-      "id": "f0c95286da1710",
+      "id": "ec26d8d6bad651",
       "category": "Verden",
       "published": "14.10. 11:25",
       "publishedISO": "2026-10-14T11:25:03+02:00",
       "title": "Watch: What we know about Russia's overnight strikes on Ukraine",
-      "summary": "Streikene kommer etter at USAs president Donald Trump søndag sa at en «energivåpenhvile» var på plass mellom Russland og Ukraina. Les mer om denne historien: Russiske streiker etterlater 600 000 uten strøm i Ukraina, sier Zelensky Hva vi vet om Russlands angrep på Ukraina over natten. Video, 00:01:14Hva vi vet om Russlands angrep over natten på Ukraine Up Next.",
+      "summary": "Streikene kommer etter at USAs president Donald Trump søndag sa at en «energivåpenhvile» var på plass mellom Russland og Ukraina. Russlands forsvarsdepartement sa at deres \"massive\" angrep hadde målrettet kommunikasjons- og energianlegg brukt av Ukrainas militære. Les mer om denne historien: Russiske streiker etterlater 600 000 uten strøm i Ukraina, sier Zelensky Watch: Block of flats destroyed in Russian strikes on Ukraine.",
       "keyPoints": [
-        "Read more on this story: Russian strikes leave 600,000 without power in Ukraine, Zelensky says What we know about Russia's overnight strikes on Ukraine.",
-        "Video, 00:01:14What we know about Russia's overnight strikes on Ukraine Up Next.",
+        "Read more on this story: Russian strikes leave 600,000 without power in Ukraine, Zelensky says Watch: Block of flats destroyed in Russian strikes on Ukraine.",
         "Streikene kommer etter at USAs president Donald Trump søndag sa at en «energivåpenhvile» var på plass mellom Russland og Ukraina.",
-        "Russlands forsvarsdepartement sa at deres \"massive\" angrep hadde målrettet kommunikasjons- og energianlegg brukt av Ukrainas militære."
+        "Russlands forsvarsdepartement sa at deres \"massive\" angrep hadde målrettet kommunikasjons- og energianlegg brukt av Ukrainas militære.",
+        "Video, 00:01:14Watch: Block of flats destroyed in Russian strikes on Ukraine Up Next."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/videos/cmx280x092x7o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/20a4/live/9e0a4240-c7b0-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/f0c95286da1710.jpg",
-      "score": 17
+      "localImage": "assets/news/ec26d8d6bad651.jpg",
+      "score": 16
     },
     {
-      "id": "2ca815f7dae041",
+      "id": "2a258054910829",
       "category": "Økonomi",
       "published": "14.10. 09:01",
       "publishedISO": "2026-10-14T09:01:15+02:00",
-      "title": "Markant oppgang på Oslo Børs",
-      "summary": "Stemningen på Oslo Børs har tatt seg opp utover formiddagen, og oppgangen har bikket én prosent. Ute i Europa og i førhandelen på Wall Street i USA er det også grønne tall, men oppgangen er mer forsiktig enn i Oslo. Selskapet hans Drew Holdings har kjøpt aksjer i riggselskapet Borr Drilling for rundt 7,4 millioner dollar, etter å ha kjøpt Borr-aksjer også tidligere denne uken Det har også kommet nyheter fra andre Oslo Børs-selskaper:",
+      "title": "Oljeselskaper klatret på Oslo Børs",
+      "summary": "Stemningen på Oslo Børs tok seg opp utover formiddagen onsdag. Her oppnådde selskapet en oljepris på 99,6 dollar fatet, og en gasspris tilsvarende 122,9 dollar per fat oljeekvivalenter Det var også en kraftig økning i Kurdistan, etter at produksjonen ble gjennopptatt i sommer. Selskapet hans Drew Holdings har kjøpt aksjer i riggselskapet Borr Drilling for rundt 7,4 millioner dollar, etter å ha kjøpt Borr-aksjer også tidligere denne uken Det har også kommet nyheter fra andre Oslo Børs-selskaper:",
       "keyPoints": [
-        "Stemningen på Oslo Børs har tatt seg opp utover formiddagen, og oppgangen har bikket én prosent.",
+        "Stemningen på Oslo Børs tok seg opp utover formiddagen onsdag.",
         "Selskapet hans Drew Holdings har kjøpt aksjer i riggselskapet Borr Drilling for rundt 7,4 millioner dollar, etter å ha kjøpt Borr-aksjer også tidligere denne uken Det har også kommet nyheter fra andre Oslo Børs-selskaper:",
-        "Ute i Europa og i førhandelen på Wall Street i USA er det også grønne tall, men oppgangen er mer forsiktig enn i Oslo.",
-        "Det er bred oppgang for de fleste av tungvekterne og mye omsatte aksjene på Børsen."
+        "Her oppnådde selskapet en oljepris på 99,6 dollar fatet, og en gasspris tilsvarende 122,9 dollar per fat oljeekvivalenter Det var også en kraftig økning i Kurdistan, etter at produksjonen ble gjennopptatt i sommer.",
+        "Aker BP hadde en netto produksjon på 374.300 fat oljeekvivalenter per dag."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/b8eMdB/oppgang-paa-oslo-boers-aker-bp-stiger",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/31ca7224-61d0-3d6c-9ecd-b6af2a8ab3b3?fit=crop&h=675&upscale=true&w=1200&s=69763748a0545a06756c0d1ae7e2a795667158bb",
-      "localImage": "assets/news/2ca815f7dae041.jpg",
-      "score": 23
+      "localImage": "assets/news/2a258054910829.jpg",
+      "score": 22
     },
     {
       "id": "7e6c9e7d784466",
@@ -85,28 +106,91 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e4c6feb9-5ee9-358b-8a35-cd7a4c6fd8bf?fit=crop&h=675&upscale=true&w=1200&s=3653796b0c19afd3f0330084f3f7d95ba8d6972e",
       "localImage": "assets/news/7e6c9e7d784466.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "ea42a9d77dedb7",
-      "category": "AI",
-      "published": "13.10. 11:34",
-      "publishedISO": "2026-10-13T11:34:43+02:00",
-      "title": "Phase Eight owner hit by cyber-attack as H&M probes separate hack claim",
-      "summary": "Eieren av high-end motemerkene Hobbs, Whistles og Phase Eight sier at de etterforsker en cybersikkerhetshendelse. I følge TFG London - den britiske grenen av detaljhandelskonglomeratet The Foschini Group - identifiserte den en hendelse på søndag som påvirket noen IT-systemer og \"spesifikt påvirket våre fase åtte, Hobbs og Whistles-merker\". \"Vi undersøker aktivt og jobber med eksterne cybersikkerhetsspesialister,\" sa selskapet til BBC News i en uttalelse. I mellomtiden undersøker H&M en egen påstand om at den ble angrepet av en beryktet hackergruppe.",
+      "id": "3a7325357eae07",
+      "category": "Økonomi",
+      "published": "14.10. 15:31",
+      "publishedISO": "2026-10-14T15:31:33+02:00",
+      "title": "Bank of America raser etter tallslipp",
+      "summary": "Gassprisen er opp 11,5 prosent den siste uken, men faller tilbake 2,4 prosent onsdag. Storbanken Bank of America har også kommet med nye tall for tredje kvartal, som førte til et bratt fall på over 7 prosent i førhandelen. Inntektene til Bank of America havnet på 30 milliarder dollar, mens det var ventet 30,76 millarder, ifølge Bloomberg.",
       "keyPoints": [
-        "Eieren av high-end motemerkene Hobbs, Whistles og Phase Eight sier at de etterforsker en cybersikkerhetshendelse.",
-        "I følge TFG London - den britiske grenen av detaljhandelskonglomeratet The Foschini Group - identifiserte den en hendelse på søndag som påvirket noen IT-systemer og \"spesifikt påvirket våre fase åtte, Hobbs og Whistles-merker\". \"Vi undersøker aktivt og jobber med eksterne cybersikkerhetsspesialister,\" sa selskapet til BBC News i en uttalelse.",
-        "Meanwhile, H&M is investigating a separate claim that it was attacked by a notorious hacking group.",
-        "On Monday, it was also reported that fashion giant H&M was investigating a claim of a hack by a cyber-criminal group called ShinyHunters."
+        "Storbanken Bank of America har også kommet med nye tall for tredje kvartal, som førte til et bratt fall på over 7 prosent i førhandelen.",
+        "Inntektene til Bank of America havnet på 30 milliarder dollar, mens det var ventet 30,76 millarder, ifølge Bloomberg.",
+        "Gassprisen er opp 11,5 prosent den siste uken, men faller tilbake 2,4 prosent onsdag.",
+        "16: Prisen på nordsjøolje (Brent) er ned 0,55 prosent siden midnatt til 105,7 dollar fatet, ifølge Infront."
       ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwly38gjkejko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ca77/live/ea185dd0-c6e2-11f1-bf38-57dc5cd42af2.jpg",
-      "localImage": "assets/news/ea42a9d77dedb7.jpg",
-      "score": 13
+      "url": "https://e24.no/boers-og-finans/i/4OVKKR/bank-of-america-faller-8-prosent",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/dd72c84b-72d7-3172-a45b-5f6f3a919385?fit=crop&h=675&upscale=true&w=1200&s=d8953fbc55bc9d36f18960d6c8e4141870a8853c",
+      "localImage": "assets/news/3a7325357eae07.jpg",
+      "score": 17
+    },
+    {
+      "id": "e9665b421d13c4",
+      "category": "Økonomi",
+      "published": "14.10. 14:30",
+      "publishedISO": "2026-10-14T14:30:12+02:00",
+      "title": "Prisveksten i USA kom inn på 3,7 prosent i september",
+      "summary": "Den ene er konsumprisindeksen (KPI), mens den andre er Personal Consumption Expenditures Price Index (PCE).) økte til 3,7 prosent i september. Energiprisene økte samlet med 5,2 prosent fra august til september. Prisveksten ligger fortsatt over målet på rundt to prosent, og et stort flertall i rentekomiteen signaliserte etter hevingen i september ytterligere én heving i 2026.",
+      "keyPoints": [
+        "Prisveksten ligger fortsatt over målet på rundt to prosent, og et stort flertall i rentekomiteen signaliserte etter hevingen i september ytterligere én heving i 2026.",
+        "Den ene er konsumprisindeksen (KPI), mens den andre er Personal Consumption Expenditures Price Index (PCE).) økte til 3,7 prosent i september.",
+        "Energiprisene økte samlet med 5,2 prosent fra august til september.",
+        "Den amerikanske prisveksten (KPII USA brukes det to ulike metoder for å måle prisveksten, som begge følges med på av økonomer og markeder."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/gdRyaL/prisveksten-i-usa-kom-inn-paa-3-7-prosent-i-september",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ccfed47a-335e-3d1f-b54a-327d8a453481?fit=crop&h=675&upscale=true&w=1200&s=956a809be27850b34d119fee98e421519f52e463",
+      "localImage": "assets/news/e9665b421d13c4.jpg",
+      "score": 17
+    },
+    {
+      "id": "d8222ca3fa784c",
+      "category": "Norge",
+      "published": "14.10. 14:12",
+      "publishedISO": "2026-10-14T14:12:51+02:00",
+      "title": "Statsadvokaten ber om 15 års forvaring for Steinar Wangen",
+      "summary": "Statsadvokaten mener drapet på svenske Malin (47) bør straffes med 15 års forvaring. Påtalemyndigheten mener at Malin ble drept av Steinar Wangen. – I tillegg har han egentlig tilstått til hele Norge, sier Johansen og spiller av et klipp fra TV 2-serien «Norge bak fasaden». Statsadvokaten mener at lagmannsretten bør dømme Wangen til 15 års forvaring.",
+      "keyPoints": [
+        "Statsadvokaten mener at lagmannsretten bør dømme Wangen til 15 års forvaring.",
+        "Statsadvokaten mener drapet på svenske Malin (47) bør straffes med 15 års forvaring.",
+        "Påtalemyndigheten mener at Malin ble drept av Steinar Wangen. – I tillegg har han egentlig tilstått til hele Norge, sier Johansen og spiller av et klipp fra TV 2-serien «Norge bak fasaden».",
+        "Aktor Peter Johansen mener Steinar Wangen flere ganger har tilstått at han drepte 47 år gamle Malin i Trollhättan i 2024."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/statsadvokaten-ber-om-15-ars-forvaring-for-steinar-wangen-1.18053790",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/r8S5rpGMFmJvgw9DNLyV2gASaROXBRM9mcfF4I_XiIDQ.jpg",
+      "localImage": "assets/news/d8222ca3fa784c.jpg",
+      "score": 17
+    },
+    {
+      "id": "8a62572160bc6e",
+      "category": "Norge",
+      "published": "14.10. 05:31",
+      "publishedISO": "2026-10-14T05:31:05+02:00",
+      "title": "Mental Helse mistenker at KI gir færre henvendelser",
+      "summary": "Man må ikke slutte å snakke, sier styreleder Ole-Marius Minde Johnsen i Mental Helse. – Vi har sett en nedgang i bruken av chat-tjenesten vår de siste årene. Mental Helse får mellom 300.000 og 350.000 henvendelser i året, mens Røde Kors har 20.000–25.000. I snitt får Mental Helse opp mot 1000 henvendelser hver eneste dag. – Dessverre klarer vi ikke å svare alle.",
+      "keyPoints": [
+        "Mental Helse får mellom 300.000 og 350.000 henvendelser i året, mens Røde Kors har 20.000–25.000.",
+        "I snitt får Mental Helse opp mot 1000 henvendelser hver eneste dag. – Dessverre klarer vi ikke å svare alle.",
+        "Man må ikke slutte å snakke, sier styreleder Ole-Marius Minde Johnsen i Mental Helse. – Vi har sett en nedgang i bruken av chat-tjenesten vår de siste årene.",
+        "Det er vanskelig for oss i Mental Helse å konkurrere med den typen hastighet, sier seniorrådgiver Joachim Kjennerud i Mental Helse."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/mental-helse-mistenker-at-ki-gir-faerre-henvendelser-1.18051518",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/e-mfBzbNoreyBL9Ge_sXmwghLSj9gDonVeP3e7czUmRw.jpg",
+      "localImage": "assets/news/8a62572160bc6e.jpg",
+      "score": 16
     },
     {
       "id": "a5a1bd57465132",
@@ -127,91 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/92116ba6-cc95-3ff4-9143-e8834edc9a4c?fit=crop&h=675&upscale=true&w=1200&s=f0e0adddae8c6968fc136d384e15287511a03454",
       "localImage": "assets/news/a5a1bd57465132.jpg",
-      "score": 16
-    },
-    {
-      "id": "df6cd5df781d12",
-      "category": "Norge",
-      "published": "13.10. 14:39",
-      "publishedISO": "2026-10-13T14:39:05+02:00",
-      "title": "Mathilde (10) tok ordet foran kongen og flere tusen barn: – Jeg var veldig nervøs",
-      "summary": "Sammen med resten av Beisfjord skole tok hun bussen til Bjerkvik for å ta imot den nye kongen på hans første offisielle kommunebesøk tirsdag. Og på scenen, til å lede hele programmet, sto 10 år gamle Mathilde Antonsen Myrvang. – Det var skikkelig stas, men jeg var veldig nervøs. Derfor fikk Mathilde vite om det spesielle konferansieroppdraget bare seks dager før hun skulle stå på scenen. – Det var vært veldig spennende disse dagene, og jeg har øvd masse.",
-      "keyPoints": [
-        "Og på scenen, til å lede hele programmet, sto 10 år gamle Mathilde Antonsen Myrvang. – Det var skikkelig stas, men jeg var veldig nervøs.",
-        "Derfor fikk Mathilde vite om det spesielle konferansieroppdraget bare seks dager før hun skulle stå på scenen. – Det var vært veldig spennende disse dagene, og jeg har øvd masse.",
-        "Sammen med resten av Beisfjord skole tok hun bussen til Bjerkvik for å ta imot den nye kongen på hans første offisielle kommunebesøk tirsdag.",
-        "Mathilde fikk ikke hilse på kongen, men vinket til ham før hun gikk opp på scenen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/folkefest-i-narvik-nar-kong-haakon-8.-kommer-pa-sitt-forste-offisielle-kommunebesok-1.18053496",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/trNXvsIBKtzNkE_9jTTwuAnkiSzJIU1Q1npNTSPUlcDA.jpg",
-      "localImage": "assets/news/df6cd5df781d12.jpg",
-      "score": 16
-    },
-    {
-      "id": "f891b4118f8364",
-      "category": "Verden",
-      "published": "14.10. 00:02",
-      "publishedISO": "2026-10-14T00:02:09+02:00",
-      "title": "Paid companionship grows as loneliness rises in China",
-      "summary": "Se: Hvorfor de ensomme i Kina ansetter 'midlertidige barn' \"Den største vanskeligheten var egentlig ensomheten. Noen ganger, hvis jeg ønsket å snakke med noen, ville jeg snakke med TVen.\" Yang, 91, bor i utkanten av Kinas travle hovedstad Beijing. Kjernen i mange virksomheter som tar vare på ensomhet i Kina er et enkelt tilbud: menneskelig forbindelse.",
-      "keyPoints": [
-        "Se: Hvorfor de ensomme i Kina ansetter «midlertidige barn» «Den største vanskeligheten var egentlig ensomheten.",
-        "Noen ganger, hvis jeg ville snakke med noen, ville jeg snakke med TVen.\" Yang, 91, bor i utkanten av Kinas travle hovedstad Beijing.",
-        "At the core of many businesses catering to loneliness in China is a simple offering: human connection.",
-        "Som når migranter på landsbygda forfølger økonomiske muligheter, etterlater seg tette støttenettverk for bysentre der ensomhet og usikkerhet kan være vanskelig å overvinne, eller når nyutdannede rykker opp med roten og jager jobb på den andre siden av landet."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynwpzkgk1o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b864/live/f45a9340-c74a-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/f891b4118f8364.jpg",
       "score": 15
-    },
-    {
-      "id": "c8cfc6d8fcea72",
-      "category": "Verden",
-      "published": "14.10. 00:00",
-      "publishedISO": "2026-10-14T00:00:20+02:00",
-      "title": "Why the lonely in China are hiring 'temporary children'",
-      "summary": "Les mer om de betalte følgesvennene som bringer varme til Kinas ensomme. Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Video, 00:01:38Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Up Next. Video, 00:01:07Sjeldent blikk på de avsidesliggende maskinrommene som gir næring til Kinas AI-boom. Verdens to mektigste menn har nettopp møtt hverandre.",
-      "keyPoints": [
-        "Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Video, 00:01:38Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Up Next.",
-        "Read more about the paid companions bringing warmth to China's lonely.",
-        "Video, 00:01:07Sjeldent blikk på de avsidesliggende maskinrommene som gir næring til Kinas AI-boom. Verdens to mektigste menn har nettopp møtt hverandre.",
-        "Nå har en ny bransje som kalles \"ensomhetsøkonomien\" dukket opp, med folk som leier seg ut som følgesvenner for å hjelpe eldre."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cm8xkxn8lqkeo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9a9d/live/c0c4d690-be07-11f1-babe-4199b0e7ccea.jpg",
-      "localImage": "assets/news/c8cfc6d8fcea72.jpg",
-      "score": 15
-    },
-    {
-      "id": "8d7588b0738245",
-      "category": "Økonomi",
-      "published": "13.10. 19:46",
-      "publishedISO": "2026-10-13T19:46:16+02:00",
-      "title": "DNB kutter i gebyrfrie uttak: – Det går i feil retning",
-      "summary": "I samme omgang ble kunder med høyrentekonto i banken varslet om at antall gebyrfrie uttak reduseres. Storbanken og dels statlig eide DNB kutter uttakene fra Sparekonto Pluss fra 12 til fire uttak i året, med virkning fra 1. januar neste år. Det vitner om dårlig konkurranse at det går i feil retning, sier han til E24.",
-      "keyPoints": [
-        "Storbanken og dels statlig eide DNB kutter uttakene fra Sparekonto Pluss fra 12 til fire uttak i året, med virkning fra 1. januar neste år.",
-        "Det vitner om dårlig konkurranse at det går i feil retning, sier han til E24.",
-        "I samme omgang ble kunder med høyrentekonto i banken varslet om at antall gebyrfrie uttak reduseres.",
-        "Storbanker har strammet inn på gebyrfrie uttak fra høyrentekontoer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BM6qjQ/dnb-kutter-i-gebyrfrie-uttak-det-gaar-i-feil-retning",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/521eef33-8870-3b12-834b-8cbf5c7a2d47?fit=crop&h=675&upscale=true&w=1200&s=e185fdf88b99c1cb05fc538ec1e3b3e5683746f5",
-      "localImage": "assets/news/8d7588b0738245.jpg",
-      "score": 14
     }
   ]
 }
