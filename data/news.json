@@ -1,6 +1,6 @@
 {
-  "updatedAt": "15.10.2026 kl. 12:21",
-  "updatedISO": "2026-10-15T12:21:37.949647+02:00",
+  "updatedAt": "15.10.2026 kl. 17:15",
+  "updatedISO": "2026-10-15T17:15:46.406345+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/y6PyTS4Xt-6XLX67o_NMBQmIAox2T8skMgUumyf47F6Q.jpg",
       "localImage": "assets/news/5fec7a883e0b60.jpg",
-      "score": 24
+      "score": 23
     },
     {
       "id": "547b54af854e79",
@@ -43,48 +43,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/tvRsterd_0bAVDItKN4sXQbqGq3ObadzbwIFCZd4ZKRw.jpg",
       "localImage": "assets/news/547b54af854e79.webp",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "27f60012ef1558",
-      "category": "Verden",
-      "published": "15.10. 10:19",
-      "publishedISO": "2026-10-15T10:19:00+02:00",
-      "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
-      "summary": "En boutique-butikk kalt Art of Play i Brooklyn har befunnet seg i sentrum av en sosial mediestorm, etter at Grammy-vinner Kelly Clarkson klaget over at de ikke ville la henne kjøpe en syngende og dansende mekanisk fugl som var på veggen. Hva skjer mellom Kelly Clarkson og en Brooklyn-butikkfugl? Video, 00:00:38Hva skjer mellom Kelly Clarkson og en Brooklyn-butikkfugl?",
-      "keyPoints": [
-        "Video, 00:00:38What's going on between Kelly Clarkson and a Brooklyn store bird?",
-        "En boutique-butikk kalt Art of Play i Brooklyn har befunnet seg i sentrum av en sosial mediestorm, etter at Grammy-vinner Kelly Clarkson klaget over at de ikke ville la henne kjøpe en syngende og dansende mekanisk fugl som var på veggen.",
-        "Den sa at under Clarksons fem minutters besøk på lørdag, foreslo en ansatt henne at hun kunne kjøpe en identisk fugl for 15 000 dollar.",
-        "Since U Been Gone-sangerinnen hevdet at hun ble \"sett på som om jeg ikke hadde råd til\" fuglen - som hun sa hadde en prislapp på $15.000 (£11.000)."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0c9/live/daf720f0-c86f-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/27f60012ef1558.jpg",
-      "score": 13
-    },
-    {
-      "id": "65992143f7ea92",
+      "id": "b34e3962a86966",
       "category": "Økonomi",
-      "published": "15.10. 09:02",
-      "publishedISO": "2026-10-15T09:02:26+02:00",
-      "title": "Nedgang på Oslo Børs – Aker faller videre",
-      "summary": "Hovedindeksen på Oslo Børs er ned 0,80 prosent rundt kl. Slik går det med noen av de andre mye omsatte aksjene på Oslo Børs: Oljeprisen har falt tilbake i morgentimene. Resultatsesongen er så vidt i gang på Oslo Børs, og i morges kom Entra og Nel med kvartalstall.",
+      "published": "15.10. 16:27",
+      "publishedISO": "2026-10-15T16:27:23+02:00",
+      "title": "Oslo Børs tynget av tekuro og oljeprisfall",
+      "summary": "Hovedindeksen på Oslo Børs avsluttet torsdagen med et fall på 0,6 prosent. Resultatsesongen er så vidt i gang på Oslo Børs, og i morges kom Entra og Nel med kvartalstall. Hydrogenselskapet Nels inntekter falt kraftig til 112 millioner kroner i tredje kvartal.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs er ned 0,80 prosent rundt kl.",
-        "Slik går det med noen av de andre mye omsatte aksjene på Oslo Børs: Oljeprisen har falt tilbake i morgentimene.",
+        "Hovedindeksen på Oslo Børs avsluttet torsdagen med et fall på 0,6 prosent.",
         "Resultatsesongen er så vidt i gang på Oslo Børs, og i morges kom Entra og Nel med kvartalstall.",
-        "10.15 torsdag Aker-aksjen faller 4,8 prosent, etter å ha snudd nedover i går."
+        "Hydrogenselskapet Nels inntekter falt kraftig til 112 millioner kroner i tredje kvartal.",
+        "Aker-aksjen falt 2,3 prosent, etter å ha snudd nedover i går."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/2VJ1vy/nedgang-paa-oslo-boers-bw-energy-faller",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eba88a5a-d84e-3c64-bdaa-01036815c38f?fit=crop&h=675&upscale=true&w=1200&s=b4a94eee3ef782904e104917ed5c854f3bfe83c0",
-      "localImage": "assets/news/65992143f7ea92.jpg",
+      "localImage": "assets/news/b34e3962a86966.jpg",
       "score": 20
     },
     {
@@ -106,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d63d2f82-5f0c-3f83-b302-bcbabdc4a21c?fit=crop&h=675&upscale=true&w=1200&s=f574f5e248259358357b83d8b02a0aa66a97f543",
       "localImage": "assets/news/df61ee04b55b9c.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "d0d76bb5d370c7",
@@ -127,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1ca4b324-2439-3645-8f74-b8ac79890d4e?fit=crop&h=675&upscale=true&w=1200&s=2dbc5c1be8077bc9b8552f2e020ce952bdfd6813",
       "localImage": "assets/news/d0d76bb5d370c7.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "bddbb2634eaa51",
@@ -148,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f777bc5b-90bc-33a7-bb42-38daa34b43bb?fit=crop&h=675&upscale=true&w=1200&s=af8ff62cbad801ea0fb34a39e05489432aaabfd0",
       "localImage": "assets/news/bddbb2634eaa51.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "2a258054910829",
@@ -169,7 +148,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/31ca7224-61d0-3d6c-9ecd-b6af2a8ab3b3?fit=crop&h=675&upscale=true&w=1200&s=69763748a0545a06756c0d1ae7e2a795667158bb",
       "localImage": "assets/news/2a258054910829.jpg",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "edc9b10e54f037",
+      "category": "Økonomi",
+      "published": "15.10. 11:33",
+      "publishedISO": "2026-10-15T11:33:46+02:00",
+      "title": "Tek-fallet på Wall Street demper seg",
+      "summary": "Den dårlige stemningen som preget Wall Street onsdag fortsetter å prege markedene både i USA og ellers i verden torsdag. Etter at New York-børsen har vært åpen i en og en halv time ser det ut til at fallet demper seg. Det bidro til inflasjonsfrykt og nedgangen på Wall Street.",
+      "keyPoints": [
+        "Den dårlige stemningen som preget Wall Street onsdag fortsetter å prege markedene både i USA og ellers i verden torsdag.",
+        "Det bidro til inflasjonsfrykt og nedgangen på Wall Street.",
+        "Etter at New York-børsen har vært åpen i en og en halv time ser det ut til at fallet demper seg.",
+        "Slik ser det ut på de sentrale indeksene klokken 17: Både teknologiindeksen Nasdaq og den brede S&P 500 hadde onsdag sine tyngste dager siden slutten av juli."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/kvbMRQ/tek-uro-paa-verdens-boerser",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/08220856-7fd3-3984-a406-33a5abdf54ed?fit=crop&h=675&upscale=true&w=1200&s=30e13865d13b6ad2f102b80c85ade1166f628095",
+      "localImage": "assets/news/edc9b10e54f037.jpg",
+      "score": 16
     },
     {
       "id": "94b7b3d8de988e",
@@ -190,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/OukD8Xcv6iKn-cbnYM67lg0X7NLUFF3J4Oh5FUM6Vr6A.jpg",
       "localImage": "assets/news/94b7b3d8de988e.webp",
-      "score": 17
+      "score": 16
     },
     {
       "id": "f303c42c565974",
@@ -211,7 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/7QdjQ5IP8gsj7SoDh0kOgQ_vbkA0oDeWW4F_HHZMlnMg.jpg",
       "localImage": "assets/news/f303c42c565974.jpg",
-      "score": 17
+      "score": 16
     }
   ]
 }
