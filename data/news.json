@@ -1,6 +1,6 @@
 {
-  "updatedAt": "15.10.2026 kl. 07:38",
-  "updatedISO": "2026-10-15T07:38:11.288622+02:00",
+  "updatedAt": "15.10.2026 kl. 12:21",
+  "updatedISO": "2026-10-15T12:21:37.949647+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/y6PyTS4Xt-6XLX67o_NMBQmIAox2T8skMgUumyf47F6Q.jpg",
       "localImage": "assets/news/5fec7a883e0b60.jpg",
-      "score": 25
+      "score": 24
     },
     {
       "id": "547b54af854e79",
@@ -43,28 +43,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/tvRsterd_0bAVDItKN4sXQbqGq3ObadzbwIFCZd4ZKRw.jpg",
       "localImage": "assets/news/547b54af854e79.webp",
-      "score": 22
+      "score": 21
     },
     {
-      "id": "fa455455cf5df8",
+      "id": "27f60012ef1558",
       "category": "Verden",
-      "published": "14.10. 22:41",
-      "publishedISO": "2026-10-14T22:41:03+02:00",
-      "title": "Why Zelensky's meeting with Burnham matters",
-      "summary": "Statsminister Andy Burnham ønsket president Volodymyr Zelensky velkommen til Downing Street onsdag, da den ukrainske lederen ser ut til å støtte sine europeiske allierte fem år inn i Russlands krig mot Ukraina. Burnham fortalte Zelensky at Storbritannia \"for alltid ville stå ved deg\" og at han fremskyndet leveringen av luftforsvar til Ukraina. Video, 00:01:30Hvorfor Zelenskys møte med Burnham er viktig. Neste.",
+      "published": "15.10. 10:19",
+      "publishedISO": "2026-10-15T10:19:00+02:00",
+      "title": "What's going on between Kelly Clarkson and a Brooklyn store bird?",
+      "summary": "En boutique-butikk kalt Art of Play i Brooklyn har befunnet seg i sentrum av en sosial mediestorm, etter at Grammy-vinner Kelly Clarkson klaget over at de ikke ville la henne kjøpe en syngende og dansende mekanisk fugl som var på veggen. Hva skjer mellom Kelly Clarkson og en Brooklyn-butikkfugl? Video, 00:00:38Hva skjer mellom Kelly Clarkson og en Brooklyn-butikkfugl?",
       "keyPoints": [
-        "Video, 00:01:30Why Zelensky's meeting with Burnham matters Up Next.",
-        "Prime Minister Andy Burnham welcomed President Volodymyr Zelensky to Downing Street on Wednesday, as the Ukrainian leader looks to shore up his European allies five years into Russia's war on Ukraine.",
-        "Burnham fortalte Zelensky at Storbritannia \"for alltid ville stå ved deg\" og at han fremskyndet leveringen av luftforsvar til Ukraina.",
-        "Video, 00:01:22Hva vi vet om pavens lungekreftdiagnose Hvorfor de ensomme i Kina ansetter 'midlertidige barn' Video, 00:01:38Hvorfor de ensomme i Kina ansetter 'midlertidige barn' 'Hvis vi ikke skriker, vil de ikke høre på oss': Studentdemonstranter snakker med BBC i Paris."
+        "Video, 00:00:38What's going on between Kelly Clarkson and a Brooklyn store bird?",
+        "En boutique-butikk kalt Art of Play i Brooklyn har befunnet seg i sentrum av en sosial mediestorm, etter at Grammy-vinner Kelly Clarkson klaget over at de ikke ville la henne kjøpe en syngende og dansende mekanisk fugl som var på veggen.",
+        "Den sa at under Clarksons fem minutters besøk på lørdag, foreslo en ansatt henne at hun kunne kjøpe en identisk fugl for 15 000 dollar.",
+        "Since U Been Gone-sangerinnen hevdet at hun ble \"sett på som om jeg ikke hadde råd til\" fuglen - som hun sa hadde en prislapp på $15.000 (£11.000)."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o",
+      "url": "https://www.bbc.co.uk/news/videos/c6e3x9z8jpj1o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/069c/live/567fb8d0-c817-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/fa455455cf5df8.jpg",
-      "score": 16
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f0c9/live/daf720f0-c86f-11f1-a64c-550be9e3c66b.jpg",
+      "localImage": "assets/news/27f60012ef1558.jpg",
+      "score": 13
+    },
+    {
+      "id": "65992143f7ea92",
+      "category": "Økonomi",
+      "published": "15.10. 09:02",
+      "publishedISO": "2026-10-15T09:02:26+02:00",
+      "title": "Nedgang på Oslo Børs – Aker faller videre",
+      "summary": "Hovedindeksen på Oslo Børs er ned 0,80 prosent rundt kl. Slik går det med noen av de andre mye omsatte aksjene på Oslo Børs: Oljeprisen har falt tilbake i morgentimene. Resultatsesongen er så vidt i gang på Oslo Børs, og i morges kom Entra og Nel med kvartalstall.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er ned 0,80 prosent rundt kl.",
+        "Slik går det med noen av de andre mye omsatte aksjene på Oslo Børs: Oljeprisen har falt tilbake i morgentimene.",
+        "Resultatsesongen er så vidt i gang på Oslo Børs, og i morges kom Entra og Nel med kvartalstall.",
+        "10.15 torsdag Aker-aksjen faller 4,8 prosent, etter å ha snudd nedover i går."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/2VJ1vy/nedgang-paa-oslo-boers-bw-energy-faller",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/eba88a5a-d84e-3c64-bdaa-01036815c38f?fit=crop&h=675&upscale=true&w=1200&s=b4a94eee3ef782904e104917ed5c854f3bfe83c0",
+      "localImage": "assets/news/65992143f7ea92.jpg",
+      "score": 20
+    },
+    {
+      "id": "df61ee04b55b9c",
+      "category": "Økonomi",
+      "published": "15.10. 08:33",
+      "publishedISO": "2026-10-15T08:33:31+02:00",
+      "title": "Norges handelsoverskudd stiger til 105 milliarder",
+      "summary": "Norges import var på 102,7 milliarder kroner i september, mens eksporten var omtrent dobbelt så høy - på 207,7 milliarder kroner, viser tall fra SSB torsdag. Handelsoverskuddet er det høyeste siden januar 2023, da det var på 106,2 milliarder kroner, viser SSBs tall. – Handelsoverskuddet er vanvittig høyt, hele 105 milliarder kroner. Eksporten av gass ga inntekter på 79,4 milliarder kroner, over en dobling fra september i fjor.",
+      "keyPoints": [
+        "Norges import var på 102,7 milliarder kroner i september, mens eksporten var omtrent dobbelt så høy - på 207,7 milliarder kroner, viser tall fra SSB torsdag.",
+        "Handelsoverskuddet er det høyeste siden januar 2023, da det var på 106,2 milliarder kroner, viser SSBs tall. – Handelsoverskuddet er vanvittig høyt, hele 105 milliarder kroner.",
+        "Eksporten av gass ga inntekter på 79,4 milliarder kroner, over en dobling fra september i fjor.",
+        "Handelsoverskuddet endte dermed på 105,0 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/4O0qX9/norges-handelsoverskudd-stiger-til-105-milliarder-hoeyeste-siden-2023",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d63d2f82-5f0c-3f83-b302-bcbabdc4a21c?fit=crop&h=675&upscale=true&w=1200&s=f574f5e248259358357b83d8b02a0aa66a97f543",
+      "localImage": "assets/news/df61ee04b55b9c.jpg",
+      "score": 20
     },
     {
       "id": "d0d76bb5d370c7",
@@ -85,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1ca4b324-2439-3645-8f74-b8ac79890d4e?fit=crop&h=675&upscale=true&w=1200&s=2dbc5c1be8077bc9b8552f2e020ce952bdfd6813",
       "localImage": "assets/news/d0d76bb5d370c7.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "bddbb2634eaa51",
@@ -106,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f777bc5b-90bc-33a7-bb42-38daa34b43bb?fit=crop&h=675&upscale=true&w=1200&s=af8ff62cbad801ea0fb34a39e05489432aaabfd0",
       "localImage": "assets/news/bddbb2634eaa51.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "2a258054910829",
@@ -127,91 +169,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/31ca7224-61d0-3d6c-9ecd-b6af2a8ab3b3?fit=crop&h=675&upscale=true&w=1200&s=69763748a0545a06756c0d1ae7e2a795667158bb",
       "localImage": "assets/news/2a258054910829.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "3b0822b3b6a9d1",
+      "id": "94b7b3d8de988e",
       "category": "Norge",
-      "published": "15.10. 05:27",
-      "publishedISO": "2026-10-15T05:27:12+02:00",
-      "title": "Finnmarkssykehuset ruster opp krigsberedskap uten ekstra penger",
-      "summary": "Finnmarkssykehuset er i gang med å ruste seg for krig og krise uten ekstra penger fra staten. – Dette regnestykket går ikke opp, sier leder i Finnmark legeforening. På nye Hammerfest sykehus skal beredskapen bygges opp – uten at det følger med penger til arbeidet. Finnmarkssykehuset har fått beskjed om å bygge opp beredskapen i tilfelle det oppstår store kriser som følge av eksempelvis klimaendringer – eller krig.",
+      "published": "15.10. 10:12",
+      "publishedISO": "2026-10-15T10:12:11+02:00",
+      "title": "Regjeringen skrotet forslaget i mars – nå rammes postbudene likevel i statsbudsjettet",
+      "summary": "Etter å ha skrotet planen i mars, foreslår regjeringen likevel postlevering kun én dag i uken. I mars valgte regjeringen å skrinlegge en ny lov som innebar postlevering én dag i uken. Dersom forslaget i statsbudsjettet går gjennom, får Posten bare et halvt år på å kutte det Fagforeningen tror blir over 2000 stillinger. – Dette er forferdelig.",
       "keyPoints": [
-        "Finnmarkssykehuset er i gang med å ruste seg for krig og krise uten ekstra penger fra staten. – Dette regnestykket går ikke opp, sier leder i Finnmark legeforening.",
-        "På nye Hammerfest sykehus skal beredskapen bygges opp – uten at det følger med penger til arbeidet.",
-        "Finnmarkssykehuset har fått beskjed om å bygge opp beredskapen i tilfelle det oppstår store kriser som følge av eksempelvis klimaendringer – eller krig.",
-        "Det arbeidet må de gjennomføre uten at de har fått en eneste krone ekstra fra staten. – Det er krevende."
+        "Etter å ha skrotet planen i mars, foreslår regjeringen likevel postlevering kun én dag i uken.",
+        "Dersom forslaget i statsbudsjettet går gjennom, får Posten bare et halvt år på å kutte det Fagforeningen tror blir over 2000 stillinger. – Dette er forferdelig.",
+        "I mars valgte regjeringen å skrinlegge en ny lov som innebar postlevering én dag i uken.",
+        "Særlig reagerer hun på at daværende samferdselsminister Jon-Ivar Nygård (Ap) i mars trakk tilbake postlov-forslaget og sa de skulle berge to og en halv dags levering. – Nå er de tilbake på én dags omdeling, og de kommer nå med denne ordningen i statsbudsjettet."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/finnmarkssykehuset-ruster-opp-krigsberedskap-uten-ekstra-penger-1.18052719",
+      "url": "https://www.nrk.no/rogaland/regjeringen-skrotet-forslaget-i-mars-_-na-rammes-postbudene-likevel-i-statsbudsjettet-1.18050387",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UUkOXqc1dsT7AsJPNe4t8gGLsQ-1keuxYmhLd1LnyyAg.jpg",
-      "localImage": "assets/news/3b0822b3b6a9d1.jpg",
+      "image": "https://gfx.nrk.no/OukD8Xcv6iKn-cbnYM67lg0X7NLUFF3J4Oh5FUM6Vr6A.jpg",
+      "localImage": "assets/news/94b7b3d8de988e.webp",
       "score": 17
     },
     {
-      "id": "e95d9b702cad30",
+      "id": "f303c42c565974",
       "category": "Norge",
-      "published": "14.10. 21:31",
-      "publishedISO": "2026-10-14T21:31:50+02:00",
-      "title": "Ambulansesaken: Fem partier krever ny gransking av Finnmarkssykehuset",
-      "summary": "Fem partier stiller seg bak varslerne i Finnmarkssykehuset, som ikke fikk sine varsler behandlet på nytt av helseforetaket. Frp, Sp, Rødt, MDG og SV krever at helseministeren nå for alvor griper inn i varslerskandalen ved Finnmarkssykehuset. NRK har spurt Helse- og omsorgsdepartementet om de fortsatt har tillit til Finnmarkssykehuset og om de kommer til å iverksette en ny, uavhengig gransking.",
+      "published": "15.10. 09:07",
+      "publishedISO": "2026-10-15T09:07:07+02:00",
+      "title": "Sametinget tapte mot staten – igjen",
+      "summary": "I juli 2024 saksøkte Sametinget staten fordi de mener vedtaket er ugyldig grunnet saksbehandlingsfeil. Sametinget er uenig i tingrettens tolkning, og mener at staten ikke har utredet saken godt nok, og ikke har konsultert Sametinget tilstrekkelig. I juli 2024 saksøkte Sametinget staten i et forsøk på å stanse elektrifiseringen av Melkøya.",
       "keyPoints": [
-        "Fem partier stiller seg bak varslerne i Finnmarkssykehuset, som ikke fikk sine varsler behandlet på nytt av helseforetaket.",
-        "Frp, Sp, Rødt, MDG og SV krever at helseministeren nå for alvor griper inn i varslerskandalen ved Finnmarkssykehuset.",
-        "NRK har spurt Helse- og omsorgsdepartementet om de fortsatt har tillit til Finnmarkssykehuset og om de kommer til å iverksette en ny, uavhengig gransking.",
-        "Nå har Toppe bedt helse- og omsorgsministeren redegjøre for saken i spørretimen neste onsdag. «Har statsrådet tillit til Finnmarkssykehusets handtering av varslersakene, eller vil han ta initiativ til en uavhengig gransking, slik Senterpartiet har foreslått?» Stig Atle Abrahamsen (Frp) har også spurt Vestre om en ekstern gransking."
+        "I juli 2024 saksøkte Sametinget staten fordi de mener vedtaket er ugyldig grunnet saksbehandlingsfeil.",
+        "I juli 2024 saksøkte Sametinget staten i et forsøk på å stanse elektrifiseringen av Melkøya.",
+        "Sametinget er uenig i tingrettens tolkning, og mener at staten ikke har utredet saken godt nok, og ikke har konsultert Sametinget tilstrekkelig.",
+        "Sametinget tapte ankesaken på alle punkter og må betale statens saksomkostninger."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/ambulansesaken_-fem-partier-krever-ny-gransking-av-finnmarkssykehuset-1.18053169",
+      "url": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/7hoyNbqk5LNGaSIqyCMTrAtZjHxcZzergvddYkttfFjQ.jpg",
-      "localImage": "assets/news/e95d9b702cad30.jpg",
-      "score": 15
-    },
-    {
-      "id": "7e6c9e7d784466",
-      "category": "Økonomi",
-      "published": "14.10. 09:59",
-      "publishedISO": "2026-10-14T09:59:59+02:00",
-      "title": "IEA jekker ned utsiktene igjen",
-      "summary": "IEA spår lavere oljeforbruk i år og neste år og venter et stramt dieselmarked godt inn i 2027. Det internasjonale energibyrået (IEA)Organisasjon som gir medlemslandene råd rundt energispørsmål, organisert innenfor OECD (Organisasjonen for økonomisk samarbeid og utvikling). antar i en fersk rapport at det globale oljeforbruket vil falle med 2,6 millioner fat per dag i år. Den europeiske gassprisen (TTF) har onsdag vært oppe i årets høyeste nivå på 87 euro per megawattime. «Siden det forsatt tæres på de gjenværende bufferne i systemet, kan oljemarkedene oppleve mer uro i de kommende månedene i fravær av en løsning på konfliktene i Midtøsten, før et eventuelt overskudd oppstår i 2027», skriver IEA.",
-      "keyPoints": [
-        "Det internasjonale energibyrået (IEA)Organisasjon som gir medlemslandene råd rundt energispørsmål, organisert innenfor OECD (Organisasjonen for økonomisk samarbeid og utvikling). antar i en fersk rapport at det globale oljeforbruket vil falle med 2,6 millioner fat per dag i år.",
-        "Den europeiske gassprisen (TTF) har onsdag vært oppe i årets høyeste nivå på 87 euro per megawattime. «Siden det forsatt tæres på de gjenværende bufferne i systemet, kan oljemarkedene oppleve mer uro i de kommende månedene i fravær av en løsning på konfliktene i Midtøsten, før et eventuelt overskudd oppstår i 2027», skriver IEA.",
-        "IEA spår lavere oljeforbruk i år og neste år og venter et stramt dieselmarked godt inn i 2027.",
-        "Det globale tilbudet av olje er ventet på 100,7 millioner fat per dag i 2026, ifølge IEA."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/Elm4Aj/iea-jekker-ned-utsiktene-igjen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e4c6feb9-5ee9-358b-8a35-cd7a4c6fd8bf?fit=crop&h=675&upscale=true&w=1200&s=3653796b0c19afd3f0330084f3f7d95ba8d6972e",
-      "localImage": "assets/news/7e6c9e7d784466.jpg",
-      "score": 15
-    },
-    {
-      "id": "97878edcbbe0df",
-      "category": "Norge",
-      "published": "14.10. 16:16",
-      "publishedISO": "2026-10-14T16:16:51+02:00",
-      "title": "Underskuddet i Vestre Viken nærmer seg en milliard",
-      "summary": "Underskuddet i Vestre Viken helseforetak ventes å nærme seg én milliard kroner i år, langt over de budsjetterte 600 millionene. Det har ført til et underskudd på 600 millioner som Vestre Viken har dratt med seg inn i 2026. Men nå er underskuddet på over 900 millioner kroner og kan komme opp i en milliard innen styret skal møtes den 26. oktober.",
-      "keyPoints": [
-        "Underskuddet i Vestre Viken helseforetak ventes å nærme seg én milliard kroner i år, langt over de budsjetterte 600 millionene.",
-        "Men nå er underskuddet på over 900 millioner kroner og kan komme opp i en milliard innen styret skal møtes den 26. oktober.",
-        "Det har ført til et underskudd på 600 millioner som Vestre Viken har dratt med seg inn i 2026.",
-        "Lisbeth Sommervoll er helseforetakets administrerende direktør. – Vestre Viken får et vesentlig svakere økonomisk resultat i 2026 enn budsjettert."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/buskerud/underskuddet-i-vestre-viken-naermer-seg-en-milliard-1.18054437",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Ui4o8WExjrPyl8ll7go6Ogr5nsj0SumWAkO8H0lT27rQ.jpg",
-      "localImage": "assets/news/97878edcbbe0df.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/7QdjQ5IP8gsj7SoDh0kOgQ_vbkA0oDeWW4F_HHZMlnMg.jpg",
+      "localImage": "assets/news/f303c42c565974.jpg",
+      "score": 17
     }
   ]
 }
