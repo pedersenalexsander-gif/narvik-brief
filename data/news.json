@@ -1,6 +1,6 @@
 {
-  "updatedAt": "16.10.2026 kl. 20:25",
-  "updatedISO": "2026-10-16T20:25:27.544641+02:00",
+  "updatedAt": "16.10.2026 kl. 23:34",
+  "updatedISO": "2026-10-16T23:34:09.853531+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,24 +25,45 @@
       "score": 17
     },
     {
-      "id": "1847a339d3a313",
+      "id": "64d94f24ec84c5",
       "category": "Verden",
-      "published": "16.10. 17:45",
-      "publishedISO": "2026-10-16T17:45:10+02:00",
-      "title": "Vil Ukraina få den støtten som trengs når spenningen med USA øker?",
-      "summary": "President Zelensky har takket EU for støtten den har gitt Ukraina, og beskriver stats- og regjeringssjefer samlet i Brussel som «virkelige ledere». Se: Vil Ukraina få den støtten som trengs etter hvert som spenningen i USA øker? Video, 00:01:09Se: Vil Ukraina få den støtten som trengs når spenningen i USA øker?",
+      "published": "16.10. 21:33",
+      "publishedISO": "2026-10-16T21:33:48+02:00",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "summary": "USAs president Donald Trump har nektet for å begrense Ukrainas tilgang til Starlinks søsternettverk Starshield etter at det begrenset dronehastigheten, og hindret Kievs evne til å beskytte seg mot russiske angrep. «Det var ikke meg, og jeg tror ikke det var [Starlink-eieren] Elon [Musk],» sa Trump, timer etter at Ukrainas president Volodymyr Zelensky sa at hastigheten ennå ikke var gjenopprettet. Ukraina ble rammet av flere dødelige streiker tirsdag etter nettverksbremsen. Zelensky sier at Ukraina har rett til å forsvare seg selv etter at Trump kaller de siste streikene en «skam». Amerikanske senatorer krever etterforskning av Ukrainas Starlink-restriksjoner Inne i ukrainsk offensiv presser Russland tilbake – med Starlink som spiller en nøkkelrolle Hvorfor er Starlink internett så viktig på slagmarken i Ukraina?",
       "keyPoints": [
-        "Video, 00:01:09Se: Vil Ukraina få den støtten som trengs når spenningen i USA øker?",
-        "President Zelensky har takket EU for støtten den har gitt Ukraina, og beskriver stats- og regjeringssjefer samlet i Brussel som «virkelige ledere».",
-        "I mellomtiden har president Trump sagt at Ukrainas gjenopptakelse av streikene på russiske oljeraffinerier var en skam.",
-        "Video, 00:02:01An Australian band’s ‘unreal’ journey to break a gig world record Watch: Pupils heard 'cracking' sound moments before Pakistan school roof collapse."
+        "USAs president Donald Trump har nektet for å begrense Ukrainas tilgang til Starlinks søsternettverk Starshield etter at det begrenset dronehastigheten, og hindret Kievs evne til å beskytte seg mot russiske angrep. «Det var ikke meg, og jeg tror ikke det var [Starlink-eieren] Elon [Musk],» sa Trump, timer etter at Ukrainas president Volodymyr Zelensky sa at hastigheten ennå ikke var gjenopprettet.",
+        "Zelensky sier at Ukraina har rett til å forsvare seg selv etter at Trump kaller de siste streikene en «skam». Amerikanske senatorer krever etterforskning av Ukrainas Starlink-restriksjoner Inne i ukrainsk offensiv presser Russland tilbake – med Starlink som spiller en nøkkelrolle Hvorfor er Starlink internett så viktig på slagmarken i Ukraina?",
+        "Ukraina ble rammet av flere dødelige streiker tirsdag etter nettverksbremsen.",
+        "Starlink is a civilian-use high-speed internet network operated by Musk's SpaceX."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg",
-      "localImage": "assets/news/1847a339d3a313.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg",
+      "localImage": "assets/news/64d94f24ec84c5.jpg",
+      "score": 21
+    },
+    {
+      "id": "d5cb405b934012",
+      "category": "USA",
+      "published": "16.10. 20:41",
+      "publishedISO": "2026-10-16T20:41:54+02:00",
+      "title": "Hvor det amerikanske mellomvalget vil vinnes og tapes",
+      "summary": "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes. Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene. Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
+      "keyPoints": [
+        "Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
+        "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes.",
+        "Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene.",
+        "I begge tilfeller mistet den sittende presidenten kontrollen over huset i mellomperiodene, men beholdt grepet om senatet."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg",
+      "localImage": "assets/news/d5cb405b934012.jpg",
       "score": 17
     },
     {
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 22
+      "score": 21
     },
     {
       "id": "8e0adf6b0c970f",
@@ -106,14 +127,14 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
       "localImage": "assets/news/bf2b2231047796.png",
-      "score": 17
+      "score": 16
     },
     {
       "id": "0286f447c9ddf1",
       "category": "AI",
       "published": "16.10. 07:12",
       "publishedISO": "2026-10-16T07:12:48+02:00",
-      "title": "Snapchat, TikTok og Instagram grooming blir \"raskere og enklere\"",
+      "title": "Snapchat-, TikTok- og Instagram-grooming blir \"raskere og enklere\"",
       "summary": "Eksperter advarer barn helt ned til fem år gamle blir nå pleiet på sosiale medier og spillsider Eksperter oppfordrer foreldre til å snakke med barna sine midt i advarslene om pleie av sosiale medier blir «raskere» og «lettere» enn noen gang før. Childline sa at Snapchat, TikTok og Instagram var de beste plattformene barn nevnte i rådgivning om seksuelle overgrep på nettet i fjor. Nicolau sa at barn som bruker mer tid på nettet betydde at de ble stadig mer sårbare for stell, noe som er \"enklere\" og \"raskere\" enn noen gang før. \"Med nettspill og sosiale medier har du barn fra fem år på nettet, noen av dem har sine egne telefoner, så det kan være i alle aldre,\" sa hun.",
       "keyPoints": [
         "Eksperter advarer barn helt ned til fem år gamle blir nå pleiet på sosiale medier og spillsider Eksperter oppfordrer foreldre til å snakke med barna sine midt i advarslene om pleie av sosiale medier blir «raskere» og «lettere» enn noen gang før.",
@@ -127,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg",
       "localImage": "assets/news/0286f447c9ddf1.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "71aed065654812",
@@ -151,6 +172,27 @@
       "score": 18
     },
     {
+      "id": "1847a339d3a313",
+      "category": "Verden",
+      "published": "16.10. 17:45",
+      "publishedISO": "2026-10-16T17:45:10+02:00",
+      "title": "Vil Ukraina få den støtten som trengs etter hvert som spenningen i USA øker?",
+      "summary": "President Zelensky har takket EU for støtten den har gitt Ukraina, og beskriver stats- og regjeringssjefer samlet i Brussel som «virkelige ledere». Se: Vil Ukraina få den støtten som trengs etter hvert som spenningen i USA øker? Video, 00:01:09Se: Vil Ukraina få den støtten som trengs når spenningen i USA øker?",
+      "keyPoints": [
+        "Video, 00:01:09Se: Vil Ukraina få den støtten som trengs når spenningen i USA øker?",
+        "President Zelensky har takket EU for støtten den har gitt Ukraina, og beskriver stats- og regjeringssjefer samlet i Brussel som «virkelige ledere».",
+        "I mellomtiden har president Trump sagt at Ukrainas gjenopptakelse av streikene på russiske oljeraffinerier var en skam.",
+        "Video, 00:02:01An Australian band’s ‘unreal’ journey to break a gig world record Watch: Pupils heard 'cracking' sound moments before Pakistan school roof collapse."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg",
+      "localImage": "assets/news/1847a339d3a313.jpg",
+      "score": 16
+    },
+    {
       "id": "01dc429bdfb67e",
       "category": "Økonomi",
       "published": "16.10. 17:02",
@@ -169,49 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d3d40cc8-b2b0-3113-8ec6-08aff5782f21?fit=crop&h=675&upscale=true&w=1200&s=e11aca4c87131def0600ea286db311a8c8ad811f",
       "localImage": "assets/news/01dc429bdfb67e.jpg",
-      "score": 17
-    },
-    {
-      "id": "530a2ae88f5e3d",
-      "category": "Norge",
-      "published": "16.10. 12:53",
-      "publishedISO": "2026-10-16T12:53:02+02:00",
-      "title": "Donald Trump-utspel om Sophie Cunningham vekker avsky: – Ho er vakker",
-      "summary": "Donald Trump sine merknader om Sophie Cunningham har skapt sterke reaksjonar i USA. I SØKELYSET: Sjølv Donald Trump har hatt sitt å seie om Sophie Cunningham. KONTROVERSIELT UTSPEL: Donald Trump meinte at Sophie Cunningham hjelpte laget – ikkje med poeng, men med fleire tilskodarar.",
-      "keyPoints": [
-        "Donald Trump sine merknader om Sophie Cunningham har skapt sterke reaksjonar i USA.",
-        "I SØKELYSET: Sjølv Donald Trump har hatt sitt å seie om Sophie Cunningham.",
-        "KONTROVERSIELT UTSPEL: Donald Trump meinte at Sophie Cunningham hjelpte laget – ikkje med poeng, men med fleire tilskodarar.",
-        "I intervjuet blir omtalt ho som «Maga-Barbie». – Det finst ikkje eit botnpunkt for denne fyren, skriv forfattar og aktivist Amy Siskind på X. – Trump seier at Sophie Cunningham er elendig i basket, men at han liker henne fordi ho er fin, skriv den politiske kommentatoren Ron Filipkowski."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/donald-trump-utspel-om-sophie-cunningham-vekker-avsky_-_-ho-er-vakker-1.18055635",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/EX4bLcQ28ECVIZ5thAnS1wkEv8HuS16-qvP0STOyvYfQ.jpg",
-      "localImage": "assets/news/530a2ae88f5e3d.jpg",
       "score": 16
-    },
-    {
-      "id": "b34e3962a86966",
-      "category": "Økonomi",
-      "published": "15.10. 16:27",
-      "publishedISO": "2026-10-15T16:27:23+02:00",
-      "title": "Oslo Børs tynget av tekuro og oljeprisfall",
-      "summary": "Hovedindeksen på Oslo Børs avsluttet torsdagen med et fall på 0,6 prosent. Resultatsesongen er så vidt i gang på Oslo Børs, og i morges kom Entra og Nel med kvartalstall. Hydrogenselskapet Nels inntekter falt kraftig til 112 millioner kroner i tredje kvartal.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs avsluttet torsdagen med et fall på 0,6 prosent.",
-        "Resultatsesongen er så vidt i gang på Oslo Børs, og i morges kom Entra og Nel med kvartalstall.",
-        "Hydrogenselskapet Nels inntekter falt kraftig til 112 millioner kroner i tredje kvartal.",
-        "Aker-aksjen falt 2,3 prosent, etter å ha snudd nedover i går."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2VJ1vy/nedgang-paa-oslo-boers-bw-energy-faller",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/eba88a5a-d84e-3c64-bdaa-01036815c38f?fit=crop&h=675&upscale=true&w=1200&s=b4a94eee3ef782904e104917ed5c854f3bfe83c0",
-      "localImage": "assets/news/b34e3962a86966.jpg",
-      "score": 15
     }
   ]
 }
