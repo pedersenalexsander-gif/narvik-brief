@@ -1,27 +1,48 @@
 {
-  "updatedAt": "16.10.2026 kl. 11:51",
-  "updatedISO": "2026-10-16T11:51:50.601521+02:00",
+  "updatedAt": "16.10.2026 kl. 16:36",
+  "updatedISO": "2026-10-16T16:36:42.154916+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "547b54af854e79",
-      "category": "Norge",
-      "published": "14.10. 21:00",
-      "publishedISO": "2026-10-14T21:00:15+02:00",
-      "title": "Donald Trumps nye Grønland-utspill overrasker ikke grønlenderne",
-      "summary": "I et innlegg på sin egen plattform Truth Social onsdag, skriver den amerikanske presidenten Donald Trump at «USA er klare til å utforske store olje-, gass- og mineralforekomster i vårt nye og vakre Grønland». Den grønlandske forretningsmannen David Røgilds i Nuuk lar seg ikke stresse av Trumps nye utspill. – Det er ingen overraskelse. Forretningsmannen David Røgilds lar seg ikke lenger stresse av president Donald Trumps utspill om Grønland. – Jeg tror han prøver å distrahere sitt hjemmepublikum fra alle de problemene de har nå foran mellomvalget.",
+      "id": "f29b337293ac78",
+      "category": "Nord-Norge",
+      "published": "16.10. 12:31",
+      "publishedISO": "2026-10-16T12:31:56+02:00",
+      "title": "Varsler tidligere nattestenging av Nappstraumtunnelen",
+      "summary": "Fra midten av november må du beregne god tid: Tunnelen stenger inntil to timer tidligere enn i dag. Fra og med mandag 16. november til og med 6. desember utvides den nattlige stengetiden i Nappstraumtunnelen. Siste gjennomslipp blir klokken 21.00 fra Flesa og 21.30 fra Napp – noe som er inntil to timer tidligere enn dagens rutiner. – Vi beklager ulempene dette gir.",
       "keyPoints": [
-        "I et innlegg på sin egen plattform Truth Social onsdag, skriver den amerikanske presidenten Donald Trump at «USA er klare til å utforske store olje-, gass- og mineralforekomster i vårt nye og vakre Grønland».",
-        "Forretningsmannen David Røgilds lar seg ikke lenger stresse av president Donald Trumps utspill om Grønland. – Jeg tror han prøver å distrahere sitt hjemmepublikum fra alle de problemene de har nå foran mellomvalget.",
-        "Den grønlandske forretningsmannen David Røgilds i Nuuk lar seg ikke stresse av Trumps nye utspill. – Det er ingen overraskelse.",
-        "Kort tid etter at USA inngikk en ny sikkerhetsavtale med Danmark og Grønland, skriver Donald Trump at massiv leting etter olje og mineraler er i gang."
+        "Siste gjennomslipp blir klokken 21.00 fra Flesa og 21.30 fra Napp – noe som er inntil to timer tidligere enn dagens rutiner. – Vi beklager ulempene dette gir.",
+        "Fra og med mandag 16. november til og med 6. desember utvides den nattlige stengetiden i Nappstraumtunnelen.",
+        "Fra midten av november må du beregne god tid: Tunnelen stenger inntil to timer tidligere enn i dag.",
+        "Også det nattlige gjennomslippet flyttes: Fra 16. november vil nattens gjennomslipp skje klokken 00.30 (ca."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/varsler-tidligere-nattestenging-av-nappstraumtunnelen-1.18056526",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Xc25qoaGBUX9_kMbO9O3bgZfZXU8PG47xTSpR1XEpsNQ.jpg",
+      "localImage": "assets/news/f29b337293ac78.jpg",
+      "score": 13
+    },
+    {
+      "id": "530a2ae88f5e3d",
+      "category": "Norge",
+      "published": "16.10. 12:53",
+      "publishedISO": "2026-10-16T12:53:02+02:00",
+      "title": "Donald Trump-utspel om Sophie Cunningham vekker avsky: – Ho er vakker",
+      "summary": "Donald Trump sine merknader om Sophie Cunningham har skapt sterke reaksjonar i USA. I SØKELYSET: Sjølv Donald Trump har hatt sitt å seie om Sophie Cunningham. KONTROVERSIELT UTSPEL: Donald Trump meinte at Sophie Cunningham hjelpte laget – ikkje med poeng, men med fleire tilskodarar.",
+      "keyPoints": [
+        "Donald Trump sine merknader om Sophie Cunningham har skapt sterke reaksjonar i USA.",
+        "I SØKELYSET: Sjølv Donald Trump har hatt sitt å seie om Sophie Cunningham.",
+        "KONTROVERSIELT UTSPEL: Donald Trump meinte at Sophie Cunningham hjelpte laget – ikkje med poeng, men med fleire tilskodarar.",
+        "I intervjuet blir omtalt ho som «Maga-Barbie». – Det finst ikkje eit botnpunkt for denne fyren, skriv forfattar og aktivist Amy Siskind på X. – Trump seier at Sophie Cunningham er elendig i basket, men at han liker henne fordi ho er fin, skriv den politiske kommentatoren Ron Filipkowski."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sapmi/donald-trumps-nye-gronland-utspill-overrasker-ikke-gronlenderne-1.18054456",
+      "url": "https://www.nrk.no/sport/donald-trump-utspel-om-sophie-cunningham-vekker-avsky_-_-ho-er-vakker-1.18055635",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/tvRsterd_0bAVDItKN4sXQbqGq3ObadzbwIFCZd4ZKRw.jpg",
-      "localImage": "assets/news/547b54af854e79.webp",
+      "image": "https://gfx.nrk.no/EX4bLcQ28ECVIZ5thAnS1wkEv8HuS16-qvP0STOyvYfQ.jpg",
+      "localImage": "assets/news/530a2ae88f5e3d.jpg",
       "score": 17
     },
     {
@@ -43,7 +64,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9974/live/7783af20-c8c4-11f1-95b2-9f12d414946d.jpg",
       "localImage": "assets/news/3e2a0ab33b9a41.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "ce55dc547044b4",
+      "category": "USA",
+      "published": "16.10. 13:41",
+      "publishedISO": "2026-10-16T13:41:58+02:00",
+      "title": "Children and teacher killed in Oregon primary school shooting",
+      "summary": "«Det er virkelig vanskelig å tro» – Hvordan skytingen på grunnskolen i Oregon utviklet seg En 16-åring har skutt og drept tre barn og en lærer ved en barneskole i den amerikanske delstaten Oregon før han ble drept av en tilskuer, sa politiet. Den mistenkte, som ikke er navngitt, tvang seg inn på Silver Rail Elementary School i byen Bend torsdag ettermiddag ved å skyte mot låste dører, bekreftet Bend-politisjef Mike Krantz. Lærer Kathy Sheil Smith beskrev til CNN-tilknyttede KPTV hvordan hun prøvde å holde barna rolige etter å ha sett våpenmannen nærme seg skolen. \"Ansiktene deres var virkelig vanskelig å se,\" sa hun. \"Noen barn ba, noen barn trøstet andre barn.",
+      "keyPoints": [
+        "«Det er virkelig vanskelig å tro» – Hvordan skytingen på grunnskolen i Oregon utviklet seg En 16-åring har skutt og drept tre barn og en lærer ved en barneskole i den amerikanske delstaten Oregon før han ble drept av en tilskuer, sa politiet.",
+        "Lærer Kathy Sheil Smith beskrev til CNN-tilknyttede KPTV hvordan hun prøvde å holde barna rolige etter å ha sett våpenmannen nærme seg skolen. \"Ansiktene deres var virkelig vanskelig å se,\" sa hun. \"Noen barn ba, noen barn trøstet andre barn.",
+        "Den mistenkte, som ikke er navngitt, tvang seg inn på Silver Rail Elementary School i byen Bend torsdag ettermiddag ved å skyte mot låste dører, bekreftet Bend-politisjef Mike Krantz.",
+        "De tre drepte barna var fem, åtte og 11 år gamle."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dc0/live/70180250-c959-11f1-8879-9d9deeb686e1.jpg",
+      "localImage": "assets/news/ce55dc547044b4.jpg",
+      "score": 13
     },
     {
       "id": "187f91a76ce787",
@@ -64,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 24
+      "score": 23
     },
     {
       "id": "8e0adf6b0c970f",
@@ -85,14 +127,14 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/53924518-a830-3dc7-9a3e-52247cf9f6b1?fit=crop&h=675&upscale=true&w=1200&s=7f11544b6a1e121eda17866dfb2155c59eb7c865",
       "localImage": "assets/news/8e0adf6b0c970f.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "0286f447c9ddf1",
       "category": "AI",
       "published": "16.10. 07:12",
       "publishedISO": "2026-10-16T07:12:48+02:00",
-      "title": "Snapchat-, TikTok- og Instagram-grooming blir \"raskere og enklere\"",
+      "title": "Snapchat, TikTok og Instagram grooming blir \"raskere og enklere\"",
       "summary": "Eksperter advarer barn helt ned til fem år gamle blir nå pleiet på sosiale medier og spillsider Eksperter oppfordrer foreldre til å snakke med barna sine midt i advarslene om pleie av sosiale medier blir «raskere» og «lettere» enn noen gang før. Childline sa at Snapchat, TikTok og Instagram var de beste plattformene barn nevnte i rådgivning om seksuelle overgrep på nettet i fjor. Nicolau sa at barn som bruker mer tid på nettet betydde at de ble stadig mer sårbare for stell, noe som er \"enklere\" og \"raskere\" enn noen gang før. \"Med nettspill og sosiale medier har du barn fra fem år på nettet, noen av dem har sine egne telefoner, så det kan være i alle aldre,\" sa hun.",
       "keyPoints": [
         "Eksperter advarer barn helt ned til fem år gamle blir nå pleiet på sosiale medier og spillsider Eksperter oppfordrer foreldre til å snakke med barna sine midt i advarslene om pleie av sosiale medier blir «raskere» og «lettere» enn noen gang før.",
@@ -106,28 +148,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg",
       "localImage": "assets/news/0286f447c9ddf1.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "101e8f4c0f61c7",
+      "id": "90d6b062e7aabd",
       "category": "Økonomi",
       "published": "16.10. 09:01",
       "publishedISO": "2026-10-16T09:01:44+02:00",
-      "title": "Bruton faller på Oslo Børs etter melding om sammenslåing",
-      "summary": "Hovedindeksen på Oslo Børs er opp 0, prosent kort tid etter åpning fredag. Investor Tor Olav Trøims tanksatsing Bruton skal slå seg sammen med rederiet International Seaways. Etter sammenslåing vil Bruton bli et datterselskap i International Seaways, og skal avnoteres fra Euronext Growth i Oslo.",
+      "title": "Kongsberg-hopp etter bred oppgang i forsvarssektoren",
+      "summary": "Konsberg Gruppen steg 4,3 prosent på Oslo Børs fredag. – Hele forsvarssektoren er opp på grunn av relasjonen mellom USA og Ukraina, sier analytiker Fabian Jørgensen i Pareto til E24. Nordea Markets-analytiker Martine Kverne ser også en bred oppgang i forsvarsaksjer. – Høyere renter har skapt bekymring rundt forsvarsbudsjettene og tynget litt på sektoren, men vi ser litt positive nyheter rundt det i dag. Paretos kursmål må aksjen er 554 kroner, mens SB1 Markets’ og Artic Securities’ mål er på 400 kroner, ifølge Bloomberg.",
       "keyPoints": [
-        "Etter sammenslåing vil Bruton bli et datterselskap i International Seaways, og skal avnoteres fra Euronext Growth i Oslo.",
-        "Hovedindeksen på Oslo Børs er opp 0, prosent kort tid etter åpning fredag.",
-        "Investor Tor Olav Trøims tanksatsing Bruton skal slå seg sammen med rederiet International Seaways.",
-        "Det har også kommet nyheter fra enkelte andre Oslo Børs-selskaper:"
+        "Nordea Markets-analytiker Martine Kverne ser også en bred oppgang i forsvarsaksjer. – Høyere renter har skapt bekymring rundt forsvarsbudsjettene og tynget litt på sektoren, men vi ser litt positive nyheter rundt det i dag.",
+        "Konsberg Gruppen steg 4,3 prosent på Oslo Børs fredag. – Hele forsvarssektoren er opp på grunn av relasjonen mellom USA og Ukraina, sier analytiker Fabian Jørgensen i Pareto til E24.",
+        "Paretos kursmål må aksjen er 554 kroner, mens SB1 Markets’ og Artic Securities’ mål er på 400 kroner, ifølge Bloomberg.",
+        "Fredag økte Nordea sitt kursmål på aksjen fra 387 til 400 kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/b8oQB3/bruton-faller-6-prosent-paa-oslo-boers-etter-melding-om-sammenslaaing",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7cd6dec8-1cef-3d84-8d44-2030d83b27e6?fit=crop&h=675&upscale=true&w=1200&s=482bd707917d8977e925c70b762401ab82ed25f1",
-      "localImage": "assets/news/101e8f4c0f61c7.jpg",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/1cccb83b-334d-371c-a113-b7f5f6948a5f?fit=crop&h=675&upscale=true&w=1200&s=a451d6c047a9e73f8a73b00ed0f0ed0117189080",
+      "localImage": "assets/news/90d6b062e7aabd.jpg",
+      "score": 19
     },
     {
       "id": "b34e3962a86966",
@@ -148,70 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eba88a5a-d84e-3c64-bdaa-01036815c38f?fit=crop&h=675&upscale=true&w=1200&s=b4a94eee3ef782904e104917ed5c854f3bfe83c0",
       "localImage": "assets/news/b34e3962a86966.jpg",
-      "score": 17
-    },
-    {
-      "id": "a98b065652d8fb",
-      "category": "Økonomi",
-      "published": "16.10. 05:00",
-      "publishedISO": "2026-10-16T05:00:00+02:00",
-      "title": "Bankene skylder på konkurranse: – Helt «Komiske Ali»",
-      "summary": "Konkurransen kunne heller ført til at bankene setter opp renten på innskudd mer, ikke mindre, mener han. – Det er jo motsatt, så det er helt «Komiske Ali» – rådgiveren til Saddam Hussein som sa alt mulig sprøtt i Irak da jeg var ung. Det er utrolig bullshit folk får til å si om dagen, sier Natvik. «Komiske Ali», eller Mohammed Said al-Sahhaf, var informasjonsminister under Irak-krigen i 2003. Da E24 tidligere i uken spurte bankene om hva årsaken til dette var, trakk alle frem konkurransen mellom bankene, uten å gå nærmere inn på hva dette innebærer. – Nordea skal være konkurransedyktige både på innskudd og utlån, svarte kommunikasjonsrådgiver Frida Daae Hessen. – Konkurransen mellom bankene på utlån og innskudd er sterkere, svarte kommunikasjonssjef Craig Russell Lundervik Bøthun i Sparebank 1 Sør-Norge.",
-      "keyPoints": [
-        "Konkurransen kunne heller ført til at bankene setter opp renten på innskudd mer, ikke mindre, mener han. – Det er jo motsatt, så det er helt «Komiske Ali» – rådgiveren til Saddam Hussein som sa alt mulig sprøtt i Irak da jeg var ung.",
-        "Det er utrolig bullshit folk får til å si om dagen, sier Natvik. «Komiske Ali», eller Mohammed Said al-Sahhaf, var informasjonsminister under Irak-krigen i 2003.",
-        "Da E24 tidligere i uken spurte bankene om hva årsaken til dette var, trakk alle frem konkurransen mellom bankene, uten å gå nærmere inn på hva dette innebærer. – Nordea skal være konkurransedyktige både på innskudd og utlån, svarte kommunikasjonsrådgiver Frida Daae Hessen. – Konkurransen mellom bankene på utlån og innskudd er sterkere, svarte kommunikasjonssjef Craig Russell Lundervik Bøthun i Sparebank 1 Sør-Norge.",
-        "Hans daglige pressekonferanser, der han fortalte at Irak var knusende overlegen og amerikanerne var i ferd med å tape krigen, ga ham tilnavnet Komiske Ali eller Bagdad Bob."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/R5E5RJ/bankene-skylder-paa-konkurranse-helt-komiske-ali",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0c3ddef9-6793-339c-bb6a-8de0488a341a?fit=crop&h=675&upscale=true&w=1200&s=83179974d453276b2d4ed7d927b69f56be46719d",
-      "localImage": "assets/news/a98b065652d8fb.jpg",
       "score": 16
     },
     {
-      "id": "df61ee04b55b9c",
-      "category": "Økonomi",
-      "published": "15.10. 08:33",
-      "publishedISO": "2026-10-15T08:33:31+02:00",
-      "title": "Norges handelsoverskudd stiger til 105 milliarder",
-      "summary": "Norges import var på 102,7 milliarder kroner i september, mens eksporten var omtrent dobbelt så høy - på 207,7 milliarder kroner, viser tall fra SSB torsdag. Handelsoverskuddet er det høyeste siden januar 2023, da det var på 106,2 milliarder kroner, viser SSBs tall. – Handelsoverskuddet er vanvittig høyt, hele 105 milliarder kroner. Eksporten av gass ga inntekter på 79,4 milliarder kroner, over en dobling fra september i fjor.",
+      "id": "547b54af854e79",
+      "category": "Norge",
+      "published": "14.10. 21:00",
+      "publishedISO": "2026-10-14T21:00:15+02:00",
+      "title": "Donald Trumps nye Grønland-utspill overrasker ikke grønlenderne",
+      "summary": "I et innlegg på sin egen plattform Truth Social onsdag, skriver den amerikanske presidenten Donald Trump at «USA er klare til å utforske store olje-, gass- og mineralforekomster i vårt nye og vakre Grønland». Den grønlandske forretningsmannen David Røgilds i Nuuk lar seg ikke stresse av Trumps nye utspill. – Det er ingen overraskelse. Forretningsmannen David Røgilds lar seg ikke lenger stresse av president Donald Trumps utspill om Grønland. – Jeg tror han prøver å distrahere sitt hjemmepublikum fra alle de problemene de har nå foran mellomvalget.",
       "keyPoints": [
-        "Norges import var på 102,7 milliarder kroner i september, mens eksporten var omtrent dobbelt så høy - på 207,7 milliarder kroner, viser tall fra SSB torsdag.",
-        "Handelsoverskuddet er det høyeste siden januar 2023, da det var på 106,2 milliarder kroner, viser SSBs tall. – Handelsoverskuddet er vanvittig høyt, hele 105 milliarder kroner.",
-        "Eksporten av gass ga inntekter på 79,4 milliarder kroner, over en dobling fra september i fjor.",
-        "Handelsoverskuddet endte dermed på 105,0 milliarder kroner."
+        "I et innlegg på sin egen plattform Truth Social onsdag, skriver den amerikanske presidenten Donald Trump at «USA er klare til å utforske store olje-, gass- og mineralforekomster i vårt nye og vakre Grønland».",
+        "Forretningsmannen David Røgilds lar seg ikke lenger stresse av president Donald Trumps utspill om Grønland. – Jeg tror han prøver å distrahere sitt hjemmepublikum fra alle de problemene de har nå foran mellomvalget.",
+        "Den grønlandske forretningsmannen David Røgilds i Nuuk lar seg ikke stresse av Trumps nye utspill. – Det er ingen overraskelse.",
+        "Kort tid etter at USA inngikk en ny sikkerhetsavtale med Danmark og Grønland, skriver Donald Trump at massiv leting etter olje og mineraler er i gang."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/4O0qX9/norges-handelsoverskudd-stiger-til-105-milliarder-hoeyeste-siden-2023",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d63d2f82-5f0c-3f83-b302-bcbabdc4a21c?fit=crop&h=675&upscale=true&w=1200&s=f574f5e248259358357b83d8b02a0aa66a97f543",
-      "localImage": "assets/news/df61ee04b55b9c.jpg",
-      "score": 15
-    },
-    {
-      "id": "d0d76bb5d370c7",
-      "category": "Økonomi",
-      "published": "15.10. 06:08",
-      "publishedISO": "2026-10-15T06:08:50+02:00",
-      "title": "Satser på storgevinst fra pendlerbolig-salg",
-      "summary": "Stortinget håper på å gjøre ei kule i boligmarkedet, og tror på en gevinst på opptil 94,5 millioner kroner. Disse brukes av stortingsrepresentanter som er skattemessig bosatt minst 40 kilometer fra Stortinget. Totalt vil det da si at de brukte et sted mellom 5,5 millioner og 22 millioner kroner på de 11 boligene.",
-      "keyPoints": [
-        "Stortinget håper på å gjøre ei kule i boligmarkedet, og tror på en gevinst på opptil 94,5 millioner kroner.",
-        "Totalt vil det da si at de brukte et sted mellom 5,5 millioner og 22 millioner kroner på de 11 boligene.",
-        "Disse brukes av stortingsrepresentanter som er skattemessig bosatt minst 40 kilometer fra Stortinget.",
-        "Neste år skal 11 av stortingets pendlerboliger etter planen legges ut på markedet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/qy3vxo/satser-paa-storgevinst-fra-pendlerbolig-salg",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1ca4b324-2439-3645-8f74-b8ac79890d4e?fit=crop&h=675&upscale=true&w=1200&s=2dbc5c1be8077bc9b8552f2e020ce952bdfd6813",
-      "localImage": "assets/news/d0d76bb5d370c7.jpg",
-      "score": 15
+      "url": "https://www.nrk.no/sapmi/donald-trumps-nye-gronland-utspill-overrasker-ikke-gronlenderne-1.18054456",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/tvRsterd_0bAVDItKN4sXQbqGq3ObadzbwIFCZd4ZKRw.jpg",
+      "localImage": "assets/news/547b54af854e79.webp",
+      "score": 16
     }
   ]
 }
