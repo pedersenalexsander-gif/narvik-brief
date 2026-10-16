@@ -1,6 +1,6 @@
 {
-  "updatedAt": "16.10.2026 kl. 02:37",
-  "updatedISO": "2026-10-16T02:37:22.479115+02:00",
+  "updatedAt": "16.10.2026 kl. 07:04",
+  "updatedISO": "2026-10-16T07:04:53.970703+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/tvRsterd_0bAVDItKN4sXQbqGq3ObadzbwIFCZd4ZKRw.jpg",
       "localImage": "assets/news/547b54af854e79.webp",
-      "score": 19
+      "score": 18
     },
     {
       "id": "b34e3962a86966",
@@ -46,6 +46,27 @@
       "score": 18
     },
     {
+      "id": "a98b065652d8fb",
+      "category": "Økonomi",
+      "published": "16.10. 05:00",
+      "publishedISO": "2026-10-16T05:00:00+02:00",
+      "title": "Bankene skylder på konkurranse: – Helt «Komiske Ali»",
+      "summary": "Konkurransen kunne heller ført til at bankene setter opp renten på innskudd mer, ikke mindre, mener han. – Det er jo motsatt, så det er helt «Komiske Ali» – rådgiveren til Saddam Hussein som sa alt mulig sprøtt i Irak da jeg var ung. Det er utrolig bullshit folk får til å si om dagen, sier Natvik. «Komiske Ali», eller Mohammed Said al-Sahhaf, var informasjonsminister under Irak-krigen i 2003. Da E24 tidligere i uken spurte bankene om hva årsaken til dette var, trakk alle frem konkurransen mellom bankene, uten å gå nærmere inn på hva dette innebærer. – Nordea skal være konkurransedyktige både på innskudd og utlån, svarte kommunikasjonsrådgiver Frida Daae Hessen. – Konkurransen mellom bankene på utlån og innskudd er sterkere, svarte kommunikasjonssjef Craig Russell Lundervik Bøthun i Sparebank 1 Sør-Norge.",
+      "keyPoints": [
+        "Konkurransen kunne heller ført til at bankene setter opp renten på innskudd mer, ikke mindre, mener han. – Det er jo motsatt, så det er helt «Komiske Ali» – rådgiveren til Saddam Hussein som sa alt mulig sprøtt i Irak da jeg var ung.",
+        "Det er utrolig bullshit folk får til å si om dagen, sier Natvik. «Komiske Ali», eller Mohammed Said al-Sahhaf, var informasjonsminister under Irak-krigen i 2003.",
+        "Da E24 tidligere i uken spurte bankene om hva årsaken til dette var, trakk alle frem konkurransen mellom bankene, uten å gå nærmere inn på hva dette innebærer. – Nordea skal være konkurransedyktige både på innskudd og utlån, svarte kommunikasjonsrådgiver Frida Daae Hessen. – Konkurransen mellom bankene på utlån og innskudd er sterkere, svarte kommunikasjonssjef Craig Russell Lundervik Bøthun i Sparebank 1 Sør-Norge.",
+        "Hans daglige pressekonferanser, der han fortalte at Irak var knusende overlegen og amerikanerne var i ferd med å tape krigen, ga ham tilnavnet Komiske Ali eller Bagdad Bob."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/R5E5RJ/bankene-skylder-paa-konkurranse-helt-komiske-ali",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/0c3ddef9-6793-339c-bb6a-8de0488a341a?fit=crop&h=675&upscale=true&w=1200&s=83179974d453276b2d4ed7d927b69f56be46719d",
+      "localImage": "assets/news/a98b065652d8fb.jpg",
+      "score": 17
+    },
+    {
       "id": "df61ee04b55b9c",
       "category": "Økonomi",
       "published": "15.10. 08:33",
@@ -64,48 +85,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d63d2f82-5f0c-3f83-b302-bcbabdc4a21c?fit=crop&h=675&upscale=true&w=1200&s=f574f5e248259358357b83d8b02a0aa66a97f543",
       "localImage": "assets/news/df61ee04b55b9c.jpg",
-      "score": 17
-    },
-    {
-      "id": "4bd053a2175e59",
-      "category": "Økonomi",
-      "published": "15.10. 19:47",
-      "publishedISO": "2026-10-15T19:47:46+02:00",
-      "title": "Dårligere sparerente: Du får mindre igjen - bankene tjener mer",
-      "summary": "Den enkle grunnen er at bankene setter opp innskuddsrenten langt mindre enn boliglånsrenten, som E24 skrev om mandag. Regnestykket er basert på SSBs rentestatistikk. – Det er stor forskjell på hvordan bankene har endret innskuddsrentene i 2026 sammenlignet med forrige gang renten ble hevet i slutten av 2023, sa markedssjef i Renteradar Sindre Noss til E24 onsdag. Samtidig som det blir dyrere å låne penger av banken, og man får mindre igjen for å ha pengene sine på sparekonto, håver bankene inn.",
-      "keyPoints": [
-        "Samtidig som det blir dyrere å låne penger av banken, og man får mindre igjen for å ha pengene sine på sparekonto, håver bankene inn.",
-        "Den enkle grunnen er at bankene setter opp innskuddsrenten langt mindre enn boliglånsrenten, som E24 skrev om mandag.",
-        "Regnestykket er basert på SSBs rentestatistikk. – Det er stor forskjell på hvordan bankene har endret innskuddsrentene i 2026 sammenlignet med forrige gang renten ble hevet i slutten av 2023, sa markedssjef i Renteradar Sindre Noss til E24 onsdag.",
-        "I Norges største banker er renten på sparepengene dine dårligere nå enn den var forrige gang styringsrenten var på dagens nivå."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/lKeX0M/daarligere-sparerente-du-faar-mindre-igjen-bankene-tjener-mer",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b809e85b-4b6e-37e9-8d70-5c246fff6e80?fit=crop&h=675&upscale=true&w=1200&s=9ab02bf0d15ec738482e9c5e02c747aa8eb287da",
-      "localImage": "assets/news/4bd053a2175e59.jpg",
-      "score": 16
-    },
-    {
-      "id": "e7a61feff7ccdd",
-      "category": "Norge",
-      "published": "15.10. 17:28",
-      "publishedISO": "2026-10-15T17:28:24+02:00",
-      "title": "KrF-Askjer angrer etter TV 2-dokumentar: – Har gjort ganske vondt å lære den leksa",
-      "summary": "ANGRER: Politiker Hans Edvard Aksjer fra KrF angrer på at han lot seg intervjue i dokumentaren, og sier han burde visst bedre. Selv legger Askjer seg flat, og innrømmer at han burde stilt langt mer forberedt før han satte seg i sofaen foran kameraet. – I etterkant ser jeg jo at jeg burde gjort bedre research. At han ikke undersøkte bakgrunnen til prosjektet nøyere, er noe han angrer sterkt på i dag. – Jeg kunne sikkert og burde sikkert gjort bedre research på forhånd.",
-      "keyPoints": [
-        "At han ikke undersøkte bakgrunnen til prosjektet nøyere, er noe han angrer sterkt på i dag. – Jeg kunne sikkert og burde sikkert gjort bedre research på forhånd.",
-        "ANGRER: Politiker Hans Edvard Aksjer fra KrF angrer på at han lot seg intervjue i dokumentaren, og sier han burde visst bedre.",
-        "Selv legger Askjer seg flat, og innrømmer at han burde stilt langt mer forberedt før han satte seg i sofaen foran kameraet. – I etterkant ser jeg jo at jeg burde gjort bedre research.",
-        "Askjer erkjenner at opplevelsen har vært en vekker, og at han heretter vil være langt mer kritisk til hvem han lar seg intervjue av. – Jeg har lært at Hans Edvard må tenke seg om noen flere ganger før han stiller opp foran et kamera, sier han."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/krf-askjer-angrer-etter-tv-2-dokumentar_-_-har-gjort-ganske-vondt-a-laere-den-leksa-1.18055904",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/LEaDQVx2kqMZzq-FGDA2rw2yC04_5Hu-kpGTYIg9PLOQ.jpg",
-      "localImage": "assets/news/e7a61feff7ccdd.jpg",
       "score": 16
     },
     {
@@ -130,45 +109,45 @@
       "score": 16
     },
     {
-      "id": "bddbb2634eaa51",
+      "id": "4bd053a2175e59",
       "category": "Økonomi",
-      "published": "14.10. 19:37",
-      "publishedISO": "2026-10-14T19:37:38+02:00",
-      "title": "Bankenes rentegrep: Kan tjene ekstra milliarder",
-      "summary": "Det høres kanskje ikke så mye ut, men med rundt 2.000 milliarder i innskudd fra husholdninger i norske banker gir dette 1,6 milliarder i økt årlig overskudd til norske banker, sier Noss. Hvis det høye rentenivået fortsetter, er det noe bankene kommer til å tjene titalls milliarder på. Bankenes interesseorganisasjon Finans Norge peker på at alle rentevilkår, både på lån og innskudd, kommer som en følge av konkurransen i markedet. – Det vi ser nå er at konkurransen om lånekundene er beinhard.",
+      "published": "15.10. 19:47",
+      "publishedISO": "2026-10-15T19:47:46+02:00",
+      "title": "Dårligere sparerente: Du får mindre igjen - bankene tjener mer",
+      "summary": "Den enkle grunnen er at bankene setter opp innskuddsrenten langt mindre enn boliglånsrenten, som E24 skrev om mandag. Regnestykket er basert på SSBs rentestatistikk. – Det er stor forskjell på hvordan bankene har endret innskuddsrentene i 2026 sammenlignet med forrige gang renten ble hevet i slutten av 2023, sa markedssjef i Renteradar Sindre Noss til E24 onsdag. Samtidig som det blir dyrere å låne penger av banken, og man får mindre igjen for å ha pengene sine på sparekonto, håver bankene inn.",
       "keyPoints": [
-        "Det høres kanskje ikke så mye ut, men med rundt 2.000 milliarder i innskudd fra husholdninger i norske banker gir dette 1,6 milliarder i økt årlig overskudd til norske banker, sier Noss.",
-        "Hvis det høye rentenivået fortsetter, er det noe bankene kommer til å tjene titalls milliarder på.",
-        "Bankenes interesseorganisasjon Finans Norge peker på at alle rentevilkår, både på lån og innskudd, kommer som en følge av konkurransen i markedet. – Det vi ser nå er at konkurransen om lånekundene er beinhard.",
-        "Men i flere tilfeller hos store banker er ikke innskuddsrentene satt opp like mye som boliglånsrentene, viste nylig E24s stikkprøver. – Det kan se ut til at vi får omtrent samme effekt med rentehevingen i september siden bankene samlet sett virker å følge omtrent samme strategi som fra rentehevingen i mai, sier Noss. – Hadde de økt innskuddsrenten like mye som utlånsrenten hadde effekten vært null."
+        "Samtidig som det blir dyrere å låne penger av banken, og man får mindre igjen for å ha pengene sine på sparekonto, håver bankene inn.",
+        "Den enkle grunnen er at bankene setter opp innskuddsrenten langt mindre enn boliglånsrenten, som E24 skrev om mandag.",
+        "Regnestykket er basert på SSBs rentestatistikk. – Det er stor forskjell på hvordan bankene har endret innskuddsrentene i 2026 sammenlignet med forrige gang renten ble hevet i slutten av 2023, sa markedssjef i Renteradar Sindre Noss til E24 onsdag.",
+        "I Norges største banker er renten på sparepengene dine dårligere nå enn den var forrige gang styringsrenten var på dagens nivå."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/privatoekonomi/i/d7GLJq/bankenes-rentegrep-kan-tjene-ekstra-milliarder",
+      "url": "https://e24.no/norsk-oekonomi/i/lKeX0M/daarligere-sparerente-du-faar-mindre-igjen-bankene-tjener-mer",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f777bc5b-90bc-33a7-bb42-38daa34b43bb?fit=crop&h=675&upscale=true&w=1200&s=af8ff62cbad801ea0fb34a39e05489432aaabfd0",
-      "localImage": "assets/news/bddbb2634eaa51.jpg",
+      "image": "https://akamai.vgc.no/v2/images/b809e85b-4b6e-37e9-8d70-5c246fff6e80?fit=crop&h=675&upscale=true&w=1200&s=9ab02bf0d15ec738482e9c5e02c747aa8eb287da",
+      "localImage": "assets/news/4bd053a2175e59.jpg",
       "score": 15
     },
     {
-      "id": "2a258054910829",
-      "category": "Økonomi",
-      "published": "14.10. 09:01",
-      "publishedISO": "2026-10-14T09:01:15+02:00",
-      "title": "Oljeselskaper klatret på Oslo Børs",
-      "summary": "Stemningen på Oslo Børs tok seg opp utover formiddagen onsdag. Her oppnådde selskapet en oljepris på 99,6 dollar fatet, og en gasspris tilsvarende 122,9 dollar per fat oljeekvivalenter Det var også en kraftig økning i Kurdistan, etter at produksjonen ble gjennopptatt i sommer. Selskapet hans Drew Holdings har kjøpt aksjer i riggselskapet Borr Drilling for rundt 7,4 millioner dollar, etter å ha kjøpt Borr-aksjer også tidligere denne uken Det har også kommet nyheter fra andre Oslo Børs-selskaper:",
+      "id": "e7a61feff7ccdd",
+      "category": "Norge",
+      "published": "15.10. 17:28",
+      "publishedISO": "2026-10-15T17:28:24+02:00",
+      "title": "KrF-Askjer angrer etter TV 2-dokumentar: – Har gjort ganske vondt å lære den leksa",
+      "summary": "ANGRER: Politiker Hans Edvard Aksjer fra KrF angrer på at han lot seg intervjue i dokumentaren, og sier han burde visst bedre. Selv legger Askjer seg flat, og innrømmer at han burde stilt langt mer forberedt før han satte seg i sofaen foran kameraet. – I etterkant ser jeg jo at jeg burde gjort bedre research. At han ikke undersøkte bakgrunnen til prosjektet nøyere, er noe han angrer sterkt på i dag. – Jeg kunne sikkert og burde sikkert gjort bedre research på forhånd.",
       "keyPoints": [
-        "Stemningen på Oslo Børs tok seg opp utover formiddagen onsdag.",
-        "Selskapet hans Drew Holdings har kjøpt aksjer i riggselskapet Borr Drilling for rundt 7,4 millioner dollar, etter å ha kjøpt Borr-aksjer også tidligere denne uken Det har også kommet nyheter fra andre Oslo Børs-selskaper:",
-        "Her oppnådde selskapet en oljepris på 99,6 dollar fatet, og en gasspris tilsvarende 122,9 dollar per fat oljeekvivalenter Det var også en kraftig økning i Kurdistan, etter at produksjonen ble gjennopptatt i sommer.",
-        "Aker BP hadde en netto produksjon på 374.300 fat oljeekvivalenter per dag."
+        "At han ikke undersøkte bakgrunnen til prosjektet nøyere, er noe han angrer sterkt på i dag. – Jeg kunne sikkert og burde sikkert gjort bedre research på forhånd.",
+        "ANGRER: Politiker Hans Edvard Aksjer fra KrF angrer på at han lot seg intervjue i dokumentaren, og sier han burde visst bedre.",
+        "Selv legger Askjer seg flat, og innrømmer at han burde stilt langt mer forberedt før han satte seg i sofaen foran kameraet. – I etterkant ser jeg jo at jeg burde gjort bedre research.",
+        "Askjer erkjenner at opplevelsen har vært en vekker, og at han heretter vil være langt mer kritisk til hvem han lar seg intervjue av. – Jeg har lært at Hans Edvard må tenke seg om noen flere ganger før han stiller opp foran et kamera, sier han."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/b8eMdB/oppgang-paa-oslo-boers-aker-bp-stiger",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/31ca7224-61d0-3d6c-9ecd-b6af2a8ab3b3?fit=crop&h=675&upscale=true&w=1200&s=69763748a0545a06756c0d1ae7e2a795667158bb",
-      "localImage": "assets/news/2a258054910829.jpg",
+      "url": "https://www.nrk.no/vestfoldogtelemark/krf-askjer-angrer-etter-tv-2-dokumentar_-_-har-gjort-ganske-vondt-a-laere-den-leksa-1.18055904",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/LEaDQVx2kqMZzq-FGDA2rw2yC04_5Hu-kpGTYIg9PLOQ.jpg",
+      "localImage": "assets/news/e7a61feff7ccdd.jpg",
       "score": 15
     },
     {
@@ -193,24 +172,45 @@
       "score": 14
     },
     {
-      "id": "f303c42c565974",
-      "category": "Norge",
-      "published": "15.10. 09:07",
-      "publishedISO": "2026-10-15T09:07:07+02:00",
-      "title": "Sametinget tapte mot staten – igjen",
-      "summary": "I juli 2024 saksøkte Sametinget staten fordi de mener vedtaket er ugyldig grunnet saksbehandlingsfeil. Sametinget er uenig i tingrettens tolkning, og mener at staten ikke har utredet saken godt nok, og ikke har konsultert Sametinget tilstrekkelig. I juli 2024 saksøkte Sametinget staten for å få prøvd gyldigheten av vedtaket om å elektrifisere Melkøya.",
+      "id": "bddbb2634eaa51",
+      "category": "Økonomi",
+      "published": "14.10. 19:37",
+      "publishedISO": "2026-10-14T19:37:38+02:00",
+      "title": "Bankenes rentegrep: Kan tjene ekstra milliarder",
+      "summary": "Det høres kanskje ikke så mye ut, men med rundt 2.000 milliarder i innskudd fra husholdninger i norske banker gir dette 1,6 milliarder i økt årlig overskudd til norske banker, sier Noss. Hvis det høye rentenivået fortsetter, er det noe bankene kommer til å tjene titalls milliarder på. Bankenes interesseorganisasjon Finans Norge peker på at alle rentevilkår, både på lån og innskudd, kommer som en følge av konkurransen i markedet. – Det vi ser nå er at konkurransen om lånekundene er beinhard.",
       "keyPoints": [
-        "I juli 2024 saksøkte Sametinget staten fordi de mener vedtaket er ugyldig grunnet saksbehandlingsfeil.",
-        "I juli 2024 saksøkte Sametinget staten for å få prøvd gyldigheten av vedtaket om å elektrifisere Melkøya.",
-        "Sametinget er uenig i tingrettens tolkning, og mener at staten ikke har utredet saken godt nok, og ikke har konsultert Sametinget tilstrekkelig.",
-        "Sametinget tapte ankesaken på alle punkter og må betale statens saksomkostninger."
+        "Det høres kanskje ikke så mye ut, men med rundt 2.000 milliarder i innskudd fra husholdninger i norske banker gir dette 1,6 milliarder i økt årlig overskudd til norske banker, sier Noss.",
+        "Hvis det høye rentenivået fortsetter, er det noe bankene kommer til å tjene titalls milliarder på.",
+        "Bankenes interesseorganisasjon Finans Norge peker på at alle rentevilkår, både på lån og innskudd, kommer som en følge av konkurransen i markedet. – Det vi ser nå er at konkurransen om lånekundene er beinhard.",
+        "Men i flere tilfeller hos store banker er ikke innskuddsrentene satt opp like mye som boliglånsrentene, viste nylig E24s stikkprøver. – Det kan se ut til at vi får omtrent samme effekt med rentehevingen i september siden bankene samlet sett virker å følge omtrent samme strategi som fra rentehevingen i mai, sier Noss. – Hadde de økt innskuddsrenten like mye som utlånsrenten hadde effekten vært null."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sapmi/sametinget-tapte-mot-staten-_-igjen-1.18055489",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/7QdjQ5IP8gsj7SoDh0kOgQ_vbkA0oDeWW4F_HHZMlnMg.jpg",
-      "localImage": "assets/news/f303c42c565974.jpg",
+      "url": "https://e24.no/privatoekonomi/i/d7GLJq/bankenes-rentegrep-kan-tjene-ekstra-milliarder",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/f777bc5b-90bc-33a7-bb42-38daa34b43bb?fit=crop&h=675&upscale=true&w=1200&s=af8ff62cbad801ea0fb34a39e05489432aaabfd0",
+      "localImage": "assets/news/bddbb2634eaa51.jpg",
+      "score": 14
+    },
+    {
+      "id": "2a258054910829",
+      "category": "Økonomi",
+      "published": "14.10. 09:01",
+      "publishedISO": "2026-10-14T09:01:15+02:00",
+      "title": "Oljeselskaper klatret på Oslo Børs",
+      "summary": "Stemningen på Oslo Børs tok seg opp utover formiddagen onsdag. Her oppnådde selskapet en oljepris på 99,6 dollar fatet, og en gasspris tilsvarende 122,9 dollar per fat oljeekvivalenter Det var også en kraftig økning i Kurdistan, etter at produksjonen ble gjennopptatt i sommer. Selskapet hans Drew Holdings har kjøpt aksjer i riggselskapet Borr Drilling for rundt 7,4 millioner dollar, etter å ha kjøpt Borr-aksjer også tidligere denne uken Det har også kommet nyheter fra andre Oslo Børs-selskaper:",
+      "keyPoints": [
+        "Stemningen på Oslo Børs tok seg opp utover formiddagen onsdag.",
+        "Selskapet hans Drew Holdings har kjøpt aksjer i riggselskapet Borr Drilling for rundt 7,4 millioner dollar, etter å ha kjøpt Borr-aksjer også tidligere denne uken Det har også kommet nyheter fra andre Oslo Børs-selskaper:",
+        "Her oppnådde selskapet en oljepris på 99,6 dollar fatet, og en gasspris tilsvarende 122,9 dollar per fat oljeekvivalenter Det var også en kraftig økning i Kurdistan, etter at produksjonen ble gjennopptatt i sommer.",
+        "Aker BP hadde en netto produksjon på 374.300 fat oljeekvivalenter per dag."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/b8eMdB/oppgang-paa-oslo-boers-aker-bp-stiger",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/31ca7224-61d0-3d6c-9ecd-b6af2a8ab3b3?fit=crop&h=675&upscale=true&w=1200&s=69763748a0545a06756c0d1ae7e2a795667158bb",
+      "localImage": "assets/news/2a258054910829.jpg",
       "score": 14
     }
   ]
