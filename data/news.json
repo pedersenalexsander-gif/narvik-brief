@@ -1,91 +1,49 @@
 {
-  "updatedAt": "16.10.2026 kl. 16:36",
-  "updatedISO": "2026-10-16T16:36:42.154916+02:00",
+  "updatedAt": "16.10.2026 kl. 20:25",
+  "updatedISO": "2026-10-16T20:25:27.544641+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "f29b337293ac78",
-      "category": "Nord-Norge",
-      "published": "16.10. 12:31",
-      "publishedISO": "2026-10-16T12:31:56+02:00",
-      "title": "Varsler tidligere nattestenging av Nappstraumtunnelen",
-      "summary": "Fra midten av november må du beregne god tid: Tunnelen stenger inntil to timer tidligere enn i dag. Fra og med mandag 16. november til og med 6. desember utvides den nattlige stengetiden i Nappstraumtunnelen. Siste gjennomslipp blir klokken 21.00 fra Flesa og 21.30 fra Napp – noe som er inntil to timer tidligere enn dagens rutiner. – Vi beklager ulempene dette gir.",
-      "keyPoints": [
-        "Siste gjennomslipp blir klokken 21.00 fra Flesa og 21.30 fra Napp – noe som er inntil to timer tidligere enn dagens rutiner. – Vi beklager ulempene dette gir.",
-        "Fra og med mandag 16. november til og med 6. desember utvides den nattlige stengetiden i Nappstraumtunnelen.",
-        "Fra midten av november må du beregne god tid: Tunnelen stenger inntil to timer tidligere enn i dag.",
-        "Også det nattlige gjennomslippet flyttes: Fra 16. november vil nattens gjennomslipp skje klokken 00.30 (ca."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/varsler-tidligere-nattestenging-av-nappstraumtunnelen-1.18056526",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Xc25qoaGBUX9_kMbO9O3bgZfZXU8PG47xTSpR1XEpsNQ.jpg",
-      "localImage": "assets/news/f29b337293ac78.jpg",
-      "score": 13
-    },
-    {
-      "id": "530a2ae88f5e3d",
+      "id": "0e2629b6cccaa6",
       "category": "Norge",
-      "published": "16.10. 12:53",
-      "publishedISO": "2026-10-16T12:53:02+02:00",
-      "title": "Donald Trump-utspel om Sophie Cunningham vekker avsky: – Ho er vakker",
-      "summary": "Donald Trump sine merknader om Sophie Cunningham har skapt sterke reaksjonar i USA. I SØKELYSET: Sjølv Donald Trump har hatt sitt å seie om Sophie Cunningham. KONTROVERSIELT UTSPEL: Donald Trump meinte at Sophie Cunningham hjelpte laget – ikkje med poeng, men med fleire tilskodarar.",
+      "published": "16.10. 19:09",
+      "publishedISO": "2026-10-16T19:09:36+02:00",
+      "title": "Regjeringen trosser faglige råd: Tillater sykling i Rondane midt i høysesongen",
+      "summary": "Hun er langt fra fornøyd med forskriften regjeringen nå har innført, som medfører en stenging av Spranget parkering. – Det er svært beklagelig og synd at Ap og regjeringen velger å overkjøre et flertall i Sel kommunestyre og utvide Rondane nasjonalpark, sier Siem til NRK. I forskriften som regjeringen nå har vedtatt, har regjeringen vedtatt tillate sykling mellom Reinsbommen og Rondvassbu i perioden fra 25. juni til 25. august. – Det skal fremdeles være mulig å sykle på strekningen inn til Rondvassbu i den mest besøkte perioden av året, sier Aasland. Krokeide mener fortsatt det burde blitt gjennomført en konsekvensutredning før parkeringsplassen på Spranget ble nedlagt. – Fremskrittspartiet mener tiltakene regjeringen vil gjennomføre i Rondane nasjonalpark ikke er godt nok belyst.",
       "keyPoints": [
-        "Donald Trump sine merknader om Sophie Cunningham har skapt sterke reaksjonar i USA.",
-        "I SØKELYSET: Sjølv Donald Trump har hatt sitt å seie om Sophie Cunningham.",
-        "KONTROVERSIELT UTSPEL: Donald Trump meinte at Sophie Cunningham hjelpte laget – ikkje med poeng, men med fleire tilskodarar.",
-        "I intervjuet blir omtalt ho som «Maga-Barbie». – Det finst ikkje eit botnpunkt for denne fyren, skriv forfattar og aktivist Amy Siskind på X. – Trump seier at Sophie Cunningham er elendig i basket, men at han liker henne fordi ho er fin, skriv den politiske kommentatoren Ron Filipkowski."
+        "I forskriften som regjeringen nå har vedtatt, har regjeringen vedtatt tillate sykling mellom Reinsbommen og Rondvassbu i perioden fra 25. juni til 25. august. – Det skal fremdeles være mulig å sykle på strekningen inn til Rondvassbu i den mest besøkte perioden av året, sier Aasland.",
+        "Hun er langt fra fornøyd med forskriften regjeringen nå har innført, som medfører en stenging av Spranget parkering. – Det er svært beklagelig og synd at Ap og regjeringen velger å overkjøre et flertall i Sel kommunestyre og utvide Rondane nasjonalpark, sier Siem til NRK.",
+        "Krokeide mener fortsatt det burde blitt gjennomført en konsekvensutredning før parkeringsplassen på Spranget ble nedlagt. – Fremskrittspartiet mener tiltakene regjeringen vil gjennomføre i Rondane nasjonalpark ikke er godt nok belyst.",
+        "Rondane nasjonalpark utvides, og den omstridte parkeringsplassen på Spranget i Sel – selve hovedinnfallsporten til nasjonalparken – skal fjernes."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/donald-trump-utspel-om-sophie-cunningham-vekker-avsky_-_-ho-er-vakker-1.18055635",
+      "url": "https://www.nrk.no/innlandet/regjeringen-trosser-faglige-rad_-tillater-sykling-i-rondane-midt-i-hoysesongen-1.18057139",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/EX4bLcQ28ECVIZ5thAnS1wkEv8HuS16-qvP0STOyvYfQ.jpg",
-      "localImage": "assets/news/530a2ae88f5e3d.jpg",
+      "image": "https://gfx.nrk.no/wIuf5x_aRmVxls93tdk_qw1E4DX-cKkEl7BLxJKF94RQ.jpg",
+      "localImage": "assets/news/0e2629b6cccaa6.jpg",
       "score": 17
     },
     {
-      "id": "3e2a0ab33b9a41",
+      "id": "1847a339d3a313",
       "category": "Verden",
-      "published": "16.10. 00:46",
-      "publishedISO": "2026-10-16T00:46:49+02:00",
-      "title": "Brev med 'mistenkelige stoffer' sendt til amerikanske senatorer og valgkontorer",
-      "summary": "Føderale myndigheter sier at de undersøker \"potensielt farlige\" brev som inneholder \"mistenkelige stoffer\" som er sendt til kongress- og statlige valgkontorer rundt om i USA. De mistenkelige brevene ble sendt til minst fem demokratiske senatorers kontorer, hvorav de fleste ble fanget opp før levering. Et år tidligere ble mistenkelige konvolutter, noen med fentanyl, sendt til valgkontorer i minst fem stater.",
+      "published": "16.10. 17:45",
+      "publishedISO": "2026-10-16T17:45:10+02:00",
+      "title": "Vil Ukraina få den støtten som trengs når spenningen med USA øker?",
+      "summary": "President Zelensky har takket EU for støtten den har gitt Ukraina, og beskriver stats- og regjeringssjefer samlet i Brussel som «virkelige ledere». Se: Vil Ukraina få den støtten som trengs etter hvert som spenningen i USA øker? Video, 00:01:09Se: Vil Ukraina få den støtten som trengs når spenningen i USA øker?",
       "keyPoints": [
-        "Føderale myndigheter sier at de undersøker \"potensielt farlige\" brev som inneholder \"mistenkelige stoffer\" som er sendt til kongress- og statlige valgkontorer rundt om i USA.",
-        "The suspicious letters were sent to at least five Democratic senators' offices, most of which were intercepted before delivery.",
-        "A year earlier, suspicious envelopes, some laced with fentanyl, were sent to election offices in at least five states.",
-        "Oklahoma State Election Board og Louisianas utenriksminister sa begge denne uken at deres kontorer hadde mottatt brev som inneholdt et hvitt pulver."
+        "Video, 00:01:09Se: Vil Ukraina få den støtten som trengs når spenningen i USA øker?",
+        "President Zelensky har takket EU for støtten den har gitt Ukraina, og beskriver stats- og regjeringssjefer samlet i Brussel som «virkelige ledere».",
+        "I mellomtiden har president Trump sagt at Ukrainas gjenopptakelse av streikene på russiske oljeraffinerier var en skam.",
+        "Video, 00:02:01An Australian band’s ‘unreal’ journey to break a gig world record Watch: Pupils heard 'cracking' sound moments before Pakistan school roof collapse."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9974/live/7783af20-c8c4-11f1-95b2-9f12d414946d.jpg",
-      "localImage": "assets/news/3e2a0ab33b9a41.jpg",
-      "score": 14
-    },
-    {
-      "id": "ce55dc547044b4",
-      "category": "USA",
-      "published": "16.10. 13:41",
-      "publishedISO": "2026-10-16T13:41:58+02:00",
-      "title": "Children and teacher killed in Oregon primary school shooting",
-      "summary": "«Det er virkelig vanskelig å tro» – Hvordan skytingen på grunnskolen i Oregon utviklet seg En 16-åring har skutt og drept tre barn og en lærer ved en barneskole i den amerikanske delstaten Oregon før han ble drept av en tilskuer, sa politiet. Den mistenkte, som ikke er navngitt, tvang seg inn på Silver Rail Elementary School i byen Bend torsdag ettermiddag ved å skyte mot låste dører, bekreftet Bend-politisjef Mike Krantz. Lærer Kathy Sheil Smith beskrev til CNN-tilknyttede KPTV hvordan hun prøvde å holde barna rolige etter å ha sett våpenmannen nærme seg skolen. \"Ansiktene deres var virkelig vanskelig å se,\" sa hun. \"Noen barn ba, noen barn trøstet andre barn.",
-      "keyPoints": [
-        "«Det er virkelig vanskelig å tro» – Hvordan skytingen på grunnskolen i Oregon utviklet seg En 16-åring har skutt og drept tre barn og en lærer ved en barneskole i den amerikanske delstaten Oregon før han ble drept av en tilskuer, sa politiet.",
-        "Lærer Kathy Sheil Smith beskrev til CNN-tilknyttede KPTV hvordan hun prøvde å holde barna rolige etter å ha sett våpenmannen nærme seg skolen. \"Ansiktene deres var virkelig vanskelig å se,\" sa hun. \"Noen barn ba, noen barn trøstet andre barn.",
-        "Den mistenkte, som ikke er navngitt, tvang seg inn på Silver Rail Elementary School i byen Bend torsdag ettermiddag ved å skyte mot låste dører, bekreftet Bend-politisjef Mike Krantz.",
-        "De tre drepte barna var fem, åtte og 11 år gamle."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4dc0/live/70180250-c959-11f1-8879-9d9deeb686e1.jpg",
-      "localImage": "assets/news/ce55dc547044b4.jpg",
-      "score": 13
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg",
+      "localImage": "assets/news/1847a339d3a313.jpg",
+      "score": 17
     },
     {
       "id": "187f91a76ce787",
@@ -106,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "8e0adf6b0c970f",
@@ -127,7 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/53924518-a830-3dc7-9a3e-52247cf9f6b1?fit=crop&h=675&upscale=true&w=1200&s=7f11544b6a1e121eda17866dfb2155c59eb7c865",
       "localImage": "assets/news/8e0adf6b0c970f.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "bf2b2231047796",
+      "category": "AI",
+      "published": "16.10. 17:31",
+      "publishedISO": "2026-10-16T17:31:33+02:00",
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "summary": "Den påståtte Qilin-hackeren Vladimir K. ble varetektsfengslet ved ankomst til Frankfurt. Tysk politi har arrestert en russisk mann anklaget for å være en del av en nettkriminalitetsgjeng som forårsaket kaos ved Londons sykehus og bidro til en pasients død. Hacket av blodprøveselskapet Synnovis i 2024 førte til forstyrrede patologitjenester på tvers av flere London-sykehus og var det første cyberangrepet i historien som ble direkte knyttet til et dødsfall. Den pågrepne mistenkte er en 28 år gammel russisk mann navngitt av tysk presse som Vladimir K.",
+      "keyPoints": [
+        "Hacket av blodprøveselskapet Synnovis i 2024 førte til forstyrrede patologitjenester på tvers av flere London-sykehus og var det første cyberangrepet i historien som ble direkte knyttet til et dødsfall.",
+        "Den påståtte Qilin-hackeren Vladimir K. ble varetektsfengslet ved ankomst til Frankfurt. Tysk politi har arrestert en russisk mann anklaget for å være en del av en nettkriminalitetsgjeng som forårsaket kaos ved Londons sykehus og bidro til en pasients død.",
+        "The detained suspect is a 28-year-old Russian man named by German press as Vladimir K.",
+        "En kritisk hendelse ble erklært ved noen sykehus i London etter at leverandøren ble målrettet av Qilin 3. juni 2024, med blodoverføringstjenester alvorlig forstyrret, operasjoner kansellert og akuttpasienter omdirigert andre steder."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
+      "localImage": "assets/news/bf2b2231047796.png",
+      "score": 17
     },
     {
       "id": "0286f447c9ddf1",
@@ -148,19 +127,19 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg",
       "localImage": "assets/news/0286f447c9ddf1.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "90d6b062e7aabd",
+      "id": "71aed065654812",
       "category": "Økonomi",
       "published": "16.10. 09:01",
       "publishedISO": "2026-10-16T09:01:44+02:00",
       "title": "Kongsberg-hopp etter bred oppgang i forsvarssektoren",
-      "summary": "Konsberg Gruppen steg 4,3 prosent på Oslo Børs fredag. – Hele forsvarssektoren er opp på grunn av relasjonen mellom USA og Ukraina, sier analytiker Fabian Jørgensen i Pareto til E24. Nordea Markets-analytiker Martine Kverne ser også en bred oppgang i forsvarsaksjer. – Høyere renter har skapt bekymring rundt forsvarsbudsjettene og tynget litt på sektoren, men vi ser litt positive nyheter rundt det i dag. Paretos kursmål må aksjen er 554 kroner, mens SB1 Markets’ og Artic Securities’ mål er på 400 kroner, ifølge Bloomberg.",
+      "summary": "Kongsberg Gruppen steg 4,3 prosent på Oslo Børs fredag. – Hele forsvarssektoren er opp på grunn av relasjonen mellom USA og Ukraina, sier analytiker Fabian Jørgensen i Pareto til E24. Paretos kursmål på aksjen er 554 kroner, mens SB1 Markets’ og Artic Securities’ mål er på 400 kroner, ifølge Bloomberg. Nordea Markets-analytiker Martine Kverne ser også en bred oppgang i forsvarsaksjer. – Høyere renter har skapt bekymring rundt forsvarsbudsjettene og tynget litt på sektoren, men vi ser litt positive nyheter rundt det i dag, sier Kverne.",
       "keyPoints": [
-        "Nordea Markets-analytiker Martine Kverne ser også en bred oppgang i forsvarsaksjer. – Høyere renter har skapt bekymring rundt forsvarsbudsjettene og tynget litt på sektoren, men vi ser litt positive nyheter rundt det i dag.",
-        "Konsberg Gruppen steg 4,3 prosent på Oslo Børs fredag. – Hele forsvarssektoren er opp på grunn av relasjonen mellom USA og Ukraina, sier analytiker Fabian Jørgensen i Pareto til E24.",
-        "Paretos kursmål må aksjen er 554 kroner, mens SB1 Markets’ og Artic Securities’ mål er på 400 kroner, ifølge Bloomberg.",
+        "Nordea Markets-analytiker Martine Kverne ser også en bred oppgang i forsvarsaksjer. – Høyere renter har skapt bekymring rundt forsvarsbudsjettene og tynget litt på sektoren, men vi ser litt positive nyheter rundt det i dag, sier Kverne.",
+        "Kongsberg Gruppen steg 4,3 prosent på Oslo Børs fredag. – Hele forsvarssektoren er opp på grunn av relasjonen mellom USA og Ukraina, sier analytiker Fabian Jørgensen i Pareto til E24.",
+        "Paretos kursmål på aksjen er 554 kroner, mens SB1 Markets’ og Artic Securities’ mål er på 400 kroner, ifølge Bloomberg.",
         "Fredag økte Nordea sitt kursmål på aksjen fra 387 til 400 kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
@@ -168,8 +147,50 @@
       "url": "https://e24.no/boers-og-finans/i/b8oQB3/bruton-faller-6-prosent-paa-oslo-boers-etter-melding-om-sammenslaaing",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1cccb83b-334d-371c-a113-b7f5f6948a5f?fit=crop&h=675&upscale=true&w=1200&s=a451d6c047a9e73f8a73b00ed0f0ed0117189080",
-      "localImage": "assets/news/90d6b062e7aabd.jpg",
-      "score": 19
+      "localImage": "assets/news/71aed065654812.jpg",
+      "score": 18
+    },
+    {
+      "id": "01dc429bdfb67e",
+      "category": "Økonomi",
+      "published": "16.10. 17:02",
+      "publishedISO": "2026-10-16T17:02:15+02:00",
+      "title": "– Trump er veldig redd",
+      "summary": "Dieselavtalen med Russland kan hjelpe Trump før mellomvalget, tror professor. – Trump er veldig redd for det, og vil snakke ned prisen så mye han kan og bidra så mye som mulig. Det siste utslaget er den kontroversielle dieselavtalen Trump-regjeringen i helgen kunngjorde at de hadde inngått med Russland. – Kan det hjelpe republikanerne og Trump i mellomvalget? – Ja, det kan det. Han viser til hvordan oljeprisen gjennom de siste syv måneder etter angrepet på Iran har beveget seg opp og ned i takt med ulike uttalelser om en mulig fredsavtale og fremskritt. – Energipriser generelt – diesel, bensin, gass – er en veldig viktig del av amerikanske velgeres hensyn når de stemmer, fastslår han.",
+      "keyPoints": [
+        "Dieselavtalen med Russland kan hjelpe Trump før mellomvalget, tror professor. – Trump er veldig redd for det, og vil snakke ned prisen så mye han kan og bidra så mye som mulig.",
+        "Han viser til hvordan oljeprisen gjennom de siste syv måneder etter angrepet på Iran har beveget seg opp og ned i takt med ulike uttalelser om en mulig fredsavtale og fremskritt. – Energipriser generelt – diesel, bensin, gass – er en veldig viktig del av amerikanske velgeres hensyn når de stemmer, fastslår han.",
+        "Det siste utslaget er den kontroversielle dieselavtalen Trump-regjeringen i helgen kunngjorde at de hadde inngått med Russland. – Kan det hjelpe republikanerne og Trump i mellomvalget? – Ja, det kan det.",
+        "Professor emeritus og forfatter av flere bøker om internasjonal politisk økonomi og petroleumsøkonomi Det amerikanske forbruket av diesel i transportsektoren var på 2,9 millioner fat per dag i snitt i fjor, ifølge amerikanske myndigheter."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/QgqJ9J/trump-er-veldig-redd",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d3d40cc8-b2b0-3113-8ec6-08aff5782f21?fit=crop&h=675&upscale=true&w=1200&s=e11aca4c87131def0600ea286db311a8c8ad811f",
+      "localImage": "assets/news/01dc429bdfb67e.jpg",
+      "score": 17
+    },
+    {
+      "id": "530a2ae88f5e3d",
+      "category": "Norge",
+      "published": "16.10. 12:53",
+      "publishedISO": "2026-10-16T12:53:02+02:00",
+      "title": "Donald Trump-utspel om Sophie Cunningham vekker avsky: – Ho er vakker",
+      "summary": "Donald Trump sine merknader om Sophie Cunningham har skapt sterke reaksjonar i USA. I SØKELYSET: Sjølv Donald Trump har hatt sitt å seie om Sophie Cunningham. KONTROVERSIELT UTSPEL: Donald Trump meinte at Sophie Cunningham hjelpte laget – ikkje med poeng, men med fleire tilskodarar.",
+      "keyPoints": [
+        "Donald Trump sine merknader om Sophie Cunningham har skapt sterke reaksjonar i USA.",
+        "I SØKELYSET: Sjølv Donald Trump har hatt sitt å seie om Sophie Cunningham.",
+        "KONTROVERSIELT UTSPEL: Donald Trump meinte at Sophie Cunningham hjelpte laget – ikkje med poeng, men med fleire tilskodarar.",
+        "I intervjuet blir omtalt ho som «Maga-Barbie». – Det finst ikkje eit botnpunkt for denne fyren, skriv forfattar og aktivist Amy Siskind på X. – Trump seier at Sophie Cunningham er elendig i basket, men at han liker henne fordi ho er fin, skriv den politiske kommentatoren Ron Filipkowski."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/donald-trump-utspel-om-sophie-cunningham-vekker-avsky_-_-ho-er-vakker-1.18055635",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/EX4bLcQ28ECVIZ5thAnS1wkEv8HuS16-qvP0STOyvYfQ.jpg",
+      "localImage": "assets/news/530a2ae88f5e3d.jpg",
+      "score": 16
     },
     {
       "id": "b34e3962a86966",
@@ -190,28 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eba88a5a-d84e-3c64-bdaa-01036815c38f?fit=crop&h=675&upscale=true&w=1200&s=b4a94eee3ef782904e104917ed5c854f3bfe83c0",
       "localImage": "assets/news/b34e3962a86966.jpg",
-      "score": 16
-    },
-    {
-      "id": "547b54af854e79",
-      "category": "Norge",
-      "published": "14.10. 21:00",
-      "publishedISO": "2026-10-14T21:00:15+02:00",
-      "title": "Donald Trumps nye Grønland-utspill overrasker ikke grønlenderne",
-      "summary": "I et innlegg på sin egen plattform Truth Social onsdag, skriver den amerikanske presidenten Donald Trump at «USA er klare til å utforske store olje-, gass- og mineralforekomster i vårt nye og vakre Grønland». Den grønlandske forretningsmannen David Røgilds i Nuuk lar seg ikke stresse av Trumps nye utspill. – Det er ingen overraskelse. Forretningsmannen David Røgilds lar seg ikke lenger stresse av president Donald Trumps utspill om Grønland. – Jeg tror han prøver å distrahere sitt hjemmepublikum fra alle de problemene de har nå foran mellomvalget.",
-      "keyPoints": [
-        "I et innlegg på sin egen plattform Truth Social onsdag, skriver den amerikanske presidenten Donald Trump at «USA er klare til å utforske store olje-, gass- og mineralforekomster i vårt nye og vakre Grønland».",
-        "Forretningsmannen David Røgilds lar seg ikke lenger stresse av president Donald Trumps utspill om Grønland. – Jeg tror han prøver å distrahere sitt hjemmepublikum fra alle de problemene de har nå foran mellomvalget.",
-        "Den grønlandske forretningsmannen David Røgilds i Nuuk lar seg ikke stresse av Trumps nye utspill. – Det er ingen overraskelse.",
-        "Kort tid etter at USA inngikk en ny sikkerhetsavtale med Danmark og Grønland, skriver Donald Trump at massiv leting etter olje og mineraler er i gang."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sapmi/donald-trumps-nye-gronland-utspill-overrasker-ikke-gronlenderne-1.18054456",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/tvRsterd_0bAVDItKN4sXQbqGq3ObadzbwIFCZd4ZKRw.jpg",
-      "localImage": "assets/news/547b54af854e79.webp",
-      "score": 16
+      "score": 15
     }
   ]
 }
