@@ -1,8 +1,29 @@
 {
-  "updatedAt": "17.10.2026 kl. 17:36",
-  "updatedISO": "2026-10-17T17:36:43.368188+02:00",
+  "updatedAt": "17.10.2026 kl. 19:57",
+  "updatedISO": "2026-10-17T19:57:46.709120+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "57146450a86762",
+      "category": "Nord-Norge",
+      "published": "17.10. 16:00",
+      "publishedISO": "2026-10-17T16:00:00+02:00",
+      "title": "Bodø/Glimt sparte nøkkelspillere – herjet med HamKam",
+      "summary": "Skadeomfanget er foreløpig uvisst. – Hvis han har unngått vridning, så håper jeg at han blir klar igjen til tirsdag, sa Bodø/Glimts trener Kjetil Knutsen. Med unntak av tapet for Brann i Bergen 20. september har Bodø/Glimt slått Kristiansund, Sandefjord, Rosenborg, Fredrikstad og «Kamma» i de seks kampene i Eliteserien. Med 23 spilte kamper topper Bodø/Glimt tabellen med 56 poeng.",
+      "keyPoints": [
+        "Med unntak av tapet for Brann i Bergen 20. september har Bodø/Glimt slått Kristiansund, Sandefjord, Rosenborg, Fredrikstad og «Kamma» i de seks kampene i Eliteserien.",
+        "Med 23 spilte kamper topper Bodø/Glimt tabellen med 56 poeng.",
+        "Skadeomfanget er foreløpig uvisst. – Hvis han har unngått vridning, så håper jeg at han blir klar igjen til tirsdag, sa Bodø/Glimts trener Kjetil Knutsen.",
+        "Det skyldes at Glimt møter Napoli borte i Italia i Champions League allerede kommende tirsdag."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/bodo_glimt-sparte-nokkelspillere-_-herjet-med-hamkam-1.18057532",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/41X0EpjChW8_Gv1GnvJdqgrjO2geXYJPj-EnU637roSg.jpg",
+      "localImage": "assets/news/57146450a86762.jpg",
+      "score": 13
+    },
     {
       "id": "b7627fdde175bc",
       "category": "Norge",
@@ -43,14 +64,14 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
       "localImage": "assets/news/96b4d2d63bf4e3.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d5cb405b934012",
       "category": "USA",
       "published": "16.10. 20:41",
       "publishedISO": "2026-10-16T20:41:54+02:00",
-      "title": "Hvor mellomvalget i USA vil vinnes og tapes",
+      "title": "Hvor det amerikanske mellomvalget vil vinnes og tapes",
       "summary": "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes. Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene. Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
       "keyPoints": [
         "Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
@@ -85,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "8e0adf6b0c970f",
@@ -127,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
       "localImage": "assets/news/bf2b2231047796.png",
-      "score": 13
+      "score": 12
     },
     {
       "id": "c81e81446a3c98",
@@ -148,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/i-hARGpC0_0oMpmunV31swFNZ0EBmSb-oN4IhG-lCZ3A.jpg",
       "localImage": "assets/news/c81e81446a3c98.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "34d1b64451cfcd",
@@ -169,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wM6l29Owk43JckurKi0Hgg_afanRRFUo6bliTJGf6gyg.jpg",
       "localImage": "assets/news/34d1b64451cfcd.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "71aed065654812",
@@ -191,27 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/1cccb83b-334d-371c-a113-b7f5f6948a5f?fit=crop&h=675&upscale=true&w=1200&s=a451d6c047a9e73f8a73b00ed0f0ed0117189080",
       "localImage": "assets/news/71aed065654812.jpg",
       "score": 14
-    },
-    {
-      "id": "57146450a86762",
-      "category": "Norge",
-      "published": "17.10. 16:00",
-      "publishedISO": "2026-10-17T16:00:27+02:00",
-      "title": "Bodø/Glimt sparte nøkkelspillere – herjet med HamKam",
-      "summary": "Skadeomfanget er foreløpig uvisst. – Hvis han har unngått vridning, så håper jeg at han blir klar igjen til tirsdag, sa Bodø/Glimts trener Kjetil Knutsen. Med unntak av tapet for Brann i Bergen 20. september har Bodø/Glimt slått Kristiansund, Sandefjord, Rosenborg, Fredrikstad og «Kamma» i de seks kampene i Eliteserien. Med 23 spilte kamper topper Bodø/Glimt tabellen med 56 poeng.",
-      "keyPoints": [
-        "Med unntak av tapet for Brann i Bergen 20. september har Bodø/Glimt slått Kristiansund, Sandefjord, Rosenborg, Fredrikstad og «Kamma» i de seks kampene i Eliteserien.",
-        "Med 23 spilte kamper topper Bodø/Glimt tabellen med 56 poeng.",
-        "Skadeomfanget er foreløpig uvisst. – Hvis han har unngått vridning, så håper jeg at han blir klar igjen til tirsdag, sa Bodø/Glimts trener Kjetil Knutsen.",
-        "Det skyldes at Glimt møter Napoli borte i Italia i Champions League allerede kommende tirsdag."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/bodo_glimt-sparte-nokkelspillere-_-herjet-med-hamkam-1.18057532",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/41X0EpjChW8_Gv1GnvJdqgrjO2geXYJPj-EnU637roSg.jpg",
-      "localImage": "assets/news/57146450a86762.jpg",
-      "score": 13
     }
   ]
 }
