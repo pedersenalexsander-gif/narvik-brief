@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17.10.2026 kl. 19:57",
-  "updatedISO": "2026-10-17T19:57:46.709120+02:00",
+  "updatedAt": "17.10.2026 kl. 22:19",
+  "updatedISO": "2026-10-17T22:19:15.215825+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/41X0EpjChW8_Gv1GnvJdqgrjO2geXYJPj-EnU637roSg.jpg",
       "localImage": "assets/news/57146450a86762.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "b7627fdde175bc",
@@ -43,20 +43,20 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
       "localImage": "assets/news/b7627fdde175bc.webp",
-      "score": 20
+      "score": 19
     },
     {
       "id": "96b4d2d63bf4e3",
       "category": "Verden",
-      "published": "17.10. 13:56",
-      "publishedISO": "2026-10-17T13:56:06+02:00",
+      "published": "17.10. 21:19",
+      "publishedISO": "2026-10-17T21:19:19+02:00",
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "Donald Trump har blokkert en rekke sanksjoner mot Russland to dager før de skulle tre i kraft, ettersom bråket med hans ukrainske motpart Volodymyr Zelensky blir dypere. Den nye amerikanske sanksjonsloven tok sikte på Russlands økonomi, og ga Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på import fra de fem beste kjøperne av russisk olje og gass – særlig Kina og India. Han pekte på russiske angrep over natten på 15 ukrainske energianlegg som hadde forårsaket strømbrudd i flere regioner og sa: \"Russland prøver å forårsake en blackout i Ukraina - rett før vinteren.\" Zelensky sa at det var \"viktig at alle i Amerika også ser hva som virkelig skjer\" på bakken.",
+      "summary": "Donald Trump blokkerte en rekke sanksjoner mot Russland to dager før de skulle tre i kraft, ettersom bråket med hans ukrainske motpart Volodymyr Zelensky blir dypere. Den nye amerikanske sanksjonsloven tok sikte på Russlands økonomi ved å gi Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på import fra de fem beste kjøperne av russisk olje og gass – særlig Kina og India. Han pekte på russiske angrep over natten på 15 ukrainske energianlegg som hadde forårsaket strømbrudd i flere regioner og sa: \"Russland prøver å forårsake en blackout i Ukraina - rett før vinteren.\" Zelensky sa at det var \"viktig at alle i Amerika også ser hva som virkelig skjer\" på bakken.",
       "keyPoints": [
-        "Donald Trump har blokkert en rekke sanksjoner mot Russland to dager før de skulle tre i kraft, ettersom bråket med hans ukrainske motpart Volodymyr Zelensky blir dypere.",
+        "Donald Trump blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens.",
+        "Den nye amerikanske sanksjonsloven tok sikte på Russlands økonomi ved å gi Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på import fra de fem beste kjøperne av russisk olje og gass – særlig Kina og India.",
         "Han pekte på russiske angrep over natten på 15 ukrainske energianlegg som hadde forårsaket strømbrudd i flere regioner og sa: \"Russland prøver å forårsake en blackout i Ukraina - rett før vinteren.\" Zelensky sa at det var \"viktig at alle i Amerika også ser hva som virkelig skjer\" på bakken.",
-        "Den nye amerikanske sanksjonsloven tok sikte på Russlands økonomi, og ga Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på import fra de fem beste kjøperne av russisk olje og gass – særlig Kina og India.",
-        "Demokrater inkludert Virginia-kongressmedlem Don Beyer har kritisert utspillet, og anklaget Trump for å kapitulere til Moskva og snu ryggen til Kiev og Zelensky. \"Trumps siste overgivelse til Putin forråder igjen våre ukrainske partnere og trosser kongressens klare hensikter med lovgivning designet for å straffe Russland for dets ulovlige angrepskrig,\" skrev Beyer på X."
+        "Senator Ted Cruz fra Texas, en Trump-alliert, kalte å vinke sanksjoner mot Russland for en feil, og sa på Fox News: «Jeg skulle ønske presidenten ikke hadde gjort det». Han la til at det var andre måter å kunne adressere dieselprisene på, og \"den nåværende veien, dessverre, er bare til fordel for Putin, og det er ikke en god idé.\" Senator John Cornyn, også fra Texas, sa på X: «Å hjelpe Putin i Ukraina er hensynsløst."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
@@ -64,14 +64,14 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
       "localImage": "assets/news/96b4d2d63bf4e3.jpg",
-      "score": 16
+      "score": 17
     },
     {
       "id": "d5cb405b934012",
       "category": "USA",
       "published": "16.10. 20:41",
       "publishedISO": "2026-10-16T20:41:54+02:00",
-      "title": "Hvor det amerikanske mellomvalget vil vinnes og tapes",
+      "title": "Hvor mellomvalget i USA vil vinnes og tapes",
       "summary": "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes. Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene. Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
       "keyPoints": [
         "Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
@@ -85,7 +85,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg",
       "localImage": "assets/news/d5cb405b934012.jpg",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "d819cc32cf1a58",
+      "category": "Økonomi",
+      "published": "17.10. 21:22",
+      "publishedISO": "2026-10-17T21:22:29+02:00",
+      "title": "Sol og strømsparing: – Fullstendig stillstand",
+      "summary": "En rekke organisasjoner ber Stortinget sette fart på sine egne mål. –⁠ Skjer ikke noe som monner, sier NBBL-sjefen. Stortinget har ambisiøse mål om å få bygget ut mer solkraft og spare mer strøm. Men det går for sakte med begge deler, mener 16 fagforeninger, bransjeorganisasjoner, forbrukerorganisasjoner og miljøorganisasjoner.",
+      "keyPoints": [
+        "Stortinget har ambisiøse mål om å få bygget ut mer solkraft og spare mer strøm.",
+        "En rekke organisasjoner ber Stortinget sette fart på sine egne mål. –⁠ Skjer ikke noe som monner, sier NBBL-sjefen.",
+        "Men det går for sakte med begge deler, mener 16 fagforeninger, bransjeorganisasjoner, forbrukerorganisasjoner og miljøorganisasjoner.",
+        "Leder Bård Vegar Solhjell i Fornybar Norge sier det er sjelden at 16 organisasjoner fra fagbevegelsen, næringslivet og miljøbevegelsen samler seg om felles krav. – Stortinget har også satt ambisiøse mål, men følger ikke opp med nødvendige vedtak."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/b8eowe/sol-og-stroemsparing-fullstendig-stillstand",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/43218d25-266a-3607-a746-2ee2d30df51a?fit=crop&h=675&upscale=true&w=1200&s=6c140ffdd233a21478659f6c49a9f119e6357ad9",
+      "localImage": "assets/news/d819cc32cf1a58.jpg",
+      "score": 17
     },
     {
       "id": "187f91a76ce787",
@@ -107,27 +128,6 @@
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
       "score": 17
-    },
-    {
-      "id": "8e0adf6b0c970f",
-      "category": "Økonomi",
-      "published": "16.10. 09:47",
-      "publishedISO": "2026-10-16T09:47:02+02:00",
-      "title": "Budrunden tok helt av",
-      "summary": "Interessen var enorm allerede før budrunden startet, sier Karl Filip Kjørstad Falch, som sto bak salget. Falch mener den fremstår som et «sjeldent godt bevart eksempel på modernistisk boligarkitektur». – Omtrent 90 prosent av dem som var på visning snakket om hvordan de kunne bevare huset slik det er. Boligprisveksten i Bergen har vært sterk på grunn av mange kjøpere og få boliger på markedet, ifølge Stavenes. – Boligprisene i Bergen har steget med 8,2 prosent hittil i år, og i september tok det i snitt bare 15 dager å selge en bolig.",
-      "keyPoints": [
-        "Boligprisveksten i Bergen har vært sterk på grunn av mange kjøpere og få boliger på markedet, ifølge Stavenes. – Boligprisene i Bergen har steget med 8,2 prosent hittil i år, og i september tok det i snitt bare 15 dager å selge en bolig.",
-        "Interessen var enorm allerede før budrunden startet, sier Karl Filip Kjørstad Falch, som sto bak salget.",
-        "Falch mener den fremstår som et «sjeldent godt bevart eksempel på modernistisk boligarkitektur». – Omtrent 90 prosent av dem som var på visning snakket om hvordan de kunne bevare huset slik det er.",
-        "Den ble nylig solgt for 15,6 millioner kroner, hele 4,1 millioner kroner over prisantydning. – Vi hadde rundt 50 personer på visning."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/d7G3Jq/villa-solgt-4-1-millioner-over-prisantydning",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/53924518-a830-3dc7-9a3e-52247cf9f6b1?fit=crop&h=675&upscale=true&w=1200&s=7f11544b6a1e121eda17866dfb2155c59eb7c865",
-      "localImage": "assets/news/8e0adf6b0c970f.jpg",
-      "score": 14
     },
     {
       "id": "bf2b2231047796",
@@ -193,25 +193,25 @@
       "score": 15
     },
     {
-      "id": "71aed065654812",
+      "id": "1e9dd6b52345ad",
       "category": "Økonomi",
-      "published": "16.10. 09:01",
-      "publishedISO": "2026-10-16T09:01:44+02:00",
-      "title": "Kongsberg-hopp etter bred oppgang i forsvarssektoren",
-      "summary": "Kongsberg Gruppen steg 4,3 prosent på Oslo Børs fredag. – Hele forsvarssektoren er opp på grunn av relasjonen mellom USA og Ukraina, sier analytiker Fabian Jørgensen i Pareto til E24. Paretos kursmål på aksjen er 554 kroner, mens SB1 Markets’ og Artic Securities’ mål er på 400 kroner, ifølge Bloomberg. Nordea Markets-analytiker Martine Kverne ser også en bred oppgang i forsvarsaksjer. – Høyere renter har skapt bekymring rundt forsvarsbudsjettene og tynget litt på sektoren, men vi ser litt positive nyheter rundt det i dag, sier Kverne.",
+      "published": "17.10. 19:52",
+      "publishedISO": "2026-10-17T19:52:52+02:00",
+      "title": "Krever Temu-gebyr",
+      "summary": "Når Arbeiderpartiet skal forhandle om neste års statsbudsjett, vil MDG kreve at det blir dyrere å nettshoppe fra utlandet. – Vi må stanse flommen av billigvarer fra Temu og Shein, som ofte er helseskadelige, brannfarlige, miljøfiendtlige og utkonkurrerer lokale butikker i Norge, sier MDG-politiker Une Bastholm til E24. Dette er ment å demme opp for noe av den massive flommen av Kina-pakker som kommer hver dag. – MDG vil i budsjettforhandlingene kreve at regjeringen innfører et kontrollgebyr på lavverdipakker fra land utenfor EØS fra 1. januar 2027. Gebyret bør ligge på minst samme nivå som i resten av EU, altså minst 20 kroner per pakke, sier Bastholm.",
       "keyPoints": [
-        "Nordea Markets-analytiker Martine Kverne ser også en bred oppgang i forsvarsaksjer. – Høyere renter har skapt bekymring rundt forsvarsbudsjettene og tynget litt på sektoren, men vi ser litt positive nyheter rundt det i dag, sier Kverne.",
-        "Kongsberg Gruppen steg 4,3 prosent på Oslo Børs fredag. – Hele forsvarssektoren er opp på grunn av relasjonen mellom USA og Ukraina, sier analytiker Fabian Jørgensen i Pareto til E24.",
-        "Paretos kursmål på aksjen er 554 kroner, mens SB1 Markets’ og Artic Securities’ mål er på 400 kroner, ifølge Bloomberg.",
-        "Fredag økte Nordea sitt kursmål på aksjen fra 387 til 400 kroner."
+        "Dette er ment å demme opp for noe av den massive flommen av Kina-pakker som kommer hver dag. – MDG vil i budsjettforhandlingene kreve at regjeringen innfører et kontrollgebyr på lavverdipakker fra land utenfor EØS fra 1. januar 2027.",
+        "Når Arbeiderpartiet skal forhandle om neste års statsbudsjett, vil MDG kreve at det blir dyrere å nettshoppe fra utlandet. – Vi må stanse flommen av billigvarer fra Temu og Shein, som ofte er helseskadelige, brannfarlige, miljøfiendtlige og utkonkurrerer lokale butikker i Norge, sier MDG-politiker Une Bastholm til E24.",
+        "Gebyret bør ligge på minst samme nivå som i resten av EU, altså minst 20 kroner per pakke, sier Bastholm.",
+        "Utenlandske nettbutikker kan i dag sende tollfritt til norske kunder for opptil 3.000 kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/b8oQB3/bruton-faller-6-prosent-paa-oslo-boers-etter-melding-om-sammenslaaing",
+      "url": "https://e24.no/naeringsliv/i/KrbLjG/krever-temu-gebyr",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1cccb83b-334d-371c-a113-b7f5f6948a5f?fit=crop&h=675&upscale=true&w=1200&s=a451d6c047a9e73f8a73b00ed0f0ed0117189080",
-      "localImage": "assets/news/71aed065654812.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/0d812278-e0a6-30b3-ad8a-2fbf17672d32?fit=crop&h=675&upscale=true&w=1200&s=e50260e2704556a9d130ed64a1b82b9d0a15d88b",
+      "localImage": "assets/news/1e9dd6b52345ad.jpg",
+      "score": 13
     }
   ]
 }
