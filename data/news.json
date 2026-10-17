@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17.10.2026 kl. 01:55",
-  "updatedISO": "2026-10-17T01:55:34.447371+02:00",
+  "updatedAt": "17.10.2026 kl. 05:18",
+  "updatedISO": "2026-10-17T05:18:01.355476+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,27 +22,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wIuf5x_aRmVxls93tdk_qw1E4DX-cKkEl7BLxJKF94RQ.jpg",
       "localImage": "assets/news/0e2629b6cccaa6.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "64d94f24ec84c5",
+      "id": "8c0ddaeab482d9",
       "category": "Verden",
-      "published": "16.10. 21:33",
-      "publishedISO": "2026-10-16T21:33:48+02:00",
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "summary": "USAs president Donald Trump har nektet for å begrense Ukrainas tilgang til Starlinks søsternettverk Starshield etter at det begrenset dronehastigheten, og hindret Kievs evne til å beskytte seg mot russiske angrep. «Det var ikke meg, og jeg tror ikke det var [Starlink-eieren] Elon [Musk],» sa Trump, timer etter at Ukrainas president Volodymyr Zelensky sa at hastigheten ennå ikke var gjenopprettet. Ukraina ble rammet av flere dødelige streiker tirsdag etter nettverksbremsen. Zelensky sier at Ukraina har rett til å forsvare seg selv etter at Trump kaller de siste streikene en «skam». Amerikanske senatorer krever etterforskning av Ukrainas Starlink-restriksjoner Inne i ukrainsk offensiv presser Russland tilbake – med Starlink som spiller en nøkkelrolle Hvorfor er Starlink internett så viktig på slagmarken i Ukraina?",
+      "published": "17.10. 04:48",
+      "publishedISO": "2026-10-17T04:48:36+02:00",
+      "title": "Trump waives several Russian sanctions as new US law takes effect",
+      "summary": "Trump signerte sanksjonsloven i september, og den skulle tre i kraft søndag. Loven tok sikte på russisk økonomi, og ga Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på de fem beste kjøperne av russisk olje og gass – mest betydelig Kina og India. Torsdag utstedte en todelt gruppe på 20 amerikanske lovgivere et brev der de ba Trump om å respektere den nye loven, som skal tre i kraft 18. oktober.",
       "keyPoints": [
-        "USAs president Donald Trump har nektet for å begrense Ukrainas tilgang til Starlinks søsternettverk Starshield etter at det begrenset dronehastigheten, og hindret Kievs evne til å beskytte seg mot russiske angrep. «Det var ikke meg, og jeg tror ikke det var [Starlink-eieren] Elon [Musk],» sa Trump, timer etter at Ukrainas president Volodymyr Zelensky sa at hastigheten ennå ikke var gjenopprettet.",
-        "Zelensky sier at Ukraina har rett til å forsvare seg selv etter at Trump kaller de siste streikene en «skam». Amerikanske senatorer krever etterforskning av Ukrainas Starlink-restriksjoner Inne i ukrainsk offensiv presser Russland tilbake – med Starlink som spiller en nøkkelrolle Hvorfor er Starlink internett så viktig på slagmarken i Ukraina?",
-        "Ukraina ble rammet av flere dødelige streiker tirsdag etter nettverksbremsen.",
-        "Starlink is a civilian-use high-speed internet network operated by Musk's SpaceX."
+        "Torsdag utstedte en todelt gruppe på 20 amerikanske lovgivere et brev der de ba Trump om å respektere den nye loven, som skal tre i kraft 18. oktober.",
+        "Trump signerte sanksjonsloven i september, og den skulle tre i kraft søndag.",
+        "Loven tok sikte på russisk økonomi, og ga Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på de fem beste kjøperne av russisk olje og gass – mest betydelig Kina og India.",
+        "I tillegg inkluderer loven sanksjoner mot Russlands president Vladimir Putin, ledende personer i den russiske regjeringen samt banker og andre finansinstitusjoner og Russlands \"skyggeflåte\" av tankskip som brukes til å omgå eksisterende sanksjoner."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg",
-      "localImage": "assets/news/64d94f24ec84c5.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "localImage": "assets/news/8c0ddaeab482d9.jpg",
       "score": 21
     },
     {
@@ -50,7 +50,7 @@
       "category": "USA",
       "published": "16.10. 20:41",
       "publishedISO": "2026-10-16T20:41:54+02:00",
-      "title": "Hvor mellomvalget i USA vil vinnes og tapes",
+      "title": "Hvor det amerikanske mellomvalget vil vinnes og tapes",
       "summary": "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes. Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene. Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
       "keyPoints": [
         "Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "8e0adf6b0c970f",
@@ -127,14 +127,14 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
       "localImage": "assets/news/bf2b2231047796.png",
-      "score": 16
+      "score": 15
     },
     {
       "id": "0286f447c9ddf1",
       "category": "AI",
       "published": "16.10. 07:12",
       "publishedISO": "2026-10-16T07:12:48+02:00",
-      "title": "Snapchat, TikTok og Instagram grooming blir \"raskere og enklere\"",
+      "title": "Snapchat-, TikTok- og Instagram-grooming blir \"raskere og enklere\"",
       "summary": "Eksperter advarer barn helt ned til fem år gamle blir nå pleiet på sosiale medier og spillsider Eksperter oppfordrer foreldre til å snakke med barna sine midt i advarslene om pleie av sosiale medier blir «raskere» og «lettere» enn noen gang før. Childline sa at Snapchat, TikTok og Instagram var de beste plattformene barn nevnte i rådgivning om seksuelle overgrep på nettet i fjor. Nicolau sa at barn som bruker mer tid på nettet betydde at de ble stadig mer sårbare for stell, noe som er \"enklere\" og \"raskere\" enn noen gang før. \"Med nettspill og sosiale medier har du barn fra fem år på nettet, noen av dem har sine egne telefoner, så det kan være i alle aldre,\" sa hun.",
       "keyPoints": [
         "Eksperter advarer barn helt ned til fem år gamle blir nå pleiet på sosiale medier og spillsider Eksperter oppfordrer foreldre til å snakke med barna sine midt i advarslene om pleie av sosiale medier blir «raskere» og «lettere» enn noen gang før.",
@@ -148,7 +148,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg",
       "localImage": "assets/news/0286f447c9ddf1.jpg",
-      "score": 14
+      "score": 13
+    },
+    {
+      "id": "64d94f24ec84c5",
+      "category": "Verden",
+      "published": "16.10. 21:33",
+      "publishedISO": "2026-10-16T21:33:48+02:00",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "summary": "USAs president Donald Trump har nektet for å begrense Ukrainas tilgang til Starlinks søsternettverk Starshield etter at det begrenset dronehastigheten, og hindret Kievs evne til å beskytte seg mot russiske angrep. «Det var ikke meg, og jeg tror ikke det var [Starlink-eieren] Elon [Musk],» sa Trump, timer etter at Ukrainas president Volodymyr Zelensky sa at hastigheten ennå ikke var gjenopprettet. Ukraina ble rammet av flere dødelige streiker tirsdag etter nettverksbremsen. Zelensky sier at Ukraina har rett til å forsvare seg selv etter at Trump kaller de siste streikene en «skam». Amerikanske senatorer krever etterforskning av Ukrainas Starlink-restriksjoner Inne i ukrainsk offensiv presser Russland tilbake – med Starlink som spiller en nøkkelrolle Hvorfor er Starlink internett så viktig på slagmarken i Ukraina?",
+      "keyPoints": [
+        "USAs president Donald Trump har nektet for å begrense Ukrainas tilgang til Starlinks søsternettverk Starshield etter at det begrenset dronehastigheten, og hindret Kievs evne til å beskytte seg mot russiske angrep. «Det var ikke meg, og jeg tror ikke det var [Starlink-eieren] Elon [Musk],» sa Trump, timer etter at Ukrainas president Volodymyr Zelensky sa at hastigheten ennå ikke var gjenopprettet.",
+        "Zelensky sier at Ukraina har rett til å forsvare seg selv etter at Trump kaller de siste streikene en «skam». Amerikanske senatorer krever etterforskning av Ukrainas Starlink-restriksjoner Inne i ukrainsk offensiv presser Russland tilbake – med Starlink som spiller en nøkkelrolle Hvorfor er Starlink internett så viktig på slagmarken i Ukraina?",
+        "Ukraina ble rammet av flere dødelige streiker tirsdag etter nettverksbremsen.",
+        "Starlink is a civilian-use high-speed internet network operated by Musk's SpaceX."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg",
+      "localImage": "assets/news/64d94f24ec84c5.jpg",
+      "score": 20
     },
     {
       "id": "71aed065654812",
@@ -169,14 +190,14 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1cccb83b-334d-371c-a113-b7f5f6948a5f?fit=crop&h=675&upscale=true&w=1200&s=a451d6c047a9e73f8a73b00ed0f0ed0117189080",
       "localImage": "assets/news/71aed065654812.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "1847a339d3a313",
       "category": "Verden",
       "published": "16.10. 17:45",
       "publishedISO": "2026-10-16T17:45:10+02:00",
-      "title": "Vil Ukraina få den støtten som trengs når spenningen med USA øker?",
+      "title": "Vil Ukraina få den støtten som trengs etter hvert som spenningen i USA øker?",
       "summary": "President Zelensky har takket EU for støtten den har gitt Ukraina, og beskriver stats- og regjeringssjefer samlet i Brussel som «virkelige ledere». Se: Vil Ukraina få den støtten som trengs etter hvert som spenningen i USA øker? Video, 00:01:09Se: Vil Ukraina få den støtten som trengs når spenningen i USA øker?",
       "keyPoints": [
         "Video, 00:01:09Se: Vil Ukraina få den støtten som trengs når spenningen i USA øker?",
@@ -190,28 +211,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d887/live/549b5300-c978-11f1-9a39-31b474234113.jpg",
       "localImage": "assets/news/1847a339d3a313.jpg",
-      "score": 16
-    },
-    {
-      "id": "01dc429bdfb67e",
-      "category": "Økonomi",
-      "published": "16.10. 17:02",
-      "publishedISO": "2026-10-16T17:02:15+02:00",
-      "title": "– Trump er veldig redd",
-      "summary": "Dieselavtalen med Russland kan hjelpe Trump før mellomvalget, tror professor. – Trump er veldig redd for det, og vil snakke ned prisen så mye han kan og bidra så mye som mulig. Det siste utslaget er den kontroversielle dieselavtalen Trump-regjeringen i helgen kunngjorde at de hadde inngått med Russland. – Kan det hjelpe republikanerne og Trump i mellomvalget? – Ja, det kan det. Han viser til hvordan oljeprisen gjennom de siste syv måneder etter angrepet på Iran har beveget seg opp og ned i takt med ulike uttalelser om en mulig fredsavtale og fremskritt. – Energipriser generelt – diesel, bensin, gass – er en veldig viktig del av amerikanske velgeres hensyn når de stemmer, fastslår han.",
-      "keyPoints": [
-        "Dieselavtalen med Russland kan hjelpe Trump før mellomvalget, tror professor. – Trump er veldig redd for det, og vil snakke ned prisen så mye han kan og bidra så mye som mulig.",
-        "Han viser til hvordan oljeprisen gjennom de siste syv måneder etter angrepet på Iran har beveget seg opp og ned i takt med ulike uttalelser om en mulig fredsavtale og fremskritt. – Energipriser generelt – diesel, bensin, gass – er en veldig viktig del av amerikanske velgeres hensyn når de stemmer, fastslår han.",
-        "Det siste utslaget er den kontroversielle dieselavtalen Trump-regjeringen i helgen kunngjorde at de hadde inngått med Russland. – Kan det hjelpe republikanerne og Trump i mellomvalget? – Ja, det kan det.",
-        "Professor emeritus og forfatter av flere bøker om internasjonal politisk økonomi og petroleumsøkonomi Det amerikanske forbruket av diesel i transportsektoren var på 2,9 millioner fat per dag i snitt i fjor, ifølge amerikanske myndigheter."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/QgqJ9J/trump-er-veldig-redd",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d3d40cc8-b2b0-3113-8ec6-08aff5782f21?fit=crop&h=675&upscale=true&w=1200&s=e11aca4c87131def0600ea286db311a8c8ad811f",
-      "localImage": "assets/news/01dc429bdfb67e.jpg",
-      "score": 16
+      "score": 15
     }
   ]
 }
