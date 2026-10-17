@@ -1,70 +1,28 @@
 {
-  "updatedAt": "17.10.2026 kl. 10:00",
-  "updatedISO": "2026-10-17T10:00:32.187194+02:00",
+  "updatedAt": "17.10.2026 kl. 14:08",
+  "updatedISO": "2026-10-17T14:08:24.213998+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "c81e81446a3c98",
+      "id": "b7627fdde175bc",
       "category": "Norge",
-      "published": "17.10. 09:00",
-      "publishedISO": "2026-10-17T09:00:04+02:00",
-      "title": "Flyktet som 10-åring: – Familien trodde jeg var død",
-      "summary": "Robby London kom bort fra familien da de flyktet under krigen i Kongo. Som liten gutt var Robby London flyktning i sitt eget hjemland Kongo. – Familien fant meg ikke, så de trodde jeg var død, sier Robby London. Det var mye folk, både voksne og barn, og jeg kom bort fra familien min. – Etter en måned fikk de beskjed om at jeg var funnet, og da ble det gjenforeningsfest.",
+      "published": "17.10. 11:32",
+      "publishedISO": "2026-10-17T11:32:09+02:00",
+      "title": "Norge forlot salen da Russland talte",
+      "summary": "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet. Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken. Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
       "keyPoints": [
-        "Som liten gutt var Robby London flyktning i sitt eget hjemland Kongo. – Familien fant meg ikke, så de trodde jeg var død, sier Robby London.",
-        "Robby London kom bort fra familien da de flyktet under krigen i Kongo.",
-        "Det var mye folk, både voksne og barn, og jeg kom bort fra familien min. – Etter en måned fikk de beskjed om at jeg var funnet, og da ble det gjenforeningsfest.",
-        "Som liten gutt opplevde han krig i hjemlandet Kongo. – Vi fikk ikke noe forvarsel om krigen og alle flyktet i alle retninger."
+        "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet.",
+        "Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken.",
+        "Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
+        "De viser til den russiske krigføringen i Ukraina og sanksjonene Russland er ilagt."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/flyktet-som-10-aring_-_-familien-trodde-jeg-var-dod-1.18055789",
+      "url": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/i-hARGpC0_0oMpmunV31swFNZ0EBmSb-oN4IhG-lCZ3A.jpg",
-      "localImage": "assets/news/c81e81446a3c98.jpg",
-      "score": 17
-    },
-    {
-      "id": "64d94f24ec84c5",
-      "category": "Verden",
-      "published": "16.10. 21:33",
-      "publishedISO": "2026-10-16T21:33:48+02:00",
-      "title": "Trump denies limiting Ukraine access to Starlink network",
-      "summary": "USAs president Donald Trump har nektet for å begrense Ukrainas tilgang til Starlinks søsternettverk Starshield etter at det begrenset dronehastigheten, og hindret Kievs evne til å beskytte seg mot russiske angrep. \"Det var ikke meg, og jeg tror ikke det var [Starlink-eieren] Elon [Musk],\" sa Trump, timer etter at Ukrainas president Volodymyr Zelensky sa at den vanlige hastigheten ennå ikke var gjenopprettet. Ukraina ble rammet av flere dødelige streiker tirsdag etter nettverksbremsen. Zelensky sier at Ukraina har rett til å forsvare seg selv etter at Trump kaller de siste streikene en «skam». Amerikanske senatorer krever etterforskning av Ukrainas Starlink-restriksjoner Inne i ukrainsk offensiv presser Russland tilbake – med Starlink som spiller en nøkkelrolle Hvorfor er Starlink internett så viktig på slagmarken i Ukraina?",
-      "keyPoints": [
-        "USAs president Donald Trump har nektet for å begrense Ukrainas tilgang til Starlinks søsternettverk Starshield etter at det begrenset dronehastigheten, og hindret Kievs evne til å beskytte seg mot russiske angrep. \"Det var ikke meg, og jeg tror ikke det var [Starlink-eieren] Elon [Musk],\" sa Trump, timer etter at Ukrainas president Volodymyr Zelensky sa at den vanlige hastigheten ennå ikke var gjenopprettet.",
-        "Zelensky sier at Ukraina har rett til å forsvare seg selv etter at Trump kaller de siste streikene en «skam». Amerikanske senatorer krever etterforskning av Ukrainas Starlink-restriksjoner Inne i ukrainsk offensiv presser Russland tilbake – med Starlink som spiller en nøkkelrolle Hvorfor er Starlink internett så viktig på slagmarken i Ukraina?",
-        "Ukraina ble rammet av flere dødelige streiker tirsdag etter nettverksbremsen.",
-        "Starlink is a civilian-use, high-speed internet network operated by Musk's SpaceX."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a95/live/08a3c460-c990-11f1-adc3-01d8629f0470.jpg",
-      "localImage": "assets/news/64d94f24ec84c5.jpg",
-      "score": 19
-    },
-    {
-      "id": "d5cb405b934012",
-      "category": "USA",
-      "published": "16.10. 20:41",
-      "publishedISO": "2026-10-16T20:41:54+02:00",
-      "title": "Hvor det amerikanske mellomvalget vil vinnes og tapes",
-      "summary": "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes. Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene. Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
-      "keyPoints": [
-        "Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
-        "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes.",
-        "Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene.",
-        "I begge tilfeller mistet den sittende presidenten kontrollen over huset i mellomperiodene, men beholdt grepet om senatet."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg",
-      "localImage": "assets/news/d5cb405b934012.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
+      "localImage": "assets/news/b7627fdde175bc.webp",
+      "score": 21
     },
     {
       "id": "187f91a76ce787",
@@ -85,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "8e0adf6b0c970f",
@@ -106,49 +64,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/53924518-a830-3dc7-9a3e-52247cf9f6b1?fit=crop&h=675&upscale=true&w=1200&s=7f11544b6a1e121eda17866dfb2155c59eb7c865",
       "localImage": "assets/news/8e0adf6b0c970f.jpg",
+      "score": 15
+    },
+    {
+      "id": "c81e81446a3c98",
+      "category": "Norge",
+      "published": "17.10. 09:00",
+      "publishedISO": "2026-10-17T09:00:04+02:00",
+      "title": "Flyktet som 10-åring: – Familien trodde jeg var død",
+      "summary": "Robby London kom bort fra familien da de flyktet under krigen i Kongo. Som liten gutt var Robby London flyktning i sitt eget hjemland Kongo. – Familien fant meg ikke, så de trodde jeg var død, sier Robby London. Det var mye folk, både voksne og barn, og jeg kom bort fra familien min. – Etter en måned fikk de beskjed om at jeg var funnet, og da ble det gjenforeningsfest.",
+      "keyPoints": [
+        "Som liten gutt var Robby London flyktning i sitt eget hjemland Kongo. – Familien fant meg ikke, så de trodde jeg var død, sier Robby London.",
+        "Robby London kom bort fra familien da de flyktet under krigen i Kongo.",
+        "Det var mye folk, både voksne og barn, og jeg kom bort fra familien min. – Etter en måned fikk de beskjed om at jeg var funnet, og da ble det gjenforeningsfest.",
+        "Som liten gutt opplevde han krig i hjemlandet Kongo. – Vi fikk ikke noe forvarsel om krigen og alle flyktet i alle retninger."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/flyktet-som-10-aring_-_-familien-trodde-jeg-var-dod-1.18055789",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/i-hARGpC0_0oMpmunV31swFNZ0EBmSb-oN4IhG-lCZ3A.jpg",
+      "localImage": "assets/news/c81e81446a3c98.jpg",
       "score": 16
-    },
-    {
-      "id": "bf2b2231047796",
-      "category": "AI",
-      "published": "16.10. 17:31",
-      "publishedISO": "2026-10-16T17:31:33+02:00",
-      "title": "Russian man linked to deadly London hospitals hack arrested",
-      "summary": "Den påståtte Qilin-hackeren Vladimir K. ble varetektsfengslet ved ankomst til Frankfurt. Tysk politi har arrestert en russisk mann anklaget for å være en del av en nettkriminalitetsgjeng som forårsaket kaos ved Londons sykehus og bidro til en pasients død. Hacket av blodprøveselskapet Synnovis i 2024 førte til forstyrrede patologitjenester på tvers av flere London-sykehus og var det første cyberangrepet i historien som ble direkte knyttet til et dødsfall. Den pågrepne mistenkte er en 28 år gammel russisk mann navngitt av tysk presse som Vladimir K.",
-      "keyPoints": [
-        "Hacket av blodprøveselskapet Synnovis i 2024 førte til forstyrrede patologitjenester på tvers av flere London-sykehus og var det første cyberangrepet i historien som ble direkte knyttet til et dødsfall.",
-        "Den påståtte Qilin-hackeren Vladimir K. ble varetektsfengslet ved ankomst til Frankfurt. Tysk politi har arrestert en russisk mann anklaget for å være en del av en nettkriminalitetsgjeng som forårsaket kaos ved Londons sykehus og bidro til en pasients død.",
-        "The detained suspect is a 28-year-old Russian man named by German press as Vladimir K.",
-        "En kritisk hendelse ble erklært ved noen sykehus i London etter at leverandøren ble målrettet av Qilin 3. juni 2024, med blodoverføringstjenester alvorlig forstyrret, operasjoner kansellert og akuttpasienter omdirigert andre steder."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
-      "localImage": "assets/news/bf2b2231047796.png",
-      "score": 14
-    },
-    {
-      "id": "0286f447c9ddf1",
-      "category": "AI",
-      "published": "16.10. 07:12",
-      "publishedISO": "2026-10-16T07:12:48+02:00",
-      "title": "Snapchat-, TikTok- og Instagram-grooming blir \"raskere og enklere\"",
-      "summary": "Eksperter advarer barn helt ned til fem år gamle blir nå pleiet på sosiale medier og spillsider Eksperter oppfordrer foreldre til å snakke med barna sine midt i advarslene om pleie av sosiale medier blir «raskere» og «lettere» enn noen gang før. Childline sa at Snapchat, TikTok og Instagram var de beste plattformene barn nevnte i rådgivning om seksuelle overgrep på nettet i fjor. Nicolau sa at barn som bruker mer tid på nettet betydde at de ble stadig mer sårbare for stell, noe som er \"enklere\" og \"raskere\" enn noen gang før. \"Med nettspill og sosiale medier har du barn fra fem år på nettet, noen av dem har sine egne telefoner, så det kan være i alle aldre,\" sa hun.",
-      "keyPoints": [
-        "Eksperter advarer barn helt ned til fem år gamle blir nå pleiet på sosiale medier og spillsider Eksperter oppfordrer foreldre til å snakke med barna sine midt i advarslene om pleie av sosiale medier blir «raskere» og «lettere» enn noen gang før.",
-        "Nicolau sa at barn som bruker mer tid på nettet betydde at de ble stadig mer sårbare for stell, noe som er \"enklere\" og \"raskere\" enn noen gang før. \"Med nettspill og sosiale medier har du barn fra fem år på nettet, noen av dem har sine egne telefoner, så det kan være i alle aldre,\" sa hun.",
-        "Childline sa at Snapchat, TikTok og Instagram var de beste plattformene barn nevnte i rådgivning om seksuelle overgrep på nettet i fjor.",
-        "Advarselen kommer etter at tre menn ble fengslet for å ha stelt en 17 år gammel jente på Snapchat før de voldtok henne."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/51e0/live/009ee4b0-c93c-11f1-8c38-abe947e72d6d.jpg",
-      "localImage": "assets/news/0286f447c9ddf1.jpg",
-      "score": 12
     },
     {
       "id": "34d1b64451cfcd",
@@ -169,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wM6l29Owk43JckurKi0Hgg_afanRRFUo6bliTJGf6gyg.jpg",
       "localImage": "assets/news/34d1b64451cfcd.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "71aed065654812",
@@ -190,28 +127,91 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1cccb83b-334d-371c-a113-b7f5f6948a5f?fit=crop&h=675&upscale=true&w=1200&s=a451d6c047a9e73f8a73b00ed0f0ed0117189080",
       "localImage": "assets/news/71aed065654812.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "0e2629b6cccaa6",
+      "id": "53f22f440d6f2d",
       "category": "Norge",
-      "published": "16.10. 19:09",
-      "publishedISO": "2026-10-16T19:09:36+02:00",
-      "title": "Regjeringen trosser faglige råd: Tillater sykling i Rondane midt i høysesongen",
-      "summary": "Hun er langt fra fornøyd med forskriften regjeringen nå har innført, som medfører en stenging av Spranget parkering. – Det er svært beklagelig og synd at Ap og regjeringen velger å overkjøre et flertall i Sel kommunestyre og utvide Rondane nasjonalpark, sier Siem til NRK. I forskriften som regjeringen nå har vedtatt, har regjeringen vedtatt tillate sykling mellom Reinsbommen og Rondvassbu i perioden fra 25. juni til 25. august. – Det skal fremdeles være mulig å sykle på strekningen inn til Rondvassbu i den mest besøkte perioden av året, sier Aasland. Krokeide mener fortsatt det burde blitt gjennomført en konsekvensutredning før parkeringsplassen på Spranget ble nedlagt. – Fremskrittspartiet mener tiltakene regjeringen vil gjennomføre i Rondane nasjonalpark ikke er godt nok belyst.",
+      "published": "17.10. 13:52",
+      "publishedISO": "2026-10-17T13:52:23+02:00",
+      "title": "Møter Russland fysisk til fiskeriforhandlingar: – Krevjande",
+      "summary": "Måndag startar dei årlege norsk-russiske kvoteforhandlingane mellom Noreg og Russland. Fiskeriavtalen er eit av svært få kontaktpunkt som framleis finst mellom dei to landa. – Det er klart det er meir krevjande enn det har vore dei 50 åra vi har hatt fiskeriavtalen med Russland, seier fiskeri- og havminister Marianne Sivertsen Næss (Ap). Maråk trur forhandlingane med Russland blir krevjande. – I første rekke så håpar vi at partane i alle fall blir samde om forsvarlege kvotar på dei fleste bestandane slik at vi får landa det.",
       "keyPoints": [
-        "I forskriften som regjeringen nå har vedtatt, har regjeringen vedtatt tillate sykling mellom Reinsbommen og Rondvassbu i perioden fra 25. juni til 25. august. – Det skal fremdeles være mulig å sykle på strekningen inn til Rondvassbu i den mest besøkte perioden av året, sier Aasland.",
-        "Hun er langt fra fornøyd med forskriften regjeringen nå har innført, som medfører en stenging av Spranget parkering. – Det er svært beklagelig og synd at Ap og regjeringen velger å overkjøre et flertall i Sel kommunestyre og utvide Rondane nasjonalpark, sier Siem til NRK.",
-        "Krokeide mener fortsatt det burde blitt gjennomført en konsekvensutredning før parkeringsplassen på Spranget ble nedlagt. – Fremskrittspartiet mener tiltakene regjeringen vil gjennomføre i Rondane nasjonalpark ikke er godt nok belyst.",
-        "Rondane nasjonalpark utvides, og den omstridte parkeringsplassen på Spranget i Sel – selve hovedinnfallsporten til nasjonalparken – skal fjernes."
+        "Fiskeriavtalen er eit av svært få kontaktpunkt som framleis finst mellom dei to landa. – Det er klart det er meir krevjande enn det har vore dei 50 åra vi har hatt fiskeriavtalen med Russland, seier fiskeri- og havminister Marianne Sivertsen Næss (Ap).",
+        "Maråk trur forhandlingane med Russland blir krevjande. – I første rekke så håpar vi at partane i alle fall blir samde om forsvarlege kvotar på dei fleste bestandane slik at vi får landa det.",
+        "Måndag startar dei årlege norsk-russiske kvoteforhandlingane mellom Noreg og Russland.",
+        "Det er for å kunne løyse betre ein del av dei tekniske og forvaltningsmessige spørsmåla som er krevjande, forklarar Næss i NRK Helgemorgen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/regjeringen-trosser-faglige-rad_-tillater-sykling-i-rondane-midt-i-hoysesongen-1.18057139",
+      "url": "https://www.nrk.no/tromsogfinnmark/moter-russland-fysisk-til-fiskeriforhandlingar_-_-krevjande-1.18057388",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/wIuf5x_aRmVxls93tdk_qw1E4DX-cKkEl7BLxJKF94RQ.jpg",
-      "localImage": "assets/news/0e2629b6cccaa6.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/6O3XbLAJc3Q3-0QbRO0CcgBQM7JAt4SQhNt8sMBxVz0g.jpg",
+      "localImage": "assets/news/53f22f440d6f2d.jpg",
+      "score": 13
+    },
+    {
+      "id": "fe947f0178c7c4",
+      "category": "Norge",
+      "published": "17.10. 13:47",
+      "publishedISO": "2026-10-17T13:47:26+02:00",
+      "title": "Imre Skjerve Aune (15) drømmer om paralympisk: – Vil bli så god som mulig",
+      "summary": "15 år gamle Imre Skjerve Aune har i løpet av et års tid blitt en av landets beste golfspillere i paraklassen. Trener Preben Dahl og Imre Skjerve Aune har allerede lagt planer for 2027-sesongen. Hansen synes det er svært positivt å se unge spillere som Imre Skjerve Aune satse på sporten. – Synlige rollemodeller kan inspirere flere til å prøve golfsporten, og til å oppdage hvilke muligheter som finnes, mener Hansen.",
+      "keyPoints": [
+        "15 år gamle Imre Skjerve Aune har i løpet av et års tid blitt en av landets beste golfspillere i paraklassen.",
+        "Trener Preben Dahl og Imre Skjerve Aune har allerede lagt planer for 2027-sesongen.",
+        "Hansen synes det er svært positivt å se unge spillere som Imre Skjerve Aune satse på sporten. – Synlige rollemodeller kan inspirere flere til å prøve golfsporten, og til å oppdage hvilke muligheter som finnes, mener Hansen.",
+        "Så jeg er blitt veldig opptatt av golf i det siste, innrømmer Imre Skjerve Aune."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/imre-skjerve-aune-_15_-drommer-om-paralympisk_-_-vil-bli-sa-god-som-mulig-1.18042080",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/-L4KhkIp63uvbRbcHKPWSgazxaVEWT1UXc45Va8ResRQ.jpg",
+      "localImage": "assets/news/fe947f0178c7c4.jpg",
+      "score": 13
+    },
+    {
+      "id": "fede53153bdd16",
+      "category": "Norge",
+      "published": "17.10. 12:55",
+      "publishedISO": "2026-10-17T12:55:29+02:00",
+      "title": "Haaland og Walle Egeli kan møtes til norsk spissduell i Premier League – NRK-ekspert med beskjed",
+      "summary": "NORSK DUELL: Sindre Walle Egeli og Erling Braut Haaland kan møtes i Premier League lørdag. Når Manchester City og Ipswich møtes i Premier League lørdag, er det neppe noen overraskelse om Erling Braut Haaland finner veien til nettmaskene. Han trekker fram at Walle Egeli får spille fulle kamper for U21-landslaget, noe som bidrar til å holde ham i kampform. – Det er ikke så mange 20-åringer som går rett inn og spiller fast i Premier League.",
+      "keyPoints": [
+        "NORSK DUELL: Sindre Walle Egeli og Erling Braut Haaland kan møtes i Premier League lørdag.",
+        "Når Manchester City og Ipswich møtes i Premier League lørdag, er det neppe noen overraskelse om Erling Braut Haaland finner veien til nettmaskene.",
+        "Han trekker fram at Walle Egeli får spille fulle kamper for U21-landslaget, noe som bidrar til å holde ham i kampform. – Det er ikke så mange 20-åringer som går rett inn og spiller fast i Premier League.",
+        "Erling Braut Haaland og Sindre Walle Egeli har begge vist at de vet hvor målet står."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/haaland-og-walle-egeli-kan-motes-til-norsk-spissduell-i-premier-league-_-nrk-ekspert-med-beskjed-1.18057149",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/mMxTBEi1_FHMOObviSCBfAs1cLT3TzNpyGovppD2wWZA.png",
+      "localImage": "assets/news/fede53153bdd16.webp",
+      "score": 13
+    },
+    {
+      "id": "899a60048b70a9",
+      "category": "Norge",
+      "published": "17.10. 12:01",
+      "publishedISO": "2026-10-17T12:01:49+02:00",
+      "title": "Lillan Müller (75) satser på karriere som skuespiller etter «Butterfly»",
+      "summary": "75 år gamle Lillian Müller er aktuell i spillefilmen «Butterfly» sammen med Renate Reinsve. Lillian Müller (75) drømmer om nye roller etter å ha spilt i spillefilmen «Butterfly». – Det er en drøm som har gått i oppfyllelse å få være med i denne filmen. Men etter mange år i rampelyset i USA satser nå 75 åringen nå på en karriere som skuespiller.",
+      "keyPoints": [
+        "Men etter mange år i rampelyset i USA satser nå 75 åringen nå på en karriere som skuespiller.",
+        "75 år gamle Lillian Müller er aktuell i spillefilmen «Butterfly» sammen med Renate Reinsve.",
+        "Lillian Müller (75) drømmer om nye roller etter å ha spilt i spillefilmen «Butterfly». – Det er en drøm som har gått i oppfyllelse å få være med i denne filmen.",
+        "Lillian Müller (til venstre) og Renate Reinsve spiller mot hverandre i filmen Butterfly."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/lillan-muller-_75_-satser-pa-karriere-som-skuespiller-etter-_butterfly_-1.18049288",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/HszhzeRvBQOOFnOUbCAPeAujsXGPyTuxVqb0a-_G_wdg.jpg",
+      "localImage": "assets/news/899a60048b70a9.jpg",
+      "score": 13
     }
   ]
 }
