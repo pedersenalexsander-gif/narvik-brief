@@ -1,6 +1,6 @@
 {
-  "updatedAt": "17.10.2026 kl. 22:19",
-  "updatedISO": "2026-10-17T22:19:15.215825+02:00",
+  "updatedAt": "18.10.2026 kl. 00:32",
+  "updatedISO": "2026-10-18T00:32:32.685409+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -127,28 +127,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "bf2b2231047796",
+      "id": "43a0bc92d20954",
       "category": "AI",
-      "published": "16.10. 17:31",
-      "publishedISO": "2026-10-16T17:31:33+02:00",
-      "title": "Russian man linked to deadly London hospitals hack arrested",
-      "summary": "Den påståtte Qilin-hackeren Vladimir K. ble varetektsfengslet ved ankomst til Frankfurt. Tysk politi har arrestert en russisk mann anklaget for å være en del av en nettkriminalitetsgjeng som forårsaket kaos ved Londons sykehus og bidro til en pasients død. Hacket av blodprøveselskapet Synnovis i 2024 førte til forstyrrede patologitjenester på tvers av flere London-sykehus og var det første cyberangrepet i historien som ble direkte knyttet til et dødsfall. Den pågrepne mistenkte er en 28 år gammel russisk mann navngitt av tysk presse som Vladimir K.",
+      "published": "17.10. 22:24",
+      "publishedISO": "2026-10-17T22:24:32+02:00",
+      "title": "No further action against government adviser's wife over Palestine Action post, police say",
+      "summary": "Politiet sier at ingen ytterligere tiltak vil bli iverksatt mot kona til regjeringens nasjonale sikkerhetsrådgiver etter at hun postet på sosiale medier med henvisning til Palestine Action. Lørdag sa Metropolitan Police at Helms innlegg ble \"vurdert av spesialistoffiserer og det ble fastslått at det ikke nådde den kriminelle terskelen\". \"Ingen ytterligere polititiltak vil bli iverksatt,\" la styrken til. Fredag ​​hadde Met-politiet sagt at det var \"i ferd med å bli vurdert for å avgjøre om ytterligere politietterforskning kan være nødvendig\" etter at det ble \"gjort oppmerksom på et X-innlegg torsdag 15. oktober som refererte til Palestine Action\".",
       "keyPoints": [
-        "Hacket av blodprøveselskapet Synnovis i 2024 førte til forstyrrede patologitjenester på tvers av flere London-sykehus og var det første cyberangrepet i historien som ble direkte knyttet til et dødsfall.",
-        "Den påståtte Qilin-hackeren Vladimir K. ble varetektsfengslet ved ankomst til Frankfurt. Tysk politi har arrestert en russisk mann anklaget for å være en del av en nettkriminalitetsgjeng som forårsaket kaos ved Londons sykehus og bidro til en pasients død.",
-        "The detained suspect is a 28-year-old Russian man named by German press as Vladimir K.",
-        "En kritisk hendelse ble erklært ved noen sykehus i London etter at leverandøren ble målrettet av Qilin 3. juni 2024, med blodoverføringstjenester alvorlig forstyrret, operasjoner kansellert og akuttpasienter omdirigert andre steder."
+        "Politiet sier at ingen ytterligere tiltak vil bli iverksatt mot kona til regjeringens nasjonale sikkerhetsrådgiver etter at hun postet på sosiale medier med henvisning til Palestine Action.",
+        "Fredag ​​hadde Met-politiet sagt at det var \"i ferd med å bli vurdert for å avgjøre om ytterligere politietterforskning kan være nødvendig\" etter at det ble \"gjort oppmerksom på et X-innlegg torsdag 15. oktober som refererte til Palestine Action\".",
+        "Lørdag sa Metropolitan Police at Helms innlegg ble \"vurdert av spesialistoffiserer og det ble fastslått at det ikke nådde den kriminelle terskelen\". \"Ingen ytterligere polititiltak vil bli iverksatt,\" la styrken til.",
+        "Sarah Helm, som er gift med Jonathan Powell, skrev på X torsdag: «Gud hjelpe oss forfattere som støtter Palestine og Palestine Action». Hun svarte på en diskusjon om forfatteren Sally Rooney, hvis romaner ikke vil bli levert til bokhandlere i Storbritannia etter hennes kunngjøring om at hun har til hensikt å bruke royalties til å støtte den forbudte organisasjonen."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/215f/live/0e7d2e70-c969-11f1-9a39-31b474234113.png",
-      "localImage": "assets/news/bf2b2231047796.png",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg",
+      "localImage": "assets/news/43a0bc92d20954.jpg",
+      "score": 17
     },
     {
       "id": "c81e81446a3c98",
@@ -169,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/i-hARGpC0_0oMpmunV31swFNZ0EBmSb-oN4IhG-lCZ3A.jpg",
       "localImage": "assets/news/c81e81446a3c98.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "34d1b64451cfcd",
@@ -190,27 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wM6l29Owk43JckurKi0Hgg_afanRRFUo6bliTJGf6gyg.jpg",
       "localImage": "assets/news/34d1b64451cfcd.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "1e9dd6b52345ad",
-      "category": "Økonomi",
-      "published": "17.10. 19:52",
-      "publishedISO": "2026-10-17T19:52:52+02:00",
-      "title": "Krever Temu-gebyr",
-      "summary": "Når Arbeiderpartiet skal forhandle om neste års statsbudsjett, vil MDG kreve at det blir dyrere å nettshoppe fra utlandet. – Vi må stanse flommen av billigvarer fra Temu og Shein, som ofte er helseskadelige, brannfarlige, miljøfiendtlige og utkonkurrerer lokale butikker i Norge, sier MDG-politiker Une Bastholm til E24. Dette er ment å demme opp for noe av den massive flommen av Kina-pakker som kommer hver dag. – MDG vil i budsjettforhandlingene kreve at regjeringen innfører et kontrollgebyr på lavverdipakker fra land utenfor EØS fra 1. januar 2027. Gebyret bør ligge på minst samme nivå som i resten av EU, altså minst 20 kroner per pakke, sier Bastholm.",
+      "id": "53e5456d2fbbf2",
+      "category": "Verden",
+      "published": "18.10. 00:09",
+      "publishedISO": "2026-10-18T00:09:50+02:00",
+      "title": "North Korea: What satellite images reveal about Kim Jong Un's summer retreat",
+      "summary": "Et 80 m (263 fot) luksusfartøy har gjentatte ganger blitt oppdaget på satellittbilder utenfor Nord-Koreas Wonsan-kyst fra juli til midten av oktober i år. Dette ligger i nærheten av Wonsan, en badeby med en vidstrakt villa brukt av Nord-Koreas leder Kim Jong Un og hans familie. Selv om Nord-Korea aldri har offentliggjort fartøyenes offisielle eierskap, fant BBCs analyse av historiske satellittbilder et stort fartøy med de samme særegne egenskapene i Wonsan i 2002, da Kim Jong Il styrte Nord-Korea.",
       "keyPoints": [
-        "Dette er ment å demme opp for noe av den massive flommen av Kina-pakker som kommer hver dag. – MDG vil i budsjettforhandlingene kreve at regjeringen innfører et kontrollgebyr på lavverdipakker fra land utenfor EØS fra 1. januar 2027.",
-        "Når Arbeiderpartiet skal forhandle om neste års statsbudsjett, vil MDG kreve at det blir dyrere å nettshoppe fra utlandet. – Vi må stanse flommen av billigvarer fra Temu og Shein, som ofte er helseskadelige, brannfarlige, miljøfiendtlige og utkonkurrerer lokale butikker i Norge, sier MDG-politiker Une Bastholm til E24.",
-        "Gebyret bør ligge på minst samme nivå som i resten av EU, altså minst 20 kroner per pakke, sier Bastholm.",
-        "Utenlandske nettbutikker kan i dag sende tollfritt til norske kunder for opptil 3.000 kroner."
+        "Selv om Nord-Korea aldri har offentliggjort fartøyenes offisielle eierskap, fant BBCs analyse av historiske satellittbilder et stort fartøy med de samme særegne egenskapene i Wonsan i 2002, da Kim Jong Il styrte Nord-Korea.",
+        "Et 80 m (263 fot) luksusfartøy har gjentatte ganger blitt oppdaget på satellittbilder utenfor Nord-Koreas Wonsan-kyst fra juli til midten av oktober i år.",
+        "Dette ligger i nærheten av Wonsan, en badeby med en vidstrakt villa brukt av Nord-Koreas leder Kim Jong Un og hans familie.",
+        "En avhopper som tjenestegjorde i 13 år ved å vokte boliger brukt av daværende leder Kim Jong Il - gjennom 1990-tallet til begynnelsen av 2000-tallet - fortalte BBC at villaene rundt Wonsan ble brukt som et tilfluktssted av eliten."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/KrbLjG/krever-temu-gebyr",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0d812278-e0a6-30b3-ad8a-2fbf17672d32?fit=crop&h=675&upscale=true&w=1200&s=e50260e2704556a9d130ed64a1b82b9d0a15d88b",
-      "localImage": "assets/news/1e9dd6b52345ad.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
+      "localImage": "assets/news/53e5456d2fbbf2.png",
       "score": 13
     }
   ]
