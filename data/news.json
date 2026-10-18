@@ -1,70 +1,28 @@
 {
-  "updatedAt": "18.10.2026 kl. 06:57",
-  "updatedISO": "2026-10-18T06:57:24.062439+02:00",
+  "updatedAt": "18.10.2026 kl. 11:24",
+  "updatedISO": "2026-10-18T11:24:36.815202+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "b7627fdde175bc",
+      "id": "7c05c939640a52",
       "category": "Norge",
-      "published": "17.10. 11:32",
-      "publishedISO": "2026-10-17T11:32:09+02:00",
-      "title": "Norge forlot salen da Russland talte",
-      "summary": "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet. Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken. Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
+      "published": "18.10. 03:48",
+      "publishedISO": "2026-10-18T03:48:23+02:00",
+      "title": "Canada: Flere døde og skadede i brann på militærbase",
+      "summary": "Flere personer er døde og skadet i en stor brann på en militærbase i provinsen Alberta etter det Canadas statsminister Mark Carney kaller «en alvorlig hendelse». – En alvorlig hendelse har utløst en stor brann på basen Wainwright i Alberta, skriver Carney i en melding på X. Ifølge forsvarsminister David McGuinty er det både omkomne og skadede. Mandag er det folkeavstemning i provinsen, der innbyggerne blant annet skal ta stilling til en mulig løsrivelse fra Canada.",
       "keyPoints": [
-        "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet.",
-        "Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken.",
-        "Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
-        "De viser til den russiske krigføringen i Ukraina og sanksjonene Russland er ilagt."
+        "Flere personer er døde og skadet i en stor brann på en militærbase i provinsen Alberta etter det Canadas statsminister Mark Carney kaller «en alvorlig hendelse». – En alvorlig hendelse har utløst en stor brann på basen Wainwright i Alberta, skriver Carney i en melding på X.",
+        "Mandag er det folkeavstemning i provinsen, der innbyggerne blant annet skal ta stilling til en mulig løsrivelse fra Canada.",
+        "Ifølge forsvarsminister David McGuinty er det både omkomne og skadede.",
+        "På en pressekonferanse sa McGuinty at han ikke kan gi ytterligere detaljer, men kaller saken «en meget aktiv og følsom situasjon». – Vi vil kunne si mer de neste timene og dagene."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
+      "url": "https://www.nrk.no/nyheter/canada_-flere-dode-og-skadede-i-brann-pa-militaerbase-1.18057740",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
-      "localImage": "assets/news/b7627fdde175bc.webp",
-      "score": 18
-    },
-    {
-      "id": "96b4d2d63bf4e3",
-      "category": "Verden",
-      "published": "18.10. 03:10",
-      "publishedISO": "2026-10-18T03:10:25+02:00",
-      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-      "summary": "USAs president Donald Trump blokkerte en rekke sanksjoner mot Russland to dager før de skulle tre i kraft, ettersom bråket med hans ukrainske motpart Volodymyr Zelensky blir dypere. Den nye amerikanske sanksjonsloven tok sikte på Russlands økonomi ved å gi Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på import fra de fem beste kjøperne av russisk olje og gass – særlig Kina og India. Han pekte på russiske angrep over natten på 15 ukrainske energianlegg som hadde forårsaket strømbrudd i flere regioner og sa: \"Russland prøver å forårsake en blackout i Ukraina - rett før vinteren.\" Zelensky sa at det var \"viktig at alle i Amerika også ser hva som virkelig skjer\" på bakken.",
-      "keyPoints": [
-        "US President Donald Trump blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens.",
-        "Den nye amerikanske sanksjonsloven tok sikte på Russlands økonomi ved å gi Trump brede fullmakter til å innkreve tollsatser på opptil 100 % på import fra de fem beste kjøperne av russisk olje og gass – særlig Kina og India.",
-        "Han pekte på russiske angrep over natten på 15 ukrainske energianlegg som hadde forårsaket strømbrudd i flere regioner og sa: \"Russland prøver å forårsake en blackout i Ukraina - rett før vinteren.\" Zelensky sa at det var \"viktig at alle i Amerika også ser hva som virkelig skjer\" på bakken.",
-        "Demokrater inkludert Virginia-kongressmedlem Don Beyer kritiserte trekket, og anklaget Trump for å kapitulere til Moskva og snu ryggen til Kiev og Zelensky. \"Trumps siste overgivelse til Putin forråder igjen våre ukrainske partnere og trosser kongressens klare hensikter med lovgivning designet for å straffe Russland for dets ulovlige angrepskrig,\" skrev Beyer på X."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-      "localImage": "assets/news/96b4d2d63bf4e3.jpg",
-      "score": 17
-    },
-    {
-      "id": "e671e675eb89d0",
-      "category": "USA",
-      "published": "18.10. 02:41",
-      "publishedISO": "2026-10-18T02:41:06+02:00",
-      "title": "Three takeaways from Elon Musk's latest political donations",
-      "summary": "Milliardær Tesla-sjef Elon Musk øser nok en gang hundrevis av millioner av dollar inn i et amerikansk valg – denne gangen med det formål å hjelpe republikanerne med å opprettholde kontrollen over Kongressen. Det er en av de største offentlig kjente enkelte politiske donasjonene i USAs historie, og noen har antydet at den er den største noensinne. Og hans store utgifter i Texas og i Texas Senatet ser ut til å peke på Musks forståelse av det, sa politisk analytiker Cayce Myers til BBC. \"Republikanere har en innsamlingsfordel denne gangen, men innsamling i seg selv garanterer faktisk ikke suksess,\" sa han.",
-      "keyPoints": [
-        "Milliardær Tesla-sjef Elon Musk øser nok en gang hundrevis av millioner av dollar inn i et amerikansk valg – denne gangen med det formål å hjelpe republikanerne med å opprettholde kontrollen over Kongressen.",
-        "Og hans store utgifter i Texas og i Texas Senatet ser ut til å peke på Musks forståelse av det, sa politisk analytiker Cayce Myers til BBC. \"Republikanere har en innsamlingsfordel denne gangen, men innsamling i seg selv garanterer faktisk ikke suksess,\" sa han.",
-        "Det er en av de største offentlig kjente enkelte politiske donasjonene i USAs historie, og noen har antydet at den er den største noensinne.",
-        "Musk donerte over 200 millioner dollar (150 millioner pund) i kvartalet som ble avsluttet 30. september, ifølge registreringer fra Federal Election Commission (FEC) gjennomgått av BBC."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2dgq8jljjo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg",
-      "localImage": "assets/news/e671e675eb89d0.jpg",
-      "score": 13
+      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
+      "localImage": "assets/news/7c05c939640a52.jpg",
+      "score": 20
     },
     {
       "id": "d819cc32cf1a58",
@@ -85,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/43218d25-266a-3607-a746-2ee2d30df51a?fit=crop&h=675&upscale=true&w=1200&s=6c140ffdd233a21478659f6c49a9f119e6357ad9",
       "localImage": "assets/news/d819cc32cf1a58.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "187f91a76ce787",
@@ -106,70 +64,112 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "43a0bc92d20954",
-      "category": "AI",
-      "published": "17.10. 22:24",
-      "publishedISO": "2026-10-17T22:24:32+02:00",
-      "title": "No further action against government adviser's wife over Palestine Action post, police say",
-      "summary": "Politiet sier at ingen ytterligere tiltak vil bli iverksatt mot kona til regjeringens nasjonale sikkerhetsrådgiver etter at hun postet på sosiale medier med henvisning til Palestine Action. Lørdag sa Metropolitan Police at Helms innlegg ble \"vurdert av spesialistoffiserer og det ble fastslått at det ikke nådde den kriminelle terskelen\". \"Ingen ytterligere polititiltak vil bli iverksatt,\" la styrken til. Fredag ​​hadde Met-politiet sagt at det var \"i ferd med å bli vurdert for å avgjøre om ytterligere politietterforskning kan være nødvendig\" etter at det ble \"gjort oppmerksom på et X-innlegg torsdag 15. oktober som refererte til Palestine Action\".",
-      "keyPoints": [
-        "Politiet sier at ingen ytterligere tiltak vil bli iverksatt mot kona til regjeringens nasjonale sikkerhetsrådgiver etter at hun postet på sosiale medier med henvisning til Palestine Action.",
-        "Fredag ​​hadde Met-politiet sagt at det var \"i ferd med å bli vurdert for å avgjøre om ytterligere politietterforskning kan være nødvendig\" etter at det ble \"gjort oppmerksom på et X-innlegg torsdag 15. oktober som refererte til Palestine Action\".",
-        "Lørdag sa Metropolitan Police at Helms innlegg ble \"vurdert av spesialistoffiserer og det ble fastslått at det ikke nådde den kriminelle terskelen\". \"Ingen ytterligere polititiltak vil bli iverksatt,\" la styrken til.",
-        "Sarah Helm, som er gift med Jonathan Powell, skrev på X torsdag: «Gud hjelpe oss forfattere som støtter Palestine og Palestine Action». Hun svarte på en diskusjon om forfatteren Sally Rooney, hvis romaner ikke vil bli levert til bokhandlere i Storbritannia etter hennes kunngjøring om at hun har til hensikt å bruke royalties til å støtte den forbudte organisasjonen."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg",
-      "localImage": "assets/news/43a0bc92d20954.jpg",
-      "score": 16
-    },
-    {
-      "id": "70aae5214ad001",
-      "category": "Verden",
-      "published": "18.10. 06:00",
-      "publishedISO": "2026-10-18T06:00:50+02:00",
-      "title": "Deadly fire breaks out at Canada military base",
-      "summary": "Forsvarsminister David McGuinty sier at det er ofre, men gikk ikke i detalj En stor brann nær en kanadisk militærbase i Alberta har drept og skadet noen mennesker, sa forsvarsministeren, uten å bekrefte antall ofre. Canadas statsminister Mark Carney sa på X at en \"alvorlig hendelse som skapte en stor brann\" hadde skjedd, og la til at hans \"tanker går til alle de modige kvinnene og mennene som er berørt\". Canadian Forces Base Wainwright, der brannen brøt ut, er en av landets travleste militære treningsbaser.",
-      "keyPoints": [
-        "Canadian Forces Base Wainwright, der brannen brøt ut, er en av landets travleste militære treningsbaser.",
-        "Forsvarsminister David McGuinty sier at det er ofre, men gikk ikke i detalj En stor brann nær en kanadisk militærbase i Alberta har drept og skadet noen mennesker, sa forsvarsministeren, uten å bekrefte antall ofre.",
-        "Canadas statsminister Mark Carney sa på X at en \"alvorlig hendelse som skapte en stor brann\" hadde skjedd, og la til at hans \"tanker går til alle de modige kvinnene og mennene som er berørt\".",
-        "Det er uklart når brannen brøt ut, men distriktet la først ut om hendelsen rundt klokken 17:30 lokal tid (23:30 GMT)."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16b9/live/88b2a660-caa5-11f1-9f95-1db69c12ee59.jpg",
-      "localImage": "assets/news/70aae5214ad001.jpg",
-      "score": 13
-    },
-    {
-      "id": "c81e81446a3c98",
+      "id": "633cf6c076a924",
       "category": "Norge",
-      "published": "17.10. 09:00",
-      "publishedISO": "2026-10-17T09:00:04+02:00",
-      "title": "Flyktet som 10-åring: – Familien trodde jeg var død",
-      "summary": "Robby London kom bort fra familien da de flyktet under krigen i Kongo. Som liten gutt var Robby London flyktning i sitt eget hjemland Kongo. – Familien fant meg ikke, så de trodde jeg var død, sier Robby London. Det var mye folk, både voksne og barn, og jeg kom bort fra familien min. – Etter en måned fikk de beskjed om at jeg var funnet, og da ble det gjenforeningsfest.",
+      "published": "18.10. 07:39",
+      "publishedISO": "2026-10-18T07:39:33+02:00",
+      "title": "Bruken av kunstig intelligens fører til datasenter-vekst",
+      "summary": "Mange av oss bruker kunstig intelligens, nærmest hemningsløst. Daglig leder i Norsk dataindustri, Reynir Jóhannesson Videre forklarer Jóhannesson at de datasentrene som bygges nå, skal brukes til å møte bruken av kunstig intelligens og trening av nye språkmodeller. – Jeg skjønner at det er friksjon når det bygges så fort og så mye. Kanskje det bør koste litt? – Hvis det koster miljøet mye, bør det koste penger å få tilgang til bruk av kunstig intelligens. – Det burde koste penger.",
       "keyPoints": [
-        "Som liten gutt var Robby London flyktning i sitt eget hjemland Kongo. – Familien fant meg ikke, så de trodde jeg var død, sier Robby London.",
-        "Robby London kom bort fra familien da de flyktet under krigen i Kongo.",
-        "Det var mye folk, både voksne og barn, og jeg kom bort fra familien min. – Etter en måned fikk de beskjed om at jeg var funnet, og da ble det gjenforeningsfest.",
-        "Som liten gutt opplevde han krig i hjemlandet Kongo. – Vi fikk ikke noe forvarsel om krigen og alle flyktet i alle retninger."
+        "Daglig leder i Norsk dataindustri, Reynir Jóhannesson Videre forklarer Jóhannesson at de datasentrene som bygges nå, skal brukes til å møte bruken av kunstig intelligens og trening av nye språkmodeller. – Jeg skjønner at det er friksjon når det bygges så fort og så mye.",
+        "Mange av oss bruker kunstig intelligens, nærmest hemningsløst.",
+        "Kanskje det bør koste litt? – Hvis det koster miljøet mye, bør det koste penger å få tilgang til bruk av kunstig intelligens. – Det burde koste penger.",
+        "Så jeg prøver å minimere bruken av KI. – Jeg bruker det helst på jobb."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/flyktet-som-10-aring_-_-familien-trodde-jeg-var-dod-1.18055789",
+      "url": "https://www.nrk.no/rogaland/bruken-av-kunstig-intelligens-forer-til-datasenter-vekst-1.18051734",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/i-hARGpC0_0oMpmunV31swFNZ0EBmSb-oN4IhG-lCZ3A.jpg",
-      "localImage": "assets/news/c81e81446a3c98.jpg",
+      "image": "https://gfx.nrk.no/e7Rs0R3ishLlGIYn-rc3uwIaD-AuxORknH8qPv9FfPlg.jpg",
+      "localImage": "assets/news/633cf6c076a924.jpg",
+      "score": 18
+    },
+    {
+      "id": "b7627fdde175bc",
+      "category": "Norge",
+      "published": "17.10. 11:32",
+      "publishedISO": "2026-10-17T11:32:09+02:00",
+      "title": "Norge forlot salen da Russland talte",
+      "summary": "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet. Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken. Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
+      "keyPoints": [
+        "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet.",
+        "Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken.",
+        "Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
+        "De viser til den russiske krigføringen i Ukraina og sanksjonene Russland er ilagt."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
+      "localImage": "assets/news/b7627fdde175bc.webp",
+      "score": 17
+    },
+    {
+      "id": "72f27ba76be2c2",
+      "category": "Norge",
+      "published": "18.10. 08:23",
+      "publishedISO": "2026-10-18T08:23:37+02:00",
+      "title": "Vannskuterulykken: Søker nå etter antatt omkommet også på land",
+      "summary": "Søket etter mannen i 30-årene som er savnet etter vannskuterulykken i Mørkvedbukta, har nå endret status. Lørdag ettermiddag ble søket i sjøen definert som et søk etter antatt omkommet person. En kvinne og en mann i 30-årene natt til lørdag havnet i sjøen da en vannskuter veltet i Mørkvedbukta ved Bodø i stummende mørke, høye bølger og sterk strøm. – Hele søket, både i sjøen og på land, er nå definert som et søk etter antatt omkommet person.",
+      "keyPoints": [
+        "En kvinne og en mann i 30-årene natt til lørdag havnet i sjøen da en vannskuter veltet i Mørkvedbukta ved Bodø i stummende mørke, høye bølger og sterk strøm. – Hele søket, både i sjøen og på land, er nå definert som et søk etter antatt omkommet person.",
+        "Søket etter mannen i 30-årene som er savnet etter vannskuterulykken i Mørkvedbukta, har nå endret status.",
+        "Søndag morgen opplyser politiet at også strandsøket på land har gått over i samme fase.",
+        "Det vil bli gjennomført søk både på land og i sjøen, opplyser Østbø."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/vannskuterulykken_-soker-na-etter-antatt-omkommet-ogsa-pa-land-1.18057772",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/MP1ddUnwFdm501z592xGxgzg4vLaYirwg5KWuSumA-_g.jpg",
+      "localImage": "assets/news/72f27ba76be2c2.jpg",
       "score": 13
+    },
+    {
+      "id": "21d1cb8083bc5c",
+      "category": "Norge",
+      "published": "18.10. 08:20",
+      "publishedISO": "2026-10-18T08:20:13+02:00",
+      "title": "Flere trafikkulykker i Troms natt etter snøfall",
+      "summary": "Tre ganger rykket politiet i Troms ut til trafikkulykker natt til søndag. Snøen har lagt seg på veien ved Skøelv i Sørreisa, noen mil fra de to trafikkulykkene i Midt-Troms natt til søndag. Søndag morgen var det klokka 8 kun minusgrader i Dividalen i Målselv. ellers var det målt mellom 2 til 5 plussgrader rundt om i Troms.",
+      "keyPoints": [
+        "Tre ganger rykket politiet i Troms ut til trafikkulykker natt til søndag.",
+        "Søndag morgen var det klokka 8 kun minusgrader i Dividalen i Målselv. ellers var det målt mellom 2 til 5 plussgrader rundt om i Troms.",
+        "Snøen har lagt seg på veien ved Skøelv i Sørreisa, noen mil fra de to trafikkulykkene i Midt-Troms natt til søndag.",
+        "Kort tid før midnatt rykket politiet ut til ei trafikkulykke på fylkesveien mellom Skøvatnet og Brøstadbotn i Dyrøy. – Det har vært svært glatt i området, melder operasjonsleder Henrik Melsbø."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/flere-trafikkulykker-i-troms-natt-etter-snofall-1.18057769",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/VEWWWYAEHyhUZQkxXINfeAegPaw2aRtRt6gsxjvLkH5Q.jpg",
+      "localImage": "assets/news/21d1cb8083bc5c.jpg",
+      "score": 13
+    },
+    {
+      "id": "3903334c6595ed",
+      "category": "Norge",
+      "published": "18.10. 03:06",
+      "publishedISO": "2026-10-18T03:06:36+02:00",
+      "title": "Død person funnet på hytte i Agder – én pågrepet",
+      "summary": "En person er siktet og pågrepet etter at det ble funnet en død person på ei hytte i Åmli i Agder lørdag kveld. SPERRET AV: Politiet har satt opp sperringer rundt et hyttefelt i Åmli i Agder etter at det ble funnet én død person i én av hyttene lørdag kveld. – Vedkommende er siktet for å ha forlatt et annet menneske i en hjelpeløs tilstand, sier operasjonsleder Ole Robert Strandhagen i Agder politidistrikt. En person ble lørdag kveld funnet død på en hytte i Åmli.",
+      "keyPoints": [
+        "En person er siktet og pågrepet etter at det ble funnet en død person på ei hytte i Åmli i Agder lørdag kveld.",
+        "Politiadvokat Anne Grethe Isaksen bekrefter søndag morgen at den siktede personen er pågrepet og at de ønsker å få avhørt personen i løpet av dagen.",
+        "Politiet ble varslet om saken klokken 20.23 lørdag kveld og meldte om den klokken 02.50 natt til søndag.",
+        "Søndag morgen opplyser operasjonsleder Kurt Ulven at det har vært vakthold rundt hytta i løpet av natten. – Krimteknisk er ferdig med sine undersøkleser."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/dod-person-funnet-pa-hytte-i-agder-_-en-pagrepet-1.18057737",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/0E2RLajeCgbrASR2ymXVoA3iDHgLeakLbe_zAyegStgA.png",
+      "localImage": "assets/news/3903334c6595ed.png",
+      "score": 12
     },
     {
       "id": "34d1b64451cfcd",
@@ -190,27 +190,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wM6l29Owk43JckurKi0Hgg_afanRRFUo6bliTJGf6gyg.jpg",
       "localImage": "assets/news/34d1b64451cfcd.jpg",
-      "score": 13
-    },
-    {
-      "id": "05661b667952ee",
-      "category": "Verden",
-      "published": "18.10. 01:52",
-      "publishedISO": "2026-10-18T01:52:38+02:00",
-      "title": "European diplomats attacked by Israeli settlers in West Bank",
-      "summary": "Maskerte bosettere anklages for å ha angrepet konvoien En delegasjon av europeiske diplomater er blitt angrepet av maskerte israelske bosettere på den okkuperte Vestbredden. Rubio 'veldig forstyrret' over video av vestbreddens bosetterangrep på amerikansk journalist I lørdagens hendelse hadde europeiske diplomater - fra Belgia, Frankrike, Polen og den katolske kirken - kommet til den stort sett kristne landsbyen Taybeh nær Ramallah. Palestinere og amerikansk journalist skadet av israelske bosettere i høstangrepet på Vestbredden",
-      "keyPoints": [
-        "Maskerte bosettere anklages for å ha angrepet konvoien En delegasjon av europeiske diplomater er blitt angrepet av maskerte israelske bosettere på den okkuperte Vestbredden.",
-        "Rubio 'veldig forstyrret' over video av vestbreddens bosetterangrep på amerikansk journalist I lørdagens hendelse hadde europeiske diplomater - fra Belgia, Frankrike, Polen og den katolske kirken - kommet til den stort sett kristne landsbyen Taybeh nær Ramallah.",
-        "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "Angrepet kom bare et døgn etter at en rekke palestinere og Heidi Levine, en Washington Post-fotograf, ble skadet i et separat angrep av bosettere i en annen landsby på Vestbredden."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
-      "localImage": "assets/news/05661b667952ee.jpg",
       "score": 12
     }
   ]
