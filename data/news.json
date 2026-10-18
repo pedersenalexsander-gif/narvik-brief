@@ -1,29 +1,8 @@
 {
-  "updatedAt": "18.10.2026 kl. 00:32",
-  "updatedISO": "2026-10-18T00:32:32.685409+02:00",
+  "updatedAt": "18.10.2026 kl. 02:22",
+  "updatedISO": "2026-10-18T02:22:29.746528+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "57146450a86762",
-      "category": "Nord-Norge",
-      "published": "17.10. 16:00",
-      "publishedISO": "2026-10-17T16:00:00+02:00",
-      "title": "Bodø/Glimt sparte nøkkelspillere – herjet med HamKam",
-      "summary": "Skadeomfanget er foreløpig uvisst. – Hvis han har unngått vridning, så håper jeg at han blir klar igjen til tirsdag, sa Bodø/Glimts trener Kjetil Knutsen. Med unntak av tapet for Brann i Bergen 20. september har Bodø/Glimt slått Kristiansund, Sandefjord, Rosenborg, Fredrikstad og «Kamma» i de seks kampene i Eliteserien. Med 23 spilte kamper topper Bodø/Glimt tabellen med 56 poeng.",
-      "keyPoints": [
-        "Med unntak av tapet for Brann i Bergen 20. september har Bodø/Glimt slått Kristiansund, Sandefjord, Rosenborg, Fredrikstad og «Kamma» i de seks kampene i Eliteserien.",
-        "Med 23 spilte kamper topper Bodø/Glimt tabellen med 56 poeng.",
-        "Skadeomfanget er foreløpig uvisst. – Hvis han har unngått vridning, så håper jeg at han blir klar igjen til tirsdag, sa Bodø/Glimts trener Kjetil Knutsen.",
-        "Det skyldes at Glimt møter Napoli borte i Italia i Champions League allerede kommende tirsdag."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/bodo_glimt-sparte-nokkelspillere-_-herjet-med-hamkam-1.18057532",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/41X0EpjChW8_Gv1GnvJdqgrjO2geXYJPj-EnU637roSg.jpg",
-      "localImage": "assets/news/57146450a86762.jpg",
-      "score": 12
-    },
     {
       "id": "b7627fdde175bc",
       "category": "Norge",
@@ -64,14 +43,14 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
       "localImage": "assets/news/96b4d2d63bf4e3.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d5cb405b934012",
       "category": "USA",
       "published": "16.10. 20:41",
       "publishedISO": "2026-10-16T20:41:54+02:00",
-      "title": "Hvor mellomvalget i USA vil vinnes og tapes",
+      "title": "Hvor det amerikanske mellomvalget vil vinnes og tapes",
       "summary": "Her er vår visuelle guide til hvor kampen om makten vil bli vunnet og tapt – fra godkjenningsvurderinger, til viktige raser og problemer og den enorme mengden penger som brukes. Men Trumps dårlige rangeringer er med på å forklare hvorfor demokratene er håpefulle om å vinne begge kongresskamrene og hvorfor de retter blikket mot stater som republikanerne har vunnet konsekvent de siste årene. Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
       "keyPoints": [
         "Cook Political Report, som analyserer kampanjer og valg, antyder at bare 21 distrikter er «kastninger» som kan vinnes av begge parter.",
@@ -191,6 +170,27 @@
       "image": "https://gfx.nrk.no/wM6l29Owk43JckurKi0Hgg_afanRRFUo6bliTJGf6gyg.jpg",
       "localImage": "assets/news/34d1b64451cfcd.jpg",
       "score": 14
+    },
+    {
+      "id": "05661b667952ee",
+      "category": "Verden",
+      "published": "18.10. 01:52",
+      "publishedISO": "2026-10-18T01:52:38+02:00",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "Maskerte bosettere anklages for å ha angrepet konvoien En delegasjon av europeiske diplomater er blitt angrepet av maskerte israelske bosettere på den okkuperte Vestbredden. Angrepet kom bare et døgn etter at en rekke palestinere og Heidi Levine, en Washington Post-fotograf, ble skadet i et separat angrep av bosettere i en annen landsby på Vestbredden. Palestinere og amerikansk journalist skadet av israelske bosettere i høstangrepet på Vestbredden",
+      "keyPoints": [
+        "Maskerte bosettere anklages for å ha angrepet konvoien En delegasjon av europeiske diplomater er blitt angrepet av maskerte israelske bosettere på den okkuperte Vestbredden.",
+        "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "Angrepet kom bare et døgn etter at en rekke palestinere og Heidi Levine, en Washington Post-fotograf, ble skadet i et separat angrep av bosettere i en annen landsby på Vestbredden.",
+        "Å høste oliven, rapportere nyhetene eller utføre diplomatiske oppgaver bør aldri sette noen i fare for angrep,\" sa han. \"Som okkupasjonsmakt må israelske myndigheter beskytte palestinere, sørge for sikkerheten til diplomater og journalister og stille de ansvarlige for retten. «Strafffrihet for voldelige nybyggere må opphøre."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+      "localImage": "assets/news/05661b667952ee.jpg",
+      "score": 13
     },
     {
       "id": "53e5456d2fbbf2",
