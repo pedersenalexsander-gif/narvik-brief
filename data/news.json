@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.10.2026 kl. 18:45",
-  "updatedISO": "2026-10-18T18:45:34.974531+02:00",
+  "updatedAt": "18.10.2026 kl. 21:00",
+  "updatedISO": "2026-10-18T21:00:52.757553+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/7c05c939640a52.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "05661b667952ee",
@@ -43,7 +43,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
       "localImage": "assets/news/05661b667952ee.jpg",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "5940492e57cf23",
+      "category": "Økonomi",
+      "published": "18.10. 19:44",
+      "publishedISO": "2026-10-18T19:44:59+02:00",
+      "title": "Aker satser på AI-startups: – Tok fem minutter",
+      "summary": "De skal pitche AI-selskapet sitt «Tenki» til Runway-teamet og Akers kanskje mest entusiastiske toppsjef: Matts Johansen i Aker Biomarine. Pitchen ble enkel. – Det tok 25 minutter før vi bestemte oss, sier Johansen, som nå er kunde. For Johansen, som forteller at Aker Biomarine har rundt 100 ulike krillprodukter i butikkhyllene i USA, ble pitchen enda enklere.",
+      "keyPoints": [
+        "Pitchen ble enkel. – Det tok 25 minutter før vi bestemte oss, sier Johansen, som nå er kunde.",
+        "For Johansen, som forteller at Aker Biomarine har rundt 100 ulike krillprodukter i butikkhyllene i USA, ble pitchen enda enklere.",
+        "De skal pitche AI-selskapet sitt «Tenki» til Runway-teamet og Akers kanskje mest entusiastiske toppsjef: Matts Johansen i Aker Biomarine.",
+        "I en tidligere versjon av saken sto det at beslutningene som ble tatt tok sekunder, det riktige er minutter."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/8GGL8r/aker-satser-paa-ai-startups-tok-fem-sekunder",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/33defadd-5feb-3ded-a3a5-53857ea2cf56?fit=crop&h=675&upscale=true&w=1200&s=dcce765bb5a2238c9ce41f4a0909656aff9a9d68",
+      "localImage": "assets/news/5940492e57cf23.jpg",
+      "score": 16
     },
     {
       "id": "009a401bdfb15c",
@@ -67,27 +88,6 @@
       "score": 13
     },
     {
-      "id": "d819cc32cf1a58",
-      "category": "Økonomi",
-      "published": "17.10. 21:22",
-      "publishedISO": "2026-10-17T21:22:29+02:00",
-      "title": "Sol og strømsparing: – Fullstendig stillstand",
-      "summary": "En rekke organisasjoner ber Stortinget sette fart på sine egne mål. –⁠ Skjer ikke noe som monner, sier NBBL-sjefen. Stortinget har ambisiøse mål om å få bygget ut mer solkraft og spare mer strøm. Men det går for sakte med begge deler, mener 16 fagforeninger, bransjeorganisasjoner, forbrukerorganisasjoner og miljøorganisasjoner.",
-      "keyPoints": [
-        "Stortinget har ambisiøse mål om å få bygget ut mer solkraft og spare mer strøm.",
-        "En rekke organisasjoner ber Stortinget sette fart på sine egne mål. –⁠ Skjer ikke noe som monner, sier NBBL-sjefen.",
-        "Men det går for sakte med begge deler, mener 16 fagforeninger, bransjeorganisasjoner, forbrukerorganisasjoner og miljøorganisasjoner.",
-        "Leder Bård Vegar Solhjell i Fornybar Norge sier det er sjelden at 16 organisasjoner fra fagbevegelsen, næringslivet og miljøbevegelsen samler seg om felles krav. – Stortinget har også satt ambisiøse mål, men følger ikke opp med nødvendige vedtak."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/b8eowe/sol-og-stroemsparing-fullstendig-stillstand",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/43218d25-266a-3607-a746-2ee2d30df51a?fit=crop&h=675&upscale=true&w=1200&s=6c140ffdd233a21478659f6c49a9f119e6357ad9",
-      "localImage": "assets/news/d819cc32cf1a58.jpg",
-      "score": 13
-    },
-    {
       "id": "43a0bc92d20954",
       "category": "AI",
       "published": "17.10. 22:24",
@@ -107,6 +107,27 @@
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg",
       "localImage": "assets/news/43a0bc92d20954.jpg",
       "score": 13
+    },
+    {
+      "id": "8d942047b1d083",
+      "category": "Norge",
+      "published": "18.10. 19:01",
+      "publishedISO": "2026-10-18T19:01:59+02:00",
+      "title": "Stoler ikke på løftet om å beholde småflyplassene",
+      "summary": "Bent-Joacim Bentzen (Sp) frykter en ny kamp om småflyplassene. Den 30. september lovet samferdselsminister Kamzy Gunaratnam at dagens flyruter skulle beholdes. Gunaratnam fastholder løftet i en skriftlig kommentar til NRK: – Ingen lufthavner eller flyruter legges ned i forbindelse med det kommende FOT-kjøpet.",
+      "keyPoints": [
+        "Gunaratnam fastholder løftet i en skriftlig kommentar til NRK: – Ingen lufthavner eller flyruter legges ned i forbindelse med det kommende FOT-kjøpet.",
+        "Bent-Joacim Bentzen (Sp) frykter en ny kamp om småflyplassene.",
+        "Den 30. september lovet samferdselsminister Kamzy Gunaratnam at dagens flyruter skulle beholdes.",
+        "Regjeringen vil vurdere kravene til flyrutene i lys av nye veier og den nye flyplassen i Mo i Rana."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/stoler-ikke-pa-loftet-om-a-beholde-smaflyplassene-1.18056574",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/4RgoRjP8fh1BsUw2QKVHPQf3oI4TUWNwp5Va6Xd2eXSQ.jpg",
+      "localImage": "assets/news/8d942047b1d083.jpg",
+      "score": 17
     },
     {
       "id": "7754a52c7a2351",
@@ -172,45 +193,24 @@
       "score": 15
     },
     {
-      "id": "ff7e39c5d1014f",
+      "id": "54fc73f2cc5c67",
       "category": "Norge",
-      "published": "18.10. 18:25",
-      "publishedISO": "2026-10-18T18:25:10+02:00",
-      "title": "Mange er uroa etter to hyttebrannar på Emblemsfjellet i Ålesund – vil sette opp kamera",
-      "summary": "To nye hyttebrannar på Emblemsfjellet i Ålesund har skapt stor uro for ei ny bølgje av brannar. Lars Andre Bigton vil sette opp viltkamera etter to hyttebrannar på Emblemsfjellet i Ålesund. Etter dei to hyttebrannane vurderer han å sette opp eit kamera.",
+      "published": "18.10. 20:11",
+      "publishedISO": "2026-10-18T20:11:30+02:00",
+      "title": "TV-aksjonen: Reidar (13) vil bli områdeleder om fem år",
+      "summary": "Helt siden han lå i barnevogn har Reidar (13) samlet inn penger til TV-aksjonen. Planen er å bli områdeleder for Oddernes når han fyller 18 om fem år. Fylkesaksjonsleder Helene Knutsen Fosso sier Reidar nettopp er den type ungdom de trenger dersom den 52 år gamle TV-aksjonen skal eksistere i 50 år til. – Mange er eldre og har holdt hjulene i gang i mange år.",
       "keyPoints": [
-        "Lars Andre Bigton vil sette opp viltkamera etter to hyttebrannar på Emblemsfjellet i Ålesund.",
-        "To nye hyttebrannar på Emblemsfjellet i Ålesund har skapt stor uro for ei ny bølgje av brannar.",
-        "Etter dei to hyttebrannane vurderer han å sette opp eit kamera.",
-        "No vil fleire hytteeigarar sette opp overvakingskamera."
+        "Planen er å bli områdeleder for Oddernes når han fyller 18 om fem år.",
+        "Helt siden han lå i barnevogn har Reidar (13) samlet inn penger til TV-aksjonen.",
+        "Fylkesaksjonsleder Helene Knutsen Fosso sier Reidar nettopp er den type ungdom de trenger dersom den 52 år gamle TV-aksjonen skal eksistere i 50 år til. – Mange er eldre og har holdt hjulene i gang i mange år.",
+        "Dagens områdeleder i Oddernes Kristine Fossheim viser Reidar hvordan bøssene deles ut. – Han er både engasjert og lærevillig, sier hun."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/mange-er-uroa-etter-to-hyttebrannar-pa-emblemsfjellet-i-alesund-_-vil-sette-opp-kamera-1.18057795",
+      "url": "https://www.nrk.no/sorlandet/tv-aksjonen_-reidar-_13_-vil-bli-omradeleder-om-fem-ar-1.18058014",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Z2bhjWdn5hnV0nTLXgp3LwsW31DRT25WVEFAm_bhB2_w.jpg",
-      "localImage": "assets/news/ff7e39c5d1014f.webp",
-      "score": 13
-    },
-    {
-      "id": "6325139fad4d91",
-      "category": "Norge",
-      "published": "18.10. 17:34",
-      "publishedISO": "2026-10-18T17:34:54+02:00",
-      "title": "Giftmysteriet: Hemmeligheten i pappesken",
-      "summary": "Petter (11) ante ingenting om foreldrenes dramatiske fortid – før han åpnet en eske med gamle ukeblader i et kott. – Jeg husker aller best ansiktet til mor. På midten av 1970-tallet sitter 11 år gamle Petter Voss i tussmørket inne i et kott i familiens hus. Christian Voss er rundt 60 år gammel når Petter blir født.",
-      "keyPoints": [
-        "Petter (11) ante ingenting om foreldrenes dramatiske fortid – før han åpnet en eske med gamle ukeblader i et kott. – Jeg husker aller best ansiktet til mor.",
-        "Christian Voss er rundt 60 år gammel når Petter blir født.",
-        "På midten av 1970-tallet sitter 11 år gamle Petter Voss i tussmørket inne i et kott i familiens hus.",
-        "Flere år før Petter blir født, i slutten av oktober 1963, får Christian og Eva besøk av Lillemor, Christians niese."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/xl/hamar_-aasta-midtbo-tiltales-for-mordforsok-med-arsenikk-mot-overlege-christian-voss-1.17847634",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FLro8-aWvKU_LbwebpoXuw-a5DxgVYHvTnIHkG8WS1dw.jpg",
-      "localImage": "assets/news/6325139fad4d91.jpg",
+      "image": "https://gfx.nrk.no/bL1nm4wUbuLHqWgOekDOEw3t7fSgM3er9HDDpyJ7ggmQ.jpg",
+      "localImage": "assets/news/54fc73f2cc5c67.jpg",
       "score": 13
     }
   ]
