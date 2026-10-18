@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.10.2026 kl. 15:27",
-  "updatedISO": "2026-10-18T15:27:33.791678+02:00",
+  "updatedAt": "18.10.2026 kl. 18:45",
+  "updatedISO": "2026-10-18T18:45:34.974531+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,6 +25,48 @@
       "score": 19
     },
     {
+      "id": "05661b667952ee",
+      "category": "Verden",
+      "published": "18.10. 14:16",
+      "publishedISO": "2026-10-18T14:16:14+02:00",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "Maskerte bosettere anklages for å ha angrepet konvoien En delegasjon av europeiske diplomater er blitt angrepet av maskerte israelske bosettere på den okkuperte Vestbredden. Rubio 'veldig forstyrret' over video av vestbreddens bosetterangrep på amerikansk journalist I lørdagens hendelse hadde europeiske diplomater - fra Belgia, Frankrike, Polen og den katolske kirken - kommet til den stort sett kristne landsbyen Taybeh nær Ramallah. Palestinere har høstet oliven på Vestbredden denne uken før israelske bosettere angriper Frankrikes utenriksminister Jean-Noël Barrot gjentok disse følelsene, og ba israelske myndigheter om å «umiddelbart stoppe denne kriminelle volden og garantere sivilbefolkningens sikkerhet».",
+      "keyPoints": [
+        "Maskerte bosettere anklages for å ha angrepet konvoien En delegasjon av europeiske diplomater er blitt angrepet av maskerte israelske bosettere på den okkuperte Vestbredden.",
+        "Rubio 'veldig forstyrret' over video av vestbreddens bosetterangrep på amerikansk journalist I lørdagens hendelse hadde europeiske diplomater - fra Belgia, Frankrike, Polen og den katolske kirken - kommet til den stort sett kristne landsbyen Taybeh nær Ramallah.",
+        "Palestinere har høstet oliven på Vestbredden denne uken før israelske bosettere angriper Frankrikes utenriksminister Jean-Noël Barrot gjentok disse følelsene, og ba israelske myndigheter om å «umiddelbart stoppe denne kriminelle volden og garantere sivilbefolkningens sikkerhet».",
+        "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/15c7/live/4f318350-ca52-11f1-852c-2b93a8fc4799.jpg",
+      "localImage": "assets/news/05661b667952ee.jpg",
+      "score": 13
+    },
+    {
+      "id": "009a401bdfb15c",
+      "category": "Økonomi",
+      "published": "18.10. 17:29",
+      "publishedISO": "2026-10-18T17:29:41+02:00",
+      "title": "Norge inngår frihandelsavtale med Vietnam",
+      "summary": "Norge og de andre EFTA-landene har inngått en frihandelsavtale med Vietnam. Innen syv år skal over 98 prosent av eksporten være fri for toll. – I en mer uforutsigbar verden trenger Norge flere ben å stå på, sier utenriksminister Espen Barth Eide i en pressemelding. Handelen mellom Norge og Vietnam har økt jevnt de siste årene.",
+      "keyPoints": [
+        "Norge og de andre EFTA-landene har inngått en frihandelsavtale med Vietnam.",
+        "Handelen mellom Norge og Vietnam har økt jevnt de siste årene.",
+        "Innen syv år skal over 98 prosent av eksporten være fri for toll. – I en mer uforutsigbar verden trenger Norge flere ben å stå på, sier utenriksminister Espen Barth Eide i en pressemelding.",
+        "Når avtalen trer i kraft, blir laks tollfri umiddelbart, mens makrell får nulltoll etter en nedtrappingsperiode på tre år. – Dette er en viktig avtale og regjeringen skal absolutt ha ros for at de har fått dette på plass, sier direktør for internasjonale relasjoner Trond Davidsen i Sjømat Norge til E24."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/hav-og-sjoemat/i/31KMg9/norge-inngaar-frihandelsavtale-med-vietnam",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c05c7171-e76a-3851-b219-dfc41e589f5c?fit=crop&h=675&upscale=true&w=1200&s=30b3215dc4df57a7b11c295f38b42fd0229569d9",
+      "localImage": "assets/news/009a401bdfb15c.jpg",
+      "score": 13
+    },
+    {
       "id": "d819cc32cf1a58",
       "category": "Økonomi",
       "published": "17.10. 21:22",
@@ -43,27 +85,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/43218d25-266a-3607-a746-2ee2d30df51a?fit=crop&h=675&upscale=true&w=1200&s=6c140ffdd233a21478659f6c49a9f119e6357ad9",
       "localImage": "assets/news/d819cc32cf1a58.jpg",
-      "score": 14
+      "score": 13
     },
     {
-      "id": "187f91a76ce787",
-      "category": "Økonomi",
-      "published": "16.10. 07:37",
-      "publishedISO": "2026-10-16T07:37:04+02:00",
-      "title": "Aksjetrøbbel for Indonesia: Kan havne på kriseliste",
-      "summary": "Indeksleverandøren MSCI, som står bak mange mye brukte aksjeindekser i verden, advarer om at de vurderer å nedgradere det indonesiske markedet fra «fremvoksende markedHeter Emerging Markets på engelsk, og inkluderer land som Kina, India, Sør-Korea, Brasil, Tyrkia og Saudi-Arabia.» til «selvstendig markedMSCI bruker Standalone Markets på engelsk». Denne nedgraderingen vil å så fall bety at Indonesia tas ut fra sentrale indekser hos MSCI. Dermed er børsen i Indonesia ned mer enn 40 prosent hittil i år.",
+      "id": "43a0bc92d20954",
+      "category": "AI",
+      "published": "17.10. 22:24",
+      "publishedISO": "2026-10-17T22:24:32+02:00",
+      "title": "No further action against government adviser's wife over Palestine Action post, police say",
+      "summary": "Politiet sier at ingen ytterligere tiltak vil bli iverksatt mot kona til regjeringens nasjonale sikkerhetsrådgiver etter at hun postet på sosiale medier med henvisning til Palestine Action. Lørdag sa Metropolitan Police at Helms innlegg ble \"vurdert av spesialistoffiserer og det ble fastslått at det ikke nådde den kriminelle terskelen\". \"Ingen ytterligere polititiltak vil bli iverksatt,\" la styrken til. Fredag ​​hadde Met-politiet sagt at det var \"i ferd med å bli vurdert for å avgjøre om ytterligere politietterforskning kan være nødvendig\" etter at det ble \"gjort oppmerksom på et X-innlegg torsdag 15. oktober som refererte til Palestine Action\".",
       "keyPoints": [
-        "Dermed er børsen i Indonesia ned mer enn 40 prosent hittil i år.",
-        "Denne nedgraderingen vil å så fall bety at Indonesia tas ut fra sentrale indekser hos MSCI.",
-        "Indeksleverandøren MSCI, som står bak mange mye brukte aksjeindekser i verden, advarer om at de vurderer å nedgradere det indonesiske markedet fra «fremvoksende markedHeter Emerging Markets på engelsk, og inkluderer land som Kina, India, Sør-Korea, Brasil, Tyrkia og Saudi-Arabia.» til «selvstendig markedMSCI bruker Standalone Markets på engelsk».",
-        "Indonesiske aksjer har allerede falt kraftig i år, og fredag er det mer trøbbel for aksjemarkedet i det store asiatiske landet."
+        "Politiet sier at ingen ytterligere tiltak vil bli iverksatt mot kona til regjeringens nasjonale sikkerhetsrådgiver etter at hun postet på sosiale medier med henvisning til Palestine Action.",
+        "Fredag ​​hadde Met-politiet sagt at det var \"i ferd med å bli vurdert for å avgjøre om ytterligere politietterforskning kan være nødvendig\" etter at det ble \"gjort oppmerksom på et X-innlegg torsdag 15. oktober som refererte til Palestine Action\".",
+        "Lørdag sa Metropolitan Police at Helms innlegg ble \"vurdert av spesialistoffiserer og det ble fastslått at det ikke nådde den kriminelle terskelen\". \"Ingen ytterligere polititiltak vil bli iverksatt,\" la styrken til.",
+        "Sarah Helm, som er gift med Jonathan Powell, skrev på X torsdag: «Gud hjelpe oss forfattere som støtter Palestine og Palestine Action». Hun svarte på en diskusjon om forfatteren Sally Rooney, hvis romaner ikke vil bli levert til bokhandlere i Storbritannia etter hennes kunngjøring om at hun har til hensikt å bruke royalties til å støtte den forbudte organisasjonen."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/8GvOj1/aksjetroebbel-for-indonesia-kan-havne-paa-kriseliste",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
-      "localImage": "assets/news/187f91a76ce787.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg",
+      "localImage": "assets/news/43a0bc92d20954.jpg",
       "score": 13
     },
     {
@@ -85,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/l_TawIXobclcUeB-iewXEwmop1UKAA8zt-EvsZC2JxMw.png",
       "localImage": "assets/news/7754a52c7a2351.png",
-      "score": 17
+      "score": 16
     },
     {
       "id": "633cf6c076a924",
@@ -106,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/e7Rs0R3ishLlGIYn-rc3uwIaD-AuxORknH8qPv9FfPlg.jpg",
       "localImage": "assets/news/633cf6c076a924.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "b7627fdde175bc",
@@ -127,91 +169,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
       "localImage": "assets/news/b7627fdde175bc.webp",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "805d90bed0c984",
+      "id": "ff7e39c5d1014f",
       "category": "Norge",
-      "published": "18.10. 11:42",
-      "publishedISO": "2026-10-18T11:42:18+02:00",
-      "title": "Tromsø har berre vunne ein dei seks siste kampane: – Gleder oss til ny test",
-      "summary": "Tromsø idrettslag har berre ein siger på dei seks siste kampane. TIL-trenar Jørgen Vik seier dei gler seg til ein ny test og nye utfordringar på heimebane. – Eg synest både vi leverte godt og at det var ting vi kunne gjort betre mot Fredrikstad. Men berre to poeng føre Molde. – Kor viktig er det å gjere det godt og få tre poeng føre kampane mot topplaga? – Det er viktig for oss uavhengig av kva som kjem inn i framtida.",
+      "published": "18.10. 18:25",
+      "publishedISO": "2026-10-18T18:25:10+02:00",
+      "title": "Mange er uroa etter to hyttebrannar på Emblemsfjellet i Ålesund – vil sette opp kamera",
+      "summary": "To nye hyttebrannar på Emblemsfjellet i Ålesund har skapt stor uro for ei ny bølgje av brannar. Lars Andre Bigton vil sette opp viltkamera etter to hyttebrannar på Emblemsfjellet i Ålesund. Etter dei to hyttebrannane vurderer han å sette opp eit kamera.",
       "keyPoints": [
-        "Tromsø idrettslag har berre ein siger på dei seks siste kampane.",
-        "TIL-trenar Jørgen Vik seier dei gler seg til ein ny test og nye utfordringar på heimebane. – Eg synest både vi leverte godt og at det var ting vi kunne gjort betre mot Fredrikstad.",
-        "Men berre to poeng føre Molde. – Kor viktig er det å gjere det godt og få tre poeng føre kampane mot topplaga? – Det er viktig for oss uavhengig av kva som kjem inn i framtida.",
-        "TIL-trenaren meiner dei møter eit langt meir angrepshissig lag enn i dei to førre kampane. – Dei har stor fart oppe òg, så vi må ha kontroll på det."
+        "Lars Andre Bigton vil sette opp viltkamera etter to hyttebrannar på Emblemsfjellet i Ålesund.",
+        "To nye hyttebrannar på Emblemsfjellet i Ålesund har skapt stor uro for ei ny bølgje av brannar.",
+        "Etter dei to hyttebrannane vurderer han å sette opp eit kamera.",
+        "No vil fleire hytteeigarar sette opp overvakingskamera."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/tromso-har-berre-vunne-ein-dei-seks-siste-kampane_-_-gleder-oss-til-ny-test-1.18057817",
+      "url": "https://www.nrk.no/mr/mange-er-uroa-etter-to-hyttebrannar-pa-emblemsfjellet-i-alesund-_-vil-sette-opp-kamera-1.18057795",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Z_Ows7UBTxSP2wStGOGyFwy8UNd0fvxtYEpvaqoIdWGA.jpg",
-      "localImage": "assets/news/805d90bed0c984.jpg",
+      "image": "https://gfx.nrk.no/Z2bhjWdn5hnV0nTLXgp3LwsW31DRT25WVEFAm_bhB2_w.jpg",
+      "localImage": "assets/news/ff7e39c5d1014f.webp",
       "score": 13
     },
     {
-      "id": "7affd16c497b90",
+      "id": "6325139fad4d91",
       "category": "Norge",
-      "published": "18.10. 10:59",
-      "publishedISO": "2026-10-18T10:59:08+02:00",
-      "title": "Fengslingsmøtet i halliksaken er i gang",
-      "summary": "Søndag formiddag startet fengslingsmøtet i Trøndelag tingrett mot en mann i 60-årene som er siktet for hallikvirksomhet. Mannen i 60-årene er av utenlandsk opprinnelse, og hans advokat Linn Haug Holm opplyser til NRK at mannen nekter straffskyld, og vil be om å bli løslatt. Klokka 12.00 startet fengslingsmøtet mot Tom Ketil Krogstad.",
+      "published": "18.10. 17:34",
+      "publishedISO": "2026-10-18T17:34:54+02:00",
+      "title": "Giftmysteriet: Hemmeligheten i pappesken",
+      "summary": "Petter (11) ante ingenting om foreldrenes dramatiske fortid – før han åpnet en eske med gamle ukeblader i et kott. – Jeg husker aller best ansiktet til mor. På midten av 1970-tallet sitter 11 år gamle Petter Voss i tussmørket inne i et kott i familiens hus. Christian Voss er rundt 60 år gammel når Petter blir født.",
       "keyPoints": [
-        "Søndag formiddag startet fengslingsmøtet i Trøndelag tingrett mot en mann i 60-årene som er siktet for hallikvirksomhet.",
-        "Klokka 12.00 startet fengslingsmøtet mot Tom Ketil Krogstad.",
-        "Mannen i 60-årene er av utenlandsk opprinnelse, og hans advokat Linn Haug Holm opplyser til NRK at mannen nekter straffskyld, og vil be om å bli løslatt.",
-        "Politiet i Trøndelag pågrep i slutten av denne uken Krogstad og en annen mann i 60-årene, siktet for hallikvirksomhet etter straffelovens paragraf 315. – Ut fra informasjonen vi har så langt, mistenkes de siktede for å ha tilrettelagt for prostitusjon av en kvinne."
+        "Petter (11) ante ingenting om foreldrenes dramatiske fortid – før han åpnet en eske med gamle ukeblader i et kott. – Jeg husker aller best ansiktet til mor.",
+        "Christian Voss er rundt 60 år gammel når Petter blir født.",
+        "På midten av 1970-tallet sitter 11 år gamle Petter Voss i tussmørket inne i et kott i familiens hus.",
+        "Flere år før Petter blir født, i slutten av oktober 1963, får Christian og Eva besøk av Lillemor, Christians niese."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/fengslingsmotet-i-halliksaken-er-i-gang-1.18057845",
+      "url": "https://www.nrk.no/innlandet/xl/hamar_-aasta-midtbo-tiltales-for-mordforsok-med-arsenikk-mot-overlege-christian-voss-1.17847634",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SRGLQN7rMnRrrfWCZlSAtgFXwDHPqVshgnTQ7iEXu0zA.jpg",
-      "localImage": "assets/news/7affd16c497b90.webp",
+      "image": "https://gfx.nrk.no/FLro8-aWvKU_LbwebpoXuw-a5DxgVYHvTnIHkG8WS1dw.jpg",
+      "localImage": "assets/news/6325139fad4d91.jpg",
       "score": 13
-    },
-    {
-      "id": "9a4a37b0dbe0a5",
-      "category": "Norge",
-      "published": "18.10. 10:53",
-      "publishedISO": "2026-10-18T10:53:10+02:00",
-      "title": "Luftambulanse kalt ut – dykker skal ha fått problemer",
-      "summary": "Flys med luftambulanse til Ullevål universitetssykehus. En halvtime etter at politiet varslet om redningsaksjonen ble det bekreftet at dykkeren var hentet opp. – Dykkerne gjorde en kjempeinnsats og fikk vedkommende opp om bord, sier Fidje. Luftambulansen, redningshelikopteret ble kalt ut sammen med en rekke andre redningsressurser fra politi, brann og ambulanse.",
-      "keyPoints": [
-        "Luftambulansen, redningshelikopteret ble kalt ut sammen med en rekke andre redningsressurser fra politi, brann og ambulanse.",
-        "Flys med luftambulanse til Ullevål universitetssykehus.",
-        "En halvtime etter at politiet varslet om redningsaksjonen ble det bekreftet at dykkeren var hentet opp. – Dykkerne gjorde en kjempeinnsats og fikk vedkommende opp om bord, sier Fidje.",
-        "Det var klokken 10.22 at politiet varslet at det var satt i gang en stor redningsaksjon."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/luftambulanse-kalt-ut-_-dykker-skal-ha-fatt-problemer-1.18057833",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/wq-oXkKdnBN5Mj9J-dDMGgHGGtHWqla2xEDz5Nrr_fhQ.jpg",
-      "localImage": "assets/news/9a4a37b0dbe0a5.jpg",
-      "score": 13
-    },
-    {
-      "id": "af58a45c559eff",
-      "category": "Norge",
-      "published": "18.10. 08:23",
-      "publishedISO": "2026-10-18T08:23:37+02:00",
-      "title": "Vannskuterulykken: Savnet mann i 30-årene funnet omkommet",
-      "summary": "Mannen i 30-årene som var savnet etter vannskuterulykken i Bodø ble funnet på seks meters dyp. Den savnede mannen i 30-årene ble funnet omkommet like før klokka 11 søndag. En kvinne i 30-årene klarte å ta seg i land, mens en mann ble meldt savnet.",
-      "keyPoints": [
-        "Mannen i 30-årene som var savnet etter vannskuterulykken i Bodø ble funnet på seks meters dyp.",
-        "Den savnede mannen i 30-årene ble funnet omkommet like før klokka 11 søndag.",
-        "En kvinne i 30-årene klarte å ta seg i land, mens en mann ble meldt savnet.",
-        "En kvinne og en mann i 30-årene havnet natt til lørdag i sjøen da en vannskuter veltet i Mørkvedbukta ved Bodø i stummende mørke, høye bølger og sterk strøm."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/vannskuterulykken_-savnet-mann-i-30-arene-funnet-omkommet-1.18057772",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/MP1ddUnwFdm501z592xGxgzg4vLaYirwg5KWuSumA-_g.jpg",
-      "localImage": "assets/news/af58a45c559eff.jpg",
-      "score": 12
     }
   ]
 }
