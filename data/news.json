@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.10.2026 kl. 11:24",
-  "updatedISO": "2026-10-18T11:24:36.815202+02:00",
+  "updatedAt": "18.10.2026 kl. 15:27",
+  "updatedISO": "2026-10-18T15:27:33.791678+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/7c05c939640a52.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "d819cc32cf1a58",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/43218d25-266a-3607-a746-2ee2d30df51a?fit=crop&h=675&upscale=true&w=1200&s=6c140ffdd233a21478659f6c49a9f119e6357ad9",
       "localImage": "assets/news/d819cc32cf1a58.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "187f91a76ce787",
@@ -64,7 +64,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c64d152a-137c-3da3-a391-ae5fe35c87a1?fit=crop&h=675&upscale=true&w=1200&s=5cc4fb6a32afbfa8809c526f8ced8d0ee4aa66bb",
       "localImage": "assets/news/187f91a76ce787.jpg",
-      "score": 14
+      "score": 13
+    },
+    {
+      "id": "7754a52c7a2351",
+      "category": "Norge",
+      "published": "18.10. 12:34",
+      "publishedISO": "2026-10-18T12:34:10+02:00",
+      "title": "Oransje farevarsel om store nedbørsmengder – venter overvann, flom og krevende forhold",
+      "summary": "Meteorologene har sendt ut oransje farevarsel om svært mye regn i nordlige deler av Nordland og Troms mandag og tirsdag. Hendelsen er forventet å vare i omtrent 30 timer, fra tidlig mandag morgen til tirsdag formiddag. – Vi venter svært mye regn i nordlige deler av Nordland og Troms mandag morgen til tirsdag formiddag, sier vakthavende meteorolog Ola Bakke Aashamar til NRK. Regnet vil komme i kombinasjon med mye vind fra sørvest og opp i sørvestlig storm på kysten. – Vi forventer en del konsekvenser og ber folk gjøre tiltak i forkant av regnet, sier Aashamar. – Det er overvann vi tenker vil bli det mest utfordrende, spesielt i tettbygde områder som kan trenge inn i kjellere og legge seg i veibanen.",
+      "keyPoints": [
+        "Meteorologene har sendt ut oransje farevarsel om svært mye regn i nordlige deler av Nordland og Troms mandag og tirsdag.",
+        "Hendelsen er forventet å vare i omtrent 30 timer, fra tidlig mandag morgen til tirsdag formiddag. – Vi venter svært mye regn i nordlige deler av Nordland og Troms mandag morgen til tirsdag formiddag, sier vakthavende meteorolog Ola Bakke Aashamar til NRK.",
+        "Regnet vil komme i kombinasjon med mye vind fra sørvest og opp i sørvestlig storm på kysten. – Vi forventer en del konsekvenser og ber folk gjøre tiltak i forkant av regnet, sier Aashamar. – Det er overvann vi tenker vil bli det mest utfordrende, spesielt i tettbygde områder som kan trenge inn i kjellere og legge seg i veibanen.",
+        "NVE har sendt ut oransje farevarsel for jord- og flomskredfare i Troms de neste dagene."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/oransje-farevarsel-om-store-nedborsmengder-_-venter-overvann_-flom-og-krevende-forhold-1.18057824",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/l_TawIXobclcUeB-iewXEwmop1UKAA8zt-EvsZC2JxMw.png",
+      "localImage": "assets/news/7754a52c7a2351.png",
+      "score": 17
     },
     {
       "id": "633cf6c076a924",
@@ -85,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/e7Rs0R3ishLlGIYn-rc3uwIaD-AuxORknH8qPv9FfPlg.jpg",
       "localImage": "assets/news/633cf6c076a924.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "b7627fdde175bc",
@@ -106,90 +127,90 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
       "localImage": "assets/news/b7627fdde175bc.webp",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "72f27ba76be2c2",
+      "id": "805d90bed0c984",
+      "category": "Norge",
+      "published": "18.10. 11:42",
+      "publishedISO": "2026-10-18T11:42:18+02:00",
+      "title": "Tromsø har berre vunne ein dei seks siste kampane: – Gleder oss til ny test",
+      "summary": "Tromsø idrettslag har berre ein siger på dei seks siste kampane. TIL-trenar Jørgen Vik seier dei gler seg til ein ny test og nye utfordringar på heimebane. – Eg synest både vi leverte godt og at det var ting vi kunne gjort betre mot Fredrikstad. Men berre to poeng føre Molde. – Kor viktig er det å gjere det godt og få tre poeng føre kampane mot topplaga? – Det er viktig for oss uavhengig av kva som kjem inn i framtida.",
+      "keyPoints": [
+        "Tromsø idrettslag har berre ein siger på dei seks siste kampane.",
+        "TIL-trenar Jørgen Vik seier dei gler seg til ein ny test og nye utfordringar på heimebane. – Eg synest både vi leverte godt og at det var ting vi kunne gjort betre mot Fredrikstad.",
+        "Men berre to poeng føre Molde. – Kor viktig er det å gjere det godt og få tre poeng føre kampane mot topplaga? – Det er viktig for oss uavhengig av kva som kjem inn i framtida.",
+        "TIL-trenaren meiner dei møter eit langt meir angrepshissig lag enn i dei to førre kampane. – Dei har stor fart oppe òg, så vi må ha kontroll på det."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/tromso-har-berre-vunne-ein-dei-seks-siste-kampane_-_-gleder-oss-til-ny-test-1.18057817",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Z_Ows7UBTxSP2wStGOGyFwy8UNd0fvxtYEpvaqoIdWGA.jpg",
+      "localImage": "assets/news/805d90bed0c984.jpg",
+      "score": 13
+    },
+    {
+      "id": "7affd16c497b90",
+      "category": "Norge",
+      "published": "18.10. 10:59",
+      "publishedISO": "2026-10-18T10:59:08+02:00",
+      "title": "Fengslingsmøtet i halliksaken er i gang",
+      "summary": "Søndag formiddag startet fengslingsmøtet i Trøndelag tingrett mot en mann i 60-årene som er siktet for hallikvirksomhet. Mannen i 60-årene er av utenlandsk opprinnelse, og hans advokat Linn Haug Holm opplyser til NRK at mannen nekter straffskyld, og vil be om å bli løslatt. Klokka 12.00 startet fengslingsmøtet mot Tom Ketil Krogstad.",
+      "keyPoints": [
+        "Søndag formiddag startet fengslingsmøtet i Trøndelag tingrett mot en mann i 60-årene som er siktet for hallikvirksomhet.",
+        "Klokka 12.00 startet fengslingsmøtet mot Tom Ketil Krogstad.",
+        "Mannen i 60-årene er av utenlandsk opprinnelse, og hans advokat Linn Haug Holm opplyser til NRK at mannen nekter straffskyld, og vil be om å bli løslatt.",
+        "Politiet i Trøndelag pågrep i slutten av denne uken Krogstad og en annen mann i 60-årene, siktet for hallikvirksomhet etter straffelovens paragraf 315. – Ut fra informasjonen vi har så langt, mistenkes de siktede for å ha tilrettelagt for prostitusjon av en kvinne."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/fengslingsmotet-i-halliksaken-er-i-gang-1.18057845",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/SRGLQN7rMnRrrfWCZlSAtgFXwDHPqVshgnTQ7iEXu0zA.jpg",
+      "localImage": "assets/news/7affd16c497b90.webp",
+      "score": 13
+    },
+    {
+      "id": "9a4a37b0dbe0a5",
+      "category": "Norge",
+      "published": "18.10. 10:53",
+      "publishedISO": "2026-10-18T10:53:10+02:00",
+      "title": "Luftambulanse kalt ut – dykker skal ha fått problemer",
+      "summary": "Flys med luftambulanse til Ullevål universitetssykehus. En halvtime etter at politiet varslet om redningsaksjonen ble det bekreftet at dykkeren var hentet opp. – Dykkerne gjorde en kjempeinnsats og fikk vedkommende opp om bord, sier Fidje. Luftambulansen, redningshelikopteret ble kalt ut sammen med en rekke andre redningsressurser fra politi, brann og ambulanse.",
+      "keyPoints": [
+        "Luftambulansen, redningshelikopteret ble kalt ut sammen med en rekke andre redningsressurser fra politi, brann og ambulanse.",
+        "Flys med luftambulanse til Ullevål universitetssykehus.",
+        "En halvtime etter at politiet varslet om redningsaksjonen ble det bekreftet at dykkeren var hentet opp. – Dykkerne gjorde en kjempeinnsats og fikk vedkommende opp om bord, sier Fidje.",
+        "Det var klokken 10.22 at politiet varslet at det var satt i gang en stor redningsaksjon."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/luftambulanse-kalt-ut-_-dykker-skal-ha-fatt-problemer-1.18057833",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/wq-oXkKdnBN5Mj9J-dDMGgHGGtHWqla2xEDz5Nrr_fhQ.jpg",
+      "localImage": "assets/news/9a4a37b0dbe0a5.jpg",
+      "score": 13
+    },
+    {
+      "id": "af58a45c559eff",
       "category": "Norge",
       "published": "18.10. 08:23",
       "publishedISO": "2026-10-18T08:23:37+02:00",
-      "title": "Vannskuterulykken: Søker nå etter antatt omkommet også på land",
-      "summary": "Søket etter mannen i 30-årene som er savnet etter vannskuterulykken i Mørkvedbukta, har nå endret status. Lørdag ettermiddag ble søket i sjøen definert som et søk etter antatt omkommet person. En kvinne og en mann i 30-årene natt til lørdag havnet i sjøen da en vannskuter veltet i Mørkvedbukta ved Bodø i stummende mørke, høye bølger og sterk strøm. – Hele søket, både i sjøen og på land, er nå definert som et søk etter antatt omkommet person.",
+      "title": "Vannskuterulykken: Savnet mann i 30-årene funnet omkommet",
+      "summary": "Mannen i 30-årene som var savnet etter vannskuterulykken i Bodø ble funnet på seks meters dyp. Den savnede mannen i 30-årene ble funnet omkommet like før klokka 11 søndag. En kvinne i 30-årene klarte å ta seg i land, mens en mann ble meldt savnet.",
       "keyPoints": [
-        "En kvinne og en mann i 30-årene natt til lørdag havnet i sjøen da en vannskuter veltet i Mørkvedbukta ved Bodø i stummende mørke, høye bølger og sterk strøm. – Hele søket, både i sjøen og på land, er nå definert som et søk etter antatt omkommet person.",
-        "Søket etter mannen i 30-årene som er savnet etter vannskuterulykken i Mørkvedbukta, har nå endret status.",
-        "Søndag morgen opplyser politiet at også strandsøket på land har gått over i samme fase.",
-        "Det vil bli gjennomført søk både på land og i sjøen, opplyser Østbø."
+        "Mannen i 30-årene som var savnet etter vannskuterulykken i Bodø ble funnet på seks meters dyp.",
+        "Den savnede mannen i 30-årene ble funnet omkommet like før klokka 11 søndag.",
+        "En kvinne i 30-årene klarte å ta seg i land, mens en mann ble meldt savnet.",
+        "En kvinne og en mann i 30-årene havnet natt til lørdag i sjøen da en vannskuter veltet i Mørkvedbukta ved Bodø i stummende mørke, høye bølger og sterk strøm."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/vannskuterulykken_-soker-na-etter-antatt-omkommet-ogsa-pa-land-1.18057772",
+      "url": "https://www.nrk.no/nordland/vannskuterulykken_-savnet-mann-i-30-arene-funnet-omkommet-1.18057772",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/MP1ddUnwFdm501z592xGxgzg4vLaYirwg5KWuSumA-_g.jpg",
-      "localImage": "assets/news/72f27ba76be2c2.jpg",
-      "score": 13
-    },
-    {
-      "id": "21d1cb8083bc5c",
-      "category": "Norge",
-      "published": "18.10. 08:20",
-      "publishedISO": "2026-10-18T08:20:13+02:00",
-      "title": "Flere trafikkulykker i Troms natt etter snøfall",
-      "summary": "Tre ganger rykket politiet i Troms ut til trafikkulykker natt til søndag. Snøen har lagt seg på veien ved Skøelv i Sørreisa, noen mil fra de to trafikkulykkene i Midt-Troms natt til søndag. Søndag morgen var det klokka 8 kun minusgrader i Dividalen i Målselv. ellers var det målt mellom 2 til 5 plussgrader rundt om i Troms.",
-      "keyPoints": [
-        "Tre ganger rykket politiet i Troms ut til trafikkulykker natt til søndag.",
-        "Søndag morgen var det klokka 8 kun minusgrader i Dividalen i Målselv. ellers var det målt mellom 2 til 5 plussgrader rundt om i Troms.",
-        "Snøen har lagt seg på veien ved Skøelv i Sørreisa, noen mil fra de to trafikkulykkene i Midt-Troms natt til søndag.",
-        "Kort tid før midnatt rykket politiet ut til ei trafikkulykke på fylkesveien mellom Skøvatnet og Brøstadbotn i Dyrøy. – Det har vært svært glatt i området, melder operasjonsleder Henrik Melsbø."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/flere-trafikkulykker-i-troms-natt-etter-snofall-1.18057769",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/VEWWWYAEHyhUZQkxXINfeAegPaw2aRtRt6gsxjvLkH5Q.jpg",
-      "localImage": "assets/news/21d1cb8083bc5c.jpg",
-      "score": 13
-    },
-    {
-      "id": "3903334c6595ed",
-      "category": "Norge",
-      "published": "18.10. 03:06",
-      "publishedISO": "2026-10-18T03:06:36+02:00",
-      "title": "Død person funnet på hytte i Agder – én pågrepet",
-      "summary": "En person er siktet og pågrepet etter at det ble funnet en død person på ei hytte i Åmli i Agder lørdag kveld. SPERRET AV: Politiet har satt opp sperringer rundt et hyttefelt i Åmli i Agder etter at det ble funnet én død person i én av hyttene lørdag kveld. – Vedkommende er siktet for å ha forlatt et annet menneske i en hjelpeløs tilstand, sier operasjonsleder Ole Robert Strandhagen i Agder politidistrikt. En person ble lørdag kveld funnet død på en hytte i Åmli.",
-      "keyPoints": [
-        "En person er siktet og pågrepet etter at det ble funnet en død person på ei hytte i Åmli i Agder lørdag kveld.",
-        "Politiadvokat Anne Grethe Isaksen bekrefter søndag morgen at den siktede personen er pågrepet og at de ønsker å få avhørt personen i løpet av dagen.",
-        "Politiet ble varslet om saken klokken 20.23 lørdag kveld og meldte om den klokken 02.50 natt til søndag.",
-        "Søndag morgen opplyser operasjonsleder Kurt Ulven at det har vært vakthold rundt hytta i løpet av natten. – Krimteknisk er ferdig med sine undersøkleser."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/dod-person-funnet-pa-hytte-i-agder-_-en-pagrepet-1.18057737",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0E2RLajeCgbrASR2ymXVoA3iDHgLeakLbe_zAyegStgA.png",
-      "localImage": "assets/news/3903334c6595ed.png",
-      "score": 12
-    },
-    {
-      "id": "34d1b64451cfcd",
-      "category": "Norge",
-      "published": "17.10. 08:20",
-      "publishedISO": "2026-10-17T08:20:26+02:00",
-      "title": "Eier av russisk fiskeriselskap Vitalij Orlov saksøker norske journalister og Norge",
-      "summary": "Avisen de eier er saksøkt for å ha ærekrenket den russiske fiskerimilliardæren Vitalij Orlov, hovedeier av fiskeriselskapet Norebo. Bak søksmålet står den Murmansk-baserte fiskerimilliardæren Vitalij Orlov, eier av det største fiskerikonsernet i Russland, Norebo. Etter at EU sanksjonerte Norebo, har selskapet med Vitalij Orlov i spissen reagert med saksøke staten Norge, EU og norske journalister.",
-      "keyPoints": [
-        "Etter at EU sanksjonerte Norebo, har selskapet med Vitalij Orlov i spissen reagert med saksøke staten Norge, EU og norske journalister.",
-        "Avisen de eier er saksøkt for å ha ærekrenket den russiske fiskerimilliardæren Vitalij Orlov, hovedeier av fiskeriselskapet Norebo.",
-        "Bak søksmålet står den Murmansk-baserte fiskerimilliardæren Vitalij Orlov, eier av det største fiskerikonsernet i Russland, Norebo.",
-        "En liten norsk nettavis er saksøkt for å ha ærekrenket den russiske fiskerimilliardæren Vitalij Orlov – er innkalt til en domstol i London."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/eier-av-russisk-fiskeriselskap-vitalij-orlov-saksoker-norske-journalister-og-norge-1.18053461",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/wM6l29Owk43JckurKi0Hgg_afanRRFUo6bliTJGf6gyg.jpg",
-      "localImage": "assets/news/34d1b64451cfcd.jpg",
+      "localImage": "assets/news/af58a45c559eff.jpg",
       "score": 12
     }
   ]
