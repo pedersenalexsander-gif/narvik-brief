@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.10.2026 kl. 23:25",
-  "updatedISO": "2026-10-18T23:25:01.856087+02:00",
+  "updatedAt": "19.10.2026 kl. 01:33",
+  "updatedISO": "2026-10-19T01:33:12.331127+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,27 +25,6 @@
       "score": 25
     },
     {
-      "id": "200c4ba036e78c",
-      "category": "Verden",
-      "published": "18.10. 23:23",
-      "publishedISO": "2026-10-18T23:23:01+02:00",
-      "title": "Canadian military base fire: Death toll confirmed and cause under investigation",
-      "summary": "Den travle treningsbasen ligger bak gjerder på avsidesliggende land i Alberta. En stor brann feide gjennom en kanadisk militærbase på lørdag, og drepte minst fire mennesker og alvorlig skadet flere titalls flere. Få detaljer om hva som utløste den dødelige brannen ved Canadian Forces Base Wainwright, som brøt ut rundt klokken 16:00 lokal tid (22:00 GMT), er så langt bekreftet av myndighetene. Før Carney henvendte seg til nasjonen, rapporterte kanadiske medier dødstallet som syv med henvisning til navnløse militærkilder.",
-      "keyPoints": [
-        "Få detaljer om hva som utløste den dødelige brannen ved Canadian Forces Base Wainwright, som brøt ut rundt klokken 16:00 lokal tid (22:00 GMT), er så langt bekreftet av myndighetene.",
-        "Den travle treningsbasen ligger bak gjerder på avsidesliggende land i Alberta. En stor brann feide gjennom en kanadisk militærbase på lørdag, og drepte minst fire mennesker og alvorlig skadet flere titalls flere.",
-        "Før Carney henvendte seg til nasjonen, rapporterte kanadiske medier dødstallet som syv med henvisning til navnløse militærkilder.",
-        "Det kanadiske forsvarsdepartementet har sagt at årsaken fortsatt er under etterforskning, og \"på dette tidspunktet er det ingen indikasjoner på at det var et resultat av noen terroraktivitet\"."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
-      "localImage": "assets/news/200c4ba036e78c.jpg",
-      "score": 13
-    },
-    {
       "id": "885f1e0b222d53",
       "category": "Økonomi",
       "published": "18.10. 19:44",
@@ -64,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/33defadd-5feb-3ded-a3a5-53857ea2cf56?fit=crop&h=675&upscale=true&w=1200&s=dcce765bb5a2238c9ce41f4a0909656aff9a9d68",
       "localImage": "assets/news/885f1e0b222d53.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "009a401bdfb15c",
@@ -88,27 +67,6 @@
       "score": 12
     },
     {
-      "id": "43a0bc92d20954",
-      "category": "AI",
-      "published": "17.10. 22:24",
-      "publishedISO": "2026-10-17T22:24:32+02:00",
-      "title": "No further action against government adviser's wife over Palestine Action post, police say",
-      "summary": "Politiet sier at ingen ytterligere tiltak vil bli iverksatt mot kona til regjeringens nasjonale sikkerhetsrådgiver etter at hun postet på sosiale medier med henvisning til Palestine Action. Lørdag sa Metropolitan Police at Helms innlegg ble \"vurdert av spesialistoffiserer og det ble fastslått at det ikke nådde den kriminelle terskelen\". \"Ingen ytterligere polititiltak vil bli iverksatt,\" la styrken til. Fredag ​​hadde Met-politiet sagt at det var \"i ferd med å bli vurdert for å avgjøre om ytterligere politietterforskning kan være nødvendig\" etter at det ble \"gjort oppmerksom på et X-innlegg torsdag 15. oktober som refererte til Palestine Action\".",
-      "keyPoints": [
-        "Politiet sier at ingen ytterligere tiltak vil bli iverksatt mot kona til regjeringens nasjonale sikkerhetsrådgiver etter at hun postet på sosiale medier med henvisning til Palestine Action.",
-        "Fredag ​​hadde Met-politiet sagt at det var \"i ferd med å bli vurdert for å avgjøre om ytterligere politietterforskning kan være nødvendig\" etter at det ble \"gjort oppmerksom på et X-innlegg torsdag 15. oktober som refererte til Palestine Action\".",
-        "Lørdag sa Metropolitan Police at Helms innlegg ble \"vurdert av spesialistoffiserer og det ble fastslått at det ikke nådde den kriminelle terskelen\". \"Ingen ytterligere polititiltak vil bli iverksatt,\" la styrken til.",
-        "Sarah Helm, som er gift med Jonathan Powell, skrev på X torsdag: «Gud hjelpe oss forfattere som støtter Palestine og Palestine Action». Hun svarte på en diskusjon om forfatteren Sally Rooney, hvis romaner ikke vil bli levert til bokhandlere i Storbritannia etter hennes kunngjøring om at hun har til hensikt å bruke royalties til å støtte den forbudte organisasjonen."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a4d/live/defb13e0-ca5a-11f1-852c-2b93a8fc4799.jpg",
-      "localImage": "assets/news/43a0bc92d20954.jpg",
-      "score": 13
-    },
-    {
       "id": "7c05c939640a52",
       "category": "Norge",
       "published": "18.10. 03:48",
@@ -127,7 +85,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/7c05c939640a52.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "8d942047b1d083",
@@ -148,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/4RgoRjP8fh1BsUw2QKVHPQf3oI4TUWNwp5Va6Xd2eXSQ.jpg",
       "localImage": "assets/news/8d942047b1d083.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "7754a52c7a2351",
@@ -212,6 +170,48 @@
       "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
       "localImage": "assets/news/b7627fdde175bc.webp",
       "score": 14
+    },
+    {
+      "id": "9ae6bcb496aa0a",
+      "category": "Norge",
+      "published": "18.10. 23:10",
+      "publishedISO": "2026-10-18T23:10:54+02:00",
+      "title": "Over 250 millioner kroner kom inn til TV-aksjonen 2026",
+      "summary": "Totalt kom det inn 251.299.209 kroner, som i år går til NRC Flyktninghjelpen. Med pengene fra TV-aksjonen kan vi umiddelbart gå i gang med å gi trygge og gode hjem til tusenvis av familier på flukt i krigs- og kriseområder, sier han. Mens hun holdt appellen din vippset det norske folk inn 1.333.466 kroner. – Det er helt fantastisk! Én million?",
+      "keyPoints": [
+        "Totalt kom det inn 251.299.209 kroner, som i år går til NRC Flyktninghjelpen.",
+        "Mens hun holdt appellen din vippset det norske folk inn 1.333.466 kroner. – Det er helt fantastisk! Én million?",
+        "Med pengene fra TV-aksjonen kan vi umiddelbart gå i gang med å gi trygge og gode hjem til tusenvis av familier på flukt i krigs- og kriseområder, sier han.",
+        "Sigrid Bonde Tusvik holder appell i TV-aksjonen Resultatet ble en appell med både humor og improvisasjon, men med et viktig budskap i bunn."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tvaksjonen/over-250-millioner-kroner-kom-inn-til-tv-aksjonen-2026-1.18047087",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/E5XJES9SiU8NuirTng4-EgrPfmDZHa4W-BOcF-S5sxKQ.jpg",
+      "localImage": "assets/news/9ae6bcb496aa0a.jpg",
+      "score": 13
+    },
+    {
+      "id": "eabed3f6a3b24c",
+      "category": "Norge",
+      "published": "18.10. 21:32",
+      "publishedISO": "2026-10-18T21:32:09+02:00",
+      "title": "Advarte om nazikonsert – hit dro nynazistene",
+      "summary": "Samtidig begynte det å gå rykter om en nazikonsert på kvelden. Da var det rolig der, og inne var det bare rundt 15 personer. – Vi hadde fått tips om at det skulle være en konsert og en fest, hvor vi har vært innom, sier politiets innsatsleder Geir Oustorp. Han sier dette om de som har vært på østlandsområdet denne helga: – Basert på de opplysningene vi har er flere av de involverte mangeårige veteraner i organisert nynazisme i Sverige og Norge, hvorav noen har vært en del av miljøet helt siden 1990-tallet.",
+      "keyPoints": [
+        "Da var det rolig der, og inne var det bare rundt 15 personer. – Vi hadde fått tips om at det skulle være en konsert og en fest, hvor vi har vært innom, sier politiets innsatsleder Geir Oustorp.",
+        "Samtidig begynte det å gå rykter om en nazikonsert på kvelden.",
+        "Han sier dette om de som har vært på østlandsområdet denne helga: – Basert på de opplysningene vi har er flere av de involverte mangeårige veteraner i organisert nynazisme i Sverige og Norge, hvorav noen har vært en del av miljøet helt siden 1990-tallet.",
+        "NRK har fått tilsendt bilder av flere kjente skikkelser fra det høyreekstreme miljøet."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/buskerud/advarte-om-nazikonsert-_-hit-dro-nynazistene-1.18056871",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/yU2d5DhkF0egsaFuBabJiwizW4rc4Mr2MTh7tejNxibg.jpg",
+      "localImage": "assets/news/eabed3f6a3b24c.jpg",
+      "score": 13
     }
   ]
 }
