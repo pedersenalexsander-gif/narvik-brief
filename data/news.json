@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.10.2026 kl. 08:57",
-  "updatedISO": "2026-10-19T08:57:36.953599+02:00",
+  "updatedAt": "19.10.2026 kl. 16:27",
+  "updatedISO": "2026-10-19T16:27:20.114426+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/f20ee00d9e2118.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "22d2d221c08f72",
@@ -43,70 +43,91 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29eb/live/c667f2d0-c96f-11f1-80fc-ab418b149008.jpg",
       "localImage": "assets/news/22d2d221c08f72.jpg",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "200c4ba036e78c",
+      "id": "1d2c79f38c7b75",
       "category": "USA",
-      "published": "19.10. 02:49",
-      "publishedISO": "2026-10-19T02:49:14+02:00",
-      "title": "What we know so far about deadly fire at Canadian military base",
-      "summary": "Den travle treningsbasen ligger bak gjerder på avsidesliggende land i Alberta. En enorm brann feide gjennom en kanadisk militærbase lørdag, og drepte minst fire mennesker og etterlot 19 mennesker i kritisk tilstand. Brannen ved Canadian Forces Base Wainwright brøt ut rundt klokken 16:00 lokal tid (22:00 GMT). Canadian Forces Base Wainwright ligger i et landlig område i den vestlige provinsen Alberta - rundt 120 miles (193 km) fra Edmonton og 180 miles (290 km) fra Calgary, provinsens to største byer.",
+      "published": "19.10. 16:13",
+      "publishedISO": "2026-10-19T16:13:18+02:00",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "summary": "Et medlem av det amerikanske luftvåpenet døde etter at han falt mens han rappellerte fra taket på en Texas-stadion i forkant av en fotballkamp på college. Opptak viser servicemannen stuper med føttene først til gressmatten ved San Antonios 170 fot (52 meter) høye Alamodome på lørdag under en seremoni i forkant av kampen mellom University of Texas i San Antonio og Naval Academy. US Air Force-briggen Scott Mills sa i en uttalelse utstedt av Nellis Air Force Base: \"Denne tragedien føles dypt over den 57. fløyen. \"Tech Sgt Patterson og hans tjeneste betydde enormt for vår fløy.\" Patterson, fra Fort Stewart, Georgia, hadde tjenestegjort i det amerikanske militæret i 15 år, ifølge Nellis Air Force Base.",
       "keyPoints": [
-        "Den travle treningsbasen ligger bak gjerder på avsidesliggende land i Alberta. En enorm brann feide gjennom en kanadisk militærbase lørdag, og drepte minst fire mennesker og etterlot 19 mennesker i kritisk tilstand.",
-        "The fire at Canadian Forces Base Wainwright broke out at around 16:00 local time (22:00 GMT).",
-        "Canadian Forces Base Wainwright ligger i et landlig område i den vestlige provinsen Alberta - rundt 120 miles (193 km) fra Edmonton og 180 miles (290 km) fra Calgary, provinsens to største byer.",
-        "Generalmajor Wade Rutland, sjef for 1. kanadiske divisjon, sa at en gressbrann antente på en treningsbane og «uvanlig sterk vind førte til at den spredte seg raskt og skiftet retning» mot soldater som deltok i øvelser."
+        "Et medlem av det amerikanske luftvåpenet døde etter at han falt mens han rappellerte fra taket på en Texas-stadion i forkant av en fotballkamp på college.",
+        "Opptak viser servicemannen stuper med føttene først til gressmatten ved San Antonios 170 fot (52 meter) høye Alamodome på lørdag under en seremoni i forkant av kampen mellom University of Texas i San Antonio og Naval Academy.",
+        "US Air Force-briggen Scott Mills sa i en uttalelse utstedt av Nellis Air Force Base: \"Denne tragedien føles dypt over den 57. fløyen. \"Tech Sgt Patterson og hans tjeneste betydde enormt for vår fløy.\" Patterson, fra Fort Stewart, Georgia, hadde tjenestegjort i det amerikanske militæret i 15 år, ifølge Nellis Air Force Base.",
+        "En kollegial atletisk forening sa at beslutningen om å fortsette kampen ble tatt før flymannens død var blitt bekreftet. \"Vi uttrykker vår dypeste medfølelse til hans familie, venner, lagkamerater og medlemmer av 57th Wing,\" sa den amerikanske konferansen, ekstern i en uttalelse."
       ],
       "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do",
+      "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg",
-      "localImage": "assets/news/200c4ba036e78c.jpg",
-      "score": 12
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d734/live/60377590-cbc1-11f1-a64c-550be9e3c66b.jpg",
+      "localImage": "assets/news/1d2c79f38c7b75.jpg",
+      "score": 13
     },
     {
-      "id": "8ef46cc0d2c276",
+      "id": "16465aecbc43bb",
       "category": "Økonomi",
-      "published": "19.10. 06:35",
-      "publishedISO": "2026-10-19T06:35:49+02:00",
-      "title": "Mowi dro inn tre mrd.",
-      "summary": "Mowi høstet 186.000 tonn fisk og fikk et operasjonelt driftsresultat på over tre milliarder kroner i tredje kvartal. Mowi venter et operasjonelt driftsresultat (ebit) på 275 millioner euro (3,02 milliarder kroner basert på en eurokurs på 10,97) i tredje kvartal. Det er en kostnadsreduksjon på 0,31 euro per kilo, som tilsvarer 51 millioner euro eller 559 millioner kroner, opplyser Mowi.",
+      "published": "19.10. 13:18",
+      "publishedISO": "2026-10-19T13:18:47+02:00",
+      "title": "Elon Musk sier han vil gi bort SpaceX-aksjer til alle barn i USA",
+      "summary": "Løftet fra Musk kommer i et innlegg på meldingsplattformen X mandag. – Neste år vil jeg gi bort en av mine SpaceX-aksjer til hvert barn i USA. Elon Musk er verdens rikeste person med god margin, og han er toppsjef i både elbilprodusenten Tesla og romfartsselskapet SpaceX. Ifølge Bloomberg anslår amerikanske myndigheter at det finnes rundt 72 millioner barn i USA.",
       "keyPoints": [
-        "Mowi høstet 186.000 tonn fisk og fikk et operasjonelt driftsresultat på over tre milliarder kroner i tredje kvartal.",
+        "Løftet fra Musk kommer i et innlegg på meldingsplattformen X mandag. – Neste år vil jeg gi bort en av mine SpaceX-aksjer til hvert barn i USA.",
+        "Elon Musk er verdens rikeste person med god margin, og han er toppsjef i både elbilprodusenten Tesla og romfartsselskapet SpaceX.",
+        "Ifølge Bloomberg anslår amerikanske myndigheter at det finnes rundt 72 millioner barn i USA.",
+        "I dag er 72 millioner SpaceX-aksjer verdt rundt 10,5 milliarder dollar, eller rundt 100 milliarder norske kroner, gitt kursen på 146,03 dollar per SpaceX-aksje."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/p1O1oE/elon-musk-sier-han-vil-gi-bort-spacex-aksjer-til-alle-barn-i-usa",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/9d1d30f5-882a-3856-8eac-d56b26c7b333?fit=crop&h=675&upscale=true&w=1200&s=854f15a7bcc19d3cd4e960ebbd8e6f58fc6564c1",
+      "localImage": "assets/news/16465aecbc43bb.jpg",
+      "score": 20
+    },
+    {
+      "id": "44192978c8fa5e",
+      "category": "Økonomi",
+      "published": "19.10. 09:00",
+      "publishedISO": "2026-10-19T09:00:25+02:00",
+      "title": "Mowi-hopp på negativ Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs åpnet i positivt terreng, men har snudd nedover i løpet av de første to timene med handel mandag. Slik ser det ut for noen av de mest omsatte aksjene: Siden Oslo Børs stengte fredag ettermiddag har oljeprisen steget med rundt 2 prosent. Mowi venter et operasjonelt driftsresultat (ebit) på 275 millioner euro (3,02 milliarder kroner basert på en eurokurs på 10,97) i tredje kvartal.",
+      "keyPoints": [
+        "Slik ser det ut for noen av de mest omsatte aksjene: Siden Oslo Børs stengte fredag ettermiddag har oljeprisen steget med rundt 2 prosent.",
+        "Hovedindeksen på Oslo Børs åpnet i positivt terreng, men har snudd nedover i løpet av de første to timene med handel mandag.",
         "Mowi venter et operasjonelt driftsresultat (ebit) på 275 millioner euro (3,02 milliarder kroner basert på en eurokurs på 10,97) i tredje kvartal.",
-        "Det er en kostnadsreduksjon på 0,31 euro per kilo, som tilsvarer 51 millioner euro eller 559 millioner kroner, opplyser Mowi.",
-        "Mowi melder om kostnader på 5,11 euro per kilo i tredje kvartal."
+        "Mowi høstet 186.000 tonn fisk og fikk et operasjonelt driftsresultat på over tre milliarder kroner i tredje kvartal."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/xlzr6V/mowi-dro-inn-tre-mrd",
+      "url": "https://e24.no/boers-og-finans/i/eGv7la/oppgang-paa-oslo-boers",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/bd84453f-93d6-36f7-a4c8-7dd6a2771ee1?fit=crop&h=675&upscale=true&w=1200&s=59fc6c32efa64837f24c9bb3d40fdf8f5ea7d6d6",
-      "localImage": "assets/news/8ef46cc0d2c276.png",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/5c0e6737-9c3f-3ed2-966d-6c08f9def161?fit=crop&h=675&upscale=true&w=1200&s=286f002f5b4302a91801354941a97b77ecf1626b",
+      "localImage": "assets/news/44192978c8fa5e.jpg",
+      "score": 19
     },
     {
-      "id": "885f1e0b222d53",
-      "category": "Økonomi",
-      "published": "18.10. 19:44",
-      "publishedISO": "2026-10-18T19:44:59+02:00",
-      "title": "Aker satser på AI-startups: – Tok fem minutter",
-      "summary": "De skal pitche AI-selskapet sitt «Tenki» til Runway-teamet og Akers kanskje mest entusiastiske toppsjef: Matts Johansen i Aker Biomarine. Pitchen ble enkel. – Det tok 25 minutter før vi bestemte oss, sier Johansen, som nå er kunde. For Johansen, som forteller at Aker Biomarine har rundt 100 ulike krillprodukter i butikkhyllene i USA, ble pitchen enda enklere.",
+      "id": "76ef551b9f19fc",
+      "category": "AI",
+      "published": "19.10. 11:38",
+      "publishedISO": "2026-10-19T11:38:25+02:00",
+      "title": "Musk and Anthropic pledge share giveaways",
+      "summary": "Elon Musks SpaceX- og kunstig intelligens-gigant Anthropic har lovet store økonomiske gaver ettersom Big Tech-firmaer kommer under press over den potensielle effekten av AI på menneskeheten. Milliardærens kunngjøring kom etter at Anthropic sa at de ville forplikte 5% av aksjene til et fond som vil gi donasjoner til \"allmennhetens beste\". Dette blir det første av mange.\" Det kom etter at han svarte på Anthropics offentlige fondsløfte med: \"Jeg anbefaler å gi aksjene direkte til offentligheten.",
       "keyPoints": [
-        "Pitchen ble enkel. – Det tok 25 minutter før vi bestemte oss, sier Johansen, som nå er kunde.",
-        "For Johansen, som forteller at Aker Biomarine har rundt 100 ulike krillprodukter i butikkhyllene i USA, ble pitchen enda enklere.",
-        "De skal pitche AI-selskapet sitt «Tenki» til Runway-teamet og Akers kanskje mest entusiastiske toppsjef: Matts Johansen i Aker Biomarine.",
-        "I en tidligere versjon av saken sto det at beslutningene som ble tatt tok sekunder, det riktige er minutter."
+        "Elon Musks SpaceX- og kunstig intelligens-gigant Anthropic har lovet store økonomiske gaver ettersom Big Tech-firmaer kommer under press over den potensielle effekten av AI på menneskeheten.",
+        "Dette blir det første av mange.\" Det kom etter at han svarte på Anthropics offentlige fondsløfte med: \"Jeg anbefaler å gi aksjene direkte til offentligheten.",
+        "Milliardærens kunngjøring kom etter at Anthropic sa at de ville forplikte 5% av aksjene til et fond som vil gi donasjoner til \"allmennhetens beste\".",
+        "Musk sa mandag at han ville gi en av aksjene sine i rakettselskapet sitt, som eier xAI, til hvert barn i Amerika neste år."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/8GGL8r/aker-satser-paa-ai-startups-tok-fem-sekunder",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/33defadd-5feb-3ded-a3a5-53857ea2cf56?fit=crop&h=675&upscale=true&w=1200&s=dcce765bb5a2238c9ce41f4a0909656aff9a9d68",
-      "localImage": "assets/news/885f1e0b222d53.jpg",
-      "score": 14
+      "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/075f/live/77a0d170-cba0-11f1-9ee2-f74dfb8e54e5.jpg",
+      "localImage": "assets/news/76ef551b9f19fc.jpg",
+      "score": 22
     },
     {
       "id": "aa2af7a2af305a",
@@ -127,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
       "localImage": "assets/news/aa2af7a2af305a.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "d98186e9f1b375",
@@ -138,9 +159,9 @@
       "summary": "Selv om det er flertall på Stortinget for å gi desemberbarna barnehageplass innen de er fylt ett år, kan ikke regjeringen love at det gjelder barn som blir født i år. Statssekretær i Kunnskapsdepartementet Synnøve Mjeldheim Skaar (Ap). – Hvorvidt en lovendring kan tre i kraft allerede fra 1. juli 2027, slik at barn født i desember i år får plass når de har fylt ett år, er avhengig av at Stortinget også bevilger midler til forslaget, sier statssekretær Synnøve Mjeldheim Skaar til NRK. Det var Høyre som fikk Stortinget med seg på å gi barn født i desember rett til barnehageplass fra de fyller ett år.",
       "keyPoints": [
         "Selv om det er flertall på Stortinget for å gi desemberbarna barnehageplass innen de er fylt ett år, kan ikke regjeringen love at det gjelder barn som blir født i år.",
-        "Det var Høyre som fikk Stortinget med seg på å gi barn født i desember rett til barnehageplass fra de fyller ett år.",
         "Statssekretær i Kunnskapsdepartementet Synnøve Mjeldheim Skaar (Ap). – Hvorvidt en lovendring kan tre i kraft allerede fra 1. juli 2027, slik at barn født i desember i år får plass når de har fylt ett år, er avhengig av at Stortinget også bevilger midler til forslaget, sier statssekretær Synnøve Mjeldheim Skaar til NRK.",
-        "Barn født mellom desember og juli har nemlig ikke lovfestet rett til barnehageplass før i august året etter at de fyller ett år."
+        "Det var Høyre som fikk Stortinget med seg på å gi barn født i desember rett til barnehageplass fra de fyller ett år.",
+        "Selv om desemberbarna nå får plass, gjenstår en stor gruppe: Barn født mellom januar og juli har fremdeles ikke lovfestet rett til plass før i august året etter at de fyller ett år."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -148,69 +169,48 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DOi4_GqFkjmWFcJqU61f2gAL6ATF0e4wYW-xIyqWodKA.jpg",
       "localImage": "assets/news/d98186e9f1b375.jpg",
-      "score": 21
+      "score": 19
     },
     {
-      "id": "52ed05dea66862",
-      "category": "Verden",
-      "published": "19.10. 01:20",
-      "publishedISO": "2026-10-19T01:20:15+02:00",
-      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-      "summary": "USAs president Donald Trump har sagt at hans beslutning om å suspendere flere russiske sanksjoner er et forsøk på å holde Moskva ved forhandlingsbordet. \"Jeg er i ferd med å forhandle fred i krigen mellom Russland og Ukraina,\" sa Trump på sin meldingsplattform Truth Social, og la til at han ikke ønsket å \"gjøre noe som vil drive, dumt nok, Russland bort fra forhandlingsbordet\". Trump blokkerte en rekke sanksjoner mot Russland fredag ​​kveld, to dager før de skulle tre i kraft, ettersom bråket med Ukrainas president Volodymyr Zelensky ble dypere. Trump gir avkall på flere Russland-sanksjoner ettersom bråket med Zelensky intensiverer Zelensky sier at Ukraina har rett til å forsvare seg etter at Trump kaller de siste streikene en \"skam\" Russland anklager Ukraina for å angripe oljeraffineriet etter at Zelensky sier at streikene skal gjenopptas",
+      "id": "8ef46cc0d2c276",
+      "category": "Økonomi",
+      "published": "19.10. 06:35",
+      "publishedISO": "2026-10-19T06:35:49+02:00",
+      "title": "Mowi dro inn tre mrd.",
+      "summary": "Mowi høstet 186.000 tonn fisk og fikk et operasjonelt driftsresultat på over tre milliarder kroner i tredje kvartal. Mowi venter et operasjonelt driftsresultat (ebit) på 275 millioner euro (3,02 milliarder kroner basert på en eurokurs på 10,97) i tredje kvartal. Det er en kostnadsreduksjon på 0,31 euro per kilo, som tilsvarer 51 millioner euro eller 559 millioner kroner, opplyser Mowi.",
       "keyPoints": [
-        "USAs president Donald Trump har sagt at hans beslutning om å suspendere flere russiske sanksjoner er et forsøk på å holde Moskva ved forhandlingsbordet. \"Jeg er i ferd med å forhandle fred i krigen mellom Russland og Ukraina,\" sa Trump på sin meldingsplattform Truth Social, og la til at han ikke ønsket å \"gjøre noe som vil drive, dumt nok, Russland bort fra forhandlingsbordet\".",
-        "Trump gir avkall på flere Russland-sanksjoner ettersom bråket med Zelensky intensiverer Zelensky sier at Ukraina har rett til å forsvare seg etter at Trump kaller de siste streikene en \"skam\" Russland anklager Ukraina for å angripe oljeraffineriet etter at Zelensky sier at streikene skal gjenopptas",
-        "Trump blocked numerous sanctions on Russia on Friday night, two days before they were due to take effect, as a row with Ukrainian President Volodymyr Zelensky deepened.",
-        "Etter det siste trekket fra USA sa han imidlertid at han trodde Trump-administrasjonen ville oppheve flere sanksjoner mot Russland."
+        "Mowi høstet 186.000 tonn fisk og fikk et operasjonelt driftsresultat på over tre milliarder kroner i tredje kvartal.",
+        "Mowi venter et operasjonelt driftsresultat (ebit) på 275 millioner euro (3,02 milliarder kroner basert på en eurokurs på 10,97) i tredje kvartal.",
+        "Det er en kostnadsreduksjon på 0,31 euro per kilo, som tilsvarer 51 millioner euro eller 559 millioner kroner, opplyser Mowi.",
+        "Mowi melder om kostnader på 5,11 euro per kilo i tredje kvartal."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4644/live/461bcc30-cb38-11f1-8a27-2de4c72fadc2.jpg",
-      "localImage": "assets/news/52ed05dea66862.jpg",
+      "url": "https://e24.no/boers-og-finans/i/xlzr6V/mowi-dro-inn-tre-mrd",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/bd84453f-93d6-36f7-a4c8-7dd6a2771ee1?fit=crop&h=675&upscale=true&w=1200&s=59fc6c32efa64837f24c9bb3d40fdf8f5ea7d6d6",
+      "localImage": "assets/news/8ef46cc0d2c276.png",
       "score": 16
     },
     {
-      "id": "7c05c939640a52",
-      "category": "Norge",
-      "published": "18.10. 03:48",
-      "publishedISO": "2026-10-18T03:48:23+02:00",
-      "title": "Canada: Flere døde og skadede i brann på militærbase",
-      "summary": "Flere personer er døde og skadet i en stor brann på en militærbase i provinsen Alberta etter det Canadas statsminister Mark Carney kaller «en alvorlig hendelse». – En alvorlig hendelse har utløst en stor brann på basen Wainwright i Alberta, skriver Carney i en melding på X. Ifølge forsvarsminister David McGuinty er det både omkomne og skadede. Mandag er det folkeavstemning i provinsen, der innbyggerne blant annet skal ta stilling til en mulig løsrivelse fra Canada.",
+      "id": "1ad3d902aef018",
+      "category": "Økonomi",
+      "published": "19.10. 09:01",
+      "publishedISO": "2026-10-19T09:01:09+02:00",
+      "title": "Aker-aksjen faller etter rykter om lavere verdsettelse av Nscale",
+      "summary": "Det britiske selskapet, som utvikler datasentre for kunstig intelligens (AI), søkte i midten av september om børsnotering med en verdsettelse på rundt 30 milliarder dollar, ifølge kildene. Søndag meldte Bloomberg at Nscale møter motstand fra en gruppe investorer som mener en verdsettelse mellom 16 og 19 milliarder dollar er mer sannsynlig. Aker-aksjen faller 3,8 prosent på Oslo Børs kort tid etter åpning mandag.",
       "keyPoints": [
-        "Flere personer er døde og skadet i en stor brann på en militærbase i provinsen Alberta etter det Canadas statsminister Mark Carney kaller «en alvorlig hendelse». – En alvorlig hendelse har utløst en stor brann på basen Wainwright i Alberta, skriver Carney i en melding på X.",
-        "Mandag er det folkeavstemning i provinsen, der innbyggerne blant annet skal ta stilling til en mulig løsrivelse fra Canada.",
-        "Ifølge forsvarsminister David McGuinty er det både omkomne og skadede.",
-        "På en pressekonferanse sa McGuinty at han ikke kan gi ytterligere detaljer, men kaller saken «en meget aktiv og følsom situasjon». – Vi vil kunne si mer de neste timene og dagene."
+        "Søndag meldte Bloomberg at Nscale møter motstand fra en gruppe investorer som mener en verdsettelse mellom 16 og 19 milliarder dollar er mer sannsynlig.",
+        "Aker-aksjen faller 3,8 prosent på Oslo Børs kort tid etter åpning mandag.",
+        "Det britiske selskapet, som utvikler datasentre for kunstig intelligens (AI), søkte i midten av september om børsnotering med en verdsettelse på rundt 30 milliarder dollar, ifølge kildene.",
+        "Samme dag meldte Nscale selv at Microsoft, som sammen med Anthropic står for rundt 85 prosent av kontraktene til selskapet, har trukket seg fra en datasenteravtale i Loughton, Essex."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/canada_-flere-dode-og-skadede-i-brann-pa-militaerbase-1.18057740",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
-      "localImage": "assets/news/7c05c939640a52.jpg",
-      "score": 16
-    },
-    {
-      "id": "8d942047b1d083",
-      "category": "Norge",
-      "published": "18.10. 19:01",
-      "publishedISO": "2026-10-18T19:01:59+02:00",
-      "title": "Stoler ikke på løftet om å beholde småflyplassene",
-      "summary": "Bent-Joacim Bentzen (Sp) frykter en ny kamp om småflyplassene. Den 30. september lovet samferdselsminister Kamzy Gunaratnam at dagens flyruter skulle beholdes. Gunaratnam fastholder løftet i en skriftlig kommentar til NRK: – Ingen lufthavner eller flyruter legges ned i forbindelse med det kommende FOT-kjøpet.",
-      "keyPoints": [
-        "Gunaratnam fastholder løftet i en skriftlig kommentar til NRK: – Ingen lufthavner eller flyruter legges ned i forbindelse med det kommende FOT-kjøpet.",
-        "Bent-Joacim Bentzen (Sp) frykter en ny kamp om småflyplassene.",
-        "Den 30. september lovet samferdselsminister Kamzy Gunaratnam at dagens flyruter skulle beholdes.",
-        "Regjeringen vil vurdere kravene til flyrutene i lys av nye veier og den nye flyplassen i Mo i Rana."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/stoler-ikke-pa-loftet-om-a-beholde-smaflyplassene-1.18056574",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/4RgoRjP8fh1BsUw2QKVHPQf3oI4TUWNwp5Va6Xd2eXSQ.jpg",
-      "localImage": "assets/news/8d942047b1d083.jpg",
+      "url": "https://e24.no/boers-og-finans/i/zlwORq/aker-aksjen-faller-3-8-prosent-etter-rykter-om-lavere-verdsettelse-av-nscale",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8f1ee994-06bc-3917-ac78-aaa2d08e4fb9?fit=crop&h=675&upscale=true&w=1200&s=3184d5531c3c35588d9972dac87291f012582f05",
+      "localImage": "assets/news/1ad3d902aef018.jpg",
       "score": 15
     }
   ]
