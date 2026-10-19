@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.10.2026 kl. 01:33",
-  "updatedISO": "2026-10-19T01:33:12.331127+02:00",
+  "updatedAt": "19.10.2026 kl. 03:45",
+  "updatedISO": "2026-10-19T03:45:17.033640+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/f20ee00d9e2118.jpg",
-      "score": 25
+      "score": 24
     },
     {
       "id": "885f1e0b222d53",
@@ -44,27 +44,6 @@
       "image": "https://akamai.vgc.no/v2/images/33defadd-5feb-3ded-a3a5-53857ea2cf56?fit=crop&h=675&upscale=true&w=1200&s=dcce765bb5a2238c9ce41f4a0909656aff9a9d68",
       "localImage": "assets/news/885f1e0b222d53.jpg",
       "score": 15
-    },
-    {
-      "id": "009a401bdfb15c",
-      "category": "Økonomi",
-      "published": "18.10. 17:29",
-      "publishedISO": "2026-10-18T17:29:41+02:00",
-      "title": "Norge inngår frihandelsavtale med Vietnam",
-      "summary": "Norge og de andre EFTA-landene har inngått en frihandelsavtale med Vietnam. Innen syv år skal over 98 prosent av eksporten være fri for toll. – I en mer uforutsigbar verden trenger Norge flere ben å stå på, sier utenriksminister Espen Barth Eide i en pressemelding. Handelen mellom Norge og Vietnam har økt jevnt de siste årene.",
-      "keyPoints": [
-        "Norge og de andre EFTA-landene har inngått en frihandelsavtale med Vietnam.",
-        "Handelen mellom Norge og Vietnam har økt jevnt de siste årene.",
-        "Innen syv år skal over 98 prosent av eksporten være fri for toll. – I en mer uforutsigbar verden trenger Norge flere ben å stå på, sier utenriksminister Espen Barth Eide i en pressemelding.",
-        "Når avtalen trer i kraft, blir laks tollfri umiddelbart, mens makrell får nulltoll etter en nedtrappingsperiode på tre år. – Dette er en viktig avtale og regjeringen skal absolutt ha ros for at de har fått dette på plass, sier direktør for internasjonale relasjoner Trond Davidsen i Sjømat Norge til E24."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/hav-og-sjoemat/i/31KMg9/norge-inngaar-frihandelsavtale-med-vietnam",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c05c7171-e76a-3851-b219-dfc41e589f5c?fit=crop&h=675&upscale=true&w=1200&s=30b3215dc4df57a7b11c295f38b42fd0229569d9",
-      "localImage": "assets/news/009a401bdfb15c.jpg",
-      "score": 12
     },
     {
       "id": "7c05c939640a52",
@@ -127,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/l_TawIXobclcUeB-iewXEwmop1UKAA8zt-EvsZC2JxMw.png",
       "localImage": "assets/news/7754a52c7a2351.png",
-      "score": 15
+      "score": 14
     },
     {
       "id": "633cf6c076a924",
@@ -148,27 +127,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/e7Rs0R3ishLlGIYn-rc3uwIaD-AuxORknH8qPv9FfPlg.jpg",
       "localImage": "assets/news/633cf6c076a924.jpg",
-      "score": 15
-    },
-    {
-      "id": "b7627fdde175bc",
-      "category": "Norge",
-      "published": "17.10. 11:32",
-      "publishedISO": "2026-10-17T11:32:09+02:00",
-      "title": "Norge forlot salen da Russland talte",
-      "summary": "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet. Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken. Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
-      "keyPoints": [
-        "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet.",
-        "Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken.",
-        "Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
-        "De viser til den russiske krigføringen i Ukraina og sanksjonene Russland er ilagt."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
-      "localImage": "assets/news/b7627fdde175bc.webp",
       "score": 14
     },
     {
@@ -193,6 +151,27 @@
       "score": 13
     },
     {
+      "id": "b7627fdde175bc",
+      "category": "Norge",
+      "published": "17.10. 11:32",
+      "publishedISO": "2026-10-17T11:32:09+02:00",
+      "title": "Norge forlot salen da Russland talte",
+      "summary": "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet. Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken. Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
+      "keyPoints": [
+        "Delegater fra Norge, Sverige, Danmark og Finland var blant et dusin land som forlot salen i protest ⁠da den russiske finansministeren Anton Siluanov holdt innlegg i styringskomiteen til Det internasjonale pengefondet.",
+        "Flere land ønsket å markere sin motstand mot at Russland var invitert til de årlige møtene i Det internasjonale pengefondet og Verdensbanken.",
+        "Russland invaderte Krim og deler av fylkene Luhansk og Donetsk i Øst-Ukraina i 2014.",
+        "De viser til den russiske krigføringen i Ukraina og sanksjonene Russland er ilagt."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/norge-forlot-salen-da-russland-talte-1.18057401",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/B8Q-ZSwP8yZWwjA3avYY3wO91ncBuytGUpbNkHX_0eMA.jpg",
+      "localImage": "assets/news/b7627fdde175bc.webp",
+      "score": 13
+    },
+    {
       "id": "eabed3f6a3b24c",
       "category": "Norge",
       "published": "18.10. 21:32",
@@ -211,7 +190,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/yU2d5DhkF0egsaFuBabJiwizW4rc4Mr2MTh7tejNxibg.jpg",
       "localImage": "assets/news/eabed3f6a3b24c.jpg",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "54fc73f2cc5c67",
+      "category": "Norge",
+      "published": "18.10. 20:11",
+      "publishedISO": "2026-10-18T20:11:30+02:00",
+      "title": "TV-aksjonen: Reidar (13) vil bli områdeleder om fem år",
+      "summary": "Helt siden han lå i barnevogn har Reidar (13) samlet inn penger til TV-aksjonen. Planen er å bli områdeleder for Oddernes når han fyller 18 om fem år. Dagens områdeleder i Oddernes Kristine Fossheim viser Reidar hvordan bøssene deles ut. – Han er både engasjert og lærevillig, sier hun.",
+      "keyPoints": [
+        "Planen er å bli områdeleder for Oddernes når han fyller 18 om fem år.",
+        "Helt siden han lå i barnevogn har Reidar (13) samlet inn penger til TV-aksjonen.",
+        "Dagens områdeleder i Oddernes Kristine Fossheim viser Reidar hvordan bøssene deles ut. – Han er både engasjert og lærevillig, sier hun.",
+        "Fylkesaksjonsleder Helene Knutsen Fosso sier Reidar nettopp er den type ungdom de trenger dersom den 52 år gamle TV-aksjonen skal eksistere i 50 år til. – Mange er eldre og har holdt hjulene i gang i mange år."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/tv-aksjonen_-reidar-_13_-vil-bli-omradeleder-om-fem-ar-1.18058014",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/bL1nm4wUbuLHqWgOekDOEw3t7fSgM3er9HDDpyJ7ggmQ.jpg",
+      "localImage": "assets/news/54fc73f2cc5c67.jpg",
+      "score": 12
     }
   ]
 }
