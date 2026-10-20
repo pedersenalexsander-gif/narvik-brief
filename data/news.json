@@ -1,28 +1,28 @@
 {
-  "updatedAt": "20.10.2026 kl. 09:36",
-  "updatedISO": "2026-10-20T09:36:29.277615+02:00",
+  "updatedAt": "20.10.2026 kl. 15:02",
+  "updatedISO": "2026-10-20T15:02:53.417729+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "55dcdd206cb12a",
+      "id": "fe1259085d4b8b",
       "category": "Norge",
-      "published": "19.10. 08:09",
-      "publishedISO": "2026-10-19T08:09:22+02:00",
-      "title": "Slik blir Troms påvirket av uværet",
-      "summary": "Yr oppgraderte farevarselet om regn i Troms og nord i Nordland til oransje nivå i helgen. Alle bortsett fra en kunde har ved 22-tiden fått strømmen tilbake, melder Noranett. I Kåfjord er 190 husstander fri for strøm, melder Vissi ved 22.20-tiden mandag.",
+      "published": "20.10. 14:45",
+      "publishedISO": "2026-10-20T14:45:21+02:00",
+      "title": "EU vil la oljen i Arktis ligge",
+      "summary": "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner». Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis ettersom Russland gjenoppbygger sitt militære nærvær der. Von der Leyen understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord angår hele Europa direkte. – Arktis er et sted hvor geopolitikkens tektoniske plater kolliderer.",
       "keyPoints": [
-        "Yr oppgraderte farevarselet om regn i Troms og nord i Nordland til oransje nivå i helgen.",
-        "I Kåfjord er 190 husstander fri for strøm, melder Vissi ved 22.20-tiden mandag.",
-        "Alle bortsett fra en kunde har ved 22-tiden fått strømmen tilbake, melder Noranett.",
-        "Fra tidlig mandag var det ventet 50–80 mm regn på 24 timer."
+        "Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis ettersom Russland gjenoppbygger sitt militære nærvær der.",
+        "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner».",
+        "Von der Leyen understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord angår hele Europa direkte. – Arktis er et sted hvor geopolitikkens tektoniske plater kolliderer.",
+        "Nordområdene er i norsk politikk en betegnelse på det sirkumpolare Arktis (mellom Nordpolen og polarsirkelen), inkludert Barentsregionen og Barentshavområdet (Wikipedia)."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/slik-blir-troms-pavirket-av-uvaeret-1.18058208",
+      "url": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Sk7pXkgi-aWZzmua4UHUGwEj8LZ_abR4_BmDio07RkoA.jpg",
-      "localImage": "assets/news/55dcdd206cb12a.jpg",
-      "score": 19
+      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
+      "localImage": "assets/news/fe1259085d4b8b.jpg",
+      "score": 20
     },
     {
       "id": "7369c562400b53",
@@ -43,91 +43,70 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg",
       "localImage": "assets/news/7369c562400b53.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "fe964458020dc2",
-      "category": "USA",
-      "published": "19.10. 18:48",
-      "publishedISO": "2026-10-19T18:48:36+02:00",
-      "title": "Christiane Amanpour: CNN-reporter og anker forlater nettverket etter 43 år",
-      "summary": "CNN-styreleder Mark Thompson beskrev henne som \"en av de mest pålitelige og elskede journalistene hvor som helst\" og sa at nettverket vil ta tid å feire henne \"før hun drar neste år\". Amanpour begynte å jobbe for CNN i 1983 som assistent på den internasjonale nyhetsdesken, og fortsatte med å bli en av nettverkets mest kjente korrespondenter, og rapporterte ofte om konflikter og kriger. Hun har presentert sitt eget nattlige intervjuprogram på CNN International siden 2009.",
-      "keyPoints": [
-        "Amanpour begynte å jobbe for CNN i 1983 som assistent på den internasjonale nyhetsdesken, og fortsatte med å bli en av nettverkets mest kjente korrespondenter, og rapporterte ofte om konflikter og kriger.",
-        "CNN-styreleder Mark Thompson beskrev henne som \"en av de mest pålitelige og elskede journalistene hvor som helst\" og sa at nettverket vil ta tid å feire henne \"før hun drar neste år\".",
-        "She has presented her own nightly interview program on CNN International since 2009.",
-        "I sin egen uttalelse sa Amanpour at hun ønsket å takke \"alle de utrolig talentfulle menneskene jeg har jobbet med gjennom denne utrolige reisen."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqzkrr9zeo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ef9c/live/c05e2df0-cbdb-11f1-b139-f77a8b036d06.jpg",
-      "localImage": "assets/news/fe964458020dc2.jpg",
-      "score": 15
-    },
-    {
-      "id": "38c3646ee6c998",
+      "id": "2d6d4b8a01624b",
       "category": "Økonomi",
       "published": "20.10. 09:00",
       "publishedISO": "2026-10-20T09:00:30+02:00",
-      "title": "Flatt på Oslo Børs – Aker stiger etter avtalerykter",
-      "summary": "Hovedindeksen på Oslo Børs er opp 0,02 prosent like etter børsåpning. Slik ser det ut for noen av de mest omsatte aksjene: Oljeprisen har steget over 1,6 prosent siden Oslo Børs stengte mandag ettermiddag. Nscale, der Kjell Inge Røkkes Aker er en betydelig aksjonær, er i samtaler med AI-giganten Anthropic om en ny avtale verdt rundt 45 milliarder dollar, skrev Bloomberg mandag kveld basert på anonyme kilder.",
+      "title": "Nedgang på Oslo Børs tross oljeprishopp",
+      "summary": "Det har vært nedgang på Oslo Børs så langt hele tirsdagen, og Børsen holder seg i rødt selv om olje- og gassprisene tikker oppover. Det er nedgang både innen shipping og blant andre store navn. Nscale, der Kjell Inge Røkkes Aker er en betydelig aksjonær, er i samtaler med AI-giganten Anthropic om en ny avtale verdt rundt 45 milliarder dollar, skrev Bloomberg mandag kveld basert på anonyme kilder.",
       "keyPoints": [
-        "Slik ser det ut for noen av de mest omsatte aksjene: Oljeprisen har steget over 1,6 prosent siden Oslo Børs stengte mandag ettermiddag.",
-        "Hovedindeksen på Oslo Børs er opp 0,02 prosent like etter børsåpning.",
+        "Det har vært nedgang på Oslo Børs så langt hele tirsdagen, og Børsen holder seg i rødt selv om olje- og gassprisene tikker oppover.",
+        "Det er nedgang både innen shipping og blant andre store navn.",
         "Nscale, der Kjell Inge Røkkes Aker er en betydelig aksjonær, er i samtaler med AI-giganten Anthropic om en ny avtale verdt rundt 45 milliarder dollar, skrev Bloomberg mandag kveld basert på anonyme kilder.",
-        "Nordsjøolje (brent spot) handles kort tid før børsåpning for rundt 110 dollar fatet."
+        "Det er opp 2,2 prosent siden midnatt, og det høyeste nivået siden midten mai."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/gdQvrB/flatt-paa-oslo-boers",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/aa68748f-d53d-35aa-93b7-aaeac02694a8?fit=crop&h=675&upscale=true&w=1200&s=73a53a84f7c9971979327a2285b5546f798bca97",
-      "localImage": "assets/news/38c3646ee6c998.jpg",
-      "score": 25
+      "localImage": "assets/news/2d6d4b8a01624b.jpg",
+      "score": 19
     },
     {
-      "id": "f90a9932c0f656",
+      "id": "4dca668fe11fc5",
       "category": "Økonomi",
-      "published": "19.10. 22:32",
-      "publishedISO": "2026-10-19T22:32:56+02:00",
-      "title": "Mulig Nscale-gigantavtale: – Aker-aksjen fortjener rekyl",
-      "summary": "Det britiske datasenterselskapet Nscale er i samtaler med AI-giganten Anthropic om en ny avtale verdt rundt 45 milliarder dollar, tilsvarende flere hundre milliarder kroner. Bernt Berg-Nielsen i Stolt Kapital mener den mulige avtalen kan styrke Nscales utsikter foran den planlagte børsnoteringen. – Det ville vært rettferdiggjort om Aker-aksjen fikk rekyl etter denne avtalen, sier han til E24. Det er lavere enn de 30 milliardene som tidligere har vært diskutert, men høyere enn verdsettelsen på 14,3 milliarder dollar ved en tidligere finansieringsrunde. – Dagens nyhet bør gjøre det mer sannsynlig å komme i mål i midten av verdivurderingsspennet som det gikk rykter om i helgen, skriver Berg-Nielsen i en e-post til E24.",
+      "published": "20.10. 13:02",
+      "publishedISO": "2026-10-20T13:02:24+02:00",
+      "title": "Datasenterselskap kollapset i børsdebuten",
+      "summary": "Børsdebuten til Elice regnes nå som en av tidenes verste i Sør-Korea. Børsdebuten endte med at aksjen stupte 32 prosent, noe som ifølge data fra Bloomberg er tidenes verste åpningsdag for en betydelig børsnotering i Sør-Korea. – Elices debut kommer på et tidspunkt da stemningen overfor AI-infrastrukturselskaper har svekket seg, særlig i USA, sier Albert Yong, investeringssjef i Petra Capital Management, til Bloomberg. I børsnoteringen hentet Elice 201,1 milliarder sørkoreanske won, som tilsvarer rundt 1,4 milliarder kroner. – Stemningen overfor AI-infrastruktur har vært svært volatil og ofte frakoblet de underliggende fundamentale forholdene, sier Yong videre til Bloomberg.",
       "keyPoints": [
-        "Bernt Berg-Nielsen i Stolt Kapital mener den mulige avtalen kan styrke Nscales utsikter foran den planlagte børsnoteringen. – Det ville vært rettferdiggjort om Aker-aksjen fikk rekyl etter denne avtalen, sier han til E24.",
-        "Det britiske datasenterselskapet Nscale er i samtaler med AI-giganten Anthropic om en ny avtale verdt rundt 45 milliarder dollar, tilsvarende flere hundre milliarder kroner.",
-        "Det er lavere enn de 30 milliardene som tidligere har vært diskutert, men høyere enn verdsettelsen på 14,3 milliarder dollar ved en tidligere finansieringsrunde. – Dagens nyhet bør gjøre det mer sannsynlig å komme i mål i midten av verdivurderingsspennet som det gikk rykter om i helgen, skriver Berg-Nielsen i en e-post til E24.",
-        "Forvalteren mener dagens Aker-kurs allerede priser inn en Nscale-verdsettelse på rundt 13 milliarder dollar, eller en rabatt til Akers verdijusterte egenkapital på mer enn 20 prosent. – Historisk har Røkke-rabatten vært på 20 prosent."
+        "Børsdebuten endte med at aksjen stupte 32 prosent, noe som ifølge data fra Bloomberg er tidenes verste åpningsdag for en betydelig børsnotering i Sør-Korea. – Elices debut kommer på et tidspunkt da stemningen overfor AI-infrastrukturselskaper har svekket seg, særlig i USA, sier Albert Yong, investeringssjef i Petra Capital Management, til Bloomberg.",
+        "I børsnoteringen hentet Elice 201,1 milliarder sørkoreanske won, som tilsvarer rundt 1,4 milliarder kroner. – Stemningen overfor AI-infrastruktur har vært svært volatil og ofte frakoblet de underliggende fundamentale forholdene, sier Yong videre til Bloomberg.",
+        "Børsdebuten til Elice regnes nå som en av tidenes verste i Sør-Korea.",
+        "Flere analytikere har trukket frem at prisingen av Elice skjedde 6. oktober, før den siste runden med aksjesalg som har sendt prisen på AI-aksjer nedover. – Elices debut viser at AI-infrastrukturhandelen har gått fra «bygg for enhver pris» til «hvem betaler, og hvor lenge», sier Ke Yan, forskningssjef i Singapore-baserte Shenton Research, til Reuters."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/GrJm8V/mulig-nscale-gigantavtale-aker-aksjen-fortjener-rekyl",
+      "url": "https://e24.no/boers-og-finans/i/Vg2e6W/datasenterselskap-kollapset-i-boersdebuten",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/3554f5d5-085f-36b0-aac2-54ef8f17c1f9?fit=crop&h=675&upscale=true&w=1200&s=957e694b724b4965c4c69e2e1b67d416453ad901",
-      "localImage": "assets/news/f90a9932c0f656.jpg",
-      "score": 18
+      "image": "https://akamai.vgc.no/v2/images/d1199868-b545-3642-be30-a3d51cba89f7?fit=crop&h=675&upscale=true&w=1200&s=74f3f8c336c0af9cbcb17e5f8ac822e39e66ccd3",
+      "localImage": "assets/news/4dca668fe11fc5.jpg",
+      "score": 17
     },
     {
-      "id": "80118178169775",
+      "id": "d62b18d0980074",
       "category": "AI",
       "published": "19.10. 20:21",
       "publishedISO": "2026-10-19T20:21:54+02:00",
-      "title": "USA forbyr DeepSeek AI fra myndighetenes bruk ettersom den teknologiske spenningen med Kina fortsetter",
-      "summary": "USA har beordret all kunstig intelligens (AI)-teknologi fra det kinesiske firmaet DeepSeek å fjernes fra de fleste offentlige systemer. Department of Homeland Security (DHS) har forbudt all bruk av DeepSeek innen sivile offentlige etater, og all teknologi bygget ved hjelp av AI-modellene. Mens DHS-varselet ikke beskrev de nøyaktige sikkerhetsbekymringene rundt DeepSeek, har Det hvite hus i år kritisert AI-firmaer fra Kina.",
+      "title": "DeepSeek utestengt fra amerikanske myndigheter i kappløp med Kina om AI-dominans",
+      "summary": "USA har beordret all kunstig intelligens (AI)-teknologi fra det kinesiske firmaet DeepSeek å fjernes fra de fleste offentlige systemer. Department of Homeland Security (DHS) har forbudt all bruk av DeepSeek innenfor sivile offentlige etater, og all teknologi bygget ved hjelp av AI-modellene. Mens DHS-varselet ikke beskrev de nøyaktige sikkerhetsbekymringene rundt DeepSeek, har Det hvite hus i år kritisert AI-firmaer fra Kina.",
       "keyPoints": [
-        "Department of Homeland Security (DHS) har forbudt all bruk av DeepSeek innen sivile offentlige etater, og all teknologi bygget ved hjelp av AI-modellene.",
+        "Department of Homeland Security (DHS) har forbudt all bruk av DeepSeek innenfor sivile offentlige etater, og all teknologi bygget ved hjelp av AI-modellene.",
         "Mens DHS-varselet ikke beskrev de nøyaktige sikkerhetsbekymringene rundt DeepSeek, har Det hvite hus i år kritisert AI-firmaer fra Kina.",
         "USA har beordret all kunstig intelligens (AI)-teknologi fra det kinesiske firmaet DeepSeek å fjernes fra de fleste offentlige systemer.",
-        "Som en kraftig AI-modell som er åpen kildekode - noe som betyr at den er gratis å få tilgang til og rimeligere å bruke - har DeepSeek blitt sett på som en forstyrrende kraft i det pågående AI-teknologikappløpet."
+        "Som en kraftig AI-modell som er åpen kildekode – noe som betyr at den er gratis å få tilgang til og rimeligere å bruke – har DeepSeek blitt sett på som en forstyrrende kraft i det pågående AI-teknologikappløpet."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fb/live/a102f4a0-cbe9-11f1-ad7b-fd8c269705fe.jpg",
-      "localImage": "assets/news/80118178169775.jpg",
-      "score": 24
+      "localImage": "assets/news/d62b18d0980074.jpg",
+      "score": 18
     },
     {
       "id": "76ef551b9f19fc",
@@ -148,7 +127,70 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/075f/live/77a0d170-cba0-11f1-9ee2-f74dfb8e54e5.jpg",
       "localImage": "assets/news/76ef551b9f19fc.jpg",
+      "score": 17
+    },
+    {
+      "id": "4c55877dcc1474",
+      "category": "Norge",
+      "published": "20.10. 12:16",
+      "publishedISO": "2026-10-20T12:16:54+02:00",
+      "title": "VM 2029: Hjem til nord (bare ikke helt ennå)",
+      "summary": "Kongen ble møtt av velkomsttale fra ordfører Rune Edvardsen, som så introduserte selveste VM-låta for 2029, «Hjem til nord», fremført av det lokale koret med det fantasifulle navnet «Kor arti». Teorien er også alt Narvik har å vise til akkurat nå, i motsetning til østerrikske Kitzbühel, som gjennom mange år har vært verdens mest kjente arrangør av utforrenn. «Helt udramatisk», påsto styreleder Eirik Frantzen da han kom med det nedslående budskapet på et digitalt presstreff mandag. Nå får man bare én sjanse til å vise at det nye anlegget fungerer i full skala før det virkelig er alvor, nemlig når man etter planen skal ha verdenscupavslutningen senvinteren 2028.",
+      "keyPoints": [
+        "Kongen ble møtt av velkomsttale fra ordfører Rune Edvardsen, som så introduserte selveste VM-låta for 2029, «Hjem til nord», fremført av det lokale koret med det fantasifulle navnet «Kor arti».",
+        "Teorien er også alt Narvik har å vise til akkurat nå, i motsetning til østerrikske Kitzbühel, som gjennom mange år har vært verdens mest kjente arrangør av utforrenn. «Helt udramatisk», påsto styreleder Eirik Frantzen da han kom med det nedslående budskapet på et digitalt presstreff mandag.",
+        "Nå får man bare én sjanse til å vise at det nye anlegget fungerer i full skala før det virkelig er alvor, nemlig når man etter planen skal ha verdenscupavslutningen senvinteren 2028.",
+        "Nå er ikke avlysningen av de planlagte verdenscupkonkurransene i mars helt en «Highway to hell», men det er absolutt ikke noe godt tegn for VM-veien videre."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/vm-2029_-hjem-til-nord-_bare-ikke-helt-enna_-1.18059057",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/l1ieySqdTN3nIdOKWQTUOw0Nj71PtWhyU3Zi6CoH3eXQ.jpg",
+      "localImage": "assets/news/4c55877dcc1474.jpg",
+      "score": 20
+    },
+    {
+      "id": "55dcdd206cb12a",
+      "category": "Norge",
+      "published": "19.10. 08:09",
+      "publishedISO": "2026-10-19T08:09:22+02:00",
+      "title": "Slik blir Troms påvirket av uværet",
+      "summary": "Yr oppgraderte farevarselet om regn i Troms og nord i Nordland til oransje nivå i helgen. Alle bortsett fra en kunde har ved 22-tiden fått strømmen tilbake, melder Noranett. I Kåfjord er 190 husstander fri for strøm, melder Vissi ved 22.20-tiden mandag.",
+      "keyPoints": [
+        "Yr oppgraderte farevarselet om regn i Troms og nord i Nordland til oransje nivå i helgen.",
+        "I Kåfjord er 190 husstander fri for strøm, melder Vissi ved 22.20-tiden mandag.",
+        "Alle bortsett fra en kunde har ved 22-tiden fått strømmen tilbake, melder Noranett.",
+        "Fra tidlig mandag var det ventet 50–80 mm regn på 24 timer."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/slik-blir-troms-pavirket-av-uvaeret-1.18058208",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Sk7pXkgi-aWZzmua4UHUGwEj8LZ_abR4_BmDio07RkoA.jpg",
+      "localImage": "assets/news/55dcdd206cb12a.jpg",
       "score": 18
+    },
+    {
+      "id": "f90a9932c0f656",
+      "category": "Økonomi",
+      "published": "19.10. 22:32",
+      "publishedISO": "2026-10-19T22:32:56+02:00",
+      "title": "Mulig Nscale-gigantavtale: – Aker-aksjen fortjener rekyl",
+      "summary": "Det britiske datasenterselskapet Nscale er i samtaler med AI-giganten Anthropic om en ny avtale verdt rundt 45 milliarder dollar, tilsvarende flere hundre milliarder kroner. Bernt Berg-Nielsen i Stolt Kapital mener den mulige avtalen kan styrke Nscales utsikter foran den planlagte børsnoteringen. – Det ville vært rettferdiggjort om Aker-aksjen fikk rekyl etter denne avtalen, sier han til E24. Det er lavere enn de 30 milliardene som tidligere har vært diskutert, men høyere enn verdsettelsen på 14,3 milliarder dollar ved en tidligere finansieringsrunde. – Dagens nyhet bør gjøre det mer sannsynlig å komme i mål i midten av verdivurderingsspennet som det gikk rykter om i helgen, skriver Berg-Nielsen i en e-post til E24.",
+      "keyPoints": [
+        "Bernt Berg-Nielsen i Stolt Kapital mener den mulige avtalen kan styrke Nscales utsikter foran den planlagte børsnoteringen. – Det ville vært rettferdiggjort om Aker-aksjen fikk rekyl etter denne avtalen, sier han til E24.",
+        "Det britiske datasenterselskapet Nscale er i samtaler med AI-giganten Anthropic om en ny avtale verdt rundt 45 milliarder dollar, tilsvarende flere hundre milliarder kroner.",
+        "Det er lavere enn de 30 milliardene som tidligere har vært diskutert, men høyere enn verdsettelsen på 14,3 milliarder dollar ved en tidligere finansieringsrunde. – Dagens nyhet bør gjøre det mer sannsynlig å komme i mål i midten av verdivurderingsspennet som det gikk rykter om i helgen, skriver Berg-Nielsen i en e-post til E24.",
+        "Forvalteren mener dagens Aker-kurs allerede priser inn en Nscale-verdsettelse på rundt 13 milliarder dollar, eller en rabatt til Akers verdijusterte egenkapital på mer enn 20 prosent. – Historisk har Røkke-rabatten vært på 20 prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/GrJm8V/mulig-nscale-gigantavtale-aker-aksjen-fortjener-rekyl",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3554f5d5-085f-36b0-aac2-54ef8f17c1f9?fit=crop&h=675&upscale=true&w=1200&s=957e694b724b4965c4c69e2e1b67d416453ad901",
+      "localImage": "assets/news/f90a9932c0f656.jpg",
+      "score": 17
     },
     {
       "id": "f20ee00d9e2118",
@@ -169,49 +211,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/f20ee00d9e2118.jpg",
-      "score": 19
-    },
-    {
-      "id": "16465aecbc43bb",
-      "category": "Økonomi",
-      "published": "19.10. 13:18",
-      "publishedISO": "2026-10-19T13:18:47+02:00",
-      "title": "Elon Musk sier han vil gi bort SpaceX-aksjer til alle barn i USA",
-      "summary": "Løftet fra Musk kommer i et innlegg på meldingsplattformen X mandag. – Neste år vil jeg gi bort en av mine SpaceX-aksjer til hvert barn i USA. Elon Musk er verdens rikeste person med god margin, og han er toppsjef i både elbilprodusenten Tesla og romfartsselskapet SpaceX. Ifølge Bloomberg anslår amerikanske myndigheter at det finnes rundt 72 millioner barn i USA.",
-      "keyPoints": [
-        "Løftet fra Musk kommer i et innlegg på meldingsplattformen X mandag. – Neste år vil jeg gi bort en av mine SpaceX-aksjer til hvert barn i USA.",
-        "Elon Musk er verdens rikeste person med god margin, og han er toppsjef i både elbilprodusenten Tesla og romfartsselskapet SpaceX.",
-        "Ifølge Bloomberg anslår amerikanske myndigheter at det finnes rundt 72 millioner barn i USA.",
-        "I dag er 72 millioner SpaceX-aksjer verdt rundt 10,5 milliarder dollar, eller rundt 100 milliarder norske kroner, gitt kursen på 146,03 dollar per SpaceX-aksje."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/p1O1oE/elon-musk-sier-han-vil-gi-bort-spacex-aksjer-til-alle-barn-i-usa",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9d1d30f5-882a-3856-8eac-d56b26c7b333?fit=crop&h=675&upscale=true&w=1200&s=854f15a7bcc19d3cd4e960ebbd8e6f58fc6564c1",
-      "localImage": "assets/news/16465aecbc43bb.jpg",
-      "score": 16
-    },
-    {
-      "id": "aa2af7a2af305a",
-      "category": "AI",
-      "published": "19.10. 08:08",
-      "publishedISO": "2026-10-19T08:08:02+02:00",
-      "title": "China economy: Growth accelerates as AI export boom outweighs domestic weakness",
-      "summary": "Kinas økonomiske vekst tok seg opp i løpet av de tre månedene til slutten av september, og tok seg opp fra et lavt nivå på tre år ettersom den kunstige intelligensen (AI)-boomen bidro til å øke eksporten. Kinas nasjonale statistikkbyrå sa mandag at økonomien \"opprettholdt en jevn utvikling mot press\" og viste \"momentum med nye vekstdrivere og bedre struktur\". Oxford Economics-forsker Sheana Yue sa at produksjon og høyteknologisk eksport har økt Kinas vekst, til tross for svake investeringer og innenlandske utgifter.",
-      "keyPoints": [
-        "Kinas økonomiske vekst tok seg opp i løpet av de tre månedene til slutten av september, og tok seg opp fra et lavt nivå på tre år ettersom den kunstige intelligensen (AI)-boomen bidro til å øke eksporten.",
-        "Oxford Economics-forsker Sheana Yue sa at produksjon og høyteknologisk eksport har økt Kinas vekst, til tross for svake investeringer og innenlandske utgifter.",
-        "Kinas nasjonale statistikkbyrå sa mandag at økonomien \"opprettholdt en jevn utvikling mot press\" og viste \"momentum med nye vekstdrivere og bedre struktur\".",
-        "Handelsusikkerhet og geopolitiske problemer har også gjort kinesiske forbrukere mer \"pessimistiske\" og uvillige til å bruke penger, la hun til. \"Investering i mennesker\": Kan Kinas nye fremstøt for å øke utgiftene gjenopplive økonomien?"
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
-      "localImage": "assets/news/aa2af7a2af305a.jpg",
-      "score": 16
+      "score": 17
     }
   ]
 }
