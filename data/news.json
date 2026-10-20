@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.10.2026 kl. 01:44",
-  "updatedISO": "2026-10-20T01:44:36.156338+02:00",
+  "updatedAt": "20.10.2026 kl. 04:09",
+  "updatedISO": "2026-10-20T04:09:07.695572+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/766b/live/02caf1d0-cbc0-11f1-a64c-550be9e3c66b.jpg",
       "localImage": "assets/news/364a594505f6d7.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "fe964458020dc2",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3554f5d5-085f-36b0-aac2-54ef8f17c1f9?fit=crop&h=675&upscale=true&w=1200&s=957e694b724b4965c4c69e2e1b67d416453ad901",
       "localImage": "assets/news/f90a9932c0f656.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "16465aecbc43bb",
@@ -148,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/075f/live/77a0d170-cba0-11f1-9ee2-f74dfb8e54e5.jpg",
       "localImage": "assets/news/76ef551b9f19fc.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "f20ee00d9e2118",
@@ -190,27 +190,27 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7328/live/2759f110-cb64-11f1-a812-d3be2dbc962d.jpg",
       "localImage": "assets/news/aa2af7a2af305a.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "cb3977f3ff8dbc",
-      "category": "Verden",
-      "published": "19.10. 22:00",
-      "publishedISO": "2026-10-19T22:00:43+02:00",
-      "title": "Ukraine says it carried out first drone airlift of wounded soldier from front line",
-      "summary": "Det ukrainske militæret har sluppet opptak av det de sier er verdens første droneløft av en såret soldat fra frontlinjen. Ukraina sier at de utførte den første drone-luftløft av såret soldat fra frontlinjen. Video, 00:00:25 Ukraina sier det utførte den første drone-luftløftet av såret soldat fra frontlinjen Up Next.",
+      "id": "d98186e9f1b375",
+      "category": "Norge",
+      "published": "19.10. 05:42",
+      "publishedISO": "2026-10-19T05:42:03+02:00",
+      "title": "Stortinget vil gi desemberbarna barnehageplass fra fylte ett år",
+      "summary": "Selv om det er flertall på Stortinget for å gi desemberbarna barnehageplass innen de er fylt ett år, kan ikke regjeringen love at det gjelder barn som blir født i år. Statssekretær i Kunnskapsdepartementet Synnøve Mjeldheim Skaar (Ap). – Hvorvidt en lovendring kan tre i kraft allerede fra 1. juli 2027, slik at barn født i desember i år får plass når de har fylt ett år, er avhengig av at Stortinget også bevilger midler til forslaget, sier statssekretær Synnøve Mjeldheim Skaar til NRK. Det var Høyre som fikk Stortinget med seg på å gi barn født i desember rett til barnehageplass fra de fyller ett år.",
       "keyPoints": [
-        "Ukraine says it carried out first drone airlift of wounded soldier from front line.",
-        "92nd Assault Brigade sa at et bakkeredningsoppdrag ikke var mulig da den sårede tjenestemannen var omringet av landminer og det var høy russisk droneaktivitet i området.",
-        "Video, 00:01:16'Veldig opprørende': Beboere i sjokk etter at det historiske franske rådhuset satte fyr på Pave Leo XIV takket velønskere i den første hendelsen etter kreftoperasjonen.",
-        "Video, 00:03:44Every scrap of paper checked: Police hunting for synthetic drugs in Chicago jail How day of protests unfolded as disorder breaks out across France."
+        "Selv om det er flertall på Stortinget for å gi desemberbarna barnehageplass innen de er fylt ett år, kan ikke regjeringen love at det gjelder barn som blir født i år.",
+        "Statssekretær i Kunnskapsdepartementet Synnøve Mjeldheim Skaar (Ap). – Hvorvidt en lovendring kan tre i kraft allerede fra 1. juli 2027, slik at barn født i desember i år får plass når de har fylt ett år, er avhengig av at Stortinget også bevilger midler til forslaget, sier statssekretær Synnøve Mjeldheim Skaar til NRK.",
+        "Det var Høyre som fikk Stortinget med seg på å gi barn født i desember rett til barnehageplass fra de fyller ett år.",
+        "Selv om desemberbarna nå får plass, gjenstår en stor gruppe: Barn født mellom januar og juli har fremdeles ikke lovfestet rett til plass før i august året etter at de fyller ett år."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c3vgx05p149wo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9ffd/live/9535d5d0-cbf7-11f1-9a39-31b474234113.jpg",
-      "localImage": "assets/news/cb3977f3ff8dbc.jpg",
+      "url": "https://www.nrk.no/nordland/stortinget-vil-gi-desemberbarna-barnehageplass-fra-fylte-ett-ar-1.18049141",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/DOi4_GqFkjmWFcJqU61f2gAL6ATF0e4wYW-xIyqWodKA.jpg",
+      "localImage": "assets/news/d98186e9f1b375.jpg",
       "score": 17
     }
   ]
