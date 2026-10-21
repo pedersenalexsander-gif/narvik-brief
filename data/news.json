@@ -1,29 +1,8 @@
 {
-  "updatedAt": "21.10.2026 kl. 02:11",
-  "updatedISO": "2026-10-21T02:11:31.268421+02:00",
+  "updatedAt": "21.10.2026 kl. 06:49",
+  "updatedISO": "2026-10-21T06:49:39.934234+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "a3a3b0b0827c4d",
-      "category": "Nord-Norge",
-      "published": "20.10. 18:36",
-      "publishedISO": "2026-10-20T18:36:37+02:00",
-      "title": "Rapport: Spiser ved siden av toalettet og mangler oppfølging",
-      "summary": "Innsatte isoleres med måltider på trange celler kloss inntil utildekkede toaletter, og selvmordsutsatte får ikke oppfølging etter retningslinjene. Fengselet bør raskt finne løsninger som gjør at de innsatte slipper å spise måltidene alene og rett ved siden av et utildekket toalett, uttaler nestleder Tonje Lilaas Larsen i Tilsynsrådet i en melding. Tilsynet avdekket at gjeldende retningslinjer ikke ble fulgt, at tiltak sjeldent ble iverksatt systematisk, og at journalføringen var sporadisk og mangelfull. – Tilsynsrådet forventer at fengselet raskt oppdaterer sine rutiner slik at innsatte med kjent risiko får tilstrekkelig oppfølging, sier Lilaas Larsen.",
-      "keyPoints": [
-        "Fengselet bør raskt finne løsninger som gjør at de innsatte slipper å spise måltidene alene og rett ved siden av et utildekket toalett, uttaler nestleder Tonje Lilaas Larsen i Tilsynsrådet i en melding.",
-        "Tilsynet avdekket at gjeldende retningslinjer ikke ble fulgt, at tiltak sjeldent ble iverksatt systematisk, og at journalføringen var sporadisk og mangelfull. – Tilsynsrådet forventer at fengselet raskt oppdaterer sine rutiner slik at innsatte med kjent risiko får tilstrekkelig oppfølging, sier Lilaas Larsen.",
-        "Innsatte isoleres med måltider på trange celler kloss inntil utildekkede toaletter, og selvmordsutsatte får ikke oppfølging etter retningslinjene.",
-        "Mosjøen fengsel får kritikk i en rapport fra Tilsynsrådet for kriminalomsorgen etter en inspeksjon tidligere i år."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/rapport_-spiser-ved-siden-av-toalettet-og-mangler-oppfolging--1.18060090",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/wxJEkDsK8GNvDG7kwm9_gwAe0MzbWJvdaMd-YDuQhulQ.jpg",
-      "localImage": "assets/news/a3a3b0b0827c4d.jpg",
-      "score": 12
-    },
     {
       "id": "0cb66bf58c4b47",
       "category": "Norge",
@@ -43,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/uqut5s681_8rei-QttfmHwshjlr_3wMa8LWSF9k0SLPw.jpg",
       "localImage": "assets/news/0cb66bf58c4b47.jpg",
-      "score": 24
+      "score": 23
     },
     {
       "id": "4dca668fe11fc5",
@@ -64,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d1199868-b545-3642-be30-a3d51cba89f7?fit=crop&h=675&upscale=true&w=1200&s=74f3f8c336c0af9cbcb17e5f8ac822e39e66ccd3",
       "localImage": "assets/news/4dca668fe11fc5.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "f90a9932c0f656",
@@ -85,7 +64,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3554f5d5-085f-36b0-aac2-54ef8f17c1f9?fit=crop&h=675&upscale=true&w=1200&s=957e694b724b4965c4c69e2e1b67d416453ad901",
       "localImage": "assets/news/f90a9932c0f656.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "dc67f4c3b44104",
+      "category": "Norge",
+      "published": "21.10. 05:14",
+      "publishedISO": "2026-10-21T05:14:21+02:00",
+      "title": "Regjeringen strammer grepet i nord: Innfører nye lover og trapper opp politiinnsatsen i reiselivet",
+      "summary": "Regjeringen trapper opp kampen mot ulovligheter i reiselivet. Regjeringen setter nå inn en rekke tiltak for å rydde opp i ulovligheter, svart arbeid og kriminelle nettverk i nordnorsk reiseliv. Som en del av oppryddingen fremmer regjeringen derfor også den etterspurte besøksbidragsloven, som skal gi kommunene mulighet til å la turistene være med og finansiere infrastrukturen og fellesgodene de benytter. – Det er helt rett og rimelig at turistene bidrar.",
+      "keyPoints": [
+        "Regjeringen trapper opp kampen mot ulovligheter i reiselivet.",
+        "Regjeringen setter nå inn en rekke tiltak for å rydde opp i ulovligheter, svart arbeid og kriminelle nettverk i nordnorsk reiseliv.",
+        "Som en del av oppryddingen fremmer regjeringen derfor også den etterspurte besøksbidragsloven, som skal gi kommunene mulighet til å la turistene være med og finansiere infrastrukturen og fellesgodene de benytter. – Det er helt rett og rimelig at turistene bidrar.",
+        "Den voldsomme veksten i reiselivet de sist årene har også ført til slitasje på lokalsamfunnet i Tromsø, der innbyggerundersøkelser viser økende frustrasjon over turisttrykk, krevende trafikkforhold og press på boligmarkedet som følge av korttidsutleie."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-strammer-grepet-i-nord_-innforer-nye-lover-og-trapper-opp-politiinnsatsen-i-reiselivet-1.18059725",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Bc1zaFNuAnpJx7iouSaCugCdHTbcCBKA-piPElTR42Gg.jpg",
+      "localImage": "assets/news/dc67f4c3b44104.webp",
+      "score": 17
     },
     {
       "id": "fe1259085d4b8b",
@@ -106,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/fe1259085d4b8b.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "4c55877dcc1474",
@@ -127,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/l1ieySqdTN3nIdOKWQTUOw0Nj71PtWhyU3Zi6CoH3eXQ.jpg",
       "localImage": "assets/news/4c55877dcc1474.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "65fa9e8c1f993f",
@@ -135,12 +135,12 @@
       "published": "20.10. 22:58",
       "publishedISO": "2026-10-20T22:58:09+02:00",
       "title": "Liverpool snudde etter grusom start",
-      "summary": "Liverpool havnet under 0-2 allerede etter 20 minutter mot Villarreal, men våknet til live like før pause. Scoringer fra Alexis Mac Allister og Ronald Araujo sørget for 2-2 til pause. Seieren gjør at Liverpool står med tre strake seire i årets Mesterliga.",
+      "summary": "Liverpool havnet under 0-2 allerede etter 20 minutter mot Villarreal, men våknet til live like før pause. Seieren gjør at Liverpool står med tre strake seire i årets Mesterliga. Kings sto uten seier etter de seks første kampene, men snudde 0–2 til seier borte mot Washington Capitals.",
       "keyPoints": [
+        "Kings sto uten seier etter de seks første kampene, men snudde 0–2 til seier borte mot Washington Capitals.",
         "Liverpool havnet under 0-2 allerede etter 20 minutter mot Villarreal, men våknet til live like før pause.",
         "Seieren gjør at Liverpool står med tre strake seire i årets Mesterliga.",
-        "Scoringer fra Alexis Mac Allister og Ronald Araujo sørget for 2-2 til pause.",
-        "Etter hvilen dukket Mac Allister opp igjen, før Florian Wirtz fikk klemt inn 4-2."
+        "Den norske 21-åringen fikk 15.59 minutter på isen. (NTB) To av Europas mest fryktinngytende angrep sto på hver sin banehalvdel da Paris Saint-Germain møtte Barcelona i Champions League tirsdag kveld."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -148,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jnjMdVxNvVVbVto19pYrWgBN2tjAByXA-B7w18f1GjUg.jpg",
       "localImage": "assets/news/65fa9e8c1f993f.webp",
-      "score": 17
+      "score": 16
     },
     {
       "id": "55dcdd206cb12a",
@@ -169,27 +169,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Sk7pXkgi-aWZzmua4UHUGwEj8LZ_abR4_BmDio07RkoA.jpg",
       "localImage": "assets/news/55dcdd206cb12a.jpg",
-      "score": 16
-    },
-    {
-      "id": "3fdcd0c22e183f",
-      "category": "Norge",
-      "published": "20.10. 15:57",
-      "publishedISO": "2026-10-20T15:57:41+02:00",
-      "title": "Over 75 skademeldinger etter uværet i Nord-Norge",
-      "summary": "Uværet som herjet mandag, førte til at flere fly-, ferge- og hurtigbåtavganger ble kansellert. Så langt har If forsikring registrert rundt 50 vann- og naturskader i Nordland, Troms og Finnmark knyttet til uværet. Så dette er nok mest sannsynlig relatert til uværet, forteller kommunikasjonssjef, Pål Rune Eklo i Gjensidige.",
-      "keyPoints": [
-        "Så langt har If forsikring registrert rundt 50 vann- og naturskader i Nordland, Troms og Finnmark knyttet til uværet.",
-        "Uværet som herjet mandag, førte til at flere fly-, ferge- og hurtigbåtavganger ble kansellert.",
-        "Så dette er nok mest sannsynlig relatert til uværet, forteller kommunikasjonssjef, Pål Rune Eklo i Gjensidige.",
-        "I tillegg ble broer stengt og trær veltet flere steder. – Det har vært omfattende inntrengning av vann i Sortland og konsekvensene av vindkastene ble noe mer omfattende enn vi forventet, opplyser statsmeteorolog Ola Bakke Aashamar i en pressemelding."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/over-75-skademeldinger-etter-uvaeret-i-nord-norge-1.18059496",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/vmVo0u7rft4LzBDoIr_HIQyrvWQKARHYPFblbFdtXSUQ.jpg",
-      "localImage": "assets/news/3fdcd0c22e183f.jpg",
       "score": 15
     },
     {
@@ -211,7 +190,28 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/f20ee00d9e2118.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "921417d0ae1803",
+      "category": "Norge",
+      "published": "21.10. 05:20",
+      "publishedISO": "2026-10-21T05:20:06+02:00",
+      "title": "Rask og feilfri behandling er avgjørende ved hjerneslag",
+      "summary": "Årlig får i underkant av 600 pasienter slik behandling. Før tilbudet ble etablert i Kristiansand, fikk bare halvparten av pasientene i Agder som hadde behov for trombektomi denne behandlingen. – Det dør 2 millioner hjerneceller i minuttet uten behandling. Marianne Altmann, overlege, PhD, Akershus universitetssykehus HF sier at det er svært viktig å øve på behandling av hjerneslag.",
+      "keyPoints": [
+        "Marianne Altmann, overlege, PhD, Akershus universitetssykehus HF sier at det er svært viktig å øve på behandling av hjerneslag.",
+        "Årlig får i underkant av 600 pasienter slik behandling.",
+        "Før tilbudet ble etablert i Kristiansand, fikk bare halvparten av pasientene i Agder som hadde behov for trombektomi denne behandlingen. – Det dør 2 millioner hjerneceller i minuttet uten behandling.",
+        "Gry Dølemo, enhetsleder, Senter for medisinsk simulering i samtale med Arnstein Tveiten, seksjonsoverlege og spesialist i nevrologi Han sier at det potensielt er 100 personer som kan få alarm om at de skal være med på en trombektomi. – Derfor er det avgjørende at alle er helt trygge på sine arbeidsoppgaver og kan utføre dem uavhengig av hvem de andre i teamet er, sier Tveiten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/rask-og-feilfri-behandling-er-avgjorende-ved-hjerneslag-1.18050394",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/F2Mj3AJHBVlmPri7u081cAhafUROSTHe6w0VOTaPC24Q.jpg",
+      "localImage": "assets/news/921417d0ae1803.jpg",
+      "score": 13
     }
   ]
 }
