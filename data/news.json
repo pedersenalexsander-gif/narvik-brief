@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.10.2026 kl. 23:33",
-  "updatedISO": "2026-10-20T23:33:24.206801+02:00",
+  "updatedAt": "21.10.2026 kl. 02:11",
+  "updatedISO": "2026-10-21T02:11:31.268421+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wxJEkDsK8GNvDG7kwm9_gwAe0MzbWJvdaMd-YDuQhulQ.jpg",
       "localImage": "assets/news/a3a3b0b0827c4d.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "0cb66bf58c4b47",
@@ -46,6 +46,27 @@
       "score": 24
     },
     {
+      "id": "4dca668fe11fc5",
+      "category": "Økonomi",
+      "published": "20.10. 13:02",
+      "publishedISO": "2026-10-20T13:02:24+02:00",
+      "title": "Datasenterselskap kollapset i børsdebuten",
+      "summary": "Børsdebuten til Elice regnes nå som en av tidenes verste i Sør-Korea. Børsdebuten endte med at aksjen stupte 32 prosent, noe som ifølge data fra Bloomberg er tidenes verste åpningsdag for en betydelig børsnotering i Sør-Korea. – Elices debut kommer på et tidspunkt da stemningen overfor AI-infrastrukturselskaper har svekket seg, særlig i USA, sier Albert Yong, investeringssjef i Petra Capital Management, til Bloomberg. I børsnoteringen hentet Elice 201,1 milliarder sørkoreanske won, som tilsvarer rundt 1,4 milliarder kroner. – Stemningen overfor AI-infrastruktur har vært svært volatil og ofte frakoblet de underliggende fundamentale forholdene, sier Yong videre til Bloomberg.",
+      "keyPoints": [
+        "Børsdebuten endte med at aksjen stupte 32 prosent, noe som ifølge data fra Bloomberg er tidenes verste åpningsdag for en betydelig børsnotering i Sør-Korea. – Elices debut kommer på et tidspunkt da stemningen overfor AI-infrastrukturselskaper har svekket seg, særlig i USA, sier Albert Yong, investeringssjef i Petra Capital Management, til Bloomberg.",
+        "I børsnoteringen hentet Elice 201,1 milliarder sørkoreanske won, som tilsvarer rundt 1,4 milliarder kroner. – Stemningen overfor AI-infrastruktur har vært svært volatil og ofte frakoblet de underliggende fundamentale forholdene, sier Yong videre til Bloomberg.",
+        "Børsdebuten til Elice regnes nå som en av tidenes verste i Sør-Korea.",
+        "Flere analytikere har trukket frem at prisingen av Elice skjedde 6. oktober, før den siste runden med aksjesalg som har sendt prisen på AI-aksjer nedover. – Elices debut viser at AI-infrastrukturhandelen har gått fra «bygg for enhver pris» til «hvem betaler, og hvor lenge», sier Ke Yan, forskningssjef i Singapore-baserte Shenton Research, til Reuters."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Vg2e6W/datasenterselskap-kollapset-i-boersdebuten",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d1199868-b545-3642-be30-a3d51cba89f7?fit=crop&h=675&upscale=true&w=1200&s=74f3f8c336c0af9cbcb17e5f8ac822e39e66ccd3",
+      "localImage": "assets/news/4dca668fe11fc5.jpg",
+      "score": 15
+    },
+    {
       "id": "f90a9932c0f656",
       "category": "Økonomi",
       "published": "19.10. 22:32",
@@ -64,27 +85,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3554f5d5-085f-36b0-aac2-54ef8f17c1f9?fit=crop&h=675&upscale=true&w=1200&s=957e694b724b4965c4c69e2e1b67d416453ad901",
       "localImage": "assets/news/f90a9932c0f656.jpg",
-      "score": 16
-    },
-    {
-      "id": "5be2235fc39abc",
-      "category": "Økonomi",
-      "published": "20.10. 15:31",
-      "publishedISO": "2026-10-20T15:31:53+02:00",
-      "title": "Blandet på Wall Street",
-      "summary": "Slik gikk det med de toneangivende indeksene: Etter en opptur på Wall Street mandag, snudde stemningen ned rundt AI-aksjer under tidlig handel tirsdag. Flere av AI-aksjene henter seg inn igjen: – Bedre stemning rundt utsiktene for moderne teknologi får Wall Street til å puste lettet ut, skriver sjeføkonom Jose Torres i Interactive Brokers, ifølge CNBC. Elon Musks romfartsselskap SpaceX legger frem kvartalstall etter at Wall Street stenger tirsdag kveld.",
-      "keyPoints": [
-        "Slik gikk det med de toneangivende indeksene: Etter en opptur på Wall Street mandag, snudde stemningen ned rundt AI-aksjer under tidlig handel tirsdag.",
-        "Flere av AI-aksjene henter seg inn igjen: – Bedre stemning rundt utsiktene for moderne teknologi får Wall Street til å puste lettet ut, skriver sjeføkonom Jose Torres i Interactive Brokers, ifølge CNBC.",
-        "Elon Musks romfartsselskap SpaceX legger frem kvartalstall etter at Wall Street stenger tirsdag kveld.",
-        "Ikke alt er rosenrødt: det koreanske AI-selskapet Elice raste mer enn 30 prosent på sin første børsdag i natt, noe som ga teknologisentimentet et skudd for baugen tidligere på dagen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/X92kox/svak-aapning-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/207d6edb-c8dc-3dd2-9896-516139e1ecb0?fit=crop&h=675&upscale=true&w=1200&s=d0ece628d150ad6f5024dfe034cf998207d81a7c",
-      "localImage": "assets/news/5be2235fc39abc.jpg",
       "score": 15
     },
     {
@@ -106,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/fe1259085d4b8b.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "4c55877dcc1474",
@@ -169,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Sk7pXkgi-aWZzmua4UHUGwEj8LZ_abR4_BmDio07RkoA.jpg",
       "localImage": "assets/news/55dcdd206cb12a.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "3fdcd0c22e183f",
@@ -190,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/vmVo0u7rft4LzBDoIr_HIQyrvWQKARHYPFblbFdtXSUQ.jpg",
       "localImage": "assets/news/3fdcd0c22e183f.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "f20ee00d9e2118",
@@ -211,7 +211,7 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/f20ee00d9e2118.jpg",
-      "score": 16
+      "score": 15
     }
   ]
 }
