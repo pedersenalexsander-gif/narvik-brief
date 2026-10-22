@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.10.2026 kl. 13:19",
-  "updatedISO": "2026-10-22T13:19:04.157644+02:00",
+  "updatedAt": "22.10.2026 kl. 18:00",
+  "updatedISO": "2026-10-22T18:00:09.412460+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/FG8WyjlI5QoPJk0hwiAwygMRW9fq8isoCxYgKDp9_a2w.png",
       "localImage": "assets/news/5068ff150be706.png",
-      "score": 14
+      "score": 13
     },
     {
-      "id": "1b2d7a52fe4aa4",
+      "id": "e5390217bc0dea",
       "category": "Norge",
-      "published": "22.10. 12:26",
-      "publishedISO": "2026-10-22T12:26:12+02:00",
-      "title": "Vannbrudd i Kirkenes: Vannflasker rives fra butikkhyllene",
-      "summary": "Vannlekkasjen i Sør-Varanger er stoppet, men rundt 6000 personer er fortsatt rammet. Butikkene i grensekommunen merker godt at det har vært vannbrudd. Dette gjelder abonnenter på Sandnes, Bjørnevatn, Kirkenes, Hesseng og Skytterhusfjellet. – Vi har funnet feilen og er i gang med å utbedre feilen.",
+      "published": "22.10. 17:01",
+      "publishedISO": "2026-10-22T17:01:09+02:00",
+      "title": "Fergen havnet i småbåthavna: – Teknisk svikt",
+      "summary": "Fergen havnet inn i småbåthavna like ved fergekaia på Breivikeidet utenfor Tromsø. Rederiet Norled ble varslet om hendelsen klokken 13.50. – Mannskapet rapporterte om teknisk svikt i forkant. Skipet ble bestilt for en stund siden fra Tromsø, og vi regner med at det er fremme litt over klokken 18, sier Gjertsen. – Det vet vi ikke, men vi må undersøke fergen når den har kommet av grunn.",
       "keyPoints": [
-        "Butikkene i grensekommunen merker godt at det har vært vannbrudd.",
-        "Dette gjelder abonnenter på Sandnes, Bjørnevatn, Kirkenes, Hesseng og Skytterhusfjellet. – Vi har funnet feilen og er i gang med å utbedre feilen.",
-        "Vannlekkasjen i Sør-Varanger er stoppet, men rundt 6000 personer er fortsatt rammet.",
-        "Hos Kiwi på Hesseng legger butikksjef Yngve Hansen-Stangnes de siste flaskene med vann på rullebåndet. – Dette er dessverre det siste vi har."
+        "Fergen havnet inn i småbåthavna like ved fergekaia på Breivikeidet utenfor Tromsø.",
+        "Rederiet Norled ble varslet om hendelsen klokken 13.50. – Mannskapet rapporterte om teknisk svikt i forkant.",
+        "Skipet ble bestilt for en stund siden fra Tromsø, og vi regner med at det er fremme litt over klokken 18, sier Gjertsen. – Det vet vi ikke, men vi må undersøke fergen når den har kommet av grunn.",
+        "Fergen «MF Folkestad» gikk på grunn i småbåthavnen på Breivikeidet torsdag."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/vannbrudd-i-kirkenes_-vannflasker-rives-fra-butikkhyllene-1.18061674",
+      "url": "https://www.nrk.no/tromsogfinnmark/fergen-havnet-i-smabathavna_-_-teknisk-svikt-1.18062126",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/nYyQJvQap2jz-9Udvxrg-w1Y-x62qmOUexIq30udDmag.jpg",
-      "localImage": "assets/news/1b2d7a52fe4aa4.jpg",
-      "score": 13
+      "image": "https://gfx.nrk.no/qgBof5vz7gQQeBsup1IKDgRnkGG9FuDwa-fWRmu3sCrQ.jpg",
+      "localImage": "assets/news/e5390217bc0dea.jpg",
+      "score": 17
     },
     {
       "id": "93b034c09bcc8a",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f7497781-997c-3c1b-835d-9ffa89b9e038?fit=crop&h=675&upscale=true&w=1200&s=89300b5c35757db0a87c9048f9a70a0d5cb57407",
       "localImage": "assets/news/93b034c09bcc8a.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "c36e0a67b7b786",
@@ -85,132 +85,132 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ec2782a6-d449-3b2f-937e-c26c9274d68c?fit=crop&h=675&upscale=true&w=1200&s=3101c4e51c0d4b7f1fac2806239c70e74ebb2dca",
       "localImage": "assets/news/c36e0a67b7b786.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "1cda1d96897c00",
-      "category": "Økonomi",
-      "published": "22.10. 12:48",
-      "publishedISO": "2026-10-22T12:48:42+02:00",
-      "title": "Danske Bank kutter 106 stillinger",
-      "summary": "Det opplyser Anna-Lena Nordling, pressesjef i Danske Bank Norge, til E24. Danske Bank skriver at det ulike årsaker som ligger bak at stillingene er blitt overflødige. Dette er en naturlig del av å drive og utvikle et stort selskap, uttaler Karsten Breum, personaldirektør i Danske Bank.",
+      "id": "d33a9d026959a9",
+      "category": "Norge",
+      "published": "22.10. 17:48",
+      "publishedISO": "2026-10-22T17:48:59+02:00",
+      "title": "Julie og Norah Sand-Hanssen følger omstridt oppskrift for å bli best – forsker advarer",
+      "summary": "Julie og Norah Sand-Hanssen (20) benytter seg av en metode som stadig blir mer populær blant langrennsutøvere. LANGRENNSTVILLINGER: Norah og Julie Sand-Hanssen har allerede flere års erfaring med å trene i høyden. – Vi liker det utrolig godt, og merker at kroppene våre responderer bra på høyden, sier Julie Sand-Hanssen. Julie og Norah Sand-Hanssen på en rulleskiøkt i Flagstaff.",
       "keyPoints": [
-        "Det opplyser Anna-Lena Nordling, pressesjef i Danske Bank Norge, til E24.",
-        "Danske Bank skriver at det ulike årsaker som ligger bak at stillingene er blitt overflødige.",
-        "Dette er en naturlig del av å drive og utvikle et stort selskap, uttaler Karsten Breum, personaldirektør i Danske Bank.",
-        "Den gang skulle det kuttes 262 stillinger, og banken skyldte blant annet på effektivisering og bruk av AI-løsninger."
+        "LANGRENNSTVILLINGER: Norah og Julie Sand-Hanssen har allerede flere års erfaring med å trene i høyden. – Vi liker det utrolig godt, og merker at kroppene våre responderer bra på høyden, sier Julie Sand-Hanssen.",
+        "Julie og Norah Sand-Hanssen (20) benytter seg av en metode som stadig blir mer populær blant langrennsutøvere.",
+        "Julie og Norah Sand-Hanssen på en rulleskiøkt i Flagstaff.",
+        "Norah og Julie Sand-Hanssen bor i Lillehammer og har tilgang på den flotte Birkebeineren skistadion."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/julie-og-norah-sand-hanssen-folger-omstridt-oppskrift-for-a-bli-best-_-forsker-advarer-1.18045523",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/67aPoxDC1FBObH6atFhtvw1jrmNUy5zHelP_wrtgPK5Q.jpg",
+      "localImage": "assets/news/d33a9d026959a9.jpg",
+      "score": 13
+    },
+    {
+      "id": "eaf34528d0922a",
+      "category": "Norge",
+      "published": "22.10. 16:59",
+      "publishedISO": "2026-10-22T16:59:53+02:00",
+      "title": "Havforskerne slår alarm om torsken: – Vi ser en «forgubbing» av bestanden",
+      "summary": "Bare siden 2013 er bestanden halvert. – Vi kan se langt etter gullalderen på midten av 2000-tallet, da havet bugnet av skrei. Torskebestanden får ikke påfyll av ungdommer, og vi ser ren forgubbing av bestanden, forklarer Kvamstø. Neste år mener likevel havforskerne at kvoten kan settes til 312.667 tonn – som er økning på 10 prosent fra årets kvote. – Det er ikke slik at vi skal svartmale situasjonen.",
+      "keyPoints": [
+        "Torskebestanden får ikke påfyll av ungdommer, og vi ser ren forgubbing av bestanden, forklarer Kvamstø.",
+        "Bare siden 2013 er bestanden halvert. – Vi kan se langt etter gullalderen på midten av 2000-tallet, da havet bugnet av skrei.",
+        "Neste år mener likevel havforskerne at kvoten kan settes til 312.667 tonn – som er økning på 10 prosent fra årets kvote. – Det er ikke slik at vi skal svartmale situasjonen.",
+        "Vi har full forståelse for at når havforskerne beregner at det er mindre fisk, så skal vi fiske mindre, legger han til. – Vi er i samme båt alle sammen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/havforskerne-slar-alarm-om-torsken_-_-vi-ser-en-_forgubbing_-av-bestanden-1.18056620",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/KVgKtaq6M8evleygnvK-vAGRh3Us_6vF4xQllCUkhx6Q.jpg",
+      "localImage": "assets/news/eaf34528d0922a.jpg",
+      "score": 13
+    },
+    {
+      "id": "ae3be5cf18d22f",
+      "category": "Norge",
+      "published": "22.10. 16:03",
+      "publishedISO": "2026-10-22T16:03:01+02:00",
+      "title": "Flere trekker seg fra arbeidsgruppe om barneavdelingen SNR – mener utfallet er bestemt på forhånd",
+      "summary": "Flere har trukket seg fra gruppen som skal vurdere fremtiden til barneavdelingen på Hjelset. Tillitsvalgt Tonje Solli Strand mener utfallet virker bestemt på forhånd. Som en del av arbeidet er det satt ned en arbeidsgruppe som skal vurdere om barneavdelingen fortsatt skal være døgnåpen, eller om den skal gjøres om til et dagtilbud.",
+      "keyPoints": [
+        "Tillitsvalgt Tonje Solli Strand mener utfallet virker bestemt på forhånd.",
+        "Som en del av arbeidet er det satt ned en arbeidsgruppe som skal vurdere om barneavdelingen fortsatt skal være døgnåpen, eller om den skal gjøres om til et dagtilbud.",
+        "Flere har trukket seg fra gruppen som skal vurdere fremtiden til barneavdelingen på Hjelset.",
+        "Tonje Solli Strand mener det er en viktig signaleffekt for både pasientene de snakker for og deres pårørende og til politikere at de trekker seg."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/mr/flere-trekker-seg-fra-arbeidsgruppe-om-barneavdelingen-snr-_-mener-utfallet-er-bestemt-pa-forhand-1.18061519",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/cIM0qFyNWhnGurjrTQMT_AykO4YcZPiiwJxwwrleftqw.jpg",
+      "localImage": "assets/news/ae3be5cf18d22f.jpg",
+      "score": 13
+    },
+    {
+      "id": "12a6b1df8347f1",
+      "category": "Norge",
+      "published": "22.10. 16:02",
+      "publishedISO": "2026-10-22T16:02:18+02:00",
+      "title": "Lengst ventetid i landet: No tar UNN grep",
+      "summary": "Universitetssjukehuset Nord-Noreg (UNN) har hatt som praksis at kvinner må vente til svangerskapsveke ni før dei får abort. Universitetsykehuset Nord-Noreg (UNN) har hatt lengst ventetid i landet. Overlege og avdelingsleiar ved Kvinneklinikken på UNN, Ingard Nilsen, varslar at sjukehuset no vil endre sin abortpraksis slik at kvinner i nord får tilbod om tidlegare abort.",
+      "keyPoints": [
+        "Universitetsykehuset Nord-Noreg (UNN) har hatt lengst ventetid i landet.",
+        "Universitetssjukehuset Nord-Noreg (UNN) har hatt som praksis at kvinner må vente til svangerskapsveke ni før dei får abort.",
+        "Overlege og avdelingsleiar ved Kvinneklinikken på UNN, Ingard Nilsen, varslar at sjukehuset no vil endre sin abortpraksis slik at kvinner i nord får tilbod om tidlegare abort.",
+        "Særleg i nord har ventetida vore lange samanlikna med andre helseføretak. – Eg må jo seie at det at NRK belyste dette, gjorde at eg fekk eit spark bak, seier Ingard Nilsen, overlege og avdelingsleiar ved Kvinneklinikken på UNN i Tromsø."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/lengst-ventetid-i-landet_-no-tar-unn-grep-1.18061967",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/r5e9vNLQrlTstMLd7vHT0wesUgS5wUgya9lehMChCkXQ.jpg",
+      "localImage": "assets/news/12a6b1df8347f1.jpg",
+      "score": 13
+    },
+    {
+      "id": "43d32114e549c9",
+      "category": "Økonomi",
+      "published": "22.10. 15:53",
+      "publishedISO": "2026-10-22T15:53:20+02:00",
+      "title": "Ungarns tidligere sentralbanksjef arrestert",
+      "summary": "Ungarsk påtalemyndighet arresterte onsdag tidligere sentralbanksjef György Matolcsy, ifølge Financial Times (FT). Han sitter nå i varetekt sammen med flere andre personer og er den høyest rangerte personen som har blitt fengslet i forbindelse med etterforskning av korrupsjonsanklager mot tidligere statsminister Viktor Orbán. Matolcsy fungerte som Ungarns sentralbanksjef fra 2013 til 2025. – Min klient er mistenkt for økonomisk bedrageri som forårsaker betydelig økonomisk tap og forseelse ved bruk av et forfalsket privat dokument, sier Matolcsys forsvarer, Pál Bátki til den ungarske avisen Telex, ifølge Euronews.",
+      "keyPoints": [
+        "Matolcsy fungerte som Ungarns sentralbanksjef fra 2013 til 2025. – Min klient er mistenkt for økonomisk bedrageri som forårsaker betydelig økonomisk tap og forseelse ved bruk av et forfalsket privat dokument, sier Matolcsys forsvarer, Pál Bátki til den ungarske avisen Telex, ifølge Euronews.",
+        "Ungarsk påtalemyndighet arresterte onsdag tidligere sentralbanksjef György Matolcsy, ifølge Financial Times (FT).",
+        "Han sitter nå i varetekt sammen med flere andre personer og er den høyest rangerte personen som har blitt fengslet i forbindelse med etterforskning av korrupsjonsanklager mot tidligere statsminister Viktor Orbán.",
+        "Den ungarske sentralbanken MNBMagyar Nemzeti Bank investerte mer enn 1,5 milliarder euro i inntekter fra en valutavekslingsordning som kom flere nære medarbeidere av Matolcsy til gode, skriver FT som viser til undersøkelser utført av den ungarske statsrevisjonen og sentralbanken selv."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/b8rEW3/danske-bank-kutter-106-stillinger",
+      "url": "https://e24.no/boers-og-finans/i/BMqkll/ungarns-tidligere-sentralbanksjef-arrestert",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/304559e1-cbf1-39d3-bea6-6723dcfa42cc?fit=crop&h=675&upscale=true&w=1200&s=d31457082c551a1979048cdb7d97ccc0df7d9367",
-      "localImage": "assets/news/1cda1d96897c00.jpg",
+      "image": "https://akamai.vgc.no/v2/images/16c856e0-015c-34a7-9f5a-ee6f2e97e72a?fit=crop&h=675&upscale=true&w=1200&s=1b2e59f688bf825bf448e990a22229155b8f80af",
+      "localImage": "assets/news/43d32114e549c9.jpg",
       "score": 13
     },
     {
-      "id": "987aa29c0840dd",
-      "category": "Økonomi",
-      "published": "22.10. 12:08",
-      "publishedISO": "2026-10-22T12:08:06+02:00",
-      "title": "Britisk storbank kutter 5.000 jobber – satser på AI",
-      "summary": "Kuttet tilsvarer 5 prosent av arbeidsstyrken, skriver CNBC. Ifølge Bloomberg forsvant rundt 1.000 stillinger i første halvår. Omstillingen vil koste banken rundt 600 millioner britiske pund i år, omtrent dobbelt så mye som tidligere anslått, skriver Bloomberg.",
-      "keyPoints": [
-        "Omstillingen vil koste banken rundt 600 millioner britiske pund i år, omtrent dobbelt så mye som tidligere anslått, skriver Bloomberg.",
-        "Kuttet tilsvarer 5 prosent av arbeidsstyrken, skriver CNBC.",
-        "Ifølge Bloomberg forsvant rundt 1.000 stillinger i første halvår.",
-        "Resultatet før skatt øker med 12 prosent fra samme kvartal i fjor, til 2,3 milliarder britiske pund."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/JrAdB6/britisk-storbank-kutter-5-000-jobber-satser-paa-ai",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/794ce6e2-c27b-3a45-954b-a77a1faf8474?fit=crop&h=675&upscale=true&w=1200&s=402a1c2e87b946b74b7eaf10cb1c6f3d30faf56f",
-      "localImage": "assets/news/987aa29c0840dd.jpg",
-      "score": 13
-    },
-    {
-      "id": "5b081df70c7513",
+      "id": "7607d930c6ae5f",
       "category": "Norge",
-      "published": "22.10. 11:37",
-      "publishedISO": "2026-10-22T11:37:18+02:00",
-      "title": "Russerne kommer",
-      "summary": "Ingen kommer til å stoppe russerne fra å delta i vinterens VM på ski. SIST GANG: Aleksandr Bolsjunov kunne strekke hendene i været for seier på 30 km skibytte i sist VM han deltok i. Den norske skipresidenten Roger Finjord vil ifølge Dagbladet nå ha en klargjøring fra norske myndigheters side rundt hva den norske linje er overfor russerne.",
+      "published": "22.10. 15:25",
+      "publishedISO": "2026-10-22T15:25:28+02:00",
+      "title": "Andreas Arff blir utfordra som Frp-topp",
+      "summary": "Tre lokallag vil erstatte dagens gruppeleiar Andreas Arff med Flekkefjord-ordførar Torbjørn Klungland. Også i eiga gruppe i fylkestinget er det to representantar som heller vil ha Torbjørn Klungland. – Det er sunt at det er kamp om plassane, og det er ein naturleg del av ein nominasjonsprosess, seier Andreas Arff, gruppeleiar for Frp på fylkestinget i Agder. Andreas Arff er innstilt av nominasjonskomitéen på plass nummer to, men blir utfordra av Torbjørn Klungland som er ordførar i Flekkefjord.",
       "keyPoints": [
-        "Ingen kommer til å stoppe russerne fra å delta i vinterens VM på ski.",
-        "SIST GANG: Aleksandr Bolsjunov kunne strekke hendene i været for seier på 30 km skibytte i sist VM han deltok i.",
-        "Den norske skipresidenten Roger Finjord vil ifølge Dagbladet nå ha en klargjøring fra norske myndigheters side rundt hva den norske linje er overfor russerne.",
-        "Daværende skipresident Tove Moe Dyrhaug delte selv ut premiene, men slapp altså dilemmaet med å skulle hylle de påstått nøytrale russerne."
+        "Andreas Arff er innstilt av nominasjonskomitéen på plass nummer to, men blir utfordra av Torbjørn Klungland som er ordførar i Flekkefjord.",
+        "Også i eiga gruppe i fylkestinget er det to representantar som heller vil ha Torbjørn Klungland. – Det er sunt at det er kamp om plassane, og det er ein naturleg del av ein nominasjonsprosess, seier Andreas Arff, gruppeleiar for Frp på fylkestinget i Agder.",
+        "Tre lokallag vil erstatte dagens gruppeleiar Andreas Arff med Flekkefjord-ordførar Torbjørn Klungland.",
+        "Steinar Rørvik meiner Klungland er betre eigna enn Arff. – Klungland er ein svært dyktig politikar som har god kontakt med dei andre partia og eit særs godt grunnlag for å skape eit omforent miljø i Agder fylkesting."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/russerne-kommer-1.18060933",
+      "url": "https://www.nrk.no/sorlandet/andreas-arff-blir-utfordra-som-frp-topp-1.18061807",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/yy6VflEEcmA8AaOmU5APgw45G5Gpn9eQxJVd9dbad2_A.jpg",
-      "localImage": "assets/news/5b081df70c7513.jpg",
-      "score": 13
-    },
-    {
-      "id": "903c8b64e9ced5",
-      "category": "Norge",
-      "published": "22.10. 11:19",
-      "publishedISO": "2026-10-22T11:19:01+02:00",
-      "title": "Nå er det bestemt: Flytter behandling av eggstokkreft til Bergen",
-      "summary": "Styret i Helse Vest har bestemt at Haukeland universitetssjukehus skal gjøre alle operasjoner av eggstokkreft. I dag skjer operasjonene på både Stavanger universitetssjukehus (SUS) og Haukeland universitetssjukehus i Bergen. Styret i Helse Vest mener det vil bli et sterkere fagmiljø ved å samle alt i Bergen, og bedre overlevelsesprosent enn det er i dag. – Det viktigste for oss er at kvinnene på Vestlandet får det aller beste tilbudet vi kan gi dem, slår administrerende direktør Inger Cathrine Bryne i Helse Vest fast.",
-      "keyPoints": [
-        "Styret i Helse Vest har bestemt at Haukeland universitetssjukehus skal gjøre alle operasjoner av eggstokkreft.",
-        "Styret i Helse Vest mener det vil bli et sterkere fagmiljø ved å samle alt i Bergen, og bedre overlevelsesprosent enn det er i dag. – Det viktigste for oss er at kvinnene på Vestlandet får det aller beste tilbudet vi kan gi dem, slår administrerende direktør Inger Cathrine Bryne i Helse Vest fast.",
-        "I dag skjer operasjonene på både Stavanger universitetssjukehus (SUS) og Haukeland universitetssjukehus i Bergen.",
-        "Styret i Helse Vest ønsker å få en ny sak om å samle tjenesten i Helse Bergen så snart kravene er dokumentert."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/na-er-det-bestemt_-flytter-behandling-av-eggstokkreft-til-bergen-1.18061610",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/-S8KLB43wB-jcuUigDJZpgUt4Npb--I9S1zCvBdVv9Bw.jpg",
-      "localImage": "assets/news/903c8b64e9ced5.jpg",
-      "score": 13
-    },
-    {
-      "id": "e270b9e5fdb2ce",
-      "category": "Norge",
-      "published": "22.10. 11:17",
-      "publishedISO": "2026-10-22T11:17:57+02:00",
-      "title": "Advarer mot psykiatri-kutt ved Nordlandssykehuset",
-      "summary": "Flukt av overleger har gjort at Nordlandssykehuset må bruke opp mot 43 millioner kroner på dyre vikarer. UTFORDRINGER: Nordlandssykehuset legger ned avdeling for eldre psykisk syke. NRK møter spesialsykepleier Heidi Vorren i en idyllisk park rett utenfor hennes arbeidsplass ved Nordlandssykehuset, avdeling rus og psykiatri.",
-      "keyPoints": [
-        "Flukt av overleger har gjort at Nordlandssykehuset må bruke opp mot 43 millioner kroner på dyre vikarer.",
-        "NRK møter spesialsykepleier Heidi Vorren i en idyllisk park rett utenfor hennes arbeidsplass ved Nordlandssykehuset, avdeling rus og psykiatri.",
-        "UTFORDRINGER: Nordlandssykehuset legger ned avdeling for eldre psykisk syke.",
-        "Han er med når NRK møter den erfarne spesialsykepleieren utenfor hennes arbeidsplass. – Jeg er alvorlig bekymret for situasjonen ved psykisk helse- og rusklinikken ved Nordlandssykehuset, sier han til NRK."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/advarer-mot-psykiatri-kutt-ved-nordlandssykehuset-1.18052387",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/5_MQmtGbg1TS6RLc0P8OHAzonMBm_ThEIMW3FeDLlo2w.jpg",
-      "localImage": "assets/news/e270b9e5fdb2ce.jpg",
-      "score": 13
-    },
-    {
-      "id": "dc8bf20c5ae2af",
-      "category": "Norge",
-      "published": "22.10. 10:53",
-      "publishedISO": "2026-10-22T10:53:30+02:00",
-      "title": "Steinras ved borettslag i Porsgrunn",
-      "summary": "Store steinblokker har rast ned mot en boligblokk i Porsgrunn. RASFARE: Beboere i to boligblokker er evakuert som følge av fare for nye ras, opplyser politiet. I denne saken kan du lese om: Beboere beskriver raset som et jordskjelv | Usikkert når beboere får vende hjem | Politiet utelukker ikke flere ras Nødetatene fikk beskjed om steinraset i Sykehusvegen klokka 09.33 torsdag morgen. – På stedet kan man høre nye ras.",
-      "keyPoints": [
-        "I denne saken kan du lese om: Beboere beskriver raset som et jordskjelv | Usikkert når beboere får vende hjem | Politiet utelukker ikke flere ras Nødetatene fikk beskjed om steinraset i Sykehusvegen klokka 09.33 torsdag morgen. – På stedet kan man høre nye ras.",
-        "Store steinblokker har rast ned mot en boligblokk i Porsgrunn.",
-        "RASFARE: Beboere i to boligblokker er evakuert som følge av fare for nye ras, opplyser politiet.",
-        "Vedkommende ønsker ikke å stå frem med navn og bilde, men sier det var dramatisk da raset gikk: – Jeg hørte et forferdelig smell, og hele boligen rysta nøyaktig ti over ni."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/steinras-ved-borettslag-i-porsgrunn-1.18061665",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/45P-pDhX8zpzLf6czIAcNw2isNKIZLuSTNmRyP-PJc0w.jpg",
-      "localImage": "assets/news/dc8bf20c5ae2af.jpg",
+      "image": "https://gfx.nrk.no/zEZnpTvwM3DY5JkN3RDGeAcbyk6iwJl2Z4yeLrMPLziQ.jpg",
+      "localImage": "assets/news/7607d930c6ae5f.jpg",
       "score": 13
     }
   ]
