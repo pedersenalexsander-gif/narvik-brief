@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.10.2026 kl. 02:53",
-  "updatedISO": "2026-10-22T02:53:14.027262+02:00",
+  "updatedAt": "22.10.2026 kl. 07:50",
+  "updatedISO": "2026-10-22T07:50:15.883055+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/FG8WyjlI5QoPJk0hwiAwygMRW9fq8isoCxYgKDp9_a2w.png",
       "localImage": "assets/news/5068ff150be706.png",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "dc67f4c3b44104",
+      "id": "ee64d0b36b0e65",
       "category": "Norge",
-      "published": "21.10. 05:14",
-      "publishedISO": "2026-10-21T05:14:21+02:00",
-      "title": "Regjeringen strammer grepet i nord: Innfører nye lover og trapper opp politiinnsatsen i reiselivet",
-      "summary": "Regjeringen trapper opp kampen mot ulovligheter i reiselivet. Regjeringen setter nå inn en rekke tiltak for å rydde opp i ulovligheter, svart arbeid og kriminelle nettverk i nordnorsk reiseliv. Som en del av oppryddingen fremmer regjeringen derfor også den etterspurte besøksbidragsloven, som skal gi kommunene mulighet til å la turistene være med og finansiere infrastrukturen og fellesgodene de benytter. – Det er helt rett og rimelig at turistene bidrar.",
+      "published": "22.10. 05:12",
+      "publishedISO": "2026-10-22T05:12:54+02:00",
+      "title": "KI både truer og sikrer oss: – Gjør det enklere å være kjeltring",
+      "summary": "Cybertrusselen er fremdeles den mest alvorlige trusselen mot Norges digitale infrastruktur, ifølge Nkom. – Kunstig intelligens gjør det lettere å gjennomføre angrep. Nkom la onsdag frem sin årlige sårbarhets- og risikoanalyse for ekom-sektoren. – Denne lett tilgjengelige teknologien gjør det enklere å være kjeltring. Hun bekrefter at teknologiens muligheter og utfordringer går hånd i hånd. – Det gjør at vi på «den gode sida» må være ekstra påpasselige til å være gode nok på teknologien, slik at vi kan bekjempe de som har ondsinnede hensikter med KI.",
       "keyPoints": [
-        "Regjeringen trapper opp kampen mot ulovligheter i reiselivet.",
-        "Regjeringen setter nå inn en rekke tiltak for å rydde opp i ulovligheter, svart arbeid og kriminelle nettverk i nordnorsk reiseliv.",
-        "Som en del av oppryddingen fremmer regjeringen derfor også den etterspurte besøksbidragsloven, som skal gi kommunene mulighet til å la turistene være med og finansiere infrastrukturen og fellesgodene de benytter. – Det er helt rett og rimelig at turistene bidrar.",
-        "Den voldsomme veksten i reiselivet de sist årene har også ført til slitasje på lokalsamfunnet i Tromsø, der innbyggerundersøkelser viser økende frustrasjon over turisttrykk, krevende trafikkforhold og press på boligmarkedet som følge av korttidsutleie."
+        "Nkom la onsdag frem sin årlige sårbarhets- og risikoanalyse for ekom-sektoren. – Denne lett tilgjengelige teknologien gjør det enklere å være kjeltring.",
+        "Hun bekrefter at teknologiens muligheter og utfordringer går hånd i hånd. – Det gjør at vi på «den gode sida» må være ekstra påpasselige til å være gode nok på teknologien, slik at vi kan bekjempe de som har ondsinnede hensikter med KI.",
+        "Cybertrusselen er fremdeles den mest alvorlige trusselen mot Norges digitale infrastruktur, ifølge Nkom. – Kunstig intelligens gjør det lettere å gjennomføre angrep.",
+        "Hun understreker at en stadig mer digital hverdag gjør at tingene man har lagret digitalt blir ekstra sårbare for angrep i tiden fremover. – Med KI som verktøy kan ondsinnede aktører utnytte disse sårbarhetene raskere enn vi har sett tidligere."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-strammer-grepet-i-nord_-innforer-nye-lover-og-trapper-opp-politiinnsatsen-i-reiselivet-1.18059725",
+      "url": "https://www.nrk.no/sorlandet/ki-bade-truer-og-sikrer-oss_-_-gjor-det-enklere-a-vaere-kjeltring-1.18060567",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Bc1zaFNuAnpJx7iouSaCugCdHTbcCBKA-piPElTR42Gg.jpg",
-      "localImage": "assets/news/dc67f4c3b44104.webp",
-      "score": 13
+      "image": "https://gfx.nrk.no/YOitDje26wrjn9iEApeA-wwMayg00tD6b2xKFRB3G5-g.jpg",
+      "localImage": "assets/news/ee64d0b36b0e65.jpg",
+      "score": 18
     },
     {
       "id": "adf9b857e5cc25",
@@ -64,7 +64,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/28ef/live/eeb5a6a0-cd17-11f1-9a39-31b474234113.jpg",
       "localImage": "assets/news/adf9b857e5cc25.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "93b034c09bcc8a",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f7497781-997c-3c1b-835d-9ffa89b9e038?fit=crop&h=675&upscale=true&w=1200&s=89300b5c35757db0a87c9048f9a70a0d5cb57407",
       "localImage": "assets/news/93b034c09bcc8a.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "c36e0a67b7b786",
@@ -106,111 +106,111 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ec2782a6-d449-3b2f-937e-c26c9274d68c?fit=crop&h=675&upscale=true&w=1200&s=3101c4e51c0d4b7f1fac2806239c70e74ebb2dca",
       "localImage": "assets/news/c36e0a67b7b786.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "22fa8c528993d7",
-      "category": "Økonomi",
-      "published": "21.10. 07:31",
-      "publishedISO": "2026-10-21T07:31:53+02:00",
-      "title": "DNB tjente 12,5 milliarder i tredje kvartal",
-      "summary": "DNB tjente mindre enn på samme tid i fjor, men melder om rekordkvartal for meglerhuset DNB Carnegie. I investeringsbankvirksomheten var det høy aktivitet, skriver DNB, som trekker frem at inntektene økte med 44 prosent til 1,1 milliarder kroner fra tredje kvartal i fjor. Fra tredje kvartal i fjor økte utlånene med 1,3 prosent til 989 milliarder kroner, mens innskudd vokste med 3,8 prosent til 653 milliarder kroner.",
-      "keyPoints": [
-        "I investeringsbankvirksomheten var det høy aktivitet, skriver DNB, som trekker frem at inntektene økte med 44 prosent til 1,1 milliarder kroner fra tredje kvartal i fjor.",
-        "Fra tredje kvartal i fjor økte utlånene med 1,3 prosent til 989 milliarder kroner, mens innskudd vokste med 3,8 prosent til 653 milliarder kroner.",
-        "DNB tjente mindre enn på samme tid i fjor, men melder om rekordkvartal for meglerhuset DNB Carnegie.",
-        "Forvaltningskapitalen nådde 1.849 milliarder kroner og kundene kjøpte fondsandeler for et nettobeløp på rekordhøye 54,5 milliarder kroner, ifølge banken. - Vi ser en sterk utvikling innenfor sparing og investering, med både flere kunder og økt sparing, uttaler DNB-sjef Kjerstin Braathen i en pressemelding."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2V0Azv/resultatfall-for-dnb-tjente-12-5-milliarder-foer-skatt-i-tredje-kvartal",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/48c3ecde-362a-3ced-9d5c-3b5b2def3c1e?fit=crop&h=675&upscale=true&w=1200&s=50c6a8ef1b26f14950b0dbfd2cb5e429f2f7281f",
-      "localImage": "assets/news/22fa8c528993d7.jpg",
-      "score": 14
-    },
-    {
-      "id": "9fba1eb43b1f65",
-      "category": "Verden",
-      "published": "21.10. 22:31",
-      "publishedISO": "2026-10-21T22:31:47+02:00",
-      "title": "Bukangi: Huge crowds watch shark stranded in Busan, South Korea",
-      "summary": "Huge crowds have flocked to a canal in South Korea to watch a stranded shark. Huge crowds watch attempt to rescue shark stranded in South Korean canal. Video, 00:00:46Huge crowds watch attempt to rescue shark stranded in South Korean canal Up Next.",
-      "keyPoints": [
-        "Huge crowds have flocked to a canal in South Korea to watch a stranded shark.",
-        "Huge crowds watch attempt to rescue shark stranded in South Korean canal.",
-        "Early on Thursday morning local time, South Korea's oceans ministry said the shark had been successfully guided out of the canal.",
-        "The 9ft 10in (3m) shark, nicknamed Bukangi, was first spotted in the waterway last month in the south-eastern city of Busan."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f8b7/live/2a48ce80-cd23-11f1-a64c-550be9e3c66b.jpg",
-      "localImage": "assets/news/9fba1eb43b1f65.jpg",
-      "score": 13
-    },
-    {
-      "id": "2450b69e8bcd6a",
-      "category": "Økonomi",
-      "published": "21.10. 22:03",
-      "publishedISO": "2026-10-21T22:03:25+02:00",
-      "title": "Tesla slår forventningene – gigantfusjon i søkelyset",
-      "summary": "Tesla omsatte for 28,05 milliarder dollar i tredje kvartal, viser ferske tall fra selskapet onsdag kveld. Bilen er utstyrt med rakettinspirerte dyser, og Tesla har som mål å starte produksjonen i 2028. Tesla investerte 4,73 milliarder dollar i tredje kvartal, ned fra 5,79 milliarder i kvartalet før.",
-      "keyPoints": [
-        "Tesla omsatte for 28,05 milliarder dollar i tredje kvartal, viser ferske tall fra selskapet onsdag kveld.",
-        "Tesla investerte 4,73 milliarder dollar i tredje kvartal, ned fra 5,79 milliarder i kvartalet før.",
-        "Bilen er utstyrt med rakettinspirerte dyser, og Tesla har som mål å starte produksjonen i 2028.",
-        "I første kvartal investerte Tesla rundt to milliarder dollar i SpaceX, viser regnskapet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2Ve6nB/tesla-slaar-skuffer-forventningene-gigantfusjon-i-soekelyset",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/41c16617-1e50-3221-b2ac-f1e805d2bf7f?fit=crop&h=675&upscale=true&w=1200&s=ce9d4378d6ccf64c6612fe466c46d9b65e88c176",
-      "localImage": "assets/news/2450b69e8bcd6a.jpg",
-      "score": 13
-    },
-    {
-      "id": "b6f3fb8a6bf7c6",
-      "category": "Økonomi",
-      "published": "21.10. 22:01",
-      "publishedISO": "2026-10-21T22:01:45+02:00",
-      "title": "Meta slo forventningene i tredje kvartal",
-      "summary": "Meta er det første av de store tekselskapene som legger frem tall for tredje kvartal: På forhånd hadde analytikerne ventet inntekter på 63,3 milliarder dollar, resultat per aksje på 3,64 dollar og resultat før skatt på 11,3 milliarder dollar, ifølge Bloomberg. – Investeringene våre lønner seg, kjernevirksomheten er sterk, og vi ser fart over hele linjen, sier Meta-sjef Mark Zuckerberg i en uttalelse. Meta venter å ha inntekter i fjerde kvartal på mellom 73 og 76 milliarder dollar, som er omtrent som analytikerne hadde ventet på forhånd. Selskapet investerte 34,9 milliarder dollar i tredje kvartal, inkludert nedbetalinger på finansielle leieavtaler.",
-      "keyPoints": [
-        "Meta er det første av de store tekselskapene som legger frem tall for tredje kvartal: På forhånd hadde analytikerne ventet inntekter på 63,3 milliarder dollar, resultat per aksje på 3,64 dollar og resultat før skatt på 11,3 milliarder dollar, ifølge Bloomberg. – Investeringene våre lønner seg, kjernevirksomheten er sterk, og vi ser fart over hele linjen, sier Meta-sjef Mark Zuckerberg i en uttalelse.",
-        "Selskapet investerte 34,9 milliarder dollar i tredje kvartal, inkludert nedbetalinger på finansielle leieavtaler.",
-        "Meta er et av selskapene som blir omtalt som såkalte «hyperscalere» – tekselskaper som har pøst enorme summer inn i AI-kappløpet.",
-        "Facebook-eieren legger også i kvartalsrapporten frem det de kaller DPA (family daily active people), som kom inn på 3,64 milliarder i snitt i september."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/b82qJg/meta-slo-forventningene-i-tredje-kvartal-hadde-inntekter-paa-64-6-milliarder-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/105fe0f1-9627-3e72-962a-45c63e259882?fit=crop&h=675&upscale=true&w=1200&s=5e83acaaf702dc860156b6e1e19e8a8122655d9e",
-      "localImage": "assets/news/b6f3fb8a6bf7c6.jpg",
-      "score": 13
-    },
-    {
-      "id": "fe1259085d4b8b",
+      "id": "3ba38f2fd8f04c",
       "category": "Norge",
-      "published": "20.10. 14:45",
-      "publishedISO": "2026-10-20T14:45:21+02:00",
-      "title": "EU vil la oljen i Arktis ligge",
-      "summary": "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner». Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis ettersom Russland gjenoppbygger sitt militære nærvær der. Von der Leyen understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord angår hele Europa direkte. – Arktis er et sted hvor geopolitikkens tektoniske plater kolliderer.",
+      "published": "22.10. 07:46",
+      "publishedISO": "2026-10-22T07:46:24+02:00",
+      "title": "Parkinson: Sprøytemidler kan være en årsak",
+      "summary": "Ugress – og plantemidler kan være én av årsakene til at stadig flere får parkinson. Charalampos Tzoulis forsker ved Universitetet i Bergen – han sier det må forskes mer på hvorfor noen får parkinson og andre ikke. Begynte å skjelve på hendene under joggeturene Parkinson er en sykdom som rammer flere hjerneområder, inkludert deler som er viktige for bevegelse, søvn, og hukommelse. – Studier fra blant annet Frankrike, USA og Nederland har vist høyere forekomst av Parkinsons sykdom i enkelte områder med intensivt jordbruk, særlig der det brukes mye plantevernmidler, sier Tzoulis.",
       "keyPoints": [
-        "Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis ettersom Russland gjenoppbygger sitt militære nærvær der.",
-        "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner».",
-        "Von der Leyen understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord angår hele Europa direkte. – Arktis er et sted hvor geopolitikkens tektoniske plater kolliderer.",
-        "Nordområdene er i norsk politikk en betegnelse på det sirkumpolare Arktis (mellom Nordpolen og polarsirkelen), inkludert Barentsregionen og Barentshavområdet (Wikipedia)."
+        "Ugress – og plantemidler kan være én av årsakene til at stadig flere får parkinson.",
+        "Begynte å skjelve på hendene under joggeturene Parkinson er en sykdom som rammer flere hjerneområder, inkludert deler som er viktige for bevegelse, søvn, og hukommelse. – Studier fra blant annet Frankrike, USA og Nederland har vist høyere forekomst av Parkinsons sykdom i enkelte områder med intensivt jordbruk, særlig der det brukes mye plantevernmidler, sier Tzoulis.",
+        "Charalampos Tzoulis forsker ved Universitetet i Bergen – han sier det må forskes mer på hvorfor noen får parkinson og andre ikke.",
+        "Foto: Julianne Bråten Mossing Når disse blir satt opp mot folketallet, tyder de på at det er flere med parkinson i Midt-Norge og Nord-Norge sammenlignet med øst og sør i landet. – Dette bør undersøkes nærmere, sier professor og overlege Charalampos Tzoulis ved Haukeland Universitetssykehus."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832",
+      "url": "https://www.nrk.no/artikkel/parkinson-sproytemidler-kan-vare-en-arsak-1528893",
       "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
-      "localImage": "assets/news/fe1259085d4b8b.jpg",
+      "image": "https://gfx.nrk.no/3QADmg50tigDjxKCFg6jQQ1Mrv7drhZQXfZmrDaR4CMA",
+      "localImage": "assets/news/3ba38f2fd8f04c.jpg",
+      "score": 13
+    },
+    {
+      "id": "532f0c159d6b0f",
+      "category": "Norge",
+      "published": "22.10. 07:10",
+      "publishedISO": "2026-10-22T07:10:46+02:00",
+      "title": "To personar har vore inne til avhøyr om brannane på Sula- begge er sjekka ut av saka",
+      "summary": "Politiet stadfestar i dag overfor NRK at ein person har vore mistenkt i saka, og at ein annan har vore sikta. Politiadvokat Magne Kvalvik seier at to personar er sjekka ut av saka. Personen vart kalla inn til avhøyr og deretter sjekka ut av saka. – Saka blei lagt bort sommaren 2025 på grunn av at intet straffbart forhold var rekna som bevist, seier Kvalvik.",
+      "keyPoints": [
+        "Personen vart kalla inn til avhøyr og deretter sjekka ut av saka. – Saka blei lagt bort sommaren 2025 på grunn av at intet straffbart forhold var rekna som bevist, seier Kvalvik.",
+        "Politiadvokat Magne Kvalvik seier at to personar er sjekka ut av saka.",
+        "Politiet stadfestar i dag overfor NRK at ein person har vore mistenkt i saka, og at ein annan har vore sikta.",
+        "Den sikta vart lauslaten etter avhøyr og fekk saka si lagt bort kort tid etter."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/mr/to-personar-har-vore-inne-til-avhoyr-om-brannane-pa-sula--begge-er-sjekka-ut-av-saka-1.18060966",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/oWNprv-7WMVaNq095qp_vgpvlrRWumGCUPzkTSTuUE-A.jpg",
+      "localImage": "assets/news/532f0c159d6b0f.jpg",
+      "score": 13
+    },
+    {
+      "id": "9d1d9c83acb09c",
+      "category": "Norge",
+      "published": "22.10. 07:08",
+      "publishedISO": "2026-10-22T07:08:26+02:00",
+      "title": "Enormt vannbrudd i Sør-Varanger",
+      "summary": "Brudd på et vannrør i Sør-Varanger har ført flere tusen folk og sykehuset for hele Øst-Finnmark er uten vann. Vannlekkasjen i Sør-Varanger er torsdag morgen stoppen, men rundt 6.000 personer er fortsatt rammet. – Vi har fått et brudd på hovedvannledningen på vestsiden av Langfjorden, sier ordfører Magnus Mæland (H). – Man merket at det var en markant endring i systemene våre, og selvfølgelig at vannet forsvant. Ordfører i Sør-Varanger kommune, Magnus Mæland (H), sier det blir kokevarsel i flere dager fremover.",
+      "keyPoints": [
+        "Vannlekkasjen i Sør-Varanger er torsdag morgen stoppen, men rundt 6.000 personer er fortsatt rammet. – Vi har fått et brudd på hovedvannledningen på vestsiden av Langfjorden, sier ordfører Magnus Mæland (H). – Man merket at det var en markant endring i systemene våre, og selvfølgelig at vannet forsvant.",
+        "Brudd på et vannrør i Sør-Varanger har ført flere tusen folk og sykehuset for hele Øst-Finnmark er uten vann.",
+        "Ordfører i Sør-Varanger kommune, Magnus Mæland (H), sier det blir kokevarsel i flere dager fremover.",
+        "Følgende skoler stenges og elevene permitteres: For barn i barnehage av foreldre med samfunnskritiske yrker (særlig politi, helsevesen, brann og kommunal beredskap) vil det gjøres individuelle vurderinger tidlig på morgenen om plass i Kirkenes barnehage og Prestøya barnehage."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/enormt-vannbrudd-i-sor-varanger-1.18061410",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/EkAm2PifcfDH5Abe23rnFg_ilafboW7-CHThBAy4tuGg.jpg",
+      "localImage": "assets/news/9d1d9c83acb09c.jpg",
+      "score": 13
+    },
+    {
+      "id": "6e86efd9983f84",
+      "category": "Norge",
+      "published": "22.10. 07:01",
+      "publishedISO": "2026-10-22T07:01:47+02:00",
+      "title": "Politiet fann over sju kilo cannabis i einebustad i Vestfold – to brør dømte",
+      "summary": "DYRKA CANNABIS HEIME: To brør må i fengsel, etter at politiet fann fleire kilo cannabis i huset til den eldste av dei. Da politiet tok seg inn i huset i Vestfold i mai 2024, fekk dei straks bekrefta mistanken om at det gjekk føre seg produksjon av narkotika på staden. I einebustaden blei det funne litt over sju kilo cannabis, materiale frå cannabisplantar og kokain, og dessutan ei stor mengde utstyr for planteproduksjon.",
+      "keyPoints": [
+        "DYRKA CANNABIS HEIME: To brør må i fengsel, etter at politiet fann fleire kilo cannabis i huset til den eldste av dei.",
+        "I einebustaden blei det funne litt over sju kilo cannabis, materiale frå cannabisplantar og kokain, og dessutan ei stor mengde utstyr for planteproduksjon.",
+        "Da politiet tok seg inn i huset i Vestfold i mai 2024, fekk dei straks bekrefta mistanken om at det gjekk føre seg produksjon av narkotika på staden.",
+        "Bildet er tatt av politiet etter at dei avdekte lovbrota på eigedommen i Vestfold."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/politiet-fann-over-sju-kilo-cannabis-i-einebustad-i-vestfold-_-to-bror-domte-1.18059879",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/WaW25vXpUUbvUK47mnsKWQFlUf3xM3yKHzf3pDYdq6Tw.png",
+      "localImage": "assets/news/6e86efd9983f84.png",
+      "score": 13
+    },
+    {
+      "id": "7ad4525a62ea2c",
+      "category": "Norge",
+      "published": "22.10. 06:45",
+      "publishedISO": "2026-10-22T06:45:11+02:00",
+      "title": "Universitetet i Agder blant åtte universiteter som søker om kjønnskvoter for menn",
+      "summary": "Universitetet i Agder er blant åtte universiteter som søker om kjønnskvoter på 19 studier i neste års opptak. Universitetet i Agder er et av universitetene som søker om kjønnskvoter på studier i neste års opptak. Universitetet i Agder (UiA) og Universitetet i Oslo (UiO) søker om flest kvoter, med fire studier hver.",
+      "keyPoints": [
+        "Universitetet i Agder er blant åtte universiteter som søker om kjønnskvoter på 19 studier i neste års opptak.",
+        "Universitetet i Agder (UiA) og Universitetet i Oslo (UiO) søker om flest kvoter, med fire studier hver.",
+        "Foreløpige simuleringer antyder at vi kan få bedre balanse med kjønnskvoter enn vi kunne få med kjønnspoeng som et tillegg, sier viserektor for utdanning ved Universitetet i Agder, Hilde Inntjore, til Khrono.",
+        "Det er Universitetet i Stavanger som søker om den største kvoten – 50 prosent på tollerutdanningen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/universitetet-i-agder-blant-atte-universiteter-som-soker-om-kjonnskvoter-for-menn-1.18061405",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/KzssCEWpqUv4lmZ0ro-Z2Am6OlyQf63ESOl9QsAgvXag.jpg",
+      "localImage": "assets/news/7ad4525a62ea2c.jpg",
       "score": 13
     }
   ]
