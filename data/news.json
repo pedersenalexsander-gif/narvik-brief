@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.10.2026 kl. 21:56",
-  "updatedISO": "2026-10-22T21:56:58.077491+02:00",
+  "updatedAt": "23.10.2026 kl. 01:02",
+  "updatedISO": "2026-10-23T01:02:38.309181+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -106,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/qgBof5vz7gQQeBsup1IKDgRnkGG9FuDwa-fWRmu3sCrQ.jpg",
       "localImage": "assets/news/e5390217bc0dea.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "bf2766ac3b7fec",
@@ -130,16 +130,37 @@
       "score": 13
     },
     {
+      "id": "c36e0a67b7b786",
+      "category": "Økonomi",
+      "published": "21.10. 09:01",
+      "publishedISO": "2026-10-21T09:01:06+02:00",
+      "title": "Fredriksen-aksje stupte etter utbytte-pause",
+      "summary": "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent. Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid. Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
+      "keyPoints": [
+        "Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid.",
+        "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent.",
+        "Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
+        "Omsetningen i tredje kvartal var rundt 268 millioner dollar, går det også frem av handelsoppdateringen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/4OgnLG/dnb-stiger-2-5-prosent-paa-oslo-boers-etter-tallslipp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ec2782a6-d449-3b2f-937e-c26c9274d68c?fit=crop&h=675&upscale=true&w=1200&s=3101c4e51c0d4b7f1fac2806239c70e74ebb2dca",
+      "localImage": "assets/news/c36e0a67b7b786.jpg",
+      "score": 13
+    },
+    {
       "id": "dc55bbb3f0f378",
       "category": "Norge",
       "published": "22.10. 18:11",
       "publishedISO": "2026-10-22T18:11:39+02:00",
       "title": "Politi­aksjon ved nedlagt fengsel i Nord-Odal",
-      "summary": "Torsdag kveld går det føre seg ein politiaksjon ved gamle Bruvoll fengsel i Nord-Odal. Det var torsdag føremiddag at politiet gjekk til aksjon ved det nedlagde Bruvoll fengsel i Nord-Odal i Innlandet. Det stadfestar politiadvokat Ingrid Hærem i Øst politidistrikt i ein e-post til NRK: – Øst politidistrikt har i dag gjennomført ein planlagd aksjon mot gamle Bruvoll fengsel i Nord-Odal, og det blir no gjennomført kriminaltekniske undersøkingar på staden.",
+      "summary": "Store politistyrker aksjonerte ved eit nedlagt fengsel torsdag. Det var torsdag føremiddag at politiet gjekk til aksjon ved det nedlagde Bruvoll fengsel i Nord-Odal i Innlandet. Det stadfesta politiadvokat Ingrid Hærem i Øst politidistrikt i ein e-post til NRK torsdag ettermiddag: – Øst politidistrikt har i dag gjennomført ein planlagd aksjon mot gamle Bruvoll fengsel i Nord-Odal, og det blir no gjennomført kriminaltekniske undersøkingar på staden.",
       "keyPoints": [
-        "Det stadfestar politiadvokat Ingrid Hærem i Øst politidistrikt i ein e-post til NRK: – Øst politidistrikt har i dag gjennomført ein planlagd aksjon mot gamle Bruvoll fengsel i Nord-Odal, og det blir no gjennomført kriminaltekniske undersøkingar på staden.",
+        "Det stadfesta politiadvokat Ingrid Hærem i Øst politidistrikt i ein e-post til NRK torsdag ettermiddag: – Øst politidistrikt har i dag gjennomført ein planlagd aksjon mot gamle Bruvoll fengsel i Nord-Odal, og det blir no gjennomført kriminaltekniske undersøkingar på staden.",
         "Det var torsdag føremiddag at politiet gjekk til aksjon ved det nedlagde Bruvoll fengsel i Nord-Odal i Innlandet.",
-        "Torsdag kveld går det føre seg ein politiaksjon ved gamle Bruvoll fengsel i Nord-Odal.",
+        "Store politistyrker aksjonerte ved eit nedlagt fengsel torsdag.",
         "Gamle Bruvoll fengsel vart bygd som leir for sivilforsvaret, men var i drift som fengsel frå 2006."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
@@ -148,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Yc2pnTF4LQ9VkF8RR8ervwIA2IpRdYf6ZDvgaeW3pfvA.jpg",
       "localImage": "assets/news/dc55bbb3f0f378.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "d33a9d026959a9",
@@ -169,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/67aPoxDC1FBObH6atFhtvw1jrmNUy5zHelP_wrtgPK5Q.jpg",
       "localImage": "assets/news/d33a9d026959a9.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "eaf34528d0922a",
@@ -190,28 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/KVgKtaq6M8evleygnvK-vAGRh3Us_6vF4xQllCUkhx6Q.jpg",
       "localImage": "assets/news/eaf34528d0922a.jpg",
-      "score": 13
-    },
-    {
-      "id": "c36e0a67b7b786",
-      "category": "Økonomi",
-      "published": "21.10. 09:01",
-      "publishedISO": "2026-10-21T09:01:06+02:00",
-      "title": "Fredriksen-aksje stupte etter utbytte-pause",
-      "summary": "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent. Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid. Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
-      "keyPoints": [
-        "Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid.",
-        "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent.",
-        "Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
-        "Omsetningen i tredje kvartal var rundt 268 millioner dollar, går det også frem av handelsoppdateringen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/4OgnLG/dnb-stiger-2-5-prosent-paa-oslo-boers-etter-tallslipp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ec2782a6-d449-3b2f-937e-c26c9274d68c?fit=crop&h=675&upscale=true&w=1200&s=3101c4e51c0d4b7f1fac2806239c70e74ebb2dca",
-      "localImage": "assets/news/c36e0a67b7b786.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
