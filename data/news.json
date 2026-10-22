@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.10.2026 kl. 18:00",
-  "updatedISO": "2026-10-22T18:00:09.412460+02:00",
+  "updatedAt": "22.10.2026 kl. 21:56",
+  "updatedISO": "2026-10-22T21:56:58.077491+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/FG8WyjlI5QoPJk0hwiAwygMRW9fq8isoCxYgKDp9_a2w.png",
       "localImage": "assets/news/5068ff150be706.png",
-      "score": 13
+      "score": 12
     },
     {
-      "id": "e5390217bc0dea",
+      "id": "ff3f9e577d6ae0",
       "category": "Norge",
-      "published": "22.10. 17:01",
-      "publishedISO": "2026-10-22T17:01:09+02:00",
-      "title": "Fergen havnet i småbåthavna: – Teknisk svikt",
-      "summary": "Fergen havnet inn i småbåthavna like ved fergekaia på Breivikeidet utenfor Tromsø. Rederiet Norled ble varslet om hendelsen klokken 13.50. – Mannskapet rapporterte om teknisk svikt i forkant. Skipet ble bestilt for en stund siden fra Tromsø, og vi regner med at det er fremme litt over klokken 18, sier Gjertsen. – Det vet vi ikke, men vi må undersøke fergen når den har kommet av grunn.",
+      "published": "22.10. 20:12",
+      "publishedISO": "2026-10-22T20:12:17+02:00",
+      "title": "WSJ: Trump skal ha ringt Musk og bedt ham oppheve Starlink-begrensning",
+      "summary": "Flere ikke navngitte kilder har oppgitt til The Wall Street Journal at Musk selv beordret begrensingen av Ukrainas tilgang til Starlink. Men avisen skrev også tidligere i uka at Musk og Trump diskuterte saken på forhånd, og Zelenskyj har oppgitt at det var amerikanske myndigheter som ga ordre om å blokkere nettverket en periode. Donald Trump ble innsatt som USAs 47. president 20. januar 2025.",
       "keyPoints": [
-        "Fergen havnet inn i småbåthavna like ved fergekaia på Breivikeidet utenfor Tromsø.",
-        "Rederiet Norled ble varslet om hendelsen klokken 13.50. – Mannskapet rapporterte om teknisk svikt i forkant.",
-        "Skipet ble bestilt for en stund siden fra Tromsø, og vi regner med at det er fremme litt over klokken 18, sier Gjertsen. – Det vet vi ikke, men vi må undersøke fergen når den har kommet av grunn.",
-        "Fergen «MF Folkestad» gikk på grunn i småbåthavnen på Breivikeidet torsdag."
+        "Men avisen skrev også tidligere i uka at Musk og Trump diskuterte saken på forhånd, og Zelenskyj har oppgitt at det var amerikanske myndigheter som ga ordre om å blokkere nettverket en periode.",
+        "Flere ikke navngitte kilder har oppgitt til The Wall Street Journal at Musk selv beordret begrensingen av Ukrainas tilgang til Starlink.",
+        "Donald Trump ble innsatt som USAs 47. president 20. januar 2025.",
+        "Starlink er eid av Elon Musk, som er sjef for Tesla og SpaceX."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/fergen-havnet-i-smabathavna_-_-teknisk-svikt-1.18062126",
+      "url": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/qgBof5vz7gQQeBsup1IKDgRnkGG9FuDwa-fWRmu3sCrQ.jpg",
-      "localImage": "assets/news/e5390217bc0dea.jpg",
-      "score": 17
+      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
+      "localImage": "assets/news/ff3f9e577d6ae0.jpg",
+      "score": 21
     },
     {
       "id": "93b034c09bcc8a",
@@ -64,28 +64,91 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f7497781-997c-3c1b-835d-9ffa89b9e038?fit=crop&h=675&upscale=true&w=1200&s=89300b5c35757db0a87c9048f9a70a0d5cb57407",
       "localImage": "assets/news/93b034c09bcc8a.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "c36e0a67b7b786",
+      "id": "989de8947a99db",
       "category": "Økonomi",
-      "published": "21.10. 09:01",
-      "publishedISO": "2026-10-21T09:01:06+02:00",
-      "title": "Fredriksen-aksje stupte etter utbytte-pause",
-      "summary": "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent. Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid. Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
+      "published": "22.10. 20:57",
+      "publishedISO": "2026-10-22T20:57:55+02:00",
+      "title": "Bobilkonkurs: 21 ansatte rammes",
+      "summary": "Ibobil ble etablert i 2014 og har på et tidspunkt hatt 31 ansatte, ifølge proff.no. I 2022 ble virksomheten en del av Bobilkjeden Norge AS, på tidspunktet den fjerde største bobilkjeden i Norge, med Trondheim-selskapet Arve Opsahl AS i førersetet, ifølge Bobilverden.no. Det var 21 ansatte i selskapet, fremgår det av oppudsbegjæringen.",
       "keyPoints": [
-        "Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid.",
-        "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent.",
-        "Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
-        "Omsetningen i tredje kvartal var rundt 268 millioner dollar, går det også frem av handelsoppdateringen."
+        "Ibobil ble etablert i 2014 og har på et tidspunkt hatt 31 ansatte, ifølge proff.no.",
+        "Det var 21 ansatte i selskapet, fremgår det av oppudsbegjæringen.",
+        "I 2022 ble virksomheten en del av Bobilkjeden Norge AS, på tidspunktet den fjerde største bobilkjeden i Norge, med Trondheim-selskapet Arve Opsahl AS i førersetet, ifølge Bobilverden.no.",
+        "Bostyrer Bjørn August Krane opplyser at Ibobil etterlater seg en gjeld på 26 millioner kroner, ifølge kjennelsen fra tingretten."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/4OgnLG/dnb-stiger-2-5-prosent-paa-oslo-boers-etter-tallslipp",
+      "url": "https://e24.no/naeringsliv/i/b84n8q/bobilkonkurs-21-ansatte-rammes",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ec2782a6-d449-3b2f-937e-c26c9274d68c?fit=crop&h=675&upscale=true&w=1200&s=3101c4e51c0d4b7f1fac2806239c70e74ebb2dca",
-      "localImage": "assets/news/c36e0a67b7b786.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/23920269-0375-38f1-af5b-b7a8e7c53808?fit=crop&h=675&upscale=true&w=1200&s=dcb1ec169590717bd7862a53185ecf4eef845dfd",
+      "localImage": "assets/news/989de8947a99db.jpg",
+      "score": 13
+    },
+    {
+      "id": "e5390217bc0dea",
+      "category": "Norge",
+      "published": "22.10. 17:01",
+      "publishedISO": "2026-10-22T17:01:09+02:00",
+      "title": "Fergen havnet i småbåthavna: – Teknisk svikt",
+      "summary": "Fergen «MF Folkestad» gikk på grunn i småbåthavnen på Breivikeidet torsdag. Fergen kjørte inn i småbåthavna like ved fergekaia på Breivikeidet utenfor Tromsø. Renate Brox var passasjer på fergen som grunnstøtte. – Mannskapet rapporterte om teknisk svikt i forkant.",
+      "keyPoints": [
+        "Renate Brox var passasjer på fergen som grunnstøtte. – Mannskapet rapporterte om teknisk svikt i forkant.",
+        "Fergen kjørte inn i småbåthavna like ved fergekaia på Breivikeidet utenfor Tromsø.",
+        "Fergen «MF Folkestad» gikk på grunn i småbåthavnen på Breivikeidet torsdag.",
+        "Skipet ble bestilt for en stund siden fra Tromsø, og vi regner med at det er fremme litt over klokken 18, sier Gjertsen. – Det vet vi ikke, men vi må undersøke fergen når den har kommet av grunn."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/fergen-havnet-i-smabathavna_-_-teknisk-svikt-1.18062126",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/qgBof5vz7gQQeBsup1IKDgRnkGG9FuDwa-fWRmu3sCrQ.jpg",
+      "localImage": "assets/news/e5390217bc0dea.jpg",
+      "score": 17
+    },
+    {
+      "id": "bf2766ac3b7fec",
+      "category": "Norge",
+      "published": "22.10. 20:21",
+      "publishedISO": "2026-10-22T20:21:47+02:00",
+      "title": "Konsertlokale brant ned: Vil prøve å bygge det opp igjen",
+      "summary": "Stallen på Grosås i Iveland brant ned tirsdag. – Vi grugleder oss. Det sier Arild Tørresen og Anne May Grosås, som har lagt ned mange timer for å skape Stallen på Grosås i Iveland. Arild Tørresen og Anne May Grosås vil gjerne forsøke å bygge opp stedet igjen.",
+      "keyPoints": [
+        "Arild Tørresen og Anne May Grosås vil gjerne forsøke å bygge opp stedet igjen.",
+        "Stallen på Grosås i Iveland brant ned tirsdag. – Vi grugleder oss.",
+        "Det sier Arild Tørresen og Anne May Grosås, som har lagt ned mange timer for å skape Stallen på Grosås i Iveland.",
+        "Sambygding Harald Eikeland sier at folk kommer til å stå på for å bygge et nytt konsertsted på Grosås. – Tirsdag var en ufattelig trist dag for mange."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/konsertlokale-brant-ned_-vil-prove-a-bygge-det-opp-igjen-1.18061586",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/tl2YL7o3C8EgP3iluEhAsAwLsww6t5cAgjYKNdSKO8xA.jpg",
+      "localImage": "assets/news/bf2766ac3b7fec.jpg",
+      "score": 13
+    },
+    {
+      "id": "dc55bbb3f0f378",
+      "category": "Norge",
+      "published": "22.10. 18:11",
+      "publishedISO": "2026-10-22T18:11:39+02:00",
+      "title": "Politi­aksjon ved nedlagt fengsel i Nord-Odal",
+      "summary": "Torsdag kveld går det føre seg ein politiaksjon ved gamle Bruvoll fengsel i Nord-Odal. Det var torsdag føremiddag at politiet gjekk til aksjon ved det nedlagde Bruvoll fengsel i Nord-Odal i Innlandet. Det stadfestar politiadvokat Ingrid Hærem i Øst politidistrikt i ein e-post til NRK: – Øst politidistrikt har i dag gjennomført ein planlagd aksjon mot gamle Bruvoll fengsel i Nord-Odal, og det blir no gjennomført kriminaltekniske undersøkingar på staden.",
+      "keyPoints": [
+        "Det stadfestar politiadvokat Ingrid Hærem i Øst politidistrikt i ein e-post til NRK: – Øst politidistrikt har i dag gjennomført ein planlagd aksjon mot gamle Bruvoll fengsel i Nord-Odal, og det blir no gjennomført kriminaltekniske undersøkingar på staden.",
+        "Det var torsdag føremiddag at politiet gjekk til aksjon ved det nedlagde Bruvoll fengsel i Nord-Odal i Innlandet.",
+        "Torsdag kveld går det føre seg ein politiaksjon ved gamle Bruvoll fengsel i Nord-Odal.",
+        "Gamle Bruvoll fengsel vart bygd som leir for sivilforsvaret, men var i drift som fengsel frå 2006."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/politiaksjon-ved-nedlagt-fengsel-i-nord-odal-1.18062183",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Yc2pnTF4LQ9VkF8RR8ervwIA2IpRdYf6ZDvgaeW3pfvA.jpg",
+      "localImage": "assets/news/dc55bbb3f0f378.jpg",
+      "score": 13
     },
     {
       "id": "d33a9d026959a9",
@@ -95,8 +158,8 @@
       "title": "Julie og Norah Sand-Hanssen følger omstridt oppskrift for å bli best – forsker advarer",
       "summary": "Julie og Norah Sand-Hanssen (20) benytter seg av en metode som stadig blir mer populær blant langrennsutøvere. LANGRENNSTVILLINGER: Norah og Julie Sand-Hanssen har allerede flere års erfaring med å trene i høyden. – Vi liker det utrolig godt, og merker at kroppene våre responderer bra på høyden, sier Julie Sand-Hanssen. Julie og Norah Sand-Hanssen på en rulleskiøkt i Flagstaff.",
       "keyPoints": [
-        "LANGRENNSTVILLINGER: Norah og Julie Sand-Hanssen har allerede flere års erfaring med å trene i høyden. – Vi liker det utrolig godt, og merker at kroppene våre responderer bra på høyden, sier Julie Sand-Hanssen.",
         "Julie og Norah Sand-Hanssen (20) benytter seg av en metode som stadig blir mer populær blant langrennsutøvere.",
+        "LANGRENNSTVILLINGER: Norah og Julie Sand-Hanssen har allerede flere års erfaring med å trene i høyden. – Vi liker det utrolig godt, og merker at kroppene våre responderer bra på høyden, sier Julie Sand-Hanssen.",
         "Julie og Norah Sand-Hanssen på en rulleskiøkt i Flagstaff.",
         "Norah og Julie Sand-Hanssen bor i Lillehammer og har tilgang på den flotte Birkebeineren skistadion."
       ],
@@ -130,87 +193,24 @@
       "score": 13
     },
     {
-      "id": "ae3be5cf18d22f",
-      "category": "Norge",
-      "published": "22.10. 16:03",
-      "publishedISO": "2026-10-22T16:03:01+02:00",
-      "title": "Flere trekker seg fra arbeidsgruppe om barneavdelingen SNR – mener utfallet er bestemt på forhånd",
-      "summary": "Flere har trukket seg fra gruppen som skal vurdere fremtiden til barneavdelingen på Hjelset. Tillitsvalgt Tonje Solli Strand mener utfallet virker bestemt på forhånd. Som en del av arbeidet er det satt ned en arbeidsgruppe som skal vurdere om barneavdelingen fortsatt skal være døgnåpen, eller om den skal gjøres om til et dagtilbud.",
-      "keyPoints": [
-        "Tillitsvalgt Tonje Solli Strand mener utfallet virker bestemt på forhånd.",
-        "Som en del av arbeidet er det satt ned en arbeidsgruppe som skal vurdere om barneavdelingen fortsatt skal være døgnåpen, eller om den skal gjøres om til et dagtilbud.",
-        "Flere har trukket seg fra gruppen som skal vurdere fremtiden til barneavdelingen på Hjelset.",
-        "Tonje Solli Strand mener det er en viktig signaleffekt for både pasientene de snakker for og deres pårørende og til politikere at de trekker seg."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/flere-trekker-seg-fra-arbeidsgruppe-om-barneavdelingen-snr-_-mener-utfallet-er-bestemt-pa-forhand-1.18061519",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/cIM0qFyNWhnGurjrTQMT_AykO4YcZPiiwJxwwrleftqw.jpg",
-      "localImage": "assets/news/ae3be5cf18d22f.jpg",
-      "score": 13
-    },
-    {
-      "id": "12a6b1df8347f1",
-      "category": "Norge",
-      "published": "22.10. 16:02",
-      "publishedISO": "2026-10-22T16:02:18+02:00",
-      "title": "Lengst ventetid i landet: No tar UNN grep",
-      "summary": "Universitetssjukehuset Nord-Noreg (UNN) har hatt som praksis at kvinner må vente til svangerskapsveke ni før dei får abort. Universitetsykehuset Nord-Noreg (UNN) har hatt lengst ventetid i landet. Overlege og avdelingsleiar ved Kvinneklinikken på UNN, Ingard Nilsen, varslar at sjukehuset no vil endre sin abortpraksis slik at kvinner i nord får tilbod om tidlegare abort.",
-      "keyPoints": [
-        "Universitetsykehuset Nord-Noreg (UNN) har hatt lengst ventetid i landet.",
-        "Universitetssjukehuset Nord-Noreg (UNN) har hatt som praksis at kvinner må vente til svangerskapsveke ni før dei får abort.",
-        "Overlege og avdelingsleiar ved Kvinneklinikken på UNN, Ingard Nilsen, varslar at sjukehuset no vil endre sin abortpraksis slik at kvinner i nord får tilbod om tidlegare abort.",
-        "Særleg i nord har ventetida vore lange samanlikna med andre helseføretak. – Eg må jo seie at det at NRK belyste dette, gjorde at eg fekk eit spark bak, seier Ingard Nilsen, overlege og avdelingsleiar ved Kvinneklinikken på UNN i Tromsø."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/lengst-ventetid-i-landet_-no-tar-unn-grep-1.18061967",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/r5e9vNLQrlTstMLd7vHT0wesUgS5wUgya9lehMChCkXQ.jpg",
-      "localImage": "assets/news/12a6b1df8347f1.jpg",
-      "score": 13
-    },
-    {
-      "id": "43d32114e549c9",
+      "id": "c36e0a67b7b786",
       "category": "Økonomi",
-      "published": "22.10. 15:53",
-      "publishedISO": "2026-10-22T15:53:20+02:00",
-      "title": "Ungarns tidligere sentralbanksjef arrestert",
-      "summary": "Ungarsk påtalemyndighet arresterte onsdag tidligere sentralbanksjef György Matolcsy, ifølge Financial Times (FT). Han sitter nå i varetekt sammen med flere andre personer og er den høyest rangerte personen som har blitt fengslet i forbindelse med etterforskning av korrupsjonsanklager mot tidligere statsminister Viktor Orbán. Matolcsy fungerte som Ungarns sentralbanksjef fra 2013 til 2025. – Min klient er mistenkt for økonomisk bedrageri som forårsaker betydelig økonomisk tap og forseelse ved bruk av et forfalsket privat dokument, sier Matolcsys forsvarer, Pál Bátki til den ungarske avisen Telex, ifølge Euronews.",
+      "published": "21.10. 09:01",
+      "publishedISO": "2026-10-21T09:01:06+02:00",
+      "title": "Fredriksen-aksje stupte etter utbytte-pause",
+      "summary": "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent. Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid. Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
       "keyPoints": [
-        "Matolcsy fungerte som Ungarns sentralbanksjef fra 2013 til 2025. – Min klient er mistenkt for økonomisk bedrageri som forårsaker betydelig økonomisk tap og forseelse ved bruk av et forfalsket privat dokument, sier Matolcsys forsvarer, Pál Bátki til den ungarske avisen Telex, ifølge Euronews.",
-        "Ungarsk påtalemyndighet arresterte onsdag tidligere sentralbanksjef György Matolcsy, ifølge Financial Times (FT).",
-        "Han sitter nå i varetekt sammen med flere andre personer og er den høyest rangerte personen som har blitt fengslet i forbindelse med etterforskning av korrupsjonsanklager mot tidligere statsminister Viktor Orbán.",
-        "Den ungarske sentralbanken MNBMagyar Nemzeti Bank investerte mer enn 1,5 milliarder euro i inntekter fra en valutavekslingsordning som kom flere nære medarbeidere av Matolcsy til gode, skriver FT som viser til undersøkelser utført av den ungarske statsrevisjonen og sentralbanken selv."
+        "Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid.",
+        "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent.",
+        "Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
+        "Omsetningen i tredje kvartal var rundt 268 millioner dollar, går det også frem av handelsoppdateringen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/BMqkll/ungarns-tidligere-sentralbanksjef-arrestert",
+      "url": "https://e24.no/boers-og-finans/i/4OgnLG/dnb-stiger-2-5-prosent-paa-oslo-boers-etter-tallslipp",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/16c856e0-015c-34a7-9f5a-ee6f2e97e72a?fit=crop&h=675&upscale=true&w=1200&s=1b2e59f688bf825bf448e990a22229155b8f80af",
-      "localImage": "assets/news/43d32114e549c9.jpg",
-      "score": 13
-    },
-    {
-      "id": "7607d930c6ae5f",
-      "category": "Norge",
-      "published": "22.10. 15:25",
-      "publishedISO": "2026-10-22T15:25:28+02:00",
-      "title": "Andreas Arff blir utfordra som Frp-topp",
-      "summary": "Tre lokallag vil erstatte dagens gruppeleiar Andreas Arff med Flekkefjord-ordførar Torbjørn Klungland. Også i eiga gruppe i fylkestinget er det to representantar som heller vil ha Torbjørn Klungland. – Det er sunt at det er kamp om plassane, og det er ein naturleg del av ein nominasjonsprosess, seier Andreas Arff, gruppeleiar for Frp på fylkestinget i Agder. Andreas Arff er innstilt av nominasjonskomitéen på plass nummer to, men blir utfordra av Torbjørn Klungland som er ordførar i Flekkefjord.",
-      "keyPoints": [
-        "Andreas Arff er innstilt av nominasjonskomitéen på plass nummer to, men blir utfordra av Torbjørn Klungland som er ordførar i Flekkefjord.",
-        "Også i eiga gruppe i fylkestinget er det to representantar som heller vil ha Torbjørn Klungland. – Det er sunt at det er kamp om plassane, og det er ein naturleg del av ein nominasjonsprosess, seier Andreas Arff, gruppeleiar for Frp på fylkestinget i Agder.",
-        "Tre lokallag vil erstatte dagens gruppeleiar Andreas Arff med Flekkefjord-ordførar Torbjørn Klungland.",
-        "Steinar Rørvik meiner Klungland er betre eigna enn Arff. – Klungland er ein svært dyktig politikar som har god kontakt med dei andre partia og eit særs godt grunnlag for å skape eit omforent miljø i Agder fylkesting."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/andreas-arff-blir-utfordra-som-frp-topp-1.18061807",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/zEZnpTvwM3DY5JkN3RDGeAcbyk6iwJl2Z4yeLrMPLziQ.jpg",
-      "localImage": "assets/news/7607d930c6ae5f.jpg",
+      "image": "https://akamai.vgc.no/v2/images/ec2782a6-d449-3b2f-937e-c26c9274d68c?fit=crop&h=675&upscale=true&w=1200&s=3101c4e51c0d4b7f1fac2806239c70e74ebb2dca",
+      "localImage": "assets/news/c36e0a67b7b786.jpg",
       "score": 13
     }
   ]
