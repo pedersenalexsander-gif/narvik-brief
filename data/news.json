@@ -1,6 +1,6 @@
 {
-  "updatedAt": "22.10.2026 kl. 00:24",
-  "updatedISO": "2026-10-22T00:24:24.996407+02:00",
+  "updatedAt": "22.10.2026 kl. 02:53",
+  "updatedISO": "2026-10-22T02:53:14.027262+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Bc1zaFNuAnpJx7iouSaCugCdHTbcCBKA-piPElTR42Gg.jpg",
       "localImage": "assets/news/dc67f4c3b44104.webp",
-      "score": 14
+      "score": 13
     },
     {
       "id": "adf9b857e5cc25",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f7497781-997c-3c1b-835d-9ffa89b9e038?fit=crop&h=675&upscale=true&w=1200&s=89300b5c35757db0a87c9048f9a70a0d5cb57407",
       "localImage": "assets/news/93b034c09bcc8a.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "c36e0a67b7b786",
@@ -127,27 +127,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/48c3ecde-362a-3ced-9d5c-3b5b2def3c1e?fit=crop&h=675&upscale=true&w=1200&s=50c6a8ef1b26f14950b0dbfd2cb5e429f2f7281f",
       "localImage": "assets/news/22fa8c528993d7.jpg",
-      "score": 14
-    },
-    {
-      "id": "fe1259085d4b8b",
-      "category": "Norge",
-      "published": "20.10. 14:45",
-      "publishedISO": "2026-10-20T14:45:21+02:00",
-      "title": "EU vil la oljen i Arktis ligge",
-      "summary": "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner». Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis ettersom Russland gjenoppbygger sitt militære nærvær der. Von der Leyen understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord angår hele Europa direkte. – Arktis er et sted hvor geopolitikkens tektoniske plater kolliderer.",
-      "keyPoints": [
-        "Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis ettersom Russland gjenoppbygger sitt militære nærvær der.",
-        "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner».",
-        "Von der Leyen understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord angår hele Europa direkte. – Arktis er et sted hvor geopolitikkens tektoniske plater kolliderer.",
-        "Nordområdene er i norsk politikk en betegnelse på det sirkumpolare Arktis (mellom Nordpolen og polarsirkelen), inkludert Barentsregionen og Barentshavområdet (Wikipedia)."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
-      "localImage": "assets/news/fe1259085d4b8b.jpg",
       "score": 14
     },
     {
@@ -211,6 +190,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/105fe0f1-9627-3e72-962a-45c63e259882?fit=crop&h=675&upscale=true&w=1200&s=5e83acaaf702dc860156b6e1e19e8a8122655d9e",
       "localImage": "assets/news/b6f3fb8a6bf7c6.jpg",
+      "score": 13
+    },
+    {
+      "id": "fe1259085d4b8b",
+      "category": "Norge",
+      "published": "20.10. 14:45",
+      "publishedISO": "2026-10-20T14:45:21+02:00",
+      "title": "EU vil la oljen i Arktis ligge",
+      "summary": "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner». Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis ettersom Russland gjenoppbygger sitt militære nærvær der. Von der Leyen understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord angår hele Europa direkte. – Arktis er et sted hvor geopolitikkens tektoniske plater kolliderer.",
+      "keyPoints": [
+        "Hun legger i dag frem EUs nye Arktis-strategi. – Den europeiske union må endre sin strategiske holdning i Arktis ettersom Russland gjenoppbygger sitt militære nærvær der.",
+        "– Den nye EU-strategien for Arktis slår fast at EUs posisjon fortsatt er «å sikre at olje, kull og gass blir værende i bakken, inkludert i arktiske regioner».",
+        "Von der Leyen understreker at den sikkerhetspolitiske og klimamessige utviklingen i nord angår hele Europa direkte. – Arktis er et sted hvor geopolitikkens tektoniske plater kolliderer.",
+        "Nordområdene er i norsk politikk en betegnelse på det sirkumpolare Arktis (mellom Nordpolen og polarsirkelen), inkludert Barentsregionen og Barentshavområdet (Wikipedia)."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/eu-vil-la-oljen-i-arktis-ligge-1.18059832",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
+      "localImage": "assets/news/fe1259085d4b8b.jpg",
       "score": 13
     }
   ]
