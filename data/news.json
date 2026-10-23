@@ -1,8 +1,71 @@
 {
-  "updatedAt": "23.10.2026 kl. 18:42",
-  "updatedISO": "2026-10-23T18:42:52.287132+02:00",
+  "updatedAt": "23.10.2026 kl. 22:08",
+  "updatedISO": "2026-10-23T22:08:15.683617+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "735c7445ec5abe",
+      "category": "Norge",
+      "published": "23.10. 20:25",
+      "publishedISO": "2026-10-23T20:25:35+02:00",
+      "title": "Uvanlig varm oktober i nord: – Kan havne på en pallplass",
+      "summary": "Til tross for snø og mye regn, har oktober i Troms vært uvanlig varm. Se klipp her: Statsmeteorolog, Sigrid Marie Vildskog Auganæs, bekrefter at oktober har vært uvanlig varm. Hittil i oktober har det vært få kraftige lavtrykk som har preget været i Nord-Norge – bortsett fra mandag 19. oktober hvor bruer ble stengt og fly kansellert på grunn av sterk vind. – Vi har fått en del varm luft fra sør, og de fleste lavtrykkene har gått forbi Norge, forteller Auganæs.",
+      "keyPoints": [
+        "Til tross for snø og mye regn, har oktober i Troms vært uvanlig varm.",
+        "Se klipp her: Statsmeteorolog, Sigrid Marie Vildskog Auganæs, bekrefter at oktober har vært uvanlig varm.",
+        "Hittil i oktober har det vært få kraftige lavtrykk som har preget været i Nord-Norge – bortsett fra mandag 19. oktober hvor bruer ble stengt og fly kansellert på grunn av sterk vind. – Vi har fått en del varm luft fra sør, og de fleste lavtrykkene har gått forbi Norge, forteller Auganæs.",
+        "Det er en serie med varme perioder som har holdt gjennomsnittet oppe, forklarer klimaforsker Helga Therese Tilley Tajet, ved Meteorologisk institutt. – Vi har hatt både en varm periode i starten av oktober, og en varm periode nå midt i."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/uvanlig-varm-oktober-i-nord_-_-kan-havne-pa-en-pallplass-1.18062577",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/V-AjfvfS-HWX6TsIleczLwc37SaaTo_yXHxwCauQiHNg.jpg",
+      "localImage": "assets/news/735c7445ec5abe.jpg",
+      "score": 17
+    },
+    {
+      "id": "8ea58f5b360a82",
+      "category": "Økonomi",
+      "published": "23.10. 09:21",
+      "publishedISO": "2026-10-23T09:21:57+02:00",
+      "title": "Volvo Cars kollapset på Stockholm-børsen etter jobbkutt-varsel",
+      "summary": "Aksjen endte til slutt ned 24 prosent på Stockholm-børsen. Volvo venter at de fulle økonomiske effektene av jobbkuttene vil være realisert innen utgangen av 2027, og at selskapets kostnader da vil være nær 25 prosent lavere enn i 2024. – Vi opererer fortsatt i et svært krevende marked med store eksterne utfordringer: deglobalisering, hyperkonkurranse og klimaendringer. Volvo jobber med sin største produktsatsing noensinne og har planlagt 13 nye modeller frem mot 2030.",
+      "keyPoints": [
+        "Volvo venter at de fulle økonomiske effektene av jobbkuttene vil være realisert innen utgangen av 2027, og at selskapets kostnader da vil være nær 25 prosent lavere enn i 2024. – Vi opererer fortsatt i et svært krevende marked med store eksterne utfordringer: deglobalisering, hyperkonkurranse og klimaendringer.",
+        "Aksjen endte til slutt ned 24 prosent på Stockholm-børsen.",
+        "Volvo jobber med sin største produktsatsing noensinne og har planlagt 13 nye modeller frem mot 2030.",
+        "Den kan skilte med over 50.000 bestillinger, og Volvo tror den kan bli en av deres mest lønnsomme modeller."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/MAGpkm/volvo-cars-raser-paa-stockholm-boersen-etter-jobbkutt-varsel",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/75d066c5-42d8-33df-a5ab-1479ac87d15f?fit=crop&h=675&upscale=true&w=1200&s=a2d0cd91cee19276ab0e41232483c0bcefedf909",
+      "localImage": "assets/news/8ea58f5b360a82.jpg",
+      "score": 19
+    },
+    {
+      "id": "2ebf2f69a018ac",
+      "category": "Økonomi",
+      "published": "23.10. 09:02",
+      "publishedISO": "2026-10-23T09:02:11+02:00",
+      "title": "Equinor steg markant på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs endte opp 0,76 prosent fredag. Oljeprisen fortsetter å stige, og i Oslo er det fullt trykk i resultatrushet. Pengene skal brukes til strategiske oppkjøp og muligheter for sammenslåinger og oppkjøp, samt kostnader knyttet den tidligere varslede noteringen av selskapet på børs i USA i tillegg til i Oslo.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs endte opp 0,76 prosent fredag.",
+        "Pengene skal brukes til strategiske oppkjøp og muligheter for sammenslåinger og oppkjøp, samt kostnader knyttet den tidligere varslede noteringen av selskapet på børs i USA i tillegg til i Oslo.",
+        "Oljeprisen fortsetter å stige, og i Oslo er det fullt trykk i resultatrushet.",
+        "Forsikringsinntektene steg til 11,37 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/d7eGvz/hydro-faller-tungt-paa-oslo-boers-etter-tallslipp-tomra-flyr-opp-7-prosent",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fe35dab3-12b4-3b05-ad93-2b0e8717785d?fit=crop&h=675&upscale=true&w=1200&s=9c6d8079cde2ff1504bd90e766370b30bbc46bde",
+      "localImage": "assets/news/2ebf2f69a018ac.jpg",
+      "score": 18
+    },
     {
       "id": "8a9b6134707c18",
       "category": "Norge",
@@ -25,46 +88,25 @@
       "score": 17
     },
     {
-      "id": "509ef1038256c3",
+      "id": "f5129692c266f4",
       "category": "Økonomi",
-      "published": "23.10. 09:21",
-      "publishedISO": "2026-10-23T09:21:57+02:00",
-      "title": "Volvo Cars kollapser på Stockholm-børsen etter jobbkutt-varsel",
-      "summary": "Nyheten sender aksjen ned nesten 30 prosent på Stockholm-børsen i 10-tiden. Volvo venter at de fulle økonomiske effektene av jobbkuttene vil være realisert innen utgangen av 2027, og at selskapets kostnader da vil være nær 25 prosent lavere enn i 2024. – Vi opererer fortsatt i et svært krevende marked med store eksterne utfordringer: deglobalisering, hyperkonkurranse og klimaendringer. Volvo jobber med sin største produktsatsing noensinne og har planlagt 13 nye modeller frem mot 2030.",
+      "published": "23.10. 18:30",
+      "publishedISO": "2026-10-23T18:30:30+02:00",
+      "title": "Oljeprisen høyeste siden mars etter økt Midtøsten-spenning",
+      "summary": "Oljeprisen fortsetter å stige mens krigen mellom USA og Iran går mot sin niende måned, og angrepene mot Saudi-Arabia trappes opp. Brent spotprisen har fredag vært oppe på 117,37 dollar fatet, en oppgang på litt over 3,90 prosent siden midnatt. Det er det høyeste nivået siden 19. mars, da prisen lå på 119,07 dollar fatet, ifølge datalevendøren Infront.",
       "keyPoints": [
-        "Volvo venter at de fulle økonomiske effektene av jobbkuttene vil være realisert innen utgangen av 2027, og at selskapets kostnader da vil være nær 25 prosent lavere enn i 2024. – Vi opererer fortsatt i et svært krevende marked med store eksterne utfordringer: deglobalisering, hyperkonkurranse og klimaendringer.",
-        "Nyheten sender aksjen ned nesten 30 prosent på Stockholm-børsen i 10-tiden.",
-        "Volvo jobber med sin største produktsatsing noensinne og har planlagt 13 nye modeller frem mot 2030.",
-        "Den kan skilte med over 50.000 bestillinger, og Volvo tror den kan bli en av deres mest lønnsomme modeller."
+        "Det er det høyeste nivået siden 19. mars, da prisen lå på 119,07 dollar fatet, ifølge datalevendøren Infront.",
+        "Brent spotprisen har fredag vært oppe på 117,37 dollar fatet, en oppgang på litt over 3,90 prosent siden midnatt.",
+        "Oljeprisen fortsetter å stige mens krigen mellom USA og Iran går mot sin niende måned, og angrepene mot Saudi-Arabia trappes opp.",
+        "Prisen på nordsjøolje stiger kraftig etter økt militær aktivitet og angrep i regionen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/MAGpkm/volvo-cars-raser-paa-stockholm-boersen-etter-jobbkutt-varsel",
+      "url": "https://e24.no/boers-og-finans/i/mK2AbO/oljeprisen-hoeyeste-siden-mars-etter-oekt-midtoesten-spenning",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/75d066c5-42d8-33df-a5ab-1479ac87d15f?fit=crop&h=675&upscale=true&w=1200&s=a2d0cd91cee19276ab0e41232483c0bcefedf909",
-      "localImage": "assets/news/509ef1038256c3.jpg",
-      "score": 20
-    },
-    {
-      "id": "2ebf2f69a018ac",
-      "category": "Økonomi",
-      "published": "23.10. 09:02",
-      "publishedISO": "2026-10-23T09:02:11+02:00",
-      "title": "Equinor steg markant på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs endte opp 0,76 prosent fredag. Oljeprisen fortsetter å stige, og i Oslo er det fullt trykk i resultatrushet. Pengene skal brukes til strategiske oppkjøp og muligheter for sammenslåinger og oppkjøp, samt kostnader knyttet den tidligere varslede noteringen av selskapet på børs i USA i tillegg til i Oslo.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs endte opp 0,76 prosent fredag.",
-        "Pengene skal brukes til strategiske oppkjøp og muligheter for sammenslåinger og oppkjøp, samt kostnader knyttet den tidligere varslede noteringen av selskapet på børs i USA i tillegg til i Oslo.",
-        "Oljeprisen fortsetter å stige, og i Oslo er det fullt trykk i resultatrushet.",
-        "Forsikringsinntektene steg til 11,37 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/d7eGvz/hydro-faller-tungt-paa-oslo-boers-etter-tallslipp-tomra-flyr-opp-7-prosent",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/fe35dab3-12b4-3b05-ad93-2b0e8717785d?fit=crop&h=675&upscale=true&w=1200&s=9c6d8079cde2ff1504bd90e766370b30bbc46bde",
-      "localImage": "assets/news/2ebf2f69a018ac.jpg",
-      "score": 19
+      "image": "https://akamai.vgc.no/v2/images/61992d37-5fcc-3752-8011-9038621e2705?fit=crop&h=675&upscale=true&w=1200&s=7f35e5b0141ff45e4fbcf73fe4ea27aea743c683",
+      "localImage": "assets/news/f5129692c266f4.jpg",
+      "score": 16
     },
     {
       "id": "ff3f9e577d6ae0",
@@ -85,27 +127,6 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/ff3f9e577d6ae0.jpg",
-      "score": 17
-    },
-    {
-      "id": "f5129692c266f4",
-      "category": "Økonomi",
-      "published": "23.10. 18:30",
-      "publishedISO": "2026-10-23T18:30:30+02:00",
-      "title": "Oljeprisen høyeste siden mars etter økt Midtøsten-spenning",
-      "summary": "Oljeprisen fortsetter å stige mens krigen mellom USA og Iran går mot sin niende måned, og angrepene mot Saudi-Arabia trappes opp. Brent spotprisen har fredag vært oppe på 117,37 dollar fatet, en oppgang på litt over 3,90 prosent siden midnatt. Det er det høyeste nivået siden 19. mars, da prisen lå på 119,07 dollar fatet.",
-      "keyPoints": [
-        "Det er det høyeste nivået siden 19. mars, da prisen lå på 119,07 dollar fatet.",
-        "Brent spotprisen har fredag vært oppe på 117,37 dollar fatet, en oppgang på litt over 3,90 prosent siden midnatt.",
-        "Oljeprisen fortsetter å stige mens krigen mellom USA og Iran går mot sin niende måned, og angrepene mot Saudi-Arabia trappes opp.",
-        "Prisen på nordsjøolje stiger kraftig etter økt militær aktivitet og angrep i regionen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/mK2AbO/oljeprisen-hoeyeste-siden-mars-etter-oekt-midtoesten-spenning",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/61992d37-5fcc-3752-8011-9038621e2705?fit=crop&h=675&upscale=true&w=1200&s=7f35e5b0141ff45e4fbcf73fe4ea27aea743c683",
-      "localImage": "assets/news/f5129692c266f4.jpg",
       "score": 16
     },
     {
@@ -127,90 +148,69 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/445ea3e4-8891-3cfe-b5cc-2a240e9df764?fit=crop&h=675&upscale=true&w=1200&s=4a4261e3e94bace0f1bce436ba34e26fed2c8a4e",
       "localImage": "assets/news/3b8b7c7317152d.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "f0831e8ef9c47c",
-      "category": "Økonomi",
-      "published": "23.10. 07:01",
-      "publishedISO": "2026-10-23T07:01:57+02:00",
-      "title": "Gjensidige-aksjen stiger etter «veldig sterkt resultat»",
-      "summary": "Forsikringsselskapet leverte langt høyere resultat enn ventet. Gjensidige-aksjen stiger 1,7 prosent i tidlig handel på Oslo Børs etter tallslippet for tredje kvartal. Analytiker Hans Rettedal Christiansen i Danske Bank skriver i et notat at Gjensidige leverte et «veldig sterkt resultat» i kvartalet.",
-      "keyPoints": [
-        "Analytiker Hans Rettedal Christiansen i Danske Bank skriver i et notat at Gjensidige leverte et «veldig sterkt resultat» i kvartalet.",
-        "Gjensidige-aksjen stiger 1,7 prosent i tidlig handel på Oslo Børs etter tallslippet for tredje kvartal.",
-        "Forsikringsselskapet leverte langt høyere resultat enn ventet.",
-        "Han viser blant annet til at resultatet fra forsikringsvirksomheten var 18 prosent høyere enn konsensus blant analytikerne. – Estimatene bør gå opp med 4-5 prosent for 2027 på den positive overraskelsen, og vi venter at aksjen vil stige i tråd med dette, skriver analytikeren."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/eGx37M/gjensidige-oekte-overskuddet-i-tredje-kvartal-tjente-2-78-milliarder-foer-skatt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4040e2cc-8743-30b6-a12a-d8d3e45e69ea?fit=crop&h=675&upscale=true&w=1200&s=ddc343040a7508eb2034f2f19c41220860db4882",
-      "localImage": "assets/news/f0831e8ef9c47c.jpg",
-      "score": 14
-    },
-    {
-      "id": "e0bff171487188",
+      "id": "e31fdd91157adb",
       "category": "Norge",
-      "published": "23.10. 16:18",
-      "publishedISO": "2026-10-23T16:18:41+02:00",
-      "title": "Brann i hus på Vestvågøy: Person til sykehus",
-      "summary": "OVERTENT: Huset som ligger på Vestvågøy var overtent da nødetatene kom til stedet. Like før klokken tre fikk politiet melding om brann i bygning på Vestvågøy i Leknes. Huset som ligger på Vestvågøy var overtent da nødetatene kom til stedet.",
+      "published": "23.10. 20:14",
+      "publishedISO": "2026-10-23T20:14:39+02:00",
+      "title": "Memona skal representere Norge i «Mrs. World»",
+      "summary": "På nyåret skal Memona Luokkanen representere Norge i «Mrs. World». • Memona Luokkanen skal representere Norge i Mrs. I januar pakker hun kofferten og drar til Las Vegas for å representere Norge i kåringen «Mrs.",
       "keyPoints": [
-        "Like før klokken tre fikk politiet melding om brann i bygning på Vestvågøy i Leknes.",
-        "OVERTENT: Huset som ligger på Vestvågøy var overtent da nødetatene kom til stedet.",
-        "Det er mye røyk fra brannen og beboere i nærheten bør holde vinduer lukket og holde seg innendørs for å unngå å bli eksponert for røyk.",
-        "Bygget var overtent da nødetatene kom til stedet. – Per nå ser det ut som at bygget ikke kan reddes."
+        "World». • Memona Luokkanen skal representere Norge i Mrs.",
+        "I januar pakker hun kofferten og drar til Las Vegas for å representere Norge i kåringen «Mrs.",
+        "Memona Luokkanen forteller at det aldri var hennes intensjon å delta i konkurransen, men at hun ble oppfordret av den nasjonale direktøren. – Det var noe som jeg har aldri tenkt på før.",
+        "Mens tradisjonelle missekåringene har strenge aldersgrenser og krav om å være ugift, feirer «Mrs."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/brann-i-hus-i-vestvagoy-1.18063237",
+      "url": "https://www.nrk.no/sorlandet/memona-skal-representere-norge-i-_mrs.-world_-1.18062600",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/46NgekRQM0Pj__P-IsfHJgFzBfdl-YrZSYLH7Q7G-J-g",
-      "localImage": "assets/news/e0bff171487188.jpg",
+      "image": "https://gfx.nrk.no/IPcCtZCNQzb-PAbrREF3AAjwkfSPq4UBok1JHOAHNiEw.jpg",
+      "localImage": "assets/news/e31fdd91157adb.webp",
       "score": 13
     },
     {
-      "id": "5d6b0bbee9c14f",
+      "id": "2ccb013cf2e5e7",
       "category": "Norge",
-      "published": "23.10. 16:13",
-      "publishedISO": "2026-10-23T16:13:01+02:00",
-      "title": "Åtte personer er pågrepet etter aksjonen på tidligere fengsel i Nord-Odal",
-      "summary": "POLITIAKSJON: Åtte personer er pågrepet etter den planlagte aksjonen på tidligere Bruvoll fengsel. Fredag sier Øst politidistrikt til NRK at de har pågrepet åtte personer. – På adressen avdekket vi en større hasjplantasje, og i anledning saken ble åtte personer pågrepet. Ingrid Hærem, politiadvokat i Øst politidistrikt, sier de setter store ressurser inn på saken, der åtte personer er pågrepet.",
+      "published": "23.10. 19:34",
+      "publishedISO": "2026-10-23T19:34:37+02:00",
+      "title": "Stans i togtrafikken gjennom Oslo",
+      "summary": "Ein stans i togtrafikken har ført til kaos i Oslo sentrum. Alle toglinjer som går gjennom Oslo sentrum vart råka av stansen fredag. Klokka 20:25 meldte VY at togtrafikken igjen var opna gjennom sentrum. – Men det kan bli følgeforseinkingar.",
       "keyPoints": [
-        "POLITIAKSJON: Åtte personer er pågrepet etter den planlagte aksjonen på tidligere Bruvoll fengsel.",
-        "Fredag sier Øst politidistrikt til NRK at de har pågrepet åtte personer. – På adressen avdekket vi en større hasjplantasje, og i anledning saken ble åtte personer pågrepet.",
-        "Ingrid Hærem, politiadvokat i Øst politidistrikt, sier de setter store ressurser inn på saken, der åtte personer er pågrepet.",
-        "I kjennelsen fra Romerike og Glåmdal tingrett kommer det fram at sju personer ble pågrepet direkte på stedet politiet aksjonerte."
+        "Ein stans i togtrafikken har ført til kaos i Oslo sentrum.",
+        "Klokka 20:25 meldte VY at togtrafikken igjen var opna gjennom sentrum. – Men det kan bli følgeforseinkingar.",
+        "Alle toglinjer som går gjennom Oslo sentrum vart råka av stansen fredag.",
+        "Eit stort antal drosjer har køyrd til Oslo S for å plukke opp togpassasjerar, noko som har skapt lange køar i området rundt jernbanetorget. – Det er ikkje unormalt at dette skjer når det er togstans, seier operasjonsleiar i politiet, Per-Ivar Iversen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/atte-personer-er-pagrepet-etter-aksjonen-pa-tidligere-fengsel-i-nord-odal-1.18062619",
+      "url": "https://www.nrk.no/stor-oslo/stans-i-togtrafikken-gjennom-oslo-1.18063424",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Yc2pnTF4LQ9VkF8RR8ervwIA2IpRdYf6ZDvgaeW3pfvA.jpg",
-      "localImage": "assets/news/5d6b0bbee9c14f.jpg",
+      "image": "https://gfx.nrk.no/GuCbLF-ZqPg2iQwKFcrPYQixjmX21WYyUoSfjKxrTstQ.png",
+      "localImage": "assets/news/2ccb013cf2e5e7.png",
       "score": 13
     },
     {
-      "id": "65be5def5b5368",
+      "id": "687d0a8fc5dec8",
       "category": "Norge",
-      "published": "23.10. 16:06",
-      "publishedISO": "2026-10-23T16:06:40+02:00",
-      "title": "Trenger mer tid på bekymringsmeldingen mot kommunedirektøren",
-      "summary": "Kommunedirektør Ellen Beate Lundberg ønsker foreløpig ikke å kommentere bekymringsmeldingen. Avisa Nordlys har tidligere omtalt at de fire avdelingsdirektørene i kommunens ledergruppe – Mette Mohåg (bymiljø), Mari Enoksen Hult (organisasjon), Per Angermo (helse og omsorg) og Rolf Øistein Barman-Jenssen (oppvekst, utdanning og kultur) – står bak bekymringsmeldingen mot kommunedirektøren, og at de har koblet inn en av landets fremste advokater på området. Avdelingsdirektørene Rolf Øistein Barman-Jenssen, Mari Enoksen Hult, Mette Mohåg og Per Angermo utgjør ledergruppen under kommunedirektøren.",
+      "published": "23.10. 19:08",
+      "publishedISO": "2026-10-23T19:08:59+02:00",
+      "title": "Barnehagen til Kari (5) blei hastestengt",
+      "summary": "Inneklimaet i barnehagen var så dårleg at den blei stengt umiddelbart. Kari Ås sit i bil ein time kvar morgon for å bli levert i barnehagen, som no har flytta til skulen. Problemet starta då barnehagen skulle rivast og barna blei sendt i midlertidige lokale på Heggem allaktivitetshus.",
       "keyPoints": [
-        "Avisa Nordlys har tidligere omtalt at de fire avdelingsdirektørene i kommunens ledergruppe – Mette Mohåg (bymiljø), Mari Enoksen Hult (organisasjon), Per Angermo (helse og omsorg) og Rolf Øistein Barman-Jenssen (oppvekst, utdanning og kultur) – står bak bekymringsmeldingen mot kommunedirektøren, og at de har koblet inn en av landets fremste advokater på området.",
-        "Kommunedirektør Ellen Beate Lundberg ønsker foreløpig ikke å kommentere bekymringsmeldingen.",
-        "Behandlingen av den alvorlige personalsaken mot kommunedirektøren skjer bak lukkede dører på Rådhuset i Tromsø.",
-        "Både kommunedirektøren og de fire har sin egen bistand."
+        "Problemet starta då barnehagen skulle rivast og barna blei sendt i midlertidige lokale på Heggem allaktivitetshus.",
+        "Inneklimaet i barnehagen var så dårleg at den blei stengt umiddelbart.",
+        "Kari Ås sit i bil ein time kvar morgon for å bli levert i barnehagen, som no har flytta til skulen.",
+        "Barnehagen blei stengd på dagen, og foreldra fekk hastebeskjed."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/trenger-mer-tid-pa-bekymringsmeldingen-mot-kommunedirektoren-1.18063179",
+      "url": "https://www.nrk.no/mr/stengd-angvik-barnehage-og-heggem-allaktivitetshus-skaper-utfordrande-dagar-i-gjemnes-1.18062609",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ajzwt4MqypDOe4UpvjiybQMYjcKmAJtJnGJo3GrGnvzw.jpg",
-      "localImage": "assets/news/65be5def5b5368.jpg",
+      "image": "https://gfx.nrk.no/4azI3zvOglkEq3Q-0oSc8QC2BE5amkzPPsWjd4DdPC3w.jpg",
+      "localImage": "assets/news/687d0a8fc5dec8.jpg",
       "score": 13
     }
   ]
