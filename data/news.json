@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.10.2026 kl. 22:08",
-  "updatedISO": "2026-10-23T22:08:15.683617+02:00",
+  "updatedAt": "24.10.2026 kl. 01:10",
+  "updatedISO": "2026-10-24T01:10:53.102963+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/75d066c5-42d8-33df-a5ab-1479ac87d15f?fit=crop&h=675&upscale=true&w=1200&s=a2d0cd91cee19276ab0e41232483c0bcefedf909",
       "localImage": "assets/news/8ea58f5b360a82.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "2ebf2f69a018ac",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fe35dab3-12b4-3b05-ad93-2b0e8717785d?fit=crop&h=675&upscale=true&w=1200&s=9c6d8079cde2ff1504bd90e766370b30bbc46bde",
       "localImage": "assets/news/2ebf2f69a018ac.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "8a9b6134707c18",
@@ -85,27 +85,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jNZCMwZ8KLZovrdZLaajjgUOHKPp2H_JylI5_FNAnYXA.jpg",
       "localImage": "assets/news/8a9b6134707c18.jpg",
-      "score": 17
-    },
-    {
-      "id": "f5129692c266f4",
-      "category": "Økonomi",
-      "published": "23.10. 18:30",
-      "publishedISO": "2026-10-23T18:30:30+02:00",
-      "title": "Oljeprisen høyeste siden mars etter økt Midtøsten-spenning",
-      "summary": "Oljeprisen fortsetter å stige mens krigen mellom USA og Iran går mot sin niende måned, og angrepene mot Saudi-Arabia trappes opp. Brent spotprisen har fredag vært oppe på 117,37 dollar fatet, en oppgang på litt over 3,90 prosent siden midnatt. Det er det høyeste nivået siden 19. mars, da prisen lå på 119,07 dollar fatet, ifølge datalevendøren Infront.",
-      "keyPoints": [
-        "Det er det høyeste nivået siden 19. mars, da prisen lå på 119,07 dollar fatet, ifølge datalevendøren Infront.",
-        "Brent spotprisen har fredag vært oppe på 117,37 dollar fatet, en oppgang på litt over 3,90 prosent siden midnatt.",
-        "Oljeprisen fortsetter å stige mens krigen mellom USA og Iran går mot sin niende måned, og angrepene mot Saudi-Arabia trappes opp.",
-        "Prisen på nordsjøolje stiger kraftig etter økt militær aktivitet og angrep i regionen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/mK2AbO/oljeprisen-hoeyeste-siden-mars-etter-oekt-midtoesten-spenning",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/61992d37-5fcc-3752-8011-9038621e2705?fit=crop&h=675&upscale=true&w=1200&s=7f35e5b0141ff45e4fbcf73fe4ea27aea743c683",
-      "localImage": "assets/news/f5129692c266f4.jpg",
       "score": 16
     },
     {
@@ -130,6 +109,27 @@
       "score": 16
     },
     {
+      "id": "fe3a4988dca741",
+      "category": "Økonomi",
+      "published": "23.10. 18:30",
+      "publishedISO": "2026-10-23T18:30:30+02:00",
+      "title": "SKALL: Oljeprisen høyeste siden mars etter økt Midtøsten-spenning",
+      "summary": "Oljeprisen fortsetter å stige mens krigen mellom USA og Iran går mot sin niende måned, og angrepene mot Saudi-Arabia trappes opp. Brent spotprisen har fredag vært oppe på 117,37 dollar fatet, en oppgang på litt over 3,90 prosent siden midnatt. Det er det høyeste nivået siden 19. mars, da prisen lå på 119,07 dollar fatet, ifølge datalevendøren Infront.",
+      "keyPoints": [
+        "Det er det høyeste nivået siden 19. mars, da prisen lå på 119,07 dollar fatet, ifølge datalevendøren Infront.",
+        "Brent spotprisen har fredag vært oppe på 117,37 dollar fatet, en oppgang på litt over 3,90 prosent siden midnatt.",
+        "Oljeprisen fortsetter å stige mens krigen mellom USA og Iran går mot sin niende måned, og angrepene mot Saudi-Arabia trappes opp.",
+        "Prisen på nordsjøolje stiger kraftig etter økt militær aktivitet og angrep i regionen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/mK2AbO/oljeprisen-hoeyeste-siden-mars-etter-oekt-midtoesten-spenning",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/61992d37-5fcc-3752-8011-9038621e2705?fit=crop&h=675&upscale=true&w=1200&s=7f35e5b0141ff45e4fbcf73fe4ea27aea743c683",
+      "localImage": "assets/news/fe3a4988dca741.jpg",
+      "score": 15
+    },
+    {
       "id": "3b8b7c7317152d",
       "category": "Økonomi",
       "published": "23.10. 10:16",
@@ -149,6 +149,27 @@
       "image": "https://akamai.vgc.no/v2/images/445ea3e4-8891-3cfe-b5cc-2a240e9df764?fit=crop&h=675&upscale=true&w=1200&s=4a4261e3e94bace0f1bce436ba34e26fed2c8a4e",
       "localImage": "assets/news/3b8b7c7317152d.jpg",
       "score": 15
+    },
+    {
+      "id": "a8f6c04095a32f",
+      "category": "Norge",
+      "published": "23.10. 22:18",
+      "publishedISO": "2026-10-23T22:18:34+02:00",
+      "title": "Minst 35 gjester ble syke etter restaurantbesøk på Re-Naa i Stavanger",
+      "summary": "«Kraftig oppkast» og «diaré på natten» er blant symptomene gjester til Re-Naa i Stavanger beskriver etter besøk hos Michelin-restauranten i vinter. Totalt 35 gjester som besøkte stjernerestauranten i vinter, meldte i ettertid at de var blitt syke, ifølge Mattilsynet. Av de 35 som ble syke, meldte 21 gjester om sykdom etter å ha spist på restauranten i perioden 28. til 31. januar, ifølge Mattilsynet.",
+      "keyPoints": [
+        "«Kraftig oppkast» og «diaré på natten» er blant symptomene gjester til Re-Naa i Stavanger beskriver etter besøk hos Michelin-restauranten i vinter.",
+        "Totalt 35 gjester som besøkte stjernerestauranten i vinter, meldte i ettertid at de var blitt syke, ifølge Mattilsynet.",
+        "Av de 35 som ble syke, meldte 21 gjester om sykdom etter å ha spist på restauranten i perioden 28. til 31. januar, ifølge Mattilsynet.",
+        "Kokk Sven Erik Renaa driver Michelin-restauranten Re-Naa i Stavanger."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/minst-35-gjester-ble-syke-etter-restaurantbesok-pa-re-naa-i-stavanger-1.18043712",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/K11Vx2tg6OMDANB9_g9ZCwVMTVV85hSjeM_uYi2I3Trw.jpg",
+      "localImage": "assets/news/a8f6c04095a32f.jpg",
+      "score": 13
     },
     {
       "id": "e31fdd91157adb",
@@ -172,45 +193,24 @@
       "score": 13
     },
     {
-      "id": "2ccb013cf2e5e7",
-      "category": "Norge",
-      "published": "23.10. 19:34",
-      "publishedISO": "2026-10-23T19:34:37+02:00",
-      "title": "Stans i togtrafikken gjennom Oslo",
-      "summary": "Ein stans i togtrafikken har ført til kaos i Oslo sentrum. Alle toglinjer som går gjennom Oslo sentrum vart råka av stansen fredag. Klokka 20:25 meldte VY at togtrafikken igjen var opna gjennom sentrum. – Men det kan bli følgeforseinkingar.",
+      "id": "f0831e8ef9c47c",
+      "category": "Økonomi",
+      "published": "23.10. 07:01",
+      "publishedISO": "2026-10-23T07:01:57+02:00",
+      "title": "Gjensidige-aksjen stiger etter «veldig sterkt resultat»",
+      "summary": "Forsikringsselskapet leverte langt høyere resultat enn ventet. Gjensidige-aksjen stiger 1,7 prosent i tidlig handel på Oslo Børs etter tallslippet for tredje kvartal. Analytiker Hans Rettedal Christiansen i Danske Bank skriver i et notat at Gjensidige leverte et «veldig sterkt resultat» i kvartalet.",
       "keyPoints": [
-        "Ein stans i togtrafikken har ført til kaos i Oslo sentrum.",
-        "Klokka 20:25 meldte VY at togtrafikken igjen var opna gjennom sentrum. – Men det kan bli følgeforseinkingar.",
-        "Alle toglinjer som går gjennom Oslo sentrum vart råka av stansen fredag.",
-        "Eit stort antal drosjer har køyrd til Oslo S for å plukke opp togpassasjerar, noko som har skapt lange køar i området rundt jernbanetorget. – Det er ikkje unormalt at dette skjer når det er togstans, seier operasjonsleiar i politiet, Per-Ivar Iversen."
+        "Analytiker Hans Rettedal Christiansen i Danske Bank skriver i et notat at Gjensidige leverte et «veldig sterkt resultat» i kvartalet.",
+        "Gjensidige-aksjen stiger 1,7 prosent i tidlig handel på Oslo Børs etter tallslippet for tredje kvartal.",
+        "Forsikringsselskapet leverte langt høyere resultat enn ventet.",
+        "Han viser blant annet til at resultatet fra forsikringsvirksomheten var 18 prosent høyere enn konsensus blant analytikerne. – Estimatene bør gå opp med 4-5 prosent for 2027 på den positive overraskelsen, og vi venter at aksjen vil stige i tråd med dette, skriver analytikeren."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/stans-i-togtrafikken-gjennom-oslo-1.18063424",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/GuCbLF-ZqPg2iQwKFcrPYQixjmX21WYyUoSfjKxrTstQ.png",
-      "localImage": "assets/news/2ccb013cf2e5e7.png",
-      "score": 13
-    },
-    {
-      "id": "687d0a8fc5dec8",
-      "category": "Norge",
-      "published": "23.10. 19:08",
-      "publishedISO": "2026-10-23T19:08:59+02:00",
-      "title": "Barnehagen til Kari (5) blei hastestengt",
-      "summary": "Inneklimaet i barnehagen var så dårleg at den blei stengt umiddelbart. Kari Ås sit i bil ein time kvar morgon for å bli levert i barnehagen, som no har flytta til skulen. Problemet starta då barnehagen skulle rivast og barna blei sendt i midlertidige lokale på Heggem allaktivitetshus.",
-      "keyPoints": [
-        "Problemet starta då barnehagen skulle rivast og barna blei sendt i midlertidige lokale på Heggem allaktivitetshus.",
-        "Inneklimaet i barnehagen var så dårleg at den blei stengt umiddelbart.",
-        "Kari Ås sit i bil ein time kvar morgon for å bli levert i barnehagen, som no har flytta til skulen.",
-        "Barnehagen blei stengd på dagen, og foreldra fekk hastebeskjed."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/stengd-angvik-barnehage-og-heggem-allaktivitetshus-skaper-utfordrande-dagar-i-gjemnes-1.18062609",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/4azI3zvOglkEq3Q-0oSc8QC2BE5amkzPPsWjd4DdPC3w.jpg",
-      "localImage": "assets/news/687d0a8fc5dec8.jpg",
+      "url": "https://e24.no/boers-og-finans/i/eGx37M/gjensidige-oekte-overskuddet-i-tredje-kvartal-tjente-2-78-milliarder-foer-skatt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4040e2cc-8743-30b6-a12a-d8d3e45e69ea?fit=crop&h=675&upscale=true&w=1200&s=ddc343040a7508eb2034f2f19c41220860db4882",
+      "localImage": "assets/news/f0831e8ef9c47c.jpg",
       "score": 13
     }
   ]
