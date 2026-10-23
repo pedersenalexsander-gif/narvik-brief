@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.10.2026 kl. 03:26",
-  "updatedISO": "2026-10-23T03:26:33.857776+02:00",
+  "updatedAt": "23.10.2026 kl. 08:21",
+  "updatedISO": "2026-10-23T08:21:27.545758+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,112 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/ff3f9e577d6ae0.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "b2a99100246695",
+      "category": "Økonomi",
+      "published": "23.10. 07:05",
+      "publishedISO": "2026-10-23T07:05:24+02:00",
+      "title": "Tomra slo forventningene: Tjente 35 millioner euro",
+      "summary": "Kvartalsrapporten viser et resultat før skatt på 35 millioner euro, mot 23 millioner euro i tredje kvartal i fjor. Inntektene landet på 366 millioner euro, mot 306 millioner euro i fjorårsperioden. På forhånd ventet analytikerne inntekter på 346 millioner euro og et resultat før skatt på 27 millioner euro, ifølge Bloomberg. – Vår sterke posisjon i etablerte markeder gir et solid fundament for å dra nytte av pågående moderniserings- og utskiftingsbølger, samtidig som vi øker de gjentakende inntektene fra vår installerte base, sier konsensjef Tove andersen i meldingen.",
+      "keyPoints": [
+        "På forhånd ventet analytikerne inntekter på 346 millioner euro og et resultat før skatt på 27 millioner euro, ifølge Bloomberg. – Vår sterke posisjon i etablerte markeder gir et solid fundament for å dra nytte av pågående moderniserings- og utskiftingsbølger, samtidig som vi øker de gjentakende inntektene fra vår installerte base, sier konsensjef Tove andersen i meldingen.",
+        "Kvartalsrapporten viser et resultat før skatt på 35 millioner euro, mot 23 millioner euro i tredje kvartal i fjor.",
+        "Inntektene landet på 366 millioner euro, mot 306 millioner euro i fjorårsperioden.",
+        "Inntektene i Collection økte fra omtrent 179 millioner euro til 217 millioner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/eGx959/tomra-slo-forventningene-tjente-35-millioner-euro-foer-skatt-i-tredje-kvartal",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3e4b722c-bc22-32d9-aaab-d9da40ba8572?fit=crop&h=675&upscale=true&w=1200&s=dcda54bde1fbe6612ec5e15384c09ad9adc71007",
+      "localImage": "assets/news/b2a99100246695.jpg",
+      "score": 13
+    },
+    {
+      "id": "948d1e279ec09f",
+      "category": "Økonomi",
+      "published": "23.10. 07:03",
+      "publishedISO": "2026-10-23T07:03:04+02:00",
+      "title": "Sterkere fra Norsk Hydro",
+      "summary": "Norsk Hydro legger frem resultater for tredje kvartal 2026. Norsk Hydro reduserer investeringsmålet ved utgangen av året fra 13,5 milliarder kroner til rundt 12,5 milliarder kroner. Hydros virksomhet innen aluminium dro fordel av høyere priser og solid drift, mens enhetene Recycling og Extrusions fikk bedre inntjening på grunn av høye resirkuleringsmarginer, skriver Hydro. «De norske metallverkene økte produksjonen av flytende metall til et rekordhøyt nivå, og befester Hydros posisjon som en pålitelig leverandør av lavkarbonaluminium til europeiske kunder», skriver selskapet.",
+      "keyPoints": [
+        "Norsk Hydro legger frem resultater for tredje kvartal 2026.",
+        "Norsk Hydro reduserer investeringsmålet ved utgangen av året fra 13,5 milliarder kroner til rundt 12,5 milliarder kroner.",
+        "Hydros virksomhet innen aluminium dro fordel av høyere priser og solid drift, mens enhetene Recycling og Extrusions fikk bedre inntjening på grunn av høye resirkuleringsmarginer, skriver Hydro. «De norske metallverkene økte produksjonen av flytende metall til et rekordhøyt nivå, og befester Hydros posisjon som en pålitelig leverandør av lavkarbonaluminium til europeiske kunder», skriver selskapet.",
+        "Rekordhøy produksjon av flytende metall fra de norske verkene og høye priser i hele kvartalet har gitt solid inntjening og høy lønnsomhet, sier konsernsjef Eivind Kallevik i Hydro. – God drift gjør at vi kan utnytte mer av oppsiden når markedsforholdene er gode og ikke minst gjør det oss mer robuste når markedet snur, sier han."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/rM2nGR/sterkere-fra-norsk-hydro",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ff233ff1-7204-3a21-8130-58b022a7e3fc?fit=crop&h=675&upscale=true&w=1200&s=1adf13594279bf975140f1e69e8c12b869fe4c86",
+      "localImage": "assets/news/948d1e279ec09f.jpg",
+      "score": 13
+    },
+    {
+      "id": "e27090a35996a4",
+      "category": "Norge",
+      "published": "23.10. 07:54",
+      "publishedISO": "2026-10-23T07:54:30+02:00",
+      "title": "TIL bekrefter nye Haugaard-samtaler",
+      "summary": "Der var ikke den 34 år gamle dansken helt patent mot KFUM Oslo sist søndag, da han feilet i en dødball-duell som gjorde at gjestene utlignet til 1–1. Og bekrefter at klubben vil skrive ny kontrakt med Jakob Rønning-Haugaard. Men TILs sportssjef Thomas Hafstad bekrefter overfor NRK at han denne uka har hatt samtaler med Haugaards danske agent. – Vi har en dialog og vi snakker godt med Jakob.",
+      "keyPoints": [
+        "Men TILs sportssjef Thomas Hafstad bekrefter overfor NRK at han denne uka har hatt samtaler med Haugaards danske agent. – Vi har en dialog og vi snakker godt med Jakob.",
+        "Og bekrefter at klubben vil skrive ny kontrakt med Jakob Rønning-Haugaard.",
+        "Der var ikke den 34 år gamle dansken helt patent mot KFUM Oslo sist søndag, da han feilet i en dødball-duell som gjorde at gjestene utlignet til 1–1.",
+        "Og stjal to viktige poeng fra TIL i kampen om bronse og E-cupspill i 2027. – Det var en dårlig aksjon av meg som førte til mål."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/til-bekrefter-nye-haugaard-samtaler-1.18062308",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/2ofls6fGW1uqToSYqG8MCwyeKfrBMAAaPZGAkveq0Z1Q.jpg",
+      "localImage": "assets/news/e27090a35996a4.webp",
+      "score": 13
+    },
+    {
+      "id": "5e56843130fba2",
+      "category": "Norge",
+      "published": "23.10. 05:20",
+      "publishedISO": "2026-10-23T05:20:24+02:00",
+      "title": "Fann 1500 år gammal pilskaft i Bardu",
+      "summary": "Ein turgåar fan i september eit heilt intakt pilskaft som vert datert til jernalderen. – Det er eit heilt unikt og nydeleg funn. Ingrid Sommerseth seier funn av denne typen pilskaft i fjellet innanfor Noregs grenser er ekstremt sjeldne i Nord-Noreg. Funn av denne typen pilskaft i fjellet innanfor Noregs grenser er ekstremt sjeldne i Nord-Noreg, noko som gjer Bardu-funnet til det nordlegaste i sitt slag her i landet. – Vi har eit funn frå 2013 på svensk side av grensa ved Kischomen i Narvik, men dette tilhøyrer svensk forsking.",
+      "keyPoints": [
+        "Funn av denne typen pilskaft i fjellet innanfor Noregs grenser er ekstremt sjeldne i Nord-Noreg, noko som gjer Bardu-funnet til det nordlegaste i sitt slag her i landet. – Vi har eit funn frå 2013 på svensk side av grensa ved Kischomen i Narvik, men dette tilhøyrer svensk forsking.",
+        "Ein turgåar fan i september eit heilt intakt pilskaft som vert datert til jernalderen. – Det er eit heilt unikt og nydeleg funn.",
+        "For første gong er eit heilt intakt pilskaft frå jernalderen funne i Troms.",
+        "Høgt oppe på Erikfjellet i Bardu, Troms, har det blitt gjort et unikt funn."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/fann-1500-ar-gammal-pilskaft-i-bardu-1.18061791",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/fExEVeT-sFVZ4o05HokMHA7LipT7ia3BiwCnDy1lqOxg.jpg",
+      "localImage": "assets/news/5e56843130fba2.jpg",
+      "score": 13
+    },
+    {
+      "id": "3181214fc61e04",
+      "category": "Norge",
+      "published": "23.10. 05:11",
+      "publishedISO": "2026-10-23T05:11:12+02:00",
+      "title": "Frykter tiår med naturvern kan gå tapt: – Skremmende",
+      "summary": "Nå frykter han at det samme skal skje igjen. – Dersom vi stopper kalkingen, utrydder vi laksen med vilje. Etter å først ha bygd den opp gjennom flere tiår, så skal vi med overlegg la den atter drive død ned elva, sier Bringsdal. Seksjonsleder på miljøvernavdelinga ved Statsforvalteren i Agder Anne Fløgstad Smeland er også bekymret for nettopp dette. – Dagens bevilgningsnivå til kalking av vassdrag og innsjøer er ikke er tilstrekkelig til å opprettholde og sikre miljøkvalitetene som vi har bygd opp gjennom mange tiår med kalkingsinnsats, sier Fløgstad.",
+      "keyPoints": [
+        "Seksjonsleder på miljøvernavdelinga ved Statsforvalteren i Agder Anne Fløgstad Smeland er også bekymret for nettopp dette. – Dagens bevilgningsnivå til kalking av vassdrag og innsjøer er ikke er tilstrekkelig til å opprettholde og sikre miljøkvalitetene som vi har bygd opp gjennom mange tiår med kalkingsinnsats, sier Fløgstad.",
+        "Etter å først ha bygd den opp gjennom flere tiår, så skal vi med overlegg la den atter drive død ned elva, sier Bringsdal.",
+        "Nå frykter han at det samme skal skje igjen. – Dersom vi stopper kalkingen, utrydder vi laksen med vilje.",
+        "Dersom 2027 blir et nedbørsrikt år er det en risiko for at fylket må stanse deler av kalkinga i Agder allerede da. – Det kan få veldig store konsekvenser for laks, ørret og andre forsuringsfølsomme arter i vassdragene våre, bekrefter Fløgstad."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/frykter-tiar-med-naturvern-kan-ga-tapt_-_-skremmende-1.18060623",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/oPLB1uKQTcbzaZDU5q7q6wDDBorEBVOX-_6orys1V7zw.jpg",
+      "localImage": "assets/news/3181214fc61e04.jpg",
+      "score": 13
     },
     {
       "id": "93b034c09bcc8a",
@@ -43,133 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f7497781-997c-3c1b-835d-9ffa89b9e038?fit=crop&h=675&upscale=true&w=1200&s=89300b5c35757db0a87c9048f9a70a0d5cb57407",
       "localImage": "assets/news/93b034c09bcc8a.jpg",
-      "score": 14
-    },
-    {
-      "id": "989de8947a99db",
-      "category": "Økonomi",
-      "published": "22.10. 20:57",
-      "publishedISO": "2026-10-22T20:57:55+02:00",
-      "title": "Bobilkonkurs: 21 ansatte rammes",
-      "summary": "Ibobil ble etablert i 2014 og har på et tidspunkt hatt 31 ansatte, ifølge proff.no. I 2022 ble virksomheten en del av Bobilkjeden Norge AS, på tidspunktet den fjerde største bobilkjeden i Norge, med Trondheim-selskapet Arve Opsahl AS i førersetet, ifølge Bobilverden.no. Det var 21 ansatte i selskapet, fremgår det av oppudsbegjæringen.",
-      "keyPoints": [
-        "Ibobil ble etablert i 2014 og har på et tidspunkt hatt 31 ansatte, ifølge proff.no.",
-        "Det var 21 ansatte i selskapet, fremgår det av oppudsbegjæringen.",
-        "I 2022 ble virksomheten en del av Bobilkjeden Norge AS, på tidspunktet den fjerde største bobilkjeden i Norge, med Trondheim-selskapet Arve Opsahl AS i førersetet, ifølge Bobilverden.no.",
-        "Bostyrer Bjørn August Krane opplyser at Ibobil etterlater seg en gjeld på 26 millioner kroner, ifølge kjennelsen fra tingretten."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/b84n8q/bobilkonkurs-21-ansatte-rammes",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/23920269-0375-38f1-af5b-b7a8e7c53808?fit=crop&h=675&upscale=true&w=1200&s=dcb1ec169590717bd7862a53185ecf4eef845dfd",
-      "localImage": "assets/news/989de8947a99db.jpg",
-      "score": 12
-    },
-    {
-      "id": "e5390217bc0dea",
-      "category": "Norge",
-      "published": "22.10. 17:01",
-      "publishedISO": "2026-10-22T17:01:09+02:00",
-      "title": "Fergen havnet i småbåthavna: – Teknisk svikt",
-      "summary": "Fergen «MF Folkestad» gikk på grunn i småbåthavnen på Breivikeidet torsdag. Fergen kjørte inn i småbåthavna like ved fergekaia på Breivikeidet utenfor Tromsø. Renate Brox var passasjer på fergen som grunnstøtte. – Mannskapet rapporterte om teknisk svikt i forkant.",
-      "keyPoints": [
-        "Renate Brox var passasjer på fergen som grunnstøtte. – Mannskapet rapporterte om teknisk svikt i forkant.",
-        "Fergen kjørte inn i småbåthavna like ved fergekaia på Breivikeidet utenfor Tromsø.",
-        "Fergen «MF Folkestad» gikk på grunn i småbåthavnen på Breivikeidet torsdag.",
-        "Skipet ble bestilt for en stund siden fra Tromsø, og vi regner med at det er fremme litt over klokken 18, sier Gjertsen. – Det vet vi ikke, men vi må undersøke fergen når den har kommet av grunn."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/fergen-havnet-i-smabathavna_-_-teknisk-svikt-1.18062126",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/qgBof5vz7gQQeBsup1IKDgRnkGG9FuDwa-fWRmu3sCrQ.jpg",
-      "localImage": "assets/news/e5390217bc0dea.jpg",
-      "score": 15
-    },
-    {
-      "id": "bf2766ac3b7fec",
-      "category": "Norge",
-      "published": "22.10. 20:21",
-      "publishedISO": "2026-10-22T20:21:47+02:00",
-      "title": "Konsertlokale brant ned: Vil prøve å bygge det opp igjen",
-      "summary": "Stallen på Grosås i Iveland brant ned tirsdag. – Vi grugleder oss. Det sier Arild Tørresen og Anne May Grosås, som har lagt ned mange timer for å skape Stallen på Grosås i Iveland. Arild Tørresen og Anne May Grosås vil gjerne forsøke å bygge opp stedet igjen.",
-      "keyPoints": [
-        "Arild Tørresen og Anne May Grosås vil gjerne forsøke å bygge opp stedet igjen.",
-        "Stallen på Grosås i Iveland brant ned tirsdag. – Vi grugleder oss.",
-        "Det sier Arild Tørresen og Anne May Grosås, som har lagt ned mange timer for å skape Stallen på Grosås i Iveland.",
-        "Sambygding Harald Eikeland sier at folk kommer til å stå på for å bygge et nytt konsertsted på Grosås. – Tirsdag var en ufattelig trist dag for mange."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/konsertlokale-brant-ned_-vil-prove-a-bygge-det-opp-igjen-1.18061586",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/tl2YL7o3C8EgP3iluEhAsAwLsww6t5cAgjYKNdSKO8xA.jpg",
-      "localImage": "assets/news/bf2766ac3b7fec.jpg",
-      "score": 12
-    },
-    {
-      "id": "dc55bbb3f0f378",
-      "category": "Norge",
-      "published": "22.10. 18:11",
-      "publishedISO": "2026-10-22T18:11:39+02:00",
-      "title": "Politi­aksjon ved nedlagt fengsel i Nord-Odal",
-      "summary": "Store politistyrker aksjonerte ved eit nedlagt fengsel torsdag. Det var torsdag føremiddag at politiet gjekk til aksjon ved det nedlagde Bruvoll fengsel i Nord-Odal i Innlandet. Det stadfesta politiadvokat Ingrid Hærem i Øst politidistrikt i ein e-post til NRK torsdag ettermiddag: – Øst politidistrikt har i dag gjennomført ein planlagd aksjon mot gamle Bruvoll fengsel i Nord-Odal, og det blir no gjennomført kriminaltekniske undersøkingar på staden.",
-      "keyPoints": [
-        "Det stadfesta politiadvokat Ingrid Hærem i Øst politidistrikt i ein e-post til NRK torsdag ettermiddag: – Øst politidistrikt har i dag gjennomført ein planlagd aksjon mot gamle Bruvoll fengsel i Nord-Odal, og det blir no gjennomført kriminaltekniske undersøkingar på staden.",
-        "Det var torsdag føremiddag at politiet gjekk til aksjon ved det nedlagde Bruvoll fengsel i Nord-Odal i Innlandet.",
-        "Store politistyrker aksjonerte ved eit nedlagt fengsel torsdag.",
-        "Gamle Bruvoll fengsel vart bygd som leir for sivilforsvaret, men var i drift som fengsel frå 2006."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/politiaksjon-ved-nedlagt-fengsel-i-nord-odal-1.18062183",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Yc2pnTF4LQ9VkF8RR8ervwIA2IpRdYf6ZDvgaeW3pfvA.jpg",
-      "localImage": "assets/news/dc55bbb3f0f378.jpg",
-      "score": 12
-    },
-    {
-      "id": "d33a9d026959a9",
-      "category": "Norge",
-      "published": "22.10. 17:48",
-      "publishedISO": "2026-10-22T17:48:59+02:00",
-      "title": "Julie og Norah Sand-Hanssen følger omstridt oppskrift for å bli best – forsker advarer",
-      "summary": "Julie og Norah Sand-Hanssen (20) benytter seg av en metode som stadig blir mer populær blant langrennsutøvere. LANGRENNSTVILLINGER: Norah og Julie Sand-Hanssen har allerede flere års erfaring med å trene i høyden. – Vi liker det utrolig godt, og merker at kroppene våre responderer bra på høyden, sier Julie Sand-Hanssen. Julie og Norah Sand-Hanssen på en rulleskiøkt i Flagstaff.",
-      "keyPoints": [
-        "Julie og Norah Sand-Hanssen (20) benytter seg av en metode som stadig blir mer populær blant langrennsutøvere.",
-        "LANGRENNSTVILLINGER: Norah og Julie Sand-Hanssen har allerede flere års erfaring med å trene i høyden. – Vi liker det utrolig godt, og merker at kroppene våre responderer bra på høyden, sier Julie Sand-Hanssen.",
-        "Julie og Norah Sand-Hanssen på en rulleskiøkt i Flagstaff.",
-        "Norah og Julie Sand-Hanssen bor i Lillehammer og har tilgang på den flotte Birkebeineren skistadion."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/julie-og-norah-sand-hanssen-folger-omstridt-oppskrift-for-a-bli-best-_-forsker-advarer-1.18045523",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/67aPoxDC1FBObH6atFhtvw1jrmNUy5zHelP_wrtgPK5Q.jpg",
-      "localImage": "assets/news/d33a9d026959a9.jpg",
-      "score": 12
-    },
-    {
-      "id": "c36e0a67b7b786",
-      "category": "Økonomi",
-      "published": "21.10. 09:01",
-      "publishedISO": "2026-10-21T09:01:06+02:00",
-      "title": "Fredriksen-aksje stupte etter utbytte-pause",
-      "summary": "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent. Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid. Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
-      "keyPoints": [
-        "Slik gikk det med noen av de andre mye omsatte aksjene: Ute i verden lå oljeprisen (brent spot) på 108,7 dollar fatet ved stengetid.",
-        "Stemningen var god gjennom dagen på Oslo Børs, og Hovedindeksen endte opp 1,04 prosent.",
-        "Ved stengetid hadde brent spot-prisen falt 0,2 prosent siden midnatt.",
-        "Omsetningen i tredje kvartal var rundt 268 millioner dollar, går det også frem av handelsoppdateringen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/4OgnLG/dnb-stiger-2-5-prosent-paa-oslo-boers-etter-tallslipp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ec2782a6-d449-3b2f-937e-c26c9274d68c?fit=crop&h=675&upscale=true&w=1200&s=3101c4e51c0d4b7f1fac2806239c70e74ebb2dca",
-      "localImage": "assets/news/c36e0a67b7b786.jpg",
-      "score": 12
+      "score": 13
     }
   ]
 }
