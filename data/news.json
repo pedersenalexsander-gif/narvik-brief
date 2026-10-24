@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.10.2026 kl. 13:31",
-  "updatedISO": "2026-10-24T13:31:11.736005+02:00",
+  "updatedAt": "24.10.2026 kl. 16:49",
+  "updatedISO": "2026-10-24T16:49:34.859289+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,12 +9,12 @@
       "published": "24.10. 10:45",
       "publishedISO": "2026-10-24T10:45:30+02:00",
       "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
-      "summary": "Dette skjer etter flere dager med spenninger med Washington om SpaceX-nettverket, som er avgjørende for den ukrainske hærens operasjoner. – Overvåkingssystemene ser nå at hastigheten i Starlink/Starshield er på vei opp igjen, sier Ukrainas forsvarsminister Yevgeniy Khmara i en uttalelse. Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten. Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
+      "summary": "Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten. Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor. Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
       "keyPoints": [
         "Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
-        "Dette skjer etter flere dager med spenninger med Washington om SpaceX-nettverket, som er avgjørende for den ukrainske hærens operasjoner. – Overvåkingssystemene ser nå at hastigheten i Starlink/Starshield er på vei opp igjen, sier Ukrainas forsvarsminister Yevgeniy Khmara i en uttalelse.",
         "Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten.",
-        "Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor."
+        "Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor.",
+        "Ukraina har tidligere rapportert at forbindelsen med dronene har falt ut når de har passert 160 kilometer i timen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -22,7 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/UITMVw5GlrlXzJthNNMZ4gunTnRK53KDUSCDsMebly-Q.jpg",
       "localImage": "assets/news/63b78d3f9d83ff.jpg",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "3abaa0ec6d647f",
+      "category": "Verden",
+      "published": "24.10. 07:31",
+      "publishedISO": "2026-10-24T07:31:01+02:00",
+      "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief says",
+      "summary": "Se: Trumps eks-grensepatruljesjef utfordret over Minneapolis-operasjonen Den tidligere amerikanske grensepatruljesjefen som ble det offentlige ansiktet til den svært kontroversielle deportasjonsaksjonen i Minneapolis tidligere i år har forsvart operasjonen, og beskriver tilbaketrekningen av agenter fra byen som en \"overgivelse\" av Trump-administrasjonen. Tidligere denne måneden anla Goods familie to sivile søksmål mot Trump-administrasjonen på grunn av hennes drap, med påstand om urettmessig død og en konspirasjon for å gripe inn i demonstrantenes borgerrettigheter. Tilbaketrekkingen fra Minnesota, hvor rundt 700 immigrasjonsagenter forlot staten, førte også til at Bovino ble fjernet fra stillingen.",
+      "keyPoints": [
+        "Se: Trumps eks-grensepatruljesjef utfordret over Minneapolis-operasjonen Den tidligere amerikanske grensepatruljesjefen som ble det offentlige ansiktet til den svært kontroversielle deportasjonsaksjonen i Minneapolis tidligere i år har forsvart operasjonen, og beskriver tilbaketrekningen av agenter fra byen som en \"overgivelse\" av Trump-administrasjonen.",
+        "Tilbaketrekkingen fra Minnesota, hvor rundt 700 immigrasjonsagenter forlot staten, førte også til at Bovino ble fjernet fra stillingen.",
+        "Tidligere denne måneden anla Goods familie to sivile søksmål mot Trump-administrasjonen på grunn av hennes drap, med påstand om urettmessig død og en konspirasjon for å gripe inn i demonstrantenes borgerrettigheter.",
+        "Han har blitt kjent for sin harde holdning til immigrasjon, og går ofte lenger i sine uttalelser enn Trumps egne tjenestemenn og hevder uten bevis at 100 millioner mennesker er ulovlig i USA og bør deporteres."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfb8/live/821f0590-cf15-11f1-a568-e785d17b98ab.jpg",
+      "localImage": "assets/news/3abaa0ec6d647f.jpg",
+      "score": 16
     },
     {
       "id": "3da64f86b96d31",
@@ -64,7 +85,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/75d066c5-42d8-33df-a5ab-1479ac87d15f?fit=crop&h=675&upscale=true&w=1200&s=a2d0cd91cee19276ab0e41232483c0bcefedf909",
       "localImage": "assets/news/8ea58f5b360a82.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "d3a5b564aa9d09",
+      "category": "AI",
+      "published": "23.10. 14:00",
+      "publishedISO": "2026-10-23T14:00:25+02:00",
+      "title": "'It's been relentless' say IT workers on frontline of PHP cyber security scramble",
+      "summary": "Andre IT- og cybereksperter har fortalt BBC om kampene deres de siste 48 timene, hvis historier gir oss et innblikk i hvordan det er ved kullflaten til en stor cybernødsituasjon. Han sa at en del av problemet var at kunngjøringen om sikkerhetssårbarhetene i PHP kom som en overraskelse, uten mye tid til å forberede seg på handling. Men noen i bransjen er bekymret for hvordan folk ble fortalt om de kritiske sårbarhetene i PHP, da de frykter at forbedringer i AI vil skape flere slike hendelser. \"Vi kommer til å finne skumle sårbarheter med de fantastiske egenskapene som OpenAI og Anthropic bringer online, men vi må kalibrere meldingene,\" skrev Mark Maunder, grunnlegger av Wordfence - et Wordpress sikkerhetsverktøy.",
+      "keyPoints": [
+        "Han sa at en del av problemet var at kunngjøringen om sikkerhetssårbarhetene i PHP kom som en overraskelse, uten mye tid til å forberede seg på handling.",
+        "Men noen i bransjen er bekymret for hvordan folk ble fortalt om de kritiske sårbarhetene i PHP, da de frykter at forbedringer i AI vil skape flere slike hendelser. \"Vi kommer til å finne skumle sårbarheter med de fantastiske egenskapene som OpenAI og Anthropic bringer online, men vi må kalibrere meldingene,\" skrev Mark Maunder, grunnlegger av Wordfence - et Wordpress sikkerhetsverktøy.",
+        "Andre IT- og cybereksperter har fortalt BBC om kampene deres de siste 48 timene, hvis historier gir oss et innblikk i hvordan det er ved kullflaten til en stor cybernødsituasjon.",
+        "Kappløp for å oppdatere tjenestenes datasystemer etter cybersikkerhetsfeil funnet Zoe Kleinman: PHP er cyberekvivalenten til en ueksplodert bombe"
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f861/live/f70b8e60-cedd-11f1-b90b-55df5472350e.jpg",
+      "localImage": "assets/news/d3a5b564aa9d09.jpg",
+      "score": 12
+    },
+    {
+      "id": "d0ab12a09a1560",
+      "category": "Norge",
+      "published": "24.10. 13:37",
+      "publishedISO": "2026-10-24T13:37:04+02:00",
+      "title": "Ordfører: Russland misbruker krigshistorien og bør aldri mer feire i Kirkenes",
+      "summary": "Russland misbruker krigshistorien som propaganda, sier ordføreren i Sør-Varanger. Det er en innsats som dagens Russland ikke skal få misbruke til sin propaganda, sier ordfører i grensekommunen Sør-Varanger, Magnus Mæland. Å vise det mangfoldet er viktig, særlig når vi vet at Russland prøver å monopolisere og bruke krigshistorien som propaganda for å rettferdiggjøre sin krig i Ukraina.",
+      "keyPoints": [
+        "Russland misbruker krigshistorien som propaganda, sier ordføreren i Sør-Varanger.",
+        "Det er en innsats som dagens Russland ikke skal få misbruke til sin propaganda, sier ordfører i grensekommunen Sør-Varanger, Magnus Mæland.",
+        "Å vise det mangfoldet er viktig, særlig når vi vet at Russland prøver å monopolisere og bruke krigshistorien som propaganda for å rettferdiggjøre sin krig i Ukraina.",
+        "Frigjøringen i oktober 1944 ble markert i Kirkenes lørdag."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/ordforer_-russland-misbruker-krigshistorien-og-bor-aldri-mer-feire-i-kirkenes-1.18063660",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/jwFMgUb93JqkHQUlmUj_yQWlK8JBiEl2jiHXTrBGs_Cw.jpg",
+      "localImage": "assets/news/d0ab12a09a1560.jpg",
+      "score": 17
+    },
+    {
+      "id": "04334183b91985",
+      "category": "Verden",
+      "published": "24.10. 00:24",
+      "publishedISO": "2026-10-24T00:24:36+02:00",
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "summary": "Ukrainas president Volodymyr Zelensky sier at uforklarlige grenser for Starlink- og Starshield-tjenester fortsetter å påvirke ukrainske styrker, mens amerikanske tjenestemenn og Elon Musk gir motstridende beretninger om hvem som kontrollerer restriksjonene. Ukraina bruker både den sivile tjenesten Starlink og den sikrere Starshield, avhengig av hvilken kommunikasjon som trengs. Video, 00:01:49Hvem kontrollerer egentlig Ukrainas tilgang til Starlink?",
+      "keyPoints": [
+        "Video, 00:01:49Who actually controls Ukraine's access to Starlink?",
+        "Ukrainas president Volodymyr Zelensky sier at uforklarlige grenser for Starlink- og Starshield-tjenester fortsetter å påvirke ukrainske styrker, mens amerikanske tjenestemenn og Elon Musk gir motstridende beretninger om hvem som kontrollerer restriksjonene.",
+        "Ukraina bruker både den sivile tjenesten Starlink og den sikrere Starshield, avhengig av hvilken kommunikasjon som trengs.",
+        "Video, 00:00:55Se Pokémon-kortene som gjorde en pensjonert dekoratør til millionær Ukraina ble rammet av streiker etter at Russland gikk med på nye fredssamtaler."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a39d/live/2b410510-cf2f-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/04334183b91985.jpg",
+      "score": 14
     },
     {
       "id": "2ebf2f69a018ac",
@@ -85,132 +169,48 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fe35dab3-12b4-3b05-ad93-2b0e8717785d?fit=crop&h=675&upscale=true&w=1200&s=9c6d8079cde2ff1504bd90e766370b30bbc46bde",
       "localImage": "assets/news/2ebf2f69a018ac.jpg",
-      "score": 15
-    },
-    {
-      "id": "735c7445ec5abe",
-      "category": "Norge",
-      "published": "23.10. 20:25",
-      "publishedISO": "2026-10-23T20:25:35+02:00",
-      "title": "Uvanlig varm oktober i nord: – Kan havne på en pallplass",
-      "summary": "Til tross for snø og mye regn, har oktober i Troms vært uvanlig varm. Se klipp her: Statsmeteorolog, Sigrid Marie Vildskog Auganæs, bekrefter at oktober har vært uvanlig varm. Hittil i oktober har det vært få kraftige lavtrykk som har preget været i Nord-Norge – bortsett fra mandag 19. oktober hvor bruer ble stengt og fly kansellert på grunn av sterk vind. – Vi har fått en del varm luft fra sør, og de fleste lavtrykkene har gått forbi Norge, forteller Auganæs.",
-      "keyPoints": [
-        "Til tross for snø og mye regn, har oktober i Troms vært uvanlig varm.",
-        "Se klipp her: Statsmeteorolog, Sigrid Marie Vildskog Auganæs, bekrefter at oktober har vært uvanlig varm.",
-        "Hittil i oktober har det vært få kraftige lavtrykk som har preget været i Nord-Norge – bortsett fra mandag 19. oktober hvor bruer ble stengt og fly kansellert på grunn av sterk vind. – Vi har fått en del varm luft fra sør, og de fleste lavtrykkene har gått forbi Norge, forteller Auganæs.",
-        "Det er en serie med varme perioder som har holdt gjennomsnittet oppe, forklarer klimaforsker Helga Therese Tilley Tajet, ved Meteorologisk institutt. – Vi har hatt både en varm periode i starten av oktober, og en varm periode nå midt i."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/uvanlig-varm-oktober-i-nord_-_-kan-havne-pa-en-pallplass-1.18062577",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/V-AjfvfS-HWX6TsIleczLwc37SaaTo_yXHxwCauQiHNg.jpg",
-      "localImage": "assets/news/735c7445ec5abe.jpg",
       "score": 14
     },
     {
-      "id": "8a9b6134707c18",
-      "category": "Norge",
-      "published": "23.10. 17:55",
-      "publishedISO": "2026-10-23T17:55:37+02:00",
-      "title": "Her må vaktsoldatene dele seng: – Kleine og pinlige situasjoner",
-      "summary": "Der må de nemlig dele senger på skift. – Alle skjønner at det er litt kjipt, men vi gjør det beste ut av en dårlig situasjon. Derfor må vaktsoldatene gjøre én ting til når de er ferdige med vakta: Hente fram posen med sitt eget sengetøy, og re opp senga de skal sove i. Han tenker også på den kommende vinteren, en tid sykdom gjerne sprer seg raskere. – Man bor på et seksmannsrom, så blir det plutselig tolv stykker, da sprer influensaen seg fort. – Det er jo smått ukomfortabelt at man deler seng med en annen person, men det er sånn det er.",
+      "id": "bea79dd2849075",
+      "category": "Verden",
+      "published": "24.10. 16:16",
+      "publishedISO": "2026-10-24T16:16:05+02:00",
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Ørneredet var fortsatt i brann tidlig lørdag. Politiet i den sørtyske delstaten Bayern har arrestert en 33 år gammel tysk mann under en brann ved Adolf Hitlers alpine fjelltilfluktssted, Kehlsteinhaus, også kjent som Ørneredet. Hitler og topp nazistiske tjenestemenn brukte hans nærliggende Berghof-residens til å planlegge invasjonen av USSR i 1941, og hele komplekset ble ansett som et av hovedkvarterene hans. Tilfluktsstedet ble sett ulmende lørdag morgen. Fullført av nazistene i 1938, slapp Ørneredet, som ligger i en høyde på rundt 1800 m (5900 fot), ødeleggelse etter deres nederlag i 1945.",
       "keyPoints": [
-        "Han tenker også på den kommende vinteren, en tid sykdom gjerne sprer seg raskere. – Man bor på et seksmannsrom, så blir det plutselig tolv stykker, da sprer influensaen seg fort. – Det er jo smått ukomfortabelt at man deler seng med en annen person, men det er sånn det er.",
-        "Der må de nemlig dele senger på skift. – Alle skjønner at det er litt kjipt, men vi gjør det beste ut av en dårlig situasjon.",
-        "Derfor må vaktsoldatene gjøre én ting til når de er ferdige med vakta: Hente fram posen med sitt eget sengetøy, og re opp senga de skal sove i.",
-        "Men i tjenesten er de fjorten dager på vakt, og fjorten dager av. – Så det er jo fjorten netter på rad hvor vi da deler seng med en annen."
+        "Ørneredet var fortsatt i brann tidlig lørdag. Politiet i den sørtyske delstaten Bayern har arrestert en 33 år gammel tysk mann under en brann ved Adolf Hitlers alpine fjelltilfluktssted, Kehlsteinhaus, også kjent som Ørneredet.",
+        "Tilfluktsstedet ble sett ulmende lørdag morgen. Fullført av nazistene i 1938, slapp Ørneredet, som ligger i en høyde på rundt 1800 m (5900 fot), ødeleggelse etter deres nederlag i 1945.",
+        "Hitler og topp nazistiske tjenestemenn brukte hans nærliggende Berghof-residens til å planlegge invasjonen av USSR i 1941, og hele komplekset ble ansett som et av hovedkvarterene hans.",
+        "Ekspeditører i Traunstein mottok en brannalarm fra bygningen klokken 21:15 lokal tid (19:15 GMT) fredag, og brannmenn fant at den var oppslukt av flammer."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/her-ma-soldatene-dele-seng_-_-kleine-og-pinlige-situasjoner-1.18061361",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jNZCMwZ8KLZovrdZLaajjgUOHKPp2H_JylI5_FNAnYXA.jpg",
-      "localImage": "assets/news/8a9b6134707c18.jpg",
-      "score": 14
-    },
-    {
-      "id": "1183c515e3c82d",
-      "category": "Økonomi",
-      "published": "24.10. 12:00",
-      "publishedISO": "2026-10-24T12:00:30+02:00",
-      "title": "Gjør du disse feilene på jobbintervjuet?",
-      "summary": "Gjennom 20 år i rekrutteringsbransjen har jeg sett noen klassiske feil som kan koste ellers godt kvalifiserte kandidater jobben. Hodejeger og partner i Skill Rekruttering med nesten 20 års erfaring innenfor rekruttering. Psykolog Emil Mogård og hodejeger Kathrine Evenmo Ervik svarer på spørsmål fra E24s lesere om karriere, arbeidsliv og balansen mellom jobben og livet.",
-      "keyPoints": [
-        "Gjennom 20 år i rekrutteringsbransjen har jeg sett noen klassiske feil som kan koste ellers godt kvalifiserte kandidater jobben.",
-        "Hodejeger og partner i Skill Rekruttering med nesten 20 års erfaring innenfor rekruttering.",
-        "Psykolog Emil Mogård og hodejeger Kathrine Evenmo Ervik svarer på spørsmål fra E24s lesere om karriere, arbeidsliv og balansen mellom jobben og livet.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/karriere-og-ledelse/i/31zvGe/gjoer-du-disse-feilene-paa-jobbintervjuet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2472a173-37ff-39e6-9b76-db63bfb40954?fit=crop&h=675&upscale=true&w=1200&s=9fa12d7f8241aa5f138ff48e0700539fa91991e5",
-      "localImage": "assets/news/1183c515e3c82d.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg",
+      "localImage": "assets/news/bea79dd2849075.jpg",
       "score": 13
     },
     {
-      "id": "d3338702b7a0d8",
+      "id": "a8276a740efb7c",
       "category": "Norge",
-      "published": "24.10. 11:33",
-      "publishedISO": "2026-10-24T11:33:31+02:00",
-      "title": "NRK avslører: Telefonsvindlerne ringer fra norske nummer",
-      "summary": "En svindelannonse ble til over 311 telefonanrop, fortalte NRK nylig. NRK kan nå fortelle at Bandwidth er tildelt 31.100 telefonnumre i Norge og at deres norske nummer misbrukes til svindel. Den siste tiden har vi blitt oppringt 32 ganger fra 8 norske telefonnummer tildelt Bandwidth.",
+      "published": "24.10. 14:29",
+      "publishedISO": "2026-10-24T14:29:07+02:00",
+      "title": "Alvorlig voldshendelse i Oslo – leter etter gjerningsperson",
+      "summary": "En person er knivstukket i et parkeringshus i Oslo sentrum. Nødetatene rykket lørdag ettermiddag ut til en alvorlig hendelse, hvor en person var knivstukket. – Vår forståelse av situasjonen er at gjerningspersonen og offeret har en relasjon, og at det er grunnen til hendelsen, sier innsatsleder Tonje Brandrud. Knivstikkingen hadde et stort farepotensial, mener politiet. – Vi ser svært alvorlig på dette, men må komme tilbake til flere detaljer, sier hun.",
       "keyPoints": [
-        "NRK kan nå fortelle at Bandwidth er tildelt 31.100 telefonnumre i Norge og at deres norske nummer misbrukes til svindel.",
-        "Den siste tiden har vi blitt oppringt 32 ganger fra 8 norske telefonnummer tildelt Bandwidth.",
-        "En svindelannonse ble til over 311 telefonanrop, fortalte NRK nylig.",
-        "OPPRINGT: Kort tid etter at NRK registrerte et telefonnummer på denne nettsiden ble vi oppringt av en norsk telefonnummer tildelt Voxbone."
+        "Nødetatene rykket lørdag ettermiddag ut til en alvorlig hendelse, hvor en person var knivstukket. – Vår forståelse av situasjonen er at gjerningspersonen og offeret har en relasjon, og at det er grunnen til hendelsen, sier innsatsleder Tonje Brandrud.",
+        "Knivstikkingen hadde et stort farepotensial, mener politiet. – Vi ser svært alvorlig på dette, men må komme tilbake til flere detaljer, sier hun.",
+        "En person er knivstukket i et parkeringshus i Oslo sentrum.",
+        "Politiet har gjort flere undersøkelser på stedet. – Vi har gjort nødvendige undersøkelser på stedet, i form av å høre vitner, søke etter spor, innhente video, avslutter innsatslederen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/dokumentar/nrk-avslorer_-telefonsvindlerne-ringer-fra-norske-nummer-1.18040432",
+      "url": "https://www.nrk.no/stor-oslo/alvorlig-voldshendelse-i-oslo-_-leter-etter-gjerningsperson-1.18063733",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6GD67nIryAf0RMGWrH6yYQzY8jhmAib-ibROg3LVv7fA.png",
-      "localImage": "assets/news/d3338702b7a0d8.png",
-      "score": 13
-    },
-    {
-      "id": "123b1444d497f5",
-      "category": "Norge",
-      "published": "24.10. 11:31",
-      "publishedISO": "2026-10-24T11:31:01+02:00",
-      "title": "Agder vil bli første fylke styrt av Frp",
-      "summary": "Under nominasjonsmøtet laurdag blei tidlegare stortingsrepresentant Åse Michaelsen vald til toppkandidat i Agder Frp. Ho meiner Frp kan få fylkesordføraren i fleire norske fylke. – Vi ser rundt i heile landet at det er mange aktuelle fylke som kan få en fylkesordførar frå Frp. I Agder Frp er det plass nummer to det har vore heftig kamp om.",
-      "keyPoints": [
-        "Under nominasjonsmøtet laurdag blei tidlegare stortingsrepresentant Åse Michaelsen vald til toppkandidat i Agder Frp.",
-        "Ho meiner Frp kan få fylkesordføraren i fleire norske fylke. – Vi ser rundt i heile landet at det er mange aktuelle fylke som kan få en fylkesordførar frå Frp.",
-        "I Agder Frp er det plass nummer to det har vore heftig kamp om.",
-        "Agder er eit blått fylke og eit veldig godt Frp-fylke, seier Åse Michaelsen til NRK."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/agder-vil-bli-forste-fylke-styrt-av-frp-1.18063643",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/FXIp7e6-B6fWHtb1pNsNDgNGgeN48bwFyEr5oW3a0s4w.jpg",
-      "localImage": "assets/news/123b1444d497f5.jpg",
-      "score": 13
-    },
-    {
-      "id": "4c3931c1078385",
-      "category": "Norge",
-      "published": "24.10. 11:25",
-      "publishedISO": "2026-10-24T11:25:13+02:00",
-      "title": "LSK-supporter si verste oppleving på Åråsen",
-      "summary": "Supporter Haakon Jordbakke beskriv hendinga som «hans verste stadionbesøk». SKUFFA: Haakon Jordbakke er ikkje fornøgd med logistikken under kampen mot Real Sociedad. – Det er den verste stadionopplevinga eg har hatt på mine 251 kampar på Åråsen. Det var fullt hus på Åråsen og tilsynelatande god stemning sjølv om Lillestrøm gjekk på sitt største tap på heimebane sidan ein septemberkveld mot Rosenborg i 2003.",
-      "keyPoints": [
-        "SKUFFA: Haakon Jordbakke er ikkje fornøgd med logistikken under kampen mot Real Sociedad. – Det er den verste stadionopplevinga eg har hatt på mine 251 kampar på Åråsen.",
-        "Det var fullt hus på Åråsen og tilsynelatande god stemning sjølv om Lillestrøm gjekk på sitt største tap på heimebane sidan ein septemberkveld mot Rosenborg i 2003.",
-        "Supporter Haakon Jordbakke beskriv hendinga som «hans verste stadionbesøk».",
-        "Som sesongkortinnehavar på Kanarifeltet og stor fan i nesten 30 år, var Jordbakke klar for full gass som ihuga supporter saman med 1900 andre på ståfeltet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/lsk-supporter-si-verste-oppleving-pa-arasen-1.18063360",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0l4E1hBhOOxLo64UQvL2UQIzJpKLpSGe5v5zWVDT_e6A.jpg",
-      "localImage": "assets/news/4c3931c1078385.jpg",
+      "image": "https://gfx.nrk.no/6pA_qUH3p-n0xPhlFi-IWA5675kMbsVK1PeocfH3cG_g.jpg",
+      "localImage": "assets/news/a8276a740efb7c.webp",
       "score": 13
     }
   ]
