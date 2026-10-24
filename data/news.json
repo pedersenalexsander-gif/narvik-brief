@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.10.2026 kl. 22:22",
-  "updatedISO": "2026-10-24T22:22:10.754550+02:00",
+  "updatedAt": "25.10.2026 kl. 00:40",
+  "updatedISO": "2026-10-25T00:40:43.945072+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
       "localImage": "assets/news/68fb6a668075b0.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "3da64f86b96d31",
@@ -106,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jwFMgUb93JqkHQUlmUj_yQWlK8JBiEl2jiHXTrBGs_Cw.jpg",
       "localImage": "assets/news/d0ab12a09a1560.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "4f3c95dbd91cdc",
@@ -172,6 +172,27 @@
       "score": 13
     },
     {
+      "id": "2ebf2f69a018ac",
+      "category": "Økonomi",
+      "published": "23.10. 09:02",
+      "publishedISO": "2026-10-23T09:02:11+02:00",
+      "title": "Equinor steg markant på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs endte opp 0,76 prosent fredag. Oljeprisen fortsetter å stige, og i Oslo er det fullt trykk i resultatrushet. Pengene skal brukes til strategiske oppkjøp og muligheter for sammenslåinger og oppkjøp, samt kostnader knyttet den tidligere varslede noteringen av selskapet på børs i USA i tillegg til i Oslo.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs endte opp 0,76 prosent fredag.",
+        "Pengene skal brukes til strategiske oppkjøp og muligheter for sammenslåinger og oppkjøp, samt kostnader knyttet den tidligere varslede noteringen av selskapet på børs i USA i tillegg til i Oslo.",
+        "Oljeprisen fortsetter å stige, og i Oslo er det fullt trykk i resultatrushet.",
+        "Forsikringsinntektene steg til 11,37 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/d7eGvz/hydro-faller-tungt-paa-oslo-boers-etter-tallslipp-tomra-flyr-opp-7-prosent",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fe35dab3-12b4-3b05-ad93-2b0e8717785d?fit=crop&h=675&upscale=true&w=1200&s=9c6d8079cde2ff1504bd90e766370b30bbc46bde",
+      "localImage": "assets/news/2ebf2f69a018ac.jpg",
+      "score": 13
+    },
+    {
       "id": "284da9847e612d",
       "category": "Økonomi",
       "published": "24.10. 18:33",
@@ -190,28 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f35223aa-ef4c-361e-a49d-5f173539809c?fit=crop&h=675&upscale=true&w=1200&s=2cde03c865999dc4846910a8efb6979534462e2f",
       "localImage": "assets/news/284da9847e612d.jpg",
-      "score": 13
-    },
-    {
-      "id": "df66b2196571ed",
-      "category": "Norge",
-      "published": "24.10. 17:57",
-      "publishedISO": "2026-10-24T17:57:36+02:00",
-      "title": "Eliteserien: Vålerenga sjokkerte Bodø/Glimt",
-      "summary": "Vålerenga sendte Bodø/Glimt målløse og poengløse av eget kunstgress. Nå kan historien gjenta seg: Til tross for et tidvis massivt Bodø/Glimt-press, vant Vålerenga 1–0 på Aspmyra lørdag ettermiddag. Bodø /Glimt hadde store sjanser, og TV 2s kommentator Endre Olav Osnes trodde knapt det han så da Sondre Brunstad Fet bommet på en megasjanse 12 minutter før slutt.",
-      "keyPoints": [
-        "Vålerenga sendte Bodø/Glimt målløse og poengløse av eget kunstgress.",
-        "Nå kan historien gjenta seg: Til tross for et tidvis massivt Bodø/Glimt-press, vant Vålerenga 1–0 på Aspmyra lørdag ettermiddag.",
-        "Bodø /Glimt hadde store sjanser, og TV 2s kommentator Endre Olav Osnes trodde knapt det han så da Sondre Brunstad Fet bommet på en megasjanse 12 minutter før slutt.",
-        "Det betyr at Viking kan skaffe seg et tre poengs forsprang hvis de slår Tromsø på hjemmebane søndag. – Jeg fikk følelsen av at vi kunne spille til Kveldsnytt eller nyhetene uten å få ballen i nettet, sier Bodø/Glimt-trener Kjetil Knutsen til TV 2. – Jeg føler at vi ikke forstår hva vi møter."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/eliteserien_-valerenga-sjokkerte-bodo_glimt-1.18063860",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Gpu8mcdu8-0Dw5bKKNtHNQoBB5Fn4sQ5zNReNwh1W5qQ",
-      "localImage": "assets/news/df66b2196571ed.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
