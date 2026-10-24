@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.10.2026 kl. 19:54",
-  "updatedISO": "2026-10-24T19:54:53.514732+02:00",
+  "updatedAt": "24.10.2026 kl. 22:22",
+  "updatedISO": "2026-10-24T22:22:10.754550+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,17 +22,17 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/UITMVw5GlrlXzJthNNMZ4gunTnRK53KDUSCDsMebly-Q.jpg",
       "localImage": "assets/news/63b78d3f9d83ff.jpg",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "285e794865972d",
+      "id": "68fb6a668075b0",
       "category": "Verden",
       "published": "24.10. 17:56",
       "publishedISO": "2026-10-24T17:56:48+02:00",
-      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-      "summary": "Adolf Hitler's Alpine mountain retreat, known as the Eagle's Nest, was engulfed in flames on Friday night while police arrested a 33-year-old male suspect. Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat. Video, 00:00:33Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat Up Next.",
+      "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Adolf Hitler's Alpine mountain retreat, known as the Eagle's Nest, was engulfed in flames on Friday night while police arrested a 33-year-old male suspect. Fire engulfs Hitler's mountaintop Eagle's Nest retreat. Video, 00:00:33Fire engulfs Hitler's mountaintop Eagle's Nest retreat Up Next.",
       "keyPoints": [
-        "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat.",
+        "Fire engulfs Hitler's mountaintop Eagle's Nest retreat.",
         "Adolf Hitler's Alpine mountain retreat, known as the Eagle's Nest, was engulfed in flames on Friday night while police arrested a 33-year-old male suspect.",
         "Hitler also used the area as a backdrop for propaganda films portraying him as a lover of animals and nature.",
         "Video, 00:00:55CCTV footage shows gunmen near church in Jordan Prince William on how he once dreamed of becoming 'DJ Xara' Video, 00:01:09Prince William on how he once dreamed of becoming 'DJ Xara' BBC presenter battles strong winds as Storm Austen hits Newquay."
@@ -42,7 +42,7 @@
       "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bfba/live/f1443bc0-cfbf-11f1-93e1-3b657b665bcf.jpg",
-      "localImage": "assets/news/285e794865972d.jpg",
+      "localImage": "assets/news/68fb6a668075b0.jpg",
       "score": 13
     },
     {
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/aaccc359-efdb-3636-a0c3-6734f61e70b0?fit=crop&h=675&upscale=true&w=1200&s=fb9a26a190639d1dae8d7e407e454fc3f5e150ea",
       "localImage": "assets/news/3da64f86b96d31.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "8ea58f5b360a82",
@@ -85,28 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/75d066c5-42d8-33df-a5ab-1479ac87d15f?fit=crop&h=675&upscale=true&w=1200&s=a2d0cd91cee19276ab0e41232483c0bcefedf909",
       "localImage": "assets/news/8ea58f5b360a82.jpg",
-      "score": 15
-    },
-    {
-      "id": "e7109b5562eb1e",
-      "category": "Norge",
-      "published": "24.10. 17:57",
-      "publishedISO": "2026-10-24T17:57:36+02:00",
-      "title": "Eliteserien: Vålerenga sjokkerte Bodø/Glimt",
-      "summary": "Vålerenga sendte Bodø/Glimt målløse og poengløse av eget kunstgress. KLAR TALE: Kjetil Knutsen er svært kritisk til måten Bodø/Glimt tapte på mot Vålerenga. Nå kan historien gjenta seg: Til tross for et tidvis massivt Bodø/Glimt-press, vant Vålerenga 1–0 på Aspmyra lørdag ettermiddag.",
-      "keyPoints": [
-        "KLAR TALE: Kjetil Knutsen er svært kritisk til måten Bodø/Glimt tapte på mot Vålerenga.",
-        "Vålerenga sendte Bodø/Glimt målløse og poengløse av eget kunstgress.",
-        "Nå kan historien gjenta seg: Til tross for et tidvis massivt Bodø/Glimt-press, vant Vålerenga 1–0 på Aspmyra lørdag ettermiddag.",
-        "Bodø /Glimt hadde store sjanser, og TV 2s kommentator Endre Olav Osnes trodde knapt det han så da Sondre Brunstad Fet bommet på en megasjanse 12 minutter før slutt."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/eliteserien_-valerenga-sjokkerte-bodo_glimt-1.18063860",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/80_JHHewq884nx7EdNDzDgnTNamQANfoNawpN6cqM3Zg.jpg",
-      "localImage": "assets/news/e7109b5562eb1e.jpg",
-      "score": 17
+      "score": 14
     },
     {
       "id": "d0ab12a09a1560",
@@ -130,87 +109,108 @@
       "score": 16
     },
     {
-      "id": "2ebf2f69a018ac",
-      "category": "Økonomi",
-      "published": "23.10. 09:02",
-      "publishedISO": "2026-10-23T09:02:11+02:00",
-      "title": "Equinor steg markant på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs endte opp 0,76 prosent fredag. Oljeprisen fortsetter å stige, og i Oslo er det fullt trykk i resultatrushet. Pengene skal brukes til strategiske oppkjøp og muligheter for sammenslåinger og oppkjøp, samt kostnader knyttet den tidligere varslede noteringen av selskapet på børs i USA i tillegg til i Oslo.",
+      "id": "4f3c95dbd91cdc",
+      "category": "Norge",
+      "published": "24.10. 22:14",
+      "publishedISO": "2026-10-24T22:14:19+02:00",
+      "title": "Magnus Kulset knuste egen rekord i Everesting. Nå setter 25-åringen seg nye, hårete mål",
+      "summary": "Hvit av salt slettet Magnus Kulset (26) sin egen bestenotering «opp» Mount Everest. GODT FORBEREDT: Favoritt-segmentet var nøye valgt ut, seks vifter stilt inn mot kroppen: Så satte Magnus Kulset igjen ny verdensrekord i Everesting. – Fyy! Han har nettopp fått høre den nye verdensrekorden til sin tidligere kollega, Magnus Kulset, i såkalt Everesting.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs endte opp 0,76 prosent fredag.",
-        "Pengene skal brukes til strategiske oppkjøp og muligheter for sammenslåinger og oppkjøp, samt kostnader knyttet den tidligere varslede noteringen av selskapet på børs i USA i tillegg til i Oslo.",
-        "Oljeprisen fortsetter å stige, og i Oslo er det fullt trykk i resultatrushet.",
-        "Forsikringsinntektene steg til 11,37 milliarder kroner."
+        "Han har nettopp fått høre den nye verdensrekorden til sin tidligere kollega, Magnus Kulset, i såkalt Everesting.",
+        "Hvit av salt slettet Magnus Kulset (26) sin egen bestenotering «opp» Mount Everest.",
+        "GODT FORBEREDT: Favoritt-segmentet var nøye valgt ut, seks vifter stilt inn mot kroppen: Så satte Magnus Kulset igjen ny verdensrekord i Everesting. – Fyy!",
+        "En knusing av egen verdensrekord. – Det føles ganske mørkt nå, sier Magnus Kulset til NRK."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/d7eGvz/hydro-faller-tungt-paa-oslo-boers-etter-tallslipp-tomra-flyr-opp-7-prosent",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/fe35dab3-12b4-3b05-ad93-2b0e8717785d?fit=crop&h=675&upscale=true&w=1200&s=9c6d8079cde2ff1504bd90e766370b30bbc46bde",
-      "localImage": "assets/news/2ebf2f69a018ac.jpg",
-      "score": 14
+      "url": "https://www.nrk.no/sport/magnus-kulset-knuste-egen-rekord-i-everesting.-na-setter-25-aringen-seg-nye_-harete-mal-1.18063902",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/QP9aoJcz5BeRdgldrkJnDwubembUxfkbDNQdGCnOk9YA.jpg",
+      "localImage": "assets/news/4f3c95dbd91cdc.jpg",
+      "score": 13
     },
     {
-      "id": "ed5adf3a62f30f",
+      "id": "ecec68377f0bca",
+      "category": "Norge",
+      "published": "24.10. 22:00",
+      "publishedISO": "2026-10-24T22:00:15+02:00",
+      "title": "Nye flybilder viser store endringer i grunnforholdene på Svalbard",
+      "summary": "Forskerne har fått detaljerte beskrivelser fra Forkastningsfjellet på Svalbard. – Vi ser veldig dramatiske endringer flere steder i denne fjellsiden. sier seniorforsker i NORCE, Tom Rune Lauknes. Rundt 390.000 kubikkmeter stein og løsmasser er borte fra ett område av Forkastningsfjellet på Svalbard siden 2009. * NORCE sin nye 3D-modell er laget med en oppløsning på 25 cm, mens den eldre høydemodellen fra Norsk Polarinstitutt i dette området har en oppløsning på 2,5 m. * For å gjøre sammenligningen mest mulig rettferdig er begge modellene satt til samme oppløsning på 2,5 meter før endringene beregnes. Rødt viser områder der terrenget har blitt lavere, mens blått viser områder der terrenget har blitt høyere De siste årene har Lufttransport flere ganger blitt chartret av NORCE til ulike forskningsprosjekter, på og rundt Svalbard og Framstredet mot Grønland. – Tidligere har vi brukt dette flyet i forskning på sjøis.",
+      "keyPoints": [
+        "Rundt 390.000 kubikkmeter stein og løsmasser er borte fra ett område av Forkastningsfjellet på Svalbard siden 2009. * NORCE sin nye 3D-modell er laget med en oppløsning på 25 cm, mens den eldre høydemodellen fra Norsk Polarinstitutt i dette området har en oppløsning på 2,5 m. * For å gjøre sammenligningen mest mulig rettferdig er begge modellene satt til samme oppløsning på 2,5 meter før endringene beregnes.",
+        "Forskerne har fått detaljerte beskrivelser fra Forkastningsfjellet på Svalbard. – Vi ser veldig dramatiske endringer flere steder i denne fjellsiden. sier seniorforsker i NORCE, Tom Rune Lauknes.",
+        "Rødt viser områder der terrenget har blitt lavere, mens blått viser områder der terrenget har blitt høyere De siste årene har Lufttransport flere ganger blitt chartret av NORCE til ulike forskningsprosjekter, på og rundt Svalbard og Framstredet mot Grønland. – Tidligere har vi brukt dette flyet i forskning på sjøis.",
+        "STORE ENDRINGER: Bilder tatt fra fly gir andre muligheter enn bilder tatt fra satellitt."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/nye-flybilder-viser-store-endringer-i-grunnforholdene-pa-svalbard-1.18055453",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/zmLevXpHAnIFmYQCjzeTFgO_7tlWI6vI22odm7NU6m1A.png",
+      "localImage": "assets/news/ecec68377f0bca.png",
+      "score": 13
+    },
+    {
+      "id": "6d62b3b2f2760b",
+      "category": "Norge",
+      "published": "24.10. 20:37",
+      "publishedISO": "2026-10-24T20:37:40+02:00",
+      "title": "– Tipper halvparten i klassen snuser",
+      "summary": "De siste tallene fra SSB viser at 4 av 10 i aldersgruppen 16–24 år bruker ett eller flere nikotinprodukter regelmessig. – Jeg tror de fleste jeg kjenner holder på med en eller annen form for nikotin. Flere av ungdommene anslår at så mange som halvparten av elevene i klassen allerede snuser. Ingrid Victoria Jöfors og Serina Winge ser at mange i klassen bruker snus eller vaper på fest. – Jeg har personlig prøvd litt ting.",
+      "keyPoints": [
+        "Flere av ungdommene anslår at så mange som halvparten av elevene i klassen allerede snuser.",
+        "Ingrid Victoria Jöfors og Serina Winge ser at mange i klassen bruker snus eller vaper på fest. – Jeg har personlig prøvd litt ting.",
+        "De siste tallene fra SSB viser at 4 av 10 i aldersgruppen 16–24 år bruker ett eller flere nikotinprodukter regelmessig. – Jeg tror de fleste jeg kjenner holder på med en eller annen form for nikotin.",
+        "Det gjøres altfor lite for å nå målet, mener Kreftforeningen. – De fleste av vennene mine bruker snus, forteller Teodor Kjeldstrøm Edvardsen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/vanlig-med-nikotin-i-generasjonen-som-skulle-bli-nikotinfri-1.18059843",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/P3NshBH1ARvcz5_tkTFragN-H7k0gxDxccIc5J2FC_jA.jpg",
+      "localImage": "assets/news/6d62b3b2f2760b.jpg",
+      "score": 13
+    },
+    {
+      "id": "284da9847e612d",
       "category": "Økonomi",
       "published": "24.10. 18:33",
       "publishedISO": "2026-10-24T18:33:16+02:00",
-      "title": "Voldsomme demonstrasjoner i Paris: Kraftige sammenstøt",
-      "summary": "Tidlig kveld lørdag er det 250.000 demonstranter i Paris og 800.000 demonstranter i Frankrike, ifølge det franske fagforbundet CGT. Det er kaos i gatene og avisen Le Figaro melder at over 500 har angrepet politiet i Paris. Journalistene våre sier det har vært kraftige sammenstøt mellom politi og demonstranter.",
+      "title": "Voldsomme demonstrasjoner i Frankrike: 1000 pågrepet",
+      "summary": "Lørdag kveld brøt det ut kaos i Paris og andre byer i Frankrike. Lørdag kveld var det 250.000 demonstranter ute i Paris’ gater og 800.000 demonstranter totalt i Frankrike, ifølge det franske fagforbundet CGT. Ifølge landets innenriksminister er nesten 1000 pågrepet i landet totalt lørdag.",
       "keyPoints": [
-        "Tidlig kveld lørdag er det 250.000 demonstranter i Paris og 800.000 demonstranter i Frankrike, ifølge det franske fagforbundet CGT.",
-        "Journalistene våre sier det har vært kraftige sammenstøt mellom politi og demonstranter.",
-        "Det er kaos i gatene og avisen Le Figaro melder at over 500 har angrepet politiet i Paris.",
-        "Lørdag kveld har det brutt ut kaos i Paris og andre byer i Frankrike."
+        "Lørdag kveld var det 250.000 demonstranter ute i Paris’ gater og 800.000 demonstranter totalt i Frankrike, ifølge det franske fagforbundet CGT.",
+        "Ifølge landets innenriksminister er nesten 1000 pågrepet i landet totalt lørdag.",
+        "Lørdag kveld brøt det ut kaos i Paris og andre byer i Frankrike.",
+        "Tidligere lørdag kveld meldte avisen Le Figaro også at over 500 demonstranter skal ha angrepet politiet i Paris."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/internasjonal-oekonomi/i/zlBKA4/frankrike-demonstrasjoner-charlotte-demonstrerer-for-moren-sin",
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f35223aa-ef4c-361e-a49d-5f173539809c?fit=crop&h=675&upscale=true&w=1200&s=2cde03c865999dc4846910a8efb6979534462e2f",
-      "localImage": "assets/news/ed5adf3a62f30f.jpg",
+      "localImage": "assets/news/284da9847e612d.jpg",
       "score": 13
     },
     {
-      "id": "1e411004fae9f2",
+      "id": "df66b2196571ed",
       "category": "Norge",
-      "published": "24.10. 16:54",
-      "publishedISO": "2026-10-24T16:54:14+02:00",
-      "title": "Viking vant mot Grei – fortsetter å kjempe om opprykk",
-      "summary": "Selv med seier etter slitekamp mot SF Grei, må Viking fortsette å kjempe om mulig opprykk til Toppserien. Viking vant kontrollert mot Grei og fortsetter kampen om opptrykk til Toppserien. Viking stod imot Oslo-laget Grei, men fikk null hjelp av Bryne som tapte 6–0 mot Åsane i Bergen. – Av og til får du stang inn, og av og til får du stang ut.",
+      "published": "24.10. 17:57",
+      "publishedISO": "2026-10-24T17:57:36+02:00",
+      "title": "Eliteserien: Vålerenga sjokkerte Bodø/Glimt",
+      "summary": "Vålerenga sendte Bodø/Glimt målløse og poengløse av eget kunstgress. Nå kan historien gjenta seg: Til tross for et tidvis massivt Bodø/Glimt-press, vant Vålerenga 1–0 på Aspmyra lørdag ettermiddag. Bodø /Glimt hadde store sjanser, og TV 2s kommentator Endre Olav Osnes trodde knapt det han så da Sondre Brunstad Fet bommet på en megasjanse 12 minutter før slutt.",
       "keyPoints": [
-        "Selv med seier etter slitekamp mot SF Grei, må Viking fortsette å kjempe om mulig opprykk til Toppserien.",
-        "Viking vant kontrollert mot Grei og fortsetter kampen om opptrykk til Toppserien.",
-        "Viking stod imot Oslo-laget Grei, men fikk null hjelp av Bryne som tapte 6–0 mot Åsane i Bergen. – Av og til får du stang inn, og av og til får du stang ut.",
-        "Viking kom til desidert flest sjanser, men det var et selvmål av Grei på tampen som resulterte i stillingen 2–0 til Viking. – En tung kamp."
+        "Vålerenga sendte Bodø/Glimt målløse og poengløse av eget kunstgress.",
+        "Nå kan historien gjenta seg: Til tross for et tidvis massivt Bodø/Glimt-press, vant Vålerenga 1–0 på Aspmyra lørdag ettermiddag.",
+        "Bodø /Glimt hadde store sjanser, og TV 2s kommentator Endre Olav Osnes trodde knapt det han så da Sondre Brunstad Fet bommet på en megasjanse 12 minutter før slutt.",
+        "Det betyr at Viking kan skaffe seg et tre poengs forsprang hvis de slår Tromsø på hjemmebane søndag. – Jeg fikk følelsen av at vi kunne spille til Kveldsnytt eller nyhetene uten å få ballen i nettet, sier Bodø/Glimt-trener Kjetil Knutsen til TV 2. – Jeg føler at vi ikke forstår hva vi møter."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/viking-vant-mot-grei-_-fortsetter-a-kjempe-om-opprykk-1.18063621",
+      "url": "https://www.nrk.no/sport/eliteserien_-valerenga-sjokkerte-bodo_glimt-1.18063860",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Z0GmDR6Fq4CSSAmuU9o0ug-yUU6Kus6VBRyjy14s9JZw.jpg",
-      "localImage": "assets/news/1e411004fae9f2.jpg",
-      "score": 13
-    },
-    {
-      "id": "fc84a61de17945",
-      "category": "Norge",
-      "published": "24.10. 16:10",
-      "publishedISO": "2026-10-24T16:10:21+02:00",
-      "title": "Alvorlig ulykke i Nordland: tre personer fraktes til sykehus i redningshelikopter",
-      "summary": "En bil med tre personer har kjørt av veien og truffet et tre. TRAFIKKULYKKE: Alvorlig ulykke der tre personer er involvert. En bil med tre personer har kjørt av veien og truffet et tre. – Da politiet kom på stedet, ser vi en bil som har kjørt av veien og inn i et tre.",
-      "keyPoints": [
-        "TRAFIKKULYKKE: Alvorlig ulykke der tre personer er involvert.",
-        "En bil med tre personer har kjørt av veien og truffet et tre. – Da politiet kom på stedet, ser vi en bil som har kjørt av veien og inn i et tre.",
-        "Anders Nordlie er innsatsleder på ulykkesstedet. – De tre involverte ble ivaretatt av personer som først kom til stedet.",
-        "Av de tre involverte er det minst én person som er alvorlig skadd."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/alvorlig-ulykke-i-nordland_-tre-personer-fraktes-til-sykehus-i-redningshelikopter-1.18063794",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/bRZUsP7046zHfQSipkYTewv5uWz8WaXmrvXemTYbpxhw.jpg",
-      "localImage": "assets/news/fc84a61de17945.jpg",
+      "image": "https://gfx.nrk.no/Gpu8mcdu8-0Dw5bKKNtHNQoBB5Fn4sQ5zNReNwh1W5qQ",
+      "localImage": "assets/news/df66b2196571ed.jpg",
       "score": 13
     }
   ]
