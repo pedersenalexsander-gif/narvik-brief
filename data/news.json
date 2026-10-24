@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.10.2026 kl. 03:37",
-  "updatedISO": "2026-10-24T03:37:37.106901+02:00",
+  "updatedAt": "24.10.2026 kl. 08:30",
+  "updatedISO": "2026-10-24T08:30:53.573383+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/V-AjfvfS-HWX6TsIleczLwc37SaaTo_yXHxwCauQiHNg.jpg",
       "localImage": "assets/news/735c7445ec5abe.jpg",
-      "score": 16
-    },
-    {
-      "id": "b704ad77ad7529",
-      "category": "Verden",
-      "published": "23.10. 11:23",
-      "publishedISO": "2026-10-23T11:23:53+02:00",
-      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
-      "summary": "Mario Guerrero stemte på Trump tre ganger på rad – men planlegger å stemme demokraten i november. Nylige meningsmålinger tyder på at mye av Trumps støtte blant latinamerikanske velgere har ebbet ut siden 2024. De antyder også at latinamerikanske velgere favoriserer demokrater fremfor republikanere med betydelig margin. \"Da jeg stemte på president Trump, stemte jeg på ham fordi vi så en tilstrømning av immigrasjon under Biden-administrasjonen,\" sa Mario Guerrero, en ung meksikansk-amerikansk forretningsmann som leder South Texas Builders Association. FORKLARET: Hvorfor Trumps godkjenningsvurdering betyr noe i mellomperiodene I DYBDE: Republikanerne går på en Trump-linje Det var delvis troen på at latinamerikanske velgere flyttet permanent mot det republikanske partiet som førte til at Trump presset stater som Texas til å tegne kongresskartene sine på nytt tidlig, før folketellingen en gang i tiåret.",
-      "keyPoints": [
-        "De antyder også at latinamerikanske velgere favoriserer demokrater fremfor republikanere med en betydelig margin. \"Da jeg stemte på president Trump, stemte jeg på ham fordi vi så en tilstrømning av immigrasjon under Biden-administrasjonen,\" sa Mario Guerrero, en ung meksikansk-amerikansk forretningsmann som leder South Texas Builders Association.",
-        "FORKLARET: Hvorfor Trumps godkjenningsvurdering betyr noe i mellomperiodene I DYBDE: Republikanerne går på en Trump-linje Det var delvis troen på at latinamerikanske velgere flyttet permanent mot det republikanske partiet som førte til at Trump presset stater som Texas til å tegne kongresskartene sine på nytt tidlig, før folketellingen en gang i tiåret.",
-        "Mario Guerrero stemte på Trump tre ganger på rad – men planlegger å stemme demokraten i november. Nylige meningsmålinger tyder på at mye av Trumps støtte blant latinamerikanske velgere har ebbet ut siden 2024.",
-        "Og det var det løftet som delvis drev Trumps forbløffende høye støttenivå i staten, og tok rundt 55 % av latinamerikanske stemmer i Texas alene – en rekord for en republikansk presidentkandidat."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0121/live/5ab2f2c0-cedc-11f1-8507-45cb00a1c41c.jpg",
-      "localImage": "assets/news/b704ad77ad7529.jpg",
-      "score": 14
-    },
-    {
-      "id": "04334183b91985",
-      "category": "USA",
-      "published": "24.10. 00:24",
-      "publishedISO": "2026-10-24T00:24:36+02:00",
-      "title": "Who actually controls Ukraine's access to Starlink?",
-      "summary": "Ukrainas president Volodymyr Zelensky sier at uforklarlige grenser for Starlink- og Starshield-tjenester fortsetter å påvirke ukrainske styrker, mens amerikanske tjenestemenn og Elon Musk gir motstridende beretninger om hvem som kontrollerer restriksjonene. Ukraina bruker både den sivile tjenesten Starlink og den sikrere Starshield, avhengig av hvilken kommunikasjon som trengs. Video, 00:01:49Hvem kontrollerer egentlig Ukrainas tilgang til Starlink?",
-      "keyPoints": [
-        "Video, 00:01:49Who actually controls Ukraine's access to Starlink?",
-        "Ukrainas president Volodymyr Zelensky sier at uforklarlige grenser for Starlink- og Starshield-tjenester fortsetter å påvirke ukrainske styrker, mens amerikanske tjenestemenn og Elon Musk gir motstridende beretninger om hvem som kontrollerer restriksjonene.",
-        "Ukraina bruker både den sivile tjenesten Starlink og den sikrere Starshield, avhengig av hvilken kommunikasjon som trengs.",
-        "Video, 00:00:55Se Pokémon-kortene som gjorde en pensjonert dekoratør til millionær Ukraina ble rammet av streiker etter at Russland gikk med på nye fredssamtaler."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a39d/live/2b410510-cf2f-11f1-b441-2b33b063138f.jpg",
-      "localImage": "assets/news/04334183b91985.jpg",
-      "score": 17
+      "score": 15
     },
     {
       "id": "8ea58f5b360a82",
@@ -85,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/75d066c5-42d8-33df-a5ab-1479ac87d15f?fit=crop&h=675&upscale=true&w=1200&s=a2d0cd91cee19276ab0e41232483c0bcefedf909",
       "localImage": "assets/news/8ea58f5b360a82.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "2ebf2f69a018ac",
@@ -106,28 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fe35dab3-12b4-3b05-ad93-2b0e8717785d?fit=crop&h=675&upscale=true&w=1200&s=9c6d8079cde2ff1504bd90e766370b30bbc46bde",
       "localImage": "assets/news/2ebf2f69a018ac.jpg",
-      "score": 17
-    },
-    {
-      "id": "d3a5b564aa9d09",
-      "category": "AI",
-      "published": "23.10. 14:00",
-      "publishedISO": "2026-10-23T14:00:25+02:00",
-      "title": "'It's been relentless' say IT workers on frontline of PHP cyber security scramble",
-      "summary": "Andre IT- og cybereksperter har fortalt BBC om kampene deres de siste 48 timene, hvis historier gir oss et innblikk i hvordan det er ved kullflaten til en stor cybernødsituasjon. Han sa at en del av problemet var at kunngjøringen om sikkerhetssårbarhetene i PHP kom som en overraskelse, uten mye tid til å forberede seg på handling. Men noen i bransjen er bekymret for hvordan folk ble fortalt om de kritiske sårbarhetene i PHP, da de frykter at forbedringer i AI vil skape flere slike hendelser. \"Vi kommer til å finne skumle sårbarheter med de fantastiske egenskapene som OpenAI og Anthropic bringer online, men vi må kalibrere meldingene,\" skrev Mark Maunder, grunnlegger av Wordfence - et Wordpress sikkerhetsverktøy.",
-      "keyPoints": [
-        "Han sa at en del av problemet var at kunngjøringen om sikkerhetssårbarhetene i PHP kom som en overraskelse, uten mye tid til å forberede seg på handling.",
-        "Men noen i bransjen er bekymret for hvordan folk ble fortalt om de kritiske sårbarhetene i PHP, da de frykter at forbedringer i AI vil skape flere slike hendelser. \"Vi kommer til å finne skumle sårbarheter med de fantastiske egenskapene som OpenAI og Anthropic bringer online, men vi må kalibrere meldingene,\" skrev Mark Maunder, grunnlegger av Wordfence - et Wordpress sikkerhetsverktøy.",
-        "Andre IT- og cybereksperter har fortalt BBC om kampene deres de siste 48 timene, hvis historier gir oss et innblikk i hvordan det er ved kullflaten til en stor cybernødsituasjon.",
-        "Kappløp for å oppdatere tjenestenes datasystemer etter cybersikkerhetsfeil funnet Zoe Kleinman: PHP er cyberekvivalenten til en ueksplodert bombe"
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f861/live/f70b8e60-cedd-11f1-b90b-55df5472350e.jpg",
-      "localImage": "assets/news/d3a5b564aa9d09.jpg",
-      "score": 15
+      "score": 16
     },
     {
       "id": "8a9b6134707c18",
@@ -148,7 +85,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jNZCMwZ8KLZovrdZLaajjgUOHKPp2H_JylI5_FNAnYXA.jpg",
       "localImage": "assets/news/8a9b6134707c18.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "fe3a4988dca741",
@@ -169,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/61992d37-5fcc-3752-8011-9038621e2705?fit=crop&h=675&upscale=true&w=1200&s=7f35e5b0141ff45e4fbcf73fe4ea27aea743c683",
       "localImage": "assets/news/fe3a4988dca741.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "ff3f9e577d6ae0",
@@ -190,7 +127,49 @@
       "source": "nrk.no",
       "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
       "localImage": "assets/news/ff3f9e577d6ae0.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "54634853530fb4",
+      "category": "Norge",
+      "published": "24.10. 08:12",
+      "publishedISO": "2026-10-24T08:12:49+02:00",
+      "title": "Norsk skip reddet ni overlevende i Svartehavet",
+      "summary": "Det norske offshoreskipet «Sartor» reddet ni personer opp fra sjøen da et lasteskip ble truffet av en antatt russisk drone utenfor Romania, får NRK bekreftet. Én person er død og tre er savnet etter at et lasteskip sank i Svartehavet utenfor Romania fredag. Nå bekrefter det norske rederiet Høyland Offshore at det var et av deres skip som hentet opp de ni overlevende. – Det var en båt som kantret og anmodet til hjelp, også gikk vi til assistanse, sier eier og flåtesjef Karsten Høyland til NRK. Russland har tidligere avvist skyld for angrep mot skip i Svartehavet. – Det er klart at det ikke er noen som setter pris på det som finner sted der nede, og man hører jo om en viss diskusjon.",
+      "keyPoints": [
+        "Det norske offshoreskipet «Sartor» reddet ni personer opp fra sjøen da et lasteskip ble truffet av en antatt russisk drone utenfor Romania, får NRK bekreftet. Én person er død og tre er savnet etter at et lasteskip sank i Svartehavet utenfor Romania fredag.",
+        "Nå bekrefter det norske rederiet Høyland Offshore at det var et av deres skip som hentet opp de ni overlevende. – Det var en båt som kantret og anmodet til hjelp, også gikk vi til assistanse, sier eier og flåtesjef Karsten Høyland til NRK.",
+        "Russland har tidligere avvist skyld for angrep mot skip i Svartehavet. – Det er klart at det ikke er noen som setter pris på det som finner sted der nede, og man hører jo om en viss diskusjon.",
+        "Sju skip har blitt angrepet i Svartehavet de siste to ukene."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/artikkel/norsk-skip-reddet-ni-overlevende-i-svartehavet-1530901",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/7MXT0N1WTnVepc6m14GaFgtK1MSbnd-T4zomdOSGELeQ",
+      "localImage": "assets/news/54634853530fb4.jpg",
+      "score": 13
+    },
+    {
+      "id": "e3e82ad18c47a3",
+      "category": "Økonomi",
+      "published": "24.10. 07:45",
+      "publishedISO": "2026-10-24T07:45:22+02:00",
+      "title": "Utviklingen har stoppet opp, én årsak skiller seg ut",
+      "summary": "Men det siste tiåret har mye av denne fremgangen stanset opp. I 1950 var mer enn halvparten av menneskeheten så fattig. I den rike verden går 49 milliarder dollar, eller nesten en fjerdedel av alle bistandsforpliktelser, til klima.",
+      "keyPoints": [
+        "Men det siste tiåret har mye av denne fremgangen stanset opp.",
+        "I den rike verden går 49 milliarder dollar, eller nesten en fjerdedel av alle bistandsforpliktelser, til klima.",
+        "I 1950 var mer enn halvparten av menneskeheten så fattig.",
+        "Etter nesten to århundrer med fallende fattigdom har antallet fattige mennesker stått stille siden 2016."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/eGvGMO/utviklingen-har-stoppet-opp-en-aarsak-skiller-seg-ut",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/52557f5e-d6d2-35e6-9697-1fc551ab02ae?fit=crop&h=675&upscale=true&w=1200&s=be20c3a4fa8f8384e389f3a442bed21bf6ceaca0",
+      "localImage": "assets/news/e3e82ad18c47a3.jpg",
+      "score": 13
     },
     {
       "id": "3b8b7c7317152d",
@@ -211,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/445ea3e4-8891-3cfe-b5cc-2a240e9df764?fit=crop&h=675&upscale=true&w=1200&s=4a4261e3e94bace0f1bce436ba34e26fed2c8a4e",
       "localImage": "assets/news/3b8b7c7317152d.jpg",
-      "score": 14
+      "score": 13
     }
   ]
 }
