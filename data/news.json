@@ -1,6 +1,6 @@
 {
-  "updatedAt": "24.10.2026 kl. 01:10",
-  "updatedISO": "2026-10-24T01:10:53.102963+02:00",
+  "updatedAt": "24.10.2026 kl. 03:37",
+  "updatedISO": "2026-10-24T03:37:37.106901+02:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,6 +22,48 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/V-AjfvfS-HWX6TsIleczLwc37SaaTo_yXHxwCauQiHNg.jpg",
       "localImage": "assets/news/735c7445ec5abe.jpg",
+      "score": 16
+    },
+    {
+      "id": "b704ad77ad7529",
+      "category": "Verden",
+      "published": "23.10. 11:23",
+      "publishedISO": "2026-10-23T11:23:53+02:00",
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+      "summary": "Mario Guerrero stemte på Trump tre ganger på rad – men planlegger å stemme demokraten i november. Nylige meningsmålinger tyder på at mye av Trumps støtte blant latinamerikanske velgere har ebbet ut siden 2024. De antyder også at latinamerikanske velgere favoriserer demokrater fremfor republikanere med betydelig margin. \"Da jeg stemte på president Trump, stemte jeg på ham fordi vi så en tilstrømning av immigrasjon under Biden-administrasjonen,\" sa Mario Guerrero, en ung meksikansk-amerikansk forretningsmann som leder South Texas Builders Association. FORKLARET: Hvorfor Trumps godkjenningsvurdering betyr noe i mellomperiodene I DYBDE: Republikanerne går på en Trump-linje Det var delvis troen på at latinamerikanske velgere flyttet permanent mot det republikanske partiet som førte til at Trump presset stater som Texas til å tegne kongresskartene sine på nytt tidlig, før folketellingen en gang i tiåret.",
+      "keyPoints": [
+        "De antyder også at latinamerikanske velgere favoriserer demokrater fremfor republikanere med en betydelig margin. \"Da jeg stemte på president Trump, stemte jeg på ham fordi vi så en tilstrømning av immigrasjon under Biden-administrasjonen,\" sa Mario Guerrero, en ung meksikansk-amerikansk forretningsmann som leder South Texas Builders Association.",
+        "FORKLARET: Hvorfor Trumps godkjenningsvurdering betyr noe i mellomperiodene I DYBDE: Republikanerne går på en Trump-linje Det var delvis troen på at latinamerikanske velgere flyttet permanent mot det republikanske partiet som førte til at Trump presset stater som Texas til å tegne kongresskartene sine på nytt tidlig, før folketellingen en gang i tiåret.",
+        "Mario Guerrero stemte på Trump tre ganger på rad – men planlegger å stemme demokraten i november. Nylige meningsmålinger tyder på at mye av Trumps støtte blant latinamerikanske velgere har ebbet ut siden 2024.",
+        "Og det var det løftet som delvis drev Trumps forbløffende høye støttenivå i staten, og tok rundt 55 % av latinamerikanske stemmer i Texas alene – en rekord for en republikansk presidentkandidat."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0121/live/5ab2f2c0-cedc-11f1-8507-45cb00a1c41c.jpg",
+      "localImage": "assets/news/b704ad77ad7529.jpg",
+      "score": 14
+    },
+    {
+      "id": "04334183b91985",
+      "category": "USA",
+      "published": "24.10. 00:24",
+      "publishedISO": "2026-10-24T00:24:36+02:00",
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "summary": "Ukrainas president Volodymyr Zelensky sier at uforklarlige grenser for Starlink- og Starshield-tjenester fortsetter å påvirke ukrainske styrker, mens amerikanske tjenestemenn og Elon Musk gir motstridende beretninger om hvem som kontrollerer restriksjonene. Ukraina bruker både den sivile tjenesten Starlink og den sikrere Starshield, avhengig av hvilken kommunikasjon som trengs. Video, 00:01:49Hvem kontrollerer egentlig Ukrainas tilgang til Starlink?",
+      "keyPoints": [
+        "Video, 00:01:49Who actually controls Ukraine's access to Starlink?",
+        "Ukrainas president Volodymyr Zelensky sier at uforklarlige grenser for Starlink- og Starshield-tjenester fortsetter å påvirke ukrainske styrker, mens amerikanske tjenestemenn og Elon Musk gir motstridende beretninger om hvem som kontrollerer restriksjonene.",
+        "Ukraina bruker både den sivile tjenesten Starlink og den sikrere Starshield, avhengig av hvilken kommunikasjon som trengs.",
+        "Video, 00:00:55Se Pokémon-kortene som gjorde en pensjonert dekoratør til millionær Ukraina ble rammet av streiker etter at Russland gikk med på nye fredssamtaler."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a39d/live/2b410510-cf2f-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/04334183b91985.jpg",
       "score": 17
     },
     {
@@ -67,6 +109,27 @@
       "score": 17
     },
     {
+      "id": "d3a5b564aa9d09",
+      "category": "AI",
+      "published": "23.10. 14:00",
+      "publishedISO": "2026-10-23T14:00:25+02:00",
+      "title": "'It's been relentless' say IT workers on frontline of PHP cyber security scramble",
+      "summary": "Andre IT- og cybereksperter har fortalt BBC om kampene deres de siste 48 timene, hvis historier gir oss et innblikk i hvordan det er ved kullflaten til en stor cybernødsituasjon. Han sa at en del av problemet var at kunngjøringen om sikkerhetssårbarhetene i PHP kom som en overraskelse, uten mye tid til å forberede seg på handling. Men noen i bransjen er bekymret for hvordan folk ble fortalt om de kritiske sårbarhetene i PHP, da de frykter at forbedringer i AI vil skape flere slike hendelser. \"Vi kommer til å finne skumle sårbarheter med de fantastiske egenskapene som OpenAI og Anthropic bringer online, men vi må kalibrere meldingene,\" skrev Mark Maunder, grunnlegger av Wordfence - et Wordpress sikkerhetsverktøy.",
+      "keyPoints": [
+        "Han sa at en del av problemet var at kunngjøringen om sikkerhetssårbarhetene i PHP kom som en overraskelse, uten mye tid til å forberede seg på handling.",
+        "Men noen i bransjen er bekymret for hvordan folk ble fortalt om de kritiske sårbarhetene i PHP, da de frykter at forbedringer i AI vil skape flere slike hendelser. \"Vi kommer til å finne skumle sårbarheter med de fantastiske egenskapene som OpenAI og Anthropic bringer online, men vi må kalibrere meldingene,\" skrev Mark Maunder, grunnlegger av Wordfence - et Wordpress sikkerhetsverktøy.",
+        "Andre IT- og cybereksperter har fortalt BBC om kampene deres de siste 48 timene, hvis historier gir oss et innblikk i hvordan det er ved kullflaten til en stor cybernødsituasjon.",
+        "Kappløp for å oppdatere tjenestenes datasystemer etter cybersikkerhetsfeil funnet Zoe Kleinman: PHP er cyberekvivalenten til en ueksplodert bombe"
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f861/live/f70b8e60-cedd-11f1-b90b-55df5472350e.jpg",
+      "localImage": "assets/news/d3a5b564aa9d09.jpg",
+      "score": 15
+    },
+    {
       "id": "8a9b6134707c18",
       "category": "Norge",
       "published": "23.10. 17:55",
@@ -85,27 +148,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jNZCMwZ8KLZovrdZLaajjgUOHKPp2H_JylI5_FNAnYXA.jpg",
       "localImage": "assets/news/8a9b6134707c18.jpg",
-      "score": 16
-    },
-    {
-      "id": "ff3f9e577d6ae0",
-      "category": "Norge",
-      "published": "22.10. 20:12",
-      "publishedISO": "2026-10-22T20:12:17+02:00",
-      "title": "WSJ: Trump skal ha ringt Musk og bedt ham oppheve Starlink-begrensning",
-      "summary": "Flere ikke navngitte kilder har oppgitt til The Wall Street Journal at Musk selv beordret begrensingen av Ukrainas tilgang til Starlink. Men avisen skrev også tidligere i uka at Musk og Trump diskuterte saken på forhånd, og Zelenskyj har oppgitt at det var amerikanske myndigheter som ga ordre om å blokkere nettverket en periode. Donald Trump ble innsatt som USAs 47. president 20. januar 2025.",
-      "keyPoints": [
-        "Men avisen skrev også tidligere i uka at Musk og Trump diskuterte saken på forhånd, og Zelenskyj har oppgitt at det var amerikanske myndigheter som ga ordre om å blokkere nettverket en periode.",
-        "Flere ikke navngitte kilder har oppgitt til The Wall Street Journal at Musk selv beordret begrensingen av Ukrainas tilgang til Starlink.",
-        "Donald Trump ble innsatt som USAs 47. president 20. januar 2025.",
-        "Starlink er eid av Elon Musk, som er sjef for Tesla og SpaceX."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240",
-      "source": "nrk.no",
-      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
-      "localImage": "assets/news/ff3f9e577d6ae0.jpg",
       "score": 16
     },
     {
@@ -130,6 +172,27 @@
       "score": 15
     },
     {
+      "id": "ff3f9e577d6ae0",
+      "category": "Norge",
+      "published": "22.10. 20:12",
+      "publishedISO": "2026-10-22T20:12:17+02:00",
+      "title": "WSJ: Trump skal ha ringt Musk og bedt ham oppheve Starlink-begrensning",
+      "summary": "Flere ikke navngitte kilder har oppgitt til The Wall Street Journal at Musk selv beordret begrensingen av Ukrainas tilgang til Starlink. Men avisen skrev også tidligere i uka at Musk og Trump diskuterte saken på forhånd, og Zelenskyj har oppgitt at det var amerikanske myndigheter som ga ordre om å blokkere nettverket en periode. Donald Trump ble innsatt som USAs 47. president 20. januar 2025.",
+      "keyPoints": [
+        "Men avisen skrev også tidligere i uka at Musk og Trump diskuterte saken på forhånd, og Zelenskyj har oppgitt at det var amerikanske myndigheter som ga ordre om å blokkere nettverket en periode.",
+        "Flere ikke navngitte kilder har oppgitt til The Wall Street Journal at Musk selv beordret begrensingen av Ukrainas tilgang til Starlink.",
+        "Donald Trump ble innsatt som USAs 47. president 20. januar 2025.",
+        "Starlink er eid av Elon Musk, som er sjef for Tesla og SpaceX."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/wsj_-trump-skal-ha-ringt-musk-og-bedt-ham-oppheve-starlink-begrensning--1.18062240",
+      "source": "nrk.no",
+      "image": "https://static.nrk.no/nrkno/serum/2.0.532/common/img/default.jpg",
+      "localImage": "assets/news/ff3f9e577d6ae0.jpg",
+      "score": 15
+    },
+    {
       "id": "3b8b7c7317152d",
       "category": "Økonomi",
       "published": "23.10. 10:16",
@@ -148,70 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/445ea3e4-8891-3cfe-b5cc-2a240e9df764?fit=crop&h=675&upscale=true&w=1200&s=4a4261e3e94bace0f1bce436ba34e26fed2c8a4e",
       "localImage": "assets/news/3b8b7c7317152d.jpg",
-      "score": 15
-    },
-    {
-      "id": "a8f6c04095a32f",
-      "category": "Norge",
-      "published": "23.10. 22:18",
-      "publishedISO": "2026-10-23T22:18:34+02:00",
-      "title": "Minst 35 gjester ble syke etter restaurantbesøk på Re-Naa i Stavanger",
-      "summary": "«Kraftig oppkast» og «diaré på natten» er blant symptomene gjester til Re-Naa i Stavanger beskriver etter besøk hos Michelin-restauranten i vinter. Totalt 35 gjester som besøkte stjernerestauranten i vinter, meldte i ettertid at de var blitt syke, ifølge Mattilsynet. Av de 35 som ble syke, meldte 21 gjester om sykdom etter å ha spist på restauranten i perioden 28. til 31. januar, ifølge Mattilsynet.",
-      "keyPoints": [
-        "«Kraftig oppkast» og «diaré på natten» er blant symptomene gjester til Re-Naa i Stavanger beskriver etter besøk hos Michelin-restauranten i vinter.",
-        "Totalt 35 gjester som besøkte stjernerestauranten i vinter, meldte i ettertid at de var blitt syke, ifølge Mattilsynet.",
-        "Av de 35 som ble syke, meldte 21 gjester om sykdom etter å ha spist på restauranten i perioden 28. til 31. januar, ifølge Mattilsynet.",
-        "Kokk Sven Erik Renaa driver Michelin-restauranten Re-Naa i Stavanger."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/minst-35-gjester-ble-syke-etter-restaurantbesok-pa-re-naa-i-stavanger-1.18043712",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/K11Vx2tg6OMDANB9_g9ZCwVMTVV85hSjeM_uYi2I3Trw.jpg",
-      "localImage": "assets/news/a8f6c04095a32f.jpg",
-      "score": 13
-    },
-    {
-      "id": "e31fdd91157adb",
-      "category": "Norge",
-      "published": "23.10. 20:14",
-      "publishedISO": "2026-10-23T20:14:39+02:00",
-      "title": "Memona skal representere Norge i «Mrs. World»",
-      "summary": "På nyåret skal Memona Luokkanen representere Norge i «Mrs. World». • Memona Luokkanen skal representere Norge i Mrs. I januar pakker hun kofferten og drar til Las Vegas for å representere Norge i kåringen «Mrs.",
-      "keyPoints": [
-        "World». • Memona Luokkanen skal representere Norge i Mrs.",
-        "I januar pakker hun kofferten og drar til Las Vegas for å representere Norge i kåringen «Mrs.",
-        "Memona Luokkanen forteller at det aldri var hennes intensjon å delta i konkurransen, men at hun ble oppfordret av den nasjonale direktøren. – Det var noe som jeg har aldri tenkt på før.",
-        "Mens tradisjonelle missekåringene har strenge aldersgrenser og krav om å være ugift, feirer «Mrs."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/memona-skal-representere-norge-i-_mrs.-world_-1.18062600",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/IPcCtZCNQzb-PAbrREF3AAjwkfSPq4UBok1JHOAHNiEw.jpg",
-      "localImage": "assets/news/e31fdd91157adb.webp",
-      "score": 13
-    },
-    {
-      "id": "f0831e8ef9c47c",
-      "category": "Økonomi",
-      "published": "23.10. 07:01",
-      "publishedISO": "2026-10-23T07:01:57+02:00",
-      "title": "Gjensidige-aksjen stiger etter «veldig sterkt resultat»",
-      "summary": "Forsikringsselskapet leverte langt høyere resultat enn ventet. Gjensidige-aksjen stiger 1,7 prosent i tidlig handel på Oslo Børs etter tallslippet for tredje kvartal. Analytiker Hans Rettedal Christiansen i Danske Bank skriver i et notat at Gjensidige leverte et «veldig sterkt resultat» i kvartalet.",
-      "keyPoints": [
-        "Analytiker Hans Rettedal Christiansen i Danske Bank skriver i et notat at Gjensidige leverte et «veldig sterkt resultat» i kvartalet.",
-        "Gjensidige-aksjen stiger 1,7 prosent i tidlig handel på Oslo Børs etter tallslippet for tredje kvartal.",
-        "Forsikringsselskapet leverte langt høyere resultat enn ventet.",
-        "Han viser blant annet til at resultatet fra forsikringsvirksomheten var 18 prosent høyere enn konsensus blant analytikerne. – Estimatene bør gå opp med 4-5 prosent for 2027 på den positive overraskelsen, og vi venter at aksjen vil stige i tråd med dette, skriver analytikeren."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/eGx37M/gjensidige-oekte-overskuddet-i-tredje-kvartal-tjente-2-78-milliarder-foer-skatt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4040e2cc-8743-30b6-a12a-d8d3e45e69ea?fit=crop&h=675&upscale=true&w=1200&s=ddc343040a7508eb2034f2f19c41220860db4882",
-      "localImage": "assets/news/f0831e8ef9c47c.jpg",
-      "score": 13
+      "score": 14
     }
   ]
 }
