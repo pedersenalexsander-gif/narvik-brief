@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.10.2026 kl. 02:34",
-  "updatedISO": "2026-10-25T02:34:18.698450+02:00",
+  "updatedAt": "25.10.2026 kl. 06:21",
+  "updatedISO": "2026-10-25T06:21:26.804044+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/UITMVw5GlrlXzJthNNMZ4gunTnRK53KDUSCDsMebly-Q.jpg",
       "localImage": "assets/news/63b78d3f9d83ff.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "3abaa0ec6d647f",
@@ -43,28 +43,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dfb8/live/821f0590-cf15-11f1-a568-e785d17b98ab.jpg",
       "localImage": "assets/news/3abaa0ec6d647f.jpg",
-      "score": 14
-    },
-    {
-      "id": "1b9c2d66dedf12",
-      "category": "USA",
-      "published": "24.10. 18:29",
-      "publishedISO": "2026-10-24T18:29:31+02:00",
-      "title": "Six Flags adding seat belts to some rollercoasters following death",
-      "summary": "Toget til Goliath-berg-og-dal-banen er sett på banen ved Six Flags over Georgia Six Flags har annonsert at det vil legge til setebelter til noen av sine berg-og-dal-baner etter at en mann falt ihjel på Goliath-turen i den amerikanske delstaten Georgia tidligere denne måneden. Selskapets administrerende direktør John Reilly sa i et brev til kunder sent på fredag ​​at selskapet forsterker sikkerhetstiltak på tvers av parkene sine, inkludert å legge til setebelter til Goliath og lignende turer, som allerede har begrensninger i hoftestangen. På sin \"spenningsskala\" rangerer Six Flags Goliath på nivå fire av fem.",
-      "keyPoints": [
-        "Toget til Goliath-berg-og-dal-banen er sett på banen ved Six Flags over Georgia Six Flags har annonsert at det vil legge til setebelter til noen av sine berg-og-dal-baner etter at en mann falt ihjel på Goliath-turen i den amerikanske delstaten Georgia tidligere denne måneden.",
-        "Selskapets administrerende direktør John Reilly sa i et brev til kunder sent på fredag ​​at selskapet forsterker sikkerhetstiltak på tvers av parkene sine, inkludert å legge til setebelter til Goliath og lignende turer, som allerede har begrensninger i hoftestangen.",
-        "På sin \"spenningsskala\" rangerer Six Flags Goliath på nivå fire av fem.",
-        "Den 12. oktober ble en 42 år gammel mann ved navn Hassan Jihad Ibn Kariem drept ved Six Flags Over Georgia etter å ha blitt kastet ut fra Goliat, opplyser politiet."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c60rl9r59g0do",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d825/live/42385ba0-cfc6-11f1-a701-fddedf244c16.jpg",
-      "localImage": "assets/news/1b9c2d66dedf12.jpg",
-      "score": 12
+      "score": 13
     },
     {
       "id": "3da64f86b96d31",
@@ -85,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/aaccc359-efdb-3636-a0c3-6734f61e70b0?fit=crop&h=675&upscale=true&w=1200&s=fb9a26a190639d1dae8d7e407e454fc3f5e150ea",
       "localImage": "assets/news/3da64f86b96d31.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "c297d6494c05f7",
@@ -106,7 +85,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
       "localImage": "assets/news/c297d6494c05f7.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "d0ab12a09a1560",
@@ -127,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jwFMgUb93JqkHQUlmUj_yQWlK8JBiEl2jiHXTrBGs_Cw.jpg",
       "localImage": "assets/news/d0ab12a09a1560.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "ac09525841904f",
@@ -148,7 +127,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
       "localImage": "assets/news/ac09525841904f.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "e74053a4e4271c",
@@ -169,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/42ee/live/36a0f0a0-cfc5-11f1-93e1-3b657b665bcf.jpg",
       "localImage": "assets/news/e74053a4e4271c.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "4f3c95dbd91cdc",
@@ -190,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/QP9aoJcz5BeRdgldrkJnDwubembUxfkbDNQdGCnOk9YA.jpg",
       "localImage": "assets/news/4f3c95dbd91cdc.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "ecec68377f0bca",
@@ -211,7 +190,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/zmLevXpHAnIFmYQCjzeTFgO_7tlWI6vI22odm7NU6m1A.png",
       "localImage": "assets/news/ecec68377f0bca.png",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "c66210b4892c90",
+      "category": "Verden",
+      "published": "24.10. 21:37",
+      "publishedISO": "2026-10-24T21:37:35+02:00",
+      "title": "Fyrverkeri og tåregass mens demonstranter og opprørspoliti kolliderer i Paris",
+      "summary": "Politiet har kollidert med demonstranter i Paris da noen demonstrasjoner i Frankrike ble voldelige lørdag. Fyrverkeri og tåregass mens demonstranter og opprørspoliti kolliderer i Paris. Video, 00:01:18 Fyrverkeri og tåregass mens demonstranter og opprørspoliti kolliderer i Paris Up Next.",
+      "keyPoints": [
+        "Fyrverkeri og tåregass mens demonstranter og opprørspoliti kolliderer i Paris.",
+        "Politiet har kollidert med demonstranter i Paris da noen demonstrasjoner i Frankrike ble voldelige lørdag.",
+        "En stort sett fredelig dag med protester ble til uro etter kvelden, da demonstranter ble sett kaste gjenstander og fyrverkeri mot politiet.",
+        "Rundt 70 000 offiserer ble utplassert over hele Frankrike for andre helg på rad og brukte tåregass og vannkanoner for å spre folkemengder."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f4f2/live/c78fb360-cfe5-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/c66210b4892c90.jpg",
+      "score": 12
     }
   ]
 }
