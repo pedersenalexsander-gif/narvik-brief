@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.10.2026 kl. 21:29",
-  "updatedISO": "2026-10-25T21:29:11.568699+01:00",
+  "updatedAt": "25.10.2026 kl. 23:46",
+  "updatedISO": "2026-10-25T23:46:50.550513+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -20,7 +20,7 @@
       "summaryMethod": "local-extractive",
       "url": "https://www.nrk.no/innlandet/e6-stengt-mellom-lillehammer-og-biri-1.18064498",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/yiuSUmNCIHo5JWv4sISCug8bH8rYm7xMK8oVrDh8fZIw.jpg",
+      "image": "https://gfx.nrk.no/t6jg2P7eP6pgvvuPpBUZVAz80MM8VTQ8S4NfSjrB79mw",
       "localImage": "assets/news/a8b2a7f1024784.jpg",
       "score": 17
     },
@@ -72,12 +72,12 @@
       "published": "25.10. 16:01",
       "publishedISO": "2026-10-25T16:01:44+01:00",
       "title": "Viking-Tromsø: Tromsø-komet til sykehus etter voldsom takling",
-      "summary": "Etter kun seks minutter var Joe Bell altfor sen inn i en takling mot en fremadstormende Troy Nyhammer. – Jeg skjønner at det vil bli stilt enda større spørsmålstegn til VAR. Jeg mener det må opp til diskusjon rundt hvorfor VAR ikke griper inn. – Den er stygg og den er i høyden hvor man ikke er beskyttet av leggbeskytteren, sier TV 2-ekspert Mushaga Bakenga. MÅTTE UT: Troy Nyhammer kunne ikke fortsette oppgjøret etter den tøffe taklingen. – Skulle du hatt rødt kort på taklingen på Troy Nyhammer tidlig i kampen? – Jeg har fått det spørsmålet flere ganger, men for å være helt ærlig så synes jeg ikke.",
+      "summary": "Denne gangen gikk det utover Tromsøs 20 år gamle stjerneskudd. Etter kun seks minutter var Joe Bell altfor sen inn i en takling mot en fremadstormende Troy Nyhammer. – Jeg skjønner at det vil bli stilt enda større spørsmålstegn til VAR. Jeg mener det må opp til diskusjon rundt hvorfor VAR ikke griper inn. – Den er stygg og den er i høyden hvor man ikke er beskyttet av leggbeskytteren, sier TV 2-ekspert Mushaga Bakenga.",
       "keyPoints": [
         "Etter kun seks minutter var Joe Bell altfor sen inn i en takling mot en fremadstormende Troy Nyhammer. – Jeg skjønner at det vil bli stilt enda større spørsmålstegn til VAR.",
         "Jeg mener det må opp til diskusjon rundt hvorfor VAR ikke griper inn. – Den er stygg og den er i høyden hvor man ikke er beskyttet av leggbeskytteren, sier TV 2-ekspert Mushaga Bakenga.",
-        "MÅTTE UT: Troy Nyhammer kunne ikke fortsette oppgjøret etter den tøffe taklingen. – Skulle du hatt rødt kort på taklingen på Troy Nyhammer tidlig i kampen? – Jeg har fått det spørsmålet flere ganger, men for å være helt ærlig så synes jeg ikke.",
-        "Jeg forsøker å stanse angrepet, men jeg er lei meg på hans vegne, sa han til TV 2."
+        "Denne gangen gikk det utover Tromsøs 20 år gamle stjerneskudd.",
+        "MÅTTE UT: Troy Nyhammer kunne ikke fortsette oppgjøret etter den tøffe taklingen. – Skulle du hatt rødt kort på taklingen på Troy Nyhammer tidlig i kampen? – Jeg har fått det spørsmålet flere ganger, men for å være helt ærlig så synes jeg ikke."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -130,6 +130,27 @@
       "score": 13
     },
     {
+      "id": "e558b49c2a687d",
+      "category": "Norge",
+      "published": "25.10. 20:39",
+      "publishedISO": "2026-10-25T20:39:42+01:00",
+      "title": "Dyrleger advarer: Hundeeiere glemmer å bruke refleks på seg selv",
+      "summary": "Flere dyrleger NRK har vært i kontakt med mener vi ofte er flinkere til å bruke refleks på våre dyr, enn på oss selv. – Folk er veldig flinke til å kjøpe reflekshalsbånd og refleksliner til dyrene sine, men de glemmer seg selv. Veterinær Anja Skog i Farsund oppfordrer alle hundeeiere til å bruke refleks. – Det er stor forskjell på å se et dyr eller et menneske med refleks, kontra uten refleks langs veien, sier hun. Arnulv Illebæk er også ute på tur, men siden klokka bare er seks på ettermiddagen ligger refleksene hjemme. – Vi pleier å bruke refleks begge to.",
+      "keyPoints": [
+        "Flere dyrleger NRK har vært i kontakt med mener vi ofte er flinkere til å bruke refleks på våre dyr, enn på oss selv. – Folk er veldig flinke til å kjøpe reflekshalsbånd og refleksliner til dyrene sine, men de glemmer seg selv.",
+        "Veterinær Anja Skog i Farsund oppfordrer alle hundeeiere til å bruke refleks. – Det er stor forskjell på å se et dyr eller et menneske med refleks, kontra uten refleks langs veien, sier hun.",
+        "Arnulv Illebæk er også ute på tur, men siden klokka bare er seks på ettermiddagen ligger refleksene hjemme. – Vi pleier å bruke refleks begge to.",
+        "Dermed er det ingen sikkerhet i seg selv at bare hunden har på seg refleks."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/dyrleger-advarer_-hundeeiere-glemmer-a-bruke-refleks-pa-seg-selv-1.18054927",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/L5ECcYaUc2YR-idaHMeUJwgGnC8twaLKAhKcbb-9LS0w.jpg",
+      "localImage": "assets/news/e558b49c2a687d.jpg",
+      "score": 13
+    },
+    {
       "id": "5f09e110fad22f",
       "category": "Norge",
       "published": "25.10. 19:52",
@@ -169,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/hQtDoOgIZm3H0vy7MQMuWgVDbemIRMoknzVCignM0S4w.jpg",
       "localImage": "assets/news/42d716ffe454d7.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "31c0d175897ad5",
@@ -190,27 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/THJMWFr3ZT7gYkYtEj3ydwcSu8s32pyxspGOwrki36RQ.jpg",
       "localImage": "assets/news/31c0d175897ad5.jpg",
-      "score": 12
-    },
-    {
-      "id": "67c439e15220a3",
-      "category": "Norge",
-      "published": "25.10. 14:38",
-      "publishedISO": "2026-10-25T14:38:34+01:00",
-      "title": "Slet med mye flått: Så spiste geitene opp problemet",
-      "summary": "Siden geiter er sosiale og kosete dyr, merket Hilmann fort hvor mye flått som gjemte seg i pelsen deres. – Flått er ikke bra for geitene heller. Når geitene spiser opp buskaset, fjerner de også mye livsgrunnlaget til flåtten. – Geitene er veldig glad i kratt og småtrær som er bøyelige. I tillegg til færre flått og et åpnere landskap, minner hun om at geitene byr på flere gode bonuser. – Geitekjøttet er det mest spiste kjøttet i verden.",
-      "keyPoints": [
-        "Siden geiter er sosiale og kosete dyr, merket Hilmann fort hvor mye flått som gjemte seg i pelsen deres. – Flått er ikke bra for geitene heller.",
-        "Når geitene spiser opp buskaset, fjerner de også mye livsgrunnlaget til flåtten. – Geitene er veldig glad i kratt og småtrær som er bøyelige.",
-        "I tillegg til færre flått og et åpnere landskap, minner hun om at geitene byr på flere gode bonuser. – Geitekjøttet er det mest spiste kjøttet i verden.",
-        "Det har tidligere vært forsøkt å bruke beitedyr til å holde nede flåttpopulasjonen, særlig hvis dyrene er behandlet med et flåttdrepende middel. – Det har ikke vært 100 prosent effektivt siden flåttpopulasjonen er dynamisk, og det ikke skal mange flått til for å overføre smittestoff til beitedyr."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/slet-med-mye-flatt_-sa-spiste-geitene-opp-problemet-1.18059444",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/YjsapNASXte6urE2cZYynwNdd5zSFPVVRV1iQb3HIiLg.jpg",
-      "localImage": "assets/news/67c439e15220a3.jpg",
       "score": 12
     }
   ]
