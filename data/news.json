@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.10.2026 kl. 11:02",
-  "updatedISO": "2026-10-25T11:02:05.862926+01:00",
+  "updatedAt": "25.10.2026 kl. 15:24",
+  "updatedISO": "2026-10-25T15:24:15.940106+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,87 +25,129 @@
       "score": 16
     },
     {
-      "id": "01cd155b98e49c",
-      "category": "Verden",
-      "published": "25.10. 10:00",
-      "publishedISO": "2026-10-25T10:00:00+01:00",
-      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-      "summary": "Elon Musk har sagt at hans selskap SpaceX begrenset Ukrainas Starlink-internetttjeneste, etter at ukrainske tjenestemenn sa at tilkoblingsproblemer så ut til å ha blitt løst. Musk hadde tidligere nektet for bevisst å strupe Ukrainas forbindelse, som den sier hindret dens evne til å utføre defensive operasjoner i mer enn en uke. Musk avslørte ikke i sitt innlegg hvorfor SpaceX hadde valgt å gjøre endringen i tjenesten forrige uke, da Ukrainas omfattende bruk av Starlink hadde vært kjent i flere år.",
-      "keyPoints": [
-        "Elon Musk har sagt at hans selskap SpaceX begrenset Ukrainas Starlink-internetttjeneste, etter at ukrainske tjenestemenn sa at tilkoblingsproblemer så ut til å ha blitt løst.",
-        "Musk avslørte ikke i sitt innlegg hvorfor SpaceX hadde valgt å gjøre endringen i tjenesten forrige uke, da Ukrainas omfattende bruk av Starlink hadde vært kjent i flere år.",
-        "Musk had earlier denied deliberately throttling Ukraine's connection, which it says hampered its ability to conduct defensive operations for more than a week.",
-        "Ukraina bruker både den sivile tjenesten Starlink og den sikrere Starshield, avhengig av hvilken kommunikasjon som trengs, som begge kjører på nettverk av satellitter med lav bane rundt jorden lansert av SpaceX."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
-      "localImage": "assets/news/01cd155b98e49c.jpg",
-      "score": 17
-    },
-    {
-      "id": "4e8051f7339867",
+      "id": "b5cb268bc15f22",
       "category": "Økonomi",
-      "published": "25.10. 10:09",
-      "publishedISO": "2026-10-25T10:09:59+01:00",
-      "title": "Varsler dagbøter på 16.000 kroner mot Norse",
-      "summary": "Norse sendte inn sitt tilsvar i sommer, der de pekte på grep som er tatt, men Luftfartstilsynet krever mer: Det vil løpe tvangsmulkt på 8.000 kroner om dagen (utenom søndag) for hver av fristene som ikke overholdes. I august skrev E24 at Norse hadde liggende 625 ferdigbehandlede krav som avventet utbetaling. I vedtaket fremgår det at Norse har 591 utestående utbetalinger, men omtrent halvparten av de identifiserte kravene er allerede utbetalt, opplyser han.",
+      "published": "25.10. 12:17",
+      "publishedISO": "2026-10-25T12:17:22+01:00",
+      "title": "Det store racet for datakraft",
+      "summary": "Samtidig er jakten på datakraft også en del av det geopolitiske racet mellom USA og Kina – og utbyggingene skaper den rene Klondyke-stemning i flere norske kommuner. I samtale med politisk redaktør Torbjørn Røe Isaksen dykker han ned i racet som kan definere vår tid. Samtalene handler om de store spørsmålene og de lange linjene, om hvordan samfunnet vårt har utviklet seg og hvordan vi skal manøvrere fremover.",
       "keyPoints": [
-        "Norse sendte inn sitt tilsvar i sommer, der de pekte på grep som er tatt, men Luftfartstilsynet krever mer: Det vil løpe tvangsmulkt på 8.000 kroner om dagen (utenom søndag) for hver av fristene som ikke overholdes.",
-        "I august skrev E24 at Norse hadde liggende 625 ferdigbehandlede krav som avventet utbetaling.",
-        "I vedtaket fremgår det at Norse har 591 utestående utbetalinger, men omtrent halvparten av de identifiserte kravene er allerede utbetalt, opplyser han.",
-        "Gjennom hele året har Norse slitt med å ta unna kunders klagesaker."
+        "Samtidig er jakten på datakraft også en del av det geopolitiske racet mellom USA og Kina – og utbyggingene skaper den rene Klondyke-stemning i flere norske kommuner.",
+        "I samtale med politisk redaktør Torbjørn Røe Isaksen dykker han ned i racet som kan definere vår tid.",
+        "Samtalene handler om de store spørsmålene og de lange linjene, om hvordan samfunnet vårt har utviklet seg og hvordan vi skal manøvrere fremover.",
+        "I Stopp verden møter politisk redaktør Torbjørn Røe Isaksen en gjest hver uke for å snakke om et tema – over et godt glass med drikke."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/0BAA52/varsler-dagboeter-paa-16-000-kroner-mot-norse",
+      "url": "https://e24.no/teknologi/i/1oaXoW/det-store-racet-for-datakraft",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d9adbf2c-320e-3445-8937-1f355980cbb8?fit=crop&h=675&upscale=true&w=1200&s=8d29ee9cf8a926e4c0834e2ceff247495de1dc27",
-      "localImage": "assets/news/4e8051f7339867.jpg",
+      "image": "https://akamai.vgc.no/v2/images/cd8c2300-6ea7-3f76-a3ca-f1fbe88895bc?fit=crop&h=675&upscale=true&w=1200&s=15848db4ac17bdf4d53cae88bcbb3de0a0a26a0b",
+      "localImage": "assets/news/b5cb268bc15f22.jpg",
       "score": 13
     },
     {
-      "id": "c297d6494c05f7",
+      "id": "e06bd5f71c2112",
       "category": "Økonomi",
-      "published": "25.10. 08:15",
-      "publishedISO": "2026-10-25T08:15:38+01:00",
-      "title": "Rosebank: Livet på oljefeltet i sentrum av en politisk storm",
-      "summary": "Da vi landet med helikopter ved Rosebank, var dette oljefeltet i sentrum av en politisk storm – og satt til å være i veien for en ekte. Hvis produksjonen godkjennes, vil olje og gass pumpes opp gjennom tårnet fra brønner i feltet nedenfor, som inneholder anslagsvis 300 til 500 millioner fat, nok til kanskje 25 år. \"For meg selv og mange av gutta ville det føre oss til pensjonisttilværelsen,\" sa Douglas Hogge. Jeg vil ta den endelige avgjørelsen om Rosebank oljefelt, insisterer energisekretær Burnham forsvarer Jackdaw-avgjørelsen da Badenoch oppfordrer statsministeren til å oppheve forbudet mot nye olje- og gasslisenser",
+      "published": "25.10. 12:16",
+      "publishedISO": "2026-10-25T12:16:30+01:00",
+      "title": "Strid om kryptoplan: Frykter at Israel blir økonomisk paria",
+      "summary": "Bakgrunn: Israel har okkupert Vestbredden, inkludert Øst-Jerusalem, siden 1967. Siste utvikling: Etter at to israelske soldater ble drept på Vestbredden 23. oktober, har Israel gjennomført en omfattende militæroperasjon på Vestbredden. Opposisjonen i Israel slakter også kryptoplanen og frykter at statsministeren vil gjøre landet til en økonomisk paria, det vil si en stat som er fullstendig isolert fra det globale økonomiske systemet.",
       "keyPoints": [
-        "Da vi landet med helikopter ved Rosebank, var dette oljefeltet i sentrum av en politisk storm – og satt til å være i veien for en ekte.",
-        "Hvis produksjonen godkjennes, vil olje og gass pumpes opp gjennom tårnet fra brønner i feltet nedenfor, som inneholder anslagsvis 300 til 500 millioner fat, nok til kanskje 25 år. \"For meg selv og mange av gutta ville det føre oss til pensjonisttilværelsen,\" sa Douglas Hogge.",
-        "Jeg vil ta den endelige avgjørelsen om Rosebank oljefelt, insisterer energisekretær Burnham forsvarer Jackdaw-avgjørelsen da Badenoch oppfordrer statsministeren til å oppheve forbudet mot nye olje- og gasslisenser",
-        "Men i 2025, etter en utfordring fra Greenpeace og Uplift, avgjorde Court of Session i Edinburgh at godkjenningene av Storbritannias største kjente uutnyttede oljefelt og Jackdaw var ulovlige fordi de hadde unnlatt å ta hensyn til klimapåvirkningen av faktisk brenning av fossilt brensel i biler, hjem og fabrikker."
+        "Opposisjonen i Israel slakter også kryptoplanen og frykter at statsministeren vil gjøre landet til en økonomisk paria, det vil si en stat som er fullstendig isolert fra det globale økonomiske systemet.",
+        "Siste utvikling: Etter at to israelske soldater ble drept på Vestbredden 23. oktober, har Israel gjennomført en omfattende militæroperasjon på Vestbredden.",
+        "Bakgrunn: Israel har okkupert Vestbredden, inkludert Øst-Jerusalem, siden 1967.",
+        "Samtidig øker det internasjonale presset etter volden på Vestbredden. – Vi må forberede måter å unngå banksanksjoner på gjennom et alternativt økonomisk system, sa Netanyahu i et TV-intervju fredag kveld, ifølge Financial Times."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-      "localImage": "assets/news/c297d6494c05f7.jpg",
+      "url": "https://e24.no/boers-og-finans/i/WgP8Rr/netanyahu-vil-bruke-krypto-for-aa-unngaa-sanksjoner-faar-kraftig-kritikk",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/2b301bc1-84bd-322a-9a79-402779f9dd56?fit=crop&h=675&upscale=true&w=1200&s=4858ee0328839eb7c47127be1256149831d4deeb",
+      "localImage": "assets/news/e06bd5f71c2112.jpg",
       "score": 13
     },
     {
-      "id": "27602c67d0b64c",
+      "id": "31c0d175897ad5",
       "category": "Norge",
-      "published": "25.10. 10:51",
-      "publishedISO": "2026-10-25T10:51:09+01:00",
-      "title": "Lucas Pinheiro Braathen i ledelsen – utklasset de norske stjernene i Sölden",
-      "summary": "Lucas Pinheiro Braathen kjørte inn til en suveren ledelse halvveis i Sölden. LYNRASK: Lucas Pinheiro Braathen fikk en strålende start på alpinsesongen i Sölden. Selv med to innerski i henget, så er Lucas Pinheiro Braathen tilbake der han slapp i fjor, konkluderte Viaplays Kjetil André Aamodt.",
+      "published": "25.10. 14:43",
+      "publishedISO": "2026-10-25T14:43:44+01:00",
+      "title": "Lys mot mørketid: Derfor senker førjulsgatene stresshormonene dine",
+      "summary": "Hun opplever at kundene deler seg i to: De som vil vente litt, og de som higer etter lys og julestemning så tidlig som overhodet mulig. Dette er lys vi mener kan henge oppe store deler av året, mens de tradisjonelle julehjertene kommer senere, forklarer Rørvik. – Dette er belysning som tennes fordi tida blir for mørk og vi trenger noe å glede oss til, sier daglig leder i Tromsø Sentrum AS, Ida Rørvik. Da psykolog og lykkeforsker ved Folkehelseinstituttet (FHI), Ragnhild Bang Nes, gjestet NRKs Helgemorgen, pekte hun på at lys har en direkte målbar effekt på kropp og sinn: – Lys, enten det er dagslys eller vinterbelysning, er koblet til det å oppleve glede og positive følelser, forklarte Nes i studiosendingen.",
       "keyPoints": [
-        "LYNRASK: Lucas Pinheiro Braathen fikk en strålende start på alpinsesongen i Sölden.",
-        "Lucas Pinheiro Braathen kjørte inn til en suveren ledelse halvveis i Sölden.",
-        "Selv med to innerski i henget, så er Lucas Pinheiro Braathen tilbake der han slapp i fjor, konkluderte Viaplays Kjetil André Aamodt.",
-        "Lucas Pinheiro Braathen, som nå representerer Brasil, imponerte til de grader i Østerrike. – Det er utklassing."
+        "Dette er lys vi mener kan henge oppe store deler av året, mens de tradisjonelle julehjertene kommer senere, forklarer Rørvik. – Dette er belysning som tennes fordi tida blir for mørk og vi trenger noe å glede oss til, sier daglig leder i Tromsø Sentrum AS, Ida Rørvik.",
+        "Hun opplever at kundene deler seg i to: De som vil vente litt, og de som higer etter lys og julestemning så tidlig som overhodet mulig.",
+        "Da psykolog og lykkeforsker ved Folkehelseinstituttet (FHI), Ragnhild Bang Nes, gjestet NRKs Helgemorgen, pekte hun på at lys har en direkte målbar effekt på kropp og sinn: – Lys, enten det er dagslys eller vinterbelysning, er koblet til det å oppleve glede og positive følelser, forklarte Nes i studiosendingen.",
+        "I Tromsø sentrum har handelsstanden tatt konsekvensen av folks ønske om lys i mørket."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/lucas-pinheiro-braathen-i-ledelsen-_-utklasset-de-norske-stjernene-i-solden-1.18064094",
+      "url": "https://www.nrk.no/tromsogfinnmark/lys-mot-morketid_-derfor-senker-forjulsgatene-stresshormonene-dine-1.18064184",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/NCyeAAE8zq2p9Av1yxPHiw_K0i36SoViAIL_Fio6PbWQ.jpg",
-      "localImage": "assets/news/27602c67d0b64c.webp",
+      "image": "https://gfx.nrk.no/THJMWFr3ZT7gYkYtEj3ydwcSu8s32pyxspGOwrki36RQ.jpg",
+      "localImage": "assets/news/31c0d175897ad5.jpg",
+      "score": 13
+    },
+    {
+      "id": "67c439e15220a3",
+      "category": "Norge",
+      "published": "25.10. 14:38",
+      "publishedISO": "2026-10-25T14:38:34+01:00",
+      "title": "Slet med mye flått: Så spiste geitene opp problemet",
+      "summary": "Siden geiter er sosiale og kosete dyr, merket Hilmann fort hvor mye flått som gjemte seg i pelsen deres. – Flått er ikke bra for geitene heller. Når geitene spiser opp buskaset, fjerner de også mye livsgrunnlaget til flåtten. – Geitene er veldig glad i kratt og småtrær som er bøyelige. I tillegg til færre flått og et åpnere landskap, minner hun om at geitene byr på flere gode bonuser. – Geitekjøttet er det mest spiste kjøttet i verden.",
+      "keyPoints": [
+        "Siden geiter er sosiale og kosete dyr, merket Hilmann fort hvor mye flått som gjemte seg i pelsen deres. – Flått er ikke bra for geitene heller.",
+        "Når geitene spiser opp buskaset, fjerner de også mye livsgrunnlaget til flåtten. – Geitene er veldig glad i kratt og småtrær som er bøyelige.",
+        "I tillegg til færre flått og et åpnere landskap, minner hun om at geitene byr på flere gode bonuser. – Geitekjøttet er det mest spiste kjøttet i verden.",
+        "Det har tidligere vært forsøkt å bruke beitedyr til å holde nede flåttpopulasjonen, særlig hvis dyrene er behandlet med et flåttdrepende middel. – Det har ikke vært 100 prosent effektivt siden flåttpopulasjonen er dynamisk, og det ikke skal mange flått til for å overføre smittestoff til beitedyr."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/slet-med-mye-flatt_-sa-spiste-geitene-opp-problemet-1.18059444",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/YjsapNASXte6urE2cZYynwNdd5zSFPVVRV1iQb3HIiLg.jpg",
+      "localImage": "assets/news/67c439e15220a3.jpg",
+      "score": 13
+    },
+    {
+      "id": "857d9b9a08c9fb",
+      "category": "Norge",
+      "published": "25.10. 12:53",
+      "publishedISO": "2026-10-25T12:53:21+01:00",
+      "title": "Sitter værfast på hytta: – Først gikk strømmen, så raste veien ut",
+      "summary": "Fredag tok hun med seg mannen og barnebarna Luka (4) og Filippa (9) til hytta på Svanstul helt nord i Skien kommune. Da raste hytteveien ut som følge av enorme vannmasser. – Nå sitter vi og venter på en gravemaskin som skal komme og fikse veien, sier Bjerk. Ifølge Bjerk klarte flere å komme seg hjem før veien raste ut søndag. – Det er 47 hytter her oppe og det var folk på ganske mange av dem denne helgen.",
+      "keyPoints": [
+        "Da raste hytteveien ut som følge av enorme vannmasser. – Nå sitter vi og venter på en gravemaskin som skal komme og fikse veien, sier Bjerk.",
+        "Ifølge Bjerk klarte flere å komme seg hjem før veien raste ut søndag. – Det er 47 hytter her oppe og det var folk på ganske mange av dem denne helgen.",
+        "Fredag tok hun med seg mannen og barnebarna Luka (4) og Filippa (9) til hytta på Svanstul helt nord i Skien kommune.",
+        "BORTE VEKK: Veien fikk hard medfart av de enorme vannmassene på Svanstul. – Det ble jo litt annerledes enn vi hadde forestilt oss dette her, erkjenner Irene Bjerk fra Gulset i Skien."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/sitter-vaerfast-pa-hytta_-_-forst-gikk-strommen_-sa-raste-veien-ut-1.18064175",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/w2O9V794Q5XasGp0zRlnDA3kci1LzKNrTYsljXtOXyIw.jpg",
+      "localImage": "assets/news/857d9b9a08c9fb.jpg",
+      "score": 13
+    },
+    {
+      "id": "23ec1beba5edae",
+      "category": "Norge",
+      "published": "25.10. 10:51",
+      "publishedISO": "2026-10-25T10:51:09+01:00",
+      "title": "Lucas Pinheiro Braathen vant suverent i Sölden – etterpå gremmet han seg over kyssebilder",
+      "summary": "Lucas Pinheiro Braathen vant nok en gang overlegent i Sölden. Med 24 hundredeler å gå på, var Lucas Pinheiro Braathen roen selv. Han distanserte konkurrentene nedover den litt sporete og forblåste traseen i Sölden. – Jeg er veldig, veldig stolt, sa Pinheiro Braathen til Viaplay etter rennet.",
+      "keyPoints": [
+        "Lucas Pinheiro Braathen vant nok en gang overlegent i Sölden.",
+        "Han distanserte konkurrentene nedover den litt sporete og forblåste traseen i Sölden. – Jeg er veldig, veldig stolt, sa Pinheiro Braathen til Viaplay etter rennet.",
+        "Med 24 hundredeler å gå på, var Lucas Pinheiro Braathen roen selv.",
+        "SATTE NED FOTEN: Lucas Pinheiro Braathen økte ledelsen til Loïc Meillard i finaleomgangen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/lucas-pinheiro-braathen-vant-suverent-i-solden-_-etterpa-gremmet-han-seg-over-kyssebilder-1.18064094",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/e0UNA7X5NmTbSgf_QbkJSAfoKTCWLCW9WqERPwoFtLOg.jpg",
+      "localImage": "assets/news/23ec1beba5edae.webp",
       "score": 13
     },
     {
@@ -119,7 +161,7 @@
         "Og står nå med 17 strake seire på eget kunstgress i eliteserien. – Jeg kjenner jo også på at det er store muligheter hvis vi kommer opp på vårt beste nivå.",
         "Alt fra å score åtte mål – til å ikke gjøre så gode prestasjoner, også i det siste, sier Vik – og fortsetter: Viking er råsterke hjemme.",
         "Fjorårets oppgjør mellom Viking og TIL i Stavanger endte 4-4.",
-        "Det er trøkk i Jørgen Vik når han leder treningene på Romssa Arena."
+        "Denne uka har det handlet om å forberede seg til den vanskeligste oppgaven i hjemlig serie: For i Stavanger har sist sesongs seriemester nå vunnet elleville 17 kamper på rad på eget kunstgress i Jåttåvågen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -151,67 +193,25 @@
       "score": 13
     },
     {
-      "id": "08dcaba7282042",
-      "category": "Norge",
-      "published": "25.10. 09:56",
-      "publishedISO": "2026-10-25T09:56:53+01:00",
-      "title": "Knivstikkingen i Oslo: Mann etterlyst internasjonalt",
-      "summary": "En mann i 30-årene er siktet for grov kroppsskade etter knivstikkingen i Bjørvika lørdag ettermiddag. Politiet søker fortsatt etter en navngitt siktet etter knivstikkingen i et parkeringshus i Bjørvika i Oslo lørdag ettermiddag. Siktede er etterlyst internasjonalt på grunn av tilknytning til utlandet, opplyser krimleder Thomas Pedersen Enger. – Jeg kan av hensyn til pågående søk ikke si konkret hvilke land.",
-      "keyPoints": [
-        "En mann i 30-årene er siktet for grov kroppsskade etter knivstikkingen i Bjørvika lørdag ettermiddag.",
-        "Politiet søker fortsatt etter en navngitt siktet etter knivstikkingen i et parkeringshus i Bjørvika i Oslo lørdag ettermiddag.",
-        "Siktede er etterlyst internasjonalt på grunn av tilknytning til utlandet, opplyser krimleder Thomas Pedersen Enger. – Jeg kan av hensyn til pågående søk ikke si konkret hvilke land.",
-        "INGEN PÅGRIPELSER: Politiet har ikke pågrepet noen etter knivstikkingen i Bjørvika lørdag."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/knivstikkingen-i-oslo_-mann-etterlyst-internasjonalt-1.18064118",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/oKwJRt97hBBvD8hcgyNEdgcj6iBCoOGmGNttvX1RuSpw.jpg",
-      "localImage": "assets/news/08dcaba7282042.jpg",
-      "score": 13
-    },
-    {
-      "id": "f3f0ae1423c5ac",
-      "category": "Norge",
-      "published": "25.10. 08:57",
-      "publishedISO": "2026-10-25T08:57:39+01:00",
-      "title": "Gjennom musikken tar Enya Trast Lillevik tilbake sin samiske identitet",
-      "summary": "Med albumet «Arvesynd» deler Enya Trast Lillevik den sårbare prosessen med å ta tilbake sin samisk identitet, språk og tilhørighet. Enya Trast Lillevik fra Vadsø synger på norsk om sin samiske identitet. Sammen med bandet sitt har Enya Trast Lillevik laget sanger om å prøve å ta tilbake sin samiske identitet i voksen alder.",
-      "keyPoints": [
-        "Sammen med bandet sitt har Enya Trast Lillevik laget sanger om å prøve å ta tilbake sin samiske identitet i voksen alder.",
-        "Med albumet «Arvesynd» deler Enya Trast Lillevik den sårbare prosessen med å ta tilbake sin samisk identitet, språk og tilhørighet.",
-        "Enya Trast Lillevik fra Vadsø synger på norsk om sin samiske identitet.",
-        "Gjennom musikken forsøker 34-åringen å hente fram sin samiske identitet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/gjennom-musikken-tar-enya-trast-lillevik-tilbake-sin-samiske-identitet-1.18059772",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6SeRiUaO5gnG8McWsCAzpQBi3ttXZ3nZp9ga8R-dYxGQ.jpg",
-      "localImage": "assets/news/f3f0ae1423c5ac.jpg",
-      "score": 13
-    },
-    {
-      "id": "b6e22f9c6a9e57",
+      "id": "4e8051f7339867",
       "category": "Økonomi",
-      "published": "25.10. 08:06",
-      "publishedISO": "2026-10-25T08:06:12+01:00",
-      "title": "Firms in Devon 'holding back' on new jobs ahead of Budget",
-      "summary": "En utgiver fra Tavistock, Devon, sa at han \"hold tilbake\" fra å fylle to nye stillinger i firmaet hans på grunn av kostnadene ved å ansette nye ansatte. På Devon Business Show sa noen firmaer at de hadde slitt de siste to årene med å håndtere økningene i arbeidsgivernes folketrygdavgifter som ble innført i 2024, samtidig som de har taklet økninger i den nasjonale minstelønnen. Hun sa: \"Jeg tror det vi bare trenger er den myke berøringen med budsjettet, slik at bedrifter får sjansen til å vokse, og jeg tror Devon vil være rett foran flokken.\" Regjeringen insisterte på at den var \"på virksomhetens side\" og sa å lette kostnadene ved å gjøre forretninger var en av kanslerens fem prioriteringer.",
+      "published": "25.10. 10:09",
+      "publishedISO": "2026-10-25T10:09:59+01:00",
+      "title": "Varsler dagbøter på 16.000 kroner mot Norse",
+      "summary": "Norse sendte inn sitt tilsvar i sommer, der de pekte på grep som er tatt, men Luftfartstilsynet krever mer: Det vil løpe tvangsmulkt på 8.000 kroner om dagen (utenom søndag) for hver av fristene som ikke overholdes. I august skrev E24 at Norse hadde liggende 625 ferdigbehandlede krav som avventet utbetaling. I vedtaket fremgår det at Norse har 591 utestående utbetalinger, men omtrent halvparten av de identifiserte kravene er allerede utbetalt, opplyser han.",
       "keyPoints": [
-        "En utgiver fra Tavistock, Devon, sa at han \"hold tilbake\" fra å fylle to nye stillinger i firmaet hans på grunn av kostnadene ved å ansette nye ansatte.",
-        "På Devon Business Show sa noen firmaer at de hadde slitt de siste to årene med å håndtere økningene i arbeidsgivernes folketrygdavgifter som ble innført i 2024, samtidig som de har taklet økninger i den nasjonale minstelønnen.",
-        "Hun sa: \"Jeg tror det vi bare trenger er den myke berøringen med budsjettet, slik at bedrifter får sjansen til å vokse, og jeg tror Devon vil være rett foran flokken.\" Regjeringen insisterte på at den var \"på virksomhetens side\" og sa å lette kostnadene ved å gjøre forretninger var en av kanslerens fem prioriteringer.",
-        "Hun sa: \"Folk er definitivt strammere på hva de bruker pengene sine på. \"For oss har det åpenbart en etterfølgende effekt på hva vi kan samle inn og hvor mange familier vi kan forsørge.\" Pete Adams er daglig leder for Moxy Hotel i Plymouth Titusenvis av mennesker er ansatt i gjestfrihet og catering i Devon, og hotellsjefer har vært gjennom en tid."
+        "Norse sendte inn sitt tilsvar i sommer, der de pekte på grep som er tatt, men Luftfartstilsynet krever mer: Det vil løpe tvangsmulkt på 8.000 kroner om dagen (utenom søndag) for hver av fristene som ikke overholdes.",
+        "I august skrev E24 at Norse hadde liggende 625 ferdigbehandlede krav som avventet utbetaling.",
+        "I vedtaket fremgår det at Norse har 591 utestående utbetalinger, men omtrent halvparten av de identifiserte kravene er allerede utbetalt, opplyser han.",
+        "Gjennom hele året har Norse slitt med å ta unna kunders klagesaker."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4275/live/b92b23a0-cfad-11f1-aadb-297fd0a130b9.jpg",
-      "localImage": "assets/news/b6e22f9c6a9e57.jpg",
-      "score": 13
+      "url": "https://e24.no/naeringsliv/i/0BAA52/varsler-dagboeter-paa-16-000-kroner-mot-norse",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d9adbf2c-320e-3445-8937-1f355980cbb8?fit=crop&h=675&upscale=true&w=1200&s=8d29ee9cf8a926e4c0834e2ceff247495de1dc27",
+      "localImage": "assets/news/4e8051f7339867.jpg",
+      "score": 12
     }
   ]
 }
