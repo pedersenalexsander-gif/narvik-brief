@@ -1,19 +1,82 @@
 {
-  "updatedAt": "25.10.2026 kl. 18:47",
-  "updatedISO": "2026-10-25T18:47:05.813272+01:00",
+  "updatedAt": "25.10.2026 kl. 21:29",
+  "updatedISO": "2026-10-25T21:29:11.568699+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "a8b2a7f1024784",
+      "category": "Norge",
+      "published": "25.10. 20:52",
+      "publishedISO": "2026-10-25T20:52:57+01:00",
+      "title": "E6 stengt mellom Lillehammer og Biri",
+      "summary": "Flere oversvømmelser gjør at veien kan bli stengt frem til klokken 7 mandag morgen. Det jobbes på spreng flere steder etter at E6 er stengt m mellom Biri og Lillehammer. Store vannmengder fører til at E6 mellom Vingrom og Biri er stengt søndag kveld. – Det er ikke bare én, men tre ulike hendelser som gjør at det er stengt.",
+      "keyPoints": [
+        "Det jobbes på spreng flere steder etter at E6 er stengt m mellom Biri og Lillehammer.",
+        "Store vannmengder fører til at E6 mellom Vingrom og Biri er stengt søndag kveld. – Det er ikke bare én, men tre ulike hendelser som gjør at det er stengt.",
+        "Flere oversvømmelser gjør at veien kan bli stengt frem til klokken 7 mandag morgen.",
+        "Det er fortsatt mye nedbør på stedet og det er derfor tatt høyde for at veien kan bli stengt helt fram til klokka 7 i morgen tidlig."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/e6-stengt-mellom-lillehammer-og-biri-1.18064498",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/yiuSUmNCIHo5JWv4sISCug8bH8rYm7xMK8oVrDh8fZIw.jpg",
+      "localImage": "assets/news/a8b2a7f1024784.jpg",
+      "score": 17
+    },
+    {
+      "id": "41b5eda710a4bf",
+      "category": "Økonomi",
+      "published": "25.10. 21:12",
+      "publishedISO": "2026-10-25T21:12:24+01:00",
+      "title": "Sharia-byks på Wall Street",
+      "summary": "Børsindekser som følger islamsk lovpraksis har rykket fra vanlige indekser i 2026. –⁠ Først og fremst et filter og et hjelpemiddel, sier Islamsk Råd Norge. S&P Dow Jones Indices er en av verdens største leverandører av børsindekser, og står blant annet bak de kjente Wall Street-indeksene S&P 500 og Dow Jones, som E24 rapporterer om hver handelsdag. S&P 500 følger utviklingen til de rundt 500 største børsgigantene i USA, og regnes som en av de viktigste indikatorene på Wall Street.",
+      "keyPoints": [
+        "S&P 500 følger utviklingen til de rundt 500 største børsgigantene i USA, og regnes som en av de viktigste indikatorene på Wall Street.",
+        "S&P Dow Jones Indices er en av verdens største leverandører av børsindekser, og står blant annet bak de kjente Wall Street-indeksene S&P 500 og Dow Jones, som E24 rapporterer om hver handelsdag.",
+        "Børsindekser som følger islamsk lovpraksis har rykket fra vanlige indekser i 2026. –⁠ Først og fremst et filter og et hjelpemiddel, sier Islamsk Råd Norge.",
+        "Siden 2006 har selskapet laget egne indekser som utelukker aksjer som bryter med islamsk religiøs lov – sharia – basert på Koranen og Muhammed."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/rM1g1w/sharia-byks-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8189509f-f304-3d00-a6e2-e01e1672edaf?fit=crop&h=675&upscale=true&w=1200&s=efd107f424e180ad6aa850005389195bdf039c44",
+      "localImage": "assets/news/41b5eda710a4bf.jpg",
+      "score": 17
+    },
+    {
+      "id": "ac6c52731f702b",
+      "category": "Økonomi",
+      "published": "25.10. 18:53",
+      "publishedISO": "2026-10-25T18:53:20+01:00",
+      "title": "– Spent på om det finnes en kriseplan",
+      "summary": "Som følge av de massive protestene i Frankrike mener Olav Chen at neste ukes rentemøte i ESB blir minst like interessant som det tilsvarende i USA. Denne uken blir det vel så interessant å følge med på EU-landenes sentralbank (ESB), ifølge Olav Chen i Storebrand. – Jeg tror markedet er veldig spent på om det finnes en kriseplan hos ESB, i tilfelle situasjonen i Frankrike fortsetter å forverre seg, sier han til E24. Rentemarkedet priser i skrivende stund inn 10 prosent sannsynlighet for oktober-heving, ifølge rateprobability.com. – Jeg tipper at Warsh fortsatt er ganske haukete med tanke på inflasjonsutviklingen.",
+      "keyPoints": [
+        "Denne uken blir det vel så interessant å følge med på EU-landenes sentralbank (ESB), ifølge Olav Chen i Storebrand. – Jeg tror markedet er veldig spent på om det finnes en kriseplan hos ESB, i tilfelle situasjonen i Frankrike fortsetter å forverre seg, sier han til E24.",
+        "Som følge av de massive protestene i Frankrike mener Olav Chen at neste ukes rentemøte i ESB blir minst like interessant som det tilsvarende i USA.",
+        "Rentemarkedet priser i skrivende stund inn 10 prosent sannsynlighet for oktober-heving, ifølge rateprobability.com. – Jeg tipper at Warsh fortsatt er ganske haukete med tanke på inflasjonsutviklingen.",
+        "Enkelt forklart betyr det at markedet knytter større usikkerhet til den franske økonomien, som allerede sliter med høy statsgjeld og store budsjettunderskudd. – Frankrike er jo eurosonens nest største økonomi."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/MAelWR/spent-paa-om-det-finnes-en-kriseplan",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b1883bbb-2c0f-3888-89a7-ef3f40e4c77a?fit=crop&h=675&upscale=true&w=1200&s=3a0f80a17f302c474b4dfed6a09e4d3c55f065a4",
+      "localImage": "assets/news/ac6c52731f702b.jpg",
+      "score": 17
+    },
     {
       "id": "a51e74cb3c47c0",
       "category": "Norge",
       "published": "25.10. 16:01",
       "publishedISO": "2026-10-25T16:01:44+01:00",
       "title": "Viking-Tromsø: Tromsø-komet til sykehus etter voldsom takling",
-      "summary": "Denne gangen gikk det utover Tromsøs 20 år gamle stjerneskudd. Etter kun seks minutter var Joe Bell altfor sen inn i en takling mot en fremadstormende Troy Nyhammer. – Jeg skjønner at det vil bli stilt enda større spørsmålstegn til VAR. Jeg mener det må opp til diskusjon rundt hvorfor VAR ikke griper inn. – Den er stygg og den er i høyden hvor man ikke er beskyttet av leggbeskytteren, sier TV 2-ekspert Mushaga Bakenga.",
+      "summary": "Etter kun seks minutter var Joe Bell altfor sen inn i en takling mot en fremadstormende Troy Nyhammer. – Jeg skjønner at det vil bli stilt enda større spørsmålstegn til VAR. Jeg mener det må opp til diskusjon rundt hvorfor VAR ikke griper inn. – Den er stygg og den er i høyden hvor man ikke er beskyttet av leggbeskytteren, sier TV 2-ekspert Mushaga Bakenga. MÅTTE UT: Troy Nyhammer kunne ikke fortsette oppgjøret etter den tøffe taklingen. – Skulle du hatt rødt kort på taklingen på Troy Nyhammer tidlig i kampen? – Jeg har fått det spørsmålet flere ganger, men for å være helt ærlig så synes jeg ikke.",
       "keyPoints": [
         "Etter kun seks minutter var Joe Bell altfor sen inn i en takling mot en fremadstormende Troy Nyhammer. – Jeg skjønner at det vil bli stilt enda større spørsmålstegn til VAR.",
         "Jeg mener det må opp til diskusjon rundt hvorfor VAR ikke griper inn. – Den er stygg og den er i høyden hvor man ikke er beskyttet av leggbeskytteren, sier TV 2-ekspert Mushaga Bakenga.",
-        "Denne gangen gikk det utover Tromsøs 20 år gamle stjerneskudd.",
+        "MÅTTE UT: Troy Nyhammer kunne ikke fortsette oppgjøret etter den tøffe taklingen. – Skulle du hatt rødt kort på taklingen på Troy Nyhammer tidlig i kampen? – Jeg har fått det spørsmålet flere ganger, men for å være helt ærlig så synes jeg ikke.",
         "Jeg forsøker å stanse angrepet, men jeg er lei meg på hans vegne, sa han til TV 2."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
@@ -22,49 +85,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Xs0ss2oRL3BeXLGTwKjL8ATHzcdDetHHEWDMXrC1eKtA.jpg",
       "localImage": "assets/news/a51e74cb3c47c0.jpg",
-      "score": 17
-    },
-    {
-      "id": "b5cb268bc15f22",
-      "category": "Økonomi",
-      "published": "25.10. 12:17",
-      "publishedISO": "2026-10-25T12:17:22+01:00",
-      "title": "Det store racet for datakraft",
-      "summary": "Samtidig er jakten på datakraft også en del av det geopolitiske racet mellom USA og Kina – og utbyggingene skaper den rene Klondyke-stemning i flere norske kommuner. I samtale med politisk redaktør Torbjørn Røe Isaksen dykker han ned i racet som kan definere vår tid. Samtalene handler om de store spørsmålene og de lange linjene, om hvordan samfunnet vårt har utviklet seg og hvordan vi skal manøvrere fremover.",
-      "keyPoints": [
-        "Samtidig er jakten på datakraft også en del av det geopolitiske racet mellom USA og Kina – og utbyggingene skaper den rene Klondyke-stemning i flere norske kommuner.",
-        "I samtale med politisk redaktør Torbjørn Røe Isaksen dykker han ned i racet som kan definere vår tid.",
-        "Samtalene handler om de store spørsmålene og de lange linjene, om hvordan samfunnet vårt har utviklet seg og hvordan vi skal manøvrere fremover.",
-        "I Stopp verden møter politisk redaktør Torbjørn Røe Isaksen en gjest hver uke for å snakke om et tema – over et godt glass med drikke."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/teknologi/i/1oaXoW/det-store-racet-for-datakraft",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/cd8c2300-6ea7-3f76-a3ca-f1fbe88895bc?fit=crop&h=675&upscale=true&w=1200&s=15848db4ac17bdf4d53cae88bcbb3de0a0a26a0b",
-      "localImage": "assets/news/b5cb268bc15f22.jpg",
-      "score": 12
-    },
-    {
-      "id": "e06bd5f71c2112",
-      "category": "Økonomi",
-      "published": "25.10. 12:16",
-      "publishedISO": "2026-10-25T12:16:30+01:00",
-      "title": "Strid om kryptoplan: Frykter at Israel blir økonomisk paria",
-      "summary": "Bakgrunn: Israel har okkupert Vestbredden, inkludert Øst-Jerusalem, siden 1967. Siste utvikling: Etter at to israelske soldater ble drept på Vestbredden 23. oktober, har Israel gjennomført en omfattende militæroperasjon på Vestbredden. Opposisjonen i Israel slakter også kryptoplanen og frykter at statsministeren vil gjøre landet til en økonomisk paria, det vil si en stat som er fullstendig isolert fra det globale økonomiske systemet.",
-      "keyPoints": [
-        "Opposisjonen i Israel slakter også kryptoplanen og frykter at statsministeren vil gjøre landet til en økonomisk paria, det vil si en stat som er fullstendig isolert fra det globale økonomiske systemet.",
-        "Siste utvikling: Etter at to israelske soldater ble drept på Vestbredden 23. oktober, har Israel gjennomført en omfattende militæroperasjon på Vestbredden.",
-        "Bakgrunn: Israel har okkupert Vestbredden, inkludert Øst-Jerusalem, siden 1967.",
-        "Samtidig øker det internasjonale presset etter volden på Vestbredden. – Vi må forberede måter å unngå banksanksjoner på gjennom et alternativt økonomisk system, sa Netanyahu i et TV-intervju fredag kveld, ifølge Financial Times."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/WgP8Rr/netanyahu-vil-bruke-krypto-for-aa-unngaa-sanksjoner-faar-kraftig-kritikk",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2b301bc1-84bd-322a-9a79-402779f9dd56?fit=crop&h=675&upscale=true&w=1200&s=4858ee0328839eb7c47127be1256149831d4deeb",
-      "localImage": "assets/news/e06bd5f71c2112.jpg",
-      "score": 12
+      "score": 16
     },
     {
       "id": "63b78d3f9d83ff",
@@ -85,7 +106,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/UITMVw5GlrlXzJthNNMZ4gunTnRK53KDUSCDsMebly-Q.jpg",
       "localImage": "assets/news/63b78d3f9d83ff.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "b42d244f8a94ab",
+      "category": "Norge",
+      "published": "25.10. 20:43",
+      "publishedISO": "2026-10-25T20:43:28+01:00",
+      "title": "NRK-ekspert Pål Golberg enda i badekar etter fantomløp under Frankfurt maraton",
+      "summary": "NRKs langrennsekspert Pål Golberg blir hylla av Therese Johaug etter løpebragd. I BADEKARET: Pål Golberg måtte legge seg i badekaret etter Frankfurt maraton. Når NRK snakkar med Golberg etter Frankfurt maraton, er det ein tydeleg gjenklang på telefonlinja.",
+      "keyPoints": [
+        "I BADEKARET: Pål Golberg måtte legge seg i badekaret etter Frankfurt maraton.",
+        "Når NRK snakkar med Golberg etter Frankfurt maraton, er det ein tydeleg gjenklang på telefonlinja.",
+        "NRKs langrennsekspert Pål Golberg blir hylla av Therese Johaug etter løpebragd.",
+        "MÅTTE VARME SEG: Pål Golberg måtte rett i badekaret etter kanonløpet."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/nrk-ekspert-pal-golberg-enda-i-badekar-etter-fantomlop-under-frankfurt-maraton-1.18064192",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/U87YsowogaM4DMUh25vJtQrG2atOqLHh1GUG4ouYuKVw.jpg",
+      "localImage": "assets/news/b42d244f8a94ab.jpg",
+      "score": 13
+    },
+    {
+      "id": "5f09e110fad22f",
+      "category": "Norge",
+      "published": "25.10. 19:52",
+      "publishedISO": "2026-10-25T19:52:55+01:00",
+      "title": "Brann i togbremser – Lillestrøm stasjon stengt",
+      "summary": "Et tog måtte søndag kveld evakueres etter at det begynte å brenne i bremsene. – De ansatte på toget har gjort en kjempejobb i akuttfasen. De ansatte evakuerte alle på toget og ingen personer skal være skadet etter brannen. – Det var ikke så dramatisk da vi kom, mye på grunn av de ansattes innsats, sier Sylju. Vy opplyser om at det er et tog fra Eidsvold som var på vei til Drammen. – Toget har stanset på Lillestrøm stasjon.",
+      "keyPoints": [
+        "Vy opplyser om at det er et tog fra Eidsvold som var på vei til Drammen. – Toget har stanset på Lillestrøm stasjon.",
+        "Et tog måtte søndag kveld evakueres etter at det begynte å brenne i bremsene. – De ansatte på toget har gjort en kjempejobb i akuttfasen.",
+        "De ansatte evakuerte alle på toget og ingen personer skal være skadet etter brannen. – Det var ikke så dramatisk da vi kom, mye på grunn av de ansattes innsats, sier Sylju.",
+        "De har gått løs på bremsene med masse pulverapparat og holdt brannen i sjakk, sier innsatsleder Dag André Sylju."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/buskerud/brann-i-togbremser-_-lillestrom-stasjon-stengt-1.18064461",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/CnYzTkma4ml4E4YDEx0VxQ-5Elh3rV7fgBXmc3BgX7PA.jpg",
+      "localImage": "assets/news/5f09e110fad22f.jpg",
+      "score": 13
     },
     {
       "id": "42d716ffe454d7",
@@ -127,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/THJMWFr3ZT7gYkYtEj3ydwcSu8s32pyxspGOwrki36RQ.jpg",
       "localImage": "assets/news/31c0d175897ad5.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "67c439e15220a3",
@@ -148,69 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/YjsapNASXte6urE2cZYynwNdd5zSFPVVRV1iQb3HIiLg.jpg",
       "localImage": "assets/news/67c439e15220a3.jpg",
-      "score": 13
-    },
-    {
-      "id": "857d9b9a08c9fb",
-      "category": "Norge",
-      "published": "25.10. 12:53",
-      "publishedISO": "2026-10-25T12:53:21+01:00",
-      "title": "Sitter værfast på hytta: – Først gikk strømmen, så raste veien ut",
-      "summary": "Fredag tok hun med seg mannen og barnebarna Luka (4) og Filippa (9) til hytta på Svanstul helt nord i Skien kommune. Da raste hytteveien ut som følge av enorme vannmasser. – Nå sitter vi og venter på en gravemaskin som skal komme og fikse veien, sier Bjerk. Ifølge Bjerk klarte flere å komme seg hjem før veien raste ut søndag. – Det er 47 hytter her oppe og det var folk på ganske mange av dem denne helgen.",
-      "keyPoints": [
-        "Da raste hytteveien ut som følge av enorme vannmasser. – Nå sitter vi og venter på en gravemaskin som skal komme og fikse veien, sier Bjerk.",
-        "Ifølge Bjerk klarte flere å komme seg hjem før veien raste ut søndag. – Det er 47 hytter her oppe og det var folk på ganske mange av dem denne helgen.",
-        "Fredag tok hun med seg mannen og barnebarna Luka (4) og Filippa (9) til hytta på Svanstul helt nord i Skien kommune.",
-        "BORTE VEKK: Veien fikk hard medfart av de enorme vannmassene på Svanstul. – Det ble jo litt annerledes enn vi hadde forestilt oss dette her, erkjenner Irene Bjerk fra Gulset i Skien."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/sitter-vaerfast-pa-hytta_-_-forst-gikk-strommen_-sa-raste-veien-ut-1.18064175",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/w2O9V794Q5XasGp0zRlnDA3kci1LzKNrTYsljXtOXyIw.jpg",
-      "localImage": "assets/news/857d9b9a08c9fb.jpg",
-      "score": 12
-    },
-    {
-      "id": "23ec1beba5edae",
-      "category": "Norge",
-      "published": "25.10. 10:51",
-      "publishedISO": "2026-10-25T10:51:09+01:00",
-      "title": "Lucas Pinheiro Braathen vant suverent i Sölden – etterpå gremmet han seg over kyssebilder",
-      "summary": "Lucas Pinheiro Braathen vant nok en gang overlegent i Sölden. Med 24 hundredeler å gå på, var Lucas Pinheiro Braathen roen selv. Han distanserte konkurrentene nedover den litt sporete og forblåste traseen i Sölden. – Jeg er veldig, veldig stolt, sa Pinheiro Braathen til Viaplay etter rennet.",
-      "keyPoints": [
-        "Lucas Pinheiro Braathen vant nok en gang overlegent i Sölden.",
-        "Han distanserte konkurrentene nedover den litt sporete og forblåste traseen i Sölden. – Jeg er veldig, veldig stolt, sa Pinheiro Braathen til Viaplay etter rennet.",
-        "Med 24 hundredeler å gå på, var Lucas Pinheiro Braathen roen selv.",
-        "SATTE NED FOTEN: Lucas Pinheiro Braathen økte ledelsen til Loïc Meillard i finaleomgangen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/lucas-pinheiro-braathen-vant-suverent-i-solden-_-etterpa-gremmet-han-seg-over-kyssebilder-1.18064094",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/e0UNA7X5NmTbSgf_QbkJSAfoKTCWLCW9WqERPwoFtLOg.jpg",
-      "localImage": "assets/news/23ec1beba5edae.webp",
-      "score": 12
-    },
-    {
-      "id": "4c2110e6e66bc7",
-      "category": "Norge",
-      "published": "25.10. 10:31",
-      "publishedISO": "2026-10-25T10:31:11+01:00",
-      "title": "Vik før Viking: – Kjenner på at det er store muligheter",
-      "summary": "Alt fra å score åtte mål – til å ikke gjøre så gode prestasjoner, også i det siste, sier Vik – og fortsetter: Viking er råsterke hjemme. Og står nå med 17 strake seire på eget kunstgress i eliteserien. – Jeg kjenner jo også på at det er store muligheter hvis vi kommer opp på vårt beste nivå. Fjorårets oppgjør mellom Viking og TIL i Stavanger endte 4-4.",
-      "keyPoints": [
-        "Og står nå med 17 strake seire på eget kunstgress i eliteserien. – Jeg kjenner jo også på at det er store muligheter hvis vi kommer opp på vårt beste nivå.",
-        "Alt fra å score åtte mål – til å ikke gjøre så gode prestasjoner, også i det siste, sier Vik – og fortsetter: Viking er råsterke hjemme.",
-        "Fjorårets oppgjør mellom Viking og TIL i Stavanger endte 4-4.",
-        "Denne uka har det handlet om å forberede seg til den vanskeligste oppgaven i hjemlig serie: For i Stavanger har sist sesongs seriemester nå vunnet elleville 17 kamper på rad på eget kunstgress i Jåttåvågen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/vik-for-viking_-_-kjenner-pa-at-det-er-store-muligheter-1.18063049",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/m5Kf5WaQIUEVPODCdlgJ3g5_GJl02rDVdMvkR0Nyc2uQ.jpg",
-      "localImage": "assets/news/4c2110e6e66bc7.jpg",
       "score": 12
     }
   ]
