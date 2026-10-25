@@ -1,28 +1,28 @@
 {
-  "updatedAt": "25.10.2026 kl. 15:24",
-  "updatedISO": "2026-10-25T15:24:15.940106+01:00",
+  "updatedAt": "25.10.2026 kl. 18:47",
+  "updatedISO": "2026-10-25T18:47:05.813272+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "63b78d3f9d83ff",
+      "id": "a51e74cb3c47c0",
       "category": "Norge",
-      "published": "24.10. 10:45",
-      "publishedISO": "2026-10-24T10:45:30+02:00",
-      "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
-      "summary": "Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten. Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor. Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
+      "published": "25.10. 16:01",
+      "publishedISO": "2026-10-25T16:01:44+01:00",
+      "title": "Viking-Tromsø: Tromsø-komet til sykehus etter voldsom takling",
+      "summary": "Denne gangen gikk det utover Tromsøs 20 år gamle stjerneskudd. Etter kun seks minutter var Joe Bell altfor sen inn i en takling mot en fremadstormende Troy Nyhammer. – Jeg skjønner at det vil bli stilt enda større spørsmålstegn til VAR. Jeg mener det må opp til diskusjon rundt hvorfor VAR ikke griper inn. – Den er stygg og den er i høyden hvor man ikke er beskyttet av leggbeskytteren, sier TV 2-ekspert Mushaga Bakenga.",
       "keyPoints": [
-        "Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
-        "Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten.",
-        "Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor.",
-        "Ukraina har tidligere rapportert at forbindelsen med dronene har falt ut når de har passert 160 kilometer i timen."
+        "Etter kun seks minutter var Joe Bell altfor sen inn i en takling mot en fremadstormende Troy Nyhammer. – Jeg skjønner at det vil bli stilt enda større spørsmålstegn til VAR.",
+        "Jeg mener det må opp til diskusjon rundt hvorfor VAR ikke griper inn. – Den er stygg og den er i høyden hvor man ikke er beskyttet av leggbeskytteren, sier TV 2-ekspert Mushaga Bakenga.",
+        "Denne gangen gikk det utover Tromsøs 20 år gamle stjerneskudd.",
+        "Jeg forsøker å stanse angrepet, men jeg er lei meg på hans vegne, sa han til TV 2."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063632",
+      "url": "https://www.nrk.no/sport/viking-tromso_-tromso-komet-til-sykehus-etter-voldsom-takling-1.18064269",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UITMVw5GlrlXzJthNNMZ4gunTnRK53KDUSCDsMebly-Q.jpg",
-      "localImage": "assets/news/63b78d3f9d83ff.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/Xs0ss2oRL3BeXLGTwKjL8ATHzcdDetHHEWDMXrC1eKtA.jpg",
+      "localImage": "assets/news/a51e74cb3c47c0.jpg",
+      "score": 17
     },
     {
       "id": "b5cb268bc15f22",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/cd8c2300-6ea7-3f76-a3ca-f1fbe88895bc?fit=crop&h=675&upscale=true&w=1200&s=15848db4ac17bdf4d53cae88bcbb3de0a0a26a0b",
       "localImage": "assets/news/b5cb268bc15f22.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "e06bd5f71c2112",
@@ -64,6 +64,48 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2b301bc1-84bd-322a-9a79-402779f9dd56?fit=crop&h=675&upscale=true&w=1200&s=4858ee0328839eb7c47127be1256149831d4deeb",
       "localImage": "assets/news/e06bd5f71c2112.jpg",
+      "score": 12
+    },
+    {
+      "id": "63b78d3f9d83ff",
+      "category": "Norge",
+      "published": "24.10. 10:45",
+      "publishedISO": "2026-10-24T10:45:30+02:00",
+      "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
+      "summary": "Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten. Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor. Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
+      "keyPoints": [
+        "Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
+        "Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten.",
+        "Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor.",
+        "Ukraina har tidligere rapportert at forbindelsen med dronene har falt ut når de har passert 160 kilometer i timen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/norge/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063632",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/UITMVw5GlrlXzJthNNMZ4gunTnRK53KDUSCDsMebly-Q.jpg",
+      "localImage": "assets/news/63b78d3f9d83ff.jpg",
+      "score": 15
+    },
+    {
+      "id": "42d716ffe454d7",
+      "category": "Norge",
+      "published": "25.10. 16:32",
+      "publishedISO": "2026-10-25T16:32:46+01:00",
+      "title": "HamKam kvinner rykker opp",
+      "summary": "Det ble jubel og gullhatter i garderoben da de hvit- og grønnkledde jentene sikret seg 1. divisjonsspill neste sesong. Han innrømmer at de har kjent på et stort press. – Vi har fått beskjed av klubben at laget skulle opp. Linnea Moen og de andre jentene er overlykkelige etter å ha rykket opp til 1. divisjon.",
+      "keyPoints": [
+        "Linnea Moen og de andre jentene er overlykkelige etter å ha rykket opp til 1. divisjon.",
+        "Han innrømmer at de har kjent på et stort press. – Vi har fått beskjed av klubben at laget skulle opp.",
+        "Det ble jubel og gullhatter i garderoben da de hvit- og grønnkledde jentene sikret seg 1. divisjonsspill neste sesong.",
+        "De sikret opprykket med en overlegen 4–0 seier borte mot Krokelvdalen søndag."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/hamkam-kvinner-rykker-opp-1.18064294",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/hQtDoOgIZm3H0vy7MQMuWgVDbemIRMoknzVCignM0S4w.jpg",
+      "localImage": "assets/news/42d716ffe454d7.jpg",
       "score": 13
     },
     {
@@ -127,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/w2O9V794Q5XasGp0zRlnDA3kci1LzKNrTYsljXtOXyIw.jpg",
       "localImage": "assets/news/857d9b9a08c9fb.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "23ec1beba5edae",
@@ -148,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/e0UNA7X5NmTbSgf_QbkJSAfoKTCWLCW9WqERPwoFtLOg.jpg",
       "localImage": "assets/news/23ec1beba5edae.webp",
-      "score": 13
+      "score": 12
     },
     {
       "id": "4c2110e6e66bc7",
@@ -169,48 +211,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/m5Kf5WaQIUEVPODCdlgJ3g5_GJl02rDVdMvkR0Nyc2uQ.jpg",
       "localImage": "assets/news/4c2110e6e66bc7.jpg",
-      "score": 13
-    },
-    {
-      "id": "95158ea2a923ac",
-      "category": "Norge",
-      "published": "25.10. 10:24",
-      "publishedISO": "2026-10-25T10:24:51+01:00",
-      "title": "Leah (24) bor midt i protestene",
-      "summary": "Foto: Leah Kvist Natt til tirsdag hører Leah Kvist lyden av rotorer som spinner et par hundre ganger i minuttet over hybelen sin. Da hun kikker ut, ser hun et helikopter med lyskaster fly over bygningen der hun bor. – Jeg regner med at de fulgte med på gatene, og ikke inn i husene. Hun bor alene på 20 kvadratmeter sentralt i Paris, nær Bastille-plassen og Place de la République. – Da jeg var ute på lørdag, var det helt sinnssykt med politi overalt.",
-      "keyPoints": [
-        "Hun bor alene på 20 kvadratmeter sentralt i Paris, nær Bastille-plassen og Place de la République. – Da jeg var ute på lørdag, var det helt sinnssykt med politi overalt.",
-        "Foto: Leah Kvist Natt til tirsdag hører Leah Kvist lyden av rotorer som spinner et par hundre ganger i minuttet over hybelen sin.",
-        "Da hun kikker ut, ser hun et helikopter med lyskaster fly over bygningen der hun bor. – Jeg regner med at de fulgte med på gatene, og ikke inn i husene.",
-        "Flere steder brøt det ut opptøyer og sammenstøt med politiet. – Jeg trodde ikke akkurat at jeg skulle havne midt oppi en revolusjon da jeg dro ned hit, for å si det sånn, sier hun."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/leah-24-bor-midt-i-protestene-1530594",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/aOgk7V8dhwQ6YYTPzxN4Ow_Dlv4gaYSUJh5eqplRuioA",
-      "localImage": "assets/news/95158ea2a923ac.jpg",
-      "score": 13
-    },
-    {
-      "id": "4e8051f7339867",
-      "category": "Økonomi",
-      "published": "25.10. 10:09",
-      "publishedISO": "2026-10-25T10:09:59+01:00",
-      "title": "Varsler dagbøter på 16.000 kroner mot Norse",
-      "summary": "Norse sendte inn sitt tilsvar i sommer, der de pekte på grep som er tatt, men Luftfartstilsynet krever mer: Det vil løpe tvangsmulkt på 8.000 kroner om dagen (utenom søndag) for hver av fristene som ikke overholdes. I august skrev E24 at Norse hadde liggende 625 ferdigbehandlede krav som avventet utbetaling. I vedtaket fremgår det at Norse har 591 utestående utbetalinger, men omtrent halvparten av de identifiserte kravene er allerede utbetalt, opplyser han.",
-      "keyPoints": [
-        "Norse sendte inn sitt tilsvar i sommer, der de pekte på grep som er tatt, men Luftfartstilsynet krever mer: Det vil løpe tvangsmulkt på 8.000 kroner om dagen (utenom søndag) for hver av fristene som ikke overholdes.",
-        "I august skrev E24 at Norse hadde liggende 625 ferdigbehandlede krav som avventet utbetaling.",
-        "I vedtaket fremgår det at Norse har 591 utestående utbetalinger, men omtrent halvparten av de identifiserte kravene er allerede utbetalt, opplyser han.",
-        "Gjennom hele året har Norse slitt med å ta unna kunders klagesaker."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/0BAA52/varsler-dagboeter-paa-16-000-kroner-mot-norse",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d9adbf2c-320e-3445-8937-1f355980cbb8?fit=crop&h=675&upscale=true&w=1200&s=8d29ee9cf8a926e4c0834e2ceff247495de1dc27",
-      "localImage": "assets/news/4e8051f7339867.jpg",
       "score": 12
     }
   ]
