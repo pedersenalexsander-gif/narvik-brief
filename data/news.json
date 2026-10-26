@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.10.2026 kl. 23:46",
-  "updatedISO": "2026-10-25T23:46:50.550513+01:00",
+  "updatedAt": "26.10.2026 kl. 02:01",
+  "updatedISO": "2026-10-26T02:01:11.349093+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/t6jg2P7eP6pgvvuPpBUZVAz80MM8VTQ8S4NfSjrB79mw",
       "localImage": "assets/news/a8b2a7f1024784.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "41b5eda710a4bf",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b1883bbb-2c0f-3888-89a7-ef3f40e4c77a?fit=crop&h=675&upscale=true&w=1200&s=3a0f80a17f302c474b4dfed6a09e4d3c55f065a4",
       "localImage": "assets/news/ac6c52731f702b.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "a51e74cb3c47c0",
@@ -106,7 +106,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/UITMVw5GlrlXzJthNNMZ4gunTnRK53KDUSCDsMebly-Q.jpg",
       "localImage": "assets/news/63b78d3f9d83ff.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "b42d244f8a94ab",
@@ -127,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/U87YsowogaM4DMUh25vJtQrG2atOqLHh1GUG4ouYuKVw.jpg",
       "localImage": "assets/news/b42d244f8a94ab.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "e558b49c2a687d",
@@ -148,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/L5ECcYaUc2YR-idaHMeUJwgGnC8twaLKAhKcbb-9LS0w.jpg",
       "localImage": "assets/news/e558b49c2a687d.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "5f09e110fad22f",
@@ -169,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/CnYzTkma4ml4E4YDEx0VxQ-5Elh3rV7fgBXmc3BgX7PA.jpg",
       "localImage": "assets/news/5f09e110fad22f.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "42d716ffe454d7",
@@ -190,27 +190,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/hQtDoOgIZm3H0vy7MQMuWgVDbemIRMoknzVCignM0S4w.jpg",
       "localImage": "assets/news/42d716ffe454d7.jpg",
-      "score": 12
-    },
-    {
-      "id": "31c0d175897ad5",
-      "category": "Norge",
-      "published": "25.10. 14:43",
-      "publishedISO": "2026-10-25T14:43:44+01:00",
-      "title": "Lys mot mørketid: Derfor senker førjulsgatene stresshormonene dine",
-      "summary": "Hun opplever at kundene deler seg i to: De som vil vente litt, og de som higer etter lys og julestemning så tidlig som overhodet mulig. Dette er lys vi mener kan henge oppe store deler av året, mens de tradisjonelle julehjertene kommer senere, forklarer Rørvik. – Dette er belysning som tennes fordi tida blir for mørk og vi trenger noe å glede oss til, sier daglig leder i Tromsø Sentrum AS, Ida Rørvik. Da psykolog og lykkeforsker ved Folkehelseinstituttet (FHI), Ragnhild Bang Nes, gjestet NRKs Helgemorgen, pekte hun på at lys har en direkte målbar effekt på kropp og sinn: – Lys, enten det er dagslys eller vinterbelysning, er koblet til det å oppleve glede og positive følelser, forklarte Nes i studiosendingen.",
-      "keyPoints": [
-        "Dette er lys vi mener kan henge oppe store deler av året, mens de tradisjonelle julehjertene kommer senere, forklarer Rørvik. – Dette er belysning som tennes fordi tida blir for mørk og vi trenger noe å glede oss til, sier daglig leder i Tromsø Sentrum AS, Ida Rørvik.",
-        "Hun opplever at kundene deler seg i to: De som vil vente litt, og de som higer etter lys og julestemning så tidlig som overhodet mulig.",
-        "Da psykolog og lykkeforsker ved Folkehelseinstituttet (FHI), Ragnhild Bang Nes, gjestet NRKs Helgemorgen, pekte hun på at lys har en direkte målbar effekt på kropp og sinn: – Lys, enten det er dagslys eller vinterbelysning, er koblet til det å oppleve glede og positive følelser, forklarte Nes i studiosendingen.",
-        "I Tromsø sentrum har handelsstanden tatt konsekvensen av folks ønske om lys i mørket."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/lys-mot-morketid_-derfor-senker-forjulsgatene-stresshormonene-dine-1.18064184",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/THJMWFr3ZT7gYkYtEj3ydwcSu8s32pyxspGOwrki36RQ.jpg",
-      "localImage": "assets/news/31c0d175897ad5.jpg",
       "score": 12
     }
   ]
