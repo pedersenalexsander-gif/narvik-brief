@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26.10.2026 kl. 20:05",
-  "updatedISO": "2026-10-26T20:05:21.801440+01:00",
+  "updatedAt": "27.10.2026 kl. 00:09",
+  "updatedISO": "2026-10-27T00:09:46.428000+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/To8dnochoOZ12UkvKWkKkg7l4qFzHmK_qGOtGTrBFsUg.jpg",
       "localImage": "assets/news/5cdfc4d6b3299a.jpg",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "4c028892be0d88",
+      "id": "333343cf26b6da",
       "category": "Verden",
-      "published": "26.10. 17:32",
-      "publishedISO": "2026-10-26T17:32:16+01:00",
-      "title": "I Jerusalems gater utkjempes det en blodig kamp før valget",
-      "summary": "I Jerusalems gater utkjempes det en blodig kamp før valget. Midt i et av Jerusalems travleste veikryss, har flere hundre ultraortodokseultraortodokseEn gruppe jøder som lever etter strenge religiøse regler og tradisjoner. menn satt seg ned i ettermiddagsrushet. Temaet engasjerer også israelerne: 72 prosent mener at de ultraortodokse må tjenestegjøre i militæret, ifølge en meningsmåling gjort av The Israel Democracy Institute i september.",
+      "published": "26.10. 12:29",
+      "publishedISO": "2026-10-26T12:29:02+01:00",
+      "title": "Fem måter Trump har endret immigrasjonen i USA på",
+      "summary": "Innvandring har alltid stått sentralt i Donald Trumps budskap. Fremskritt på det har økt fart i hans andre periode, styrket med 46,5 milliarder dollar (34,7 milliarder pund) i ny finansiering fra Trumps utgiftsregning «One Big Beautiful». Arrestasjonene – og påfølgende interneringer i immigrasjonsanlegg – har økt betydelig siden Trump kom tilbake til embetet, inkludert en rekord på nesten 50 000 i juli i år alene, ifølge data innhentet av Deportation Data Project, eksternt, et arkiv med amerikanske immigrasjonsdata som er tom for University of California, Berkeley og UCLA.",
       "keyPoints": [
-        "I Jerusalems gater utkjempes det en blodig kamp før valget.",
-        "Midt i et av Jerusalems travleste veikryss, har flere hundre ultraortodokseultraortodokseEn gruppe jøder som lever etter strenge religiøse regler og tradisjoner. menn satt seg ned i ettermiddagsrushet.",
-        "Temaet engasjerer også israelerne: 72 prosent mener at de ultraortodokse må tjenestegjøre i militæret, ifølge en meningsmåling gjort av The Israel Democracy Institute i september.",
-        "Krigen i Gaza, bosettervolden på okkuperte Vestbredden, konflikten i Sør-Libanon og den spente situasjonen med Iran, gjør at Israel mangler rundt 12.000 soldater."
+        "Immigration has always been central to Donald Trump's message.",
+        "Arrestasjonene – og påfølgende interneringer i immigrasjonsanlegg – har økt betydelig siden Trump kom tilbake til embetet, inkludert en rekord på nesten 50 000 i juli i år alene, ifølge data innhentet av Deportation Data Project, eksternt, et arkiv med amerikanske immigrasjonsdata som er tom for University of California, Berkeley og UCLA.",
+        "Fremskritt på det har økt fart i hans andre periode, styrket med 46,5 milliarder dollar (34,7 milliarder pund) i ny finansiering fra Trumps utgiftsregning «One Big Beautiful».",
+        "I tillegg er innvirkningen muren selv har på de bredere innvandringstallene opp til debatt. \"Siden ny murkonstruksjon virkelig har begynt for alvor, har det ikke vært noen vesentlig endring i antall mennesker som krysser grensen,\" sa Aaron Reichlin-Melnick, en immigrasjonshåndhevelsesekspert ved American Immigration Council."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.vg.no/nyheter/i/ElPr6K/jerusalem-ultraortodokse-i-israel-i-kamp-mot-militaertjeneste",
-      "source": "vg.no",
-      "image": "https://akamai.vgc.no/v2/images/667b9bda-8a90-3964-ac07-96b9af2164ac?format=auto&w=1080&s=1424ab7e9f0bc3f09bac30b901db5d4516291923",
-      "localImage": "assets/news/4c028892be0d88.jpg",
-      "score": 13
+      "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/eeb3/live/8c0c5bf0-d138-11f1-be77-d1864d279cb0.jpg",
+      "localImage": "assets/news/333343cf26b6da.jpg",
+      "score": 15
+    },
+    {
+      "id": "d8a605c4a31694",
+      "category": "USA",
+      "published": "26.10. 16:46",
+      "publishedISO": "2026-10-26T16:46:04+01:00",
+      "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
+      "summary": "BBCs Nord-Amerika-redaktør Sarah Smith møtte El-Sayed på kampanjesporet i Michigan og spurte ham hvorfor han ikke ser ut til å ha det like bra som andre demokrater. Se: BBC spør demokraten El-Sayed om et tett løp i Michigan Senatet. Video, 00:01:05Se: BBC spør demokraten El-Sayed om det tette senatløpet Up Next i Michigan.",
+      "keyPoints": [
+        "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race.",
+        "BBCs Nord-Amerika-redaktør Sarah Smith møtte El-Sayed på kampanjesporet i Michigan og spurte ham hvorfor han ikke ser ut til å ha det like bra som andre demokrater.",
+        "Men meningsmålinger tyder på at venstreorienterte politiske outsider Abdul El-Sayed fortsatt er i et tett kappløp med sin republikanske motstander Mike Rogers.",
+        "Michigan er et av nøkkelløpene demokratene trenger for å vinne hvis partiet skal ta kontroll over det amerikanske senatet etter midtveisvalget 3. november."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7654/live/5d4e7670-d153-11f1-a701-fddedf244c16.jpg",
+      "localImage": "assets/news/d8a605c4a31694.jpg",
+      "score": 12
     },
     {
       "id": "05ad811a997c38",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f6c1c066-3529-35ef-bfd9-3de28d1ed04d?fit=crop&h=675&upscale=true&w=1200&s=70091a3e1f433ceb04b9501c78308614d1fc3bad",
       "localImage": "assets/news/05ad811a997c38.jpg",
-      "score": 22
+      "score": 21
     },
     {
       "id": "04954bc49bec85",
@@ -72,12 +93,12 @@
       "published": "26.10. 14:30",
       "publishedISO": "2026-10-26T14:30:43+01:00",
       "title": "Tesla-byks på Wall Street",
-      "summary": "Optimismen tiltar i styrke på Wall Street, der blant annet Tesla stiger 6,3 prosent. Wall Street stenger én time tidligere enn normalt norsk tid denne uken, fordi vi stilte klokken her til lands i helgen. Flere av selskapene, såkalte «neoclouds», har fått det tøft på Wall Street den siste måneden.",
+      "summary": "Det var fornyet optimisme på Wall Street mandag, der blant annet Tesla steg kraftig. Slik så det ut ved børsslutt klokken 21 :00 norsk tid: Wall Street stenger én time tidligere enn normalt norsk tid (vintertid) denne uken. Den var på rundt 115,4 dollar fatet ved børsslutt på Wall Street, ned rundt 1,3 prosent siden før helgen.",
       "keyPoints": [
-        "Optimismen tiltar i styrke på Wall Street, der blant annet Tesla stiger 6,3 prosent.",
-        "Wall Street stenger én time tidligere enn normalt norsk tid denne uken, fordi vi stilte klokken her til lands i helgen.",
-        "Flere av selskapene, såkalte «neoclouds», har fått det tøft på Wall Street den siste måneden.",
-        "Det var en av bidragsyterne til den negative stemningen på Wall Street mot slitten av uken."
+        "Slik så det ut ved børsslutt klokken 21 :00 norsk tid: Wall Street stenger én time tidligere enn normalt norsk tid (vintertid) denne uken.",
+        "Den var på rundt 115,4 dollar fatet ved børsslutt på Wall Street, ned rundt 1,3 prosent siden før helgen.",
+        "Det var fornyet optimisme på Wall Street mandag, der blant annet Tesla steg kraftig.",
+        "Flere av selskapene, såkalte «neoclouds», har fått det tøft på Wall Street den siste måneden."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -86,6 +107,48 @@
       "image": "https://akamai.vgc.no/v2/images/207a6841-4064-3250-8698-c8062ae7cf6f?fit=crop&h=675&upscale=true&w=1200&s=69eed7838a20aebd7b0c254da26ae7b126f48e82",
       "localImage": "assets/news/04954bc49bec85.jpg",
       "score": 20
+    },
+    {
+      "id": "04262ce2919d74",
+      "category": "AI",
+      "published": "26.10. 00:44",
+      "publishedISO": "2026-10-26T00:44:34+01:00",
+      "title": "Data centre backlash grows ahead of US midterms - here's what you need to know",
+      "summary": "Stort, støyende og å komme til en by nær deg – hvorfor tilbakeslaget i datasenteret vokser. Inntil for noen år siden kan mange av oss ha vært lykkelig uvitende om hva et datasenter var. Det setter motstandere av utvidelse av datasenter på kollisjonskurs med USAs president Donald Trump, som har avfeid tilbakeslaget som en «syk konspirasjon», selv når offentlig sinne vokser. Her er det du trenger å vite om datasenterboomen, og hvorfor motstanden øker.",
+      "keyPoints": [
+        "Her er det du trenger å vite om datasenterboomen, og hvorfor motstanden øker.",
+        "Stort, støyende og å komme til en by nær deg – hvorfor tilbakeslaget i datasenteret vokser. Inntil for noen år siden kan mange av oss ha vært lykkelig uvitende om hva et datasenter var.",
+        "Det setter motstandere av utvidelse av datasenter på kollisjonskurs med USAs president Donald Trump, som har avfeid tilbakeslaget som en «syk konspirasjon», selv når offentlig sinne vokser.",
+        "The world's largest operational data centre is widely reported to be one run by China Telecom in Hohhot, Inner Mongolia, covering an area of approximately one million square metres (10.7 million sq ft)."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+      "localImage": "assets/news/04262ce2919d74.png",
+      "score": 13
+    },
+    {
+      "id": "9e26c77f924292",
+      "category": "Norge",
+      "published": "26.10. 21:45",
+      "publishedISO": "2026-10-26T21:45:18+01:00",
+      "title": "Har funnet 5000 glemte krigsfanger etter andre verdenskrig",
+      "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. I verket Nordmenn i fangenskap var det opprinnelige registrert 44.000 krigsfanger. Kjelleren ble brukt til brutale avhør og tortur under andre verdenskrig.",
+      "keyPoints": [
+        "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert.",
+        "Kjelleren ble brukt til brutale avhør og tortur under andre verdenskrig.",
+        "I verket Nordmenn i fangenskap var det opprinnelige registrert 44.000 krigsfanger.",
+        "Dermed er antallet registrerte krigsfanger økt fra 44.000 til over 50.000 her i landet. – Etterkommere av fanger har delt foto, brev, dagbøker og beretninger fra private samlinger, sier historiker Simen Zernichow."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/har-funnet-5000-glemte-krigsfanger-etter-andre-verdenskrig-1.18062013",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xajuWS9BN_DnWD2FrlKRYAAAHaV73J_3H_Tkk716TT9w.jpg",
+      "localImage": "assets/news/9e26c77f924292.jpg",
+      "score": 17
     },
     {
       "id": "abe1cc23680fc1",
@@ -106,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/29e7ab29-e8f3-340b-b4fb-67c3b908f5f5?fit=crop&h=675&upscale=true&w=1200&s=452d36a1f10a5f63626febf08cb4fc88713913c8",
       "localImage": "assets/news/abe1cc23680fc1.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "62c3e224372217",
@@ -127,28 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/FWFUTRgP4OlRqtvSi4jLjQ_6D9qmk3KVy-yzS8F7qV7g.jpg",
       "localImage": "assets/news/62c3e224372217.jpg",
-      "score": 17
-    },
-    {
-      "id": "dfab6364586d94",
-      "category": "Økonomi",
-      "published": "26.10. 06:14",
-      "publishedISO": "2026-10-26T06:14:03+01:00",
-      "title": "Vil gå etter bankene: – De tar inn så mye de kan",
-      "summary": "Bankene har hatt rentefest og bør betale mer skatt, mener SV. – Vi kommer til å jobbe for dette i statsbudsjettet, sier Marthe Hammer, finanspolitisk talsperson i SV. E24 skrev onsdag om hvordan storbankens rentegrep har gitt dem 2,76 milliarder kroner i inntekter på kunders innskudd. – Det går svært godt, renten skal ytterligere opp, og vi vet at de tar inn så mye de kan, og gir så lite de kan komme unna med, sier Hammer. De ønsker ikke å kommentere påstanden om at de tar så mye de kan, og gir så lite de kan komme unna med.",
-      "keyPoints": [
-        "E24 skrev onsdag om hvordan storbankens rentegrep har gitt dem 2,76 milliarder kroner i inntekter på kunders innskudd. – Det går svært godt, renten skal ytterligere opp, og vi vet at de tar inn så mye de kan, og gir så lite de kan komme unna med, sier Hammer.",
-        "De ønsker ikke å kommentere påstanden om at de tar så mye de kan, og gir så lite de kan komme unna med.",
-        "Bankene har hatt rentefest og bør betale mer skatt, mener SV. – Vi kommer til å jobbe for dette i statsbudsjettet, sier Marthe Hammer, finanspolitisk talsperson i SV.",
-        "I tillegg sier han at regningen vil havne hos vanlige folk om bankene får høyere skattesats. – Det er kundene av finansnæringen som slipper unna mva.-regningen, fordi man ikke har funnet et godt system for å beregne moms på finansielle inntekter."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/1o9j4l/vil-gaa-etter-bankene-de-tar-inn-saa-mye-de-kan",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/79b42d7d-24a0-31fd-a73b-1f4808e20615?fit=crop&h=675&upscale=true&w=1200&s=05047f3bdd275cf3c94be199fe335780cd416f83",
-      "localImage": "assets/news/dfab6364586d94.jpg",
-      "score": 15
+      "score": 16
     },
     {
       "id": "0288935c042892",
@@ -170,48 +212,6 @@
       "image": "https://akamai.vgc.no/v2/images/36f5b944-2f10-30cb-a874-9f1698174ed1?fit=crop&h=675&upscale=true&w=1200&s=2bbf0e1b875d38e077fd5cc4ce88f4a635877a8c",
       "localImage": "assets/news/0288935c042892.jpg",
       "score": 14
-    },
-    {
-      "id": "a0dd8940c2a9f2",
-      "category": "Norge",
-      "published": "26.10. 18:10",
-      "publishedISO": "2026-10-26T18:10:02+01:00",
-      "title": "Disse bragdene kan gjøre Glimt til årets klubb",
-      "summary": "I kveld kan Bodø/Glimt bli kåret til årets herreklubb under Gullballen-utdelingen. Nå er de nominert til årets herreklubb. – Jeg synes det er tøft at en liten klubb som Bodø/Glimt kan hevde seg i toppen mot de store lagene som har gjort det bra i hjemlig serie og i Europa, sier William Sivertsen, som NRK møter på gata i Bodø. NRKs fotballekspert Carl-Erik Torp mener særlig resultatene over forventning taler til Glimts fordel. – Jeg mener at Bodø/Glimt fortjener å vinne, for et av kriteriene er jo en klubb som overrasker, som leverer resultater utover det man kan forvente.",
-      "keyPoints": [
-        "Nå er de nominert til årets herreklubb. – Jeg synes det er tøft at en liten klubb som Bodø/Glimt kan hevde seg i toppen mot de store lagene som har gjort det bra i hjemlig serie og i Europa, sier William Sivertsen, som NRK møter på gata i Bodø.",
-        "I kveld kan Bodø/Glimt bli kåret til årets herreklubb under Gullballen-utdelingen.",
-        "NRKs fotballekspert Carl-Erik Torp mener særlig resultatene over forventning taler til Glimts fordel. – Jeg mener at Bodø/Glimt fortjener å vinne, for et av kriteriene er jo en klubb som overrasker, som leverer resultater utover det man kan forvente.",
-        "Da Erling Braut Haaland og Manchester City kom til Aspmyra 20. januar, hadde Glimt fortsatt til gode å vinne en kamp i mesterligaen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/disse-bragdene-kan-gjore-glimt-til-arets-klubb-1.18065083",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/R6n_5fm8UtNbZuxVhDq34QNOiFxH1NFJR9a4H6unCjHA.jpg",
-      "localImage": "assets/news/a0dd8940c2a9f2.jpg",
-      "score": 13
-    },
-    {
-      "id": "47ac1e6f4bce5d",
-      "category": "Økonomi",
-      "published": "26.10. 17:45",
-      "publishedISO": "2026-10-26T17:45:13+01:00",
-      "title": "Nå seiler russisk diesel forbi Norge",
-      "summary": "Et tankskip med 40.000 tonn russisk diesel er på vei mot New York. USA innførte importforbud mot russisk olje og oljeprodukter etter Russlands fullskalainvasjon av Ukraina i 2022. Trump-administrasjonen har samtidig midlertidig opphevet sanksjonene mot russisk diesel.",
-      "keyPoints": [
-        "Et tankskip med 40.000 tonn russisk diesel er på vei mot New York.",
-        "Trump-administrasjonen har samtidig midlertidig opphevet sanksjonene mot russisk diesel.",
-        "USA innførte importforbud mot russisk olje og oljeprodukter etter Russlands fullskalainvasjon av Ukraina i 2022.",
-        "Men 9. oktober kunngjorde Trump at Russland hadde gått med på å levere diesel til USA og verdensmarkedet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/w3oyWP/naa-seiler-russisk-diesel-forbi-norge",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/facbe9b3-a6bf-3faa-b39b-69da5ccfe36d?fit=crop&h=675&upscale=true&w=1200&s=f99c53f9996fe99e0f11c6cc379a31b44dabce9a",
-      "localImage": "assets/news/47ac1e6f4bce5d.png",
-      "score": 13
     }
   ]
 }
