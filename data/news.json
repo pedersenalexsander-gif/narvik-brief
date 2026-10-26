@@ -1,6 +1,6 @@
 {
-  "updatedAt": "26.10.2026 kl. 02:01",
-  "updatedISO": "2026-10-26T02:01:11.349093+01:00",
+  "updatedAt": "26.10.2026 kl. 07:01",
+  "updatedISO": "2026-10-26T07:01:20.092714+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/t6jg2P7eP6pgvvuPpBUZVAz80MM8VTQ8S4NfSjrB79mw",
       "localImage": "assets/news/a8b2a7f1024784.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "7d64f99ee7e0ad",
+      "category": "Verden",
+      "published": "26.10. 06:20",
+      "publishedISO": "2026-10-26T06:20:19+01:00",
+      "title": "Opposition leader María Machado returns to Venezuela",
+      "summary": "Venezuelas opposisjonsleder María Corina Machado har vendt hjem til et fult politisk landskap etter mer enn 10 måneder i eksil. \"Jeg er her. Den venezuelanske opposisjonslederen Maria Corina Machado hilser tilhengere når hun ankommer Caracas Hennes allierte, tidligere presidentkandidat Edmundo González, bekreftet hennes ankomst, og skrev i en uttalelse: \"Jeg er begeistret over å kunngjøre for deg at vår leder, min kjære María Corina, er på venezuelansk jord.\" \"Dagen i dag er en veldig viktig Venezuelanere. USAs utenriksminister Marco Rubio berømmet landets rolle i å sikre henne tilbake gjennom politiske forsoningssamtaler. \"Betingelsene som tillater en trygg retur av Machado til Venezuela er det direkte resultatet av de USA-støttede forsoningssamtalene som allerede har sett hundrevis av politiske fanger løslatt og hundrevis av politiske opposisjonelle tilbake fra eksil,\" skrev han på X.",
+      "keyPoints": [
+        "Venezuelas opposisjonsleder María Corina Machado har vendt hjem til et fult politisk landskap etter mer enn 10 måneder i eksil. «Jeg er her.",
+        "Venezuelas opposisjonsleder Maria Corina Machado hilser tilhengere når hun ankommer Caracas Hennes allierte, tidligere presidentkandidat Edmundo González, bekreftet hennes ankomst, og skrev i en uttalelse: «Jeg er begeistret over å kunngjøre for deg at vår leder, min kjære María Corina, er på venezuelansk jord.» «I dag er en veldig viktig dag for venezuelanere.",
+        "USAs utenriksminister Marco Rubio berømmet landets rolle i å sikre henne tilbake gjennom politiske forsoningssamtaler. \"Betingelsene som tillater en trygg retur av Machado til Venezuela er det direkte resultatet av de USA-støttede forsoningssamtalene som allerede har sett hundrevis av politiske fanger løslatt og hundrevis av politiske opposisjonelle tilbake fra eksil,\" skrev han på X.",
+        "I januar, en måned etter at Machado forlot Venezuela på en hurtigbåt i ly av mørket for å motta Nobels fredspris i Norge, grep USA hennes motstander, president Nicolás Maduro."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a26f/live/3f12cea0-d0f8-11f1-b5b1-192f0fa11760.jpg",
+      "localImage": "assets/news/7d64f99ee7e0ad.jpg",
+      "score": 13
+    },
+    {
+      "id": "dfab6364586d94",
+      "category": "Økonomi",
+      "published": "26.10. 06:14",
+      "publishedISO": "2026-10-26T06:14:03+01:00",
+      "title": "Vil gå etter bankene: – De tar inn så mye de kan",
+      "summary": "Bankene har hatt rentefest og bør betale mer skatt, mener SV. – Vi kommer til å jobbe for dette i statsbudsjettet, sier Marthe Hammer, finanspolitisk talsperson i SV. E24 skrev onsdag om hvordan storbankens rentegrep har gitt dem 2,76 milliarder kroner i inntekter på kunders innskudd. – Det går svært godt, renten skal ytterligere opp, og vi vet at de tar inn så mye de kan, og gir så lite de kan komme unna med, sier Hammer. De ønsker ikke å kommentere påstanden om at de tar så mye de kan, og gir så lite de kan komme unna med.",
+      "keyPoints": [
+        "E24 skrev onsdag om hvordan storbankens rentegrep har gitt dem 2,76 milliarder kroner i inntekter på kunders innskudd. – Det går svært godt, renten skal ytterligere opp, og vi vet at de tar inn så mye de kan, og gir så lite de kan komme unna med, sier Hammer.",
+        "De ønsker ikke å kommentere påstanden om at de tar så mye de kan, og gir så lite de kan komme unna med.",
+        "Bankene har hatt rentefest og bør betale mer skatt, mener SV. – Vi kommer til å jobbe for dette i statsbudsjettet, sier Marthe Hammer, finanspolitisk talsperson i SV.",
+        "I tillegg sier han at regningen vil havne hos vanlige folk om bankene får høyere skattesats. – Det er kundene av finansnæringen som slipper unna mva.-regningen, fordi man ikke har funnet et godt system for å beregne moms på finansielle inntekter."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/1o9j4l/vil-gaa-etter-bankene-de-tar-inn-saa-mye-de-kan",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/79b42d7d-24a0-31fd-a73b-1f4808e20615?fit=crop&h=675&upscale=true&w=1200&s=05047f3bdd275cf3c94be199fe335780cd416f83",
+      "localImage": "assets/news/dfab6364586d94.jpg",
+      "score": 17
     },
     {
       "id": "41b5eda710a4bf",
@@ -43,7 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8189509f-f304-3d00-a6e2-e01e1672edaf?fit=crop&h=675&upscale=true&w=1200&s=efd107f424e180ad6aa850005389195bdf039c44",
       "localImage": "assets/news/41b5eda710a4bf.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "f713bc13b796cc",
+      "category": "AI",
+      "published": "26.10. 00:44",
+      "publishedISO": "2026-10-26T00:44:34+01:00",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "summary": "Datasenterdebatten varmer i forkant av amerikanske midtterminer – her er det du trenger å vite Inntil for noen år siden kan mange av oss ha vært lykkelig uvitende om hva et datasenter var. Her er det du trenger å vite om datasenterboomen, og hvorfor motstanden øker. Verdens største operative datasenter er rapportert å være et drevet av China Telecom i Hohhot, Indre Mongolia, og dekker et område på omtrent en million kvadratmeter (10,7 millioner sq ft).",
+      "keyPoints": [
+        "Data centre debate heats up ahead of US midterms - here's what you need to know Until a few years ago many of us may have been blissfully unaware of what a data centre was.",
+        "Her er det du trenger å vite om datasenterboomen, og hvorfor motstanden øker.",
+        "The world's largest operational data centre is widely reported to be one run by China Telecom in Hohhot, Inner Mongolia, covering an area of approximately one million square metres (10.7 million sq ft).",
+        "Det setter motstandere av utvidelse av datasenter på kollisjonskurs med USAs president Donald Trump, som har avfeid tilbakeslaget som en «syk konspirasjon», selv når offentlig sinne vokser."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+      "localImage": "assets/news/f713bc13b796cc.png",
+      "score": 16
     },
     {
       "id": "ac6c52731f702b",
@@ -64,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b1883bbb-2c0f-3888-89a7-ef3f40e4c77a?fit=crop&h=675&upscale=true&w=1200&s=3a0f80a17f302c474b4dfed6a09e4d3c55f065a4",
       "localImage": "assets/news/ac6c52731f702b.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "a51e74cb3c47c0",
@@ -85,112 +148,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Xs0ss2oRL3BeXLGTwKjL8ATHzcdDetHHEWDMXrC1eKtA.jpg",
       "localImage": "assets/news/a51e74cb3c47c0.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "63b78d3f9d83ff",
+      "id": "a5d69809799a52",
       "category": "Norge",
-      "published": "24.10. 10:45",
-      "publishedISO": "2026-10-24T10:45:30+02:00",
-      "title": "Ukraina: Stabil tilkobling til Starlink – hastigheten øker",
-      "summary": "Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten. Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor. Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
+      "published": "26.10. 06:35",
+      "publishedISO": "2026-10-26T06:35:06+01:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Økonomien til Stormen konserthus er kraftig forbedret, skriver Avisa Nordland. Noen timer etter midnatt melder politiet at det er rolig på stedet, og at de nøster i foranledningen. – Ulykkesgruppen er ferdig på stedet og veien er åpen for trafikk, melder politiet i Nordland. 14.30 fikk politiet melding om en trafikkulykke i Salten i Nordland.",
       "keyPoints": [
-        "Tester utført av Ukraina viser nå stabil kontakt ved hastigheter over 400 kilometer i timen, ifølge den ukrainske forsvarsministeren. – Hvis Starlink er tilgjengelig som før, betyr det at de ukrainske angrepene mot russisk logistikk, baser og mål i okkuperte områder kan tas opp igjen.",
-        "Starlink er et nettverk av satellitter som gir en stabil internettforbindelse ved fronten.",
-        "Dette bildet av ukrainske soldater som bruker Starlink ble tatt 10. april i fjor.",
-        "Ukraina har tidligere rapportert at forbindelsen med dronene har falt ut når de har passert 160 kilometer i timen."
+        "Økonomien til Stormen konserthus er kraftig forbedret, skriver Avisa Nordland.",
+        "Noen timer etter midnatt melder politiet at det er rolig på stedet, og at de nøster i foranledningen. – Ulykkesgruppen er ferdig på stedet og veien er åpen for trafikk, melder politiet i Nordland.",
+        "14.30 fikk politiet melding om en trafikkulykke i Salten i Nordland.",
+        "Kommunedirektøren advarer om at kommunen får rundt 5 prosent mindre å rutte med i 2027. – Det kommer til å bli kjempeutfordrende, men jeg er ganske sikker på at vi vil klare å komme oss over også den kneika, sa kommunedirektør Odd-Børge Pedersen i formannskapet torsdag, ifølge Avisa Nordland."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/ukraina_-stabil-tilkobling-til-starlink-_-hastigheten-oker-1.18063632",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UITMVw5GlrlXzJthNNMZ4gunTnRK53KDUSCDsMebly-Q.jpg",
-      "localImage": "assets/news/63b78d3f9d83ff.jpg",
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/a5d69809799a52.jpg",
       "score": 13
     },
     {
-      "id": "b42d244f8a94ab",
+      "id": "feb57fa3e61637",
       "category": "Norge",
-      "published": "25.10. 20:43",
-      "publishedISO": "2026-10-25T20:43:28+01:00",
-      "title": "NRK-ekspert Pål Golberg enda i badekar etter fantomløp under Frankfurt maraton",
-      "summary": "NRKs langrennsekspert Pål Golberg blir hylla av Therese Johaug etter løpebragd. I BADEKARET: Pål Golberg måtte legge seg i badekaret etter Frankfurt maraton. Når NRK snakkar med Golberg etter Frankfurt maraton, er det ein tydeleg gjenklang på telefonlinja.",
+      "published": "26.10. 05:19",
+      "publishedISO": "2026-10-26T05:19:26+01:00",
+      "title": "Nytt vannbrudd i Sør-Varanger",
+      "summary": "Bare dager etter forrige hendelse har en ny vannlekkasje rammet Sør-Varanger. Natt til mandag oppsto det et nytt vannbrudd i Sør-Varanger. Akuttpasienter i hele Øst-Finnmark som ikke må inn til Kirkenes først, blir transportert til andre sykehus for behandling, enten Hammerfest sykehus som ligger 50 mil unna, eller Tromsø som ligger 80 mil unna.",
       "keyPoints": [
-        "I BADEKARET: Pål Golberg måtte legge seg i badekaret etter Frankfurt maraton.",
-        "Når NRK snakkar med Golberg etter Frankfurt maraton, er det ein tydeleg gjenklang på telefonlinja.",
-        "NRKs langrennsekspert Pål Golberg blir hylla av Therese Johaug etter løpebragd.",
-        "MÅTTE VARME SEG: Pål Golberg måtte rett i badekaret etter kanonløpet."
+        "Natt til mandag oppsto det et nytt vannbrudd i Sør-Varanger.",
+        "Bare dager etter forrige hendelse har en ny vannlekkasje rammet Sør-Varanger.",
+        "Akuttpasienter i hele Øst-Finnmark som ikke må inn til Kirkenes først, blir transportert til andre sykehus for behandling, enten Hammerfest sykehus som ligger 50 mil unna, eller Tromsø som ligger 80 mil unna.",
+        "Kokevarselet opprettholdes, og innbyggerne må belage seg på å koke drikkevannet i flere dager etter at selve lekkasjen er utbedret. – Det går nok fire til fem dager etter at alt er i orden før kokevarselet kan oppheves, ettersom det først må tas vannprøver, sier varaordføreren."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/nrk-ekspert-pal-golberg-enda-i-badekar-etter-fantomlop-under-frankfurt-maraton-1.18064192",
+      "url": "https://www.nrk.no/tromsogfinnmark/nytt-vannbrudd-i-sor-varanger-1.18064577",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/U87YsowogaM4DMUh25vJtQrG2atOqLHh1GUG4ouYuKVw.jpg",
-      "localImage": "assets/news/b42d244f8a94ab.jpg",
-      "score": 12
+      "image": "https://gfx.nrk.no/SUHVNoCQottidWORoq2UqAN_x-PmwV2EFj7BBldJ8Xlw.jpg",
+      "localImage": "assets/news/feb57fa3e61637.jpg",
+      "score": 13
     },
     {
-      "id": "e558b49c2a687d",
-      "category": "Norge",
-      "published": "25.10. 20:39",
-      "publishedISO": "2026-10-25T20:39:42+01:00",
-      "title": "Dyrleger advarer: Hundeeiere glemmer å bruke refleks på seg selv",
-      "summary": "Flere dyrleger NRK har vært i kontakt med mener vi ofte er flinkere til å bruke refleks på våre dyr, enn på oss selv. – Folk er veldig flinke til å kjøpe reflekshalsbånd og refleksliner til dyrene sine, men de glemmer seg selv. Veterinær Anja Skog i Farsund oppfordrer alle hundeeiere til å bruke refleks. – Det er stor forskjell på å se et dyr eller et menneske med refleks, kontra uten refleks langs veien, sier hun. Arnulv Illebæk er også ute på tur, men siden klokka bare er seks på ettermiddagen ligger refleksene hjemme. – Vi pleier å bruke refleks begge to.",
+      "id": "01cd155b98e49c",
+      "category": "Verden",
+      "published": "25.10. 10:00",
+      "publishedISO": "2026-10-25T10:00:00+01:00",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary": "Elon Musk har sagt at hans selskap SpaceX begrenset Ukrainas Starlink-internetttjeneste, etter at ukrainske tjenestemenn sa at tilkoblingsproblemer så ut til å ha blitt løst. Musk hadde tidligere nektet for bevisst å strupe Ukrainas forbindelse, som den sier hindret dens evne til å utføre defensive operasjoner i mer enn en uke. Musk avslørte ikke i sitt innlegg hvorfor SpaceX hadde valgt å gjøre endringen i tjenesten sin forrige uke, da Ukrainas omfattende bruk av Starlink hadde vært kjent i flere år.",
       "keyPoints": [
-        "Flere dyrleger NRK har vært i kontakt med mener vi ofte er flinkere til å bruke refleks på våre dyr, enn på oss selv. – Folk er veldig flinke til å kjøpe reflekshalsbånd og refleksliner til dyrene sine, men de glemmer seg selv.",
-        "Veterinær Anja Skog i Farsund oppfordrer alle hundeeiere til å bruke refleks. – Det er stor forskjell på å se et dyr eller et menneske med refleks, kontra uten refleks langs veien, sier hun.",
-        "Arnulv Illebæk er også ute på tur, men siden klokka bare er seks på ettermiddagen ligger refleksene hjemme. – Vi pleier å bruke refleks begge to.",
-        "Dermed er det ingen sikkerhet i seg selv at bare hunden har på seg refleks."
+        "Elon Musk har sagt at hans selskap SpaceX begrenset Ukrainas Starlink-internetttjeneste, etter at ukrainske tjenestemenn sa at tilkoblingsproblemer så ut til å ha blitt løst.",
+        "Musk avslørte ikke i sitt innlegg hvorfor SpaceX hadde valgt å gjøre endringen i tjenesten sin forrige uke, da Ukrainas omfattende bruk av Starlink hadde vært kjent i flere år.",
+        "Musk had earlier denied deliberately throttling Ukraine's connection, which it says hampered its ability to conduct defensive operations for more than a week.",
+        "Ukraina bruker både den sivile tjenesten Starlink og den sikrere Starshield, avhengig av hvilken kommunikasjon som trengs, som begge kjører på nettverk av satellitter med lav bane rundt jorden lansert av SpaceX."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/dyrleger-advarer_-hundeeiere-glemmer-a-bruke-refleks-pa-seg-selv-1.18054927",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/L5ECcYaUc2YR-idaHMeUJwgGnC8twaLKAhKcbb-9LS0w.jpg",
-      "localImage": "assets/news/e558b49c2a687d.jpg",
-      "score": 12
-    },
-    {
-      "id": "5f09e110fad22f",
-      "category": "Norge",
-      "published": "25.10. 19:52",
-      "publishedISO": "2026-10-25T19:52:55+01:00",
-      "title": "Brann i togbremser – Lillestrøm stasjon stengt",
-      "summary": "Et tog måtte søndag kveld evakueres etter at det begynte å brenne i bremsene. – De ansatte på toget har gjort en kjempejobb i akuttfasen. De ansatte evakuerte alle på toget og ingen personer skal være skadet etter brannen. – Det var ikke så dramatisk da vi kom, mye på grunn av de ansattes innsats, sier Sylju. Vy opplyser om at det er et tog fra Eidsvold som var på vei til Drammen. – Toget har stanset på Lillestrøm stasjon.",
-      "keyPoints": [
-        "Vy opplyser om at det er et tog fra Eidsvold som var på vei til Drammen. – Toget har stanset på Lillestrøm stasjon.",
-        "Et tog måtte søndag kveld evakueres etter at det begynte å brenne i bremsene. – De ansatte på toget har gjort en kjempejobb i akuttfasen.",
-        "De ansatte evakuerte alle på toget og ingen personer skal være skadet etter brannen. – Det var ikke så dramatisk da vi kom, mye på grunn av de ansattes innsats, sier Sylju.",
-        "De har gått løs på bremsene med masse pulverapparat og holdt brannen i sjakk, sier innsatsleder Dag André Sylju."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/buskerud/brann-i-togbremser-_-lillestrom-stasjon-stengt-1.18064461",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/CnYzTkma4ml4E4YDEx0VxQ-5Elh3rV7fgBXmc3BgX7PA.jpg",
-      "localImage": "assets/news/5f09e110fad22f.jpg",
-      "score": 12
-    },
-    {
-      "id": "42d716ffe454d7",
-      "category": "Norge",
-      "published": "25.10. 16:32",
-      "publishedISO": "2026-10-25T16:32:46+01:00",
-      "title": "HamKam kvinner rykker opp",
-      "summary": "Det ble jubel og gullhatter i garderoben da de hvit- og grønnkledde jentene sikret seg 1. divisjonsspill neste sesong. Han innrømmer at de har kjent på et stort press. – Vi har fått beskjed av klubben at laget skulle opp. Linnea Moen og de andre jentene er overlykkelige etter å ha rykket opp til 1. divisjon.",
-      "keyPoints": [
-        "Linnea Moen og de andre jentene er overlykkelige etter å ha rykket opp til 1. divisjon.",
-        "Han innrømmer at de har kjent på et stort press. – Vi har fått beskjed av klubben at laget skulle opp.",
-        "Det ble jubel og gullhatter i garderoben da de hvit- og grønnkledde jentene sikret seg 1. divisjonsspill neste sesong.",
-        "De sikret opprykket med en overlegen 4–0 seier borte mot Krokelvdalen søndag."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/hamkam-kvinner-rykker-opp-1.18064294",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/hQtDoOgIZm3H0vy7MQMuWgVDbemIRMoknzVCignM0S4w.jpg",
-      "localImage": "assets/news/42d716ffe454d7.jpg",
-      "score": 12
+      "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
+      "localImage": "assets/news/01cd155b98e49c.jpg",
+      "score": 13
     }
   ]
 }
