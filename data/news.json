@@ -1,6 +1,6 @@
 {
-  "updatedAt": "27.10.2026 kl. 00:09",
-  "updatedISO": "2026-10-27T00:09:46.428000+01:00",
+  "updatedAt": "27.10.2026 kl. 03:06",
+  "updatedISO": "2026-10-27T03:06:07.801345+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -46,27 +46,6 @@
       "score": 15
     },
     {
-      "id": "d8a605c4a31694",
-      "category": "USA",
-      "published": "26.10. 16:46",
-      "publishedISO": "2026-10-26T16:46:04+01:00",
-      "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
-      "summary": "BBCs Nord-Amerika-redaktør Sarah Smith møtte El-Sayed på kampanjesporet i Michigan og spurte ham hvorfor han ikke ser ut til å ha det like bra som andre demokrater. Se: BBC spør demokraten El-Sayed om et tett løp i Michigan Senatet. Video, 00:01:05Se: BBC spør demokraten El-Sayed om det tette senatløpet Up Next i Michigan.",
-      "keyPoints": [
-        "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race.",
-        "BBCs Nord-Amerika-redaktør Sarah Smith møtte El-Sayed på kampanjesporet i Michigan og spurte ham hvorfor han ikke ser ut til å ha det like bra som andre demokrater.",
-        "Men meningsmålinger tyder på at venstreorienterte politiske outsider Abdul El-Sayed fortsatt er i et tett kappløp med sin republikanske motstander Mike Rogers.",
-        "Michigan er et av nøkkelløpene demokratene trenger for å vinne hvis partiet skal ta kontroll over det amerikanske senatet etter midtveisvalget 3. november."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7654/live/5d4e7670-d153-11f1-a701-fddedf244c16.jpg",
-      "localImage": "assets/news/d8a605c4a31694.jpg",
-      "score": 12
-    },
-    {
       "id": "05ad811a997c38",
       "category": "Økonomi",
       "published": "26.10. 14:04",
@@ -106,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/207a6841-4064-3250-8698-c8062ae7cf6f?fit=crop&h=675&upscale=true&w=1200&s=69eed7838a20aebd7b0c254da26ae7b126f48e82",
       "localImage": "assets/news/04954bc49bec85.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "04262ce2919d74",
@@ -127,28 +106,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
       "localImage": "assets/news/04262ce2919d74.png",
-      "score": 13
-    },
-    {
-      "id": "9e26c77f924292",
-      "category": "Norge",
-      "published": "26.10. 21:45",
-      "publishedISO": "2026-10-26T21:45:18+01:00",
-      "title": "Har funnet 5000 glemte krigsfanger etter andre verdenskrig",
-      "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. I verket Nordmenn i fangenskap var det opprinnelige registrert 44.000 krigsfanger. Kjelleren ble brukt til brutale avhør og tortur under andre verdenskrig.",
-      "keyPoints": [
-        "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert.",
-        "Kjelleren ble brukt til brutale avhør og tortur under andre verdenskrig.",
-        "I verket Nordmenn i fangenskap var det opprinnelige registrert 44.000 krigsfanger.",
-        "Dermed er antallet registrerte krigsfanger økt fra 44.000 til over 50.000 her i landet. – Etterkommere av fanger har delt foto, brev, dagbøker og beretninger fra private samlinger, sier historiker Simen Zernichow."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/har-funnet-5000-glemte-krigsfanger-etter-andre-verdenskrig-1.18062013",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xajuWS9BN_DnWD2FrlKRYAAAHaV73J_3H_Tkk716TT9w.jpg",
-      "localImage": "assets/news/9e26c77f924292.jpg",
-      "score": 17
+      "score": 12
     },
     {
       "id": "abe1cc23680fc1",
@@ -172,6 +130,27 @@
       "score": 17
     },
     {
+      "id": "9e26c77f924292",
+      "category": "Norge",
+      "published": "26.10. 21:45",
+      "publishedISO": "2026-10-26T21:45:18+01:00",
+      "title": "Har funnet 5000 glemte krigsfanger etter andre verdenskrig",
+      "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. I verket Nordmenn i fangenskap var det opprinnelige registrert 44.000 krigsfanger. Kjelleren ble brukt til brutale avhør og tortur under andre verdenskrig.",
+      "keyPoints": [
+        "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert.",
+        "Kjelleren ble brukt til brutale avhør og tortur under andre verdenskrig.",
+        "I verket Nordmenn i fangenskap var det opprinnelige registrert 44.000 krigsfanger.",
+        "Dermed er antallet registrerte krigsfanger økt fra 44.000 til over 50.000 her i landet. – Etterkommere av fanger har delt foto, brev, dagbøker og beretninger fra private samlinger, sier historiker Simen Zernichow."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/har-funnet-5000-glemte-krigsfanger-etter-andre-verdenskrig-1.18062013",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/xajuWS9BN_DnWD2FrlKRYAAAHaV73J_3H_Tkk716TT9w.jpg",
+      "localImage": "assets/news/9e26c77f924292.jpg",
+      "score": 16
+    },
+    {
       "id": "62c3e224372217",
       "category": "Norge",
       "published": "26.10. 17:13",
@@ -193,6 +172,27 @@
       "score": 16
     },
     {
+      "id": "1388957e93f0f4",
+      "category": "Verden",
+      "published": "26.10. 08:40",
+      "publishedISO": "2026-10-26T08:40:57+01:00",
+      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
+      "summary": "Plenum er i hovedsak lukkede dørsmøter i partiets sentralkomité som finner sted minst en gang i året En stor politisk samling er i gang i den kinesiske hovedstaden, med et lukket møte med seniorpersoner som kan forme utseendet til det regjerende kommunistpartiet i årene som kommer. Det femte plenum samler rundt 300 medlemmer av sentralkomiteen og statlige medier sa at det ville bane vei for en \"stramning av disiplinen\" i partiets rekker. Tre ting vi lærte av Kinas store politiske møte denne uken",
+      "keyPoints": [
+        "Plenum er i hovedsak lukkede dørsmøter i partiets sentralkomité som finner sted minst en gang i året En stor politisk samling er i gang i den kinesiske hovedstaden, med et lukket møte med seniorpersoner som kan forme utseendet til det regjerende kommunistpartiet i årene som kommer.",
+        "Tre ting vi lærte av Kinas store politiske møte denne uken",
+        "Det femte plenum samler rundt 300 medlemmer av sentralkomiteen og statlige medier sa at det ville bane vei for en \"stramning av disiplinen\" i partiets rekker.",
+        "China removes nine military officials ahead of key political meeting China has purged its highest-ranked military general."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5db8/live/b9600940-d100-11f1-9d25-c3fafb2ab4de.jpg",
+      "localImage": "assets/news/1388957e93f0f4.jpg",
+      "score": 14
+    },
+    {
       "id": "0288935c042892",
       "category": "Økonomi",
       "published": "26.10. 09:54",
@@ -211,7 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/36f5b944-2f10-30cb-a874-9f1698174ed1?fit=crop&h=675&upscale=true&w=1200&s=2bbf0e1b875d38e077fd5cc4ce88f4a635877a8c",
       "localImage": "assets/news/0288935c042892.jpg",
-      "score": 14
+      "score": 13
     }
   ]
 }
