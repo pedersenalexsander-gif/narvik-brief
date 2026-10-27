@@ -1,28 +1,91 @@
 {
-  "updatedAt": "27.10.2026 kl. 15:05",
-  "updatedISO": "2026-10-27T15:05:12.988919+01:00",
+  "updatedAt": "27.10.2026 kl. 20:31",
+  "updatedISO": "2026-10-27T20:31:20.771937+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "9e26c77f924292",
+      "id": "d48b347846b09b",
       "category": "Norge",
-      "published": "26.10. 21:45",
-      "publishedISO": "2026-10-26T21:45:18+01:00",
-      "title": "Har funnet 5000 glemte krigsfanger etter andre verdenskrig",
-      "summary": "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert. I verket Nordmenn i fangenskap var det opprinnelige registrert 44.000 krigsfanger. Kjelleren ble brukt til brutale avhør og tortur under andre verdenskrig.",
+      "published": "27.10. 18:33",
+      "publishedISO": "2026-10-27T18:33:00+01:00",
+      "title": "Lobbyisten Ingveig (10) sjarmerte politikerne – håper å berge Det lille leksikon",
+      "summary": "Hun hadde reist fra Steinkjer til Oslo, for å prøve å berge Lille norske leksikon. Pappaen til Ingveig er engasjert som en av forfatterne i Lille norske leksikon, men ideen om å ta opp saken med politikerne var hennes egen. – Vi satt hjemme i stua og diskuterte om dette og så tulla jeg om at jeg skulle snakke med politikerne, og så fant vi ut at det faktisk gikk an å være med på en slik høring. Der brøt det ut applaus da Ingveig var ferdig. – Jeg gjør det fordi det er viktig og fordi jeg bruker Lille leksikon mye, så jeg vil bevare det, sa Ingveig til politikerne.",
       "keyPoints": [
-        "5000 ukjente fanger fra andre verdenskrig har endelig fått sitt navn registrert.",
-        "Kjelleren ble brukt til brutale avhør og tortur under andre verdenskrig.",
-        "I verket Nordmenn i fangenskap var det opprinnelige registrert 44.000 krigsfanger.",
-        "Dermed er antallet registrerte krigsfanger økt fra 44.000 til over 50.000 her i landet. – Etterkommere av fanger har delt foto, brev, dagbøker og beretninger fra private samlinger, sier historiker Simen Zernichow."
+        "Pappaen til Ingveig er engasjert som en av forfatterne i Lille norske leksikon, men ideen om å ta opp saken med politikerne var hennes egen. – Vi satt hjemme i stua og diskuterte om dette og så tulla jeg om at jeg skulle snakke med politikerne, og så fant vi ut at det faktisk gikk an å være med på en slik høring.",
+        "Der brøt det ut applaus da Ingveig var ferdig. – Jeg gjør det fordi det er viktig og fordi jeg bruker Lille leksikon mye, så jeg vil bevare det, sa Ingveig til politikerne.",
+        "Hun hadde reist fra Steinkjer til Oslo, for å prøve å berge Lille norske leksikon.",
+        "At de kanskje tar det med i statsbudsjettet, sa Ingveig etter at hun var ferdig med appellen til politikerne. – Jeg heter Ingveig Viken Grut."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/har-funnet-5000-glemte-krigsfanger-etter-andre-verdenskrig-1.18062013",
+      "url": "https://www.nrk.no/trondelag/lobbyisten-ingveig-_10_-sjarmerte-politikerne-_-haper-a-berge-det-lille-leksikon-1.18060643",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/xajuWS9BN_DnWD2FrlKRYAAAHaV73J_3H_Tkk716TT9w.jpg",
-      "localImage": "assets/news/9e26c77f924292.jpg",
+      "image": "https://gfx.nrk.no/jymcrzS9q_KkdvXjPOURkwdARjGeUQext5tJi00KSWSg.jpg",
+      "localImage": "assets/news/d48b347846b09b.jpg",
+      "score": 17
+    },
+    {
+      "id": "bd3577d978b652",
+      "category": "Verden",
+      "published": "27.10. 01:31",
+      "publishedISO": "2026-10-27T01:31:11+01:00",
+      "title": "María Machado returns from exile to a Venezuela reshaped by Trump",
+      "summary": "Se: Folkemengder ønsker Venezuelas María Corina Machado velkommen etter måneder i eksil. María Corina Machados retur til Venezuela kunne knapt vært mer annerledes enn hennes exit 10 måneder tidligere. Trump-administrasjonen signerte nylig en stor oljeavtale med Venezuela som ga USA en 100-års konsesjon over svimlende 65 milliarder fat venezuelansk råolje. Etter å ha gjort minst åtte forsøk på å returnere til Venezuela med fly og sjø før Trump-administrasjonen ga henne grønt lys, vet Machado nå at hun har Trumps velsignelse til å være tilbake på hjemmebane – en posisjon Delcy Rodríguez både er uvillig og usannsynlig å utfordre.",
+      "keyPoints": [
+        "Se: Folkemengder ønsker Venezuelas María Corina Machado velkommen etter måneder i eksil. María Corina Machados retur til Venezuela kunne knapt vært mer annerledes enn hennes exit 10 måneder tidligere.",
+        "Etter å ha gjort minst åtte forsøk på å returnere til Venezuela med fly og sjø før Trump-administrasjonen ga henne grønt lys, vet Machado nå at hun har Trumps velsignelse til å være tilbake på hjemmebane – en posisjon Delcy Rodríguez både er uvillig og usannsynlig å utfordre.",
+        "Trump-administrasjonen signerte nylig en stor oljeavtale med Venezuela som ga USA en 100-års konsesjon over svimlende 65 milliarder fat venezuelansk råolje.",
+        "Machado har åpent kritisert avtalen som Rodríguez-regjeringen nådde med USA, om enn forsiktig med å rette kritikken mot Caracas og Betancourt i stedet for president Trump, som hun ga fredsprisen til og hvis tillit og støtte hun ønsker å komme videre."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725c/live/634334d0-d1e9-11f1-b360-61fb5d34dc08.jpg",
+      "localImage": "assets/news/bd3577d978b652.jpg",
       "score": 14
+    },
+    {
+      "id": "e8211404043e4b",
+      "category": "USA",
+      "published": "27.10. 14:59",
+      "publishedISO": "2026-10-27T14:59:22+01:00",
+      "title": "Se: Trump vs Obama - hvilken president har stjernemakten?",
+      "summary": "Mens president Donald Trump og tidligere president Barack Obama traff valgkampsporet for republikanske og demokratiske kandidater, håper begge partier at deres stjernemakt kan øke valgdeltakelsen i et kritisk mellomvalg. Trump vs Obama - hvilken president har stjernemakten til å få ut avstemningen? Video, 00:01:56Trump vs Obama - hvilken president har stjernemakten til å få ut avstemningen?",
+      "keyPoints": [
+        "Trump vs Obama - hvilken president har stjernemakten til å få ut avstemningen?",
+        "Mens president Donald Trump og tidligere president Barack Obama traff valgkampsporet for republikanske og demokratiske kandidater, håper begge partier at deres stjernemakt kan øke valgdeltakelsen i et kritisk mellomvalg.",
+        "Video, 00:00:58Crowds welcome Venezuela's María Machado after months in exile Watch: How President Lula turned it around to beat Flávio Bolsonaro.",
+        "Video, 00:00:39Hvorfor det kan ta tid for en ny israelsk regjering å danne Sydneys nye flyplass på 5 milliarder dollar har ett stort problem: Å komme dit er vanskelig."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d111/live/2bd85810-d219-11f1-a701-fddedf244c16.jpg",
+      "localImage": "assets/news/e8211404043e4b.jpg",
+      "score": 16
+    },
+    {
+      "id": "1d81b1056bc13f",
+      "category": "Økonomi",
+      "published": "27.10. 09:01",
+      "publishedISO": "2026-10-27T09:01:50+01:00",
+      "title": "Lakseaksje nær utradert av pengekrise",
+      "summary": "Mens Oslo Børs karret seg i pluss, forsvant nær 90 prosent av verdiene i Proximar Seafood. Det landbaserte oppdrettsselskapet Proximar Seafood raste nær 90 prosent etter å ha varslet at pengene vil ta slutt innen utgangen av oktober, og at det jobbes med å finne ny finansiering. «Det er ikke sikkert at man vil komme frem til en løsning. Blant dagens mest omsatte aksjer steg DNB nær 2 prosent mens Nordic Semiconductor og Norsk Hydro var opp rundt 6,1 og 0,9 prosent, respektivt.",
+      "keyPoints": [
+        "Mens Oslo Børs karret seg i pluss, forsvant nær 90 prosent av verdiene i Proximar Seafood.",
+        "Det landbaserte oppdrettsselskapet Proximar Seafood raste nær 90 prosent etter å ha varslet at pengene vil ta slutt innen utgangen av oktober, og at det jobbes med å finne ny finansiering. «Det er ikke sikkert at man vil komme frem til en løsning.",
+        "Blant dagens mest omsatte aksjer steg DNB nær 2 prosent mens Nordic Semiconductor og Norsk Hydro var opp rundt 6,1 og 0,9 prosent, respektivt.",
+        "Oslo Børs avsluttet dagen i positivt terreng tirsdag, der hovedindeksen var opp knappe 0,06 prosent, tynget av blant annet Equinor og Frontline, som begge var ned over to prosent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Kr5vre/flatt-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/568d365b-ee33-3d73-aeee-513f43c23bd0?fit=crop&h=675&upscale=true&w=1200&s=90e05486a3057e7c0c2d99dca00430d52b8016b5",
+      "localImage": "assets/news/1d81b1056bc13f.jpg",
+      "score": 18
     },
     {
       "id": "05ad811a997c38",
@@ -43,7 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f6c1c066-3529-35ef-bfd9-3de28d1ed04d?fit=crop&h=675&upscale=true&w=1200&s=70091a3e1f433ceb04b9501c78308614d1fc3bad",
       "localImage": "assets/news/05ad811a997c38.jpg",
-      "score": 19
+      "score": 17
+    },
+    {
+      "id": "84dd4faee7acf8",
+      "category": "Norge",
+      "published": "27.10. 17:33",
+      "publishedISO": "2026-10-27T17:33:42+01:00",
+      "title": "Regjeringen foreslår å belønne kommuner som slår seg sammen",
+      "summary": "Regjeringen foreslår milliondryss til kommuner som slår seg sammen frivillig – og en ekstra «belønning» til kommuner som blir flere enn 20.000 innbyggere. Senterparti-leder Trygve Slagsvold Vedum viser NRK et norgeskart, der han peker seg ut Nordland som eksempel. – Her det bare tre kommuner som i dag er «store nok» for regjeringen, påpeker han Han reagerer kraftig på regjeringens forslag i statsbudsjettet der kommuner som slår seg frivillig sammen skal få minst 40 millioner kroner i engangsstøtte. Kommunalminister Bjørnar Skjæran (Ap) foreslår milliondryss til kommuner som slår seg sammen frivillig – og en ekstra belønning til kommunene som blir flere enn 20.000 innbyggere. – Vi legger opp et system som er forutsigbart, enkelt og ubyråkratisk.",
+      "keyPoints": [
+        "Regjeringen foreslår milliondryss til kommuner som slår seg sammen frivillig – og en ekstra «belønning» til kommuner som blir flere enn 20.000 innbyggere.",
+        "Senterparti-leder Trygve Slagsvold Vedum viser NRK et norgeskart, der han peker seg ut Nordland som eksempel. – Her det bare tre kommuner som i dag er «store nok» for regjeringen, påpeker han Han reagerer kraftig på regjeringens forslag i statsbudsjettet der kommuner som slår seg frivillig sammen skal få minst 40 millioner kroner i engangsstøtte.",
+        "Presenterte planene for ordførere i nord: Slik skal regjeringen lokke kommuner til å slå seg sammen. – Dette vil bare føre til mer sentralisering.",
+        "Trygve Slagsvold Vedum (Sp) peker på at bare tre kommuner i Nordland er over 20.000 innbyggere. – De legger opp til en stor kommunesammenslåing."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/regjeringen-foreslar-a-belonne-kommuner-som-slar-seg-sammen-1.18055543",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/eKgID2stGeSHlEdr6TrRoAqzXgfnSvB--gp0Jb8-9nXg.jpg",
+      "localImage": "assets/news/84dd4faee7acf8.jpg",
+      "score": 17
     },
     {
       "id": "04954bc49bec85",
@@ -64,49 +148,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/207a6841-4064-3250-8698-c8062ae7cf6f?fit=crop&h=675&upscale=true&w=1200&s=69eed7838a20aebd7b0c254da26ae7b126f48e82",
       "localImage": "assets/news/04954bc49bec85.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "3f0470eca74616",
+      "id": "eadb4cbd4c46d8",
       "category": "Økonomi",
       "published": "27.10. 14:31",
       "publishedISO": "2026-10-27T14:31:41+01:00",
-      "title": "Oppgangen fortsetter på Wall Street",
-      "summary": "Slik ligger det an på Wall Street et kvarters tid etter åpning tirsdag: Oljeprisen fortsetter å svinge, og har falt noe i forkant av børsåpning i USA. Brent spot-prisen ligger på 114,6 dollar fatet i skrivende stund, ned 0,5 prosent siden midnatt. Ellers blant brikkeaksjene er Micron opp 2,2 prosent, AMD opp 4,2 prosent, Intel opp 3,7 prosent og Sandisk opp 3,1 prosent.",
+      "title": "Boeing raser på Wall Street",
+      "summary": "Wall Street stiger tirsdag, der flyprodusenten Boeing faller hardt etter å ha lagt frem kvartalsresultater, mens oppturen for brikke-aksjer tiltar i styrke. Wall Street stenger kl 21:00 norsk tid (vintertid) denne uken. Boeing rapporterte et justert tap på 34 cent per aksje i tredje kvartal, mot analytikernes forventning om et tap på rundt 21 cent, ifølge CNBC.com.",
       "keyPoints": [
-        "Slik ligger det an på Wall Street et kvarters tid etter åpning tirsdag: Oljeprisen fortsetter å svinge, og har falt noe i forkant av børsåpning i USA.",
-        "Ellers blant brikkeaksjene er Micron opp 2,2 prosent, AMD opp 4,2 prosent, Intel opp 3,7 prosent og Sandisk opp 3,1 prosent.",
-        "Brent spot-prisen ligger på 114,6 dollar fatet i skrivende stund, ned 0,5 prosent siden midnatt.",
-        "I går ble det kjent at flere storbanker skal stille med 63 milliarder dollar i finansiering for kjøp av Broadcoms AI-databrikker til Anthropic, skriver medier som Reuters."
+        "Wall Street stiger tirsdag, der flyprodusenten Boeing faller hardt etter å ha lagt frem kvartalsresultater, mens oppturen for brikke-aksjer tiltar i styrke.",
+        "Wall Street stenger kl 21:00 norsk tid (vintertid) denne uken.",
+        "Boeing rapporterte et justert tap på 34 cent per aksje i tredje kvartal, mot analytikernes forventning om et tap på rundt 21 cent, ifølge CNBC.com.",
+        "Flyprodusenten Boeing faller over 9,7 prosent etter en skuffende kvartalsrapport, der det fremgår at produksjonsøkning av 737 Max utsettes."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
       "url": "https://e24.no/boers-og-finans/i/GrWwQx/oppgangen-fortsetter-paa-wall-street",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/cbb39bae-da6d-322a-b591-86d3e6400e2a?fit=crop&h=675&upscale=true&w=1200&s=2ab12942057414c2bc71b013340c958f34a05955",
-      "localImage": "assets/news/3f0470eca74616.jpg",
-      "score": 16
-    },
-    {
-      "id": "c4a7d833bd1775",
-      "category": "Økonomi",
-      "published": "27.10. 09:01",
-      "publishedISO": "2026-10-27T09:01:50+01:00",
-      "title": "Oslo Børs faller",
-      "summary": "Vend faller tross resultathopp og forventninger om større kostnadskutt. Hovedindeksen på Oslo Børs er ned 0,22 prosent i 11.50-tiden tirsdag. Rubrikkaktøren Vend, som i år har blitt rammet av AI-frykt på børs, har tirsdag lagt frem tallene for tredje kvartal.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs er ned 0,22 prosent i 11.50-tiden tirsdag.",
-        "Rubrikkaktøren Vend, som i år har blitt rammet av AI-frykt på børs, har tirsdag lagt frem tallene for tredje kvartal.",
-        "Vend faller tross resultathopp og forventninger om større kostnadskutt.",
-        "Brutto driftsresultat (ebitda) landet på 711 millioner kroner, opp fra 640 millioner kroner i fjorårets tredje kvartal."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Kr5vre/flatt-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b89465ee-25c5-319a-9865-7950331ac006?fit=crop&h=675&upscale=true&w=1200&s=9224acb18f7ca26d27d76a376b60c2f19bbc2689",
-      "localImage": "assets/news/c4a7d833bd1775.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/d29e0be2-5ebc-375a-8038-813bb9e64895?fit=crop&h=675&upscale=true&w=1200&s=7aad13a735e5bbdc6a754799a79b4749fda9dadd",
+      "localImage": "assets/news/eadb4cbd4c46d8.jpg",
+      "score": 15
     },
     {
       "id": "a7ab49f76455d5",
@@ -127,91 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fe4f4fae-5419-3a65-8723-6a6e78aa941e?fit=crop&h=675&upscale=true&w=1200&s=64be5424253b6b1fa08987ce54a13a25d64ef860",
       "localImage": "assets/news/a7ab49f76455d5.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "2c765ba584ba6a",
-      "category": "Økonomi",
-      "published": "26.10. 09:00",
-      "publishedISO": "2026-10-26T09:00:27+01:00",
-      "title": "Oppgang på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs karret seg over én prosent prosent mandag, der et riggforlis og gruvestans preget nyhetsbildet. Også DNB bidro til å dra lasset, med en oppgang på over 1,7 prosent, mens Kongsberg-gruppen steg hele 3,2 prosent. Scatec-aksjen var opp rundt 4,6 prosent til 80,60 kroner på Oslo Børs mandag.",
+      "id": "1c018fc57f9061",
+      "category": "USA",
+      "published": "27.10. 07:01",
+      "publishedISO": "2026-10-27T07:01:11+01:00",
+      "title": "US midterm elections: Trump's biggest economic problem looks familiar",
+      "summary": "USAs president Donald Trump og hans forgjenger Joe Biden Det hvite hus står overfor et kjent dilemma. Likevel bekrefter den endelige inflasjonsrapporten før midtveisvalget det velgerne allerede vet: prisene forblir høye. Hvordan det amerikanske mellomvalget vil vinnes og tapes Analyse: Trumps globale hodepine forverres uker før avgjørende valg Hvordan tilbakeslag mot datasentre kan forme det amerikanske mellomvalget",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs karret seg over én prosent prosent mandag, der et riggforlis og gruvestans preget nyhetsbildet.",
-        "Scatec-aksjen var opp rundt 4,6 prosent til 80,60 kroner på Oslo Børs mandag.",
-        "Også DNB bidro til å dra lasset, med en oppgang på over 1,7 prosent, mens Kongsberg-gruppen steg hele 3,2 prosent.",
-        "Blant børsvinnerne var Frontline, som steg over 5 prosent, og var dagens nest mest omsatte aksje med over 482 millioner kroner."
+        "USAs president Donald Trump og hans forgjenger Joe Biden Det hvite hus står overfor et kjent dilemma.",
+        "Likevel bekrefter den endelige inflasjonsrapporten før midtveisvalget det velgerne allerede vet: prisene forblir høye.",
+        "Hvordan det amerikanske mellomvalget vil vinnes og tapes Analyse: Trumps globale hodepine forverres uker før avgjørende valg Hvordan tilbakeslag mot datasentre kan forme det amerikanske mellomvalget",
+        "Trump argumenterer for at han arvet et økonomisk rot fra Biden, og peker på sterk vekst, investeringer og aksjemarkedsresultater som bevis på at politikken hans fungerer."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/77abzo/oppgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/29e7ab29-e8f3-340b-b4fb-67c3b908f5f5?fit=crop&h=675&upscale=true&w=1200&s=452d36a1f10a5f63626febf08cb4fc88713913c8",
-      "localImage": "assets/news/2c765ba584ba6a.jpg",
-      "score": 14
-    },
-    {
-      "id": "fd091360d9789d",
-      "category": "Økonomi",
-      "published": "27.10. 14:26",
-      "publishedISO": "2026-10-27T14:26:43+01:00",
-      "title": "Økokrim: Flere personer pågrepet i etterforskning av fiskerikriminalitet",
-      "summary": "Økokrim har vært på flere lokasjoner i Finnmark, Nordland, Møre og Romsdal, i samarbeid med de aktuelle politidistriktene. – Vi har over tid mottatt informasjon og tips om feilregistrering av fangst som landes ved de aktuelle fiskemottakene. Når politiet mottar slik informasjon, er vi pliktig til å undersøke om det foregår straffbare handlinger, sier førstestatsadvokat i Økokrim, Elisabeth Harbo-Lervik. – Fiskerikriminalitet rammer både fellesskapets ressurser og aktørene som driver lovlig. Vi har et godt etablert samarbeid med Økokrim om å forebygge og avdekke kriminalitet i fiskerinæringen, sier seksjonssjef Karianne Moen i Fiskeridirektoratet.",
-      "keyPoints": [
-        "Økokrim har vært på flere lokasjoner i Finnmark, Nordland, Møre og Romsdal, i samarbeid med de aktuelle politidistriktene. – Vi har over tid mottatt informasjon og tips om feilregistrering av fangst som landes ved de aktuelle fiskemottakene.",
-        "Når politiet mottar slik informasjon, er vi pliktig til å undersøke om det foregår straffbare handlinger, sier førstestatsadvokat i Økokrim, Elisabeth Harbo-Lervik. – Fiskerikriminalitet rammer både fellesskapets ressurser og aktørene som driver lovlig.",
-        "Vi har et godt etablert samarbeid med Økokrim om å forebygge og avdekke kriminalitet i fiskerinæringen, sier seksjonssjef Karianne Moen i Fiskeridirektoratet.",
-        "VG har stilt en rekke spørsmål til Økokrim om saken, som sier de ikke kan svare med hensyn til etterforskningen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/hav-og-sjoemat/i/778RBo/oekokrim-flere-personer-paagrepet-i-etterforskning-av-fiskerikriminalitet",
-      "source": "e24.no",
-      "image": "https://e24.no/monorepo-api/og/778RBo.png",
-      "localImage": "assets/news/fd091360d9789d.png",
-      "score": 13
-    },
-    {
-      "id": "29cfd61616e4c9",
-      "category": "Norge",
-      "published": "27.10. 12:32",
-      "publishedISO": "2026-10-27T12:32:18+01:00",
-      "title": "Lagkameratenes besøk gjorde sterkt inntrykk på Aleksander Aamodt Kilde: – Verdt mye mer enn sporten",
-      "summary": "Før lagkameratene stilte til start, stilte de opp for Aleksander Aamodt Kilde (34). All støtten han har fått beskriver han som overveldende. – Det er verdt mye mer enn sporten, spør du meg. Lagkameratenes besøk gjorde også inntrykk på mamma Kristin Aamodt Kilde. – Det er bare rørende.",
-      "keyPoints": [
-        "Lagkameratenes besøk gjorde også inntrykk på mamma Kristin Aamodt Kilde. – Det er bare rørende.",
-        "All støtten han har fått beskriver han som overveldende. – Det er verdt mye mer enn sporten, spør du meg.",
-        "Før lagkameratene stilte til start, stilte de opp for Aleksander Aamodt Kilde (34).",
-        "Nok en gang trengte Aleksander Aamodt Kilde hjelp med hverdagslige ting."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/lagkameratenes-besok-gjorde-sterkt-inntrykk-pa-aleksander-aamodt-kilde_-_-verdt-mye-mer-enn-sporten-1.18064078",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_DG3e9SiTrnLppTjaIMDGAw7uv4Kxoir_nT_5YgwgyHg.jpg",
-      "localImage": "assets/news/29cfd61616e4c9.jpg",
-      "score": 13
-    },
-    {
-      "id": "4762fb1b61b674",
-      "category": "Økonomi",
-      "published": "27.10. 11:30",
-      "publishedISO": "2026-10-27T11:30:21+01:00",
-      "title": "Danmarks statsminister refser Støre etter Putin-samtale",
-      "summary": "Danmarks statsminister Mette Frederiksen er lite fornøyd med at Norges statsminister Jonas Gahr Støre og Finlands president Alexander Stubb har snakket med Russlands president Vladimir Putin på telefon. Ifølge VGs opplysninger varte samtalen i omtrent halvannen time, noe Støre senere har bekreftet. – Jeg er veldig skeptisk til dette norske og finske egeninitiativet. Dette sa Støre etter de forrige Putin-samtalene: Støre og Stubb presiserte at de snakket på vegne av sine respektive land, og ikke på vegne av Europa.",
-      "keyPoints": [
-        "Danmarks statsminister Mette Frederiksen er lite fornøyd med at Norges statsminister Jonas Gahr Støre og Finlands president Alexander Stubb har snakket med Russlands president Vladimir Putin på telefon.",
-        "Ifølge VGs opplysninger varte samtalen i omtrent halvannen time, noe Støre senere har bekreftet. – Jeg er veldig skeptisk til dette norske og finske egeninitiativet.",
-        "Dette sa Støre etter de forrige Putin-samtalene: Støre og Stubb presiserte at de snakket på vegne av sine respektive land, og ikke på vegne av Europa.",
-        "Det er første gang Støre og Putin har snakket sammen på fire år."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/eGQzQR/mette-fredriksen-meget-skeptisk-over-norsk-samtale-med-russland",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2b7784f4-2be2-300a-a84e-34ade1c3bacc?fit=crop&h=675&upscale=true&w=1200&s=74a866c62cc95f9bd26862eb1294bbf9f5738ea8",
-      "localImage": "assets/news/4762fb1b61b674.jpg",
-      "score": 13
+      "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
+      "localImage": "assets/news/1c018fc57f9061.png",
+      "score": 15
     }
   ]
 }
