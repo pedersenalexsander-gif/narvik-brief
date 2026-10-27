@@ -1,10 +1,10 @@
 {
-  "updatedAt": "27.10.2026 kl. 20:31",
-  "updatedISO": "2026-10-27T20:31:20.771937+01:00",
+  "updatedAt": "28.10.2026 kl. 00:05",
+  "updatedISO": "2026-10-28T00:05:56.372770+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "d48b347846b09b",
+      "id": "7ea10b7cff65dd",
       "category": "Norge",
       "published": "27.10. 18:33",
       "publishedISO": "2026-10-27T18:33:00+01:00",
@@ -21,50 +21,29 @@
       "url": "https://www.nrk.no/trondelag/lobbyisten-ingveig-_10_-sjarmerte-politikerne-_-haper-a-berge-det-lille-leksikon-1.18060643",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/jymcrzS9q_KkdvXjPOURkwdARjGeUQext5tJi00KSWSg.jpg",
-      "localImage": "assets/news/d48b347846b09b.jpg",
-      "score": 17
+      "localImage": "assets/news/7ea10b7cff65dd.jpg",
+      "score": 16
     },
     {
-      "id": "bd3577d978b652",
+      "id": "8405ec9dc18f36",
       "category": "Verden",
-      "published": "27.10. 01:31",
-      "publishedISO": "2026-10-27T01:31:11+01:00",
-      "title": "María Machado returns from exile to a Venezuela reshaped by Trump",
-      "summary": "Se: Folkemengder ønsker Venezuelas María Corina Machado velkommen etter måneder i eksil. María Corina Machados retur til Venezuela kunne knapt vært mer annerledes enn hennes exit 10 måneder tidligere. Trump-administrasjonen signerte nylig en stor oljeavtale med Venezuela som ga USA en 100-års konsesjon over svimlende 65 milliarder fat venezuelansk råolje. Etter å ha gjort minst åtte forsøk på å returnere til Venezuela med fly og sjø før Trump-administrasjonen ga henne grønt lys, vet Machado nå at hun har Trumps velsignelse til å være tilbake på hjemmebane – en posisjon Delcy Rodríguez både er uvillig og usannsynlig å utfordre.",
+      "published": "27.10. 18:43",
+      "publishedISO": "2026-10-27T18:43:01+01:00",
+      "title": "Israel går til urnene: – Alt dette er jødisk",
+      "summary": "Splittelsen i Israel er stor, timer før valglokalene stenger. Han vil at Israel skal annektere Vestbredden og motsetter seg en palestinsk stat. Hun bor i Nasaret, en by med arabere med israelsk statsborgerskap. – Jeg forventer at alle arabere går ut og stemmer for å gjøre noe med våre grunnleggende rettigheter, sier hun.",
       "keyPoints": [
-        "Se: Folkemengder ønsker Venezuelas María Corina Machado velkommen etter måneder i eksil. María Corina Machados retur til Venezuela kunne knapt vært mer annerledes enn hennes exit 10 måneder tidligere.",
-        "Etter å ha gjort minst åtte forsøk på å returnere til Venezuela med fly og sjø før Trump-administrasjonen ga henne grønt lys, vet Machado nå at hun har Trumps velsignelse til å være tilbake på hjemmebane – en posisjon Delcy Rodríguez både er uvillig og usannsynlig å utfordre.",
-        "Trump-administrasjonen signerte nylig en stor oljeavtale med Venezuela som ga USA en 100-års konsesjon over svimlende 65 milliarder fat venezuelansk råolje.",
-        "Machado har åpent kritisert avtalen som Rodríguez-regjeringen nådde med USA, om enn forsiktig med å rette kritikken mot Caracas og Betancourt i stedet for president Trump, som hun ga fredsprisen til og hvis tillit og støtte hun ønsker å komme videre."
+        "Splittelsen i Israel er stor, timer før valglokalene stenger.",
+        "Hun bor i Nasaret, en by med arabere med israelsk statsborgerskap. – Jeg forventer at alle arabere går ut og stemmer for å gjøre noe med våre grunnleggende rettigheter, sier hun.",
+        "Han vil at Israel skal annektere Vestbredden og motsetter seg en palestinsk stat.",
+        "De siste dagene har Lana reist rundt i byen for å få folk til å stemme. – Situasjonen for oss som er arabere her i Israel har forverret seg mye siden sist valg."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/725c/live/634334d0-d1e9-11f1-b360-61fb5d34dc08.jpg",
-      "localImage": "assets/news/bd3577d978b652.jpg",
-      "score": 14
-    },
-    {
-      "id": "e8211404043e4b",
-      "category": "USA",
-      "published": "27.10. 14:59",
-      "publishedISO": "2026-10-27T14:59:22+01:00",
-      "title": "Se: Trump vs Obama - hvilken president har stjernemakten?",
-      "summary": "Mens president Donald Trump og tidligere president Barack Obama traff valgkampsporet for republikanske og demokratiske kandidater, håper begge partier at deres stjernemakt kan øke valgdeltakelsen i et kritisk mellomvalg. Trump vs Obama - hvilken president har stjernemakten til å få ut avstemningen? Video, 00:01:56Trump vs Obama - hvilken president har stjernemakten til å få ut avstemningen?",
-      "keyPoints": [
-        "Trump vs Obama - hvilken president har stjernemakten til å få ut avstemningen?",
-        "Mens president Donald Trump og tidligere president Barack Obama traff valgkampsporet for republikanske og demokratiske kandidater, håper begge partier at deres stjernemakt kan øke valgdeltakelsen i et kritisk mellomvalg.",
-        "Video, 00:00:58Crowds welcome Venezuela's María Machado after months in exile Watch: How President Lula turned it around to beat Flávio Bolsonaro.",
-        "Video, 00:00:39Hvorfor det kan ta tid for en ny israelsk regjering å danne Sydneys nye flyplass på 5 milliarder dollar har ett stort problem: Å komme dit er vanskelig."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d111/live/2bd85810-d219-11f1-a701-fddedf244c16.jpg",
-      "localImage": "assets/news/e8211404043e4b.jpg",
-      "score": 16
+      "url": "https://www.vg.no/nyheter/i/Kr5y45/valgdag-i-israel-netanyahu-maa-ut",
+      "source": "vg.no",
+      "image": "https://akamai.vgc.no/v2/images/9abc79d1-1a1c-3ac0-93f8-08977c174655?format=auto&w=1080&s=4b6335d353807e7f2994307dff03b37255ce3ba3",
+      "localImage": "assets/news/8405ec9dc18f36.jpg",
+      "score": 12
     },
     {
       "id": "1d81b1056bc13f",
@@ -85,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/568d365b-ee33-3d73-aeee-513f43c23bd0?fit=crop&h=675&upscale=true&w=1200&s=90e05486a3057e7c0c2d99dca00430d52b8016b5",
       "localImage": "assets/news/1d81b1056bc13f.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "05ad811a997c38",
@@ -127,7 +106,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/eKgID2stGeSHlEdr6TrRoAqzXgfnSvB--gp0Jb8-9nXg.jpg",
       "localImage": "assets/news/84dd4faee7acf8.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "681df15ab3e4ce",
+      "category": "Økonomi",
+      "published": "27.10. 14:31",
+      "publishedISO": "2026-10-27T14:31:41+01:00",
+      "title": "Boeing-ras på Wall Street",
+      "summary": "Wall Street steg tirsdag, der flyprodusenten Boeing falt knallhardt etter å ha lagt frem kvartalsresultater, mens oppturen for brikke-aksjer tiltok i styrke. Wall Street stenger kl 21:00 norsk tid (vintertid) denne uken. Omsetningen falt 3 prosent til 10,7 milliarder dollar, mens forsvarsdivisjonen økte inntektene med 15 prosent til 7,94 milliarder dollar.",
+      "keyPoints": [
+        "Wall Street stenger kl 21:00 norsk tid (vintertid) denne uken.",
+        "Wall Street steg tirsdag, der flyprodusenten Boeing falt knallhardt etter å ha lagt frem kvartalsresultater, mens oppturen for brikke-aksjer tiltok i styrke.",
+        "Omsetningen falt 3 prosent til 10,7 milliarder dollar, mens forsvarsdivisjonen økte inntektene med 15 prosent til 7,94 milliarder dollar.",
+        "Inntektene steg 4 prosent til 24,19 milliarder dollar, over analytikernes forventning på 23,84 milliarder dollar."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/GrWwQx/oppgangen-fortsetter-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d29e0be2-5ebc-375a-8038-813bb9e64895?fit=crop&h=675&upscale=true&w=1200&s=7aad13a735e5bbdc6a754799a79b4749fda9dadd",
+      "localImage": "assets/news/681df15ab3e4ce.jpg",
+      "score": 15
     },
     {
       "id": "04954bc49bec85",
@@ -148,27 +148,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/207a6841-4064-3250-8698-c8062ae7cf6f?fit=crop&h=675&upscale=true&w=1200&s=69eed7838a20aebd7b0c254da26ae7b126f48e82",
       "localImage": "assets/news/04954bc49bec85.jpg",
-      "score": 16
-    },
-    {
-      "id": "eadb4cbd4c46d8",
-      "category": "Økonomi",
-      "published": "27.10. 14:31",
-      "publishedISO": "2026-10-27T14:31:41+01:00",
-      "title": "Boeing raser på Wall Street",
-      "summary": "Wall Street stiger tirsdag, der flyprodusenten Boeing faller hardt etter å ha lagt frem kvartalsresultater, mens oppturen for brikke-aksjer tiltar i styrke. Wall Street stenger kl 21:00 norsk tid (vintertid) denne uken. Boeing rapporterte et justert tap på 34 cent per aksje i tredje kvartal, mot analytikernes forventning om et tap på rundt 21 cent, ifølge CNBC.com.",
-      "keyPoints": [
-        "Wall Street stiger tirsdag, der flyprodusenten Boeing faller hardt etter å ha lagt frem kvartalsresultater, mens oppturen for brikke-aksjer tiltar i styrke.",
-        "Wall Street stenger kl 21:00 norsk tid (vintertid) denne uken.",
-        "Boeing rapporterte et justert tap på 34 cent per aksje i tredje kvartal, mot analytikernes forventning om et tap på rundt 21 cent, ifølge CNBC.com.",
-        "Flyprodusenten Boeing faller over 9,7 prosent etter en skuffende kvartalsrapport, der det fremgår at produksjonsøkning av 737 Max utsettes."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/GrWwQx/oppgangen-fortsetter-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d29e0be2-5ebc-375a-8038-813bb9e64895?fit=crop&h=675&upscale=true&w=1200&s=7aad13a735e5bbdc6a754799a79b4749fda9dadd",
-      "localImage": "assets/news/eadb4cbd4c46d8.jpg",
       "score": 15
     },
     {
@@ -190,28 +169,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fe4f4fae-5419-3a65-8723-6a6e78aa941e?fit=crop&h=675&upscale=true&w=1200&s=64be5424253b6b1fa08987ce54a13a25d64ef860",
       "localImage": "assets/news/a7ab49f76455d5.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "1c018fc57f9061",
-      "category": "USA",
-      "published": "27.10. 07:01",
-      "publishedISO": "2026-10-27T07:01:11+01:00",
-      "title": "US midterm elections: Trump's biggest economic problem looks familiar",
-      "summary": "USAs president Donald Trump og hans forgjenger Joe Biden Det hvite hus står overfor et kjent dilemma. Likevel bekrefter den endelige inflasjonsrapporten før midtveisvalget det velgerne allerede vet: prisene forblir høye. Hvordan det amerikanske mellomvalget vil vinnes og tapes Analyse: Trumps globale hodepine forverres uker før avgjørende valg Hvordan tilbakeslag mot datasentre kan forme det amerikanske mellomvalget",
+      "id": "c37515d2d346f1",
+      "category": "Økonomi",
+      "published": "27.10. 19:47",
+      "publishedISO": "2026-10-27T19:47:23+01:00",
+      "title": "Bjørnar Skjæran: – Må gi mulighet til å forby korttidsutleie",
+      "summary": "Boligministeren lover nye regelforslag i høst. – Et boligområde er noe annet enn et hotellområde, sier boligminister Bjørnar Skjæran. Skjæran sier regjeringen jobber med et lovforslag om nye reguleringer av korttidsutleie, som etter planen skal sendes på høring denne høsten. Skjæran mener sterkere virkemidler må til: – Jeg tror det rette vil være å lage regler som gir den enkelte kommune større mulighet til regulering, og til å forby korttidsutleie. – Regelverket må gi mulighet til å forby i noen situasjoner, sier Skjæran.",
       "keyPoints": [
-        "USAs president Donald Trump og hans forgjenger Joe Biden Det hvite hus står overfor et kjent dilemma.",
-        "Likevel bekrefter den endelige inflasjonsrapporten før midtveisvalget det velgerne allerede vet: prisene forblir høye.",
-        "Hvordan det amerikanske mellomvalget vil vinnes og tapes Analyse: Trumps globale hodepine forverres uker før avgjørende valg Hvordan tilbakeslag mot datasentre kan forme det amerikanske mellomvalget",
-        "Trump argumenterer for at han arvet et økonomisk rot fra Biden, og peker på sterk vekst, investeringer og aksjemarkedsresultater som bevis på at politikken hans fungerer."
+        "Skjæran mener sterkere virkemidler må til: – Jeg tror det rette vil være å lage regler som gir den enkelte kommune større mulighet til regulering, og til å forby korttidsutleie. – Regelverket må gi mulighet til å forby i noen situasjoner, sier Skjæran.",
+        "Boligministeren lover nye regelforslag i høst. – Et boligområde er noe annet enn et hotellområde, sier boligminister Bjørnar Skjæran.",
+        "Skjæran sier regjeringen jobber med et lovforslag om nye reguleringer av korttidsutleie, som etter planen skal sendes på høring denne høsten.",
+        "Jeg håper denne støtten til regjeringens arbeid står seg når lovforslaget sendes på høring, det vil love godt for behandlingen i Stortinget, sier Skjæran."
       ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
-      "localImage": "assets/news/1c018fc57f9061.png",
-      "score": 15
+      "url": "https://e24.no/naeringsliv/i/X9Jb6W/bjoernar-skjaeran-maa-gi-mulighet-til-aa-forby-korttidsutleie",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c91d623c-a4bb-3b1e-9847-4a4e70f5948f?fit=crop&h=675&upscale=true&w=1200&s=ac6e8a17a328bb87a992a5f13e26fce6cddb6861",
+      "localImage": "assets/news/c37515d2d346f1.jpg",
+      "score": 13
+    },
+    {
+      "id": "2c765ba584ba6a",
+      "category": "Økonomi",
+      "published": "26.10. 09:00",
+      "publishedISO": "2026-10-26T09:00:27+01:00",
+      "title": "Oppgang på Oslo Børs",
+      "summary": "Hovedindeksen på Oslo Børs karret seg over én prosent prosent mandag, der et riggforlis og gruvestans preget nyhetsbildet. Også DNB bidro til å dra lasset, med en oppgang på over 1,7 prosent, mens Kongsberg-gruppen steg hele 3,2 prosent. Scatec-aksjen var opp rundt 4,6 prosent til 80,60 kroner på Oslo Børs mandag.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs karret seg over én prosent prosent mandag, der et riggforlis og gruvestans preget nyhetsbildet.",
+        "Scatec-aksjen var opp rundt 4,6 prosent til 80,60 kroner på Oslo Børs mandag.",
+        "Også DNB bidro til å dra lasset, med en oppgang på over 1,7 prosent, mens Kongsberg-gruppen steg hele 3,2 prosent.",
+        "Blant børsvinnerne var Frontline, som steg over 5 prosent, og var dagens nest mest omsatte aksje med over 482 millioner kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/77abzo/oppgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/29e7ab29-e8f3-340b-b4fb-67c3b908f5f5?fit=crop&h=675&upscale=true&w=1200&s=452d36a1f10a5f63626febf08cb4fc88713913c8",
+      "localImage": "assets/news/2c765ba584ba6a.jpg",
+      "score": 13
     }
   ]
 }
