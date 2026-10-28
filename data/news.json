@@ -1,49 +1,70 @@
 {
-  "updatedAt": "28.10.2026 kl. 16:47",
-  "updatedISO": "2026-10-28T16:47:41.781677+01:00",
+  "updatedAt": "28.10.2026 kl. 21:52",
+  "updatedISO": "2026-10-28T21:52:18.614841+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "6ea0422ad66f4d",
-      "category": "Norge",
-      "published": "28.10. 06:46",
-      "publishedISO": "2026-10-28T06:46:15+01:00",
-      "title": "Slik påvirker Equinors kvartalsresultat deg: Øker lønna, men utsetter rentekuttet på boliglånet",
-      "summary": "I denne saken kan du lese hvordan dette påvirker din egen økonomi. Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker. Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
+      "id": "fde69fb6c6b0e2",
+      "category": "Nord-Norge",
+      "published": "28.10. 17:38",
+      "publishedISO": "2026-10-28T17:38:48+01:00",
+      "title": "Viking-supportere ville terge Glimt: – Slipper ikke gjennom sensuren",
+      "summary": "Et knippe Viking-fans ønsket å kjøpe en stein med påskriften «Viking FK seriemester 2025» utenfor Bodø/Glimts nye stadion. I forbindelse med byggingen av Glimts nye stadion i Bodø kan supportere bidra med å kjøpe en personlig inngravert stein som blir lagt i bakken utenfor hovedinngangen. Denne slipper ikke gjennom sensuren, opplyser medieansvarlig Simen Pedersen i Glimt til RA Stavanger.",
       "keyPoints": [
-        "Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker.",
-        "Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
-        "I denne saken kan du lese hvordan dette påvirker din egen økonomi.",
-        "Resultatet har faktisk mer å si for deg og lommeboka di, enn du kanskje vet."
+        "Denne slipper ikke gjennom sensuren, opplyser medieansvarlig Simen Pedersen i Glimt til RA Stavanger.",
+        "Et knippe Viking-fans ønsket å kjøpe en stein med påskriften «Viking FK seriemester 2025» utenfor Bodø/Glimts nye stadion.",
+        "I forbindelse med byggingen av Glimts nye stadion i Bodø kan supportere bidra med å kjøpe en personlig inngravert stein som blir lagt i bakken utenfor hovedinngangen.",
+        "Han er en ivrig supporter av de mørkeblå fra Rogaland. – Jeg vil bidra til at vi får inn litt historiske fakta ved hovedinngangen til Korthuset arena eller hva den nå skal hete, sier Steffensen til avisen."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/viking-supportere-ville-terge-glimt_-_-slipper-ikke-gjennom-sensuren-1.18067418",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Lv7yTInjfGaKYjSdvPd8dwJyOw9XTSnDIJoJrnnu2HMQ.jpg",
+      "localImage": "assets/news/fde69fb6c6b0e2.jpg",
+      "score": 17
+    },
+    {
+      "id": "36e5a49d12a9c4",
+      "category": "Norge",
+      "published": "28.10. 17:58",
+      "publishedISO": "2026-10-28T17:58:50+01:00",
+      "title": "Trump kalla Noreg eit «shit house»-land: No går norske utedoar viralt",
+      "summary": "Norsk reiseliv slår tilbake med å vise fram spektakulære utedoar i norsk natur. – Eg er ikkje forelska i Noreg. Dei såg dette som eit godt høve til å vise fram kva Noreg har å by på. – Av og til skal det ikkje så mykje til, berre litt do-humor og fantastisk norsk arkitektur, seier Egorova. Frihammer trur ikkje Trump sine utsegner vil gjera noko med reiselysta til amerikanarar, og ser på det heile som eit godt høve til å visa fram Noreg.",
+      "keyPoints": [
+        "Frihammer trur ikkje Trump sine utsegner vil gjera noko med reiselysta til amerikanarar, og ser på det heile som eit godt høve til å visa fram Noreg.",
+        "Dei såg dette som eit godt høve til å vise fram kva Noreg har å by på. – Av og til skal det ikkje så mykje til, berre litt do-humor og fantastisk norsk arkitektur, seier Egorova.",
+        "Norsk reiseliv slår tilbake med å vise fram spektakulære utedoar i norsk natur. – Eg er ikkje forelska i Noreg.",
+        "Men den amerikanske avisa Huffington Post kalla det «ein tidsriktig reklame for å gjere narr av Trump». – Verda treng å le litt, så vi tenkte la oss møte dei med godheit, og litt humor, seier Egorova."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839",
+      "url": "https://www.nrk.no/artikkel/trump-kalla-noreg-eit-shit-house-land-no-gar-norske-utedoar-viralt-1531152",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UqvVTBIp6WP-bMHiMHkScAPgMf1ViPxVIewWJ54BuBdQ.jpg",
-      "localImage": "assets/news/6ea0422ad66f4d.webp",
-      "score": 19
+      "image": "https://gfx.nrk.no/hTanWbWxrBoEa4YZI74WYQ4T4tdWJKdpOZtwLPdvpa9g",
+      "localImage": "assets/news/36e5a49d12a9c4.webp",
+      "score": 17
     },
     {
-      "id": "a7719a63383fc1",
-      "category": "Verden",
-      "published": "27.10. 21:42",
-      "publishedISO": "2026-10-27T21:42:38+01:00",
-      "title": "What we know about the truce in Ukrainian city brokered by Melania Trump",
-      "summary": "Kampene i den russisk-okkuperte ukrainske byen Oleshky har stoppet etter en våpenhvile, som Det hvite hus sa var sikret av USAs førstedame. Det vi vet om våpenhvile mellom Ukraina og Russland i Oleshky, meglet av Melania Trump. Video, 00:01:16Hva vi vet om våpenhvilen mellom Ukraina og Russland i Oleshky, meglet av Melania Trump Up Next.",
+      "id": "729a1586e03732",
+      "category": "Økonomi",
+      "published": "28.10. 21:04",
+      "publishedISO": "2026-10-28T21:04:55+01:00",
+      "title": "Microsoft knaller til",
+      "summary": "Teknologikjempen Microsoft slår til med bedre resultater enn ventet i regnskapsmessig første kvartal, som dekker perioden fra 1. juli til 30. september. Nettoresultatet landet på 36,6 milliarder dollar, opp 32 prosent fra året før. – Resultatene oversteg forventningene på både inntekter, driftsresultat og resultat per aksje, sier finansdirektør Amy Hood i Microsoft i en melding onsdag. Samtidig omsatte Microsoft Cloud for 63,9 milliarder dollar, en vekst på 30 prosent, ifølge selskapet.",
       "keyPoints": [
-        "Video, 00:01:16What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump Up Next.",
-        "Kampene i den russisk-okkuperte ukrainske byen Oleshky har stoppet etter en våpenhvile, som Det hvite hus sa var sikret av USAs førstedame.",
-        "Våpenhvilen er ment å tillate bistandsleveranser og en sivil evakuering på fredag.",
-        "Video, 00:01:17 Ukraina rammet av streiker etter at Russland godtar nye fredssamtaler Ukraina sier at de utførte første droneløft av såret soldat fra frontlinjen."
+        "Teknologikjempen Microsoft slår til med bedre resultater enn ventet i regnskapsmessig første kvartal, som dekker perioden fra 1. juli til 30. september.",
+        "Nettoresultatet landet på 36,6 milliarder dollar, opp 32 prosent fra året før. – Resultatene oversteg forventningene på både inntekter, driftsresultat og resultat per aksje, sier finansdirektør Amy Hood i Microsoft i en melding onsdag.",
+        "Samtidig omsatte Microsoft Cloud for 63,9 milliarder dollar, en vekst på 30 prosent, ifølge selskapet.",
+        "Microsoft delte ut 10,2 milliarder dollar til aksjonærene i kvartalet gjennom utbytte og tilbakekjøp av aksjer, ifølge dagens melding."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg",
-      "localImage": "assets/news/a7719a63383fc1.jpg",
-      "score": 18
+      "url": "https://e24.no/boers-og-finans/i/zlpR61/microsoft-knaller-til",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a55ab970-2c68-3797-87e5-74bcf60b6457?fit=crop&h=675&upscale=true&w=1200&s=fc41018828ca872cb07df57ac0fca7ac5b954d41",
+      "localImage": "assets/news/729a1586e03732.jpg",
+      "score": 19
     },
     {
       "id": "d771701717ee13",
@@ -64,28 +85,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/783e8ed3-7d03-30f4-a21b-a945edf7392c?fit=crop&h=675&upscale=true&w=1200&s=75873a999d989c38b9e06ba03a08975c58f885b7",
       "localImage": "assets/news/d771701717ee13.jpg",
-      "score": 20
+      "score": 19
     },
     {
-      "id": "753aa26b7be3a3",
+      "id": "40dbaa04d53603",
       "category": "Økonomi",
-      "published": "28.10. 06:45",
-      "publishedISO": "2026-10-28T06:45:59+01:00",
-      "title": "Sterkeste fra Equinor siden 2022",
-      "summary": "Equinor fikk et justert resultat før skatt på 12,35 milliarder dollar (114,6 milliarder kroner) i tredje kvartal. Dette er det beste kvartalsresultatet siden fjerde kvartal 2022, da selskapet fikk et justert resultat før skatt på 15 milliarder dollar. Forrige kvartal var det beste siden starten av 2023 for Equinor.",
+      "published": "28.10. 21:02",
+      "publishedISO": "2026-10-28T21:02:30+01:00",
+      "title": "Google-eier Alphabet dro inn 127,5 milliarder dollar",
+      "summary": "Tek-gigangen hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor. Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor. I tredje kvartal var inntektene på 30,7 milliarder dollar, mot 15,1 milliarder i fjor.",
       "keyPoints": [
-        "Forrige kvartal var det beste siden starten av 2023 for Equinor.",
-        "Equinor fikk et justert resultat før skatt på 12,35 milliarder dollar (114,6 milliarder kroner) i tredje kvartal.",
-        "Dette er det beste kvartalsresultatet siden fjerde kvartal 2022, da selskapet fikk et justert resultat før skatt på 15 milliarder dollar.",
-        "På forhånd var det ventet et justert resultat før skatt på 12,19 milliarder dollar, ifølge tall som Equinor selv har samlet inn."
+        "Tek-gigangen hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor.",
+        "Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor.",
+        "På forhånd var det forventet inntekter på 127,9 milliarder dollar.",
+        "Resultat per aksje ble 2,12 dollar, noe som er klart under analytikernes forventninger om 2,99 dollar, skriver Bloomberg."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/kvo4da/sterkeste-fra-equinor-siden-2022",
+      "url": "https://e24.no/boers-og-finans/i/31ArnM/google-eier-alphabet-dro-inn-127-5-milliarder-dollar",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0675bee1-725d-3a2a-a4c4-a8a5af51288e?fit=crop&h=675&upscale=true&w=1200&s=1a28f8d2761512ffdc4183ae41306fcc51ae4bf6",
-      "localImage": "assets/news/753aa26b7be3a3.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/10d12c5d-3eeb-3f87-92c1-28665cb6ea90?fit=crop&h=675&upscale=true&w=1200&s=aeade7a3cfd52a810885af805c9211e471086852",
+      "localImage": "assets/news/40dbaa04d53603.jpg",
+      "score": 17
+    },
+    {
+      "id": "6ea0422ad66f4d",
+      "category": "Norge",
+      "published": "28.10. 06:46",
+      "publishedISO": "2026-10-28T06:46:15+01:00",
+      "title": "Slik påvirker Equinors kvartalsresultat deg: Øker lønna, men utsetter rentekuttet på boliglånet",
+      "summary": "I denne saken kan du lese hvordan dette påvirker din egen økonomi. Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker. Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
+      "keyPoints": [
+        "Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker.",
+        "Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
+        "I denne saken kan du lese hvordan dette påvirker din egen økonomi.",
+        "Resultatet har faktisk mer å si for deg og lommeboka di, enn du kanskje vet."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/UqvVTBIp6WP-bMHiMHkScAPgMf1ViPxVIewWJ54BuBdQ.jpg",
+      "localImage": "assets/news/6ea0422ad66f4d.webp",
+      "score": 17
+    },
+    {
+      "id": "38bdf0e78cd6a9",
+      "category": "Økonomi",
+      "published": "28.10. 20:39",
+      "publishedISO": "2026-10-28T20:39:21+01:00",
+      "title": "Equinor-sjefen: Faktorene som kan gi fortsatt høye priser",
+      "summary": "Faktorer som kan bidra til fortsatt høye priser er ifølge Equinor-sjefen en mulig forlenget krise i Midtøsten, at verden bruker mer av de strategiske lagrene sine, og at Europa kommer ut av vinteren med lavere gasslagre enn vanlig, som må fylles opp igjen før neste vinter. – Det er mulig at man får noe høyere priser enn det vi la til grunn for eksempel i fjor. Men pengene brenner ikke i lommen, forsikrer Equinor-sjefen. – Det som er viktig nå er at vi har store investeringer på norsk sokkel gjennom NCS 2035, sier Opedal. Nordsjøoljen Brent har nylig vært helt oppe i 117 dollar fatet. – Den har økt litegrann i det siste, og det skyldes nok at markedet priser inn mer usikkerhet om eskalering fremover, sa Opedal på et pressemøte onsdag.",
+      "keyPoints": [
+        "Faktorer som kan bidra til fortsatt høye priser er ifølge Equinor-sjefen en mulig forlenget krise i Midtøsten, at verden bruker mer av de strategiske lagrene sine, og at Europa kommer ut av vinteren med lavere gasslagre enn vanlig, som må fylles opp igjen før neste vinter. – Det er mulig at man får noe høyere priser enn det vi la til grunn for eksempel i fjor.",
+        "Men pengene brenner ikke i lommen, forsikrer Equinor-sjefen. – Det som er viktig nå er at vi har store investeringer på norsk sokkel gjennom NCS 2035, sier Opedal.",
+        "Nordsjøoljen Brent har nylig vært helt oppe i 117 dollar fatet. – Den har økt litegrann i det siste, og det skyldes nok at markedet priser inn mer usikkerhet om eskalering fremover, sa Opedal på et pressemøte onsdag.",
+        "Det viktigste for ham er å sikre stabile leveranser av energi i både gode og dårlige tider. – Solid og god drift går aldri av moten, sier Equinor-sjefen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/64Oavz/equinor-sjefen-satt-i-gang-et-stort-maskineri",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/091ae8c9-ceeb-3a66-81ee-2461373f66d3?fit=crop&h=675&upscale=true&w=1200&s=d89e16b73a074689677cc99f2fced3458e112b55",
+      "localImage": "assets/news/38bdf0e78cd6a9.jpg",
+      "score": 16
     },
     {
       "id": "c51066f61e47cf",
@@ -93,9 +156,9 @@
       "published": "28.10. 16:00",
       "publishedISO": "2026-10-28T16:00:06+01:00",
       "title": "Tromsø, Vågan og Stranda får innføre besøksbidrag fra nyttår",
-      "summary": "Næringsministeren bekrefter at de første kommunene får innføre besøksbidrag fra nyttår. Næringsminister Cecilie Myrseth (Ap) bekreftet i dag på torget i Tromsø at Tromsø, Vågan og Stranda er de tre aller første kommunene som får klarsignal til å innføre besøksbidrag. Næringsminister Cecilie Myrseth (Ap) i Tromsø, der hun kunngjorde at de tre første kommunene får innføre besøksbidrag. – Tromsø, Vågan og Stranda er de tre første som nå får klarsignal for å ta i bruk besøksbidrag.",
+      "summary": "Næringsministeren bekrefter at de første kommunene får innføre besøksbidrag fra nyttår. På torget i Tromsø bekreftet næringsminister Cecilie Myrseth (Ap) hvem de tre første kommunene som får klarsignal til å innføre besøksbidrag er. – Tromsø, Vågan og Stranda er de tre første som nå får klarsignal for å ta i bruk besøksbidrag. Næringsminister Cecilie Myrseth (Ap) i Tromsø, der hun kunngjorde at de tre første kommunene får innføre besøksbidrag.",
       "keyPoints": [
-        "Næringsminister Cecilie Myrseth (Ap) i Tromsø, der hun kunngjorde at de tre første kommunene får innføre besøksbidrag. – Tromsø, Vågan og Stranda er de tre første som nå får klarsignal for å ta i bruk besøksbidrag.",
+        "På torget i Tromsø bekreftet næringsminister Cecilie Myrseth (Ap) hvem de tre første kommunene som får klarsignal til å innføre besøksbidrag er. – Tromsø, Vågan og Stranda er de tre første som nå får klarsignal for å ta i bruk besøksbidrag.",
         "Næringsministeren bekrefter at de første kommunene får innføre besøksbidrag fra nyttår.",
         "Vågan i Lofoten får klarsignal til å kreve inn besøksbidrag for å dempe slitasjen på sårbar kystnatur Stranda: I Geiranger fører de store turistmengdene til sprengt kapasitet på veinett, parkering og kaier, i tillegg til sanitære utfordringer og overbelastning på kjente utsiktspunkter og kulturmiljøer.",
         "For Tromsø som destinasjon er det viktig å få på plass besøksbidrag, og det skaper mindre usikkerhet for næringa nå som planen er godkjent, sier reiselivssjef Helga Bårdsdatter Kristiansen i Visit Tromsø-Region."
@@ -106,27 +169,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/HiFOge_ipjfcV7qJEDVwQQ0rOKhaJ7IddnoC-jgbawrA.jpg",
       "localImage": "assets/news/c51066f61e47cf.jpg",
-      "score": 17
-    },
-    {
-      "id": "fbce1df79b26ef",
-      "category": "Norge",
-      "published": "28.10. 10:14",
-      "publishedISO": "2026-10-28T10:14:18+01:00",
-      "title": "Bråk rundt Kristiansand sine planar om ny bydel",
-      "summary": "Kristiansand Havn skal ut av sentrum for å gje plass til park, kanal og leilegheiter. Frå venstre: hamnedirektør Atle Johannessen, styreleiar Trond Blattmann og havna sin jurist Emilie Ovanger Jarlsby. – Dette svekkar hamna sin økonomi og gjer det vanskeleg, nærmast umogleg, å finansiere vidare utvikling i framtida, seier Trond Blattmann (Ap), styreleiar i Kristiansand hamn. I over 20 år har Kristiansand diskutert korleis dei skal få delar av hamna ut av sentrum.",
-      "keyPoints": [
-        "Frå venstre: hamnedirektør Atle Johannessen, styreleiar Trond Blattmann og havna sin jurist Emilie Ovanger Jarlsby. – Dette svekkar hamna sin økonomi og gjer det vanskeleg, nærmast umogleg, å finansiere vidare utvikling i framtida, seier Trond Blattmann (Ap), styreleiar i Kristiansand hamn.",
-        "I over 20 år har Kristiansand diskutert korleis dei skal få delar av hamna ut av sentrum.",
-        "Kristiansand Havn skal ut av sentrum for å gje plass til park, kanal og leilegheiter.",
-        "Dette området skal på sikt bli ein ny bydel med mellom anna næring, bustader, kanal og park – Vi skal sikre byutvikling, men også oppretthalde ei økonomisk berekraftig drift av hamna, sa Blattmann."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/brak-rundt-kristiansand-sine-planar-om-ny-bydel-1.18066765",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/iSRKmlMm6RJd23AVt1XSswzHKSQKkEBSSD1Vlk3FlBsw.jpg",
-      "localImage": "assets/news/fbce1df79b26ef.webp",
       "score": 16
     },
     {
@@ -148,69 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/OB0FYhskcMJHbGxI2A6dXA2mg8auzRgtrpUbKIgKravg.jpg",
       "localImage": "assets/news/956e278275efe9.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "1d81b1056bc13f",
+      "id": "e364ccdc7c1ec0",
       "category": "Økonomi",
-      "published": "27.10. 09:01",
-      "publishedISO": "2026-10-27T09:01:50+01:00",
-      "title": "Lakseaksje nær utradert av pengekrise",
-      "summary": "Mens Oslo Børs karret seg i pluss, forsvant nær 90 prosent av verdiene i Proximar Seafood. Det landbaserte oppdrettsselskapet Proximar Seafood raste nær 90 prosent etter å ha varslet at pengene vil ta slutt innen utgangen av oktober, og at det jobbes med å finne ny finansiering. «Det er ikke sikkert at man vil komme frem til en løsning. Blant dagens mest omsatte aksjer steg DNB nær 2 prosent mens Nordic Semiconductor og Norsk Hydro var opp rundt 6,1 og 0,9 prosent, respektivt.",
+      "published": "28.10. 21:38",
+      "publishedISO": "2026-10-28T21:38:24+01:00",
+      "title": "Særlig uavhengige er mindre selvstendige enn før",
+      "summary": "Blant de særlig uavhengige finner forsker Mari Holm Ingelsrud noe interessant: – De oppgir lavere grad av selvstendighet enn de som var særlig uavhengige i 2013. I undersøkelsen svarer mer enn hver tredje med særlig uavhengig stilling at de har liten eller ingen selvstendighet i hvordan eller når arbeidet gjøres. De særlig uavhengige jobber i snitt ikke mer enn 40,4 timer, men arbeidstiden har større topper.",
       "keyPoints": [
-        "Mens Oslo Børs karret seg i pluss, forsvant nær 90 prosent av verdiene i Proximar Seafood.",
-        "Det landbaserte oppdrettsselskapet Proximar Seafood raste nær 90 prosent etter å ha varslet at pengene vil ta slutt innen utgangen av oktober, og at det jobbes med å finne ny finansiering. «Det er ikke sikkert at man vil komme frem til en løsning.",
-        "Blant dagens mest omsatte aksjer steg DNB nær 2 prosent mens Nordic Semiconductor og Norsk Hydro var opp rundt 6,1 og 0,9 prosent, respektivt.",
-        "Oslo Børs avsluttet dagen i positivt terreng tirsdag, der hovedindeksen var opp knappe 0,06 prosent, tynget av blant annet Equinor og Frontline, som begge var ned over to prosent."
+        "Blant de særlig uavhengige finner forsker Mari Holm Ingelsrud noe interessant: – De oppgir lavere grad av selvstendighet enn de som var særlig uavhengige i 2013.",
+        "De særlig uavhengige jobber i snitt ikke mer enn 40,4 timer, men arbeidstiden har større topper.",
+        "I undersøkelsen svarer mer enn hver tredje med særlig uavhengig stilling at de har liten eller ingen selvstendighet i hvordan eller når arbeidet gjøres.",
+        "I rapporten finner Ingelsrud og de andre forskerne at ledende og særlig uavhengig stilling brukes mer i privat enn i offentlig sektor, og at flere menn enn kvinner er unntatt."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Kr5vre/flatt-paa-oslo-boers",
+      "url": "https://e24.no/naeringsliv/i/b80g8k/saerlig-uavhengige-er-mindre-selvstendige-enn-foer",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/568d365b-ee33-3d73-aeee-513f43c23bd0?fit=crop&h=675&upscale=true&w=1200&s=90e05486a3057e7c0c2d99dca00430d52b8016b5",
-      "localImage": "assets/news/1d81b1056bc13f.jpg",
-      "score": 14
-    },
-    {
-      "id": "16e2db22ee1e98",
-      "category": "Norge",
-      "published": "28.10. 16:28",
-      "publishedISO": "2026-10-28T16:28:47+01:00",
-      "title": "Kjent danse-influenser rammet av KI-tyveri",
-      "summary": "Videoene viser en mann som danser akkurat slik som Kjetil Krogstad gjør, og på tilsynelatende samme sted som der Krogstad har filmet noen av sine videoer. – Hadde du laget en video som var inspirert av meg, hadde det bare vært hyggelig. Kjetil Krogstad kommer fra Kristiansand, og har laget innhold på sosiale medier siden 2021 og har tett på 2 millioner følgere. De som kopierer videoene kan publisere dem på plattformer som utbetaler penger basert på visninger – som YouTube, Snapchat, Facebook og TikTok (i land hvor de har utbetalingsordninger), sier han. – Kopiering kan gjøre at samarbeidspartnere blir redde for å være med når de ser at videoer kan bli brukt til andres vinning fremfor deres egen.",
-      "keyPoints": [
-        "Videoene viser en mann som danser akkurat slik som Kjetil Krogstad gjør, og på tilsynelatende samme sted som der Krogstad har filmet noen av sine videoer. – Hadde du laget en video som var inspirert av meg, hadde det bare vært hyggelig.",
-        "Kjetil Krogstad kommer fra Kristiansand, og har laget innhold på sosiale medier siden 2021 og har tett på 2 millioner følgere.",
-        "De som kopierer videoene kan publisere dem på plattformer som utbetaler penger basert på visninger – som YouTube, Snapchat, Facebook og TikTok (i land hvor de har utbetalingsordninger), sier han. – Kopiering kan gjøre at samarbeidspartnere blir redde for å være med når de ser at videoer kan bli brukt til andres vinning fremfor deres egen.",
-        "Flere av influenser Kjetil Krogstad sine videoer er kopiert av en AI-konto."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/kjent-danse-influenser-rammet-av-ki-tyveri-1.18065878",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PFVrG_3nszi2XU43LR6WRQuy8Ko1K81ahX9o70OGWrjA.png",
-      "localImage": "assets/news/16e2db22ee1e98.png",
-      "score": 13
-    },
-    {
-      "id": "339daf38d5463c",
-      "category": "Økonomi",
-      "published": "28.10. 16:11",
-      "publishedISO": "2026-10-28T16:11:48+01:00",
-      "title": "Den ene tingen kansleren ikke nevnte som vil påvirke lønnen din",
-      "summary": "De rammer deg hardest hvis inntekten din er nær en av skattegrensene, men alle som får lønnsøkning rammes, så lenge du tjener nok til å betale skatt. Hvis du tjener like under terskelen på £50 271 og lønnen din øker med inflasjonen, vil noen av inntektene dine begynne å bli beskattet med den høyere satsen. Hvis personfradraget hadde økt med inflasjonen i løpet av de siste fem årene, ville du nå kunne ta hjem de første £16 070 av lønnen din uten å betale inntektsskatt.",
-      "keyPoints": [
-        "They hit you hardest if your income is close to one of the tax thresholds, but anyone who gets a pay rise is affected, as long as you earn enough to pay tax.",
-        "Hvis du tjener like under terskelen på £50 271 og lønnen din øker med inflasjonen, vil noen av inntektene dine begynne å bli beskattet med den høyere satsen.",
-        "Hvis personfradraget hadde økt med inflasjonen i løpet av de siste fem årene, ville du nå kunne ta hjem de første £16 070 av lønnen din uten å betale inntektsskatt.",
-        "Kansleren får imidlertid på plass en ny egen Pensjonsskattefradrag, som vil føre til at alle som får inntekt kun fra statlig pensjon ikke skal betale skatt av det."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5c0/live/84a71380-caec-11f0-9fb5-5f3a3703a365.jpg",
-      "localImage": "assets/news/339daf38d5463c.jpg",
+      "image": "https://akamai.vgc.no/v2/images/4997ea3d-86dc-3d20-a8d2-53e4c93c481d?fit=crop&h=675&upscale=true&w=1200&s=3b329b3eaa177fc89496b716474f399ae0654db3",
+      "localImage": "assets/news/e364ccdc7c1ec0.jpg",
       "score": 13
     }
   ]
