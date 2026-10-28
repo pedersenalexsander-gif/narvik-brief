@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28.10.2026 kl. 09:54",
-  "updatedISO": "2026-10-28T09:54:28.230822+01:00",
+  "updatedAt": "28.10.2026 kl. 16:47",
+  "updatedISO": "2026-10-28T16:47:41.781677+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/UqvVTBIp6WP-bMHiMHkScAPgMf1ViPxVIewWJ54BuBdQ.jpg",
       "localImage": "assets/news/6ea0422ad66f4d.webp",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "a7719a63383fc1",
+      "category": "Verden",
+      "published": "27.10. 21:42",
+      "publishedISO": "2026-10-27T21:42:38+01:00",
+      "title": "What we know about the truce in Ukrainian city brokered by Melania Trump",
+      "summary": "Kampene i den russisk-okkuperte ukrainske byen Oleshky har stoppet etter en våpenhvile, som Det hvite hus sa var sikret av USAs førstedame. Det vi vet om våpenhvile mellom Ukraina og Russland i Oleshky, meglet av Melania Trump. Video, 00:01:16Hva vi vet om våpenhvilen mellom Ukraina og Russland i Oleshky, meglet av Melania Trump Up Next.",
+      "keyPoints": [
+        "Video, 00:01:16What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump Up Next.",
+        "Kampene i den russisk-okkuperte ukrainske byen Oleshky har stoppet etter en våpenhvile, som Det hvite hus sa var sikret av USAs førstedame.",
+        "Våpenhvilen er ment å tillate bistandsleveranser og en sivil evakuering på fredag.",
+        "Video, 00:01:17 Ukraina rammet av streiker etter at Russland godtar nye fredssamtaler Ukraina sier at de utførte første droneløft av såret soldat fra frontlinjen."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8774/live/b2b005e0-d246-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/a7719a63383fc1.jpg",
+      "score": 18
     },
     {
       "id": "d771701717ee13",
@@ -43,49 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/783e8ed3-7d03-30f4-a21b-a945edf7392c?fit=crop&h=675&upscale=true&w=1200&s=75873a999d989c38b9e06ba03a08975c58f885b7",
       "localImage": "assets/news/d771701717ee13.jpg",
-      "score": 21
-    },
-    {
-      "id": "800eb7864937c8",
-      "category": "Økonomi",
-      "published": "28.10. 09:01",
-      "publishedISO": "2026-10-28T09:01:49+01:00",
-      "title": "Aker Solutions-aksjen sendes nedover",
-      "summary": "Oljeserviceselskapet Aker Solutions venter inntekter på 35–40 milliarder kroner i 2027, ned fra ventede 53–55 milliarder kroner i år, ifølge kvartalsrapporten. Resultatet før skatt i tredje kvartal falt til 897 millioner kroner fra 1,08 milliarder kroner året før. Equinor fikk et justert resultat før skatt på 12,35 milliarder dollar (114,6 milliarder kroner) i tredje kvartal.",
-      "keyPoints": [
-        "Oljeserviceselskapet Aker Solutions venter inntekter på 35–40 milliarder kroner i 2027, ned fra ventede 53–55 milliarder kroner i år, ifølge kvartalsrapporten.",
-        "Equinor fikk et justert resultat før skatt på 12,35 milliarder dollar (114,6 milliarder kroner) i tredje kvartal.",
-        "Resultatet før skatt i tredje kvartal falt til 897 millioner kroner fra 1,08 milliarder kroner året før.",
-        "Norwegian fikk et resultat før skatt på 2,52 milliarder kroner, mot 2,89 milliarder kroner i samme periode året før."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/w3l2k5/oslo-boers-faller",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6cd71f2f-6b97-3958-9805-daadd3f2e700?fit=crop&h=675&upscale=true&w=1200&s=9084a6c0d2318b6e81e67f5c2c634fa0ed795713",
-      "localImage": "assets/news/800eb7864937c8.jpg",
-      "score": 19
-    },
-    {
-      "id": "956e278275efe9",
-      "category": "Norge",
-      "published": "28.10. 08:28",
-      "publishedISO": "2026-10-28T08:28:28+01:00",
-      "title": "Millionforvirring rundt navnet på Glimts nye stadion: – Kanskje det mest problematiske",
-      "summary": "Bodø/Glimt vil tjene gode penger på å selge navnet på sin nye milliardstadion. Glimt-styret vil be medlemmene om å godkjenne «PowerOffice Arctic Arena» som navnet på den nye stadion til Bodø/Glimt. – Det er kanskje det mest problematiske. Da skal navnet til klubbens nye stadion til 1,3 milliarder kroner bestemmes.",
-      "keyPoints": [
-        "Glimt-styret vil be medlemmene om å godkjenne «PowerOffice Arctic Arena» som navnet på den nye stadion til Bodø/Glimt. – Det er kanskje det mest problematiske.",
-        "Da skal navnet til klubbens nye stadion til 1,3 milliarder kroner bestemmes.",
-        "Bodø/Glimt vil tjene gode penger på å selge navnet på sin nye milliardstadion.",
-        "Navneutvalget leverer sin rapport, med seks alternativer for den nye stadion: Berg Arena, Glimt Aena, Stormyra Stadion, Nordaførr Stadion, Arctic Arena og Nord Arena."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/millionforvirring-rundt-navnet-pa-glimts-nye-stadion_-_-kanskje-det-mest-problematiske-1.18058471",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OB0FYhskcMJHbGxI2A6dXA2mg8auzRgtrpUbKIgKravg.jpg",
-      "localImage": "assets/news/956e278275efe9.jpg",
-      "score": 17
+      "score": 20
     },
     {
       "id": "753aa26b7be3a3",
@@ -106,6 +85,69 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/0675bee1-725d-3a2a-a4c4-a8a5af51288e?fit=crop&h=675&upscale=true&w=1200&s=1a28f8d2761512ffdc4183ae41306fcc51ae4bf6",
       "localImage": "assets/news/753aa26b7be3a3.jpg",
+      "score": 14
+    },
+    {
+      "id": "c51066f61e47cf",
+      "category": "Norge",
+      "published": "28.10. 16:00",
+      "publishedISO": "2026-10-28T16:00:06+01:00",
+      "title": "Tromsø, Vågan og Stranda får innføre besøksbidrag fra nyttår",
+      "summary": "Næringsministeren bekrefter at de første kommunene får innføre besøksbidrag fra nyttår. Næringsminister Cecilie Myrseth (Ap) bekreftet i dag på torget i Tromsø at Tromsø, Vågan og Stranda er de tre aller første kommunene som får klarsignal til å innføre besøksbidrag. Næringsminister Cecilie Myrseth (Ap) i Tromsø, der hun kunngjorde at de tre første kommunene får innføre besøksbidrag. – Tromsø, Vågan og Stranda er de tre første som nå får klarsignal for å ta i bruk besøksbidrag.",
+      "keyPoints": [
+        "Næringsminister Cecilie Myrseth (Ap) i Tromsø, der hun kunngjorde at de tre første kommunene får innføre besøksbidrag. – Tromsø, Vågan og Stranda er de tre første som nå får klarsignal for å ta i bruk besøksbidrag.",
+        "Næringsministeren bekrefter at de første kommunene får innføre besøksbidrag fra nyttår.",
+        "Vågan i Lofoten får klarsignal til å kreve inn besøksbidrag for å dempe slitasjen på sårbar kystnatur Stranda: I Geiranger fører de store turistmengdene til sprengt kapasitet på veinett, parkering og kaier, i tillegg til sanitære utfordringer og overbelastning på kjente utsiktspunkter og kulturmiljøer.",
+        "For Tromsø som destinasjon er det viktig å få på plass besøksbidrag, og det skaper mindre usikkerhet for næringa nå som planen er godkjent, sier reiselivssjef Helga Bårdsdatter Kristiansen i Visit Tromsø-Region."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/tromso_-vagan-og-stranda-far-innfore-besoksbidrag-fra-nyttar-1.18066872",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/HiFOge_ipjfcV7qJEDVwQQ0rOKhaJ7IddnoC-jgbawrA.jpg",
+      "localImage": "assets/news/c51066f61e47cf.jpg",
+      "score": 17
+    },
+    {
+      "id": "fbce1df79b26ef",
+      "category": "Norge",
+      "published": "28.10. 10:14",
+      "publishedISO": "2026-10-28T10:14:18+01:00",
+      "title": "Bråk rundt Kristiansand sine planar om ny bydel",
+      "summary": "Kristiansand Havn skal ut av sentrum for å gje plass til park, kanal og leilegheiter. Frå venstre: hamnedirektør Atle Johannessen, styreleiar Trond Blattmann og havna sin jurist Emilie Ovanger Jarlsby. – Dette svekkar hamna sin økonomi og gjer det vanskeleg, nærmast umogleg, å finansiere vidare utvikling i framtida, seier Trond Blattmann (Ap), styreleiar i Kristiansand hamn. I over 20 år har Kristiansand diskutert korleis dei skal få delar av hamna ut av sentrum.",
+      "keyPoints": [
+        "Frå venstre: hamnedirektør Atle Johannessen, styreleiar Trond Blattmann og havna sin jurist Emilie Ovanger Jarlsby. – Dette svekkar hamna sin økonomi og gjer det vanskeleg, nærmast umogleg, å finansiere vidare utvikling i framtida, seier Trond Blattmann (Ap), styreleiar i Kristiansand hamn.",
+        "I over 20 år har Kristiansand diskutert korleis dei skal få delar av hamna ut av sentrum.",
+        "Kristiansand Havn skal ut av sentrum for å gje plass til park, kanal og leilegheiter.",
+        "Dette området skal på sikt bli ein ny bydel med mellom anna næring, bustader, kanal og park – Vi skal sikre byutvikling, men også oppretthalde ei økonomisk berekraftig drift av hamna, sa Blattmann."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/brak-rundt-kristiansand-sine-planar-om-ny-bydel-1.18066765",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/iSRKmlMm6RJd23AVt1XSswzHKSQKkEBSSD1Vlk3FlBsw.jpg",
+      "localImage": "assets/news/fbce1df79b26ef.webp",
+      "score": 16
+    },
+    {
+      "id": "956e278275efe9",
+      "category": "Norge",
+      "published": "28.10. 08:28",
+      "publishedISO": "2026-10-28T08:28:28+01:00",
+      "title": "Millionforvirring rundt navnet på Glimts nye stadion: – Kanskje det mest problematiske",
+      "summary": "Bodø/Glimt vil tjene gode penger på å selge navnet på sin nye milliardstadion. Glimt-styret vil be medlemmene om å godkjenne «PowerOffice Arctic Arena» som navnet på den nye stadion til Bodø/Glimt. – Det er kanskje det mest problematiske. Da skal navnet til klubbens nye stadion til 1,3 milliarder kroner bestemmes.",
+      "keyPoints": [
+        "Glimt-styret vil be medlemmene om å godkjenne «PowerOffice Arctic Arena» som navnet på den nye stadion til Bodø/Glimt. – Det er kanskje det mest problematiske.",
+        "Da skal navnet til klubbens nye stadion til 1,3 milliarder kroner bestemmes.",
+        "Bodø/Glimt vil tjene gode penger på å selge navnet på sin nye milliardstadion.",
+        "Navneutvalget leverer sin rapport, med seks alternativer for den nye stadion: Berg Arena, Glimt Aena, Stormyra Stadion, Nordaførr Stadion, Arctic Arena og Nord Arena."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/millionforvirring-rundt-navnet-pa-glimts-nye-stadion_-_-kanskje-det-mest-problematiske-1.18058471",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/OB0FYhskcMJHbGxI2A6dXA2mg8auzRgtrpUbKIgKravg.jpg",
+      "localImage": "assets/news/956e278275efe9.jpg",
       "score": 16
     },
     {
@@ -127,90 +169,48 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/568d365b-ee33-3d73-aeee-513f43c23bd0?fit=crop&h=675&upscale=true&w=1200&s=90e05486a3057e7c0c2d99dca00430d52b8016b5",
       "localImage": "assets/news/1d81b1056bc13f.jpg",
-      "score": 16
-    },
-    {
-      "id": "7ea10b7cff65dd",
-      "category": "Norge",
-      "published": "27.10. 18:33",
-      "publishedISO": "2026-10-27T18:33:00+01:00",
-      "title": "Lobbyisten Ingveig (10) sjarmerte politikerne – håper å berge Det lille leksikon",
-      "summary": "Hun hadde reist fra Steinkjer til Oslo, for å prøve å berge Lille norske leksikon. Pappaen til Ingveig er engasjert som en av forfatterne i Lille norske leksikon, men ideen om å ta opp saken med politikerne var hennes egen. – Vi satt hjemme i stua og diskuterte om dette og så tulla jeg om at jeg skulle snakke med politikerne, og så fant vi ut at det faktisk gikk an å være med på en slik høring. Der brøt det ut applaus da Ingveig var ferdig. – Jeg gjør det fordi det er viktig og fordi jeg bruker Lille leksikon mye, så jeg vil bevare det, sa Ingveig til politikerne.",
-      "keyPoints": [
-        "Pappaen til Ingveig er engasjert som en av forfatterne i Lille norske leksikon, men ideen om å ta opp saken med politikerne var hennes egen. – Vi satt hjemme i stua og diskuterte om dette og så tulla jeg om at jeg skulle snakke med politikerne, og så fant vi ut at det faktisk gikk an å være med på en slik høring.",
-        "Der brøt det ut applaus da Ingveig var ferdig. – Jeg gjør det fordi det er viktig og fordi jeg bruker Lille leksikon mye, så jeg vil bevare det, sa Ingveig til politikerne.",
-        "Hun hadde reist fra Steinkjer til Oslo, for å prøve å berge Lille norske leksikon.",
-        "At de kanskje tar det med i statsbudsjettet, sa Ingveig etter at hun var ferdig med appellen til politikerne. – Jeg heter Ingveig Viken Grut."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/lobbyisten-ingveig-_10_-sjarmerte-politikerne-_-haper-a-berge-det-lille-leksikon-1.18060643",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jymcrzS9q_KkdvXjPOURkwdARjGeUQext5tJi00KSWSg.jpg",
-      "localImage": "assets/news/7ea10b7cff65dd.jpg",
       "score": 14
     },
     {
-      "id": "84dd4faee7acf8",
+      "id": "16e2db22ee1e98",
       "category": "Norge",
-      "published": "27.10. 17:33",
-      "publishedISO": "2026-10-27T17:33:42+01:00",
-      "title": "Regjeringen foreslår å belønne kommuner som slår seg sammen",
-      "summary": "Regjeringen foreslår milliondryss til kommuner som slår seg sammen frivillig – og en ekstra «belønning» til kommuner som blir flere enn 20.000 innbyggere. Senterparti-leder Trygve Slagsvold Vedum viser NRK et norgeskart, der han peker seg ut Nordland som eksempel. – Her det bare tre kommuner som i dag er «store nok» for regjeringen, påpeker han Han reagerer kraftig på regjeringens forslag i statsbudsjettet der kommuner som slår seg frivillig sammen skal få minst 40 millioner kroner i engangsstøtte. Kommunalminister Bjørnar Skjæran (Ap) foreslår milliondryss til kommuner som slår seg sammen frivillig – og en ekstra belønning til kommunene som blir flere enn 20.000 innbyggere. – Vi legger opp et system som er forutsigbart, enkelt og ubyråkratisk.",
+      "published": "28.10. 16:28",
+      "publishedISO": "2026-10-28T16:28:47+01:00",
+      "title": "Kjent danse-influenser rammet av KI-tyveri",
+      "summary": "Videoene viser en mann som danser akkurat slik som Kjetil Krogstad gjør, og på tilsynelatende samme sted som der Krogstad har filmet noen av sine videoer. – Hadde du laget en video som var inspirert av meg, hadde det bare vært hyggelig. Kjetil Krogstad kommer fra Kristiansand, og har laget innhold på sosiale medier siden 2021 og har tett på 2 millioner følgere. De som kopierer videoene kan publisere dem på plattformer som utbetaler penger basert på visninger – som YouTube, Snapchat, Facebook og TikTok (i land hvor de har utbetalingsordninger), sier han. – Kopiering kan gjøre at samarbeidspartnere blir redde for å være med når de ser at videoer kan bli brukt til andres vinning fremfor deres egen.",
       "keyPoints": [
-        "Regjeringen foreslår milliondryss til kommuner som slår seg sammen frivillig – og en ekstra «belønning» til kommuner som blir flere enn 20.000 innbyggere.",
-        "Senterparti-leder Trygve Slagsvold Vedum viser NRK et norgeskart, der han peker seg ut Nordland som eksempel. – Her det bare tre kommuner som i dag er «store nok» for regjeringen, påpeker han Han reagerer kraftig på regjeringens forslag i statsbudsjettet der kommuner som slår seg frivillig sammen skal få minst 40 millioner kroner i engangsstøtte.",
-        "Presenterte planene for ordførere i nord: Slik skal regjeringen lokke kommuner til å slå seg sammen. – Dette vil bare føre til mer sentralisering.",
-        "Trygve Slagsvold Vedum (Sp) peker på at bare tre kommuner i Nordland er over 20.000 innbyggere. – De legger opp til en stor kommunesammenslåing."
+        "Videoene viser en mann som danser akkurat slik som Kjetil Krogstad gjør, og på tilsynelatende samme sted som der Krogstad har filmet noen av sine videoer. – Hadde du laget en video som var inspirert av meg, hadde det bare vært hyggelig.",
+        "Kjetil Krogstad kommer fra Kristiansand, og har laget innhold på sosiale medier siden 2021 og har tett på 2 millioner følgere.",
+        "De som kopierer videoene kan publisere dem på plattformer som utbetaler penger basert på visninger – som YouTube, Snapchat, Facebook og TikTok (i land hvor de har utbetalingsordninger), sier han. – Kopiering kan gjøre at samarbeidspartnere blir redde for å være med når de ser at videoer kan bli brukt til andres vinning fremfor deres egen.",
+        "Flere av influenser Kjetil Krogstad sine videoer er kopiert av en AI-konto."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/regjeringen-foreslar-a-belonne-kommuner-som-slar-seg-sammen-1.18055543",
+      "url": "https://www.nrk.no/sorlandet/kjent-danse-influenser-rammet-av-ki-tyveri-1.18065878",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/eKgID2stGeSHlEdr6TrRoAqzXgfnSvB--gp0Jb8-9nXg.jpg",
-      "localImage": "assets/news/84dd4faee7acf8.jpg",
-      "score": 14
-    },
-    {
-      "id": "820533adff88ae",
-      "category": "Økonomi",
-      "published": "28.10. 09:39",
-      "publishedISO": "2026-10-28T09:39:19+01:00",
-      "title": "Fondets etiske flaggskip kan rigges om til en tannløs intern rådgivingsgruppe",
-      "summary": "Forslagene i den ferske Gjedrem-utredningen innebærer en dramatisk svekkelse av fondets etiske kompass. Forslagene i den ferske utredningen innebærer en dramatisk svekkelse av fondets etiske kompass. Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe.",
-      "keyPoints": [
-        "Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe.",
-        "Forslagene i den ferske Gjedrem-utredningen innebærer en dramatisk svekkelse av fondets etiske kompass.",
-        "Norges Bank får i tillegg et nytt og forsterket mandat til å avveie de etiske forpliktelsene overfor dem som rammes av selskapers virksomhet mot fondets økonomiske interesser.",
-        "Grunnlaget for denne norske modellen er de etiske retningslinjene, gitt av Stortinget, som drar opp noen grenser for hva den norske befolkningen synes det er akseptabelt at vi investerer de felles sparepengene våre i."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/OgKGmE/oljefondets-etiske-flaggskip-kan-rigges-om-til-en-tannloes-intern-raadgivingsgruppe",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/8cf93901-2ca6-383a-89e0-86d64480d09f?fit=crop&h=675&upscale=true&w=1200&s=1ff50f067b4ebe7c4d02483bcee83f8f0d3b30cc",
-      "localImage": "assets/news/820533adff88ae.jpg",
+      "image": "https://gfx.nrk.no/PFVrG_3nszi2XU43LR6WRQuy8Ko1K81ahX9o70OGWrjA.png",
+      "localImage": "assets/news/16e2db22ee1e98.png",
       "score": 13
     },
     {
-      "id": "84f4b59b390e4e",
+      "id": "339daf38d5463c",
       "category": "Økonomi",
-      "published": "28.10. 09:26",
-      "publishedISO": "2026-10-28T09:26:44+01:00",
-      "title": "Sp snur: Vil stanse nye datasentre",
-      "summary": "Senterpartiet krever en midlertidig stans for nye datasentre frem til sommeren. Sp slutter seg dermed til SV, MDG, Rødt og KrF, som også vil stanse nye datasentre midlertidig. Høyre, Ap og Frp vil ikke stanse utbyggingen mens nye regler utformes. – Vi frykter at etablering av datasentre kan komme helt ut av kontroll dersom vi ikke tar grep.",
+      "published": "28.10. 16:11",
+      "publishedISO": "2026-10-28T16:11:48+01:00",
+      "title": "Den ene tingen kansleren ikke nevnte som vil påvirke lønnen din",
+      "summary": "De rammer deg hardest hvis inntekten din er nær en av skattegrensene, men alle som får lønnsøkning rammes, så lenge du tjener nok til å betale skatt. Hvis du tjener like under terskelen på £50 271 og lønnen din øker med inflasjonen, vil noen av inntektene dine begynne å bli beskattet med den høyere satsen. Hvis personfradraget hadde økt med inflasjonen i løpet av de siste fem årene, ville du nå kunne ta hjem de første £16 070 av lønnen din uten å betale inntektsskatt.",
       "keyPoints": [
-        "Sp slutter seg dermed til SV, MDG, Rødt og KrF, som også vil stanse nye datasentre midlertidig.",
-        "Høyre, Ap og Frp vil ikke stanse utbyggingen mens nye regler utformes. – Vi frykter at etablering av datasentre kan komme helt ut av kontroll dersom vi ikke tar grep.",
-        "Senterpartiet krever en midlertidig stans for nye datasentre frem til sommeren.",
-        "Så sent som under trontaledebatten i starten av oktober stemte Sp imot forslag fra KrF og SV om full stans for nye datasentre."
+        "They hit you hardest if your income is close to one of the tax thresholds, but anyone who gets a pay rise is affected, as long as you earn enough to pay tax.",
+        "Hvis du tjener like under terskelen på £50 271 og lønnen din øker med inflasjonen, vil noen av inntektene dine begynne å bli beskattet med den høyere satsen.",
+        "Hvis personfradraget hadde økt med inflasjonen i løpet av de siste fem årene, ville du nå kunne ta hjem de første £16 070 av lønnen din uten å betale inntektsskatt.",
+        "Kansleren får imidlertid på plass en ny egen Pensjonsskattefradrag, som vil føre til at alle som får inntekt kun fra statlig pensjon ikke skal betale skatt av det."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/Pgb846/sp-snur-vil-stanse-nye-datasentre",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ab962af2-3344-362b-87d8-22afb2a5f46a?fit=crop&h=675&upscale=true&w=1200&s=622378866341c96070d611b2e6642eeab5ccd98d",
-      "localImage": "assets/news/84f4b59b390e4e.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5c0/live/84a71380-caec-11f0-9fb5-5f3a3703a365.jpg",
+      "localImage": "assets/news/339daf38d5463c.jpg",
       "score": 13
     }
   ]
