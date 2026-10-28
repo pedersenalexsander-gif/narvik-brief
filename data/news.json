@@ -1,6 +1,6 @@
 {
-  "updatedAt": "28.10.2026 kl. 00:05",
-  "updatedISO": "2026-10-28T00:05:56.372770+01:00",
+  "updatedAt": "28.10.2026 kl. 03:18",
+  "updatedISO": "2026-10-28T03:18:06.058368+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f6c1c066-3529-35ef-bfd9-3de28d1ed04d?fit=crop&h=675&upscale=true&w=1200&s=70091a3e1f433ceb04b9501c78308614d1fc3bad",
       "localImage": "assets/news/05ad811a997c38.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "84dd4faee7acf8",
@@ -127,28 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d29e0be2-5ebc-375a-8038-813bb9e64895?fit=crop&h=675&upscale=true&w=1200&s=7aad13a735e5bbdc6a754799a79b4749fda9dadd",
       "localImage": "assets/news/681df15ab3e4ce.jpg",
-      "score": 15
-    },
-    {
-      "id": "04954bc49bec85",
-      "category": "Økonomi",
-      "published": "26.10. 14:30",
-      "publishedISO": "2026-10-26T14:30:43+01:00",
-      "title": "Tesla-byks på Wall Street",
-      "summary": "Det var fornyet optimisme på Wall Street mandag, der blant annet Tesla steg kraftig. Slik så det ut ved børsslutt klokken 21 :00 norsk tid: Wall Street stenger én time tidligere enn normalt norsk tid (vintertid) denne uken. Den var på rundt 115,4 dollar fatet ved børsslutt på Wall Street, ned rundt 1,3 prosent siden før helgen.",
-      "keyPoints": [
-        "Slik så det ut ved børsslutt klokken 21 :00 norsk tid: Wall Street stenger én time tidligere enn normalt norsk tid (vintertid) denne uken.",
-        "Den var på rundt 115,4 dollar fatet ved børsslutt på Wall Street, ned rundt 1,3 prosent siden før helgen.",
-        "Det var fornyet optimisme på Wall Street mandag, der blant annet Tesla steg kraftig.",
-        "Flere av selskapene, såkalte «neoclouds», har fått det tøft på Wall Street den siste måneden."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Aba8bE/oppgang-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/207a6841-4064-3250-8698-c8062ae7cf6f?fit=crop&h=675&upscale=true&w=1200&s=69eed7838a20aebd7b0c254da26ae7b126f48e82",
-      "localImage": "assets/news/04954bc49bec85.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "a7ab49f76455d5",
@@ -172,6 +151,27 @@
       "score": 14
     },
     {
+      "id": "04954bc49bec85",
+      "category": "Økonomi",
+      "published": "26.10. 14:30",
+      "publishedISO": "2026-10-26T14:30:43+01:00",
+      "title": "Tesla-byks på Wall Street",
+      "summary": "Det var fornyet optimisme på Wall Street mandag, der blant annet Tesla steg kraftig. Slik så det ut ved børsslutt klokken 21 :00 norsk tid: Wall Street stenger én time tidligere enn normalt norsk tid (vintertid) denne uken. Den var på rundt 115,4 dollar fatet ved børsslutt på Wall Street, ned rundt 1,3 prosent siden før helgen.",
+      "keyPoints": [
+        "Slik så det ut ved børsslutt klokken 21 :00 norsk tid: Wall Street stenger én time tidligere enn normalt norsk tid (vintertid) denne uken.",
+        "Den var på rundt 115,4 dollar fatet ved børsslutt på Wall Street, ned rundt 1,3 prosent siden før helgen.",
+        "Det var fornyet optimisme på Wall Street mandag, der blant annet Tesla steg kraftig.",
+        "Flere av selskapene, såkalte «neoclouds», har fått det tøft på Wall Street den siste måneden."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Aba8bE/oppgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/207a6841-4064-3250-8698-c8062ae7cf6f?fit=crop&h=675&upscale=true&w=1200&s=69eed7838a20aebd7b0c254da26ae7b126f48e82",
+      "localImage": "assets/news/04954bc49bec85.jpg",
+      "score": 14
+    },
+    {
       "id": "c37515d2d346f1",
       "category": "Økonomi",
       "published": "27.10. 19:47",
@@ -190,28 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c91d623c-a4bb-3b1e-9847-4a4e70f5948f?fit=crop&h=675&upscale=true&w=1200&s=ac6e8a17a328bb87a992a5f13e26fce6cddb6861",
       "localImage": "assets/news/c37515d2d346f1.jpg",
-      "score": 13
+      "score": 12
     },
     {
-      "id": "2c765ba584ba6a",
-      "category": "Økonomi",
-      "published": "26.10. 09:00",
-      "publishedISO": "2026-10-26T09:00:27+01:00",
-      "title": "Oppgang på Oslo Børs",
-      "summary": "Hovedindeksen på Oslo Børs karret seg over én prosent prosent mandag, der et riggforlis og gruvestans preget nyhetsbildet. Også DNB bidro til å dra lasset, med en oppgang på over 1,7 prosent, mens Kongsberg-gruppen steg hele 3,2 prosent. Scatec-aksjen var opp rundt 4,6 prosent til 80,60 kroner på Oslo Børs mandag.",
+      "id": "0552dda63e8cce",
+      "category": "Norge",
+      "published": "27.10. 18:48",
+      "publishedISO": "2026-10-27T18:48:11+01:00",
+      "title": "Harde sanksjonar frå Vålerenga etter Åråsen-bråket: Supporterar utestengde i opptil 50 kampar",
+      "summary": "Og fleire supporterar kan bli utestengde, for det er framleis saker til behandling. – Av dei vedtaka som er gjort, er det mellom 5 til 50 kampars utestenging, avhengig av kva kvar enkelt har gjort, seier sikkerheitssjef Ronnie Bergheim til NRK. Han listar opp hærverk, truande oppførsel og brot på regelverket innanfor pyroteknikk som handlingar dei har slått ned på. – Kor mange supporterar har fått slike sanksjonar? – Vi pleier ikkje å gå ut med tal, men det er mellom 5–10 personar. STØTTE TIL DEI UTESTENGDE: Vålerenga melder at supporterar har blitt utestengde i 50 kampar etter bråket på Åråsen.",
       "keyPoints": [
-        "Hovedindeksen på Oslo Børs karret seg over én prosent prosent mandag, der et riggforlis og gruvestans preget nyhetsbildet.",
-        "Scatec-aksjen var opp rundt 4,6 prosent til 80,60 kroner på Oslo Børs mandag.",
-        "Også DNB bidro til å dra lasset, med en oppgang på over 1,7 prosent, mens Kongsberg-gruppen steg hele 3,2 prosent.",
-        "Blant børsvinnerne var Frontline, som steg over 5 prosent, og var dagens nest mest omsatte aksje med over 482 millioner kroner."
+        "STØTTE TIL DEI UTESTENGDE: Vålerenga melder at supporterar har blitt utestengde i 50 kampar etter bråket på Åråsen.",
+        "Han listar opp hærverk, truande oppførsel og brot på regelverket innanfor pyroteknikk som handlingar dei har slått ned på. – Kor mange supporterar har fått slike sanksjonar? – Vi pleier ikkje å gå ut med tal, men det er mellom 5–10 personar.",
+        "Og fleire supporterar kan bli utestengde, for det er framleis saker til behandling. – Av dei vedtaka som er gjort, er det mellom 5 til 50 kampars utestenging, avhengig av kva kvar enkelt har gjort, seier sikkerheitssjef Ronnie Bergheim til NRK.",
+        "Resultatet har den siste tida vore at vi har mista fleire av den harde kjernen vår til sanksjonar frå klubben."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/77abzo/oppgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/29e7ab29-e8f3-340b-b4fb-67c3b908f5f5?fit=crop&h=675&upscale=true&w=1200&s=452d36a1f10a5f63626febf08cb4fc88713913c8",
-      "localImage": "assets/news/2c765ba584ba6a.jpg",
-      "score": 13
+      "url": "https://www.nrk.no/sport/harde-sanksjonar-fra-valerenga-etter-arasen-braket_-supporterar-utestengde-i-opptil-50-kampar-1.18064167",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/bJ3CdwM9fh2rcSJdz-_cLwfJnhVnTdr6dgAW5UZENG-g.jpg",
+      "localImage": "assets/news/0552dda63e8cce.jpg",
+      "score": 12
     }
   ]
 }
