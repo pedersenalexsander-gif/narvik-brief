@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.10.2026 kl. 01:39",
-  "updatedISO": "2026-10-29T01:39:56.672201+01:00",
+  "updatedAt": "29.10.2026 kl. 07:31",
+  "updatedISO": "2026-10-29T07:31:17.164825+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Lv7yTInjfGaKYjSdvPd8dwJyOw9XTSnDIJoJrnnu2HMQ.jpg",
       "localImage": "assets/news/fde69fb6c6b0e2.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "6ea0422ad66f4d",
+      "id": "30d5f0d57a0a51",
       "category": "Norge",
-      "published": "28.10. 06:46",
-      "publishedISO": "2026-10-28T06:46:15+01:00",
-      "title": "Slik påvirker Equinors kvartalsresultat deg: Øker lønna, men utsetter rentekuttet på boliglånet",
-      "summary": "I denne saken kan du lese hvordan dette påvirker din egen økonomi. Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker. Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
+      "published": "29.10. 05:12",
+      "publishedISO": "2026-10-29T05:12:52+01:00",
+      "title": "67.000 ukrainere kan få nei til opphold i Norge: – Mange er bekymret",
+      "summary": "Her på ungdomsklubben der hun er daglig leder. – Det er mange ukrainere som er bekymret, sier Iryna Horbachova som bor i Osen kommune på Trøndelagskysten. Arbeids- og inkluderingsminister Kjersti Stenseng sier at hun forstår at ukrainere som er i Norge er bekymret. Bare 19.000 ukrainere tjener foreløpig nok til å få opphold i Norge. – Det er viktig å si at 19.000 er anslaget vi har nå.",
       "keyPoints": [
-        "Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker.",
-        "Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
-        "I denne saken kan du lese hvordan dette påvirker din egen økonomi.",
-        "Resultatet har faktisk mer å si for deg og lommeboka di, enn du kanskje vet."
+        "Her på ungdomsklubben der hun er daglig leder. – Det er mange ukrainere som er bekymret, sier Iryna Horbachova som bor i Osen kommune på Trøndelagskysten.",
+        "Bare 19.000 ukrainere tjener foreløpig nok til å få opphold i Norge. – Det er viktig å si at 19.000 er anslaget vi har nå.",
+        "Arbeids- og inkluderingsminister Kjersti Stenseng sier at hun forstår at ukrainere som er i Norge er bekymret.",
+        "Hun er en av 36 ukrainere som er bosatt i kommunen som har 911 innbyggere."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839",
+      "url": "https://www.nrk.no/trondelag/67.000-ukrainere-kan-fa-nei-til-opphold-i-norge_-_-mange-er-bekymret-1.18058626",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UqvVTBIp6WP-bMHiMHkScAPgMf1ViPxVIewWJ54BuBdQ.jpg",
-      "localImage": "assets/news/6ea0422ad66f4d.webp",
-      "score": 17
+      "image": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yjzxv8C7zyk7g.jpg",
+      "localImage": "assets/news/30d5f0d57a0a51.jpg",
+      "score": 25
+    },
+    {
+      "id": "40dbaa04d53603",
+      "category": "Økonomi",
+      "published": "28.10. 21:02",
+      "publishedISO": "2026-10-28T21:02:30+01:00",
+      "title": "Google-eier Alphabet dro inn 127,5 milliarder dollar",
+      "summary": "Alphabet hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor. Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor. I tredje kvartal var inntektene på 30,7 milliarder dollar, mot 15,1 milliarder i fjor.",
+      "keyPoints": [
+        "Alphabet hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor.",
+        "Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor.",
+        "På forhånd var det forventet inntekter på 127,9 milliarder dollar.",
+        "Resultat per aksje ble 2,12 dollar, noe som er klart under analytikernes forventninger om 2,99 dollar, skriver Bloomberg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/31ArnM/google-eier-alphabet-dro-inn-127-5-milliarder-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/10d12c5d-3eeb-3f87-92c1-28665cb6ea90?fit=crop&h=675&upscale=true&w=1200&s=aeade7a3cfd52a810885af805c9211e471086852",
+      "localImage": "assets/news/40dbaa04d53603.jpg",
+      "score": 19
     },
     {
       "id": "729a1586e03732",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a55ab970-2c68-3797-87e5-74bcf60b6457?fit=crop&h=675&upscale=true&w=1200&s=fc41018828ca872cb07df57ac0fca7ac5b954d41",
       "localImage": "assets/news/729a1586e03732.jpg",
-      "score": 19
+      "score": 17
     },
     {
       "id": "d771701717ee13",
@@ -85,48 +106,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/783e8ed3-7d03-30f4-a21b-a945edf7392c?fit=crop&h=675&upscale=true&w=1200&s=75873a999d989c38b9e06ba03a08975c58f885b7",
       "localImage": "assets/news/d771701717ee13.jpg",
-      "score": 18
-    },
-    {
-      "id": "40dbaa04d53603",
-      "category": "Økonomi",
-      "published": "28.10. 21:02",
-      "publishedISO": "2026-10-28T21:02:30+01:00",
-      "title": "Google-eier Alphabet dro inn 127,5 milliarder dollar",
-      "summary": "Tek-giganten hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor. Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor. I tredje kvartal var inntektene på 30,7 milliarder dollar, mot 15,1 milliarder i fjor.",
-      "keyPoints": [
-        "Tek-giganten hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor.",
-        "Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor.",
-        "På forhånd var det forventet inntekter på 127,9 milliarder dollar.",
-        "Resultat per aksje ble 2,12 dollar, noe som er klart under analytikernes forventninger om 2,99 dollar, skriver Bloomberg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/31ArnM/google-eier-alphabet-dro-inn-127-5-milliarder-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/10d12c5d-3eeb-3f87-92c1-28665cb6ea90?fit=crop&h=675&upscale=true&w=1200&s=aeade7a3cfd52a810885af805c9211e471086852",
-      "localImage": "assets/news/40dbaa04d53603.jpg",
       "score": 17
     },
     {
-      "id": "38bdf0e78cd6a9",
-      "category": "Økonomi",
-      "published": "28.10. 20:39",
-      "publishedISO": "2026-10-28T20:39:21+01:00",
-      "title": "Equinor-sjefen: Faktorene som kan gi fortsatt høye priser",
-      "summary": "Faktorer som kan bidra til fortsatt høye priser er ifølge Equinor-sjefen en mulig forlenget krise i Midtøsten, at verden bruker mer av de strategiske lagrene sine, og at Europa kommer ut av vinteren med lavere gasslagre enn vanlig, som må fylles opp igjen før neste vinter. – Det er mulig at man får noe høyere priser enn det vi la til grunn for eksempel i fjor. Men pengene brenner ikke i lommen, forsikrer Equinor-sjefen. – Det som er viktig nå er at vi har store investeringer på norsk sokkel gjennom NCS 2035, sier Opedal. Nordsjøoljen Brent har nylig vært helt oppe i 117 dollar fatet. – Den har økt litegrann i det siste, og det skyldes nok at markedet priser inn mer usikkerhet om eskalering fremover, sa Opedal på et pressemøte onsdag.",
+      "id": "6ea0422ad66f4d",
+      "category": "Norge",
+      "published": "28.10. 06:46",
+      "publishedISO": "2026-10-28T06:46:15+01:00",
+      "title": "Slik påvirker Equinors kvartalsresultat deg: Øker lønna, men utsetter rentekuttet på boliglånet",
+      "summary": "I denne saken kan du lese hvordan dette påvirker din egen økonomi. Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker. Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
       "keyPoints": [
-        "Faktorer som kan bidra til fortsatt høye priser er ifølge Equinor-sjefen en mulig forlenget krise i Midtøsten, at verden bruker mer av de strategiske lagrene sine, og at Europa kommer ut av vinteren med lavere gasslagre enn vanlig, som må fylles opp igjen før neste vinter. – Det er mulig at man får noe høyere priser enn det vi la til grunn for eksempel i fjor.",
-        "Men pengene brenner ikke i lommen, forsikrer Equinor-sjefen. – Det som er viktig nå er at vi har store investeringer på norsk sokkel gjennom NCS 2035, sier Opedal.",
-        "Nordsjøoljen Brent har nylig vært helt oppe i 117 dollar fatet. – Den har økt litegrann i det siste, og det skyldes nok at markedet priser inn mer usikkerhet om eskalering fremover, sa Opedal på et pressemøte onsdag.",
-        "Det viktigste for ham er å sikre stabile leveranser av energi i både gode og dårlige tider. – Solid og god drift går aldri av moten, sier Equinor-sjefen."
+        "Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker.",
+        "Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
+        "I denne saken kan du lese hvordan dette påvirker din egen økonomi.",
+        "Resultatet har faktisk mer å si for deg og lommeboka di, enn du kanskje vet."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/64Oavz/equinor-sjefen-satt-i-gang-et-stort-maskineri",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/091ae8c9-ceeb-3a66-81ee-2461373f66d3?fit=crop&h=675&upscale=true&w=1200&s=d89e16b73a074689677cc99f2fced3458e112b55",
-      "localImage": "assets/news/38bdf0e78cd6a9.jpg",
+      "url": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/UqvVTBIp6WP-bMHiMHkScAPgMf1ViPxVIewWJ54BuBdQ.jpg",
+      "localImage": "assets/news/6ea0422ad66f4d.webp",
       "score": 16
     },
     {
@@ -148,7 +148,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/hTanWbWxrBoEa4YZI74WYQ4T4tdWJKdpOZtwLPdvpa9g",
       "localImage": "assets/news/36e5a49d12a9c4.webp",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "38bdf0e78cd6a9",
+      "category": "Økonomi",
+      "published": "28.10. 20:39",
+      "publishedISO": "2026-10-28T20:39:21+01:00",
+      "title": "Equinor-sjefen: Faktorene som kan gi fortsatt høye priser",
+      "summary": "Faktorer som kan bidra til fortsatt høye priser er ifølge Equinor-sjefen en mulig forlenget krise i Midtøsten, at verden bruker mer av de strategiske lagrene sine, og at Europa kommer ut av vinteren med lavere gasslagre enn vanlig, som må fylles opp igjen før neste vinter. – Det er mulig at man får noe høyere priser enn det vi la til grunn for eksempel i fjor. Men pengene brenner ikke i lommen, forsikrer Equinor-sjefen. – Det som er viktig nå er at vi har store investeringer på norsk sokkel gjennom NCS 2035, sier Opedal. Nordsjøoljen Brent har nylig vært helt oppe i 117 dollar fatet. – Den har økt litegrann i det siste, og det skyldes nok at markedet priser inn mer usikkerhet om eskalering fremover, sa Opedal på et pressemøte onsdag.",
+      "keyPoints": [
+        "Faktorer som kan bidra til fortsatt høye priser er ifølge Equinor-sjefen en mulig forlenget krise i Midtøsten, at verden bruker mer av de strategiske lagrene sine, og at Europa kommer ut av vinteren med lavere gasslagre enn vanlig, som må fylles opp igjen før neste vinter. – Det er mulig at man får noe høyere priser enn det vi la til grunn for eksempel i fjor.",
+        "Men pengene brenner ikke i lommen, forsikrer Equinor-sjefen. – Det som er viktig nå er at vi har store investeringer på norsk sokkel gjennom NCS 2035, sier Opedal.",
+        "Nordsjøoljen Brent har nylig vært helt oppe i 117 dollar fatet. – Den har økt litegrann i det siste, og det skyldes nok at markedet priser inn mer usikkerhet om eskalering fremover, sa Opedal på et pressemøte onsdag.",
+        "Det viktigste for ham er å sikre stabile leveranser av energi i både gode og dårlige tider. – Solid og god drift går aldri av moten, sier Equinor-sjefen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/64Oavz/equinor-sjefen-satt-i-gang-et-stort-maskineri",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/091ae8c9-ceeb-3a66-81ee-2461373f66d3?fit=crop&h=675&upscale=true&w=1200&s=d89e16b73a074689677cc99f2fced3458e112b55",
+      "localImage": "assets/news/38bdf0e78cd6a9.jpg",
+      "score": 14
     },
     {
       "id": "c51066f61e47cf",
@@ -169,48 +190,27 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/HiFOge_ipjfcV7qJEDVwQQ0rOKhaJ7IddnoC-jgbawrA.jpg",
       "localImage": "assets/news/c51066f61e47cf.jpg",
-      "score": 16
-    },
-    {
-      "id": "956e278275efe9",
-      "category": "Norge",
-      "published": "28.10. 08:28",
-      "publishedISO": "2026-10-28T08:28:28+01:00",
-      "title": "Millionforvirring rundt navnet på Glimts nye stadion: – Kanskje det mest problematiske",
-      "summary": "Bodø/Glimt vil tjene gode penger på å selge navnet på sin nye milliardstadion. Glimt-styret vil be medlemmene om å godkjenne «PowerOffice Arctic Arena» som navnet på den nye stadion til Bodø/Glimt. – Det er kanskje det mest problematiske. Da skal navnet til klubbens nye stadion til 1,3 milliarder kroner bestemmes.",
-      "keyPoints": [
-        "Glimt-styret vil be medlemmene om å godkjenne «PowerOffice Arctic Arena» som navnet på den nye stadion til Bodø/Glimt. – Det er kanskje det mest problematiske.",
-        "Da skal navnet til klubbens nye stadion til 1,3 milliarder kroner bestemmes.",
-        "Bodø/Glimt vil tjene gode penger på å selge navnet på sin nye milliardstadion.",
-        "Navneutvalget leverer sin rapport, med seks alternativer for den nye stadion: Berg Arena, Glimt Aena, Stormyra Stadion, Nordaførr Stadion, Arctic Arena og Nord Arena."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/millionforvirring-rundt-navnet-pa-glimts-nye-stadion_-_-kanskje-det-mest-problematiske-1.18058471",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OB0FYhskcMJHbGxI2A6dXA2mg8auzRgtrpUbKIgKravg.jpg",
-      "localImage": "assets/news/956e278275efe9.jpg",
       "score": 14
     },
     {
-      "id": "e364ccdc7c1ec0",
-      "category": "Økonomi",
-      "published": "28.10. 21:38",
-      "publishedISO": "2026-10-28T21:38:24+01:00",
-      "title": "Særlig uavhengige er mindre selvstendige enn før",
-      "summary": "Blant de særlig uavhengige finner forsker Mari Holm Ingelsrud noe interessant: – De oppgir lavere grad av selvstendighet enn de som var særlig uavhengige i 2013. I undersøkelsen svarer mer enn hver tredje med særlig uavhengig stilling at de har liten eller ingen selvstendighet i hvordan eller når arbeidet gjøres. De særlig uavhengige jobber i snitt ikke mer enn 40,4 timer, men arbeidstiden har større topper.",
+      "id": "5a1d4d13bca10b",
+      "category": "Norge",
+      "published": "29.10. 07:08",
+      "publishedISO": "2026-10-29T07:08:27+01:00",
+      "title": "Kraftig reduksjon i flyktningtall gir millionsmell for Vadsø",
+      "summary": "Vadsø kan miste opptil 40 millioner kroner neste år når IMDi kutter antallet flyktninger kraftig. Vadsø kommune og det politiske flertallet må nå finne ut hvor de skal kutte 30–40 millioner kroner i en allerede presset økonomi. Statlige tilskudd faller raskt, mens det tar tid å skalere ned tjenestene. – Vadsø er allerede i en krevende økonomisk situasjon med et underskudd på 130 millioner kroner.",
       "keyPoints": [
-        "Blant de særlig uavhengige finner forsker Mari Holm Ingelsrud noe interessant: – De oppgir lavere grad av selvstendighet enn de som var særlig uavhengige i 2013.",
-        "De særlig uavhengige jobber i snitt ikke mer enn 40,4 timer, men arbeidstiden har større topper.",
-        "I undersøkelsen svarer mer enn hver tredje med særlig uavhengig stilling at de har liten eller ingen selvstendighet i hvordan eller når arbeidet gjøres.",
-        "I rapporten finner Ingelsrud og de andre forskerne at ledende og særlig uavhengig stilling brukes mer i privat enn i offentlig sektor, og at flere menn enn kvinner er unntatt."
+        "Vadsø kan miste opptil 40 millioner kroner neste år når IMDi kutter antallet flyktninger kraftig.",
+        "Vadsø kommune og det politiske flertallet må nå finne ut hvor de skal kutte 30–40 millioner kroner i en allerede presset økonomi.",
+        "Statlige tilskudd faller raskt, mens det tar tid å skalere ned tjenestene. – Vadsø er allerede i en krevende økonomisk situasjon med et underskudd på 130 millioner kroner.",
+        "Vadsø kommune har i mange år tatt imot og bosatt flyktninger, og har derfor bygget opp et stort apparat rundt flyktningene."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/b80g8k/saerlig-uavhengige-er-mindre-selvstendige-enn-foer",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4997ea3d-86dc-3d20-a8d2-53e4c93c481d?fit=crop&h=675&upscale=true&w=1200&s=3b329b3eaa177fc89496b716474f399ae0654db3",
-      "localImage": "assets/news/e364ccdc7c1ec0.jpg",
+      "url": "https://www.nrk.no/tromsogfinnmark/kraftig-reduksjon-i-flyktningtall-gir-millionsmell-for-vadso-1.18067258",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/v-QMofH2--uM40J702moqgrlzbyAUFn28Uvrhb5rQ1-A.jpg",
+      "localImage": "assets/news/5a1d4d13bca10b.jpg",
       "score": 13
     }
   ]
