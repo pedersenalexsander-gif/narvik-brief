@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.10.2026 kl. 14:39",
-  "updatedISO": "2026-10-29T14:39:41.161908+01:00",
+  "updatedAt": "29.10.2026 kl. 20:16",
+  "updatedISO": "2026-10-29T20:16:27.402993+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Lv7yTInjfGaKYjSdvPd8dwJyOw9XTSnDIJoJrnnu2HMQ.jpg",
       "localImage": "assets/news/fde69fb6c6b0e2.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "30d5f0d57a0a51",
@@ -43,7 +43,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yjzxv8C7zyk7g.jpg",
       "localImage": "assets/news/30d5f0d57a0a51.jpg",
-      "score": 24
+      "score": 22
+    },
+    {
+      "id": "cc9a592333ae8a",
+      "category": "Verden",
+      "published": "29.10. 15:49",
+      "publishedISO": "2026-10-29T15:49:25+01:00",
+      "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
+      "summary": "En domstol i den filippinske byen Cebu har godkjent en arrestordre som tillater politiet å undersøke materiale hentet fra det tidligere hjemmet til Thomas Markle, faren til hertuginnen av Sussex, som angivelig inneholder bilder som viser seksuelle overgrep mot barn. Se: VHS-kassetter og datamaskiner overlevert politiet mens Thomas Markle etterforskes. Video, 00:01:28Se: VHS-kassetter og datamaskiner overlevert politiet mens Thomas Markle etterforskes Up Next.",
+      "keyPoints": [
+        "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated.",
+        "En domstol i den filippinske byen Cebu har godkjent en arrestordre som tillater politiet å undersøke materiale hentet fra det tidligere hjemmet til Thomas Markle, faren til hertuginnen av Sussex, som angivelig inneholder bilder som viser seksuelle overgrep mot barn.",
+        "Thomas Markle has strongly denied possessing any child abuse material.",
+        "Video, 00:00:52Se: På åstedet for Spanias dødelige togulykke Se: Hva er hovedpunktene fra budsjettet og hvordan vil de bli finansiert?"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/62f2/live/4437f8b0-d396-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/cc9a592333ae8a.jpg",
+      "score": 13
+    },
+    {
+      "id": "aad419151828d9",
+      "category": "Økonomi",
+      "published": "29.10. 16:03",
+      "publishedISO": "2026-10-29T16:03:14+01:00",
+      "title": "Datasentre: – Tror det er klokt at Stortinget venter",
+      "summary": "Nå må vi trekke i nødbremsen og stanse etableringen av flere datasentre til vi har nye regler på plass, sier Moxnes i en kommentar. – Rødt skal nå fremme hasteforslag om å stanse nye datasentre, og håper stortingsflertallet kan samle seg om å støtte det, sier han. – Det kommer initiativ fra Stortinget om å stanse datasentre. Jeg tror det er klokt at Stortinget venter på det, sånn at vi kan ta beslutning som står seg over tid også, sier Aasland. – Vi ønsker å tiltrekke oss noen investeringer som er viktige for nasjonal sikkerhet og så videre. NVE-sjef Kjetil Lund tror ikke at man slipper å bygge ut mer kraft og nett ved å si nei til datasentre. – Vi trenger å bygge ut mer kraft uavhengig av datasentre.",
+      "keyPoints": [
+        "Jeg tror det er klokt at Stortinget venter på det, sånn at vi kan ta beslutning som står seg over tid også, sier Aasland. – Vi ønsker å tiltrekke oss noen investeringer som er viktige for nasjonal sikkerhet og så videre.",
+        "Nå må vi trekke i nødbremsen og stanse etableringen av flere datasentre til vi har nye regler på plass, sier Moxnes i en kommentar. – Rødt skal nå fremme hasteforslag om å stanse nye datasentre, og håper stortingsflertallet kan samle seg om å støtte det, sier han. – Det kommer initiativ fra Stortinget om å stanse datasentre.",
+        "NVE-sjef Kjetil Lund tror ikke at man slipper å bygge ut mer kraft og nett ved å si nei til datasentre. – Vi trenger å bygge ut mer kraft uavhengig av datasentre.",
+        "Flere partier vil stanse datasentre, men energiministeren ber dem vente. –⁠ Bør ha gjennomtenkte, gode løsninger. – Datasentre er i vinden som aldri før, sier energiminister Terje Aasland (Ap) i en tale på NVEs energidager på Fornebu utenfor Oslo."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/PgV5rb/datasentre-tror-det-er-klokt-at-stortinget-venter",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5d7f40d9-692c-3fdf-8ef8-68061ae5d12d?fit=crop&h=675&upscale=true&w=1200&s=a9055584342e4808cda92367d41c1269d63fb970",
+      "localImage": "assets/news/aad419151828d9.jpg",
+      "score": 17
     },
     {
       "id": "40dbaa04d53603",
@@ -64,7 +106,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/10d12c5d-3eeb-3f87-92c1-28665cb6ea90?fit=crop&h=675&upscale=true&w=1200&s=aeade7a3cfd52a810885af805c9211e471086852",
       "localImage": "assets/news/40dbaa04d53603.jpg",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "241666625a83af",
+      "category": "Norge",
+      "published": "29.10. 15:23",
+      "publishedISO": "2026-10-29T15:23:00+01:00",
+      "title": "Bodø kommune selger alle aksjene i strømnettselskapet Arva",
+      "summary": "I 2024 vedtok politikerne i Bodø å starte arbeidet med å selge seg ned i strømnettselskapet Arva. Igjen sitter Bodø kommune med 1,4 milliarder kroner, før utgifter. Bodø kommune har de siste fem årene hatt et gjennomsnittlig årlig utbytte på 22,5 millioner kroner fra Bodø Energi.",
+      "keyPoints": [
+        "I 2024 vedtok politikerne i Bodø å starte arbeidet med å selge seg ned i strømnettselskapet Arva.",
+        "Igjen sitter Bodø kommune med 1,4 milliarder kroner, før utgifter.",
+        "Bodø kommune har de siste fem årene hatt et gjennomsnittlig årlig utbytte på 22,5 millioner kroner fra Bodø Energi.",
+        "Fungerende ordfører Ida Gudding Johnsen (V) mente på sin side at nettopp var ansvarlig å selge aksjene basert på hva bystyret hadde vedtatt tidligere på dagen. – For under en time siden vedtok vi nytt sykehjem til 1,6 milliard kroner."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/bodo-kommune-selger-alle-aksjene-i-stromnettselskapet-arva-1.18067836",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/LnCeTvQllUa18oyRK7opTALAv_8PIbptprd6_5a_vOzQ.jpg",
+      "localImage": "assets/news/241666625a83af.jpg",
+      "score": 20
+    },
+    {
+      "id": "55492517d81ed1",
+      "category": "Økonomi",
+      "published": "29.10. 15:57",
+      "publishedISO": "2026-10-29T15:57:39+01:00",
+      "title": "Oppsiktsvekkende klar kritikk",
+      "summary": "En som foreløpig har uttalt seg forsiktig, er etikkrådets leder, Svein Richard Brandtzæg. –⁠ Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe, skriver han i en kronikk i E24. Våren 2025 ble Svein Richard Brandtzæg ble gjenoppnevnt som leder frem til 2029. I august 2025 ble det avslørt at Oljefondet var investert i det israelske selskapet Bet Shemesh Engines Holdings som det israelske forsvarsdepartementet er en viktig kunde av.",
+      "keyPoints": [
+        "En som foreløpig har uttalt seg forsiktig, er etikkrådets leder, Svein Richard Brandtzæg. –⁠ Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe, skriver han i en kronikk i E24.",
+        "Våren 2025 ble Svein Richard Brandtzæg ble gjenoppnevnt som leder frem til 2029.",
+        "I august 2025 ble det avslørt at Oljefondet var investert i det israelske selskapet Bet Shemesh Engines Holdings som det israelske forsvarsdepartementet er en viktig kunde av.",
+        "I november 2025 vedtok Stortinget å stanse Etikkrådets anbefalinger om både utestengelse og observasjon mens hele regelverket ble gjennomgått."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/d7K7lA/oppsiktsvekkende-klar-kritikk",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ee503329-45c4-3ef2-8a58-dacae339fade?fit=crop&h=675&upscale=true&w=1200&s=6934ca3cb2c881519f25c9c308a4424162c2fb2f",
+      "localImage": "assets/news/55492517d81ed1.jpg",
+      "score": 16
     },
     {
       "id": "b58e7241818cea",
@@ -85,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/57becf72-e093-35db-86cb-a5b7db0f2a95?fit=crop&h=675&upscale=true&w=1200&s=554b3f458ff06bff3783f8bd8e20794df11abd42",
       "localImage": "assets/news/b58e7241818cea.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "5a0fced593d8e9",
@@ -106,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c395d72f-45a8-37e6-ab0b-07f567893bbf?fit=crop&h=675&upscale=true&w=1200&s=7a60d047104e077562307936d0bd00adab96a8bd",
       "localImage": "assets/news/5a0fced593d8e9.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "729a1586e03732",
@@ -127,91 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a55ab970-2c68-3797-87e5-74bcf60b6457?fit=crop&h=675&upscale=true&w=1200&s=fc41018828ca872cb07df57ac0fca7ac5b954d41",
       "localImage": "assets/news/729a1586e03732.jpg",
-      "score": 16
-    },
-    {
-      "id": "6ea0422ad66f4d",
-      "category": "Norge",
-      "published": "28.10. 06:46",
-      "publishedISO": "2026-10-28T06:46:15+01:00",
-      "title": "Slik påvirker Equinors kvartalsresultat deg: Øker lønna, men utsetter rentekuttet på boliglånet",
-      "summary": "I denne saken kan du lese hvordan dette påvirker din egen økonomi. Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker. Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
-      "keyPoints": [
-        "Når aktiviteten øker, får andre bedrifter – slik som andre oljeselskaper, men også konsulenter og IT-bedrifter – fulle ordrebøker.",
-        "Nesten ingen får kun de negative konsekvensene, slik som at boliglånet blir dyrere.",
-        "I denne saken kan du lese hvordan dette påvirker din egen økonomi.",
-        "Resultatet har faktisk mer å si for deg og lommeboka di, enn du kanskje vet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/slik-pavirker-equinors-kvartalsresultat-deg_-oker-lonna_-men-utsetter-rentekuttet-pa-boliglanet-1.18064839",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UqvVTBIp6WP-bMHiMHkScAPgMf1ViPxVIewWJ54BuBdQ.jpg",
-      "localImage": "assets/news/6ea0422ad66f4d.webp",
-      "score": 14
-    },
-    {
-      "id": "b2ccc77014d53a",
-      "category": "Økonomi",
-      "published": "29.10. 14:19",
-      "publishedISO": "2026-10-29T14:19:21+01:00",
-      "title": "Disse interne e-postene kan felle dagligvarekjedene",
-      "summary": "E-postene skal vise at konkurransen ble skadet av dagligvarekjedenes samarbeid. Statens beviser består blant annet av interne e-poster. Blant annet denne interne Rema-mailen fra 2013: Prisjegeravtalen ble formalisert i 2012.",
-      "keyPoints": [
-        "E-postene skal vise at konkurransen ble skadet av dagligvarekjedenes samarbeid.",
-        "Blant annet denne interne Rema-mailen fra 2013: Prisjegeravtalen ble formalisert i 2012.",
-        "Statens beviser består blant annet av interne e-poster.",
-        "Flere e-poster viser ifølge staten at dagligvarekjedene visste at de pushet de konkurranserettslige grensene."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/8G42PE/disse-interne-e-postene-kan-felle-dagligvarekjedene",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9074b4b8-1376-3850-9e6a-6028baa7e437?fit=crop&h=675&upscale=true&w=1200&s=1d9feb8e1a37c1ac2b778416ecadf593913a6f23",
-      "localImage": "assets/news/b2ccc77014d53a.jpg",
-      "score": 13
-    },
-    {
-      "id": "76bebb031b5cf4",
-      "category": "Norge",
-      "published": "29.10. 13:59",
-      "publishedISO": "2026-10-29T13:59:35+01:00",
-      "title": "Nekter militærtjeneste og lærer ikke matte – likevel er de avgjørende i valget i Israel",
-      "summary": "At de hverken bidrar i militæret, betaler forholdsmessig nok skatt eller lærer samfunnsnyttige fag på skolen, har vært en stor sak dette valget. Ifølge Israel Democracy Institute (IDI) er ikke livsstilen deres bærekraftig, og vil ramme Israels økonomi hardt de neste 25 årene. Aharon Eitan fullførte militærtjeneste og mener andre haredim må gjøre det samme. – Folk fra høyresiden sier at dersom de taper valget, er det fordi Netanyahu lar dem slippe unna.",
-      "keyPoints": [
-        "At de hverken bidrar i militæret, betaler forholdsmessig nok skatt eller lærer samfunnsnyttige fag på skolen, har vært en stor sak dette valget.",
-        "Aharon Eitan fullførte militærtjeneste og mener andre haredim må gjøre det samme. – Folk fra høyresiden sier at dersom de taper valget, er det fordi Netanyahu lar dem slippe unna.",
-        "Ifølge Israel Democracy Institute (IDI) er ikke livsstilen deres bærekraftig, og vil ramme Israels økonomi hardt de neste 25 årene.",
-        "SKOLEBARN: De ultraortodokse barna får verken lære matte, engelsk, geografi eller naturfag på sine skoler."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/nekter-militaertjeneste-og-laerer-ikke-matte-_-likevel-er-de-avgjorende-i-valget-i-israel-1.17992118",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/2j1zfDo5ONg2bgmTjoBVpwKP98fr8ELs1lI5iOTpr5sw.jpg",
-      "localImage": "assets/news/76bebb031b5cf4.jpg",
-      "score": 13
-    },
-    {
-      "id": "85f7c0d87bfd7e",
-      "category": "Økonomi",
-      "published": "29.10. 13:38",
-      "publishedISO": "2026-10-29T13:38:18+01:00",
-      "title": "Markant tek-fall fra start",
-      "summary": "Det var til dels markant nedgang i førhandelen på Wall Street torsdag ettermiddag. 14.30 norsk tid: Onsdag avsluttet de tre indeksene svakt opp etter at den amerikanske sentralbanken Federal Reserve (Fed) holdt styringsrenten uendret. Google-eier Alphabet stuper mer enn 12 prosent fra start etter at å ha lagt frem resultater for tredje kvartal onsdag kveld.",
-      "keyPoints": [
-        "Google-eier Alphabet stuper mer enn 12 prosent fra start etter at å ha lagt frem resultater for tredje kvartal onsdag kveld.",
-        "Det var til dels markant nedgang i førhandelen på Wall Street torsdag ettermiddag.",
-        "14.30 norsk tid: Onsdag avsluttet de tre indeksene svakt opp etter at den amerikanske sentralbanken Federal Reserve (Fed) holdt styringsrenten uendret.",
-        "Selskapet hadde inntekter på 127,5 milliarder dollar i perioden, mot 102,3 milliarder i tredje kvartal 2025."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/kv5plQ/gaar-mot-markant-tek-fall-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/64ec9d6c-9c50-3eed-a03c-e18ba7c1983e?fit=crop&h=675&upscale=true&w=1200&s=cad1ae10785babb3fdb8f470020a51a81ce8c53f",
-      "localImage": "assets/news/85f7c0d87bfd7e.jpg",
-      "score": 13
+      "score": 15
     }
   ]
 }
