@@ -1,6 +1,6 @@
 {
-  "updatedAt": "29.10.2026 kl. 07:31",
-  "updatedISO": "2026-10-29T07:31:17.164825+01:00",
+  "updatedAt": "29.10.2026 kl. 14:39",
+  "updatedISO": "2026-10-29T14:39:41.161908+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Lv7yTInjfGaKYjSdvPd8dwJyOw9XTSnDIJoJrnnu2HMQ.jpg",
       "localImage": "assets/news/fde69fb6c6b0e2.jpg",
-      "score": 15
+      "score": 13
     },
     {
       "id": "30d5f0d57a0a51",
@@ -43,7 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yjzxv8C7zyk7g.jpg",
       "localImage": "assets/news/30d5f0d57a0a51.jpg",
-      "score": 25
+      "score": 24
     },
     {
       "id": "40dbaa04d53603",
@@ -64,7 +64,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/10d12c5d-3eeb-3f87-92c1-28665cb6ea90?fit=crop&h=675&upscale=true&w=1200&s=aeade7a3cfd52a810885af805c9211e471086852",
       "localImage": "assets/news/40dbaa04d53603.jpg",
-      "score": 19
+      "score": 18
+    },
+    {
+      "id": "b58e7241818cea",
+      "category": "Økonomi",
+      "published": "29.10. 14:15",
+      "publishedISO": "2026-10-29T14:15:16+01:00",
+      "title": "Den europeiske sentralbanken holder renten uendret",
+      "summary": "Den europeiske sentralbanken (ESB) holder renten i eurosonen uendret på 2,5 prosent. Det var bredt ventet at renten skulle få ligge i ro denne gangen. ESB har satt opp renten to ganger tidligere i år, i juni og på forrige møte i september.",
+      "keyPoints": [
+        "Den europeiske sentralbanken (ESB) holder renten i eurosonen uendret på 2,5 prosent.",
+        "ESB har satt opp renten to ganger tidligere i år, i juni og på forrige møte i september.",
+        "Det var bredt ventet at renten skulle få ligge i ro denne gangen.",
+        "Sentralbanken skriver at de fulle effektene av energisjokket fortsetter å utspille seg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/ElVzx5/den-europeiske-sentralbanken-holder-renten-uendret",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/57becf72-e093-35db-86cb-a5b7db0f2a95?fit=crop&h=675&upscale=true&w=1200&s=554b3f458ff06bff3783f8bd8e20794df11abd42",
+      "localImage": "assets/news/b58e7241818cea.jpg",
+      "score": 17
+    },
+    {
+      "id": "5a0fced593d8e9",
+      "category": "Økonomi",
+      "published": "29.10. 13:39",
+      "publishedISO": "2026-10-29T13:39:11+01:00",
+      "title": "Hvis krigen kommer, trenger Norge at du går på jobb",
+      "summary": "Se for deg at det verste skjer – Norge angripes, det blir krig på norsk jord. Staten Norge er helt avhengig av at vi fortsetter å holde samfunnet i gang også ved alvorlige kriser og krig. I kriser trenger vi lærere, helsepersonell, butikkansatte, sjåfører, logistikkmedarbeidere, ingeniører og alle andre som bidrar til å holde samfunnet i gang.",
+      "keyPoints": [
+        "Staten Norge er helt avhengig av at vi fortsetter å holde samfunnet i gang også ved alvorlige kriser og krig.",
+        "I kriser trenger vi lærere, helsepersonell, butikkansatte, sjåfører, logistikkmedarbeidere, ingeniører og alle andre som bidrar til å holde samfunnet i gang.",
+        "Se for deg at det verste skjer – Norge angripes, det blir krig på norsk jord.",
+        "Den faktiske krisen blir aldri lik den vi har øvd på, men læringen gjør oss mer motstandsdyktige og bedre rustet til å håndtere det som kommer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/ylqgQJ/hvis-krigen-kommer-trenger-norge-at-du-gaar-paa-jobb",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c395d72f-45a8-37e6-ab0b-07f567893bbf?fit=crop&h=675&upscale=true&w=1200&s=7a60d047104e077562307936d0bd00adab96a8bd",
+      "localImage": "assets/news/5a0fced593d8e9.jpg",
+      "score": 17
     },
     {
       "id": "729a1586e03732",
@@ -85,28 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a55ab970-2c68-3797-87e5-74bcf60b6457?fit=crop&h=675&upscale=true&w=1200&s=fc41018828ca872cb07df57ac0fca7ac5b954d41",
       "localImage": "assets/news/729a1586e03732.jpg",
-      "score": 17
-    },
-    {
-      "id": "d771701717ee13",
-      "category": "Økonomi",
-      "published": "28.10. 08:03",
-      "publishedISO": "2026-10-28T08:03:15+01:00",
-      "title": "Folketrygdfondet tjente 14,1 milliarder i tredje kvartal",
-      "summary": "Statens pensjonsfond Norge, som er forvaltet av Folketrygdfondet, legger frem resultater for tredje kvartal. Ved utgangen av kvartalet var kapitalen i fondet på 451,7 milliarder kroner. – Oslo Børs fortsetter den positive utviklingen i tredje kvartal, og er blant de aller sterkeste markedene internasjonalt. Tromsø-fondet hadde en avkastning på 4,6 prosent i tredje kvartal, tilsvarende 700 millioner kroner.",
-      "keyPoints": [
-        "Ved utgangen av kvartalet var kapitalen i fondet på 451,7 milliarder kroner. – Oslo Børs fortsetter den positive utviklingen i tredje kvartal, og er blant de aller sterkeste markedene internasjonalt.",
-        "Statens pensjonsfond Norge, som er forvaltet av Folketrygdfondet, legger frem resultater for tredje kvartal.",
-        "Tromsø-fondet hadde en avkastning på 4,6 prosent i tredje kvartal, tilsvarende 700 millioner kroner.",
-        "Fondet fikk en avkastning på 3,2 prosent, eller 14,1 milliarder kroner, ifølge en pressemelding."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/MAyGko/folketrygdfondet-tjente-14-1-milliarder-i-tredje-kvartal",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/783e8ed3-7d03-30f4-a21b-a945edf7392c?fit=crop&h=675&upscale=true&w=1200&s=75873a999d989c38b9e06ba03a08975c58f885b7",
-      "localImage": "assets/news/d771701717ee13.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "6ea0422ad66f4d",
@@ -127,90 +148,69 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/UqvVTBIp6WP-bMHiMHkScAPgMf1ViPxVIewWJ54BuBdQ.jpg",
       "localImage": "assets/news/6ea0422ad66f4d.webp",
-      "score": 16
+      "score": 14
     },
     {
-      "id": "36e5a49d12a9c4",
-      "category": "Norge",
-      "published": "28.10. 17:58",
-      "publishedISO": "2026-10-28T17:58:50+01:00",
-      "title": "Trump kalla Noreg eit «shit house»-land: No går norske utedoar viralt",
-      "summary": "Norsk reiseliv slår tilbake med å vise fram spektakulære utedoar i norsk natur. – Eg er ikkje forelska i Noreg. Dei såg dette som eit godt høve til å vise fram kva Noreg har å by på. – Av og til skal det ikkje så mykje til, berre litt do-humor og fantastisk norsk arkitektur, seier Egorova. Frihammer trur ikkje Trump sine utsegner vil gjera noko med reiselysta til amerikanarar, og ser på det heile som eit godt høve til å visa fram Noreg.",
-      "keyPoints": [
-        "Frihammer trur ikkje Trump sine utsegner vil gjera noko med reiselysta til amerikanarar, og ser på det heile som eit godt høve til å visa fram Noreg.",
-        "Dei såg dette som eit godt høve til å vise fram kva Noreg har å by på. – Av og til skal det ikkje så mykje til, berre litt do-humor og fantastisk norsk arkitektur, seier Egorova.",
-        "Norsk reiseliv slår tilbake med å vise fram spektakulære utedoar i norsk natur. – Eg er ikkje forelska i Noreg.",
-        "Men den amerikanske avisa Huffington Post kalla det «ein tidsriktig reklame for å gjere narr av Trump». – Verda treng å le litt, så vi tenkte la oss møte dei med godheit, og litt humor, seier Egorova."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/trump-kalla-noreg-eit-shit-house-land-no-gar-norske-utedoar-viralt-1531152",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/hTanWbWxrBoEa4YZI74WYQ4T4tdWJKdpOZtwLPdvpa9g",
-      "localImage": "assets/news/36e5a49d12a9c4.webp",
-      "score": 15
-    },
-    {
-      "id": "38bdf0e78cd6a9",
+      "id": "b2ccc77014d53a",
       "category": "Økonomi",
-      "published": "28.10. 20:39",
-      "publishedISO": "2026-10-28T20:39:21+01:00",
-      "title": "Equinor-sjefen: Faktorene som kan gi fortsatt høye priser",
-      "summary": "Faktorer som kan bidra til fortsatt høye priser er ifølge Equinor-sjefen en mulig forlenget krise i Midtøsten, at verden bruker mer av de strategiske lagrene sine, og at Europa kommer ut av vinteren med lavere gasslagre enn vanlig, som må fylles opp igjen før neste vinter. – Det er mulig at man får noe høyere priser enn det vi la til grunn for eksempel i fjor. Men pengene brenner ikke i lommen, forsikrer Equinor-sjefen. – Det som er viktig nå er at vi har store investeringer på norsk sokkel gjennom NCS 2035, sier Opedal. Nordsjøoljen Brent har nylig vært helt oppe i 117 dollar fatet. – Den har økt litegrann i det siste, og det skyldes nok at markedet priser inn mer usikkerhet om eskalering fremover, sa Opedal på et pressemøte onsdag.",
+      "published": "29.10. 14:19",
+      "publishedISO": "2026-10-29T14:19:21+01:00",
+      "title": "Disse interne e-postene kan felle dagligvarekjedene",
+      "summary": "E-postene skal vise at konkurransen ble skadet av dagligvarekjedenes samarbeid. Statens beviser består blant annet av interne e-poster. Blant annet denne interne Rema-mailen fra 2013: Prisjegeravtalen ble formalisert i 2012.",
       "keyPoints": [
-        "Faktorer som kan bidra til fortsatt høye priser er ifølge Equinor-sjefen en mulig forlenget krise i Midtøsten, at verden bruker mer av de strategiske lagrene sine, og at Europa kommer ut av vinteren med lavere gasslagre enn vanlig, som må fylles opp igjen før neste vinter. – Det er mulig at man får noe høyere priser enn det vi la til grunn for eksempel i fjor.",
-        "Men pengene brenner ikke i lommen, forsikrer Equinor-sjefen. – Det som er viktig nå er at vi har store investeringer på norsk sokkel gjennom NCS 2035, sier Opedal.",
-        "Nordsjøoljen Brent har nylig vært helt oppe i 117 dollar fatet. – Den har økt litegrann i det siste, og det skyldes nok at markedet priser inn mer usikkerhet om eskalering fremover, sa Opedal på et pressemøte onsdag.",
-        "Det viktigste for ham er å sikre stabile leveranser av energi i både gode og dårlige tider. – Solid og god drift går aldri av moten, sier Equinor-sjefen."
+        "E-postene skal vise at konkurransen ble skadet av dagligvarekjedenes samarbeid.",
+        "Blant annet denne interne Rema-mailen fra 2013: Prisjegeravtalen ble formalisert i 2012.",
+        "Statens beviser består blant annet av interne e-poster.",
+        "Flere e-poster viser ifølge staten at dagligvarekjedene visste at de pushet de konkurranserettslige grensene."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/64Oavz/equinor-sjefen-satt-i-gang-et-stort-maskineri",
+      "url": "https://e24.no/naeringsliv/i/8G42PE/disse-interne-e-postene-kan-felle-dagligvarekjedene",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/091ae8c9-ceeb-3a66-81ee-2461373f66d3?fit=crop&h=675&upscale=true&w=1200&s=d89e16b73a074689677cc99f2fced3458e112b55",
-      "localImage": "assets/news/38bdf0e78cd6a9.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/9074b4b8-1376-3850-9e6a-6028baa7e437?fit=crop&h=675&upscale=true&w=1200&s=1d9feb8e1a37c1ac2b778416ecadf593913a6f23",
+      "localImage": "assets/news/b2ccc77014d53a.jpg",
+      "score": 13
     },
     {
-      "id": "c51066f61e47cf",
+      "id": "76bebb031b5cf4",
       "category": "Norge",
-      "published": "28.10. 16:00",
-      "publishedISO": "2026-10-28T16:00:06+01:00",
-      "title": "Tromsø, Vågan og Stranda får innføre besøksbidrag fra nyttår",
-      "summary": "Næringsministeren bekrefter at de første kommunene får innføre besøksbidrag fra nyttår. På torget i Tromsø bekreftet næringsminister Cecilie Myrseth (Ap) hvem de tre første kommunene som får klarsignal til å innføre besøksbidrag er. – Tromsø, Vågan og Stranda er de tre første som nå får klarsignal for å ta i bruk besøksbidrag. Næringsminister Cecilie Myrseth (Ap) i Tromsø, der hun kunngjorde at de tre første kommunene får innføre besøksbidrag.",
+      "published": "29.10. 13:59",
+      "publishedISO": "2026-10-29T13:59:35+01:00",
+      "title": "Nekter militærtjeneste og lærer ikke matte – likevel er de avgjørende i valget i Israel",
+      "summary": "At de hverken bidrar i militæret, betaler forholdsmessig nok skatt eller lærer samfunnsnyttige fag på skolen, har vært en stor sak dette valget. Ifølge Israel Democracy Institute (IDI) er ikke livsstilen deres bærekraftig, og vil ramme Israels økonomi hardt de neste 25 årene. Aharon Eitan fullførte militærtjeneste og mener andre haredim må gjøre det samme. – Folk fra høyresiden sier at dersom de taper valget, er det fordi Netanyahu lar dem slippe unna.",
       "keyPoints": [
-        "På torget i Tromsø bekreftet næringsminister Cecilie Myrseth (Ap) hvem de tre første kommunene som får klarsignal til å innføre besøksbidrag er. – Tromsø, Vågan og Stranda er de tre første som nå får klarsignal for å ta i bruk besøksbidrag.",
-        "Næringsministeren bekrefter at de første kommunene får innføre besøksbidrag fra nyttår.",
-        "Vågan i Lofoten får klarsignal til å kreve inn besøksbidrag for å dempe slitasjen på sårbar kystnatur Stranda: I Geiranger fører de store turistmengdene til sprengt kapasitet på veinett, parkering og kaier, i tillegg til sanitære utfordringer og overbelastning på kjente utsiktspunkter og kulturmiljøer.",
-        "For Tromsø som destinasjon er det viktig å få på plass besøksbidrag, og det skaper mindre usikkerhet for næringa nå som planen er godkjent, sier reiselivssjef Helga Bårdsdatter Kristiansen i Visit Tromsø-Region."
+        "At de hverken bidrar i militæret, betaler forholdsmessig nok skatt eller lærer samfunnsnyttige fag på skolen, har vært en stor sak dette valget.",
+        "Aharon Eitan fullførte militærtjeneste og mener andre haredim må gjøre det samme. – Folk fra høyresiden sier at dersom de taper valget, er det fordi Netanyahu lar dem slippe unna.",
+        "Ifølge Israel Democracy Institute (IDI) er ikke livsstilen deres bærekraftig, og vil ramme Israels økonomi hardt de neste 25 årene.",
+        "SKOLEBARN: De ultraortodokse barna får verken lære matte, engelsk, geografi eller naturfag på sine skoler."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/tromso_-vagan-og-stranda-far-innfore-besoksbidrag-fra-nyttar-1.18066872",
+      "url": "https://www.nrk.no/urix/nekter-militaertjeneste-og-laerer-ikke-matte-_-likevel-er-de-avgjorende-i-valget-i-israel-1.17992118",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/HiFOge_ipjfcV7qJEDVwQQ0rOKhaJ7IddnoC-jgbawrA.jpg",
-      "localImage": "assets/news/c51066f61e47cf.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/2j1zfDo5ONg2bgmTjoBVpwKP98fr8ELs1lI5iOTpr5sw.jpg",
+      "localImage": "assets/news/76bebb031b5cf4.jpg",
+      "score": 13
     },
     {
-      "id": "5a1d4d13bca10b",
-      "category": "Norge",
-      "published": "29.10. 07:08",
-      "publishedISO": "2026-10-29T07:08:27+01:00",
-      "title": "Kraftig reduksjon i flyktningtall gir millionsmell for Vadsø",
-      "summary": "Vadsø kan miste opptil 40 millioner kroner neste år når IMDi kutter antallet flyktninger kraftig. Vadsø kommune og det politiske flertallet må nå finne ut hvor de skal kutte 30–40 millioner kroner i en allerede presset økonomi. Statlige tilskudd faller raskt, mens det tar tid å skalere ned tjenestene. – Vadsø er allerede i en krevende økonomisk situasjon med et underskudd på 130 millioner kroner.",
+      "id": "85f7c0d87bfd7e",
+      "category": "Økonomi",
+      "published": "29.10. 13:38",
+      "publishedISO": "2026-10-29T13:38:18+01:00",
+      "title": "Markant tek-fall fra start",
+      "summary": "Det var til dels markant nedgang i førhandelen på Wall Street torsdag ettermiddag. 14.30 norsk tid: Onsdag avsluttet de tre indeksene svakt opp etter at den amerikanske sentralbanken Federal Reserve (Fed) holdt styringsrenten uendret. Google-eier Alphabet stuper mer enn 12 prosent fra start etter at å ha lagt frem resultater for tredje kvartal onsdag kveld.",
       "keyPoints": [
-        "Vadsø kan miste opptil 40 millioner kroner neste år når IMDi kutter antallet flyktninger kraftig.",
-        "Vadsø kommune og det politiske flertallet må nå finne ut hvor de skal kutte 30–40 millioner kroner i en allerede presset økonomi.",
-        "Statlige tilskudd faller raskt, mens det tar tid å skalere ned tjenestene. – Vadsø er allerede i en krevende økonomisk situasjon med et underskudd på 130 millioner kroner.",
-        "Vadsø kommune har i mange år tatt imot og bosatt flyktninger, og har derfor bygget opp et stort apparat rundt flyktningene."
+        "Google-eier Alphabet stuper mer enn 12 prosent fra start etter at å ha lagt frem resultater for tredje kvartal onsdag kveld.",
+        "Det var til dels markant nedgang i førhandelen på Wall Street torsdag ettermiddag.",
+        "14.30 norsk tid: Onsdag avsluttet de tre indeksene svakt opp etter at den amerikanske sentralbanken Federal Reserve (Fed) holdt styringsrenten uendret.",
+        "Selskapet hadde inntekter på 127,5 milliarder dollar i perioden, mot 102,3 milliarder i tredje kvartal 2025."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kraftig-reduksjon-i-flyktningtall-gir-millionsmell-for-vadso-1.18067258",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/v-QMofH2--uM40J702moqgrlzbyAUFn28Uvrhb5rQ1-A.jpg",
-      "localImage": "assets/news/5a1d4d13bca10b.jpg",
+      "url": "https://e24.no/boers-og-finans/i/kv5plQ/gaar-mot-markant-tek-fall-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/64ec9d6c-9c50-3eed-a03c-e18ba7c1983e?fit=crop&h=675&upscale=true&w=1200&s=cad1ae10785babb3fdb8f470020a51a81ce8c53f",
+      "localImage": "assets/news/85f7c0d87bfd7e.jpg",
       "score": 13
     }
   ]
