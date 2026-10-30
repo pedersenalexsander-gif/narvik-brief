@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.10.2026 kl. 00:22",
-  "updatedISO": "2026-10-30T00:22:14.500125+01:00",
+  "updatedAt": "30.10.2026 kl. 03:49",
+  "updatedISO": "2026-10-30T03:49:31.378716+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yjzxv8C7zyk7g.jpg",
       "localImage": "assets/news/30d5f0d57a0a51.jpg",
-      "score": 22
-    },
-    {
-      "id": "363e9dcaad9b93",
-      "category": "Verden",
-      "published": "29.10. 13:49",
-      "publishedISO": "2026-10-29T13:49:17+01:00",
-      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-      "summary": "Dette er første gang i Xis 14 år med ledelse at plenumsdeltakelsen falt under 300. Rekorder på 33 medlemmer har blitt utvist fra Kinas kommunistparti da det avsluttet en stor årlig politisk samling, som hadde flest tomme seter noensinne. Mens nylige plenumsmøter fokuserte på økonomiske reformer eller sosiale og utviklingsspørsmål, var partidisiplin sentralt på denne ukens samling. Utover plenumet rapporterte Kinas øverste anti-korrupsjonsvakthund at 680 000 mennesker over hele partiapparatet har blitt disiplinert i løpet av de første ni månedene av dette året.",
-      "keyPoints": [
-        "Dette er første gang i Xis 14 år med ledelse at plenumsdeltakelsen falt under 300. Rekorder på 33 medlemmer har blitt utvist fra Kinas kommunistparti da det avsluttet en stor årlig politisk samling, som hadde flest tomme seter noensinne.",
-        "Mens nylige plenumsmøter fokuserte på økonomiske reformer eller sosiale og utviklingsspørsmål, var partidisiplin sentralt på denne ukens samling.",
-        "Utover plenumet rapporterte Kinas øverste anti-korrupsjonsvakthund at 680 000 mennesker over hele partiapparatet har blitt disiplinert i løpet av de første ni månedene av dette året.",
-        "De siste utvisningene bringer det totale antallet medlemmer som ble fjernet under Xis tredje periode til rekordhøye 51, opp fra 35 og fem i henholdsvis hans første og andre periode."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg",
-      "localImage": "assets/news/363e9dcaad9b93.jpg",
-      "score": 15
-    },
-    {
-      "id": "15429ea178a4ca",
-      "category": "USA",
-      "published": "29.10. 22:57",
-      "publishedISO": "2026-10-29T22:57:04+01:00",
-      "title": "Sir Patrick Stewart: The life of an iconic actor",
-      "summary": "Den ikoniske Star Trek-skuespilleren Sir Patrick Stewart er død, 86 år gammel. I en karriere som strakte seg over syv tiår, vant Sir Patrick flere Emmys og Golden Globes, en stjerne på Hollywood Walk of Fame og en ridderdom fra dronning Elizabeth II. Video, 00:03:01Sir Patrick Stewart: Livet til en ikonisk skuespiller Up Next.",
-      "keyPoints": [
-        "Iconic Star Trek actor Sir Patrick Stewart has died, aged 86.",
-        "Video, 00:03:01Sir Patrick Stewart: The life of an iconic actor Up Next.",
-        "I en karriere som strakte seg over syv tiår, vant Sir Patrick flere Emmys og Golden Globes, en stjerne på Hollywood Walk of Fame og en ridderdom fra dronning Elizabeth II.",
-        "Stewart døde i sitt hjem i Los Angeles 28. oktober etter å ha lidd av Alzheimers sykdom og Lewy Body Demens, ifølge en uttalelse delt på sosiale medier. \"Hans klangfulle stemme og enestående talent vil for alltid være synonymt med uutslettelige forestillinger i enhver sjanger,\" heter det i uttalelsen."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c6qxnlxn0n15o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3c0a/live/202db8a0-d3d8-11f1-b441-2b33b063138f.jpg",
-      "localImage": "assets/news/15429ea178a4ca.jpg",
-      "score": 13
+      "score": 21
     },
     {
       "id": "a614da7615b305",
@@ -85,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8b4849e4-578b-3850-87ee-3857a41feed0?fit=crop&h=675&upscale=true&w=1200&s=384197fa8c2f7f3cdae25ced5194e4a47ba456b7",
       "localImage": "assets/news/a614da7615b305.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "a9b817ec84bf55",
@@ -106,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/10bd6453-01ed-32de-b349-ea921079d224?fit=crop&h=675&upscale=true&w=1200&s=caaeba86cc0766d3b5689b16a4e85700c31a3ff6",
       "localImage": "assets/news/a9b817ec84bf55.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "241666625a83af",
@@ -127,7 +85,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/LnCeTvQllUa18oyRK7opTALAv_8PIbptprd6_5a_vOzQ.jpg",
       "localImage": "assets/news/241666625a83af.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "aad419151828d9",
@@ -148,48 +106,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5d7f40d9-692c-3fdf-8ef8-68061ae5d12d?fit=crop&h=675&upscale=true&w=1200&s=a9055584342e4808cda92367d41c1269d63fb970",
       "localImage": "assets/news/aad419151828d9.jpg",
-      "score": 16
-    },
-    {
-      "id": "40dbaa04d53603",
-      "category": "Økonomi",
-      "published": "28.10. 21:02",
-      "publishedISO": "2026-10-28T21:02:30+01:00",
-      "title": "Google-eier Alphabet dro inn 127,5 milliarder dollar",
-      "summary": "Alphabet hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor. Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor. I tredje kvartal var inntektene på 30,7 milliarder dollar, mot 15,1 milliarder i fjor.",
-      "keyPoints": [
-        "Alphabet hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor.",
-        "Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor.",
-        "På forhånd var det forventet inntekter på 127,9 milliarder dollar.",
-        "Resultat per aksje ble 2,12 dollar, noe som er klart under analytikernes forventninger om 2,99 dollar, skriver Bloomberg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/31ArnM/google-eier-alphabet-dro-inn-127-5-milliarder-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/10d12c5d-3eeb-3f87-92c1-28665cb6ea90?fit=crop&h=675&upscale=true&w=1200&s=aeade7a3cfd52a810885af805c9211e471086852",
-      "localImage": "assets/news/40dbaa04d53603.jpg",
-      "score": 16
-    },
-    {
-      "id": "55492517d81ed1",
-      "category": "Økonomi",
-      "published": "29.10. 15:57",
-      "publishedISO": "2026-10-29T15:57:39+01:00",
-      "title": "Oppsiktsvekkende klar kritikk",
-      "summary": "En som foreløpig har uttalt seg forsiktig, er etikkrådets leder, Svein Richard Brandtzæg. –⁠ Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe, skriver han i en kronikk i E24. Våren 2025 ble Svein Richard Brandtzæg ble gjenoppnevnt som leder frem til 2029. I august 2025 ble det avslørt at Oljefondet var investert i det israelske selskapet Bet Shemesh Engines Holdings som det israelske forsvarsdepartementet er en viktig kunde av.",
-      "keyPoints": [
-        "En som foreløpig har uttalt seg forsiktig, er etikkrådets leder, Svein Richard Brandtzæg. –⁠ Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe, skriver han i en kronikk i E24.",
-        "Våren 2025 ble Svein Richard Brandtzæg ble gjenoppnevnt som leder frem til 2029.",
-        "I august 2025 ble det avslørt at Oljefondet var investert i det israelske selskapet Bet Shemesh Engines Holdings som det israelske forsvarsdepartementet er en viktig kunde av.",
-        "I november 2025 vedtok Stortinget å stanse Etikkrådets anbefalinger om både utestengelse og observasjon mens hele regelverket ble gjennomgått."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/d7K7lA/oppsiktsvekkende-klar-kritikk",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ee503329-45c4-3ef2-8a58-dacae339fade?fit=crop&h=675&upscale=true&w=1200&s=6934ca3cb2c881519f25c9c308a4424162c2fb2f",
-      "localImage": "assets/news/55492517d81ed1.jpg",
       "score": 15
     },
     {
@@ -212,6 +128,90 @@
       "image": "https://akamai.vgc.no/v2/images/57becf72-e093-35db-86cb-a5b7db0f2a95?fit=crop&h=675&upscale=true&w=1200&s=554b3f458ff06bff3783f8bd8e20794df11abd42",
       "localImage": "assets/news/b58e7241818cea.jpg",
       "score": 15
+    },
+    {
+      "id": "5a0fced593d8e9",
+      "category": "Økonomi",
+      "published": "29.10. 13:39",
+      "publishedISO": "2026-10-29T13:39:11+01:00",
+      "title": "Hvis krigen kommer, trenger Norge at du går på jobb",
+      "summary": "Se for deg at det verste skjer – Norge angripes, det blir krig på norsk jord. Staten Norge er helt avhengig av at vi fortsetter å holde samfunnet i gang også ved alvorlige kriser og krig. I kriser trenger vi lærere, helsepersonell, butikkansatte, sjåfører, logistikkmedarbeidere, ingeniører og alle andre som bidrar til å holde samfunnet i gang.",
+      "keyPoints": [
+        "Staten Norge er helt avhengig av at vi fortsetter å holde samfunnet i gang også ved alvorlige kriser og krig.",
+        "I kriser trenger vi lærere, helsepersonell, butikkansatte, sjåfører, logistikkmedarbeidere, ingeniører og alle andre som bidrar til å holde samfunnet i gang.",
+        "Se for deg at det verste skjer – Norge angripes, det blir krig på norsk jord.",
+        "Den faktiske krisen blir aldri lik den vi har øvd på, men læringen gjør oss mer motstandsdyktige og bedre rustet til å håndtere det som kommer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/ylqgQJ/hvis-krigen-kommer-trenger-norge-at-du-gaar-paa-jobb",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c395d72f-45a8-37e6-ab0b-07f567893bbf?fit=crop&h=675&upscale=true&w=1200&s=7a60d047104e077562307936d0bd00adab96a8bd",
+      "localImage": "assets/news/5a0fced593d8e9.jpg",
+      "score": 15
+    },
+    {
+      "id": "40dbaa04d53603",
+      "category": "Økonomi",
+      "published": "28.10. 21:02",
+      "publishedISO": "2026-10-28T21:02:30+01:00",
+      "title": "Google-eier Alphabet dro inn 127,5 milliarder dollar",
+      "summary": "Alphabet hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor. Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor. I tredje kvartal var inntektene på 30,7 milliarder dollar, mot 15,1 milliarder i fjor.",
+      "keyPoints": [
+        "Alphabet hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor.",
+        "Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor.",
+        "På forhånd var det forventet inntekter på 127,9 milliarder dollar.",
+        "Resultat per aksje ble 2,12 dollar, noe som er klart under analytikernes forventninger om 2,99 dollar, skriver Bloomberg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/31ArnM/google-eier-alphabet-dro-inn-127-5-milliarder-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/10d12c5d-3eeb-3f87-92c1-28665cb6ea90?fit=crop&h=675&upscale=true&w=1200&s=aeade7a3cfd52a810885af805c9211e471086852",
+      "localImage": "assets/news/40dbaa04d53603.jpg",
+      "score": 15
+    },
+    {
+      "id": "55492517d81ed1",
+      "category": "Økonomi",
+      "published": "29.10. 15:57",
+      "publishedISO": "2026-10-29T15:57:39+01:00",
+      "title": "Oppsiktsvekkende klar kritikk",
+      "summary": "En som foreløpig har uttalt seg forsiktig, er etikkrådets leder, Svein Richard Brandtzæg. –⁠ Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe, skriver han i en kronikk i E24. Våren 2025 ble Svein Richard Brandtzæg ble gjenoppnevnt som leder frem til 2029. I august 2025 ble det avslørt at Oljefondet var investert i det israelske selskapet Bet Shemesh Engines Holdings som det israelske forsvarsdepartementet er en viktig kunde av.",
+      "keyPoints": [
+        "En som foreløpig har uttalt seg forsiktig, er etikkrådets leder, Svein Richard Brandtzæg. –⁠ Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe, skriver han i en kronikk i E24.",
+        "Våren 2025 ble Svein Richard Brandtzæg ble gjenoppnevnt som leder frem til 2029.",
+        "I august 2025 ble det avslørt at Oljefondet var investert i det israelske selskapet Bet Shemesh Engines Holdings som det israelske forsvarsdepartementet er en viktig kunde av.",
+        "I november 2025 vedtok Stortinget å stanse Etikkrådets anbefalinger om både utestengelse og observasjon mens hele regelverket ble gjennomgått."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/d7K7lA/oppsiktsvekkende-klar-kritikk",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ee503329-45c4-3ef2-8a58-dacae339fade?fit=crop&h=675&upscale=true&w=1200&s=6934ca3cb2c881519f25c9c308a4424162c2fb2f",
+      "localImage": "assets/news/55492517d81ed1.jpg",
+      "score": 14
+    },
+    {
+      "id": "729a1586e03732",
+      "category": "Økonomi",
+      "published": "28.10. 21:04",
+      "publishedISO": "2026-10-28T21:04:55+01:00",
+      "title": "Microsoft knaller til",
+      "summary": "Teknologikjempen Microsoft slår til med bedre resultater enn ventet i regnskapsmessig første kvartal, som dekker perioden fra 1. juli til 30. september. Nettoresultatet landet på 36,6 milliarder dollar, opp 32 prosent fra året før. – Resultatene oversteg forventningene på både inntekter, driftsresultat og resultat per aksje, sier finansdirektør Amy Hood i Microsoft i en melding onsdag. Samtidig omsatte Microsoft Cloud for 63,9 milliarder dollar, en vekst på 30 prosent, ifølge selskapet.",
+      "keyPoints": [
+        "Teknologikjempen Microsoft slår til med bedre resultater enn ventet i regnskapsmessig første kvartal, som dekker perioden fra 1. juli til 30. september.",
+        "Nettoresultatet landet på 36,6 milliarder dollar, opp 32 prosent fra året før. – Resultatene oversteg forventningene på både inntekter, driftsresultat og resultat per aksje, sier finansdirektør Amy Hood i Microsoft i en melding onsdag.",
+        "Samtidig omsatte Microsoft Cloud for 63,9 milliarder dollar, en vekst på 30 prosent, ifølge selskapet.",
+        "Microsoft delte ut 10,2 milliarder dollar til aksjonærene i kvartalet gjennom utbytte og tilbakekjøp av aksjer, ifølge dagens melding."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/zlpR61/microsoft-knaller-til",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a55ab970-2c68-3797-87e5-74bcf60b6457?fit=crop&h=675&upscale=true&w=1200&s=fc41018828ca872cb07df57ac0fca7ac5b954d41",
+      "localImage": "assets/news/729a1586e03732.jpg",
+      "score": 13
     }
   ]
 }
