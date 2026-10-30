@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.10.2026 kl. 17:17",
-  "updatedISO": "2026-10-30T17:17:40.543460+01:00",
+  "updatedAt": "30.10.2026 kl. 21:54",
+  "updatedISO": "2026-10-30T21:54:51.168921+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yjzxv8C7zyk7g.jpg",
       "localImage": "assets/news/30d5f0d57a0a51.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "451eab8ed9ade2",
-      "category": "Verden",
-      "published": "30.10. 13:20",
-      "publishedISO": "2026-10-30T13:20:04+01:00",
-      "title": "China denies allegations of spy operation targeting Nvidia CEO",
-      "summary": "Nvidia-sjef Jensen Huang skal ha utviklet et nært forhold til singaporske forretningskvinnen Alice Wang. Kina har avvist påstander om en kinesisk spionasjeaksjon rettet mot Nvidias administrerende direktør, Jensen Huang, og beskriver påstandene som «grunnløse spekulasjoner». Rapporten sa at Alice Huang, som ikke har noe forhold til Jensen Huang, var under etterforskning angående mulig avledning av avanserte Nvidia AI-brikker til Kina og hadde utviklet et nært forhold til Jensen. Han sa at kunder som Megaspeed \"mottar vanlig forretningsinformasjon - ikke sensitive Nvidia-forretningshemmeligheter - og null informasjon som er relevant for nasjonal sikkerhet.\" Han la til at påstandene om at det singaporeanske selskapet smuglet sjetonger til Kina \"ble grundig undersøkt og avkreftet i fjor\".",
+      "id": "178e15c9fad088",
+      "category": "Økonomi",
+      "published": "30.10. 09:33",
+      "publishedISO": "2026-10-30T09:33:01+01:00",
+      "title": "Kraftig AI-knekk på Wall Street: – Det markedet har fryktet",
+      "summary": "Investorene flytter penger fra AI-aksjer til blant annet mat- og drikkevareselskaper og energiaksjer, forklarer investeringsdirektør i Nordea, Robert Næss til E24. – Ofte når markedet faller, så faller alt. Ifølge Næss er det særlig selskaper knyttet til AI de selger. – Det markedet har fryktet, er at vi ikke skal bruke så mye penger på kunstig intelligens som de har trodd for kort tid siden. På torsdag falt Google-eier Alphabet mer enn 12 prosent på Wall Street, etter å ha sluppet tall kvelden før.",
       "keyPoints": [
-        "Nvidia-sjef Jensen Huang skal ha utviklet et nært forhold til singaporske forretningskvinnen Alice Wang. Kina har avvist påstander om en kinesisk spionasjeaksjon rettet mot Nvidias administrerende direktør, Jensen Huang, og beskriver påstandene som «grunnløse spekulasjoner».",
-        "Han sa at kunder som Megaspeed \"mottar vanlig forretningsinformasjon - ikke sensitive Nvidia-forretningshemmeligheter - og null informasjon som er relevant for nasjonal sikkerhet.\" Han la til at påstandene om at det singaporeanske selskapet smuglet sjetonger til Kina \"ble grundig undersøkt og avkreftet i fjor\".",
-        "Rapporten sa at Alice Huang, som ikke har noe forhold til Jensen Huang, var under etterforskning angående mulig avledning av avanserte Nvidia AI-brikker til Kina og hadde utviklet et nært forhold til Jensen.",
-        "Men Washington har begrenset eksporten av de mest avanserte Nvidia-brikkene til Kina siden 2022, med henvisning til nasjonale sikkerhetshensyn og risikoen for at teknologien kan styrke Kinas militære operasjoner."
+        "Ifølge Næss er det særlig selskaper knyttet til AI de selger. – Det markedet har fryktet, er at vi ikke skal bruke så mye penger på kunstig intelligens som de har trodd for kort tid siden.",
+        "På torsdag falt Google-eier Alphabet mer enn 12 prosent på Wall Street, etter å ha sluppet tall kvelden før.",
+        "Investorene flytter penger fra AI-aksjer til blant annet mat- og drikkevareselskaper og energiaksjer, forklarer investeringsdirektør i Nordea, Robert Næss til E24. – Ofte når markedet faller, så faller alt.",
+        "Flere analytikere peker på bekymring rundt de enorme AI-investeringene som nå gjøres, i ting som brikker og datasentre. – Markedet stiller ikke nødvendigvis spørsmål ved om AI-utbyggingen kan finansieres."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckgj9plnlxdeo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/05cc/live/95d8dca0-d447-11f1-97f9-27ebf08d99fe.jpg",
-      "localImage": "assets/news/451eab8ed9ade2.jpg",
-      "score": 25
+      "url": "https://e24.no/boers-og-finans/i/jvq2X0/ai-ras-paa-boersene-stiller-spoersmaal-ved-avkastningen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ca4acae0-14d0-3c4f-866a-723b8bba7543?fit=crop&h=675&upscale=true&w=1200&s=5654ea645eb59d4284a71d1d9e9d2f82685691d2",
+      "localImage": "assets/news/178e15c9fad088.jpg",
+      "score": 21
     },
     {
       "id": "506a3a588c542a",
@@ -64,70 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/24acfd12-9506-32a0-b990-abe9f8be7ef9?fit=crop&h=675&upscale=true&w=1200&s=e92b28c5c6ae4846e97ba1fd42c872f892a25811",
       "localImage": "assets/news/506a3a588c542a.jpg",
-      "score": 17
-    },
-    {
-      "id": "20f38474b7cefd",
-      "category": "Økonomi",
-      "published": "30.10. 15:03",
-      "publishedISO": "2026-10-30T15:03:55+01:00",
-      "title": "Feil medisin for leiemarkedet",
-      "summary": "Et forbud mot bindingstid fjerner ikke risikoen i leiemarkedet. Tilhengerne av forslaget har derfor et poeng når de påpeker at en leietaker kan havne i en vanskelig situasjon hvis hun er bundet til en bolig hun må flytte fra. Den handler om hvor mange boliger som faktisk tilbys på leiemarkedet.",
-      "keyPoints": [
-        "Et forbud mot bindingstid fjerner ikke risikoen i leiemarkedet.",
-        "Den handler om hvor mange boliger som faktisk tilbys på leiemarkedet.",
-        "Tilhengerne av forslaget har derfor et poeng når de påpeker at en leietaker kan havne i en vanskelig situasjon hvis hun er bundet til en bolig hun må flytte fra.",
-        "Intensjonen er god: Ingen skal bli sittende fast i en bolig når livet endrer seg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/AbAOGj/feil-medisin-for-leiemarkedet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7ba90758-8cd8-327c-9545-7bd2a21a3682?fit=crop&h=675&upscale=true&w=1200&s=89803c48dfb6f17192a3544f5e91e53f9416b663",
-      "localImage": "assets/news/20f38474b7cefd.jpg",
       "score": 16
-    },
-    {
-      "id": "421ecb09d735b1",
-      "category": "AI",
-      "published": "30.10. 12:57",
-      "publishedISO": "2026-10-30T12:57:33+01:00",
-      "title": "Binance hack - who is behind it, is my money safe and what we know so far",
-      "summary": "Binance, verdens største kryptobørs, har blitt rammet av det som antas å være det største kryptohacket noensinne på 6,3 milliarder dollar (4,7 milliarder pund). Binance sier at det begynner å gjenvinne kryptomidler etter at hacket på 6,3 milliarder dollar antas å være det største noensinne. Binance er verdens største kryptovalutautveksling etter handelsvolum, der folk kan kjøpe, selge og handle digitale valutaer, som Bitcoin, samt sette inn og ta dem ut. AI-drevet etterforskningsselskap TRM Labs sa i en rapport at flere elementer i Binance-angrepet lignet tidligere hendelser knyttet til territoriet, inkludert et hack på 1,5 milliarder dollar (1,1 milliarder pund) på ByBit-børsen i 2025.",
-      "keyPoints": [
-        "Binance sier at det begynner å gjenvinne kryptomidler etter at hacket på 6,3 milliarder dollar antas å være det største noensinne. Binance er verdens største kryptovalutautveksling etter handelsvolum, der folk kan kjøpe, selge og handle digitale valutaer, som Bitcoin, samt sette inn og ta dem ut.",
-        "Binance, verdens største kryptobørs, har blitt rammet av det som antas å være det største kryptohacket noensinne på 6,3 milliarder dollar (4,7 milliarder pund).",
-        "AI-drevet etterforskningsselskap TRM Labs sa i en rapport at flere elementer i Binance-angrepet lignet tidligere hendelser knyttet til territoriet, inkludert et hack på 1,5 milliarder dollar (1,1 milliarder pund) på ByBit-børsen i 2025.",
-        "Binance sa at de hadde jobbet med partnere for å fryse de berørte eiendelene, med rundt 3 milliarder dollar angivelig lokalisert så langt. \"Vi er fortsatt på vei mot den forventede tidslinjen for å gjenoppta uttakstjenesten om 45 timer,\" heter det."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn8eqg3npo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d7d6/live/c29ae8c0-d445-11f1-97f9-27ebf08d99fe.jpg",
-      "localImage": "assets/news/421ecb09d735b1.jpg",
-      "score": 17
-    },
-    {
-      "id": "91a91039c75dc9",
-      "category": "AI",
-      "published": "30.10. 12:35",
-      "publishedISO": "2026-10-30T12:35:51+01:00",
-      "title": "Fra Bitcoin til Binance: Krypto-begreper og hva de betyr",
-      "summary": "Fra de raskt stigende og fallende verdiene til Bitcoin til høyprofilerte ran som hacking av Binance, er verden av kryptovalutaer ofte i overskriftene. Så hvis du er usikker på hva blokkjeden eller en kryptoechange eller til og med selve kryptovalutaen er, her er noen nøkkelbegreper og hva de betyr. Mens mange kanskje sliter med de fineste punktene i krypto, har stort sett alle hørt om det mest kjente produktet: Bitcoin.",
-      "keyPoints": [
-        "Så hvis du er usikker på hva blokkjeden eller en kryptoechange eller til og med selve kryptovalutaen er, her er noen nøkkelbegreper og hva de betyr.",
-        "Fra de raskt stigende og fallende verdiene til Bitcoin til høyprofilerte ran som hacking av Binance, er verden av kryptovalutaer ofte i overskriftene.",
-        "Mens mange kanskje sliter med de fineste punktene i krypto, har stort sett alle hørt om det mest kjente produktet: Bitcoin.",
-        "Donald Trump har lovet å gjøre USA til \"verdens kryptohovedstad\" - på vei tilbake til hans tidligere påstand om at Bitcoin var en \"svindel\"."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cy5w2k5k5ylo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0a84/live/96e73740-609e-11f0-ba44-5934558aeaa1.jpg",
-      "localImage": "assets/news/91a91039c75dc9.jpg",
-      "score": 17
     },
     {
       "id": "afe170fc3e1360",
@@ -148,7 +85,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/yBt5M8ktEQoi9IsLbV1tug1F5O-vwAR-u9lBw_O8rsDg.jpg",
       "localImage": "assets/news/afe170fc3e1360.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "20f38474b7cefd",
+      "category": "Økonomi",
+      "published": "30.10. 15:03",
+      "publishedISO": "2026-10-30T15:03:55+01:00",
+      "title": "Feil medisin for leiemarkedet",
+      "summary": "Et forbud mot bindingstid fjerner ikke risikoen i leiemarkedet. Tilhengerne av forslaget har derfor et poeng når de påpeker at en leietaker kan havne i en vanskelig situasjon hvis hun er bundet til en bolig hun må flytte fra. Den handler om hvor mange boliger som faktisk tilbys på leiemarkedet.",
+      "keyPoints": [
+        "Et forbud mot bindingstid fjerner ikke risikoen i leiemarkedet.",
+        "Den handler om hvor mange boliger som faktisk tilbys på leiemarkedet.",
+        "Tilhengerne av forslaget har derfor et poeng når de påpeker at en leietaker kan havne i en vanskelig situasjon hvis hun er bundet til en bolig hun må flytte fra.",
+        "Intensjonen er god: Ingen skal bli sittende fast i en bolig når livet endrer seg."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/AbAOGj/feil-medisin-for-leiemarkedet",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7ba90758-8cd8-327c-9545-7bd2a21a3682?fit=crop&h=675&upscale=true&w=1200&s=89803c48dfb6f17192a3544f5e91e53f9416b663",
+      "localImage": "assets/news/20f38474b7cefd.jpg",
+      "score": 15
     },
     {
       "id": "9b28eef7b7e7e2",
@@ -169,49 +127,91 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/9KkyuCPhOFl-_TpPgXlnUgLEGZu-n03Pu1GGs9xOAMTQ.jpg",
       "localImage": "assets/news/9b28eef7b7e7e2.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "1c02a76528bfeb",
-      "category": "AI",
-      "published": "30.10. 10:33",
-      "publishedISO": "2026-10-30T10:33:51+01:00",
-      "title": "Crypto giant Binance hit by hack suspected to be largest in history",
-      "summary": "Kryptovalutagiganten Binance sa torsdag at 6,3 milliarder dollar (4,7 milliarder pund) av digitale eiendeler har blitt påvirket av det som antas å være det største kryptohacket noensinne. Check Points sjef for informasjonssikkerhet, Jayant Dave, sa at tapene estimert av Binance gjorde det til \"det største kryptotyveriet som er registrert\". To andre store kryptoplattformer, Tether og Circle, sa at de hadde frosset totalt rundt 2,4 milliarder dollar av eiendeler som svar på det potensielle Binance-hacket.",
-      "keyPoints": [
-        "Kryptovalutagiganten Binance sa torsdag at 6,3 milliarder dollar (4,7 milliarder pund) av digitale eiendeler har blitt påvirket av det som antas å være det største kryptohacket noensinne.",
-        "To andre store kryptoplattformer, Tether og Circle, sa at de hadde frosset totalt rundt 2,4 milliarder dollar av eiendeler som svar på det potensielle Binance-hacket.",
-        "Check Points sjef for informasjonssikkerhet, Jayant Dave, sa at tapene estimert av Binance gjorde det til \"det største kryptotyveriet som er registrert\".",
-        "Flere observatører av kryptoindustrien hadde flagget bekymringer om et potensielt hack på Binance timer før børsen bekreftet sikkerhetsproblemet."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg",
-      "localImage": "assets/news/1c02a76528bfeb.jpg",
-      "score": 16
-    },
-    {
-      "id": "e15a136d747ecd",
+      "id": "d99686384415f6",
       "category": "Økonomi",
-      "published": "30.10. 09:33",
-      "publishedISO": "2026-10-30T09:33:01+01:00",
-      "title": "AI-grøss på Wall Street",
-      "summary": "Slik ser det ut på Wall Street en halvtime etter åpning: Flere analytikere peker på bekymring rundt de enorme AI-investeringene som nå gjøres, i ting som brikker og datasentre. – Markedet stiller ikke nødvendigvis spørsmål ved om AI-utbyggingen kan finansieres. AI- og teknologiaksjer falt også markant på Wall Street torsdag kveld, og nedturen fortsatte i Asia fredag morgen. På torsdag falt Google-eier Alphabet mer enn 12 prosent på Wall Street, etter å ha sluppet tall kvelden før.",
+      "published": "30.10. 06:27",
+      "publishedISO": "2026-10-30T06:27:57+01:00",
+      "title": "Slo ned på Airbnb-utleie – klaget inn til Datatilsynet",
+      "summary": "Nå jobber Datatilsynet med en sak mot kommunen. – Vi har brukt Airbnb, AirDNA, Booking.com og så videre. Tilsynet mottok klagen den 17. desember i fjor, bekrefter juridisk seniorrådgiver Jan Nielsen i Datatilsynet. Karlstrøm etterlyser to ting fra myndighetene: I fjor slo kommunen ned på de største utleierne i kommunen.",
       "keyPoints": [
-        "Slik ser det ut på Wall Street en halvtime etter åpning: Flere analytikere peker på bekymring rundt de enorme AI-investeringene som nå gjøres, i ting som brikker og datasentre. – Markedet stiller ikke nødvendigvis spørsmål ved om AI-utbyggingen kan finansieres.",
-        "På torsdag falt Google-eier Alphabet mer enn 12 prosent på Wall Street, etter å ha sluppet tall kvelden før.",
-        "AI- og teknologiaksjer falt også markant på Wall Street torsdag kveld, og nedturen fortsatte i Asia fredag morgen.",
-        "Tokyo-børsen falt 2,1 prosent, mens Seoul-børsen endte ned 3,5 prosent."
+        "Karlstrøm etterlyser to ting fra myndighetene: I fjor slo kommunen ned på de største utleierne i kommunen.",
+        "Tilsynet mottok klagen den 17. desember i fjor, bekrefter juridisk seniorrådgiver Jan Nielsen i Datatilsynet.",
+        "Nå jobber Datatilsynet med en sak mot kommunen. – Vi har brukt Airbnb, AirDNA, Booking.com og så videre.",
+        "Vestlandskommunen er et av landets mest populære turistmål, men kommunen selv mener Airbnb-utleie har ført til en boligkrise, ifølge Bergens Tidende."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/jvq2X0/ai-ras-paa-boersene-stiller-spoersmaal-ved-avkastningen",
+      "url": "https://e24.no/naeringsliv/i/Qg856R/slo-ned-paa-airbnb-utleie-klaget-inn-til-datatilsynet",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ca4acae0-14d0-3c4f-866a-723b8bba7543?fit=crop&h=675&upscale=true&w=1200&s=5654ea645eb59d4284a71d1d9e9d2f82685691d2",
-      "localImage": "assets/news/e15a136d747ecd.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/58516d49-1e9a-3809-a8d7-9f8c5f87062f?fit=crop&h=675&upscale=true&w=1200&s=8bdc680137885163f84f000571aa62392724cb90",
+      "localImage": "assets/news/d99686384415f6.jpg",
+      "score": 14
+    },
+    {
+      "id": "da207b40553295",
+      "category": "Norge",
+      "published": "30.10. 20:58",
+      "publishedISO": "2026-10-30T20:58:45+01:00",
+      "title": "Bodø/Glimt-Viking i seriefinalen",
+      "summary": "Bodø/Glimts seier 3-2 i «seriefinalen» gjør at det er helt likt mellom de to topplagene. Tripic kom i søkelyset både da han fikk et straffespark som senere ble fjernet – og da han slengte hånden opp i ansiktet på Glimts Ole Didrik Blomberg. – Alle ser at det er en soleklar albue mot Blomberg, sier Jens Petter Hauge til TV 2. – Du vet hvem som gjør det og at han gjør det 100 prosent med vilje. Bodø/Glimt stupte ut fra startblokkene og ledet 2–0 etter et kvarter etter selvmål av Henrik Falchener og deretter samspilte Andreas Helmersen med tverrliggeren og la på til 2–0.",
+      "keyPoints": [
+        "Bodø/Glimts seier 3-2 i «seriefinalen» gjør at det er helt likt mellom de to topplagene.",
+        "Tripic kom i søkelyset både da han fikk et straffespark som senere ble fjernet – og da han slengte hånden opp i ansiktet på Glimts Ole Didrik Blomberg. – Alle ser at det er en soleklar albue mot Blomberg, sier Jens Petter Hauge til TV 2. – Du vet hvem som gjør det og at han gjør det 100 prosent med vilje.",
+        "Bodø/Glimt stupte ut fra startblokkene og ledet 2–0 etter et kvarter etter selvmål av Henrik Falchener og deretter samspilte Andreas Helmersen med tverrliggeren og la på til 2–0.",
+        "Tittelforsvarer Viking kunne nærmest ha avgjort med seier i Bodø, men Glimt ville noe annet."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/bodo_glimt-viking-i-seriefinalen-1.18069832",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/kMCGdm_hEY5ug4M2-cjYcgo2H_w9acnZBtnTp6ddqmFw.jpg",
+      "localImage": "assets/news/da207b40553295.webp",
+      "score": 13
+    },
+    {
+      "id": "479f2e4ec17091",
+      "category": "Norge",
+      "published": "30.10. 19:31",
+      "publishedISO": "2026-10-30T19:31:01+01:00",
+      "title": "Hammerfest kommune søker etter feil – i mellomtiden må supplybåter bunkre vann i Alta",
+      "summary": "I starten av oktober opplyste Kronstadposten at flere supplybåter var observert i havna i Alta. – De har bare vært og hentet vann. Bedriften har 150 ansatte (2017). – Hammerfest kommune samarbeider med Polarbase som også har gjort flere tiltak på sitt nett, skriver Næss. Hammerfest havn opplyser at i tillegg til Alta, så har blant annet havnene i Honningsvåg og Tromsø blitt brukt for å bunkre vann i påvente av at prøvene i Hammerfest holder den vannkvaliteten båtene trenger.",
+      "keyPoints": [
+        "Hammerfest havn opplyser at i tillegg til Alta, så har blant annet havnene i Honningsvåg og Tromsø blitt brukt for å bunkre vann i påvente av at prøvene i Hammerfest holder den vannkvaliteten båtene trenger.",
+        "I starten av oktober opplyste Kronstadposten at flere supplybåter var observert i havna i Alta. – De har bare vært og hentet vann.",
+        "Bedriften har 150 ansatte (2017). – Hammerfest kommune samarbeider med Polarbase som også har gjort flere tiltak på sitt nett, skriver Næss.",
+        "I flere uker har skip måtte seile ut av Hammerfest for å fylle tankene med vann."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/hammerfest-kommune-soker-etter-feil-_-i-mellomtiden-ma-supplybater-bunkre-vann-i-alta-1.18069788",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/K3Q90IlH9FBfAkryTQwp5AjQDTyAzr6VLGfe5bcYIAKA.png",
+      "localImage": "assets/news/479f2e4ec17091.jpg",
+      "score": 13
+    },
+    {
+      "id": "5f8c8294f4dbd4",
+      "category": "Norge",
+      "published": "30.10. 18:09",
+      "publishedISO": "2026-10-30T18:09:48+01:00",
+      "title": "Tønsberg: Ung MC-fører livstruende skadet",
+      "summary": "ALVORLIG ULYKKE: En ung MC fører er flydd til Ullevål sykehus etter en kollisjon med en varebil. Nødetatene ble varslet om ulykken i Tønsberg klokka 17.55 fredag kveld. MC-føreren er flydd til Ullevål sykehus med luftambulanse, opplyser operasjonsleder Espen Reite klokka 19.05.",
+      "keyPoints": [
+        "Nødetatene ble varslet om ulykken i Tønsberg klokka 17.55 fredag kveld.",
+        "ALVORLIG ULYKKE: En ung MC fører er flydd til Ullevål sykehus etter en kollisjon med en varebil.",
+        "MC-føreren er flydd til Ullevål sykehus med luftambulanse, opplyser operasjonsleder Espen Reite klokka 19.05.",
+        "En mann i slutten av tenårene er flydd til Ullevål sykehus etter å ha kollidert med en varebil, opplyser politiet."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/trafikkulykke-i-tonsberg-1.18069759",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/332GN-Dwh8tYqsmayiJdsgs8a_aJgCh_AM5Y4CXOPBgQ.jpg",
+      "localImage": "assets/news/5f8c8294f4dbd4.jpg",
+      "score": 13
     }
   ]
 }
