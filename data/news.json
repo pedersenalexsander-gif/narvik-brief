@@ -1,6 +1,6 @@
 {
-  "updatedAt": "30.10.2026 kl. 03:49",
-  "updatedISO": "2026-10-30T03:49:31.378716+01:00",
+  "updatedAt": "30.10.2026 kl. 10:42",
+  "updatedISO": "2026-10-30T10:42:45.147967+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,154 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yjzxv8C7zyk7g.jpg",
       "localImage": "assets/news/30d5f0d57a0a51.jpg",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "a614da7615b305",
-      "category": "Økonomi",
-      "published": "29.10. 21:02",
-      "publishedISO": "2026-10-29T21:02:10+01:00",
-      "title": "Amazon fikk inntekter på 201,9 milliarder dollar",
-      "summary": "Netthandel- og AI-selskapet Amazon legger frem regnskapet for tredje kvartal: Selskapet beholder utsiktene om investeringer på rundt 220 milliarder dollar. Den frie kontantstrømmen de siste tolv månedene var minus 42,4 milliarder dollar, mot pluss 14,8 milliarder i samme periode året før. Selskapet forklarer nedgangen i fri kontantstrøm hovedsakelig med økte investeringer i eiendom og utstyr på 77 milliarder dollar, først og fremst knyttet til AI-datasentre, skriver Bloomberg og CNBC.",
+      "id": "363e9dcaad9b93",
+      "category": "Verden",
+      "published": "30.10. 04:24",
+      "publishedISO": "2026-10-30T04:24:12+01:00",
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "summary": "Dette er første gang i Xis 14 år med ledelse at plenumsdeltakelsen falt under 300. Rekorder på 33 medlemmer har blitt utvist fra Kinas kommunistparti da det avsluttet en stor årlig politisk samling, som hadde flest tomme seter noensinne. Mens nylige plenumsmøter fokuserte på økonomiske reformer eller sosiale og utviklingsspørsmål, var partidisiplin sentralt på denne ukens samling. Utover plenumet rapporterte Kinas øverste anti-korrupsjonsvakthund at 680 000 mennesker over hele partiapparatet har blitt disiplinert i løpet av de første ni månedene av dette året.",
       "keyPoints": [
-        "Netthandel- og AI-selskapet Amazon legger frem regnskapet for tredje kvartal: Selskapet beholder utsiktene om investeringer på rundt 220 milliarder dollar.",
-        "Selskapet forklarer nedgangen i fri kontantstrøm hovedsakelig med økte investeringer i eiendom og utstyr på 77 milliarder dollar, først og fremst knyttet til AI-datasentre, skriver Bloomberg og CNBC.",
-        "Den frie kontantstrømmen de siste tolv månedene var minus 42,4 milliarder dollar, mot pluss 14,8 milliarder i samme periode året før.",
-        "Investorene har vært opptatt av om veksten i skyvirksomheten Amazon Web Services (AWS) kan forsvare selskapets store investeringer i AI-infrastruktur, ifølge Bloomberg."
+        "Dette er første gang i Xis 14 år med ledelse at plenumsdeltakelsen falt under 300. Rekorder på 33 medlemmer har blitt utvist fra Kinas kommunistparti da det avsluttet en stor årlig politisk samling, som hadde flest tomme seter noensinne.",
+        "Mens nylige plenumsmøter fokuserte på økonomiske reformer eller sosiale og utviklingsspørsmål, var partidisiplin sentralt på denne ukens samling.",
+        "Utover plenumet rapporterte Kinas øverste anti-korrupsjonsvakthund at 680 000 mennesker over hele partiapparatet har blitt disiplinert i løpet av de første ni månedene av dette året.",
+        "De siste utvisningene bringer det totale antallet medlemmer som ble fjernet under Xis tredje periode til rekord 51, opp fra 35 og fem i henholdsvis hans første og andre periode."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/oKqBPm/amazon-fikk-inntekter-paa-201-9-milliarder-dollar-i-tredje-kvartal",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/8b4849e4-578b-3850-87ee-3857a41feed0?fit=crop&h=675&upscale=true&w=1200&s=384197fa8c2f7f3cdae25ced5194e4a47ba456b7",
-      "localImage": "assets/news/a614da7615b305.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3573/live/24bff950-d388-11f1-b5f4-fd541fd21001.jpg",
+      "localImage": "assets/news/363e9dcaad9b93.jpg",
       "score": 16
     },
     {
-      "id": "a9b817ec84bf55",
-      "category": "Økonomi",
-      "published": "29.10. 21:12",
-      "publishedISO": "2026-10-29T21:12:34+01:00",
-      "title": "Intel-aksjen stuper i etterhandelen",
-      "summary": "I markedet reagerer investorene med å sende Intel-aksjen ned 20 prosent i etterhandelen. Intel venter nå at inntektene vil bli på 15 til 16 milliarder dollar i fjerde kvartal, med et resultat per aksje på 0,10 dollar. Her hadde analytikerne hadde ventet inntekter på 16,54 milliarder dollar og et resultat per aksje på 0,28 dollar per aksje.",
+      "id": "ec9c921153f08c",
+      "category": "USA",
+      "published": "30.10. 09:55",
+      "publishedISO": "2026-10-30T09:55:01+01:00",
+      "title": "\"Respektert og elsket\": Hyllesten strømmer inn for Sir Patrick Stewart",
+      "summary": "Se: Livet til den legendariske skuespilleren Sir Patrick Stewart Sir Ian McKellen har ledet hyllest til Sir Patrick Stewart etter hans død i en alder av 86, og kalte ham \"den mest respekterte og elskede skuespilleren i sin generasjon\". Hyllesten til den anerkjente britiske skuespilleren har strømmet inn siden hans død i hans hjem i Los Angeles etter at «en kort og gripende reise» med Alzheimers sykdom og Lewy Body Demens ble kunngjort torsdag. \"Han bar hjertet på ermet, noe som gjorde ham til en mann å stole på, å beundre og, i mitt tilfelle, elske,\" sa Sir Ian, Sir Patricks X-Men-medspiller. Han la til at mens USA hadde blitt Sir Patricks \"adopterte hjem\", \"forlot han aldri sitt opphav\" da han vokste opp i Yorkshire, og sa \"den stolteste prestasjonen til den mest respekterte og elskede skuespilleren i sin generasjon på hver side av Atlanterhavet, var hans utnevnelse som kansler ved Huddersfield University\".",
       "keyPoints": [
-        "I markedet reagerer investorene med å sende Intel-aksjen ned 20 prosent i etterhandelen.",
-        "Intel venter nå at inntektene vil bli på 15 til 16 milliarder dollar i fjerde kvartal, med et resultat per aksje på 0,10 dollar.",
-        "Her hadde analytikerne hadde ventet inntekter på 16,54 milliarder dollar og et resultat per aksje på 0,28 dollar per aksje.",
-        "I tredje kvartal landet inntektene på 16,5 milliarder dollar, opp 21 prosent fra 13,7 milliarder dollar i samme kvartal i fjor."
+        "Se: Livet til den legendariske skuespilleren Sir Patrick Stewart Sir Ian McKellen har ledet hyllest til Sir Patrick Stewart etter hans død i en alder av 86, og kalte ham \"den mest respekterte og elskede skuespilleren i sin generasjon\".",
+        "Han la til at mens USA hadde blitt Sir Patricks \"adopterte hjem\", \"forlot han aldri sitt opphav\" da han vokste opp i Yorkshire, og sa \"den stolteste prestasjonen til den mest respekterte og elskede skuespilleren i sin generasjon på hver side av Atlanterhavet, var hans utnevnelse som kansler ved Huddersfield University\".",
+        "Hyllesten til den anerkjente britiske skuespilleren har strømmet inn siden hans død i hans hjem i Los Angeles etter at «en kort og gripende reise» med Alzheimers sykdom og Lewy Body Demens ble kunngjort torsdag. \"Han bar hjertet på ermet, noe som gjorde ham til en mann å stole på, å beundre og, i mitt tilfelle, elske,\" sa Sir Ian, Sir Patricks X-Men-medspiller.",
+        "Sir Patrick Stewart: Skuespiller som beveget seg uanstrengt mellom Star Trek og Shakespeare William Shatner, som også ledet SS Enterprise i Star Trek, sa at Sir Patrick brakte \"intelligens, nåde og en dyp følelse av menneskelighet til alt han gjorde\". «Kaptein Picard sto for det beste av oss og det samme gjorde mannen som spilte ham."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/baa8/live/5fe73760-d440-11f1-93e1-3b657b665bcf.jpg",
+      "localImage": "assets/news/ec9c921153f08c.jpg",
+      "score": 13
+    },
+    {
+      "id": "88a9b415b6f981",
+      "category": "Økonomi",
+      "published": "30.10. 09:33",
+      "publishedISO": "2026-10-30T09:33:01+01:00",
+      "title": "AI-ras på børsene: – Stiller spørsmål ved avkastningen",
+      "summary": "Flere analytikere peker på bekymring rundt de enorme AI-investeringene som nå gjøres, i ting som brikker og datasentre. – Markedet stiller ikke nødvendigvis spørsmål ved om AI-utbyggingen kan finansieres. Det stiller i økende grad spørsmål ved om aksjonærene vil sitte igjen med tilstrekkelig avkastning fra de enorme midlene som brukes, sier Chris Weston, analytiker hos Pepperstone, til Reuters. Etterspørselen etter AI i seg selv er det få som er skeptiske til. – Markedet stiller i mye større grad spørsmål ved tempoet i implementeringen av investeringer, og flaskehalser er i ferd med å bli tydeligere, sier seniorstrateg Ecaterina Bigos hos BNP Paribas Asset Management til Financial Times.",
+      "keyPoints": [
+        "Flere analytikere peker på bekymring rundt de enorme AI-investeringene som nå gjøres, i ting som brikker og datasentre. – Markedet stiller ikke nødvendigvis spørsmål ved om AI-utbyggingen kan finansieres.",
+        "Det stiller i økende grad spørsmål ved om aksjonærene vil sitte igjen med tilstrekkelig avkastning fra de enorme midlene som brukes, sier Chris Weston, analytiker hos Pepperstone, til Reuters.",
+        "Etterspørselen etter AI i seg selv er det få som er skeptiske til. – Markedet stiller i mye større grad spørsmål ved tempoet i implementeringen av investeringer, og flaskehalser er i ferd med å bli tydeligere, sier seniorstrateg Ecaterina Bigos hos BNP Paribas Asset Management til Financial Times.",
+        "I Europa, der teknologi utgjør mindre av markedet, er det blandet og mindre utslag på børsene fredag formiddag."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/GrV84x/intel-straffes-hardt-etter-tallslipp-aksjen-stuper-20-prosent-i-etterhandelen",
+      "url": "https://e24.no/boers-og-finans/i/jvq2X0/ai-ras-paa-boersene-stiller-spoersmaal-ved-avkastningen",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/10bd6453-01ed-32de-b349-ea921079d224?fit=crop&h=675&upscale=true&w=1200&s=caaeba86cc0766d3b5689b16a4e85700c31a3ff6",
-      "localImage": "assets/news/a9b817ec84bf55.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/b39aa1af-e319-3a27-bea7-b0ab7aabe92f?fit=crop&h=675&upscale=true&w=1200&s=8bbda66191261241280b1897adc88f4d867931eb",
+      "localImage": "assets/news/88a9b415b6f981.jpg",
+      "score": 20
+    },
+    {
+      "id": "506a3a588c542a",
+      "category": "Økonomi",
+      "published": "30.10. 10:01",
+      "publishedISO": "2026-10-30T10:01:06+01:00",
+      "title": "Norges Bank holder kronesalget uendret",
+      "summary": "Norges Bank skal totalt sett selge 176 millioner kroner daglig i november, ifølge en melding fra sentralbanken. Norges Bank har vedtatt at det skal overføres 29,4 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025. Wilhelmsen hadde ventet at Norges Bank skulle øke kronesalget fra november. – Norges Bank har rett og slett kjøpt altfor mye kroner i år, gitt olje- og gassprisutviklingen, sa sjeføkonomen til E24 tidligere denne uken.",
+      "keyPoints": [
+        "Wilhelmsen hadde ventet at Norges Bank skulle øke kronesalget fra november. – Norges Bank har rett og slett kjøpt altfor mye kroner i år, gitt olje- og gassprisutviklingen, sa sjeføkonomen til E24 tidligere denne uken.",
+        "Norges Bank skal totalt sett selge 176 millioner kroner daglig i november, ifølge en melding fra sentralbanken.",
+        "Norges Bank har vedtatt at det skal overføres 29,4 milliarder kroner til staten i utbytte og renter i 2026, basert på resultatet for 2025.",
+        "Underskuddet ble justert ned med 16,4 mrd. kroner, noe som isolert sett øker behovet for at Norges Bank må kjøpe mer valuta på vegne av staten. – Vi har lagt til grunn at dette var kjent for Norges Bank ved beregningene av valutakjøpene i oktober, og venter uendrede daglige kjøp."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/eGVrmM/norges-bank-holder-kronesalget-uendret-paa-176-millioner-kroner-daglig-i-november",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/24acfd12-9506-32a0-b990-abe9f8be7ef9?fit=crop&h=675&upscale=true&w=1200&s=e92b28c5c6ae4846e97ba1fd42c872f892a25811",
+      "localImage": "assets/news/506a3a588c542a.jpg",
+      "score": 18
+    },
+    {
+      "id": "1c02a76528bfeb",
+      "category": "AI",
+      "published": "30.10. 10:33",
+      "publishedISO": "2026-10-30T10:33:51+01:00",
+      "title": "Crypto giant Binance hit by hack suspected to be largest in history",
+      "summary": "Kryptovalutagiganten Binance sa torsdag at 6,3 milliarder dollar (4,7 milliarder pund) av digitale eiendeler har blitt påvirket av det som antas å være det største kryptohacket noensinne. Check Points sjef for informasjonssikkerhet, Jayant Dave, sa at tapene estimert av Binance gjorde det til \"det største kryptotyveriet som er registrert\". To andre store kryptoplattformer, Tether og Circle, sa at de hadde frosset totalt rundt 2,4 milliarder dollar av eiendeler som svar på det potensielle Binance-hacket.",
+      "keyPoints": [
+        "Kryptovalutagiganten Binance sa torsdag at 6,3 milliarder dollar (4,7 milliarder pund) av digitale eiendeler har blitt påvirket av det som antas å være det største kryptohacket noensinne.",
+        "To andre store kryptoplattformer, Tether og Circle, sa at de hadde frosset totalt rundt 2,4 milliarder dollar av eiendeler som svar på det potensielle Binance-hacket.",
+        "Check Points sjef for informasjonssikkerhet, Jayant Dave, sa at tapene estimert av Binance gjorde det til \"det største kryptotyveriet som er registrert\".",
+        "Flere observatører av kryptoindustrien hadde flagget bekymringer om et potensielt hack på Binance timer før børsen bekreftet sikkerhetsproblemet."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg",
+      "localImage": "assets/news/1c02a76528bfeb.jpg",
+      "score": 17
+    },
+    {
+      "id": "e500e4d3c023c6",
+      "category": "Økonomi",
+      "published": "30.10. 09:02",
+      "publishedISO": "2026-10-30T09:02:41+01:00",
+      "title": "Oslo Børs vaker rundt rekordnivåer",
+      "summary": "Hovedindeksen på Oslo Børs har svingte mellom å være svakt i pluss og minus i tidlig handel fredag. Oljeprisen (brent spot) ligger på i overkant av 112 dollar per fat, som er en oppgang på rundt 1,1 prosent siden midnatt. Slik beveges noen av de mest omsatte Oslo Børs-aksjene: Følg utviklingen i enkeltaksjer løpende i E24s børstjeneste.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs har svingte mellom å være svakt i pluss og minus i tidlig handel fredag.",
+        "Oljeprisen (brent spot) ligger på i overkant av 112 dollar per fat, som er en oppgang på rundt 1,1 prosent siden midnatt.",
+        "Slik beveges noen av de mest omsatte Oslo Børs-aksjene: Følg utviklingen i enkeltaksjer løpende i E24s børstjeneste.",
+        "Christensen i Fearnley Securities trekker frem i et notat at Scatec venter en smell på 80 millioner kroner på Filippinene, som følge av at markedet for tjenester som bidrar til å stabilisere strømnettet er suspendert, en nyhet selskapet omtalte i resultatvarselet nylig."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/KrVmJ5/oslo-boers-stiger",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ee0eb631-eaeb-3001-9f26-28248306bdcf?fit=crop&h=675&upscale=true&w=1200&s=cc47e86c2406c33b48df9bb3607ecd4f7e3dea48",
+      "localImage": "assets/news/e500e4d3c023c6.jpg",
+      "score": 17
+    },
+    {
+      "id": "d99686384415f6",
+      "category": "Økonomi",
+      "published": "30.10. 06:27",
+      "publishedISO": "2026-10-30T06:27:57+01:00",
+      "title": "Slo ned på Airbnb-utleie – klaget inn til Datatilsynet",
+      "summary": "Nå jobber Datatilsynet med en sak mot kommunen. – Vi har brukt Airbnb, AirDNA, Booking.com og så videre. Tilsynet mottok klagen den 17. desember i fjor, bekrefter juridisk seniorrådgiver Jan Nielsen i Datatilsynet. Karlstrøm etterlyser to ting fra myndighetene: I fjor slo kommunen ned på de største utleierne i kommunen.",
+      "keyPoints": [
+        "Karlstrøm etterlyser to ting fra myndighetene: I fjor slo kommunen ned på de største utleierne i kommunen.",
+        "Tilsynet mottok klagen den 17. desember i fjor, bekrefter juridisk seniorrådgiver Jan Nielsen i Datatilsynet.",
+        "Nå jobber Datatilsynet med en sak mot kommunen. – Vi har brukt Airbnb, AirDNA, Booking.com og så videre.",
+        "Vestlandskommunen er et av landets mest populære turistmål, men kommunen selv mener Airbnb-utleie har ført til en boligkrise, ifølge Bergens Tidende."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/Qg856R/slo-ned-paa-airbnb-utleie-klaget-inn-til-datatilsynet",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/58516d49-1e9a-3809-a8d7-9f8c5f87062f?fit=crop&h=675&upscale=true&w=1200&s=8bdc680137885163f84f000571aa62392724cb90",
+      "localImage": "assets/news/d99686384415f6.jpg",
+      "score": 17
     },
     {
       "id": "241666625a83af",
@@ -85,133 +190,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/LnCeTvQllUa18oyRK7opTALAv_8PIbptprd6_5a_vOzQ.jpg",
       "localImage": "assets/news/241666625a83af.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "aad419151828d9",
-      "category": "Økonomi",
-      "published": "29.10. 16:03",
-      "publishedISO": "2026-10-29T16:03:14+01:00",
-      "title": "Datasentre: – Tror det er klokt at Stortinget venter",
-      "summary": "Nå må vi trekke i nødbremsen og stanse etableringen av flere datasentre til vi har nye regler på plass, sier Moxnes i en kommentar. – Rødt skal nå fremme hasteforslag om å stanse nye datasentre, og håper stortingsflertallet kan samle seg om å støtte det, sier han. – Det kommer initiativ fra Stortinget om å stanse datasentre. Jeg tror det er klokt at Stortinget venter på det, sånn at vi kan ta beslutning som står seg over tid også, sier Aasland. – Vi ønsker å tiltrekke oss noen investeringer som er viktige for nasjonal sikkerhet og så videre. NVE-sjef Kjetil Lund tror ikke at man slipper å bygge ut mer kraft og nett ved å si nei til datasentre. – Vi trenger å bygge ut mer kraft uavhengig av datasentre.",
+      "id": "5390b0747cbbfd",
+      "category": "Norge",
+      "published": "30.10. 05:24",
+      "publishedISO": "2026-10-30T05:24:25+01:00",
+      "title": "Kan sikre 70 arbeidsplasser",
+      "summary": "Arleth mener selskapet kan sikre 70 arbeidsplasser. – Vi trenger en industrihub med plassering og strøm. Lederen sier at en ny batterifabrikk kan sikre 70 arbeidsplasser. – Og så snart vi har en industrihub, vil det vokse. I august inngikk selskapet en intensjonsavtale om å overta driften av fabrikken Morrow Batteries, etter at fabrikken gikk konkurs i mai. – Jeg er forsiktig optimist etter å ha hørt dette.",
       "keyPoints": [
-        "Jeg tror det er klokt at Stortinget venter på det, sånn at vi kan ta beslutning som står seg over tid også, sier Aasland. – Vi ønsker å tiltrekke oss noen investeringer som er viktige for nasjonal sikkerhet og så videre.",
-        "Nå må vi trekke i nødbremsen og stanse etableringen av flere datasentre til vi har nye regler på plass, sier Moxnes i en kommentar. – Rødt skal nå fremme hasteforslag om å stanse nye datasentre, og håper stortingsflertallet kan samle seg om å støtte det, sier han. – Det kommer initiativ fra Stortinget om å stanse datasentre.",
-        "NVE-sjef Kjetil Lund tror ikke at man slipper å bygge ut mer kraft og nett ved å si nei til datasentre. – Vi trenger å bygge ut mer kraft uavhengig av datasentre.",
-        "Flere partier vil stanse datasentre, men energiministeren ber dem vente. –⁠ Bør ha gjennomtenkte, gode løsninger. – Datasentre er i vinden som aldri før, sier energiminister Terje Aasland (Ap) i en tale på NVEs energidager på Fornebu utenfor Oslo."
+        "Arleth mener selskapet kan sikre 70 arbeidsplasser. – Vi trenger en industrihub med plassering og strøm.",
+        "Lederen sier at en ny batterifabrikk kan sikre 70 arbeidsplasser. – Og så snart vi har en industrihub, vil det vokse.",
+        "I august inngikk selskapet en intensjonsavtale om å overta driften av fabrikken Morrow Batteries, etter at fabrikken gikk konkurs i mai. – Jeg er forsiktig optimist etter å ha hørt dette.",
+        "Torsdag fortalte selskapet om sine planer for en ny batterifabrikk i Arendal i et åpent møte for politikerne."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/PgV5rb/datasentre-tror-det-er-klokt-at-stortinget-venter",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5d7f40d9-692c-3fdf-8ef8-68061ae5d12d?fit=crop&h=675&upscale=true&w=1200&s=a9055584342e4808cda92367d41c1269d63fb970",
-      "localImage": "assets/news/aad419151828d9.jpg",
-      "score": 15
-    },
-    {
-      "id": "b58e7241818cea",
-      "category": "Økonomi",
-      "published": "29.10. 14:15",
-      "publishedISO": "2026-10-29T14:15:16+01:00",
-      "title": "Den europeiske sentralbanken holder renten uendret",
-      "summary": "Den europeiske sentralbanken (ESB) holder renten i eurosonen uendret på 2,5 prosent. Det var bredt ventet at renten skulle få ligge i ro denne gangen. ESB har satt opp renten to ganger tidligere i år, i juni og på forrige møte i september.",
-      "keyPoints": [
-        "Den europeiske sentralbanken (ESB) holder renten i eurosonen uendret på 2,5 prosent.",
-        "ESB har satt opp renten to ganger tidligere i år, i juni og på forrige møte i september.",
-        "Det var bredt ventet at renten skulle få ligge i ro denne gangen.",
-        "Sentralbanken skriver at de fulle effektene av energisjokket fortsetter å utspille seg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/ElVzx5/den-europeiske-sentralbanken-holder-renten-uendret",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/57becf72-e093-35db-86cb-a5b7db0f2a95?fit=crop&h=675&upscale=true&w=1200&s=554b3f458ff06bff3783f8bd8e20794df11abd42",
-      "localImage": "assets/news/b58e7241818cea.jpg",
-      "score": 15
-    },
-    {
-      "id": "5a0fced593d8e9",
-      "category": "Økonomi",
-      "published": "29.10. 13:39",
-      "publishedISO": "2026-10-29T13:39:11+01:00",
-      "title": "Hvis krigen kommer, trenger Norge at du går på jobb",
-      "summary": "Se for deg at det verste skjer – Norge angripes, det blir krig på norsk jord. Staten Norge er helt avhengig av at vi fortsetter å holde samfunnet i gang også ved alvorlige kriser og krig. I kriser trenger vi lærere, helsepersonell, butikkansatte, sjåfører, logistikkmedarbeidere, ingeniører og alle andre som bidrar til å holde samfunnet i gang.",
-      "keyPoints": [
-        "Staten Norge er helt avhengig av at vi fortsetter å holde samfunnet i gang også ved alvorlige kriser og krig.",
-        "I kriser trenger vi lærere, helsepersonell, butikkansatte, sjåfører, logistikkmedarbeidere, ingeniører og alle andre som bidrar til å holde samfunnet i gang.",
-        "Se for deg at det verste skjer – Norge angripes, det blir krig på norsk jord.",
-        "Den faktiske krisen blir aldri lik den vi har øvd på, men læringen gjør oss mer motstandsdyktige og bedre rustet til å håndtere det som kommer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/ylqgQJ/hvis-krigen-kommer-trenger-norge-at-du-gaar-paa-jobb",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c395d72f-45a8-37e6-ab0b-07f567893bbf?fit=crop&h=675&upscale=true&w=1200&s=7a60d047104e077562307936d0bd00adab96a8bd",
-      "localImage": "assets/news/5a0fced593d8e9.jpg",
-      "score": 15
-    },
-    {
-      "id": "40dbaa04d53603",
-      "category": "Økonomi",
-      "published": "28.10. 21:02",
-      "publishedISO": "2026-10-28T21:02:30+01:00",
-      "title": "Google-eier Alphabet dro inn 127,5 milliarder dollar",
-      "summary": "Alphabet hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor. Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor. I tredje kvartal var inntektene på 30,7 milliarder dollar, mot 15,1 milliarder i fjor.",
-      "keyPoints": [
-        "Alphabet hadde inntekter på 127,5 milliarder dollar i tredje kvartal, mot 102,3 milliarder samme tid i fjor.",
-        "Driftsresultatet endte på 40,6 milliarder dollar, opp fra 31,2 i fjor.",
-        "På forhånd var det forventet inntekter på 127,9 milliarder dollar.",
-        "Resultat per aksje ble 2,12 dollar, noe som er klart under analytikernes forventninger om 2,99 dollar, skriver Bloomberg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/31ArnM/google-eier-alphabet-dro-inn-127-5-milliarder-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/10d12c5d-3eeb-3f87-92c1-28665cb6ea90?fit=crop&h=675&upscale=true&w=1200&s=aeade7a3cfd52a810885af805c9211e471086852",
-      "localImage": "assets/news/40dbaa04d53603.jpg",
-      "score": 15
-    },
-    {
-      "id": "55492517d81ed1",
-      "category": "Økonomi",
-      "published": "29.10. 15:57",
-      "publishedISO": "2026-10-29T15:57:39+01:00",
-      "title": "Oppsiktsvekkende klar kritikk",
-      "summary": "En som foreløpig har uttalt seg forsiktig, er etikkrådets leder, Svein Richard Brandtzæg. –⁠ Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe, skriver han i en kronikk i E24. Våren 2025 ble Svein Richard Brandtzæg ble gjenoppnevnt som leder frem til 2029. I august 2025 ble det avslørt at Oljefondet var investert i det israelske selskapet Bet Shemesh Engines Holdings som det israelske forsvarsdepartementet er en viktig kunde av.",
-      "keyPoints": [
-        "En som foreløpig har uttalt seg forsiktig, er etikkrådets leder, Svein Richard Brandtzæg. –⁠ Jeg kan ikke sitte på broen og late som ingenting, mens fondets etiske flaggskip rigges om til en tannløs intern rådgivingsgruppe, skriver han i en kronikk i E24.",
-        "Våren 2025 ble Svein Richard Brandtzæg ble gjenoppnevnt som leder frem til 2029.",
-        "I august 2025 ble det avslørt at Oljefondet var investert i det israelske selskapet Bet Shemesh Engines Holdings som det israelske forsvarsdepartementet er en viktig kunde av.",
-        "I november 2025 vedtok Stortinget å stanse Etikkrådets anbefalinger om både utestengelse og observasjon mens hele regelverket ble gjennomgått."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/d7K7lA/oppsiktsvekkende-klar-kritikk",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ee503329-45c4-3ef2-8a58-dacae339fade?fit=crop&h=675&upscale=true&w=1200&s=6934ca3cb2c881519f25c9c308a4424162c2fb2f",
-      "localImage": "assets/news/55492517d81ed1.jpg",
-      "score": 14
-    },
-    {
-      "id": "729a1586e03732",
-      "category": "Økonomi",
-      "published": "28.10. 21:04",
-      "publishedISO": "2026-10-28T21:04:55+01:00",
-      "title": "Microsoft knaller til",
-      "summary": "Teknologikjempen Microsoft slår til med bedre resultater enn ventet i regnskapsmessig første kvartal, som dekker perioden fra 1. juli til 30. september. Nettoresultatet landet på 36,6 milliarder dollar, opp 32 prosent fra året før. – Resultatene oversteg forventningene på både inntekter, driftsresultat og resultat per aksje, sier finansdirektør Amy Hood i Microsoft i en melding onsdag. Samtidig omsatte Microsoft Cloud for 63,9 milliarder dollar, en vekst på 30 prosent, ifølge selskapet.",
-      "keyPoints": [
-        "Teknologikjempen Microsoft slår til med bedre resultater enn ventet i regnskapsmessig første kvartal, som dekker perioden fra 1. juli til 30. september.",
-        "Nettoresultatet landet på 36,6 milliarder dollar, opp 32 prosent fra året før. – Resultatene oversteg forventningene på både inntekter, driftsresultat og resultat per aksje, sier finansdirektør Amy Hood i Microsoft i en melding onsdag.",
-        "Samtidig omsatte Microsoft Cloud for 63,9 milliarder dollar, en vekst på 30 prosent, ifølge selskapet.",
-        "Microsoft delte ut 10,2 milliarder dollar til aksjonærene i kvartalet gjennom utbytte og tilbakekjøp av aksjer, ifølge dagens melding."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/zlpR61/microsoft-knaller-til",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a55ab970-2c68-3797-87e5-74bcf60b6457?fit=crop&h=675&upscale=true&w=1200&s=fc41018828ca872cb07df57ac0fca7ac5b954d41",
-      "localImage": "assets/news/729a1586e03732.jpg",
-      "score": 13
+      "url": "https://www.nrk.no/sorlandet/kan-sikre-70-arbeidsplasser-1.18068570",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/EJMEav9xEUIyS-Pn0hSJtwpZ-OhRzGNGaObsT-SXTDGw.jpg",
+      "localImage": "assets/news/5390b0747cbbfd.webp",
+      "score": 16
     }
   ]
 }
