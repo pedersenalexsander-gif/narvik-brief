@@ -1,28 +1,28 @@
 {
-  "updatedAt": "31.10.2026 kl. 07:12",
-  "updatedISO": "2026-10-31T07:12:08.232691+01:00",
+  "updatedAt": "31.10.2026 kl. 13:32",
+  "updatedISO": "2026-10-31T13:32:02.029134+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "a7d32a3916f42a",
+      "id": "bd0ec6b8440ed0",
       "category": "Norge",
-      "published": "30.10. 22:24",
-      "publishedISO": "2026-10-30T22:24:13+01:00",
-      "title": "Nye Oslo-sykehus blir stadig dyrere - kan koste nesten 70 milliarder",
-      "summary": "Nå anslår Helse Sør-Øst selv at sykehusene vil koste rundt 46,5 milliarder. Nå viser nye beregninger at de nye sykehusene kan bli langt dyrere. Totalsummen for de nye sykehusene er da oppe i minst 55 milliarder kroner.",
+      "published": "31.10. 08:54",
+      "publishedISO": "2026-10-31T08:54:47+01:00",
+      "title": "Hangarskipet HMS Prince of Wales har lagt til kai i Namsos: – Det er et svært viktig besøk",
+      "summary": "FORSVARSSAMARBEID: Hangarskipet HMS «Prince of Wales» er 280 meter langt og har en vekt på over 70.000 tonn. – Det er et svært viktig besøk, forteller generalmajor og sjef i Forsvarets logistikkorganisasjon, Anders Jernberg. De siste dagene har det britiske hangarskipet HMS «Prince of Wales» seilt langs kysten av Trøndelag. HMS «Prince of Wales» regnes som et av de kraftigste hangarskipene i den britiske marinen.",
       "keyPoints": [
-        "Nå anslår Helse Sør-Øst selv at sykehusene vil koste rundt 46,5 milliarder.",
-        "Nå viser nye beregninger at de nye sykehusene kan bli langt dyrere.",
-        "Totalsummen for de nye sykehusene er da oppe i minst 55 milliarder kroner.",
-        "Helse Sør-Øst har selv beregna at sykehusene i verste fall kan bli opp mot 10 milliarder dyrere enn budsjettene tilsier."
+        "FORSVARSSAMARBEID: Hangarskipet HMS «Prince of Wales» er 280 meter langt og har en vekt på over 70.000 tonn. – Det er et svært viktig besøk, forteller generalmajor og sjef i Forsvarets logistikkorganisasjon, Anders Jernberg.",
+        "De siste dagene har det britiske hangarskipet HMS «Prince of Wales» seilt langs kysten av Trøndelag.",
+        "HMS «Prince of Wales» regnes som et av de kraftigste hangarskipene i den britiske marinen.",
+        "Nå ligger de til kai utenfor Namsos for påfyll av ammunisjon og drivstoff."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/nye-oslo-sykehus-blir-stadig-dyrere---kan-koste-nesten-70-milliarder-1.17653404",
+      "url": "https://www.nrk.no/trondelag/hangarskipet-hms-prince-of-wales-har-lagt-til-kai-i-namsos_-_-det-er-et-svaert-viktig-besok-1.18067075",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/l0OWohTl9rR0HsQa2plTjwUMRQSU4OqeasIImY1TORxQ.jpg",
-      "localImage": "assets/news/a7d32a3916f42a.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/Le6QjxnxUeAUOW3LadQYqQPMkDaGK0-XplX6h5pOmHAQ.jpg",
+      "localImage": "assets/news/bd0ec6b8440ed0.jpg",
+      "score": 17
     },
     {
       "id": "178e15c9fad088",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ca4acae0-14d0-3c4f-866a-723b8bba7543?fit=crop&h=675&upscale=true&w=1200&s=5654ea645eb59d4284a71d1d9e9d2f82685691d2",
       "localImage": "assets/news/178e15c9fad088.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "506a3a588c542a",
@@ -64,6 +64,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/24acfd12-9506-32a0-b990-abe9f8be7ef9?fit=crop&h=675&upscale=true&w=1200&s=e92b28c5c6ae4846e97ba1fd42c872f892a25811",
       "localImage": "assets/news/506a3a588c542a.jpg",
+      "score": 13
+    },
+    {
+      "id": "a7d32a3916f42a",
+      "category": "Norge",
+      "published": "30.10. 22:24",
+      "publishedISO": "2026-10-30T22:24:13+01:00",
+      "title": "Nye Oslo-sykehus blir stadig dyrere - kan koste nesten 70 milliarder",
+      "summary": "Nå anslår Helse Sør-Øst selv at sykehusene vil koste rundt 46,5 milliarder. Nå viser nye beregninger at de nye sykehusene kan bli langt dyrere. Totalsummen for de nye sykehusene er da oppe i minst 55 milliarder kroner.",
+      "keyPoints": [
+        "Nå anslår Helse Sør-Øst selv at sykehusene vil koste rundt 46,5 milliarder.",
+        "Nå viser nye beregninger at de nye sykehusene kan bli langt dyrere.",
+        "Totalsummen for de nye sykehusene er da oppe i minst 55 milliarder kroner.",
+        "Helse Sør-Øst har selv beregna at sykehusene i verste fall kan bli opp mot 10 milliarder dyrere enn budsjettene tilsier."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/stor-oslo/nye-oslo-sykehus-blir-stadig-dyrere---kan-koste-nesten-70-milliarder-1.17653404",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/l0OWohTl9rR0HsQa2plTjwUMRQSU4OqeasIImY1TORxQ.jpg",
+      "localImage": "assets/news/a7d32a3916f42a.jpg",
       "score": 14
     },
     {
@@ -85,7 +106,91 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DQIWevKllRKzF7Ke8CvoXA3MmXql1n-yjzxv8C7zyk7g.jpg",
       "localImage": "assets/news/30d5f0d57a0a51.jpg",
-      "score": 16
+      "score": 14
+    },
+    {
+      "id": "25ad9f9f78b124",
+      "category": "Norge",
+      "published": "31.10. 13:04",
+      "publishedISO": "2026-10-31T13:04:12+01:00",
+      "title": "Måtte sperre seg inne på butikk: – Kunne gått mye verre",
+      "summary": "Politiet måtte ta kontroll på en person som forsøkte å komme seg inn på en butikk med flere kniver. Klokka 10.37 lørdag morgen mottok politiet i Trøndelag melding om at en person forsøkte å ta seg inn i en butikk i Flatanger. Politiet rykket ut med flere patruljer, men på grunn av lang reisevei måtte ansatte i butikken ta grep.",
+      "keyPoints": [
+        "Politiet måtte ta kontroll på en person som forsøkte å komme seg inn på en butikk med flere kniver.",
+        "Klokka 10.37 lørdag morgen mottok politiet i Trøndelag melding om at en person forsøkte å ta seg inn i en butikk i Flatanger.",
+        "Politiet rykket ut med flere patruljer, men på grunn av lang reisevei måtte ansatte i butikken ta grep.",
+        "Det var en kunde som sa ifra om at personen var på vei mot døra, sier Sørgaard. – Da var det en ansatt her, som var her tilfeldig, som fikk stengt døra og låst den."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/matte-sperre-seg-inne-pa-butikk_-_-kunne-gatt-mye-verre-1.18070059",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Qo9xjORr-S7m1qUzOR3F8Q8dU2WN5kRXYI2g8cxZwzFQ.jpg",
+      "localImage": "assets/news/25ad9f9f78b124.jpg",
+      "score": 13
+    },
+    {
+      "id": "7124274ed2b7b6",
+      "category": "Norge",
+      "published": "31.10. 12:05",
+      "publishedISO": "2026-10-31T12:05:37+01:00",
+      "title": "Søndag blir månedskortet enda billigere – enkeltbilletten er like dyr",
+      "summary": "495 KRONER: Det er prisen på månedskortet i Oslo fra og med søndag. For de lengste reisene i pendlerfylket Akershus har månedskortet blitt nesten 900 kroner billigere i løpet av året. Månedskortet kan bli dyrere igjen neste år hvis det ikke kommer penger i enda et budsjettforlik på Stortinget.",
+      "keyPoints": [
+        "495 KRONER: Det er prisen på månedskortet i Oslo fra og med søndag.",
+        "For de lengste reisene i pendlerfylket Akershus har månedskortet blitt nesten 900 kroner billigere i løpet av året.",
+        "Månedskortet kan bli dyrere igjen neste år hvis det ikke kommer penger i enda et budsjettforlik på Stortinget.",
+        "Fra 1. november: 504 kroner for én sone, 756 kroner for to soner, 1255 kroner for tre soner, 1757 kroner for fire til ti soner."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/stor-oslo/sondag-blir-manedskortet-enda-billigere-_-enkeltbilletten-er-like-dyr-1.18067233",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/vwM5HhryRoiz0kxX99nTugBa4iNCQnO5YSxz7cfUN8RA.jpg",
+      "localImage": "assets/news/7124274ed2b7b6.jpg",
+      "score": 13
+    },
+    {
+      "id": "f28bf33f2883ec",
+      "category": "Norge",
+      "published": "31.10. 10:07",
+      "publishedISO": "2026-10-31T10:07:20+01:00",
+      "title": "Går hardt ut mot Bodø/Glimt: – Sutrekultur",
+      "summary": "Det sier Viking-kaptein Zlatko Tripic til NRK om Bodø/Glimt etter den forrykende 3-2-kampen på Aspmyra fredag kveld. Men Glimts to største stjerner Jens Petter Hauge og Patrick Berg var tydelige etter kampen om at de mener slaget var med vilje og at Tripic burde blitt utvist. – Du vet hvem som gjør det og du vet han gjør det hundre prosent med vilje, sa Hauge til TV 2. – Jeg tror heller ikke det er tilfeldig, men dommerne blir lurt hver eneste kamp. Tripic bruker ordet «sutrekultur» når han skal kommentere Glimt-leirens uttalelser etter kampen. – Hva tenker du at Berg og andre sier disse tingene om deg? – Det er jeg litt skuffet over.",
+      "keyPoints": [
+        "Det sier Viking-kaptein Zlatko Tripic til NRK om Bodø/Glimt etter den forrykende 3-2-kampen på Aspmyra fredag kveld.",
+        "Tripic bruker ordet «sutrekultur» når han skal kommentere Glimt-leirens uttalelser etter kampen. – Hva tenker du at Berg og andre sier disse tingene om deg? – Det er jeg litt skuffet over.",
+        "Men Glimts to største stjerner Jens Petter Hauge og Patrick Berg var tydelige etter kampen om at de mener slaget var med vilje og at Tripic burde blitt utvist. – Du vet hvem som gjør det og du vet han gjør det hundre prosent med vilje, sa Hauge til TV 2. – Jeg tror heller ikke det er tilfeldig, men dommerne blir lurt hver eneste kamp.",
+        "At han går rett til dommeren, at det skal bli en overskrift at jeg er så ufyselig, det synes jeg bare er dumt at det er det som skal ha fokus, legger Tripic til."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/gar-hardt-ut-mot-bodo_glimt_-_-sutrekultur-1.18069984",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/9irVL37IYo91k5AjOc7J8AtFaHqxE5VCyXSAZ8rfk3oA.jpg",
+      "localImage": "assets/news/f28bf33f2883ec.jpg",
+      "score": 13
+    },
+    {
+      "id": "9db44209b5d3c8",
+      "category": "Norge",
+      "published": "31.10. 09:38",
+      "publishedISO": "2026-10-31T09:38:29+01:00",
+      "title": "Person funnen omkomen i sjøen Vestvågøy i Nordland – er ein av dei sakna etter båtforlis på Nordmøre",
+      "summary": "Ein av dei tsjekkiske fisketuristane, som har vore sakna etter ei båtulykke utanfor Grip på Nordmøre, er funnen omkomen i sjøen i Nordland. Politiet i Møre og Romsdal blei varsla av politiet i Nordland etter at det blei gjort funn av ein død person i sjøen i Vestvågøy kommune. – Den personen er identifisert til å vere ein av dei tre sakna etter båtforliset utanfor Grip for ei tid tilbake, seier Espen Andrésen, operasjonsleiar i Møre og Romsdal politidistrikt. Dei pårørande i Tsjekkia er varsla om funnet. – Då vi fekk ein sikker identitet så blei dei pårørande varsla om at den sakna var funnen, seier Andrésen.",
+      "keyPoints": [
+        "Ein av dei tsjekkiske fisketuristane, som har vore sakna etter ei båtulykke utanfor Grip på Nordmøre, er funnen omkomen i sjøen i Nordland.",
+        "Politiet i Møre og Romsdal blei varsla av politiet i Nordland etter at det blei gjort funn av ein død person i sjøen i Vestvågøy kommune. – Den personen er identifisert til å vere ein av dei tre sakna etter båtforliset utanfor Grip for ei tid tilbake, seier Espen Andrésen, operasjonsleiar i Møre og Romsdal politidistrikt.",
+        "Dei pårørande i Tsjekkia er varsla om funnet. – Då vi fekk ein sikker identitet så blei dei pårørande varsla om at den sakna var funnen, seier Andrésen.",
+        "Den tsjekkiske fisketuristen blei funnen i sjøen i Vestvågøy kommune i Nordland."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/mr/person-funnen-omkomen-i-sjoen-vestvagoy-i-nordland-_-er-ein-av-dei-sakna-etter-batforlis-pa-nordmore-1.18069988",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/jQG9-Uuinl0vRbOBjz0SIQ6qHyRjH4MNwahQTrz9Nh0A.jpg",
+      "localImage": "assets/news/9db44209b5d3c8.jpg",
+      "score": 13
     },
     {
       "id": "afe170fc3e1360",
@@ -106,112 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/yBt5M8ktEQoi9IsLbV1tug1F5O-vwAR-u9lBw_O8rsDg.jpg",
       "localImage": "assets/news/afe170fc3e1360.jpg",
-      "score": 14
-    },
-    {
-      "id": "9b28eef7b7e7e2",
-      "category": "Norge",
-      "published": "30.10. 11:16",
-      "publishedISO": "2026-10-30T11:16:12+01:00",
-      "title": "Enova bevilger 4 milliarder til prosjekt som skal gjøre havvind billigere",
-      "summary": "Enova gir 4 milliarder kroner til to selskap som skal sette opp fire havvindturbiner utenfor Karmøy. – Aldri blitt bygd så store turbiner før, sier direktør. I dag står det allerede to havvindturbiner nord for Karmøy Prosjektene får 2 milliarder kroner hver fra Enova. Målet med prosjektene er å teste og vise frem ny teknologi som kan gjøre det billigere å produsere energi med flytende havvind.",
-      "keyPoints": [
-        "Målet med prosjektene er å teste og vise frem ny teknologi som kan gjøre det billigere å produsere energi med flytende havvind.",
-        "Enova gir 4 milliarder kroner til to selskap som skal sette opp fire havvindturbiner utenfor Karmøy. – Aldri blitt bygd så store turbiner før, sier direktør.",
-        "I dag står det allerede to havvindturbiner nord for Karmøy Prosjektene får 2 milliarder kroner hver fra Enova.",
-        "Dette er blant de viktigste områdene der kostnadene må gå ned for at flytende havvind skal bli lønnsomt, skriver Enova."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/enova-bevilger-4-milliarder-til-prosjekt-som-skal-gjore-havvind-billigere-1.18069163",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/9KkyuCPhOFl-_TpPgXlnUgLEGZu-n03Pu1GGs9xOAMTQ.jpg",
-      "localImage": "assets/news/9b28eef7b7e7e2.jpg",
-      "score": 14
-    },
-    {
-      "id": "d4f00f6d188217",
-      "category": "Økonomi",
-      "published": "31.10. 05:00",
-      "publishedISO": "2026-10-31T05:00:00+01:00",
-      "title": "Ingen kjøpere på ni år: Dette er landets tregeste boligsalg",
-      "summary": "51-åringen håper å få solgt familiehjemmet før han blir 70, men har også en plan B. – Vi liker tomta, solforholdene og beliggenheten veldig godt. Det er omtrent fire år og fire måneder siden den 87 kvadratmeter store boligen ble lagt ut på markedet, ifølge Finn-tallene. Prosjektet består av to boliger, hvorav bare den ene er solgt. – Ingen har foreløpig kjøpt dette siste huset, sier megler Petter André Aure i Proaktiv Lillestrøm, selv om boligen har ligget lenge ute for salg.",
-      "keyPoints": [
-        "Prosjektet består av to boliger, hvorav bare den ene er solgt. – Ingen har foreløpig kjøpt dette siste huset, sier megler Petter André Aure i Proaktiv Lillestrøm, selv om boligen har ligget lenge ute for salg.",
-        "51-åringen håper å få solgt familiehjemmet før han blir 70, men har også en plan B. – Vi liker tomta, solforholdene og beliggenheten veldig godt.",
-        "Det er omtrent fire år og fire måneder siden den 87 kvadratmeter store boligen ble lagt ut på markedet, ifølge Finn-tallene.",
-        "Hems bolig ligger ute med en prisantydning på 12,7 millioner kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/Vgpjq1/ingen-kjoepere-paa-ni-aar-dette-er-landets-tregeste-boligsalg",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d8c55f22-8b58-3016-aaac-bd43139704fb?fit=crop&h=675&upscale=true&w=1200&s=4cce0e26c0a99c280451a9e1c7dfea3c8110ee09",
-      "localImage": "assets/news/d4f00f6d188217.jpg",
       "score": 13
-    },
-    {
-      "id": "20f38474b7cefd",
-      "category": "Økonomi",
-      "published": "30.10. 15:03",
-      "publishedISO": "2026-10-30T15:03:55+01:00",
-      "title": "Feil medisin for leiemarkedet",
-      "summary": "Et forbud mot bindingstid fjerner ikke risikoen i leiemarkedet. Tilhengerne av forslaget har derfor et poeng når de påpeker at en leietaker kan havne i en vanskelig situasjon hvis hun er bundet til en bolig hun må flytte fra. Den handler om hvor mange boliger som faktisk tilbys på leiemarkedet.",
-      "keyPoints": [
-        "Et forbud mot bindingstid fjerner ikke risikoen i leiemarkedet.",
-        "Den handler om hvor mange boliger som faktisk tilbys på leiemarkedet.",
-        "Tilhengerne av forslaget har derfor et poeng når de påpeker at en leietaker kan havne i en vanskelig situasjon hvis hun er bundet til en bolig hun må flytte fra.",
-        "Intensjonen er god: Ingen skal bli sittende fast i en bolig når livet endrer seg."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/AbAOGj/feil-medisin-for-leiemarkedet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7ba90758-8cd8-327c-9545-7bd2a21a3682?fit=crop&h=675&upscale=true&w=1200&s=89803c48dfb6f17192a3544f5e91e53f9416b663",
-      "localImage": "assets/news/20f38474b7cefd.jpg",
-      "score": 13
-    },
-    {
-      "id": "d99686384415f6",
-      "category": "Økonomi",
-      "published": "30.10. 06:27",
-      "publishedISO": "2026-10-30T06:27:57+01:00",
-      "title": "Slo ned på Airbnb-utleie – klaget inn til Datatilsynet",
-      "summary": "Nå jobber Datatilsynet med en sak mot kommunen. – Vi har brukt Airbnb, AirDNA, Booking.com og så videre. Tilsynet mottok klagen den 17. desember i fjor, bekrefter juridisk seniorrådgiver Jan Nielsen i Datatilsynet. Karlstrøm etterlyser to ting fra myndighetene: I fjor slo kommunen ned på de største utleierne i kommunen.",
-      "keyPoints": [
-        "Karlstrøm etterlyser to ting fra myndighetene: I fjor slo kommunen ned på de største utleierne i kommunen.",
-        "Tilsynet mottok klagen den 17. desember i fjor, bekrefter juridisk seniorrådgiver Jan Nielsen i Datatilsynet.",
-        "Nå jobber Datatilsynet med en sak mot kommunen. – Vi har brukt Airbnb, AirDNA, Booking.com og så videre.",
-        "Vestlandskommunen er et av landets mest populære turistmål, men kommunen selv mener Airbnb-utleie har ført til en boligkrise, ifølge Bergens Tidende."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/Qg856R/slo-ned-paa-airbnb-utleie-klaget-inn-til-datatilsynet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/58516d49-1e9a-3809-a8d7-9f8c5f87062f?fit=crop&h=675&upscale=true&w=1200&s=8bdc680137885163f84f000571aa62392724cb90",
-      "localImage": "assets/news/d99686384415f6.jpg",
-      "score": 13
-    },
-    {
-      "id": "b150fb0ad8f8b2",
-      "category": "Norge",
-      "published": "30.10. 22:38",
-      "publishedISO": "2026-10-30T22:38:07+01:00",
-      "title": "Zlatko Tripic slår tilbake etter kritikken",
-      "summary": "Viking-kaptein Zlatko Tripic fikk gjennomgå av Glimt-spillerne etter «seriefinalen». Zlatko Tripic la armen om halsen på Ole Didrik Blomberg i intervjusonen på Aspmyra. Zlatko Tripic mener at det ikke var med vilje, at det skjedde da han mistet balansen – og at han heller ikke burde hatt gult kort.",
-      "keyPoints": [
-        "Zlatko Tripic mener at det ikke var med vilje, at det skjedde da han mistet balansen – og at han heller ikke burde hatt gult kort.",
-        "Zlatko Tripic la armen om halsen på Ole Didrik Blomberg i intervjusonen på Aspmyra.",
-        "Viking-kaptein Zlatko Tripic fikk gjennomgå av Glimt-spillerne etter «seriefinalen».",
-        "SITUASJONEN: Ole Didrik Blomberg ligger nede mens Zlatko Tripic står til venstre."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/zlatko-tripic-slar-tilbake-etter-kritikken-1.18069878",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/8h2FtdMmPqUdWPl6gemdBAnOXDFApVZjGxGr5xl5SLvA",
-      "localImage": "assets/news/b150fb0ad8f8b2.jpg",
-      "score": 12
     }
   ]
 }
