@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.11.2026 kl. 05:45",
-  "updatedISO": "2026-11-01T05:45:23.847646+01:00",
+  "updatedAt": "01.11.2026 kl. 12:32",
+  "updatedISO": "2026-11-01T12:32:59.529926+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,10 +9,10 @@
       "published": "01.11. 04:44",
       "publishedISO": "2026-11-01T04:44:40+01:00",
       "title": "Trump: – Bolsonaro kan bli så lenge han vil",
-      "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Trump beskriver president valget som en «skam». – Jeg synes han ble behandlet veldig simpelt. Trump mener også Bolsonaro ble behandlet «urettferdig».",
+      "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Trump beskriver presidentvalget som en «skam». – Jeg synes han ble behandlet veldig simpelt. Trump mener også Bolsonaro ble behandlet «urettferdig».",
       "keyPoints": [
         "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil».",
-        "Trump beskriver president valget som en «skam». – Jeg synes han ble behandlet veldig simpelt.",
+        "Trump beskriver presidentvalget som en «skam». – Jeg synes han ble behandlet veldig simpelt.",
         "Trump mener også Bolsonaro ble behandlet «urettferdig».",
         "Bolsonaro (45) tapte valget mot Luiz Inácio Lula da Silva (81)."
       ],
@@ -22,7 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/GEsyZNshAoXDokmaww3oKAchyWrZKMljfp_VsINA6rLg.jpg",
       "localImage": "assets/news/fd052779f9afa1.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "6a6a286afc5a96",
+      "category": "Verden",
+      "published": "01.11. 01:27",
+      "publishedISO": "2026-11-01T01:27:33+01:00",
+      "title": "Judge orders Trump administration to stop election official threats",
+      "summary": "En føderal dommer har beordret den føderale regjeringen til å slutte å true lokale og statlige valgfunksjonærer med kriminelle anklager for deres rolle i behandlingen av valgsedler. California-dommeren avgjorde at Justisdepartementet (DoJ) må slutte å kreve at lokale og statlige valgfunksjonærer setter til side eller ikke behandler visse stemmesedler som Trump-administrasjonen hevder kan komme fra ikke-statsborgere. Trump kritiserte kjennelsen på lørdag, og skrev: \"Hvorfor ville de avvise å fikse valgsvindel?\" I California tidligere denne måneden sendte justisdepartementet brev til utenriksministeren og Los Angeles County Registrar med krav om at de setter til side stemmesedlene til 20 000 registrerte velgere som Trump-administrasjonen \"tror\" er \"sannsynlige\" ikke-borgere, ifølge rettsdokumenter.",
+      "keyPoints": [
+        "California-dommeren avgjorde at Justisdepartementet (DoJ) må slutte å kreve at lokale og statlige valgfunksjonærer setter til side eller ikke behandler visse stemmesedler som Trump-administrasjonen hevder kan komme fra ikke-statsborgere.",
+        "Trump kritiserte kjennelsen på lørdag, og skrev: \"Hvorfor ville de avvise å fikse valgsvindel?\" I California tidligere denne måneden sendte justisdepartementet brev til utenriksministeren og Los Angeles County Registrar med krav om at de setter til side stemmesedlene til 20 000 registrerte velgere som Trump-administrasjonen \"tror\" er \"sannsynlige\" ikke-borgere, ifølge rettsdokumenter.",
+        "En føderal dommer har beordret den føderale regjeringen til å slutte å true lokale og statlige valgfunksjonærer med kriminelle anklager for deres rolle i behandlingen av valgsedler.",
+        "Dommer Trina Thompson beordret administrasjonen til å stanse handlingene deres. \"Selv om tiltalte hevder at deres handlinger er utformet for å stoppe ulovlig stemmegivning fra ikke-borgere, vil deres handlinger sannsynligvis ha effekten av å forstyrre valgadministrasjonen og frata lovlige velgere,\" skrev dommer Thompson."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7152/live/9f9230c0-d564-11f1-b3d5-e70aafec92c6.jpg",
+      "localImage": "assets/news/6a6a286afc5a96.jpg",
+      "score": 15
     },
     {
       "id": "446c32ddc39214",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/26d19e32-b358-3bf8-acc5-f8b7f6ffa3cd?fit=crop&h=675&upscale=true&w=1200&s=60b55e973ecb625f88b1a698bebc8efd330b33b4",
       "localImage": "assets/news/446c32ddc39214.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "178e15c9fad088",
@@ -64,7 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ca4acae0-14d0-3c4f-866a-723b8bba7543?fit=crop&h=675&upscale=true&w=1200&s=5654ea645eb59d4284a71d1d9e9d2f82685691d2",
       "localImage": "assets/news/178e15c9fad088.jpg",
-      "score": 15
+      "score": 13
+    },
+    {
+      "id": "8c496496da4501",
+      "category": "AI",
+      "published": "01.11. 02:37",
+      "publishedISO": "2026-11-01T02:37:26+01:00",
+      "title": "Neoclouds: These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "Disse datasenterselskapene, kjent som neocloud-firmaer, driver store varehus fullpakket med dyre datamaskiner, som de leier ut til store AI-utviklere som Anthropic, OpenAI og Meta. Analytikere hos Gartner spår at innen 2030 vil 80 % av neocloud-firmaene «slutte med uavhengige operasjoner», mens Forresters eksperter forventer at minst tre av dem umiddelbart vil bli kjøpt opp «ettersom økonomien blir skjelven». I et nylig innlegg på sosiale medier antydet Elon Musk at denne utfordringen kan føre til at mer enn 200 neoclouds \"se død og konsolidering på guppynivå\", med de minste firmaene som de mest sårbare. \"Noen vil klare det, men ikke mange,\" la han til.",
+      "keyPoints": [
+        "I et nylig innlegg på sosiale medier antydet Elon Musk at denne utfordringen kan føre til at mer enn 200 neoclouds \"se død og konsolidering på guppynivå\", med de minste firmaene som de mest sårbare. \"Noen vil klare det, men ikke mange,\" la han til.",
+        "Analysts at Gartner predict by 2030, 80% of neocloud firms will \"cease independent operations\", while Forrester's experts expect at least three of them to be imminently acquired \"as finances get shaky\".",
+        "Disse datasenterselskapene, kjent som neocloud-firmaer, driver store varehus fullpakket med dyre datamaskiner, som de leier ut til store AI-utviklere som Anthropic, OpenAI og Meta.",
+        "Hvis AI viser seg å være en boble – og brister – kommer neocloud-firmaer \"definitivt til å møte sideskade,\" sa Bradley Tusk fra Tusk Ventures."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/16f5/live/d2c08770-d493-11f1-93e1-3b657b665bcf.jpg",
+      "localImage": "assets/news/8c496496da4501.jpg",
+      "score": 16
     },
     {
       "id": "a01506c336d708",
@@ -85,91 +127,91 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/aA0k9SPYtaSQ49Qobn_EZQwFB1cIDsRpgXQEQ4Sl7XfA.jpg",
       "localImage": "assets/news/a01506c336d708.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "f8cd5c741501c3",
-      "category": "Økonomi",
-      "published": "01.11. 05:00",
-      "publishedISO": "2026-11-01T05:00:00+01:00",
-      "title": "Bergensmann eier ni Airbnb-bygårder fra Kypros",
-      "summary": "Bygårdene hans i Bergen eies fra en luksusvilla ved Middelhavet. – Han er ikke hjemme, svarer den norske kvinnen som står i døråpningen til en eksklusiv villa i kystbyen Pafos på Kypros. Rasmussens selskaper eier blant annet flere bygårder i Bergen. Skatteekspert og førsteamanuensis Eivind Furuseth ved Handelshøyskolen BI sier til E24 at det kan være flere grunner til å flytte eierskapet til Kypros. – Hvis vi ser på de skattemessige motivene, er en mulig forklaring at han ønsker å unngå norsk kildeskatt på utbytte– Dersom han hadde eid aksjene i JW Invest AS direkte etter en flytting til Kypros, skulle Rasmussen ha betalt 15% utbytteskatt til Norge.",
+      "id": "3d8f5e90a37fa5",
+      "category": "Norge",
+      "published": "01.11. 12:21",
+      "publishedISO": "2026-11-01T12:21:24+01:00",
+      "title": "Auka etterspurnad frå utlandet: – Store filmprosjekt snusar på Vestlandet",
+      "summary": "Dei siste åra har film- og TV-produksjonar frå inn- og utland sett Vestlandet og Noreg på kartet. Dei har merka auka etterspurnad frå internasjonale aktørar. – Me ser at 2026 har vore eit fantastisk år for vestnorske filmar og filminnspelingar i regionen. Det er masse spennande på gang, og det er store filmprosjekt som snusar på Vestlandet i 2027.",
       "keyPoints": [
-        "Bygårdene hans i Bergen eies fra en luksusvilla ved Middelhavet. – Han er ikke hjemme, svarer den norske kvinnen som står i døråpningen til en eksklusiv villa i kystbyen Pafos på Kypros.",
-        "Skatteekspert og førsteamanuensis Eivind Furuseth ved Handelshøyskolen BI sier til E24 at det kan være flere grunner til å flytte eierskapet til Kypros. – Hvis vi ser på de skattemessige motivene, er en mulig forklaring at han ønsker å unngå norsk kildeskatt på utbytte– Dersom han hadde eid aksjene i JW Invest AS direkte etter en flytting til Kypros, skulle Rasmussen ha betalt 15% utbytteskatt til Norge.",
-        "Rasmussens selskaper eier blant annet flere bygårder i Bergen.",
-        "Samme år forsvant også eierskapet til bygårdene ut av Norge, til et selskap på Kypros."
+        "Det er masse spennande på gang, og det er store filmprosjekt som snusar på Vestlandet i 2027.",
+        "Dei har merka auka etterspurnad frå internasjonale aktørar. – Me ser at 2026 har vore eit fantastisk år for vestnorske filmar og filminnspelingar i regionen.",
+        "Dei siste åra har film- og TV-produksjonar frå inn- og utland sett Vestlandet og Noreg på kartet.",
+        "Ein har alt frå lokale prosjekt som «Kjærleik», «Kraken» og «Mord i Sogn» (Vestland), til internasjonale prosjekt og samproduksjonar som «Fjord» (Møre og Romsdal), «Mission Impossible» (Rogaland/Møre og Romsdal) og «Black Widow» (Møre og Romsdal)."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/WgVQOd/bergensmann-eier-ni-airbnb-bygaarder-fra-kypros",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/49e8a89b-7c07-3620-a957-021209aa41de?fit=crop&h=675&upscale=true&w=1200&s=5791922c3bccdf210336037b9068a63802011c7d",
-      "localImage": "assets/news/f8cd5c741501c3.jpg",
+      "url": "https://www.nrk.no/artikkel/auka-etterspurnad-fra-utlandet-store-filmprosjekt-snusar-pa-vestlandet-1531266",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/tP1RRAuPI6fKboLfj_DifwgkmVcYAFknunvlIXtz0gIA",
+      "localImage": "assets/news/3d8f5e90a37fa5.jpg",
       "score": 13
     },
     {
-      "id": "7de3e15c53ef47",
+      "id": "8658e20b516c0e",
       "category": "Norge",
-      "published": "31.10. 22:01",
-      "publishedISO": "2026-10-31T22:01:08+01:00",
-      "title": "Brann i lokale i Haram på Sunnmøre",
-      "summary": "Det brenn i ein bustad i Søvika i Haram kommune på Sunnmøre. Han fortel at det er 21 personar frå brannvesenet som jobbar med å sløkke brannen. Politiet meldte først at det var brann i eit lokale der det skal ha vore eit arrangement.",
+      "published": "01.11. 12:19",
+      "publishedISO": "2026-11-01T12:19:45+01:00",
+      "title": "Etablerer tappestasjon i Alta: – En mer bærekraftig blodforsyning",
+      "summary": "Det skal tidlig i 2027 åpnes en tappestasjon for blod i Alta. Målet er at Alta og omegn skal styrke tilgangen på blod i Finnmark. – Med en tappestasjon i Alta får folk i byen og omkringliggende områder lettere tilgang til å gi blod. Det kan styrke rekrutteringen av givere og gi en mer bærekraftig blodforsyning.",
       "keyPoints": [
-        "Det brenn i ein bustad i Søvika i Haram kommune på Sunnmøre.",
-        "Politiet meldte først at det var brann i eit lokale der det skal ha vore eit arrangement.",
-        "Han fortel at det er 21 personar frå brannvesenet som jobbar med å sløkke brannen.",
-        "Brannvesenet jobbar med å sløkke brannen, og politiet har gjort greie for alle personane."
+        "Det kan styrke rekrutteringen av givere og gi en mer bærekraftig blodforsyning.",
+        "Det skal tidlig i 2027 åpnes en tappestasjon for blod i Alta.",
+        "Målet er at Alta og omegn skal styrke tilgangen på blod i Finnmark. – Med en tappestasjon i Alta får folk i byen og omkringliggende områder lettere tilgang til å gi blod.",
+        "Styret i Finnmarkssykehuset sluttet seg enstemmig til planene om en tappestasjon i Alta 28. oktober."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/brann-i-lokale-i-haram-pa-sunnmore-1.18070336",
+      "url": "https://www.nrk.no/tromsogfinnmark/finnmarkssykehuset-vil-etablere-blodbank-i-alta_-men-forste-steg-pa-veien-er-tappestasjon-1.18070495",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/gsJ12_mUmtCceQEdnaagcQauBIRUfSNXmmlLGWl5p8OA.jpg",
-      "localImage": "assets/news/7de3e15c53ef47.jpg",
-      "score": 12
+      "image": "https://gfx.nrk.no/4dGFyAiBV196-AAWBiduEQyFi9NNig1nWfLMXhynOc3w.jpg",
+      "localImage": "assets/news/8658e20b516c0e.jpg",
+      "score": 13
     },
     {
-      "id": "fe2d1a35a5b7e1",
-      "category": "Norge",
-      "published": "31.10. 21:26",
-      "publishedISO": "2026-10-31T21:26:29+01:00",
-      "title": "Trump vil utestenge demokratisk kandidat i Alaska i navnekrangel-sak",
-      "summary": "USAs president krever at demokratenes kandidat må tas av lista for senatsvalget i Alaska. President Trump krever at demokratenes kandidat i Alaska trekker seg. Situasjonen blir spesiell dersom demokratenes kandidat Mary Peltola vinner med få stemmer. – Hvis valget til Senatet står og faller på Alaska, blir det en vanskelig sak.",
+      "id": "cc2720e5e003c9",
+      "category": "Verden",
+      "published": "01.11. 12:03",
+      "publishedISO": "2026-11-01T12:03:36+01:00",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "summary": "Se: Demonstranter kolliderer med politi og butikker plyndret i Tyskland Opprørere plyndret butikker i Frankfurt sentrum sent på lørdag da sammenstøt brøt ut i tyske byer om levekostnadene. De ble organisert av kampanjegruppen Gen Z regelt - som betyr \"Gen Z tar ansvar\" - for å protestere mot underfinansiering i skolene, de høye levekostnadene, kutt i offentlige utgifter og militærtjeneste. I Frankrike deltok mer enn 320 000 mennesker i en tredje helg på rad med stort sett fredelige protester i byer over hele landet, og krevde handling mot de høye levekostnadene og dårlige offentlige tjenester, spesielt i utdanningssektoren.",
       "keyPoints": [
-        "President Trump krever at demokratenes kandidat i Alaska trekker seg.",
-        "Situasjonen blir spesiell dersom demokratenes kandidat Mary Peltola vinner med få stemmer. – Hvis valget til Senatet står og faller på Alaska, blir det en vanskelig sak.",
-        "The New York Times skriver at demokratenes kandidat Mary Peltola og hennes medarbeidere og advokater, i flere måneder skal ha jaktet på en kandidat som kan ta stemmer fra republikanernes senator Dan S.",
-        "Trump mener det er gjort for å forvirre og ta velgere fra ''hans'' Sullivan."
+        "Se: Demonstranter kolliderer med politi og butikker plyndret i Tyskland Opprørere plyndret butikker i Frankfurt sentrum sent på lørdag da sammenstøt brøt ut i tyske byer om levekostnadene.",
+        "I Frankrike deltok mer enn 320 000 mennesker i en tredje helg på rad med stort sett fredelige protester i byer over hele landet, og krevde handling mot de høye levekostnadene og dårlige offentlige tjenester, spesielt i utdanningssektoren.",
+        "De ble organisert av kampanjegruppen Gen Z regelt - som betyr \"Gen Z tar ansvar\" - for å protestere mot underfinansiering i skolene, de høye levekostnadene, kutt i offentlige utgifter og militærtjeneste.",
+        "Uroen i Tyskland følger lignende ungdomsledede masseprotester i Frankrike, hvor over 320.000 mennesker også demonstrerte lørdag."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/trump-vil-utestenge-demokratisk-kandidat-i-alaska-i-navnekrangel-sak-1.18069928",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_OxMMic9SHGoj_G-bfWsCg2W4HFffa-BNNz6GU-59vog.jpg",
-      "localImage": "assets/news/fe2d1a35a5b7e1.jpg",
-      "score": 12
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg",
+      "localImage": "assets/news/cc2720e5e003c9.jpg",
+      "score": 13
     },
     {
-      "id": "82674d8fdd4399",
+      "id": "140c66d30edaa8",
       "category": "Norge",
-      "published": "31.10. 20:49",
-      "publishedISO": "2026-10-31T20:49:51+01:00",
-      "title": "Væpna personar tok seg inn om natta på privat adresse i Kvam",
-      "summary": "Personane var maskerte og væpna då dei midt på natta tok seg inn på adressa til ein familie på fire. Klokka 03.10 natt til laurdag fekk politiet melding frå ei privat adresse i Kvam i Vestland at to maskerte personar hadde tatt seg inn. – Det var to maskerte og væpna menn, seier politiadvokat Trine-Benedikte Opdal. Kriminalteknikarar har vore på staden i ettermiddag, og politiet jobbar vidare med ulike hypotesar. – At folk i området kring Øystese sjekkar det dei har av kameraovervaking, det vere seg kamera på bil, kamera på dørklokker og liknande, og om dei ser noko mistenkeleg i tidsrommet 02:00 til 04.00 om å kontakte politiet, seier Opdal. – VI har ingen opplysningar per no at nokon andre i bygda skal vere i fare.",
+      "published": "01.11. 10:38",
+      "publishedISO": "2026-11-01T10:38:08+01:00",
+      "title": "Jørn-Bjørn er verdensmester i jeans: Har brukt samme bukse i et år",
+      "summary": "Jørn-Bjørn Fuller-Gee er kåret til verdensmester i jeans. NY BUKSE: Buksen Jørn-Bjørn Fuller-Gee går med når NRK møter han, er relativt ny. Han har brukt den i to måneder, da buksen han gikk med i et år er sendt tilbake til produsenten for å vise hvordan slitasjene ser ut. – Det er ikke fordi jeg er en sprø person eller noe sånn, ler jeansentusiast Jørn-Bjørn Fuller-Gee.",
       "keyPoints": [
-        "Klokka 03.10 natt til laurdag fekk politiet melding frå ei privat adresse i Kvam i Vestland at to maskerte personar hadde tatt seg inn. – Det var to maskerte og væpna menn, seier politiadvokat Trine-Benedikte Opdal.",
-        "Personane var maskerte og væpna då dei midt på natta tok seg inn på adressa til ein familie på fire.",
-        "Kriminalteknikarar har vore på staden i ettermiddag, og politiet jobbar vidare med ulike hypotesar. – At folk i området kring Øystese sjekkar det dei har av kameraovervaking, det vere seg kamera på bil, kamera på dørklokker og liknande, og om dei ser noko mistenkeleg i tidsrommet 02:00 til 04.00 om å kontakte politiet, seier Opdal. – VI har ingen opplysningar per no at nokon andre i bygda skal vere i fare.",
-        "Dei to maskerte mennene fekk truleg ikkje med seg nokon verdigjenstandar. – Dei to mindreårige barna fekk ikkje med seg hendinga, seier politiadvokat Trine-Benedikte Opdal."
+        "Jørn-Bjørn Fuller-Gee er kåret til verdensmester i jeans.",
+        "Han har brukt den i to måneder, da buksen han gikk med i et år er sendt tilbake til produsenten for å vise hvordan slitasjene ser ut. – Det er ikke fordi jeg er en sprø person eller noe sånn, ler jeansentusiast Jørn-Bjørn Fuller-Gee.",
+        "NY BUKSE: Buksen Jørn-Bjørn Fuller-Gee går med når NRK møter han, er relativt ny.",
+        "For noen uker siden ble Fuller-Gee verdensmester i jeans, for alle verdensdeler utenom Asia. (Asia er en klasse for seg selv)."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/vaepna-personar-tok-seg-inn-om-natta-pa-privat-adresse-i-kvam-1.18070306",
+      "url": "https://www.nrk.no/sorlandet/jorn-bjorn-er-verdensmester-i-jeans_-har-brukt-samme-bukse-i-et-ar-1.18066831",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/NpHX-U2ZWU8DTaHziNK4_g9Ke7m7xb4yblZwvfrgCbFQ.jpg",
-      "localImage": "assets/news/82674d8fdd4399.jpg",
-      "score": 12
+      "image": "https://gfx.nrk.no/DUixOayvgEhsPi0UXPjOHgJufTDrIV2lxRanl3APwKkw.jpg",
+      "localImage": "assets/news/140c66d30edaa8.webp",
+      "score": 13
     }
   ]
 }
