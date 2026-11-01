@@ -1,6 +1,6 @@
 {
-  "updatedAt": "01.11.2026 kl. 18:16",
-  "updatedISO": "2026-11-01T18:16:34.559413+01:00",
+  "updatedAt": "01.11.2026 kl. 22:15",
+  "updatedISO": "2026-11-01T22:15:54.922194+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/GEsyZNshAoXDokmaww3oKAchyWrZKMljfp_VsINA6rLg.jpg",
       "localImage": "assets/news/fd052779f9afa1.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "6d4ccb52ef6017",
+      "category": "Økonomi",
+      "published": "01.11. 19:31",
+      "publishedISO": "2026-11-01T19:31:02+01:00",
+      "title": "Venter konflikter og støy: – Du har Trumps ego",
+      "summary": "Dette kalles mellomvalg når det ikke samtidig er presidentvalg, som kun avholdes hvert fjerde år. tirsdag 3. november vil ha stor betydning for hva president Donald Trump kan få gjennomført i andre halvdel av sin presidentperiode, i alle fall på hjemmebane. Magnussen venter færre store økonomiske vedtak og mer konflikt om budsjetter og statens låneopptak dersom demokratene vinner. – Det mest sannsynlige er at det blir mer konflikter, og at det kan bli en del markedsuro rundt det, sier Magnussen. Du har Trumps ego som vil vinne Iran-krigen, eller hans ego som vil få fredsprisen. – Krone og oljepris tenker jeg.",
+      "keyPoints": [
+        "Magnussen venter færre store økonomiske vedtak og mer konflikt om budsjetter og statens låneopptak dersom demokratene vinner. – Det mest sannsynlige er at det blir mer konflikter, og at det kan bli en del markedsuro rundt det, sier Magnussen.",
+        "Dette kalles mellomvalg når det ikke samtidig er presidentvalg, som kun avholdes hvert fjerde år. tirsdag 3. november vil ha stor betydning for hva president Donald Trump kan få gjennomført i andre halvdel av sin presidentperiode, i alle fall på hjemmebane.",
+        "Du har Trumps ego som vil vinne Iran-krigen, eller hans ego som vil få fredsprisen. – Krone og oljepris tenker jeg.",
+        "Kontroll i Senatet gjør at demokratene kan nekte å godkjenne Trumps nominasjoner til domstoler, regjeringsposisjoner og andre viktige roller."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/aOzMx7/venter-konflikter-og-stoey-du-har-trumps-ego",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/018b2024-35f4-3e47-bf42-a514aa8ff48b?fit=crop&h=675&upscale=true&w=1200&s=5d05727d808147702054e8d03c5219b56f386982",
+      "localImage": "assets/news/6d4ccb52ef6017.jpg",
+      "score": 17
     },
     {
       "id": "446c32ddc39214",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/26d19e32-b358-3bf8-acc5-f8b7f6ffa3cd?fit=crop&h=675&upscale=true&w=1200&s=60b55e973ecb625f88b1a698bebc8efd330b33b4",
       "localImage": "assets/news/446c32ddc39214.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "c102d51438add6",
@@ -67,150 +88,129 @@
       "score": 16
     },
     {
-      "id": "dad3782934ddb7",
+      "id": "63f9537a6ba131",
       "category": "Norge",
-      "published": "01.11. 17:08",
-      "publishedISO": "2026-11-01T17:08:56+01:00",
-      "title": "Informasjonspunkter og møteplasser: Vet du hvor du skal dra i en krisesituasjon?",
-      "summary": "I Kristiansand er kommunen i full gang med øvelser hvor scenarioet er at strøm og mobilnett forsvinner. – Dersom en slik situasjon oppstår, vil vi måtte sette opp noen informasjonspunkter der innbyggerne kan oppsøke hjelp dersom de har et akutt behov. Det sier beredskapssjef i Kristiansand kommune, Sigurd Paulsen. – Vi er avhengig av at folk vet hva de skal gjøre, sier Sigurd Paulsen. På rådhuset i Kristiansand øver ansatte på hvordan det ville være om noen kom og trengte hjelp i en krisesituasjon. – Det skal være en reell nødssituasjon dersom man må oppsøke et informasjonspunkt, for eksempel dersom man trenger kontakt med nødetatene og ikke når fram på telefon, sier han.",
+      "published": "01.11. 21:57",
+      "publishedISO": "2026-11-01T21:57:44+01:00",
+      "title": "Fann synåler i godteri på halloween",
+      "summary": "Både i Moelv og Ålesund skal barn ha funne synåler i godteri etter knask eller knep. I ettertid har jentene fortalt at dei fann akkurat denne biten på bakken medan dei var ute og gjekk. Det fortel mora hennar, Veronica Solbjørg. – Vi gjekk innom mange hus, og kom heim med tidenes største pose med godteri, fortel mora.",
       "keyPoints": [
-        "På rådhuset i Kristiansand øver ansatte på hvordan det ville være om noen kom og trengte hjelp i en krisesituasjon. – Det skal være en reell nødssituasjon dersom man må oppsøke et informasjonspunkt, for eksempel dersom man trenger kontakt med nødetatene og ikke når fram på telefon, sier han.",
-        "I Kristiansand er kommunen i full gang med øvelser hvor scenarioet er at strøm og mobilnett forsvinner. – Dersom en slik situasjon oppstår, vil vi måtte sette opp noen informasjonspunkter der innbyggerne kan oppsøke hjelp dersom de har et akutt behov.",
-        "Det sier beredskapssjef i Kristiansand kommune, Sigurd Paulsen. – Vi er avhengig av at folk vet hva de skal gjøre, sier Sigurd Paulsen.",
-        "Kun tre av ti innbyggere vet hvor de skal møte opp for å få informasjon fra sin kommune."
+        "Både i Moelv og Ålesund skal barn ha funne synåler i godteri etter knask eller knep.",
+        "I ettertid har jentene fortalt at dei fann akkurat denne biten på bakken medan dei var ute og gjekk.",
+        "Det fortel mora hennar, Veronica Solbjørg. – Vi gjekk innom mange hus, og kom heim med tidenes største pose med godteri, fortel mora.",
+        "I Innlandet har politiet førebels ikkje fått melding om nåler i godteri, opplyser operasjonsleiar Haagen Løvseth."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/informasjonspunkter-og-moteplasser_-vet-du-hvor-du-skal-dra-i-en-krisesituasjon_-1.18066131",
+      "url": "https://www.nrk.no/artikkel/fann-synaler-i-godteri-pa-halloween-1531469",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/U-XiqNLnQqyOV4CUcu6DRAV-c7vvT5oQk4bU9k1We8GQ.jpg",
-      "localImage": "assets/news/dad3782934ddb7.jpg",
+      "image": "https://gfx.nrk.no/BwK-ePgej-CxQJ5oAvBs9QSUz37ULAJEZ0ibQ7mTg1mQ",
+      "localImage": "assets/news/63f9537a6ba131.webp",
       "score": 13
     },
     {
-      "id": "775f46937581d4",
-      "category": "Økonomi",
-      "published": "01.11. 17:05",
-      "publishedISO": "2026-11-01T17:05:20+01:00",
-      "title": "1.000 søkere på 10 stillinger: – Sinnssyke tall",
-      "summary": "I år har de mottatt over 1000 søkere på de samme stillingene, som er skreddersydd for nyutdannede. Hun anslår at de vil få langt over 1000 søkere innen søknadsfristen går ut i november. – Det er jo helt sinnssyke tall, sier Sverre, som allerede har sikret seg fast jobb etter studiene i organisasjon, arbeid og ledelse ved UiO. Til da de lyste ut stillinger stadig tidligere på året fordi så mange studenter hadde sikret seg jobb lenge før de var ferdig. – Vi måtte hele tiden tilpasse oss etter de gode søkerne.",
-      "keyPoints": [
-        "Hun anslår at de vil få langt over 1000 søkere innen søknadsfristen går ut i november. – Det er jo helt sinnssyke tall, sier Sverre, som allerede har sikret seg fast jobb etter studiene i organisasjon, arbeid og ledelse ved UiO.",
-        "I år har de mottatt over 1000 søkere på de samme stillingene, som er skreddersydd for nyutdannede.",
-        "Til da de lyste ut stillinger stadig tidligere på året fordi så mange studenter hadde sikret seg jobb lenge før de var ferdig. – Vi måtte hele tiden tilpasse oss etter de gode søkerne.",
-        "For Amalie Frogner Sverre (23) ble et internship veien inn i fast jobb. – Muligheten for å komme inn i sin første jobb blir tøffere og tøffere for studentene."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/GrRXn6/1-000-soekere-paa-10-stillinger-sinnssyke-tall",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e283cab9-b677-33f2-a7af-f6c448ea4cef?fit=crop&h=675&upscale=true&w=1200&s=09e39cdafc91be3fff7d1f69126459c4611c2fa2",
-      "localImage": "assets/news/775f46937581d4.jpg",
-      "score": 13
-    },
-    {
-      "id": "773b4463b63dfe",
+      "id": "512a7cdd538b03",
       "category": "Norge",
-      "published": "01.11. 15:58",
-      "publishedISO": "2026-11-01T15:58:40+01:00",
-      "title": "Sterke reaksjoner – mener Molde-profil burde vært utvist",
-      "summary": "Flere mener Molde-profil Daniel Daga burde vært utvist i amper storkamp mot Brann. FIKK KRITIKK: Flere mener Daniel Daga burde vært utvist. Han mener imidlertid at den første forseelen ikke burde vært gult kort.",
+      "published": "01.11. 21:34",
+      "publishedISO": "2026-11-01T21:34:42+01:00",
+      "title": "Kilder til NRK: FIS har fått et uventet Bolsjunov-dilemma",
+      "summary": "Nå forteller kilder til NRK at FIS frykter de står overfor et umulig Russland-valg. Kilder i FIS forteller nå til NRK at de har innsett at dagens regelverk egentlig sier at Bolsjunov igjen skal få lov til å delta i verdenscupen, til tross for at det i utgangspunktet ikke var intensjonen med regelverket. Der står ikke Bolsjunovs navn. – Aleksandr har ikke fått noe offisielt svar fra FIS, sier visepresident i det russiske skiforbundet, Jelena Välbe, til NRK.",
       "keyPoints": [
-        "Flere mener Molde-profil Daniel Daga burde vært utvist i amper storkamp mot Brann.",
-        "Han mener imidlertid at den første forseelen ikke burde vært gult kort.",
-        "AMPERT: Flere Brann-spillere reagerte sterkt på taklingen til Daniel Daga. – Han skulle vært utvist der, mente TV 2s kommentator Morten Langli.",
-        "Molde-profil Emil Breivik mener Brann-spillerne kan ha påvirket dommerens prestasjon i storkampen. – Det er en dommer som kanskje kan ta litt mer tak."
+        "Nå forteller kilder til NRK at FIS frykter de står overfor et umulig Russland-valg.",
+        "Kilder i FIS forteller nå til NRK at de har innsett at dagens regelverk egentlig sier at Bolsjunov igjen skal få lov til å delta i verdenscupen, til tross for at det i utgangspunktet ikke var intensjonen med regelverket.",
+        "Der står ikke Bolsjunovs navn. – Aleksandr har ikke fått noe offisielt svar fra FIS, sier visepresident i det russiske skiforbundet, Jelena Välbe, til NRK.",
+        "NRK har vært i kontakt med FIS sin presseavdeling søndag."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/sterke-reaksjoner-_-mener-molde-profil-burde-vaert-utvist-1.18070645",
+      "url": "https://www.nrk.no/sport/kilder-til-nrk_-fis-har-fatt-et-uventet-bolsjunov-dilemma-1.18070456",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/yyl4ErsjYU3H4zAA7FKCSQKrD_mhTpIqRthLhQ8cOn1w.jpg",
-      "localImage": "assets/news/773b4463b63dfe.webp",
+      "image": "https://gfx.nrk.no/PMTC6c8QSJFIQ_UVBt-6KgdaJ8Dcs5cJCV41wQbafKYQ.jpg",
+      "localImage": "assets/news/512a7cdd538b03.webp",
       "score": 13
     },
     {
-      "id": "ddbdb8b94193b1",
+      "id": "35451c31196e2a",
       "category": "Norge",
-      "published": "01.11. 15:58",
-      "publishedISO": "2026-11-01T15:58:40+01:00",
-      "title": "Sterke reaksjoner – mener Molde-profil burde vært utvist",
-      "summary": "Flere mener Molde-profil Daniel Daga burde vært utvist i amper storkamp mot Brann. FIKK KRITIKK: Flere mener Daniel Daga burde vært utvist. Han mener imidlertid at den første forseelen ikke burde vært gult kort.",
+      "published": "01.11. 20:32",
+      "publishedISO": "2026-11-01T20:32:14+01:00",
+      "title": "Ansatt ved NTNU omkom i Rindal",
+      "summary": "Hun forteller at åtte personer, der de aller fleste er ansatte ved NTNU, var på en hyttetur i Rindal i privat regi. Da han ikke kom tilbake til avtalt tid reagerte de andre. – Da skjønte de at det hadde skjedd noe alvorlig, sier hun. Resten av turfølget ble fraktet til Trondheim og NTNU av kriseteamet i Rindal. – Det var ordentlig sterkt å møte dem.",
       "keyPoints": [
-        "Flere mener Molde-profil Daniel Daga burde vært utvist i amper storkamp mot Brann.",
-        "Han mener imidlertid at den første forseelen ikke burde vært gult kort.",
-        "AMPERT: Flere Brann-spillere reagerte sterkt på taklingen til Daniel Daga. – Han skulle vært utvist der, mente TV 2s kommentator Morten Langli.",
-        "Molde-profil Emil Breivik mener Brann-spillerne kan ha påvirket dommerens prestasjon i storkampen. – Det er en dommer som kanskje kan ta litt mer tak."
+        "Hun forteller at åtte personer, der de aller fleste er ansatte ved NTNU, var på en hyttetur i Rindal i privat regi.",
+        "Resten av turfølget ble fraktet til Trondheim og NTNU av kriseteamet i Rindal. – Det var ordentlig sterkt å møte dem.",
+        "Da han ikke kom tilbake til avtalt tid reagerte de andre. – Da skjønte de at det hadde skjedd noe alvorlig, sier hun.",
+        "Søndag tok hun og flere andre imot de sju andre fra turfølget."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/sterke-reaksjoner-_-mener-molde-profil-burde-vaert-utvist-1.18070645",
+      "url": "https://www.nrk.no/trondelag/ansatt-ved-ntnu-omkom-i-rindal-1.18070581",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/yyl4ErsjYU3H4zAA7FKCSQKrD_mhTpIqRthLhQ8cOn1w.jpg",
-      "localImage": "assets/news/ddbdb8b94193b1.webp",
+      "image": "https://gfx.nrk.no/6AD59a2z9lhnyYgvKyeSQwq34XJk5OwTJ8PNuFtjqMtA.jpg",
+      "localImage": "assets/news/35451c31196e2a.jpg",
       "score": 13
     },
     {
-      "id": "99c326441100ea",
+      "id": "6b70f91d6f91a4",
       "category": "Norge",
-      "published": "01.11. 15:31",
-      "publishedISO": "2026-11-01T15:31:34+01:00",
-      "title": "Person falt ned fra demning i Orkland",
-      "summary": "En person er fløyet til St.Olavs Hospital etter å ha falt rundt fem meter ned fra en demning i Orkland søndag ettermiddag. ORKLAND: Person skal ha sklidd og falt fem meter ned fra en demning. Politiet fikk melding fra AMK klokken 14:38 om at en person hadde falt fra en demning.",
+      "published": "01.11. 20:17",
+      "publishedISO": "2026-11-01T20:17:03+01:00",
+      "title": "Nå skal barna lære foreldrene om kriseberedskap",
+      "summary": "Nå er målet at de skal lære foreldrene sine å overleve en krise. Nå skal de fortelle foreldrene sine om dette. – Jeg vil tro de synes det er litt artig at jeg skal lære dem noe, sier Maya Falkum (12) og smiler. Barna lytter veldig til det vi sier her og er engasjerte, sier beredskapsrådgiver i Kristiansand kommune, Rolf Løvåsen.",
       "keyPoints": [
-        "En person er fløyet til St.Olavs Hospital etter å ha falt rundt fem meter ned fra en demning i Orkland søndag ettermiddag.",
-        "Politiet fikk melding fra AMK klokken 14:38 om at en person hadde falt fra en demning.",
-        "Både redningshelikopteret SAR Queen og luftambulanse ble sendt til stedet Ifølge politiet skal personen ha sklidd på en trebru som går over demningen, og falt ned i en steinur eller bekk. – Brua har ikke rekkverk, og plankene skal ha vært svært glatte, opplyser operasjonsleder Einar Røstum i en oppdatering klokken 16.05.",
-        "Da politiet ga sin første oppdatering klokken 15.09, var nødetatene i kontakt med personen, som da var våken."
+        "Nå skal de fortelle foreldrene sine om dette. – Jeg vil tro de synes det er litt artig at jeg skal lære dem noe, sier Maya Falkum (12) og smiler.",
+        "Nå er målet at de skal lære foreldrene sine å overleve en krise.",
+        "Barna lytter veldig til det vi sier her og er engasjerte, sier beredskapsrådgiver i Kristiansand kommune, Rolf Løvåsen.",
+        "Han og de andre elevene ved 5.–7. trinn på Karl Johans Minne skole i Kristiansand har nettopp lært hva de trenger å ha i beredskapslageret hjemme."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/person-falt-ned-fra-demning-i-orkland-1.18070631",
+      "url": "https://www.nrk.no/sorlandet/na-skal-barna-laere-foreldrene-om-kriseberedskap-1.18068044",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/erMT1OLdCkImJP-BsOE4RguRzkul2DdMDstonn5NfkIQ.jpg",
-      "localImage": "assets/news/99c326441100ea.jpg",
+      "image": "https://gfx.nrk.no/yZQyk3xp8Rk-J0nZLvBdCwlPIxZus5fc6ugFEvqc0HCA.jpg",
+      "localImage": "assets/news/6b70f91d6f91a4.jpg",
       "score": 13
     },
     {
-      "id": "4560b12e32718c",
+      "id": "8020098fa7e108",
       "category": "Norge",
-      "published": "01.11. 14:28",
-      "publishedISO": "2026-11-01T14:28:55+01:00",
-      "title": "Magnus (30) er narkodealer på si",
-      "summary": "Han har levd et dobbeltliv, og mener politiet sliter med å stoppe de farligste aktørene. «Magnus» står i leiligheten sin og ruller en joint foran ventilasjonsviften på kjøkkenet. NRK har valgt å anonymisere «Magnus» fordi vi ønsker å gi publikum innsyn i hvordan narkotika distribueres usett i samfunnet. Salgene har skjedd gjennom fysiske møter eller via post. – 70 kroner for å sende, og 500 kroner til meg, sier Magnus, og viser hvordan han putter en hasjklump i en konvolutt.",
+      "published": "01.11. 19:26",
+      "publishedISO": "2026-11-01T19:26:13+01:00",
+      "title": "Flere kontroverser i storkampen mellom Liverpool og Arsenal",
+      "summary": "Oppgjøret mellom Liverpool og Arsenal på Anfield ble alt annet enn kjedelig. Det ble intenst og tidvis ampert i storkampen mellom Liverpool og Arsenal, hvor sistnevnte trakk det lengste strået og vant 1–0 på Anfield. Deretter tente flere Arsenal-spillere på alle plugger og Madueke satte pannen mot argentinerens panne. – Han (Mac Allister) har faktisk klapset til Ødegaard i bakhodet, sa Sky Sports-ekspert Ian Wright. – Regelverket må gjøre noe med dette, for det der (at Mac Allister legger seg ned) er et forsøk på å få noen utvist.",
       "keyPoints": [
-        "Han har levd et dobbeltliv, og mener politiet sliter med å stoppe de farligste aktørene. «Magnus» står i leiligheten sin og ruller en joint foran ventilasjonsviften på kjøkkenet.",
-        "Salgene har skjedd gjennom fysiske møter eller via post. – 70 kroner for å sende, og 500 kroner til meg, sier Magnus, og viser hvordan han putter en hasjklump i en konvolutt.",
-        "NRK har valgt å anonymisere «Magnus» fordi vi ønsker å gi publikum innsyn i hvordan narkotika distribueres usett i samfunnet.",
-        "Han mener det er enkelt å selge, og at det er vanskelig for politiet å stoppe andre som selger det han betegner som sterkere narkotiske stoffer. «Magnus» skriver et tilfeldig tall for å vise hvordan han leverer en pakke innenlands med narkotika i Norge. – Men du selger jo også videre, er ikke du også en del av problemet? – Jeg er en del av problemet, men ikke en så stor del av problemet."
+        "Det ble intenst og tidvis ampert i storkampen mellom Liverpool og Arsenal, hvor sistnevnte trakk det lengste strået og vant 1–0 på Anfield.",
+        "Oppgjøret mellom Liverpool og Arsenal på Anfield ble alt annet enn kjedelig.",
+        "Deretter tente flere Arsenal-spillere på alle plugger og Madueke satte pannen mot argentinerens panne. – Han (Mac Allister) har faktisk klapset til Ødegaard i bakhodet, sa Sky Sports-ekspert Ian Wright. – Regelverket må gjøre noe med dette, for det der (at Mac Allister legger seg ned) er et forsøk på å få noen utvist.",
+        "TEMPERATUR: Flere spillere gikk i tottene på hverandre i storkampen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/xl/_magnus_-har-solgt-narkotika-i-15-ar-_-mener-det-er-vanskelig-for-politiet-a-ha-kontroll-1.17212721",
+      "url": "https://www.nrk.no/sport/flere-kontroverser-i-storkampen-mellom-liverpool-og-arsenal-1.18070721",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/AC2OoSKRuYK9tsEBSzR0fAFm7yWNuUYr6EdlVuxjP-4A.jpg",
-      "localImage": "assets/news/4560b12e32718c.jpg",
+      "image": "https://gfx.nrk.no/_AoX9o7BwU-HektTA3r0gAjpnL2CUSBPg5eXExAJD4gg.jpg",
+      "localImage": "assets/news/8020098fa7e108.jpg",
       "score": 13
     },
     {
-      "id": "7e7b328767e9ee",
-      "category": "Økonomi",
-      "published": "01.11. 14:04",
-      "publishedISO": "2026-11-01T14:04:49+01:00",
-      "title": "Designbutikk konkurs etter 32 år: – Vemodig",
-      "summary": "Advokat mener varehandelen står overfor et paradigmeskifte etter fire butikkonkurser på rappen. – Konkurs? Etter 32 års drift valgte eierne nylig å slå selskapet konkurs og stenge de to butikkene. – Det er vemodig, mener Ringnes, om at butikken nå forsvinner. Eierne har blant annet skutt inn fire millioner kroner av egen lomme i et forsøk på å redde virksomheten, ifølge Scheibler. – De har drevet denne virksomheten i 32 år.",
+      "id": "30d85bfeacf8b0",
+      "category": "Norge",
+      "published": "01.11. 18:44",
+      "publishedISO": "2026-11-01T18:44:00+01:00",
+      "title": "Vålerenga mot Tromsø",
+      "summary": "Ole Sæter scoret sine to første seriemål for Vålerenga i 4-0-seieren over Tromsø, som røk på to røde kort. Vålerenga fikk samtidig revansj etter at TIL vant 4–0 i den første kampen mellom lagene i nord i juli. Spissen hoppet majestetisk opp og styrte ballen i mål med foten etter et innlegg fra Dennis Gjengaar. – Snakk om å slå knockout på stopperne til Tromsø i løpet av de første 20 minuttene, sa Stamsø-Møller.",
       "keyPoints": [
-        "Etter 32 års drift valgte eierne nylig å slå selskapet konkurs og stenge de to butikkene. – Det er vemodig, mener Ringnes, om at butikken nå forsvinner.",
-        "Advokat mener varehandelen står overfor et paradigmeskifte etter fire butikkonkurser på rappen. – Konkurs?",
-        "Eierne har blant annet skutt inn fire millioner kroner av egen lomme i et forsøk på å redde virksomheten, ifølge Scheibler. – De har drevet denne virksomheten i 32 år.",
-        "E24 treffer milliardæren ved en ren tilfeldighet utenfor lokalene til butikken Kiil Interiørdesign i Karl Johans gate i Oslo – samme bygning som det ærverdige, Ringnes-eide Grand Hotel."
+        "Ole Sæter scoret sine to første seriemål for Vålerenga i 4-0-seieren over Tromsø, som røk på to røde kort.",
+        "Vålerenga fikk samtidig revansj etter at TIL vant 4–0 i den første kampen mellom lagene i nord i juli.",
+        "Spissen hoppet majestetisk opp og styrte ballen i mål med foten etter et innlegg fra Dennis Gjengaar. – Snakk om å slå knockout på stopperne til Tromsø i løpet av de første 20 minuttene, sa Stamsø-Møller.",
+        "For Vålerenga ga seieren et løft på tabellen til åttendeplass, og tre poeng gjør at de blåkledde fikk god klaring ned til bunnstriden."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/vl2L9l/designbutikk-konkurs-etter-32-aar-vemodig",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/77c21d0a-3a94-317f-9191-18a52ac96f04?fit=crop&h=675&upscale=true&w=1200&s=9f82a44521fba0802a14d093b209206ca950682a",
-      "localImage": "assets/news/7e7b328767e9ee.jpg",
+      "url": "https://www.nrk.no/tromsogfinnmark/valerenga-mot-tromso-1.18067951",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/jIcT-VF-ZqL3GmHWSDE0OADZBQiiZR9u2A7aj4rj1fwQ.jpg",
+      "localImage": "assets/news/30d85bfeacf8b0.jpg",
       "score": 13
     }
   ]
