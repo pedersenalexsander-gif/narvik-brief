@@ -1,27 +1,27 @@
 {
-  "updatedAt": "01.11.2026 kl. 00:47",
-  "updatedISO": "2026-11-01T00:47:38.482525+01:00",
+  "updatedAt": "01.11.2026 kl. 05:45",
+  "updatedISO": "2026-11-01T05:45:23.847646+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "a01506c336d708",
+      "id": "fd052779f9afa1",
       "category": "Norge",
-      "published": "31.10. 22:05",
-      "publishedISO": "2026-10-31T22:05:00+01:00",
-      "title": "Systemet «Samvirke først» hos Hovedredningssentralen skal redde fem flere liv i året",
-      "summary": "Andreas Ingsøy er redningsleder, og prosjektleder for «Samvirke Først». HRS har regnet på hva de sparte minuttene vil bety i praksis. – Vi har laget et forsiktig regnestykke basert på ulykkesstatistikken vår, og tror dette vil gjøre at vi kan redde fem flere menneskeliv hvert eneste år, sier Jon Halvorsen, direktør ved Hovedredningssentralen. HRS-direktøren sier anslaget om å redde om lag fem flere liv årlig, er et forsiktig estimat. – Vi forventer gevinster gjennom hele redningskjeden, og særlig i søksaksjoner.",
+      "published": "01.11. 04:44",
+      "publishedISO": "2026-11-01T04:44:40+01:00",
+      "title": "Trump: – Bolsonaro kan bli så lenge han vil",
+      "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Trump beskriver president valget som en «skam». – Jeg synes han ble behandlet veldig simpelt. Trump mener også Bolsonaro ble behandlet «urettferdig».",
       "keyPoints": [
-        "HRS har regnet på hva de sparte minuttene vil bety i praksis. – Vi har laget et forsiktig regnestykke basert på ulykkesstatistikken vår, og tror dette vil gjøre at vi kan redde fem flere menneskeliv hvert eneste år, sier Jon Halvorsen, direktør ved Hovedredningssentralen.",
-        "HRS-direktøren sier anslaget om å redde om lag fem flere liv årlig, er et forsiktig estimat. – Vi forventer gevinster gjennom hele redningskjeden, og særlig i søksaksjoner.",
-        "Andreas Ingsøy er redningsleder, og prosjektleder for «Samvirke Først».",
-        "Nå tar HRS i bruk et nytt system kalt «Samvirke først»."
+        "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil».",
+        "Trump beskriver president valget som en «skam». – Jeg synes han ble behandlet veldig simpelt.",
+        "Trump mener også Bolsonaro ble behandlet «urettferdig».",
+        "Bolsonaro (45) tapte valget mot Luiz Inácio Lula da Silva (81)."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/systemet-_samvirke-forst_-hos-hovedredningssentralen-skal-redde-fem-flere-liv-i-aret-1.18065337",
+      "url": "https://www.nrk.no/nyheter/trump_-_-bolsonaro-kan-bli-sa-lenge-han-vil-1.18070361",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/aA0k9SPYtaSQ49Qobn_EZQwFB1cIDsRpgXQEQ4Sl7XfA.jpg",
-      "localImage": "assets/news/a01506c336d708.jpg",
+      "image": "https://gfx.nrk.no/GEsyZNshAoXDokmaww3oKAchyWrZKMljfp_VsINA6rLg.jpg",
+      "localImage": "assets/news/fd052779f9afa1.jpg",
       "score": 17
     },
     {
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/26d19e32-b358-3bf8-acc5-f8b7f6ffa3cd?fit=crop&h=675&upscale=true&w=1200&s=60b55e973ecb625f88b1a698bebc8efd330b33b4",
       "localImage": "assets/news/446c32ddc39214.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "178e15c9fad088",
@@ -64,7 +64,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ca4acae0-14d0-3c4f-866a-723b8bba7543?fit=crop&h=675&upscale=true&w=1200&s=5654ea645eb59d4284a71d1d9e9d2f82685691d2",
       "localImage": "assets/news/178e15c9fad088.jpg",
+      "score": 15
+    },
+    {
+      "id": "a01506c336d708",
+      "category": "Norge",
+      "published": "31.10. 22:05",
+      "publishedISO": "2026-10-31T22:05:00+01:00",
+      "title": "Systemet «Samvirke først» hos Hovedredningssentralen skal redde fem flere liv i året",
+      "summary": "Andreas Ingsøy er redningsleder, og prosjektleder for «Samvirke Først». HRS har regnet på hva de sparte minuttene vil bety i praksis. – Vi har laget et forsiktig regnestykke basert på ulykkesstatistikken vår, og tror dette vil gjøre at vi kan redde fem flere menneskeliv hvert eneste år, sier Jon Halvorsen, direktør ved Hovedredningssentralen. HRS-direktøren sier anslaget om å redde om lag fem flere liv årlig, er et forsiktig estimat. – Vi forventer gevinster gjennom hele redningskjeden, og særlig i søksaksjoner.",
+      "keyPoints": [
+        "HRS har regnet på hva de sparte minuttene vil bety i praksis. – Vi har laget et forsiktig regnestykke basert på ulykkesstatistikken vår, og tror dette vil gjøre at vi kan redde fem flere menneskeliv hvert eneste år, sier Jon Halvorsen, direktør ved Hovedredningssentralen.",
+        "HRS-direktøren sier anslaget om å redde om lag fem flere liv årlig, er et forsiktig estimat. – Vi forventer gevinster gjennom hele redningskjeden, og særlig i søksaksjoner.",
+        "Andreas Ingsøy er redningsleder, og prosjektleder for «Samvirke Først».",
+        "Nå tar HRS i bruk et nytt system kalt «Samvirke først»."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/systemet-_samvirke-forst_-hos-hovedredningssentralen-skal-redde-fem-flere-liv-i-aret-1.18065337",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/aA0k9SPYtaSQ49Qobn_EZQwFB1cIDsRpgXQEQ4Sl7XfA.jpg",
+      "localImage": "assets/news/a01506c336d708.jpg",
       "score": 16
+    },
+    {
+      "id": "f8cd5c741501c3",
+      "category": "Økonomi",
+      "published": "01.11. 05:00",
+      "publishedISO": "2026-11-01T05:00:00+01:00",
+      "title": "Bergensmann eier ni Airbnb-bygårder fra Kypros",
+      "summary": "Bygårdene hans i Bergen eies fra en luksusvilla ved Middelhavet. – Han er ikke hjemme, svarer den norske kvinnen som står i døråpningen til en eksklusiv villa i kystbyen Pafos på Kypros. Rasmussens selskaper eier blant annet flere bygårder i Bergen. Skatteekspert og førsteamanuensis Eivind Furuseth ved Handelshøyskolen BI sier til E24 at det kan være flere grunner til å flytte eierskapet til Kypros. – Hvis vi ser på de skattemessige motivene, er en mulig forklaring at han ønsker å unngå norsk kildeskatt på utbytte– Dersom han hadde eid aksjene i JW Invest AS direkte etter en flytting til Kypros, skulle Rasmussen ha betalt 15% utbytteskatt til Norge.",
+      "keyPoints": [
+        "Bygårdene hans i Bergen eies fra en luksusvilla ved Middelhavet. – Han er ikke hjemme, svarer den norske kvinnen som står i døråpningen til en eksklusiv villa i kystbyen Pafos på Kypros.",
+        "Skatteekspert og førsteamanuensis Eivind Furuseth ved Handelshøyskolen BI sier til E24 at det kan være flere grunner til å flytte eierskapet til Kypros. – Hvis vi ser på de skattemessige motivene, er en mulig forklaring at han ønsker å unngå norsk kildeskatt på utbytte– Dersom han hadde eid aksjene i JW Invest AS direkte etter en flytting til Kypros, skulle Rasmussen ha betalt 15% utbytteskatt til Norge.",
+        "Rasmussens selskaper eier blant annet flere bygårder i Bergen.",
+        "Samme år forsvant også eierskapet til bygårdene ut av Norge, til et selskap på Kypros."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/WgVQOd/bergensmann-eier-ni-airbnb-bygaarder-fra-kypros",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/49e8a89b-7c07-3620-a957-021209aa41de?fit=crop&h=675&upscale=true&w=1200&s=5791922c3bccdf210336037b9068a63802011c7d",
+      "localImage": "assets/news/f8cd5c741501c3.jpg",
+      "score": 13
     },
     {
       "id": "7de3e15c53ef47",
@@ -85,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/gsJ12_mUmtCceQEdnaagcQauBIRUfSNXmmlLGWl5p8OA.jpg",
       "localImage": "assets/news/7de3e15c53ef47.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "fe2d1a35a5b7e1",
@@ -106,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/_OxMMic9SHGoj_G-bfWsCg2W4HFffa-BNNz6GU-59vog.jpg",
       "localImage": "assets/news/fe2d1a35a5b7e1.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "82674d8fdd4399",
@@ -127,90 +169,6 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/NpHX-U2ZWU8DTaHziNK4_g9Ke7m7xb4yblZwvfrgCbFQ.jpg",
       "localImage": "assets/news/82674d8fdd4399.jpg",
-      "score": 13
-    },
-    {
-      "id": "aaf304183a69a5",
-      "category": "Økonomi",
-      "published": "31.10. 18:59",
-      "publishedISO": "2026-10-31T18:59:40+01:00",
-      "title": "Senterpartiet til Aasland: – Slutt å grine",
-      "summary": "Torsdag sa energiminister Terje Aasland at han «griner av glede hver gang det regner». Senterpartiet mener at har løsningen på problemet: Å innføre en avgift på 20 øre per kilowattime Norge eksporterer ut av landet. – Det er på tide å slutte å grine, og faktisk gjøre noe med det, sier partiets energipolitiske talsperson Maren Grøthe. Mengden strøm vi eksporterer, er ikke bærekraftig, sier Grøthe. – Problemet med det Aasland sa i går, er at han jo varsler mye høyere strømpriser enn det de har lagt til grunn i statsbudsjettet.",
-      "keyPoints": [
-        "Senterpartiet mener at har løsningen på problemet: Å innføre en avgift på 20 øre per kilowattime Norge eksporterer ut av landet. – Det er på tide å slutte å grine, og faktisk gjøre noe med det, sier partiets energipolitiske talsperson Maren Grøthe.",
-        "Mengden strøm vi eksporterer, er ikke bærekraftig, sier Grøthe. – Problemet med det Aasland sa i går, er at han jo varsler mye høyere strømpriser enn det de har lagt til grunn i statsbudsjettet.",
-        "Torsdag sa energiminister Terje Aasland at han «griner av glede hver gang det regner».",
-        "Partiet ønsker en ny strømavgift på utenlandskablene. –⁠ Vi skjønner at dette kommer til å skape bråk, sier Trygve Slagsvold Vedum."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/xlqM8X/senterpartiet-til-aasland-slutt-aa-grine",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ae4761df-1034-3fc4-9231-4b6cf0a82093?fit=crop&h=675&upscale=true&w=1200&s=ebda401843d14b79534640b95ea46acbf4c56d8c",
-      "localImage": "assets/news/aaf304183a69a5.jpg",
-      "score": 12
-    },
-    {
-      "id": "67bb0366ff8a2b",
-      "category": "Norge",
-      "published": "31.10. 17:41",
-      "publishedISO": "2026-10-31T17:41:22+01:00",
-      "title": "22. juli minnesmerke på Askøy utsett for hærverk",
-      "summary": "Minnesmerket etter 22. juli på Askøy vart reist etter at to ungdommar frå lokalsamfunnet mista livet på Utøya. To ungdomar frå Askøy miste livet på Utøya 22. juli: Kevin Daae Berland (15) og Silje Stamneshagen (18). – Hærverket er vondt å tenke på. Dette er ikkje fyrste gang det blir gjort hærverk på viktige minnesmerke i tilknyting til terroren 22. juli.",
-      "keyPoints": [
-        "Dette er ikkje fyrste gang det blir gjort hærverk på viktige minnesmerke i tilknyting til terroren 22. juli.",
-        "Minnesmerket etter 22. juli på Askøy vart reist etter at to ungdommar frå lokalsamfunnet mista livet på Utøya.",
-        "To ungdomar frå Askøy miste livet på Utøya 22. juli: Kevin Daae Berland (15) og Silje Stamneshagen (18). – Hærverket er vondt å tenke på.",
-        "Merete Stamneshagen bur på Askøy og mista dottera si 22. juli."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/22.-juli-minnesmerke-pa-askoy-utsett-for-haerverk-1.18070228",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ZjUx0tuPoFdhg_zr3q7yVAr7zcCEMcFLA1HcrAgBg_ow.jpg",
-      "localImage": "assets/news/67bb0366ff8a2b.jpg",
-      "score": 12
-    },
-    {
-      "id": "ed22580dd3642d",
-      "category": "Norge",
-      "published": "31.10. 16:27",
-      "publishedISO": "2026-10-31T16:27:25+01:00",
-      "title": "46 av 48 brear er i ferd med å forsvinne: – Det er ganske alarmerande",
-      "summary": "Ifølgje NVE sitt Breatlas (målt 2019) er det tre ulike brear, der den lengste i midten (BreID 1909) skal vere 414 meter lang. 46 av desse kjem til å vere vekk innan nokre få år, ifølgje Yttredal. – Vi lagar eit system for å sjå kva som skjer frå år til år og visualiserer det, slik at dei ikkje berre forsvinn stille og roleg ut av historia vår. Desse kontrastane frå fjord til fjell som vi kjenner so godt, med snø på toppane og grønt og frodig nedover liene, det kjem til å vere vekk i løpet av veldig kort tid, seier Yttredal. – Det er ganske alarmerande, eigentleg, seier ho.",
-      "keyPoints": [
-        "Desse kontrastane frå fjord til fjell som vi kjenner so godt, med snø på toppane og grønt og frodig nedover liene, det kjem til å vere vekk i løpet av veldig kort tid, seier Yttredal. – Det er ganske alarmerande, eigentleg, seier ho.",
-        "Ifølgje NVE sitt Breatlas (målt 2019) er det tre ulike brear, der den lengste i midten (BreID 1909) skal vere 414 meter lang.",
-        "46 av desse kjem til å vere vekk innan nokre få år, ifølgje Yttredal. – Vi lagar eit system for å sjå kva som skjer frå år til år og visualiserer det, slik at dei ikkje berre forsvinn stille og roleg ut av historia vår.",
-        "Det er i overkant av 2000 brear i Noreg, ifølgje ei NVE-kartlegging i 2022, alt etter kor stort eit felt med årelang is må vere før du tykkjer det er ein isbre."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/hundrevis-av-isbrear-forsvinn.-i-geirangerfjorden-og-naeroyfjorden-er-46-av-48-brear-doyande-1.18065778",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/v6m6PUYrG91ItEK3Y9kp5gAYCtDG-h3KB1lhftt38dNw.jpg",
-      "localImage": "assets/news/ed22580dd3642d.jpg",
-      "score": 12
-    },
-    {
-      "id": "ea6390ded784e5",
-      "category": "Norge",
-      "published": "31.10. 15:29",
-      "publishedISO": "2026-10-31T15:29:30+01:00",
-      "title": "Ut mot stjernespiller etter ny United-smell: – Uakseptabelt",
-      "summary": "Mot Chelsea mistet Lisandro Martínez hodet fullstendig, ble utvist og etterlot et kriserammet Manchester United i fritt fall. UTVISNING: Lisandro Martínez pådro seg sitt andre gule kort og etterlot laget med ti mann på banen. Først måtte argentineren og resten av forsvarsrekka tåle kraftig refs da Morgan Rogers fikk spasere upresset gjennom feltet og trille inn 1–0 like etter pause.",
-      "keyPoints": [
-        "Først måtte argentineren og resten av forsvarsrekka tåle kraftig refs da Morgan Rogers fikk spasere upresset gjennom feltet og trille inn 1–0 like etter pause.",
-        "Mot Chelsea mistet Lisandro Martínez hodet fullstendig, ble utvist og etterlot et kriserammet Manchester United i fritt fall.",
-        "UTVISNING: Lisandro Martínez pådro seg sitt andre gule kort og etterlot laget med ti mann på banen.",
-        "Dette er niende kamp på rad uten United-seier og forrige seier kom i Mesterligaen mot Sabah tilbake til 10. september Vondt skulle imidlertid bli til helsvart kort tid etter."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/ut-mot-stjernespiller-etter-ny-united-smell_-_-uakseptabelt-1.18070089",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/B7Zbzd8T6rAy44dSd0uMdwIdEprSJ3HqkNKKAXgAzKMg.jpg",
-      "localImage": "assets/news/ea6390ded784e5.jpg",
       "score": 12
     }
   ]
