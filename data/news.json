@@ -1,28 +1,196 @@
 {
-  "updatedAt": "02.11.2026 kl. 08:20",
-  "updatedISO": "2026-11-02T08:20:36.727826+01:00",
+  "updatedAt": "02.11.2026 kl. 18:22",
+  "updatedISO": "2026-11-02T18:22:23.493384+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "55d28b9077947e",
+      "id": "c789bcd9361112",
       "category": "Norge",
-      "published": "02.11. 07:40",
-      "publishedISO": "2026-11-02T07:40:01+01:00",
-      "title": "Tok ulykken på Higravtindan til høyesterett. Fikk avslag",
-      "summary": "Høyesterett avslår å behandle dødsulykken på Higravtindan. Kari Rødsand omkom i en ulykke på Higravtindan i 2012. – Det var overraskende og skuffende at Høyesterett ikke har henvist saken. Ville stille turlaget til ansvar for konas død – nå får han en regning på 350.000 – Ankeutvalget kan bare gi samtykke når anken gjelder spørsmål som har betydning utenfor den foreliggende sak, eller det av andre grunner er særlig viktig å få saken avgjort i Høyesterett.",
+      "published": "02.11. 17:24",
+      "publishedISO": "2026-11-02T17:24:49+01:00",
+      "title": "Kirurg og overlege mener Norge har svært dårlig krigsberedskap innen helse",
+      "summary": "Norske sykehus er ikke godt nok forberedt til å ta imot tusenvis av skadde soldater, ifølge kirurg og overlege. Men forskere har avdekket store mangler i norsk helseberedskap. – Norske sykehus er ikke forberedt på en krig, sier Kristina Stølen Ugelvik, overlege og kirurg ved Voss sykehus. Ugelvik mener det må trenes på to scenarioer: Ugelvik mener helsevesenet i Norge er solid, men at det er for store variasjoner fra sykehus til sykehus når det gjelder beredskap.",
       "keyPoints": [
-        "Kari Rødsand omkom i en ulykke på Higravtindan i 2012. – Det var overraskende og skuffende at Høyesterett ikke har henvist saken.",
-        "Høyesterett avslår å behandle dødsulykken på Higravtindan.",
-        "Ville stille turlaget til ansvar for konas død – nå får han en regning på 350.000 – Ankeutvalget kan bare gi samtykke når anken gjelder spørsmål som har betydning utenfor den foreliggende sak, eller det av andre grunner er særlig viktig å få saken avgjort i Høyesterett.",
-        "Hun representerer de etterlatte etter Kari Rødsand, som omkom på en organisert fjelltur på Higravtindan i Lofoten i 2021."
+        "Men forskere har avdekket store mangler i norsk helseberedskap. – Norske sykehus er ikke forberedt på en krig, sier Kristina Stølen Ugelvik, overlege og kirurg ved Voss sykehus.",
+        "Ugelvik mener det må trenes på to scenarioer: Ugelvik mener helsevesenet i Norge er solid, men at det er for store variasjoner fra sykehus til sykehus når det gjelder beredskap.",
+        "Norske sykehus er ikke godt nok forberedt til å ta imot tusenvis av skadde soldater, ifølge kirurg og overlege.",
+        "Sandvik sykehusene i Norge om å sørge for å ha 7000 sengeplasser klare dersom det skulle bryte ut krig i Norge. – Det er urealistisk at sykehusene vil klare dette uten at det følger friske penger med, sier Ugelvik."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/tok-ulykken-pa-higravtindan-til-hoyesterett.-fikk-avslag-1.18069573",
+      "url": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/tGtKh7XjWx2m3VlQP2CNHQ1wqAFWHoKEQXK-8wHEbm0A.jpg",
-      "localImage": "assets/news/55d28b9077947e.jpg",
-      "score": 13
+      "image": "https://gfx.nrk.no/DMqSaUCKUrTmz67r33muAAfwo-QxhqclCu8x2e3HD02A.jpg",
+      "localImage": "assets/news/c789bcd9361112.jpg",
+      "score": 21
+    },
+    {
+      "id": "bebd321e1a79f1",
+      "category": "Verden",
+      "published": "02.11. 15:24",
+      "publishedISO": "2026-11-02T15:24:25+01:00",
+      "title": "Hva vi vet om hacket til varslingsappen i Ukraina og Russland",
+      "summary": "Ukrainas nødvarslingsapp utstedte en landsomfattende advarsel om luftangrep, samt varsler om en radiologisk trussel, et kjemisk angrep og gatekamper i Kiev søndag kveld - som alle viste seg å være falske. Hva vi vet om hacket til varslingsappen i Ukraina og Russland. Video, 00:01:00Hva vi vet om varselappenshacket i Ukraina og Russland Up Next.",
+      "keyPoints": [
+        "Video, 00:01:00Hva vi vet om varselappenshacket i Ukraina og Russland Up Next.",
+        "Ukrainas nødvarslingsapp utstedte en landsomfattende advarsel om luftangrep, samt varsler om en radiologisk trussel, et kjemisk angrep og gatekamper i Kiev søndag kveld - som alle viste seg å være falske.",
+        "Noen timer senere sa Russland at den tilsvarende appen også hadde utstedt falske varsler, og begge landene hevdet at systemene deres hadde blitt hacket.",
+        "Det er fortsatt uklart hvem som har skylden for cyberangrepene og om de to hendelsene henger sammen – BBCs cyberkorrespondent Joe Tidy forklarer det vi vet så langt."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg",
+      "localImage": "assets/news/bebd321e1a79f1.jpg",
+      "score": 17
+    },
+    {
+      "id": "b1b6ce848f0e4f",
+      "category": "USA",
+      "published": "01.11. 23:25",
+      "publishedISO": "2026-11-01T23:25:51+01:00",
+      "title": "US Midterms: North Carolina voters weigh up Trump's track record on cost of living",
+      "summary": "Velgere i Nord-Carolina veier opp Trumps resultater når det gjelder levekostnader. Video, 00:05:48Velgere i North Carolina veier opp Trumps merittliste når det gjelder levekostnader Up Next. Video, 00:00:59Hva står på spill for Trump i USAs mellomperiode? 'Min stemme er fortsatt viktig' - Amerikanerne veier inn over kraften i stemmeseddelen deres.",
+      "keyPoints": [
+        "North Carolina voters weigh up Trump's track record on cost of living.",
+        "Video, 00:00:59Hva står på spill for Trump i USAs mellomperiode? 'Min stemme er fortsatt viktig' - Amerikanerne veier inn over kraften i stemmeseddelen deres.",
+        "BBCs Clive Myrie besøkte North Carolina hvor han snakket med velgerne om saken i forkant av valget på tirsdag.",
+        "Video, 00:01:13‘Min stemme er fortsatt viktig’ – Amerikanere veier inn over kraften i deres stemmeseddel CCTV, zip ties og valgovervåkere: Hvordan amerikanske poststemmer sikres og telles."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72fa/live/5f195450-d696-11f1-93e1-3b657b665bcf.png",
+      "localImage": "assets/news/b1b6ce848f0e4f.png",
+      "score": 14
+    },
+    {
+      "id": "29659eb29e6ca6",
+      "category": "Økonomi",
+      "published": "02.11. 17:42",
+      "publishedISO": "2026-11-02T17:42:47+01:00",
+      "title": "Jens Ulltveit-Moe: – Sissener overdriver grovt",
+      "summary": "Det bryter med ideen om minst mulig skadevirkninger, sier investor og milliardær Jens Ulltveit-Moe til E24. – Jeg kan derfor forstå at folk reagerer. Samtidig er han kritisk til kombinasjonen av formues- og utbytteskatt, og mener velstanden vår har blitt en hvilepute. – Sissener overdriver grovt. 84 år gamle Ulltveit-Moe har tatt i bruk kunstig intelligens for å sammenligne ulike land. – På lørdag ba jeg ChatGPT sammenligne en gjennomsnittsfamilie i Norge, Danmark, Finland og USA.",
+      "keyPoints": [
+        "Samtidig er han kritisk til kombinasjonen av formues- og utbytteskatt, og mener velstanden vår har blitt en hvilepute. – Sissener overdriver grovt.",
+        "Det bryter med ideen om minst mulig skadevirkninger, sier investor og milliardær Jens Ulltveit-Moe til E24. – Jeg kan derfor forstå at folk reagerer.",
+        "84 år gamle Ulltveit-Moe har tatt i bruk kunstig intelligens for å sammenligne ulike land. – På lørdag ba jeg ChatGPT sammenligne en gjennomsnittsfamilie i Norge, Danmark, Finland og USA.",
+        "Ulltveit-Moe er klokkeklar på at Norge er et av verdens beste land å bo i for vanlige folk."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/Ogv7Bb/jens-ulltveit-moe-sissener-overdriver-grovt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/709d8a6d-0347-30aa-a84d-e9d09c3b42a7?fit=crop&h=675&upscale=true&w=1200&s=82b82e5ba36ccf1eb35a7b21c7d85a57fb85f10c",
+      "localImage": "assets/news/29659eb29e6ca6.jpg",
+      "score": 17
+    },
+    {
+      "id": "23e53c35e6f041",
+      "category": "Økonomi",
+      "published": "02.11. 13:30",
+      "publishedISO": "2026-11-02T13:30:23+01:00",
+      "title": "Binance-kunder har tatt ut 3,64 milliarder dollar",
+      "summary": "Siden har kundene tatt ut 3,64 milliarder dollar, som tilsvarende 2,1 prosent av midlene Binance forvalter, opplyser selskapet ifølge Tagesschau. Analyseplattformen DefiLlama anslår imidlertid at 5,81 milliarder dollar har forlatt børsen. Hackere stjal torsdag verdier for 6,3 milliarder dollar.",
+      "keyPoints": [
+        "Siden har kundene tatt ut 3,64 milliarder dollar, som tilsvarende 2,1 prosent av midlene Binance forvalter, opplyser selskapet ifølge Tagesschau.",
+        "Analyseplattformen DefiLlama anslår imidlertid at 5,81 milliarder dollar har forlatt børsen.",
+        "Hackere stjal torsdag verdier for 6,3 milliarder dollar.",
+        "Bitcoin steg mandag til over 78.000 dollar etter å ha falt fem prosent da angrepet ble kjent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Jrzm57/binance-kunder-har-tatt-ut-3-64-milliarder-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e4cf2f86-68d8-34ab-b907-5290455d430c?fit=crop&h=675&upscale=true&w=1200&s=1cae01cbc4eeaa08fee4bbd6dc17ae8eb1494dfa",
+      "localImage": "assets/news/23e53c35e6f041.jpg",
+      "score": 17
+    },
+    {
+      "id": "44bb410902b7d7",
+      "category": "AI",
+      "published": "02.11. 08:42",
+      "publishedISO": "2026-11-02T08:42:33+01:00",
+      "title": "Binance hack: Users withdraw $3.6bn after record crypto heist",
+      "summary": "Binance-kunder trakk ut 3,6 milliarder dollar (2,7 milliarder pund) av eiendeler fra verdens største kryptovalutabørs da den åpnet igjen søndag etter det som antas å være det største hacket i historien. Se: Hva vi vet om Binances hack på 6,3 milliarder dollar og hva du skal gjøre hvis du er berørt Binance sa at den hadde erstattet kundenes eiendeler ved å bruke en kombinasjon av kilder, inkludert dets selskapskasse så vel som futuresforsikring og nødreservefond. \"Vår forpliktelse forblir den samme: Binance vil fullt ut dekke den økonomiske konsekvensen av midlene som ble stjålet i denne hendelsen,\" sa firmaet. Hvorfor Nord-Koreas \"elite\" hackere er hovedmistenkte i det store Binance-hacket Møt kryptomilliardærene som bygger en verden der penger kjøper deg en stemme",
+      "keyPoints": [
+        "Binance-kunder trakk ut 3,6 milliarder dollar (2,7 milliarder pund) av eiendeler fra verdens største kryptovalutabørs da den åpnet igjen søndag etter det som antas å være det største hacket i historien.",
+        "Se: Hva vi vet om Binances hack på 6,3 milliarder dollar og hva du skal gjøre hvis du er berørt Binance sa at den hadde erstattet kundenes eiendeler ved å bruke en kombinasjon av kilder, inkludert dets selskapskasse så vel som futuresforsikring og nødreservefond. \"Vår forpliktelse forblir den samme: Binance vil fullt ut dekke den økonomiske konsekvensen av midlene som ble stjålet i denne hendelsen,\" sa firmaet.",
+        "Hvorfor Nord-Koreas \"elite\" hackere er hovedmistenkte i det store Binance-hacket Møt kryptomilliardærene som bygger en verden der penger kjøper deg en stemme",
+        "AI oppdaget en massiv cybersikkerhetsfeil – her er hva som skjedde Angrepet på Binance er blitt tilskrevet TraderTraitor, en nordkoreansk cyberkriminalitetsgruppe også kjent som Lazarus Group, som stjal en rekordhøy $1,5 milliarder fra kryptobørsen Bybit i 2025."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
+      "localImage": "assets/news/44bb410902b7d7.jpg",
+      "score": 16
+    },
+    {
+      "id": "9eb679fad30d88",
+      "category": "Norge",
+      "published": "02.11. 14:45",
+      "publishedISO": "2026-11-02T14:45:16+01:00",
+      "title": "Slik rømte Bolsonaro til USA",
+      "summary": "Da fristen gikk ut for innlevering klokken 11 tirsdag, var Bolsonaro ikke å få tak i, skriver den australske rikskringkasteren ABC. Argentina ledes av en president med nære bånd til familiene Trump og Bolsonaro.' Independent skriver at ifølge «FlightRadar24» fortsatte flyet til byen Guayaquil i Ecuador hvor det landet klokken 0546 onsdag morgen. En sentral ansatt i utenriksdepartementet i USA skal ha bekreftet overfor journalist Luke Cooper i den australske statskringkasteren ABC at amerikanske myndigheter ville utstede visum til Bolsonaro og hans familie.",
+      "keyPoints": [
+        "En sentral ansatt i utenriksdepartementet i USA skal ha bekreftet overfor journalist Luke Cooper i den australske statskringkasteren ABC at amerikanske myndigheter ville utstede visum til Bolsonaro og hans familie.",
+        "Argentina ledes av en president med nære bånd til familiene Trump og Bolsonaro.' Independent skriver at ifølge «FlightRadar24» fortsatte flyet til byen Guayaquil i Ecuador hvor det landet klokken 0546 onsdag morgen.",
+        "Da fristen gikk ut for innlevering klokken 11 tirsdag, var Bolsonaro ikke å få tak i, skriver den australske rikskringkasteren ABC.",
+        "Mens partiet til president Lula da Silva jobbet med en internasjonal arrestordre, klarte Flavio Bolsonaro å rømme landet."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/slik-romte-bolsonaro-til-usa-1.18070372",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/dh9F4v-MA6wjxoZnMdugFAW_4Bhrs7cWIG5UvJE4bABw.jpg",
+      "localImage": "assets/news/9eb679fad30d88.jpg",
+      "score": 17
+    },
+    {
+      "id": "4b6854f0c15cd9",
+      "category": "Norge",
+      "published": "02.11. 12:04",
+      "publishedISO": "2026-11-02T12:04:30+01:00",
+      "title": "Krev stans i motorvegbygging",
+      "summary": "SV vil stanse utbygging av det dei meiner er miljøfiendtlege motorvegar. I samband med forhandlingane om nytt statsbudsjett, krev SV stans i utbygging av ny motorveg. Dei vil stanse heile utbygginga av motorveg på strekninga Oslo - Stavanger. – Det å kaste bort ein milliard er ein svært dårleg grunn til å kaste bort to, sa partiet sin stortingsrepresentant Margit Bye.",
+      "keyPoints": [
+        "I samband med forhandlingane om nytt statsbudsjett, krev SV stans i utbygging av ny motorveg.",
+        "Dei vil stanse heile utbygginga av motorveg på strekninga Oslo - Stavanger. – Det å kaste bort ein milliard er ein svært dårleg grunn til å kaste bort to, sa partiet sin stortingsrepresentant Margit Bye.",
+        "SV vil stanse utbygging av det dei meiner er miljøfiendtlege motorvegar.",
+        "Noko av det dei vil krevje i forhandlinga er å kutte kraftig i utbygging av motorveg i Noreg."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/krev-stans-i-motorvegbygging-1.18071140",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/0Duw3YRubt3PWT3ZDSek1AWTnyzir8w07Sl7j_5qK1tA.jpg",
+      "localImage": "assets/news/4b6854f0c15cd9.jpg",
+      "score": 16
+    },
+    {
+      "id": "00fae304ac57bb",
+      "category": "Økonomi",
+      "published": "02.11. 11:41",
+      "publishedISO": "2026-11-02T11:41:43+01:00",
+      "title": "Tordner mot Statnett: – Mangler bare atomkrig med Putin",
+      "summary": "Statnett har likevel stoppet alle nye reservasjoner av kraft til stor industri nord for Svartisen i Nordland. Inn i kalkylene kommer også at linjene til Sverige og Sør-Norge ryker av feil, sier nordlendingen. – Så da mangler det jo bare å putte på atomkrig med Putin som kriterium, så kan det jo egentlig ikke bo folk der. Statnett viser til at elektrifiseringen av Melkøya og etableringen av det enorme datasenteret Nscale i Narvik vil snu situasjonen på hodet, og medføre at man går fra 20 til 80 prosent import inn til regionen.",
+      "keyPoints": [
+        "Inn i kalkylene kommer også at linjene til Sverige og Sør-Norge ryker av feil, sier nordlendingen. – Så da mangler det jo bare å putte på atomkrig med Putin som kriterium, så kan det jo egentlig ikke bo folk der.",
+        "Statnett har likevel stoppet alle nye reservasjoner av kraft til stor industri nord for Svartisen i Nordland.",
+        "Statnett viser til at elektrifiseringen av Melkøya og etableringen av det enorme datasenteret Nscale i Narvik vil snu situasjonen på hodet, og medføre at man går fra 20 til 80 prosent import inn til regionen.",
+        "Han mener at et reelt effektunderskudd på 50 til 100 megawatt lett kan løses med eksisterende teknologi, for eksempel ved å koble inn småkraftverk som ikke ligger i sentralnettet i de timene det kniper. – Og det som er hele paradokset, og hvor vi åpenbart er uenige, det er at i vår verden så bader vi i kraft, i Statnetts verden så er vi utsolgt."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/4OP4lq/tordner-mot-statnett-mangler-bare-atomkrig-med-putin",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/976c4d08-1240-3b37-bcd6-5fa036496034?fit=crop&h=675&upscale=true&w=1200&s=3a4301ff805205d80355cda457d8ac42c776b297",
+      "localImage": "assets/news/00fae304ac57bb.jpg",
+      "score": 16
     },
     {
       "id": "d3553ef86ddc18",
@@ -43,175 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/249fa393-0ad3-3c92-9019-2e936a2f7036?fit=crop&h=675&upscale=true&w=1200&s=e21c0938f2c3b2a98af36431e04fa3a7b41ce6f6",
       "localImage": "assets/news/d3553ef86ddc18.jpg",
-      "score": 17
-    },
-    {
-      "id": "6d4ccb52ef6017",
-      "category": "Økonomi",
-      "published": "01.11. 19:31",
-      "publishedISO": "2026-11-01T19:31:02+01:00",
-      "title": "Venter konflikter og støy: – Du har Trumps ego",
-      "summary": "Dette kalles mellomvalg når det ikke samtidig er presidentvalg, som kun avholdes hvert fjerde år. tirsdag 3. november vil ha stor betydning for hva president Donald Trump kan få gjennomført i andre halvdel av sin presidentperiode, i alle fall på hjemmebane. Magnussen venter færre store økonomiske vedtak og mer konflikt om budsjetter og statens låneopptak dersom demokratene vinner. – Det mest sannsynlige er at det blir mer konflikter, og at det kan bli en del markedsuro rundt det, sier Magnussen. Du har Trumps ego som vil vinne Iran-krigen, eller hans ego som vil få fredsprisen. – Krone og oljepris tenker jeg.",
-      "keyPoints": [
-        "Magnussen venter færre store økonomiske vedtak og mer konflikt om budsjetter og statens låneopptak dersom demokratene vinner. – Det mest sannsynlige er at det blir mer konflikter, og at det kan bli en del markedsuro rundt det, sier Magnussen.",
-        "Dette kalles mellomvalg når det ikke samtidig er presidentvalg, som kun avholdes hvert fjerde år. tirsdag 3. november vil ha stor betydning for hva president Donald Trump kan få gjennomført i andre halvdel av sin presidentperiode, i alle fall på hjemmebane.",
-        "Du har Trumps ego som vil vinne Iran-krigen, eller hans ego som vil få fredsprisen. – Krone og oljepris tenker jeg.",
-        "Kontroll i Senatet gjør at demokratene kan nekte å godkjenne Trumps nominasjoner til domstoler, regjeringsposisjoner og andre viktige roller."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/aOzMx7/venter-konflikter-og-stoey-du-har-trumps-ego",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/018b2024-35f4-3e47-bf42-a514aa8ff48b?fit=crop&h=675&upscale=true&w=1200&s=5d05727d808147702054e8d03c5219b56f386982",
-      "localImage": "assets/news/6d4ccb52ef6017.jpg",
       "score": 15
-    },
-    {
-      "id": "446c32ddc39214",
-      "category": "Økonomi",
-      "published": "31.10. 22:17",
-      "publishedISO": "2026-10-31T22:17:32+01:00",
-      "title": "Milliardærer punger ut i skattekrig",
-      "summary": "Forslaget heter Proposition 40 og gjelder en engangsskatt på inntil 5 prosent av formuen til personer med skattepliktige verdier over én milliard dollar. Alle som var bosatt i i California 1. januar i år blir ilagt skatten om verdiene er store nok, ifølge Ballotpedia. 42 prosent er tilhengere av forslaget, skriver Los Angeles Times.",
-      "keyPoints": [
-        "Forslaget heter Proposition 40 og gjelder en engangsskatt på inntil 5 prosent av formuen til personer med skattepliktige verdier over én milliard dollar.",
-        "Alle som var bosatt i i California 1. januar i år blir ilagt skatten om verdiene er store nok, ifølge Ballotpedia.",
-        "42 prosent er tilhengere av forslaget, skriver Los Angeles Times.",
-        "Investor John Doerr har gitt 40 millioner og Patrick Collison, sjefen for finanstjenesten Stripe, har gitt 33 millioner, skriver The New York Times."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/n9qbLm/milliardaerer-punger-ut-i-skattekrig",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/26d19e32-b358-3bf8-acc5-f8b7f6ffa3cd?fit=crop&h=675&upscale=true&w=1200&s=60b55e973ecb625f88b1a698bebc8efd330b33b4",
-      "localImage": "assets/news/446c32ddc39214.jpg",
-      "score": 15
-    },
-    {
-      "id": "c102d51438add6",
-      "category": "Økonomi",
-      "published": "01.11. 12:39",
-      "publishedISO": "2026-11-01T12:39:59+01:00",
-      "title": "Etter mellomvalget: Vil Maga splittes?",
-      "summary": "Hans Høeg fra Drammen visste ikke helt hva han skulle tro da hans gamle venn Thomas Massie ringte i 2012 og spurte om han ville bli med til Washington DC. Men han takket ja, noe han beskrev i boken Vår mann i Washington. I Stopp verden møter han politisk redaktør Torbjørn Røe Isaksen til samtale om hvordan mellomvalget kan forme amerikansk politikk fremover.",
-      "keyPoints": [
-        "I Stopp verden møter han politisk redaktør Torbjørn Røe Isaksen til samtale om hvordan mellomvalget kan forme amerikansk politikk fremover.",
-        "Hans Høeg fra Drammen visste ikke helt hva han skulle tro da hans gamle venn Thomas Massie ringte i 2012 og spurte om han ville bli med til Washington DC.",
-        "Men han takket ja, noe han beskrev i boken Vår mann i Washington.",
-        "I Stopp verden møter politisk redaktør Torbjørn Røe Isaksen en gjest hver uke for å snakke om et tema – over et godt glass med drikke."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/R5Wkd8/etter-mellomvalget-vil-maga-splittes",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b4a474d1-5454-3775-a266-896e8a7165ac?fit=crop&h=675&upscale=true&w=1200&s=e42a1c1f02710b738f644a15c26c6325628fbdf9",
-      "localImage": "assets/news/c102d51438add6.jpg",
-      "score": 14
-    },
-    {
-      "id": "f3d25b7a026fef",
-      "category": "Norge",
-      "published": "02.11. 07:17",
-      "publishedISO": "2026-11-02T07:17:06+01:00",
-      "title": "Stange kommune vil ha flere innbyggere og skal auksjonere bort 18 tomter i Åsbygda, Vallset og på Es",
-      "summary": "24. november auksjonerer Stange kommune bort 18 byggeklare tomter i bygdene Åsbygda, Vallset og Espa. – På sikt er det jo for å få folk til å bosette seg her, og bidra med skatteinntekter til kommunen, sier Bjørn Lunstøeng, eiendomssjef i Stange kommune. Eiendomssjef i Stange, Bjørn Lunstøeng håper rimelige tomter kan få flere til å bygge og bosette seg i bygdene. Her i Granfaret i Vallset skal fem tomter under hammeren i kommunestyresalen i Stange den 24. november.",
-      "keyPoints": [
-        "24. november auksjonerer Stange kommune bort 18 byggeklare tomter i bygdene Åsbygda, Vallset og Espa. – På sikt er det jo for å få folk til å bosette seg her, og bidra med skatteinntekter til kommunen, sier Bjørn Lunstøeng, eiendomssjef i Stange kommune.",
-        "Eiendomssjef i Stange, Bjørn Lunstøeng håper rimelige tomter kan få flere til å bygge og bosette seg i bygdene.",
-        "Her i Granfaret i Vallset skal fem tomter under hammeren i kommunestyresalen i Stange den 24. november.",
-        "I tillegg skal det auksjoneres bort 2 tomter på Espa og 11 i Åsbygda."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/innlandet/stange-kommune-vil-ha-flere-innbyggere-og-skal-auksjonere-bort-18-tomter-i-asbygda_-vallset-og-pa-es-1.18066961",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/CMgh5i7bVlfRzC0R92jnegZKIj7qlonGDgKNtH1tReEQ.jpg",
-      "localImage": "assets/news/f3d25b7a026fef.webp",
-      "score": 13
-    },
-    {
-      "id": "10fb97166004be",
-      "category": "Norge",
-      "published": "02.11. 07:09",
-      "publishedISO": "2026-11-02T07:09:43+01:00",
-      "title": "Pasientkø: UNN og Tromsø kommune uenige om utskrivingsklare pasienter",
-      "summary": "Universitetssykehuset Nord-Norge (UNN) i Tromsø etterlyser tiltak fra Tromsø kommune etter at 36 utskrivningsklare pasienter opptar sengeplasser ved sykehuset. Sykehuset krever tiltak, men Tromsø kommune mener UNN selv bidrar til problemet ved å legge ned sengeplasser. I et brev til Tromsø kommune uttrykker UNN sterk bekymring over at 36 utskrivningsklare pasienter per 20. oktober fortsatt oppholder seg ved sykehuset i påvente av et kommunalt tilbud.",
-      "keyPoints": [
-        "Universitetssykehuset Nord-Norge (UNN) i Tromsø etterlyser tiltak fra Tromsø kommune etter at 36 utskrivningsklare pasienter opptar sengeplasser ved sykehuset.",
-        "I et brev til Tromsø kommune uttrykker UNN sterk bekymring over at 36 utskrivningsklare pasienter per 20. oktober fortsatt oppholder seg ved sykehuset i påvente av et kommunalt tilbud.",
-        "Sykehuset krever tiltak, men Tromsø kommune mener UNN selv bidrar til problemet ved å legge ned sengeplasser.",
-        "Per Angermo i Tromsø kommune mener kapasitetsutfordringene må løses i fellesskap mellom kommunen og sykehuset. – Forholdet er slik at vi rapporterer til Statsforvalteren, og ikke til UNN."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/pasientko_-unn-og-tromso-kommune-uenige-om-utskrivingsklare-pasienter-1.18069324",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/B_jlfUs143yWWn5CWaBL5AnJxCQFYka2K5owVfJt0tvQ.jpg",
-      "localImage": "assets/news/10fb97166004be.jpg",
-      "score": 13
-    },
-    {
-      "id": "50b53eca403f73",
-      "category": "Økonomi",
-      "published": "02.11. 06:04",
-      "publishedISO": "2026-11-02T06:04:12+01:00",
-      "title": "– Hvis du først blir avhengig av Starlink, klarer du ikke å komme deg ut",
-      "summary": "Telia-sjefen mener Norge må ta risikoen knyttet til SpaceX på det «høyeste alvor». – Hvis du først blir avhengig av Starlink, klarer du ikke å komme deg ut av den avhengigheten. Samtidig skriver Moen i en kronikk at «økt avhengighet av SpaceX og Starlink kan skape strategiske sårbarheter som Norge og Europa vil slite med å reversere». I fjor omsatte SpaceX-selskapet Starlink Norway for 831 milioner kroner i Norge. – SpaceX hadde verdens største børsnotering, henter enorme summer i gjeldsmarkedet, og er blitt et konglomerat innen ulike teknologier, som vurderer å fusjonere med Tesla.",
-      "keyPoints": [
-        "Telia-sjefen mener Norge må ta risikoen knyttet til SpaceX på det «høyeste alvor». – Hvis du først blir avhengig av Starlink, klarer du ikke å komme deg ut av den avhengigheten.",
-        "I fjor omsatte SpaceX-selskapet Starlink Norway for 831 milioner kroner i Norge. – SpaceX hadde verdens største børsnotering, henter enorme summer i gjeldsmarkedet, og er blitt et konglomerat innen ulike teknologier, som vurderer å fusjonere med Tesla.",
-        "Samtidig skriver Moen i en kronikk at «økt avhengighet av SpaceX og Starlink kan skape strategiske sårbarheter som Norge og Europa vil slite med å reversere».",
-        "Nå pøser SpaceX penger inn i AI, og Starlink satser på å bli en stor mobiloperatør. – Det snakkes hele tiden om et europeisk alternativ til Starlink, men Europa henger milevis etter."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/qy5qew/hvis-du-foerst-blir-avhengig-av-starlink-klarer-du-ikke-aa-komme-deg-ut",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0ce5dc2d-c1a2-3f20-968b-2633af8a10ae?fit=crop&h=675&upscale=true&w=1200&s=f435fcdc1363b49311301d22e9073bd06a323da5",
-      "localImage": "assets/news/50b53eca403f73.jpg",
-      "score": 13
-    },
-    {
-      "id": "409896cd1ec0ab",
-      "category": "Norge",
-      "published": "02.11. 05:44",
-      "publishedISO": "2026-11-02T05:44:42+01:00",
-      "title": "Avføringsbanken i Harstad mangler donorer: – Håper flere melder seg",
-      "summary": "Inne på laboratoriet til Avføringsbanken ved UNN Harstad lager Linn og Hege det man på fagspråket kaller fekale transplantater av avføringen fra friske donorer. I Nord-Norge får rundt 40–45 pasienter årlig hjelp fra Avføringsbanken ved UNN Harstad. – Nå trenger vi virkelig nye donorer. Avføringsbanken i Harstad har noen behandlinger igjen, men trenger flere donorer for å få laget nye behandlinger.",
-      "keyPoints": [
-        "Avføringsbanken i Harstad har noen behandlinger igjen, men trenger flere donorer for å få laget nye behandlinger.",
-        "I Nord-Norge får rundt 40–45 pasienter årlig hjelp fra Avføringsbanken ved UNN Harstad. – Nå trenger vi virkelig nye donorer.",
-        "Inne på laboratoriet til Avføringsbanken ved UNN Harstad lager Linn og Hege det man på fagspråket kaller fekale transplantater av avføringen fra friske donorer.",
-        "Overlege Linn Skjevling er en av to som jobber i Avføringsbanken i Harstad. – Nå trenger vi virkelig nye donorer."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/avforingsbanken-i-harstad-mangler-donorer_-_-haper-flere-melder-seg-1.18065785",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/im70yiglFH2vU5fFCYfWOwo5KRS7z2nMpHuyksMSSs6w.jpg",
-      "localImage": "assets/news/409896cd1ec0ab.jpg",
-      "score": 13
-    },
-    {
-      "id": "5cc2d6be4635c0",
-      "category": "Norge",
-      "published": "01.11. 23:24",
-      "publishedISO": "2026-11-01T23:24:26+01:00",
-      "title": "Andrea Kimi Antonelli blir verdensmester i Formel 1",
-      "summary": "Kimi Antonelli (20) ble søndag kveld den yngste Formel 1-verdensmester noensinne. Kimi Antonelli strakte armene i været etter at VM-tittelen var sikret med 3. plass i Mexico søndag kveld. Italias statsminister Giorgia Meloni gleder seg over VM-tittelen. – I en alder av bare 20 år når han en ekstraordinær milepæl og blir tidenes yngste verdensmester i historien til Formel 1.",
-      "keyPoints": [
-        "Kimi Antonelli (20) ble søndag kveld den yngste Formel 1-verdensmester noensinne.",
-        "Kimi Antonelli strakte armene i været etter at VM-tittelen var sikret med 3. plass i Mexico søndag kveld.",
-        "Italias statsminister Giorgia Meloni gleder seg over VM-tittelen. – I en alder av bare 20 år når han en ekstraordinær milepæl og blir tidenes yngste verdensmester i historien til Formel 1.",
-        "Antonelli er den første italienske Formel 1-verdensmesteren siden 1953, da Alberto Ascari tok sin andre tittel på to år."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/andrea-kimi-antonelli-blir-verdensmester-i-formel-1-1.18070787",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/flZxk-HLROyKBpYsIeOG8gJCQxRR1VBmyUa7YVRMiSVA.jpg",
-      "localImage": "assets/news/5cc2d6be4635c0.jpg",
-      "score": 12
     }
   ]
 }
