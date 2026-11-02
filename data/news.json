@@ -1,28 +1,49 @@
 {
-  "updatedAt": "02.11.2026 kl. 01:51",
-  "updatedISO": "2026-11-02T01:51:17.907360+01:00",
+  "updatedAt": "02.11.2026 kl. 08:20",
+  "updatedISO": "2026-11-02T08:20:36.727826+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "c079412bf470e1",
+      "id": "55d28b9077947e",
       "category": "Norge",
-      "published": "01.11. 22:22",
-      "publishedISO": "2026-11-01T22:22:28+01:00",
-      "title": "Dette kvier jeg meg for å fortelle fra Midtøsten",
-      "summary": "Men kunne jeg fortelle om det uten å få dårlig samvittighet? Et dårlig tegn. – Hvor skal jeg, roper jeg til det syriske politiet og kaster armene opp i været. – Du har fem minutter på deg, roper de etter meg. Men hver gang jeg kommer over en hyggelig historie fra Midtøsten, hører jeg en stemme i hodet: Skal du virkelig bruke tid på dette når det brenner i regionen?",
+      "published": "02.11. 07:40",
+      "publishedISO": "2026-11-02T07:40:01+01:00",
+      "title": "Tok ulykken på Higravtindan til høyesterett. Fikk avslag",
+      "summary": "Høyesterett avslår å behandle dødsulykken på Higravtindan. Kari Rødsand omkom i en ulykke på Higravtindan i 2012. – Det var overraskende og skuffende at Høyesterett ikke har henvist saken. Ville stille turlaget til ansvar for konas død – nå får han en regning på 350.000 – Ankeutvalget kan bare gi samtykke når anken gjelder spørsmål som har betydning utenfor den foreliggende sak, eller det av andre grunner er særlig viktig å få saken avgjort i Høyesterett.",
       "keyPoints": [
-        "Et dårlig tegn. – Hvor skal jeg, roper jeg til det syriske politiet og kaster armene opp i været. – Du har fem minutter på deg, roper de etter meg.",
-        "Men kunne jeg fortelle om det uten å få dårlig samvittighet?",
-        "Men hver gang jeg kommer over en hyggelig historie fra Midtøsten, hører jeg en stemme i hodet: Skal du virkelig bruke tid på dette når det brenner i regionen?",
-        "Jeg spurter over Umayyad-plassen i Damaskus så fort jeg kan."
+        "Kari Rødsand omkom i en ulykke på Higravtindan i 2012. – Det var overraskende og skuffende at Høyesterett ikke har henvist saken.",
+        "Høyesterett avslår å behandle dødsulykken på Higravtindan.",
+        "Ville stille turlaget til ansvar for konas død – nå får han en regning på 350.000 – Ankeutvalget kan bare gi samtykke når anken gjelder spørsmål som har betydning utenfor den foreliggende sak, eller det av andre grunner er særlig viktig å få saken avgjort i Høyesterett.",
+        "Hun representerer de etterlatte etter Kari Rødsand, som omkom på en organisert fjelltur på Higravtindan i Lofoten i 2021."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/dette-kvier-jeg-meg-for-a-fortelle-fra-midtosten-1.18068309",
+      "url": "https://www.nrk.no/nordland/tok-ulykken-pa-higravtindan-til-hoyesterett.-fikk-avslag-1.18069573",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/qDfR0Ib911x33332VrafDAX1TFvp4fbMfNCFnN0llujw.jpg",
-      "localImage": "assets/news/c079412bf470e1.jpg",
+      "image": "https://gfx.nrk.no/tGtKh7XjWx2m3VlQP2CNHQ1wqAFWHoKEQXK-8wHEbm0A.jpg",
+      "localImage": "assets/news/55d28b9077947e.jpg",
       "score": 13
+    },
+    {
+      "id": "d3553ef86ddc18",
+      "category": "Økonomi",
+      "published": "02.11. 06:02",
+      "publishedISO": "2026-11-02T06:02:19+01:00",
+      "title": "Når internett blir sikkerhets- og utenrikspolitikk",
+      "summary": "Vi snakker selvsagt om Starlink, og om vi i Norge forstår konsekvensene av i ytterste fall å gi fra oss internett til Elon Musk og SpaceX. Alle teleoperatører i Norge har gjennom over 30 år investert flere hundre milliarder i robust mobil- og bredbåndsinfrastruktur. En debatt om Starlink handler selvsagt ikke om hvorvidt vi er for eller mot internett fra satellitter.",
+      "keyPoints": [
+        "Vi snakker selvsagt om Starlink, og om vi i Norge forstår konsekvensene av i ytterste fall å gi fra oss internett til Elon Musk og SpaceX.",
+        "En debatt om Starlink handler selvsagt ikke om hvorvidt vi er for eller mot internett fra satellitter.",
+        "Alle teleoperatører i Norge har gjennom over 30 år investert flere hundre milliarder i robust mobil- og bredbåndsinfrastruktur.",
+        "Adm. direktør for Telia Norge og medlem av konsernledelsen til Telia Kronikken gir uttrykk for skribentens holdning."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/teknologi/i/Jr0ppP/er-norge-klare-for-aa-gjoere-seg-avhengig-av-elon-musk",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/249fa393-0ad3-3c92-9019-2e936a2f7036?fit=crop&h=675&upscale=true&w=1200&s=e21c0938f2c3b2a98af36431e04fa3a7b41ce6f6",
+      "localImage": "assets/news/d3553ef86ddc18.jpg",
+      "score": 17
     },
     {
       "id": "6d4ccb52ef6017",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/018b2024-35f4-3e47-bf42-a514aa8ff48b?fit=crop&h=675&upscale=true&w=1200&s=5d05727d808147702054e8d03c5219b56f386982",
       "localImage": "assets/news/6d4ccb52ef6017.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "446c32ddc39214",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/26d19e32-b358-3bf8-acc5-f8b7f6ffa3cd?fit=crop&h=675&upscale=true&w=1200&s=60b55e973ecb625f88b1a698bebc8efd330b33b4",
       "localImage": "assets/news/446c32ddc39214.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "c102d51438add6",
@@ -85,132 +106,111 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b4a474d1-5454-3775-a266-896e8a7165ac?fit=crop&h=675&upscale=true&w=1200&s=e42a1c1f02710b738f644a15c26c6325628fbdf9",
       "localImage": "assets/news/c102d51438add6.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "63f9537a6ba131",
+      "id": "f3d25b7a026fef",
       "category": "Norge",
-      "published": "01.11. 21:57",
-      "publishedISO": "2026-11-01T21:57:44+01:00",
-      "title": "Fann synåler i godteri på halloween",
-      "summary": "Både i Moelv og Ålesund skal barn ha funne synåler i godteri etter knask eller knep. I ettertid har jentene fortalt at dei fann akkurat denne biten på bakken medan dei var ute og gjekk. Det fortel mora hennar, Veronica Solbjørg. – Vi gjekk innom mange hus, og kom heim med tidenes største pose med godteri, fortel mora.",
+      "published": "02.11. 07:17",
+      "publishedISO": "2026-11-02T07:17:06+01:00",
+      "title": "Stange kommune vil ha flere innbyggere og skal auksjonere bort 18 tomter i Åsbygda, Vallset og på Es",
+      "summary": "24. november auksjonerer Stange kommune bort 18 byggeklare tomter i bygdene Åsbygda, Vallset og Espa. – På sikt er det jo for å få folk til å bosette seg her, og bidra med skatteinntekter til kommunen, sier Bjørn Lunstøeng, eiendomssjef i Stange kommune. Eiendomssjef i Stange, Bjørn Lunstøeng håper rimelige tomter kan få flere til å bygge og bosette seg i bygdene. Her i Granfaret i Vallset skal fem tomter under hammeren i kommunestyresalen i Stange den 24. november.",
       "keyPoints": [
-        "Både i Moelv og Ålesund skal barn ha funne synåler i godteri etter knask eller knep.",
-        "I ettertid har jentene fortalt at dei fann akkurat denne biten på bakken medan dei var ute og gjekk.",
-        "Det fortel mora hennar, Veronica Solbjørg. – Vi gjekk innom mange hus, og kom heim med tidenes største pose med godteri, fortel mora.",
-        "I Innlandet har politiet førebels ikkje fått melding om nåler i godteri, opplyser operasjonsleiar Haagen Løvseth."
+        "24. november auksjonerer Stange kommune bort 18 byggeklare tomter i bygdene Åsbygda, Vallset og Espa. – På sikt er det jo for å få folk til å bosette seg her, og bidra med skatteinntekter til kommunen, sier Bjørn Lunstøeng, eiendomssjef i Stange kommune.",
+        "Eiendomssjef i Stange, Bjørn Lunstøeng håper rimelige tomter kan få flere til å bygge og bosette seg i bygdene.",
+        "Her i Granfaret i Vallset skal fem tomter under hammeren i kommunestyresalen i Stange den 24. november.",
+        "I tillegg skal det auksjoneres bort 2 tomter på Espa og 11 i Åsbygda."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/fann-synaler-i-godteri-pa-halloween-1531469",
+      "url": "https://www.nrk.no/innlandet/stange-kommune-vil-ha-flere-innbyggere-og-skal-auksjonere-bort-18-tomter-i-asbygda_-vallset-og-pa-es-1.18066961",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BwK-ePgej-CxQJ5oAvBs9QSUz37ULAJEZ0ibQ7mTg1mQ",
-      "localImage": "assets/news/63f9537a6ba131.webp",
+      "image": "https://gfx.nrk.no/CMgh5i7bVlfRzC0R92jnegZKIj7qlonGDgKNtH1tReEQ.jpg",
+      "localImage": "assets/news/f3d25b7a026fef.webp",
       "score": 13
     },
     {
-      "id": "512a7cdd538b03",
+      "id": "10fb97166004be",
       "category": "Norge",
-      "published": "01.11. 21:34",
-      "publishedISO": "2026-11-01T21:34:42+01:00",
-      "title": "Kilder til NRK: FIS har fått et uventet Bolsjunov-dilemma",
-      "summary": "Nå forteller kilder til NRK at FIS frykter de står overfor et umulig Russland-valg. Kilder i FIS forteller nå til NRK at de har innsett at dagens regelverk egentlig sier at Bolsjunov igjen skal få lov til å delta i verdenscupen, til tross for at det i utgangspunktet ikke var intensjonen med regelverket. Der står ikke Bolsjunovs navn. – Aleksandr har ikke fått noe offisielt svar fra FIS, sier visepresident i det russiske skiforbundet, Jelena Välbe, til NRK.",
+      "published": "02.11. 07:09",
+      "publishedISO": "2026-11-02T07:09:43+01:00",
+      "title": "Pasientkø: UNN og Tromsø kommune uenige om utskrivingsklare pasienter",
+      "summary": "Universitetssykehuset Nord-Norge (UNN) i Tromsø etterlyser tiltak fra Tromsø kommune etter at 36 utskrivningsklare pasienter opptar sengeplasser ved sykehuset. Sykehuset krever tiltak, men Tromsø kommune mener UNN selv bidrar til problemet ved å legge ned sengeplasser. I et brev til Tromsø kommune uttrykker UNN sterk bekymring over at 36 utskrivningsklare pasienter per 20. oktober fortsatt oppholder seg ved sykehuset i påvente av et kommunalt tilbud.",
       "keyPoints": [
-        "Nå forteller kilder til NRK at FIS frykter de står overfor et umulig Russland-valg.",
-        "Kilder i FIS forteller nå til NRK at de har innsett at dagens regelverk egentlig sier at Bolsjunov igjen skal få lov til å delta i verdenscupen, til tross for at det i utgangspunktet ikke var intensjonen med regelverket.",
-        "Der står ikke Bolsjunovs navn. – Aleksandr har ikke fått noe offisielt svar fra FIS, sier visepresident i det russiske skiforbundet, Jelena Välbe, til NRK.",
-        "NRK har vært i kontakt med FIS sin presseavdeling søndag."
+        "Universitetssykehuset Nord-Norge (UNN) i Tromsø etterlyser tiltak fra Tromsø kommune etter at 36 utskrivningsklare pasienter opptar sengeplasser ved sykehuset.",
+        "I et brev til Tromsø kommune uttrykker UNN sterk bekymring over at 36 utskrivningsklare pasienter per 20. oktober fortsatt oppholder seg ved sykehuset i påvente av et kommunalt tilbud.",
+        "Sykehuset krever tiltak, men Tromsø kommune mener UNN selv bidrar til problemet ved å legge ned sengeplasser.",
+        "Per Angermo i Tromsø kommune mener kapasitetsutfordringene må løses i fellesskap mellom kommunen og sykehuset. – Forholdet er slik at vi rapporterer til Statsforvalteren, og ikke til UNN."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/kilder-til-nrk_-fis-har-fatt-et-uventet-bolsjunov-dilemma-1.18070456",
+      "url": "https://www.nrk.no/tromsogfinnmark/pasientko_-unn-og-tromso-kommune-uenige-om-utskrivingsklare-pasienter-1.18069324",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PMTC6c8QSJFIQ_UVBt-6KgdaJ8Dcs5cJCV41wQbafKYQ.jpg",
-      "localImage": "assets/news/512a7cdd538b03.webp",
+      "image": "https://gfx.nrk.no/B_jlfUs143yWWn5CWaBL5AnJxCQFYka2K5owVfJt0tvQ.jpg",
+      "localImage": "assets/news/10fb97166004be.jpg",
       "score": 13
     },
     {
-      "id": "fd052779f9afa1",
-      "category": "Norge",
-      "published": "01.11. 04:44",
-      "publishedISO": "2026-11-01T04:44:40+01:00",
-      "title": "Trump: – Bolsonaro kan bli så lenge han vil",
-      "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Trump beskriver presidentvalget som en «skam». – Jeg synes han ble behandlet veldig simpelt. Trump mener også Bolsonaro ble behandlet «urettferdig».",
+      "id": "50b53eca403f73",
+      "category": "Økonomi",
+      "published": "02.11. 06:04",
+      "publishedISO": "2026-11-02T06:04:12+01:00",
+      "title": "– Hvis du først blir avhengig av Starlink, klarer du ikke å komme deg ut",
+      "summary": "Telia-sjefen mener Norge må ta risikoen knyttet til SpaceX på det «høyeste alvor». – Hvis du først blir avhengig av Starlink, klarer du ikke å komme deg ut av den avhengigheten. Samtidig skriver Moen i en kronikk at «økt avhengighet av SpaceX og Starlink kan skape strategiske sårbarheter som Norge og Europa vil slite med å reversere». I fjor omsatte SpaceX-selskapet Starlink Norway for 831 milioner kroner i Norge. – SpaceX hadde verdens største børsnotering, henter enorme summer i gjeldsmarkedet, og er blitt et konglomerat innen ulike teknologier, som vurderer å fusjonere med Tesla.",
       "keyPoints": [
-        "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil».",
-        "Trump beskriver presidentvalget som en «skam». – Jeg synes han ble behandlet veldig simpelt.",
-        "Trump mener også Bolsonaro ble behandlet «urettferdig».",
-        "Bolsonaro (45) tapte valget mot Luiz Inácio Lula da Silva (81)."
+        "Telia-sjefen mener Norge må ta risikoen knyttet til SpaceX på det «høyeste alvor». – Hvis du først blir avhengig av Starlink, klarer du ikke å komme deg ut av den avhengigheten.",
+        "I fjor omsatte SpaceX-selskapet Starlink Norway for 831 milioner kroner i Norge. – SpaceX hadde verdens største børsnotering, henter enorme summer i gjeldsmarkedet, og er blitt et konglomerat innen ulike teknologier, som vurderer å fusjonere med Tesla.",
+        "Samtidig skriver Moen i en kronikk at «økt avhengighet av SpaceX og Starlink kan skape strategiske sårbarheter som Norge og Europa vil slite med å reversere».",
+        "Nå pøser SpaceX penger inn i AI, og Starlink satser på å bli en stor mobiloperatør. – Det snakkes hele tiden om et europeisk alternativ til Starlink, men Europa henger milevis etter."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/trump_-_-bolsonaro-kan-bli-sa-lenge-han-vil-1.18070361",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/GEsyZNshAoXDokmaww3oKAchyWrZKMljfp_VsINA6rLg.jpg",
-      "localImage": "assets/news/fd052779f9afa1.jpg",
+      "url": "https://e24.no/naeringsliv/i/qy5qew/hvis-du-foerst-blir-avhengig-av-starlink-klarer-du-ikke-aa-komme-deg-ut",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/0ce5dc2d-c1a2-3f20-968b-2633af8a10ae?fit=crop&h=675&upscale=true&w=1200&s=f435fcdc1363b49311301d22e9073bd06a323da5",
+      "localImage": "assets/news/50b53eca403f73.jpg",
       "score": 13
     },
     {
-      "id": "35451c31196e2a",
+      "id": "409896cd1ec0ab",
       "category": "Norge",
-      "published": "01.11. 20:32",
-      "publishedISO": "2026-11-01T20:32:14+01:00",
-      "title": "Ansatt ved NTNU omkom i Rindal",
-      "summary": "Hun forteller at åtte personer, der de aller fleste er ansatte ved NTNU, var på en hyttetur i Rindal i privat regi. Da han ikke kom tilbake til avtalt tid reagerte de andre. – Da skjønte de at det hadde skjedd noe alvorlig, sier hun. Resten av turfølget ble fraktet til Trondheim og NTNU av kriseteamet i Rindal. – Det var ordentlig sterkt å møte dem.",
+      "published": "02.11. 05:44",
+      "publishedISO": "2026-11-02T05:44:42+01:00",
+      "title": "Avføringsbanken i Harstad mangler donorer: – Håper flere melder seg",
+      "summary": "Inne på laboratoriet til Avføringsbanken ved UNN Harstad lager Linn og Hege det man på fagspråket kaller fekale transplantater av avføringen fra friske donorer. I Nord-Norge får rundt 40–45 pasienter årlig hjelp fra Avføringsbanken ved UNN Harstad. – Nå trenger vi virkelig nye donorer. Avføringsbanken i Harstad har noen behandlinger igjen, men trenger flere donorer for å få laget nye behandlinger.",
       "keyPoints": [
-        "Hun forteller at åtte personer, der de aller fleste er ansatte ved NTNU, var på en hyttetur i Rindal i privat regi.",
-        "Resten av turfølget ble fraktet til Trondheim og NTNU av kriseteamet i Rindal. – Det var ordentlig sterkt å møte dem.",
-        "Da han ikke kom tilbake til avtalt tid reagerte de andre. – Da skjønte de at det hadde skjedd noe alvorlig, sier hun.",
-        "Søndag tok hun og flere andre imot de sju andre fra turfølget."
+        "Avføringsbanken i Harstad har noen behandlinger igjen, men trenger flere donorer for å få laget nye behandlinger.",
+        "I Nord-Norge får rundt 40–45 pasienter årlig hjelp fra Avføringsbanken ved UNN Harstad. – Nå trenger vi virkelig nye donorer.",
+        "Inne på laboratoriet til Avføringsbanken ved UNN Harstad lager Linn og Hege det man på fagspråket kaller fekale transplantater av avføringen fra friske donorer.",
+        "Overlege Linn Skjevling er en av to som jobber i Avføringsbanken i Harstad. – Nå trenger vi virkelig nye donorer."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/ansatt-ved-ntnu-omkom-i-rindal-1.18070581",
+      "url": "https://www.nrk.no/tromsogfinnmark/avforingsbanken-i-harstad-mangler-donorer_-_-haper-flere-melder-seg-1.18065785",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6AD59a2z9lhnyYgvKyeSQwq34XJk5OwTJ8PNuFtjqMtA.jpg",
-      "localImage": "assets/news/35451c31196e2a.jpg",
-      "score": 12
+      "image": "https://gfx.nrk.no/im70yiglFH2vU5fFCYfWOwo5KRS7z2nMpHuyksMSSs6w.jpg",
+      "localImage": "assets/news/409896cd1ec0ab.jpg",
+      "score": 13
     },
     {
-      "id": "6b70f91d6f91a4",
+      "id": "5cc2d6be4635c0",
       "category": "Norge",
-      "published": "01.11. 20:17",
-      "publishedISO": "2026-11-01T20:17:03+01:00",
-      "title": "Nå skal barna lære foreldrene om kriseberedskap",
-      "summary": "Nå er målet at de skal lære foreldrene sine å overleve en krise. Nå skal de fortelle foreldrene sine om dette. – Jeg vil tro de synes det er litt artig at jeg skal lære dem noe, sier Maya Falkum (12) og smiler. Barna lytter veldig til det vi sier her og er engasjerte, sier beredskapsrådgiver i Kristiansand kommune, Rolf Løvåsen.",
+      "published": "01.11. 23:24",
+      "publishedISO": "2026-11-01T23:24:26+01:00",
+      "title": "Andrea Kimi Antonelli blir verdensmester i Formel 1",
+      "summary": "Kimi Antonelli (20) ble søndag kveld den yngste Formel 1-verdensmester noensinne. Kimi Antonelli strakte armene i været etter at VM-tittelen var sikret med 3. plass i Mexico søndag kveld. Italias statsminister Giorgia Meloni gleder seg over VM-tittelen. – I en alder av bare 20 år når han en ekstraordinær milepæl og blir tidenes yngste verdensmester i historien til Formel 1.",
       "keyPoints": [
-        "Nå skal de fortelle foreldrene sine om dette. – Jeg vil tro de synes det er litt artig at jeg skal lære dem noe, sier Maya Falkum (12) og smiler.",
-        "Nå er målet at de skal lære foreldrene sine å overleve en krise.",
-        "Barna lytter veldig til det vi sier her og er engasjerte, sier beredskapsrådgiver i Kristiansand kommune, Rolf Løvåsen.",
-        "Han og de andre elevene ved 5.–7. trinn på Karl Johans Minne skole i Kristiansand har nettopp lært hva de trenger å ha i beredskapslageret hjemme."
+        "Kimi Antonelli (20) ble søndag kveld den yngste Formel 1-verdensmester noensinne.",
+        "Kimi Antonelli strakte armene i været etter at VM-tittelen var sikret med 3. plass i Mexico søndag kveld.",
+        "Italias statsminister Giorgia Meloni gleder seg over VM-tittelen. – I en alder av bare 20 år når han en ekstraordinær milepæl og blir tidenes yngste verdensmester i historien til Formel 1.",
+        "Antonelli er den første italienske Formel 1-verdensmesteren siden 1953, da Alberto Ascari tok sin andre tittel på to år."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/na-skal-barna-laere-foreldrene-om-kriseberedskap-1.18068044",
+      "url": "https://www.nrk.no/sport/andrea-kimi-antonelli-blir-verdensmester-i-formel-1-1.18070787",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/yZQyk3xp8Rk-J0nZLvBdCwlPIxZus5fc6ugFEvqc0HCA.jpg",
-      "localImage": "assets/news/6b70f91d6f91a4.jpg",
-      "score": 12
-    },
-    {
-      "id": "8020098fa7e108",
-      "category": "Norge",
-      "published": "01.11. 19:26",
-      "publishedISO": "2026-11-01T19:26:13+01:00",
-      "title": "Flere kontroverser i storkampen mellom Liverpool og Arsenal",
-      "summary": "Oppgjøret mellom Liverpool og Arsenal på Anfield ble alt annet enn kjedelig. Det ble intenst og tidvis ampert i storkampen mellom Liverpool og Arsenal, hvor sistnevnte trakk det lengste strået og vant 1–0 på Anfield. Deretter tente flere Arsenal-spillere på alle plugger og Madueke satte pannen mot argentinerens panne. – Han (Mac Allister) har faktisk klapset til Ødegaard i bakhodet, sa Sky Sports-ekspert Ian Wright. – Regelverket må gjøre noe med dette, for det der (at Mac Allister legger seg ned) er et forsøk på å få noen utvist.",
-      "keyPoints": [
-        "Det ble intenst og tidvis ampert i storkampen mellom Liverpool og Arsenal, hvor sistnevnte trakk det lengste strået og vant 1–0 på Anfield.",
-        "Oppgjøret mellom Liverpool og Arsenal på Anfield ble alt annet enn kjedelig.",
-        "Deretter tente flere Arsenal-spillere på alle plugger og Madueke satte pannen mot argentinerens panne. – Han (Mac Allister) har faktisk klapset til Ødegaard i bakhodet, sa Sky Sports-ekspert Ian Wright. – Regelverket må gjøre noe med dette, for det der (at Mac Allister legger seg ned) er et forsøk på å få noen utvist.",
-        "TEMPERATUR: Flere spillere gikk i tottene på hverandre i storkampen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/flere-kontroverser-i-storkampen-mellom-liverpool-og-arsenal-1.18070721",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_AoX9o7BwU-HektTA3r0gAjpnL2CUSBPg5eXExAJD4gg.jpg",
-      "localImage": "assets/news/8020098fa7e108.jpg",
+      "image": "https://gfx.nrk.no/flZxk-HLROyKBpYsIeOG8gJCQxRR1VBmyUa7YVRMiSVA.jpg",
+      "localImage": "assets/news/5cc2d6be4635c0.jpg",
       "score": 12
     }
   ]
