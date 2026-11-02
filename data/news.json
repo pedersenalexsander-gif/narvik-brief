@@ -1,28 +1,28 @@
 {
-  "updatedAt": "01.11.2026 kl. 22:15",
-  "updatedISO": "2026-11-01T22:15:54.922194+01:00",
+  "updatedAt": "02.11.2026 kl. 01:51",
+  "updatedISO": "2026-11-02T01:51:17.907360+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "fd052779f9afa1",
+      "id": "c079412bf470e1",
       "category": "Norge",
-      "published": "01.11. 04:44",
-      "publishedISO": "2026-11-01T04:44:40+01:00",
-      "title": "Trump: – Bolsonaro kan bli så lenge han vil",
-      "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Trump beskriver presidentvalget som en «skam». – Jeg synes han ble behandlet veldig simpelt. Trump mener også Bolsonaro ble behandlet «urettferdig».",
+      "published": "01.11. 22:22",
+      "publishedISO": "2026-11-01T22:22:28+01:00",
+      "title": "Dette kvier jeg meg for å fortelle fra Midtøsten",
+      "summary": "Men kunne jeg fortelle om det uten å få dårlig samvittighet? Et dårlig tegn. – Hvor skal jeg, roper jeg til det syriske politiet og kaster armene opp i været. – Du har fem minutter på deg, roper de etter meg. Men hver gang jeg kommer over en hyggelig historie fra Midtøsten, hører jeg en stemme i hodet: Skal du virkelig bruke tid på dette når det brenner i regionen?",
       "keyPoints": [
-        "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil».",
-        "Trump beskriver presidentvalget som en «skam». – Jeg synes han ble behandlet veldig simpelt.",
-        "Trump mener også Bolsonaro ble behandlet «urettferdig».",
-        "Bolsonaro (45) tapte valget mot Luiz Inácio Lula da Silva (81)."
+        "Et dårlig tegn. – Hvor skal jeg, roper jeg til det syriske politiet og kaster armene opp i været. – Du har fem minutter på deg, roper de etter meg.",
+        "Men kunne jeg fortelle om det uten å få dårlig samvittighet?",
+        "Men hver gang jeg kommer over en hyggelig historie fra Midtøsten, hører jeg en stemme i hodet: Skal du virkelig bruke tid på dette når det brenner i regionen?",
+        "Jeg spurter over Umayyad-plassen i Damaskus så fort jeg kan."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/trump_-_-bolsonaro-kan-bli-sa-lenge-han-vil-1.18070361",
+      "url": "https://www.nrk.no/urix/dette-kvier-jeg-meg-for-a-fortelle-fra-midtosten-1.18068309",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/GEsyZNshAoXDokmaww3oKAchyWrZKMljfp_VsINA6rLg.jpg",
-      "localImage": "assets/news/fd052779f9afa1.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/qDfR0Ib911x33332VrafDAX1TFvp4fbMfNCFnN0llujw.jpg",
+      "localImage": "assets/news/c079412bf470e1.jpg",
+      "score": 13
     },
     {
       "id": "6d4ccb52ef6017",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/018b2024-35f4-3e47-bf42-a514aa8ff48b?fit=crop&h=675&upscale=true&w=1200&s=5d05727d808147702054e8d03c5219b56f386982",
       "localImage": "assets/news/6d4ccb52ef6017.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "446c32ddc39214",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/26d19e32-b358-3bf8-acc5-f8b7f6ffa3cd?fit=crop&h=675&upscale=true&w=1200&s=60b55e973ecb625f88b1a698bebc8efd330b33b4",
       "localImage": "assets/news/446c32ddc39214.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "c102d51438add6",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b4a474d1-5454-3775-a266-896e8a7165ac?fit=crop&h=675&upscale=true&w=1200&s=e42a1c1f02710b738f644a15c26c6325628fbdf9",
       "localImage": "assets/news/c102d51438add6.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "63f9537a6ba131",
@@ -130,6 +130,27 @@
       "score": 13
     },
     {
+      "id": "fd052779f9afa1",
+      "category": "Norge",
+      "published": "01.11. 04:44",
+      "publishedISO": "2026-11-01T04:44:40+01:00",
+      "title": "Trump: – Bolsonaro kan bli så lenge han vil",
+      "summary": "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil». Trump beskriver presidentvalget som en «skam». – Jeg synes han ble behandlet veldig simpelt. Trump mener også Bolsonaro ble behandlet «urettferdig».",
+      "keyPoints": [
+        "Lula-utfordrer Flavio Bolsonaro, som forlot Brasil etter at han tapte presidentvalget i slutten av oktober, kan bli i USA «så lenge han vil».",
+        "Trump beskriver presidentvalget som en «skam». – Jeg synes han ble behandlet veldig simpelt.",
+        "Trump mener også Bolsonaro ble behandlet «urettferdig».",
+        "Bolsonaro (45) tapte valget mot Luiz Inácio Lula da Silva (81)."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nyheter/trump_-_-bolsonaro-kan-bli-sa-lenge-han-vil-1.18070361",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/GEsyZNshAoXDokmaww3oKAchyWrZKMljfp_VsINA6rLg.jpg",
+      "localImage": "assets/news/fd052779f9afa1.jpg",
+      "score": 13
+    },
+    {
       "id": "35451c31196e2a",
       "category": "Norge",
       "published": "01.11. 20:32",
@@ -148,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/6AD59a2z9lhnyYgvKyeSQwq34XJk5OwTJ8PNuFtjqMtA.jpg",
       "localImage": "assets/news/35451c31196e2a.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "6b70f91d6f91a4",
@@ -169,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/yZQyk3xp8Rk-J0nZLvBdCwlPIxZus5fc6ugFEvqc0HCA.jpg",
       "localImage": "assets/news/6b70f91d6f91a4.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "8020098fa7e108",
@@ -190,28 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/_AoX9o7BwU-HektTA3r0gAjpnL2CUSBPg5eXExAJD4gg.jpg",
       "localImage": "assets/news/8020098fa7e108.jpg",
-      "score": 13
-    },
-    {
-      "id": "30d85bfeacf8b0",
-      "category": "Norge",
-      "published": "01.11. 18:44",
-      "publishedISO": "2026-11-01T18:44:00+01:00",
-      "title": "Vålerenga mot Tromsø",
-      "summary": "Ole Sæter scoret sine to første seriemål for Vålerenga i 4-0-seieren over Tromsø, som røk på to røde kort. Vålerenga fikk samtidig revansj etter at TIL vant 4–0 i den første kampen mellom lagene i nord i juli. Spissen hoppet majestetisk opp og styrte ballen i mål med foten etter et innlegg fra Dennis Gjengaar. – Snakk om å slå knockout på stopperne til Tromsø i løpet av de første 20 minuttene, sa Stamsø-Møller.",
-      "keyPoints": [
-        "Ole Sæter scoret sine to første seriemål for Vålerenga i 4-0-seieren over Tromsø, som røk på to røde kort.",
-        "Vålerenga fikk samtidig revansj etter at TIL vant 4–0 i den første kampen mellom lagene i nord i juli.",
-        "Spissen hoppet majestetisk opp og styrte ballen i mål med foten etter et innlegg fra Dennis Gjengaar. – Snakk om å slå knockout på stopperne til Tromsø i løpet av de første 20 minuttene, sa Stamsø-Møller.",
-        "For Vålerenga ga seieren et løft på tabellen til åttendeplass, og tre poeng gjør at de blåkledde fikk god klaring ned til bunnstriden."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/valerenga-mot-tromso-1.18067951",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jIcT-VF-ZqL3GmHWSDE0OADZBQiiZR9u2A7aj4rj1fwQ.jpg",
-      "localImage": "assets/news/30d85bfeacf8b0.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
