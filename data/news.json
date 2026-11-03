@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.11.2026 kl. 01:00",
-  "updatedISO": "2026-11-03T01:00:55.316936+01:00",
+  "updatedAt": "03.11.2026 kl. 07:30",
+  "updatedISO": "2026-11-03T07:30:21.118814+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/DMqSaUCKUrTmz67r33muAAfwo-QxhqclCu8x2e3HD02A.jpg",
       "localImage": "assets/news/c789bcd9361112.jpg",
-      "score": 20
-    },
-    {
-      "id": "36aecca843035c",
-      "category": "Verden",
-      "published": "02.11. 19:34",
-      "publishedISO": "2026-11-02T19:34:24+01:00",
-      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
-      "summary": "Se: Ukraina og Russland sier at nødapper rammet av cyberangrep ukrainere har blitt lei av de ubøyelige varslingene fra telefonene deres og ekko gjennom gatene deres, dag og natt, og advarer om russiske droner og missiler. I løpet av 15 minutter ga Ukrainas luftvåpen en uttalelse som sa at varslingsappen var kompromittert og klargjorde at det ikke var noen strålingstrussel. Falske atomadvarsler utstedt etter at ukrainske og russiske luftvarslingsapper ble hacket",
-      "keyPoints": [
-        "Falske atomadvarsler utstedt etter at ukrainske og russiske luftvarslingsapper ble hacket",
-        "Se: Ukraina og Russland sier at nødapper rammet av cyberangrep ukrainere har blitt lei av de ubøyelige varslingene fra telefonene deres og ekko gjennom gatene deres, dag og natt, og advarer om russiske droner og missiler.",
-        "I løpet av 15 minutter ga Ukrainas luftvåpen en uttalelse som sa at varslingsappen var kompromittert og klargjorde at det ikke var noen strålingstrussel.",
-        "Anastasiia Romanytska, en 29 år gammel ballerina som bor i Kiev, sa at hun ikke har installert varslingsappen, men venner sendte henne advarslene. \"Min første reaksjon var: 'Er dette en slags spøk?' Men så reagerte kroppen som om jeg var stresset."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/b47a/live/2a240410-d6c9-11f1-ac20-7783925c811f.jpg",
-      "localImage": "assets/news/36aecca843035c.jpg",
-      "score": 16
-    },
-    {
-      "id": "3ec0d1f8c28e68",
-      "category": "USA",
-      "published": "03.11. 00:44",
-      "publishedISO": "2026-11-03T00:44:06+01:00",
-      "title": "Hvem er ofrene for den dødelige jetstyrten i Florida?",
-      "summary": "Adam Robinson og hans unge familie var ombord i flyet som styrtet. Ni mennesker har blitt drept etter at et lite jetfly styrtet og eksploderte i Florida søndag. Teknologigründeren fra Texas, hans kone Helen Sharp og deres to barn, Emma (4) og Charlie (2), ble alle drept i ulykken, ifølge en felles uttalelse fra noen av familiene til de drepte. Dashcam-opptak fanger privatflyulykken i Florida Reed, Fehr og Cetina reiste også ombord i jetflyet sammen med Robinson Sharp og barna deres.",
-      "keyPoints": [
-        "Dashcam-opptak fanger privatflyulykken i Florida Reed, Fehr og Cetina reiste også ombord i jetflyet sammen med Robinson Sharp og barna deres.",
-        "Adam Robinson og hans unge familie var ombord i flyet som styrtet. Ni mennesker har blitt drept etter at et lite jetfly styrtet og eksploderte i Florida søndag.",
-        "Teknologigründeren fra Texas, hans kone Helen Sharp og deres to barn, Emma (4) og Charlie (2), ble alle drept i ulykken, ifølge en felles uttalelse fra noen av familiene til de drepte.",
-        "Faren hennes, Dudley Sharp, sa til nyhetssiden The Palm Beach Post i Florida at nyheten om at familien hans hadde vært på flyet var \"ganske et slag\". \"Vi hadde en datter, hennes mann og to barnebarn på flyet,\" sa han."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5fb6/live/93e34d90-d70d-11f1-a0eb-498100a176c1.jpg",
-      "localImage": "assets/news/3ec0d1f8c28e68.jpg",
-      "score": 13
+      "score": 19
     },
     {
       "id": "ecae18090726a9",
@@ -85,7 +43,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9ec17cb9-c965-3126-a725-b38bd9ea016b?fit=crop&h=675&upscale=true&w=1200&s=095ac4e4e5e7790ef45a8413c0f3bae91801e5f2",
       "localImage": "assets/news/ecae18090726a9.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "8da4fb83e016ed",
+      "category": "Økonomi",
+      "published": "03.11. 06:30",
+      "publishedISO": "2026-11-03T06:30:44+01:00",
+      "title": "Salmar slo forventningene i tredje kvartal",
+      "summary": "Salmar la frem tall for tredje kvartal i 2026 i morgentimene tirsdag: Det var på forhånd ventet et operasjonelt driftsresultatet på 1,53 milliarder og inntekter på 9,4 milliarder kroner, ifølge analytikerestimater hentet inn av Bloomberg. – Rekordhøyt slaktevolum og betydelig resultatforbedring viser effekten av den gode biologiske utviklingen gjennom 2026, sier Frode Arntsen, konsernsjef i Salmar, i en uttalelse. Salmar skriver at de forventer noe lavere kostnadsnivå og guider et slaktevolum på 348.000 tonn i 2027. I juli kunngjorde Salmar at de kjøper aksjer tilsvarende 70 prosent av aksjekapitalen i oppdrettsselskapet Måsøval av Heimstø.",
+      "keyPoints": [
+        "Salmar la frem tall for tredje kvartal i 2026 i morgentimene tirsdag: Det var på forhånd ventet et operasjonelt driftsresultatet på 1,53 milliarder og inntekter på 9,4 milliarder kroner, ifølge analytikerestimater hentet inn av Bloomberg. – Rekordhøyt slaktevolum og betydelig resultatforbedring viser effekten av den gode biologiske utviklingen gjennom 2026, sier Frode Arntsen, konsernsjef i Salmar, i en uttalelse.",
+        "Salmar skriver at de forventer noe lavere kostnadsnivå og guider et slaktevolum på 348.000 tonn i 2027.",
+        "I juli kunngjorde Salmar at de kjøper aksjer tilsvarende 70 prosent av aksjekapitalen i oppdrettsselskapet Måsøval av Heimstø.",
+        "Samtidig forventes lavere slaktevolum i Norge sammenlignet med fjerde kvartal 2025."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/hav-og-sjoemat/i/n9pmA5/salmar-hadde-driftsresultat-paa-1-6-milliarder-kroner-i-tredje-kvartal",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/bd75f87f-d8cd-3e85-b9fe-baaade4a78bb?fit=crop&h=675&upscale=true&w=1200&s=b71c6746b5eac81d61fe112ff7f2fad205ce2491",
+      "localImage": "assets/news/8da4fb83e016ed.jpg",
+      "score": 17
+    },
+    {
+      "id": "89dd9c04e95e40",
+      "category": "Norge",
+      "published": "03.11. 06:46",
+      "publishedISO": "2026-11-03T06:46:57+01:00",
+      "title": "Sysselmesteren har økt kontrollene i de russiske bosettingene på Svalbard",
+      "summary": "Norsk myndighetsutøvelse på Svalbard har vært viktig etter Russlands invasjon av Ukraina, sier sysselmesteren. Den russiske bosettingen Barentsburg på Svalbard. – Det er viktig at Sysselmesteren er til stede i alle bosettingene, og også driver med oppsøkende oppsyn- og tilsynsvirksomhet på øya. Antallet besøkende til Longyearbyen og Svalbard har økt de siste årene, ifølge sysselmesteren.",
+      "keyPoints": [
+        "Den russiske bosettingen Barentsburg på Svalbard. – Det er viktig at Sysselmesteren er til stede i alle bosettingene, og også driver med oppsøkende oppsyn- og tilsynsvirksomhet på øya.",
+        "Antallet besøkende til Longyearbyen og Svalbard har økt de siste årene, ifølge sysselmesteren.",
+        "Norsk myndighetsutøvelse på Svalbard har vært viktig etter Russlands invasjon av Ukraina, sier sysselmesteren.",
+        "Mens kontrollene har økt, har de beholdt dialogen. – Vi samarbeider ikke med noen, det er vi som bestemmer."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/sysselmesteren-har-okt-kontrollene-i-de-russiske-bosettingene-pa-svalbard-1.18069064",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/eSXXVgRkEcABDXk8ZAcH_AXPPehwd6VADL8ymxxEobhQ.jpg",
+      "localImage": "assets/news/89dd9c04e95e40.webp",
+      "score": 17
     },
     {
       "id": "469780afa69d62",
@@ -106,48 +106,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6aeff1bb-e371-357c-b653-94236a7b52d9?fit=crop&h=675&upscale=true&w=1200&s=6e6735e546cbb941a4bbebb1acad9aa58f6dc562",
       "localImage": "assets/news/469780afa69d62.jpg",
-      "score": 17
-    },
-    {
-      "id": "44bb410902b7d7",
-      "category": "AI",
-      "published": "02.11. 08:42",
-      "publishedISO": "2026-11-02T08:42:33+01:00",
-      "title": "Binance hack: Users withdraw $3.6bn after record crypto heist",
-      "summary": "Binance-kunder trakk ut 3,6 milliarder dollar (2,7 milliarder pund) av eiendeler fra verdens største kryptovalutabørs da den åpnet igjen søndag etter det som antas å være det største hacket i historien. Se: Hva vi vet om Binances hack på 6,3 milliarder dollar og hva du skal gjøre hvis du er berørt Binance sa at den hadde erstattet kundenes eiendeler ved å bruke en kombinasjon av kilder, inkludert dets selskapskasse så vel som futuresforsikring og nødreservefond. \"Vår forpliktelse forblir den samme: Binance vil fullt ut dekke den økonomiske konsekvensen av midlene som ble stjålet i denne hendelsen,\" sa firmaet. Hvorfor Nord-Koreas \"elite\" hackere er hovedmistenkte i det store Binance-hacket Møt kryptomilliardærene som bygger en verden der penger kjøper deg en stemme",
-      "keyPoints": [
-        "Binance-kunder trakk ut 3,6 milliarder dollar (2,7 milliarder pund) av eiendeler fra verdens største kryptovalutabørs da den åpnet igjen søndag etter det som antas å være det største hacket i historien.",
-        "Se: Hva vi vet om Binances hack på 6,3 milliarder dollar og hva du skal gjøre hvis du er berørt Binance sa at den hadde erstattet kundenes eiendeler ved å bruke en kombinasjon av kilder, inkludert dets selskapskasse så vel som futuresforsikring og nødreservefond. \"Vår forpliktelse forblir den samme: Binance vil fullt ut dekke den økonomiske konsekvensen av midlene som ble stjålet i denne hendelsen,\" sa firmaet.",
-        "Hvorfor Nord-Koreas \"elite\" hackere er hovedmistenkte i det store Binance-hacket Møt kryptomilliardærene som bygger en verden der penger kjøper deg en stemme",
-        "AI oppdaget en massiv cybersikkerhetsfeil – her er hva som skjedde Angrepet på Binance er blitt tilskrevet TraderTraitor, en nordkoreansk cyberkriminalitetsgruppe også kjent som Lazarus Group, som stjal en rekordhøy $1,5 milliarder fra kryptobørsen Bybit i 2025."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
-      "localImage": "assets/news/44bb410902b7d7.jpg",
-      "score": 14
-    },
-    {
-      "id": "7f6e599eed6960",
-      "category": "Økonomi",
-      "published": "02.11. 20:02",
-      "publishedISO": "2026-11-02T20:02:29+01:00",
-      "title": "Advarer om oljesjokk etter mellomvalget",
-      "summary": "Eksperter mener oljeprisen kan hoppe til 150 dollar hvis USA angriper Iran på nytt. – Hvis USA angriper kommer oljeprisen til å stige kraftig. Det internasjonale rådgivningsselskapet FGE har advart om at oljeprisen kan stige til 150 dollar hvis USA og Israel gjenopptar angrepene mot Iran, mens det ser små sjanser for en snarlig avtale, ifølge en rapport før helgen. Trump har åpenbart lenge har hatt lyst til å avslutte konflikten og taper nå sannsynligvis mellomvalget på grunn av høye bensinpriser. – Hadde det vært enkle løsninger her, selv med et USA som er villig til å strekke seg langt, tror vi man hadde sett de allerede, sier han.",
-      "keyPoints": [
-        "Eksperter mener oljeprisen kan hoppe til 150 dollar hvis USA angriper Iran på nytt. – Hvis USA angriper kommer oljeprisen til å stige kraftig.",
-        "Trump har åpenbart lenge har hatt lyst til å avslutte konflikten og taper nå sannsynligvis mellomvalget på grunn av høye bensinpriser. – Hadde det vært enkle løsninger her, selv med et USA som er villig til å strekke seg langt, tror vi man hadde sett de allerede, sier han.",
-        "Det internasjonale rådgivningsselskapet FGE har advart om at oljeprisen kan stige til 150 dollar hvis USA og Israel gjenopptar angrepene mot Iran, mens det ser små sjanser for en snarlig avtale, ifølge en rapport før helgen.",
-        "Ny uro rundt Hormuzstredet har gjort at oljeprisen steg til 117 dollar per fat på det høyeste i oktober, før prisen har falt tilbake til 109 dollar. – Ved eskalering av krigen, som i stor grad har stoppet opp, går prisen opp."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/585aWW/advarer-om-oljesjokk-etter-mellomvalget",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e62d2102-2b14-32fc-8ccb-6e5bb7dae0e4?fit=crop&h=675&upscale=true&w=1200&s=ca4f00f7fee54f73d4d2ad19488bb80de0ab2527",
-      "localImage": "assets/news/7f6e599eed6960.jpg",
       "score": 16
     },
     {
@@ -169,28 +127,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/709d8a6d-0347-30aa-a84d-e9d09c3b42a7?fit=crop&h=675&upscale=true&w=1200&s=82b82e5ba36ccf1eb35a7b21c7d85a57fb85f10c",
       "localImage": "assets/news/29659eb29e6ca6.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "bebd321e1a79f1",
-      "category": "Verden",
-      "published": "02.11. 15:24",
-      "publishedISO": "2026-11-02T15:24:25+01:00",
-      "title": "Hva vi vet om hacket til varslingsappen i Ukraina og Russland",
-      "summary": "Ukrainas nødvarslingsapp utstedte en landsomfattende advarsel om luftangrep, samt varsler om en radiologisk trussel, et kjemisk angrep og gatekamper i Kiev søndag kveld - som alle viste seg å være falske. Hva vi vet om hacket til varslingsappen i Ukraina og Russland. Video, 00:01:00Hva vi vet om varselappenshacket i Ukraina og Russland Up Next.",
+      "id": "7f6e599eed6960",
+      "category": "Økonomi",
+      "published": "02.11. 20:02",
+      "publishedISO": "2026-11-02T20:02:29+01:00",
+      "title": "Advarer om oljesjokk etter mellomvalget",
+      "summary": "Eksperter mener oljeprisen kan hoppe til 150 dollar hvis USA angriper Iran på nytt. – Hvis USA angriper kommer oljeprisen til å stige kraftig. Det internasjonale rådgivningsselskapet FGE har advart om at oljeprisen kan stige til 150 dollar hvis USA og Israel gjenopptar angrepene mot Iran, mens det ser små sjanser for en snarlig avtale, ifølge en rapport før helgen. Trump har åpenbart lenge har hatt lyst til å avslutte konflikten og taper nå sannsynligvis mellomvalget på grunn av høye bensinpriser. – Hadde det vært enkle løsninger her, selv med et USA som er villig til å strekke seg langt, tror vi man hadde sett de allerede, sier han.",
       "keyPoints": [
-        "Video, 00:01:00Hva vi vet om varselappenshacket i Ukraina og Russland Up Next.",
-        "Ukrainas nødvarslingsapp utstedte en landsomfattende advarsel om luftangrep, samt varsler om en radiologisk trussel, et kjemisk angrep og gatekamper i Kiev søndag kveld - som alle viste seg å være falske.",
-        "Noen timer senere sa Russland at den tilsvarende appen også hadde utstedt falske varsler, og begge landene hevdet at systemene deres hadde blitt hacket.",
-        "Det er fortsatt uklart hvem som har skylden for cyberangrepene og om de to hendelsene henger sammen – BBCs cyberkorrespondent Joe Tidy forklarer det vi vet så langt."
+        "Eksperter mener oljeprisen kan hoppe til 150 dollar hvis USA angriper Iran på nytt. – Hvis USA angriper kommer oljeprisen til å stige kraftig.",
+        "Trump har åpenbart lenge har hatt lyst til å avslutte konflikten og taper nå sannsynligvis mellomvalget på grunn av høye bensinpriser. – Hadde det vært enkle løsninger her, selv med et USA som er villig til å strekke seg langt, tror vi man hadde sett de allerede, sier han.",
+        "Det internasjonale rådgivningsselskapet FGE har advart om at oljeprisen kan stige til 150 dollar hvis USA og Israel gjenopptar angrepene mot Iran, mens det ser små sjanser for en snarlig avtale, ifølge en rapport før helgen.",
+        "Ny uro rundt Hormuzstredet har gjort at oljeprisen steg til 117 dollar per fat på det høyeste i oktober, før prisen har falt tilbake til 109 dollar. – Ved eskalering av krigen, som i stor grad har stoppet opp, går prisen opp."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/crq5n6204g20o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1cbd/live/ab9f8ec0-d6c8-11f1-a701-fddedf244c16.jpg",
-      "localImage": "assets/news/bebd321e1a79f1.jpg",
-      "score": 16
+      "url": "https://e24.no/boers-og-finans/i/585aWW/advarer-om-oljesjokk-etter-mellomvalget",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e62d2102-2b14-32fc-8ccb-6e5bb7dae0e4?fit=crop&h=675&upscale=true&w=1200&s=ca4f00f7fee54f73d4d2ad19488bb80de0ab2527",
+      "localImage": "assets/news/7f6e599eed6960.jpg",
+      "score": 14
     },
     {
       "id": "9eb679fad30d88",
@@ -211,7 +169,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/dh9F4v-MA6wjxoZnMdugFAW_4Bhrs7cWIG5UvJE4bABw.jpg",
       "localImage": "assets/news/9eb679fad30d88.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "23e53c35e6f041",
+      "category": "Økonomi",
+      "published": "02.11. 13:30",
+      "publishedISO": "2026-11-02T13:30:23+01:00",
+      "title": "Binance-kunder har tatt ut 3,64 milliarder dollar",
+      "summary": "Siden har kundene tatt ut 3,64 milliarder dollar, som tilsvarende 2,1 prosent av midlene Binance forvalter, opplyser selskapet ifølge Tagesschau. Analyseplattformen DefiLlama anslår imidlertid at 5,81 milliarder dollar har forlatt børsen. Hackere stjal torsdag verdier for 6,3 milliarder dollar.",
+      "keyPoints": [
+        "Siden har kundene tatt ut 3,64 milliarder dollar, som tilsvarende 2,1 prosent av midlene Binance forvalter, opplyser selskapet ifølge Tagesschau.",
+        "Analyseplattformen DefiLlama anslår imidlertid at 5,81 milliarder dollar har forlatt børsen.",
+        "Hackere stjal torsdag verdier for 6,3 milliarder dollar.",
+        "Bitcoin steg mandag til over 78.000 dollar etter å ha falt fem prosent da angrepet ble kjent."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Jrzm57/binance-kunder-har-tatt-ut-3-64-milliarder-dollar",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e4cf2f86-68d8-34ab-b907-5290455d430c?fit=crop&h=675&upscale=true&w=1200&s=1cae01cbc4eeaa08fee4bbd6dc17ae8eb1494dfa",
+      "localImage": "assets/news/23e53c35e6f041.jpg",
+      "score": 14
+    },
+    {
+      "id": "00fae304ac57bb",
+      "category": "Økonomi",
+      "published": "02.11. 11:41",
+      "publishedISO": "2026-11-02T11:41:43+01:00",
+      "title": "Tordner mot Statnett: – Mangler bare atomkrig med Putin",
+      "summary": "Statnett har likevel stoppet alle nye reservasjoner av kraft til stor industri nord for Svartisen i Nordland. Inn i kalkylene kommer også at linjene til Sverige og Sør-Norge ryker av feil, sier nordlendingen. – Så da mangler det jo bare å putte på atomkrig med Putin som kriterium, så kan det jo egentlig ikke bo folk der. Statnett viser til at elektrifiseringen av Melkøya og etableringen av det enorme datasenteret Nscale i Narvik vil snu situasjonen på hodet, og medføre at man går fra 20 til 80 prosent import inn til regionen.",
+      "keyPoints": [
+        "Inn i kalkylene kommer også at linjene til Sverige og Sør-Norge ryker av feil, sier nordlendingen. – Så da mangler det jo bare å putte på atomkrig med Putin som kriterium, så kan det jo egentlig ikke bo folk der.",
+        "Statnett har likevel stoppet alle nye reservasjoner av kraft til stor industri nord for Svartisen i Nordland.",
+        "Statnett viser til at elektrifiseringen av Melkøya og etableringen av det enorme datasenteret Nscale i Narvik vil snu situasjonen på hodet, og medføre at man går fra 20 til 80 prosent import inn til regionen.",
+        "Han mener at et reelt effektunderskudd på 50 til 100 megawatt lett kan løses med eksisterende teknologi, for eksempel ved å koble inn småkraftverk som ikke ligger i sentralnettet i de timene det kniper. – Og det som er hele paradokset, og hvor vi åpenbart er uenige, det er at i vår verden så bader vi i kraft, i Statnetts verden så er vi utsolgt."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/4OP4lq/tordner-mot-statnett-mangler-bare-atomkrig-med-putin",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/976c4d08-1240-3b37-bcd6-5fa036496034?fit=crop&h=675&upscale=true&w=1200&s=3a4301ff805205d80355cda457d8ac42c776b297",
+      "localImage": "assets/news/00fae304ac57bb.jpg",
+      "score": 14
     }
   ]
 }
