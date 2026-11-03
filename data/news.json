@@ -1,28 +1,91 @@
 {
-  "updatedAt": "03.11.2026 kl. 07:30",
-  "updatedISO": "2026-11-03T07:30:21.118814+01:00",
+  "updatedAt": "03.11.2026 kl. 15:37",
+  "updatedISO": "2026-11-03T15:37:45.521470+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "c789bcd9361112",
+      "id": "eabcaf4c3ba4aa",
       "category": "Norge",
-      "published": "02.11. 17:24",
-      "publishedISO": "2026-11-02T17:24:49+01:00",
-      "title": "Kirurg og overlege mener Norge har svært dårlig krigsberedskap innen helse",
-      "summary": "Norske sykehus er ikke godt nok forberedt til å ta imot tusenvis av skadde soldater, ifølge kirurg og overlege. Men forskere har avdekket store mangler i norsk helseberedskap. – Norske sykehus er ikke forberedt på en krig, sier Kristina Stølen Ugelvik, overlege og kirurg ved Voss sykehus. Ugelvik mener det må trenes på to scenarioer: Ugelvik mener helsevesenet i Norge er solid, men at det er for store variasjoner fra sykehus til sykehus når det gjelder beredskap.",
+      "published": "03.11. 12:30",
+      "publishedISO": "2026-11-03T12:30:05+01:00",
+      "title": "Fant håndgranat på avfallsanlegg",
+      "summary": "Det er opprettet en sikkerhetssone inne på avfallsanlegget til Østbø etter funn av en håndgranat. Det skal være en ansatt som fant granaten og de ansatte er evakuert. – Vi venter nå på at det kommer noen som er kyndig, ifølge Mjaaland. Han påpeker at de får rundt 400 forespørsler i året om å bistå i lignende i hendelser. – Publikum oppfordres til å ta kontakt med politiet hvis de gjør lignende funn, forteller Stordal som roser Østbø for hvordan de har håndtert situasjonen.",
       "keyPoints": [
-        "Men forskere har avdekket store mangler i norsk helseberedskap. – Norske sykehus er ikke forberedt på en krig, sier Kristina Stølen Ugelvik, overlege og kirurg ved Voss sykehus.",
-        "Ugelvik mener det må trenes på to scenarioer: Ugelvik mener helsevesenet i Norge er solid, men at det er for store variasjoner fra sykehus til sykehus når det gjelder beredskap.",
-        "Norske sykehus er ikke godt nok forberedt til å ta imot tusenvis av skadde soldater, ifølge kirurg og overlege.",
-        "Sandvik sykehusene i Norge om å sørge for å ha 7000 sengeplasser klare dersom det skulle bryte ut krig i Norge. – Det er urealistisk at sykehusene vil klare dette uten at det følger friske penger med, sier Ugelvik."
+        "Det skal være en ansatt som fant granaten og de ansatte er evakuert. – Vi venter nå på at det kommer noen som er kyndig, ifølge Mjaaland.",
+        "Det er opprettet en sikkerhetssone inne på avfallsanlegget til Østbø etter funn av en håndgranat.",
+        "Han påpeker at de får rundt 400 forespørsler i året om å bistå i lignende i hendelser. – Publikum oppfordres til å ta kontakt med politiet hvis de gjør lignende funn, forteller Stordal som roser Østbø for hvordan de har håndtert situasjonen.",
+        "Mjaaland opplyser til NRK at det er snakk om en øvingsgranat. – Hvor vanlig er det at en granat havner i søpla? – Den skal vel strengt tatt ikke kastes i søpla, forteller Fredriksen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
+      "url": "https://www.nrk.no/nordland/fant-handgranat-pa-avfallsanlegg-1.18072234",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/DMqSaUCKUrTmz67r33muAAfwo-QxhqclCu8x2e3HD02A.jpg",
-      "localImage": "assets/news/c789bcd9361112.jpg",
-      "score": 19
+      "image": "https://gfx.nrk.no/KjpAzWdP7ky2M5pOBc863AaTymXm5FbNJyIYqqbIXVIg.jpg",
+      "localImage": "assets/news/eabcaf4c3ba4aa.jpg",
+      "score": 21
+    },
+    {
+      "id": "d2587d7a5f1d9c",
+      "category": "Økonomi",
+      "published": "03.11. 14:56",
+      "publishedISO": "2026-11-03T14:56:00+01:00",
+      "title": "Olje- og gassprisen faller brått",
+      "summary": "Oljeprisen faller fra 105 til 101 dollar per fat i løpet av kort tid tirsdag ettermiddag, mens den europeiske gassprisen er ned mer enn fem prosent. Equinor er ned 3 prosent, mens Aker BP faller 3,8 prosent og Vår Energi ramler 4,9 prosent. Den europeiske gassprisen faller fra rundt 95 euro per megawattime til under 90 euro.",
+      "keyPoints": [
+        "Oljeprisen faller fra 105 til 101 dollar per fat i løpet av kort tid tirsdag ettermiddag, mens den europeiske gassprisen er ned mer enn fem prosent.",
+        "Den europeiske gassprisen faller fra rundt 95 euro per megawattime til under 90 euro.",
+        "Equinor er ned 3 prosent, mens Aker BP faller 3,8 prosent og Vår Energi ramler 4,9 prosent.",
+        "Ifølge Bloomberg kommer olje- og gassprisfallet etter ubekreftede meldinger om diplomatiske fremskritt mellom USA og Iran."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Og47Ok/olje-og-gassprisen-faller-braatt-drar-med-seg-oslo-boers-nedover",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b4381bd6-9bef-3404-b785-d03e50a0aca9?fit=crop&h=675&upscale=true&w=1200&s=1a54154e0b5f12698e954314087d774dd4e8fb14",
+      "localImage": "assets/news/d2587d7a5f1d9c.jpg",
+      "score": 20
+    },
+    {
+      "id": "25736c44d08aee",
+      "category": "Økonomi",
+      "published": "03.11. 12:39",
+      "publishedISO": "2026-11-03T12:39:21+01:00",
+      "title": "Storentreprenør konkurs: 130 rammes",
+      "summary": "Mandag ble det åpnet konkurs i Ruta Entreprenør AS ved Trøndelag tingrett, ifølge en kunngjøring i Brønnøysundregistrene. Av rekonstruktørens innstilling fremgår det at 130 ansatte rammes av konkursen. Styret anmoder derfor rekonstruktør om å meddele Trøndelag tingrett om at rekonstruksjonen innstilles og at det åpnes konkurs i Ruta Entreprenør AS», heter det i kjennelsen.",
+      "keyPoints": [
+        "Mandag ble det åpnet konkurs i Ruta Entreprenør AS ved Trøndelag tingrett, ifølge en kunngjøring i Brønnøysundregistrene.",
+        "Av rekonstruktørens innstilling fremgår det at 130 ansatte rammes av konkursen.",
+        "Styret anmoder derfor rekonstruktør om å meddele Trøndelag tingrett om at rekonstruksjonen innstilles og at det åpnes konkurs i Ruta Entreprenør AS», heter det i kjennelsen.",
+        "Rekonstruktør og bostyrer Stein Knut Tonning opplyser at det er anmeldt 482 krav på til sammen 730 millioner kroner i rekonstruksjonen, hvorav nær 500 millioner kroner i leverandørgjeld."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/d7XEmz/storentreprenoer-konkurs-130-rammes",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/553aee73-7c5e-31d7-9862-eaeed2c19a32?fit=crop&h=675&upscale=true&w=1200&s=3a365df1a483fc32d628ffbcb89c18ab2cc55785",
+      "localImage": "assets/news/25736c44d08aee.jpg",
+      "score": 17
+    },
+    {
+      "id": "516a5e8b95fa5b",
+      "category": "Norge",
+      "published": "03.11. 13:00",
+      "publishedISO": "2026-11-03T13:00:29+01:00",
+      "title": "Styrker droneovervåkingen ved den norsk-russiske grensen",
+      "summary": "Forsvaret plasserer ut luftovervåking i Sør-Varanger som kan oppdage droner på avveier. Den norsk-russiske grensen skal overvåkes mot droner på avveier. – Vi har sett i andre land at droner kommer på avveier. Sandvik (Ap) opplyser at den norsk-russiske grensen skal styrkes med droneovervåking ut året.",
+      "keyPoints": [
+        "Den norsk-russiske grensen skal overvåkes mot droner på avveier. – Vi har sett i andre land at droner kommer på avveier.",
+        "Sandvik (Ap) opplyser at den norsk-russiske grensen skal styrkes med droneovervåking ut året.",
+        "Forsvaret plasserer ut luftovervåking i Sør-Varanger som kan oppdage droner på avveier.",
+        "Luftforsvaret setter nå ut Nasams-sensorer i Kirkenes, mens Garnisonen i Sør-Varanger skal styrkes med i drøyt 30 soldater."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/forsvaret-plasserer-ut-luftovervaking-i-kirkenes-som-kan-oppdage-droner-pa-avveier-1.18072276",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/nri21U2raPLIO1jUXFKpyguDpZc0rfGH9tcAxVTSUCag.jpg",
+      "localImage": "assets/news/516a5e8b95fa5b.jpg",
+      "score": 17
     },
     {
       "id": "ecae18090726a9",
@@ -43,28 +106,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9ec17cb9-c965-3126-a725-b38bd9ea016b?fit=crop&h=675&upscale=true&w=1200&s=095ac4e4e5e7790ef45a8413c0f3bae91801e5f2",
       "localImage": "assets/news/ecae18090726a9.jpg",
-      "score": 19
+      "score": 17
     },
     {
-      "id": "8da4fb83e016ed",
-      "category": "Økonomi",
-      "published": "03.11. 06:30",
-      "publishedISO": "2026-11-03T06:30:44+01:00",
-      "title": "Salmar slo forventningene i tredje kvartal",
-      "summary": "Salmar la frem tall for tredje kvartal i 2026 i morgentimene tirsdag: Det var på forhånd ventet et operasjonelt driftsresultatet på 1,53 milliarder og inntekter på 9,4 milliarder kroner, ifølge analytikerestimater hentet inn av Bloomberg. – Rekordhøyt slaktevolum og betydelig resultatforbedring viser effekten av den gode biologiske utviklingen gjennom 2026, sier Frode Arntsen, konsernsjef i Salmar, i en uttalelse. Salmar skriver at de forventer noe lavere kostnadsnivå og guider et slaktevolum på 348.000 tonn i 2027. I juli kunngjorde Salmar at de kjøper aksjer tilsvarende 70 prosent av aksjekapitalen i oppdrettsselskapet Måsøval av Heimstø.",
+      "id": "c789bcd9361112",
+      "category": "Norge",
+      "published": "02.11. 17:24",
+      "publishedISO": "2026-11-02T17:24:49+01:00",
+      "title": "Kirurg og overlege mener Norge har svært dårlig krigsberedskap innen helse",
+      "summary": "Norske sykehus er ikke godt nok forberedt til å ta imot tusenvis av skadde soldater, ifølge kirurg og overlege. Men forskere har avdekket store mangler i norsk helseberedskap. – Norske sykehus er ikke forberedt på en krig, sier Kristina Stølen Ugelvik, overlege og kirurg ved Voss sykehus. Ugelvik mener det må trenes på to scenarioer: Ugelvik mener helsevesenet i Norge er solid, men at det er for store variasjoner fra sykehus til sykehus når det gjelder beredskap.",
       "keyPoints": [
-        "Salmar la frem tall for tredje kvartal i 2026 i morgentimene tirsdag: Det var på forhånd ventet et operasjonelt driftsresultatet på 1,53 milliarder og inntekter på 9,4 milliarder kroner, ifølge analytikerestimater hentet inn av Bloomberg. – Rekordhøyt slaktevolum og betydelig resultatforbedring viser effekten av den gode biologiske utviklingen gjennom 2026, sier Frode Arntsen, konsernsjef i Salmar, i en uttalelse.",
-        "Salmar skriver at de forventer noe lavere kostnadsnivå og guider et slaktevolum på 348.000 tonn i 2027.",
-        "I juli kunngjorde Salmar at de kjøper aksjer tilsvarende 70 prosent av aksjekapitalen i oppdrettsselskapet Måsøval av Heimstø.",
-        "Samtidig forventes lavere slaktevolum i Norge sammenlignet med fjerde kvartal 2025."
+        "Men forskere har avdekket store mangler i norsk helseberedskap. – Norske sykehus er ikke forberedt på en krig, sier Kristina Stølen Ugelvik, overlege og kirurg ved Voss sykehus.",
+        "Ugelvik mener det må trenes på to scenarioer: Ugelvik mener helsevesenet i Norge er solid, men at det er for store variasjoner fra sykehus til sykehus når det gjelder beredskap.",
+        "Norske sykehus er ikke godt nok forberedt til å ta imot tusenvis av skadde soldater, ifølge kirurg og overlege.",
+        "Sandvik sykehusene i Norge om å sørge for å ha 7000 sengeplasser klare dersom det skulle bryte ut krig i Norge. – Det er urealistisk at sykehusene vil klare dette uten at det følger friske penger med, sier Ugelvik."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/DMqSaUCKUrTmz67r33muAAfwo-QxhqclCu8x2e3HD02A.jpg",
+      "localImage": "assets/news/c789bcd9361112.jpg",
+      "score": 17
+    },
+    {
+      "id": "5f7fb7b7dc69ae",
+      "category": "Økonomi",
+      "published": "03.11. 09:00",
+      "publishedISO": "2026-11-03T09:00:22+01:00",
+      "title": "Flatt på Oslo Børs",
+      "summary": "Slik ser det ut for noen av de mest omsatte aksjene: Oljeprisen har steget rundt 0,5 prosent siden Oslo Børs stengte mandag ettermiddag. Oppdrettsgiganten Salmar la frem kvartalstall før børsåpning tirsdag, som blant annet viste følgende: Salmar skriver at de forventer noe lavere kostnadsnivå og guider et slaktevolum på 348.000 tonn i 2027. Resultatet før skatt endte på 16,8 millioner dollar i tredje kvartal, ned fra 24,4 millioner i samme periode i fjor.",
+      "keyPoints": [
+        "Slik ser det ut for noen av de mest omsatte aksjene: Oljeprisen har steget rundt 0,5 prosent siden Oslo Børs stengte mandag ettermiddag.",
+        "Oppdrettsgiganten Salmar la frem kvartalstall før børsåpning tirsdag, som blant annet viste følgende: Salmar skriver at de forventer noe lavere kostnadsnivå og guider et slaktevolum på 348.000 tonn i 2027.",
+        "Resultatet før skatt endte på 16,8 millioner dollar i tredje kvartal, ned fra 24,4 millioner i samme periode i fjor.",
+        "Økningen i inntekter skyldes hovedsakelig omorganisering av konsernet og inkludering av riggen Deepsea Nordkapp i flåten, som bidro med 52 millioner dollar av inntektene i tredje kvartal."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/hav-og-sjoemat/i/n9pmA5/salmar-hadde-driftsresultat-paa-1-6-milliarder-kroner-i-tredje-kvartal",
+      "url": "https://e24.no/boers-og-finans/i/0B5ggB/nedgang-paa-oslo-boers",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/bd75f87f-d8cd-3e85-b9fe-baaade4a78bb?fit=crop&h=675&upscale=true&w=1200&s=b71c6746b5eac81d61fe112ff7f2fad205ce2491",
-      "localImage": "assets/news/8da4fb83e016ed.jpg",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/13ad252d-ba89-3dd2-a427-d6619149ee8e?fit=crop&h=675&upscale=true&w=1200&s=b6e1e201dd871f8634f395efb497fdca2d9f1c12",
+      "localImage": "assets/news/5f7fb7b7dc69ae.jpg",
+      "score": 16
+    },
+    {
+      "id": "da47c3f4346d3b",
+      "category": "Norge",
+      "published": "03.11. 08:15",
+      "publishedISO": "2026-11-03T08:15:14+01:00",
+      "title": "Nussir-gruven solgt til internasjonalt storselskap",
+      "summary": "ACG Metals gir drøyt 2 milliarder kroner for gruven som er under utvikling i Kvalsund. Nussir-gruven er under utbygging, med planlagt oppstart neste år. Mike Pompeo, USAs tidligere utenriksminister og CIA-sjef, sitter i styret, skriver iFinnmark. – Vi gleder oss til å ta Nussir-gruven inn i sin neste fase, produksjon, sier ACGs administrerende direktør, Artem Volynets, i pressemeldingen.",
+      "keyPoints": [
+        "Mike Pompeo, USAs tidligere utenriksminister og CIA-sjef, sitter i styret, skriver iFinnmark. – Vi gleder oss til å ta Nussir-gruven inn i sin neste fase, produksjon, sier ACGs administrerende direktør, Artem Volynets, i pressemeldingen.",
+        "ACG Metals gir drøyt 2 milliarder kroner for gruven som er under utvikling i Kvalsund.",
+        "Nussir-gruven er under utbygging, med planlagt oppstart neste år.",
+        "Det skriver selgeren, kanadiske Blue Moon Metals, i en pressemelding tirsdag. – For oss er det en stor, gledelig dag, fordi vi nå har fått inn ytterligere en veldig kompetent aktør på eiersiden, som skal ta det operative for oss fremover, sier administrerende direktør i Nussir ASA Øystein Rushfeldt, til NRK."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/nussir-gruven-solgt-til-internasjonalt-storselskap-1.18071887",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/AU4cWArqGLAPFLg7RKQUDQ7Buv3l1s459ohaJp2aAetw.jpg",
+      "localImage": "assets/news/da47c3f4346d3b.jpg",
+      "score": 16
     },
     {
       "id": "89dd9c04e95e40",
@@ -85,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/eSXXVgRkEcABDXk8ZAcH_AXPPehwd6VADL8ymxxEobhQ.jpg",
       "localImage": "assets/news/89dd9c04e95e40.webp",
-      "score": 17
+      "score": 16
     },
     {
       "id": "469780afa69d62",
@@ -106,111 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6aeff1bb-e371-357c-b653-94236a7b52d9?fit=crop&h=675&upscale=true&w=1200&s=6e6735e546cbb941a4bbebb1acad9aa58f6dc562",
       "localImage": "assets/news/469780afa69d62.jpg",
-      "score": 16
-    },
-    {
-      "id": "29659eb29e6ca6",
-      "category": "Økonomi",
-      "published": "02.11. 17:42",
-      "publishedISO": "2026-11-02T17:42:47+01:00",
-      "title": "Jens Ulltveit-Moe: – Sissener overdriver grovt",
-      "summary": "Det bryter med ideen om minst mulig skadevirkninger, sier investor og milliardær Jens Ulltveit-Moe til E24. – Jeg kan derfor forstå at folk reagerer. Samtidig er han kritisk til kombinasjonen av formues- og utbytteskatt, og mener velstanden vår har blitt en hvilepute. – Sissener overdriver grovt. 84 år gamle Ulltveit-Moe har tatt i bruk kunstig intelligens for å sammenligne ulike land. – På lørdag ba jeg ChatGPT sammenligne en gjennomsnittsfamilie i Norge, Danmark, Finland og USA.",
-      "keyPoints": [
-        "Samtidig er han kritisk til kombinasjonen av formues- og utbytteskatt, og mener velstanden vår har blitt en hvilepute. – Sissener overdriver grovt.",
-        "Det bryter med ideen om minst mulig skadevirkninger, sier investor og milliardær Jens Ulltveit-Moe til E24. – Jeg kan derfor forstå at folk reagerer.",
-        "84 år gamle Ulltveit-Moe har tatt i bruk kunstig intelligens for å sammenligne ulike land. – På lørdag ba jeg ChatGPT sammenligne en gjennomsnittsfamilie i Norge, Danmark, Finland og USA.",
-        "Ulltveit-Moe er klokkeklar på at Norge er et av verdens beste land å bo i for vanlige folk."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/Ogv7Bb/jens-ulltveit-moe-sissener-overdriver-grovt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/709d8a6d-0347-30aa-a84d-e9d09c3b42a7?fit=crop&h=675&upscale=true&w=1200&s=82b82e5ba36ccf1eb35a7b21c7d85a57fb85f10c",
-      "localImage": "assets/news/29659eb29e6ca6.jpg",
-      "score": 15
-    },
-    {
-      "id": "7f6e599eed6960",
-      "category": "Økonomi",
-      "published": "02.11. 20:02",
-      "publishedISO": "2026-11-02T20:02:29+01:00",
-      "title": "Advarer om oljesjokk etter mellomvalget",
-      "summary": "Eksperter mener oljeprisen kan hoppe til 150 dollar hvis USA angriper Iran på nytt. – Hvis USA angriper kommer oljeprisen til å stige kraftig. Det internasjonale rådgivningsselskapet FGE har advart om at oljeprisen kan stige til 150 dollar hvis USA og Israel gjenopptar angrepene mot Iran, mens det ser små sjanser for en snarlig avtale, ifølge en rapport før helgen. Trump har åpenbart lenge har hatt lyst til å avslutte konflikten og taper nå sannsynligvis mellomvalget på grunn av høye bensinpriser. – Hadde det vært enkle løsninger her, selv med et USA som er villig til å strekke seg langt, tror vi man hadde sett de allerede, sier han.",
-      "keyPoints": [
-        "Eksperter mener oljeprisen kan hoppe til 150 dollar hvis USA angriper Iran på nytt. – Hvis USA angriper kommer oljeprisen til å stige kraftig.",
-        "Trump har åpenbart lenge har hatt lyst til å avslutte konflikten og taper nå sannsynligvis mellomvalget på grunn av høye bensinpriser. – Hadde det vært enkle løsninger her, selv med et USA som er villig til å strekke seg langt, tror vi man hadde sett de allerede, sier han.",
-        "Det internasjonale rådgivningsselskapet FGE har advart om at oljeprisen kan stige til 150 dollar hvis USA og Israel gjenopptar angrepene mot Iran, mens det ser små sjanser for en snarlig avtale, ifølge en rapport før helgen.",
-        "Ny uro rundt Hormuzstredet har gjort at oljeprisen steg til 117 dollar per fat på det høyeste i oktober, før prisen har falt tilbake til 109 dollar. – Ved eskalering av krigen, som i stor grad har stoppet opp, går prisen opp."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/585aWW/advarer-om-oljesjokk-etter-mellomvalget",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e62d2102-2b14-32fc-8ccb-6e5bb7dae0e4?fit=crop&h=675&upscale=true&w=1200&s=ca4f00f7fee54f73d4d2ad19488bb80de0ab2527",
-      "localImage": "assets/news/7f6e599eed6960.jpg",
-      "score": 14
-    },
-    {
-      "id": "9eb679fad30d88",
-      "category": "Norge",
-      "published": "02.11. 14:45",
-      "publishedISO": "2026-11-02T14:45:16+01:00",
-      "title": "Slik rømte Bolsonaro til USA",
-      "summary": "Da fristen gikk ut for innlevering klokken 11 tirsdag, var Bolsonaro ikke å få tak i, skriver den australske rikskringkasteren ABC. Argentina ledes av en president med nære bånd til familiene Trump og Bolsonaro.' Independent skriver at ifølge «FlightRadar24» fortsatte flyet til byen Guayaquil i Ecuador hvor det landet klokken 0546 onsdag morgen. En sentral ansatt i utenriksdepartementet i USA skal ha bekreftet overfor journalist Luke Cooper i den australske statskringkasteren ABC at amerikanske myndigheter ville utstede visum til Bolsonaro og hans familie.",
-      "keyPoints": [
-        "En sentral ansatt i utenriksdepartementet i USA skal ha bekreftet overfor journalist Luke Cooper i den australske statskringkasteren ABC at amerikanske myndigheter ville utstede visum til Bolsonaro og hans familie.",
-        "Argentina ledes av en president med nære bånd til familiene Trump og Bolsonaro.' Independent skriver at ifølge «FlightRadar24» fortsatte flyet til byen Guayaquil i Ecuador hvor det landet klokken 0546 onsdag morgen.",
-        "Da fristen gikk ut for innlevering klokken 11 tirsdag, var Bolsonaro ikke å få tak i, skriver den australske rikskringkasteren ABC.",
-        "Mens partiet til president Lula da Silva jobbet med en internasjonal arrestordre, klarte Flavio Bolsonaro å rømme landet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/slik-romte-bolsonaro-til-usa-1.18070372",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/dh9F4v-MA6wjxoZnMdugFAW_4Bhrs7cWIG5UvJE4bABw.jpg",
-      "localImage": "assets/news/9eb679fad30d88.jpg",
-      "score": 14
-    },
-    {
-      "id": "23e53c35e6f041",
-      "category": "Økonomi",
-      "published": "02.11. 13:30",
-      "publishedISO": "2026-11-02T13:30:23+01:00",
-      "title": "Binance-kunder har tatt ut 3,64 milliarder dollar",
-      "summary": "Siden har kundene tatt ut 3,64 milliarder dollar, som tilsvarende 2,1 prosent av midlene Binance forvalter, opplyser selskapet ifølge Tagesschau. Analyseplattformen DefiLlama anslår imidlertid at 5,81 milliarder dollar har forlatt børsen. Hackere stjal torsdag verdier for 6,3 milliarder dollar.",
-      "keyPoints": [
-        "Siden har kundene tatt ut 3,64 milliarder dollar, som tilsvarende 2,1 prosent av midlene Binance forvalter, opplyser selskapet ifølge Tagesschau.",
-        "Analyseplattformen DefiLlama anslår imidlertid at 5,81 milliarder dollar har forlatt børsen.",
-        "Hackere stjal torsdag verdier for 6,3 milliarder dollar.",
-        "Bitcoin steg mandag til over 78.000 dollar etter å ha falt fem prosent da angrepet ble kjent."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Jrzm57/binance-kunder-har-tatt-ut-3-64-milliarder-dollar",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e4cf2f86-68d8-34ab-b907-5290455d430c?fit=crop&h=675&upscale=true&w=1200&s=1cae01cbc4eeaa08fee4bbd6dc17ae8eb1494dfa",
-      "localImage": "assets/news/23e53c35e6f041.jpg",
-      "score": 14
-    },
-    {
-      "id": "00fae304ac57bb",
-      "category": "Økonomi",
-      "published": "02.11. 11:41",
-      "publishedISO": "2026-11-02T11:41:43+01:00",
-      "title": "Tordner mot Statnett: – Mangler bare atomkrig med Putin",
-      "summary": "Statnett har likevel stoppet alle nye reservasjoner av kraft til stor industri nord for Svartisen i Nordland. Inn i kalkylene kommer også at linjene til Sverige og Sør-Norge ryker av feil, sier nordlendingen. – Så da mangler det jo bare å putte på atomkrig med Putin som kriterium, så kan det jo egentlig ikke bo folk der. Statnett viser til at elektrifiseringen av Melkøya og etableringen av det enorme datasenteret Nscale i Narvik vil snu situasjonen på hodet, og medføre at man går fra 20 til 80 prosent import inn til regionen.",
-      "keyPoints": [
-        "Inn i kalkylene kommer også at linjene til Sverige og Sør-Norge ryker av feil, sier nordlendingen. – Så da mangler det jo bare å putte på atomkrig med Putin som kriterium, så kan det jo egentlig ikke bo folk der.",
-        "Statnett har likevel stoppet alle nye reservasjoner av kraft til stor industri nord for Svartisen i Nordland.",
-        "Statnett viser til at elektrifiseringen av Melkøya og etableringen av det enorme datasenteret Nscale i Narvik vil snu situasjonen på hodet, og medføre at man går fra 20 til 80 prosent import inn til regionen.",
-        "Han mener at et reelt effektunderskudd på 50 til 100 megawatt lett kan løses med eksisterende teknologi, for eksempel ved å koble inn småkraftverk som ikke ligger i sentralnettet i de timene det kniper. – Og det som er hele paradokset, og hvor vi åpenbart er uenige, det er at i vår verden så bader vi i kraft, i Statnetts verden så er vi utsolgt."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/4OP4lq/tordner-mot-statnett-mangler-bare-atomkrig-med-putin",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/976c4d08-1240-3b37-bcd6-5fa036496034?fit=crop&h=675&upscale=true&w=1200&s=3a4301ff805205d80355cda457d8ac42c776b297",
-      "localImage": "assets/news/00fae304ac57bb.jpg",
       "score": 14
     }
   ]
