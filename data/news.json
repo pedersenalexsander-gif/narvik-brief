@@ -1,6 +1,6 @@
 {
-  "updatedAt": "04.11.2026 kl. 01:58",
-  "updatedISO": "2026-11-04T01:58:22.152515+01:00",
+  "updatedAt": "04.11.2026 kl. 08:18",
+  "updatedISO": "2026-11-04T08:18:15.736355+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3oEaO5atCkWgezRRPMxCYwHv9fzu6CWQWWtas-q1iQGg.jpg",
       "localImage": "assets/news/3364ba13e8ba85.jpg",
-      "score": 16
-    },
-    {
-      "id": "ac357baa8694cd",
-      "category": "Verden",
-      "published": "03.11. 17:57",
-      "publishedISO": "2026-11-03T17:57:41+01:00",
-      "title": "Dødstallene stiger i Ukraina etter at Russland angrep hjelpesenter, hospits og sykehus",
-      "summary": "Mer enn 50 mennesker fryktes å være fanget under ruinene. Russiske angrep på Ukraina – inkludert på et hjelpesenter, et hospits og et sykehus – har drept minst 38 sivile og skadet mange andre i løpet av det siste døgnet. Andre steder ble et hospice angrepet i den sentrale byen Dnipro og et sykehus ble truffet i den nordøstlige byen Kharkiv, der Zelensky sa at 73 mennesker ble såret, de fleste av dem eldre pasienter. Russisk bombing dreper 31 mennesker ved Ukrainas hjelpesenter, Kyiv sier at kampene vender tilbake til Kherson-regionen etter den lengste våpenhvilen fra Ukraina-krigen",
-      "keyPoints": [
-        "Mer enn 50 mennesker fryktes å være fanget under ruinene. Russiske angrep på Ukraina – inkludert på et hjelpesenter, et hospits og et sykehus – har drept minst 38 sivile og skadet mange andre i løpet av det siste døgnet.",
-        "Russisk bombing dreper 31 mennesker ved Ukrainas hjelpesenter, Kyiv sier at kampene vender tilbake til Kherson-regionen etter den lengste våpenhvilen fra Ukraina-krigen",
-        "Andre steder ble et hospice angrepet i den sentrale byen Dnipro og et sykehus ble truffet i den nordøstlige byen Kharkiv, der Zelensky sa at 73 mennesker ble såret, de fleste av dem eldre pasienter.",
-        "Nine 3,000kg aerial bombs hit Komyshuvakha as residents were gathering to receive humanitarian aid at a distribution centre, authorities said."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
-      "localImage": "assets/news/ac357baa8694cd.jpg",
-      "score": 16
-    },
-    {
-      "id": "acc069670c3e62",
-      "category": "USA",
-      "published": "03.11. 11:55",
-      "publishedISO": "2026-11-03T11:55:05+01:00",
-      "title": "Voter voices: Trump's influence on US midterm voters",
-      "summary": "Som en del av vår Voter Voices-serie har BBC snakket med amerikanere over hele landet om de støttet Trump i 2024 og hvordan hans siste to år i embetet former valgene deres i mellomperiodene. Intervjuer samlet inn og filmet av Meiying Wu, Angélica Casas, Blanca Estrada, Eloise Alanna, Sheila Flynn, Katy Bailes, Regan Morris, Keith «Chuck» Tayman, Pratiksha Ghildial og Andrew Sarge Herbert Velgerstemmer: Trumps innflytelse på amerikanske midtveisvelgere. Video, 00:01:35Velgerstemmer: Trumps innflytelse på amerikanske midtveisvelgere Up Next. \"Min stemme er fortsatt viktig\" - Amerikanerne veier inn over kraften i stemmeseddelen deres.",
-      "keyPoints": [
-        "Intervjuer samlet inn og filmet av Meiying Wu, Angélica Casas, Blanca Estrada, Eloise Alanna, Sheila Flynn, Katy Bailes, Regan Morris, Keith «Chuck» Tayman, Pratiksha Ghildial og Andrew Sarge Herbert Velgerstemmer: Trumps innflytelse på amerikanske midtveisvelgere.",
-        "Video, 00:01:35Voter voices: Trump's influence on US midterm voters Up Next. ‘My vote still matters’ - Americans weigh in on the power of their ballot.",
-        "Som en del av vår Voter Voices-serie har BBC snakket med amerikanere over hele landet om de støttet Trump i 2024 og hvordan hans siste to år i embetet former valgene deres i mellomperiodene.",
-        "Video, 00:01:16Voter voices: Which issues matter most to Americans?"
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cqj346nndl0yo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/49a2/live/60ec9cd0-d6da-11f1-a701-fddedf244c16.jpg",
-      "localImage": "assets/news/acc069670c3e62.jpg",
       "score": 15
+    },
+    {
+      "id": "a6ca74dcbd8208",
+      "category": "Økonomi",
+      "published": "04.11. 07:01",
+      "publishedISO": "2026-11-04T07:01:28+01:00",
+      "title": "Aker økte verdiene til 111 milliarder kroner",
+      "summary": "Kvartalsrapporten lagt frem onsdag viser at verdiene i Aker, eller verdijustert egenkapital, var på 111,2 milliarder kroner ved utgangen av tredje kvartal. Styret i Aker har vedtatt et utbytte til aksjonærene på 29 kroner per aksje, tilsvarende en samlet utbetaling på 2,2 milliarder kroner. Aker trekker frem at verdiene har økt med 44 milliarder kroner siden årsskiftet, etter betaling av utbytter.",
+      "keyPoints": [
+        "Kvartalsrapporten lagt frem onsdag viser at verdiene i Aker, eller verdijustert egenkapital, var på 111,2 milliarder kroner ved utgangen av tredje kvartal.",
+        "Aker trekker frem at verdiene har økt med 44 milliarder kroner siden årsskiftet, etter betaling av utbytter.",
+        "Styret i Aker har vedtatt et utbytte til aksjonærene på 29 kroner per aksje, tilsvarende en samlet utbetaling på 2,2 milliarder kroner.",
+        "I Aker regnskap er eierandelen i Nscale fortsatt bokført til en verdi på 32,1 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/mKAw7v/aker-oekte-verdiene-til-111-milliarder-kroner-i-tredje-kvartal",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/06e7bb11-a1c6-35ca-966d-ee1215052567?fit=crop&h=675&upscale=true&w=1200&s=f4885d19a924cf990421da67e8c7043dcfd22bb6",
+      "localImage": "assets/news/a6ca74dcbd8208.jpg",
+      "score": 17
+    },
+    {
+      "id": "873107a5bf694d",
+      "category": "Økonomi",
+      "published": "04.11. 06:32",
+      "publishedISO": "2026-11-04T06:32:27+01:00",
+      "title": "Mowi drysser 1,2 mrd. over aksjonærene",
+      "summary": "Mowi slaktet også 186.000 tonn fisk i tredje kvartal, som er rekordhøyt. Mowi jekker samtidig opp slaktevolumet for året fra 600.000 tonn til 620.000 tonn, som er en økning på 11 prosent fra i fjor. – Med veksten i volum og omsetning de siste årene er Mowi nå ikke bare verdens største lakseoppdretter, men også verdens største sjømatselskap målt i omsetning. Samtidig skriver Mowi i kvartalsrapporten at kostnadene i fjerde kvartal vil ligge på samme nivå som samme kvartal i 2025.",
+      "keyPoints": [
+        "Mowi jekker samtidig opp slaktevolumet for året fra 600.000 tonn til 620.000 tonn, som er en økning på 11 prosent fra i fjor. – Med veksten i volum og omsetning de siste årene er Mowi nå ikke bare verdens største lakseoppdretter, men også verdens største sjømatselskap målt i omsetning.",
+        "Mowi slaktet også 186.000 tonn fisk i tredje kvartal, som er rekordhøyt.",
+        "Samtidig skriver Mowi i kvartalsrapporten at kostnadene i fjerde kvartal vil ligge på samme nivå som samme kvartal i 2025.",
+        "Selskapet meldte i en oppdatering i oktober at de ventet et operasjonelt driftsresultat Det selskapet tjener på driften før renter og skatt samt verdijusteringer på fisken i sjøen mht. laksepris, vekt mm.(ebit) på 275 millioner euro i tredje kvartal."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Pg7Lmb/mowi-med-rekordhoeye-inntekter-drysser-1-2-mrd-over-aksjonaerene",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/a24b4660-3d12-3c16-a21d-e6669403f1e7?fit=crop&h=675&upscale=true&w=1200&s=6f9e5b9b3118defc0cd5602ab06d7383572f0791",
+      "localImage": "assets/news/873107a5bf694d.jpg",
+      "score": 17
+    },
+    {
+      "id": "30ea204f187b4d",
+      "category": "Økonomi",
+      "published": "04.11. 05:03",
+      "publishedISO": "2026-11-04T05:03:54+01:00",
+      "title": "Trump: – Villig til å akseptere resultatet",
+      "summary": "Den amerikanske presidenten erkjenner nederlag. – Jeg er absolutt villig til å akseptere disse resultatene. Det sier Donald Trump i et intervju med New York Times rundt klokken 04.30 natt til onsdag. – Vi vil jobbe med Demokratene, og vi vil, du vet, se frem til å jobbe med dem. Det var også noe han tok opp da han like før intervjuet ble kjent la ut en melding på Truth Social. – Jeg var ikke på stemmeseddelen, og om jeg hadde vært det hadde vi vunnet i et valgskred! skriver Trump på Truth Social.",
+      "keyPoints": [
+        "Den amerikanske presidenten erkjenner nederlag. – Jeg er absolutt villig til å akseptere disse resultatene.",
+        "Det sier Donald Trump i et intervju med New York Times rundt klokken 04.30 natt til onsdag. – Vi vil jobbe med Demokratene, og vi vil, du vet, se frem til å jobbe med dem.",
+        "Det var også noe han tok opp da han like før intervjuet ble kjent la ut en melding på Truth Social. – Jeg var ikke på stemmeseddelen, og om jeg hadde vært det hadde vi vunnet i et valgskred! skriver Trump på Truth Social.",
+        "Trump skylder Republikanernes valgtap på at han ikke var på stemmeseddelen, ifølge NYT."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/AbjrR5/trump-villig-til-aa-akseptere-resultatet",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/233df39a-b9e1-356a-bc5b-f4b052bf29f3?fit=crop&h=675&upscale=true&w=1200&s=a9841e2232c35179aa72dce914750ebe23de779b",
+      "localImage": "assets/news/30ea204f187b4d.jpg",
+      "score": 17
     },
     {
       "id": "d2587d7a5f1d9c",
@@ -85,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b4381bd6-9bef-3404-b785-d03e50a0aca9?fit=crop&h=675&upscale=true&w=1200&s=1a54154e0b5f12698e954314087d774dd4e8fb14",
       "localImage": "assets/news/d2587d7a5f1d9c.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "2c1fb43e5d5aa4",
@@ -106,48 +127,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/481040d5-91f7-324b-827e-77ceb7fe2476?fit=crop&h=675&upscale=true&w=1200&s=7cbf83c41b35845283e1fb1f50614edf25ed8bed",
       "localImage": "assets/news/2c1fb43e5d5aa4.jpg",
-      "score": 15
-    },
-    {
-      "id": "c8db1bb1b0d331",
-      "category": "AI",
-      "published": "03.11. 14:07",
-      "publishedISO": "2026-11-03T14:07:00+01:00",
-      "title": "UK also affected by cyber-attack which hit European fridges",
-      "summary": "Sverige var blant landene som rapporterte en cyber-hendelse der noen supermarked-kjøleenheter hadde blitt hevet i temperatur. Bedrifter i Storbritannias matforsyningskjede har blitt påvirket av cyber-angrepet som rammet supermarked-kjøle- og frysere over hele Europa mandag. Du må ta valget og velge med omhu.\" Rundt 40 Delhaize-supermarkeder i Belgia og Luxembourg ble berørt av mandagens cyberhendelse, mens et mindre antall butikker ble rammet i Sverige, Irland, Nederland, Estland og Finland. Butikkfrysere i syv europeiske land rammet av cyberangrep",
-      "keyPoints": [
-        "Sverige var blant landene som rapporterte en cyber-hendelse der noen supermarked-kjøleenheter hadde blitt hevet i temperatur. Bedrifter i Storbritannias matforsyningskjede har blitt påvirket av cyber-angrepet som rammet supermarked-kjøle- og frysere over hele Europa mandag.",
-        "Du må ta valget og velge med omhu.\" Rundt 40 Delhaize-supermarkeder i Belgia og Luxembourg ble berørt av mandagens cyberhendelse, mens et mindre antall butikker ble rammet i Sverige, Irland, Nederland, Estland og Finland.",
-        "Shop freezers in seven European countries hit by cyber-attack",
-        "Det nasjonale cybersikkerhetssenteret (NCSC) sier at det er klar over \"et par tilfeller hvor sårbar teknologi har blitt utnyttet i Storbritannia.\" NCSCs administrerende direktør Dr Richard Horne fortalte Today-programmet, på BBC Radio Four, at det hadde \"arbeidet gjennom natten\" for å varsle potensielt berørte organisasjoner i Storbritannia."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-      "localImage": "assets/news/c8db1bb1b0d331.jpg",
-      "score": 15
-    },
-    {
-      "id": "686fe758f14e6b",
-      "category": "AI",
-      "published": "03.11. 09:33",
-      "publishedISO": "2026-11-03T09:33:20+01:00",
-      "title": "North Korea denies being behind $6.3bn Binance crypto hack",
-      "summary": "Kim Yo Jong, søsteren til Nord-Koreas leder Kim Jong Un Nord-Korea har benektet påstandene om at det sto bak det rekordhøye hacket på 6,3 milliarder dollar (4,7 milliarder pund) av kryptovalutabørsen Binance, og kaller påstandene \"absurd retorikk\". Hvorfor Nord-Koreas 'elite' hackere er hovedmistenkt i det store Binance-hacket Hvem kan stå bak Binance-hacket og hva vi vet så langt Men Pyongyang har fått skylden for en rekke store cyberangrep de siste årene - anklager som de har benektet. Binance svarte ikke på BBCs spørsmål om Nord-Koreas påståtte involvering i hacket.",
-      "keyPoints": [
-        "Kim Yo Jong, søsteren til Nord-Koreas leder Kim Jong Un Nord-Korea har benektet påstandene om at det sto bak det rekordhøye hacket på 6,3 milliarder dollar (4,7 milliarder pund) av kryptovalutabørsen Binance, og kaller påstandene \"absurd retorikk\".",
-        "Hvorfor Nord-Koreas 'elite' hackere er hovedmistenkt i det store Binance-hacket Hvem kan stå bak Binance-hacket og hva vi vet så langt Men Pyongyang har fått skylden for en rekke store cyberangrep de siste årene - anklager som de har benektet.",
-        "Binance svarte ikke på BBCs spørsmål om Nord-Koreas påståtte involvering i hacket.",
-        "US Federal Bureau of Investigation (FBI), Secret Service og cyberanalytikere har sagt at Nord-Korea orkestrerte hacket, som har blitt beskrevet som det største i historien."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
-      "localImage": "assets/news/686fe758f14e6b.jpg",
       "score": 14
     },
     {
@@ -169,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/beb28269-07f7-3861-aee0-5f0fff923ae5?fit=crop&h=675&upscale=true&w=1200&s=ed5e7e57c64487c379ce8ec8c7a69b896453d8f4",
       "localImage": "assets/news/9ddf6ae649c782.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "516a5e8b95fa5b",
@@ -190,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nri21U2raPLIO1jUXFKpyguDpZc0rfGH9tcAxVTSUCag.jpg",
       "localImage": "assets/news/516a5e8b95fa5b.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "25736c44d08aee",
@@ -211,7 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/553aee73-7c5e-31d7-9862-eaeed2c19a32?fit=crop&h=675&upscale=true&w=1200&s=3a365df1a483fc32d628ffbcb89c18ab2cc55785",
       "localImage": "assets/news/25736c44d08aee.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "ecae18090726a9",
+      "category": "Økonomi",
+      "published": "02.11. 22:06",
+      "publishedISO": "2026-11-02T22:06:15+01:00",
+      "title": "Palantir dro inn 2,3 milliarder dollar i tredje kvartal",
+      "summary": "Teknologiselskapet, som blant annet satser stort på AI til forsvarsindustrien, legger frem tall for årets tredje kvartal. På forhånd var det ventet inntekter på 2,17 milliarder dollar, ifølge en Bloomberg-undersøkelse. Palantir er blant verdens mest verdifulle og omstridte selskaper.",
+      "keyPoints": [
+        "På forhånd var det ventet inntekter på 2,17 milliarder dollar, ifølge en Bloomberg-undersøkelse.",
+        "Teknologiselskapet, som blant annet satser stort på AI til forsvarsindustrien, legger frem tall for årets tredje kvartal.",
+        "Palantir er blant verdens mest verdifulle og omstridte selskaper.",
+        "Aksjen stiger 1,2 prosent i etterhandelen på Wall Street i 22.40-tiden."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/w3aPxL/palantir-dro-inn2-3-milliarder-dollar-i-tredje-kvartal",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/9ec17cb9-c965-3126-a725-b38bd9ea016b?fit=crop&h=675&upscale=true&w=1200&s=095ac4e4e5e7790ef45a8413c0f3bae91801e5f2",
+      "localImage": "assets/news/ecae18090726a9.jpg",
+      "score": 14
     }
   ]
 }
