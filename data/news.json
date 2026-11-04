@@ -1,6 +1,6 @@
 {
-  "updatedAt": "03.11.2026 kl. 21:46",
-  "updatedISO": "2026-11-03T21:46:22.148842+01:00",
+  "updatedAt": "04.11.2026 kl. 01:58",
+  "updatedISO": "2026-11-04T01:58:22.152515+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/3oEaO5atCkWgezRRPMxCYwHv9fzu6CWQWWtas-q1iQGg.jpg",
       "localImage": "assets/news/3364ba13e8ba85.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "ac357baa8694cd",
+      "category": "Verden",
+      "published": "03.11. 17:57",
+      "publishedISO": "2026-11-03T17:57:41+01:00",
+      "title": "Dødstallene stiger i Ukraina etter at Russland angrep hjelpesenter, hospits og sykehus",
+      "summary": "Mer enn 50 mennesker fryktes å være fanget under ruinene. Russiske angrep på Ukraina – inkludert på et hjelpesenter, et hospits og et sykehus – har drept minst 38 sivile og skadet mange andre i løpet av det siste døgnet. Andre steder ble et hospice angrepet i den sentrale byen Dnipro og et sykehus ble truffet i den nordøstlige byen Kharkiv, der Zelensky sa at 73 mennesker ble såret, de fleste av dem eldre pasienter. Russisk bombing dreper 31 mennesker ved Ukrainas hjelpesenter, Kyiv sier at kampene vender tilbake til Kherson-regionen etter den lengste våpenhvilen fra Ukraina-krigen",
+      "keyPoints": [
+        "Mer enn 50 mennesker fryktes å være fanget under ruinene. Russiske angrep på Ukraina – inkludert på et hjelpesenter, et hospits og et sykehus – har drept minst 38 sivile og skadet mange andre i løpet av det siste døgnet.",
+        "Russisk bombing dreper 31 mennesker ved Ukrainas hjelpesenter, Kyiv sier at kampene vender tilbake til Kherson-regionen etter den lengste våpenhvilen fra Ukraina-krigen",
+        "Andre steder ble et hospice angrepet i den sentrale byen Dnipro og et sykehus ble truffet i den nordøstlige byen Kharkiv, der Zelensky sa at 73 mennesker ble såret, de fleste av dem eldre pasienter.",
+        "Nine 3,000kg aerial bombs hit Komyshuvakha as residents were gathering to receive humanitarian aid at a distribution centre, authorities said."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8a5b/live/6de1e2e0-d7c7-11f1-a719-bf3dc3a3d5b5.jpg",
+      "localImage": "assets/news/ac357baa8694cd.jpg",
+      "score": 16
+    },
+    {
+      "id": "acc069670c3e62",
+      "category": "USA",
+      "published": "03.11. 11:55",
+      "publishedISO": "2026-11-03T11:55:05+01:00",
+      "title": "Voter voices: Trump's influence on US midterm voters",
+      "summary": "Som en del av vår Voter Voices-serie har BBC snakket med amerikanere over hele landet om de støttet Trump i 2024 og hvordan hans siste to år i embetet former valgene deres i mellomperiodene. Intervjuer samlet inn og filmet av Meiying Wu, Angélica Casas, Blanca Estrada, Eloise Alanna, Sheila Flynn, Katy Bailes, Regan Morris, Keith «Chuck» Tayman, Pratiksha Ghildial og Andrew Sarge Herbert Velgerstemmer: Trumps innflytelse på amerikanske midtveisvelgere. Video, 00:01:35Velgerstemmer: Trumps innflytelse på amerikanske midtveisvelgere Up Next. \"Min stemme er fortsatt viktig\" - Amerikanerne veier inn over kraften i stemmeseddelen deres.",
+      "keyPoints": [
+        "Intervjuer samlet inn og filmet av Meiying Wu, Angélica Casas, Blanca Estrada, Eloise Alanna, Sheila Flynn, Katy Bailes, Regan Morris, Keith «Chuck» Tayman, Pratiksha Ghildial og Andrew Sarge Herbert Velgerstemmer: Trumps innflytelse på amerikanske midtveisvelgere.",
+        "Video, 00:01:35Voter voices: Trump's influence on US midterm voters Up Next. ‘My vote still matters’ - Americans weigh in on the power of their ballot.",
+        "Som en del av vår Voter Voices-serie har BBC snakket med amerikanere over hele landet om de støttet Trump i 2024 og hvordan hans siste to år i embetet former valgene deres i mellomperiodene.",
+        "Video, 00:01:16Voter voices: Which issues matter most to Americans?"
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cqj346nndl0yo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/49a2/live/60ec9cd0-d6da-11f1-a701-fddedf244c16.jpg",
+      "localImage": "assets/news/acc069670c3e62.jpg",
+      "score": 15
     },
     {
       "id": "d2587d7a5f1d9c",
@@ -43,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b4381bd6-9bef-3404-b785-d03e50a0aca9?fit=crop&h=675&upscale=true&w=1200&s=1a54154e0b5f12698e954314087d774dd4e8fb14",
       "localImage": "assets/news/d2587d7a5f1d9c.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "2c1fb43e5d5aa4",
@@ -64,7 +106,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/481040d5-91f7-324b-827e-77ceb7fe2476?fit=crop&h=675&upscale=true&w=1200&s=7cbf83c41b35845283e1fb1f50614edf25ed8bed",
       "localImage": "assets/news/2c1fb43e5d5aa4.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "c8db1bb1b0d331",
+      "category": "AI",
+      "published": "03.11. 14:07",
+      "publishedISO": "2026-11-03T14:07:00+01:00",
+      "title": "UK also affected by cyber-attack which hit European fridges",
+      "summary": "Sverige var blant landene som rapporterte en cyber-hendelse der noen supermarked-kjøleenheter hadde blitt hevet i temperatur. Bedrifter i Storbritannias matforsyningskjede har blitt påvirket av cyber-angrepet som rammet supermarked-kjøle- og frysere over hele Europa mandag. Du må ta valget og velge med omhu.\" Rundt 40 Delhaize-supermarkeder i Belgia og Luxembourg ble berørt av mandagens cyberhendelse, mens et mindre antall butikker ble rammet i Sverige, Irland, Nederland, Estland og Finland. Butikkfrysere i syv europeiske land rammet av cyberangrep",
+      "keyPoints": [
+        "Sverige var blant landene som rapporterte en cyber-hendelse der noen supermarked-kjøleenheter hadde blitt hevet i temperatur. Bedrifter i Storbritannias matforsyningskjede har blitt påvirket av cyber-angrepet som rammet supermarked-kjøle- og frysere over hele Europa mandag.",
+        "Du må ta valget og velge med omhu.\" Rundt 40 Delhaize-supermarkeder i Belgia og Luxembourg ble berørt av mandagens cyberhendelse, mens et mindre antall butikker ble rammet i Sverige, Irland, Nederland, Estland og Finland.",
+        "Shop freezers in seven European countries hit by cyber-attack",
+        "Det nasjonale cybersikkerhetssenteret (NCSC) sier at det er klar over \"et par tilfeller hvor sårbar teknologi har blitt utnyttet i Storbritannia.\" NCSCs administrerende direktør Dr Richard Horne fortalte Today-programmet, på BBC Radio Four, at det hadde \"arbeidet gjennom natten\" for å varsle potensielt berørte organisasjoner i Storbritannia."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
+      "localImage": "assets/news/c8db1bb1b0d331.jpg",
+      "score": 15
+    },
+    {
+      "id": "686fe758f14e6b",
+      "category": "AI",
+      "published": "03.11. 09:33",
+      "publishedISO": "2026-11-03T09:33:20+01:00",
+      "title": "North Korea denies being behind $6.3bn Binance crypto hack",
+      "summary": "Kim Yo Jong, søsteren til Nord-Koreas leder Kim Jong Un Nord-Korea har benektet påstandene om at det sto bak det rekordhøye hacket på 6,3 milliarder dollar (4,7 milliarder pund) av kryptovalutabørsen Binance, og kaller påstandene \"absurd retorikk\". Hvorfor Nord-Koreas 'elite' hackere er hovedmistenkt i det store Binance-hacket Hvem kan stå bak Binance-hacket og hva vi vet så langt Men Pyongyang har fått skylden for en rekke store cyberangrep de siste årene - anklager som de har benektet. Binance svarte ikke på BBCs spørsmål om Nord-Koreas påståtte involvering i hacket.",
+      "keyPoints": [
+        "Kim Yo Jong, søsteren til Nord-Koreas leder Kim Jong Un Nord-Korea har benektet påstandene om at det sto bak det rekordhøye hacket på 6,3 milliarder dollar (4,7 milliarder pund) av kryptovalutabørsen Binance, og kaller påstandene \"absurd retorikk\".",
+        "Hvorfor Nord-Koreas 'elite' hackere er hovedmistenkt i det store Binance-hacket Hvem kan stå bak Binance-hacket og hva vi vet så langt Men Pyongyang har fått skylden for en rekke store cyberangrep de siste årene - anklager som de har benektet.",
+        "Binance svarte ikke på BBCs spørsmål om Nord-Koreas påståtte involvering i hacket.",
+        "US Federal Bureau of Investigation (FBI), Secret Service og cyberanalytikere har sagt at Nord-Korea orkestrerte hacket, som har blitt beskrevet som det største i historien."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
+      "localImage": "assets/news/686fe758f14e6b.jpg",
+      "score": 14
+    },
+    {
+      "id": "9ddf6ae649c782",
+      "category": "Økonomi",
+      "published": "03.11. 15:32",
+      "publishedISO": "2026-11-03T15:32:24+01:00",
+      "title": "Wall Street-oppgang på valgdagen",
+      "summary": "Slik gikk det med de toneangivende indeksene: Oljeprisen (nordsjøolje) var på 104 dollar per fat når Wall Street stengte tirsdag kveld. Resultatet ble bedre enn forventet, de dro inn 2,31 miliarder mot 2,17 miliarder som var forventet fra en undersøkelse fra Bloomberg. Apple la også frem sine tall mandags kveld hvor de omsatte for 114,38 miliarder dollar, som var bedre enn forventet av analytikere, som spådde 113,47 milliarder dollar, i følge Bloomberg.",
+      "keyPoints": [
+        "Slik gikk det med de toneangivende indeksene: Oljeprisen (nordsjøolje) var på 104 dollar per fat når Wall Street stengte tirsdag kveld.",
+        "Apple la også frem sine tall mandags kveld hvor de omsatte for 114,38 miliarder dollar, som var bedre enn forventet av analytikere, som spådde 113,47 milliarder dollar, i følge Bloomberg.",
+        "Resultatet ble bedre enn forventet, de dro inn 2,31 miliarder mot 2,17 miliarder som var forventet fra en undersøkelse fra Bloomberg.",
+        "Prisen har falt fra om lag 106 dollar ved lunsjtider, etter et kraftig fall mandag."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/2VQxXl/oppgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/beb28269-07f7-3861-aee0-5f0fff923ae5?fit=crop&h=675&upscale=true&w=1200&s=ed5e7e57c64487c379ce8ec8c7a69b896453d8f4",
+      "localImage": "assets/news/9ddf6ae649c782.jpg",
+      "score": 15
     },
     {
       "id": "516a5e8b95fa5b",
@@ -85,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/nri21U2raPLIO1jUXFKpyguDpZc0rfGH9tcAxVTSUCag.jpg",
       "localImage": "assets/news/516a5e8b95fa5b.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "25736c44d08aee",
@@ -106,112 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/553aee73-7c5e-31d7-9862-eaeed2c19a32?fit=crop&h=675&upscale=true&w=1200&s=3a365df1a483fc32d628ffbcb89c18ab2cc55785",
       "localImage": "assets/news/25736c44d08aee.jpg",
-      "score": 16
-    },
-    {
-      "id": "ecae18090726a9",
-      "category": "Økonomi",
-      "published": "02.11. 22:06",
-      "publishedISO": "2026-11-02T22:06:15+01:00",
-      "title": "Palantir dro inn 2,3 milliarder dollar i tredje kvartal",
-      "summary": "Teknologiselskapet, som blant annet satser stort på AI til forsvarsindustrien, legger frem tall for årets tredje kvartal. På forhånd var det ventet inntekter på 2,17 milliarder dollar, ifølge en Bloomberg-undersøkelse. Palantir er blant verdens mest verdifulle og omstridte selskaper.",
-      "keyPoints": [
-        "På forhånd var det ventet inntekter på 2,17 milliarder dollar, ifølge en Bloomberg-undersøkelse.",
-        "Teknologiselskapet, som blant annet satser stort på AI til forsvarsindustrien, legger frem tall for årets tredje kvartal.",
-        "Palantir er blant verdens mest verdifulle og omstridte selskaper.",
-        "Aksjen stiger 1,2 prosent i etterhandelen på Wall Street i 22.40-tiden."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/w3aPxL/palantir-dro-inn2-3-milliarder-dollar-i-tredje-kvartal",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9ec17cb9-c965-3126-a725-b38bd9ea016b?fit=crop&h=675&upscale=true&w=1200&s=095ac4e4e5e7790ef45a8413c0f3bae91801e5f2",
-      "localImage": "assets/news/ecae18090726a9.jpg",
-      "score": 16
-    },
-    {
-      "id": "c789bcd9361112",
-      "category": "Norge",
-      "published": "02.11. 17:24",
-      "publishedISO": "2026-11-02T17:24:49+01:00",
-      "title": "Kirurg og overlege mener Norge har svært dårlig krigsberedskap innen helse",
-      "summary": "Norske sykehus er ikke godt nok forberedt til å ta imot tusenvis av skadde soldater, ifølge kirurg og overlege. Men forskere har avdekket store mangler i norsk helseberedskap. – Norske sykehus er ikke forberedt på en krig, sier Kristina Stølen Ugelvik, overlege og kirurg ved Voss sykehus. Ugelvik mener det må trenes på to scenarioer: Ugelvik mener helsevesenet i Norge er solid, men at det er for store variasjoner fra sykehus til sykehus når det gjelder beredskap.",
-      "keyPoints": [
-        "Men forskere har avdekket store mangler i norsk helseberedskap. – Norske sykehus er ikke forberedt på en krig, sier Kristina Stølen Ugelvik, overlege og kirurg ved Voss sykehus.",
-        "Ugelvik mener det må trenes på to scenarioer: Ugelvik mener helsevesenet i Norge er solid, men at det er for store variasjoner fra sykehus til sykehus når det gjelder beredskap.",
-        "Norske sykehus er ikke godt nok forberedt til å ta imot tusenvis av skadde soldater, ifølge kirurg og overlege.",
-        "Sandvik sykehusene i Norge om å sørge for å ha 7000 sengeplasser klare dersom det skulle bryte ut krig i Norge. – Det er urealistisk at sykehusene vil klare dette uten at det følger friske penger med, sier Ugelvik."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kirurg-og-overlege-mener-norge-har-svaert-darlig-krigsberedskap-innen-helse-1.18067388",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/DMqSaUCKUrTmz67r33muAAfwo-QxhqclCu8x2e3HD02A.jpg",
-      "localImage": "assets/news/c789bcd9361112.jpg",
-      "score": 16
-    },
-    {
-      "id": "2cafdc8852e08d",
-      "category": "Norge",
-      "published": "03.11. 21:24",
-      "publishedISO": "2026-11-03T21:24:29+01:00",
-      "title": "Gigantiske laksetankar skal kverke lusa",
-      "summary": "BYGGESETT: Delane til dei store laksetankane kom til Ågotnes på Sotra i dag Foto: Lerøy / NRK Etter vekevis på sjøen klappa det enorme lasteskipet til kai på Ågotnes utanfor Bergen i dag. Merdane har over dobbel kapasitet samanlikna med det som til no har vore dei største lukka merdane i verda. – Det er ei kjensle av skrekkblanda fryd å ta imot dei, seier Alf Reidar Sandstad i Seafarming Systems. Vatnet i systemet skal teke frå 35 meters djupne og bli bytta ut fleire gonger i døgnet. – Då slepp me å behandla fisken og me får det me kallar ein «produksjon i ro».",
-      "keyPoints": [
-        "Merdane har over dobbel kapasitet samanlikna med det som til no har vore dei største lukka merdane i verda. – Det er ei kjensle av skrekkblanda fryd å ta imot dei, seier Alf Reidar Sandstad i Seafarming Systems.",
-        "BYGGESETT: Delane til dei store laksetankane kom til Ågotnes på Sotra i dag Foto: Lerøy / NRK Etter vekevis på sjøen klappa det enorme lasteskipet til kai på Ågotnes utanfor Bergen i dag.",
-        "Vatnet i systemet skal teke frå 35 meters djupne og bli bytta ut fleire gonger i døgnet. – Då slepp me å behandla fisken og me får det me kallar ein «produksjon i ro».",
-        "Foto: Oddgeir Øystese / NRK Sjølv om tankane er bygde i Kina, er dei designa i Noreg av Sandstad og selskapet hans. – Dei pumpar opp vatn frå djupet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/gigantiske-laksetankar-skal-kverke-lusa-1531632",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/LmB3ncJewHa5P8_4_CbHBQUQqHIpZ9hc1E3Etk9PA2mg",
-      "localImage": "assets/news/2cafdc8852e08d.jpg",
-      "score": 13
-    },
-    {
-      "id": "9d9c8459077300",
-      "category": "Norge",
-      "published": "03.11. 20:58",
-      "publishedISO": "2026-11-03T20:58:46+01:00",
-      "title": "Valgfeber på Lista: Følger USA-valget fra «den 51. stat»",
-      "summary": "På «amerikanske» Lista i Farsund er engasjementet som vanlig stort når det er valg på den andre siden av Atlanteren. – Man følger jo med. Delte politiske meninger kan nemlig føre til noe dårlig stemning i den 51. stat, bekrefter innehaver i bakeriet Joakim Larsen. – Det har vært mer knuffing i dag i forhold til forrige valgnatt, sier han. Mange på Lista har amerikansk statsborgerskap og kan stemme ved valget. – Jeg håper demokratene vinner, sier Asbjørn Frigstad.",
-      "keyPoints": [
-        "På «amerikanske» Lista i Farsund er engasjementet som vanlig stort når det er valg på den andre siden av Atlanteren. – Man følger jo med.",
-        "Delte politiske meninger kan nemlig føre til noe dårlig stemning i den 51. stat, bekrefter innehaver i bakeriet Joakim Larsen. – Det har vært mer knuffing i dag i forhold til forrige valgnatt, sier han.",
-        "Mange på Lista har amerikansk statsborgerskap og kan stemme ved valget. – Jeg håper demokratene vinner, sier Asbjørn Frigstad.",
-        "Det sier Tina Elisabeth Nilsen mens hun står og pynter treet inne på Trunken Department Store. – Det skal jo være American style."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/valgfeber-pa-lista_-folger-usa-valget-fra-_den-51.-stat_-1.18072702",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/9jCw-RcO8--Xyo7hIheEHwIO-aptAoAZH39CNQ7r69eQ.jpg",
-      "localImage": "assets/news/9d9c8459077300.jpg",
-      "score": 13
-    },
-    {
-      "id": "bea4e4d41eb86d",
-      "category": "Norge",
-      "published": "03.11. 18:31",
-      "publishedISO": "2026-11-03T18:31:28+01:00",
-      "title": "Arbeiderpartiet ut mot Fremskrittspartiets integreringspolitikk",
-      "summary": "Tonje Brenna (Ap) mener Fremskrittspartiets politikk bare vil føre til de samme tilstandene de advarer mot. Parlamentarisk leder Tonje Brenna mener Fremskrittspartiets plan for integrering er feilslått. – Sylvi Listhaug har gjort det til en paradegren å reise rundt i verden og advare mot tilstander, enten det er franske eller svenske. Stortingsrepresentant Erlend Wiborg (Frp) mente disse tiltakene ville få innvandrere raskere ut i arbeidslivet. – Men det er en oppskrift på at folk blir dårligere i norsk og at det blir vanskeligere å få jobb, parerer Brenna i dag. – Arbeiderpartiet trenger ikke å forsøke å belære Frp i innvandringsdebatten, svarer partileder Sylvi Listhaug.",
-      "keyPoints": [
-        "Parlamentarisk leder Tonje Brenna mener Fremskrittspartiets plan for integrering er feilslått. – Sylvi Listhaug har gjort det til en paradegren å reise rundt i verden og advare mot tilstander, enten det er franske eller svenske.",
-        "Stortingsrepresentant Erlend Wiborg (Frp) mente disse tiltakene ville få innvandrere raskere ut i arbeidslivet. – Men det er en oppskrift på at folk blir dårligere i norsk og at det blir vanskeligere å få jobb, parerer Brenna i dag. – Arbeiderpartiet trenger ikke å forsøke å belære Frp i innvandringsdebatten, svarer partileder Sylvi Listhaug.",
-        "Tonje Brenna (Ap) mener Fremskrittspartiets politikk bare vil føre til de samme tilstandene de advarer mot.",
-        "En bok som omtaler en fortsatt sterk æreskultur i innvandrermiljøer. – Har ikke Sylvi Listhaug noen poenger når hun beskriver problemene med norsk integreringspolitikk? – Det er ingen som blir bedre integrert ved at Sylvi Listhaug beskriver problemene."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/norge/arbeiderpartiet-ut-mot-fremskrittspartiets-integreringspolitikk-1.18071335",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/b8mq-JNYRXz78uiF0zURwAtTEJEj58lbahVS43yUzjYg.jpg",
-      "localImage": "assets/news/bea4e4d41eb86d.webp",
-      "score": 13
+      "score": 15
     }
   ]
 }
