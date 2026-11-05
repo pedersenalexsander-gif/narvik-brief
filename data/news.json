@@ -1,29 +1,8 @@
 {
-  "updatedAt": "04.11.2026 kl. 22:32",
-  "updatedISO": "2026-11-04T22:32:35.485036+01:00",
+  "updatedAt": "05.11.2026 kl. 02:50",
+  "updatedISO": "2026-11-05T02:50:49.122557+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "9bb1bf1fe0677b",
-      "category": "Nord-Norge",
-      "published": "04.11. 16:02",
-      "publishedISO": "2026-11-04T16:02:13+01:00",
-      "title": "Hun blir ny toppsjef på Nordlandssykehuset",
-      "summary": "Tonje Elisabeth Hansen er ansatt som ny administrerende direktør i Nordlandssykehuset. Hun starter i jobben 1. februar neste år og kommer fra jobben som klinikksjef ved Hammerfest sykehus. – Jeg gleder meg til «å komme hjem» til Nordlandssykehuset og bidra til levere gode og trygge spesialisthelsetjenester for befolkningen i Nordland, sier hun. Hun har tidligere jobbet ved sykehuset i en årrekke som fagdirektør. – I Hammerfest har du kuttet i antall ledere, årsverk og innleie fra vikarbyrå.",
-      "keyPoints": [
-        "Hun starter i jobben 1. februar neste år og kommer fra jobben som klinikksjef ved Hammerfest sykehus. – Jeg gleder meg til «å komme hjem» til Nordlandssykehuset og bidra til levere gode og trygge spesialisthelsetjenester for befolkningen i Nordland, sier hun.",
-        "Tonje Elisabeth Hansen er ansatt som ny administrerende direktør i Nordlandssykehuset.",
-        "Hun har tidligere jobbet ved sykehuset i en årrekke som fagdirektør. – I Hammerfest har du kuttet i antall ledere, årsverk og innleie fra vikarbyrå.",
-        "Kan Nordlandssykehuset vente seg samme medisin? – Det er for tidlig å si hva vi skal gjøre i Nordlandssykehuset, der pågår det masse arbeid."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/hun-blir-ny-toppsjef-pa-nordlandssykehuset-1.18073765",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/kZVgZOLZ3ADt-ZD2b1NIWQTTXH65B_36rN7KXC-6C5MQ.jpg",
-      "localImage": "assets/news/9bb1bf1fe0677b.jpg",
-      "score": 12
-    },
     {
       "id": "739cb88dfec064",
       "category": "Norge",
@@ -43,7 +22,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Kw9sgW6RHwara-tDs1p0zAI71fCauZSxqF7JQN1ukm7A.jpg",
       "localImage": "assets/news/739cb88dfec064.jpg",
+      "score": 16
+    },
+    {
+      "id": "0e2b6642691906",
+      "category": "Verden",
+      "published": "04.11. 23:48",
+      "publishedISO": "2026-11-04T23:48:43+01:00",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "Video viser øyeblikk mellom dødelige russiske angrep på landsbyen i Ukraina En bodycam-video har blitt utgitt av Ukrainas politi som de sier viser øyeblikkene mellom to kraftige russiske bombeangrep som drepte minst 40 mennesker ved et hjelpesenter og et krisesenter. Søkearbeidet fortsetter etter at den russiske bombingen fullstendig ødela krisesenteret i Kamyshuvakha, og etterlot et stort krater. Bodycam-opptakene ble frigitt av Ukrainas nasjonale politi onsdag. Russlands president Vladimir Putin startet en fullskala invasjon av Ukraina i februar 2022.",
+      "keyPoints": [
+        "Video viser øyeblikk mellom dødelige russiske angrep på landsbyen i Ukraina En bodycam-video har blitt utgitt av Ukrainas politi som de sier viser øyeblikkene mellom to kraftige russiske bombeangrep som drepte minst 40 mennesker ved et hjelpesenter og et krisesenter.",
+        "Søkearbeidet fortsetter etter at den russiske bombingen fullstendig ødela krisesenteret i Kamyshuvakha, og etterlot et stort krater. Bodycam-opptakene ble frigitt av Ukrainas nasjonale politi onsdag.",
+        "Russian President Vladimir Putin launched a full-scale invasion of Ukraine in February 2022.",
+        "Den viser enorme ødeleggelser etter det første bombeangrepet mot landsbyen i Ukrainas Zaporizhzhia-region, mens sjokkerte lokale innbyggere stirrer på ruinene."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3f23/live/c9877cb0-d8a1-11f1-93e1-3b657b665bcf.png",
+      "localImage": "assets/news/0e2b6642691906.png",
       "score": 17
+    },
+    {
+      "id": "55bebe42147fb6",
+      "category": "USA",
+      "published": "05.11. 00:50",
+      "publishedISO": "2026-11-05T00:50:40+01:00",
+      "title": "Mor og datter dør etter mistenkt grizzlybjørnangrep i Canada",
+      "summary": "Mellom 10 000 og 13 000 grizzlybjørner anslås å leve i British Columbia (filbilde) En mor og datter har dødd etter et mistenkt grizzlybjørnangrep i den kanadiske provinsen British Columbia, har familien deres kunngjort. En grizzlybjørn skadet to turgåere i McGregor Mountain-området i oktober 2025, hvorav den ene døde senere på grunn av kritiske skader. Grizzlybjørn på frifot etter å ha angrepet skolegruppe i Canada og skadet 11",
+      "keyPoints": [
+        "Mellom 10 000 og 13 000 grizzlybjørner anslås å leve i British Columbia (filbilde) En mor og datter har dødd etter et mistenkt grizzlybjørnangrep i den kanadiske provinsen British Columbia, har familien deres kunngjort.",
+        "Grizzly bear on loose after attacking school group in Canada, injuring 11",
+        "A grizzly bear injured two hikers in the McGregor Mountain area in October 2025, one of whom died later due to critical injuries.",
+        "Han la til at enhver fanget bjørn vil bli vurdert, og hvis den viser seg å ha vært involvert i angrepet \"vil den bli sendt i samsvar med provinsielle retningslinjer for menneske-vilt-konfliktrespons for å beskytte offentlig sikkerhet\"."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e75/live/6fd142d0-d8a3-11f1-b29d-fbcd9d61c58e.jpg",
+      "localImage": "assets/news/55bebe42147fb6.jpg",
+      "score": 13
     },
     {
       "id": "a18f8bac26f313",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c3cf9587-63e2-3cf1-ae37-ca8cdc2e40ee?fit=crop&h=675&upscale=true&w=1200&s=f40b9a19b622cb303b1a247a3693784fe07ac5cf",
       "localImage": "assets/news/a18f8bac26f313.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "2d9315fe4d8a06",
@@ -85,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/0bb05b6a-5117-3f35-b901-51cf0183b654?fit=crop&h=675&upscale=true&w=1200&s=b590da0d1b3244fedb041aceedd83b0e02ee529c",
       "localImage": "assets/news/2d9315fe4d8a06.jpg",
-      "score": 22
+      "score": 21
     },
     {
       "id": "4028fe2b29d0aa",
@@ -106,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e72c0d70-6bdc-394c-8b7e-04c8db7d0fcf?fit=crop&h=675&upscale=true&w=1200&s=9560f606772de6717e3fb8bcd99f9cd4909b6208",
       "localImage": "assets/news/4028fe2b29d0aa.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "9f0706aec1bcd4",
@@ -127,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/86971f84-8955-3079-ba6b-5bea96a3c4c1?fit=crop&h=675&upscale=true&w=1200&s=3272cfcc73851fd918602da217512f0dc4f5faff",
       "localImage": "assets/news/9f0706aec1bcd4.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "50f771b076175f",
@@ -148,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/c3fG5JlNNCQXEIylBdq53wDzkyKppKqfPJDGOieUfVVQ.png",
       "localImage": "assets/news/50f771b076175f.png",
-      "score": 17
+      "score": 16
     },
     {
       "id": "5c312c6effca5d",
@@ -169,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b2545b3c-ac1b-3bbb-ad4b-7568fd955c30?fit=crop&h=675&upscale=true&w=1200&s=394482753f7da98b81b46597f50745492b28d33e",
       "localImage": "assets/news/5c312c6effca5d.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "bdb5e385600d1e",
@@ -190,27 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/615bc2af-7df7-30d0-bff5-15bef4946a91?fit=crop&h=675&upscale=true&w=1200&s=38bdd4623eb33bb8f74cbfee70f616a15c2074bf",
       "localImage": "assets/news/bdb5e385600d1e.jpg",
-      "score": 15
-    },
-    {
-      "id": "3707fc8f023603",
-      "category": "Økonomi",
-      "published": "04.11. 11:22",
-      "publishedISO": "2026-11-04T11:22:23+01:00",
-      "title": "Når hackerne skrur opp varmen",
-      "summary": "Først ble kjøle- og fryseanlegg i rundt 700 dagligvarebutikker i Frankrike rammet av et omfattende cyberangrep. Temperaturen i enkelte anlegg skal ha blitt skrudd opp til 50 grader, og matvarer for store verdier er ødelagt. Men hva skjer når angriperne ikke bare får tilgang til informasjon, men også kan påvirke temperaturen i et kjøleanlegg, stoppe en produksjonslinje eller sette ventilasjonen ut av spill?Da handler det ikke lenger bare om IT.",
-      "keyPoints": [
-        "Temperaturen i enkelte anlegg skal ha blitt skrudd opp til 50 grader, og matvarer for store verdier er ødelagt.",
-        "Først ble kjøle- og fryseanlegg i rundt 700 dagligvarebutikker i Frankrike rammet av et omfattende cyberangrep.",
-        "Men hva skjer når angriperne ikke bare får tilgang til informasjon, men også kan påvirke temperaturen i et kjøleanlegg, stoppe en produksjonslinje eller sette ventilasjonen ut av spill?Da handler det ikke lenger bare om IT.",
-        "Dette skjer i europeiske dagligvarebutikker, og det skjer akkurat nå.Hendelsene er en påminnelse om noe vi snakker altfor lite om: sikkerheten i systemene som sørger for at alt fra kjøleanlegg til produksjonslinjer fungerer som de skal."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/BMg5E7/naar-hackerne-skrur-opp-varmen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ce86181b-3289-3caa-bc77-bd39451a285c?fit=crop&h=675&upscale=true&w=1200&s=2650e22e70a56ec496fc3ce25caaf34c801caf88",
-      "localImage": "assets/news/3707fc8f023603.jpg",
       "score": 15
     }
   ]
