@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.11.2026 kl. 18:59",
-  "updatedISO": "2026-11-06T18:59:36.406182+01:00",
+  "updatedAt": "06.11.2026 kl. 23:58",
+  "updatedISO": "2026-11-06T23:58:06.459650+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/IrDizf54zSBMRJiPrAH4bQMhZq1yHzxr_8ruvx-54VQQ.jpg",
       "localImage": "assets/news/e5d82e06fd4391.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "a2316100e33bd9",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a1246896-3346-3667-8562-b3bffa68b95b?fit=crop&h=675&upscale=true&w=1200&s=bd0836a496a61a26150c2eb5d9d535ce77ccc0b5",
       "localImage": "assets/news/a2316100e33bd9.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "fc6148232d717c",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/03c96720-d4eb-3dce-bc0f-cabea94bf64b?fit=crop&h=675&upscale=true&w=1200&s=680b52ee0992bf673bbcdf33e025c6738ffab3ea",
       "localImage": "assets/news/fc6148232d717c.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "1d3b3aabec4ef4",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e01daea3-24d8-3d06-98b4-3f1ed1aca3c2?fit=crop&h=675&upscale=true&w=1200&s=f4d0c8da69d8d423827d0b8201e5e98350b61b0a",
       "localImage": "assets/news/1d3b3aabec4ef4.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "c861db6778e8b0",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1132b062-b991-38ea-8209-7f0e2ab6dce2?fit=crop&h=675&upscale=true&w=1200&s=829fb06f846c7e59c65a55eea214456725ce60f8",
       "localImage": "assets/news/c861db6778e8b0.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d4a1007a1b92bd",
@@ -127,7 +127,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/cc5d441f-64b9-32d6-aca5-a06cb3e87aa6?fit=crop&h=675&upscale=true&w=1200&s=2ae1dbf5321b00df29fb8dacad0100eaa47df0b5",
       "localImage": "assets/news/d4a1007a1b92bd.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "087340284fe3ec",
+      "category": "Økonomi",
+      "published": "06.11. 12:21",
+      "publishedISO": "2026-11-06T12:21:13+01:00",
+      "title": "AI-rekyl på Nasdaq: – Fortsatt mange penger som står klare",
+      "summary": "Teknologiindeksen Nasdaq har dermed tapt seg nær 3,4 prosent siste uken, og er ned over 10,9 prosent den siste måneden, ifølge InFront. Den brede S&P-indeksen er ned 2,66 prosent siste uken og ned 5,65 prosent den siste måneden. Det er fortsatt mange penger som står klare til å investere i AI, sier Chen.",
+      "keyPoints": [
+        "Det er fortsatt mange penger som står klare til å investere i AI, sier Chen.",
+        "Teknologiindeksen Nasdaq har dermed tapt seg nær 3,4 prosent siste uken, og er ned over 10,9 prosent den siste måneden, ifølge InFront.",
+        "Han legger til at det første gang siden juli at Storebrand vekter seg opp igjen, og at kjøpsvolumet, cirka 2-3 milliarder kroner, er det største siden USA-president Donald Trump sa han skulle bombe Iran sønder og sammen omkring påsketider. – Jeg er alltid nervøs, det er jobben til en forvalter å være det.",
+        "Fra toppen tidlig i oktober har Nasdaq falt mer enn ti prosent, mens Oslo Børs nå er omtrent uendret i samme periode."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/w3yQy5/forsiktig-opppgang-i-foerhandelen-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/85adf50d-abdd-35eb-9d4d-70db71fe51ed?fit=crop&h=675&upscale=true&w=1200&s=441f039a6eadb2b7f1901f8d5e7b32207ac2db26",
+      "localImage": "assets/news/087340284fe3ec.jpg",
+      "score": 15
+    },
+    {
+      "id": "848fe1086f680c",
+      "category": "Norge",
+      "published": "06.11. 11:56",
+      "publishedISO": "2026-11-06T11:56:47+01:00",
+      "title": "Styrkar dronevernet ved Russland-grensa: – Vi vil forsvare kvar kvadratmeter",
+      "summary": "Nye sensorar og samarbeid med politiet skal gjere Noreg betre i stand til å oppdage og verne seg mot farlege dronar. Sandvik seier at Noreg og Nato ikkje truar nokon, men står klare til å forsvare seg. – Vi kjem til å forsvare oss formidabelt om nokon skulle vere så dumme at dei går til angrep på oss. Gjennom krigen har Ukraina også sendt dronar mot flybasen Olenja på Kolahalvøya, rundt 100 kilometer frå grensa til Noreg. – Det som desse systema er gode på, og som har fungert veldig godt i Ukraina, er å finne dronar og fly som flyg i låg høgde, seier fungerande sjef for luftvernbataljonen Kenneth Øyen til NRK.",
+      "keyPoints": [
+        "Sandvik seier at Noreg og Nato ikkje truar nokon, men står klare til å forsvare seg. – Vi kjem til å forsvare oss formidabelt om nokon skulle vere så dumme at dei går til angrep på oss.",
+        "Gjennom krigen har Ukraina også sendt dronar mot flybasen Olenja på Kolahalvøya, rundt 100 kilometer frå grensa til Noreg. – Det som desse systema er gode på, og som har fungert veldig godt i Ukraina, er å finne dronar og fly som flyg i låg høgde, seier fungerande sjef for luftvernbataljonen Kenneth Øyen til NRK.",
+        "Nye sensorar og samarbeid med politiet skal gjere Noreg betre i stand til å oppdage og verne seg mot farlege dronar.",
+        "Sensorane er del av Nasams, eit avansert norsk luftvernsystem som kan skyte ned truslar i lufta. – Vi viser nå at vi på kort sikt og veldig kort tid kan sette opp dette systemet, seier Sandvik."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/styrkar-dronevernet-ved-russland-grensa_-_-vi-vil-forsvare-kvar-kvadratmeter-1.18075429",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/mLWmX9OULi81y6zxeu4yig5zglnx94UQ79lxpgMmkExA.jpg",
+      "localImage": "assets/news/848fe1086f680c.jpg",
+      "score": 15
     },
     {
       "id": "49fa3495382025",
@@ -148,48 +190,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2bb6fdf7-c830-3c0b-b274-63247929ddd2?fit=crop&h=675&upscale=true&w=1200&s=874606503570afef7c25df700ca2de1c4af5a840",
       "localImage": "assets/news/49fa3495382025.jpg",
-      "score": 16
-    },
-    {
-      "id": "a487d97bf48a53",
-      "category": "Økonomi",
-      "published": "05.11. 13:20",
-      "publishedISO": "2026-11-05T13:20:37+01:00",
-      "title": "Renteheving i Storbritannia",
-      "summary": "Bank of England, sentralbanken i Storbritannia, setter opp renten med 0,25 prosentpoeng til 4 prosent. Dette er den første rentehevingen i Storbritannia siden 2023. Prisveksten (KPI) i Storbritannia økte til 3,5 prosent på årsbasis i september.",
-      "keyPoints": [
-        "Bank of England, sentralbanken i Storbritannia, setter opp renten med 0,25 prosentpoeng til 4 prosent.",
-        "Prisveksten (KPI) i Storbritannia økte til 3,5 prosent på årsbasis i september.",
-        "Dette er den første rentehevingen i Storbritannia siden 2023.",
-        "Bank of England hevet renten mye i etterkant av coronapandemien, til en topp på 5,25 prosent i siste halvdel av 2023."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/8Grr1x/renteheving-i-storbritannia",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/79d3338e-7ec4-3e21-90a0-44cf794b54ad?fit=crop&h=675&upscale=true&w=1200&s=70bf176c6ffd51a1462d675fd4024a48002e4515",
-      "localImage": "assets/news/a487d97bf48a53.jpg",
-      "score": 16
-    },
-    {
-      "id": "2eac9952106291",
-      "category": "Økonomi",
-      "published": "06.11. 12:21",
-      "publishedISO": "2026-11-06T12:21:13+01:00",
-      "title": "Brikkeaksje-rekyl på Nasdaq",
-      "summary": "De såkalte «Magnificent Seven»-selskapene tapte alene over 1000 milliarder dollar i markedsverdi på én dag torsdag, ifølge CNBC. Nvidia falt mer enn 9 prosent, mens Tesla stupte nesten 11 prosent. Fra toppen tidlig i oktober har Nasdaq falt mer enn ti prosent, mens Oslo Børs nå er omtrent uendret i samme periode.",
-      "keyPoints": [
-        "Fra toppen tidlig i oktober har Nasdaq falt mer enn ti prosent, mens Oslo Børs nå er omtrent uendret i samme periode.",
-        "Nvidia falt mer enn 9 prosent, mens Tesla stupte nesten 11 prosent.",
-        "De såkalte «Magnificent Seven»-selskapene tapte alene over 1000 milliarder dollar i markedsverdi på én dag torsdag, ifølge CNBC.",
-        "Flere av de største taperne fra torsdag stiger markert: Sjefstrateg Joachim Bernhardsen i Nordea trakk torsdag kveld særlig frem forventninger om redusert datasenterutbygging, som kan ramme etterspørselen etter databrikker. – Investeringer i datasentre handler jo i stor grad om å kjøpe databrikker."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/w3yQy5/forsiktig-opppgang-i-foerhandelen-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/85adf50d-abdd-35eb-9d4d-70db71fe51ed?fit=crop&h=675&upscale=true&w=1200&s=441f039a6eadb2b7f1901f8d5e7b32207ac2db26",
-      "localImage": "assets/news/2eac9952106291.jpg",
       "score": 15
     },
     {
