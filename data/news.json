@@ -1,6 +1,6 @@
 {
-  "updatedAt": "05.11.2026 kl. 23:48",
-  "updatedISO": "2026-11-05T23:48:17.054636+01:00",
+  "updatedAt": "06.11.2026 kl. 04:16",
+  "updatedISO": "2026-11-06T04:16:01.172247+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/LrEo6HZ2mRw8d_w5hR7nUA-hOT9ayx8oFO3DzAohC75A.jpg",
       "localImage": "assets/news/5ea0abf78ab1b3.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "ffcb9a924b95f5",
+      "category": "Verden",
+      "published": "05.11. 20:32",
+      "publishedISO": "2026-11-05T20:32:54+01:00",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "summary": "Skytingen fant sted i landlige områder nordøst for byen Afyonkarahisar (bildet) Åtte mennesker er drept og en alvorlig skadet i en serie skyteepisoder i det vestlige Tyrkia. Angrepene fant sted i Afyonkarahisar-provinsen torsdag, med ofre funnet flere steder i tre separate kjøretøy, ifølge lokale rapporter. Tyrkias statlige Anadolu Agency rapporterte at tre mennesker ble drept nær landsbyen Ayazini og tre andre i nærheten av landsbyen Kiyir.",
+      "keyPoints": [
+        "Skytingen fant sted i landlige områder nordøst for byen Afyonkarahisar (bildet) Åtte mennesker er drept og en alvorlig skadet i en serie skyteepisoder i det vestlige Tyrkia.",
+        "Tyrkias statlige Anadolu Agency rapporterte at tre mennesker ble drept nær landsbyen Ayazini og tre andre i nærheten av landsbyen Kiyir.",
+        "Angrepene fant sted i Afyonkarahisar-provinsen torsdag, med ofre funnet flere steder i tre separate kjøretøy, ifølge lokale rapporter.",
+        "I en uttalelse lagt ut på sosiale medier, sa Afyonkarahisar Governorate \"alle relevante institusjoner i staten vår har jobbet i koordinering siden første øyeblikk og utfører omhyggelig det nødvendige arbeidet\"."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/06a9/live/afaf1b30-d947-11f1-93e1-3b657b665bcf.jpg",
+      "localImage": "assets/news/ffcb9a924b95f5.jpg",
+      "score": 12
     },
     {
       "id": "c861db6778e8b0",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1132b062-b991-38ea-8209-7f0e2ab6dce2?fit=crop&h=675&upscale=true&w=1200&s=829fb06f846c7e59c65a55eea214456725ce60f8",
       "localImage": "assets/news/c861db6778e8b0.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "8b88018279dc1d",
@@ -64,7 +85,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/22b131d9-add0-39fc-9eb8-4a69a05a2620?fit=crop&h=675&upscale=true&w=1200&s=c72099c1cd65af0f90c9c2d57e2d1f882fa228aa",
       "localImage": "assets/news/8b88018279dc1d.jpg",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "18c75e9d5145b6",
+      "category": "AI",
+      "published": "06.11. 03:57",
+      "publishedISO": "2026-11-06T03:57:24+01:00",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "summary": "Hundrevis av milliarder av dollar i markedsverdi har blitt utslettet fra store teknologifirmaer i USA og Asia i et børsfall etter at det amerikanske mellomvalget utløste bekymring for en nedgang i utviklingen av kunstig intelligens. I europeisk handel torsdag falt aksjene i brikkeprodusenten Infineon med mer enn 8,5 %, mens produsenten av teknologiutstyr ASML falt med 6,5 %. Noen teknologiledere har sagt at de ble overrumplet av tilbakeslaget mot datasentre i mellomperiodene.",
+      "keyPoints": [
+        "Hundrevis av milliarder av dollar i markedsverdi har blitt utslettet fra store teknologifirmaer i USA og Asia i et børsfall etter at det amerikanske mellomvalget utløste bekymring for en nedgang i utviklingen av kunstig intelligens.",
+        "Noen teknologiledere har sagt at de ble overrumplet av tilbakeslaget mot datasentre i mellomperiodene.",
+        "In European trading on Thursday, shares in chipmaker Infineon fell by more than 8.5% while tech equipment manufacturer ASML dropped by 6.5%.",
+        "Den teknologitunge Nasdaq-komposittindeksen stengte med mer enn 5,5 %, og tapte anslagsvis 2,5 milliarder dollar (1,9 milliarder pund) i markedsverdi, ifølge Dow Jones-data, mens andre viktige amerikanske aksjeindekser også så store tap på sine verste dager siden 2025."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
+      "localImage": "assets/news/18c75e9d5145b6.jpg",
+      "score": 17
+    },
+    {
+      "id": "7e4eee816739ab",
+      "category": "AI",
+      "published": "06.11. 01:06",
+      "publishedISO": "2026-11-06T01:06:06+01:00",
+      "title": "Motordelene som \"bekjemper universets lover\"",
+      "summary": "En jetmotor vil ha hundrevis av turbinblader Hver gang du flyr, oppstår en ekstraordinær prestasjon av utholdenhet inne i flyets motorer. Å dyrke et av disse bladene, hevder Fifoot, er å \"bekjempe universets lover\". Turbinbladene brukes blant annet i Trent 1000-motoren. I mellomtiden håper Kina å bli bare det sjette landet som mestrer hele teknologikjeden for støping av enkeltkrystallblader.",
+      "keyPoints": [
+        "Å dyrke et av disse bladene, hevder Fifoot, er å \"bekjempe universets lover\".",
+        "En jetmotor vil ha hundrevis av turbinblader Hver gang du flyr, oppstår en ekstraordinær prestasjon av utholdenhet inne i flyets motorer.",
+        "Turbinbladene brukes blant annet i Trent 1000-motoren. I mellomtiden håper Kina å bli bare det sjette landet som mestrer hele teknologikjeden for støping av enkeltkrystallblader.",
+        "Og en annen viktig funksjon er at bladene er støpt med bittesmå kanaler som lar en strøm av kjøligere luft belegge dem i en slags film mens flymotoren jobber. \"Driften for øyeblikket [på tvers av industrien] er for øyeblikket å gjøre disse kjølepassasjene virkelig intrikate,\" sier Paul Withey, ved University of Birmingham, som tidligere jobbet for Rolls-Royce."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/97f5/live/b17307a0-d37b-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/7e4eee816739ab.jpg",
+      "score": 17
     },
     {
       "id": "a487d97bf48a53",
@@ -106,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/0972093d-713b-3248-8566-aec1e3fb8591?fit=crop&h=675&upscale=true&w=1200&s=668e858230fd8cc9a4bf9f352338eb2a8aedf1bc",
       "localImage": "assets/news/566d9c35c396c5.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "8da28c351f1dbe",
@@ -127,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/336bd980-f42e-31f4-bb2c-ba48a5c306ac?fit=crop&h=675&upscale=true&w=1200&s=27ebfbec6ae5e6e88a187203b120985646497268",
       "localImage": "assets/news/8da28c351f1dbe.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "a18f8bac26f313",
@@ -148,70 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c3cf9587-63e2-3cf1-ae37-ca8cdc2e40ee?fit=crop&h=675&upscale=true&w=1200&s=f40b9a19b622cb303b1a247a3693784fe07ac5cf",
       "localImage": "assets/news/a18f8bac26f313.jpg",
-      "score": 18
-    },
-    {
-      "id": "5044f6f3a19557",
-      "category": "Norge",
-      "published": "05.11. 19:19",
-      "publishedISO": "2026-11-05T19:19:19+01:00",
-      "title": "Stortingspolitikere ber UNN revurdere nedlegging av DPS-døgnplasser i Troms",
-      "summary": "Tre stortingspolitikere fra Troms ber UNN revurdere planene om å legge ned døgnplassene ved DPS Storslett og Storsteinnes. Både Rødt og Fremskrittspartiet mener helseministeren bør gripe direkte inn og be UNN eller Helse Nord revurdere nedleggingene på Storslett og Storsteinnes. – Fremskrittspartiet forventer at man snur i dette spørsmålet, sier Eilertsen. – Jeg håper jo at Helse Nord vil ombestemme seg, og også lytte til Stortingets klarere mening, sier Stenvaag fra Rødt. Erlend Svardal Bøe (H) mener det er feil å avvikle plassene før saken er grundig vurdert, regjeringen har lagt fram DPS-planen og nye UNN Åsgård eventuelt står ferdig. – Nå må UNN ta en ny runde på om det er riktig å legge ned. – For noen kan det høres rart ut at dere ber UNN om å ta en ny runde på dette, samtidig som dere stemte mot forslaget om å sikre at DPS på Storslett bevares.",
-      "keyPoints": [
-        "Tre stortingspolitikere fra Troms ber UNN revurdere planene om å legge ned døgnplassene ved DPS Storslett og Storsteinnes.",
-        "Både Rødt og Fremskrittspartiet mener helseministeren bør gripe direkte inn og be UNN eller Helse Nord revurdere nedleggingene på Storslett og Storsteinnes. – Fremskrittspartiet forventer at man snur i dette spørsmålet, sier Eilertsen. – Jeg håper jo at Helse Nord vil ombestemme seg, og også lytte til Stortingets klarere mening, sier Stenvaag fra Rødt.",
-        "Erlend Svardal Bøe (H) mener det er feil å avvikle plassene før saken er grundig vurdert, regjeringen har lagt fram DPS-planen og nye UNN Åsgård eventuelt står ferdig. – Nå må UNN ta en ny runde på om det er riktig å legge ned. – For noen kan det høres rart ut at dere ber UNN om å ta en ny runde på dette, samtidig som dere stemte mot forslaget om å sikre at DPS på Storslett bevares.",
-        "Døgnplassene ved distriktspsykiatrisk senter der han bor, er vedtatt lagt ned. – Saken viser jo veldig tydelig hva man taper ved å legge ned DPS på Storslett, sier Hanne Stenvaag, stortingsrepresentant for Rødt fra Troms."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/stortingspolitikere-ber-unn-revurdere-nedlegging-av-dps-dognplasser-i-troms-1.18074267",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/qyTM181evYLuw0RvZf9YyANeGhNRG5aJ0VZn56QQNcqQ.jpg",
-      "localImage": "assets/news/5044f6f3a19557.jpg",
       "score": 17
-    },
-    {
-      "id": "a475e21a15a799",
-      "category": "Norge",
-      "published": "05.11. 17:53",
-      "publishedISO": "2026-11-05T17:53:11+01:00",
-      "title": "Strømkostnader knekker industrien i Sør-Norge",
-      "summary": "Høye strømkostnader er i ferd med å ta knekken på industrien i Sør-Norge. Fabrikkene han har ansvaret for i Sverige hadde i fjor 20 prosent lavere strømkostnader enn fabrikkene i Norge. Nå er strømkostnadene høyere enn hos konkurrenter i utlandet. – Industrien og prosessindustrien er lokalisert her på grunn av billig, grønn vannkraft.",
-      "keyPoints": [
-        "Høye strømkostnader er i ferd med å ta knekken på industrien i Sør-Norge.",
-        "Fabrikkene han har ansvaret for i Sverige hadde i fjor 20 prosent lavere strømkostnader enn fabrikkene i Norge.",
-        "Nå er strømkostnadene høyere enn hos konkurrenter i utlandet. – Industrien og prosessindustrien er lokalisert her på grunn av billig, grønn vannkraft.",
-        "Men strømprisutviklingen gjør framtidsutsiktene dystre, skal vi tro industrien og fagforeninger i landets dyreste strømområde."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/stromkostnader-knekker-industrien-i-sor-norge-1.18066345",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/fXg3yfG9b8aGEr5j-uQFkQCIuhEX523Ef3Unv9654CgQ.jpg",
-      "localImage": "assets/news/a475e21a15a799.jpg",
-      "score": 16
-    },
-    {
-      "id": "7159b2339a81f6",
-      "category": "Norge",
-      "published": "05.11. 17:49",
-      "publishedISO": "2026-11-05T17:49:03+01:00",
-      "title": "Widerøe-fly fikk ikke ut landingshjul – gjorde seg klare til nødlanding",
-      "summary": "Onsdag kveld satt komiker Trine Lise Olsen i et fullt Widerøe-fly og øvde på nødposisjon før en varslet nødlanding. – Jeg har reist med Widerøe siden jeg var en liten jente, gjennom både orkan jeg vet ikke hva. Bodø lufthavn slo full alarm da et Widerøe-fly fra Trondheim til Mo i Rana fikk problemer med nesehjulet. Flyet sirklet i luften mens passasjerene fikk beskjed om å forberede seg på en kontrollert nødlanding på rullebanen.",
-      "keyPoints": [
-        "Onsdag kveld satt komiker Trine Lise Olsen i et fullt Widerøe-fly og øvde på nødposisjon før en varslet nødlanding. – Jeg har reist med Widerøe siden jeg var en liten jente, gjennom både orkan jeg vet ikke hva.",
-        "Flyet sirklet i luften mens passasjerene fikk beskjed om å forberede seg på en kontrollert nødlanding på rullebanen.",
-        "Bodø lufthavn slo full alarm da et Widerøe-fly fra Trondheim til Mo i Rana fikk problemer med nesehjulet.",
-        "– Jeg sendte melding til familiechatten og sa: «Nødlanding her, glad i dere», sier flypassasjer Trine Lise Olsen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/wideroe-fly-fikk-ikke-ut-landingshjul-_-gjorde-seg-klare-til-nodlanding-1.18074311",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/hsdeCFYTZ6q7chKfoRa9JgK1dQKzvf12J7vMnhCrYKzg.jpg",
-      "localImage": "assets/news/7159b2339a81f6.jpg",
-      "score": 16
     }
   ]
 }
