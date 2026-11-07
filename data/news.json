@@ -1,6 +1,6 @@
 {
-  "updatedAt": "06.11.2026 kl. 23:58",
-  "updatedISO": "2026-11-06T23:58:06.459650+01:00",
+  "updatedAt": "07.11.2026 kl. 03:36",
+  "updatedISO": "2026-11-07T03:36:57.343715+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/IrDizf54zSBMRJiPrAH4bQMhZq1yHzxr_8ruvx-54VQQ.jpg",
       "localImage": "assets/news/e5d82e06fd4391.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "a2316100e33bd9",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a1246896-3346-3667-8562-b3bffa68b95b?fit=crop&h=675&upscale=true&w=1200&s=bd0836a496a61a26150c2eb5d9d535ce77ccc0b5",
       "localImage": "assets/news/a2316100e33bd9.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "fc6148232d717c",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/03c96720-d4eb-3dce-bc0f-cabea94bf64b?fit=crop&h=675&upscale=true&w=1200&s=680b52ee0992bf673bbcdf33e025c6738ffab3ea",
       "localImage": "assets/news/fc6148232d717c.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "1d3b3aabec4ef4",
@@ -85,28 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e01daea3-24d8-3d06-98b4-3f1ed1aca3c2?fit=crop&h=675&upscale=true&w=1200&s=f4d0c8da69d8d423827d0b8201e5e98350b61b0a",
       "localImage": "assets/news/1d3b3aabec4ef4.jpg",
-      "score": 16
-    },
-    {
-      "id": "c861db6778e8b0",
-      "category": "Økonomi",
-      "published": "05.11. 14:51",
-      "publishedISO": "2026-11-05T14:51:27+01:00",
-      "title": "Sentralbanksjefen: – Er særlig på vakt",
-      "summary": "Jo lenger prisproblemet varer jo vanskeligere kan det bli å få bukt med det, påpeker sentralbanksjef Ida Wolden Bache på pressekonferansen etter rentebeslutningen. – I en situasjon som nå, hvor prisveksten har ligget lenge over målet, er vi derfor særlig på vakt mot tegn til at inflasjonspressetFaktorer som kan øke prisveksten holder seg oppe, sier hun. Sentralbanksjefen sier til E24 at det kan finnes mekanismer som gjør at høy prisvekst over tid, kan bidra til at den blir vanskeligere å få ned igjen. Sentralbanksjefen trekker i tillegg frem rentene. – Så er jo heller ikke kronekursutviklingen uavhengig av renteutviklingen, og da spesielt rentedifferansenForskjellen mellom norske renter og internasjonale renter. mot utlandet. – Vi ser også en tendens til at når globale aksjemarkeder stiger så kan det bidra til en sterkere krone, og motsatt hvis det er tegn til uro eller nedgang i globale aksjemarkeder.",
-      "keyPoints": [
-        "Jo lenger prisproblemet varer jo vanskeligere kan det bli å få bukt med det, påpeker sentralbanksjef Ida Wolden Bache på pressekonferansen etter rentebeslutningen. – I en situasjon som nå, hvor prisveksten har ligget lenge over målet, er vi derfor særlig på vakt mot tegn til at inflasjonspressetFaktorer som kan øke prisveksten holder seg oppe, sier hun.",
-        "Sentralbanksjefen sier til E24 at det kan finnes mekanismer som gjør at høy prisvekst over tid, kan bidra til at den blir vanskeligere å få ned igjen.",
-        "Sentralbanksjefen trekker i tillegg frem rentene. – Så er jo heller ikke kronekursutviklingen uavhengig av renteutviklingen, og da spesielt rentedifferansenForskjellen mellom norske renter og internasjonale renter. mot utlandet. – Vi ser også en tendens til at når globale aksjemarkeder stiger så kan det bidra til en sterkere krone, og motsatt hvis det er tegn til uro eller nedgang i globale aksjemarkeder.",
-        "Sånn sett demper den importert prisvekst, ikke bare på forbruksvarer, men også prisveksten på de innsatsvarene som norske bedrifter bruker i produksjonen, sier sentralbanksjefen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/Og4dgV/sentralbanksjefen-er-saerlig-paa-vakt",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1132b062-b991-38ea-8209-7f0e2ab6dce2?fit=crop&h=675&upscale=true&w=1200&s=829fb06f846c7e59c65a55eea214456725ce60f8",
-      "localImage": "assets/news/c861db6778e8b0.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "d4a1007a1b92bd",
@@ -130,6 +109,27 @@
       "score": 15
     },
     {
+      "id": "c861db6778e8b0",
+      "category": "Økonomi",
+      "published": "05.11. 14:51",
+      "publishedISO": "2026-11-05T14:51:27+01:00",
+      "title": "Sentralbanksjefen: – Er særlig på vakt",
+      "summary": "Jo lenger prisproblemet varer jo vanskeligere kan det bli å få bukt med det, påpeker sentralbanksjef Ida Wolden Bache på pressekonferansen etter rentebeslutningen. – I en situasjon som nå, hvor prisveksten har ligget lenge over målet, er vi derfor særlig på vakt mot tegn til at inflasjonspressetFaktorer som kan øke prisveksten holder seg oppe, sier hun. Sentralbanksjefen sier til E24 at det kan finnes mekanismer som gjør at høy prisvekst over tid, kan bidra til at den blir vanskeligere å få ned igjen. Sentralbanksjefen trekker i tillegg frem rentene. – Så er jo heller ikke kronekursutviklingen uavhengig av renteutviklingen, og da spesielt rentedifferansenForskjellen mellom norske renter og internasjonale renter. mot utlandet. – Vi ser også en tendens til at når globale aksjemarkeder stiger så kan det bidra til en sterkere krone, og motsatt hvis det er tegn til uro eller nedgang i globale aksjemarkeder.",
+      "keyPoints": [
+        "Jo lenger prisproblemet varer jo vanskeligere kan det bli å få bukt med det, påpeker sentralbanksjef Ida Wolden Bache på pressekonferansen etter rentebeslutningen. – I en situasjon som nå, hvor prisveksten har ligget lenge over målet, er vi derfor særlig på vakt mot tegn til at inflasjonspressetFaktorer som kan øke prisveksten holder seg oppe, sier hun.",
+        "Sentralbanksjefen sier til E24 at det kan finnes mekanismer som gjør at høy prisvekst over tid, kan bidra til at den blir vanskeligere å få ned igjen.",
+        "Sentralbanksjefen trekker i tillegg frem rentene. – Så er jo heller ikke kronekursutviklingen uavhengig av renteutviklingen, og da spesielt rentedifferansenForskjellen mellom norske renter og internasjonale renter. mot utlandet. – Vi ser også en tendens til at når globale aksjemarkeder stiger så kan det bidra til en sterkere krone, og motsatt hvis det er tegn til uro eller nedgang i globale aksjemarkeder.",
+        "Sånn sett demper den importert prisvekst, ikke bare på forbruksvarer, men også prisveksten på de innsatsvarene som norske bedrifter bruker i produksjonen, sier sentralbanksjefen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/Og4dgV/sentralbanksjefen-er-saerlig-paa-vakt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1132b062-b991-38ea-8209-7f0e2ab6dce2?fit=crop&h=675&upscale=true&w=1200&s=829fb06f846c7e59c65a55eea214456725ce60f8",
+      "localImage": "assets/news/c861db6778e8b0.jpg",
+      "score": 15
+    },
+    {
       "id": "087340284fe3ec",
       "category": "Økonomi",
       "published": "06.11. 12:21",
@@ -148,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/85adf50d-abdd-35eb-9d4d-70db71fe51ed?fit=crop&h=675&upscale=true&w=1200&s=441f039a6eadb2b7f1901f8d5e7b32207ac2db26",
       "localImage": "assets/news/087340284fe3ec.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "848fe1086f680c",
@@ -169,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/mLWmX9OULi81y6zxeu4yig5zglnx94UQ79lxpgMmkExA.jpg",
       "localImage": "assets/news/848fe1086f680c.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "49fa3495382025",
@@ -190,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2bb6fdf7-c830-3c0b-b274-63247929ddd2?fit=crop&h=675&upscale=true&w=1200&s=874606503570afef7c25df700ca2de1c4af5a840",
       "localImage": "assets/news/49fa3495382025.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "cc0bdb96ce60b9",
@@ -211,7 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/_S2gnCEkgy81PdZiP9jQHAyCICQ7D4zA88iF9eZYbuVg.jpg",
       "localImage": "assets/news/cc0bdb96ce60b9.jpg",
-      "score": 15
+      "score": 14
     }
   ]
 }
