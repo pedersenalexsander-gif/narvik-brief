@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.11.2026 kl. 16:51",
-  "updatedISO": "2026-11-07T16:51:47.013553+01:00",
+  "updatedAt": "07.11.2026 kl. 20:57",
+  "updatedISO": "2026-11-07T20:57:18.335297+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -25,6 +25,27 @@
       "score": 17
     },
     {
+      "id": "8f2ca99d610500",
+      "category": "Økonomi",
+      "published": "07.11. 18:48",
+      "publishedISO": "2026-11-07T18:48:01+01:00",
+      "title": "Berkshire-resultatet faller – Abel øker tilbakekjøpene",
+      "summary": "Warren Buffetts etterfølger, Greg Abel, kjøpte tilbake Berkshire-aksjer for nær 10 milliarder dollar i tredje kvartal. Investeringsgiganten Berkshire Hathaway fikk et nettoresultat på 22,1 milliarder dollar i tredje kvartal, ned fra 30,8 milliarder dollar i samme periode i fjor. 96-åringen overlot sjefsstolen til Greg Abel ved årsskiftet, etter å ha ledet investeringsgiganten i mer enn 60 år.",
+      "keyPoints": [
+        "Warren Buffetts etterfølger, Greg Abel, kjøpte tilbake Berkshire-aksjer for nær 10 milliarder dollar i tredje kvartal.",
+        "96-åringen overlot sjefsstolen til Greg Abel ved årsskiftet, etter å ha ledet investeringsgiganten i mer enn 60 år.",
+        "Investeringsgiganten Berkshire Hathaway fikk et nettoresultat på 22,1 milliarder dollar i tredje kvartal, ned fra 30,8 milliarder dollar i samme periode i fjor.",
+        "Abel (64) hadde da i en årrekke hatt ansvaret for store deler av Berkshires virksomhet utenfor forsikring."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/53VzdO/berkshire-resultatet-faller-abel-oeker-tilbakekjoepene",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/4aee436d-5a37-3ce2-aaef-8170b248bf7f?fit=crop&h=675&upscale=true&w=1200&s=75340f1d15160d3a643f92614241e1f16d018210",
+      "localImage": "assets/news/8f2ca99d610500.jpg",
+      "score": 20
+    },
+    {
       "id": "5b927a23f50311",
       "category": "Økonomi",
       "published": "07.11. 06:56",
@@ -43,7 +64,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2f90a2c0-06c7-38fa-9eb7-ea6b889a6afc?fit=crop&h=675&upscale=true&w=1200&s=944629e7bd1c9a01a699e9cb0ad5cd8cf2e5e6ac",
       "localImage": "assets/news/5b927a23f50311.jpg",
+      "score": 15
+    },
+    {
+      "id": "401863f22fddf3",
+      "category": "Norge",
+      "published": "07.11. 15:15",
+      "publishedISO": "2026-11-07T15:15:36+01:00",
+      "title": "En person omkom i ulykke på E6 i Lillehammer",
+      "summary": "En mann i 50-årene omkom i en trafikkulykke på E6 i Lillehammer i ettermiddag. Den lokale mannen kjørte en personbil som frontkolliderte med en lastebil på E6 ved Vignes i Lillehammer lørdag ettermiddag. Flokenes sier føreren av personbilen skal ha vært alene i bilen da kollisjonen skjedde ved 14-tiden lørdag ettermiddag.",
+      "keyPoints": [
+        "En mann i 50-årene omkom i en trafikkulykke på E6 i Lillehammer i ettermiddag.",
+        "Den lokale mannen kjørte en personbil som frontkolliderte med en lastebil på E6 ved Vignes i Lillehammer lørdag ettermiddag.",
+        "Flokenes sier føreren av personbilen skal ha vært alene i bilen da kollisjonen skjedde ved 14-tiden lørdag ettermiddag.",
+        "Vegen er fortsatt stengt, men operasjonslederen sier de håper å kunne åpne vegen klokken 22 lørdag kveld."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/innlandet/en-person-omkom-i-ulykke-pa-e6-i-lillehammer-1.18076481",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Mcr7htWX8zWd92DF3nifNQkgsQsx5DzuCI61bV8SdTPA.jpg",
+      "localImage": "assets/news/401863f22fddf3.jpg",
       "score": 16
+    },
+    {
+      "id": "f25bed29f35410",
+      "category": "Norge",
+      "published": "07.11. 15:07",
+      "publishedISO": "2026-11-07T15:07:16+01:00",
+      "title": "Større oljeutslepp i Ålesund: Kystvakta aksjonerer saman med politiet",
+      "summary": "Politiet har avblåst aksjonen etter eit større oljeutslepp i Ålesund. Klokka 17 melder politiet at dei avsluttar aksjonen og at både Kystvakta, politiet og brannvesenet trekkjer seg tilbake. – Vi gir oss med dette. Kystvakta, politiet og brannvesenet rykte ut til det politiet omtalar som eit større oljeutslepp laurdag ettermiddag i Åsefjorden. – Det framstår som det lek frå botn og opp, sa Molnes.",
+      "keyPoints": [
+        "Kystvakta, politiet og brannvesenet rykte ut til det politiet omtalar som eit større oljeutslepp laurdag ettermiddag i Åsefjorden. – Det framstår som det lek frå botn og opp, sa Molnes.",
+        "Politiet har avblåst aksjonen etter eit større oljeutslepp i Ålesund.",
+        "Klokka 17 melder politiet at dei avsluttar aksjonen og at både Kystvakta, politiet og brannvesenet trekkjer seg tilbake. – Vi gir oss med dette.",
+        "Politiet, brannvesenet og redningsskøyte har vore på staden, men avslutta rundt klokka 16.45. – Det er eit større utslepp som har spreidd seg, sa operasjonsleiar Sindre Molnes ved Møre og Romsdal politidistrikt."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/mr/storre-oljeutslepp-i-alesund_-kystvakta-aksjonerer-saman-med-politiet-1.18076482",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/0hCNpWg_H8kRMKCZlzIpKQ1uSgxJ0X0xCv5pDfcDmu3Q.jpg",
+      "localImage": "assets/news/f25bed29f35410.jpg",
+      "score": 15
     },
     {
       "id": "a2316100e33bd9",
@@ -64,28 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a1246896-3346-3667-8562-b3bffa68b95b?fit=crop&h=675&upscale=true&w=1200&s=bd0836a496a61a26150c2eb5d9d535ce77ccc0b5",
       "localImage": "assets/news/a2316100e33bd9.jpg",
-      "score": 15
-    },
-    {
-      "id": "3a08eae57952b6",
-      "category": "Norge",
-      "published": "07.11. 15:07",
-      "publishedISO": "2026-11-07T15:07:16+01:00",
-      "title": "Større oljeutslepp i Ålesund: Kystvakta aksjonerer saman med politiet",
-      "summary": "Kystvakta brukar undervassdroner for å finne årsaka etter at eit større oljeutslepp spreier seg i Ålesund. Politiet, brannvesenet og redningsskøyte har vore på staden, men avslutta rundt klokka 16.45. – Det er eit større utslepp som har spreidd seg, seier operasjonsleiar Sindre Molnes ved Møre og Romsdal politidistrikt. Kystvakta, politiet og brannvesenet har rykt ut til det politiet omtalar som eit større oljeutslepp laurdag ettermiddag i Åsefjorden. – Det framstår som det lek frå botn og opp, seier Molnes.",
-      "keyPoints": [
-        "Kystvakta, politiet og brannvesenet har rykt ut til det politiet omtalar som eit større oljeutslepp laurdag ettermiddag i Åsefjorden. – Det framstår som det lek frå botn og opp, seier Molnes.",
-        "Kystvakta brukar undervassdroner for å finne årsaka etter at eit større oljeutslepp spreier seg i Ålesund.",
-        "Politiet, brannvesenet og redningsskøyte har vore på staden, men avslutta rundt klokka 16.45. – Det er eit større utslepp som har spreidd seg, seier operasjonsleiar Sindre Molnes ved Møre og Romsdal politidistrikt.",
-        "Store styrkar rykte laurdag ettermiddag ut til eit område utanfor Kalven og Humla i Ålesund i samband med eit oljeutslepp."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/storre-oljeutslepp-i-alesund_-kystvakta-aksjonerer-saman-med-politiet-1.18076482",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0hCNpWg_H8kRMKCZlzIpKQ1uSgxJ0X0xCv5pDfcDmu3Q.jpg",
-      "localImage": "assets/news/3a08eae57952b6.jpg",
-      "score": 16
+      "score": 14
     },
     {
       "id": "fc6148232d717c",
@@ -106,111 +148,69 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/03c96720-d4eb-3dce-bc0f-cabea94bf64b?fit=crop&h=675&upscale=true&w=1200&s=680b52ee0992bf673bbcdf33e025c6738ffab3ea",
       "localImage": "assets/news/fc6148232d717c.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "c71f2737cc61a8",
+      "id": "df9a5bc2b08893",
       "category": "Norge",
-      "published": "07.11. 15:51",
-      "publishedISO": "2026-11-07T15:51:34+01:00",
-      "title": "Tre brann­utrykkingar til Elkem på ei veke: – Uvanleg",
-      "summary": "Laurdag har brannvesenet rykt ut to gonger til røykutvikling hos Elkem Bremanger i Svelgen. – Vi har hatt tilfelle før, men ikkje så mange på så kort tid, seier verksdirektør. Arkivfoto: Både på føremiddagen og ettermiddagen laurdag måtte brannvesenet rykke ut til røykutvikling ved Elkem Bremanger i Svelgen. Like før halv elleve laurdag føremiddag melde politiet om varmgang i ein silo med treflis. – Brannvesenet målte låge temperaturar, så det var ikkje behov for ytterlegare tiltak, opplyser operasjonsleiar Ole Ronny Olsen ved Vest politidistrikt.",
+      "published": "07.11. 20:25",
+      "publishedISO": "2026-11-07T20:25:54+01:00",
+      "title": "Premier League: Kjempesmell for Haaland og City mot Nottingham Forest",
+      "summary": "De reddet inn noe av æren i andre omgang, men Manchester City hadde ellers lite å komme med mot Nottingham Forest. SKUFFET: Erling Braut Haaland var alt annet enn fornøyd med kampen mot Nottingham Forest. – Det er jo oppsiktsvekkende hva som skjer med Manchester City her, kommenterte Viaplay-ekspert Tor Ole Skullerud da Nottingham Forest gikk opp til 2–0 før pause. Kameraene fanget opp Erling Braut Haaland etter målet, og jærbuen var tydelig frustrert med kampens utvikling i 1-3-tapet. – Jeg tror ikke at jeg har sett City så tafatte i en hel omgang som det vi har gjort her i aften, sa Skullerud før pause.",
       "keyPoints": [
-        "Laurdag har brannvesenet rykt ut to gonger til røykutvikling hos Elkem Bremanger i Svelgen. – Vi har hatt tilfelle før, men ikkje så mange på så kort tid, seier verksdirektør.",
-        "Arkivfoto: Både på føremiddagen og ettermiddagen laurdag måtte brannvesenet rykke ut til røykutvikling ved Elkem Bremanger i Svelgen.",
-        "Like før halv elleve laurdag føremiddag melde politiet om varmgang i ein silo med treflis. – Brannvesenet målte låge temperaturar, så det var ikkje behov for ytterlegare tiltak, opplyser operasjonsleiar Ole Ronny Olsen ved Vest politidistrikt.",
-        "Då, ifølgje naudetatane, grunna varmgang i ein annan silo og eit transportband. – Ingen personskade, og ikkje behov for å evakuere nokon, opplyser Olsen."
+        "SKUFFET: Erling Braut Haaland var alt annet enn fornøyd med kampen mot Nottingham Forest. – Det er jo oppsiktsvekkende hva som skjer med Manchester City her, kommenterte Viaplay-ekspert Tor Ole Skullerud da Nottingham Forest gikk opp til 2–0 før pause.",
+        "De reddet inn noe av æren i andre omgang, men Manchester City hadde ellers lite å komme med mot Nottingham Forest.",
+        "Kameraene fanget opp Erling Braut Haaland etter målet, og jærbuen var tydelig frustrert med kampens utvikling i 1-3-tapet. – Jeg tror ikke at jeg har sett City så tafatte i en hel omgang som det vi har gjort her i aften, sa Skullerud før pause.",
+        "Før oppgjøret lå Manchester City på andreplass i Premier League, på jakt etter å holde følge med Arsenal på topp."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestland/tre-brannutrykkingar-til-elkem-pa-ei-veke_-_-uvanleg-1.18076461",
+      "url": "https://www.nrk.no/sport/premier-league_-kjempesmell-for-haaland-og-city-mot-nottingham-forest-1.18076577",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/8veehfEUU8tc_67LHCjhmwkpDBN8WBN3blTPX6VRl8wg.jpg",
-      "localImage": "assets/news/c71f2737cc61a8.jpg",
+      "image": "https://gfx.nrk.no/qYbkLpSW2rO9bfi0YNE_8A6173muFxY6wCD4D8MQDZDg.jpg",
+      "localImage": "assets/news/df9a5bc2b08893.jpg",
       "score": 13
     },
     {
-      "id": "8f514a803c4ff6",
+      "id": "12fc7e479f5049",
       "category": "Norge",
-      "published": "07.11. 14:58",
-      "publishedISO": "2026-11-07T14:58:01+01:00",
-      "title": "AaFK-spelarane fekk sølvmedaljar i Toppserien etter vanskeleg kamp",
-      "summary": "Men rett etter kampen fekk dei likevel utdelt sølvmedaljar til stor jubel. Sølvmedaljane til dei oransjekledde kvinneen blei delte ut i ein historisk seremoni rett etter kampslutt. – Utruleg stort, eg hadde aldri sett for meg at eg skulle spele på eit lag som tok sølv i toppserien, seier kaptein Mette Muri til NRK laurdag ettermiddag. Før forrige seriekamp mot Stabæk hadde ikkje dei oransje tapt ein einaste kamp i Toppserien.",
+      "published": "07.11. 19:36",
+      "publishedISO": "2026-11-07T19:36:21+01:00",
+      "title": "Minst seks døde i skyting i Krakow",
+      "summary": "SKYTING: Nødetatene arbeider i Krakow sentrum der minst seks personer har blitt drept etter skyting lørdag ettermiddag. Foto: Reuters Minst seks personer er drept i angrepet som skjedde lørdag ettermiddag i 15-tiden, opplyser politiet på X. Faksimile: Webcamera.pl NRK-ansatte Ørjan Haugsdal satt sammen med samboeren på Hard Rock Cafe ved Mariakirken på hovedtorget i Krakow. – Da jeg ser ut av vinduet, ser jeg at det sitter en person i en bil og peker med et våpen ut av vinduet og stopper rett utenfor der hvor vi sitter, sier Haugsdal til NRK.",
       "keyPoints": [
-        "Men rett etter kampen fekk dei likevel utdelt sølvmedaljar til stor jubel.",
-        "Sølvmedaljane til dei oransjekledde kvinneen blei delte ut i ein historisk seremoni rett etter kampslutt. – Utruleg stort, eg hadde aldri sett for meg at eg skulle spele på eit lag som tok sølv i toppserien, seier kaptein Mette Muri til NRK laurdag ettermiddag.",
-        "Før forrige seriekamp mot Stabæk hadde ikkje dei oransje tapt ein einaste kamp i Toppserien.",
-        "Kaptein Mette Muri fekk sølvmedaljen rundt halsen laurdag ettermiddag til stor jubel frå publikum."
+        "SKYTING: Nødetatene arbeider i Krakow sentrum der minst seks personer har blitt drept etter skyting lørdag ettermiddag.",
+        "Foto: Reuters Minst seks personer er drept i angrepet som skjedde lørdag ettermiddag i 15-tiden, opplyser politiet på X.",
+        "Faksimile: Webcamera.pl NRK-ansatte Ørjan Haugsdal satt sammen med samboeren på Hard Rock Cafe ved Mariakirken på hovedtorget i Krakow. – Da jeg ser ut av vinduet, ser jeg at det sitter en person i en bil og peker med et våpen ut av vinduet og stopper rett utenfor der hvor vi sitter, sier Haugsdal til NRK.",
+        "I tillegg skal minst 16 personer være såret, blant dem er to politibetjenter som ble såret under pågripelsen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/aafk-spelarane-fekk-solvmedaljar-i-toppserien-etter-vanskeleg-kamp-1.18076081",
+      "url": "https://www.nrk.no/artikkel/minst-seks-dode-i-skyting-i-krakow-1532407",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Zgs43jS-XwzNGgkoKISAxAqDs-FunwiJkeg-n4dA65Vg.jpg",
-      "localImage": "assets/news/8f514a803c4ff6.jpg",
+      "image": "https://gfx.nrk.no/MT1FGs1lcEPC7uH2vMozyQsd9jM2RxpROVjnxj0jWc-Q",
+      "localImage": "assets/news/12fc7e479f5049.jpg",
       "score": 13
     },
     {
-      "id": "87a74dce1116c4",
+      "id": "151a198f00a0df",
       "category": "Norge",
-      "published": "07.11. 14:30",
-      "publishedISO": "2026-11-07T14:30:03+01:00",
-      "title": "Må koke vannet i minst en måned: – Det er veldig kjedelig",
-      "summary": "Nå skal Sør-Varanger kommune i gang med vedlikehold på vannledningene. – Det er veldig kjedelig. Hanne Randa er en av flere tusen innbyggere i Sør-Varanger kommune som må koke drikkevannet. – Vi kommer oss gjennom det, men vi skulle helst sluppet, sier Randa. Og befolkningen må regne med å måtte koke vannet i minst to uker til.",
+      "published": "07.11. 18:20",
+      "publishedISO": "2026-11-07T18:20:10+01:00",
+      "title": "Høyre-leder Ine Eriksen Søreide fikk kraftig diesel-kritikk fra Nordland Høyre",
+      "summary": "TILBAKE I NORD: Ine Eriksen Søreide er delvis vokst opp i Nord-Norge og var glad for å være tilbake i landsdelen lørdag. Høyre-leder Ine Eriksen Søreide åpnet årsmøtet til Nordland Høyre lørdag, men ble ikke bare møtt av jubel. Ine Eriksen Søreide talte til partikamerater i Nordland, men nevnte ikke bensin- og dieselprisene.",
       "keyPoints": [
-        "Og befolkningen må regne med å måtte koke vannet i minst to uker til.",
-        "Nå skal Sør-Varanger kommune i gang med vedlikehold på vannledningene. – Det er veldig kjedelig.",
-        "Hanne Randa er en av flere tusen innbyggere i Sør-Varanger kommune som må koke drikkevannet. – Vi kommer oss gjennom det, men vi skulle helst sluppet, sier Randa.",
-        "Dermed må folk i Kirkenes-området leve med kokevarsel i minst to uker til."
+        "Høyre-leder Ine Eriksen Søreide åpnet årsmøtet til Nordland Høyre lørdag, men ble ikke bare møtt av jubel.",
+        "Ine Eriksen Søreide talte til partikamerater i Nordland, men nevnte ikke bensin- og dieselprisene.",
+        "TILBAKE I NORD: Ine Eriksen Søreide er delvis vokst opp i Nord-Norge og var glad for å være tilbake i landsdelen lørdag.",
+        "Ine Eriksen Søreide forteller at hun alltid er glad for å komme nordover og sier hun var godt forberedt på de kritiske tilbakemeldingene fra partikollegaene. – Det var som forventet."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/forlenger-kokevarsel-i-kirkenes-med-minst-to-uker-1.18074304",
+      "url": "https://www.nrk.no/nordland/hoyre-leder-ine-eriksen-soreide-fikk-kraftig-diesel-kritikk-fra-nordland-hoyre-1.18076470",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Ias7c3SqH_5O9sq7vXl6sQJHeF8hMD4aYjrp5-Ty5g_A.jpg",
-      "localImage": "assets/news/87a74dce1116c4.jpg",
-      "score": 13
-    },
-    {
-      "id": "a50d19144a7a9c",
-      "category": "Norge",
-      "published": "07.11. 12:48",
-      "publishedISO": "2026-11-07T12:48:53+01:00",
-      "title": "Vektløfter Ragnar Holme blir stoppa på gata i Kina før VM: – Vi blir sett rart på",
-      "summary": "Ragnar Holme har reist til andre sida av jordkloden for å jakte rekordar, men blir stoppa på gata av nysgjerrige kinesarar av heilt andre grunnar. TRONGT: Ikkje alt i Kina er tilpassa ein vestlending på 150 kilo. – Det er litt forskjell på 30 timar versus 3 minutt, seier Ragnar Holme. Vektløftar Ragnar Holme har tatt vegen frå Førde til Ningbo i Kina, der han denne helga deltar i VM.",
-      "keyPoints": [
-        "Ragnar Holme har reist til andre sida av jordkloden for å jakte rekordar, men blir stoppa på gata av nysgjerrige kinesarar av heilt andre grunnar.",
-        "TRONGT: Ikkje alt i Kina er tilpassa ein vestlending på 150 kilo. – Det er litt forskjell på 30 timar versus 3 minutt, seier Ragnar Holme.",
-        "Vektløftar Ragnar Holme har tatt vegen frå Førde til Ningbo i Kina, der han denne helga deltar i VM.",
-        "Når Ragnar Holme har gått lei ris og nudlar, er det godt dei har McDonald's, også i Kina."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/vektlofter-ragnar-holme-blir-stoppa-pa-gata-i-kina-for-vm_-_-vi-blir-sett-rart-pa-1.18072451",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0kx_UTVYJYR9FB81rKndaAoNivl60TSvdikOQAjFHUHw.jpg",
-      "localImage": "assets/news/a50d19144a7a9c.jpg",
-      "score": 13
-    },
-    {
-      "id": "1d3b3aabec4ef4",
-      "category": "Økonomi",
-      "published": "06.11. 16:47",
-      "publishedISO": "2026-11-06T16:47:44+01:00",
-      "title": "Kronen svekkes etter global børssmell",
-      "summary": "Senest i forrige uke var kronen på de sterkeste nivåene siden 2022. Styrkingen av kronen i løpet av 2026 knyttes blant annet til oppgangen i olje- og gassprisene etter USA og Israels krig mot Iran. Ifølge Olsen har kronen også styrket seg mer enn oljeprisen alene skulle tilsi. – Fond som handler automatisk har forsterket oppgangen, og uroen i Frankrike har svekket euroen.",
-      "keyPoints": [
-        "Styrkingen av kronen i løpet av 2026 knyttes blant annet til oppgangen i olje- og gassprisene etter USA og Israels krig mot Iran.",
-        "Senest i forrige uke var kronen på de sterkeste nivåene siden 2022.",
-        "Ifølge Olsen har kronen også styrket seg mer enn oljeprisen alene skulle tilsi. – Fond som handler automatisk har forsterket oppgangen, og uroen i Frankrike har svekket euroen.",
-        "En svakere krone virker motsatt vei, og forsterker importert prisvekst. – Etter fredagens fall er kronen likevel rundt én prosent sterkere enn det Norges Bank la til grunn, sier Olsen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/Pg6kg0/kronen-svekkes-etter-global-boerssmell",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e01daea3-24d8-3d06-98b4-3f1ed1aca3c2?fit=crop&h=675&upscale=true&w=1200&s=f4d0c8da69d8d423827d0b8201e5e98350b61b0a",
-      "localImage": "assets/news/1d3b3aabec4ef4.jpg",
+      "image": "https://gfx.nrk.no/zi_XXO_WNZFVjB0UwxDQPwqkIYHw8XuW9c_Wg7d_JLAw.jpg",
+      "localImage": "assets/news/151a198f00a0df.jpg",
       "score": 13
     }
   ]
