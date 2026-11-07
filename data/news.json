@@ -1,6 +1,6 @@
 {
-  "updatedAt": "07.11.2026 kl. 03:36",
-  "updatedISO": "2026-11-07T03:36:57.343715+01:00",
+  "updatedAt": "07.11.2026 kl. 10:18",
+  "updatedISO": "2026-11-07T10:18:22.321685+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/IrDizf54zSBMRJiPrAH4bQMhZq1yHzxr_8ruvx-54VQQ.jpg",
       "localImage": "assets/news/e5d82e06fd4391.jpg",
+      "score": 14
+    },
+    {
+      "id": "4b097fe2ebcfc6",
+      "category": "Verden",
+      "published": "06.11. 16:30",
+      "publishedISO": "2026-11-06T16:30:42+01:00",
+      "title": "Judge blocks construction of Donald Trump's massive arch",
+      "summary": "Se: Demonstranter demonstrerer mot Trumps foreslåtte bue En føderal dommer har midlertidig blokkert byggingen av USAs president Donald Trumps «triumfbue» i nasjonens hovedstad. Den amerikanske distriktsdommeren Tanya Chutkan avgjorde at det bør være en 14-dagers pause før noe arbeid kan starte på buen i Washington som Trump-administrasjonen hadde sagt kunne begynne denne uken. Tidligere på torsdag stemte National Capital Planning Commission (NCPC) 8-4 for å tillate bygging av den planlagte 250 fot (72 m) buen.",
+      "keyPoints": [
+        "Se: Demonstranter demonstrerer mot Trumps foreslåtte bue En føderal dommer har midlertidig blokkert byggingen av USAs president Donald Trumps «triumfbue» i nasjonens hovedstad.",
+        "Den amerikanske distriktsdommeren Tanya Chutkan avgjorde at det bør være en 14-dagers pause før noe arbeid kan starte på buen i Washington som Trump-administrasjonen hadde sagt kunne begynne denne uken.",
+        "Tidligere på torsdag stemte National Capital Planning Commission (NCPC) 8-4 for å tillate bygging av den planlagte 250 fot (72 m) buen.",
+        "Godkjenningen torsdag kveld kom etter nesten ni timer med offentlig kommentar. \"Det hvite hus berømmer National Capital Planning Commissions beslutning om å fullt ut godkjenne president Trumps historiske visjon om å bygge en sårt tiltrengt triumfbue i Washington, DC,\" sa en talsperson for Det hvite hus til BBC i en uttalelse."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg",
+      "localImage": "assets/news/4b097fe2ebcfc6.jpg",
+      "score": 14
+    },
+    {
+      "id": "207c16ba8a31c0",
+      "category": "USA",
+      "published": "06.11. 21:11",
+      "publishedISO": "2026-11-06T21:11:45+01:00",
+      "title": "Trump names Stephen Miller as new chief of staff, replacing Susie Wiles",
+      "summary": "Se: Det vi vet om at Trump erstatter Susie Wiles med Stephen Miller President Donald Trump har utnevnt Stephen Miller, arkitekten bak hans harde immigrasjonspolitikk, til sin nye stabssjef etter historiske tap i det amerikanske mellomvalget. Miller, til venstre, og Wiles til høyre, tidligere i år På spørsmål om hvorfor han opphøyde Miller til stabssjef, sa Trump til journalister fredag: \"Stephen har vært med meg fra begynnelsen. Miller er en trofast tilhenger av Israel og har også vært haukeaktig om USAs og Israels felles militære aksjon i Iran. kunngjør at hun er kreftfri",
+      "keyPoints": [
+        "Se: Det vi vet om at Trump erstatter Susie Wiles med Stephen Miller President Donald Trump har utnevnt Stephen Miller, arkitekten bak hans harde immigrasjonspolitikk, til sin nye stabssjef etter historiske tap i det amerikanske mellomvalget.",
+        "Miller, til venstre, og Wiles til høyre, tidligere i år På spørsmål om hvorfor han opphøyde Miller til stabssjef, sa Trump til journalister på fredag: «Stephen har vært med meg fra begynnelsen.",
+        "Miller er en trofast tilhenger av Israel, og har også vært haukisk om USAs og Israels felles militære aksjon i Iran. \"Trumps psyke\": Assistenten som driver presidentens mest kontroversielle politikk Trumps stabssjef Susie Wiles kunngjør at hun er kreftfri",
+        "Miller, en Trump-lojalist og assisterende stabssjef som fungerte som seniorrådgiver under sin første administrasjon, skal ta på seg den nye rollen på mandag."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5751/live/463b6050-da19-11f1-bba7-b50f1faa7672.jpg",
+      "localImage": "assets/news/207c16ba8a31c0.jpg",
       "score": 15
+    },
+    {
+      "id": "5b927a23f50311",
+      "category": "Økonomi",
+      "published": "07.11. 06:56",
+      "publishedISO": "2026-11-07T06:56:17+01:00",
+      "title": "Nå kommer regningen",
+      "summary": "Trump ble sverget inn som president 20. januar 2025, var nesten hele adelsrekken av Silicon Valleys baroner tilstede. Det mest oppsiktsvekkende var allikevel alle tek-baronene som slett ikke hadde støttet Trump opprinnelig: Metas Mark Zuckerberg, Amazons Jeff Bezos, Googles direktør Sundar Pichai, Apples Tim Cook og TikToks Shou Zi Chew. Nå overga de seg som japanerne etter 2. verdenskrig, mente Steve Bannon, Trumps tidligere sjefstrateg.",
+      "keyPoints": [
+        "Trump ble sverget inn som president 20. januar 2025, var nesten hele adelsrekken av Silicon Valleys baroner tilstede.",
+        "Det mest oppsiktsvekkende var allikevel alle tek-baronene som slett ikke hadde støttet Trump opprinnelig: Metas Mark Zuckerberg, Amazons Jeff Bezos, Googles direktør Sundar Pichai, Apples Tim Cook og TikToks Shou Zi Chew.",
+        "Nå overga de seg som japanerne etter 2. verdenskrig, mente Steve Bannon, Trumps tidligere sjefstrateg.",
+        "Det var Maga-støttespillere som Elon Musk, verdens rikeste mann og hovedeier i Space X og Tesla, og Marc Andreessen, tek-investoren som en gang var demokrat, men nå hadde blitt en av Trumps nærmeste støttespillere."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/jvVXgL/naa-kommer-regningen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/2f90a2c0-06c7-38fa-9eb7-ea6b889a6afc?fit=crop&h=675&upscale=true&w=1200&s=944629e7bd1c9a01a699e9cb0ad5cd8cf2e5e6ac",
+      "localImage": "assets/news/5b927a23f50311.jpg",
+      "score": 17
     },
     {
       "id": "a2316100e33bd9",
@@ -43,7 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a1246896-3346-3667-8562-b3bffa68b95b?fit=crop&h=675&upscale=true&w=1200&s=bd0836a496a61a26150c2eb5d9d535ce77ccc0b5",
       "localImage": "assets/news/a2316100e33bd9.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "9229c88bb229eb",
+      "category": "AI",
+      "published": "06.11. 22:06",
+      "publishedISO": "2026-11-06T22:06:25+01:00",
+      "title": "AI-aksjer hopper tilbake etter at billioner er fjernet fra markedsverdier",
+      "summary": "Aksjer i kunstig intelligens og teknologifirmaer har kommet seg litt etter et enormt salg som tørket ut billioner av dollar av aksjeverdiene. Den teknologitunge Nasdaq-aksjeindeksen stengte i positivt territorium etter en markedsrutt som begynte i USA torsdag før den smittet over på asiatiske og europeiske markeder til fredag. Men Nasdaq Composite kom litt tilbake på fredag, og endte dagen opp med 1,1 %, noe som delvis reverserte noe av fallet på 5,5 %.",
+      "keyPoints": [
+        "Aksjer i kunstig intelligens og teknologifirmaer har kommet seg litt etter et enormt salg som tørket ut billioner av dollar av aksjeverdiene.",
+        "Men Nasdaq Composite kom litt tilbake på fredag, og endte dagen opp med 1,1 %, noe som delvis reverserte noe av fallet på 5,5 %.",
+        "Den teknologitunge Nasdaq-aksjeindeksen stengte i positivt territorium etter en markedsrutt som begynte i USA torsdag før den smittet over på asiatiske og europeiske markeder til fredag.",
+        "Neil Birrell, investeringssjef i investeringsselskapet Premier Miton, sa at selv om jobbtallene kan føles som andre faktureringer til markedsbevegelsene, var de fortsatt viktige. \"Den amerikanske økonomien kjører hardt, noe som kan bety at risikoene markedene bekymrer seg for for øyeblikket ikke er en slik risiko for realøkonomien som det fryktes,\" sa han."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+      "localImage": "assets/news/9229c88bb229eb.jpg",
+      "score": 15
     },
     {
       "id": "fc6148232d717c",
@@ -64,7 +148,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/03c96720-d4eb-3dce-bc0f-cabea94bf64b?fit=crop&h=675&upscale=true&w=1200&s=680b52ee0992bf673bbcdf33e025c6738ffab3ea",
       "localImage": "assets/news/fc6148232d717c.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "99f05c49b9d192",
+      "category": "USA",
+      "published": "06.11. 19:27",
+      "publishedISO": "2026-11-06T19:27:21+01:00",
+      "title": "Watch: Pandas Fu Shuang and Ping Ping make their debut in Atlanta",
+      "summary": "To 6 år gamle pandaer gjorde sin offentlige debut i Zoo Atlanta i Georgia. Møt Fu Shuang og Ping Ping: Nye kjempepandaer i Atlanta. Video, 00:00:38Møt Fu Shuang og Ping Ping: Nye kjempepandaer i Atlanta Up Next.",
+      "keyPoints": [
+        "Video, 00:00:38Møt Fu Shuang og Ping Ping: Nye kjempepandaer i Atlanta Up Next.",
+        "Two 6-year-old pandas made their public debut at Zoo Atlanta in Georgia.",
+        "Ping Ping og Fu Shuang ankom i slutten av september, men tilbrakte de første ukene i karantene for å tilpasse seg sitt nye habitat.",
+        "Video, 00:01:00Watch: Giant pandas play in Washington DC snowstorm Giant pandas chew bamboo at Washington DC debut."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cwm244x9dzy2o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/4818/live/64c913a0-da0f-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/99f05c49b9d192.jpg",
+      "score": 15
     },
     {
       "id": "1d3b3aabec4ef4",
@@ -85,28 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e01daea3-24d8-3d06-98b4-3f1ed1aca3c2?fit=crop&h=675&upscale=true&w=1200&s=f4d0c8da69d8d423827d0b8201e5e98350b61b0a",
       "localImage": "assets/news/1d3b3aabec4ef4.jpg",
-      "score": 15
-    },
-    {
-      "id": "d4a1007a1b92bd",
-      "category": "Økonomi",
-      "published": "06.11. 12:37",
-      "publishedISO": "2026-11-06T12:37:25+01:00",
-      "title": "– Aldri bra at fondet faller i verdi",
-      "summary": "Stoltenberg mener fondet er godt rigget, tross kraftig børsfall. – Det er aldri bra at fondet faller i verdi men det er håndterbart, sier finansminister Jens Stoltenberg. Børsene faller over hele verden, og det er spesielt teknologiaksjer som rammes. Han sier videre at fondet er forberedt på svingninger, og er spredt over flere markeder. – Det er spredning over mange markeder som er den beste måten å håndtere risiko på, sier finansministeren. – Har du en oppfordring til norske småsparere? – Jeg kommer ikke til å bli finansrådgiver til norske småsparere.",
-      "keyPoints": [
-        "Stoltenberg mener fondet er godt rigget, tross kraftig børsfall. – Det er aldri bra at fondet faller i verdi men det er håndterbart, sier finansminister Jens Stoltenberg.",
-        "Han sier videre at fondet er forberedt på svingninger, og er spredt over flere markeder. – Det er spredning over mange markeder som er den beste måten å håndtere risiko på, sier finansministeren. – Har du en oppfordring til norske småsparere? – Jeg kommer ikke til å bli finansrådgiver til norske småsparere.",
-        "Børsene faller over hele verden, og det er spesielt teknologiaksjer som rammes.",
-        "AI vil fortsatt påvirke livene våre og økonomiene våre, selv om AI-aksjene kan svinge i verdi, sier han."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/779OWv/finansministeren-om-boersuro-det-er-aldri-bra-at-fondet-faller-i-verdi",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/cc5d441f-64b9-32d6-aca5-a06cb3e87aa6?fit=crop&h=675&upscale=true&w=1200&s=2ae1dbf5321b00df29fb8dacad0100eaa47df0b5",
-      "localImage": "assets/news/d4a1007a1b92bd.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "c861db6778e8b0",
@@ -127,90 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1132b062-b991-38ea-8209-7f0e2ab6dce2?fit=crop&h=675&upscale=true&w=1200&s=829fb06f846c7e59c65a55eea214456725ce60f8",
       "localImage": "assets/news/c861db6778e8b0.jpg",
-      "score": 15
-    },
-    {
-      "id": "087340284fe3ec",
-      "category": "Økonomi",
-      "published": "06.11. 12:21",
-      "publishedISO": "2026-11-06T12:21:13+01:00",
-      "title": "AI-rekyl på Nasdaq: – Fortsatt mange penger som står klare",
-      "summary": "Teknologiindeksen Nasdaq har dermed tapt seg nær 3,4 prosent siste uken, og er ned over 10,9 prosent den siste måneden, ifølge InFront. Den brede S&P-indeksen er ned 2,66 prosent siste uken og ned 5,65 prosent den siste måneden. Det er fortsatt mange penger som står klare til å investere i AI, sier Chen.",
-      "keyPoints": [
-        "Det er fortsatt mange penger som står klare til å investere i AI, sier Chen.",
-        "Teknologiindeksen Nasdaq har dermed tapt seg nær 3,4 prosent siste uken, og er ned over 10,9 prosent den siste måneden, ifølge InFront.",
-        "Han legger til at det første gang siden juli at Storebrand vekter seg opp igjen, og at kjøpsvolumet, cirka 2-3 milliarder kroner, er det største siden USA-president Donald Trump sa han skulle bombe Iran sønder og sammen omkring påsketider. – Jeg er alltid nervøs, det er jobben til en forvalter å være det.",
-        "Fra toppen tidlig i oktober har Nasdaq falt mer enn ti prosent, mens Oslo Børs nå er omtrent uendret i samme periode."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/w3yQy5/forsiktig-opppgang-i-foerhandelen-paa-wall-street",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/85adf50d-abdd-35eb-9d4d-70db71fe51ed?fit=crop&h=675&upscale=true&w=1200&s=441f039a6eadb2b7f1901f8d5e7b32207ac2db26",
-      "localImage": "assets/news/087340284fe3ec.jpg",
-      "score": 14
-    },
-    {
-      "id": "848fe1086f680c",
-      "category": "Norge",
-      "published": "06.11. 11:56",
-      "publishedISO": "2026-11-06T11:56:47+01:00",
-      "title": "Styrkar dronevernet ved Russland-grensa: – Vi vil forsvare kvar kvadratmeter",
-      "summary": "Nye sensorar og samarbeid med politiet skal gjere Noreg betre i stand til å oppdage og verne seg mot farlege dronar. Sandvik seier at Noreg og Nato ikkje truar nokon, men står klare til å forsvare seg. – Vi kjem til å forsvare oss formidabelt om nokon skulle vere så dumme at dei går til angrep på oss. Gjennom krigen har Ukraina også sendt dronar mot flybasen Olenja på Kolahalvøya, rundt 100 kilometer frå grensa til Noreg. – Det som desse systema er gode på, og som har fungert veldig godt i Ukraina, er å finne dronar og fly som flyg i låg høgde, seier fungerande sjef for luftvernbataljonen Kenneth Øyen til NRK.",
-      "keyPoints": [
-        "Sandvik seier at Noreg og Nato ikkje truar nokon, men står klare til å forsvare seg. – Vi kjem til å forsvare oss formidabelt om nokon skulle vere så dumme at dei går til angrep på oss.",
-        "Gjennom krigen har Ukraina også sendt dronar mot flybasen Olenja på Kolahalvøya, rundt 100 kilometer frå grensa til Noreg. – Det som desse systema er gode på, og som har fungert veldig godt i Ukraina, er å finne dronar og fly som flyg i låg høgde, seier fungerande sjef for luftvernbataljonen Kenneth Øyen til NRK.",
-        "Nye sensorar og samarbeid med politiet skal gjere Noreg betre i stand til å oppdage og verne seg mot farlege dronar.",
-        "Sensorane er del av Nasams, eit avansert norsk luftvernsystem som kan skyte ned truslar i lufta. – Vi viser nå at vi på kort sikt og veldig kort tid kan sette opp dette systemet, seier Sandvik."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/styrkar-dronevernet-ved-russland-grensa_-_-vi-vil-forsvare-kvar-kvadratmeter-1.18075429",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/mLWmX9OULi81y6zxeu4yig5zglnx94UQ79lxpgMmkExA.jpg",
-      "localImage": "assets/news/848fe1086f680c.jpg",
-      "score": 14
-    },
-    {
-      "id": "49fa3495382025",
-      "category": "Økonomi",
-      "published": "06.11. 10:41",
-      "publishedISO": "2026-11-06T10:41:47+01:00",
-      "title": "Børsfall i Europa",
-      "summary": "Så langt denne uken er tek-indeksen i Europa, Stoxx Europe 600 Technology, ned rundt 5 prosent. Slik ser det ut på noen av de viktigste børsene i Europa: Børsnedgangen etter Demokratenes brakvalg denne uken har delvis blitt forklart med frykt for mindre utbygging av datasentre. Blandingen av stabile industriselskaper, banker og defensive tungvektere, sammen med en god dose råvareselskaper, oppfattes som attraktiv, skriver Bloomberg. – Europa er stedet å investere i urolige tider, sier Euronext-sjef Stéphane Boujnah i et intervju med Bloomberg TV. – Europa er et veldig trygt sted når det gjelder forholdet mellom avkastning og risiko.",
-      "keyPoints": [
-        "Så langt denne uken er tek-indeksen i Europa, Stoxx Europe 600 Technology, ned rundt 5 prosent.",
-        "Blandingen av stabile industriselskaper, banker og defensive tungvektere, sammen med en god dose råvareselskaper, oppfattes som attraktiv, skriver Bloomberg. – Europa er stedet å investere i urolige tider, sier Euronext-sjef Stéphane Boujnah i et intervju med Bloomberg TV. – Europa er et veldig trygt sted når det gjelder forholdet mellom avkastning og risiko.",
-        "Slik ser det ut på noen av de viktigste børsene i Europa: Børsnedgangen etter Demokratenes brakvalg denne uken har delvis blitt forklart med frykt for mindre utbygging av datasentre.",
-        "Den europeiske samleindeksen Stoxx Europe 600 er litt etter klokken 10 ned 1,2 prosent."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/yleX92/boersfall-i-europa",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/2bb6fdf7-c830-3c0b-b274-63247929ddd2?fit=crop&h=675&upscale=true&w=1200&s=874606503570afef7c25df700ca2de1c4af5a840",
-      "localImage": "assets/news/49fa3495382025.jpg",
-      "score": 14
-    },
-    {
-      "id": "cc0bdb96ce60b9",
-      "category": "Norge",
-      "published": "06.11. 08:56",
-      "publishedISO": "2026-11-06T08:56:46+01:00",
-      "title": "Britisk hangarskip på vei inn Oslofjorden",
-      "summary": "Det britiske Hangarskipet HMS «Prince of Wales» ble møtt med tåke i Oslofjorden fredag. Fredag formiddag var skipet på vei inn Oslofjorden, før det, ifølge Kystverket, snudde like utenfor Moss og gikk sørover på grunn av dårlig sikt. – Det handler nok om at det er litt tåke inn Oslofjorden, sier oberstløytnant og talsperson for Forsvaret, Stine Barclay Gaasland. Ifølge Forsvaret var dette første gang et britisk hangarskip etterforsynes i en havn utenfor Storbritannia.",
-      "keyPoints": [
-        "Fredag formiddag var skipet på vei inn Oslofjorden, før det, ifølge Kystverket, snudde like utenfor Moss og gikk sørover på grunn av dårlig sikt. – Det handler nok om at det er litt tåke inn Oslofjorden, sier oberstløytnant og talsperson for Forsvaret, Stine Barclay Gaasland.",
-        "Ifølge Forsvaret var dette første gang et britisk hangarskip etterforsynes i en havn utenfor Storbritannia.",
-        "Det britiske Hangarskipet HMS «Prince of Wales» ble møtt med tåke i Oslofjorden fredag.",
-        "Ifølge NTB er HMS «Prince of Wales» 49 meter kortere enn verdens største hangarskip, amerikanske USS «Gerald R."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/britisk-hangarskip-pa-vei-inn-oslofjorden-1.18075397",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_S2gnCEkgy81PdZiP9jQHAyCICQ7D4zA88iF9eZYbuVg.jpg",
-      "localImage": "assets/news/cc0bdb96ce60b9.jpg",
       "score": 14
     }
   ]
