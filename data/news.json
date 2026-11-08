@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.11.2026 kl. 17:16",
-  "updatedISO": "2026-11-08T17:16:35.543990+01:00",
+  "updatedAt": "08.11.2026 kl. 21:35",
+  "updatedISO": "2026-11-08T21:35:51.444519+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,12 +9,12 @@
       "published": "08.11. 15:16",
       "publishedISO": "2026-11-08T15:16:55+01:00",
       "title": "Kamp stoppet etter dramatikk på tribunen – spillerne sendt i garderoben",
-      "summary": "Kampen mellom Tromsø og Bodø/Glimt ble stoppet etter en hendelse på bortetribunen. En ambulanse rykket til stedet, og begge lagene ble sendt i garderoben. I sin første kamp som landslagssjef så Magnus Andersson Norge score 40 ganger mot Georgia torsdag.",
+      "summary": "Kampen mellom Tromsø og Bodø/Glimt ble stoppet etter en hendelse på bortetribunen. En ambulanse rykket til stedet, og begge lagene ble sendt i garderoben. Dommer Ola Hobber Nilsen valgte deretter å sende begge lagene i garderoben.",
       "keyPoints": [
         "En ambulanse rykket til stedet, og begge lagene ble sendt i garderoben.",
+        "Dommer Ola Hobber Nilsen valgte deretter å sende begge lagene i garderoben.",
         "Kampen mellom Tromsø og Bodø/Glimt ble stoppet etter en hendelse på bortetribunen.",
-        "I sin første kamp som landslagssjef så Magnus Andersson Norge score 40 ganger mot Georgia torsdag.",
-        "Dommer Ola Hobber Nilsen valgte deretter å sende begge lagene i garderoben."
+        "Hjelpemannskaper rykket raskt til og tok seg inn under tribunen for å bistå."
       ],
       "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
       "summaryMethod": "local-extractive",
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/m14f0ew3TfyQPg1GpyRHGAEQvCyctKf5VHQZ-QWBh_aw.jpg",
       "localImage": "assets/news/a43e5a86629ab5.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "90c2b26c361684",
@@ -43,49 +43,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Ixsi1oWvKPBUuf4wb1EbAAuRde3Q_1th6AMwvieFku3A.jpg",
       "localImage": "assets/news/90c2b26c361684.jpg",
-      "score": 16
-    },
-    {
-      "id": "2c9936ceb5307e",
-      "category": "Verden",
-      "published": "08.11. 15:32",
-      "publishedISO": "2026-11-08T15:32:52+01:00",
-      "title": "Poland shooting: What we know about gun attack in Poland",
-      "summary": "Minst seks mennesker ble drept og mer enn et dusin andre såret da en våpenmann mistenkt for å ha tilknytning til ytre høyre åpnet ild i sentrum av Krakow, den nest største byen i Polen. Angrepet begynte like før klokken 15.00 lokal tid (14.00 GMT) på Krakows hovedtorg, det travle sentralpunktet i byen som er populært blant turister. Polens statsminister Donald Tusk sa at tre kropper - to kvinner og en mann - ble funnet ved våpenmannens hus da det ble ransaket etter angrepet.",
-      "keyPoints": [
-        "Polens statsminister Donald Tusk sa at tre kropper - to kvinner og en mann - ble funnet ved våpenmannens hus da det ble ransaket etter angrepet.",
-        "Angrepet begynte like før klokken 15.00 lokal tid (14.00 GMT) på Krakows hovedtorg, det travle sentralpunktet i byen som er populært blant turister.",
-        "Minst seks mennesker ble drept og mer enn et dusin andre såret da en våpenmann mistenkt for å ha tilknytning til ytre høyre åpnet ild i sentrum av Krakow, den nest største byen i Polen.",
-        "Folk løper etter ly mens skuddene hørtes i Krakow. Væpnede offiserer løp til stedet og deltok i en skuddveksling med den mistenkte, som ble skutt innen tre minutter etter at angrepet startet, og forhindret en ytterligere massakre, sa tjenestemenn."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
-      "localImage": "assets/news/2c9936ceb5307e.jpg",
-      "score": 13
-    },
-    {
-      "id": "ee3ade6bcf4388",
-      "category": "USA",
-      "published": "08.11. 01:31",
-      "publishedISO": "2026-11-08T01:31:53+01:00",
-      "title": "'Please take the job!' - Trump asks UFC boss Dana White to be White House press secretary",
-      "summary": "Stillingen som pressesekretær i Det hvite hus har vært åpen siden midten av oktober, da Katie Zacharia sluttet mindre enn fem dager etter jobben. Etter Trumps innlegg, la White ut et Instagram-bilde av seg selv bak talerstolen i pressekonferanserommet i Det hvite hus. \"Videre til neste kapittel,\" skrev White, selv om det var uklart om innlegget var tungen i kinnet. \"Hell yeah! Katie Zacharia forlater rollen i Det hvite hus mindre enn fem dager på jobb UFC taper $30 millioner på Freedom 250-arrangementet i Det hvite hus, Trump og tusenvis av andre ser UFC-kampen på plenen i Det hvite hus",
-      "keyPoints": [
-        "Katie Zacharia leaving White House role less than five days into job UFC loses $30m on Freedom 250 event at White House Trump and thousands of others watch UFC fight on White House lawn",
-        "Stillingen som pressesekretær i Det hvite hus har vært åpen siden midten av oktober, da Katie Zacharia sluttet mindre enn fem dager etter jobben.",
-        "Etter Trumps innlegg, la White ut et Instagram-bilde av seg selv bak talerstolen i pressekonferanserommet i Det hvite hus. \"Videre til neste kapittel,\" skrev White, selv om det var uklart om innlegget var tungen i kinnet. \"Helvete ja!",
-        "Presidenten kalte White «en voldelig fighter og kriger» og ba om at han skulle ta med seg en rekke høyprofilerte UFC-krigere på jobben «selv om noen ikke er fra vårt land». «Vi trenger disse menneskene for å forsvare oss mot den galne venstresiden», skrev Trump sammen med bilder av de seks krigere."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg",
-      "localImage": "assets/news/ee3ade6bcf4388.jpg",
-      "score": 14
+      "score": 15
     },
     {
       "id": "8f2ca99d610500",
@@ -106,49 +64,112 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4aee436d-5a37-3ce2-aaef-8170b248bf7f?fit=crop&h=675&upscale=true&w=1200&s=75340f1d15160d3a643f92614241e1f16d018210",
       "localImage": "assets/news/8f2ca99d610500.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "521a5a7c8a86fc",
+      "id": "1c70859b329d31",
       "category": "Økonomi",
-      "published": "08.11. 14:07",
-      "publishedISO": "2026-11-08T14:07:26+01:00",
-      "title": "AI-smellen kan treffe fondet ditt",
-      "summary": "Norske småsparere sitter tungt i selskapene som nå får juling. Fra rekordtoppen i oktober er fallet nå nesten 11 prosent. Bare i år 2000 steg eller falt Nasdaq minst fem prosent på mange titalls ulike dager.",
+      "published": "08.11. 18:00",
+      "publishedISO": "2026-11-08T18:00:14+01:00",
+      "title": "Meldinger avslører kriminelt nettverk: – Ekstremt provoserende",
+      "summary": "Søndag skrev E24 om et kriminelt nettverk som jobber over landegrensene mellom Norge og Sverige. Nettverket har koblinger til den svenske gjengtoppen Ismail «Jordgubben» AbdoGjengleder som brøt ut av Foxtrot i 2023 og leder det politiet har kalt Rumba-nettverket.. – Det er ekstremt provoserende. Det er også ekstremt provoserende å se at både den tilliten vi som personer og bedrifter har til offentlige og private institusjoner, og den tilliten vi har oss imellom, utnyttes, sier Aas-Hansen. – Det gjør stor skade, og kan gjøre virkelig stor skade, og i verste fall utfordre tilliten vår til velferdsstaten.",
       "keyPoints": [
-        "Bare i år 2000 steg eller falt Nasdaq minst fem prosent på mange titalls ulike dager.",
-        "Fra rekordtoppen i oktober er fallet nå nesten 11 prosent.",
-        "Norske småsparere sitter tungt i selskapene som nå får juling.",
-        "Verdens såkalte viktigste børsindeks, brede S&P 500, falt godt over 4 prosent."
+        "Det er også ekstremt provoserende å se at både den tilliten vi som personer og bedrifter har til offentlige og private institusjoner, og den tilliten vi har oss imellom, utnyttes, sier Aas-Hansen. – Det gjør stor skade, og kan gjøre virkelig stor skade, og i verste fall utfordre tilliten vår til velferdsstaten.",
+        "Nettverket har koblinger til den svenske gjengtoppen Ismail «Jordgubben» AbdoGjengleder som brøt ut av Foxtrot i 2023 og leder det politiet har kalt Rumba-nettverket.. – Det er ekstremt provoserende.",
+        "Søndag skrev E24 om et kriminelt nettverk som jobber over landegrensene mellom Norge og Sverige.",
+        "Hun sier saken viser at det er rett av regjeringen å prioritere satsing mot kriminelle nettverk og økonomisk kriminalitet. – Det er en stor bekymring knyttet til det vi ser av bedragerier."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/9BmrEd/ai-smellen-kan-treffe-fondet-ditt",
+      "url": "https://e24.no/naeringsliv/i/31LnBe/meldinger-avsloerer-kriminelt-nettverk-ekstremt-provoserende",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/19ad2138-1bc9-3ca6-94b9-8b9f6560fa35?fit=crop&h=675&upscale=true&w=1200&s=b2868378ff2eb78b88131771c9c76dcfb9dfd151",
-      "localImage": "assets/news/521a5a7c8a86fc.jpg",
+      "image": "https://akamai.vgc.no/v2/images/643ed364-be75-3e69-85e5-f3f9b44ff86e?fit=crop&h=675&upscale=true&w=1200&s=e8675c0ab974508655bf7005230d28c129e3666e",
+      "localImage": "assets/news/1c70859b329d31.jpg",
       "score": 13
     },
     {
-      "id": "04938599e3d6a1",
-      "category": "AI",
-      "published": "08.11. 01:37",
-      "publishedISO": "2026-11-08T01:37:45+01:00",
-      "title": "Ocarina of Time review: Does Nintendo's Zelda remake match its original?",
-      "summary": "The Legend of Zelda: Ocarina of Time ble endelig sluppet torsdag, etter årevis med rykter om at Nintendo skulle lage spillet på nytt – regnet som et av de beste som noen gang er laget. SE: Legend of Zelda: Ocarina of Time - hvordan remaken sammenligner med originalen De som meg som vokste opp med å spille originalen vil føle seg hjemme her. Jeg tror ikke utviklerne ser det slik. \"Selv om spillet kan se annerledes ut, har vi beholdt essensen som de originale utviklerne ønsket og forhåpentligvis formidlet gjennom den originale Ocarina of Time,\" sa Fujibayashi.",
+      "id": "3668c4d220c979",
+      "category": "Norge",
+      "published": "08.11. 20:22",
+      "publishedISO": "2026-11-08T20:22:59+01:00",
+      "title": "Viking med maktdemonstrasjon – gjenerobret tabelltoppen",
+      "summary": "Med gullrival Bodø/Glimt jagende bakfra hadde ikke Viking råd til feilskjær dersom drømmen om seriegull skulle leve videre. Viking fortsatte presset og hadde flere sjanser til å doble ledelsen. KFUM reduserte bare minutter etter, men Viking lot seg ikke stoppe.",
       "keyPoints": [
-        "The Legend of Zelda: Ocarina of Time ble endelig sluppet torsdag, etter årevis med rykter om at Nintendo skulle lage spillet på nytt – regnet som et av de beste som noen gang er laget.",
-        "SE: Legend of Zelda: Ocarina of Time - hvordan remaken sammenligner med originalen De som meg som vokste opp med å spille originalen vil føle seg hjemme her.",
-        "Jeg tror ikke utviklerne ser det slik. \"Selv om spillet kan se annerledes ut, har vi beholdt essensen som de originale utviklerne ønsket og forhåpentligvis formidlet gjennom den originale Ocarina of Time,\" sa Fujibayashi.",
-        "Mange av tingene vi tar for gitt i moderne spill – som å ri på hest, slåss med et sverd og skjold, eller låse fast på fiender med et knappetrykk – ble banebrytende eller perfeksjonert i Ocarina of Time."
+        "Med gullrival Bodø/Glimt jagende bakfra hadde ikke Viking råd til feilskjær dersom drømmen om seriegull skulle leve videre.",
+        "Viking fortsatte presset og hadde flere sjanser til å doble ledelsen.",
+        "KFUM reduserte bare minutter etter, men Viking lot seg ikke stoppe.",
+        "Etter et vakkert angrep fra vertene, dunket dansken i det tredje for Viking."
       ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
-      "localImage": "assets/news/04938599e3d6a1.jpg",
-      "score": 14
+      "url": "https://www.nrk.no/sport/viking-med-maktdemonstrasjon-_-gjenerobret-tabelltoppen-1.18076961",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/61_ZIxG9rCHtjHoU7GWzrgi_VbXp5lA4rg8CU8Ib6QbA.jpg",
+      "localImage": "assets/news/3668c4d220c979.webp",
+      "score": 13
+    },
+    {
+      "id": "af8539e10b379d",
+      "category": "Norge",
+      "published": "08.11. 19:21",
+      "publishedISO": "2026-11-08T19:21:25+01:00",
+      "title": "Anne har fluktruten klar i tilfelle sønnen kommer hjem",
+      "summary": "Anne og Liv frykter at sønnene deres kan ende opp som drapsmenn og mener det må snakkes mer om tvang som hjelp. Hun skyver knivblokka lenger inn på kjøkkenbenken og legger nøklene klare i gangen, i tilfelle hun må benytte fluktruten. Når hun blir spurt om hun er redd for at sønnen kan ta livet hennes, svarer hun ja. – Det er flaks at han ikke har skadet noen, sier Anne.",
+      "keyPoints": [
+        "Når hun blir spurt om hun er redd for at sønnen kan ta livet hennes, svarer hun ja. – Det er flaks at han ikke har skadet noen, sier Anne.",
+        "Hun skyver knivblokka lenger inn på kjøkkenbenken og legger nøklene klare i gangen, i tilfelle hun må benytte fluktruten.",
+        "Anne og Liv frykter at sønnene deres kan ende opp som drapsmenn og mener det må snakkes mer om tvang som hjelp.",
+        "I tilfelle sønnen trenger at hun er i nærheten når han blir sykere."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/dokumentar/xl/hun-frykter-sitt-eget-barn-1.18057081",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/H9BqIzo5PXj7YVYzU9929wZfldonXQa0n0yZ-zOrBvVw.png",
+      "localImage": "assets/news/af8539e10b379d.png",
+      "score": 13
+    },
+    {
+      "id": "40444e582432f0",
+      "category": "Norge",
+      "published": "08.11. 18:20",
+      "publishedISO": "2026-11-08T18:20:08+01:00",
+      "title": "Sigurd brakk ribbeinet etter at han datt gjennom tribunen på Romssa Arena i Tromsø",
+      "summary": "Sigurd Støver falt gjennom tribunen på Romssa Arena. – Når vi hoppa litt til en sang, så knakk det under oss som en jævla pappbit. Broren fikk først ikke kontakt med Sigurd etter at han falt gjennom tribunen. Det var etter 41 minutters spill at det oppsto dramatiske scener på Romssa Arena i oppgjøret mellom Tromsø IL og Bodø/Glimt.",
+      "keyPoints": [
+        "Sigurd Støver falt gjennom tribunen på Romssa Arena. – Når vi hoppa litt til en sang, så knakk det under oss som en jævla pappbit.",
+        "Broren fikk først ikke kontakt med Sigurd etter at han falt gjennom tribunen.",
+        "Det var etter 41 minutters spill at det oppsto dramatiske scener på Romssa Arena i oppgjøret mellom Tromsø IL og Bodø/Glimt.",
+        "Nå skal vi undersøke hva som har skjedd fremover, sier daglige leder i TIL William Frantzen til NRK. – Det tenker jeg er helt naturlig i lys av hendelsen, sier Frantzen. – En supporter ligger på sykehuset, hva gjør dere overfor de supporterne som havnet gjennom tribunen? – Det er veldig tragisk det som har skjedd."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/sigurd-brakk-ribbeinet-etter-at-han-datt-gjennom-tribunen-pa-romssa-arena-i-tromso-1.18076953",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/7yH2m4olExjhR982JMgGWgNC8aFDY2PF1TP9rNqraxQw.jpg",
+      "localImage": "assets/news/40444e582432f0.webp",
+      "score": 13
+    },
+    {
+      "id": "6e0c7383889c13",
+      "category": "Norge",
+      "published": "08.11. 18:05",
+      "publishedISO": "2026-11-08T18:05:09+01:00",
+      "title": "Planlegg settefiskanlegg ved Syrtveitsfossen",
+      "summary": "Ved Syrtveitfossen i Evje og Hornnes vil selskapet Fyri Fish bygge eit anlegg som skal gje arbeidsplassar og produsere eksklusiv mat. – Dette er ei gladsak, seier ordførar Morten Haraldstad (KrF). Men det er slett ikkje er alle som ser på planane om settefiskanlegg som noko gladsak. Han meiner utbyggarane kunne ha nytta eit anna område. – Vi er ikkje imot at det skal etablerast eit settefiskanlegg, men vi er imot plasseringa.",
+      "keyPoints": [
+        "Han meiner utbyggarane kunne ha nytta eit anna område. – Vi er ikkje imot at det skal etablerast eit settefiskanlegg, men vi er imot plasseringa.",
+        "Men det er slett ikkje er alle som ser på planane om settefiskanlegg som noko gladsak.",
+        "Ved Syrtveitfossen i Evje og Hornnes vil selskapet Fyri Fish bygge eit anlegg som skal gje arbeidsplassar og produsere eksklusiv mat. – Dette er ei gladsak, seier ordførar Morten Haraldstad (KrF).",
+        "Anlegget vil ligge like ved ein av turistattraksjonane i Setesdal og vil innebere eit naturinngrep. – Fossen er ei naturperle av dei sjeldne, seier Glenn Cato Christiansen (V), leiar av planutvalet i kommunen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/planlegg-settefiskanlegg-ved-syrtveitsfossen-1.18076919",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/cFnqirHfxP8y1UcUkH5cTQkJOoqmoE0BV2v3CrNX_MpA.jpg",
+      "localImage": "assets/news/6e0c7383889c13.jpg",
+      "score": 13
     },
     {
       "id": "a1397d764e11cc",
@@ -172,46 +193,25 @@
       "score": 13
     },
     {
-      "id": "4865f67076c24f",
+      "id": "ce1fb1e505bf19",
       "category": "Norge",
       "published": "08.11. 15:21",
       "publishedISO": "2026-11-08T15:21:30+01:00",
-      "title": "Tromsø-Bodø/Glimt stoppet",
-      "summary": "Flere personer skal ha falt gjennom tribunen. Én person er sendt til sykehus for videre undersøkelser. Til NRK sier Tromsøs daglige leder William Frantzen: – Vi har hatt en alvorlig hendelse på bortetribunen i dag i kampen mellom TIL og Bodø/Glimt. Det er i samråd med NFF, bortelag, bortesupportere, Politi og egen arrangørstab besluttet at kampen skal starte opp igjen kl.16.00.» Var du til stede på kampen og så hva som skjedde?",
+      "title": "Tromsø - Bodø/Glimt stoppet etter dramatikk på bortetribunen – én person ble sendt til sykehus",
+      "summary": "Én person ble sendt til sykehus etter at flere personer falt gjennom bortetribunen i Tromsø. – Det er først og fremst tragisk det som her skjedd. Til sammen fire ble undersøkt av helsepersonell. – Én person er sendt til sykehus, mens de andre er blitt undersøkt på stedet og virker å ha det bra, sier medieansvarlig i Bodø/Glimt, Simen Pedersen, til NRK. Ifølge avisen Nordlys var det om lag 600 tilskuere på bortetribunen. «Vi har hatt en alvorlig hendelse på bortetribunen i forbindelse med kampen mellom TIL og Bodø/Glimt.",
       "keyPoints": [
-        "Til NRK sier Tromsøs daglige leder William Frantzen: – Vi har hatt en alvorlig hendelse på bortetribunen i dag i kampen mellom TIL og Bodø/Glimt.",
-        "Flere personer skal ha falt gjennom tribunen. Én person er sendt til sykehus for videre undersøkelser.",
-        "Det er i samråd med NFF, bortelag, bortesupportere, Politi og egen arrangørstab besluttet at kampen skal starte opp igjen kl.16.00.» Var du til stede på kampen og så hva som skjedde?",
-        "Det var etter 41 minutters spill at det oppsto dramatiske scener."
+        "Én person ble sendt til sykehus etter at flere personer falt gjennom bortetribunen i Tromsø. – Det er først og fremst tragisk det som her skjedd.",
+        "Til sammen fire ble undersøkt av helsepersonell. – Én person er sendt til sykehus, mens de andre er blitt undersøkt på stedet og virker å ha det bra, sier medieansvarlig i Bodø/Glimt, Simen Pedersen, til NRK.",
+        "Ifølge avisen Nordlys var det om lag 600 tilskuere på bortetribunen. «Vi har hatt en alvorlig hendelse på bortetribunen i forbindelse med kampen mellom TIL og Bodø/Glimt.",
+        "Til NRK sier Tromsøs daglige leder William Frantzen: – Vi har hatt en alvorlig hendelse på bortetribunen i dag i kampen mellom TIL og Bodø/Glimt."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/tromso-bodo_glimt-stoppet-1.18076852",
+      "url": "https://www.nrk.no/sport/tromso---bodo_glimt-stoppet-etter-dramatikk-pa-bortetribunen-_-en-person-ble-sendt-til-sykehus-1.18076852",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/RJOuP52X-ooEQDG8OA6AhwXeTaktUvG7AwcW1U2lB1Lw.jpg",
-      "localImage": "assets/news/4865f67076c24f.jpg",
-      "score": 13
-    },
-    {
-      "id": "9b49de453763c9",
-      "category": "Norge",
-      "published": "08.11. 15:21",
-      "publishedISO": "2026-11-08T15:21:30+01:00",
-      "title": "Tromsø-Bodø/Glimt stoppet",
-      "summary": "Flere personer skal ha falt gjennom tribunen. Én person er sendt til sykehus for videre undersøkelser. Til NRK sier Tromsøs daglige leder William Frantzen: – Vi har hatt en alvorlig hendelse på bortetribunen i dag i kampen mellom TIL og Bodø/Glimt. Det er i samråd med NFF, bortelag, bortesupportere, Politi og egen arrangørstab besluttet at kampen skal starte opp igjen kl.16.00.» Var du til stede på kampen og så hva som skjedde?",
-      "keyPoints": [
-        "Til NRK sier Tromsøs daglige leder William Frantzen: – Vi har hatt en alvorlig hendelse på bortetribunen i dag i kampen mellom TIL og Bodø/Glimt.",
-        "Flere personer skal ha falt gjennom tribunen. Én person er sendt til sykehus for videre undersøkelser.",
-        "Det er i samråd med NFF, bortelag, bortesupportere, Politi og egen arrangørstab besluttet at kampen skal starte opp igjen kl.16.00.» Var du til stede på kampen og så hva som skjedde?",
-        "Det var etter 41 minutters spill at det oppsto dramatiske scener."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/tromso-bodo_glimt-stoppet-1.18076852",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/RJOuP52X-ooEQDG8OA6AhwXeTaktUvG7AwcW1U2lB1Lw.jpg",
-      "localImage": "assets/news/9b49de453763c9.jpg",
-      "score": 13
+      "localImage": "assets/news/ce1fb1e505bf19.jpg",
+      "score": 12
     }
   ]
 }
