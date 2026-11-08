@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.11.2026 kl. 03:41",
-  "updatedISO": "2026-11-08T03:41:11.962797+01:00",
+  "updatedAt": "08.11.2026 kl. 10:31",
+  "updatedISO": "2026-11-08T10:31:13.810711+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/AlIBbqUlWkIA_mFxz10-BQ7yxpXsYxo4Z-Tr3TULqJEQ.jpg",
       "localImage": "assets/news/d96e559e7b9164.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "8f2ca99d610500",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4aee436d-5a37-3ce2-aaef-8170b248bf7f?fit=crop&h=675&upscale=true&w=1200&s=75340f1d15160d3a643f92614241e1f16d018210",
       "localImage": "assets/news/8f2ca99d610500.jpg",
-      "score": 19
+      "score": 17
     },
     {
       "id": "5b927a23f50311",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2f90a2c0-06c7-38fa-9eb7-ea6b889a6afc?fit=crop&h=675&upscale=true&w=1200&s=944629e7bd1c9a01a699e9cb0ad5cd8cf2e5e6ac",
       "localImage": "assets/news/5b927a23f50311.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "401863f22fddf3",
@@ -85,7 +85,91 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Mcr7htWX8zWd92DF3nifNQkgsQsx5DzuCI61bV8SdTPA.jpg",
       "localImage": "assets/news/401863f22fddf3.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "7c876518e20ce2",
+      "category": "Norge",
+      "published": "08.11. 09:20",
+      "publishedISO": "2026-11-08T09:20:18+01:00",
+      "title": "Natt til søndag: Ødela politibil",
+      "summary": "Natt til søndag ble også en hendelsesrik natt for politiet. Etter en allerede travel natt til lørdag, fortsatte oppdragene å hope seg opp rundt om i fylket. Flere personer gikk til angrep på patruljen og ødela en politibil.",
+      "keyPoints": [
+        "Natt til søndag ble også en hendelsesrik natt for politiet.",
+        "Flere personer gikk til angrep på patruljen og ødela en politibil.",
+        "Etter en allerede travel natt til lørdag, fortsatte oppdragene å hope seg opp rundt om i fylket.",
+        "På Senja rykket politiet ut til en bilulykke hvor en bil hadde kjørt av veien og havnet på taket."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/natt-til-sondag_-odela-politibil-1.18076724",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/AeS1Bvca5oHfqziUbr6tsgmVrVvRo_SCcj-BTYh8oczQ.jpg",
+      "localImage": "assets/news/7c876518e20ce2.jpg",
+      "score": 13
+    },
+    {
+      "id": "cf501e14cc3caa",
+      "category": "Norge",
+      "published": "08.11. 08:49",
+      "publishedISO": "2026-11-08T08:49:41+01:00",
+      "title": "Utelivsbråk i Trøndelag i natt: Ti personar innbrakt til arresten",
+      "summary": "POLITIARREST: Mange blei tatt med i politiarrest i løpet av natta. – Det har vore ei grei natt, men det er ein del som er innbrakt i forbinding med ordensforstyrringar. I politiet sin presseteneste opplyste operasjonsleiar Svein Erik Wagnild om at ein mann blei køyrd i politiarrest like over midnatt. – Han klarte ikkje å oppføre seg, samt at han nektar å oppgi personalia, skreiv Wagnild. – To menn innbrakt til politiarrest etter at dei blei påtrefte i sentrum etter at dei tidlegare blei bortvist. Like etter rykka politiet ut til bråk utanfor ein utestad i Trondheim sentrum. – Ein mann i slutten av tenåra innbrakt til politiarrest etter at han slost med andre utanfor utestad.",
+      "keyPoints": [
+        "POLITIARREST: Mange blei tatt med i politiarrest i løpet av natta. – Det har vore ei grei natt, men det er ein del som er innbrakt i forbinding med ordensforstyrringar.",
+        "I politiet sin presseteneste opplyste operasjonsleiar Svein Erik Wagnild om at ein mann blei køyrd i politiarrest like over midnatt. – Han klarte ikkje å oppføre seg, samt at han nektar å oppgi personalia, skreiv Wagnild. – To menn innbrakt til politiarrest etter at dei blei påtrefte i sentrum etter at dei tidlegare blei bortvist.",
+        "Like etter rykka politiet ut til bråk utanfor ein utestad i Trondheim sentrum. – Ein mann i slutten av tenåra innbrakt til politiarrest etter at han slost med andre utanfor utestad.",
+        "Politiet fortel om fleire ordensforstyrringar natt til søndag."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/utelivsbrak-i-trondelag-i-natt_-ti-personar-innbrakt-til-arresten-1.18076719",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Abjtc8e1TkCC66lHRuKnwwWhsmy3aBLX1bq6a9jcgj_A.jpg",
+      "localImage": "assets/news/cf501e14cc3caa.jpg",
+      "score": 13
+    },
+    {
+      "id": "49271ecc228e4e",
+      "category": "Norge",
+      "published": "08.11. 08:40",
+      "publishedISO": "2026-11-08T08:40:56+01:00",
+      "title": "Laurdagsnatt med spark, slag, basketak og truslar",
+      "summary": "I Kirkenes måtte ein mann forlate sentrum etter å hamna i basketak utanfor puben i byen. Litt etter halv to melde politiet at ein mann i 40-åra blei bortvist frå Hammerfest sentrum fram til kl. I Kirkenes var det eit lite basketak utanfor puben i byen.",
+      "keyPoints": [
+        "I Kirkenes måtte ein mann forlate sentrum etter å hamna i basketak utanfor puben i byen.",
+        "Litt etter halv to melde politiet at ein mann i 40-åra blei bortvist frå Hammerfest sentrum fram til kl.",
+        "Like etter klokka 02:00 kom ein patrulje i Alta over ein overstadig rusa mann i sentrum.",
+        "Ein mann i 50-åra blei pålagt forlate sentrum fram til 08:00."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/laurdagsnatt-med-spark_-slag_-basketak-og-truslar-1.18076707",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/kwALhWyXqJxJUKGzEZzAsgTmc0MWMkB_cjmV2ijSagoA.jpg",
+      "localImage": "assets/news/49271ecc228e4e.jpg",
+      "score": 13
+    },
+    {
+      "id": "1fae07b4e2c13d",
+      "category": "Norge",
+      "published": "08.11. 07:37",
+      "publishedISO": "2026-11-08T07:37:15+01:00",
+      "title": "Barneombudet reagerer på hijabbruk i barnebok",
+      "summary": "REAGERER: Flere reagerer på at små jenter er illustrert med hijab i læreboka for seksåringer. Barneombudet understreker at det ikke er selve barneboka hun mener er skadelig. – Her er det mange måter å praktisere dette på, noe som bør speiles i læringsmateriell. Organisasjonen er enig med barneombudet i at lærebøker bør gjenspeile mangfoldet blant muslimske barn. – Illustrasjonene viser noen muslimske barn i ulike situasjoner, og hijab ble brukt som et synlig religiøst uttrykk i disse illustrasjonene.",
+      "keyPoints": [
+        "Organisasjonen er enig med barneombudet i at lærebøker bør gjenspeile mangfoldet blant muslimske barn. – Illustrasjonene viser noen muslimske barn i ulike situasjoner, og hijab ble brukt som et synlig religiøst uttrykk i disse illustrasjonene.",
+        "REAGERER: Flere reagerer på at små jenter er illustrert med hijab i læreboka for seksåringer.",
+        "Barneombudet understreker at det ikke er selve barneboka hun mener er skadelig. – Her er det mange måter å praktisere dette på, noe som bør speiles i læringsmateriell.",
+        "Sydney Sunsfjord synes illustrasjonene er hyggelige. – Det er ikke noe jeg reagerer på."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/stor-oslo/barneombudet-reagerer-pa-hijabbruk-i-barnebok-1.18072080",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/glL3AsLt_PK_IVtDH_h0Vw2BRRuyPHJMfrua2OGsjxLg.jpg",
+      "localImage": "assets/news/1fae07b4e2c13d.jpg",
+      "score": 13
     },
     {
       "id": "f25bed29f35410",
@@ -106,112 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/0hCNpWg_H8kRMKCZlzIpKQ1uSgxJ0X0xCv5pDfcDmu3Q.jpg",
       "localImage": "assets/news/f25bed29f35410.jpg",
-      "score": 14
-    },
-    {
-      "id": "fc6148232d717c",
-      "category": "Økonomi",
-      "published": "06.11. 07:18",
-      "publishedISO": "2026-11-06T07:18:01+01:00",
-      "title": "Elon Musks formue barbert med 690 milliarder – på én dag",
-      "summary": "Elon Musk gikk inn i torsdagens handel med en formue på 864,6 milliarder dollar, ifølge Bloomberg Billionaires Index. Da børsdagen var over, var rundt 74 milliarder dollar barbert bort. Til sammen har nær 107 milliarder dollar av Musks formue forduftet i løpet av de to handelsdagene etter mellomvalget i USA.",
-      "keyPoints": [
-        "Elon Musk gikk inn i torsdagens handel med en formue på 864,6 milliarder dollar, ifølge Bloomberg Billionaires Index.",
-        "Til sammen har nær 107 milliarder dollar av Musks formue forduftet i løpet av de to handelsdagene etter mellomvalget i USA.",
-        "Da børsdagen var over, var rundt 74 milliarder dollar barbert bort.",
-        "New York Times anslår at han brukte 474 millioner dollar, rundt 4,4 milliarder kroner, på republikanske kandidater og politiske grupper i valgperioden."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/MAx6Wm/elon-musks-formue-barbert-med-690-milliarder-paa-en-dag",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/03c96720-d4eb-3dce-bc0f-cabea94bf64b?fit=crop&h=675&upscale=true&w=1200&s=680b52ee0992bf673bbcdf33e025c6738ffab3ea",
-      "localImage": "assets/news/fc6148232d717c.jpg",
       "score": 13
-    },
-    {
-      "id": "55a8535d121017",
-      "category": "Norge",
-      "published": "07.11. 21:45",
-      "publishedISO": "2026-11-07T21:45:20+01:00",
-      "title": "Ny studie fra Tromsø og Bergen: 98 prosent av avfallet hos tannlegestudentene er plast",
-      "summary": "Ny forskning fra UiT Norges arktiske universitet og Universitetet i Bergen har sett på avfallet fra tannlegestudentenes klinikker i Tromsø og Bergen. Den viser at 98 prosent av avfallet er plastbasert. – Det var oppsiktsvekkende mye engangsplast, sier Margit Hågå, ph.d.-student ved Universitetet i Tromsø og en av forskerne bak studien. Hågå forteller at det i snitt brukes fire plastkopper per pasient i Bergen og opptil 17 munnbind ved én fylling i Tromsø.",
-      "keyPoints": [
-        "Den viser at 98 prosent av avfallet er plastbasert. – Det var oppsiktsvekkende mye engangsplast, sier Margit Hågå, ph.d.-student ved Universitetet i Tromsø og en av forskerne bak studien.",
-        "Ny forskning fra UiT Norges arktiske universitet og Universitetet i Bergen har sett på avfallet fra tannlegestudentenes klinikker i Tromsø og Bergen.",
-        "Hågå forteller at det i snitt brukes fire plastkopper per pasient i Bergen og opptil 17 munnbind ved én fylling i Tromsø.",
-        "BOSS: – Vi har et yrke som er innpakka i plast, det er det ingen tvil om, sier Margit Hågå som forsker på tannhelse og miljø."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/ny-studie-fra-tromso-og-bergen_-98-prosent-av-avfallet-hos-tannlegestudentene-er-plast-1.18076514",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UHqUcB5S97u-e0-Ht--WNQlQKd-fdnRv5sUnmp2RAwSg.jpg",
-      "localImage": "assets/news/55a8535d121017.jpg",
-      "score": 12
-    },
-    {
-      "id": "2c837e670ccfcb",
-      "category": "Økonomi",
-      "published": "07.11. 21:04",
-      "publishedISO": "2026-11-07T21:04:45+01:00",
-      "title": "To bilforhandlere har gått konkurs",
-      "summary": "Både Elverum Auto og Slatlem Trondheim har meldt konkurs. To bilforhandlere i Slatlem-konsernet er meldt konkurs torsdag. I tillegg til Elverum Auto ble det også åpnet konkurs i Slatlem Trondheim torsdag.",
-      "keyPoints": [
-        "To bilforhandlere i Slatlem-konsernet er meldt konkurs torsdag.",
-        "Både Elverum Auto og Slatlem Trondheim har meldt konkurs.",
-        "Fjorårets regnskap viser et millionunderskudd på 7,3 millioner kroner i resultat før skatt, til tross for en omsetning på 104,9 millioner kroner.",
-        "16,5 millioner kroner i gjeld og 2,2 millioner kroner i verdier i boet. – Vi holder på med registrering av eiendeler og verdier."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/2VLR64/to-bilforhandlere-har-gaatt-konkurs",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/43c050ae-cd08-3a3a-863d-bef9fd9e4fe1?fit=crop&h=675&upscale=true&w=1200&s=5b66cd1251594bcb713386522770cc58608f7037",
-      "localImage": "assets/news/2c837e670ccfcb.jpg",
-      "score": 12
-    },
-    {
-      "id": "03d0c7743837d7",
-      "category": "Norge",
-      "published": "07.11. 20:25",
-      "publishedISO": "2026-11-07T20:25:54+01:00",
-      "title": "Premier League: Kjempesmell for Erling Braut Haaland og Manchester City mot Nottingham Forest",
-      "summary": "Erling Braut Haalands sjef har mye å finne ut av etter å ha sett laget sitt slite mot Nottingham Forest. MÅLLØS: Erling Braut Haaland har ikke scoret på fem kamper mot Nottingham Forest. TV-kameraene fanget opp Erling Braut Haaland da Nottingham Forest rystet City og gikk opp til 2–0 i første omgang.",
-      "keyPoints": [
-        "TV-kameraene fanget opp Erling Braut Haaland da Nottingham Forest rystet City og gikk opp til 2–0 i første omgang.",
-        "MÅLLØS: Erling Braut Haaland har ikke scoret på fem kamper mot Nottingham Forest.",
-        "Erling Braut Haalands sjef har mye å finne ut av etter å ha sett laget sitt slite mot Nottingham Forest.",
-        "Før oppgjøret lå Manchester City på andreplass i Premier League, på jakt etter å holde følge med Arsenal på topp."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/premier-league_-kjempesmell-for-erling-braut-haaland-og-manchester-city-mot-nottingham-forest-1.18076577",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/OEGXmRxMV3uKmAtpEEbaJgifXhdsPOgOo2ryqv3Nq0fw.jpg",
-      "localImage": "assets/news/03d0c7743837d7.jpg",
-      "score": 12
-    },
-    {
-      "id": "12fc7e479f5049",
-      "category": "Norge",
-      "published": "07.11. 19:36",
-      "publishedISO": "2026-11-07T19:36:21+01:00",
-      "title": "Ni drept i Krakow – statsministeren kaller skytingen terror",
-      "summary": "Minst seks personer ble drept i skyting på hovedtorget i Krakow. Foto: Reuters Minst seks personer er drept i angrepet som skjedde lørdag ettermiddag i 15-tiden på hovedtorget i Krakow opplyser politiet på X. Foto: Reuters Ifølge politiet er det fire kvinner og to menn som er drept i skytingen på torget i Krakow.",
-      "keyPoints": [
-        "Foto: Reuters Ifølge politiet er det fire kvinner og to menn som er drept i skytingen på torget i Krakow.",
-        "Foto: Reuters Minst seks personer er drept i angrepet som skjedde lørdag ettermiddag i 15-tiden på hovedtorget i Krakow opplyser politiet på X.",
-        "SKYTING: Nødetatene arbeider i Krakow sentrum der minst seks personer ble drept etter skyting lørdag ettermiddag.",
-        "Statsminister Jonas Gahr Støre (Ap) sender sine kondolanser etter skytingen i Polen. – Min dypeste medfølelse går til ofrene, pårørende og alle dem som er berørt av den forferdelige skytingen i Krakow, skriver Støre på X. – Mine tanker går også til alle fra Polen som bor og lever i Norge."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/ni-drept-i-krakow-statsministeren-kaller-skytingen-terror-1532407",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/MT1FGs1lcEPC7uH2vMozyQsd9jM2RxpROVjnxj0jWc-Q",
-      "localImage": "assets/news/12fc7e479f5049.jpg",
-      "score": 12
     }
   ]
 }
