@@ -1,90 +1,27 @@
 {
-  "updatedAt": "09.11.2026 kl. 01:04",
-  "updatedISO": "2026-11-09T01:04:49.900647+01:00",
+  "updatedAt": "09.11.2026 kl. 07:30",
+  "updatedISO": "2026-11-09T07:30:39.577984+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "a43e5a86629ab5",
-      "category": "Nord-Norge",
-      "published": "08.11. 15:16",
-      "publishedISO": "2026-11-08T15:16:55+01:00",
-      "title": "Kamp stoppet etter dramatikk på tribunen – spillerne sendt i garderoben",
-      "summary": "Kampen mellom Tromsø og Bodø/Glimt ble stoppet etter en hendelse på bortetribunen. En ambulanse rykket til stedet, og begge lagene ble sendt i garderoben. Dommer Ola Hobber Nilsen valgte deretter å sende begge lagene i garderoben.",
-      "keyPoints": [
-        "En ambulanse rykket til stedet, og begge lagene ble sendt i garderoben.",
-        "Dommer Ola Hobber Nilsen valgte deretter å sende begge lagene i garderoben.",
-        "Kampen mellom Tromsø og Bodø/Glimt ble stoppet etter en hendelse på bortetribunen.",
-        "Hjelpemannskaper rykket raskt til og tok seg inn under tribunen for å bistå."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/kamp-stoppet-etter-dramatikk-pa-tribunen-_-spillerne-sendt-i-garderoben-1.18076868",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/m14f0ew3TfyQPg1GpyRHGAEQvCyctKf5VHQZ-QWBh_aw.jpg",
-      "localImage": "assets/news/a43e5a86629ab5.jpg",
-      "score": 12
-    },
-    {
-      "id": "90c2b26c361684",
+      "id": "bb9ccc6235c8dc",
       "category": "Norge",
-      "published": "08.11. 14:51",
-      "publishedISO": "2026-11-08T14:51:22+01:00",
-      "title": "Fryktar oljeutvinning nær iskanten – vil ha meir kunnskap",
-      "summary": "Havforskingsinstituttet fryktar at oljeverksemd på Wisting-feltet kan ramme ein sårbar del av økosystemet i Barentshavet. Difor vil HI ha meir utfyllande beskrivingar av risikoen i slike tilfelle. – Produsert vatn høyrest veldig reint og fint ut, men i vatnet er det lov å ha oljevedheng. Sanden viser til at det ha vore problem at har vore problem på Johan Castberg-feltet med denne reinseteknologien. – Der har det vore meir utslepp enn det som var planlagt.",
+      "published": "09.11. 07:06",
+      "publishedISO": "2026-11-09T07:06:29+01:00",
+      "title": "Nytt badeanlegg snart klart: – Fyller 900 kubikkmeter med vann denne uka",
+      "summary": "UTBYGGING: Bassenget i fjellhallen i Gjøvik er foreløpig tomt, men løpet av kort tid skal både dette og et mindre basseng i hallen fylles med nesten 1000 liter vann. Det neste som står på agendaen er å fylle opp bassengene. – Det er vel rundt 900 kubikkmeter som trengs for å fylle opp begge bassengene, sier prosjektsjef i Gjøvik, Kennet SkjærbekkDet tilsier 900 tusen liter med vann som skal i bassengene i fjellhallen. Foto: Sivert Stensrud / NRK Da utbyggingen av svømmehallen skulle starte i Røverdalen var den estimerte prisen på nytt anlegg 110 millioner kroner.",
       "keyPoints": [
-        "Havforskingsinstituttet fryktar at oljeverksemd på Wisting-feltet kan ramme ein sårbar del av økosystemet i Barentshavet.",
-        "Sanden viser til at det ha vore problem at har vore problem på Johan Castberg-feltet med denne reinseteknologien. – Der har det vore meir utslepp enn det som var planlagt.",
-        "Difor vil HI ha meir utfyllande beskrivingar av risikoen i slike tilfelle. – Produsert vatn høyrest veldig reint og fint ut, men i vatnet er det lov å ha oljevedheng.",
-        "Forskingssjef Monica Sanden i Havforskingsinstituttet seier Wisting-feltet vil vere eit av dei nordlegaste oljefelta i verda dersom det kjem i gang."
+        "Det neste som står på agendaen er å fylle opp bassengene. – Det er vel rundt 900 kubikkmeter som trengs for å fylle opp begge bassengene, sier prosjektsjef i Gjøvik, Kennet SkjærbekkDet tilsier 900 tusen liter med vann som skal i bassengene i fjellhallen.",
+        "UTBYGGING: Bassenget i fjellhallen i Gjøvik er foreløpig tomt, men løpet av kort tid skal både dette og et mindre basseng i hallen fylles med nesten 1000 liter vann.",
+        "Foto: Sivert Stensrud / NRK Da utbyggingen av svømmehallen skulle starte i Røverdalen var den estimerte prisen på nytt anlegg 110 millioner kroner.",
+        "Politikerne fikk endelig se prosjektet som skal gi Gjøvik et nytt basseng, syv år etter at det opprinnelige bassenget ble stengt i 2019."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/fryktar-oljeutvinning-naer-iskanten-_-vil-ha-meir-kunnskap-1.18076445",
+      "url": "https://www.nrk.no/artikkel/nytt-badeanlegg-snart-klart-fyller-900-kubikkmeter-med-vann-denne-uka-1532195",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Ixsi1oWvKPBUuf4wb1EbAAuRde3Q_1th6AMwvieFku3A.jpg",
-      "localImage": "assets/news/90c2b26c361684.jpg",
-      "score": 14
-    },
-    {
-      "id": "02eac8130d8f69",
-      "category": "Verden",
-      "published": "09.11. 00:34",
-      "publishedISO": "2026-11-09T00:34:18+01:00",
-      "title": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life'",
-      "summary": "Se: Legen som behandlet ofre for skyting i Krakow snakker til BBC. En av to kirurger som behandlet ofre på gata i kjølvannet av et masseskyting i Krakow, Polen sa at hans kollega \"utvilsomt\" reddet livet til en alvorlig skadet politimann. Undersøkelsene fortsatte i sentrale Krakow søndag før hovedtorget åpnet igjen. James McConnell, en offiser, fortalte RTE News at gruppen var på storbyferie og var nær hovedtorget, eksternt da skytingen skjedde. Stortorget åpnet igjen søndag kveld etter at en sikkerhetssperre ble opphevet. \"Jeg så ambulanser og væpnet politi\": BBC-korrespondent i Krakow Moment politibetjent ser ut til å skyte Krakow-mistenkte",
-      "keyPoints": [
-        "Se: Legen som behandlet ofre for skyting i Krakow snakker til BBC. En av to kirurger som behandlet ofre på gata i kjølvannet av et masseskyting i Krakow, Polen sa at hans kollega \"utvilsomt\" reddet livet til en alvorlig skadet politimann.",
-        "Undersøkelsene fortsatte i sentrale Krakow søndag før hovedtorget åpnet igjen. James McConnell, en offiser, fortalte RTE News at gruppen var på storbyferie og var nær hovedtorget, eksternt da skytingen skjedde.",
-        "Stortorget åpnet igjen søndag kveld etter at en sikkerhetssperre ble opphevet. \"Jeg så ambulanser og væpnet politi\": BBC-korrespondent i Krakow Moment politibetjent ser ut til å skyte Krakow-mistenkte",
-        "Pędziwiatr sa at de kom for å få vite at en av dem de behandlet var den tilsynelatende angriperen. \"Som lege... spiller det ingen rolle for meg om det er et offer eller en mistenkt,\" sa han. \"Det er ikke vår oppgave å bestemme hva vi skal gjøre med denne fyren... for oss var det nok et hardt skadet offer, det er alt.\" Ifølge lokale medier er Wierdak en anerkjent kirurg i Krakow."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
-      "localImage": "assets/news/02eac8130d8f69.jpg",
-      "score": 13
-    },
-    {
-      "id": "ee3ade6bcf4388",
-      "category": "USA",
-      "published": "08.11. 01:31",
-      "publishedISO": "2026-11-08T01:31:53+01:00",
-      "title": "'Please take the job!' - Trump asks UFC boss Dana White to be White House press secretary",
-      "summary": "Stillingen som pressesekretær i Det hvite hus har vært åpen siden midten av oktober, da Katie Zacharia sluttet mindre enn fem dager etter jobben. Etter Trumps innlegg la White ut et Instagram-bilde av seg selv bak talerstolen i pressekonferanserommet i Det hvite hus. \"Videre til neste kapittel,\" skrev White, selv om det var uklart om innlegget var tungen i kinnet. \"Held yeah! Katie Zacharia forlater rollen i Det hvite hus mindre enn fem dager på jobb UFC taper $30 millioner på Freedom 250-arrangementet i Det hvite hus Trump og tusenvis av andre ser UFC-kampen på plenen i Det hvite hus",
-      "keyPoints": [
-        "Katie Zacharia leaving White House role less than five days into job UFC loses $30m on Freedom 250 event at White House Trump and thousands of others watch UFC fight on White House lawn",
-        "Stillingen som pressesekretær i Det hvite hus har vært åpen siden midten av oktober, da Katie Zacharia sluttet mindre enn fem dager etter jobben.",
-        "Etter Trumps innlegg la White ut et Instagram-bilde av seg selv bak talerstolen i pressekonferanserommet i Det hvite hus. \"Videre til neste kapittel,\" skrev White, selv om det var uklart om innlegget var tungen i kinnet. \"Helvete ja!",
-        "Presidenten kalte White «en voldelig fighter og kriger» og ba om at han skulle ta med seg en rekke høyprofilerte UFC-krigere på jobben «selv om noen ikke er fra vårt land». «Vi trenger disse menneskene for å forsvare oss mot den gale venstresiden», skrev Trump sammen med bilder av de seks krigere."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg",
-      "localImage": "assets/news/ee3ade6bcf4388.jpg",
+      "image": "https://gfx.nrk.no/RWQrqzCpw1r36l708mgvygmpElmenVUXjWdzeDuS0HGg",
+      "localImage": "assets/news/bb9ccc6235c8dc.jpg",
       "score": 13
     },
     {
@@ -106,7 +43,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/88dccffd-e2a7-3535-8d6b-a5c61525a6e6?fit=crop&h=675&upscale=true&w=1200&s=38f37b50115a4e6852fe1f1d94820b45d1ee7a33",
       "localImage": "assets/news/a259b8aa858608.jpg",
-      "score": 17
+      "score": 15
+    },
+    {
+      "id": "90f41903ef8db7",
+      "category": "Økonomi",
+      "published": "09.11. 05:00",
+      "publishedISO": "2026-11-09T05:00:00+01:00",
+      "title": "«Real Cash Out»",
+      "summary": "De neste sju månedene ble fire personer pågrepet i saken. Én av dem skjulte seg bak navnet «Real Cash Out» - som på norsk betyr ekte penger ut - på den krypterte meldingstjenesten Signal. Svensk politi mener han er et eksempel på en type kriminell som har blitt stadig viktigere i de voldelige gjengene. «Real Cash Out» er aliaset til en nå 35 år gammel mann fra Helsingborg i Sverige. I en kartlegging av Abdos nettverk gjort av svensk politi nevnes 35-åringen flere ganger, og Abdo henvender seg også direkte til «Real Cash Out» på Signal.",
+      "keyPoints": [
+        "Svensk politi mener han er et eksempel på en type kriminell som har blitt stadig viktigere i de voldelige gjengene. «Real Cash Out» er aliaset til en nå 35 år gammel mann fra Helsingborg i Sverige.",
+        "De neste sju månedene ble fire personer pågrepet i saken. Én av dem skjulte seg bak navnet «Real Cash Out» - som på norsk betyr ekte penger ut - på den krypterte meldingstjenesten Signal.",
+        "I en kartlegging av Abdos nettverk gjort av svensk politi nevnes 35-åringen flere ganger, og Abdo henvender seg også direkte til «Real Cash Out» på Signal.",
+        "I tingretten forklarte «Real Cash Out» at han trodde oppdraget i Moss dreide seg om økonomisk kriminalitet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/gk59BL/real-cash-out",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/e3e94458-7880-338f-8c4f-a21f2eafa5f5?fit=crop&h=675&upscale=true&w=1200&s=8aa9c329af5c52d261dff48d3b6b67bc8e360275",
+      "localImage": "assets/news/90f41903ef8db7.jpg",
+      "score": 13
+    },
+    {
+      "id": "90c2b26c361684",
+      "category": "Norge",
+      "published": "08.11. 14:51",
+      "publishedISO": "2026-11-08T14:51:22+01:00",
+      "title": "Fryktar oljeutvinning nær iskanten – vil ha meir kunnskap",
+      "summary": "Havforskingsinstituttet fryktar at oljeverksemd på Wisting-feltet kan ramme ein sårbar del av økosystemet i Barentshavet. Difor vil HI ha meir utfyllande beskrivingar av risikoen i slike tilfelle. – Produsert vatn høyrest veldig reint og fint ut, men i vatnet er det lov å ha oljevedheng. Sanden viser til at det ha vore problem at har vore problem på Johan Castberg-feltet med denne reinseteknologien. – Der har det vore meir utslepp enn det som var planlagt.",
+      "keyPoints": [
+        "Havforskingsinstituttet fryktar at oljeverksemd på Wisting-feltet kan ramme ein sårbar del av økosystemet i Barentshavet.",
+        "Sanden viser til at det ha vore problem at har vore problem på Johan Castberg-feltet med denne reinseteknologien. – Der har det vore meir utslepp enn det som var planlagt.",
+        "Difor vil HI ha meir utfyllande beskrivingar av risikoen i slike tilfelle. – Produsert vatn høyrest veldig reint og fint ut, men i vatnet er det lov å ha oljevedheng.",
+        "Forskingssjef Monica Sanden i Havforskingsinstituttet seier Wisting-feltet vil vere eit av dei nordlegaste oljefelta i verda dersom det kjem i gang."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/fryktar-oljeutvinning-naer-iskanten-_-vil-ha-meir-kunnskap-1.18076445",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Ixsi1oWvKPBUuf4wb1EbAAuRde3Q_1th6AMwvieFku3A.jpg",
+      "localImage": "assets/news/90c2b26c361684.jpg",
+      "score": 13
     },
     {
       "id": "8f2ca99d610500",
@@ -127,48 +106,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4aee436d-5a37-3ce2-aaef-8170b248bf7f?fit=crop&h=675&upscale=true&w=1200&s=75340f1d15160d3a643f92614241e1f16d018210",
       "localImage": "assets/news/8f2ca99d610500.jpg",
-      "score": 14
-    },
-    {
-      "id": "04938599e3d6a1",
-      "category": "AI",
-      "published": "08.11. 01:37",
-      "publishedISO": "2026-11-08T01:37:45+01:00",
-      "title": "Ocarina of Time review: Does Nintendo's Zelda remake match its original?",
-      "summary": "The Legend of Zelda: Ocarina of Time ble endelig sluppet torsdag, etter årevis med rykter om at Nintendo skulle lage spillet på nytt – regnet som et av de beste som noen gang er laget. SE: Legend of Zelda: Ocarina of Time - hvordan remaken sammenligner med originalen De som meg som vokste opp med å spille originalen vil føle seg hjemme her. Jeg tror ikke utviklerne ser det slik. \"Selv om spillet kan se annerledes ut, har vi beholdt essensen som de originale utviklerne ønsket og forhåpentligvis formidlet gjennom den originale Ocarina of Time,\" sa Fujibayashi.",
-      "keyPoints": [
-        "The Legend of Zelda: Ocarina of Time ble endelig sluppet torsdag, etter årevis med rykter om at Nintendo skulle lage spillet på nytt – regnet som et av de beste som noen gang er laget.",
-        "SE: Legend of Zelda: Ocarina of Time - hvordan remaken sammenligner med originalen De som meg som vokste opp med å spille originalen vil føle seg hjemme her.",
-        "Jeg tror ikke utviklerne ser det slik. \"Selv om spillet kan se annerledes ut, har vi beholdt essensen som de originale utviklerne ønsket og forhåpentligvis formidlet gjennom den originale Ocarina of Time,\" sa Fujibayashi.",
-        "Mange av tingene vi tar for gitt i moderne spill – som å ri på hest, slåss med et sverd og skjold, eller låse fast på fiender med et knappetrykk – ble banebrytende eller perfeksjonert i Ocarina of Time."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
-      "localImage": "assets/news/04938599e3d6a1.jpg",
-      "score": 13
-    },
-    {
-      "id": "e39cf8b1c6e585",
-      "category": "Verden",
-      "published": "08.11. 22:37",
-      "publishedISO": "2026-11-08T22:37:36+01:00",
-      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
-      "summary": "Aramco Tower, en skyskraper i den saudiarabiske hovedstadens sentrale finansdistrikt, hadde blitt rammet av et luftangrep. Det saudiske energidepartementet sa at tårnet bare hadde fått «mindre skader» og at ingen ble drept eller skadet. Houthiene sa også at Riyadhs flyplass og Aramco-oljelagringsanlegg var målrettet i separate streiker.",
-      "keyPoints": [
-        "Aramco Tower, en skyskraper i den saudiarabiske hovedstadens sentrale finansdistrikt, hadde blitt rammet av et luftangrep.",
-        "Houthiene sa også at Riyadhs flyplass og Aramco-oljelagringsanlegg var målrettet i separate streiker.",
-        "Det saudiske energidepartementet sa at tårnet bare hadde fått «mindre skader» og at ingen ble drept eller skadet.",
-        "Houthiene sa at de gjengjeldte det de har kalt en Saudi-blokade av deres territorium, samt et luftangrep på Sanaa-flyplassen Saudi-Arabia sa hadde vært for å hindre et iransk fly fra å lande der."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
-      "localImage": "assets/news/e39cf8b1c6e585.png",
       "score": 13
     },
     {
@@ -190,28 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7a3bf621-79a3-3a30-a1ef-6f57df1d677f?fit=crop&h=675&upscale=true&w=1200&s=6512403bbf872a58a044a4063780ddb177b1efdb",
       "localImage": "assets/news/a65fe7aa6d0070.jpg",
-      "score": 13
-    },
-    {
-      "id": "7e54de8ef2f3a0",
-      "category": "Verden",
-      "published": "08.11. 20:58",
-      "publishedISO": "2026-11-08T20:58:02+01:00",
-      "title": "Sju døde og over 100 skadde etter at tog kolliderte i Egypt",
-      "summary": "Opptak viser avsporede togvogner nær Giza i Egypt. Minst syv mennesker har omkommet i en togulykke nær den egyptiske byen Giza, med mer enn 100 skadde. Tog mellom Giza og Øvre Egypt-regionen ble suspendert da kraner ble sendt for å fjerne de ødelagte togene. Kollisjonen skjedde i området mellom Kafr Ammar- og Al-Raqqa-stasjonene i Al-Ayyat, like ved der Egypts dødeligste togtragedie skjedde i februar 2002, da en brann oppslukte et passasjertog som reiste fra Kairo til Luxor.",
-      "keyPoints": [
-        "Opptak viser avsporede togvogner nær Giza i Egypt. Minst syv mennesker har omkommet i en togulykke nær den egyptiske byen Giza, med mer enn 100 skadde.",
-        "Tog mellom Giza og Øvre Egypt-regionen ble suspendert da kraner ble sendt for å fjerne de ødelagte togene.",
-        "Kollisjonen skjedde i området mellom Kafr Ammar- og Al-Raqqa-stasjonene i Al-Ayyat, like ved der Egypts dødeligste togtragedie skjedde i februar 2002, da en brann oppslukte et passasjertog som reiste fra Kairo til Luxor.",
-        "Landets jernbanemyndighet sa at to tog som kjørte sørover fra Giza og Kairo kolliderte, noe som førte til at flere vogner sporet av og falt ned en voll."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
-      "localImage": "assets/news/7e54de8ef2f3a0.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
