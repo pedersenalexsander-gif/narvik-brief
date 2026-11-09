@@ -1,6 +1,6 @@
 {
-  "updatedAt": "08.11.2026 kl. 21:35",
-  "updatedISO": "2026-11-08T21:35:51.444519+01:00",
+  "updatedAt": "09.11.2026 kl. 01:04",
+  "updatedISO": "2026-11-09T01:04:49.900647+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -43,7 +43,70 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/Ixsi1oWvKPBUuf4wb1EbAAuRde3Q_1th6AMwvieFku3A.jpg",
       "localImage": "assets/news/90c2b26c361684.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "02eac8130d8f69",
+      "category": "Verden",
+      "published": "09.11. 00:34",
+      "publishedISO": "2026-11-09T00:34:18+01:00",
+      "title": "Poland shooting: Surgeon who assisted wounded police officer 'undoubtedly saved his life'",
+      "summary": "Se: Legen som behandlet ofre for skyting i Krakow snakker til BBC. En av to kirurger som behandlet ofre på gata i kjølvannet av et masseskyting i Krakow, Polen sa at hans kollega \"utvilsomt\" reddet livet til en alvorlig skadet politimann. Undersøkelsene fortsatte i sentrale Krakow søndag før hovedtorget åpnet igjen. James McConnell, en offiser, fortalte RTE News at gruppen var på storbyferie og var nær hovedtorget, eksternt da skytingen skjedde. Stortorget åpnet igjen søndag kveld etter at en sikkerhetssperre ble opphevet. \"Jeg så ambulanser og væpnet politi\": BBC-korrespondent i Krakow Moment politibetjent ser ut til å skyte Krakow-mistenkte",
+      "keyPoints": [
+        "Se: Legen som behandlet ofre for skyting i Krakow snakker til BBC. En av to kirurger som behandlet ofre på gata i kjølvannet av et masseskyting i Krakow, Polen sa at hans kollega \"utvilsomt\" reddet livet til en alvorlig skadet politimann.",
+        "Undersøkelsene fortsatte i sentrale Krakow søndag før hovedtorget åpnet igjen. James McConnell, en offiser, fortalte RTE News at gruppen var på storbyferie og var nær hovedtorget, eksternt da skytingen skjedde.",
+        "Stortorget åpnet igjen søndag kveld etter at en sikkerhetssperre ble opphevet. \"Jeg så ambulanser og væpnet politi\": BBC-korrespondent i Krakow Moment politibetjent ser ut til å skyte Krakow-mistenkte",
+        "Pędziwiatr sa at de kom for å få vite at en av dem de behandlet var den tilsynelatende angriperen. \"Som lege... spiller det ingen rolle for meg om det er et offer eller en mistenkt,\" sa han. \"Det er ikke vår oppgave å bestemme hva vi skal gjøre med denne fyren... for oss var det nok et hardt skadet offer, det er alt.\" Ifølge lokale medier er Wierdak en anerkjent kirurg i Krakow."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg",
+      "localImage": "assets/news/02eac8130d8f69.jpg",
+      "score": 13
+    },
+    {
+      "id": "ee3ade6bcf4388",
+      "category": "USA",
+      "published": "08.11. 01:31",
+      "publishedISO": "2026-11-08T01:31:53+01:00",
+      "title": "'Please take the job!' - Trump asks UFC boss Dana White to be White House press secretary",
+      "summary": "Stillingen som pressesekretær i Det hvite hus har vært åpen siden midten av oktober, da Katie Zacharia sluttet mindre enn fem dager etter jobben. Etter Trumps innlegg la White ut et Instagram-bilde av seg selv bak talerstolen i pressekonferanserommet i Det hvite hus. \"Videre til neste kapittel,\" skrev White, selv om det var uklart om innlegget var tungen i kinnet. \"Held yeah! Katie Zacharia forlater rollen i Det hvite hus mindre enn fem dager på jobb UFC taper $30 millioner på Freedom 250-arrangementet i Det hvite hus Trump og tusenvis av andre ser UFC-kampen på plenen i Det hvite hus",
+      "keyPoints": [
+        "Katie Zacharia leaving White House role less than five days into job UFC loses $30m on Freedom 250 event at White House Trump and thousands of others watch UFC fight on White House lawn",
+        "Stillingen som pressesekretær i Det hvite hus har vært åpen siden midten av oktober, da Katie Zacharia sluttet mindre enn fem dager etter jobben.",
+        "Etter Trumps innlegg la White ut et Instagram-bilde av seg selv bak talerstolen i pressekonferanserommet i Det hvite hus. \"Videre til neste kapittel,\" skrev White, selv om det var uklart om innlegget var tungen i kinnet. \"Helvete ja!",
+        "Presidenten kalte White «en voldelig fighter og kriger» og ba om at han skulle ta med seg en rekke høyprofilerte UFC-krigere på jobben «selv om noen ikke er fra vårt land». «Vi trenger disse menneskene for å forsvare oss mot den gale venstresiden», skrev Trump sammen med bilder av de seks krigere."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8536/live/2fdfe760-dafd-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/ee3ade6bcf4388.jpg",
+      "score": 13
+    },
+    {
+      "id": "a259b8aa858608",
+      "category": "Økonomi",
+      "published": "08.11. 21:15",
+      "publishedISO": "2026-11-08T21:15:28+01:00",
+      "title": "Nvidia frykter toppsjefen ble forført av en spion",
+      "summary": "Toppsjefen i databrikkegiganten Nvidia, Jensen Huang, har innrømmet overfor sine ansatte at han har vært utro mot kona. Huang beklager også overfor kollegene, styret og aksjonærene i Nvidia. – Å lede Nvidia er mitt livs privilegium. Nvidia-styret skriver i en pressemelding søndag at en komité av uavhengige styremedlemmer, bistått av eksterne advokater, skal lede granskingen. – Styret prioriterer USAs nasjonale og økonomiske sikkerhet, som er avgjørende for Nvidia og aksjonærenes interesser, skriver styret.",
+      "keyPoints": [
+        "Toppsjefen i databrikkegiganten Nvidia, Jensen Huang, har innrømmet overfor sine ansatte at han har vært utro mot kona.",
+        "Nvidia-styret skriver i en pressemelding søndag at en komité av uavhengige styremedlemmer, bistått av eksterne advokater, skal lede granskingen. – Styret prioriterer USAs nasjonale og økonomiske sikkerhet, som er avgjørende for Nvidia og aksjonærenes interesser, skriver styret.",
+        "Huang beklager også overfor kollegene, styret og aksjonærene i Nvidia. – Å lede Nvidia er mitt livs privilegium.",
+        "I en uttalelse til de ansatte innrømmer Nvidia-sjef Jensen Huang at han har vært utro mot kona. – Jeg var utro mot min kone."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Jn1Ay8/nvidia-gransker-mulig-spionaksjon-mot-toppsjefen-jeg-var-utro-mot-min-kone-innroemmer-jensen-huang",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/88dccffd-e2a7-3535-8d6b-a5c61525a6e6?fit=crop&h=675&upscale=true&w=1200&s=38f37b50115a4e6852fe1f1d94820b45d1ee7a33",
+      "localImage": "assets/news/a259b8aa858608.jpg",
+      "score": 17
     },
     {
       "id": "8f2ca99d610500",
@@ -64,154 +127,91 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4aee436d-5a37-3ce2-aaef-8170b248bf7f?fit=crop&h=675&upscale=true&w=1200&s=75340f1d15160d3a643f92614241e1f16d018210",
       "localImage": "assets/news/8f2ca99d610500.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "1c70859b329d31",
-      "category": "Økonomi",
-      "published": "08.11. 18:00",
-      "publishedISO": "2026-11-08T18:00:14+01:00",
-      "title": "Meldinger avslører kriminelt nettverk: – Ekstremt provoserende",
-      "summary": "Søndag skrev E24 om et kriminelt nettverk som jobber over landegrensene mellom Norge og Sverige. Nettverket har koblinger til den svenske gjengtoppen Ismail «Jordgubben» AbdoGjengleder som brøt ut av Foxtrot i 2023 og leder det politiet har kalt Rumba-nettverket.. – Det er ekstremt provoserende. Det er også ekstremt provoserende å se at både den tilliten vi som personer og bedrifter har til offentlige og private institusjoner, og den tilliten vi har oss imellom, utnyttes, sier Aas-Hansen. – Det gjør stor skade, og kan gjøre virkelig stor skade, og i verste fall utfordre tilliten vår til velferdsstaten.",
+      "id": "04938599e3d6a1",
+      "category": "AI",
+      "published": "08.11. 01:37",
+      "publishedISO": "2026-11-08T01:37:45+01:00",
+      "title": "Ocarina of Time review: Does Nintendo's Zelda remake match its original?",
+      "summary": "The Legend of Zelda: Ocarina of Time ble endelig sluppet torsdag, etter årevis med rykter om at Nintendo skulle lage spillet på nytt – regnet som et av de beste som noen gang er laget. SE: Legend of Zelda: Ocarina of Time - hvordan remaken sammenligner med originalen De som meg som vokste opp med å spille originalen vil føle seg hjemme her. Jeg tror ikke utviklerne ser det slik. \"Selv om spillet kan se annerledes ut, har vi beholdt essensen som de originale utviklerne ønsket og forhåpentligvis formidlet gjennom den originale Ocarina of Time,\" sa Fujibayashi.",
       "keyPoints": [
-        "Det er også ekstremt provoserende å se at både den tilliten vi som personer og bedrifter har til offentlige og private institusjoner, og den tilliten vi har oss imellom, utnyttes, sier Aas-Hansen. – Det gjør stor skade, og kan gjøre virkelig stor skade, og i verste fall utfordre tilliten vår til velferdsstaten.",
-        "Nettverket har koblinger til den svenske gjengtoppen Ismail «Jordgubben» AbdoGjengleder som brøt ut av Foxtrot i 2023 og leder det politiet har kalt Rumba-nettverket.. – Det er ekstremt provoserende.",
-        "Søndag skrev E24 om et kriminelt nettverk som jobber over landegrensene mellom Norge og Sverige.",
-        "Hun sier saken viser at det er rett av regjeringen å prioritere satsing mot kriminelle nettverk og økonomisk kriminalitet. – Det er en stor bekymring knyttet til det vi ser av bedragerier."
+        "The Legend of Zelda: Ocarina of Time ble endelig sluppet torsdag, etter årevis med rykter om at Nintendo skulle lage spillet på nytt – regnet som et av de beste som noen gang er laget.",
+        "SE: Legend of Zelda: Ocarina of Time - hvordan remaken sammenligner med originalen De som meg som vokste opp med å spille originalen vil føle seg hjemme her.",
+        "Jeg tror ikke utviklerne ser det slik. \"Selv om spillet kan se annerledes ut, har vi beholdt essensen som de originale utviklerne ønsket og forhåpentligvis formidlet gjennom den originale Ocarina of Time,\" sa Fujibayashi.",
+        "Mange av tingene vi tar for gitt i moderne spill – som å ri på hest, slåss med et sverd og skjold, eller låse fast på fiender med et knappetrykk – ble banebrytende eller perfeksjonert i Ocarina of Time."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg",
+      "localImage": "assets/news/04938599e3d6a1.jpg",
+      "score": 13
+    },
+    {
+      "id": "e39cf8b1c6e585",
+      "category": "Verden",
+      "published": "08.11. 22:37",
+      "publishedISO": "2026-11-08T22:37:36+01:00",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Aramco Tower, en skyskraper i den saudiarabiske hovedstadens sentrale finansdistrikt, hadde blitt rammet av et luftangrep. Det saudiske energidepartementet sa at tårnet bare hadde fått «mindre skader» og at ingen ble drept eller skadet. Houthiene sa også at Riyadhs flyplass og Aramco-oljelagringsanlegg var målrettet i separate streiker.",
+      "keyPoints": [
+        "Aramco Tower, en skyskraper i den saudiarabiske hovedstadens sentrale finansdistrikt, hadde blitt rammet av et luftangrep.",
+        "Houthiene sa også at Riyadhs flyplass og Aramco-oljelagringsanlegg var målrettet i separate streiker.",
+        "Det saudiske energidepartementet sa at tårnet bare hadde fått «mindre skader» og at ingen ble drept eller skadet.",
+        "Houthiene sa at de gjengjeldte det de har kalt en Saudi-blokade av deres territorium, samt et luftangrep på Sanaa-flyplassen Saudi-Arabia sa hadde vært for å hindre et iransk fly fra å lande der."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ea80/live/2b11cc30-dbbb-11f1-93e1-3b657b665bcf.png",
+      "localImage": "assets/news/e39cf8b1c6e585.png",
+      "score": 13
+    },
+    {
+      "id": "a65fe7aa6d0070",
+      "category": "Økonomi",
+      "published": "08.11. 22:01",
+      "publishedISO": "2026-11-08T22:01:18+01:00",
+      "title": "Venter på signaler: – Kan snu opp ned på hele regnestykket",
+      "summary": "Økonomer venter nysgjerrig på det videre etterspillet etter mellomvalget i USA. Tek-aksjer falt kraftig etter mellomvalget i forrige uke – teknologiindeksen Nasdaq er ned over 9,6 prosent den siste måneden. – Får vi AI-rekyl i neste uke, eller kommer markedet fortsatt til å være veldig nervøst? spør Bernhardsen. Sjeføkonomen føler seg ikke nødvendigvis trygg på at presidenten leverer på markedets forventninger. – Trump kan gjøre ting i morgen som snur opp ned på hele regnestykket, sier Andreassen.",
+      "keyPoints": [
+        "Sjeføkonomen føler seg ikke nødvendigvis trygg på at presidenten leverer på markedets forventninger. – Trump kan gjøre ting i morgen som snur opp ned på hele regnestykket, sier Andreassen.",
+        "Tek-aksjer falt kraftig etter mellomvalget i forrige uke – teknologiindeksen Nasdaq er ned over 9,6 prosent den siste måneden. – Får vi AI-rekyl i neste uke, eller kommer markedet fortsatt til å være veldig nervøst? spør Bernhardsen.",
+        "Økonomer venter nysgjerrig på det videre etterspillet etter mellomvalget i USA.",
+        "Kjerneinflasjonen er ventet å ende på 2,7 prosent. – Prisveksten må være en god del høyere enn vi forventer før tallet blir viktig for Norges Bank med tanke på renten, sier Andreassen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/31LnBe/meldinger-avsloerer-kriminelt-nettverk-ekstremt-provoserende",
+      "url": "https://e24.no/boers-og-finans/i/qOnMOg/venter-paa-signaler-kan-snu-opp-ned-paa-hele-regnestykket",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/643ed364-be75-3e69-85e5-f3f9b44ff86e?fit=crop&h=675&upscale=true&w=1200&s=e8675c0ab974508655bf7005230d28c129e3666e",
-      "localImage": "assets/news/1c70859b329d31.jpg",
+      "image": "https://akamai.vgc.no/v2/images/7a3bf621-79a3-3a30-a1ef-6f57df1d677f?fit=crop&h=675&upscale=true&w=1200&s=6512403bbf872a58a044a4063780ddb177b1efdb",
+      "localImage": "assets/news/a65fe7aa6d0070.jpg",
       "score": 13
     },
     {
-      "id": "3668c4d220c979",
-      "category": "Norge",
-      "published": "08.11. 20:22",
-      "publishedISO": "2026-11-08T20:22:59+01:00",
-      "title": "Viking med maktdemonstrasjon – gjenerobret tabelltoppen",
-      "summary": "Med gullrival Bodø/Glimt jagende bakfra hadde ikke Viking råd til feilskjær dersom drømmen om seriegull skulle leve videre. Viking fortsatte presset og hadde flere sjanser til å doble ledelsen. KFUM reduserte bare minutter etter, men Viking lot seg ikke stoppe.",
+      "id": "7e54de8ef2f3a0",
+      "category": "Verden",
+      "published": "08.11. 20:58",
+      "publishedISO": "2026-11-08T20:58:02+01:00",
+      "title": "Sju døde og over 100 skadde etter at tog kolliderte i Egypt",
+      "summary": "Opptak viser avsporede togvogner nær Giza i Egypt. Minst syv mennesker har omkommet i en togulykke nær den egyptiske byen Giza, med mer enn 100 skadde. Tog mellom Giza og Øvre Egypt-regionen ble suspendert da kraner ble sendt for å fjerne de ødelagte togene. Kollisjonen skjedde i området mellom Kafr Ammar- og Al-Raqqa-stasjonene i Al-Ayyat, like ved der Egypts dødeligste togtragedie skjedde i februar 2002, da en brann oppslukte et passasjertog som reiste fra Kairo til Luxor.",
       "keyPoints": [
-        "Med gullrival Bodø/Glimt jagende bakfra hadde ikke Viking råd til feilskjær dersom drømmen om seriegull skulle leve videre.",
-        "Viking fortsatte presset og hadde flere sjanser til å doble ledelsen.",
-        "KFUM reduserte bare minutter etter, men Viking lot seg ikke stoppe.",
-        "Etter et vakkert angrep fra vertene, dunket dansken i det tredje for Viking."
+        "Opptak viser avsporede togvogner nær Giza i Egypt. Minst syv mennesker har omkommet i en togulykke nær den egyptiske byen Giza, med mer enn 100 skadde.",
+        "Tog mellom Giza og Øvre Egypt-regionen ble suspendert da kraner ble sendt for å fjerne de ødelagte togene.",
+        "Kollisjonen skjedde i området mellom Kafr Ammar- og Al-Raqqa-stasjonene i Al-Ayyat, like ved der Egypts dødeligste togtragedie skjedde i februar 2002, da en brann oppslukte et passasjertog som reiste fra Kairo til Luxor.",
+        "Landets jernbanemyndighet sa at to tog som kjørte sørover fra Giza og Kairo kolliderte, noe som førte til at flere vogner sporet av og falt ned en voll."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/viking-med-maktdemonstrasjon-_-gjenerobret-tabelltoppen-1.18076961",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/61_ZIxG9rCHtjHoU7GWzrgi_VbXp5lA4rg8CU8Ib6QbA.jpg",
-      "localImage": "assets/news/3668c4d220c979.webp",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3886/live/ab03aa70-db8a-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/7e54de8ef2f3a0.jpg",
       "score": 13
-    },
-    {
-      "id": "af8539e10b379d",
-      "category": "Norge",
-      "published": "08.11. 19:21",
-      "publishedISO": "2026-11-08T19:21:25+01:00",
-      "title": "Anne har fluktruten klar i tilfelle sønnen kommer hjem",
-      "summary": "Anne og Liv frykter at sønnene deres kan ende opp som drapsmenn og mener det må snakkes mer om tvang som hjelp. Hun skyver knivblokka lenger inn på kjøkkenbenken og legger nøklene klare i gangen, i tilfelle hun må benytte fluktruten. Når hun blir spurt om hun er redd for at sønnen kan ta livet hennes, svarer hun ja. – Det er flaks at han ikke har skadet noen, sier Anne.",
-      "keyPoints": [
-        "Når hun blir spurt om hun er redd for at sønnen kan ta livet hennes, svarer hun ja. – Det er flaks at han ikke har skadet noen, sier Anne.",
-        "Hun skyver knivblokka lenger inn på kjøkkenbenken og legger nøklene klare i gangen, i tilfelle hun må benytte fluktruten.",
-        "Anne og Liv frykter at sønnene deres kan ende opp som drapsmenn og mener det må snakkes mer om tvang som hjelp.",
-        "I tilfelle sønnen trenger at hun er i nærheten når han blir sykere."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/dokumentar/xl/hun-frykter-sitt-eget-barn-1.18057081",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/H9BqIzo5PXj7YVYzU9929wZfldonXQa0n0yZ-zOrBvVw.png",
-      "localImage": "assets/news/af8539e10b379d.png",
-      "score": 13
-    },
-    {
-      "id": "40444e582432f0",
-      "category": "Norge",
-      "published": "08.11. 18:20",
-      "publishedISO": "2026-11-08T18:20:08+01:00",
-      "title": "Sigurd brakk ribbeinet etter at han datt gjennom tribunen på Romssa Arena i Tromsø",
-      "summary": "Sigurd Støver falt gjennom tribunen på Romssa Arena. – Når vi hoppa litt til en sang, så knakk det under oss som en jævla pappbit. Broren fikk først ikke kontakt med Sigurd etter at han falt gjennom tribunen. Det var etter 41 minutters spill at det oppsto dramatiske scener på Romssa Arena i oppgjøret mellom Tromsø IL og Bodø/Glimt.",
-      "keyPoints": [
-        "Sigurd Støver falt gjennom tribunen på Romssa Arena. – Når vi hoppa litt til en sang, så knakk det under oss som en jævla pappbit.",
-        "Broren fikk først ikke kontakt med Sigurd etter at han falt gjennom tribunen.",
-        "Det var etter 41 minutters spill at det oppsto dramatiske scener på Romssa Arena i oppgjøret mellom Tromsø IL og Bodø/Glimt.",
-        "Nå skal vi undersøke hva som har skjedd fremover, sier daglige leder i TIL William Frantzen til NRK. – Det tenker jeg er helt naturlig i lys av hendelsen, sier Frantzen. – En supporter ligger på sykehuset, hva gjør dere overfor de supporterne som havnet gjennom tribunen? – Det er veldig tragisk det som har skjedd."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/sigurd-brakk-ribbeinet-etter-at-han-datt-gjennom-tribunen-pa-romssa-arena-i-tromso-1.18076953",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/7yH2m4olExjhR982JMgGWgNC8aFDY2PF1TP9rNqraxQw.jpg",
-      "localImage": "assets/news/40444e582432f0.webp",
-      "score": 13
-    },
-    {
-      "id": "6e0c7383889c13",
-      "category": "Norge",
-      "published": "08.11. 18:05",
-      "publishedISO": "2026-11-08T18:05:09+01:00",
-      "title": "Planlegg settefiskanlegg ved Syrtveitsfossen",
-      "summary": "Ved Syrtveitfossen i Evje og Hornnes vil selskapet Fyri Fish bygge eit anlegg som skal gje arbeidsplassar og produsere eksklusiv mat. – Dette er ei gladsak, seier ordførar Morten Haraldstad (KrF). Men det er slett ikkje er alle som ser på planane om settefiskanlegg som noko gladsak. Han meiner utbyggarane kunne ha nytta eit anna område. – Vi er ikkje imot at det skal etablerast eit settefiskanlegg, men vi er imot plasseringa.",
-      "keyPoints": [
-        "Han meiner utbyggarane kunne ha nytta eit anna område. – Vi er ikkje imot at det skal etablerast eit settefiskanlegg, men vi er imot plasseringa.",
-        "Men det er slett ikkje er alle som ser på planane om settefiskanlegg som noko gladsak.",
-        "Ved Syrtveitfossen i Evje og Hornnes vil selskapet Fyri Fish bygge eit anlegg som skal gje arbeidsplassar og produsere eksklusiv mat. – Dette er ei gladsak, seier ordførar Morten Haraldstad (KrF).",
-        "Anlegget vil ligge like ved ein av turistattraksjonane i Setesdal og vil innebere eit naturinngrep. – Fossen er ei naturperle av dei sjeldne, seier Glenn Cato Christiansen (V), leiar av planutvalet i kommunen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/planlegg-settefiskanlegg-ved-syrtveitsfossen-1.18076919",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/cFnqirHfxP8y1UcUkH5cTQkJOoqmoE0BV2v3CrNX_MpA.jpg",
-      "localImage": "assets/news/6e0c7383889c13.jpg",
-      "score": 13
-    },
-    {
-      "id": "a1397d764e11cc",
-      "category": "Norge",
-      "published": "08.11. 17:11",
-      "publishedISO": "2026-11-08T17:11:57+01:00",
-      "title": "Åpner gjenvinningsanlegg for klær på Heimdal",
-      "summary": "NYTT SORTERINGSANLEGG: Anders Aftret trives med å sortere klær på Heimdal. De regner med å få 360 tonn med klær i løpet av ett år. – Det er store mengder vi må sortere. Hvert år skal anlegget på Heimdal ta imot 360 tonn med klær.",
-      "keyPoints": [
-        "NYTT SORTERINGSANLEGG: Anders Aftret trives med å sortere klær på Heimdal.",
-        "Hvert år skal anlegget på Heimdal ta imot 360 tonn med klær.",
-        "De regner med å få 360 tonn med klær i løpet av ett år. – Det er store mengder vi må sortere.",
-        "Anders Aftret er en av mange som sorterer klær på harde livet. – Dette er fin trim, og mye bedre arbeid enn å sitte på et kontor og skrive på en maskin., mener han."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/apner-gjenvinningsanlegg-for-klaer-pa-heimdal-1.18063581",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PiPVxrt-jD8k7Mbl-B-xYQIYFI4weE0J_oleJkVcOxxg.jpg",
-      "localImage": "assets/news/a1397d764e11cc.jpg",
-      "score": 13
-    },
-    {
-      "id": "ce1fb1e505bf19",
-      "category": "Norge",
-      "published": "08.11. 15:21",
-      "publishedISO": "2026-11-08T15:21:30+01:00",
-      "title": "Tromsø - Bodø/Glimt stoppet etter dramatikk på bortetribunen – én person ble sendt til sykehus",
-      "summary": "Én person ble sendt til sykehus etter at flere personer falt gjennom bortetribunen i Tromsø. – Det er først og fremst tragisk det som her skjedd. Til sammen fire ble undersøkt av helsepersonell. – Én person er sendt til sykehus, mens de andre er blitt undersøkt på stedet og virker å ha det bra, sier medieansvarlig i Bodø/Glimt, Simen Pedersen, til NRK. Ifølge avisen Nordlys var det om lag 600 tilskuere på bortetribunen. «Vi har hatt en alvorlig hendelse på bortetribunen i forbindelse med kampen mellom TIL og Bodø/Glimt.",
-      "keyPoints": [
-        "Én person ble sendt til sykehus etter at flere personer falt gjennom bortetribunen i Tromsø. – Det er først og fremst tragisk det som her skjedd.",
-        "Til sammen fire ble undersøkt av helsepersonell. – Én person er sendt til sykehus, mens de andre er blitt undersøkt på stedet og virker å ha det bra, sier medieansvarlig i Bodø/Glimt, Simen Pedersen, til NRK.",
-        "Ifølge avisen Nordlys var det om lag 600 tilskuere på bortetribunen. «Vi har hatt en alvorlig hendelse på bortetribunen i forbindelse med kampen mellom TIL og Bodø/Glimt.",
-        "Til NRK sier Tromsøs daglige leder William Frantzen: – Vi har hatt en alvorlig hendelse på bortetribunen i dag i kampen mellom TIL og Bodø/Glimt."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/tromso---bodo_glimt-stoppet-etter-dramatikk-pa-bortetribunen-_-en-person-ble-sendt-til-sykehus-1.18076852",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/RJOuP52X-ooEQDG8OA6AhwXeTaktUvG7AwcW1U2lB1Lw.jpg",
-      "localImage": "assets/news/ce1fb1e505bf19.jpg",
-      "score": 12
     }
   ]
 }
