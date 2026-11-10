@@ -1,6 +1,6 @@
 {
-  "updatedAt": "10.11.2026 kl. 17:11",
-  "updatedISO": "2026-11-10T17:11:54.742319+01:00",
+  "updatedAt": "10.11.2026 kl. 22:52",
+  "updatedISO": "2026-11-10T22:52:13.820751+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,10 +9,10 @@
       "published": "10.11. 16:17",
       "publishedISO": "2026-11-10T16:17:13+01:00",
       "title": "Må stenge deler av rusbehandlingen",
-      "summary": "Nordlandssykehuset stenger inntaksfunksjonen på rusakutten på torsdager og fredager frem til 5. januar 2027. Årsaken til at de må stenge inntaksfunksjonen to dager i uka er manglende tilgang på innleid overlege. Rachel Elise Berg understreker at folk som trenger hjelp vil få det, selv om inntaksfunksjonen ved rusakutten er stengt. – Aktuelle pasienter vil bli ivaretatt enten ved somatiske avdelinger eller ved akuttpsykiatriske enheter, avhengig av den enkeltes behov og tilstand, sier Berg. – Det er per i dag ingen andre enheter i virksomheten som står i fare for å måtte stenge som følge av bemanningsutfordringer.",
+      "summary": "Nordlandssykehuset stenger inntaksfunksjonen på rusakutten på torsdager og fredager frem til 5. januar 2027. Årsaken til at de må stenge inntaksfunksjonen to dager i uka at sykehuset sliter med å få tak i overleger. Rachel Elise Berg understreker at folk som trenger hjelp vil få det, selv om inntaksfunksjonen ved rusakutten er stengt. – Aktuelle pasienter vil bli ivaretatt enten ved somatiske avdelinger eller ved akuttpsykiatriske enheter, avhengig av den enkeltes behov og tilstand, sier Berg. – Det er per i dag ingen andre enheter i virksomheten som står i fare for å måtte stenge som følge av bemanningsutfordringer.",
       "keyPoints": [
         "Rachel Elise Berg understreker at folk som trenger hjelp vil få det, selv om inntaksfunksjonen ved rusakutten er stengt. – Aktuelle pasienter vil bli ivaretatt enten ved somatiske avdelinger eller ved akuttpsykiatriske enheter, avhengig av den enkeltes behov og tilstand, sier Berg. – Det er per i dag ingen andre enheter i virksomheten som står i fare for å måtte stenge som følge av bemanningsutfordringer.",
-        "Årsaken til at de må stenge inntaksfunksjonen to dager i uka er manglende tilgang på innleid overlege.",
+        "Årsaken til at de må stenge inntaksfunksjonen to dager i uka at sykehuset sliter med å få tak i overleger.",
         "Nordlandssykehuset stenger inntaksfunksjonen på rusakutten på torsdager og fredager frem til 5. januar 2027.",
         "Det bekrefter Rachel Elise Berg, klinikksjef i Psykisk helse- rusklinikken overfor NRK."
       ],
@@ -22,32 +22,53 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/-OSrZCQkSEi3PdykkhP65ABcwoEgmCZjl0A6FcnAhyNg.jpg",
       "localImage": "assets/news/beac97c79f16c1.jpg",
-      "score": 13
+      "score": 12
     },
     {
-      "id": "118b733f741ae7",
+      "id": "321b1c45158dd2",
       "category": "Norge",
-      "published": "10.11. 15:35",
-      "publishedISO": "2026-11-10T15:35:26+01:00",
-      "title": "Byrådet varsler mulig Fornebubane-sprekk på 3,7 milliarder",
-      "summary": "Samtidig stanger kostnadene i det absolutt øvre taket på 31,2 milliarder kroner. Det betyr at bufferen på 3,7 milliarder kroner er i ferd med å bli spist opp. Altså en sprekk på i størrelsesorden 1,8 til 1,9 milliarder kroner. – Den økonomiske reserven i prosjektet blir stadig mindre, og kostnadsrammen kan bli truet, sa miljø- og samferdselsbyråd Marit Vea.",
+      "published": "10.11. 17:55",
+      "publishedISO": "2026-11-10T17:55:54+01:00",
+      "title": "Hundrevis klager på støy: Equinor gjør nye tiltak på sine omstridte offshore-helikoptre AW189",
+      "summary": "Nå gjøres omfattende tiltak på de helt nye helikoptrene som igjen er satt på bakken etter hundrevis av støyklager. Igjen står skroget av Equinors helt nye offshore-helikopter. – Det er som å tette en båt som lekker, sier teknisk direktør Dag Johan Sætre. – Fordi du skal forhindre at støyen kommer inn i kabinen, eller absorbere den før den kommer inn. Folk hos oss har også rapportert om støy og ubehag, men ikke i nærheten av det som har vært i Equinor og Vår Energi, sier Ingard Haugeberg, tillitsvalgt for de ansatte i Aker BP.",
       "keyPoints": [
-        "Det betyr at bufferen på 3,7 milliarder kroner er i ferd med å bli spist opp.",
-        "Samtidig stanger kostnadene i det absolutt øvre taket på 31,2 milliarder kroner.",
-        "Altså en sprekk på i størrelsesorden 1,8 til 1,9 milliarder kroner. – Den økonomiske reserven i prosjektet blir stadig mindre, og kostnadsrammen kan bli truet, sa miljø- og samferdselsbyråd Marit Vea.",
-        "Hvis reserven på 3,7 milliarder kroner blir spist opp, betyr det at prisen kan passere 31,2 milliarder."
+        "Nå gjøres omfattende tiltak på de helt nye helikoptrene som igjen er satt på bakken etter hundrevis av støyklager.",
+        "Folk hos oss har også rapportert om støy og ubehag, men ikke i nærheten av det som har vært i Equinor og Vår Energi, sier Ingard Haugeberg, tillitsvalgt for de ansatte i Aker BP.",
+        "Igjen står skroget av Equinors helt nye offshore-helikopter. – Det er som å tette en båt som lekker, sier teknisk direktør Dag Johan Sætre. – Fordi du skal forhindre at støyen kommer inn i kabinen, eller absorbere den før den kommer inn.",
+        "Bakteppet er at saken har vært svært betent, der ledelsen i Equinor og fagforeningene har vært uenige om hvorvidt det har vært trygt å fly med AW189."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/stor-oslo/byradet-varsler-mulig-fornebubane-sprekk-pa-3_7-milliarder-1.18078256",
+      "url": "https://www.nrk.no/rogaland/hundrevis-klager-pa-stoy_-equinor-gjor-nye-tiltak-pa-sine-omstridte-offshore-helikoptre-aw189-1.18071200",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/b0DgnKf2Aaevt6yb72jWwwrmXgU2mRs9OKaC2mP3sSFA.jpg",
-      "localImage": "assets/news/118b733f741ae7.jpg",
-      "score": 17
+      "image": "https://gfx.nrk.no/TfI34mlLyggmFvYx9Ner0wquGTuL1qpcL_BEsMozK4MQ.jpg",
+      "localImage": "assets/news/321b1c45158dd2.jpg",
+      "score": 21
+    },
+    {
+      "id": "d4cbbeddba702b",
+      "category": "Verden",
+      "published": "10.11. 21:31",
+      "publishedISO": "2026-11-10T21:31:17+01:00",
+      "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+      "summary": "Opptak fra hjemmeovervåking viser øyeblikket et e-sykkelbatteri brast i flammer og eksploderte inne i et hjem i Troutdale, Oregon. Se: El-sykkelbatteri eksploderer til massiv ildkule inne i Oregon-hjemmet. Video, 00:01:21Se: El-sykkelbatteri eksploderer til massiv ildkule inne i Oregon-hjemmet Up Next.",
+      "keyPoints": [
+        "Watch: E-bike battery explodes into massive fireball inside Oregon home.",
+        "Opptak fra hjemmeovervåking viser øyeblikket et e-sykkelbatteri brast i flammer og eksploderte inne i et hjem i Troutdale, Oregon.",
+        "Etter å ha undersøkt en merkelig lukt, legger en mor og sønn merke til at det kommer røyk fra batteriet før det bryter ut i en enorm ildkule, etterfulgt av mindre eksplosjoner.",
+        "Video, 00:00:17CCTV shows drunk e-scooter rider before injury Are e-bike schemes the 'Wild West'?"
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a3af/live/ccebdc00-dd44-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/d4cbbeddba702b.jpg",
+      "score": 13
     },
     {
       "id": "b53229dde19f52",
-      "category": "Verden",
+      "category": "USA",
       "published": "09.11. 23:46",
       "publishedISO": "2026-11-09T23:46:27+01:00",
       "title": "Watch: Dana White declines Trump’s offer to be White House press secretary",
@@ -58,33 +79,12 @@
         "Ultimate Fighting Championship (UFC) boss Dana White declined President Donald Trump's offer to be the next White House press secretary during a briefing on Monday.",
         "Video, 00:01:05'No emotion': What happened in court as Russell Brand was sentenced Watch: Man smashes Chinese government building with excavator."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
       "summaryMethod": "local-extractive",
       "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo",
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5518/live/8dd96f20-dc8e-11f1-a701-fddedf244c16.jpg",
       "localImage": "assets/news/b53229dde19f52.jpg",
-      "score": 14
-    },
-    {
-      "id": "29a3985e7cea0e",
-      "category": "USA",
-      "published": "10.11. 14:28",
-      "publishedISO": "2026-11-10T14:28:07+01:00",
-      "title": "Pete Hegseth: Impeachment effort is 'farce' and 'stunt'",
-      "summary": "Etter innføringen av riksrettsartikler mot ham i Representantenes hus, avfeide USAs forsvarsminister Pete Hegseth innsatsen som en «farse» og et «stunt». Hegseth: Riktsettelsesinnsats er 'farse' og 'stunt' Video, 00:00:54Hegseth: Riksrettsinnsats er 'farse' og 'stunt'. Neste. Video, 00:01:11Øyeblikk Republikansk kongressmedlem introduserer riksrettsartikler mot Pete Hegseth Dana White avslår Trumps tilbud om å bli pressesekretær i Det hvite hus.",
-      "keyPoints": [
-        "Etter innføringen av riksrettsartikler mot ham i Representantenes hus, avfeide USAs forsvarsminister Pete Hegseth innsatsen som en «farse» og et «stunt».",
-        "Hegseth: Riktsettelsesinnsats er 'farse' og 'stunt' Video, 00:00:54Hegseth: Riksrettsinnsats er 'farse' og 'stunt'. Neste.",
-        "Video, 00:01:11Moment Republican Congressman introduces articles of impeachment against Pete Hegseth Dana White declines Trump’s offer to be White House press secretary.",
-        "Artikler om riksrett ble innført mandag av republikaneren Thomas Massie, som sier forsvarssekretæren brøt grunnloven ved ikke å søke godkjenning for krigen."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7524/live/000d93d0-dd09-11f1-b441-2b33b063138f.jpg",
-      "localImage": "assets/news/29a3985e7cea0e.jpg",
       "score": 13
     },
     {
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8bc522b5-1879-3603-b160-9261a2f10c12?fit=crop&h=675&upscale=true&w=1200&s=abbae79cf61da04f750dd1cb31d43f7a8d4c680d",
       "localImage": "assets/news/e4d3d5bfbc4be3.jpg",
-      "score": 30
+      "score": 28
     },
     {
       "id": "f506dbf7890b78",
@@ -127,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/52aad1de-27d5-3e7e-853f-b9159f4cec72?fit=crop&h=675&upscale=true&w=1200&s=2de79b1ad894ae59a4e688fbd4e434154d4a5c37",
       "localImage": "assets/news/f506dbf7890b78.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "2a3c0e34b9299c",
@@ -148,7 +148,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
       "localImage": "assets/news/2a3c0e34b9299c.jpg",
-      "score": 24
+      "score": 23
     },
     {
       "id": "f5bae66b233aac",
@@ -169,7 +169,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4e6/live/9afaf360-dccd-11f1-9b78-45da8622c809.jpg",
       "localImage": "assets/news/f5bae66b233aac.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "cb1a402fc37522",
@@ -190,28 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/342b0f53-e71e-39b5-b2ed-9c18e0c5eb80?fit=crop&h=675&upscale=true&w=1200&s=2a7c388d290ee7bd297f97e3b9d9e0c89aca703c",
       "localImage": "assets/news/cb1a402fc37522.jpg",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "060584639f005d",
-      "category": "Økonomi",
-      "published": "09.11. 06:29",
-      "publishedISO": "2026-11-09T06:29:24+01:00",
-      "title": "Nvidia-sjefen var utro med mistenkt spion – aksjen barbert med 1.800 mrd.",
-      "summary": "Nvidia-aksjen falt mer enn 4 prosent på Wall Street kort tid mandag. Dagens aksjefall reduserer AI-gigantens markedsverdi med om lag 1.800 milliarder kroner. – Jeg har ikke snakket med ham om dette, sa Trump søndag, ifølge Bloomberg. – Jeg vet bare at han er en bra fyr, men man vet aldri hva som foregår. På spørsmål om Huang bør fortsette som Nvidia-sjef, svarte Trump: Trumps uttalelser kommer etter det ble kjent at Nvidia-sjefen hadde et forhold til en kvinne som amerikansk etterretning angivelig mistenker for å være kinesisk spion.",
+      "id": "02b351d2677f58",
+      "category": "Norge",
+      "published": "10.11. 22:00",
+      "publishedISO": "2026-11-10T22:00:58+01:00",
+      "title": "Listhaug om Nussir-kjøp: – Alle varselklokker bør ringe",
+      "summary": "STRATEGISK VIKTIG: Kobberforekomsten i Kvalsund er viktig i europeisk målestokk. – Når det er interessenter inne som har hatt koblinger til oligarker nær Putin, så forventer jeg at alle varselklokker ringer – og at det er gjort grundige vurderinger, sier Listhaug til NRK. Har man vurdert mineralloven og sikkerhetsloven? spør Frp-lederen. – Når russiske forretningsmenn med tidligere kontakt med oligarker nær Putin er involvert i dette kjøpet, bør alle varselklokker ringe. Listhaug mener Norge bør ha mest mulig kontroll over kritiske metallressurser. – Det er det jeg vil komme til bunns i.",
       "keyPoints": [
-        "På spørsmål om Huang bør fortsette som Nvidia-sjef, svarte Trump: Trumps uttalelser kommer etter det ble kjent at Nvidia-sjefen hadde et forhold til en kvinne som amerikansk etterretning angivelig mistenker for å være kinesisk spion.",
-        "Dagens aksjefall reduserer AI-gigantens markedsverdi med om lag 1.800 milliarder kroner. – Jeg har ikke snakket med ham om dette, sa Trump søndag, ifølge Bloomberg. – Jeg vet bare at han er en bra fyr, men man vet aldri hva som foregår.",
-        "Nvidia-aksjen falt mer enn 4 prosent på Wall Street kort tid mandag.",
-        "Han har tidligere avvist at han hadde noe annet enn et normalt forhold til kvinnen. – Jeg var utro mot min kone."
+        "Har man vurdert mineralloven og sikkerhetsloven? spør Frp-lederen. – Når russiske forretningsmenn med tidligere kontakt med oligarker nær Putin er involvert i dette kjøpet, bør alle varselklokker ringe.",
+        "STRATEGISK VIKTIG: Kobberforekomsten i Kvalsund er viktig i europeisk målestokk. – Når det er interessenter inne som har hatt koblinger til oligarker nær Putin, så forventer jeg at alle varselklokker ringer – og at det er gjort grundige vurderinger, sier Listhaug til NRK.",
+        "Listhaug mener Norge bør ha mest mulig kontroll over kritiske metallressurser. – Det er det jeg vil komme til bunns i.",
+        "Frp-leder Sylvi Listhaug krever svar fra regjeringen etter at kobbergruva i Hammerfest er solgt til et selskap der sjefen hadde tette bånd til folk i Vladimir Putins nære krets."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/ez1Ldg/trump-stoetter-nvidia-sjefen-etter-utroskap-med-mistenkt-spion",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/25d58a8e-3d22-34ad-8dfd-e332af18a13d?fit=crop&h=675&upscale=true&w=1200&s=b0a7f5aadf017735300fd7ea532cf24aeb32cdca",
-      "localImage": "assets/news/060584639f005d.jpg",
-      "score": 18
+      "url": "https://www.nrk.no/tromsogfinnmark/listhaug-om-nussir-kjop_-_-alle-varselklokker-bor-ringe-1.18078826",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/BjalH_6Vox-ymCN948T4tgwOze3yfh1hDfx14NXXQSjw.jpg",
+      "localImage": "assets/news/02b351d2677f58.jpg",
+      "score": 17
     }
   ]
 }
