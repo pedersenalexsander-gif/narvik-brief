@@ -1,28 +1,175 @@
 {
-  "updatedAt": "10.11.2026 kl. 08:47",
-  "updatedISO": "2026-11-10T08:47:47.431205+01:00",
+  "updatedAt": "10.11.2026 kl. 17:11",
+  "updatedISO": "2026-11-10T17:11:54.742319+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "f53c69126d1f29",
-      "category": "Norge",
-      "published": "09.11. 17:59",
-      "publishedISO": "2026-11-09T17:59:49+01:00",
-      "title": "Russisk Nussir-eier ga feil informasjon om Moskva-exit",
-      "summary": "Nussir-gruvas nye toppeier, Artem Volynets, hevdet at han forlot Russland i 2013, før Ukraina-krigen. RUSSISK EIER: Nussir-gruva i Kvalsund i Hammerfest kommune har store forekomster av kobber og gull. Han hevdet nylig at han forlot Russland tre år før intervjuet ble gjort – i 2013. – Jeg trakk meg ut av næringslivet i Russland for 13 år siden.",
+      "id": "beac97c79f16c1",
+      "category": "Nord-Norge",
+      "published": "10.11. 16:17",
+      "publishedISO": "2026-11-10T16:17:13+01:00",
+      "title": "Må stenge deler av rusbehandlingen",
+      "summary": "Nordlandssykehuset stenger inntaksfunksjonen på rusakutten på torsdager og fredager frem til 5. januar 2027. Årsaken til at de må stenge inntaksfunksjonen to dager i uka er manglende tilgang på innleid overlege. Rachel Elise Berg understreker at folk som trenger hjelp vil få det, selv om inntaksfunksjonen ved rusakutten er stengt. – Aktuelle pasienter vil bli ivaretatt enten ved somatiske avdelinger eller ved akuttpsykiatriske enheter, avhengig av den enkeltes behov og tilstand, sier Berg. – Det er per i dag ingen andre enheter i virksomheten som står i fare for å måtte stenge som følge av bemanningsutfordringer.",
       "keyPoints": [
-        "RUSSISK EIER: Nussir-gruva i Kvalsund i Hammerfest kommune har store forekomster av kobber og gull.",
-        "Nussir-gruvas nye toppeier, Artem Volynets, hevdet at han forlot Russland i 2013, før Ukraina-krigen.",
-        "Han hevdet nylig at han forlot Russland tre år før intervjuet ble gjort – i 2013. – Jeg trakk meg ut av næringslivet i Russland for 13 år siden.",
-        "Financial Times forteller at Volynets i 2016, to år etter Russlands første angrep på Ukraina, var i Russland og holdt på å hente inn 500 millioner dollar i investeringer i landets råvareindustri."
+        "Rachel Elise Berg understreker at folk som trenger hjelp vil få det, selv om inntaksfunksjonen ved rusakutten er stengt. – Aktuelle pasienter vil bli ivaretatt enten ved somatiske avdelinger eller ved akuttpsykiatriske enheter, avhengig av den enkeltes behov og tilstand, sier Berg. – Det er per i dag ingen andre enheter i virksomheten som står i fare for å måtte stenge som følge av bemanningsutfordringer.",
+        "Årsaken til at de må stenge inntaksfunksjonen to dager i uka er manglende tilgang på innleid overlege.",
+        "Nordlandssykehuset stenger inntaksfunksjonen på rusakutten på torsdager og fredager frem til 5. januar 2027.",
+        "Det bekrefter Rachel Elise Berg, klinikksjef i Psykisk helse- rusklinikken overfor NRK."
+      ],
+      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/ma-stenge-deler-av-rusbehandlingen-1.18078623",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/-OSrZCQkSEi3PdykkhP65ABcwoEgmCZjl0A6FcnAhyNg.jpg",
+      "localImage": "assets/news/beac97c79f16c1.jpg",
+      "score": 13
+    },
+    {
+      "id": "118b733f741ae7",
+      "category": "Norge",
+      "published": "10.11. 15:35",
+      "publishedISO": "2026-11-10T15:35:26+01:00",
+      "title": "Byrådet varsler mulig Fornebubane-sprekk på 3,7 milliarder",
+      "summary": "Samtidig stanger kostnadene i det absolutt øvre taket på 31,2 milliarder kroner. Det betyr at bufferen på 3,7 milliarder kroner er i ferd med å bli spist opp. Altså en sprekk på i størrelsesorden 1,8 til 1,9 milliarder kroner. – Den økonomiske reserven i prosjektet blir stadig mindre, og kostnadsrammen kan bli truet, sa miljø- og samferdselsbyråd Marit Vea.",
+      "keyPoints": [
+        "Det betyr at bufferen på 3,7 milliarder kroner er i ferd med å bli spist opp.",
+        "Samtidig stanger kostnadene i det absolutt øvre taket på 31,2 milliarder kroner.",
+        "Altså en sprekk på i størrelsesorden 1,8 til 1,9 milliarder kroner. – Den økonomiske reserven i prosjektet blir stadig mindre, og kostnadsrammen kan bli truet, sa miljø- og samferdselsbyråd Marit Vea.",
+        "Hvis reserven på 3,7 milliarder kroner blir spist opp, betyr det at prisen kan passere 31,2 milliarder."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/russisk-nussir-eier-ga-feil-informasjon-om-moskva-exit-1.18077614",
+      "url": "https://www.nrk.no/stor-oslo/byradet-varsler-mulig-fornebubane-sprekk-pa-3_7-milliarder-1.18078256",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BjalH_6Vox-ymCN948T4tgwOze3yfh1hDfx14NXXQSjw.jpg",
-      "localImage": "assets/news/f53c69126d1f29.jpg",
-      "score": 19
+      "image": "https://gfx.nrk.no/b0DgnKf2Aaevt6yb72jWwwrmXgU2mRs9OKaC2mP3sSFA.jpg",
+      "localImage": "assets/news/118b733f741ae7.jpg",
+      "score": 17
+    },
+    {
+      "id": "b53229dde19f52",
+      "category": "Verden",
+      "published": "09.11. 23:46",
+      "publishedISO": "2026-11-09T23:46:27+01:00",
+      "title": "Watch: Dana White declines Trump’s offer to be White House press secretary",
+      "summary": "Ultimate Fighting Championship (UFC)-sjef Dana White avslo president Donald Trumps tilbud om å bli den neste pressesekretæren i Det hvite hus under en briefing mandag. Under orienteringen bekreftet White at han ikke vil ta jobben siden han ikke «ønsker å være i politikken». Dana White avslår Trumps tilbud om å bli pressesekretær i Det hvite hus. Video, 00:01:19Dana White avslår Trumps tilbud om å bli pressesekretær i Det hvite hus Up Next.",
+      "keyPoints": [
+        "Under orienteringen bekreftet White at han ikke vil ta jobben siden han ikke «ønsker å være i politikken». Dana White avslår Trumps tilbud om å bli pressesekretær i Det hvite hus.",
+        "Video, 00:01:19Dana White declines Trump’s offer to be White House press secretary Up Next.",
+        "Ultimate Fighting Championship (UFC) boss Dana White declined President Donald Trump's offer to be the next White House press secretary during a briefing on Monday.",
+        "Video, 00:01:05'No emotion': What happened in court as Russell Brand was sentenced Watch: Man smashes Chinese government building with excavator."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/5518/live/8dd96f20-dc8e-11f1-a701-fddedf244c16.jpg",
+      "localImage": "assets/news/b53229dde19f52.jpg",
+      "score": 14
+    },
+    {
+      "id": "29a3985e7cea0e",
+      "category": "USA",
+      "published": "10.11. 14:28",
+      "publishedISO": "2026-11-10T14:28:07+01:00",
+      "title": "Pete Hegseth: Impeachment effort is 'farce' and 'stunt'",
+      "summary": "Etter innføringen av riksrettsartikler mot ham i Representantenes hus, avfeide USAs forsvarsminister Pete Hegseth innsatsen som en «farse» og et «stunt». Hegseth: Riktsettelsesinnsats er 'farse' og 'stunt' Video, 00:00:54Hegseth: Riksrettsinnsats er 'farse' og 'stunt'. Neste. Video, 00:01:11Øyeblikk Republikansk kongressmedlem introduserer riksrettsartikler mot Pete Hegseth Dana White avslår Trumps tilbud om å bli pressesekretær i Det hvite hus.",
+      "keyPoints": [
+        "Etter innføringen av riksrettsartikler mot ham i Representantenes hus, avfeide USAs forsvarsminister Pete Hegseth innsatsen som en «farse» og et «stunt».",
+        "Hegseth: Riktsettelsesinnsats er 'farse' og 'stunt' Video, 00:00:54Hegseth: Riksrettsinnsats er 'farse' og 'stunt'. Neste.",
+        "Video, 00:01:11Moment Republican Congressman introduces articles of impeachment against Pete Hegseth Dana White declines Trump’s offer to be White House press secretary.",
+        "Artikler om riksrett ble innført mandag av republikaneren Thomas Massie, som sier forsvarssekretæren brøt grunnloven ved ikke å søke godkjenning for krigen."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7524/live/000d93d0-dd09-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/29a3985e7cea0e.jpg",
+      "score": 13
+    },
+    {
+      "id": "e4d3d5bfbc4be3",
+      "category": "Økonomi",
+      "published": "10.11. 12:40",
+      "publishedISO": "2026-11-10T12:40:57+01:00",
+      "title": "AI-giganten Anthropic vil hente opptil 64,4 milliarder dollar i børsnotering",
+      "summary": "Selskapet vil også hente 26 milliarder dollar fra tek-kjemper som Nvidia og Microsoft. Det betyr at selskapet kan innkassere opptil 64,35 milliarder dollar ved notering. CNBC skriver at verdsettelsen kan nå opptil 1.400 milliarder dollar.",
+      "keyPoints": [
+        "Selskapet vil også hente 26 milliarder dollar fra tek-kjemper som Nvidia og Microsoft.",
+        "Det betyr at selskapet kan innkassere opptil 64,35 milliarder dollar ved notering.",
+        "CNBC skriver at verdsettelsen kan nå opptil 1.400 milliarder dollar.",
+        "Anthropic omsatte for om lag 17 milliarder dollar i tredje kvartal 2026."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/kMakv9/ai-giganten-anthropic-vil-hente-opptil-64-4-milliarder-dollar-i-boersnotering",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8bc522b5-1879-3603-b160-9261a2f10c12?fit=crop&h=675&upscale=true&w=1200&s=abbae79cf61da04f750dd1cb31d43f7a8d4c680d",
+      "localImage": "assets/news/e4d3d5bfbc4be3.jpg",
+      "score": 30
+    },
+    {
+      "id": "f506dbf7890b78",
+      "category": "Økonomi",
+      "published": "10.11. 13:10",
+      "publishedISO": "2026-11-10T13:10:59+01:00",
+      "title": "Oljeprisen faller: – En positiv utvikling",
+      "summary": "Optimisme om slutt på krigen mellom USA og Iran sender oljeprisen nedover. Like før midnatt norsk tid la han ut en melding på Truth Social der han opplyser å ha møtt Qatars statsleder, som har fungert som megler i konflikten. «Vi ser en positiv utvikling mot en avslutning på denne konflikten, og vi vil sørge for at USAs interesser til enhver tid blir ivaretatt», skriver Trump. På det laveste i formiddag var oljeprisen nede på 89,16 dollar fatet, ifølge tall fra Infront.",
+      "keyPoints": [
+        "Like før midnatt norsk tid la han ut en melding på Truth Social der han opplyser å ha møtt Qatars statsleder, som har fungert som megler i konflikten. «Vi ser en positiv utvikling mot en avslutning på denne konflikten, og vi vil sørge for at USAs interesser til enhver tid blir ivaretatt», skriver Trump.",
+        "På det laveste i formiddag var oljeprisen nede på 89,16 dollar fatet, ifølge tall fra Infront.",
+        "Optimisme om slutt på krigen mellom USA og Iran sender oljeprisen nedover.",
+        "Nordsjøoljeprisen falt med nye 2,4 dollar til rundt 90 dollar fatet tirsdag morgen, etter et fall på hele 5,8 dollar fatet mandag, tross nylige USA-angrep i Hormuzstredet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Jn1018/oljeprisen-faller-en-positiv-utvikling",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/52aad1de-27d5-3e7e-853f-b9159f4cec72?fit=crop&h=675&upscale=true&w=1200&s=2de79b1ad894ae59a4e688fbd4e434154d4a5c37",
+      "localImage": "assets/news/f506dbf7890b78.jpg",
+      "score": 20
+    },
+    {
+      "id": "2a3c0e34b9299c",
+      "category": "AI",
+      "published": "10.11. 09:23",
+      "publishedISO": "2026-11-10T09:23:21+01:00",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "«Han lider»: Trump svarer BBC-spørsmål om Nvidias Jensen Huang USAs president Donald Trump har sagt at FBI etterforsker forholdet mellom administrerende direktør i Nvidia og en angivelig kinesisk spion. Nvidia, som har bestilt en uavhengig etterforskning av forholdet som involverer Alice Huang, påstått å være en kinesisk spion, sa at det ikke hadde noen grunn til å tro at selskapets hemmeligheter eller nasjonale sikkerhet ble kompromittert. Det vi så langt vet om Jensen Huangs affære med mistenkt kinesisk spion Nvidia-aksjer faller over etterforskningen av Huangs affære med den påståtte kinesiske spionen Alice Huang var administrerende direktør i det singaporske selskapet Megaspeed, som har hatt kontakt med Nvidia.",
+      "keyPoints": [
+        "«Han lider»: Trump svarer BBC-spørsmål om Nvidias Jensen Huang USAs president Donald Trump har sagt at FBI etterforsker forholdet mellom administrerende direktør i Nvidia og en angivelig kinesisk spion.",
+        "Det vi så langt vet om Jensen Huangs affære med mistenkt kinesisk spion Nvidia-aksjer faller over etterforskningen av Huangs affære med den påståtte kinesiske spionen Alice Huang var administrerende direktør i det singaporske selskapet Megaspeed, som har hatt kontakt med Nvidia.",
+        "Nvidia, som har bestilt en uavhengig etterforskning av forholdet som involverer Alice Huang, påstått å være en kinesisk spion, sa at det ikke hadde noen grunn til å tro at selskapets hemmeligheter eller nasjonale sikkerhet ble kompromittert.",
+        "Trump sa at han snakket med Jensen Huang mandag etter rapporter om at USA trodde han var blitt målrettet i en kinesisk spionasjekampanje. \"Jeg spurte ham det spørsmålet: 'Vet du noen anelse om at hun var en spion?' Han sa «Jeg hadde ingen anelse om at hun var en spion», og jeg tror ham virkelig», sa Trump til journalister."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+      "localImage": "assets/news/2a3c0e34b9299c.jpg",
+      "score": 24
+    },
+    {
+      "id": "f5bae66b233aac",
+      "category": "AI",
+      "published": "09.11. 22:52",
+      "publishedISO": "2026-11-09T22:52:28+01:00",
+      "title": "Zoe Kleinman: Nvidia CEOs affære vil forårsake krusninger over hele USA og utover",
+      "summary": "Jensen Huang, 63, har blitt kalt 'Taylor Swift of tech' i USA. Teknologiverdenen har brukt dagen på å fordøye den ekstraordinære nyheten om at Jensen Huang - den karismatiske, skinnjakken iført administrerende direktør for multi-billion dollar-firmaet Nvidia - blir etterforsket av sitt eget selskap på grunn av en utenomekteskapelig affære med en kinesisk kvinne. Huangs påståtte romantiske affære med Alice Huang (ingen relasjon), den tidligere administrerende direktøren i et Singapore-basert datasenterselskap, har kastet krusninger langt utover hans nærmeste familie – utvilsomt på en egen følelsesmessig berg-og-dal-bane – og tar oss til et veiskille hvor teknologi, geopolitikk og nasjonal sikkerhet krysser hverandre. Nvidia-aksjer faller over etterforskningen av Huangs affære med angivelig kinesisk spion. De vanskelige spørsmålene Nvidia nå må prøve å svare på inkluderer om Alice fikk spesiell tilgang til firmaets nyeste teknologi, enten med vilje eller ikke, via Jensen – og i så fall om hun delte den med Beijing eller andre.",
+      "keyPoints": [
+        "Huangs påståtte romantiske affære med Alice Huang (ingen relasjon), den tidligere administrerende direktøren i et Singapore-basert datasenterselskap, har kastet krusninger langt utover hans nærmeste familie – utvilsomt på en egen følelsesmessig berg-og-dal-bane – og tar oss til et veiskille hvor teknologi, geopolitikk og nasjonal sikkerhet krysser hverandre.",
+        "Jensen Huang, 63, har blitt kalt 'Taylor Swift of tech' i USA. Teknologiverdenen har brukt dagen på å fordøye den ekstraordinære nyheten om at Jensen Huang - den karismatiske, skinnjakken iført administrerende direktør for multi-billion dollar-firmaet Nvidia - blir etterforsket av sitt eget selskap på grunn av en utenomekteskapelig affære med en kinesisk kvinne.",
+        "Nvidia-aksjer faller over etterforskningen av Huangs affære med angivelig kinesisk spion. De vanskelige spørsmålene Nvidia nå må prøve å svare på inkluderer om Alice fikk spesiell tilgang til firmaets nyeste teknologi, enten med vilje eller ikke, via Jensen – og i så fall om hun delte den med Beijing eller andre.",
+        "I et nøtteskall handler dette om den bitre rivaliseringen mellom USA og Kina, samt hvorvidt Jensen Huang har forrådt USA så vel som sin kone. «Han lider»: Trump svarer på BBC-spørsmål om Nvidias Jensen Huang USA er låst i et hardt kappløp med Kina om å utvikle de beste AI-modellene. «Den som vinner AI, vinner», som USAs president Donald Trump uttrykker det."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e4e6/live/9afaf360-dccd-11f1-9b78-45da8622c809.jpg",
+      "localImage": "assets/news/f5bae66b233aac.jpg",
+      "score": 18
     },
     {
       "id": "cb1a402fc37522",
@@ -43,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/342b0f53-e71e-39b5-b2ed-9c18e0c5eb80?fit=crop&h=675&upscale=true&w=1200&s=2a7c388d290ee7bd297f97e3b9d9e0c89aca703c",
       "localImage": "assets/news/cb1a402fc37522.jpg",
-      "score": 21
+      "score": 19
     },
     {
       "id": "060584639f005d",
@@ -64,154 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/25d58a8e-3d22-34ad-8dfd-e332af18a13d?fit=crop&h=675&upscale=true&w=1200&s=b0a7f5aadf017735300fd7ea532cf24aeb32cdca",
       "localImage": "assets/news/060584639f005d.jpg",
-      "score": 19
-    },
-    {
-      "id": "eb1a67cc5f64c7",
-      "category": "Økonomi",
-      "published": "10.11. 08:01",
-      "publishedISO": "2026-11-10T08:01:09+01:00",
-      "title": "Prisene stiger videre: – Endrer ikke på rente­forventningene",
-      "summary": "Prisene har økt 3,6 prosent fra oktober i fjor til oktober i år. I oktober var prisene i Norge 3,6 prosent høyere enn på samme tid i 2025, viser ferske inflasjonstall fra SSB. Prisene steg uvanlig mye fra september til oktober i 2025, men den månedsveksten inngår ikke lenger i årsveksten. – Det var ventet at prisveksten skulle falle på grunn av det – helt på linje med hva Norges Bank ventet, sier Hov.",
-      "keyPoints": [
-        "I oktober var prisene i Norge 3,6 prosent høyere enn på samme tid i 2025, viser ferske inflasjonstall fra SSB.",
-        "Prisene har økt 3,6 prosent fra oktober i fjor til oktober i år.",
-        "Prisene steg uvanlig mye fra september til oktober i 2025, men den månedsveksten inngår ikke lenger i årsveksten. – Det var ventet at prisveksten skulle falle på grunn av det – helt på linje med hva Norges Bank ventet, sier Hov.",
-        "For importerte varer steg prisene 0,2 prosent på månedsbasis, og var 0,7 prosent høyere enn i oktober 2025."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/M5gG7R/prisveksten-laa-paa-3-6-prosent-i-oktober",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/08feb9d7-8724-301c-b48d-014b3b8d58d9?fit=crop&h=675&upscale=true&w=1200&s=c49a5f3ab784ff7b766d3f299a590587ff37ad4f",
-      "localImage": "assets/news/eb1a67cc5f64c7.jpg",
-      "score": 17
-    },
-    {
-      "id": "1fa35c6d99e2d2",
-      "category": "Økonomi",
-      "published": "09.11. 21:21",
-      "publishedISO": "2026-11-09T21:21:45+01:00",
-      "title": "Spår reduserte AI-investeringer",
-      "summary": "Demokratenes brakvalg i USA kan føre til at tek-selskapene reduserer sine AI-investeringer med 5–7 prosent, ifølge en ny analyse. En analytiker i Bloomberg har forsøkt å tallfeste hva Demokratenes brakvalg har å si for reduserte investeringer i AI. Lie mener det er klare forskjeller på børsfallet vi ser nå, sammenlignet med da IT-boblen sprakk i 2000. – De største tek-selskapene i verden tjener fortsatt mye penger, og de har ikke så mye gjeld at de kommer til å velte av dette her, sier Lie.",
-      "keyPoints": [
-        "Demokratenes brakvalg i USA kan føre til at tek-selskapene reduserer sine AI-investeringer med 5–7 prosent, ifølge en ny analyse.",
-        "En analytiker i Bloomberg har forsøkt å tallfeste hva Demokratenes brakvalg har å si for reduserte investeringer i AI.",
-        "Lie mener det er klare forskjeller på børsfallet vi ser nå, sammenlignet med da IT-boblen sprakk i 2000. – De største tek-selskapene i verden tjener fortsatt mye penger, og de har ikke så mye gjeld at de kommer til å velte av dette her, sier Lie.",
-        "Tirsdagens valgresultat kan føre til at teknologiselskapenes forventede investeringer i AI-infrastruktur i 2027 reduseres med rundt 5–7 prosent, fra et anslått nivå på 1.400 milliarder dollar."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/QgpkgQ/spaar-reduserte-ai-investeringer",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/91fefbe0-fb5c-3e94-b053-38b1579ce2c3?fit=crop&h=675&upscale=true&w=1200&s=efa7c5430ff36577eb08ad4b4819d94648268041",
-      "localImage": "assets/news/1fa35c6d99e2d2.jpg",
-      "score": 15
-    },
-    {
-      "id": "1ed5021ec2bb7a",
-      "category": "Økonomi",
-      "published": "09.11. 20:45",
-      "publishedISO": "2026-11-09T20:45:58+01:00",
-      "title": "Brått fall i oljeprisen",
-      "summary": "Et fat nordsjøolje (brent spot) handles for 90,8 dollar kort tid etter klokken 20.40 norsk tid, ifølge Infront. Oljeprisen har falt etter at USAs president Donald Trump sa at nye angrep mot Iran er «svært usannsynlig» i helgen. Han legger til at eksporten fra Gulfen fortsatt er 20 prosent lavere enn før krigen og at det ikke er noen «reelle gjennombrudd» i forhandlingene. – Det som har endret seg, er den politiske kostnaden ved eskalering, ikke den geopolitiske virkeligheten på bakken, sier Galimberti.",
-      "keyPoints": [
-        "Oljeprisen har falt etter at USAs president Donald Trump sa at nye angrep mot Iran er «svært usannsynlig» i helgen.",
-        "Han legger til at eksporten fra Gulfen fortsatt er 20 prosent lavere enn før krigen og at det ikke er noen «reelle gjennombrudd» i forhandlingene. – Det som har endret seg, er den politiske kostnaden ved eskalering, ikke den geopolitiske virkeligheten på bakken, sier Galimberti.",
-        "Et fat nordsjøolje (brent spot) handles for 90,8 dollar kort tid etter klokken 20.40 norsk tid, ifølge Infront.",
-        "Rystad Energy endrer ikke sitt hovedscenario, som er en forhøyet risiko for eskalering på kort sikt, etterfulgt av en gradvis økning i oljeeksporten fra Midtøsten frem mot 2027."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/0B5rAG/braatt-fall-i-oljeprisen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/58bea31f-b421-34b2-92dd-b17e33e2568b?fit=crop&h=675&upscale=true&w=1200&s=181b204d8c37e7cf3fd3e943122eb84a623344f5",
-      "localImage": "assets/news/1ed5021ec2bb7a.jpg",
-      "score": 14
-    },
-    {
-      "id": "d530a12f8328b3",
-      "category": "Norge",
-      "published": "09.11. 17:58",
-      "publishedISO": "2026-11-09T17:58:28+01:00",
-      "title": "Nav mener jobben ga ham uhelbredelig kreft – oljepioneren får likevel ikke kompensasjon",
-      "summary": "Erlend Skogen har, som 172 andre, fått sin søknad om kompensasjon behandlet. 70 prosent av alle søknadene har blitt avslått. – Sykdommen er uhelbredelig, men den kan behandles. Det blir nå endelig mulig for oljepionerene å søke om kompensasjon gjennom Nav sine systemer.",
-      "keyPoints": [
-        "Erlend Skogen har, som 172 andre, fått sin søknad om kompensasjon behandlet.",
-        "70 prosent av alle søknadene har blitt avslått. – Sykdommen er uhelbredelig, men den kan behandles.",
-        "Det blir nå endelig mulig for oljepionerene å søke om kompensasjon gjennom Nav sine systemer.",
-        "Men han og 70 prosent av søkerne har fått avslag på statens historiske oppreisning til oljepionerene."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/nav-mener-jobben-ga-ham-uhelbredelig-kreft-_-oljepioneren-far-likevel-ikke-kompensasjon-1.18058951",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/uqaFMtMIYDtvwPtWMFau6AFv8NyZF6A_hEgT_ouKl35Q.jpg",
-      "localImage": "assets/news/d530a12f8328b3.webp",
-      "score": 14
-    },
-    {
-      "id": "246c75bd0c7aa6",
-      "category": "Økonomi",
-      "published": "09.11. 14:06",
-      "publishedISO": "2026-11-09T14:06:21+01:00",
-      "title": "Utro Nvidia-sjef og stengt strømkø",
-      "summary": "Det er mandag, og en ny episode av Penger, pølser og politikk er klar! Nordea i Danmark står overfor en mulig milliardbot, investorene slikker sårene etter børsuroen i USA, og inflasjonstall fra både USA og Norge er ventet å få mye oppmerksomhet denne uken. Penger, pølser og politikk gir deg det du trenger å vite om uken som kommer.",
-      "keyPoints": [
-        "Nordea i Danmark står overfor en mulig milliardbot, investorene slikker sårene etter børsuroen i USA, og inflasjonstall fra både USA og Norge er ventet å få mye oppmerksomhet denne uken.",
-        "Det er mandag, og en ny episode av Penger, pølser og politikk er klar!",
-        "Penger, pølser og politikk gir deg det du trenger å vite om uken som kommer.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/z0LorO/utro-nvidia-sjef-og-stengt-stroemkoe",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c105786b-73d2-31d6-8fe7-6cbb76a2adc7?fit=crop&h=675&upscale=true&w=1200&s=fb3127dff1d1b03948d9a6b255af01f5669d95ed",
-      "localImage": "assets/news/246c75bd0c7aa6.png",
-      "score": 14
-    },
-    {
-      "id": "d7c35929c0ce16",
-      "category": "Norge",
-      "published": "10.11. 08:11",
-      "publishedISO": "2026-11-10T08:11:07+01:00",
-      "title": "Fugleinfluensa er etablert på Svalbard",
-      "summary": "Fugleinfluensaen har etablert seg på Svalbard og blir spreidd mellom artar. Sommaren 2022 blei høgpatogen fugleinfluensa (HPAI) påvist for første gong på Svalbard, hos ein polarmåse. No viser studiar frå blant anna Veterinærinstituttet at viruset har etablert seg i økosystemet på Svalbard og blir spreidd mellom artar.",
-      "keyPoints": [
-        "Sommaren 2022 blei høgpatogen fugleinfluensa (HPAI) påvist for første gong på Svalbard, hos ein polarmåse.",
-        "No viser studiar frå blant anna Veterinærinstituttet at viruset har etablert seg i økosystemet på Svalbard og blir spreidd mellom artar.",
-        "Fugleinfluensaen har gått frå fugl til pattedyr på Svalbard, og har nå etablert seg i økosystemet.",
-        "Undersøkingar av prøver frå isbjørn og fjellrev samla inn av Norsk Polarinstitutt over fleire år, viser at dyra ikkje hadde vore i kontakt med fugleinfluensaviruset før det blei påvist på Svalbard i 2022."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/fugleinfluensa-er-etablert-pa-svalbard-1.18077772",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/lWyK8TbAtG1lW3r5p7dfxQCRKHzpts7xUIy2417WaVxA.jpg",
-      "localImage": "assets/news/d7c35929c0ce16.jpg",
-      "score": 13
-    },
-    {
-      "id": "10d8b60fb9776f",
-      "category": "Norge",
-      "published": "10.11. 05:41",
-      "publishedISO": "2026-11-10T05:41:49+01:00",
-      "title": "Maskinen har bidratt til nesten halverte klimagassutslipp på Svalbard",
-      "summary": "Sjefene i Store Norske og Svalbard Energi smiler over kuttene i klimagassutslipp. Det sier leder i Svalbard Energi, Torstein Sole-Gärtner. Et tidligere omtalt mål var å gå fra kull til null innen 2030. – Det målet kan jeg bekrefte at vi ikke når, sier Sole-Gärtner. – Forestillingen om at det går an å drifte 100 prosent fornybart på Svalbard, den var nok urealistisk, sier Midtgård i Store Norske.",
-      "keyPoints": [
-        "Sjefene i Store Norske og Svalbard Energi smiler over kuttene i klimagassutslipp.",
-        "Et tidligere omtalt mål var å gå fra kull til null innen 2030. – Det målet kan jeg bekrefte at vi ikke når, sier Sole-Gärtner. – Forestillingen om at det går an å drifte 100 prosent fornybart på Svalbard, den var nok urealistisk, sier Midtgård i Store Norske.",
-        "Det sier leder i Svalbard Energi, Torstein Sole-Gärtner.",
-        "Det neste skrittet er innfasing av fornybare energisystemer. – Her på Svalbard er nok det vindkraft, solceller og sjøvarmepumpe som gjelder."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/45-prosent-reduksjon-i-co_-utslipp-fra-energiforsyningen-i-longyearbyen-1.18062744",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/j1FK9w4bp5gbKEkdWVymbAb9Jr_GVh4X2FAbLsWxPNWg.jpg",
-      "localImage": "assets/news/10d8b60fb9776f.jpg",
-      "score": 13
+      "score": 18
     }
   ]
 }
