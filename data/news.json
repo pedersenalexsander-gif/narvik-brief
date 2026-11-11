@@ -1,6 +1,6 @@
 {
-  "updatedAt": "11.11.2026 kl. 17:32",
-  "updatedISO": "2026-11-11T17:32:06.086089+01:00",
+  "updatedAt": "12.11.2026 kl. 00:01",
+  "updatedISO": "2026-11-12T00:01:12.047407+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/idvtpTpF3wvfifh7DbxjxwRuX7ZS_08pJK8JfH-v80dQ.jpg",
       "localImage": "assets/news/d0e9c29fb84867.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "e4d3d5bfbc4be3",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8bc522b5-1879-3603-b160-9261a2f10c12?fit=crop&h=675&upscale=true&w=1200&s=abbae79cf61da04f750dd1cb31d43f7a8d4c680d",
       "localImage": "assets/news/e4d3d5bfbc4be3.jpg",
-      "score": 25
+      "score": 23
     },
     {
       "id": "1df012c3891a06",
@@ -64,7 +64,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/27214bfc-fb7b-331a-ac8a-9ad4c53c3bbe?fit=crop&h=675&upscale=true&w=1200&s=1c55f60806f7850cb251c6e5ff15901d1d25d7b2",
       "localImage": "assets/news/1df012c3891a06.jpg",
-      "score": 22
+      "score": 21
+    },
+    {
+      "id": "3188466ed73c0b",
+      "category": "Økonomi",
+      "published": "11.11. 23:00",
+      "publishedISO": "2026-11-11T23:00:42+01:00",
+      "title": "NYT: Nvidia-sjefen skal ha hatt forhold med ansatt",
+      "summary": "En toppleder i teknologiselskapet skal ha hatt et forhold med Jensen Huang. Nvidias etiske retningslinjer ber ansatte «unngå situasjoner» som skaper konflikt, inkludert «personlige forhold». Powell ble ansatt i Nvidia i 2008 og har siden klatret i gradene, ifølge NYT.",
+      "keyPoints": [
+        "Powell ble ansatt i Nvidia i 2008 og har siden klatret i gradene, ifølge NYT.",
+        "En toppleder i teknologiselskapet skal ha hatt et forhold med Jensen Huang.",
+        "Nvidias etiske retningslinjer ber ansatte «unngå situasjoner» som skaper konflikt, inkludert «personlige forhold».",
+        "En tilskuer fanget opp samtalen på telefonen sin, skriver NYT og viser til «tre personer som var informert om hendelsen»."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/R1xPG5/new-york-times-nvidia-sjef-jensen-huang-skal-ha-hatt-forhold-med-ansatt-som-rapporterer-til-han",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/60ab35c0-ee65-3172-bf55-d0015bed604d?fit=crop&h=675&upscale=true&w=1200&s=11d200b289651adbc96e6aa63008f2c219d6e161",
+      "localImage": "assets/news/3188466ed73c0b.jpg",
+      "score": 17
     },
     {
       "id": "d5b3f4d78d7562",
@@ -85,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e6f93135-0a89-3beb-85b8-3e4abee67db8?fit=crop&h=675&upscale=true&w=1200&s=a3c5385affe2bc0fd1ee3b5d9fb540c0d2c1af0c",
       "localImage": "assets/news/d5b3f4d78d7562.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "f506dbf7890b78",
@@ -106,111 +127,90 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/52aad1de-27d5-3e7e-853f-b9159f4cec72?fit=crop&h=675&upscale=true&w=1200&s=2de79b1ad894ae59a4e688fbd4e434154d4a5c37",
       "localImage": "assets/news/f506dbf7890b78.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "fa615541ff2395",
+      "id": "a2c011dc87f5ba",
       "category": "Norge",
-      "published": "11.11. 17:27",
-      "publishedISO": "2026-11-11T17:27:31+01:00",
-      "title": "Flere branner i Rogaland onsdag ettermiddag",
-      "summary": "Brannvesenet meldte om hyttebrannen i Sandnes klokka 16.21. Alle personer er gjort rede for, og det er åpenbart at hytta vil brenne ned. Også på Jørpeland i Strand begynte det å brenne onsdag.",
+      "published": "11.11. 23:30",
+      "publishedISO": "2026-11-11T23:30:27+01:00",
+      "title": "Laksedøgn i Altaelva satte prisrekord på auksjon",
+      "summary": "Blant de 40 auksjonsobjektene så var det blant annet et dobbeltdøgn i Alta som ble auksjonert bort. – Jeg har vært her i ganske mange år, og Alta er toppen, og det har vært det største auksjonsobjektet nå i mange år, sier styreleder i Alta laksefiskeri interessentskap (Ali), Karianne Johansen. Men i år ble det pinadø meg 800.000 for to fiskedøgn i Altaelva, sier Johansen. Han sier at de har fått inn nærmere 2 millioner kroner i løpet av onsdagens auksjon, eller i hvert fall 1,9 mill. – Fiskedøgnet i Alta er bestandig høydepunktet på auksjonen.",
       "keyPoints": [
-        "Også på Jørpeland i Strand begynte det å brenne onsdag.",
-        "Brannvesenet meldte om hyttebrannen i Sandnes klokka 16.21.",
-        "Alle personer er gjort rede for, og det er åpenbart at hytta vil brenne ned.",
-        "Hytta i Sandnes, som ligger i nærheten av Hommersåk, kan ikke reddes fra flammene."
+        "Han sier at de har fått inn nærmere 2 millioner kroner i løpet av onsdagens auksjon, eller i hvert fall 1,9 mill. – Fiskedøgnet i Alta er bestandig høydepunktet på auksjonen.",
+        "Men i år ble det pinadø meg 800.000 for to fiskedøgn i Altaelva, sier Johansen.",
+        "Blant de 40 auksjonsobjektene så var det blant annet et dobbeltdøgn i Alta som ble auksjonert bort. – Jeg har vært her i ganske mange år, og Alta er toppen, og det har vært det største auksjonsobjektet nå i mange år, sier styreleder i Alta laksefiskeri interessentskap (Ali), Karianne Johansen.",
+        "Mange vil gjøre som kong Harald og fiske laks i Altaelva."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/flere-branner-i-rogaland-onsdag-ettermiddag-1.18079688",
+      "url": "https://www.nrk.no/tromsogfinnmark/laksedogn-i-altaelva-satte-prisrekord-pa-auksjon-1.18079866",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/PCCe2XTDzvLEJz45mQngUAa6OuNFxWrbq3bzFzlRZCDQ.jpg",
-      "localImage": "assets/news/fa615541ff2395.jpg",
+      "image": "https://gfx.nrk.no/g318op2ZOV0IrFYgQ2LvswrW38fwhneUU7gj5NqXUxSw.jpg",
+      "localImage": "assets/news/a2c011dc87f5ba.jpg",
       "score": 13
     },
     {
-      "id": "8e36b67343ed10",
+      "id": "784354cc9be443",
       "category": "Norge",
-      "published": "11.11. 15:57",
-      "publishedISO": "2026-11-11T15:57:01+01:00",
-      "title": "Funn av død person i Grimstad",
-      "summary": "Politi, redningshelikopter og frivillige har i ukesvis vært ute og lett etter kvinnen som har vært savnet i Grimstad. Politiet i Agder melder at de har gjort funn av en død person i et vann ved Rosholttjenn i Grimstad. – Personen er foreløpig ikke sikkert identifisert. Det er likevel naturlig å se funnet i sammenheng med kvinnen som ble meldt savnet i Grimstad 17. oktober i år.",
+      "published": "11.11. 22:51",
+      "publishedISO": "2026-11-11T22:51:50+01:00",
+      "title": "Minnes­merke reist i Langvassdalen 70 år etter døds­skredet",
+      "summary": "Her skal veifarende langs Hålogalandsveien finne ro og minnes en av regionens mørkeste netter. Det er 70 år siden et voldsomt snøskred i Langvassdalen i Kvæfjord tok med seg to bolighus og kostet fem mennesker livet. Det ble en skikkelig verdig åpning, sier ordfører i Kvæfjord Birger Holand. – Jeg håper man kan sette seg ned i ro og mak og minnes tilbake på personer som kanskje har gått bort, noen du savner, og kunne nyte den fantastiske naturen som er her, sier ordføreren.",
       "keyPoints": [
-        "Politiet i Agder melder at de har gjort funn av en død person i et vann ved Rosholttjenn i Grimstad. – Personen er foreløpig ikke sikkert identifisert.",
-        "Det er likevel naturlig å se funnet i sammenheng med kvinnen som ble meldt savnet i Grimstad 17. oktober i år.",
-        "Politi, redningshelikopter og frivillige har i ukesvis vært ute og lett etter kvinnen som har vært savnet i Grimstad.",
-        "De pårørende har uttalt i et tidligere intervju med NRK at det var tungt å forholde seg til at politiet avsluttet aksjonen uten å ha funnet moren. – Ingen kan jo vite det helt sikkert, men alt tyder jo på at hun er død."
+        "Det er 70 år siden et voldsomt snøskred i Langvassdalen i Kvæfjord tok med seg to bolighus og kostet fem mennesker livet.",
+        "Det ble en skikkelig verdig åpning, sier ordfører i Kvæfjord Birger Holand. – Jeg håper man kan sette seg ned i ro og mak og minnes tilbake på personer som kanskje har gått bort, noen du savner, og kunne nyte den fantastiske naturen som er her, sier ordføreren.",
+        "Her skal veifarende langs Hålogalandsveien finne ro og minnes en av regionens mørkeste netter.",
+        "Karl Johan Evensen var en av de første som ankom ulykkesstedet i Langvassdalen med spade for å lete i snømassene."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/funn-av-dod-person-i-grimstad-1.18079461",
+      "url": "https://www.nrk.no/tromsogfinnmark/minnesmerke-reist-i-langvassdalen-70-ar-etter-dodsskredet-1.18079683",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_9lEFYqlkEvX_UTAFwpwwwr_uvViQzcx9OhFb_iAunTA.jpg",
-      "localImage": "assets/news/8e36b67343ed10.jpg",
+      "image": "https://gfx.nrk.no/0gH4qC7QSFLnroD7TuVP-wDwfN-ck55qQfD3jgoOeQPA.jpg",
+      "localImage": "assets/news/784354cc9be443.jpg",
       "score": 13
     },
     {
-      "id": "e9a72ed9db4998",
+      "id": "6cc9d5ebd51be6",
       "category": "Norge",
-      "published": "11.11. 14:46",
-      "publishedISO": "2026-11-11T14:46:56+01:00",
-      "title": "SAS kutter i nord: – 8000 pasientreiser blir rammet",
-      "summary": "Kuttet vekker kraftige reaksjoner i Helse Nord, som benytter flyrutene i stor skala. – Årlig går det cirka 8000 rutene mellom Bodø, Tromsø og Trondheim, sier Hannisdal. Ifølge Helse Nord reiser to av tre pasienter med SAS, så ruteendringen kan gi konsekvenser for pasientene. Flere reagerer på nyheten om at SAS nå kutter i flytilbudet mellom Trondheim og de største nordnorske byene. – Dette er veldig synd, vi trenger gode forbindelser mellom de store byene i Nord-Norge, sier fylkesordfører i Troms, Benjamin Furuly (H).",
+      "published": "11.11. 22:41",
+      "publishedISO": "2026-11-11T22:41:50+01:00",
+      "title": "Trondheim har fått sitt Havel's Place",
+      "summary": "I likhet med byer som Paris, Washington og Barcelona, har Trondheim fått et minnested etter den tidligere tsjekkiske presidenten og menneskerettighetsaktivisten, Václav Havel. To stoler og et bord med et tre som vokser opp gjennom midten av det står nede ved Nidelva i Trondheim. – Havel's Place Den skal bringe folk sammen, få dem til å prate og bli enige om sine uoverensstemmelser. Han er den tsjekkiske ambassadøren i Norge og var til stede da Trondheim fikk Skandinavias første Havel's Place. – Jeg husker han fra min barndom som en viktig statsmann.",
       "keyPoints": [
-        "Flere reagerer på nyheten om at SAS nå kutter i flytilbudet mellom Trondheim og de største nordnorske byene. – Dette er veldig synd, vi trenger gode forbindelser mellom de store byene i Nord-Norge, sier fylkesordfører i Troms, Benjamin Furuly (H).",
-        "Ifølge Helse Nord reiser to av tre pasienter med SAS, så ruteendringen kan gi konsekvenser for pasientene.",
-        "Kuttet vekker kraftige reaksjoner i Helse Nord, som benytter flyrutene i stor skala. – Årlig går det cirka 8000 rutene mellom Bodø, Tromsø og Trondheim, sier Hannisdal.",
-        "Helse Nord sier kuttene kan få konsekvenser for tusenvis av pasienter, og har nå varslet departementet. – Vi har ikke vært kjent med planene om ruteendringer før de ble offentlig kjent i går kveld, sier Kim Hannisdal, direktør for kommunikasjon og samfunnskontakt i Helse Nord RHF."
+        "Han er den tsjekkiske ambassadøren i Norge og var til stede da Trondheim fikk Skandinavias første Havel's Place. – Jeg husker han fra min barndom som en viktig statsmann.",
+        "To stoler og et bord med et tre som vokser opp gjennom midten av det står nede ved Nidelva i Trondheim. – Havel's Place Den skal bringe folk sammen, få dem til å prate og bli enige om sine uoverensstemmelser.",
+        "I likhet med byer som Paris, Washington og Barcelona, har Trondheim fått et minnested etter den tidligere tsjekkiske presidenten og menneskerettighetsaktivisten, Václav Havel.",
+        "Det er fantastisk at Trondheim har fått et slikt sted, sier han som tror han er en fjern slektning av Václav Havel Sonja Olaussen: – Han var et ordentlig menneske."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/sas-kutter-i-nord_-_-8000-pasientreiser-blir-rammet-1.18079041",
+      "url": "https://www.nrk.no/trondelag/trondheim-har-fatt-sitt-havel_s-place-1.18079063",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/pJ4LEN0jgacHP-scNyxHqQnNlwPpMj6lpUQsFXrxr4ow.jpg",
-      "localImage": "assets/news/e9a72ed9db4998.webp",
+      "image": "https://gfx.nrk.no/KQMGiNfFqzG6Qr-dTqc-7w9jUWVvLf755znEVl35MOxQ.jpg",
+      "localImage": "assets/news/6cc9d5ebd51be6.jpg",
       "score": 13
     },
     {
-      "id": "2657fc87f24100",
+      "id": "b5a74960972f4c",
       "category": "Norge",
-      "published": "11.11. 14:42",
-      "publishedISO": "2026-11-11T14:42:32+01:00",
-      "title": "Innleid lærer tjente 23 millioner på ulovlige avtaler – Fagskolen får refs",
-      "summary": "KRITIKK: Fagskolen i Vestfold og Telemark får hard kritikk i en granskingsrapport. NRK skrev tidligere i år om at skolen, som eies av Vestfold og Telemark fylkeskommuner, har utbetalt nær 23 millioner kroner til en innleid lærer og kursholder over fem år. I fjor fakturerte læreren fagskolen for 4,8 millioner kroner via sitt aksjeselskap.",
+      "published": "11.11. 22:10",
+      "publishedISO": "2026-11-11T22:10:52+01:00",
+      "title": "Hevdar Martin Ødegaard gav klar tromme-beskjed til kong Haakon",
+      "summary": "GOD STEMNING: Daverande Kronprins Haakon og Martin Ødegaard var ein sentral del av folkefesten på Slottsplassen etter VM. FEIRING: Daverande kronprins Haakon og Martin Ødegaard på Slottsplassen i Oslo den 13. juli. Det synest eg blir feil, fortel Solbakken. – Stemmer det at det var Martin som bestemte at det var kong Haakon som måtte gjere det? – Det veit eg ikkje.",
       "keyPoints": [
-        "NRK skrev tidligere i år om at skolen, som eies av Vestfold og Telemark fylkeskommuner, har utbetalt nær 23 millioner kroner til en innleid lærer og kursholder over fem år.",
-        "I fjor fakturerte læreren fagskolen for 4,8 millioner kroner via sitt aksjeselskap.",
-        "KRITIKK: Fagskolen i Vestfold og Telemark får hard kritikk i en granskingsrapport.",
-        "Ulovlige avtaler og en inhabil rektor trekkes frem i en granskingsrapport ved en fagskole."
+        "FEIRING: Daverande kronprins Haakon og Martin Ødegaard på Slottsplassen i Oslo den 13. juli.",
+        "GOD STEMNING: Daverande Kronprins Haakon og Martin Ødegaard var ein sentral del av folkefesten på Slottsplassen etter VM.",
+        "Det synest eg blir feil, fortel Solbakken. – Stemmer det at det var Martin som bestemte at det var kong Haakon som måtte gjere det? – Det veit eg ikkje.",
+        "Daverande kronprins Haakon fekk «ordre» om å stå for tromminga da landslaget skulle ro på Slottsplassen i sommar, hevdar Jan Åge Fjørtoft i ferskt seminar."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/innleid-laerer-tjente-23-millioner-pa-ulovlige-avtaler-_-fagskolen-far-refs-1.18067971",
+      "url": "https://www.nrk.no/sport/hevdar-martin-odegaard-gav-klar-tromme-beskjed-til-kong-haakon-1.18077921",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/eKNDWGnjWIX3Zk9Mcz_zzguMoZ0r5SlsDFP46nN5j0XQ.jpg",
-      "localImage": "assets/news/2657fc87f24100.jpg",
-      "score": 13
-    },
-    {
-      "id": "6dd51164816c50",
-      "category": "Norge",
-      "published": "11.11. 14:17",
-      "publishedISO": "2026-11-11T14:17:46+01:00",
-      "title": "Kilder til NRK: Ikke lovbrudd i lederstriden i Tromsø",
-      "summary": "Nå sier kilder med kjennskap til saken til NRK at arbeidsgiverutvalgets konklusjon er at det ikke foreligger alvorlige brudd på arbeidsmiljøloven. NRK var til stede under dagens kommunestyremøte i Tromsø, men ingen av dem NRK snakket med ville kommentere saken. Kilder med kjennskap til saken opplyser likevel til NRK at konklusjonen er at det ikke foreligger alvorlige forhold som bryter med arbeidsmiljøloven.",
-      "keyPoints": [
-        "Nå sier kilder med kjennskap til saken til NRK at arbeidsgiverutvalgets konklusjon er at det ikke foreligger alvorlige brudd på arbeidsmiljøloven.",
-        "NRK var til stede under dagens kommunestyremøte i Tromsø, men ingen av dem NRK snakket med ville kommentere saken.",
-        "Kilder med kjennskap til saken opplyser likevel til NRK at konklusjonen er at det ikke foreligger alvorlige forhold som bryter med arbeidsmiljøloven.",
-        "Fire toppledere i Tromsø kommune sendte bekymringsmelding mot kommunedirektøren for rundt 7 uker siden."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kilder-til-nrk_-ikke-lovbrudd-i-lederstriden-i-tromso-1.18079365",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/-5oJne4C60XYxF0BBrVQQAFksHNuwYoC7yiR_RA9H_zA.jpg",
-      "localImage": "assets/news/6dd51164816c50.jpg",
+      "image": "https://gfx.nrk.no/tlzm2Y-_bfyP_l9ugO20NAMMhFf-m_g4G_apxOxXjvEg.jpg",
+      "localImage": "assets/news/b5a74960972f4c.jpg",
       "score": 13
     }
   ]
