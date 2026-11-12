@@ -1,28 +1,28 @@
 {
-  "updatedAt": "12.11.2026 kl. 00:01",
-  "updatedISO": "2026-11-12T00:01:12.047407+01:00",
+  "updatedAt": "12.11.2026 kl. 04:45",
+  "updatedISO": "2026-11-12T04:45:33.772929+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "d0e9c29fb84867",
+      "id": "86a0da0c702336",
       "category": "Norge",
-      "published": "11.11. 14:16",
-      "publishedISO": "2026-11-11T14:16:28+01:00",
-      "title": "Mener lagmannsretten gir 17-åring «straff uten ende»: Vurderer anke til Høyesterett",
-      "summary": "Selv om lagmannsretten kuttet ett år av straffen på 14 års forvaring fra tingretten, varsler forsvarer Marius Dietrichson at dommen trolig havner på Høyesteretts bord. – De gir ham forvaring, som i realiteten er en straff uten ende, og som er langt utover maksimal straff for barn, sier han. Dietrichson ble nylig engasjert som guttens forsvarer med særlig tanke på å anke saken til Høyesterett. Nettopp den lave alderen på gjerningstidspunktet gjør at Dietrichson er kritisk til at lagmannsretten mener at det er nødvendig med en tidsubestemt forvaringsstraff. – Umiddelbart stusser jeg over å se at lagmannsretten gir en forvaringsstraff, i prinsippet en livslang straff, fordi de frykter han ikke vil endre seg.",
+      "published": "11.11. 23:46",
+      "publishedISO": "2026-11-11T23:46:27+01:00",
+      "title": "CNN: Demokratene vinner historisk senatsvalg i Mississippi",
+      "summary": "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose. Han blir den første demokraten som representerer Mississippi i Senatet på over 40 år. Colom blir også den første svarte politikeren som velges til et politisk verv av velgerne i hele Mississippi siden gjenoppbyggingsperioden etter den amerikanske borgerkrigen på 1800-tallet.",
       "keyPoints": [
-        "Selv om lagmannsretten kuttet ett år av straffen på 14 års forvaring fra tingretten, varsler forsvarer Marius Dietrichson at dommen trolig havner på Høyesteretts bord. – De gir ham forvaring, som i realiteten er en straff uten ende, og som er langt utover maksimal straff for barn, sier han.",
-        "Nettopp den lave alderen på gjerningstidspunktet gjør at Dietrichson er kritisk til at lagmannsretten mener at det er nødvendig med en tidsubestemt forvaringsstraff. – Umiddelbart stusser jeg over å se at lagmannsretten gir en forvaringsstraff, i prinsippet en livslang straff, fordi de frykter han ikke vil endre seg.",
-        "Dietrichson ble nylig engasjert som guttens forsvarer med særlig tanke på å anke saken til Høyesterett.",
-        "Han reagerer kraftig på at en 17-åring fra Stavanger er dømt til 13 års forvaring."
+        "Colom blir også den første svarte politikeren som velges til et politisk verv av velgerne i hele Mississippi siden gjenoppbyggingsperioden etter den amerikanske borgerkrigen på 1800-tallet.",
+        "Han blir den første demokraten som representerer Mississippi i Senatet på over 40 år.",
+        "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose.",
+        "Colom slår dermed den sittende republikanske senatoren Cindy Hyde-Smith, melder CNN onsdag kveld."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/mener-lagmannsretten-gir-17-aring-_straff-uten-ende__-vurderer-anke-til-hoyesterett-1.18079418",
+      "url": "https://www.nrk.no/nyheter/cnn_-demokratene-vinner-historisk-senatsvalg-i-mississippi-1.18079865",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/idvtpTpF3wvfifh7DbxjxwRuX7ZS_08pJK8JfH-v80dQ.jpg",
-      "localImage": "assets/news/d0e9c29fb84867.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/aINGwEOzgulNg6ap_tq45ABfmWMEsq3JeqxoNXE_KgBQ.png",
+      "localImage": "assets/news/86a0da0c702336.png",
+      "score": 21
     },
     {
       "id": "e4d3d5bfbc4be3",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8bc522b5-1879-3603-b160-9261a2f10c12?fit=crop&h=675&upscale=true&w=1200&s=abbae79cf61da04f750dd1cb31d43f7a8d4c680d",
       "localImage": "assets/news/e4d3d5bfbc4be3.jpg",
-      "score": 23
+      "score": 22
     },
     {
       "id": "1df012c3891a06",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/27214bfc-fb7b-331a-ac8a-9ad4c53c3bbe?fit=crop&h=675&upscale=true&w=1200&s=1c55f60806f7850cb251c6e5ff15901d1d25d7b2",
       "localImage": "assets/news/1df012c3891a06.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "3188466ed73c0b",
@@ -77,7 +77,7 @@
         "Powell ble ansatt i Nvidia i 2008 og har siden klatret i gradene, ifølge NYT.",
         "En toppleder i teknologiselskapet skal ha hatt et forhold med Jensen Huang.",
         "Nvidias etiske retningslinjer ber ansatte «unngå situasjoner» som skaper konflikt, inkludert «personlige forhold».",
-        "En tilskuer fanget opp samtalen på telefonen sin, skriver NYT og viser til «tre personer som var informert om hendelsen»."
+        "En tilskuer fanget opp samtalen mellom Huang og Powell på telefonen sin, skriver NYT og viser til «tre personer som var informert om hendelsen»."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/60ab35c0-ee65-3172-bf55-d0015bed604d?fit=crop&h=675&upscale=true&w=1200&s=11d200b289651adbc96e6aa63008f2c219d6e161",
       "localImage": "assets/news/3188466ed73c0b.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "d5b3f4d78d7562",
@@ -106,7 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/e6f93135-0a89-3beb-85b8-3e4abee67db8?fit=crop&h=675&upscale=true&w=1200&s=a3c5385affe2bc0fd1ee3b5d9fb540c0d2c1af0c",
       "localImage": "assets/news/d5b3f4d78d7562.jpg",
-      "score": 16
+      "score": 15
+    },
+    {
+      "id": "d0e9c29fb84867",
+      "category": "Norge",
+      "published": "11.11. 14:16",
+      "publishedISO": "2026-11-11T14:16:28+01:00",
+      "title": "Mener lagmannsretten gir 17-åring «straff uten ende»: Vurderer anke til Høyesterett",
+      "summary": "Selv om lagmannsretten kuttet ett år av straffen på 14 års forvaring fra tingretten, varsler forsvarer Marius Dietrichson at dommen trolig havner på Høyesteretts bord. – De gir ham forvaring, som i realiteten er en straff uten ende, og som er langt utover maksimal straff for barn, sier han. Dietrichson ble nylig engasjert som guttens forsvarer med særlig tanke på å anke saken til Høyesterett. Nettopp den lave alderen på gjerningstidspunktet gjør at Dietrichson er kritisk til at lagmannsretten mener at det er nødvendig med en tidsubestemt forvaringsstraff. – Umiddelbart stusser jeg over å se at lagmannsretten gir en forvaringsstraff, i prinsippet en livslang straff, fordi de frykter han ikke vil endre seg.",
+      "keyPoints": [
+        "Selv om lagmannsretten kuttet ett år av straffen på 14 års forvaring fra tingretten, varsler forsvarer Marius Dietrichson at dommen trolig havner på Høyesteretts bord. – De gir ham forvaring, som i realiteten er en straff uten ende, og som er langt utover maksimal straff for barn, sier han.",
+        "Nettopp den lave alderen på gjerningstidspunktet gjør at Dietrichson er kritisk til at lagmannsretten mener at det er nødvendig med en tidsubestemt forvaringsstraff. – Umiddelbart stusser jeg over å se at lagmannsretten gir en forvaringsstraff, i prinsippet en livslang straff, fordi de frykter han ikke vil endre seg.",
+        "Dietrichson ble nylig engasjert som guttens forsvarer med særlig tanke på å anke saken til Høyesterett.",
+        "Han reagerer kraftig på at en 17-åring fra Stavanger er dømt til 13 års forvaring."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/mener-lagmannsretten-gir-17-aring-_straff-uten-ende__-vurderer-anke-til-hoyesterett-1.18079418",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/idvtpTpF3wvfifh7DbxjxwRuX7ZS_08pJK8JfH-v80dQ.jpg",
+      "localImage": "assets/news/d0e9c29fb84867.jpg",
+      "score": 15
     },
     {
       "id": "f506dbf7890b78",
@@ -127,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/52aad1de-27d5-3e7e-853f-b9159f4cec72?fit=crop&h=675&upscale=true&w=1200&s=2de79b1ad894ae59a4e688fbd4e434154d4a5c37",
       "localImage": "assets/news/f506dbf7890b78.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "a2c011dc87f5ba",
@@ -148,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/g318op2ZOV0IrFYgQ2LvswrW38fwhneUU7gj5NqXUxSw.jpg",
       "localImage": "assets/news/a2c011dc87f5ba.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "784354cc9be443",
@@ -169,7 +190,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/0gH4qC7QSFLnroD7TuVP-wDwfN-ck55qQfD3jgoOeQPA.jpg",
       "localImage": "assets/news/784354cc9be443.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "6cc9d5ebd51be6",
@@ -190,28 +211,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/KQMGiNfFqzG6Qr-dTqc-7w9jUWVvLf755znEVl35MOxQ.jpg",
       "localImage": "assets/news/6cc9d5ebd51be6.jpg",
-      "score": 13
-    },
-    {
-      "id": "b5a74960972f4c",
-      "category": "Norge",
-      "published": "11.11. 22:10",
-      "publishedISO": "2026-11-11T22:10:52+01:00",
-      "title": "Hevdar Martin Ødegaard gav klar tromme-beskjed til kong Haakon",
-      "summary": "GOD STEMNING: Daverande Kronprins Haakon og Martin Ødegaard var ein sentral del av folkefesten på Slottsplassen etter VM. FEIRING: Daverande kronprins Haakon og Martin Ødegaard på Slottsplassen i Oslo den 13. juli. Det synest eg blir feil, fortel Solbakken. – Stemmer det at det var Martin som bestemte at det var kong Haakon som måtte gjere det? – Det veit eg ikkje.",
-      "keyPoints": [
-        "FEIRING: Daverande kronprins Haakon og Martin Ødegaard på Slottsplassen i Oslo den 13. juli.",
-        "GOD STEMNING: Daverande Kronprins Haakon og Martin Ødegaard var ein sentral del av folkefesten på Slottsplassen etter VM.",
-        "Det synest eg blir feil, fortel Solbakken. – Stemmer det at det var Martin som bestemte at det var kong Haakon som måtte gjere det? – Det veit eg ikkje.",
-        "Daverande kronprins Haakon fekk «ordre» om å stå for tromminga da landslaget skulle ro på Slottsplassen i sommar, hevdar Jan Åge Fjørtoft i ferskt seminar."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/hevdar-martin-odegaard-gav-klar-tromme-beskjed-til-kong-haakon-1.18077921",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/tlzm2Y-_bfyP_l9ugO20NAMMhFf-m_g4G_apxOxXjvEg.jpg",
-      "localImage": "assets/news/b5a74960972f4c.jpg",
-      "score": 13
+      "score": 12
     }
   ]
 }
