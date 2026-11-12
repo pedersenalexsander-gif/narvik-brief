@@ -1,6 +1,6 @@
 {
-  "updatedAt": "12.11.2026 kl. 04:45",
-  "updatedISO": "2026-11-12T04:45:33.772929+01:00",
+  "updatedAt": "12.11.2026 kl. 12:56",
+  "updatedISO": "2026-11-12T12:56:17.637968+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,133 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/aINGwEOzgulNg6ap_tq45ABfmWMEsq3JeqxoNXE_KgBQ.png",
       "localImage": "assets/news/86a0da0c702336.png",
+      "score": 19
+    },
+    {
+      "id": "14b75167bb66a4",
+      "category": "Verden",
+      "published": "12.11. 11:02",
+      "publishedISO": "2026-11-12T11:02:32+01:00",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "summary": "Hvorfor demokraten Scott Coloms senatseier i Mississippi er så viktig Demokraten Scott Colom har vunnet det amerikanske senatsløpet i Mississippi, og leverte en sjokkseier for partiet i en dypt konservativ stat som har valgt republikanere i flere tiår. Coloms seier gjør ham til den første svarte personen fra Mississippi som har sittet i det amerikanske senatet siden Blanche Bruce tjenestegjorde fra 1875 til 1881. Tvers over rommet, fylt med mennesker som omfavnet, satt Amber Thomas og gledet seg over seieren. \"Når du kjemper, vinner du,\" sa Thomas. \"Akkurat nå er jeg overveldet av glede.\" Colom-tilhengere feirer seieren hans i Jackson, Mississippi. Den siste svarte senatoren i staten før Colom var Bruce som ble valgt av statens lovgiver.",
+      "keyPoints": [
+        "Coloms seier gjør ham til den første svarte personen fra Mississippi som har sittet i det amerikanske senatet siden Blanche Bruce tjenestegjorde fra 1875 til 1881.",
+        "Hvorfor demokraten Scott Coloms senatseier i Mississippi er så viktig Demokraten Scott Colom har vunnet det amerikanske senatsløpet i Mississippi, og leverte en sjokkseier for partiet i en dypt konservativ stat som har valgt republikanere i flere tiår.",
+        "Tvers over rommet, fylt med omfavnende mennesker, satt Amber Thomas og gledet seg over seieren. \"Når du kjemper, vinner du,\" sa Thomas. \"Akkurat nå er jeg overveldet av glede.\" Colom-tilhengere feirer seieren hans i Jackson, Mississippi. Den siste svarte senatoren i staten før Colom var Bruce som ble valgt av statens lovgiver.",
+        "Den republikanske senatoren Cindy Hyde-Smith har vært i senatet siden 2018 Colom så ut til å ri en nasjonal bølge av harme mot republikanerne."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+      "localImage": "assets/news/14b75167bb66a4.jpg",
       "score": 21
     },
     {
-      "id": "e4d3d5bfbc4be3",
-      "category": "Økonomi",
-      "published": "10.11. 12:40",
-      "publishedISO": "2026-11-10T12:40:57+01:00",
-      "title": "AI-giganten Anthropic vil hente opptil 64,4 milliarder dollar i børsnotering",
-      "summary": "Selskapet vil også hente 26 milliarder dollar fra tek-kjemper som Nvidia og Microsoft. Det betyr at selskapet kan innkassere opptil 64,35 milliarder dollar ved notering. CNBC skriver at verdsettelsen kan nå opptil 1.400 milliarder dollar.",
+      "id": "f8663b95e50bf3",
+      "category": "USA",
+      "published": "11.11. 20:30",
+      "publishedISO": "2026-11-11T20:30:48+01:00",
+      "title": "Watch: Trump says 'we won' Iran war during Veterans Day service",
+      "summary": "Trump snakket om den pågående krigen mellom USA og Iran og sa at «vi vant», men det er «bare et spørsmål om når vi vil avslutte den». Arlington National Cemetery ligger et lite stykke unna Memorial Circle, det foreslåtte stedet for Trumps 250 fot lange triumfbue. Trump sier \"vi vant\" Iran-krigen under Veterans Day-tjenesten. Video, 00:01:02Trump sier \"vi vant\" Iran-krigen under Veterans Day-tjenesten Up Next.",
       "keyPoints": [
-        "Selskapet vil også hente 26 milliarder dollar fra tek-kjemper som Nvidia og Microsoft.",
-        "Det betyr at selskapet kan innkassere opptil 64,35 milliarder dollar ved notering.",
-        "CNBC skriver at verdsettelsen kan nå opptil 1.400 milliarder dollar.",
-        "Anthropic omsatte for om lag 17 milliarder dollar i tredje kvartal 2026."
+        "Trump says 'we won' Iran war during Veterans Day service.",
+        "Trump snakket om den pågående krigen mellom USA og Iran og sa at «vi vant», men det er «bare et spørsmål om når vi vil avslutte den». Arlington National Cemetery ligger et lite stykke unna Memorial Circle, det foreslåtte stedet for Trumps 250 fot lange triumfbue.",
+        "USAs president Donald Trump plasserte en krans ved graven til den ukjente soldaten før han uttalte seg under Veterans Day-seremonien på Arlington National Cemetery.",
+        "Video, 00:01:10'It's a farce': Hegseth's defiant response to impeachment effort Watch: BBC talks to Mississippi voters awaiting Senate result."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cke89dqmlp2eo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/c990/live/eceb4380-de05-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/f8663b95e50bf3.jpg",
+      "score": 14
+    },
+    {
+      "id": "488e22cdfec8dc",
+      "category": "Økonomi",
+      "published": "12.11. 10:49",
+      "publishedISO": "2026-11-12T10:49:31+01:00",
+      "title": "Jekker ned årets oljeinvesteringer",
+      "summary": "Olje- og gassbransjen venter å investere 266 milliarder kroner i år, ni milliarder mindre enn tidligere ventet. Fjorårets investeringer er oppgitt til 272,9 milliarder kroner, mens investeringene i 2026 er ventet på 266 milliarder kroner, skriver SSB. Anslaget for 2026 er nedjustert med ni milliarder fra forrige måling. «Det er lavere anslag innenfor felt i drift og feltutbygging som bidrar mest til de lavere oppgitte investeringene», skriver SSB.",
+      "keyPoints": [
+        "Fjorårets investeringer er oppgitt til 272,9 milliarder kroner, mens investeringene i 2026 er ventet på 266 milliarder kroner, skriver SSB.",
+        "Anslaget for 2026 er nedjustert med ni milliarder fra forrige måling. «Det er lavere anslag innenfor felt i drift og feltutbygging som bidrar mest til de lavere oppgitte investeringene», skriver SSB.",
+        "Olje- og gassbransjen venter å investere 266 milliarder kroner i år, ni milliarder mindre enn tidligere ventet.",
+        "Det skyldes delvis økte kostnader på enkelte prosjekter, skriver SSB. «Siden i fjor høst har totalkostnadene på de pågående prosjektene økt med om lag 35 milliarder 2026-kroner."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/kMakv9/ai-giganten-anthropic-vil-hente-opptil-64-4-milliarder-dollar-i-boersnotering",
+      "url": "https://e24.no/energi-og-klima/i/Qrlp88/jekker-ned-aarets-oljeinvesteringer",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/8bc522b5-1879-3603-b160-9261a2f10c12?fit=crop&h=675&upscale=true&w=1200&s=abbae79cf61da04f750dd1cb31d43f7a8d4c680d",
-      "localImage": "assets/news/e4d3d5bfbc4be3.jpg",
-      "score": 22
+      "image": "https://akamai.vgc.no/v2/images/4c656e57-5f26-3fa9-a388-394109785c4b?fit=crop&h=675&upscale=true&w=1200&s=0ee3446373d5aa7497952afd655072e5c414596f",
+      "localImage": "assets/news/488e22cdfec8dc.jpg",
+      "score": 24
+    },
+    {
+      "id": "f9f77383740306",
+      "category": "Økonomi",
+      "published": "12.11. 11:42",
+      "publishedISO": "2026-11-12T11:42:21+01:00",
+      "title": "Tror Nvidia-sjefen ryker: – Vi vet ikke om det finnes en god nummer to",
+      "summary": "Han tror ikke Nvidia-sjef Jensen Huang overlever uroen som hans utenomekteskapelige aktiviteter har skapt rundt selskapet. – Her legger jeg til grunn at de fleste av oss som har et forhold til en spion fra en fremmed stat, ryker. Når han i tillegg har brutt interne regler om kjærlighetsforhold, og hvem vet om det er mer her, tipper jeg det er over, sier investeringsdirektør Pål Ringholm til E24. Så, det er klart at han er viktig, men vi vet ikke om det finnes en god nummer to, sier Ringholm.",
+      "keyPoints": [
+        "Så, det er klart at han er viktig, men vi vet ikke om det finnes en god nummer to, sier Ringholm.",
+        "Han tror ikke Nvidia-sjef Jensen Huang overlever uroen som hans utenomekteskapelige aktiviteter har skapt rundt selskapet. – Her legger jeg til grunn at de fleste av oss som har et forhold til en spion fra en fremmed stat, ryker.",
+        "Når han i tillegg har brutt interne regler om kjærlighetsforhold, og hvem vet om det er mer her, tipper jeg det er over, sier investeringsdirektør Pål Ringholm til E24.",
+        "Han påpeker klisjeen om at det ligger en «en hel gjeng med uerstattelige folk på kirkegårdene», og at hverken Microsoft eller Apple gikk under etter at Bill Gates og Steve Jobs forsvant. – Jeg legger til grunn at det finnes andre i USA innen teknologi, som ikke bruker svart skinnjakke (et Jensen Huang «varemerke», journ.anm.), som kan lede en bedrift, sier investeringsdirektøren."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/0vEwEg/tror-nvidia-sjefen-ryker-vi-vet-ikke-om-det-finnes-en-god-nummer-to",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6ec015f3-0593-35a6-ba8d-0b87e3df46fd?fit=crop&h=675&upscale=true&w=1200&s=4e6b6074168652c2cee077e4501c24760aba961c",
+      "localImage": "assets/news/f9f77383740306.jpg",
+      "score": 21
+    },
+    {
+      "id": "60bc82f80a2cad",
+      "category": "AI",
+      "published": "12.11. 12:21",
+      "publishedISO": "2026-11-12T12:21:25+01:00",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "summary": "Nvidia står overfor et scenario få ville ha vurdert før helt nylig – en fremtid uten Jensen Huang. Chris Malachowsky er en av Nvidias tre medgründere Et annet alternativ er Chris Malachowsky, som grunnla Nvidia sammen med Huang og Curtis Priem, og er den eneste lederen som deler samme ansiennitetsnivå. Apples Tim Cook (R) sammen med Jensen Huang (L) og hans kone Lori Huang i Det hvite hus Liu og Chanana foreslo også Rene Haas, administrerende direktør i Arm Holdings, den britiske britisk chipmaker.",
+      "keyPoints": [
+        "Apples Tim Cook (R) sammen med Jensen Huang (L) og hans kone Lori Huang i Det hvite hus Liu og Chanana foreslo også Rene Haas, administrerende direktør i Arm Holdings, den britiske britisk chipmaker.",
+        "Nvidia is facing a scenario few would have considered until very recently - a future without Jensen Huang.",
+        "Chris Malachowsky er en av Nvidias tre medgründere Et annet alternativ er Chris Malachowsky, som grunnla Nvidia sammen med Huang og Curtis Priem, og er den eneste lederen som deler samme ansiennitetsnivå.",
+        "Nvidia's board is reportedly meeting to discuss whether to replace Huang."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/086c/live/13145560-de47-11f1-93e1-3b657b665bcf.jpg",
+      "localImage": "assets/news/60bc82f80a2cad.jpg",
+      "score": 25
+    },
+    {
+      "id": "ff8f03eb527f98",
+      "category": "AI",
+      "published": "11.11. 23:26",
+      "publishedISO": "2026-11-11T23:26:18+01:00",
+      "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+      "summary": "Markedsplassen kalles noen ganger \"eBay\" til Lego Lego har tatt sin nettmarkedsplass BrickLink offline etter å ha oppdaget det den beskrev som uvanlig aktivitet på plattformen. Firmaet skrev på sin hjemmeside at før de gjenopprettede BrickLink, ønsket det å \"fullstendig forstå\" hva som hadde skjedd. \"Det betyr å inneholde problemet, undersøke hvordan det skjedde og se etter relaterte problemer,\" sa Lego. Cyber-profesjonelle Melanie Hoskin har samlet Lego i 45 år og er en vanlig bruker av BrickLink.",
+      "keyPoints": [
+        "Markedsplassen kalles noen ganger \"eBay\" til Lego Lego har tatt sin nettmarkedsplass BrickLink offline etter å ha oppdaget det den beskrev som uvanlig aktivitet på plattformen.",
+        "Cyber-profesjonelle Melanie Hoskin har samlet Lego i 45 år og er en vanlig bruker av BrickLink.",
+        "Firmaet skrev på sin hjemmeside at før de gjenopprettede BrickLink, ønsket det å \"fullstendig forstå\" hva som hadde skjedd. \"Det betyr å inneholde problemet, undersøke hvordan det skjedde og se etter relaterte problemer,\" sa Lego.",
+        "Hun sa at Lego ikke trodde at betalingen var tatt, og på et tidspunkt sa at det ville utestenge henne fra BrickLink."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/38f3/live/c4e58c50-de1a-11f1-9f86-23852740988a.jpg",
+      "localImage": "assets/news/ff8f03eb527f98.jpg",
+      "score": 15
     },
     {
       "id": "1df012c3891a06",
@@ -64,154 +169,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/27214bfc-fb7b-331a-ac8a-9ad4c53c3bbe?fit=crop&h=675&upscale=true&w=1200&s=1c55f60806f7850cb251c6e5ff15901d1d25d7b2",
       "localImage": "assets/news/1df012c3891a06.jpg",
-      "score": 20
+      "score": 18
     },
     {
-      "id": "3188466ed73c0b",
+      "id": "00e4e97549d98e",
       "category": "Økonomi",
-      "published": "11.11. 23:00",
-      "publishedISO": "2026-11-11T23:00:42+01:00",
-      "title": "NYT: Nvidia-sjefen skal ha hatt forhold med ansatt",
-      "summary": "En toppleder i teknologiselskapet skal ha hatt et forhold med Jensen Huang. Nvidias etiske retningslinjer ber ansatte «unngå situasjoner» som skaper konflikt, inkludert «personlige forhold». Powell ble ansatt i Nvidia i 2008 og har siden klatret i gradene, ifølge NYT.",
+      "published": "12.11. 10:21",
+      "publishedISO": "2026-11-12T10:21:33+01:00",
+      "title": "Dette holder toppsjefene våkne om natten",
+      "summary": "Krig, handelskonflikter, KI og cyberangrep: Hva holder konsernsjefene i Telenor, Fortum og Yara våkne om natten? Krig, handelskonflikter, AI og cyberangrep tvinger nordiske selskaper til å tenke nytt.Hva holder toppsjefene våkne om natten? De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs).",
       "keyPoints": [
-        "Powell ble ansatt i Nvidia i 2008 og har siden klatret i gradene, ifølge NYT.",
-        "En toppleder i teknologiselskapet skal ha hatt et forhold med Jensen Huang.",
-        "Nvidias etiske retningslinjer ber ansatte «unngå situasjoner» som skaper konflikt, inkludert «personlige forhold».",
-        "En tilskuer fanget opp samtalen mellom Huang og Powell på telefonen sin, skriver NYT og viser til «tre personer som var informert om hendelsen»."
+        "Krig, handelskonflikter, AI og cyberangrep tvinger nordiske selskaper til å tenke nytt.Hva holder toppsjefene våkne om natten?",
+        "Krig, handelskonflikter, KI og cyberangrep: Hva holder konsernsjefene i Telenor, Fortum og Yara våkne om natten?",
+        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs).",
+        "Det spør vi tre av Nordens viktigste ledere om i E24-podden, i et opptak fra Yaras høstseminar i Oslo."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/R1xPG5/new-york-times-nvidia-sjef-jensen-huang-skal-ha-hatt-forhold-med-ansatt-som-rapporterer-til-han",
+      "url": "https://e24.no/naeringsliv/i/8PwbR2/dette-holder-toppsjefene-vaakne-om-natten",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/60ab35c0-ee65-3172-bf55-d0015bed604d?fit=crop&h=675&upscale=true&w=1200&s=11d200b289651adbc96e6aa63008f2c219d6e161",
-      "localImage": "assets/news/3188466ed73c0b.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/11ad6e05-ca7d-3ad2-832d-967ad3a3f8d9?fit=crop&h=675&upscale=true&w=1200&s=3e4af3c6c80880de113b2367c1bab99f2ed001e3",
+      "localImage": "assets/news/00e4e97549d98e.jpg",
+      "score": 17
     },
     {
-      "id": "d5b3f4d78d7562",
+      "id": "daf94fd6eb5fc3",
       "category": "Økonomi",
-      "published": "11.11. 15:30",
-      "publishedISO": "2026-11-11T15:30:03+01:00",
-      "title": "Reagerer på tidsbruk: – Mer tid på talepunkter enn tiltak",
-      "summary": "Regjeringen bruker altfor lang tid på å få på plass tiltak som skal stanse de kriminelle gjengene, mener Mahmoud Farahmand (H). – Jeg blir forbanna fordi uskyldige nordmenn blir utsatt for dette her. Det er nettopp den tilliten disse nettverkene utnytter, sier Farahmand. – Kampen mot svindel handler derfor om mer enn penger. Regjeringen bruker mer tid på talepunkter enn reelle tiltak, sier han. – Svenske kriminelle bander er etablert i alle landets politidistrikter.",
+      "published": "12.11. 10:01",
+      "publishedISO": "2026-11-12T10:01:28+01:00",
+      "title": "Verdens dyreste sidesprang",
+      "summary": "Utroskapen til AIs rockestjerne kan bli ekstremt kostbart. Jensen Huang har vært usedvanlig god til å selge databrikker. Det kan vise seg å være verdenshistoriens dyreste sidesprang.",
       "keyPoints": [
-        "Regjeringen bruker mer tid på talepunkter enn reelle tiltak, sier han. – Svenske kriminelle bander er etablert i alle landets politidistrikter.",
-        "Regjeringen bruker altfor lang tid på å få på plass tiltak som skal stanse de kriminelle gjengene, mener Mahmoud Farahmand (H). – Jeg blir forbanna fordi uskyldige nordmenn blir utsatt for dette her.",
-        "Det er nettopp den tilliten disse nettverkene utnytter, sier Farahmand. – Kampen mot svindel handler derfor om mer enn penger.",
-        "I et intervju med E24 søndag viste hun til en rekke tiltak i det hun kaller en «kraftfull satsing» mot kriminelle nettverk fra regjeringen."
+        "Det kan vise seg å være verdenshistoriens dyreste sidesprang.",
+        "Jensen Huang har vært usedvanlig god til å selge databrikker.",
+        "Utroskapen til AIs rockestjerne kan bli ekstremt kostbart.",
+        "Nå kan mannen i skinnjakka bli kastet ut av sitt eget livsverk."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/wdEqkP/reagerer-paa-tidsbruk-mer-tid-paa-talepunkter-enn-tiltak",
+      "url": "https://e24.no/internasjonal-oekonomi/i/kMa47X/verdens-dyreste-sidesprang",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/e6f93135-0a89-3beb-85b8-3e4abee67db8?fit=crop&h=675&upscale=true&w=1200&s=a3c5385affe2bc0fd1ee3b5d9fb540c0d2c1af0c",
-      "localImage": "assets/news/d5b3f4d78d7562.jpg",
-      "score": 15
-    },
-    {
-      "id": "d0e9c29fb84867",
-      "category": "Norge",
-      "published": "11.11. 14:16",
-      "publishedISO": "2026-11-11T14:16:28+01:00",
-      "title": "Mener lagmannsretten gir 17-åring «straff uten ende»: Vurderer anke til Høyesterett",
-      "summary": "Selv om lagmannsretten kuttet ett år av straffen på 14 års forvaring fra tingretten, varsler forsvarer Marius Dietrichson at dommen trolig havner på Høyesteretts bord. – De gir ham forvaring, som i realiteten er en straff uten ende, og som er langt utover maksimal straff for barn, sier han. Dietrichson ble nylig engasjert som guttens forsvarer med særlig tanke på å anke saken til Høyesterett. Nettopp den lave alderen på gjerningstidspunktet gjør at Dietrichson er kritisk til at lagmannsretten mener at det er nødvendig med en tidsubestemt forvaringsstraff. – Umiddelbart stusser jeg over å se at lagmannsretten gir en forvaringsstraff, i prinsippet en livslang straff, fordi de frykter han ikke vil endre seg.",
-      "keyPoints": [
-        "Selv om lagmannsretten kuttet ett år av straffen på 14 års forvaring fra tingretten, varsler forsvarer Marius Dietrichson at dommen trolig havner på Høyesteretts bord. – De gir ham forvaring, som i realiteten er en straff uten ende, og som er langt utover maksimal straff for barn, sier han.",
-        "Nettopp den lave alderen på gjerningstidspunktet gjør at Dietrichson er kritisk til at lagmannsretten mener at det er nødvendig med en tidsubestemt forvaringsstraff. – Umiddelbart stusser jeg over å se at lagmannsretten gir en forvaringsstraff, i prinsippet en livslang straff, fordi de frykter han ikke vil endre seg.",
-        "Dietrichson ble nylig engasjert som guttens forsvarer med særlig tanke på å anke saken til Høyesterett.",
-        "Han reagerer kraftig på at en 17-åring fra Stavanger er dømt til 13 års forvaring."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/mener-lagmannsretten-gir-17-aring-_straff-uten-ende__-vurderer-anke-til-hoyesterett-1.18079418",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/idvtpTpF3wvfifh7DbxjxwRuX7ZS_08pJK8JfH-v80dQ.jpg",
-      "localImage": "assets/news/d0e9c29fb84867.jpg",
-      "score": 15
-    },
-    {
-      "id": "f506dbf7890b78",
-      "category": "Økonomi",
-      "published": "10.11. 13:10",
-      "publishedISO": "2026-11-10T13:10:59+01:00",
-      "title": "Oljeprisen faller: – En positiv utvikling",
-      "summary": "Optimisme om slutt på krigen mellom USA og Iran sender oljeprisen nedover. Like før midnatt norsk tid la han ut en melding på Truth Social der han opplyser å ha møtt Qatars statsleder, som har fungert som megler i konflikten. «Vi ser en positiv utvikling mot en avslutning på denne konflikten, og vi vil sørge for at USAs interesser til enhver tid blir ivaretatt», skriver Trump. På det laveste i formiddag var oljeprisen nede på 89,16 dollar fatet, ifølge tall fra Infront.",
-      "keyPoints": [
-        "Like før midnatt norsk tid la han ut en melding på Truth Social der han opplyser å ha møtt Qatars statsleder, som har fungert som megler i konflikten. «Vi ser en positiv utvikling mot en avslutning på denne konflikten, og vi vil sørge for at USAs interesser til enhver tid blir ivaretatt», skriver Trump.",
-        "På det laveste i formiddag var oljeprisen nede på 89,16 dollar fatet, ifølge tall fra Infront.",
-        "Optimisme om slutt på krigen mellom USA og Iran sender oljeprisen nedover.",
-        "Nordsjøoljeprisen falt med nye 2,4 dollar til rundt 90 dollar fatet tirsdag morgen, etter et fall på hele 5,8 dollar fatet mandag, tross nylige USA-angrep i Hormuzstredet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Jn1018/oljeprisen-faller-en-positiv-utvikling",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/52aad1de-27d5-3e7e-853f-b9159f4cec72?fit=crop&h=675&upscale=true&w=1200&s=2de79b1ad894ae59a4e688fbd4e434154d4a5c37",
-      "localImage": "assets/news/f506dbf7890b78.jpg",
-      "score": 13
-    },
-    {
-      "id": "a2c011dc87f5ba",
-      "category": "Norge",
-      "published": "11.11. 23:30",
-      "publishedISO": "2026-11-11T23:30:27+01:00",
-      "title": "Laksedøgn i Altaelva satte prisrekord på auksjon",
-      "summary": "Blant de 40 auksjonsobjektene så var det blant annet et dobbeltdøgn i Alta som ble auksjonert bort. – Jeg har vært her i ganske mange år, og Alta er toppen, og det har vært det største auksjonsobjektet nå i mange år, sier styreleder i Alta laksefiskeri interessentskap (Ali), Karianne Johansen. Men i år ble det pinadø meg 800.000 for to fiskedøgn i Altaelva, sier Johansen. Han sier at de har fått inn nærmere 2 millioner kroner i løpet av onsdagens auksjon, eller i hvert fall 1,9 mill. – Fiskedøgnet i Alta er bestandig høydepunktet på auksjonen.",
-      "keyPoints": [
-        "Han sier at de har fått inn nærmere 2 millioner kroner i løpet av onsdagens auksjon, eller i hvert fall 1,9 mill. – Fiskedøgnet i Alta er bestandig høydepunktet på auksjonen.",
-        "Men i år ble det pinadø meg 800.000 for to fiskedøgn i Altaelva, sier Johansen.",
-        "Blant de 40 auksjonsobjektene så var det blant annet et dobbeltdøgn i Alta som ble auksjonert bort. – Jeg har vært her i ganske mange år, og Alta er toppen, og det har vært det største auksjonsobjektet nå i mange år, sier styreleder i Alta laksefiskeri interessentskap (Ali), Karianne Johansen.",
-        "Mange vil gjøre som kong Harald og fiske laks i Altaelva."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/laksedogn-i-altaelva-satte-prisrekord-pa-auksjon-1.18079866",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/g318op2ZOV0IrFYgQ2LvswrW38fwhneUU7gj5NqXUxSw.jpg",
-      "localImage": "assets/news/a2c011dc87f5ba.jpg",
-      "score": 12
-    },
-    {
-      "id": "784354cc9be443",
-      "category": "Norge",
-      "published": "11.11. 22:51",
-      "publishedISO": "2026-11-11T22:51:50+01:00",
-      "title": "Minnes­merke reist i Langvassdalen 70 år etter døds­skredet",
-      "summary": "Her skal veifarende langs Hålogalandsveien finne ro og minnes en av regionens mørkeste netter. Det er 70 år siden et voldsomt snøskred i Langvassdalen i Kvæfjord tok med seg to bolighus og kostet fem mennesker livet. Det ble en skikkelig verdig åpning, sier ordfører i Kvæfjord Birger Holand. – Jeg håper man kan sette seg ned i ro og mak og minnes tilbake på personer som kanskje har gått bort, noen du savner, og kunne nyte den fantastiske naturen som er her, sier ordføreren.",
-      "keyPoints": [
-        "Det er 70 år siden et voldsomt snøskred i Langvassdalen i Kvæfjord tok med seg to bolighus og kostet fem mennesker livet.",
-        "Det ble en skikkelig verdig åpning, sier ordfører i Kvæfjord Birger Holand. – Jeg håper man kan sette seg ned i ro og mak og minnes tilbake på personer som kanskje har gått bort, noen du savner, og kunne nyte den fantastiske naturen som er her, sier ordføreren.",
-        "Her skal veifarende langs Hålogalandsveien finne ro og minnes en av regionens mørkeste netter.",
-        "Karl Johan Evensen var en av de første som ankom ulykkesstedet i Langvassdalen med spade for å lete i snømassene."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/minnesmerke-reist-i-langvassdalen-70-ar-etter-dodsskredet-1.18079683",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/0gH4qC7QSFLnroD7TuVP-wDwfN-ck55qQfD3jgoOeQPA.jpg",
-      "localImage": "assets/news/784354cc9be443.jpg",
-      "score": 12
-    },
-    {
-      "id": "6cc9d5ebd51be6",
-      "category": "Norge",
-      "published": "11.11. 22:41",
-      "publishedISO": "2026-11-11T22:41:50+01:00",
-      "title": "Trondheim har fått sitt Havel's Place",
-      "summary": "I likhet med byer som Paris, Washington og Barcelona, har Trondheim fått et minnested etter den tidligere tsjekkiske presidenten og menneskerettighetsaktivisten, Václav Havel. To stoler og et bord med et tre som vokser opp gjennom midten av det står nede ved Nidelva i Trondheim. – Havel's Place Den skal bringe folk sammen, få dem til å prate og bli enige om sine uoverensstemmelser. Han er den tsjekkiske ambassadøren i Norge og var til stede da Trondheim fikk Skandinavias første Havel's Place. – Jeg husker han fra min barndom som en viktig statsmann.",
-      "keyPoints": [
-        "Han er den tsjekkiske ambassadøren i Norge og var til stede da Trondheim fikk Skandinavias første Havel's Place. – Jeg husker han fra min barndom som en viktig statsmann.",
-        "To stoler og et bord med et tre som vokser opp gjennom midten av det står nede ved Nidelva i Trondheim. – Havel's Place Den skal bringe folk sammen, få dem til å prate og bli enige om sine uoverensstemmelser.",
-        "I likhet med byer som Paris, Washington og Barcelona, har Trondheim fått et minnested etter den tidligere tsjekkiske presidenten og menneskerettighetsaktivisten, Václav Havel.",
-        "Det er fantastisk at Trondheim har fått et slikt sted, sier han som tror han er en fjern slektning av Václav Havel Sonja Olaussen: – Han var et ordentlig menneske."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/trondheim-har-fatt-sitt-havel_s-place-1.18079063",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/KQMGiNfFqzG6Qr-dTqc-7w9jUWVvLf755znEVl35MOxQ.jpg",
-      "localImage": "assets/news/6cc9d5ebd51be6.jpg",
-      "score": 12
+      "image": "https://akamai.vgc.no/v2/images/c8961e44-1d3c-3883-bc50-1441d1075aa0?fit=crop&h=675&upscale=true&w=1200&s=f4bd8ad4ee00463996bcba56496877908daae40f",
+      "localImage": "assets/news/daf94fd6eb5fc3.jpg",
+      "score": 17
     }
   ]
 }
