@@ -1,28 +1,28 @@
 {
-  "updatedAt": "13.11.2026 kl. 08:23",
-  "updatedISO": "2026-11-13T08:23:39.978419+01:00",
+  "updatedAt": "13.11.2026 kl. 16:38",
+  "updatedISO": "2026-11-13T16:38:22.728059+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "258565e11ece08",
+      "id": "c9f04475b0d0ef",
       "category": "Norge",
-      "published": "12.11. 22:37",
-      "publishedISO": "2026-11-12T22:37:01+01:00",
-      "title": "Samlet industrien og ministeren i Lyngen",
-      "summary": "Spørsmål om krig og beredskap ble stilt på Industriens dag i Lyngen. – Vi vet ikke hva som kommer rundt neste sving, sier arrangøren. Paneldebatt under Industriens dag på Furuflaten i Lyngen. Årets tema var beredskap og sikkerhet, og hva industrien gjør om verdikjeden brytes i nord.",
+      "published": "13.11. 15:31",
+      "publishedISO": "2026-11-13T15:31:12+01:00",
+      "title": "Drapet på Drammen sykehus: Kameraer kan gi politiet viktige bevis",
+      "summary": "Det er en uke siden en mann i 40-åra knivstakk og drepte en medpasient på lukket psykiatrisk avdeling på Drammen sykehus. Det er ingen kameraer inne på sykehuset, opplyser politiet. Politiet bekreftet onsdag at kniven som ble brukt i hendelsen, ble kjøpt av siktede under én time før drapet.",
       "keyPoints": [
-        "Spørsmål om krig og beredskap ble stilt på Industriens dag i Lyngen. – Vi vet ikke hva som kommer rundt neste sving, sier arrangøren.",
-        "Paneldebatt under Industriens dag på Furuflaten i Lyngen.",
-        "Årets tema var beredskap og sikkerhet, og hva industrien gjør om verdikjeden brytes i nord.",
-        "Han peker på at internasjonale hendelser treffer industrien i nord både raskt og direkte. – Vi vet ikke hva som kommer rundt neste sving."
+        "Det er en uke siden en mann i 40-åra knivstakk og drepte en medpasient på lukket psykiatrisk avdeling på Drammen sykehus.",
+        "Politiet bekreftet onsdag at kniven som ble brukt i hendelsen, ble kjøpt av siktede under én time før drapet.",
+        "Det er ingen kameraer inne på sykehuset, opplyser politiet.",
+        "Politiet har nå informasjon om hvor kniven ble kjøpt og hva den siktede gjorde i den timen han hadde permisjon utenfor sykehuset."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/samlet-industrien-og-ministeren-i-lyngen-1.18080667",
+      "url": "https://www.nrk.no/buskerud/drapet-pa-drammen-sykehus_-kameraer-kan-gi-politiet-viktige-bevis-1.18081251",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/-kfAO9Wz-IXCaV83MBa2owZhiutYf1I52uHD9qqPz65w.jpg",
-      "localImage": "assets/news/258565e11ece08.jpg",
-      "score": 16
+      "image": "https://gfx.nrk.no/-GLvKPU9BdsjOWZRN8CpUgfHk9EbKJHC6Ek_gXEvqDhw.jpg",
+      "localImage": "assets/news/c9f04475b0d0ef.jpg",
+      "score": 13
     },
     {
       "id": "80c0732bc71589",
@@ -43,7 +43,28 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png",
       "localImage": "assets/news/80c0732bc71589.png",
-      "score": 14
+      "score": 12
+    },
+    {
+      "id": "02784f9b36a2fd",
+      "category": "Økonomi",
+      "published": "13.11. 09:04",
+      "publishedISO": "2026-11-13T09:04:01+01:00",
+      "title": "Olje og tank dro Oslo Børs opp",
+      "summary": "Det var forsiktig oppgang på Oslo Børs gjennom det meste av fredagen, og det ble også den endelige fasiten på ukens siste handelsdag. Brent spot-prisen ligger på 96,6 dollar fatet ved stengetid fredag ettermiddag, og opp nesten én prosent siden midnatt. Oljeaksjer bidro til at børsen endte i grønt: BW LPG har kunngjort en regnskapsmessig gevinst på om lag 37 millioner dollar, etter salg av skipet BW Mistral, ifølge en børsmelding.",
+      "keyPoints": [
+        "Det var forsiktig oppgang på Oslo Børs gjennom det meste av fredagen, og det ble også den endelige fasiten på ukens siste handelsdag.",
+        "Brent spot-prisen ligger på 96,6 dollar fatet ved stengetid fredag ettermiddag, og opp nesten én prosent siden midnatt.",
+        "Oljeaksjer bidro til at børsen endte i grønt: BW LPG har kunngjort en regnskapsmessig gevinst på om lag 37 millioner dollar, etter salg av skipet BW Mistral, ifølge en børsmelding.",
+        "Kontantbeholdningen var 25 millioner kroner 9. november, ned fra 27 millioner ved utgangen av september og 59 millioner ved utgangen av juni."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Qroo2P/oppgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7e654c97-0d83-30b1-8607-58e607467553?fit=crop&h=675&upscale=true&w=1200&s=2e0e6fa88c6d9dc10e68ab3f989c81b3d3c713fb",
+      "localImage": "assets/news/02784f9b36a2fd.jpg",
+      "score": 19
     },
     {
       "id": "793de8fda19a34",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a84ee232-1290-393a-8faa-ab4842e5384e?fit=crop&h=675&upscale=true&w=1200&s=9e71a789151746e267ad90e485080037af400cfb",
       "localImage": "assets/news/793de8fda19a34.jpg",
-      "score": 21
+      "score": 19
     },
     {
       "id": "488e22cdfec8dc",
@@ -85,7 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4c656e57-5f26-3fa9-a388-394109785c4b?fit=crop&h=675&upscale=true&w=1200&s=0ee3446373d5aa7497952afd655072e5c414596f",
       "localImage": "assets/news/488e22cdfec8dc.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "c4e0dcea91abfb",
+      "category": "Økonomi",
+      "published": "13.11. 15:32",
+      "publishedISO": "2026-11-13T15:32:08+01:00",
+      "title": "Nytt kraftig Nvidia-fall",
+      "summary": "AI-giganten dundret ned i tidlig handel, men hentet seg en del inn og avsluttet dagen 4,3 prosent ned. Nvidia har mistet rundt 4.700 milliarder norske kroner i markedsverdi i løpet ukens fire første dager. Fredag steg aksjen rundt 2 prosent i førhandelen på Wall Street.",
+      "keyPoints": [
+        "AI-giganten dundret ned i tidlig handel, men hentet seg en del inn og avsluttet dagen 4,3 prosent ned.",
+        "Nvidia har mistet rundt 4.700 milliarder norske kroner i markedsverdi i løpet ukens fire første dager.",
+        "Fredag steg aksjen rundt 2 prosent i førhandelen på Wall Street.",
+        "Nvidia-aksjen åpnet med oppgang, men snudde raskt ned og faller 4 prosent i 16.20-tiden."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/9Bvmmr/wall-street-aapner-opp",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/30643828-ec50-35a0-b5e4-d837337e83c9?fit=crop&h=675&upscale=true&w=1200&s=74da7ade36d385c64e5b29ca1f93cea75a30f66f",
+      "localImage": "assets/news/c4e0dcea91abfb.jpg",
+      "score": 17
     },
     {
       "id": "33b6a81e101d0a",
@@ -106,28 +148,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5ed9ecb6-2ed7-3294-8842-596aa2f40e0c?fit=crop&h=675&upscale=true&w=1200&s=9c82a34c19df62929d91e6dc30cbeacb155ab06b",
       "localImage": "assets/news/33b6a81e101d0a.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "11792281473554",
+      "id": "c18c8631bee08b",
       "category": "Økonomi",
-      "published": "12.11. 14:14",
-      "publishedISO": "2026-11-12T14:14:13+01:00",
-      "title": "Oljeprisen hopper etter Trump-melding",
-      "summary": "Oljeprisen og oljeaksjer på Oslo Børs stiger. – Vi trenger ingen avtale med Iran, skriver Trump i en melding på Truth Social. – De dagene er for lengst forbi. Oljeprisen hopper til over 94 dollar fatet, fra 92 dollar fatet før meldingen. Så sent som i slutten av oktober var oljeprisen oppe i over 117 dollar fatet.",
+      "published": "13.11. 09:57",
+      "publishedISO": "2026-11-13T09:57:12+01:00",
+      "title": "Nscale: Har tapt 16 milliarder på ni måneder",
+      "summary": "Nscale og Anthropic har 60 dager på å forhandle en avtale, skriver selskapet. I august ble det kjent at Nscale har inngått en avtale verdt 45 milliarder dollar for AI-beregningskapasitet med Anthropic. FT har tidligere omtalt en mulig verdsettelse på opptil 35 milliarder dollar, men siden den gang har det vært betydelig uro rundt AI-selskaper i de globale aksjemarkedene.",
       "keyPoints": [
-        "Oljeprisen hopper til over 94 dollar fatet, fra 92 dollar fatet før meldingen.",
-        "Oljeprisen og oljeaksjer på Oslo Børs stiger. – Vi trenger ingen avtale med Iran, skriver Trump i en melding på Truth Social. – De dagene er for lengst forbi.",
-        "Så sent som i slutten av oktober var oljeprisen oppe i over 117 dollar fatet.",
-        "Denne ligger på 5,05 prosent, fra 5,00 prosent før Trumps melding."
+        "I august ble det kjent at Nscale har inngått en avtale verdt 45 milliarder dollar for AI-beregningskapasitet med Anthropic.",
+        "Nscale og Anthropic har 60 dager på å forhandle en avtale, skriver selskapet.",
+        "FT har tidligere omtalt en mulig verdsettelse på opptil 35 milliarder dollar, men siden den gang har det vært betydelig uro rundt AI-selskaper i de globale aksjemarkedene.",
+        "Datasenterselskapet Nscale har oppdatert dokumentene sendt inn til det amerikanske finanstilsynet SEC i forkant av den planlagte børsnoteringen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/R1Rb88/oljeprisen-hopper-etter-trump-melding",
+      "url": "https://e24.no/boers-og-finans/i/2vGGAB/nscale-har-tapt-16-milliarder-paa-ni-maaneder",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/736e2fe0-acf4-3f19-ae7b-6be4180c7576?fit=crop&h=675&upscale=true&w=1200&s=25eb4702a1f276814a5c43f163256ed64c7486a8",
-      "localImage": "assets/news/11792281473554.jpg",
-      "score": 17
+      "image": "https://akamai.vgc.no/v2/images/d356267b-544a-32f6-8343-6794bd2473b4?fit=crop&h=675&upscale=true&w=1200&s=7914d9be4b9befe26de86da2b299fc18f2c1ed4e",
+      "localImage": "assets/news/c18c8631bee08b.jpg",
+      "score": 16
     },
     {
       "id": "f9f77383740306",
@@ -148,69 +190,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6ec015f3-0593-35a6-ba8d-0b87e3df46fd?fit=crop&h=675&upscale=true&w=1200&s=4e6b6074168652c2cee077e4501c24760aba961c",
       "localImage": "assets/news/f9f77383740306.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "a8a2ec0cb664a4",
+      "id": "acb50ffdb5ab9e",
       "category": "Økonomi",
-      "published": "12.11. 20:33",
-      "publishedISO": "2026-11-12T20:33:43+01:00",
-      "title": "Reuters: Jensen Huang har hatt forhold til enda en Nvidia-ansatt",
-      "summary": "Jensen Huang måtte gå fra Nvidia etter flere avsløringer. Nyhetsbyrået skriver at Huang har hatt et intimt forhold til enda en ansatt i Nvidia, og viser til to ikke navngitte kilder med kjennskap til saken. Onsdag kveld ble skandalen løftet til et nytt nivå, da New York Times meldte at Huang også skal ha hatt et forhold med en toppleder i Nvidia.",
+      "published": "13.11. 10:22",
+      "publishedISO": "2026-11-13T10:22:37+01:00",
+      "title": "Populære aksjer har falt tungt: – Kunne ikke brydd meg mindre",
+      "summary": "Åsvold sier han likevel «sover veldig godt om natten». – Jeg kunne ikke brydd meg mindre. Selv følger han ikke enkeltaksjer spesifikt, men Lie ser en utvikling i markedet. – Det er jo deler av AI-markedet hvor forretningsmodellene er litt mindre sunne og litt mer spekulative, kanskje, sier Lie til E24. Selv ser investoren ti år frem i tid. – Jeg skulle selvfølgelig ønske jeg hadde mer inntekter, slik at jeg kunne benyttet meg av det og kjøpt mer.",
       "keyPoints": [
-        "Nyhetsbyrået skriver at Huang har hatt et intimt forhold til enda en ansatt i Nvidia, og viser til to ikke navngitte kilder med kjennskap til saken.",
-        "Onsdag kveld ble skandalen løftet til et nytt nivå, da New York Times meldte at Huang også skal ha hatt et forhold med en toppleder i Nvidia.",
-        "Jensen Huang måtte gå fra Nvidia etter flere avsløringer.",
-        "Torsdag kom nyheten om at Huang går av som toppsjef i Nvidia, selskapet han har ledet siden 1993 og som i dag regnes som helt kritisk for AI-økonomien."
+        "Åsvold sier han likevel «sover veldig godt om natten». – Jeg kunne ikke brydd meg mindre.",
+        "Selv ser investoren ti år frem i tid. – Jeg skulle selvfølgelig ønske jeg hadde mer inntekter, slik at jeg kunne benyttet meg av det og kjøpt mer.",
+        "Selv følger han ikke enkeltaksjer spesifikt, men Lie ser en utvikling i markedet. – Det er jo deler av AI-markedet hvor forretningsmodellene er litt mindre sunne og litt mer spekulative, kanskje, sier Lie til E24.",
+        "Porteføljen hans tilsvarer en verdi på om lag 3,4 millioner kroner i Tesla-aksjer, pluss en mindre andel SpaceX-aksjer."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/0vnEz6/reuters-jensen-huang-har-hatt-forhold-til-enda-en-nvidia-ansatt",
+      "url": "https://e24.no/boers-og-finans/i/7PlryB/populaere-aksjer-har-falt-tungt-kunne-ikke-brydd-meg-mindre",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f56e8c66-e548-33fb-9cad-5f3e77de325c?fit=crop&h=675&upscale=true&w=1200&s=627fcd29c451a00a71a1bc3fba989f5c144fd86b",
-      "localImage": "assets/news/a8a2ec0cb664a4.png",
-      "score": 15
-    },
-    {
-      "id": "7b2ebc220a781d",
-      "category": "Norge",
-      "published": "12.11. 20:11",
-      "publishedISO": "2026-11-12T20:11:18+01:00",
-      "title": "Kolonnekjøring to ganger daglig forbi raset i Austertana",
-      "summary": "Veien forbi rasstedet i Austertana blir åpnet to ganger hver dag fremover. Ruth Eli Sør-Reime fikk «en helvetes jobb» med å skrape bilen som hadde stått på den andre siden av raset siden tirsdag. – Jeg har stått her siden tirsdag. Sør-Reime jobber på Tana bru, men bor i Austertana på den andre siden av raset.",
-      "keyPoints": [
-        "Veien forbi rasstedet i Austertana blir åpnet to ganger hver dag fremover.",
-        "Sør-Reime jobber på Tana bru, men bor i Austertana på den andre siden av raset.",
-        "Ruth Eli Sør-Reime fikk «en helvetes jobb» med å skrape bilen som hadde stått på den andre siden av raset siden tirsdag. – Jeg har stått her siden tirsdag.",
-        "Tana har hatt utfordringer med å få folk på jobb mens skredet har isolert bygda Austertana. – Det er en helt annen situasjon når det er mulig å passere rasstedet to ganger i døgnet."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/kolonnekjoring-to-ganger-daglig-forbi-raset-i-austertana-1.18079856",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/XSHWg0n8aC0dw7pNImBJ5A-Lp8Hl1PtZjfPxiV1ewCQA.jpg",
-      "localImage": "assets/news/7b2ebc220a781d.jpg",
-      "score": 15
-    },
-    {
-      "id": "86a0da0c702336",
-      "category": "Norge",
-      "published": "11.11. 23:46",
-      "publishedISO": "2026-11-11T23:46:27+01:00",
-      "title": "CNN: Demokratene vinner historisk senatsvalg i Mississippi",
-      "summary": "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose. Han blir den første demokraten som representerer Mississippi i Senatet på over 40 år. Colom blir også den første svarte politikeren som velges til et politisk verv av velgerne i hele Mississippi siden gjenoppbyggingsperioden etter den amerikanske borgerkrigen på 1800-tallet.",
-      "keyPoints": [
-        "Colom blir også den første svarte politikeren som velges til et politisk verv av velgerne i hele Mississippi siden gjenoppbyggingsperioden etter den amerikanske borgerkrigen på 1800-tallet.",
-        "Han blir den første demokraten som representerer Mississippi i Senatet på over 40 år.",
-        "Demokraten Scott Colom har vunnet senatsvalget i den tradisjonelt republikanske delstaten Mississippi, ifølge CNNs prognose.",
-        "Colom slår dermed den sittende republikanske senatoren Cindy Hyde-Smith, melder CNN onsdag kveld."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nyheter/cnn_-demokratene-vinner-historisk-senatsvalg-i-mississippi-1.18079865",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/aINGwEOzgulNg6ap_tq45ABfmWMEsq3JeqxoNXE_KgBQ.png",
-      "localImage": "assets/news/86a0da0c702336.png",
+      "image": "https://akamai.vgc.no/v2/images/77ebe080-e5e3-31a5-b2a8-2334b9c9148a?fit=crop&h=675&upscale=true&w=1200&s=6cfbe6915b00bc5e23d0aa958b8381f2eab8e0c4",
+      "localImage": "assets/news/acb50ffdb5ab9e.jpg",
       "score": 15
     }
   ]
