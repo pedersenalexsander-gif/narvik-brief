@@ -1,28 +1,49 @@
 {
-  "updatedAt": "14.11.2026 kl. 02:51",
-  "updatedISO": "2026-11-14T02:51:52.285491+01:00",
+  "updatedAt": "14.11.2026 kl. 09:42",
+  "updatedISO": "2026-11-14T09:42:42.785129+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "4c8d2bec26a081",
+      "id": "9145bcf1e33bde",
       "category": "Norge",
-      "published": "13.11. 22:34",
-      "publishedISO": "2026-11-13T22:34:42+01:00",
-      "title": "Karls­berger Pub på Svalbard kåret til landets beste",
-      "summary": "Karlsberger Pub på Svalbard danket ut ni andre deltakere. Over 80 mil fra fastlandet ligger det som nå er kåret til Norges beste pub. Fredag kåret NRK P3-programmet Siesta Karlsberger Pub på Svalbard til vinneren, etter at ti puber fra det ganske land kjempet om tittelen.",
+      "published": "14.11. 09:18",
+      "publishedISO": "2026-11-14T09:18:05+01:00",
+      "title": "Frp på storoffensiv: Vil ta makta i distrikta",
+      "summary": "FpU-leiar Odd Andre Olsen Foto: Eli Ruset Lager / NRK I fjor blei Sogn og Fjordane FpU stifta, og ifølgje Olsen fekk dei fekk dei over 100 nye medlemmer i løpet av eit år. – Det er ein ganske stor medlemsvekst, og det er veldig viktig, fortel han. 2. nestleiar i Frp, Terje Søviknes, fortel at dei over fleire år har jobba målretta med å ruste opp partiorganisasjonen. – Dette er sjølvsagt viktig fram mot kommunevalet, men vi har eigentleg jobba med dette heilt sidan Frp la nye strategiar tilbake i 2021. Sjølv om Vestland allereie er det største fylkeslaget til Frp, manglar partiet framleis representasjon i fleire kommunar.",
       "keyPoints": [
-        "Fredag kåret NRK P3-programmet Siesta Karlsberger Pub på Svalbard til vinneren, etter at ti puber fra det ganske land kjempet om tittelen.",
-        "Over 80 mil fra fastlandet ligger det som nå er kåret til Norges beste pub.",
-        "Karlsberger Pub på Svalbard danket ut ni andre deltakere.",
-        "Da NRK snakket med pubeieren kort tid etter at seieren var et faktum, sier han at gullmedaljen kom brått på. – Med 2600 fastboende innbyggere på Svalbard hadde jeg egentlig ikke trodd at vi skulle nå opp i antall stemmer mot puber i både Oslo, Bergen og Tromsø."
+        "2. nestleiar i Frp, Terje Søviknes, fortel at dei over fleire år har jobba målretta med å ruste opp partiorganisasjonen. – Dette er sjølvsagt viktig fram mot kommunevalet, men vi har eigentleg jobba med dette heilt sidan Frp la nye strategiar tilbake i 2021.",
+        "FpU-leiar Odd Andre Olsen Foto: Eli Ruset Lager / NRK I fjor blei Sogn og Fjordane FpU stifta, og ifølgje Olsen fekk dei fekk dei over 100 nye medlemmer i løpet av eit år. – Det er ein ganske stor medlemsvekst, og det er veldig viktig, fortel han.",
+        "Sjølv om Vestland allereie er det største fylkeslaget til Frp, manglar partiet framleis representasjon i fleire kommunar.",
+        "Vararepresentant for Frp Hordaland, Svein Otto Jacobsen, avviser likevel at dei har vore dårlege på partibygging tidlegare. – Det er ikkje til å leggje skjul på at vi prøver å få ei betre dekning i fylket fram mot kommunevalet."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/karlsberger-pub-pa-svalbard-karet-til-landets-beste-1.18081590",
+      "url": "https://www.nrk.no/artikkel/frp-pa-storoffensiv-vil-ta-makta-i-distrikta-1531630",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sCt8mZnO9A67q15VJ3k5Qgpeb328VKzoz4gIAPomAoCw.jpg",
-      "localImage": "assets/news/4c8d2bec26a081.jpg",
+      "image": "https://gfx.nrk.no/p6m6gpDIfgp9n4htyFfToA8D8ZKIcUZ6RvhC43rcs2pA",
+      "localImage": "assets/news/9145bcf1e33bde.jpg",
       "score": 13
+    },
+    {
+      "id": "e8f2ea4a055cba",
+      "category": "Økonomi",
+      "published": "14.11. 08:56",
+      "publishedISO": "2026-11-14T08:56:40+01:00",
+      "title": "En veldig amerikansk-kinesisk affære",
+      "summary": "Nvidia-sjefens affære har alle ingrediensene til klassisk kald krig-thriller – fordi den kanskje er det. Affæren sier kanskje noe om Jensen Huang som person, men veldig, veldig mye om tiden vi lever i. Kvinnen Jensen Huang skal ha hatt en affære med, kinesiske Alice Huang, er mistenkt av amerikanske myndigheter for å ha forbindelser til kinesisk etterretning (Kina har benektet det).",
+      "keyPoints": [
+        "Affæren sier kanskje noe om Jensen Huang som person, men veldig, veldig mye om tiden vi lever i.",
+        "Nvidia-sjefens affære har alle ingrediensene til klassisk kald krig-thriller – fordi den kanskje er det.",
+        "Kvinnen Jensen Huang skal ha hatt en affære med, kinesiske Alice Huang, er mistenkt av amerikanske myndigheter for å ha forbindelser til kinesisk etterretning (Kina har benektet det).",
+        "Det spektakulære fallet til en av verdens mektigste næringslivsledere, Nvidias Jensen Huang, handlet ikke om sex og utroskap, men om en langt mer potent kombinasjon: sex og storpolitikk."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Qrlpa8/en-veldig-amerikansk-kinesisk-affaere",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/fd33058a-2bb1-365b-8066-690bb2d8eaaf?fit=crop&h=675&upscale=true&w=1200&s=1485111b487024caef4f6f21eb6c51b46f41889a",
+      "localImage": "assets/news/e8f2ea4a055cba.jpg",
+      "score": 21
     },
     {
       "id": "3f056fd21d59ea",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/30643828-ec50-35a0-b5e4-d837337e83c9?fit=crop&h=675&upscale=true&w=1200&s=74da7ade36d385c64e5b29ca1f93cea75a30f66f",
       "localImage": "assets/news/3f056fd21d59ea.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "02784f9b36a2fd",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7e654c97-0d83-30b1-8607-58e607467553?fit=crop&h=675&upscale=true&w=1200&s=2e0e6fa88c6d9dc10e68ab3f989c81b3d3c713fb",
       "localImage": "assets/news/02784f9b36a2fd.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "793de8fda19a34",
@@ -85,27 +106,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a84ee232-1290-393a-8faa-ab4842e5384e?fit=crop&h=675&upscale=true&w=1200&s=9e71a789151746e267ad90e485080037af400cfb",
       "localImage": "assets/news/793de8fda19a34.jpg",
-      "score": 17
-    },
-    {
-      "id": "e10c0aadf0a018",
-      "category": "Økonomi",
-      "published": "13.11. 22:51",
-      "publishedISO": "2026-11-13T22:51:00+01:00",
-      "title": "Analyse: Avgift kan stenge oljefelt tidlig",
-      "summary": "Norge kan gå glipp av store oljeressurser med økende CO₂-avgift, viser fersk analyse. –⁠ Vil få mye å si for hvor mye vi får produsert, sier statssekretær. I de første årene vil regjeringens inntekter øke med høyere avgift, mens dette vil snu etter 2036, ifølge Wood Mackenzie (se faktaboks). Den høye avgiften kutter derfor utslipp primært ved å la ressurser bli liggende i bakken og stenge ned sentrale felt tidligere», skriver selskapet. – Det har vært mye politisk uro rundt avgiften, også knyttet til de årlige budsjettforhandlingene, sier statssekretær Snorre Erichsen Skjevrak. – Slik det ligger an nå ligger CO₂-avgiften til å øke jevnt fremover.",
-      "keyPoints": [
-        "Norge kan gå glipp av store oljeressurser med økende CO₂-avgift, viser fersk analyse. –⁠ Vil få mye å si for hvor mye vi får produsert, sier statssekretær.",
-        "I de første årene vil regjeringens inntekter øke med høyere avgift, mens dette vil snu etter 2036, ifølge Wood Mackenzie (se faktaboks).",
-        "Den høye avgiften kutter derfor utslipp primært ved å la ressurser bli liggende i bakken og stenge ned sentrale felt tidligere», skriver selskapet. – Det har vært mye politisk uro rundt avgiften, også knyttet til de årlige budsjettforhandlingene, sier statssekretær Snorre Erichsen Skjevrak. – Slik det ligger an nå ligger CO₂-avgiften til å øke jevnt fremover.",
-        "Med høy avgift vil fallet som er ventet på sokkelen i mindre grad bli motvirket av funn som ennå ikke er gjort på norsk sokkel. «Den høyere avgiften fungerer derfor i mindre grad som et generelt kutt i produksjonen og i større grad som en progressiv uttynning av ressursene som skulle erstatte dagens produserende felt», skriver selskapet i analysen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/kMJR06/analyse-avgift-kan-stenge-oljefelt-tidlig",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/78ee827d-a73a-3c64-965e-e01a0b006f40?fit=crop&h=675&upscale=true&w=1200&s=175bdb87ed4f25821dc424ff1af7d9b146136127",
-      "localImage": "assets/news/e10c0aadf0a018.png",
       "score": 16
     },
     {
@@ -127,28 +127,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4c656e57-5f26-3fa9-a388-394109785c4b?fit=crop&h=675&upscale=true&w=1200&s=0ee3446373d5aa7497952afd655072e5c414596f",
       "localImage": "assets/news/488e22cdfec8dc.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "33b6a81e101d0a",
+      "id": "e10c0aadf0a018",
       "category": "Økonomi",
-      "published": "12.11. 16:34",
-      "publishedISO": "2026-11-12T16:34:55+01:00",
-      "title": "Donald Trump foreslår Huang-erstatter: – En legende",
-      "summary": "En legende erstatter en legende!», skriver USAs president Donald Trump på Truth Social. Huang har vært regnet som en nær alliert av president Donald Trump i det teknologiske kappløpet mellom USA og Kina. Trump sa tidligere denne uken at FBI undersøker saken som sprakk søndag.",
+      "published": "13.11. 22:51",
+      "publishedISO": "2026-11-13T22:51:00+01:00",
+      "title": "Analyse: Avgift kan stenge oljefelt tidlig",
+      "summary": "Norge kan gå glipp av store oljeressurser med økende CO₂-avgift, viser fersk analyse. –⁠ Vil få mye å si for hvor mye vi får produsert, sier statssekretær. I de første årene vil regjeringens inntekter øke med høyere avgift, mens dette vil snu etter 2036, ifølge Wood Mackenzie (se faktaboks). Den høye avgiften kutter derfor utslipp primært ved å la ressurser bli liggende i bakken og stenge ned sentrale felt tidligere», skriver selskapet. – Det har vært mye politisk uro rundt avgiften, også knyttet til de årlige budsjettforhandlingene, sier statssekretær Snorre Erichsen Skjevrak. – Slik det ligger an nå ligger CO₂-avgiften til å øke jevnt fremover.",
       "keyPoints": [
-        "En legende erstatter en legende!», skriver USAs president Donald Trump på Truth Social.",
-        "Huang har vært regnet som en nær alliert av president Donald Trump i det teknologiske kappløpet mellom USA og Kina.",
-        "Trump sa tidligere denne uken at FBI undersøker saken som sprakk søndag.",
-        "Torsdag sier kinesiske myndigheter at USA må slutte å bruke påstander om kinesisk spionasje mot avgåtte Huang for å rettferdiggjøre teknologirestriksjoner, skriver Bloomberg. – Kinas vitenskapelige fremskritt er avhengig av uavhengig innovasjon og åpent samarbeid, sier Mao Ning, talsperson for det kinesiske utenriksdepartementet."
+        "Norge kan gå glipp av store oljeressurser med økende CO₂-avgift, viser fersk analyse. –⁠ Vil få mye å si for hvor mye vi får produsert, sier statssekretær.",
+        "I de første årene vil regjeringens inntekter øke med høyere avgift, mens dette vil snu etter 2036, ifølge Wood Mackenzie (se faktaboks).",
+        "Den høye avgiften kutter derfor utslipp primært ved å la ressurser bli liggende i bakken og stenge ned sentrale felt tidligere», skriver selskapet. – Det har vært mye politisk uro rundt avgiften, også knyttet til de årlige budsjettforhandlingene, sier statssekretær Snorre Erichsen Skjevrak. – Slik det ligger an nå ligger CO₂-avgiften til å øke jevnt fremover.",
+        "Med høy avgift vil fallet som er ventet på sokkelen i mindre grad bli motvirket av funn som ennå ikke er gjort på norsk sokkel. «Den høyere avgiften fungerer derfor i mindre grad som et generelt kutt i produksjonen og i større grad som en progressiv uttynning av ressursene som skulle erstatte dagens produserende felt», skriver selskapet i analysen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/r8ALAm/donald-trump-foreslaar-aa-erstatte-nvidia-sjefen-med-tidligere-apple-sjef-tim-cook-en-legende",
+      "url": "https://e24.no/energi-og-klima/i/kMJR06/analyse-avgift-kan-stenge-oljefelt-tidlig",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5ed9ecb6-2ed7-3294-8842-596aa2f40e0c?fit=crop&h=675&upscale=true&w=1200&s=9c82a34c19df62929d91e6dc30cbeacb155ab06b",
-      "localImage": "assets/news/33b6a81e101d0a.jpg",
-      "score": 15
+      "image": "https://akamai.vgc.no/v2/images/78ee827d-a73a-3c64-965e-e01a0b006f40?fit=crop&h=675&upscale=true&w=1200&s=175bdb87ed4f25821dc424ff1af7d9b146136127",
+      "localImage": "assets/news/e10c0aadf0a018.png",
+      "score": 14
+    },
+    {
+      "id": "1a6498a118c38a",
+      "category": "Økonomi",
+      "published": "14.11. 08:42",
+      "publishedISO": "2026-11-14T08:42:53+01:00",
+      "title": "Microsoft-trøbbel er løst",
+      "summary": "Ifølge Microsoft skyldes problemene «økt belastning» på infrastrukturen. Nå melder selskapet at problemene er løst og at «alt fungerer som normalt», skriver Bloomberg. Feilen har ifølge Downdetector rammet brukere og viktig infrastruktur i minst 74 land og territorier.",
+      "keyPoints": [
+        "Nå melder selskapet at problemene er løst og at «alt fungerer som normalt», skriver Bloomberg.",
+        "Feilen har ifølge Downdetector rammet brukere og viktig infrastruktur i minst 74 land og territorier.",
+        "Ifølge Microsoft skyldes problemene «økt belastning» på infrastrukturen.",
+        "Over 430 millioner bruker de ulike systemene til Microsoft."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/z0G735/microsoft-troebbel-er-loest",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/0b58329e-639d-32f4-bf6f-132582fd7b10?fit=crop&h=675&upscale=true&w=1200&s=ee5f2ae5e0a82c3be167824bad1731c8626ce750",
+      "localImage": "assets/news/1a6498a118c38a.jpg",
+      "score": 13
+    },
+    {
+      "id": "3e3f12758ceed9",
+      "category": "Norge",
+      "published": "14.11. 08:00",
+      "publishedISO": "2026-11-14T08:00:06+01:00",
+      "title": "Et lite stykke Norge i Grand Theft Auto",
+      "summary": "Men inne i spillet har tusenvis av nordmenn skapt noe helt annet. – Velkommen til Oslo, håper du har en fin dag, sier kvinnen bak skranken idet jeg går ut av gate 01. Endelig er jeg framme: Kim Mikkelsen, nyinnflyttet i et fiktivt Norge. Vi kjører et lite stykke til før Eriko sier stolt: – Der har vi Red Rocket, vet du.",
+      "keyPoints": [
+        "Endelig er jeg framme: Kim Mikkelsen, nyinnflyttet i et fiktivt Norge.",
+        "Men inne i spillet har tusenvis av nordmenn skapt noe helt annet. – Velkommen til Oslo, håper du har en fin dag, sier kvinnen bak skranken idet jeg går ut av gate 01.",
+        "Vi kjører et lite stykke til før Eriko sier stolt: – Der har vi Red Rocket, vet du.",
+        "Nå står jeg på flyplassen med 10.000 digitale kroner i kontanter og et ID-kort på innerlomma."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/dokumentar/xl/et-lite-stykke-norge-i-grand-theft-auto-1.18074365",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/uqeU2AXIDJIzZTWAGmJlsQ5EHMbuNxJRkWCYVp9CzxTQ.jpg",
+      "localImage": "assets/news/3e3f12758ceed9.jpg",
+      "score": 13
     },
     {
       "id": "c18c8631bee08b",
@@ -169,48 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/d356267b-544a-32f6-8343-6794bd2473b4?fit=crop&h=675&upscale=true&w=1200&s=7914d9be4b9befe26de86da2b299fc18f2c1ed4e",
       "localImage": "assets/news/c18c8631bee08b.jpg",
-      "score": 14
-    },
-    {
-      "id": "f9f77383740306",
-      "category": "Økonomi",
-      "published": "12.11. 11:42",
-      "publishedISO": "2026-11-12T11:42:21+01:00",
-      "title": "Tror Nvidia-sjefen ryker: – Vi vet ikke om det finnes en god nummer to",
-      "summary": "Han tror ikke Nvidia-sjef Jensen Huang overlever uroen som hans utenomekteskapelige aktiviteter har skapt rundt selskapet. – Her legger jeg til grunn at de fleste av oss som har et forhold til en spion fra en fremmed stat, ryker. Når han i tillegg har brutt interne regler om kjærlighetsforhold, og hvem vet om det er mer her, tipper jeg det er over, sier investeringsdirektør Pål Ringholm til E24. Så, det er klart at han er viktig, men vi vet ikke om det finnes en god nummer to, sier Ringholm.",
-      "keyPoints": [
-        "Så, det er klart at han er viktig, men vi vet ikke om det finnes en god nummer to, sier Ringholm.",
-        "Han tror ikke Nvidia-sjef Jensen Huang overlever uroen som hans utenomekteskapelige aktiviteter har skapt rundt selskapet. – Her legger jeg til grunn at de fleste av oss som har et forhold til en spion fra en fremmed stat, ryker.",
-        "Når han i tillegg har brutt interne regler om kjærlighetsforhold, og hvem vet om det er mer her, tipper jeg det er over, sier investeringsdirektør Pål Ringholm til E24.",
-        "Han påpeker klisjeen om at det ligger en «en hel gjeng med uerstattelige folk på kirkegårdene», og at hverken Microsoft eller Apple gikk under etter at Bill Gates og Steve Jobs forsvant. – Jeg legger til grunn at det finnes andre i USA innen teknologi, som ikke bruker svart skinnjakke (et Jensen Huang «varemerke», journ.anm.), som kan lede en bedrift, sier investeringsdirektøren."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/0vEwEg/tror-nvidia-sjefen-ryker-vi-vet-ikke-om-det-finnes-en-god-nummer-to",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6ec015f3-0593-35a6-ba8d-0b87e3df46fd?fit=crop&h=675&upscale=true&w=1200&s=4e6b6074168652c2cee077e4501c24760aba961c",
-      "localImage": "assets/news/f9f77383740306.jpg",
-      "score": 14
-    },
-    {
-      "id": "fe34f3495e86f6",
-      "category": "Økonomi",
-      "published": "13.11. 22:05",
-      "publishedISO": "2026-11-13T22:05:04+01:00",
-      "title": "FAA har opphevet flystansen i USA",
-      "summary": "Det amerikanske luftfartstilsynet FAA opphevet klokken 2.22 natt til lørdag forbudet mot flyavganger fra amerikansk jord. FAA begrunnet den med «ekstraordinære omstendigheter og sikkerhetshensyn» og viste til flere forstyrrelser i flykontrollen. – Endelig er vi på vei hjem, sier Flemming Wagner som nå er i luften mellom New York og Oslo. Bare tre dager før flystansen kunngjorde FAA at KI-systemet SMART skulle tas i bruk ved landets 22 regionale flykontrollsentre.",
-      "keyPoints": [
-        "Det amerikanske luftfartstilsynet FAA opphevet klokken 2.22 natt til lørdag forbudet mot flyavganger fra amerikansk jord.",
-        "Bare tre dager før flystansen kunngjorde FAA at KI-systemet SMART skulle tas i bruk ved landets 22 regionale flykontrollsentre.",
-        "FAA begrunnet den med «ekstraordinære omstendigheter og sikkerhetshensyn» og viste til flere forstyrrelser i flykontrollen. – Endelig er vi på vei hjem, sier Flemming Wagner som nå er i luften mellom New York og Oslo.",
-        "Under stansen innstilte Eurocontrol alle flyavganger fra sine 42 medlemsland til USA, inkludert avganger fra Norge."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/yz37LR/reuters-fly-staar-paa-bakken-i-usa",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0cc6c330-7be1-3697-95eb-d6efb3828cb0?fit=crop&h=675&upscale=true&w=1200&s=28a0550d338963674d89db5942ff3467ee871ae2",
-      "localImage": "assets/news/fe34f3495e86f6.png",
       "score": 13
     }
   ]
