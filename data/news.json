@@ -1,6 +1,6 @@
 {
-  "updatedAt": "13.11.2026 kl. 22:41",
-  "updatedISO": "2026-11-13T22:41:35.458069+01:00",
+  "updatedAt": "14.11.2026 kl. 02:51",
+  "updatedISO": "2026-11-14T02:51:52.285491+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -14,7 +14,7 @@
         "Fredag kåret NRK P3-programmet Siesta Karlsberger Pub på Svalbard til vinneren, etter at ti puber fra det ganske land kjempet om tittelen.",
         "Over 80 mil fra fastlandet ligger det som nå er kåret til Norges beste pub.",
         "Karlsberger Pub på Svalbard danket ut ni andre deltakere.",
-        "Da NRK snakket med pubeieren noen timer etter at seieren var et faktum, sier han at gullmedaljen kom brått på. – Med 2600 fastboende innbyggere på Svalbard hadde jeg egentlig ikke trodd at vi skulle nå opp i antall stemmer mot puber i både Oslo, Bergen og Tromsø."
+        "Da NRK snakket med pubeieren kort tid etter at seieren var et faktum, sier han at gullmedaljen kom brått på. – Med 2600 fastboende innbyggere på Svalbard hadde jeg egentlig ikke trodd at vi skulle nå opp i antall stemmer mot puber i både Oslo, Bergen og Tromsø."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/30643828-ec50-35a0-b5e4-d837337e83c9?fit=crop&h=675&upscale=true&w=1200&s=74da7ade36d385c64e5b29ca1f93cea75a30f66f",
       "localImage": "assets/news/3f056fd21d59ea.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "02784f9b36a2fd",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7e654c97-0d83-30b1-8607-58e607467553?fit=crop&h=675&upscale=true&w=1200&s=2e0e6fa88c6d9dc10e68ab3f989c81b3d3c713fb",
       "localImage": "assets/news/02784f9b36a2fd.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "793de8fda19a34",
@@ -85,7 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a84ee232-1290-393a-8faa-ab4842e5384e?fit=crop&h=675&upscale=true&w=1200&s=9e71a789151746e267ad90e485080037af400cfb",
       "localImage": "assets/news/793de8fda19a34.jpg",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "e10c0aadf0a018",
+      "category": "Økonomi",
+      "published": "13.11. 22:51",
+      "publishedISO": "2026-11-13T22:51:00+01:00",
+      "title": "Analyse: Avgift kan stenge oljefelt tidlig",
+      "summary": "Norge kan gå glipp av store oljeressurser med økende CO₂-avgift, viser fersk analyse. –⁠ Vil få mye å si for hvor mye vi får produsert, sier statssekretær. I de første årene vil regjeringens inntekter øke med høyere avgift, mens dette vil snu etter 2036, ifølge Wood Mackenzie (se faktaboks). Den høye avgiften kutter derfor utslipp primært ved å la ressurser bli liggende i bakken og stenge ned sentrale felt tidligere», skriver selskapet. – Det har vært mye politisk uro rundt avgiften, også knyttet til de årlige budsjettforhandlingene, sier statssekretær Snorre Erichsen Skjevrak. – Slik det ligger an nå ligger CO₂-avgiften til å øke jevnt fremover.",
+      "keyPoints": [
+        "Norge kan gå glipp av store oljeressurser med økende CO₂-avgift, viser fersk analyse. –⁠ Vil få mye å si for hvor mye vi får produsert, sier statssekretær.",
+        "I de første årene vil regjeringens inntekter øke med høyere avgift, mens dette vil snu etter 2036, ifølge Wood Mackenzie (se faktaboks).",
+        "Den høye avgiften kutter derfor utslipp primært ved å la ressurser bli liggende i bakken og stenge ned sentrale felt tidligere», skriver selskapet. – Det har vært mye politisk uro rundt avgiften, også knyttet til de årlige budsjettforhandlingene, sier statssekretær Snorre Erichsen Skjevrak. – Slik det ligger an nå ligger CO₂-avgiften til å øke jevnt fremover.",
+        "Med høy avgift vil fallet som er ventet på sokkelen i mindre grad bli motvirket av funn som ennå ikke er gjort på norsk sokkel. «Den høyere avgiften fungerer derfor i mindre grad som et generelt kutt i produksjonen og i større grad som en progressiv uttynning av ressursene som skulle erstatte dagens produserende felt», skriver selskapet i analysen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/kMJR06/analyse-avgift-kan-stenge-oljefelt-tidlig",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/78ee827d-a73a-3c64-965e-e01a0b006f40?fit=crop&h=675&upscale=true&w=1200&s=175bdb87ed4f25821dc424ff1af7d9b146136127",
+      "localImage": "assets/news/e10c0aadf0a018.png",
+      "score": 16
     },
     {
       "id": "488e22cdfec8dc",
@@ -106,28 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/4c656e57-5f26-3fa9-a388-394109785c4b?fit=crop&h=675&upscale=true&w=1200&s=0ee3446373d5aa7497952afd655072e5c414596f",
       "localImage": "assets/news/488e22cdfec8dc.jpg",
-      "score": 17
-    },
-    {
-      "id": "c18c8631bee08b",
-      "category": "Økonomi",
-      "published": "13.11. 09:57",
-      "publishedISO": "2026-11-13T09:57:12+01:00",
-      "title": "Nscale: Har tapt 16 milliarder på ni måneder",
-      "summary": "Nscale og Anthropic har 60 dager på å forhandle en avtale, skriver selskapet. I august ble det kjent at Nscale har inngått en avtale verdt 45 milliarder dollar for AI-beregningskapasitet med Anthropic. FT har tidligere omtalt en mulig verdsettelse på opptil 35 milliarder dollar, men siden den gang har det vært betydelig uro rundt AI-selskaper i de globale aksjemarkedene.",
-      "keyPoints": [
-        "I august ble det kjent at Nscale har inngått en avtale verdt 45 milliarder dollar for AI-beregningskapasitet med Anthropic.",
-        "Nscale og Anthropic har 60 dager på å forhandle en avtale, skriver selskapet.",
-        "FT har tidligere omtalt en mulig verdsettelse på opptil 35 milliarder dollar, men siden den gang har det vært betydelig uro rundt AI-selskaper i de globale aksjemarkedene.",
-        "Datasenterselskapet Nscale har oppdatert dokumentene sendt inn til det amerikanske finanstilsynet SEC i forkant av den planlagte børsnoteringen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2vGGAB/nscale-har-tapt-16-milliarder-paa-ni-maaneder",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d356267b-544a-32f6-8343-6794bd2473b4?fit=crop&h=675&upscale=true&w=1200&s=7914d9be4b9befe26de86da2b299fc18f2c1ed4e",
-      "localImage": "assets/news/c18c8631bee08b.jpg",
-      "score": 15
+      "score": 16
     },
     {
       "id": "33b6a81e101d0a",
@@ -151,6 +151,27 @@
       "score": 15
     },
     {
+      "id": "c18c8631bee08b",
+      "category": "Økonomi",
+      "published": "13.11. 09:57",
+      "publishedISO": "2026-11-13T09:57:12+01:00",
+      "title": "Nscale: Har tapt 16 milliarder på ni måneder",
+      "summary": "Nscale og Anthropic har 60 dager på å forhandle en avtale, skriver selskapet. I august ble det kjent at Nscale har inngått en avtale verdt 45 milliarder dollar for AI-beregningskapasitet med Anthropic. FT har tidligere omtalt en mulig verdsettelse på opptil 35 milliarder dollar, men siden den gang har det vært betydelig uro rundt AI-selskaper i de globale aksjemarkedene.",
+      "keyPoints": [
+        "I august ble det kjent at Nscale har inngått en avtale verdt 45 milliarder dollar for AI-beregningskapasitet med Anthropic.",
+        "Nscale og Anthropic har 60 dager på å forhandle en avtale, skriver selskapet.",
+        "FT har tidligere omtalt en mulig verdsettelse på opptil 35 milliarder dollar, men siden den gang har det vært betydelig uro rundt AI-selskaper i de globale aksjemarkedene.",
+        "Datasenterselskapet Nscale har oppdatert dokumentene sendt inn til det amerikanske finanstilsynet SEC i forkant av den planlagte børsnoteringen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/2vGGAB/nscale-har-tapt-16-milliarder-paa-ni-maaneder",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d356267b-544a-32f6-8343-6794bd2473b4?fit=crop&h=675&upscale=true&w=1200&s=7914d9be4b9befe26de86da2b299fc18f2c1ed4e",
+      "localImage": "assets/news/c18c8631bee08b.jpg",
+      "score": 14
+    },
+    {
       "id": "f9f77383740306",
       "category": "Økonomi",
       "published": "12.11. 11:42",
@@ -169,49 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6ec015f3-0593-35a6-ba8d-0b87e3df46fd?fit=crop&h=675&upscale=true&w=1200&s=4e6b6074168652c2cee077e4501c24760aba961c",
       "localImage": "assets/news/f9f77383740306.jpg",
-      "score": 15
-    },
-    {
-      "id": "acb50ffdb5ab9e",
-      "category": "Økonomi",
-      "published": "13.11. 10:22",
-      "publishedISO": "2026-11-13T10:22:37+01:00",
-      "title": "Populære aksjer har falt tungt: – Kunne ikke brydd meg mindre",
-      "summary": "Åsvold sier han likevel «sover veldig godt om natten». – Jeg kunne ikke brydd meg mindre. Selv følger han ikke enkeltaksjer spesifikt, men Lie ser en utvikling i markedet. – Det er jo deler av AI-markedet hvor forretningsmodellene er litt mindre sunne og litt mer spekulative, kanskje, sier Lie til E24. Selv ser investoren ti år frem i tid. – Jeg skulle selvfølgelig ønske jeg hadde mer inntekter, slik at jeg kunne benyttet meg av det og kjøpt mer.",
-      "keyPoints": [
-        "Åsvold sier han likevel «sover veldig godt om natten». – Jeg kunne ikke brydd meg mindre.",
-        "Selv ser investoren ti år frem i tid. – Jeg skulle selvfølgelig ønske jeg hadde mer inntekter, slik at jeg kunne benyttet meg av det og kjøpt mer.",
-        "Selv følger han ikke enkeltaksjer spesifikt, men Lie ser en utvikling i markedet. – Det er jo deler av AI-markedet hvor forretningsmodellene er litt mindre sunne og litt mer spekulative, kanskje, sier Lie til E24.",
-        "Porteføljen hans tilsvarer en verdi på om lag 3,4 millioner kroner i Tesla-aksjer, pluss en mindre andel SpaceX-aksjer."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7PlryB/populaere-aksjer-har-falt-tungt-kunne-ikke-brydd-meg-mindre",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/77ebe080-e5e3-31a5-b2a8-2334b9c9148a?fit=crop&h=675&upscale=true&w=1200&s=6cfbe6915b00bc5e23d0aa958b8381f2eab8e0c4",
-      "localImage": "assets/news/acb50ffdb5ab9e.jpg",
       "score": 14
     },
     {
-      "id": "11792281473554",
+      "id": "fe34f3495e86f6",
       "category": "Økonomi",
-      "published": "12.11. 14:14",
-      "publishedISO": "2026-11-12T14:14:13+01:00",
-      "title": "Oljeprisen hopper etter Trump-melding",
-      "summary": "Oljeprisen og oljeaksjer på Oslo Børs stiger. – Vi trenger ingen avtale med Iran, skriver Trump i en melding på Truth Social. – De dagene er for lengst forbi. Oljeprisen hopper til over 94 dollar fatet, fra 92 dollar fatet før meldingen. Så sent som i slutten av oktober var oljeprisen oppe i over 117 dollar fatet.",
+      "published": "13.11. 22:05",
+      "publishedISO": "2026-11-13T22:05:04+01:00",
+      "title": "FAA har opphevet flystansen i USA",
+      "summary": "Det amerikanske luftfartstilsynet FAA opphevet klokken 2.22 natt til lørdag forbudet mot flyavganger fra amerikansk jord. FAA begrunnet den med «ekstraordinære omstendigheter og sikkerhetshensyn» og viste til flere forstyrrelser i flykontrollen. – Endelig er vi på vei hjem, sier Flemming Wagner som nå er i luften mellom New York og Oslo. Bare tre dager før flystansen kunngjorde FAA at KI-systemet SMART skulle tas i bruk ved landets 22 regionale flykontrollsentre.",
       "keyPoints": [
-        "Oljeprisen hopper til over 94 dollar fatet, fra 92 dollar fatet før meldingen.",
-        "Oljeprisen og oljeaksjer på Oslo Børs stiger. – Vi trenger ingen avtale med Iran, skriver Trump i en melding på Truth Social. – De dagene er for lengst forbi.",
-        "Så sent som i slutten av oktober var oljeprisen oppe i over 117 dollar fatet.",
-        "Denne ligger på 5,05 prosent, fra 5,00 prosent før Trumps melding."
+        "Det amerikanske luftfartstilsynet FAA opphevet klokken 2.22 natt til lørdag forbudet mot flyavganger fra amerikansk jord.",
+        "Bare tre dager før flystansen kunngjorde FAA at KI-systemet SMART skulle tas i bruk ved landets 22 regionale flykontrollsentre.",
+        "FAA begrunnet den med «ekstraordinære omstendigheter og sikkerhetshensyn» og viste til flere forstyrrelser i flykontrollen. – Endelig er vi på vei hjem, sier Flemming Wagner som nå er i luften mellom New York og Oslo.",
+        "Under stansen innstilte Eurocontrol alle flyavganger fra sine 42 medlemsland til USA, inkludert avganger fra Norge."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/R1Rb88/oljeprisen-hopper-etter-trump-melding",
+      "url": "https://e24.no/internasjonal-oekonomi/i/yz37LR/reuters-fly-staar-paa-bakken-i-usa",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/736e2fe0-acf4-3f19-ae7b-6be4180c7576?fit=crop&h=675&upscale=true&w=1200&s=25eb4702a1f276814a5c43f163256ed64c7486a8",
-      "localImage": "assets/news/11792281473554.jpg",
-      "score": 14
+      "image": "https://akamai.vgc.no/v2/images/0cc6c330-7be1-3697-95eb-d6efb3828cb0?fit=crop&h=675&upscale=true&w=1200&s=28a0550d338963674d89db5942ff3467ee871ae2",
+      "localImage": "assets/news/fe34f3495e86f6.png",
+      "score": 13
     }
   ]
 }
