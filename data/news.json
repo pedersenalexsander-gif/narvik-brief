@@ -1,28 +1,28 @@
 {
-  "updatedAt": "14.11.2026 kl. 09:42",
-  "updatedISO": "2026-11-14T09:42:42.785129+01:00",
+  "updatedAt": "14.11.2026 kl. 16:23",
+  "updatedISO": "2026-11-14T16:23:20.888328+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "9145bcf1e33bde",
+      "id": "e7844b1edb3490",
       "category": "Norge",
-      "published": "14.11. 09:18",
-      "publishedISO": "2026-11-14T09:18:05+01:00",
-      "title": "Frp på storoffensiv: Vil ta makta i distrikta",
-      "summary": "FpU-leiar Odd Andre Olsen Foto: Eli Ruset Lager / NRK I fjor blei Sogn og Fjordane FpU stifta, og ifølgje Olsen fekk dei fekk dei over 100 nye medlemmer i løpet av eit år. – Det er ein ganske stor medlemsvekst, og det er veldig viktig, fortel han. 2. nestleiar i Frp, Terje Søviknes, fortel at dei over fleire år har jobba målretta med å ruste opp partiorganisasjonen. – Dette er sjølvsagt viktig fram mot kommunevalet, men vi har eigentleg jobba med dette heilt sidan Frp la nye strategiar tilbake i 2021. Sjølv om Vestland allereie er det største fylkeslaget til Frp, manglar partiet framleis representasjon i fleire kommunar.",
+      "published": "14.11. 11:35",
+      "publishedISO": "2026-11-14T11:35:25+01:00",
+      "title": "MDG-topp krev strakstiltak mot kval-kaos i Nord-Troms",
+      "summary": "Une Bastholm (MDG) meiner noko kan bli gjort allereie no. – Det som skjer no, er ei undergraving av allemannsretten og ei kommersialisering av naturen som er heilt ute av kontroll, seier stortingsrepresentant i MDG, Une Bastholm, til NRK. Nyleg fortalde NRK om korleis forskarar frå Norwegian Orca Survey måtte gje opp å studere spekkhoggarar i Jøkelfjorden i Nord-Troms, fordi heile 72 båtar sverma rundt dyra. Det krev ikkje lovendring eingong – ho må berre tore å vere streng, seier Bastholm.",
       "keyPoints": [
-        "2. nestleiar i Frp, Terje Søviknes, fortel at dei over fleire år har jobba målretta med å ruste opp partiorganisasjonen. – Dette er sjølvsagt viktig fram mot kommunevalet, men vi har eigentleg jobba med dette heilt sidan Frp la nye strategiar tilbake i 2021.",
-        "FpU-leiar Odd Andre Olsen Foto: Eli Ruset Lager / NRK I fjor blei Sogn og Fjordane FpU stifta, og ifølgje Olsen fekk dei fekk dei over 100 nye medlemmer i løpet av eit år. – Det er ein ganske stor medlemsvekst, og det er veldig viktig, fortel han.",
-        "Sjølv om Vestland allereie er det største fylkeslaget til Frp, manglar partiet framleis representasjon i fleire kommunar.",
-        "Vararepresentant for Frp Hordaland, Svein Otto Jacobsen, avviser likevel at dei har vore dårlege på partibygging tidlegare. – Det er ikkje til å leggje skjul på at vi prøver å få ei betre dekning i fylket fram mot kommunevalet."
+        "Nyleg fortalde NRK om korleis forskarar frå Norwegian Orca Survey måtte gje opp å studere spekkhoggarar i Jøkelfjorden i Nord-Troms, fordi heile 72 båtar sverma rundt dyra.",
+        "Det krev ikkje lovendring eingong – ho må berre tore å vere streng, seier Bastholm.",
+        "Une Bastholm (MDG) meiner noko kan bli gjort allereie no. – Det som skjer no, er ei undergraving av allemannsretten og ei kommersialisering av naturen som er heilt ute av kontroll, seier stortingsrepresentant i MDG, Une Bastholm, til NRK.",
+        "Une Bastholm (MDG) ropar varsku etter at over 70 båtar vart observerte rundt berre ni spekkhoggarar i Kvænangen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/frp-pa-storoffensiv-vil-ta-makta-i-distrikta-1531630",
+      "url": "https://www.nrk.no/tromsogfinnmark/mdg-topp-krev-strakstiltak-mot-kval-kaos-i-nord-troms-1.18081033",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/p6m6gpDIfgp9n4htyFfToA8D8ZKIcUZ6RvhC43rcs2pA",
-      "localImage": "assets/news/9145bcf1e33bde.jpg",
-      "score": 13
+      "image": "https://gfx.nrk.no/F5zJc1UyenAGjZizY_rjqAxEIAUryuPLTzyC9jLmD-mw.jpg",
+      "localImage": "assets/news/e7844b1edb3490.jpg",
+      "score": 17
     },
     {
       "id": "e8f2ea4a055cba",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fd33058a-2bb1-365b-8066-690bb2d8eaaf?fit=crop&h=675&upscale=true&w=1200&s=1485111b487024caef4f6f21eb6c51b46f41889a",
       "localImage": "assets/news/e8f2ea4a055cba.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "3f056fd21d59ea",
@@ -64,27 +64,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/30643828-ec50-35a0-b5e4-d837337e83c9?fit=crop&h=675&upscale=true&w=1200&s=74da7ade36d385c64e5b29ca1f93cea75a30f66f",
       "localImage": "assets/news/3f056fd21d59ea.jpg",
-      "score": 17
-    },
-    {
-      "id": "02784f9b36a2fd",
-      "category": "Økonomi",
-      "published": "13.11. 09:04",
-      "publishedISO": "2026-11-13T09:04:01+01:00",
-      "title": "Olje og tank dro Oslo Børs opp",
-      "summary": "Det var forsiktig oppgang på Oslo Børs gjennom det meste av fredagen, og det ble også den endelige fasiten på ukens siste handelsdag. Brent spot-prisen ligger på 96,6 dollar fatet ved stengetid fredag ettermiddag, og opp nesten én prosent siden midnatt. Oljeaksjer bidro til at børsen endte i grønt: BW LPG har kunngjort en regnskapsmessig gevinst på om lag 37 millioner dollar, etter salg av skipet BW Mistral, ifølge en børsmelding.",
-      "keyPoints": [
-        "Det var forsiktig oppgang på Oslo Børs gjennom det meste av fredagen, og det ble også den endelige fasiten på ukens siste handelsdag.",
-        "Brent spot-prisen ligger på 96,6 dollar fatet ved stengetid fredag ettermiddag, og opp nesten én prosent siden midnatt.",
-        "Oljeaksjer bidro til at børsen endte i grønt: BW LPG har kunngjort en regnskapsmessig gevinst på om lag 37 millioner dollar, etter salg av skipet BW Mistral, ifølge en børsmelding.",
-        "Kontantbeholdningen var 25 millioner kroner 9. november, ned fra 27 millioner ved utgangen av september og 59 millioner ved utgangen av juni."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Qroo2P/oppgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7e654c97-0d83-30b1-8607-58e607467553?fit=crop&h=675&upscale=true&w=1200&s=2e0e6fa88c6d9dc10e68ab3f989c81b3d3c713fb",
-      "localImage": "assets/news/02784f9b36a2fd.jpg",
       "score": 16
     },
     {
@@ -106,111 +85,132 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a84ee232-1290-393a-8faa-ab4842e5384e?fit=crop&h=675&upscale=true&w=1200&s=9e71a789151746e267ad90e485080037af400cfb",
       "localImage": "assets/news/793de8fda19a34.jpg",
-      "score": 16
-    },
-    {
-      "id": "488e22cdfec8dc",
-      "category": "Økonomi",
-      "published": "12.11. 10:49",
-      "publishedISO": "2026-11-12T10:49:31+01:00",
-      "title": "Jekker ned årets oljeinvesteringer",
-      "summary": "Olje- og gassbransjen venter å investere 266 milliarder kroner i år, ni milliarder mindre enn tidligere ventet. Fjorårets investeringer er oppgitt til 272,9 milliarder kroner, mens investeringene i 2026 er ventet på 266 milliarder kroner, skriver SSB. Anslaget for 2026 er nedjustert med ni milliarder fra forrige måling. «Det er lavere anslag innenfor felt i drift og feltutbygging som bidrar mest til de lavere oppgitte investeringene», skriver SSB.",
-      "keyPoints": [
-        "Fjorårets investeringer er oppgitt til 272,9 milliarder kroner, mens investeringene i 2026 er ventet på 266 milliarder kroner, skriver SSB.",
-        "Anslaget for 2026 er nedjustert med ni milliarder fra forrige måling. «Det er lavere anslag innenfor felt i drift og feltutbygging som bidrar mest til de lavere oppgitte investeringene», skriver SSB.",
-        "Olje- og gassbransjen venter å investere 266 milliarder kroner i år, ni milliarder mindre enn tidligere ventet.",
-        "Det skyldes delvis økte kostnader på enkelte prosjekter, skriver SSB. «Siden i fjor høst har totalkostnadene på de pågående prosjektene økt med om lag 35 milliarder 2026-kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/Qrlp88/jekker-ned-aarets-oljeinvesteringer",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/4c656e57-5f26-3fa9-a388-394109785c4b?fit=crop&h=675&upscale=true&w=1200&s=0ee3446373d5aa7497952afd655072e5c414596f",
-      "localImage": "assets/news/488e22cdfec8dc.jpg",
       "score": 15
     },
     {
-      "id": "e10c0aadf0a018",
+      "id": "02784f9b36a2fd",
       "category": "Økonomi",
-      "published": "13.11. 22:51",
-      "publishedISO": "2026-11-13T22:51:00+01:00",
-      "title": "Analyse: Avgift kan stenge oljefelt tidlig",
-      "summary": "Norge kan gå glipp av store oljeressurser med økende CO₂-avgift, viser fersk analyse. –⁠ Vil få mye å si for hvor mye vi får produsert, sier statssekretær. I de første årene vil regjeringens inntekter øke med høyere avgift, mens dette vil snu etter 2036, ifølge Wood Mackenzie (se faktaboks). Den høye avgiften kutter derfor utslipp primært ved å la ressurser bli liggende i bakken og stenge ned sentrale felt tidligere», skriver selskapet. – Det har vært mye politisk uro rundt avgiften, også knyttet til de årlige budsjettforhandlingene, sier statssekretær Snorre Erichsen Skjevrak. – Slik det ligger an nå ligger CO₂-avgiften til å øke jevnt fremover.",
+      "published": "13.11. 09:04",
+      "publishedISO": "2026-11-13T09:04:01+01:00",
+      "title": "Olje og tank dro Oslo Børs opp",
+      "summary": "Det var forsiktig oppgang på Oslo Børs gjennom det meste av fredagen, og det ble også den endelige fasiten på ukens siste handelsdag. Brent spot-prisen ligger på 96,6 dollar fatet ved stengetid fredag ettermiddag, og opp nesten én prosent siden midnatt. Oljeaksjer bidro til at børsen endte i grønt: BW LPG har kunngjort en regnskapsmessig gevinst på om lag 37 millioner dollar, etter salg av skipet BW Mistral, ifølge en børsmelding.",
       "keyPoints": [
-        "Norge kan gå glipp av store oljeressurser med økende CO₂-avgift, viser fersk analyse. –⁠ Vil få mye å si for hvor mye vi får produsert, sier statssekretær.",
-        "I de første årene vil regjeringens inntekter øke med høyere avgift, mens dette vil snu etter 2036, ifølge Wood Mackenzie (se faktaboks).",
-        "Den høye avgiften kutter derfor utslipp primært ved å la ressurser bli liggende i bakken og stenge ned sentrale felt tidligere», skriver selskapet. – Det har vært mye politisk uro rundt avgiften, også knyttet til de årlige budsjettforhandlingene, sier statssekretær Snorre Erichsen Skjevrak. – Slik det ligger an nå ligger CO₂-avgiften til å øke jevnt fremover.",
-        "Med høy avgift vil fallet som er ventet på sokkelen i mindre grad bli motvirket av funn som ennå ikke er gjort på norsk sokkel. «Den høyere avgiften fungerer derfor i mindre grad som et generelt kutt i produksjonen og i større grad som en progressiv uttynning av ressursene som skulle erstatte dagens produserende felt», skriver selskapet i analysen."
+        "Det var forsiktig oppgang på Oslo Børs gjennom det meste av fredagen, og det ble også den endelige fasiten på ukens siste handelsdag.",
+        "Brent spot-prisen ligger på 96,6 dollar fatet ved stengetid fredag ettermiddag, og opp nesten én prosent siden midnatt.",
+        "Oljeaksjer bidro til at børsen endte i grønt: BW LPG har kunngjort en regnskapsmessig gevinst på om lag 37 millioner dollar, etter salg av skipet BW Mistral, ifølge en børsmelding.",
+        "Kontantbeholdningen var 25 millioner kroner 9. november, ned fra 27 millioner ved utgangen av september og 59 millioner ved utgangen av juni."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/energi-og-klima/i/kMJR06/analyse-avgift-kan-stenge-oljefelt-tidlig",
+      "url": "https://e24.no/boers-og-finans/i/Qroo2P/oppgang-paa-oslo-boers",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/78ee827d-a73a-3c64-965e-e01a0b006f40?fit=crop&h=675&upscale=true&w=1200&s=175bdb87ed4f25821dc424ff1af7d9b146136127",
-      "localImage": "assets/news/e10c0aadf0a018.png",
+      "image": "https://akamai.vgc.no/v2/images/7e654c97-0d83-30b1-8607-58e607467553?fit=crop&h=675&upscale=true&w=1200&s=2e0e6fa88c6d9dc10e68ab3f989c81b3d3c713fb",
+      "localImage": "assets/news/02784f9b36a2fd.jpg",
       "score": 14
     },
     {
-      "id": "1a6498a118c38a",
-      "category": "Økonomi",
-      "published": "14.11. 08:42",
-      "publishedISO": "2026-11-14T08:42:53+01:00",
-      "title": "Microsoft-trøbbel er løst",
-      "summary": "Ifølge Microsoft skyldes problemene «økt belastning» på infrastrukturen. Nå melder selskapet at problemene er løst og at «alt fungerer som normalt», skriver Bloomberg. Feilen har ifølge Downdetector rammet brukere og viktig infrastruktur i minst 74 land og territorier.",
-      "keyPoints": [
-        "Nå melder selskapet at problemene er løst og at «alt fungerer som normalt», skriver Bloomberg.",
-        "Feilen har ifølge Downdetector rammet brukere og viktig infrastruktur i minst 74 land og territorier.",
-        "Ifølge Microsoft skyldes problemene «økt belastning» på infrastrukturen.",
-        "Over 430 millioner bruker de ulike systemene til Microsoft."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/z0G735/microsoft-troebbel-er-loest",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0b58329e-639d-32f4-bf6f-132582fd7b10?fit=crop&h=675&upscale=true&w=1200&s=ee5f2ae5e0a82c3be167824bad1731c8626ce750",
-      "localImage": "assets/news/1a6498a118c38a.jpg",
-      "score": 13
-    },
-    {
-      "id": "3e3f12758ceed9",
+      "id": "ab2b2660e9cedd",
       "category": "Norge",
-      "published": "14.11. 08:00",
-      "publishedISO": "2026-11-14T08:00:06+01:00",
-      "title": "Et lite stykke Norge i Grand Theft Auto",
-      "summary": "Men inne i spillet har tusenvis av nordmenn skapt noe helt annet. – Velkommen til Oslo, håper du har en fin dag, sier kvinnen bak skranken idet jeg går ut av gate 01. Endelig er jeg framme: Kim Mikkelsen, nyinnflyttet i et fiktivt Norge. Vi kjører et lite stykke til før Eriko sier stolt: – Der har vi Red Rocket, vet du.",
+      "published": "14.11. 14:33",
+      "publishedISO": "2026-11-14T14:33:54+01:00",
+      "title": "Får ikke hentet ut medisiner: Systemet er nede",
+      "summary": "Tekniske problemer hos Norsk Helsenett gjør at apotek over hele landet i dag har slitt med å få hentet ned e-resepter. Kommunikasjonssjef i Apotekforeningen, Jostein Soldal. – Det vi har fått beskjed om, er at Norsk Helsenett har tekniske problemer som fører til at det rundt i apotekene nok kan være vanskelig å få hentet ned folks resepter, bekrefter Soldal. NRK har også vært i kontakt med enkelte apotek på Nordmøre som sier de sliter med treghet i systemet, men at det er mulig å få hentet ut resepter.",
       "keyPoints": [
-        "Endelig er jeg framme: Kim Mikkelsen, nyinnflyttet i et fiktivt Norge.",
-        "Men inne i spillet har tusenvis av nordmenn skapt noe helt annet. – Velkommen til Oslo, håper du har en fin dag, sier kvinnen bak skranken idet jeg går ut av gate 01.",
-        "Vi kjører et lite stykke til før Eriko sier stolt: – Der har vi Red Rocket, vet du.",
-        "Nå står jeg på flyplassen med 10.000 digitale kroner i kontanter og et ID-kort på innerlomma."
+        "NRK har også vært i kontakt med enkelte apotek på Nordmøre som sier de sliter med treghet i systemet, men at det er mulig å få hentet ut resepter.",
+        "Tekniske problemer hos Norsk Helsenett gjør at apotek over hele landet i dag har slitt med å få hentet ned e-resepter.",
+        "Kommunikasjonssjef i Apotekforeningen, Jostein Soldal. – Det vi har fått beskjed om, er at Norsk Helsenett har tekniske problemer som fører til at det rundt i apotekene nok kan være vanskelig å få hentet ned folks resepter, bekrefter Soldal.",
+        "For pasienter som er avhengige av smertestillende, antibiotika eller annen viktig medisin, kan nedetiden få store konsekvenser, ifølge Apotekforeningen. – Det er først og fremst veldig uheldig for de apotek-kundene som nå ikke får den hjelpen de trenger, sier Soldal."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/dokumentar/xl/et-lite-stykke-norge-i-grand-theft-auto-1.18074365",
+      "url": "https://www.nrk.no/ostfold/far-ikke-hentet-ut-medisiner_-systemet-er-nede-1.18081915",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/uqeU2AXIDJIzZTWAGmJlsQ5EHMbuNxJRkWCYVp9CzxTQ.jpg",
-      "localImage": "assets/news/3e3f12758ceed9.jpg",
+      "image": "https://gfx.nrk.no/GZzrxi7INeQcCf1KS_F7xA21li2g_flUFpFP85Urlyxg.jpg",
+      "localImage": "assets/news/ab2b2660e9cedd.jpg",
       "score": 13
     },
     {
-      "id": "c18c8631bee08b",
-      "category": "Økonomi",
-      "published": "13.11. 09:57",
-      "publishedISO": "2026-11-13T09:57:12+01:00",
-      "title": "Nscale: Har tapt 16 milliarder på ni måneder",
-      "summary": "Nscale og Anthropic har 60 dager på å forhandle en avtale, skriver selskapet. I august ble det kjent at Nscale har inngått en avtale verdt 45 milliarder dollar for AI-beregningskapasitet med Anthropic. FT har tidligere omtalt en mulig verdsettelse på opptil 35 milliarder dollar, men siden den gang har det vært betydelig uro rundt AI-selskaper i de globale aksjemarkedene.",
+      "id": "0723249b745d71",
+      "category": "Norge",
+      "published": "14.11. 13:32",
+      "publishedISO": "2026-11-14T13:32:03+01:00",
+      "title": "Husbrann i Farsund",
+      "summary": "Lørdag ettermiddag var det full fyr i et hus i Farsund. Politiet meldte om brannen få minutter tidligere, og at det var full overtenning. Klokken 15.30 opplyser operasjonsleder Gausdal at brannvesenet blir igjen på stedet for å drive etterslukking.",
       "keyPoints": [
-        "I august ble det kjent at Nscale har inngått en avtale verdt 45 milliarder dollar for AI-beregningskapasitet med Anthropic.",
-        "Nscale og Anthropic har 60 dager på å forhandle en avtale, skriver selskapet.",
-        "FT har tidligere omtalt en mulig verdsettelse på opptil 35 milliarder dollar, men siden den gang har det vært betydelig uro rundt AI-selskaper i de globale aksjemarkedene.",
-        "Datasenterselskapet Nscale har oppdatert dokumentene sendt inn til det amerikanske finanstilsynet SEC i forkant av den planlagte børsnoteringen."
+        "Lørdag ettermiddag var det full fyr i et hus i Farsund.",
+        "Klokken 15.30 opplyser operasjonsleder Gausdal at brannvesenet blir igjen på stedet for å drive etterslukking.",
+        "Politiet meldte om brannen få minutter tidligere, og at det var full overtenning.",
+        "Brannvesenet hadde en stund ikke kontroll, men etter to timer var brannen slukket."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/husbrann-i-farsund-1.18081893",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/N47ZCRUvekWCdSF4o-0rrwvNXUd-ZhsTSE4KyV5BZhfA.jpg",
+      "localImage": "assets/news/0723249b745d71.jpg",
+      "score": 13
+    },
+    {
+      "id": "c3078c6bb6b4f9",
+      "category": "Norge",
+      "published": "14.11. 13:26",
+      "publishedISO": "2026-11-14T13:26:14+01:00",
+      "title": "Guro Ytterhus knuste verdseliten i sesongopninga: – Sjokksiger",
+      "summary": "Eg trudde aldri det skulle gå så bra, fortel Guro Ytterhus etter at sigeren var i boks. GLAD: Guro Ytterhus vann framfor stjernene dei internasjonale Lisa Vittozzi og Kamila Zuk. Guro Ytterhus imponerte frå start til slutt, og leia i mål før dei store kanonane skulle prøve seg. – Skal vi få ein sjokksiger av Guro Ytterhus, kommenterte NRKs Torgeir Bjørn når alt skulle avgjerast.",
+      "keyPoints": [
+        "Guro Ytterhus imponerte frå start til slutt, og leia i mål før dei store kanonane skulle prøve seg. – Skal vi få ein sjokksiger av Guro Ytterhus, kommenterte NRKs Torgeir Bjørn når alt skulle avgjerast.",
+        "GLAD: Guro Ytterhus vann framfor stjernene dei internasjonale Lisa Vittozzi og Kamila Zuk.",
+        "Eg trudde aldri det skulle gå så bra, fortel Guro Ytterhus etter at sigeren var i boks.",
+        "Ein perfekt dag både i løypa og på skytebana førte i dag til ein uventa siger under sesongopninga i skiskyting på Geilo. – Det var ikkje det eg forventa i alle fall."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/guro-ytterhus-knuste-verdseliten-i-sesongopninga_-_-sjokksiger-1.18081887",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/jXhNq3BNLKJulJSW20M_ywWFH0znqDeYpZ6LijdZEIcg",
+      "localImage": "assets/news/c3078c6bb6b4f9.jpg",
+      "score": 13
+    },
+    {
+      "id": "1cb70792a69260",
+      "category": "Norge",
+      "published": "14.11. 13:17",
+      "publishedISO": "2026-11-14T13:17:38+01:00",
+      "title": "Vil ha nye kriseplaner for gigantdam: – Kan få katastrofale følger",
+      "summary": "Men dersom en av Norges høyeste demninger skulle briste, kan nesten 150.000 mennesker bli rammet. Vatnedalsdammen øverst i Setesdal ruver 120 meter i været med stein, grus og betong. Avanserte overvåkningssystemer inne i dammen har fanget opp det katastrofale bruddet umiddelbart.",
+      "keyPoints": [
+        "Avanserte overvåkningssystemer inne i dammen har fanget opp det katastrofale bruddet umiddelbart.",
+        "Men dersom en av Norges høyeste demninger skulle briste, kan nesten 150.000 mennesker bli rammet.",
+        "Vatnedalsdammen øverst i Setesdal ruver 120 meter i været med stein, grus og betong.",
+        "Hans Blattmann sover også godt om natta, men vil nå starte arbeidet med nye beredskapsplaner."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/xl/hvis-en-av-nord-europas-storste-demningen-brister_-detaljerte-fluktplaner-mangler-1.18029294",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/ad0Sy0VL6uj3Yf-dRxgX0g11AEtdxWadD6ACs7p3s9GA.jpg",
+      "localImage": "assets/news/1cb70792a69260.jpg",
+      "score": 13
+    },
+    {
+      "id": "f515c499663f28",
+      "category": "Økonomi",
+      "published": "14.11. 12:14",
+      "publishedISO": "2026-11-14T12:14:07+01:00",
+      "title": "Sparer 25.000 i måneden: – Sett pengene der du ikke ser dem!",
+      "summary": "Nordmenn har aldri vært så villige til å spare penger som de er nå. – Vi sparer rundt 25.000 kroner i måneden og er veldig fornøyd med det, sier Marius Ørvik. Det siste året ser de en bratt oppgang blant dem som svarer at de da vil spare. – Akkurat hvorfor vi får et slikt hopp akkurat da, er vanskelig å si noe sikkert om. Vi lever egentlig ganske komfortable liv, men vi klarer likevel å spare, sier Ørvik til E24. – Har du tips til dem som ønsker å spare mer? – Ja, du må «betale til deg selv først».",
+      "keyPoints": [
+        "Nordmenn har aldri vært så villige til å spare penger som de er nå. – Vi sparer rundt 25.000 kroner i måneden og er veldig fornøyd med det, sier Marius Ørvik.",
+        "Det siste året ser de en bratt oppgang blant dem som svarer at de da vil spare. – Akkurat hvorfor vi får et slikt hopp akkurat da, er vanskelig å si noe sikkert om.",
+        "Vi lever egentlig ganske komfortable liv, men vi klarer likevel å spare, sier Ørvik til E24. – Har du tips til dem som ønsker å spare mer? – Ja, du må «betale til deg selv først».",
+        "Fire-fem ganger i løpet av et år setter Ørvik og kona seg ned for å se på hva pengene går til. – Det er lite kaffekjøp på Narvesen her i Porsgrunn, men vi er veldig glad i å kjøpe ting til huset."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/2vGGAB/nscale-har-tapt-16-milliarder-paa-ni-maaneder",
+      "url": "https://e24.no/norsk-oekonomi/i/EboOpa/sparer-25-000-i-maaneden-sett-pengene-der-du-ikke-ser-dem",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d356267b-544a-32f6-8343-6794bd2473b4?fit=crop&h=675&upscale=true&w=1200&s=7914d9be4b9befe26de86da2b299fc18f2c1ed4e",
-      "localImage": "assets/news/c18c8631bee08b.jpg",
+      "image": "https://akamai.vgc.no/v2/images/55489081-403f-3d1f-9af5-f067671ac6d1?fit=crop&h=675&upscale=true&w=1200&s=2072fca452bdfae9f810d3f3af6c8ba58d85ee13",
+      "localImage": "assets/news/f515c499663f28.jpg",
       "score": 13
     }
   ]
