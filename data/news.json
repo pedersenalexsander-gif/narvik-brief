@@ -1,28 +1,28 @@
 {
-  "updatedAt": "14.11.2026 kl. 16:23",
-  "updatedISO": "2026-11-14T16:23:20.888328+01:00",
+  "updatedAt": "14.11.2026 kl. 21:02",
+  "updatedISO": "2026-11-14T21:02:22.175049+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "e7844b1edb3490",
+      "id": "58dab5cb47687d",
       "category": "Norge",
-      "published": "14.11. 11:35",
-      "publishedISO": "2026-11-14T11:35:25+01:00",
-      "title": "MDG-topp krev strakstiltak mot kval-kaos i Nord-Troms",
-      "summary": "Une Bastholm (MDG) meiner noko kan bli gjort allereie no. – Det som skjer no, er ei undergraving av allemannsretten og ei kommersialisering av naturen som er heilt ute av kontroll, seier stortingsrepresentant i MDG, Une Bastholm, til NRK. Nyleg fortalde NRK om korleis forskarar frå Norwegian Orca Survey måtte gje opp å studere spekkhoggarar i Jøkelfjorden i Nord-Troms, fordi heile 72 båtar sverma rundt dyra. Det krev ikkje lovendring eingong – ho må berre tore å vere streng, seier Bastholm.",
+      "published": "14.11. 18:16",
+      "publishedISO": "2026-11-14T18:16:25+01:00",
+      "title": "Nyhetssenter Nordland",
+      "summary": "Kort tid etter at Koskinen hadde satt inn mål, slo Lillehammer tilbake og kampen endte med 3-2 til Lillehammer. Dermed blir Narvik hockey liggende nest sist på tabellen. fortsatt med 11 poeng etter 15 kamper Datasenteret til Nscale, utbygging i forbindelse med alpin-VM og økt turisme legger press på boligmarkedet i Narvik. Politiet melder om en ulykke mellom en personbil og en lastebil ved på riksvei 80, nedenfor menighetshuset i Fauske. – Det skal ikke være personskader og begge sjåførene er oppe og går, skriver Kai Henrik Eriksen i Nordland politidistrikt.",
       "keyPoints": [
-        "Nyleg fortalde NRK om korleis forskarar frå Norwegian Orca Survey måtte gje opp å studere spekkhoggarar i Jøkelfjorden i Nord-Troms, fordi heile 72 båtar sverma rundt dyra.",
-        "Det krev ikkje lovendring eingong – ho må berre tore å vere streng, seier Bastholm.",
-        "Une Bastholm (MDG) meiner noko kan bli gjort allereie no. – Det som skjer no, er ei undergraving av allemannsretten og ei kommersialisering av naturen som er heilt ute av kontroll, seier stortingsrepresentant i MDG, Une Bastholm, til NRK.",
-        "Une Bastholm (MDG) ropar varsku etter at over 70 båtar vart observerte rundt berre ni spekkhoggarar i Kvænangen."
+        "Dermed blir Narvik hockey liggende nest sist på tabellen. fortsatt med 11 poeng etter 15 kamper Datasenteret til Nscale, utbygging i forbindelse med alpin-VM og økt turisme legger press på boligmarkedet i Narvik.",
+        "Politiet melder om en ulykke mellom en personbil og en lastebil ved på riksvei 80, nedenfor menighetshuset i Fauske. – Det skal ikke være personskader og begge sjåførene er oppe og går, skriver Kai Henrik Eriksen i Nordland politidistrikt.",
+        "Kort tid etter at Koskinen hadde satt inn mål, slo Lillehammer tilbake og kampen endte med 3-2 til Lillehammer.",
+        "I vintersesongen som kommer skal de mer enn doble sin arbeidsstokk, fra rundt 40 til opp mot 100 ansatte."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/mdg-topp-krev-strakstiltak-mot-kval-kaos-i-nord-troms-1.18081033",
+      "url": "https://www.nrk.no/nordland/nyhetssenter-nordland-1.15898380",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/F5zJc1UyenAGjZizY_rjqAxEIAUryuPLTzyC9jLmD-mw.jpg",
-      "localImage": "assets/news/e7844b1edb3490.jpg",
-      "score": 17
+      "image": "https://gfx.nrk.no/nb__W24d6Fv-ZtEcUFHrHgD7yCUhB3N2lWX1maJaaUwA.jpg",
+      "localImage": "assets/news/58dab5cb47687d.jpg",
+      "score": 20
     },
     {
       "id": "e8f2ea4a055cba",
@@ -43,7 +43,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fd33058a-2bb1-365b-8066-690bb2d8eaaf?fit=crop&h=675&upscale=true&w=1200&s=1485111b487024caef4f6f21eb6c51b46f41889a",
       "localImage": "assets/news/e8f2ea4a055cba.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "471c7715f6d551",
+      "category": "Økonomi",
+      "published": "14.11. 19:04",
+      "publishedISO": "2026-11-14T19:04:37+01:00",
+      "title": "Sjekker strømstøtte til bedrifter: – Naturlig at vi ser på dette",
+      "summary": "Reguleringsmyndighet sjekker om bedrifter videresender strømstøtten de får til husholdningene. –⁠ Omfanget vet vi først når tilsynet er avsluttet. Derfor har næringskunder fått utbetalt strømstøtte, sier seksjonssjef Torfinn Jonassen i RME til E24. – Men de plikter å videreføre dette til husholdningene. Det er derfor naturlig at vi ser på dette. – Det er forskjell på om det er noen småsummer eller om det er milliarder som er feil utbetalt? – Med den riggen som er rundt denne ordningen vil vi ikke greie å fange dette 100 prosent opp.",
+      "keyPoints": [
+        "Reguleringsmyndighet sjekker om bedrifter videresender strømstøtten de får til husholdningene. –⁠ Omfanget vet vi først når tilsynet er avsluttet.",
+        "Det er derfor naturlig at vi ser på dette. – Det er forskjell på om det er noen småsummer eller om det er milliarder som er feil utbetalt? – Med den riggen som er rundt denne ordningen vil vi ikke greie å fange dette 100 prosent opp.",
+        "Derfor har næringskunder fått utbetalt strømstøtte, sier seksjonssjef Torfinn Jonassen i RME til E24. – Men de plikter å videreføre dette til husholdningene.",
+        "Reguleringsmyndigheten for energi Reguleringsmyndigheten for energi (RME) jobber for å skape et velfungerende og effektivt energimarked i Norge.(RME) sjekker nå om dette skjer."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/energi-og-klima/i/wdEBwA/sjekker-stroemstoette-til-bedrifter-naturlig-at-vi-ser-paa-dette",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ad514d1f-c7da-342a-9841-647f28d8e0b5?fit=crop&h=675&upscale=true&w=1200&s=a7dbb350b5b7040131757753b8efac2eb8381be8",
+      "localImage": "assets/news/471c7715f6d551.jpg",
+      "score": 17
+    },
+    {
+      "id": "e7844b1edb3490",
+      "category": "Norge",
+      "published": "14.11. 11:35",
+      "publishedISO": "2026-11-14T11:35:25+01:00",
+      "title": "MDG-topp krev strakstiltak mot kval-kaos i Nord-Troms",
+      "summary": "Une Bastholm (MDG) meiner noko kan bli gjort allereie no. – Det som skjer no, er ei undergraving av allemannsretten og ei kommersialisering av naturen som er heilt ute av kontroll, seier stortingsrepresentant i MDG, Une Bastholm, til NRK. Nyleg fortalde NRK om korleis forskarar frå Norwegian Orca Survey måtte gje opp å studere spekkhoggarar i Jøkelfjorden i Nord-Troms, fordi heile 72 båtar sverma rundt dyra. Det krev ikkje lovendring eingong – ho må berre tore å vere streng, seier Bastholm.",
+      "keyPoints": [
+        "Nyleg fortalde NRK om korleis forskarar frå Norwegian Orca Survey måtte gje opp å studere spekkhoggarar i Jøkelfjorden i Nord-Troms, fordi heile 72 båtar sverma rundt dyra.",
+        "Det krev ikkje lovendring eingong – ho må berre tore å vere streng, seier Bastholm.",
+        "Une Bastholm (MDG) meiner noko kan bli gjort allereie no. – Det som skjer no, er ei undergraving av allemannsretten og ei kommersialisering av naturen som er heilt ute av kontroll, seier stortingsrepresentant i MDG, Une Bastholm, til NRK.",
+        "Une Bastholm (MDG) ropar varsku etter at over 70 båtar vart observerte rundt berre ni spekkhoggarar i Kvænangen."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/mdg-topp-krev-strakstiltak-mot-kval-kaos-i-nord-troms-1.18081033",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/F5zJc1UyenAGjZizY_rjqAxEIAUryuPLTzyC9jLmD-mw.jpg",
+      "localImage": "assets/news/e7844b1edb3490.jpg",
+      "score": 16
     },
     {
       "id": "3f056fd21d59ea",
@@ -64,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/30643828-ec50-35a0-b5e4-d837337e83c9?fit=crop&h=675&upscale=true&w=1200&s=74da7ade36d385c64e5b29ca1f93cea75a30f66f",
       "localImage": "assets/news/3f056fd21d59ea.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "793de8fda19a34",
@@ -85,7 +127,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a84ee232-1290-393a-8faa-ab4842e5384e?fit=crop&h=675&upscale=true&w=1200&s=9e71a789151746e267ad90e485080037af400cfb",
       "localImage": "assets/news/793de8fda19a34.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "51333b16208b7e",
+      "category": "Norge",
+      "published": "14.11. 18:56",
+      "publishedISO": "2026-11-14T18:56:36+01:00",
+      "title": "Norge-Wales i nasjonsligaen på Ullevaal",
+      "summary": "Det betyr at vi er et av de beste lagene i Europa, sier Erling Braut Haaland til TV 2. – Det viktigste var å vinne med to i dag, sier Nusa til TV 2. Hans kollega Andrine Hegerberg brukte enda sterkere ord på NRK Radio: – Denne er den klart dårligste omgangen på Ullevaal i 2026. Utrolig skuffende. «Norge skal til EM», sang supporterne på Ullevaal selvsikkert, men Wales var bra med fra start. – Wales er mye nærmere sitt toppnivå enn Norge er sitt hittil, fastslår TV 2s ekspertkommentator Simen Stamsø Møller om de første 20 minuttene.",
+      "keyPoints": [
+        "Utrolig skuffende. «Norge skal til EM», sang supporterne på Ullevaal selvsikkert, men Wales var bra med fra start. – Wales er mye nærmere sitt toppnivå enn Norge er sitt hittil, fastslår TV 2s ekspertkommentator Simen Stamsø Møller om de første 20 minuttene.",
+        "Hans kollega Andrine Hegerberg brukte enda sterkere ord på NRK Radio: – Denne er den klart dårligste omgangen på Ullevaal i 2026.",
+        "Det betyr at vi er et av de beste lagene i Europa, sier Erling Braut Haaland til TV 2. – Det viktigste var å vinne med to i dag, sier Nusa til TV 2.",
+        "Så sørget Andreas Schjelderup og Erling Braut Haaland for 3–1."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/norge-wales-i-nasjonsligaen-pa-ullevaal-1.18081962",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/JP-45YueOYmyT64GVlenfgrce4mLoPTGbwvncN3uRfdw",
+      "localImage": "assets/news/51333b16208b7e.webp",
+      "score": 13
+    },
+    {
+      "id": "e0dec0701cb93e",
+      "category": "Norge",
+      "published": "14.11. 16:40",
+      "publishedISO": "2026-11-14T16:40:52+01:00",
+      "title": "Solbakken overrasker – Aasgaard inn i startelleveren",
+      "summary": "Ståle Solbakken har valgt ut følgende ellever til kampen mot Wales på Ullevaal: Egil Selvik – Julian Ryerson, Kristoffer Ajer, Torbjørn Heggem, David Møller Wolfe – Sander Berge, Martin Ødegaard, Thelo Aasgaard – Antonio Nusa, Erling Braut Haaland, Oscar Bobb. – Jeg må innrømme at jeg er noe overrasket. Men da tenker vel Solbakken at han passer bedre til denne kampen enn det Patrick Berg gjør akkurat nå, sier NRK-ekspert Andrine Hegerberg om at Aasgaards inntog i startelleveren. Russiske Savelij Korosteljov vant 10-kilometeren i klassisk stil under den finske langrennsåpningen i Muonio lørdag.",
+      "keyPoints": [
+        "Ståle Solbakken har valgt ut følgende ellever til kampen mot Wales på Ullevaal: Egil Selvik – Julian Ryerson, Kristoffer Ajer, Torbjørn Heggem, David Møller Wolfe – Sander Berge, Martin Ødegaard, Thelo Aasgaard – Antonio Nusa, Erling Braut Haaland, Oscar Bobb. – Jeg må innrømme at jeg er noe overrasket.",
+        "Men da tenker vel Solbakken at han passer bedre til denne kampen enn det Patrick Berg gjør akkurat nå, sier NRK-ekspert Andrine Hegerberg om at Aasgaards inntog i startelleveren.",
+        "Russiske Savelij Korosteljov vant 10-kilometeren i klassisk stil under den finske langrennsåpningen i Muonio lørdag.",
+        "Holtmann kjørte ut, mens Westhoff kom noen tideler for sent til å sikre en plass blant de 30 beste."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/solbakken-overrasker-_-aasgaard-inn-i-startelleveren-1.18081988",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/J8GrcoOR4impKmlMsx8QZQxOtbf_U5FkWWJ_rsQJ3Kfg.jpg",
+      "localImage": "assets/news/e0dec0701cb93e.jpg",
+      "score": 13
     },
     {
       "id": "02784f9b36a2fd",
@@ -106,112 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7e654c97-0d83-30b1-8607-58e607467553?fit=crop&h=675&upscale=true&w=1200&s=2e0e6fa88c6d9dc10e68ab3f989c81b3d3c713fb",
       "localImage": "assets/news/02784f9b36a2fd.jpg",
-      "score": 14
+      "score": 13
     },
     {
-      "id": "ab2b2660e9cedd",
+      "id": "005949b675d589",
       "category": "Norge",
       "published": "14.11. 14:33",
       "publishedISO": "2026-11-14T14:33:54+01:00",
-      "title": "Får ikke hentet ut medisiner: Systemet er nede",
-      "summary": "Tekniske problemer hos Norsk Helsenett gjør at apotek over hele landet i dag har slitt med å få hentet ned e-resepter. Kommunikasjonssjef i Apotekforeningen, Jostein Soldal. – Det vi har fått beskjed om, er at Norsk Helsenett har tekniske problemer som fører til at det rundt i apotekene nok kan være vanskelig å få hentet ned folks resepter, bekrefter Soldal. NRK har også vært i kontakt med enkelte apotek på Nordmøre som sier de sliter med treghet i systemet, men at det er mulig å få hentet ut resepter.",
+      "title": "Apotekene slet med resepttrøbbel over hele landet",
+      "summary": "Tekniske problemer hos Norsk Helsenett har i dag ført til at apotek over hele landet har slitt med å få hentet ned e-resepter. Kommunikasjonssjef i Apotekforeningen, Jostein Soldal. – Det vi har fått beskjed om, er at Norsk Helsenett har tekniske problemer som fører til at det rundt i apotekene nok kan være vanskelig å få hentet ned folks resepter, sa Soldal. Problemene førte til at kunder over hele landet fikk problemer med å hente ut medisiner.",
       "keyPoints": [
-        "NRK har også vært i kontakt med enkelte apotek på Nordmøre som sier de sliter med treghet i systemet, men at det er mulig å få hentet ut resepter.",
-        "Tekniske problemer hos Norsk Helsenett gjør at apotek over hele landet i dag har slitt med å få hentet ned e-resepter.",
-        "Kommunikasjonssjef i Apotekforeningen, Jostein Soldal. – Det vi har fått beskjed om, er at Norsk Helsenett har tekniske problemer som fører til at det rundt i apotekene nok kan være vanskelig å få hentet ned folks resepter, bekrefter Soldal.",
-        "For pasienter som er avhengige av smertestillende, antibiotika eller annen viktig medisin, kan nedetiden få store konsekvenser, ifølge Apotekforeningen. – Det er først og fremst veldig uheldig for de apotek-kundene som nå ikke får den hjelpen de trenger, sier Soldal."
+        "Tekniske problemer hos Norsk Helsenett har i dag ført til at apotek over hele landet har slitt med å få hentet ned e-resepter.",
+        "Problemene førte til at kunder over hele landet fikk problemer med å hente ut medisiner.",
+        "Kommunikasjonssjef i Apotekforeningen, Jostein Soldal. – Det vi har fått beskjed om, er at Norsk Helsenett har tekniske problemer som fører til at det rundt i apotekene nok kan være vanskelig å få hentet ned folks resepter, sa Soldal.",
+        "Feilen førte til at farmasøyter i apotekene ikke fikk tilgang til pasientenes resepter. – Årsaken er at den statlige e-reseptløsningen har brutt sammen, opplyste kommunikasjonssjef Jostein Soldal i Apotekforeningen til NRK."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/far-ikke-hentet-ut-medisiner_-systemet-er-nede-1.18081915",
+      "url": "https://www.nrk.no/ostfold/apotekene-slet-med-resepttrobbel-over-hele-landet-1.18081915",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/GZzrxi7INeQcCf1KS_F7xA21li2g_flUFpFP85Urlyxg.jpg",
-      "localImage": "assets/news/ab2b2660e9cedd.jpg",
-      "score": 13
-    },
-    {
-      "id": "0723249b745d71",
-      "category": "Norge",
-      "published": "14.11. 13:32",
-      "publishedISO": "2026-11-14T13:32:03+01:00",
-      "title": "Husbrann i Farsund",
-      "summary": "Lørdag ettermiddag var det full fyr i et hus i Farsund. Politiet meldte om brannen få minutter tidligere, og at det var full overtenning. Klokken 15.30 opplyser operasjonsleder Gausdal at brannvesenet blir igjen på stedet for å drive etterslukking.",
-      "keyPoints": [
-        "Lørdag ettermiddag var det full fyr i et hus i Farsund.",
-        "Klokken 15.30 opplyser operasjonsleder Gausdal at brannvesenet blir igjen på stedet for å drive etterslukking.",
-        "Politiet meldte om brannen få minutter tidligere, og at det var full overtenning.",
-        "Brannvesenet hadde en stund ikke kontroll, men etter to timer var brannen slukket."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/husbrann-i-farsund-1.18081893",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/N47ZCRUvekWCdSF4o-0rrwvNXUd-ZhsTSE4KyV5BZhfA.jpg",
-      "localImage": "assets/news/0723249b745d71.jpg",
-      "score": 13
-    },
-    {
-      "id": "c3078c6bb6b4f9",
-      "category": "Norge",
-      "published": "14.11. 13:26",
-      "publishedISO": "2026-11-14T13:26:14+01:00",
-      "title": "Guro Ytterhus knuste verdseliten i sesongopninga: – Sjokksiger",
-      "summary": "Eg trudde aldri det skulle gå så bra, fortel Guro Ytterhus etter at sigeren var i boks. GLAD: Guro Ytterhus vann framfor stjernene dei internasjonale Lisa Vittozzi og Kamila Zuk. Guro Ytterhus imponerte frå start til slutt, og leia i mål før dei store kanonane skulle prøve seg. – Skal vi få ein sjokksiger av Guro Ytterhus, kommenterte NRKs Torgeir Bjørn når alt skulle avgjerast.",
-      "keyPoints": [
-        "Guro Ytterhus imponerte frå start til slutt, og leia i mål før dei store kanonane skulle prøve seg. – Skal vi få ein sjokksiger av Guro Ytterhus, kommenterte NRKs Torgeir Bjørn når alt skulle avgjerast.",
-        "GLAD: Guro Ytterhus vann framfor stjernene dei internasjonale Lisa Vittozzi og Kamila Zuk.",
-        "Eg trudde aldri det skulle gå så bra, fortel Guro Ytterhus etter at sigeren var i boks.",
-        "Ein perfekt dag både i løypa og på skytebana førte i dag til ein uventa siger under sesongopninga i skiskyting på Geilo. – Det var ikkje det eg forventa i alle fall."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/guro-ytterhus-knuste-verdseliten-i-sesongopninga_-_-sjokksiger-1.18081887",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jXhNq3BNLKJulJSW20M_ywWFH0znqDeYpZ6LijdZEIcg",
-      "localImage": "assets/news/c3078c6bb6b4f9.jpg",
-      "score": 13
-    },
-    {
-      "id": "1cb70792a69260",
-      "category": "Norge",
-      "published": "14.11. 13:17",
-      "publishedISO": "2026-11-14T13:17:38+01:00",
-      "title": "Vil ha nye kriseplaner for gigantdam: – Kan få katastrofale følger",
-      "summary": "Men dersom en av Norges høyeste demninger skulle briste, kan nesten 150.000 mennesker bli rammet. Vatnedalsdammen øverst i Setesdal ruver 120 meter i været med stein, grus og betong. Avanserte overvåkningssystemer inne i dammen har fanget opp det katastrofale bruddet umiddelbart.",
-      "keyPoints": [
-        "Avanserte overvåkningssystemer inne i dammen har fanget opp det katastrofale bruddet umiddelbart.",
-        "Men dersom en av Norges høyeste demninger skulle briste, kan nesten 150.000 mennesker bli rammet.",
-        "Vatnedalsdammen øverst i Setesdal ruver 120 meter i været med stein, grus og betong.",
-        "Hans Blattmann sover også godt om natta, men vil nå starte arbeidet med nye beredskapsplaner."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/xl/hvis-en-av-nord-europas-storste-demningen-brister_-detaljerte-fluktplaner-mangler-1.18029294",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ad0Sy0VL6uj3Yf-dRxgX0g11AEtdxWadD6ACs7p3s9GA.jpg",
-      "localImage": "assets/news/1cb70792a69260.jpg",
-      "score": 13
-    },
-    {
-      "id": "f515c499663f28",
-      "category": "Økonomi",
-      "published": "14.11. 12:14",
-      "publishedISO": "2026-11-14T12:14:07+01:00",
-      "title": "Sparer 25.000 i måneden: – Sett pengene der du ikke ser dem!",
-      "summary": "Nordmenn har aldri vært så villige til å spare penger som de er nå. – Vi sparer rundt 25.000 kroner i måneden og er veldig fornøyd med det, sier Marius Ørvik. Det siste året ser de en bratt oppgang blant dem som svarer at de da vil spare. – Akkurat hvorfor vi får et slikt hopp akkurat da, er vanskelig å si noe sikkert om. Vi lever egentlig ganske komfortable liv, men vi klarer likevel å spare, sier Ørvik til E24. – Har du tips til dem som ønsker å spare mer? – Ja, du må «betale til deg selv først».",
-      "keyPoints": [
-        "Nordmenn har aldri vært så villige til å spare penger som de er nå. – Vi sparer rundt 25.000 kroner i måneden og er veldig fornøyd med det, sier Marius Ørvik.",
-        "Det siste året ser de en bratt oppgang blant dem som svarer at de da vil spare. – Akkurat hvorfor vi får et slikt hopp akkurat da, er vanskelig å si noe sikkert om.",
-        "Vi lever egentlig ganske komfortable liv, men vi klarer likevel å spare, sier Ørvik til E24. – Har du tips til dem som ønsker å spare mer? – Ja, du må «betale til deg selv først».",
-        "Fire-fem ganger i løpet av et år setter Ørvik og kona seg ned for å se på hva pengene går til. – Det er lite kaffekjøp på Narvesen her i Porsgrunn, men vi er veldig glad i å kjøpe ting til huset."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/EboOpa/sparer-25-000-i-maaneden-sett-pengene-der-du-ikke-ser-dem",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/55489081-403f-3d1f-9af5-f067671ac6d1?fit=crop&h=675&upscale=true&w=1200&s=2072fca452bdfae9f810d3f3af6c8ba58d85ee13",
-      "localImage": "assets/news/f515c499663f28.jpg",
-      "score": 13
+      "localImage": "assets/news/005949b675d589.jpg",
+      "score": 12
     }
   ]
 }
