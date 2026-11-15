@@ -1,6 +1,6 @@
 {
-  "updatedAt": "15.11.2026 kl. 20:09",
-  "updatedISO": "2026-11-15T20:09:56.772214+01:00",
+  "updatedAt": "16.11.2026 kl. 00:24",
+  "updatedISO": "2026-11-16T00:24:40.746573+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/PVZtsfIZxbYFm5duqymZmwxMiHGJXvlCyu6P-Ai47ujA.jpg",
       "localImage": "assets/news/aa0141e96e342b.jpg",
-      "score": 18
+      "score": 17
     },
     {
-      "id": "95f71049c79cf9",
+      "id": "091ac58bb02aa0",
       "category": "Verden",
-      "published": "15.11. 14:42",
-      "publishedISO": "2026-11-15T14:42:58+01:00",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "Iran og USA kjemper om kontroll over Hormuzstredet Iran startet et droneangrep mot en amerikansk militærbase i Bahrain søndag, det andre forsøket på å målrette landet på tre dager. Det kommer etter at Iran avfyrte droner mot Bahrain fredag, det første angrepet mot Gulf-landene siden september. Det amerikanske militæret har avvist påstanden og uttalt at IRGC lanserte to enveis angrepsdroner mot Bahrain og begge ble skutt ned av amerikanske styrker.",
+      "published": "15.11. 20:20",
+      "publishedISO": "2026-11-15T20:20:53+01:00",
+      "title": "Thousands of US flights cancelled or delayed two days after grounding of planes nationwide",
+      "summary": "\"Vi kommer hjem en dag\" - Amerikanske reisende påvirket av landsomfattende bakkestopp Tusenvis av amerikanske flyreiser ble kansellert eller forsinket på søndag da det amerikanske lufttrafikkkontrollsystemet fortsatte å komme seg etter en teknisk feil som førte til et sjeldent nasjonalt bakkestopp. Mer enn 5000 fly ble forsinket og 2000 kansellert søndag. Lørdag kansellerte flyselskapene mer enn 5.900 flyvninger og mer enn 7.000 andre ble forsinket.",
       "keyPoints": [
-        "Iran og USA kjemper om kontroll over Hormuzstredet Iran startet et droneangrep mot en amerikansk militærbase i Bahrain søndag, det andre forsøket på å målrette landet på tre dager.",
-        "It comes after Iran fired drones at Bahrain on Friday, its first attack against Gulf countries since September.",
-        "Det amerikanske militæret har avvist påstanden og uttalt at IRGC lanserte to enveis angrepsdroner mot Bahrain og begge ble skutt ned av amerikanske styrker.",
-        "Bahrains militær sa at luftforsvarssystemene deres fanget opp og ødela de iranske luftangrepene \"før de kunne nå sine mål\"."
+        "\"Vi kommer hjem en dag\" - Amerikanske reisende påvirket av landsomfattende bakkestopp Tusenvis av amerikanske flyreiser ble kansellert eller forsinket på søndag da det amerikanske lufttrafikkkontrollsystemet fortsatte å komme seg etter en teknisk feil som førte til et sjeldent nasjonalt bakkestopp.",
+        "On Saturday, airlines cancelled more than 5,900 flights and more than 7,000 others were delayed.",
+        "I kjølvannet ble 8500 fly forsinket og ytterligere 8000 kansellert, ifølge FlightAware.",
+        "Bakkestoppet hadde også en avsmittende effekt på rutetider rundt om i verden, med noen flyvninger fra Storbritannia og Europa kansellert."
       ],
       "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o",
       "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg",
-      "localImage": "assets/news/95f71049c79cf9.jpg",
-      "score": 12
-    },
-    {
-      "id": "0e654bd662a56c",
-      "category": "Økonomi",
-      "published": "15.11. 20:06",
-      "publishedISO": "2026-11-15T20:06:41+01:00",
-      "title": "Mener Nvidia trenger «dramatisk utskiftning»",
-      "summary": "Nvidia trenger en «dramatisk utskiftning» etter tidligere toppsjef Jensen Huangs avgang, ifølge ministeren. – Dette får meg til å tenke at når styret nå leter etter en ny leder, må de se utenfor selskapet, sa Bessent til Fox News søndag, ifølge Bloomberg. Tidligere Nvidia-sjef Jensen Huang gikk av i forrige uke etter avsløringer om flere affærer, hvorav en skal ha vært til Alice Huang, en tidligere Megaspeed-topp amerikansk etterretning mener er kinesisk spion. Nvidia har tidligere uttalt at de overholder amerikanske eksportregler.",
-      "keyPoints": [
-        "Nvidia trenger en «dramatisk utskiftning» etter tidligere toppsjef Jensen Huangs avgang, ifølge ministeren. – Dette får meg til å tenke at når styret nå leter etter en ny leder, må de se utenfor selskapet, sa Bessent til Fox News søndag, ifølge Bloomberg.",
-        "Tidligere Nvidia-sjef Jensen Huang gikk av i forrige uke etter avsløringer om flere affærer, hvorav en skal ha vært til Alice Huang, en tidligere Megaspeed-topp amerikansk etterretning mener er kinesisk spion.",
-        "Nvidia har tidligere uttalt at de overholder amerikanske eksportregler.",
-        "Fredag sa Bessent at det er det amerikanske handelsdepartementets BISBureau of Industry and Security (BIS) er en etat underlagt handelsdepartementet som blant annet skal fremme nasjonal sikkerhet gjennom eksportkontroll.-enhet som er ansvarlig for at Megaspeed ikke ble oppført på en liste over selskaper som utgjør en nasjonal sikkerhetsirisko."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/1vnM4G/mener-nvidia-trenger-dramatisk-utskiftning",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/01c437d8-e5a3-37ea-9b32-bd72f857f087?fit=crop&h=675&upscale=true&w=1200&s=b0171304724f4817e193b7985724310f8b751d27",
-      "localImage": "assets/news/0e654bd662a56c.jpg",
-      "score": 17
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
+      "localImage": "assets/news/091ac58bb02aa0.jpg",
+      "score": 13
     },
     {
       "id": "e8f2ea4a055cba",
@@ -88,6 +67,27 @@
       "score": 14
     },
     {
+      "id": "fc9b630c9e9ad6",
+      "category": "Økonomi",
+      "published": "15.11. 20:39",
+      "publishedISO": "2026-11-15T20:39:12+01:00",
+      "title": "NRK: Tidligere Statoil-topp Ole Lund er død",
+      "summary": "Lund døde lørdag etter lang tids sykdom, opplyser familiens hans i en melding på Facebook, ifølge NRK. Lund var utdannet jurist og hadde bevilling som høyesterettsadvokat. Lund regnes som arkitekten bak riggselskapet Transocean og var sentral i dannelsen av DNB.",
+      "keyPoints": [
+        "Lund døde lørdag etter lang tids sykdom, opplyser familiens hans i en melding på Facebook, ifølge NRK.",
+        "Lund regnes som arkitekten bak riggselskapet Transocean og var sentral i dannelsen av DNB.",
+        "Lund var utdannet jurist og hadde bevilling som høyesterettsadvokat.",
+        "Han startet egen advokatpraksis i 1986 og var senere partner i advokatfirmaet BA-HR."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/wdE1yA/nrk-tidligere-statoil-topp-ole-lund-er-doed",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ae71e5f6-d79f-3e01-b10a-538cad1701e4?fit=crop&h=675&upscale=true&w=1200&s=b9d03ee6e3c4091820e4c308e183ec72039a2d3d",
+      "localImage": "assets/news/fc9b630c9e9ad6.jpg",
+      "score": 13
+    },
+    {
       "id": "5cdc3fa7430834",
       "category": "AI",
       "published": "14.11. 19:28",
@@ -98,7 +98,7 @@
         "Italienske regulatorer har bøtelagt sosiale medier-giganten Meta € 805 millioner (£ 670 millioner; $ 887 millioner) for å ha tilgang til Android-brukeres bilder uten deres spesifikke samtykke.",
         "Italias datatilsyn sa at Meta ikke informerte om 20 millioner smarttelefonbrukere ordentlig om at de hadde tilgang til bildene og videoene deres via en funksjon i Facebook-appen.",
         "Det har gitt Meta, som også driver WhatsApp og Instagram, 60 dager på å deaktivere funksjonen som standard og søke brukernes samtykke separat.",
-        "Meta sa til BBC: \"Vi er sterkt uenige i [regulatorens] vurdering av fakta, dens anvendelse av loven og det uforholdsmessige nivået på bøten. \"Dette er en enkel funksjon som hjelper folk å legge ut bilder og videoer til Facebook."
+        "Meta sa til BBC: \"Vi er sterkt uenige i [regulatorens] vurdering av fakta, dens anvendelse av loven og det uforholdsmessige bøtenivået. \"Dette er en enkel funksjon som hjelper folk å legge ut bilder og videoer til Facebook."
       ],
       "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
       "summaryMethod": "local-extractive",
@@ -106,7 +106,7 @@
       "source": "bbc.co.uk",
       "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
       "localImage": "assets/news/5cdc3fa7430834.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "e0fea20cf6460e",
@@ -148,69 +148,69 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wyKK9Fa7azRoqhkuw5hSRgzDId1f9rep85rgR_bHUTOw",
       "localImage": "assets/news/0ac1141917bbcd.webp",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "c7356f974bff17",
+      "id": "bd46f277f2c60f",
       "category": "Norge",
-      "published": "15.11. 19:47",
-      "publishedISO": "2026-11-15T19:47:30+01:00",
-      "title": "Utvider ferdselsforbudet i Austertana til tirsdag: – Det begrenser oss",
-      "summary": "Ferdselsforbudet i Austertana utvides til tirsdag ettermiddag. Kolonnekjøringen i Austertana er satt mellom 07:00 til 08:00 og 14:00 til 15:00. På tirsdag vil det være en uke siden jordskredet i Austertana stengte ferdselen langs veien.",
+      "published": "15.11. 21:26",
+      "publishedISO": "2026-11-15T21:26:56+01:00",
+      "title": "Info fra norsk våpengigant lekket via Musk-selskap",
+      "summary": "Våpenkonsernet Nammo brukte KI-tjeneste fra Elon Musk-selskap. Gjennom et sikkerhetshull fant IT-eksperter lekket informasjon. Nammo er en av landets største våpenprodusenter med hovedkontor på Raufoss og fabrikker i 12 land. – Vi mente det vi fant var alvorlig for Nammo, sier Asaf Aprozper i selskapet Claroc til NRK.",
       "keyPoints": [
-        "Ferdselsforbudet i Austertana utvides til tirsdag ettermiddag.",
-        "På tirsdag vil det være en uke siden jordskredet i Austertana stengte ferdselen langs veien.",
-        "Kolonnekjøringen i Austertana er satt mellom 07:00 til 08:00 og 14:00 til 15:00.",
-        "Innbyggerne må dermed forholde seg til kolonnekjøring fremover. – Det er veldig begrenset når vi kan bevege oss forbi."
+        "Våpenkonsernet Nammo brukte KI-tjeneste fra Elon Musk-selskap.",
+        "Gjennom et sikkerhetshull fant IT-eksperter lekket informasjon.",
+        "Nammo er en av landets største våpenprodusenter med hovedkontor på Raufoss og fabrikker i 12 land. – Vi mente det vi fant var alvorlig for Nammo, sier Asaf Aprozper i selskapet Claroc til NRK.",
+        "De jakter sikkerhetshull og selger bistand til å lukke dem. – Jeg ble overrasket over svakhetene i dette verktøyet fra Grok, sier Aprozper til NRK."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/utvider-ferdselsforbudet-i-austertana-til-tirsdag_-_-det-begrenser-oss-1.18082343",
+      "url": "https://www.nrk.no/artikkel/info-fra-norsk-vapengigant-lekket-via-musk-selskap-1532718",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/94gxx8TBKJVQ5TnfIymdKwMDYM3JYINFLZfH1ps9ROug.jpg",
-      "localImage": "assets/news/c7356f974bff17.jpg",
+      "image": "https://gfx.nrk.no/TXGL6z972Hldtpia8Bpv4ASZgrc5VPVxjuYudxxcohyA",
+      "localImage": "assets/news/bd46f277f2c60f.jpg",
       "score": 13
     },
     {
-      "id": "fc4f1e69b2895a",
+      "id": "5722718e612f1a",
       "category": "Norge",
-      "published": "15.11. 19:10",
-      "publishedISO": "2026-11-15T19:10:52+01:00",
-      "title": "Stort utbrudd av fugleinfluensa – 100.000 fugler må avlives",
-      "summary": "Norges største utbrudd av fugleinfluensa i kommersiell fjørfehold er påvist i Rogaland og Agder. Mattilsynet skriver at dette er det største utbruddet av fugleinfluensa i kommersielle fjørfehold som er registrert i Norge, både i antall berørte dyrehold og geografisk utbredelse. Til sammen sju fjørfehold i Norge har nå fått påvist smitte av fugleinfluensa, skriver Mattilsynet søndag kveld.",
+      "published": "15.11. 21:20",
+      "publishedISO": "2026-11-15T21:20:12+01:00",
+      "title": "Tide har skiftet vinterdekk på busser i Vestfold",
+      "summary": "Tide har jobbet med å skifte til vinterdekk på sine busser i helga. Dekkene var godkjente helårsdekk, men nå har de blitt skiftet til vinterdekk. – Vi har planer om å kjøre som normalt mandag, sier regionsjef Harald Hella i Sør Vest i Tide Buss til NRK på telefon før han må inn i et møte. Regionsjef Harald Hella i Tide opplyser at de har jobbet i hele helga med å få skiftet til vinterdekk.",
       "keyPoints": [
-        "Norges største utbrudd av fugleinfluensa i kommersiell fjørfehold er påvist i Rogaland og Agder.",
-        "Mattilsynet skriver at dette er det største utbruddet av fugleinfluensa i kommersielle fjørfehold som er registrert i Norge, både i antall berørte dyrehold og geografisk utbredelse.",
-        "Til sammen sju fjørfehold i Norge har nå fått påvist smitte av fugleinfluensa, skriver Mattilsynet søndag kveld.",
-        "Leder i Rogaland Fjørfelag, Anne-Synnøve Eiane, beskriver situasjonen som uvirkelig og som et enormt sjokk for næringen. – Jeg har vært i kontakt med dem som har fått påvist fugleinfluensa."
+        "Dekkene var godkjente helårsdekk, men nå har de blitt skiftet til vinterdekk. – Vi har planer om å kjøre som normalt mandag, sier regionsjef Harald Hella i Sør Vest i Tide Buss til NRK på telefon før han må inn i et møte.",
+        "Tide har jobbet med å skifte til vinterdekk på sine busser i helga.",
+        "Regionsjef Harald Hella i Tide opplyser at de har jobbet i hele helga med å få skiftet til vinterdekk.",
+        "Jeg mener at det er hengerdekk, og ikke drivdekk, sa Aaring til NRK torsdag Men i helgen har det blitt jobbet intensivt med å få vinterdekk på bussene. – Vi har jobbet kontinuerlig gjennom helgen for å få på plass den planlagte vinterløsningen på bussene i Vestfold, skriver Hella."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/stort-utbrudd-av-fugleinfluensa-100000-fugler-ma-avlives-1533069",
+      "url": "https://www.nrk.no/vestfoldogtelemark/tide-har-skiftet-vinterdekk-pa-busser-i-vestfold-1.18082423",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/gX3S5Nya4sPyiJ7Ph9jTTwP8ptPmVKgW_KFFkb-T4Ngg",
-      "localImage": "assets/news/fc4f1e69b2895a.jpg",
+      "image": "https://gfx.nrk.no/BjfHEDpN5_7aozWpEcFWPgYBdbaJ8GG25l_cusmC07LA.jpg",
+      "localImage": "assets/news/5722718e612f1a.webp",
       "score": 13
     },
     {
-      "id": "fd5ac21ef4ffc6",
-      "category": "Økonomi",
-      "published": "15.11. 17:56",
-      "publishedISO": "2026-11-15T17:56:12+01:00",
-      "title": "Retur for Rubiks kube",
-      "summary": "Dermed er produksjonen av Rubiks kube tilbake til Ungarn etter mange år i eksil. Rubik underviste i design ved kunstakademiet i Budapest da den fargerike klossen ble unnfanget på 70-tallet. – De siste 50 årene har jeg fulgt med på hva som har skjedd med kuben verden over, sier oppfinneren til Euronews. Rubiks kube har rukket å feire både 40- og 50-årsjubileum.",
+      "id": "a7ceafd992ee7b",
+      "category": "Norge",
+      "published": "15.11. 20:08",
+      "publishedISO": "2026-11-15T20:08:46+01:00",
+      "title": "Hedegart og Botn med stikk til kvarandre etter skiskyttarstarten",
+      "summary": "KJAPPE: Einar Hedegart og Johan-Olav Botn er kjappe, både i løypa og i kjeften. DUELL: Det står no 1–1 mellom Johan-Olav Botn og Einar Hedegart så langt i sesongen. Botn viser til at Hedegart kom utan reim på børsa til Blink-festivalen. – Men han er litt frekk, han begynner å bli litt cocky? spør NRK. – Ja.",
       "keyPoints": [
-        "Dermed er produksjonen av Rubiks kube tilbake til Ungarn etter mange år i eksil.",
-        "Rubiks kube har rukket å feire både 40- og 50-årsjubileum.",
-        "Rubik underviste i design ved kunstakademiet i Budapest da den fargerike klossen ble unnfanget på 70-tallet. – De siste 50 årene har jeg fulgt med på hva som har skjedd med kuben verden over, sier oppfinneren til Euronews.",
-        "Kuben ble født her, sa arkitekt og oppfinner Ernő Rubik (82) i forrige uke, ifølge nyhetsbyrået AP."
+        "DUELL: Det står no 1–1 mellom Johan-Olav Botn og Einar Hedegart så langt i sesongen.",
+        "KJAPPE: Einar Hedegart og Johan-Olav Botn er kjappe, både i løypa og i kjeften.",
+        "Botn viser til at Hedegart kom utan reim på børsa til Blink-festivalen. – Men han er litt frekk, han begynner å bli litt cocky? spør NRK. – Ja.",
+        "Med spurtsiger over Botn var Hedegart klar til å komme med nokre kjappe replikkar i retning rivalen etter målpassering: – Eg vil seie at eg blir meir og meir skiskyttar."
       ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/8Gy0jE/retur-for-rubiks-kube",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/d2496406-51f7-3f5d-a4a6-175cb5ab76f1?fit=crop&h=675&upscale=true&w=1200&s=e338f63b90fdaa01e41e165a0f4ff9f857048226",
-      "localImage": "assets/news/fd5ac21ef4ffc6.jpg",
+      "url": "https://www.nrk.no/sport/hedegart-og-botn-med-stikk-til-kvarandre-etter-skiskyttarstarten-1.18082302",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/myvVDFh6BcEHyVx2N5JLWgHHWD3PsfglieqWwsD4VucA.jpg",
+      "localImage": "assets/news/a7ceafd992ee7b.jpg",
       "score": 13
     }
   ]
