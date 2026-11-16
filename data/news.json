@@ -1,6 +1,6 @@
 {
-  "updatedAt": "16.11.2026 kl. 00:24",
-  "updatedISO": "2026-11-16T00:24:40.746573+01:00",
+  "updatedAt": "16.11.2026 kl. 03:57",
+  "updatedISO": "2026-11-16T03:57:37.173275+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,28 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/PVZtsfIZxbYFm5duqymZmwxMiHGJXvlCyu6P-Ai47ujA.jpg",
       "localImage": "assets/news/aa0141e96e342b.jpg",
-      "score": 17
-    },
-    {
-      "id": "091ac58bb02aa0",
-      "category": "Verden",
-      "published": "15.11. 20:20",
-      "publishedISO": "2026-11-15T20:20:53+01:00",
-      "title": "Thousands of US flights cancelled or delayed two days after grounding of planes nationwide",
-      "summary": "\"Vi kommer hjem en dag\" - Amerikanske reisende påvirket av landsomfattende bakkestopp Tusenvis av amerikanske flyreiser ble kansellert eller forsinket på søndag da det amerikanske lufttrafikkkontrollsystemet fortsatte å komme seg etter en teknisk feil som førte til et sjeldent nasjonalt bakkestopp. Mer enn 5000 fly ble forsinket og 2000 kansellert søndag. Lørdag kansellerte flyselskapene mer enn 5.900 flyvninger og mer enn 7.000 andre ble forsinket.",
-      "keyPoints": [
-        "\"Vi kommer hjem en dag\" - Amerikanske reisende påvirket av landsomfattende bakkestopp Tusenvis av amerikanske flyreiser ble kansellert eller forsinket på søndag da det amerikanske lufttrafikkkontrollsystemet fortsatte å komme seg etter en teknisk feil som førte til et sjeldent nasjonalt bakkestopp.",
-        "On Saturday, airlines cancelled more than 5,900 flights and more than 7,000 others were delayed.",
-        "I kjølvannet ble 8500 fly forsinket og ytterligere 8000 kansellert, ifølge FlightAware.",
-        "Bakkestoppet hadde også en avsmittende effekt på rutetider rundt om i verden, med noen flyvninger fra Storbritannia og Europa kansellert."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
-      "localImage": "assets/news/091ac58bb02aa0.jpg",
-      "score": 13
+      "score": 16
     },
     {
       "id": "e8f2ea4a055cba",
@@ -64,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/fd33058a-2bb1-365b-8066-690bb2d8eaaf?fit=crop&h=675&upscale=true&w=1200&s=1485111b487024caef4f6f21eb6c51b46f41889a",
       "localImage": "assets/news/e8f2ea4a055cba.jpg",
-      "score": 14
+      "score": 13
     },
     {
       "id": "fc9b630c9e9ad6",
@@ -85,27 +64,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ae71e5f6-d79f-3e01-b10a-538cad1701e4?fit=crop&h=675&upscale=true&w=1200&s=b9d03ee6e3c4091820e4c308e183ec72039a2d3d",
       "localImage": "assets/news/fc9b630c9e9ad6.jpg",
-      "score": 13
-    },
-    {
-      "id": "5cdc3fa7430834",
-      "category": "AI",
-      "published": "14.11. 19:28",
-      "publishedISO": "2026-11-14T19:28:06+01:00",
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "Italienske regulatorer har bøtelagt sosiale medier-giganten Meta € 805 millioner (£ 670 millioner; $ 887 millioner) for å ha tilgang til Android-brukeres bilder uten deres spesifikke samtykke. Italias datatilsyn sa at Meta ikke informerte om 20 millioner smarttelefonbrukere ordentlig om at de hadde tilgang til bildene og videoene deres via en funksjon i Facebook-appen. Det har gitt Meta, som også driver WhatsApp og Instagram, 60 dager på å deaktivere funksjonen som standard og søke brukernes samtykke separat.",
-      "keyPoints": [
-        "Italienske regulatorer har bøtelagt sosiale medier-giganten Meta € 805 millioner (£ 670 millioner; $ 887 millioner) for å ha tilgang til Android-brukeres bilder uten deres spesifikke samtykke.",
-        "Italias datatilsyn sa at Meta ikke informerte om 20 millioner smarttelefonbrukere ordentlig om at de hadde tilgang til bildene og videoene deres via en funksjon i Facebook-appen.",
-        "Det har gitt Meta, som også driver WhatsApp og Instagram, 60 dager på å deaktivere funksjonen som standard og søke brukernes samtykke separat.",
-        "Meta sa til BBC: \"Vi er sterkt uenige i [regulatorens] vurdering av fakta, dens anvendelse av loven og det uforholdsmessige bøtenivået. \"Dette er en enkel funksjon som hjelper folk å legge ut bilder og videoer til Facebook."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg",
-      "localImage": "assets/news/5cdc3fa7430834.jpg",
       "score": 12
     },
     {
@@ -127,7 +85,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/OmMjGfARGNE0FRyIOLhlJwgOSW7p6FnuJOjZnORIEWDQ",
       "localImage": "assets/news/e0fea20cf6460e.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "0ac1141917bbcd",
@@ -169,7 +127,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/TXGL6z972Hldtpia8Bpv4ASZgrc5VPVxjuYudxxcohyA",
       "localImage": "assets/news/bd46f277f2c60f.jpg",
-      "score": 13
+      "score": 12
     },
     {
       "id": "5722718e612f1a",
@@ -190,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BjfHEDpN5_7aozWpEcFWPgYBdbaJ8GG25l_cusmC07LA.jpg",
       "localImage": "assets/news/5722718e612f1a.webp",
-      "score": 13
+      "score": 12
     },
     {
       "id": "a7ceafd992ee7b",
@@ -211,7 +169,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/myvVDFh6BcEHyVx2N5JLWgHHWD3PsfglieqWwsD4VucA.jpg",
       "localImage": "assets/news/a7ceafd992ee7b.jpg",
-      "score": 13
+      "score": 12
+    },
+    {
+      "id": "c7356f974bff17",
+      "category": "Norge",
+      "published": "15.11. 19:47",
+      "publishedISO": "2026-11-15T19:47:30+01:00",
+      "title": "Utvider ferdselsforbudet i Austertana til tirsdag: – Det begrenser oss",
+      "summary": "Ferdselsforbudet i Austertana utvides til tirsdag ettermiddag. Kolonnekjøringen i Austertana er satt mellom 07:00 til 08:00 og 14:00 til 15:00. På tirsdag vil det være en uke siden jordskredet i Austertana stengte ferdselen langs veien.",
+      "keyPoints": [
+        "Ferdselsforbudet i Austertana utvides til tirsdag ettermiddag.",
+        "På tirsdag vil det være en uke siden jordskredet i Austertana stengte ferdselen langs veien.",
+        "Kolonnekjøringen i Austertana er satt mellom 07:00 til 08:00 og 14:00 til 15:00.",
+        "Innbyggerne må dermed forholde seg til kolonnekjøring fremover. – Det er veldig begrenset når vi kan bevege oss forbi."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/utvider-ferdselsforbudet-i-austertana-til-tirsdag_-_-det-begrenser-oss-1.18082343",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/94gxx8TBKJVQ5TnfIymdKwMDYM3JYINFLZfH1ps9ROug.jpg",
+      "localImage": "assets/news/c7356f974bff17.jpg",
+      "score": 12
     }
   ]
 }
