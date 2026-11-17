@@ -1,29 +1,8 @@
 {
-  "updatedAt": "17.11.2026 kl. 04:28",
-  "updatedISO": "2026-11-17T04:28:04.990176+01:00",
+  "updatedAt": "17.11.2026 kl. 13:20",
+  "updatedISO": "2026-11-17T13:20:15.268231+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
-    {
-      "id": "8cb3fad23040ce",
-      "category": "Norge",
-      "published": "16.11. 20:31",
-      "publishedISO": "2026-11-16T20:31:47+01:00",
-      "title": "Her kommer bilen over i motsatt kjørefelt",
-      "summary": "Siden åpningen av den nye E6-strekningen i Trøndelag har flere bilister endt opp i motsatt kjøreretning. Siden torsdag i forrige uke har det vært flere tilfeller der bilister har kommet over i motsatt kjøreretning og snudd inne i tunnelen langs nye E6 mellom Kvithammer og Åsen. Samtidig understreker hun at politiet ikke vet hva som førte til at tre sjåfører har endt opp i motsatt kjøreretning de siste dagene. – Skiltingen er god og vår opplevelse er at det er godt opplyst hvor man skal kjøre, sier Eide.",
-      "keyPoints": [
-        "Siden åpningen av den nye E6-strekningen i Trøndelag har flere bilister endt opp i motsatt kjøreretning.",
-        "Siden torsdag i forrige uke har det vært flere tilfeller der bilister har kommet over i motsatt kjøreretning og snudd inne i tunnelen langs nye E6 mellom Kvithammer og Åsen.",
-        "Samtidig understreker hun at politiet ikke vet hva som førte til at tre sjåfører har endt opp i motsatt kjøreretning de siste dagene. – Skiltingen er god og vår opplevelse er at det er godt opplyst hvor man skal kjøre, sier Eide.",
-        "Politiet kommer nå med en klar oppfordring til alle som skal kjøre langs strekningen. – Følg med på veien og skiltingen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/snur-og-kjorer-i-motsatt-kjoreretning-i-110-sonen-1.18082974",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/KaIlTCSA6A8LogswiwcKfgzqnXSgazuz_u72RY3DjB2g.png",
-      "localImage": "assets/news/8cb3fad23040ce.png",
-      "score": 16
-    },
     {
       "id": "f09fbc9877be1f",
       "category": "Økonomi",
@@ -43,7 +22,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c105786b-73d2-31d6-8fe7-6cbb76a2adc7?fit=crop&h=675&upscale=true&w=1200&s=fb3127dff1d1b03948d9a6b255af01f5669d95ed",
       "localImage": "assets/news/f09fbc9877be1f.png",
-      "score": 23
+      "score": 21
     },
     {
       "id": "3446bac0a7fd19",
@@ -64,7 +43,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5098ea69-d971-3e9c-a2fc-25ef44ddabaf?fit=crop&h=675&upscale=true&w=1200&s=e4491c75f45db94c5a295632902eebd32b6dce1b",
       "localImage": "assets/news/3446bac0a7fd19.jpg",
-      "score": 20
+      "score": 18
+    },
+    {
+      "id": "acaa1822c3b157",
+      "category": "Økonomi",
+      "published": "17.11. 09:13",
+      "publishedISO": "2026-11-17T09:13:47+01:00",
+      "title": "Deutsche Bank skal ha lekket Trumps selvangivelse",
+      "summary": "Varslere har lekket mer enn 15 millioner dokumenter fra Deutsche Bank. Blant de mest oppsiktsvekkende funnene som Financial Times trekker frem: Deutsche Bank har allerede betalt dyrt for tidligere skandaler. Når det gjelder Epstein-forholdet, har Deutsche Bank betalt 225 millioner dollar i bøter og forlik.",
+      "keyPoints": [
+        "Varslere har lekket mer enn 15 millioner dokumenter fra Deutsche Bank.",
+        "Når det gjelder Epstein-forholdet, har Deutsche Bank betalt 225 millioner dollar i bøter og forlik.",
+        "Blant de mest oppsiktsvekkende funnene som Financial Times trekker frem: Deutsche Bank har allerede betalt dyrt for tidligere skandaler.",
+        "Deutsche Bank avviser at lekkasjene viser tilstanden i dagens virksomhet. – Forholdene som reises i dokumentlekkasjen, går mange år tilbake, i enkelte tilfeller så mye som to tiår."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Vxb4j6/deutsche-bank-skal-ha-lekket-trumps-selvangivelse",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/cfd9088e-85f1-3300-9e44-dd0b57da197b?fit=crop&h=675&upscale=true&w=1200&s=a4efe46239ef8b9a896e69ce18a5e96b8555e6d9",
+      "localImage": "assets/news/acaa1822c3b157.jpg",
+      "score": 17
     },
     {
       "id": "6accf790593eec",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f0bb45cf-2241-33ec-9fc7-3d5f47858fe5?fit=crop&h=675&upscale=true&w=1200&s=22fbc13bafc8535035863c7cb601f94d50a20327",
       "localImage": "assets/news/6accf790593eec.jpg",
-      "score": 18
+      "score": 16
     },
     {
       "id": "450650a12ee538",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/50c459d9-4475-36de-9e4e-463f4c15c327?fit=crop&h=675&upscale=true&w=1200&s=81b9696a922092ce64b086089763a052ede2edcf",
       "localImage": "assets/news/450650a12ee538.jpg",
-      "score": 18
+      "score": 16
     },
     {
       "id": "374887f4074b51",
@@ -127,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/04d398ff-20dc-3a47-ba8e-c2153735eb00?fit=crop&h=675&upscale=true&w=1200&s=d51b3bc9e33a0e0e78205ae72cd0822ca450e2c4",
       "localImage": "assets/news/374887f4074b51.jpg",
-      "score": 18
+      "score": 16
     },
     {
       "id": "ad25ff09ab9cc9",
@@ -148,28 +148,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/92534fcb-8449-3f35-9e27-7488cb964e48?fit=crop&h=675&upscale=true&w=1200&s=e372ef7527c7f72b96b83c4ec533893bbb09d1d2",
       "localImage": "assets/news/ad25ff09ab9cc9.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "2911bad2b9872d",
-      "category": "Norge",
-      "published": "16.11. 16:11",
-      "publishedISO": "2026-11-16T16:11:40+01:00",
-      "title": "Kommunene frykter et skolekutt på 11 milliarder kroner på grunn av færre elever",
-      "summary": "Færre elever gjør at det blir mindre penger fra staten til kommunene. De ti neste åra blir trekket på 11 milliarder kroner til kommunene, viser anslag fra teknisk beregningsutvalg. – Vi ser at nedgangen i elevtallet gjør at det er mange vanskelige prosesser ute i kommunene med skolenedleggelser nå, sier Røsvoll. Bare det å miste seks elever ved en skole betyr en million kroner mindre i tilskudd fra staten, viser en oversikt fra Utdanningsforbundet.",
+      "id": "73ffaa3344e8c0",
+      "category": "Økonomi",
+      "published": "17.11. 12:38",
+      "publishedISO": "2026-11-17T12:38:37+01:00",
+      "title": "Kiwi økte prisene – da kom beskjeden fra «Tøffe-Tom»",
+      "summary": "Mailen viser at Rema 1000 hadde oppdaget at Kiwi nylig hadde økt prisene med over 6 prosent. Kristiansen spurte så Lindberg retorisk om hva han trodde Kiwi ville komme til å gjøre når de oppdaget at de hadde økt prisene mer. Jünge viste til Remas eget prosesskriv, der selskapet forklarer at Kristiansen mente at Kiwi trolig ville sette prisene ned til Remas nivå dersom prisforskjellen ble for stor.",
       "keyPoints": [
-        "De ti neste åra blir trekket på 11 milliarder kroner til kommunene, viser anslag fra teknisk beregningsutvalg. – Vi ser at nedgangen i elevtallet gjør at det er mange vanskelige prosesser ute i kommunene med skolenedleggelser nå, sier Røsvoll.",
-        "Færre elever gjør at det blir mindre penger fra staten til kommunene.",
-        "Bare det å miste seks elever ved en skole betyr en million kroner mindre i tilskudd fra staten, viser en oversikt fra Utdanningsforbundet.",
-        "Utvalget foreslår at det må utredes om kommunene skal få kompensasjon fra staten for synkende elevtall."
+        "Mailen viser at Rema 1000 hadde oppdaget at Kiwi nylig hadde økt prisene med over 6 prosent.",
+        "Kristiansen spurte så Lindberg retorisk om hva han trodde Kiwi ville komme til å gjøre når de oppdaget at de hadde økt prisene mer.",
+        "Jünge viste til Remas eget prosesskriv, der selskapet forklarer at Kristiansen mente at Kiwi trolig ville sette prisene ned til Remas nivå dersom prisforskjellen ble for stor.",
+        "Han kom deretter med et «forslag» om å gjøre som Kiwi, minus ett prosentpoeng."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/kommunene-frykter-et-skolekutt-pa-11-milliarder-kroner-pa-grunn-av-faerre-elever-1.18074831",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/t1DX36MYs2aWKw6LHtGADwuz6eJ9dATWGDWkdhg7JZBw.jpg",
-      "localImage": "assets/news/2911bad2b9872d.jpg",
-      "score": 15
+      "url": "https://e24.no/naeringsliv/i/JnolMX/kiwi-oekte-prisene-da-kom-beskjeden-fra-toeffe-tom",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/d05710bc-7144-3e8d-9fbc-5bc7578dc922?fit=crop&h=675&upscale=true&w=1200&s=4da2c104155d85c4f2d0037daae41b47729a54b0",
+      "localImage": "assets/news/73ffaa3344e8c0.jpg",
+      "score": 13
+    },
+    {
+      "id": "7383bbf5e9f0a6",
+      "category": "Økonomi",
+      "published": "17.11. 11:13",
+      "publishedISO": "2026-11-17T11:13:20+01:00",
+      "title": "– De aller fleste er i ferd med å bli fattige på eiendom",
+      "summary": "Men hvor enkelt er det egentlig å bli rik på eiendom, spør E24s økonomikommentator, Ina Vedde-Fjærestad? – Det var enkelt da renten falt og falt. Nå, seks og en halvt år etter at Norges Bank satte styringsrenten til null, er bildet et ganske annet, med en rente på 4,5 prosent. – Nå har det har blitt skikkelig vanskelig å bli rik på eiendom – de aller fleste er faktisk i ferd med å bli fattige på eiendom, sier Ringnes. – Vi har ganske mye penger og har alltid vært opptatt av å kjøpe ting som kaster godt av seg. Men vi velter oss ikke i fett og gull som vi gjorde i den gode tiden, sier han. – Hvis du skulle investert en milliard kroner i eiendom i dag, hvor ville du satt de penga? – Jeg ville fulgt vår investeringsstrategi, for jeg har jo en milliard kroner når som helst, og det er å ligge som gjedda i sivet og vente på at det dukker opp gode muligheter.",
+      "keyPoints": [
+        "Nå, seks og en halvt år etter at Norges Bank satte styringsrenten til null, er bildet et ganske annet, med en rente på 4,5 prosent. – Nå har det har blitt skikkelig vanskelig å bli rik på eiendom – de aller fleste er faktisk i ferd med å bli fattige på eiendom, sier Ringnes. – Vi har ganske mye penger og har alltid vært opptatt av å kjøpe ting som kaster godt av seg.",
+        "Men hvor enkelt er det egentlig å bli rik på eiendom, spør E24s økonomikommentator, Ina Vedde-Fjærestad? – Det var enkelt da renten falt og falt.",
+        "Men vi velter oss ikke i fett og gull som vi gjorde i den gode tiden, sier han. – Hvis du skulle investert en milliard kroner i eiendom i dag, hvor ville du satt de penga? – Jeg ville fulgt vår investeringsstrategi, for jeg har jo en milliard kroner når som helst, og det er å ligge som gjedda i sivet og vente på at det dukker opp gode muligheter.",
+        "At det var et forvarsel på hva karrieren skulle bringe ante ikke den gang 18 år gamle Ringnes. – Hadde noen den gang fortalt meg at jeg skulle bli veldig stor på hoteller og gå med silkeskjerf resten av livet, så hadde jeg nok ledd ganske godt."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/dJOl4j/de-aller-fleste-er-i-ferd-med-aa-bli-fattige-paa-eiendom",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/96374fd3-f671-3701-b221-b5e4c918e1d8?fit=crop&h=675&upscale=true&w=1200&s=42f487656b7bafbdf810421ebbd4573cca54e5c6",
+      "localImage": "assets/news/7383bbf5e9f0a6.jpg",
+      "score": 13
     },
     {
       "id": "2edbe3a894b3d7",
@@ -190,28 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5f86264c-e7d8-3b91-91c3-6afe9af254c2?fit=crop&h=675&upscale=true&w=1200&s=b7e9da396d3c21725e4edc5112ff5deb5da49beb",
       "localImage": "assets/news/2edbe3a894b3d7.jpg",
-      "score": 15
-    },
-    {
-      "id": "69aa6647c7fd23",
-      "category": "Økonomi",
-      "published": "16.11. 11:58",
-      "publishedISO": "2026-11-16T11:58:30+01:00",
-      "title": "Trump om Huang-comeback: – Ingen dum idé",
-      "summary": "President Donald Trump støtter tanken om at Jensen Huang kan komme tilbake som toppsjef i teknologigiganten, melder Bloomberg. Presidenten understreket at Huang ikke fikk lov til å selge den avanserte Blackwell-brikken, og at han selv ikke ønsker å «fornærme Kina» rett før et planlagt besøk. – Jensen har en familiesituasjon, og han vil selge brikker, sier Trump, som mente at en retur til Nvidia «ingen dum idé». Trump, som lenge har ansett Huang som en nøkkelspiller i AI-kappløpet, hyllet ham som en «legende» etter at Huang gikk av. «Nå som Nvidias toppsjef Jensen Huang, som har gjort en fantastisk jobb, har trukket seg, er det bare én mann som kan ta over etter ham – Tim Cook fra Apple.",
-      "keyPoints": [
-        "Presidenten understreket at Huang ikke fikk lov til å selge den avanserte Blackwell-brikken, og at han selv ikke ønsker å «fornærme Kina» rett før et planlagt besøk. – Jensen har en familiesituasjon, og han vil selge brikker, sier Trump, som mente at en retur til Nvidia «ingen dum idé».",
-        "Trump, som lenge har ansett Huang som en nøkkelspiller i AI-kappløpet, hyllet ham som en «legende» etter at Huang gikk av. «Nå som Nvidias toppsjef Jensen Huang, som har gjort en fantastisk jobb, har trukket seg, er det bare én mann som kan ta over etter ham – Tim Cook fra Apple.",
-        "President Donald Trump støtter tanken om at Jensen Huang kan komme tilbake som toppsjef i teknologigiganten, melder Bloomberg.",
-        "Uttalelsene kommer i forbindelse med spørsmål om blant annet Kina og Ukraina. – Jensen Huang lærte en stor lekse, sier Trump."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/jvREk9/massiv-kampanje-for-nvidia-retur-verre-enn-da-apple-sparket-steve-jobs",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/adf18715-789f-3fe8-9a7e-c0b82683bf78?fit=crop&h=675&upscale=true&w=1200&s=3634b05c9c45aec42c1fc5ba277b69ef039bdb21",
-      "localImage": "assets/news/69aa6647c7fd23.jpg",
-      "score": 14
+      "score": 13
     }
   ]
 }
