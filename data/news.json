@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.11.2026 kl. 03:58",
-  "updatedISO": "2026-11-18T03:58:00.220481+01:00",
+  "updatedAt": "18.11.2026 kl. 12:17",
+  "updatedISO": "2026-11-18T12:17:21.103614+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wW7WOTSKlROZVr19ZRU40gg4qGQfE0dkcVUNeFoKOUvw.jpg",
       "localImage": "assets/news/907d8580d4974a.jpg",
-      "score": 23
+      "score": 21
+    },
+    {
+      "id": "044214581aa5e7",
+      "category": "Verden",
+      "published": "18.11. 00:02",
+      "publishedISO": "2026-11-18T00:02:12+01:00",
+      "title": "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit",
+      "summary": "Jensen Huang er ute, men hans skygge ruver over det kommende møtet mellom USAs president Donald Trump og hans kinesiske kollega Xi Jinping denne uken. Sist onsdag sa toppdemokraten Ted Lieu til Politico at Trump-administrasjonen hadde vært \"1000%\" for ærbødig overfor Nvidia, noe som satte nasjonal sikkerhet i fare, mens demokraten Zoe Lofgren antydet at Kongressen nå ville være mer sannsynlig å begrense salget av AI-brikker til Kina. Hvordan nye amerikanske chip-restriksjoner på Sørøst-Asia vil ramme Kina Jensen Huangs vekst og fall - hvordan teknologisuperstjernen ble fast i skandale Hvem kan erstatte Jensen Huang som Nvidias administrerende direktør?",
+      "keyPoints": [
+        "Hvordan nye amerikanske chip-restriksjoner på Sørøst-Asia vil ramme Kina Jensen Huangs vekst og fall - hvordan teknologisuperstjernen ble fast i skandale Hvem kan erstatte Jensen Huang som Nvidias administrerende direktør?",
+        "Jensen Huang er ute, men hans skygge ruver over det kommende møtet mellom USAs president Donald Trump og hans kinesiske kollega Xi Jinping denne uken.",
+        "Last Wednesday top Democrat Ted Lieu told Politico the Trump administration had been \"1,000%\" too deferential to Nvidia, putting national security at risk, while fellow Democrat Zoe Lofgren suggested Congress would now be more likely to restrict sales of AI chips to China.",
+        "Jensen Huang, som avviser den påstanden, tok til orde for å oppheve forbudene mot eksport av høyytende sjetonger til Kina."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/044214581aa5e7.jpg",
+      "score": 27
+    },
+    {
+      "id": "cfc574a92955ad",
+      "category": "USA",
+      "published": "18.11. 09:33",
+      "publishedISO": "2026-11-18T09:33:32+01:00",
+      "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
+      "summary": "BBCs Kina- og Nord-Amerika-korrespondenter, Laura Bicker og Nada Tawfik, og Russland-redaktøren, Steve Rosenberg, forklarer alt du trenger å vite om det historiske trilaterale møtet. BBC-korrespondenter diskuterer historisk møte mellom Trump, Xi og Putin. Video, 00:02:55 BBC-korrespondenter diskuterer historiske Trump, Xi og Putin som møter Up Next.",
+      "keyPoints": [
+        "BBC correspondents discuss historic Trump, Xi and Putin meeting.",
+        "BBCs Kina- og Nord-Amerika-korrespondenter, Laura Bicker og Nada Tawfik, og Russland-redaktøren, Steve Rosenberg, forklarer alt du trenger å vite om det historiske trilaterale møtet.",
+        "Tre mektige verdensledere – Donald Trump, Xi Jinping og Vladimir Putin – skal møtes på sidelinjen av Apec-toppmøtet i Shenzhen.",
+        "Video, 00:01:34Se: Det siste i Jensen Huang Nvidia-skandalen Vil president Trump møte Kim Jong Un?"
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e20b/live/66ff6490-e323-11f1-a094-5fdc692f3e33.jpg",
+      "localImage": "assets/news/cfc574a92955ad.jpg",
+      "score": 17
     },
     {
       "id": "35b04b4f9b5ced",
@@ -43,28 +85,91 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9af85e4f-591b-3126-b37c-eafaead88b5b?fit=crop&h=675&upscale=true&w=1200&s=16c5bb93b46c1c2925f0d45ab849ccdffb5faa64",
       "localImage": "assets/news/35b04b4f9b5ced.jpg",
-      "score": 20
+      "score": 18
     },
     {
-      "id": "f09fbc9877be1f",
+      "id": "9b4db7d04a0941",
       "category": "Økonomi",
-      "published": "16.11. 13:50",
-      "publishedISO": "2026-11-16T13:50:03+01:00",
-      "title": "Sjefsjakt i Nvidia og Trump til Kina",
-      "summary": "Denne uken kommer kvartalstallene fra KI-giganten, samtidig som Anthropic gjør seg klar for børsen. Trump skal til Kina, og i Sverige er det fortsatt politisk kaos. Penger, pølser og politikk gir deg det du trenger å vite om uken som kommer.",
+      "published": "18.11. 10:56",
+      "publishedISO": "2026-11-18T10:56:38+01:00",
+      "title": "Dette felte Jensen",
+      "summary": "Etter at Jensen Huang ble presset ut som leder av Nvidia, selskapet han selv var med på å grunnlegge, har satiriske memes og videoer eksplodert. Jensen Huang innrømmet først affæren med kinesiske Alice Huang. Men det er ikke affærer, utroskap og umoral som felte Jensen.",
       "keyPoints": [
-        "Trump skal til Kina, og i Sverige er det fortsatt politisk kaos.",
-        "Penger, pølser og politikk gir deg det du trenger å vite om uken som kommer.",
-        "Denne uken kommer kvartalstallene fra KI-giganten, samtidig som Anthropic gjør seg klar for børsen.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
+        "Etter at Jensen Huang ble presset ut som leder av Nvidia, selskapet han selv var med på å grunnlegge, har satiriske memes og videoer eksplodert.",
+        "Men det er ikke affærer, utroskap og umoral som felte Jensen.",
+        "Jensen Huang innrømmet først affæren med kinesiske Alice Huang.",
+        "Andre er temmelig morsomme og oppsummerer det etterlatte inntrykket i én enkelt setning: Nvidia falt først 12 prosent på grunn av «election», så ytterligere 10 prosent grunnet «erection», skriver en vittigper på X."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/oMpKjm/sjefsjakt-i-nvidia-og-trump-til-kina",
+      "url": "https://e24.no/boers-og-finans/i/530r3m/dette-felte-jensen",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/c105786b-73d2-31d6-8fe7-6cbb76a2adc7?fit=crop&h=675&upscale=true&w=1200&s=fb3127dff1d1b03948d9a6b255af01f5669d95ed",
-      "localImage": "assets/news/f09fbc9877be1f.png",
-      "score": 18
+      "image": "https://akamai.vgc.no/v2/images/9896e61a-e3e6-34a6-b4c7-8fa1f9e22cf0?fit=crop&h=675&upscale=true&w=1200&s=7a822a82eb274fdb21d73cf19ec99690a2864192",
+      "localImage": "assets/news/9b4db7d04a0941.jpg",
+      "score": 17
+    },
+    {
+      "id": "ba121133ab263d",
+      "category": "AI",
+      "published": "17.11. 12:17",
+      "publishedISO": "2026-11-17T12:17:32+01:00",
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "summary": "USA har bekreftet at de etterforsker dataselskapet Megaspeed, og mistenker det for brudd på amerikanske eksportkontroller ved å hjelpe til med å sende teknologigiganten Nvidias brikker til Kina. I en felles uttalelse sa det amerikanske justisdepartementet og handelsdepartementet at de hadde etterforsket det Singapore-baserte firmaet Megaspeed siden 2024. Alice Huang og Jensen Huang avbildet sammen i Taiwan i juni 2024 Etter denne håndhevingshandlingen tok justisdepartementet hovedrollen i den kriminelle etterforskningen av Megaspeed.",
+      "keyPoints": [
+        "I en felles uttalelse sa det amerikanske justisdepartementet og handelsdepartementet at de hadde etterforsket det Singapore-baserte firmaet Megaspeed siden 2024.",
+        "Alice Huang og Jensen Huang avbildet sammen i Taiwan i juni 2024. Etter denne håndhevingshandlingen tok justisdepartementet hovedrollen i etterforskningen av Megaspeed.",
+        "USA har bekreftet at de etterforsker dataselskapet Megaspeed, og mistenker det for brudd på amerikanske eksportkontroller ved å hjelpe til med å sende teknologigiganten Nvidias brikker til Kina.",
+        "Trump bagatelliserer advarsler om AI-risiko, og siterer rivalisering med Kina. I uttalelsen sa den amerikanske regjeringen at den ville \"bringe hele omfanget av loven mot Megaspeed for enhver kriminell oppførsel som kan ha skjedd\"."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+      "localImage": "assets/news/ba121133ab263d.jpg",
+      "score": 25
+    },
+    {
+      "id": "9989545da18658",
+      "category": "AI",
+      "published": "17.11. 03:37",
+      "publishedISO": "2026-11-17T03:37:53+01:00",
+      "title": "Nvidia dismisses campaign to bring back Jensen Huang as Trump backs effort",
+      "summary": "Donald Trump hilser Jensen Huang i september i år Nvidia har avvist en kampanje som ber om at selskapets medgründer Jensen Huang skal gis tilbake jobben sin som allierte, inkludert USAs president Donald Trump, støttet innsatsen. Trump sa mandag at han «sikkert ikke ville ha noe imot» hvis Huang ble gjeninnsatt, og sluttet seg til en liste over støttespillere, inkludert SpaceXs Elon Musk som støtter en «Bring Jensen Back»-kampanje. Jensen Huangs oppgang og fall - hvordan teknologisuperstjernen ble fast i skandale Kampanjen \"Stå med Jensen\" hevder å ha blitt lansert av nåværende og tidligere Nvidia-ansatte, partnere, aksjonærer og støttespillere, som alle krever at den tidligere administrerende direktøren skal returneres.",
+      "keyPoints": [
+        "Donald Trump hilser Jensen Huang i september i år Nvidia har avvist en kampanje som ber om at selskapets medgründer Jensen Huang skal gis tilbake jobben sin som allierte, inkludert USAs president Donald Trump, støttet innsatsen.",
+        "Trump sa mandag at han «sikkert ikke ville ha noe imot» hvis Huang ble gjeninnsatt, og sluttet seg til en liste over støttespillere, inkludert SpaceXs Elon Musk som støtter en «Bring Jensen Back»-kampanje.",
+        "Jensen Huangs oppgang og fall - hvordan teknologisuperstjernen ble fast i skandale Kampanjen \"Stå med Jensen\" hevder å ha blitt lansert av nåværende og tidligere Nvidia-ansatte, partnere, aksjonærer og støttespillere, som alle krever at den tidligere administrerende direktøren skal returneres.",
+        "Trump har snakket i lysende ord om Huang siden skandalen brøt ut, og sa også at han trodde på Huang da den tidligere Nvidia-sjefen fortalte ham at han «ikke hadde noen anelse om at hun var en spion»."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+      "localImage": "assets/news/9989545da18658.jpg",
+      "score": 23
+    },
+    {
+      "id": "43deed8ee62383",
+      "category": "Verden",
+      "published": "17.11. 12:17",
+      "publishedISO": "2026-11-17T12:17:32+01:00",
+      "title": "US government confirms investigation into tech firm Megaspeed",
+      "summary": "USA har bekreftet at de etterforsker dataselskapet Megaspeed, og mistenker det for brudd på amerikanske eksportkontroller ved å hjelpe til med å sende teknologigiganten Nvidias brikker til Kina. I en felles uttalelse sa det amerikanske justisdepartementet og handelsdepartementet at de hadde etterforsket det Singapore-baserte firmaet Megaspeed siden 2024. Alice Huang og Jensen Huang avbildet sammen i Taiwan i juni 2024 Etter denne håndhevingshandlingen tok justisdepartementet hovedrollen i den kriminelle etterforskningen av Megaspeed.",
+      "keyPoints": [
+        "I en felles uttalelse sa det amerikanske justisdepartementet og handelsdepartementet at de hadde etterforsket det Singapore-baserte firmaet Megaspeed siden 2024.",
+        "Alice Huang og Jensen Huang avbildet sammen i Taiwan i juni 2024. Etter denne håndhevingshandlingen tok justisdepartementet hovedrollen i etterforskningen av Megaspeed.",
+        "USA har bekreftet at de etterforsker dataselskapet Megaspeed, og mistenker det for brudd på amerikanske eksportkontroller ved å hjelpe til med å sende teknologigiganten Nvidias brikker til Kina.",
+        "Trump bagatelliserer advarsler om AI-risiko, og siterer rivalisering med Kina. I uttalelsen sa den amerikanske regjeringen at den ville \"bringe hele omfanget av loven mot Megaspeed for enhver kriminell oppførsel som kan ha skjedd\"."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+      "localImage": "assets/news/43deed8ee62383.jpg",
+      "score": 21
     },
     {
       "id": "a74cb82ddc7c8d",
@@ -85,133 +190,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/RVdEzVH43m0SxP078gdYDAjwHtDtR6nrEl8KekJYgkSA.jpg",
       "localImage": "assets/news/a74cb82ddc7c8d.jpg",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "0882ff35556a82",
-      "category": "Økonomi",
-      "published": "17.11. 22:20",
-      "publishedISO": "2026-11-17T22:20:54+01:00",
-      "title": "Knallsterk vekst for Nvidia – vil ikke gi Huang jobben tilbake",
-      "summary": "Nvidia venter nå inntektsvekst på 75 prosent neste år, opp fra det tidligere anslaget på 70 prosent vekst, opplyser Kress under presentasjonen. Jensen Huang var med å starte Nvidia i 1993, og ledet selskapet frem til han måtte gå av torsdag forrige uke. Dette er dermed første gang Nvidia legger frem resultater uten Huang som toppsjef.",
-      "keyPoints": [
-        "Nvidia venter nå inntektsvekst på 75 prosent neste år, opp fra det tidligere anslaget på 70 prosent vekst, opplyser Kress under presentasjonen.",
-        "Jensen Huang var med å starte Nvidia i 1993, og ledet selskapet frem til han måtte gå av torsdag forrige uke.",
-        "Dette er dermed første gang Nvidia legger frem resultater uten Huang som toppsjef.",
-        "Nvidia hadde selv spådd inntekter på rundt 108 milliarder dollar for tredje kvartal."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Oypzbq/nvidia-oekte-inntektene-til-115-8-milliarder-dollar-i-tredje-kvartal-bedre-enn-ventet",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/a8519f7e-c6c0-3aae-86f6-2934fbbea301?fit=crop&h=675&upscale=true&w=1200&s=c455e173d56455a6e21c7457828fef67cd2375ae",
-      "localImage": "assets/news/0882ff35556a82.jpg",
-      "score": 16
-    },
-    {
-      "id": "bd1776866865c1",
+      "id": "e34c4a3a49112c",
       "category": "Norge",
-      "published": "17.11. 13:33",
-      "publishedISO": "2026-11-17T13:33:29+01:00",
-      "title": "Fleirtal i bomsak: Prisen skal halverast i eit år",
-      "summary": "Men no sikrar Senterpartiet at prisen kan halverast som eit prøveprosjekt. Dei seier tysdag at dei er klare til å innføre halv pris som eit prøveprosjekt. – Vi har vore optekne av den samla bompengebelastninga, seier Geir Inge Lien (Sp). Tidlegare i år stemde dei også for eit liknande forslag, men den gongen blei det ikkje fleirtal.",
+      "published": "18.11. 07:22",
+      "publishedISO": "2026-11-18T07:22:36+01:00",
+      "title": "Regjeringen vil ikke dekke skadde veier i Finnmark",
+      "summary": "Regjeringen sier blankt nei og skyver alt ansvar over på fylkeskommunen. Strifeldt har inntrykk av at regjeringen ikke forstår alvoret i situasjonen. – Det virker som om det er dobbelt så langt fra Oslo til Finnmark som fra Finnmark til Oslo, sier Strifeldt. Bengt Rune Strifeldt (Frp) er ikke overrasket av at regjeringen fraskriver seg ansvaret med reparasjon av skadde fylkesveier. – Vi har kun den veien.",
       "keyPoints": [
-        "Men no sikrar Senterpartiet at prisen kan halverast som eit prøveprosjekt.",
-        "Dei seier tysdag at dei er klare til å innføre halv pris som eit prøveprosjekt. – Vi har vore optekne av den samla bompengebelastninga, seier Geir Inge Lien (Sp).",
-        "Tidlegare i år stemde dei også for eit liknande forslag, men den gongen blei det ikkje fleirtal.",
-        "Lien kan ikkje sei noko no om dette er eit aktuelt tiltak også andre stader i landet. – Vi får kome tilbake til korleis andre prosjekt skal handsamast."
+        "Strifeldt har inntrykk av at regjeringen ikke forstår alvoret i situasjonen. – Det virker som om det er dobbelt så langt fra Oslo til Finnmark som fra Finnmark til Oslo, sier Strifeldt.",
+        "Bengt Rune Strifeldt (Frp) er ikke overrasket av at regjeringen fraskriver seg ansvaret med reparasjon av skadde fylkesveier. – Vi har kun den veien.",
+        "Regjeringen sier blankt nei og skyver alt ansvar over på fylkeskommunen.",
+        "Fremskrittspartiets stortingsrepresentant Bengt Rune Strifeldt mener staten burde stille opp, fordi raset i Austertana er en ekstraordinær situasjon. – Jeg er ikke overrasket over at regjeringen ikke vil bidra."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312",
+      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-vil-ikke-dekke-skadde-veier-i-finnmark-1.18083777",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/myzFV2AvrKb3kPR2-vSH0gUxCex7FnFOAvGjXc7BDF2w.jpg",
-      "localImage": "assets/news/bd1776866865c1.jpg",
-      "score": 15
-    },
-    {
-      "id": "c63453c7fc1454",
-      "category": "Økonomi",
-      "published": "17.11. 11:53",
-      "publishedISO": "2026-11-17T11:53:56+01:00",
-      "title": "Sur stemning på Wall Street før Nvidia-slipp",
-      "summary": "Det var bred nedgang på Wall Street inn mot Nvidias viktige tallslipp senere i kveld. Nvidia-aksjen endte ned 0,44 prosent etter et fall på 4,12 prosent mandag. Uttalelsen er den første Huang kommer med etter at han gikk av torsdag forrige uke. – Hvis styret mener at min retur er i beste interesse for våre aksjonærer, våre ansatte, selskapet, og USA, så ville det vært en ære å returnere som administrerende direktør, sier Huang i uttalelsen som Wall Street Journal omtaler.",
-      "keyPoints": [
-        "Uttalelsen er den første Huang kommer med etter at han gikk av torsdag forrige uke. – Hvis styret mener at min retur er i beste interesse for våre aksjonærer, våre ansatte, selskapet, og USA, så ville det vært en ære å returnere som administrerende direktør, sier Huang i uttalelsen som Wall Street Journal omtaler.",
-        "Det var bred nedgang på Wall Street inn mot Nvidias viktige tallslipp senere i kveld.",
-        "Nvidia-aksjen endte ned 0,44 prosent etter et fall på 4,12 prosent mandag.",
-        "Aksjen var tidligere ned over tre prosent, men var kort tid etter nyheten ned 0,96 prosent."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/yz3O3a/sur-stemning-paa-wall-street-foer-nvidia-slipp",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/03742135-5d44-35f2-8422-b6d7a072eae4?fit=crop&h=675&upscale=true&w=1200&s=3f0a7c771ea2d99dcd110185f2f15e464f6de9f4",
-      "localImage": "assets/news/c63453c7fc1454.jpg",
-      "score": 14
-    },
-    {
-      "id": "acaa1822c3b157",
-      "category": "Økonomi",
-      "published": "17.11. 09:13",
-      "publishedISO": "2026-11-17T09:13:47+01:00",
-      "title": "Deutsche Bank skal ha lekket Trumps selvangivelse",
-      "summary": "Varslere har lekket mer enn 15 millioner dokumenter fra Deutsche Bank. Blant de mest oppsiktsvekkende funnene som Financial Times trekker frem: Deutsche Bank har allerede betalt dyrt for tidligere skandaler. Når det gjelder Epstein-forholdet, har Deutsche Bank betalt 225 millioner dollar i bøter og forlik.",
-      "keyPoints": [
-        "Varslere har lekket mer enn 15 millioner dokumenter fra Deutsche Bank.",
-        "Når det gjelder Epstein-forholdet, har Deutsche Bank betalt 225 millioner dollar i bøter og forlik.",
-        "Blant de mest oppsiktsvekkende funnene som Financial Times trekker frem: Deutsche Bank har allerede betalt dyrt for tidligere skandaler.",
-        "Deutsche Bank avviser at lekkasjene viser tilstanden i dagens virksomhet. – Forholdene som reises i dokumentlekkasjen, går mange år tilbake, i enkelte tilfeller så mye som to tiår."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Vxb4j6/deutsche-bank-skal-ha-lekket-trumps-selvangivelse",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/cfd9088e-85f1-3300-9e44-dd0b57da197b?fit=crop&h=675&upscale=true&w=1200&s=a4efe46239ef8b9a896e69ce18a5e96b8555e6d9",
-      "localImage": "assets/news/acaa1822c3b157.jpg",
-      "score": 14
-    },
-    {
-      "id": "b6482e59ab27c3",
-      "category": "Norge",
-      "published": "17.11. 23:36",
-      "publishedISO": "2026-11-17T23:36:06+01:00",
-      "title": "Dansk stjerne om Norge-scenene: – Det gjør vondt",
-      "summary": "Haaland herjet. – Hvordan er det å se nordmenn ro med fansen i Parken? – Det gjør selvfølgelig vondt. Vi er skuffet over prestasjonen og selvfølgelig gjør det litt ekstra vondt at det er i sluttminuttene, svarer danske Victor Froholdt til norsk presse. Avisen fortsetter med å skrive at kampen endte med «åpenbar katastrofe – alle er rystede» og at det er «pinlig å være dansk i Parken».",
-      "keyPoints": [
-        "Vi er skuffet over prestasjonen og selvfølgelig gjør det litt ekstra vondt at det er i sluttminuttene, svarer danske Victor Froholdt til norsk presse.",
-        "Haaland herjet. – Hvordan er det å se nordmenn ro med fansen i Parken? – Det gjør selvfølgelig vondt.",
-        "Avisen fortsetter med å skrive at kampen endte med «åpenbar katastrofe – alle er rystede» og at det er «pinlig å være dansk i Parken».",
-        "Han trekker frem tilretteleggingen og byttene Solbakken gjør – samt at han ikke får panikk."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/dansk-stjerne-om-norge-scenene_-_-det-gjor-vondt-1.18083837",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/6mJyQ32hqgF9KktdFDFjYA5yHh7l-SXLtiJNBPdBNZ9g.jpg",
-      "localImage": "assets/news/b6482e59ab27c3.jpg",
-      "score": 13
-    },
-    {
-      "id": "6accf790593eec",
-      "category": "Økonomi",
-      "published": "16.11. 13:28",
-      "publishedISO": "2026-11-16T13:28:46+01:00",
-      "title": "Buffett gir bort aksjer verdt 53 milliarder",
-      "summary": "Warren Buffett donerer mandag 9,2 millioner B-aksjer i Berkshire Hathaway, opplyser selskapet i en pressemelding, i forbindelse med hans årlige Thanksgiving-brev, Aksjene er verdt om lag 5,5 milliarder dollar, tilsvarende rundt 53 milliarder kroner, ifølge CNBC. The Susan Thompson Buffett Foundation får 3,69 millioner aksjer. Dette er stiftelsen som er ble startet av Buffetts første kone, Susan Thompson Buffett, som gikk bort i 2004.",
-      "keyPoints": [
-        "Warren Buffett donerer mandag 9,2 millioner B-aksjer i Berkshire Hathaway, opplyser selskapet i en pressemelding, i forbindelse med hans årlige Thanksgiving-brev, Aksjene er verdt om lag 5,5 milliarder dollar, tilsvarende rundt 53 milliarder kroner, ifølge CNBC.",
-        "Dette er stiftelsen som er ble startet av Buffetts første kone, Susan Thompson Buffett, som gikk bort i 2004.",
-        "The Susan Thompson Buffett Foundation får 3,69 millioner aksjer.",
-        "Resten fordeles likt mellom barnas stiftelser The Sherwood FoundationDrives av datteren Susan Buffett, og gir støtte til lokalsamfunn, barn og utdanning i Omaha og Nebraska., The Howard G."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/1vnvMX/buffett-gir-bort-aksjer-verdt-53-milliarder",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/f0bb45cf-2241-33ec-9fc7-3d5f47858fe5?fit=crop&h=675&upscale=true&w=1200&s=22fbc13bafc8535035863c7cb601f94d50a20327",
-      "localImage": "assets/news/6accf790593eec.jpg",
-      "score": 13
+      "image": "https://gfx.nrk.no/u74apJ41eg6tRK7waGoIEQbq8eMOw0z8eaoouZW_SE_g.jpg",
+      "localImage": "assets/news/e34c4a3a49112c.jpg",
+      "score": 17
     }
   ]
 }
