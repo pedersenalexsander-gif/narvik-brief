@@ -1,28 +1,28 @@
 {
-  "updatedAt": "17.11.2026 kl. 22:15",
-  "updatedISO": "2026-11-17T22:15:01.280404+01:00",
+  "updatedAt": "18.11.2026 kl. 03:58",
+  "updatedISO": "2026-11-18T03:58:00.220481+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "f3cb187ba39b09",
+      "id": "907d8580d4974a",
       "category": "Norge",
-      "published": "17.11. 20:40",
-      "publishedISO": "2026-11-17T20:40:06+01:00",
-      "title": "Næringsministeren inviterte til oppstartsmøte om planprosessen til Fensfeltet",
-      "summary": "Fensfeltet i Telemark er i ferd med å bli Norges mest omtalte ressurs i Europa. Tirsdag ledet næringsminister Cecilie Myrseth et oppstartsmøte om planprosessen. Likevel har regjeringen lovet en rask prosess med ferdig plan senest i 2028. – Det betyr at vi må jobbe raskt og effektivt, men samtidig ikke hoppe over steg i prosessen, sier næringsministeren.",
+      "published": "17.11. 15:58",
+      "publishedISO": "2026-11-17T15:58:01+01:00",
+      "title": "Næringsministeren orienterte om Nussir-gruva i hemmelig møte på Stortinget",
+      "summary": "Tirsdag morgen orienterte næringsminister Cecilie Myrseth (Ap) i den utvidede utenriks- og forsvarskomité på Stortinget. Offentligheten får ikke vite hva næringsminister Cecilie Myrseth sa da hun orienterte om regjeringens sikkerhetsvurderinger i forbindelse med salget av Nussir-gruva. Men ingen i opposisjonen har varslet at de vil prøve å stanse salget etter at MDGs hasteforslag om dette ble nedstemt i forrige uke. – Næringsministeren har i dag orientert Stortinget om oppkjøpet av Nussir bak lukkede dører, sier Høyres Peter Frølich, leder for utenriks- og forsvarskomiteen, til NRK.",
       "keyPoints": [
-        "Tirsdag ledet næringsminister Cecilie Myrseth et oppstartsmøte om planprosessen.",
-        "Likevel har regjeringen lovet en rask prosess med ferdig plan senest i 2028. – Det betyr at vi må jobbe raskt og effektivt, men samtidig ikke hoppe over steg i prosessen, sier næringsministeren.",
-        "Fensfeltet i Telemark er i ferd med å bli Norges mest omtalte ressurs i Europa.",
-        "Fen vel representerer i overkant av 300 husstander ved Fensfeltet."
+        "Men ingen i opposisjonen har varslet at de vil prøve å stanse salget etter at MDGs hasteforslag om dette ble nedstemt i forrige uke. – Næringsministeren har i dag orientert Stortinget om oppkjøpet av Nussir bak lukkede dører, sier Høyres Peter Frølich, leder for utenriks- og forsvarskomiteen, til NRK.",
+        "Offentligheten får ikke vite hva næringsminister Cecilie Myrseth sa da hun orienterte om regjeringens sikkerhetsvurderinger i forbindelse med salget av Nussir-gruva.",
+        "Tirsdag morgen orienterte næringsminister Cecilie Myrseth (Ap) i den utvidede utenriks- og forsvarskomité på Stortinget.",
+        "Regjeringens sikkerhetsvurdering av gruvesalget til et selskap med en russisk toppsjef er hemmelig."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/naeringsministeren-inviterte-til-oppstartsmote-om-planprosessen-til-fensfeltet-1.18083797",
+      "url": "https://www.nrk.no/tromsogfinnmark/naeringsministeren-orienterte-om-nussir-gruva-i-hemmelig-mote-pa-stortinget-1.18083481",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SaEG7Jtd0AQpekWO1AYJuQa4Uk_JKWZmn5GWr9xLEhhQ.jpg",
-      "localImage": "assets/news/f3cb187ba39b09.jpg",
-      "score": 13
+      "image": "https://gfx.nrk.no/wW7WOTSKlROZVr19ZRU40gg4qGQfE0dkcVUNeFoKOUvw.jpg",
+      "localImage": "assets/news/907d8580d4974a.jpg",
+      "score": 23
     },
     {
       "id": "35b04b4f9b5ced",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9af85e4f-591b-3126-b37c-eafaead88b5b?fit=crop&h=675&upscale=true&w=1200&s=16c5bb93b46c1c2925f0d45ab849ccdffb5faa64",
       "localImage": "assets/news/35b04b4f9b5ced.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "f09fbc9877be1f",
@@ -64,28 +64,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/c105786b-73d2-31d6-8fe7-6cbb76a2adc7?fit=crop&h=675&upscale=true&w=1200&s=fb3127dff1d1b03948d9a6b255af01f5669d95ed",
       "localImage": "assets/news/f09fbc9877be1f.png",
-      "score": 19
+      "score": 18
     },
     {
-      "id": "3446bac0a7fd19",
-      "category": "Økonomi",
-      "published": "16.11. 09:01",
-      "publishedISO": "2026-11-16T09:01:12+01:00",
-      "title": "Oslo Børs snudde ned – oljeaksjer falt",
-      "summary": "Oslo Børs fikk en rolig start på uken mandag, men bikket over i rødt mot slutten av handelsdagen. Med kursen fredag på 44,42 kroner, vil aksjevederlaget være verdt rundt 730 millioner kroner. – Vi øker eierandelen i en fullintegrert oppdrettsvirksomhet som vi kjenner godt, og som etter flere utfordrende år viser positiv biologisk utvikling i produksjonen, sier konsernsjef Henning Beltestad. 264 millioner kroner i gjeld vil konverteres til aksjer i selskapet, til en aksjekurs på 0,05 kroner per aksje.",
+      "id": "a74cb82ddc7c8d",
+      "category": "Norge",
+      "published": "17.11. 06:55",
+      "publishedISO": "2026-11-17T06:55:13+01:00",
+      "title": "Trippelmøte i Kina: Xi, Trump, Putin og mannen som ikke er der",
+      "summary": "Kilde: Financial Times, South China Morning Post Trump er ventet. Vertsbyen Shenzhen er på tå hev, striglet og klar til å levere på forventningene om å gi et bilde av Kina som skinner. Tidspunktet for spionavsløringen passer de som ønsker en strengere linje fra Trump overfor Kina.",
       "keyPoints": [
-        "Oslo Børs fikk en rolig start på uken mandag, men bikket over i rødt mot slutten av handelsdagen.",
-        "Med kursen fredag på 44,42 kroner, vil aksjevederlaget være verdt rundt 730 millioner kroner. – Vi øker eierandelen i en fullintegrert oppdrettsvirksomhet som vi kjenner godt, og som etter flere utfordrende år viser positiv biologisk utvikling i produksjonen, sier konsernsjef Henning Beltestad.",
-        "264 millioner kroner i gjeld vil konverteres til aksjer i selskapet, til en aksjekurs på 0,05 kroner per aksje.",
-        "Kjøper Lerøy hele minoritetsposten på 49,3 prosent, blir betalingen 750 millioner kroner og 16,5 millioner Lerøy-aksjer."
+        "Vertsbyen Shenzhen er på tå hev, striglet og klar til å levere på forventningene om å gi et bilde av Kina som skinner.",
+        "Tidspunktet for spionavsløringen passer de som ønsker en strengere linje fra Trump overfor Kina.",
+        "Kilde: Financial Times, South China Morning Post Trump er ventet.",
+        "Noen viktig medlemsland er USA, Kina, Russland, Japan, Sør-Korea, Indonesia, Canada, Mexico, Chile og Australia."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/urix/trippelmote-i-kina_-xi_-trump_-putin-og-mannen-som-ikke-er-der-1.18082205",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/RVdEzVH43m0SxP078gdYDAjwHtDtR6nrEl8KekJYgkSA.jpg",
+      "localImage": "assets/news/a74cb82ddc7c8d.jpg",
+      "score": 21
+    },
+    {
+      "id": "0882ff35556a82",
+      "category": "Økonomi",
+      "published": "17.11. 22:20",
+      "publishedISO": "2026-11-17T22:20:54+01:00",
+      "title": "Knallsterk vekst for Nvidia – vil ikke gi Huang jobben tilbake",
+      "summary": "Nvidia venter nå inntektsvekst på 75 prosent neste år, opp fra det tidligere anslaget på 70 prosent vekst, opplyser Kress under presentasjonen. Jensen Huang var med å starte Nvidia i 1993, og ledet selskapet frem til han måtte gå av torsdag forrige uke. Dette er dermed første gang Nvidia legger frem resultater uten Huang som toppsjef.",
+      "keyPoints": [
+        "Nvidia venter nå inntektsvekst på 75 prosent neste år, opp fra det tidligere anslaget på 70 prosent vekst, opplyser Kress under presentasjonen.",
+        "Jensen Huang var med å starte Nvidia i 1993, og ledet selskapet frem til han måtte gå av torsdag forrige uke.",
+        "Dette er dermed første gang Nvidia legger frem resultater uten Huang som toppsjef.",
+        "Nvidia hadde selv spådd inntekter på rundt 108 milliarder dollar for tredje kvartal."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/4EqOqo/oppgang-paa-oslo-boers",
+      "url": "https://e24.no/boers-og-finans/i/Oypzbq/nvidia-oekte-inntektene-til-115-8-milliarder-dollar-i-tredje-kvartal-bedre-enn-ventet",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5098ea69-d971-3e9c-a2fc-25ef44ddabaf?fit=crop&h=675&upscale=true&w=1200&s=e4491c75f45db94c5a295632902eebd32b6dce1b",
-      "localImage": "assets/news/3446bac0a7fd19.jpg",
+      "image": "https://akamai.vgc.no/v2/images/a8519f7e-c6c0-3aae-86f6-2934fbbea301?fit=crop&h=675&upscale=true&w=1200&s=c455e173d56455a6e21c7457828fef67cd2375ae",
+      "localImage": "assets/news/0882ff35556a82.jpg",
       "score": 16
+    },
+    {
+      "id": "bd1776866865c1",
+      "category": "Norge",
+      "published": "17.11. 13:33",
+      "publishedISO": "2026-11-17T13:33:29+01:00",
+      "title": "Fleirtal i bomsak: Prisen skal halverast i eit år",
+      "summary": "Men no sikrar Senterpartiet at prisen kan halverast som eit prøveprosjekt. Dei seier tysdag at dei er klare til å innføre halv pris som eit prøveprosjekt. – Vi har vore optekne av den samla bompengebelastninga, seier Geir Inge Lien (Sp). Tidlegare i år stemde dei også for eit liknande forslag, men den gongen blei det ikkje fleirtal.",
+      "keyPoints": [
+        "Men no sikrar Senterpartiet at prisen kan halverast som eit prøveprosjekt.",
+        "Dei seier tysdag at dei er klare til å innføre halv pris som eit prøveprosjekt. – Vi har vore optekne av den samla bompengebelastninga, seier Geir Inge Lien (Sp).",
+        "Tidlegare i år stemde dei også for eit liknande forslag, men den gongen blei det ikkje fleirtal.",
+        "Lien kan ikkje sei noko no om dette er eit aktuelt tiltak også andre stader i landet. – Vi får kome tilbake til korleis andre prosjekt skal handsamast."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/fleirtal-i-bomsak_-prisen-skal-halverast-i-eit-ar-1.18079312",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/myzFV2AvrKb3kPR2-vSH0gUxCex7FnFOAvGjXc7BDF2w.jpg",
+      "localImage": "assets/news/bd1776866865c1.jpg",
+      "score": 15
     },
     {
       "id": "c63453c7fc1454",
@@ -106,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/03742135-5d44-35f2-8422-b6d7a072eae4?fit=crop&h=675&upscale=true&w=1200&s=3f0a7c771ea2d99dcd110185f2f15e464f6de9f4",
       "localImage": "assets/news/c63453c7fc1454.jpg",
-      "score": 15
+      "score": 14
     },
     {
       "id": "acaa1822c3b157",
@@ -127,7 +169,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/cfd9088e-85f1-3300-9e44-dd0b57da197b?fit=crop&h=675&upscale=true&w=1200&s=a4efe46239ef8b9a896e69ce18a5e96b8555e6d9",
       "localImage": "assets/news/acaa1822c3b157.jpg",
-      "score": 15
+      "score": 14
+    },
+    {
+      "id": "b6482e59ab27c3",
+      "category": "Norge",
+      "published": "17.11. 23:36",
+      "publishedISO": "2026-11-17T23:36:06+01:00",
+      "title": "Dansk stjerne om Norge-scenene: – Det gjør vondt",
+      "summary": "Haaland herjet. – Hvordan er det å se nordmenn ro med fansen i Parken? – Det gjør selvfølgelig vondt. Vi er skuffet over prestasjonen og selvfølgelig gjør det litt ekstra vondt at det er i sluttminuttene, svarer danske Victor Froholdt til norsk presse. Avisen fortsetter med å skrive at kampen endte med «åpenbar katastrofe – alle er rystede» og at det er «pinlig å være dansk i Parken».",
+      "keyPoints": [
+        "Vi er skuffet over prestasjonen og selvfølgelig gjør det litt ekstra vondt at det er i sluttminuttene, svarer danske Victor Froholdt til norsk presse.",
+        "Haaland herjet. – Hvordan er det å se nordmenn ro med fansen i Parken? – Det gjør selvfølgelig vondt.",
+        "Avisen fortsetter med å skrive at kampen endte med «åpenbar katastrofe – alle er rystede» og at det er «pinlig å være dansk i Parken».",
+        "Han trekker frem tilretteleggingen og byttene Solbakken gjør – samt at han ikke får panikk."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/dansk-stjerne-om-norge-scenene_-_-det-gjor-vondt-1.18083837",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/6mJyQ32hqgF9KktdFDFjYA5yHh7l-SXLtiJNBPdBNZ9g.jpg",
+      "localImage": "assets/news/b6482e59ab27c3.jpg",
+      "score": 13
     },
     {
       "id": "6accf790593eec",
@@ -148,69 +211,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/f0bb45cf-2241-33ec-9fc7-3d5f47858fe5?fit=crop&h=675&upscale=true&w=1200&s=22fbc13bafc8535035863c7cb601f94d50a20327",
       "localImage": "assets/news/6accf790593eec.jpg",
-      "score": 14
-    },
-    {
-      "id": "abe9b5ce369c63",
-      "category": "Norge",
-      "published": "17.11. 20:35",
-      "publishedISO": "2026-11-17T20:35:43+01:00",
-      "title": "Kystruten mellom Bergen og Kirkenes kan bli endret",
-      "summary": "I dag går kystruten innom 34 havner mellom Bergen og Kirkenes, og er et velkjent reisemål for mange turister. Han frykter konsekvensene om kystruten blir endret i fremtida. Blant annet halvering i antall skip, eller at kystruten kun skulle gå fra Bodø til Kirkenes.",
-      "keyPoints": [
-        "I dag går kystruten innom 34 havner mellom Bergen og Kirkenes, og er et velkjent reisemål for mange turister.",
-        "Han frykter konsekvensene om kystruten blir endret i fremtida.",
-        "Blant annet halvering i antall skip, eller at kystruten kun skulle gå fra Bodø til Kirkenes.",
-        "Rederiet Havila, som drifter kystruten sammen med Hurtigruten, har reagert sterkt på dette. – Vi kan alltids bli et rent cruiseselskap om langsiktigheten forsvinner, sa administrerende direktør Bent Martini til avisa Nordlys."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/kystruten-mellom-bergen-og-kirkenes-kan-bli-endret-1.18073331",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/ITAe1fWgIfr3_U5N4ULI3gXFRKZ9PAxX_ycLFE14YqAA.jpg",
-      "localImage": "assets/news/abe9b5ce369c63.webp",
-      "score": 13
-    },
-    {
-      "id": "0868cdd3ca8ef3",
-      "category": "Norge",
-      "published": "17.11. 20:27",
-      "publishedISO": "2026-11-17T20:27:06+01:00",
-      "title": "BK Tromsø vant over VC Lorentzweiler i europacupen",
-      "summary": "BK Tromsøs elitelag for herrer vant over VC Lorentzweiler i europacupen tirsdag kveld. Etter tap i Luxembourg forrige uke, hadde BK Tromsø muligheten til å vinne tilbake æren og poengene i returmøtet i CEV Volleyball Challenge Cup i volleyball i Tromsøhallen. Challenge Cup volleyball menn tirsdag, innledende runde 2. kamp: Tromsø – Lorentzweiler (Luxembourg) 3-2 (25-19, 25-20, 20-25, 23-25, 17-15), sammenlagt 1-1.",
-      "keyPoints": [
-        "BK Tromsøs elitelag for herrer vant over VC Lorentzweiler i europacupen tirsdag kveld.",
-        "Challenge Cup volleyball menn tirsdag, innledende runde 2. kamp: Tromsø – Lorentzweiler (Luxembourg) 3-2 (25-19, 25-20, 20-25, 23-25, 17-15), sammenlagt 1-1.",
-        "Etter tap i Luxembourg forrige uke, hadde BK Tromsø muligheten til å vinne tilbake æren og poengene i returmøtet i CEV Volleyball Challenge Cup i volleyball i Tromsøhallen.",
-        "Vi er veldig takknemlige for alle som er kommet, sier styreleder Edgar Brox i BK Tromsø til NRK."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/bk-tromso-vant-over-vc-lorentzweiler-i-europacupen-1.18083785",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/N_CmwfJmalSHCxY2BwocCQHcKphrW88i0feKroQ7EkPg.jpg",
-      "localImage": "assets/news/0868cdd3ca8ef3.webp",
-      "score": 13
-    },
-    {
-      "id": "9c10238c7a1aae",
-      "category": "Norge",
-      "published": "17.11. 19:45",
-      "publishedISO": "2026-11-17T19:45:30+01:00",
-      "title": "Åpnet én fjerdedel av Nord-Norges største veiprosjekt Hålogalandsveien",
-      "summary": "Tirsdag åpnet de første 23 kilometerne av Hålogalandsveien – tre måneder før skjema. Statssekretær Jakob Vorren (Ap) fikk æren av å klippe snoren da den aller første delen av landsdelens største veiprosjekt ble åpnet. – I dag åpner vi ikke bare ny vei, vi åpner også nye muligheter. Dette er den første etappen som står klar i utbyggingen av Nord-Norges største samferdselsprosjekt Hålogalandsveien. – Det er det største i Nord-Norge, og ett av de største i Norge.",
-      "keyPoints": [
-        "Statssekretær Jakob Vorren (Ap) fikk æren av å klippe snoren da den aller første delen av landsdelens største veiprosjekt ble åpnet. – I dag åpner vi ikke bare ny vei, vi åpner også nye muligheter.",
-        "Dette er den første etappen som står klar i utbyggingen av Nord-Norges største samferdselsprosjekt Hålogalandsveien. – Det er det største i Nord-Norge, og ett av de største i Norge.",
-        "Tirsdag åpnet de første 23 kilometerne av Hålogalandsveien – tre måneder før skjema.",
-        "På det meste har 1000 arbeidere vært i sving samtidig på prosjektet, og fortsatt vil hundrevis jobbe på Hålogalandsveien. – Vi får fått en moderne og fremtidsrettet veiforbindelse som skal tjene hele regionen i generasjoner, sier Sortland-ordfører Grete Ellingsen (H). – Det er et historisk øyeblikk vi er med på."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/apnet-en-fjerdedel-av-nord-norges-storste-veiprosjekt-halogalandsveien-1.18083759",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/jketKjFwG7Z4RMlQCKyirgHceBk6kpfrTMvIQNX7naKg.jpg",
-      "localImage": "assets/news/9c10238c7a1aae.jpg",
       "score": 13
     }
   ]
