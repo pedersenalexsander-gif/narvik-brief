@@ -1,6 +1,6 @@
 {
-  "updatedAt": "18.11.2026 kl. 12:17",
-  "updatedISO": "2026-11-18T12:17:21.103614+01:00",
+  "updatedAt": "18.11.2026 kl. 20:31",
+  "updatedISO": "2026-11-18T20:31:32.041599+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,70 +22,112 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/wW7WOTSKlROZVr19ZRU40gg4qGQfE0dkcVUNeFoKOUvw.jpg",
       "localImage": "assets/news/907d8580d4974a.jpg",
-      "score": 21
+      "score": 20
     },
     {
-      "id": "044214581aa5e7",
-      "category": "Verden",
-      "published": "18.11. 00:02",
-      "publishedISO": "2026-11-18T00:02:12+01:00",
-      "title": "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit",
-      "summary": "Jensen Huang er ute, men hans skygge ruver over det kommende møtet mellom USAs president Donald Trump og hans kinesiske kollega Xi Jinping denne uken. Sist onsdag sa toppdemokraten Ted Lieu til Politico at Trump-administrasjonen hadde vært \"1000%\" for ærbødig overfor Nvidia, noe som satte nasjonal sikkerhet i fare, mens demokraten Zoe Lofgren antydet at Kongressen nå ville være mer sannsynlig å begrense salget av AI-brikker til Kina. Hvordan nye amerikanske chip-restriksjoner på Sørøst-Asia vil ramme Kina Jensen Huangs vekst og fall - hvordan teknologisuperstjernen ble fast i skandale Hvem kan erstatte Jensen Huang som Nvidias administrerende direktør?",
-      "keyPoints": [
-        "Hvordan nye amerikanske chip-restriksjoner på Sørøst-Asia vil ramme Kina Jensen Huangs vekst og fall - hvordan teknologisuperstjernen ble fast i skandale Hvem kan erstatte Jensen Huang som Nvidias administrerende direktør?",
-        "Jensen Huang er ute, men hans skygge ruver over det kommende møtet mellom USAs president Donald Trump og hans kinesiske kollega Xi Jinping denne uken.",
-        "Last Wednesday top Democrat Ted Lieu told Politico the Trump administration had been \"1,000%\" too deferential to Nvidia, putting national security at risk, while fellow Democrat Zoe Lofgren suggested Congress would now be more likely to restrict sales of AI chips to China.",
-        "Jensen Huang, som avviser den påstanden, tok til orde for å oppheve forbudene mot eksport av høyytende sjetonger til Kina."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
-      "localImage": "assets/news/044214581aa5e7.jpg",
-      "score": 27
-    },
-    {
-      "id": "cfc574a92955ad",
-      "category": "USA",
-      "published": "18.11. 09:33",
-      "publishedISO": "2026-11-18T09:33:32+01:00",
-      "title": "BBC correspondents discuss historic Trump, Xi and Putin meeting",
-      "summary": "BBCs Kina- og Nord-Amerika-korrespondenter, Laura Bicker og Nada Tawfik, og Russland-redaktøren, Steve Rosenberg, forklarer alt du trenger å vite om det historiske trilaterale møtet. BBC-korrespondenter diskuterer historisk møte mellom Trump, Xi og Putin. Video, 00:02:55 BBC-korrespondenter diskuterer historiske Trump, Xi og Putin som møter Up Next.",
-      "keyPoints": [
-        "BBC correspondents discuss historic Trump, Xi and Putin meeting.",
-        "BBCs Kina- og Nord-Amerika-korrespondenter, Laura Bicker og Nada Tawfik, og Russland-redaktøren, Steve Rosenberg, forklarer alt du trenger å vite om det historiske trilaterale møtet.",
-        "Tre mektige verdensledere – Donald Trump, Xi Jinping og Vladimir Putin – skal møtes på sidelinjen av Apec-toppmøtet i Shenzhen.",
-        "Video, 00:01:34Se: Det siste i Jensen Huang Nvidia-skandalen Vil president Trump møte Kim Jong Un?"
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e20b/live/66ff6490-e323-11f1-a094-5fdc692f3e33.jpg",
-      "localImage": "assets/news/cfc574a92955ad.jpg",
-      "score": 17
-    },
-    {
-      "id": "35b04b4f9b5ced",
+      "id": "f073df3f81c148",
       "category": "Økonomi",
-      "published": "17.11. 09:01",
-      "publishedISO": "2026-11-17T09:01:25+01:00",
-      "title": "Stemningen surnet på Oslo Børs",
-      "summary": "Det ble nok et fall for Oslo Børs tirsdag, med forsiktig nedgang som forverret seg noe mot slutten av dagen. Utover de alle mest omsatte aksjen falt Yara 2,37 prosent, mens Tomra endte dagen ned 4,25 prosent. Det er opp 1,4 prosent siden midnatt, og omtrent samme nivå som da Børsen stengte i går.",
+      "published": "18.11. 15:27",
+      "publishedISO": "2026-11-18T15:27:18+01:00",
+      "title": "Trump i Kina: – Komisk",
+      "summary": "Et toppmøte mellom statslederne i USA, Kina og Russland i Kina torsdag, har fått enkelte til å trekke paralleller til Jalta-konferansenPå Jaltakonferansen (4.–11. februar 1945) ble lederne for USA (Franklin D. Men, hverken spionmistanker rundt verdens ledende databrikkeselskap eller krigen i Iran og Ukraina, er ventet å produsere de største overskriftene fra møtet mellom Donald Trump, Xi Jinping og Vladimir Putin, skal man tro ekspertene. Bakteppet er en russisk befolkning på 140 millioner, mot EU og Storbritannias over 500 millioner. – Det er helt bemerkelsesverdig at Trump og Xi vil ha med Putin.",
       "keyPoints": [
-        "Det ble nok et fall for Oslo Børs tirsdag, med forsiktig nedgang som forverret seg noe mot slutten av dagen.",
-        "Utover de alle mest omsatte aksjen falt Yara 2,37 prosent, mens Tomra endte dagen ned 4,25 prosent.",
-        "Det er opp 1,4 prosent siden midnatt, og omtrent samme nivå som da Børsen stengte i går.",
-        "Den ligger på 93 dollar fatet rundt stengetid på børsen."
+        "Et toppmøte mellom statslederne i USA, Kina og Russland i Kina torsdag, har fått enkelte til å trekke paralleller til Jalta-konferansenPå Jaltakonferansen (4.–11. februar 1945) ble lederne for USA (Franklin D.",
+        "Bakteppet er en russisk befolkning på 140 millioner, mot EU og Storbritannias over 500 millioner. – Det er helt bemerkelsesverdig at Trump og Xi vil ha med Putin.",
+        "Men, hverken spionmistanker rundt verdens ledende databrikkeselskap eller krigen i Iran og Ukraina, er ventet å produsere de største overskriftene fra møtet mellom Donald Trump, Xi Jinping og Vladimir Putin, skal man tro ekspertene.",
+        "Toppmøtet finner sted i Shenzhen, der Kina er årets vertskap for det økonomiske ApecAsia-Pacific Economic Cooperation-toppmøtet, som samler 21 Stillehavsland eller rundt 60 prosent av verdensøkonomien."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/8PmPEr/nedgang-paa-oslo-boers",
+      "url": "https://e24.no/internasjonal-oekonomi/i/4Eqr0o/trump-i-kina-komisk",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9af85e4f-591b-3126-b37c-eafaead88b5b?fit=crop&h=675&upscale=true&w=1200&s=16c5bb93b46c1c2925f0d45ab849ccdffb5faa64",
-      "localImage": "assets/news/35b04b4f9b5ced.jpg",
-      "score": 18
+      "image": "https://akamai.vgc.no/v2/images/66769784-1231-3308-891b-0475e241b698?fit=crop&h=675&upscale=true&w=1200&s=ca6a42dd6f338d86babf6b6912f089dd6bf8d733",
+      "localImage": "assets/news/f073df3f81c148.jpg",
+      "score": 20
+    },
+    {
+      "id": "0505b1702c8e5a",
+      "category": "Økonomi",
+      "published": "18.11. 17:42",
+      "publishedISO": "2026-11-18T17:42:15+01:00",
+      "title": "Lakseselskap konkurs",
+      "summary": "Mandag ble det åpnet konkurs i Salmonpoint AS ved Hordaland tingrett, ifølge en kunngjøring i Brønnøysundregistrene. Selskapet har selv oppgitt at gjelden er på 13,7 millioner kroner, ifølge ham. – De var inne i en restrukturering og har ikke fått tilført nok kapital, mens de hadde fått ettergitt en del gjeld, sier Aarlie. Fra en omsetning på 8–32 millioner kroner første tre år, skjøt inntektene i været i 2023, med en omsetning på over 212 millioner kroner, ifølge proff.no.",
+      "keyPoints": [
+        "Mandag ble det åpnet konkurs i Salmonpoint AS ved Hordaland tingrett, ifølge en kunngjøring i Brønnøysundregistrene.",
+        "Selskapet har selv oppgitt at gjelden er på 13,7 millioner kroner, ifølge ham. – De var inne i en restrukturering og har ikke fått tilført nok kapital, mens de hadde fått ettergitt en del gjeld, sier Aarlie.",
+        "Fra en omsetning på 8–32 millioner kroner første tre år, skjøt inntektene i været i 2023, med en omsetning på over 212 millioner kroner, ifølge proff.no.",
+        "I 2024 fikk selskapet et underskudd på nær 8 millioner kroner, etter et overskudd på rundt én million kroner året før."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/EbWjvl/lakseselskap-konkurs",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/86bbacc5-8ea3-3e5d-8cb6-320ea37acb86?fit=crop&h=675&upscale=true&w=1200&s=d4e880a9ce18a9f7b34720539eb5ecde6d48f86d",
+      "localImage": "assets/news/0505b1702c8e5a.jpg",
+      "score": 17
+    },
+    {
+      "id": "784fefbdd9f69c",
+      "category": "Norge",
+      "published": "18.11. 20:24",
+      "publishedISO": "2026-11-18T20:24:24+01:00",
+      "title": "Ine Eriksen Søreide (H) vil ha fortgang på gruveoppstart i Sydvaranger gruve",
+      "summary": "Leder i Høyre, Ine Eriksen Søreide, ber regjeringen finne en løsning på oppstart av gruvevirksomheten i Sør-Varanger kommune. – Vi snakker mye om at det er strategisk viktig at det bor og jobber folk i Finnmark. Det skriver Høyre-leder Ine Eriksen Søreide i en pressemelding. Eriksen Søreide påpeker at ordfører Magnus Mæland (H) i Sør-Varanger har vært helt tydelig på hvor stor betydning en oppstart av gruven kan ha. – Stortinget ber regjeringen gå i dialog med Sydvaranger Gruve om hvordan staten kan bidra til å realisere oppstart av kommersiell gruvedrift og komme tilbake til Stortinget om saken senest i forbindelse med RNB 2027.",
+      "keyPoints": [
+        "Eriksen Søreide påpeker at ordfører Magnus Mæland (H) i Sør-Varanger har vært helt tydelig på hvor stor betydning en oppstart av gruven kan ha. – Stortinget ber regjeringen gå i dialog med Sydvaranger Gruve om hvordan staten kan bidra til å realisere oppstart av kommersiell gruvedrift og komme tilbake til Stortinget om saken senest i forbindelse med RNB 2027.",
+        "Leder i Høyre, Ine Eriksen Søreide, ber regjeringen finne en løsning på oppstart av gruvevirksomheten i Sør-Varanger kommune. – Vi snakker mye om at det er strategisk viktig at det bor og jobber folk i Finnmark.",
+        "Det skriver Høyre-leder Ine Eriksen Søreide i en pressemelding.",
+        "Partiet krever at regjeringen går inn med penger til Sydvaranger gruve, så gruven kan startes opp."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/ine-eriksen-soreide-_h_-vil-ha-fortgang-pa-gruveoppstart-i-sydvaranger-gruve-1.18084158",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/TKWEz2c7-sM2Slhfwqgs0gPcTrGmkJARe27fl35Lpmsw.jpg",
+      "localImage": "assets/news/784fefbdd9f69c.jpg",
+      "score": 17
+    },
+    {
+      "id": "a361589d79900b",
+      "category": "Økonomi",
+      "published": "18.11. 17:41",
+      "publishedISO": "2026-11-18T17:41:40+01:00",
+      "title": "Kraftig dollar-hopp: Sterkeste siden Trumps tollsjokk",
+      "summary": "Målt mot euroen er dollaren nå på det sterkeste siden Trumps tollsjokk i april i fjor, som sendte bølger gjennom finansmarkedene Dollaren svekket seg i tiden etter og var på det meste rundt ti prosent svakere mot euroen i starten av 2026. Trumps tolldag, da han kunngjorde en lang rekke nye tollsatser, utløste et kraftig dollarfall og uro i aksje- og rentemarkedene. – Hele tollsaken har ikke hatt så stor effekt som man trodde, sier Mouland. Chen trekker frem at amerikanernes private forbruk, som utgjør 70 prosent av landets økonomi, har fortsatt å vokse kraftig.",
+      "keyPoints": [
+        "Målt mot euroen er dollaren nå på det sterkeste siden Trumps tollsjokk i april i fjor, som sendte bølger gjennom finansmarkedene Dollaren svekket seg i tiden etter og var på det meste rundt ti prosent svakere mot euroen i starten av 2026.",
+        "Trumps tolldag, da han kunngjorde en lang rekke nye tollsatser, utløste et kraftig dollarfall og uro i aksje- og rentemarkedene. – Hele tollsaken har ikke hatt så stor effekt som man trodde, sier Mouland.",
+        "Chen trekker frem at amerikanernes private forbruk, som utgjør 70 prosent av landets økonomi, har fortsatt å vokse kraftig.",
+        "Mens det for et år siden var frykt for svekkelse i arbeidsmarkedet i USA, viser tallene nå at arbeidsmarkedet er i ferd med å styrke seg igjen, ifølge Chen. – Arbeidsledigheten faller igjen, fra et allerede historisk lavt nivå."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Xogzjn/kraftig-dollar-hopp-sterkeste-siden-trumps-tollsjokk",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1b8aef56-c272-44fe-bb18-a039bdf93cf0?fit=crop&h=675&upscale=true&w=1200&s=d6af6ce3a4f601a93a553e592ade506913bad57f",
+      "localImage": "assets/news/a361589d79900b.jpg",
+      "score": 17
+    },
+    {
+      "id": "1065809ddd47b2",
+      "category": "Økonomi",
+      "published": "18.11. 15:32",
+      "publishedISO": "2026-11-18T15:32:34+01:00",
+      "title": "GTA-oppgang på Wall Street",
+      "summary": "Slik går det med de toneangivende indeksene rundt klokken 18.20: Onsdag er det blandet på Wall Street etter en svak handelsdag tirsdag. To store historier preger markedet: lanseringen av Grand Theft Auto 6 og et sterkt kvartalsresultat fra brikkegiganten Nvidia. Det er første gang siden 2013 at et nytt GTA-spill havner i butikkhyllene, og anmeldelsene har gjort spillet til det høyest rangerte noensinne.",
+      "keyPoints": [
+        "Slik går det med de toneangivende indeksene rundt klokken 18.20: Onsdag er det blandet på Wall Street etter en svak handelsdag tirsdag.",
+        "To store historier preger markedet: lanseringen av Grand Theft Auto 6 og et sterkt kvartalsresultat fra brikkegiganten Nvidia.",
+        "Det er første gang siden 2013 at et nytt GTA-spill havner i butikkhyllene, og anmeldelsene har gjort spillet til det høyest rangerte noensinne.",
+        "Samtidig faller Nvidia 2,17 prosent første handelsdag etter at selskapet slo analytikernes forventninger både på omsetning og resultat i tredje kvartal."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/g37reL/oppgang-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/0ff35e10-4394-3b0b-9077-fde70eec4007?fit=crop&h=675&upscale=true&w=1200&s=2cebed2f130c1f30599bdfd5098ab7bddfab4f30",
+      "localImage": "assets/news/1065809ddd47b2.jpg",
+      "score": 17
     },
     {
       "id": "9b4db7d04a0941",
@@ -106,112 +148,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/9896e61a-e3e6-34a6-b4c7-8fa1f9e22cf0?fit=crop&h=675&upscale=true&w=1200&s=7a822a82eb274fdb21d73cf19ec99690a2864192",
       "localImage": "assets/news/9b4db7d04a0941.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "ba121133ab263d",
-      "category": "AI",
-      "published": "17.11. 12:17",
-      "publishedISO": "2026-11-17T12:17:32+01:00",
-      "title": "US government confirms investigation into tech firm Megaspeed",
-      "summary": "USA har bekreftet at de etterforsker dataselskapet Megaspeed, og mistenker det for brudd på amerikanske eksportkontroller ved å hjelpe til med å sende teknologigiganten Nvidias brikker til Kina. I en felles uttalelse sa det amerikanske justisdepartementet og handelsdepartementet at de hadde etterforsket det Singapore-baserte firmaet Megaspeed siden 2024. Alice Huang og Jensen Huang avbildet sammen i Taiwan i juni 2024 Etter denne håndhevingshandlingen tok justisdepartementet hovedrollen i den kriminelle etterforskningen av Megaspeed.",
+      "id": "35b04b4f9b5ced",
+      "category": "Økonomi",
+      "published": "17.11. 09:01",
+      "publishedISO": "2026-11-17T09:01:25+01:00",
+      "title": "Stemningen surnet på Oslo Børs",
+      "summary": "Det ble nok et fall for Oslo Børs tirsdag, med forsiktig nedgang som forverret seg noe mot slutten av dagen. Utover de alle mest omsatte aksjen falt Yara 2,37 prosent, mens Tomra endte dagen ned 4,25 prosent. Det er opp 1,4 prosent siden midnatt, og omtrent samme nivå som da Børsen stengte i går.",
       "keyPoints": [
-        "I en felles uttalelse sa det amerikanske justisdepartementet og handelsdepartementet at de hadde etterforsket det Singapore-baserte firmaet Megaspeed siden 2024.",
-        "Alice Huang og Jensen Huang avbildet sammen i Taiwan i juni 2024. Etter denne håndhevingshandlingen tok justisdepartementet hovedrollen i etterforskningen av Megaspeed.",
-        "USA har bekreftet at de etterforsker dataselskapet Megaspeed, og mistenker det for brudd på amerikanske eksportkontroller ved å hjelpe til med å sende teknologigiganten Nvidias brikker til Kina.",
-        "Trump bagatelliserer advarsler om AI-risiko, og siterer rivalisering med Kina. I uttalelsen sa den amerikanske regjeringen at den ville \"bringe hele omfanget av loven mot Megaspeed for enhver kriminell oppførsel som kan ha skjedd\"."
+        "Det ble nok et fall for Oslo Børs tirsdag, med forsiktig nedgang som forverret seg noe mot slutten av dagen.",
+        "Utover de alle mest omsatte aksjen falt Yara 2,37 prosent, mens Tomra endte dagen ned 4,25 prosent.",
+        "Det er opp 1,4 prosent siden midnatt, og omtrent samme nivå som da Børsen stengte i går.",
+        "Den ligger på 93 dollar fatet rundt stengetid på børsen."
       ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
-      "localImage": "assets/news/ba121133ab263d.jpg",
-      "score": 25
+      "url": "https://e24.no/boers-og-finans/i/8PmPEr/nedgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/9af85e4f-591b-3126-b37c-eafaead88b5b?fit=crop&h=675&upscale=true&w=1200&s=16c5bb93b46c1c2925f0d45ab849ccdffb5faa64",
+      "localImage": "assets/news/35b04b4f9b5ced.jpg",
+      "score": 16
     },
     {
-      "id": "9989545da18658",
-      "category": "AI",
-      "published": "17.11. 03:37",
-      "publishedISO": "2026-11-17T03:37:53+01:00",
-      "title": "Nvidia dismisses campaign to bring back Jensen Huang as Trump backs effort",
-      "summary": "Donald Trump hilser Jensen Huang i september i år Nvidia har avvist en kampanje som ber om at selskapets medgründer Jensen Huang skal gis tilbake jobben sin som allierte, inkludert USAs president Donald Trump, støttet innsatsen. Trump sa mandag at han «sikkert ikke ville ha noe imot» hvis Huang ble gjeninnsatt, og sluttet seg til en liste over støttespillere, inkludert SpaceXs Elon Musk som støtter en «Bring Jensen Back»-kampanje. Jensen Huangs oppgang og fall - hvordan teknologisuperstjernen ble fast i skandale Kampanjen \"Stå med Jensen\" hevder å ha blitt lansert av nåværende og tidligere Nvidia-ansatte, partnere, aksjonærer og støttespillere, som alle krever at den tidligere administrerende direktøren skal returneres.",
+      "id": "260cd6468dc4a1",
+      "category": "Økonomi",
+      "published": "18.11. 12:16",
+      "publishedISO": "2026-11-18T12:16:11+01:00",
+      "title": "GTA-lanseringen i gang: Take-Two-aksjen hopper kraftig",
+      "summary": "For første gang siden 2013 er et nytt Grand Theft Auto-spill i butikkene. Mens det forrige spillet dro inn 1 milliard dollar i salg de første tre dagene, er det bredt ventet at årets GTA-spill vil overgå forgjengeren. Det forrige spillet, Grand Theft Auto V, har solgt mer enn 230 millioner eksemplarer og er det nest mest solgte spillet noensinne, bare slått av Minecraft.",
       "keyPoints": [
-        "Donald Trump hilser Jensen Huang i september i år Nvidia har avvist en kampanje som ber om at selskapets medgründer Jensen Huang skal gis tilbake jobben sin som allierte, inkludert USAs president Donald Trump, støttet innsatsen.",
-        "Trump sa mandag at han «sikkert ikke ville ha noe imot» hvis Huang ble gjeninnsatt, og sluttet seg til en liste over støttespillere, inkludert SpaceXs Elon Musk som støtter en «Bring Jensen Back»-kampanje.",
-        "Jensen Huangs oppgang og fall - hvordan teknologisuperstjernen ble fast i skandale Kampanjen \"Stå med Jensen\" hevder å ha blitt lansert av nåværende og tidligere Nvidia-ansatte, partnere, aksjonærer og støttespillere, som alle krever at den tidligere administrerende direktøren skal returneres.",
-        "Trump har snakket i lysende ord om Huang siden skandalen brøt ut, og sa også at han trodde på Huang da den tidligere Nvidia-sjefen fortalte ham at han «ikke hadde noen anelse om at hun var en spion»."
+        "For første gang siden 2013 er et nytt Grand Theft Auto-spill i butikkene.",
+        "Det forrige spillet, Grand Theft Auto V, har solgt mer enn 230 millioner eksemplarer og er det nest mest solgte spillet noensinne, bare slått av Minecraft.",
+        "Mens det forrige spillet dro inn 1 milliard dollar i salg de første tre dagene, er det bredt ventet at årets GTA-spill vil overgå forgjengeren.",
+        "Banken Morgan Stanley har anslått at 40 millioner GTA 6-spill vil være solgt innen slutten av mars neste år, ifølge CNBC."
       ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "localImage": "assets/news/9989545da18658.jpg",
-      "score": 23
+      "url": "https://e24.no/boers-og-finans/i/JnoLJX/gta-lanseringen-i-gang-take-two-aksjen-hopper-kraftig-i-foerhandelen-etter-sterke-anmeldelser",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/6401e5e2-f186-3136-906f-fff7c41f457a?fit=crop&h=675&upscale=true&w=1200&s=5ea671e35577b21411293fd23ff8b9a00f30e195",
+      "localImage": "assets/news/260cd6468dc4a1.jpg",
+      "score": 15
     },
     {
-      "id": "43deed8ee62383",
-      "category": "Verden",
-      "published": "17.11. 12:17",
-      "publishedISO": "2026-11-17T12:17:32+01:00",
-      "title": "US government confirms investigation into tech firm Megaspeed",
-      "summary": "USA har bekreftet at de etterforsker dataselskapet Megaspeed, og mistenker det for brudd på amerikanske eksportkontroller ved å hjelpe til med å sende teknologigiganten Nvidias brikker til Kina. I en felles uttalelse sa det amerikanske justisdepartementet og handelsdepartementet at de hadde etterforsket det Singapore-baserte firmaet Megaspeed siden 2024. Alice Huang og Jensen Huang avbildet sammen i Taiwan i juni 2024 Etter denne håndhevingshandlingen tok justisdepartementet hovedrollen i den kriminelle etterforskningen av Megaspeed.",
-      "keyPoints": [
-        "I en felles uttalelse sa det amerikanske justisdepartementet og handelsdepartementet at de hadde etterforsket det Singapore-baserte firmaet Megaspeed siden 2024.",
-        "Alice Huang og Jensen Huang avbildet sammen i Taiwan i juni 2024. Etter denne håndhevingshandlingen tok justisdepartementet hovedrollen i etterforskningen av Megaspeed.",
-        "USA har bekreftet at de etterforsker dataselskapet Megaspeed, og mistenker det for brudd på amerikanske eksportkontroller ved å hjelpe til med å sende teknologigiganten Nvidias brikker til Kina.",
-        "Trump bagatelliserer advarsler om AI-risiko, og siterer rivalisering med Kina. I uttalelsen sa den amerikanske regjeringen at den ville \"bringe hele omfanget av loven mot Megaspeed for enhver kriminell oppførsel som kan ha skjedd\"."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cmn504nq5033o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
-      "localImage": "assets/news/43deed8ee62383.jpg",
-      "score": 21
-    },
-    {
-      "id": "a74cb82ddc7c8d",
+      "id": "81191388d2d53c",
       "category": "Norge",
-      "published": "17.11. 06:55",
-      "publishedISO": "2026-11-17T06:55:13+01:00",
-      "title": "Trippelmøte i Kina: Xi, Trump, Putin og mannen som ikke er der",
-      "summary": "Kilde: Financial Times, South China Morning Post Trump er ventet. Vertsbyen Shenzhen er på tå hev, striglet og klar til å levere på forventningene om å gi et bilde av Kina som skinner. Tidspunktet for spionavsløringen passer de som ønsker en strengere linje fra Trump overfor Kina.",
+      "published": "18.11. 20:08",
+      "publishedISO": "2026-11-18T20:08:12+01:00",
+      "title": "Instruktør påkjørt under mørkekjøringskurs i Steinkjer",
+      "summary": "UHELL: Under trafikkurset kom instruktøren for langt ut i veibanen og endte opp med å bli påkjørt. Like før klokka 19 rykket politiet ut til Steinkjer i Trøndelag etter melding om at en person hadde blitt påkjørt av en bil. – Føreren klarte ikke å stoppe, sier innsatsleder Anders Fiskvik i Trøndelag politidistrikt til NRK. Det var i forbindelse med en demonstrasjon på et mørkekjøringskurs at ulykken skjedde. – En instruktør ble påkjørt i forbindelse med et trafikalt grunnkurs.",
       "keyPoints": [
-        "Vertsbyen Shenzhen er på tå hev, striglet og klar til å levere på forventningene om å gi et bilde av Kina som skinner.",
-        "Tidspunktet for spionavsløringen passer de som ønsker en strengere linje fra Trump overfor Kina.",
-        "Kilde: Financial Times, South China Morning Post Trump er ventet.",
-        "Noen viktig medlemsland er USA, Kina, Russland, Japan, Sør-Korea, Indonesia, Canada, Mexico, Chile og Australia."
+        "Like før klokka 19 rykket politiet ut til Steinkjer i Trøndelag etter melding om at en person hadde blitt påkjørt av en bil. – Føreren klarte ikke å stoppe, sier innsatsleder Anders Fiskvik i Trøndelag politidistrikt til NRK.",
+        "Det var i forbindelse med en demonstrasjon på et mørkekjøringskurs at ulykken skjedde. – En instruktør ble påkjørt i forbindelse med et trafikalt grunnkurs.",
+        "UHELL: Under trafikkurset kom instruktøren for langt ut i veibanen og endte opp med å bli påkjørt.",
+        "Instruktøren skal ha kommet litt for langt ut i veibanen i 30-sonen og hadde ikke på seg refleks, ifølge politiet."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/urix/trippelmote-i-kina_-xi_-trump_-putin-og-mannen-som-ikke-er-der-1.18082205",
+      "url": "https://www.nrk.no/trondelag/instruktor-pakjort-under-morkekjoringskurs-i-steinkjer-1.18084536",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/RVdEzVH43m0SxP078gdYDAjwHtDtR6nrEl8KekJYgkSA.jpg",
-      "localImage": "assets/news/a74cb82ddc7c8d.jpg",
-      "score": 20
-    },
-    {
-      "id": "e34c4a3a49112c",
-      "category": "Norge",
-      "published": "18.11. 07:22",
-      "publishedISO": "2026-11-18T07:22:36+01:00",
-      "title": "Regjeringen vil ikke dekke skadde veier i Finnmark",
-      "summary": "Regjeringen sier blankt nei og skyver alt ansvar over på fylkeskommunen. Strifeldt har inntrykk av at regjeringen ikke forstår alvoret i situasjonen. – Det virker som om det er dobbelt så langt fra Oslo til Finnmark som fra Finnmark til Oslo, sier Strifeldt. Bengt Rune Strifeldt (Frp) er ikke overrasket av at regjeringen fraskriver seg ansvaret med reparasjon av skadde fylkesveier. – Vi har kun den veien.",
-      "keyPoints": [
-        "Strifeldt har inntrykk av at regjeringen ikke forstår alvoret i situasjonen. – Det virker som om det er dobbelt så langt fra Oslo til Finnmark som fra Finnmark til Oslo, sier Strifeldt.",
-        "Bengt Rune Strifeldt (Frp) er ikke overrasket av at regjeringen fraskriver seg ansvaret med reparasjon av skadde fylkesveier. – Vi har kun den veien.",
-        "Regjeringen sier blankt nei og skyver alt ansvar over på fylkeskommunen.",
-        "Fremskrittspartiets stortingsrepresentant Bengt Rune Strifeldt mener staten burde stille opp, fordi raset i Austertana er en ekstraordinær situasjon. – Jeg er ikke overrasket over at regjeringen ikke vil bidra."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-vil-ikke-dekke-skadde-veier-i-finnmark-1.18083777",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/u74apJ41eg6tRK7waGoIEQbq8eMOw0z8eaoouZW_SE_g.jpg",
-      "localImage": "assets/news/e34c4a3a49112c.jpg",
-      "score": 17
+      "image": "https://gfx.nrk.no/_A5h-zkoBFjgkIrRIv-_NgTzbh5joNFMEyWMe1cMVjgw.jpg",
+      "localImage": "assets/news/81191388d2d53c.jpg",
+      "score": 13
     }
   ]
 }
