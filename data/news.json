@@ -1,6 +1,6 @@
 {
-  "updatedAt": "19.11.2026 kl. 10:14",
-  "updatedISO": "2026-11-19T10:14:19.565580+01:00",
+  "updatedAt": "19.11.2026 kl. 19:21",
+  "updatedISO": "2026-11-19T19:21:36.554990+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -9,11 +9,11 @@
       "published": "19.11. 10:00",
       "publishedISO": "2026-11-19T10:00:01+01:00",
       "title": "Norges Bank med ny forventningsundersøkelse: Stangeland Maskin frykter inflasjonen ikke vil bremse",
-      "summary": "Jeg frykter at inflasjonen ikke kommer til å bremse, uttrykker Stangeland fra arbeidsplassen i Sola kommune. Prisveksten har i flere år ligget over målet på 2 prosent, og Norges Bank tror ikke den kommer ned til dette nivået igjen før i 2029. Da går ikke prisveksten ned. – Folk der ute tror rett og slett ikke at Norges Bank klarer å få ned inflasjonen, sa Harding.",
+      "summary": "Jeg frykter at inflasjonen ikke kommer til å bremse, uttrykker Stangeland fra arbeidsplassen i Sola kommune. Prisveksten har i flere år ligget over målet på 2 prosent, og Norges Bank tror ikke den kommer ned til dette nivået igjen før i 2029. Det fører til at bedriftene skrur opp prisene på varer og tjenester. – Norges Bank ønsker å få inflasjonen ned.",
       "keyPoints": [
         "Jeg frykter at inflasjonen ikke kommer til å bremse, uttrykker Stangeland fra arbeidsplassen i Sola kommune.",
-        "Da går ikke prisveksten ned. – Folk der ute tror rett og slett ikke at Norges Bank klarer å få ned inflasjonen, sa Harding.",
         "Prisveksten har i flere år ligget over målet på 2 prosent, og Norges Bank tror ikke den kommer ned til dette nivået igjen før i 2029.",
+        "Det fører til at bedriftene skrur opp prisene på varer og tjenester. – Norges Bank ønsker å få inflasjonen ned.",
         "Folk og bedrifter tror prisveksten vil bli langt høyere enn det Norges Bank spår."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
@@ -22,7 +22,133 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/YkyD7oIZ54ADlRxt7fowqAfGhTubN9s38lRGnr5uD0ng.jpg",
       "localImage": "assets/news/b1ca58351f771e.jpg",
-      "score": 26
+      "score": 25
+    },
+    {
+      "id": "e4052cf31181ea",
+      "category": "Verden",
+      "published": "19.11. 05:42",
+      "publishedISO": "2026-11-19T05:42:52+01:00",
+      "title": "Kinas Xi Jinping har orkestrert et bemerkelsesverdig diplomatisk øyeblikk - men det kommer med fallgruver",
+      "summary": "Donald Trump, Vladimir Putin og Xi Jinping møtes til et historisk trilateralt toppmøte Xi Jinping vil tro at han har oppnådd noe ingen annen verdensleder kunne ved å sikre et historisk toppmøte med Vladimir Putin og Donald Trump i Shenzhen. Likevel er det Kina som har orkestrert det bemerkelsesverdige diplomatiske opptoget av tre av verdens mektigste hovedpersoner som sitter rundt bordet. Russlands invasjon av Ukraina, som nå er inne i sitt femte år, har krevd hundretusenvis av liv. USA, spesielt under den forrige Biden-administrasjonen, og Europa har anklaget Kina for å sende Russland komponenter som de kan bruke i sin krig i Ukraina, samtidig som de støtter landets økonomi ved å kjøpe olje og gass.",
+      "keyPoints": [
+        "Likevel er det Kina som har orkestrert det bemerkelsesverdige diplomatiske opptoget av tre av verdens mektigste hovedpersoner som sitter rundt bordet.",
+        "Donald Trump, Vladimir Putin og Xi Jinping møtes til et historisk trilateralt toppmøte Xi Jinping vil tro at han har oppnådd noe ingen annen verdensleder kunne ved å sikre et historisk toppmøte med Vladimir Putin og Donald Trump i Shenzhen.",
+        "Russlands invasjon av Ukraina, som nå er inne i sitt femte år, har krevd hundretusenvis av liv. USA, spesielt under den forrige Biden-administrasjonen, og Europa har anklaget Kina for å sende Russland komponenter som de kan bruke i sin krig i Ukraina, samtidig som de støtter landets økonomi ved å kjøpe olje og gass.",
+        "Trump ønsker at Kina skal inkluderes i enhver ny avtale, men Beijing har presset tilbake."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg",
+      "localImage": "assets/news/e4052cf31181ea.jpg",
+      "score": 19
+    },
+    {
+      "id": "044214581aa5e7",
+      "category": "USA",
+      "published": "18.11. 00:02",
+      "publishedISO": "2026-11-18T00:02:12+01:00",
+      "title": "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit",
+      "summary": "Jensen Huang er ute, men hans skygge ruver over det kommende møtet mellom USAs president Donald Trump og hans kinesiske kollega Xi Jinping denne uken. Sist onsdag sa toppdemokraten Ted Lieu til Politico at Trump-administrasjonen hadde vært \"1000%\" for ærbødig overfor Nvidia, noe som satte nasjonal sikkerhet i fare, mens demokraten Zoe Lofgren antydet at Kongressen nå ville være mer sannsynlig å begrense salget av AI-brikker til Kina. Hvordan nye amerikanske chip-restriksjoner på Sørøst-Asia vil ramme Kina Jensen Huangs vekst og fall - hvordan teknologisuperstjernen ble fast i skandale Hvem kan erstatte Jensen Huang som Nvidias administrerende direktør?",
+      "keyPoints": [
+        "Hvordan nye amerikanske chip-restriksjoner på Sørøst-Asia vil ramme Kina Jensen Huangs vekst og fall - hvordan teknologisuperstjernen ble fast i skandale Hvem kan erstatte Jensen Huang som Nvidias administrerende direktør?",
+        "Jensen Huang er ute, men hans skygge ruver over det kommende møtet mellom USAs president Donald Trump og hans kinesiske kollega Xi Jinping denne uken.",
+        "Last Wednesday top Democrat Ted Lieu told Politico the Trump administration had been \"1,000%\" too deferential to Nvidia, putting national security at risk, while fellow Democrat Zoe Lofgren suggested Congress would now be more likely to restrict sales of AI chips to China.",
+        "Jensen Huang, som avviser den påstanden, tok til orde for å oppheve forbudene mot eksport av høyytende sjetonger til Kina."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+      "localImage": "assets/news/044214581aa5e7.jpg",
+      "score": 21
+    },
+    {
+      "id": "ec883b081acc94",
+      "category": "Økonomi",
+      "published": "19.11. 14:28",
+      "publishedISO": "2026-11-19T14:28:56+01:00",
+      "title": "Anthropic-feber: – Interessen har vært eksepsjonelt stor",
+      "summary": "Interessen er så stor at kundene får færre aksjer enn de har ønsket seg. Nordnet har deltatt i. – Interessen har vært eksepsjonelt stor. Den store interessen har ført til at kundene får tildelt færre aksjer enn de har tegnet seg for. – Alle sparere får minst fem aksjer, forutsatt at de tegnet seg for minst så mange.",
+      "keyPoints": [
+        "Nordnet har deltatt i. – Interessen har vært eksepsjonelt stor.",
+        "Interessen er så stor at kundene får færre aksjer enn de har ønsket seg.",
+        "Anthropic har stått høyt på mange spareres ønskeliste, og det har vært en massiv tilstrømning av sparere som ville tegne aksjerÅ melde fra om at man ønsker å kjøpe aksjer før de blir tildelt., med et engasjement som skiller seg tydelig ut fra en vanlig børsnotering, sier spareøkonom Else Sundfør i Nordnet.",
+        "Aksjene er priset til 83 dollar stykket, noe som gir selskapet en prislapp på rundt 1.500 milliarder dollar, tilsvarende 14.500 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/LoAqXp/anthropic-feber-interessen-har-vaert-eksepsjonelt-stor",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5a133b1d-d340-3f53-9bce-aa8aecc2223b?fit=crop&h=675&upscale=true&w=1200&s=03a124e9414f143a6b37501c814fcbaf98567f8f",
+      "localImage": "assets/news/ec883b081acc94.jpg",
+      "score": 22
+    },
+    {
+      "id": "de608180665758",
+      "category": "Økonomi",
+      "published": "19.11. 11:55",
+      "publishedISO": "2026-11-19T11:55:22+01:00",
+      "title": "Venter i spenning på Anthropics børsdebut: – Har typisk en knallstart",
+      "summary": "Stemningen er foreløpig positiv mens markedene venter på at handelen skal starte i Anthropic-aksjen. Forvalter Bernt Berg-Nielsen i Stolt Kapitalforvaltning påpeker at amerikanske børsnoteringer typisk er strukturert slik at aksjen skal stige mye første handelsdag. Anthropics verdsettelse endte et stykke under de tidligere spekulasjonene om en verdi helt opp mot 2.000 milliarder dollar, da optimismen var på det høyeste. – Jeg tror nok det er sunt at man har fått en mer moderat verdsettelse.",
+      "keyPoints": [
+        "Anthropics verdsettelse endte et stykke under de tidligere spekulasjonene om en verdi helt opp mot 2.000 milliarder dollar, da optimismen var på det høyeste. – Jeg tror nok det er sunt at man har fått en mer moderat verdsettelse.",
+        "Forvalter Bernt Berg-Nielsen i Stolt Kapitalforvaltning påpeker at amerikanske børsnoteringer typisk er strukturert slik at aksjen skal stige mye første handelsdag.",
+        "Stemningen er foreløpig positiv mens markedene venter på at handelen skal starte i Anthropic-aksjen.",
+        "Selskapet bak språkmodellen Claude går på børs med en verdi på 1.500 milliarder dollar, tilsvarende 14.500 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/GPGnA6/venter-i-spenning-paa-anthropics-boersdebut-har-typisk-en-knallstart",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/2add798f-0d80-3110-94ef-5604772a0c4c?fit=crop&h=675&upscale=true&w=1200&s=54df6637cf727d93038752aa424edea3a862fbb0",
+      "localImage": "assets/news/de608180665758.jpg",
+      "score": 21
+    },
+    {
+      "id": "2867ba12781256",
+      "category": "AI",
+      "published": "19.11. 00:42",
+      "publishedISO": "2026-11-19T00:42:07+01:00",
+      "title": "Anthropic: The seven founders about to become multi-billionaires",
+      "summary": "Bror og søster Dario og Daniela Amodei er administrerende direktør og president i Anthropic I løpet av bare fem år har Anthropic gått fra ukjent oppstart til teknologigigant, verdt mer enn en billion dollar. Selskapet bak AI-plattformen Claude ble dannet av syv personer som forlot rivaliserende OpenAI i 2021 og i løpet av få timer vil bli multimilliardærer – i hvert fall på papiret. Nå 43 år er han Anthropics administrerende direktør, og personen som, med søsterens ord, gjør selskapet «ambisiøst».",
+      "keyPoints": [
+        "Selskapet bak AI-plattformen Claude ble dannet av syv personer som forlot rivaliserende OpenAI i 2021 og i løpet av få timer vil bli multimilliardærer – i hvert fall på papiret.",
+        "Bror og søster Dario og Daniela Amodei er administrerende direktør og president i Anthropic I løpet av bare fem år har Anthropic gått fra ukjent oppstart til teknologigigant, verdt mer enn en billion dollar.",
+        "Nå 43 år er han Anthropics administrerende direktør, og personen som, med søsterens ord, gjør selskapet «ambisiøst».",
+        "Anthropic flyter virksomheten på den amerikanske børsen og vil selge sine aksjer for 83 dollar hver, het det onsdag."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "localImage": "assets/news/2867ba12781256.jpg",
+      "score": 19
+    },
+    {
+      "id": "743b25475bb66e",
+      "category": "AI",
+      "published": "18.11. 22:28",
+      "publishedISO": "2026-11-18T22:28:08+01:00",
+      "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+      "summary": "Simon Jack: Kan Anthropics rekordstore børsnotering stoppe AI-boblen fra å briste? Så kan den antropiske børsnoteringen blåse opp boblen på nytt, eller vil den bli husket som det siste gisp av en boom som er på vei mot en byste? Den antropiske børsnoteringen kan bli veldig vellykket og blåse litt frisk luft inn i det som noen mener fortsatt ser mye ut som en boble.",
+      "keyPoints": [
+        "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+        "Så kan den antropiske børsnoteringen blåse opp boblen på nytt, eller vil den bli husket som det siste gisp av en boom som er på vei mot en byste?",
+        "Den antropiske børsnoteringen kan bli veldig vellykket og blåse litt frisk luft inn i det som noen mener fortsatt ser mye ut som en boble.",
+        "Salget kommer på et avgjørende tidspunkt da mange lurer på om, midt i økende bekymring for potensialet til AI, viser bransjens boble tegn til å briste."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+      "localImage": "assets/news/743b25475bb66e.jpg",
+      "score": 18
     },
     {
       "id": "9e74292e607cf2",
@@ -43,7 +169,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/59cb4641-346d-339a-a94f-355bedac935e?fit=crop&h=675&upscale=true&w=1200&s=e1fdf4e228b52a46f6d5c67b38464f86c516717f",
       "localImage": "assets/news/9e74292e607cf2.jpg",
-      "score": 22
+      "score": 20
+    },
+    {
+      "id": "c4db0eb89e458c",
+      "category": "Økonomi",
+      "published": "19.11. 17:26",
+      "publishedISO": "2026-11-19T17:26:16+01:00",
+      "title": "Voldsomme svingninger på Wall Street",
+      "summary": "Etter Anthropic kom i handel har bevegelsene vært store på Wall Street. Stemningen på Wall Street svinger torsdag, på dagen da den største begivenheten er at Anthropic debuterer på børs. På Wall Street begynte dagen med grønne tall og markant tek-oppgang.",
+      "keyPoints": [
+        "Etter Anthropic kom i handel har bevegelsene vært store på Wall Street.",
+        "Stemningen på Wall Street svinger torsdag, på dagen da den største begivenheten er at Anthropic debuterer på børs.",
+        "På Wall Street begynte dagen med grønne tall og markant tek-oppgang.",
+        "Anthropic-aksjen startet på 111,50 dollar, mer enn 30 prosent over noteringskursen, før aksjen satt fart ned mot rundt 100 dollar."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Pv9mGR/amd-raser-paa-wall-street",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1d55da0d-38ba-37af-a1fb-1c0099e2f1e4?fit=crop&h=675&upscale=true&w=1200&s=bbc01ab77a3d5af737de39fa9ecb0a514a6047cb",
+      "localImage": "assets/news/c4db0eb89e458c.jpg",
+      "score": 18
     },
     {
       "id": "227f033d31d249",
@@ -64,154 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3f9d4f72-67cb-3541-b6dd-c99c1a2c7081?fit=crop&h=675&upscale=true&w=1200&s=418c69b0c468472f0aac62509985952605a818fa",
       "localImage": "assets/news/227f033d31d249.jpg",
-      "score": 20
-    },
-    {
-      "id": "1446bddb921a83",
-      "category": "Norge",
-      "published": "18.11. 20:38",
-      "publishedISO": "2026-11-18T20:38:48+01:00",
-      "title": "Slik kan Indre Havn i Larvik bli",
-      "summary": "Hva som skal skje på Indre Havn i Larvik har vært et tema siden 70-tallet. Slik kan Pakkhuset og fiskerhavna i Indre Havn bli seende ut. Birgitte Gulla Løken fra Høyre er ordfører i Larvik kommune. – Indre Havn har et enormt potensial, og mulighetsrommet er stort, sier hun.",
-      "keyPoints": [
-        "Slik kan Pakkhuset og fiskerhavna i Indre Havn bli seende ut.",
-        "Hva som skal skje på Indre Havn i Larvik har vært et tema siden 70-tallet.",
-        "Birgitte Gulla Løken fra Høyre er ordfører i Larvik kommune. – Indre Havn har et enormt potensial, og mulighetsrommet er stort, sier hun.",
-        "Planene for Indre Havn skal være unikt for byen, ifølge prosjektlederen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/slik-kan-indre-havn-i-larvik-bli-1.18084509",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/crstjhdbwnnrp_crU4eX2gQ-5Gj7P_QhakH6IaaxzYPA.jpg",
-      "localImage": "assets/news/1446bddb921a83.jpg",
-      "score": 19
-    },
-    {
-      "id": "f073df3f81c148",
-      "category": "Økonomi",
-      "published": "18.11. 15:27",
-      "publishedISO": "2026-11-18T15:27:18+01:00",
-      "title": "Trump i Kina: – Komisk",
-      "summary": "Et toppmøte mellom statslederne i USA, Kina og Russland i Kina torsdag, har fått enkelte til å trekke paralleller til Jalta-konferansenPå Jaltakonferansen (4.–11. februar 1945) ble lederne for USA (Franklin D. Men, hverken spionmistanker rundt verdens ledende databrikkeselskap eller krigen i Iran og Ukraina, er ventet å produsere de største overskriftene fra møtet mellom Donald Trump, Xi Jinping og Vladimir Putin, skal man tro ekspertene. Bakteppet er en russisk befolkning på 140 millioner, mot EU og Storbritannias over 500 millioner. – Det er helt bemerkelsesverdig at Trump og Xi vil ha med Putin.",
-      "keyPoints": [
-        "Et toppmøte mellom statslederne i USA, Kina og Russland i Kina torsdag, har fått enkelte til å trekke paralleller til Jalta-konferansenPå Jaltakonferansen (4.–11. februar 1945) ble lederne for USA (Franklin D.",
-        "Bakteppet er en russisk befolkning på 140 millioner, mot EU og Storbritannias over 500 millioner. – Det er helt bemerkelsesverdig at Trump og Xi vil ha med Putin.",
-        "Men, hverken spionmistanker rundt verdens ledende databrikkeselskap eller krigen i Iran og Ukraina, er ventet å produsere de største overskriftene fra møtet mellom Donald Trump, Xi Jinping og Vladimir Putin, skal man tro ekspertene.",
-        "Toppmøtet finner sted i Shenzhen, der Kina er årets vertskap for det økonomiske ApecAsia-Pacific Economic Cooperation-toppmøtet, som samler 21 Stillehavsland eller rundt 60 prosent av verdensøkonomien."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/4Eqr0o/trump-i-kina-komisk",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/66769784-1231-3308-891b-0475e241b698?fit=crop&h=675&upscale=true&w=1200&s=ca6a42dd6f338d86babf6b6912f089dd6bf8d733",
-      "localImage": "assets/news/f073df3f81c148.jpg",
       "score": 18
-    },
-    {
-      "id": "69aaed1bc58571",
-      "category": "Norge",
-      "published": "19.11. 09:30",
-      "publishedISO": "2026-11-19T09:30:47+01:00",
-      "title": "Regjeringa vil forenkle krava for bygging i skredutsette område",
-      "summary": "No håpar dei eit forslag frå regjeringa kan vere redninga. Då arbeidet med rassikringstunnelen gjennom Nordnesfjellet byrja i 2016, blei eit område på nedsida av der campinga står i dag fylt ut. Han har fått beskjed om at Kommunal- og distriktsdepartementet og statsråd Bjørnar Skjæran kjem til å sende ut eit forslag om å endre byggjereglane i skredutsette område.",
-      "keyPoints": [
-        "Han har fått beskjed om at Kommunal- og distriktsdepartementet og statsråd Bjørnar Skjæran kjem til å sende ut eit forslag om å endre byggjereglane i skredutsette område.",
-        "Då arbeidet med rassikringstunnelen gjennom Nordnesfjellet byrja i 2016, blei eit område på nedsida av der campinga står i dag fylt ut.",
-        "No håpar dei eit forslag frå regjeringa kan vere redninga.",
-        "Inger Lise Pedersen og Jarle Pedersen eig og driv Løkvollstranda camping i Manndalen i Kåfjord kommune. – Det har vore ein kjempeutfordring."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/mr/regjeringa-vil-forenkle-krava-for-bygging-i-skredutsette-omrade-1.18084017",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/rVhivPFNkw_vIs28HbOZEwr2syu8bgVdtbXxAs_cZ0eQ.jpg",
-      "localImage": "assets/news/69aaed1bc58571.jpg",
-      "score": 17
-    },
-    {
-      "id": "907d8580d4974a",
-      "category": "Norge",
-      "published": "17.11. 15:58",
-      "publishedISO": "2026-11-17T15:58:01+01:00",
-      "title": "Næringsministeren orienterte om Nussir-gruva i hemmelig møte på Stortinget",
-      "summary": "Tirsdag morgen orienterte næringsminister Cecilie Myrseth (Ap) i den utvidede utenriks- og forsvarskomité på Stortinget. Offentligheten får ikke vite hva næringsminister Cecilie Myrseth sa da hun orienterte om regjeringens sikkerhetsvurderinger i forbindelse med salget av Nussir-gruva. Men ingen i opposisjonen har varslet at de vil prøve å stanse salget etter at MDGs hasteforslag om dette ble nedstemt i forrige uke. – Næringsministeren har i dag orientert Stortinget om oppkjøpet av Nussir bak lukkede dører, sier Høyres Peter Frølich, leder for utenriks- og forsvarskomiteen, til NRK.",
-      "keyPoints": [
-        "Men ingen i opposisjonen har varslet at de vil prøve å stanse salget etter at MDGs hasteforslag om dette ble nedstemt i forrige uke. – Næringsministeren har i dag orientert Stortinget om oppkjøpet av Nussir bak lukkede dører, sier Høyres Peter Frølich, leder for utenriks- og forsvarskomiteen, til NRK.",
-        "Offentligheten får ikke vite hva næringsminister Cecilie Myrseth sa da hun orienterte om regjeringens sikkerhetsvurderinger i forbindelse med salget av Nussir-gruva.",
-        "Tirsdag morgen orienterte næringsminister Cecilie Myrseth (Ap) i den utvidede utenriks- og forsvarskomité på Stortinget.",
-        "Regjeringens sikkerhetsvurdering av gruvesalget til et selskap med en russisk toppsjef er hemmelig."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/naeringsministeren-orienterte-om-nussir-gruva-i-hemmelig-mote-pa-stortinget-1.18083481",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/wW7WOTSKlROZVr19ZRU40gg4qGQfE0dkcVUNeFoKOUvw.jpg",
-      "localImage": "assets/news/907d8580d4974a.jpg",
-      "score": 17
-    },
-    {
-      "id": "784fefbdd9f69c",
-      "category": "Norge",
-      "published": "18.11. 20:24",
-      "publishedISO": "2026-11-18T20:24:24+01:00",
-      "title": "Ine Eriksen Søreide (H) vil ha fortgang på gruveoppstart i Sydvaranger gruve",
-      "summary": "Leder i Høyre, Ine Eriksen Søreide, ber regjeringen finne en løsning på oppstart av gruvevirksomheten i Sør-Varanger kommune. – Vi snakker mye om at det er strategisk viktig at det bor og jobber folk i Finnmark. Det skriver Høyre-leder Ine Eriksen Søreide i en pressemelding. Eriksen Søreide påpeker at ordfører Magnus Mæland (H) i Sør-Varanger har vært helt tydelig på hvor stor betydning en oppstart av gruven kan ha. – Stortinget ber regjeringen gå i dialog med Sydvaranger Gruve om hvordan staten kan bidra til å realisere oppstart av kommersiell gruvedrift og komme tilbake til Stortinget om saken senest i forbindelse med RNB 2027.",
-      "keyPoints": [
-        "Eriksen Søreide påpeker at ordfører Magnus Mæland (H) i Sør-Varanger har vært helt tydelig på hvor stor betydning en oppstart av gruven kan ha. – Stortinget ber regjeringen gå i dialog med Sydvaranger Gruve om hvordan staten kan bidra til å realisere oppstart av kommersiell gruvedrift og komme tilbake til Stortinget om saken senest i forbindelse med RNB 2027.",
-        "Leder i Høyre, Ine Eriksen Søreide, ber regjeringen finne en løsning på oppstart av gruvevirksomheten i Sør-Varanger kommune. – Vi snakker mye om at det er strategisk viktig at det bor og jobber folk i Finnmark.",
-        "Det skriver Høyre-leder Ine Eriksen Søreide i en pressemelding.",
-        "Partiet krever at regjeringen går inn med penger til Sydvaranger gruve, så gruven kan startes opp."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/ine-eriksen-soreide-_h_-vil-ha-fortgang-pa-gruveoppstart-i-sydvaranger-gruve-1.18084158",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/n3HfMqFOPNyfdbs_5fWWkwW2Fj7X6vNqjA0tPwLjBDJw.jpg",
-      "localImage": "assets/news/784fefbdd9f69c.jpg",
-      "score": 15
-    },
-    {
-      "id": "0505b1702c8e5a",
-      "category": "Økonomi",
-      "published": "18.11. 17:42",
-      "publishedISO": "2026-11-18T17:42:15+01:00",
-      "title": "Lakseselskap konkurs",
-      "summary": "Mandag ble det åpnet konkurs i Salmonpoint AS ved Hordaland tingrett, ifølge en kunngjøring i Brønnøysundregistrene. Selskapet har selv oppgitt at gjelden er på 13,7 millioner kroner, ifølge ham. – De var inne i en restrukturering og har ikke fått tilført nok kapital, mens de hadde fått ettergitt en del gjeld, sier Aarlie. Fra en omsetning på 8–32 millioner kroner første tre år, skjøt inntektene i været i 2023, med en omsetning på over 212 millioner kroner, ifølge proff.no.",
-      "keyPoints": [
-        "Mandag ble det åpnet konkurs i Salmonpoint AS ved Hordaland tingrett, ifølge en kunngjøring i Brønnøysundregistrene.",
-        "Selskapet har selv oppgitt at gjelden er på 13,7 millioner kroner, ifølge ham. – De var inne i en restrukturering og har ikke fått tilført nok kapital, mens de hadde fått ettergitt en del gjeld, sier Aarlie.",
-        "Fra en omsetning på 8–32 millioner kroner første tre år, skjøt inntektene i været i 2023, med en omsetning på over 212 millioner kroner, ifølge proff.no.",
-        "I 2024 fikk selskapet et underskudd på nær 8 millioner kroner, etter et overskudd på rundt én million kroner året før."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/EbWjvl/lakseselskap-konkurs",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/86bbacc5-8ea3-3e5d-8cb6-320ea37acb86?fit=crop&h=675&upscale=true&w=1200&s=d4e880a9ce18a9f7b34720539eb5ecde6d48f86d",
-      "localImage": "assets/news/0505b1702c8e5a.jpg",
-      "score": 14
-    },
-    {
-      "id": "a361589d79900b",
-      "category": "Økonomi",
-      "published": "18.11. 17:41",
-      "publishedISO": "2026-11-18T17:41:40+01:00",
-      "title": "Kraftig dollar-hopp: Sterkeste siden Trumps tollsjokk",
-      "summary": "Målt mot euroen er dollaren nå på det sterkeste siden Trumps tollsjokk i april i fjor, som sendte bølger gjennom finansmarkedene Dollaren svekket seg i tiden etter og var på det meste rundt ti prosent svakere mot euroen i starten av 2026. Trumps tolldag, da han kunngjorde en lang rekke nye tollsatser, utløste et kraftig dollarfall og uro i aksje- og rentemarkedene. – Hele tollsaken har ikke hatt så stor effekt som man trodde, sier Mouland. Chen trekker frem at amerikanernes private forbruk, som utgjør 70 prosent av landets økonomi, har fortsatt å vokse kraftig.",
-      "keyPoints": [
-        "Målt mot euroen er dollaren nå på det sterkeste siden Trumps tollsjokk i april i fjor, som sendte bølger gjennom finansmarkedene Dollaren svekket seg i tiden etter og var på det meste rundt ti prosent svakere mot euroen i starten av 2026.",
-        "Trumps tolldag, da han kunngjorde en lang rekke nye tollsatser, utløste et kraftig dollarfall og uro i aksje- og rentemarkedene. – Hele tollsaken har ikke hatt så stor effekt som man trodde, sier Mouland.",
-        "Chen trekker frem at amerikanernes private forbruk, som utgjør 70 prosent av landets økonomi, har fortsatt å vokse kraftig.",
-        "Mens det for et år siden var frykt for svekkelse i arbeidsmarkedet i USA, viser tallene nå at arbeidsmarkedet er i ferd med å styrke seg igjen, ifølge Chen. – Arbeidsledigheten faller igjen, fra et allerede historisk lavt nivå."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/Xogzjn/kraftig-dollar-hopp-sterkeste-siden-trumps-tollsjokk",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1b8aef56-c272-44fe-bb18-a039bdf93cf0?fit=crop&h=675&upscale=true&w=1200&s=d6af6ce3a4f601a93a553e592ade506913bad57f",
-      "localImage": "assets/news/a361589d79900b.jpg",
-      "score": 14
     }
   ]
 }
