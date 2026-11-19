@@ -1,28 +1,49 @@
 {
-  "updatedAt": "18.11.2026 kl. 20:31",
-  "updatedISO": "2026-11-18T20:31:32.041599+01:00",
+  "updatedAt": "19.11.2026 kl. 02:28",
+  "updatedISO": "2026-11-19T02:28:44.301290+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "907d8580d4974a",
+      "id": "1446bddb921a83",
       "category": "Norge",
-      "published": "17.11. 15:58",
-      "publishedISO": "2026-11-17T15:58:01+01:00",
-      "title": "Næringsministeren orienterte om Nussir-gruva i hemmelig møte på Stortinget",
-      "summary": "Tirsdag morgen orienterte næringsminister Cecilie Myrseth (Ap) i den utvidede utenriks- og forsvarskomité på Stortinget. Offentligheten får ikke vite hva næringsminister Cecilie Myrseth sa da hun orienterte om regjeringens sikkerhetsvurderinger i forbindelse med salget av Nussir-gruva. Men ingen i opposisjonen har varslet at de vil prøve å stanse salget etter at MDGs hasteforslag om dette ble nedstemt i forrige uke. – Næringsministeren har i dag orientert Stortinget om oppkjøpet av Nussir bak lukkede dører, sier Høyres Peter Frølich, leder for utenriks- og forsvarskomiteen, til NRK.",
+      "published": "18.11. 20:38",
+      "publishedISO": "2026-11-18T20:38:48+01:00",
+      "title": "Slik kan Indre Havn i Larvik bli",
+      "summary": "Hva som skal skje på Indre Havn i Larvik har vært et tema siden 70-tallet. Slik kan Pakkhuset og fiskerhavna i Indre Havn bli seende ut. Birgitte Gulla Løken fra Høyre er ordfører i Larvik kommune. – Indre Havn har et enormt potensial, og mulighetsrommet er stort, sier hun.",
       "keyPoints": [
-        "Men ingen i opposisjonen har varslet at de vil prøve å stanse salget etter at MDGs hasteforslag om dette ble nedstemt i forrige uke. – Næringsministeren har i dag orientert Stortinget om oppkjøpet av Nussir bak lukkede dører, sier Høyres Peter Frølich, leder for utenriks- og forsvarskomiteen, til NRK.",
-        "Offentligheten får ikke vite hva næringsminister Cecilie Myrseth sa da hun orienterte om regjeringens sikkerhetsvurderinger i forbindelse med salget av Nussir-gruva.",
-        "Tirsdag morgen orienterte næringsminister Cecilie Myrseth (Ap) i den utvidede utenriks- og forsvarskomité på Stortinget.",
-        "Regjeringens sikkerhetsvurdering av gruvesalget til et selskap med en russisk toppsjef er hemmelig."
+        "Slik kan Pakkhuset og fiskerhavna i Indre Havn bli seende ut.",
+        "Hva som skal skje på Indre Havn i Larvik har vært et tema siden 70-tallet.",
+        "Birgitte Gulla Løken fra Høyre er ordfører i Larvik kommune. – Indre Havn har et enormt potensial, og mulighetsrommet er stort, sier hun.",
+        "Planene for Indre Havn skal være unikt for byen, ifølge prosjektlederen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/naeringsministeren-orienterte-om-nussir-gruva-i-hemmelig-mote-pa-stortinget-1.18083481",
+      "url": "https://www.nrk.no/vestfoldogtelemark/slik-kan-indre-havn-i-larvik-bli-1.18084509",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/wW7WOTSKlROZVr19ZRU40gg4qGQfE0dkcVUNeFoKOUvw.jpg",
-      "localImage": "assets/news/907d8580d4974a.jpg",
+      "image": "https://gfx.nrk.no/crstjhdbwnnrp_crU4eX2gQ-5Gj7P_QhakH6IaaxzYPA.jpg",
+      "localImage": "assets/news/1446bddb921a83.jpg",
       "score": 20
+    },
+    {
+      "id": "227f033d31d249",
+      "category": "Økonomi",
+      "published": "18.11. 22:51",
+      "publishedISO": "2026-11-18T22:51:25+01:00",
+      "title": "Medier: Anthropic gjør tidenes største børsnotering",
+      "summary": "Hvis Anthropic selger de planlagte 825 millionene aksjer til 83 dollar stykket, vil det si at selskapet selger aksjer for nesten 68,5 milliarder dollar. Anthropic ville med kursen på 78 dollar totalt blitt verdsatt til rundt 1.400 milliarder dollar. SpaceX har i dag tittel som historiens største børsnotering fra tidligere i år.",
+      "keyPoints": [
+        "Hvis Anthropic selger de planlagte 825 millionene aksjer til 83 dollar stykket, vil det si at selskapet selger aksjer for nesten 68,5 milliarder dollar.",
+        "SpaceX har i dag tittel som historiens største børsnotering fra tidligere i år.",
+        "Anthropic ville med kursen på 78 dollar totalt blitt verdsatt til rundt 1.400 milliarder dollar.",
+        "Tidligere i november opplyste Anthropic at selskapet planla å selge aksjer til en pris på mellom 70 og 78 dollar per stykk."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/xJPedp/anthropic-gjoer-tidenes-stoerste-boersnotering-aksjen-prises-til-83-dollar-melder-flere-medier",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3f9d4f72-67cb-3541-b6dd-c99c1a2c7081?fit=crop&h=675&upscale=true&w=1200&s=418c69b0c468472f0aac62509985952605a818fa",
+      "localImage": "assets/news/227f033d31d249.jpg",
+      "score": 22
     },
     {
       "id": "f073df3f81c148",
@@ -43,7 +64,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/66769784-1231-3308-891b-0475e241b698?fit=crop&h=675&upscale=true&w=1200&s=ca6a42dd6f338d86babf6b6912f089dd6bf8d733",
       "localImage": "assets/news/f073df3f81c148.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "907d8580d4974a",
+      "category": "Norge",
+      "published": "17.11. 15:58",
+      "publishedISO": "2026-11-17T15:58:01+01:00",
+      "title": "Næringsministeren orienterte om Nussir-gruva i hemmelig møte på Stortinget",
+      "summary": "Tirsdag morgen orienterte næringsminister Cecilie Myrseth (Ap) i den utvidede utenriks- og forsvarskomité på Stortinget. Offentligheten får ikke vite hva næringsminister Cecilie Myrseth sa da hun orienterte om regjeringens sikkerhetsvurderinger i forbindelse med salget av Nussir-gruva. Men ingen i opposisjonen har varslet at de vil prøve å stanse salget etter at MDGs hasteforslag om dette ble nedstemt i forrige uke. – Næringsministeren har i dag orientert Stortinget om oppkjøpet av Nussir bak lukkede dører, sier Høyres Peter Frølich, leder for utenriks- og forsvarskomiteen, til NRK.",
+      "keyPoints": [
+        "Men ingen i opposisjonen har varslet at de vil prøve å stanse salget etter at MDGs hasteforslag om dette ble nedstemt i forrige uke. – Næringsministeren har i dag orientert Stortinget om oppkjøpet av Nussir bak lukkede dører, sier Høyres Peter Frølich, leder for utenriks- og forsvarskomiteen, til NRK.",
+        "Offentligheten får ikke vite hva næringsminister Cecilie Myrseth sa da hun orienterte om regjeringens sikkerhetsvurderinger i forbindelse med salget av Nussir-gruva.",
+        "Tirsdag morgen orienterte næringsminister Cecilie Myrseth (Ap) i den utvidede utenriks- og forsvarskomité på Stortinget.",
+        "Regjeringens sikkerhetsvurdering av gruvesalget til et selskap med en russisk toppsjef er hemmelig."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/naeringsministeren-orienterte-om-nussir-gruva-i-hemmelig-mote-pa-stortinget-1.18083481",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/wW7WOTSKlROZVr19ZRU40gg4qGQfE0dkcVUNeFoKOUvw.jpg",
+      "localImage": "assets/news/907d8580d4974a.jpg",
+      "score": 19
+    },
+    {
+      "id": "784fefbdd9f69c",
+      "category": "Norge",
+      "published": "18.11. 20:24",
+      "publishedISO": "2026-11-18T20:24:24+01:00",
+      "title": "Ine Eriksen Søreide (H) vil ha fortgang på gruveoppstart i Sydvaranger gruve",
+      "summary": "Leder i Høyre, Ine Eriksen Søreide, ber regjeringen finne en løsning på oppstart av gruvevirksomheten i Sør-Varanger kommune. – Vi snakker mye om at det er strategisk viktig at det bor og jobber folk i Finnmark. Det skriver Høyre-leder Ine Eriksen Søreide i en pressemelding. Eriksen Søreide påpeker at ordfører Magnus Mæland (H) i Sør-Varanger har vært helt tydelig på hvor stor betydning en oppstart av gruven kan ha. – Stortinget ber regjeringen gå i dialog med Sydvaranger Gruve om hvordan staten kan bidra til å realisere oppstart av kommersiell gruvedrift og komme tilbake til Stortinget om saken senest i forbindelse med RNB 2027.",
+      "keyPoints": [
+        "Eriksen Søreide påpeker at ordfører Magnus Mæland (H) i Sør-Varanger har vært helt tydelig på hvor stor betydning en oppstart av gruven kan ha. – Stortinget ber regjeringen gå i dialog med Sydvaranger Gruve om hvordan staten kan bidra til å realisere oppstart av kommersiell gruvedrift og komme tilbake til Stortinget om saken senest i forbindelse med RNB 2027.",
+        "Leder i Høyre, Ine Eriksen Søreide, ber regjeringen finne en løsning på oppstart av gruvevirksomheten i Sør-Varanger kommune. – Vi snakker mye om at det er strategisk viktig at det bor og jobber folk i Finnmark.",
+        "Det skriver Høyre-leder Ine Eriksen Søreide i en pressemelding.",
+        "Partiet krever at regjeringen går inn med penger til Sydvaranger gruve, så gruven kan startes opp."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/ine-eriksen-soreide-_h_-vil-ha-fortgang-pa-gruveoppstart-i-sydvaranger-gruve-1.18084158",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/n3HfMqFOPNyfdbs_5fWWkwW2Fj7X6vNqjA0tPwLjBDJw.jpg",
+      "localImage": "assets/news/784fefbdd9f69c.jpg",
+      "score": 16
     },
     {
       "id": "0505b1702c8e5a",
@@ -64,28 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/86bbacc5-8ea3-3e5d-8cb6-320ea37acb86?fit=crop&h=675&upscale=true&w=1200&s=d4e880a9ce18a9f7b34720539eb5ecde6d48f86d",
       "localImage": "assets/news/0505b1702c8e5a.jpg",
-      "score": 17
-    },
-    {
-      "id": "784fefbdd9f69c",
-      "category": "Norge",
-      "published": "18.11. 20:24",
-      "publishedISO": "2026-11-18T20:24:24+01:00",
-      "title": "Ine Eriksen Søreide (H) vil ha fortgang på gruveoppstart i Sydvaranger gruve",
-      "summary": "Leder i Høyre, Ine Eriksen Søreide, ber regjeringen finne en løsning på oppstart av gruvevirksomheten i Sør-Varanger kommune. – Vi snakker mye om at det er strategisk viktig at det bor og jobber folk i Finnmark. Det skriver Høyre-leder Ine Eriksen Søreide i en pressemelding. Eriksen Søreide påpeker at ordfører Magnus Mæland (H) i Sør-Varanger har vært helt tydelig på hvor stor betydning en oppstart av gruven kan ha. – Stortinget ber regjeringen gå i dialog med Sydvaranger Gruve om hvordan staten kan bidra til å realisere oppstart av kommersiell gruvedrift og komme tilbake til Stortinget om saken senest i forbindelse med RNB 2027.",
-      "keyPoints": [
-        "Eriksen Søreide påpeker at ordfører Magnus Mæland (H) i Sør-Varanger har vært helt tydelig på hvor stor betydning en oppstart av gruven kan ha. – Stortinget ber regjeringen gå i dialog med Sydvaranger Gruve om hvordan staten kan bidra til å realisere oppstart av kommersiell gruvedrift og komme tilbake til Stortinget om saken senest i forbindelse med RNB 2027.",
-        "Leder i Høyre, Ine Eriksen Søreide, ber regjeringen finne en løsning på oppstart av gruvevirksomheten i Sør-Varanger kommune. – Vi snakker mye om at det er strategisk viktig at det bor og jobber folk i Finnmark.",
-        "Det skriver Høyre-leder Ine Eriksen Søreide i en pressemelding.",
-        "Partiet krever at regjeringen går inn med penger til Sydvaranger gruve, så gruven kan startes opp."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/ine-eriksen-soreide-_h_-vil-ha-fortgang-pa-gruveoppstart-i-sydvaranger-gruve-1.18084158",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/TKWEz2c7-sM2Slhfwqgs0gPcTrGmkJARe27fl35Lpmsw.jpg",
-      "localImage": "assets/news/784fefbdd9f69c.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "a361589d79900b",
@@ -106,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1b8aef56-c272-44fe-bb18-a039bdf93cf0?fit=crop&h=675&upscale=true&w=1200&s=d6af6ce3a4f601a93a553e592ade506913bad57f",
       "localImage": "assets/news/a361589d79900b.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "1065809ddd47b2",
@@ -114,12 +156,12 @@
       "published": "18.11. 15:32",
       "publishedISO": "2026-11-18T15:32:34+01:00",
       "title": "GTA-oppgang på Wall Street",
-      "summary": "Slik går det med de toneangivende indeksene rundt klokken 18.20: Onsdag er det blandet på Wall Street etter en svak handelsdag tirsdag. To store historier preger markedet: lanseringen av Grand Theft Auto 6 og et sterkt kvartalsresultat fra brikkegiganten Nvidia. Det er første gang siden 2013 at et nytt GTA-spill havner i butikkhyllene, og anmeldelsene har gjort spillet til det høyest rangerte noensinne.",
+      "summary": "Slik gikk det med de toneangivende indeksene: Onsdag endte handelsøkten blandet på Wall Street etter en svak handelsdag tirsdag. Banken Morgan Stanley har anslått at 40 millioner GTA 6-spill vil være solgt innen slutten av mars neste år, ifølge CNBC. Samtidig falt Nvidia 2,89 prosent første handelsdag etter at selskapet slo analytikernes forventninger både på omsetning og resultat i tredje kvartal.",
       "keyPoints": [
-        "Slik går det med de toneangivende indeksene rundt klokken 18.20: Onsdag er det blandet på Wall Street etter en svak handelsdag tirsdag.",
-        "To store historier preger markedet: lanseringen av Grand Theft Auto 6 og et sterkt kvartalsresultat fra brikkegiganten Nvidia.",
-        "Det er første gang siden 2013 at et nytt GTA-spill havner i butikkhyllene, og anmeldelsene har gjort spillet til det høyest rangerte noensinne.",
-        "Samtidig faller Nvidia 2,17 prosent første handelsdag etter at selskapet slo analytikernes forventninger både på omsetning og resultat i tredje kvartal."
+        "Slik gikk det med de toneangivende indeksene: Onsdag endte handelsøkten blandet på Wall Street etter en svak handelsdag tirsdag.",
+        "Samtidig falt Nvidia 2,89 prosent første handelsdag etter at selskapet slo analytikernes forventninger både på omsetning og resultat i tredje kvartal.",
+        "Banken Morgan Stanley har anslått at 40 millioner GTA 6-spill vil være solgt innen slutten av mars neste år, ifølge CNBC.",
+        "To store historier preger markedet: lanseringen av Grand Theft Auto 6 og et sterkt kvartalsresultat fra brikkegiganten Nvidia."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -127,49 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/0ff35e10-4394-3b0b-9077-fde70eec4007?fit=crop&h=675&upscale=true&w=1200&s=2cebed2f130c1f30599bdfd5098ab7bddfab4f30",
       "localImage": "assets/news/1065809ddd47b2.jpg",
-      "score": 17
-    },
-    {
-      "id": "9b4db7d04a0941",
-      "category": "Økonomi",
-      "published": "18.11. 10:56",
-      "publishedISO": "2026-11-18T10:56:38+01:00",
-      "title": "Dette felte Jensen",
-      "summary": "Etter at Jensen Huang ble presset ut som leder av Nvidia, selskapet han selv var med på å grunnlegge, har satiriske memes og videoer eksplodert. Jensen Huang innrømmet først affæren med kinesiske Alice Huang. Men det er ikke affærer, utroskap og umoral som felte Jensen.",
-      "keyPoints": [
-        "Etter at Jensen Huang ble presset ut som leder av Nvidia, selskapet han selv var med på å grunnlegge, har satiriske memes og videoer eksplodert.",
-        "Men det er ikke affærer, utroskap og umoral som felte Jensen.",
-        "Jensen Huang innrømmet først affæren med kinesiske Alice Huang.",
-        "Andre er temmelig morsomme og oppsummerer det etterlatte inntrykket i én enkelt setning: Nvidia falt først 12 prosent på grunn av «election», så ytterligere 10 prosent grunnet «erection», skriver en vittigper på X."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/530r3m/dette-felte-jensen",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9896e61a-e3e6-34a6-b4c7-8fa1f9e22cf0?fit=crop&h=675&upscale=true&w=1200&s=7a822a82eb274fdb21d73cf19ec99690a2864192",
-      "localImage": "assets/news/9b4db7d04a0941.jpg",
-      "score": 16
-    },
-    {
-      "id": "35b04b4f9b5ced",
-      "category": "Økonomi",
-      "published": "17.11. 09:01",
-      "publishedISO": "2026-11-17T09:01:25+01:00",
-      "title": "Stemningen surnet på Oslo Børs",
-      "summary": "Det ble nok et fall for Oslo Børs tirsdag, med forsiktig nedgang som forverret seg noe mot slutten av dagen. Utover de alle mest omsatte aksjen falt Yara 2,37 prosent, mens Tomra endte dagen ned 4,25 prosent. Det er opp 1,4 prosent siden midnatt, og omtrent samme nivå som da Børsen stengte i går.",
-      "keyPoints": [
-        "Det ble nok et fall for Oslo Børs tirsdag, med forsiktig nedgang som forverret seg noe mot slutten av dagen.",
-        "Utover de alle mest omsatte aksjen falt Yara 2,37 prosent, mens Tomra endte dagen ned 4,25 prosent.",
-        "Det er opp 1,4 prosent siden midnatt, og omtrent samme nivå som da Børsen stengte i går.",
-        "Den ligger på 93 dollar fatet rundt stengetid på børsen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/8PmPEr/nedgang-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/9af85e4f-591b-3126-b37c-eafaead88b5b?fit=crop&h=675&upscale=true&w=1200&s=16c5bb93b46c1c2925f0d45ab849ccdffb5faa64",
-      "localImage": "assets/news/35b04b4f9b5ced.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "260cd6468dc4a1",
@@ -190,28 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6401e5e2-f186-3136-906f-fff7c41f457a?fit=crop&h=675&upscale=true&w=1200&s=5ea671e35577b21411293fd23ff8b9a00f30e195",
       "localImage": "assets/news/260cd6468dc4a1.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "81191388d2d53c",
-      "category": "Norge",
-      "published": "18.11. 20:08",
-      "publishedISO": "2026-11-18T20:08:12+01:00",
-      "title": "Instruktør påkjørt under mørkekjøringskurs i Steinkjer",
-      "summary": "UHELL: Under trafikkurset kom instruktøren for langt ut i veibanen og endte opp med å bli påkjørt. Like før klokka 19 rykket politiet ut til Steinkjer i Trøndelag etter melding om at en person hadde blitt påkjørt av en bil. – Føreren klarte ikke å stoppe, sier innsatsleder Anders Fiskvik i Trøndelag politidistrikt til NRK. Det var i forbindelse med en demonstrasjon på et mørkekjøringskurs at ulykken skjedde. – En instruktør ble påkjørt i forbindelse med et trafikalt grunnkurs.",
+      "id": "9b4db7d04a0941",
+      "category": "Økonomi",
+      "published": "18.11. 10:56",
+      "publishedISO": "2026-11-18T10:56:38+01:00",
+      "title": "Dette felte Jensen",
+      "summary": "Etter at Jensen Huang ble presset ut som leder av Nvidia, selskapet han selv var med på å grunnlegge, har satiriske memes og videoer eksplodert. Jensen Huang innrømmet først affæren med kinesiske Alice Huang. Men det er ikke affærer, utroskap og umoral som felte Jensen.",
       "keyPoints": [
-        "Like før klokka 19 rykket politiet ut til Steinkjer i Trøndelag etter melding om at en person hadde blitt påkjørt av en bil. – Føreren klarte ikke å stoppe, sier innsatsleder Anders Fiskvik i Trøndelag politidistrikt til NRK.",
-        "Det var i forbindelse med en demonstrasjon på et mørkekjøringskurs at ulykken skjedde. – En instruktør ble påkjørt i forbindelse med et trafikalt grunnkurs.",
-        "UHELL: Under trafikkurset kom instruktøren for langt ut i veibanen og endte opp med å bli påkjørt.",
-        "Instruktøren skal ha kommet litt for langt ut i veibanen i 30-sonen og hadde ikke på seg refleks, ifølge politiet."
+        "Etter at Jensen Huang ble presset ut som leder av Nvidia, selskapet han selv var med på å grunnlegge, har satiriske memes og videoer eksplodert.",
+        "Men det er ikke affærer, utroskap og umoral som felte Jensen.",
+        "Jensen Huang innrømmet først affæren med kinesiske Alice Huang.",
+        "Andre er temmelig morsomme og oppsummerer det etterlatte inntrykket i én enkelt setning: Nvidia falt først 12 prosent på grunn av «election», så ytterligere 10 prosent grunnet «erection», skriver en vittigper på X."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/instruktor-pakjort-under-morkekjoringskurs-i-steinkjer-1.18084536",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_A5h-zkoBFjgkIrRIv-_NgTzbh5joNFMEyWMe1cMVjgw.jpg",
-      "localImage": "assets/news/81191388d2d53c.jpg",
-      "score": 13
+      "url": "https://e24.no/boers-og-finans/i/530r3m/dette-felte-jensen",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/9896e61a-e3e6-34a6-b4c7-8fa1f9e22cf0?fit=crop&h=675&upscale=true&w=1200&s=7a822a82eb274fdb21d73cf19ec99690a2864192",
+      "localImage": "assets/news/9b4db7d04a0941.jpg",
+      "score": 14
     }
   ]
 }
