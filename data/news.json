@@ -1,8 +1,29 @@
 {
-  "updatedAt": "20.11.2026 kl. 01:49",
-  "updatedISO": "2026-11-20T01:49:30.766983+01:00",
+  "updatedAt": "20.11.2026 kl. 09:09",
+  "updatedISO": "2026-11-20T09:09:36.887079+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "b1ca58351f771e",
+      "category": "Norge",
+      "published": "19.11. 10:00",
+      "publishedISO": "2026-11-19T10:00:01+01:00",
+      "title": "Norges Bank med ny forventningsundersøkelse: Stangeland Maskin frykter inflasjonen ikke vil bremse",
+      "summary": "Jeg frykter at inflasjonen ikke kommer til å bremse, uttrykker Stangeland fra arbeidsplassen i Sola kommune. Prisveksten har i flere år ligget over målet på 2 prosent, og Norges Bank tror ikke den kommer ned til dette nivået igjen før i 2029. Det fører til at bedriftene skrur opp prisene på varer og tjenester. – Norges Bank ønsker å få inflasjonen ned.",
+      "keyPoints": [
+        "Jeg frykter at inflasjonen ikke kommer til å bremse, uttrykker Stangeland fra arbeidsplassen i Sola kommune.",
+        "Prisveksten har i flere år ligget over målet på 2 prosent, og Norges Bank tror ikke den kommer ned til dette nivået igjen før i 2029.",
+        "Det fører til at bedriftene skrur opp prisene på varer og tjenester. – Norges Bank ønsker å få inflasjonen ned.",
+        "Folk og bedrifter tror prisveksten vil bli langt høyere enn det Norges Bank spår."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/rogaland/norges-bank-med-ny-forventningsundersokelse_-stangeland-maskin-frykter-inflasjonen-ikke-vil-bremse-1.18084262",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/YkyD7oIZ54ADlRxt7fowqAfGhTubN9s38lRGnr5uD0ng.jpg",
+      "localImage": "assets/news/b1ca58351f771e.jpg",
+      "score": 22
+    },
     {
       "id": "4744b67fdb8211",
       "category": "Økonomi",
@@ -22,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1d55da0d-38ba-37af-a1fb-1c0099e2f1e4?fit=crop&h=675&upscale=true&w=1200&s=bbc01ab77a3d5af737de39fa9ecb0a514a6047cb",
       "localImage": "assets/news/4744b67fdb8211.jpg",
-      "score": 23
+      "score": 21
     },
     {
       "id": "4c7d57dd8a0182",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6698eecb-fa36-3092-9d67-646107a81922?fit=crop&h=675&upscale=true&w=1200&s=9d2fd9f625ef92e1ac103df78dd1bf293e66434d",
       "localImage": "assets/news/4c7d57dd8a0182.jpg",
-      "score": 22
+      "score": 20
     },
     {
       "id": "67e6be36dfc85c",
@@ -64,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ac37f502-e9b1-323c-949c-c659ace5f374?fit=crop&h=675&upscale=true&w=1200&s=f7ccdf00410668740680f89b07350788ae533aea",
       "localImage": "assets/news/67e6be36dfc85c.jpg",
-      "score": 22
+      "score": 20
     },
     {
       "id": "ec883b081acc94",
@@ -85,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5a133b1d-d340-3f53-9bce-aa8aecc2223b?fit=crop&h=675&upscale=true&w=1200&s=03a124e9414f143a6b37501c814fcbaf98567f8f",
       "localImage": "assets/news/ec883b081acc94.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "de608180665758",
@@ -106,7 +127,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/2add798f-0d80-3110-94ef-5604772a0c4c?fit=crop&h=675&upscale=true&w=1200&s=54df6637cf727d93038752aa424edea3a862fbb0",
       "localImage": "assets/news/de608180665758.jpg",
-      "score": 20
+      "score": 18
+    },
+    {
+      "id": "d0666b0ffc41e5",
+      "category": "Norge",
+      "published": "20.11. 08:42",
+      "publishedISO": "2026-11-20T08:42:35+01:00",
+      "title": "Statssekretær ba om sitathjelp fra gruvesjef",
+      "summary": "En statssekretær i Nærings- og fiskeridepartementet ba den britisk-russiske kjøperen av finnmarksgruva Nussir om å lage et utkast til sitater på vegne av den norske regjeringen. Statssekretær Vegard Wennesland (Ap), skal ha bedt den britisk-russiske kjøperen av finnmarksgruva Nussir om å lage et utkast til sitater på vegne av den norske regjeringen Det melder VG, som har fått tilgang til e-postkorrespondansen. E-posten ble ifølge avisen sendt 28. oktober, flere dager før kjøpet ble offentlig kjent, og den inneholder et utkast til en pressemelding fra forretningsmann og gruvekjøper Artem Volynets.",
+      "keyPoints": [
+        "Statssekretær Vegard Wennesland (Ap), skal ha bedt den britisk-russiske kjøperen av finnmarksgruva Nussir om å lage et utkast til sitater på vegne av den norske regjeringen Det melder VG, som har fått tilgang til e-postkorrespondansen.",
+        "E-posten ble ifølge avisen sendt 28. oktober, flere dager før kjøpet ble offentlig kjent, og den inneholder et utkast til en pressemelding fra forretningsmann og gruvekjøper Artem Volynets.",
+        "Utkastet formulerte blant annet forslag til en uttalelse der norske myndigheter skulle ønske oppkjøpet velkommen. – Statssekretæren utfordret Artem (Volynets) til å vise hvordan slike sitater kunne passe inn, og her kommer de.",
+        "ACG Metals har lagt 2 milliarder kroner på bordet for å kjøpe gruven."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/statssekretaer-ba-om-sitathjelp-fra-gruvesjef-1.18085566",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/VHISNN4xWq9i-rFx_5_nNgLWh52yoPecM3mXqRdoOLOA.jpg",
+      "localImage": "assets/news/d0666b0ffc41e5.jpg",
+      "score": 17
+    },
+    {
+      "id": "bac75aa882cb85",
+      "category": "Norge",
+      "published": "20.11. 07:33",
+      "publishedISO": "2026-11-20T07:33:39+01:00",
+      "title": "Forsvaret øver i Kristiansand: – Setter opp skilt og sperringer",
+      "summary": "Studenter ved Befalsskolen på Kjevik skal de neste dagene øve flere steder i Kristiansand. Øvelsen skal også foregå i Jegersberg og på Skråstadheia. – De som øver, vil være bære norsk militæruniform og være bevæpnede, skriver kommunen på sine nettsider. Befalsskolen setter opp skilt og sperringer der det trengs.",
+      "keyPoints": [
+        "Befalsskolen setter opp skilt og sperringer der det trengs.",
+        "Studenter ved Befalsskolen på Kjevik skal de neste dagene øve flere steder i Kristiansand.",
+        "Øvelsen skal også foregå i Jegersberg og på Skråstadheia. – De som øver, vil være bære norsk militæruniform og være bevæpnede, skriver kommunen på sine nettsider.",
+        "Forsvarets Befalsskole skal de neste dagene øve i Kristiansand sentrum og på Odderøya."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/forsvaret-over-i-kristiansand_-_-setter-opp-skilt-og-sperringer-1.18085550",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/SFjN-W6eVPDlxv5h0MoYTAyj3ENucn578qYq8-C97brg.jpg",
+      "localImage": "assets/news/bac75aa882cb85.jpg",
+      "score": 17
     },
     {
       "id": "9e74292e607cf2",
@@ -127,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/59cb4641-346d-339a-a94f-355bedac935e?fit=crop&h=675&upscale=true&w=1200&s=e1fdf4e228b52a46f6d5c67b38464f86c516717f",
       "localImage": "assets/news/9e74292e607cf2.jpg",
-      "score": 19
+      "score": 17
     },
     {
       "id": "227f033d31d249",
@@ -148,70 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/3f9d4f72-67cb-3541-b6dd-c99c1a2c7081?fit=crop&h=675&upscale=true&w=1200&s=418c69b0c468472f0aac62509985952605a818fa",
       "localImage": "assets/news/227f033d31d249.jpg",
-      "score": 17
-    },
-    {
-      "id": "f073df3f81c148",
-      "category": "Økonomi",
-      "published": "18.11. 15:27",
-      "publishedISO": "2026-11-18T15:27:18+01:00",
-      "title": "Trump i Kina: – Komisk",
-      "summary": "Et toppmøte mellom statslederne i USA, Kina og Russland i Kina torsdag, har fått enkelte til å trekke paralleller til Jalta-konferansenPå Jaltakonferansen (4.–11. februar 1945) ble lederne for USA (Franklin D. Men, hverken spionmistanker rundt verdens ledende databrikkeselskap eller krigen i Iran og Ukraina, er ventet å produsere de største overskriftene fra møtet mellom Donald Trump, Xi Jinping og Vladimir Putin, skal man tro ekspertene. Bakteppet er en russisk befolkning på 140 millioner, mot EU og Storbritannias over 500 millioner. – Det er helt bemerkelsesverdig at Trump og Xi vil ha med Putin.",
-      "keyPoints": [
-        "Et toppmøte mellom statslederne i USA, Kina og Russland i Kina torsdag, har fått enkelte til å trekke paralleller til Jalta-konferansenPå Jaltakonferansen (4.–11. februar 1945) ble lederne for USA (Franklin D.",
-        "Bakteppet er en russisk befolkning på 140 millioner, mot EU og Storbritannias over 500 millioner. – Det er helt bemerkelsesverdig at Trump og Xi vil ha med Putin.",
-        "Men, hverken spionmistanker rundt verdens ledende databrikkeselskap eller krigen i Iran og Ukraina, er ventet å produsere de største overskriftene fra møtet mellom Donald Trump, Xi Jinping og Vladimir Putin, skal man tro ekspertene.",
-        "Både Kina, USA og Russland er blant de 21 medlemslandene.-toppmøtet, som samler 21 Stillehavsland eller rundt 60 prosent av verdensøkonomien."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/4Eqr0o/trump-i-kina-komisk",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/66769784-1231-3308-891b-0475e241b698?fit=crop&h=675&upscale=true&w=1200&s=ca6a42dd6f338d86babf6b6912f089dd6bf8d733",
-      "localImage": "assets/news/f073df3f81c148.jpg",
-      "score": 15
-    },
-    {
-      "id": "c8ff46ea1932e1",
-      "category": "Økonomi",
-      "published": "19.11. 21:47",
-      "publishedISO": "2026-11-19T21:47:10+01:00",
-      "title": "GTA sprenger grenser: – Gaming-feber",
-      "summary": "Den etterlengtede lanseringen av spillet Grand Theft Auto 6 (GTA 6) ved midnatt har fått ringvirkninger allerede før det første døgnet er omme. Global Connect, som blant annet leverer fibernett i Norge og står for rundt halvparten av all datatrafikk i Norden, har også merket økt trafikk. – GTA 6 har satt sitt tydelige preg på internettrafikken i Norge så vel som i resten av Norden, sier driftsdirektør Jakob Dirksen i en kommentar. GTA 6 hadde da allerede solgt i mer enn dobbelt så mange eksemplarer på forhånd enn spillet «Zelda: Tears of Kingdom», som hadde den gamle toppnoteringen. – Det er ikke bare GTA-feber.",
-      "keyPoints": [
-        "Global Connect, som blant annet leverer fibernett i Norge og står for rundt halvparten av all datatrafikk i Norden, har også merket økt trafikk. – GTA 6 har satt sitt tydelige preg på internettrafikken i Norge så vel som i resten av Norden, sier driftsdirektør Jakob Dirksen i en kommentar.",
-        "Den etterlengtede lanseringen av spillet Grand Theft Auto 6 (GTA 6) ved midnatt har fått ringvirkninger allerede før det første døgnet er omme.",
-        "GTA 6 hadde da allerede solgt i mer enn dobbelt så mange eksemplarer på forhånd enn spillet «Zelda: Tears of Kingdom», som hadde den gamle toppnoteringen. – Det er ikke bare GTA-feber.",
-        "Anmeldelsene av spillet har vært av det gode slaget og gjort GTA 6 til det høyest rangerte spillet noensinne med 99 av 100 mulige poeng på anmeldelsesnettstedet Metacritic."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/kMJKbv/gta-sprenger-grenser-gaming-feber",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/50e5df66-eff9-3d1a-adf9-8205fd2227a7?fit=crop&h=675&upscale=true&w=1200&s=9cd80b34dd611182b991dc6723a5eb768cb62569",
-      "localImage": "assets/news/c8ff46ea1932e1.jpg",
-      "score": 13
-    },
-    {
-      "id": "d7207fb3195039",
-      "category": "Økonomi",
-      "published": "19.11. 21:06",
-      "publishedISO": "2026-11-19T21:06:06+01:00",
-      "title": "Norwegian: 5.000 kunder har fått lekket kortinformasjon",
-      "summary": "Rundt 5000 Norwegian-kunder fikk torsdag kveld beskjed om at kortopplysningene deres kan ha blitt eksponert. – Vi synes dette er veldig leit, men vi agerte umiddelbart og fikk deaktivert den berørte teknologien så fort som mulig, sier Eline Hyggen Skari, pressekontakt i Norwegian. Undersøkelsene viste ifølge Norwegian at kortinformasjon brukt på enkelte av selskapets nettsider mandag formiddag og kveld kan ha blitt eksponert. Alle som kan være rammet, er kontaktet direkte på e-post, opplyser selskapet. – Så langt vi vet er innbruddet stoppet og da gjelder det bare de kundene som har fått informasjon fra oss i dag, sier Skari.",
-      "keyPoints": [
-        "Rundt 5000 Norwegian-kunder fikk torsdag kveld beskjed om at kortopplysningene deres kan ha blitt eksponert. – Vi synes dette er veldig leit, men vi agerte umiddelbart og fikk deaktivert den berørte teknologien så fort som mulig, sier Eline Hyggen Skari, pressekontakt i Norwegian.",
-        "Undersøkelsene viste ifølge Norwegian at kortinformasjon brukt på enkelte av selskapets nettsider mandag formiddag og kveld kan ha blitt eksponert.",
-        "Alle som kan være rammet, er kontaktet direkte på e-post, opplyser selskapet. – Så langt vi vet er innbruddet stoppet og da gjelder det bare de kundene som har fått informasjon fra oss i dag, sier Skari.",
-        "I e-posten ber Norwegian de berørte kundene kontakte banken eller kortutstederen umiddelbart for å sperre kortet."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/JnoGnm/norwegian-bekrefter-5-000-kunder-har-faatt-lekket-kortinformasjon",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/caf0cb01-1d0f-3db0-9dee-fbb2a55a1252?fit=crop&h=675&upscale=true&w=1200&s=4e92463381407e122e5116644345e9ca25fd3575",
-      "localImage": "assets/news/d7207fb3195039.jpg",
-      "score": 13
+      "score": 16
     }
   ]
 }
