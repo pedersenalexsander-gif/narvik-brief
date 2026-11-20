@@ -1,6 +1,6 @@
 {
-  "updatedAt": "20.11.2026 kl. 17:59",
-  "updatedISO": "2026-11-20T17:59:31.129512+01:00",
+  "updatedAt": "21.11.2026 kl. 00:02",
+  "updatedISO": "2026-11-21T00:02:52.935166+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/YkyD7oIZ54ADlRxt7fowqAfGhTubN9s38lRGnr5uD0ng.jpg",
       "localImage": "assets/news/b1ca58351f771e.jpg",
+      "score": 19
+    },
+    {
+      "id": "2e8557053d9ea0",
+      "category": "Økonomi",
+      "published": "20.11. 20:25",
+      "publishedISO": "2026-11-20T20:25:58+01:00",
+      "title": "Nvidia-aksjen stupte etter rykter om etterforskning",
+      "summary": "Siden toppen 6. oktober har 26.800 milliarder kroner forduftet. Nvidia-aksjen stuper på Wall Street fredag kveld og nedgangen tiltar etter Reuters-meldingen. Fredag kveld har Oljefondet en samlet verdi på 20.900 milliarder kroner, ifølge fondets uoffisielle telleverk.",
+      "keyPoints": [
+        "Nvidia-aksjen stuper på Wall Street fredag kveld og nedgangen tiltar etter Reuters-meldingen.",
+        "Fredag kveld har Oljefondet en samlet verdi på 20.900 milliarder kroner, ifølge fondets uoffisielle telleverk.",
+        "Siden toppen 6. oktober har 26.800 milliarder kroner forduftet.",
+        "Det innebærer at 2.740 milliarder dollar i papirverdier er blåst bort, tilsvarende 26.800 milliarder kroner."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/7P0Myw/reuters-usas-finanstilsyn-gransker-nvidias-regnskapspaksis",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1da3880a-6a19-31dd-a00a-c787209d62ae?fit=crop&h=675&upscale=true&w=1200&s=4ca9630258ab5fb32e279b5a695b91d20a884b53",
+      "localImage": "assets/news/2e8557053d9ea0.jpg",
       "score": 20
-    },
-    {
-      "id": "23d6a869427389",
-      "category": "Verden",
-      "published": "20.11. 17:54",
-      "publishedISO": "2026-11-20T17:54:29+01:00",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Se: CCTV viser eksplosjon etter at Polen sa at luftrommet ble krenket av russisk missil. Polen sier at et russisk kryssermissil var blant tre objekter som krenket luftrommet tidlig på fredag, og statsminister Donald Tusk sa at det ikke så ut til å være en ulykke da vestlige militærøvelser fant sted i regionen. Forsvarsminister Wladyslaw Kosiniak-Kamysz sa at Kh-101-missilet traff et landlig område ved Nowy Lipowiec i det sørøstlige Polen, omtrent 50 km (31 miles) fra den ukrainske grensen. Storbritannias forsvarsminister Wes Streeting, som var på besøk i Polen fredag, sa: \"Konsekvensen av Russlands ulovlige krig merkes over hele Ukraina og i økende grad i nabolandene.\" Statsminister Andy Burnham sa fredagens hendelse var «helt uakseptabel».",
-      "keyPoints": [
-        "Se: CCTV viser eksplosjon etter at Polen sa at luftrommet ble krenket av russisk missil. Polen sier at et russisk kryssermissil var blant tre objekter som krenket luftrommet tidlig på fredag, og statsminister Donald Tusk sa at det ikke så ut til å være en ulykke da vestlige militærøvelser fant sted i regionen.",
-        "Forsvarsminister Wladyslaw Kosiniak-Kamysz sa at Kh-101-missilet traff et landlig område ved Nowy Lipowiec i det sørøstlige Polen, omtrent 50 km (31 miles) fra den ukrainske grensen.",
-        "Storbritannias forsvarsminister Wes Streeting, som var på besøk i Polen fredag, sa: \"Konsekvensen av Russlands ulovlige krig merkes over hele Ukraina og i økende grad i nabolandene.\" Statsminister Andy Burnham sa fredagens hendelse var «helt uakseptabel».",
-        "However, two Polish farmers were killed by a missile in November 2022, which was believed to have been a Ukrainian air-defence missile responding to a Russian attack."
-      ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg",
-      "localImage": "assets/news/23d6a869427389.jpg",
-      "score": 17
-    },
-    {
-      "id": "5e8804ac749881",
-      "category": "USA",
-      "published": "20.11. 00:04",
-      "publishedISO": "2026-11-20T00:04:30+01:00",
-      "title": "California targets Nvidia in China AI chip probe",
-      "summary": "California har servert en etterforskningsstevning for AI-brikkedesigneren Nvidia i kjølvannet av en skandale som endte med at mangeårig administrerende direktør Jensen Huang gikk av. Nvidia har sitt globale hovedkvarter i Santa Clara, California. Noen medlemmer av den amerikanske kongressen har oppfordret handelsdepartementet til å undersøke om Megaspeed, en stor Nvidia-kunde, viderekoblet Nvidia-brikker til Kina.",
-      "keyPoints": [
-        "California har servert en etterforskningsstevning for AI-brikkedesigneren Nvidia i kjølvannet av en skandale som endte med at mangeårig administrerende direktør Jensen Huang gikk av.",
-        "Noen medlemmer av den amerikanske kongressen har oppfordret handelsdepartementet til å undersøke om Megaspeed, en stor Nvidia-kunde, viderekoblet Nvidia-brikker til Kina.",
-        "Nvidia has its global headquarters in Santa Clara, California.",
-        "Tidligere denne uken sa selskapets styreleder Harvey Jones at Nvidia ikke hadde noen intensjon om å gjeninnsette Jensen Huang etter at den mangeårige Nvidia-sjefen og medgründeren ga ut en uttalelse som sa at han ville være \"beæret\" over å komme tilbake, ettersom noen teknologiledere inkludert Elon Musk drev kampanje på hans vegne."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
-      "localImage": "assets/news/5e8804ac749881.jpg",
-      "score": 22
     },
     {
       "id": "4744b67fdb8211",
@@ -85,7 +64,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1d55da0d-38ba-37af-a1fb-1c0099e2f1e4?fit=crop&h=675&upscale=true&w=1200&s=bbc01ab77a3d5af737de39fa9ecb0a514a6047cb",
       "localImage": "assets/news/4744b67fdb8211.jpg",
-      "score": 20
+      "score": 18
+    },
+    {
+      "id": "bbf24135aa3ca1",
+      "category": "Økonomi",
+      "published": "20.11. 20:28",
+      "publishedISO": "2026-11-20T20:28:44+01:00",
+      "title": "GTA 6 har solgt for 37 milliarder kroner",
+      "summary": "Salget av Grand Theft Auto VI nådde 3,79 milliarder dollar, tilsvarende 37 milliarder kroner, på verdensbasis første dag, ifølge en pressemelding fra Take-Two Interactive. Før lanseringen var det solgt 32,5 millioner eksemplarer av spillet, ifølge selskapet. – Det er med enorm takknemlighet vi går inn i et nytt kapittel av Rockstar Games med utgivelsen av Grand Theft Auto VI, sier Rockstar Games-grunnlegger Sam Houser. Spillet har fått 99 poeng på nettstedet Metacritic, som samler anmeldelser.",
+      "keyPoints": [
+        "Salget av Grand Theft Auto VI nådde 3,79 milliarder dollar, tilsvarende 37 milliarder kroner, på verdensbasis første dag, ifølge en pressemelding fra Take-Two Interactive.",
+        "Før lanseringen var det solgt 32,5 millioner eksemplarer av spillet, ifølge selskapet. – Det er med enorm takknemlighet vi går inn i et nytt kapittel av Rockstar Games med utgivelsen av Grand Theft Auto VI, sier Rockstar Games-grunnlegger Sam Houser.",
+        "Spillet har fått 99 poeng på nettstedet Metacritic, som samler anmeldelser.",
+        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/M5R2mK/gta-6-har-solgt-for-37-milliarder-kroner-opplyser-spillets-utgiver",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5db002e4-1fa8-33d2-ba36-fdf8d0f1a370?fit=crop&h=675&upscale=true&w=1200&s=c53acf7b7e904106e57af801fa5e222079df9ff3",
+      "localImage": "assets/news/bbf24135aa3ca1.jpg",
+      "score": 17
     },
     {
       "id": "4c7d57dd8a0182",
@@ -106,49 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6698eecb-fa36-3092-9d67-646107a81922?fit=crop&h=675&upscale=true&w=1200&s=9d2fd9f625ef92e1ac103df78dd1bf293e66434d",
       "localImage": "assets/news/4c7d57dd8a0182.jpg",
-      "score": 19
-    },
-    {
-      "id": "b62da50602ce12",
-      "category": "AI",
-      "published": "20.11. 17:27",
-      "publishedISO": "2026-11-20T17:27:47+01:00",
-      "title": "Anthropic shares fall a day after blockbuster IPO",
-      "summary": "Anthropics aksjekurs har falt tilbake mot børskursen (IPO) en dag etter den skyhøye markedsdebuten, ettersom det bredere teknologisalget fortsetter. Anthropics aksjer falt imidlertid på fredag, og falt mer enn 10 % til rundt 87,30 dollar, nær børskursen på 83 dollar, og de bredere børsnedgangene som ble sett på torsdag, fortsatte. Ed Moya, en strateg hos markedsetterretningsfirmaet AlphaSense, sa at Anthropics store IPO ikke så ut til å ha gjenopprettet tilliten til det bredere AI-markedet.",
-      "keyPoints": [
-        "Anthropics aksjer falt imidlertid på fredag, og falt mer enn 10 % til rundt 87,30 dollar, nær børskursen på 83 dollar, og de bredere børsnedgangene som ble sett på torsdag, fortsatte.",
-        "Anthropics aksjekurs har falt tilbake mot børskursen (IPO) en dag etter den skyhøye markedsdebuten, ettersom det bredere teknologisalget fortsetter.",
-        "Ed Moya, en strateg hos markedsetterretningsfirmaet AlphaSense, sa at Anthropics store IPO ikke så ut til å ha gjenopprettet tilliten til det bredere AI-markedet.",
-        "Produsenten av chatboten Claude hevet inn rekordhøye 81 milliarder dollar i sin børsnotering (IPO), men aksjekursen endret seg betydelig den første handelsdagen."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-      "localImage": "assets/news/b62da50602ce12.jpg",
-      "score": 22
-    },
-    {
-      "id": "6f815a5772e4f2",
-      "category": "AI",
-      "published": "20.11. 00:33",
-      "publishedISO": "2026-11-20T00:33:51+01:00",
-      "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO",
-      "summary": "Anthropic har blitt et av de mest verdifulle offentlige selskapene i verden etter at aksjene begynte å handles på aksjemarkedet, og tok verdivurderingen til omtrent 1,76 billioner dollar (1,34 trillioner pund). Utbyggingen som skjer rundt denne epoken med kunstig intelligens er blant de dyreste anstrengelsene i teknologihistorien, med mer enn 1 billion dollar som ble brukt det siste året alene av en håndfull store teknologiselskaper. Men mange slike selskaper, inkludert Meta, Amazon og Google, har blitt de største og mest lønnsomme selskapene i verden.",
-      "keyPoints": [
-        "Anthropic har blitt et av de mest verdifulle offentlige selskapene i verden etter at aksjene begynte å handles på aksjemarkedet, og tok verdivurderingen til omtrent 1,76 billioner dollar (1,34 trillioner pund).",
-        "Men mange slike selskaper, inkludert Meta, Amazon og Google, har blitt de største og mest lønnsomme selskapene i verden.",
-        "Utbyggingen som skjer rundt denne epoken med kunstig intelligens er blant de dyreste anstrengelsene i teknologihistorien, med mer enn 1 billion dollar som ble brukt det siste året alene av en håndfull store teknologiselskaper.",
-        "Til tross for selskapets påstander om at teknologien det bygger i et raskt tempo kan være farlig, har Anthropic foretatt en av de raskeste turene fra oppstart til børsnotering i historien."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-      "localImage": "assets/news/6f815a5772e4f2.jpg",
-      "score": 19
+      "score": 17
     },
     {
       "id": "67e6be36dfc85c",
@@ -169,7 +127,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ac37f502-e9b1-323c-949c-c659ace5f374?fit=crop&h=675&upscale=true&w=1200&s=f7ccdf00410668740680f89b07350788ae533aea",
       "localImage": "assets/news/67e6be36dfc85c.jpg",
-      "score": 18
+      "score": 17
+    },
+    {
+      "id": "4127d126c1a997",
+      "category": "Norge",
+      "published": "20.11. 17:56",
+      "publishedISO": "2026-11-20T17:56:15+01:00",
+      "title": "Hopp: «Ingen» så Norge knuse verdenseliten på Lillehammer",
+      "summary": "Norge utklasset konkurrentene under hoppernes sesongåpning på Lillehammer. Gyda Westvold Hansen, Eirin Maria Kvandal, Kristoffer Eriksen Sundal og Marius Lindvik var i en klasse for seg under den blandede lagkonkurransen i storbakken på Lillehammer. Ned til Japan på 2. plass var det hele 61,1 poeng, Østerrike tok tredjeplassen – 118,9 poeng bak Norge.",
+      "keyPoints": [
+        "Norge utklasset konkurrentene under hoppernes sesongåpning på Lillehammer.",
+        "Gyda Westvold Hansen, Eirin Maria Kvandal, Kristoffer Eriksen Sundal og Marius Lindvik var i en klasse for seg under den blandede lagkonkurransen i storbakken på Lillehammer.",
+        "Ned til Japan på 2. plass var det hele 61,1 poeng, Østerrike tok tredjeplassen – 118,9 poeng bak Norge.",
+        "Vi må vise frem at vi også kan lage et arrangement med en publikumsramme, slik at vi viser FIS at når de drar hjem så er de ikke i tvil om at Lillehammer er stedet å være i november hvert år."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/hopp_-_ingen_-sa-norge-knuse-verdenseliten-pa-lillehammer-1.18086088",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/SNpARv2LsmhUsQyHcOMrMwloJ7ABbEyZXzQYiDdh_7ig.jpg",
+      "localImage": "assets/news/4127d126c1a997.jpg",
+      "score": 16
     },
     {
       "id": "d80aac7b8cadeb",
@@ -190,28 +169,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BuT_2YtPaEvOOpR0MYBiVwsYD2-PjTOafoXFZ5ru81fA.jpg",
       "localImage": "assets/news/d80aac7b8cadeb.jpg",
-      "score": 17
+      "score": 16
     },
     {
-      "id": "752907ede4748f",
-      "category": "AI",
-      "published": "20.11. 14:28",
-      "publishedISO": "2026-11-20T14:28:32+01:00",
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "CBS, BBCs amerikanske nyhetspartner, og andre medier rapporterer at White House National Cyber ​​Director Sean Cairncross har fått sparken etter å ha mistet tilliten til Det hvite hus stabssjef Stephen Miller. I den første Trump-administrasjonen var han en del av teamet til stabssjefen i Det hvite hus. Det hvite hus har ikke offentlig bekreftet avgangen eller gitt en grunn til hvorfor Cairncross forlot rollen sin.",
+      "id": "ec883b081acc94",
+      "category": "Økonomi",
+      "published": "19.11. 14:28",
+      "publishedISO": "2026-11-19T14:28:56+01:00",
+      "title": "Anthropic-feber: – Interessen har vært eksepsjonelt stor",
+      "summary": "Interessen er så stor at kundene får færre aksjer enn de har ønsket seg. Nordnet har deltatt i. – Interessen har vært eksepsjonelt stor. Den store interessen har ført til at kundene får tildelt færre aksjer enn de har tegnet seg for. – Alle sparere får minst fem aksjer, forutsatt at de tegnet seg for minst så mange.",
       "keyPoints": [
-        "CBS, BBCs amerikanske nyhetspartner, og andre medier rapporterer at White House National Cyber ​​Director Sean Cairncross har fått sparken etter å ha mistet tilliten til Det hvite hus stabssjef Stephen Miller.",
-        "I den første Trump-administrasjonen var han en del av teamet til stabssjefen i Det hvite hus.",
-        "Det hvite hus har ikke offentlig bekreftet avgangen eller gitt en grunn til hvorfor Cairncross forlot rollen sin.",
-        "Det kommer etter en rekke tekniske utbrudd som rammet bankvesen, lufttrafikkkontroll og andre sektorer."
+        "Nordnet har deltatt i. – Interessen har vært eksepsjonelt stor.",
+        "Interessen er så stor at kundene får færre aksjer enn de har ønsket seg.",
+        "Anthropic har stått høyt på mange spareres ønskeliste, og det har vært en massiv tilstrømning av sparere som ville tegne aksjerÅ melde fra om at man ønsker å kjøpe aksjer før de blir tildelt., med et engasjement som skiller seg tydelig ut fra en vanlig børsnotering, sier spareøkonom Else Sundfør i Nordnet.",
+        "Aksjene er priset til 83 dollar stykket, noe som gir selskapet en prislapp på rundt 1.500 milliarder dollar, tilsvarende 14.500 milliarder kroner."
       ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg",
-      "localImage": "assets/news/752907ede4748f.jpg",
-      "score": 17
+      "url": "https://e24.no/boers-og-finans/i/LoAqXp/anthropic-feber-interessen-har-vaert-eksepsjonelt-stor",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/5a133b1d-d340-3f53-9bce-aa8aecc2223b?fit=crop&h=675&upscale=true&w=1200&s=03a124e9414f143a6b37501c814fcbaf98567f8f",
+      "localImage": "assets/news/ec883b081acc94.jpg",
+      "score": 16
+    },
+    {
+      "id": "f68ad0e8f95a2e",
+      "category": "Økonomi",
+      "published": "20.11. 12:15",
+      "publishedISO": "2026-11-20T12:15:34+01:00",
+      "title": "Normal fortsetter veksten",
+      "summary": "Den danske lavpriskjeden Normal fortsetter å vokse i Norge. I det avvikende regnskapsåret som ble avsluttet 31. juli, omsatte Normal Norge for 5,31 milliarder kroner, opp fra 4,79 milliarder kroner året før. Dermed hadde Normal totalt 213 butikker i Norge ved utgangen av juli.",
+      "keyPoints": [
+        "Den danske lavpriskjeden Normal fortsetter å vokse i Norge.",
+        "I det avvikende regnskapsåret som ble avsluttet 31. juli, omsatte Normal Norge for 5,31 milliarder kroner, opp fra 4,79 milliarder kroner året før.",
+        "Dermed hadde Normal totalt 213 butikker i Norge ved utgangen av juli.",
+        "I forrige regnskapsår økte omsetningen med 17,4 prosent, mens veksten var på 25,6 prosent året før det igjen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/qOLeBo/normal-fortsetter-veksten",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1a0a1290-cd7d-3a12-9e97-6eb2981d7609?fit=crop&h=675&upscale=true&w=1200&s=649981d846b682d74fe4f4d6c8717998f60ff2c1",
+      "localImage": "assets/news/f68ad0e8f95a2e.jpg",
+      "score": 15
     }
   ]
 }
