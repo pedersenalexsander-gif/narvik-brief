@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.11.2026 kl. 00:02",
-  "updatedISO": "2026-11-21T00:02:52.935166+01:00",
+  "updatedAt": "21.11.2026 kl. 05:00",
+  "updatedISO": "2026-11-21T05:00:16.805429+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/YkyD7oIZ54ADlRxt7fowqAfGhTubN9s38lRGnr5uD0ng.jpg",
       "localImage": "assets/news/b1ca58351f771e.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "2e8557053d9ea0",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1da3880a-6a19-31dd-a00a-c787209d62ae?fit=crop&h=675&upscale=true&w=1200&s=4ca9630258ab5fb32e279b5a695b91d20a884b53",
       "localImage": "assets/news/2e8557053d9ea0.jpg",
-      "score": 20
+      "score": 19
     },
     {
       "id": "4744b67fdb8211",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1d55da0d-38ba-37af-a1fb-1c0099e2f1e4?fit=crop&h=675&upscale=true&w=1200&s=bbc01ab77a3d5af737de39fa9ecb0a514a6047cb",
       "localImage": "assets/news/4744b67fdb8211.jpg",
-      "score": 18
+      "score": 17
     },
     {
       "id": "bbf24135aa3ca1",
@@ -85,7 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5db002e4-1fa8-33d2-ba36-fdf8d0f1a370?fit=crop&h=675&upscale=true&w=1200&s=c53acf7b7e904106e57af801fa5e222079df9ff3",
       "localImage": "assets/news/bbf24135aa3ca1.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "4c7d57dd8a0182",
@@ -106,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6698eecb-fa36-3092-9d67-646107a81922?fit=crop&h=675&upscale=true&w=1200&s=9d2fd9f625ef92e1ac103df78dd1bf293e66434d",
       "localImage": "assets/news/4c7d57dd8a0182.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "67e6be36dfc85c",
@@ -127,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/ac37f502-e9b1-323c-949c-c659ace5f374?fit=crop&h=675&upscale=true&w=1200&s=f7ccdf00410668740680f89b07350788ae533aea",
       "localImage": "assets/news/67e6be36dfc85c.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "4127d126c1a997",
@@ -148,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/SNpARv2LsmhUsQyHcOMrMwloJ7ABbEyZXzQYiDdh_7ig.jpg",
       "localImage": "assets/news/4127d126c1a997.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "d80aac7b8cadeb",
@@ -169,7 +169,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/BuT_2YtPaEvOOpR0MYBiVwsYD2-PjTOafoXFZ5ru81fA.jpg",
       "localImage": "assets/news/d80aac7b8cadeb.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "ec883b081acc94",
@@ -190,7 +190,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/5a133b1d-d340-3f53-9bce-aa8aecc2223b?fit=crop&h=675&upscale=true&w=1200&s=03a124e9414f143a6b37501c814fcbaf98567f8f",
       "localImage": "assets/news/ec883b081acc94.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "f68ad0e8f95a2e",
@@ -211,7 +211,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1a0a1290-cd7d-3a12-9e97-6eb2981d7609?fit=crop&h=675&upscale=true&w=1200&s=649981d846b682d74fe4f4d6c8717998f60ff2c1",
       "localImage": "assets/news/f68ad0e8f95a2e.jpg",
-      "score": 15
+      "score": 14
     }
   ]
 }
