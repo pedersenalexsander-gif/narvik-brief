@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.11.2026 kl. 13:27",
-  "updatedISO": "2026-11-21T13:27:06.166890+01:00",
+  "updatedAt": "21.11.2026 kl. 20:40",
+  "updatedISO": "2026-11-21T20:40:32.908511+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/YkyD7oIZ54ADlRxt7fowqAfGhTubN9s38lRGnr5uD0ng.jpg",
       "localImage": "assets/news/b1ca58351f771e.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "af1d2d9a843279",
@@ -43,7 +43,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/682e9f3c-8378-364d-93c9-ba88b73df7b3?fit=crop&h=675&upscale=true&w=1200&s=d5e5f43a5c8b86f3d76f22bfa86f2bf053dbab8e",
       "localImage": "assets/news/af1d2d9a843279.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "2e8557053d9ea0",
@@ -64,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1da3880a-6a19-31dd-a00a-c787209d62ae?fit=crop&h=675&upscale=true&w=1200&s=4ca9630258ab5fb32e279b5a695b91d20a884b53",
       "localImage": "assets/news/2e8557053d9ea0.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "4744b67fdb8211",
@@ -85,132 +85,132 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1d55da0d-38ba-37af-a1fb-1c0099e2f1e4?fit=crop&h=675&upscale=true&w=1200&s=bbc01ab77a3d5af737de39fa9ecb0a514a6047cb",
       "localImage": "assets/news/4744b67fdb8211.jpg",
-      "score": 16
+      "score": 14
     },
     {
-      "id": "4c7d57dd8a0182",
-      "category": "Økonomi",
-      "published": "19.11. 22:46",
-      "publishedISO": "2026-11-19T22:46:15+01:00",
-      "title": "Nordnet etter Anthropic-debut: – Mange tok gevinst",
-      "summary": "Selv etter hoppet fra 83 til 111 dollar, og så ned til 97 dollar, var det altså flere som kjøpte enn som solgte, skriver Else Sundfør, spareøkonom i Nordnet, i en e-post til E24. Mange benyttet seg dermed også av muligheten til å ta gevinst første dag. Den store interessen førte til at kundene fikk tildelt færre aksjer enn de hadde tegnet seg for. – Som distributør kunne vi påvirke minstetildelingen, og alle investorer fikk minst fem aksjer, forutsatt at de tegnet seg for minst så mange.",
-      "keyPoints": [
-        "Selv etter hoppet fra 83 til 111 dollar, og så ned til 97 dollar, var det altså flere som kjøpte enn som solgte, skriver Else Sundfør, spareøkonom i Nordnet, i en e-post til E24.",
-        "Mange benyttet seg dermed også av muligheten til å ta gevinst første dag.",
-        "Den store interessen førte til at kundene fikk tildelt færre aksjer enn de hadde tegnet seg for. – Som distributør kunne vi påvirke minstetildelingen, og alle investorer fikk minst fem aksjer, forutsatt at de tegnet seg for minst så mange.",
-        "Til sammenligning var Nvidia på annenplass med rundt 83 millioner kroner og Equinor på tredje med rundt 66 millioner. – Dagen endte med at norske privatkunder netto kjøpte for omtrent 6,5 millioner kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/1vn8yB/nordnet-etter-anthropic-debut-mange-tok-gevinst",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/6698eecb-fa36-3092-9d67-646107a81922?fit=crop&h=675&upscale=true&w=1200&s=9d2fd9f625ef92e1ac103df78dd1bf293e66434d",
-      "localImage": "assets/news/4c7d57dd8a0182.jpg",
-      "score": 15
-    },
-    {
-      "id": "639707b341da52",
+      "id": "5adfc5f3654b1b",
       "category": "Norge",
-      "published": "20.11. 22:20",
-      "publishedISO": "2026-11-20T22:20:27+01:00",
-      "title": "Ny kreftmedisin kan komme sent til Norge",
-      "summary": "Det brukes milliarder av kroner på å utvikle en ny kreftbehandling med råstoff fra fabrikk i Norge. Thor Medical åpnet nylig sin nye fabrikk i Porsgrunn, der de produserer isotoper, en variant av det radioaktive grunnstoffet Thorium. – Vi har et fantastisk samarbeid med Thor Medical. Administrerende direktør Leif Rune Skymoen frykter derimot at det kan ta lang tid før behandlingen blir tilgjengelig for norske pasienter. – Innovative legemidler tas dessverre i bruk sent i norsk helsetjeneste.",
+      "published": "21.11. 20:36",
+      "publishedISO": "2026-11-21T20:36:40+01:00",
+      "title": "Brage Larsen Sollund er Tromsø Ap sin ordfører­kandidat",
+      "summary": "Brage Larsen Sollund er Tromsø Arbeiderpartis ordførerkandidat. Brage Larsen Sollund er enstemmig valgt som Tromsø Arbeiderpartis ordførerkandidat. Brage Larsen Sollund, her med Marta Hofsøy som er nummer to på Arbeiderpartiets liste for kommunevalget 2027. – Tromsø er verdens beste by.",
       "keyPoints": [
-        "Det brukes milliarder av kroner på å utvikle en ny kreftbehandling med råstoff fra fabrikk i Norge.",
-        "Administrerende direktør Leif Rune Skymoen frykter derimot at det kan ta lang tid før behandlingen blir tilgjengelig for norske pasienter. – Innovative legemidler tas dessverre i bruk sent i norsk helsetjeneste.",
-        "Thor Medical åpnet nylig sin nye fabrikk i Porsgrunn, der de produserer isotoper, en variant av det radioaktive grunnstoffet Thorium. – Vi har et fantastisk samarbeid med Thor Medical.",
-        "Selv om helsenæringen skal være et satsingsområde, mener Legemiddelindustrien at dette ikke følges opp med virkemidler i statsbudsjettet. – Norge er jo et land som kunne vært best i verden til å ta i bruk nye medisiner og behandlinger."
+        "Brage Larsen Sollund, her med Marta Hofsøy som er nummer to på Arbeiderpartiets liste for kommunevalget 2027. – Tromsø er verdens beste by.",
+        "Brage Larsen Sollund er Tromsø Arbeiderpartis ordførerkandidat.",
+        "Sollund har bred politisk erfaring, blant annet som tidligere byråd og gruppeleder for Ap i Tromsø.",
+        "Larsen Sollund mener parlamentarismen er feil medisin. – Nå må vi først og fremst ha en økonomisk omstilling, der vi får kontroll på økonomien, og det er der vi må rette."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/vestfoldogtelemark/ny-kreftmedisin-kan-komme-sent-til-norge-1.18056596",
+      "url": "https://www.nrk.no/tromsogfinnmark/brage-larsen-sollund-er-tromso-ap-sin-ordforerkandidat-1.18086472",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/mof4l94XaAwBP8D48i9quglPf3bHp4bJCCilxaTfKSPA.jpg",
-      "localImage": "assets/news/639707b341da52.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/rP61N_GngyQ-foVUjCgYxg5WFbgUvS4LcUs19OX6g0mg.jpg",
+      "localImage": "assets/news/5adfc5f3654b1b.jpg",
+      "score": 13
     },
     {
-      "id": "bbf24135aa3ca1",
-      "category": "Økonomi",
-      "published": "20.11. 20:28",
-      "publishedISO": "2026-11-20T20:28:44+01:00",
-      "title": "GTA 6 har solgt for 37 milliarder kroner",
-      "summary": "Salget av Grand Theft Auto VI nådde 3,79 milliarder dollar, tilsvarende 37 milliarder kroner, på verdensbasis første dag, ifølge en pressemelding fra Take-Two Interactive. Før lanseringen var det solgt 32,5 millioner eksemplarer av spillet, ifølge selskapet. – Det er med enorm takknemlighet vi går inn i et nytt kapittel av Rockstar Games med utgivelsen av Grand Theft Auto VI, sier Rockstar Games-grunnlegger Sam Houser. Spillet har fått 99 poeng på nettstedet Metacritic, som samler anmeldelser.",
-      "keyPoints": [
-        "Salget av Grand Theft Auto VI nådde 3,79 milliarder dollar, tilsvarende 37 milliarder kroner, på verdensbasis første dag, ifølge en pressemelding fra Take-Two Interactive.",
-        "Før lanseringen var det solgt 32,5 millioner eksemplarer av spillet, ifølge selskapet. – Det er med enorm takknemlighet vi går inn i et nytt kapittel av Rockstar Games med utgivelsen av Grand Theft Auto VI, sier Rockstar Games-grunnlegger Sam Houser.",
-        "Spillet har fått 99 poeng på nettstedet Metacritic, som samler anmeldelser.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/M5R2mK/gta-6-har-solgt-for-37-milliarder-kroner-opplyser-spillets-utgiver",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5db002e4-1fa8-33d2-ba36-fdf8d0f1a370?fit=crop&h=675&upscale=true&w=1200&s=c53acf7b7e904106e57af801fa5e222079df9ff3",
-      "localImage": "assets/news/bbf24135aa3ca1.jpg",
-      "score": 14
-    },
-    {
-      "id": "4127d126c1a997",
+      "id": "b7cc7bc41e731d",
       "category": "Norge",
-      "published": "20.11. 17:56",
-      "publishedISO": "2026-11-20T17:56:15+01:00",
-      "title": "Hopp: «Ingen» så Norge knuse verdenseliten på Lillehammer",
-      "summary": "Norge utklasset konkurrentene under hoppernes sesongåpning på Lillehammer. Gyda Westvold Hansen, Eirin Maria Kvandal, Kristoffer Eriksen Sundal og Marius Lindvik var i en klasse for seg under den blandede lagkonkurransen i storbakken på Lillehammer. Ned til Japan på 2. plass var det hele 61,1 poeng, Østerrike tok tredjeplassen – 118,9 poeng bak Norge.",
+      "published": "21.11. 20:31",
+      "publishedISO": "2026-11-21T20:31:02+01:00",
+      "title": "Politiet mottok flere farevarsler: Startet aldri leteaksjon etter mor og barn",
+      "summary": "Og undersøkt hvorfor de, til tross for flere faresignaler, ikke startet en leteaksjon. – Det er en kjensgjerning at politiet fikk opplysninger fra flere hold denne dagen som skulle tilsagt at det skulle vært satt i gang langt mer omfattende tiltak enn de gjorde. Politiet mener de aldri fikk informasjon som indikerte at mor og barn kunne være i direkte fare. Likevel endret ikke saken status, og politiet startet aldri noen offisiell leteaksjon.",
       "keyPoints": [
-        "Norge utklasset konkurrentene under hoppernes sesongåpning på Lillehammer.",
-        "Gyda Westvold Hansen, Eirin Maria Kvandal, Kristoffer Eriksen Sundal og Marius Lindvik var i en klasse for seg under den blandede lagkonkurransen i storbakken på Lillehammer.",
-        "Ned til Japan på 2. plass var det hele 61,1 poeng, Østerrike tok tredjeplassen – 118,9 poeng bak Norge.",
-        "Vi må vise frem at vi også kan lage et arrangement med en publikumsramme, slik at vi viser FIS at når de drar hjem så er de ikke i tvil om at Lillehammer er stedet å være i november hvert år."
+        "Og undersøkt hvorfor de, til tross for flere faresignaler, ikke startet en leteaksjon. – Det er en kjensgjerning at politiet fikk opplysninger fra flere hold denne dagen som skulle tilsagt at det skulle vært satt i gang langt mer omfattende tiltak enn de gjorde.",
+        "Politiet mener de aldri fikk informasjon som indikerte at mor og barn kunne være i direkte fare.",
+        "Likevel endret ikke saken status, og politiet startet aldri noen offisiell leteaksjon.",
+        "Kommunen forteller politiet om det avtalte hjemmebesøket, og at de er svært bekymret for hva som kan ha skjedd med mor og barn."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/hopp_-_ingen_-sa-norge-knuse-verdenseliten-pa-lillehammer-1.18086088",
+      "url": "https://www.nrk.no/vestfoldogtelemark/xl/dodsfallet-i-brevik-1.18021638",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/SNpARv2LsmhUsQyHcOMrMwloJ7ABbEyZXzQYiDdh_7ig.jpg",
-      "localImage": "assets/news/4127d126c1a997.jpg",
-      "score": 14
+      "image": "https://gfx.nrk.no/LrgckrCY0y_18U5DyJ6jlgvoIVoUXL-4vnQf6UnPI76Q.jpg",
+      "localImage": "assets/news/b7cc7bc41e731d.jpg",
+      "score": 13
     },
     {
-      "id": "67e6be36dfc85c",
-      "category": "Økonomi",
-      "published": "19.11. 21:24",
-      "publishedISO": "2026-11-19T21:24:12+01:00",
-      "title": "Anthropic: Sam Bankman-Fried gikk glipp av 360 milliarder",
-      "summary": "Den svindeldømte kryptogründeren gikk tidlig inn i Anthropic. Bankman-Fried ble dømt til 25 års fengsel, og til inndragning av verdier opp mot 11,2 milliarder dollar, som den gang tilsvarte 121 milliarder kroner. Torsdag gikk Anthropic på børs etter å ha hentet inn penger til 83 dollar per aksje.",
-      "keyPoints": [
-        "Bankman-Fried ble dømt til 25 års fengsel, og til inndragning av verdier opp mot 11,2 milliarder dollar, som den gang tilsvarte 121 milliarder kroner.",
-        "Torsdag gikk Anthropic på børs etter å ha hentet inn penger til 83 dollar per aksje.",
-        "Den svindeldømte kryptogründeren gikk tidlig inn i Anthropic.",
-        "Finansieringsrunden ble «ledet av Sam Bankman-Fried, konsernsjef i FTX», skrev børsdebutanten i en pressemelding den gang."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/g37KdL/anthropic-sam-bankman-fried-gikk-glipp-av-360-milliarder",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ac37f502-e9b1-323c-949c-c659ace5f374?fit=crop&h=675&upscale=true&w=1200&s=f7ccdf00410668740680f89b07350788ae533aea",
-      "localImage": "assets/news/67e6be36dfc85c.jpg",
-      "score": 14
-    },
-    {
-      "id": "e62cc7b34dcfba",
+      "id": "6f96e1fabed437",
       "category": "Norge",
-      "published": "21.11. 13:03",
-      "publishedISO": "2026-11-21T13:03:16+01:00",
-      "title": "Fleire trafikkuhell i Troms",
-      "summary": "Fleire trafikkhendingar har prega politiloggen laurdag. Ifølgje operasjonsleiar Per Arve Aas i Troms politidistrikt skal ulukka ha skjedd i samband med ei forbikøyring, men det skal vere motstridande forklaringar frå sjåførane om kva som har forårsaka samanstøyten. Tidlegare på føremiddagen, klokka 08.59, rykte naudetatane ut til eit trafikkuhell på E6 drygt 1,5 kilometer sør for Fossbakken.",
+      "published": "21.11. 20:27",
+      "publishedISO": "2026-11-21T20:27:21+01:00",
+      "title": "Premier League: Martin Ødegaard med tabbe i Arsenal-smell mot Newcastle",
+      "summary": "Etter en landslagspause av de sjeldne fikk Martin Ødegaard en turbulent retur til Premier League. Målet var langt fra ferdigscoret, men duoen gjorde ingen feil. – Det mest ukarakteristiske av alle er mannen som bommer nærmest på ballen, han heter Martin Ødegaard, kommenterte Viaplay-ekspert Lars Tjærnås. Ødegaards tabbe ga Newcastle nytt liv, og i løpet av bare 13 minutter hadde gjestene snudd kampen på hodet. – Det var bekymringsfullt å se Arsenal kollapse slik de gjorde, i den perioden det sto på, Arsenal-legende Ian Wright hos Sky Sports.",
       "keyPoints": [
-        "Tidlegare på føremiddagen, klokka 08.59, rykte naudetatane ut til eit trafikkuhell på E6 drygt 1,5 kilometer sør for Fossbakken.",
-        "Ifølgje operasjonsleiar Per Arve Aas i Troms politidistrikt skal ulukka ha skjedd i samband med ei forbikøyring, men det skal vere motstridande forklaringar frå sjåførane om kva som har forårsaka samanstøyten.",
-        "Fleire trafikkhendingar har prega politiloggen laurdag.",
-        "Naudetatane rykte like etter klokka 12 ut etter melding om ei trafikkulukke på E6 ved Stormoen i Balsfjord der tre bilar skal vere involverte."
+        "Etter en landslagspause av de sjeldne fikk Martin Ødegaard en turbulent retur til Premier League.",
+        "Ødegaards tabbe ga Newcastle nytt liv, og i løpet av bare 13 minutter hadde gjestene snudd kampen på hodet. – Det var bekymringsfullt å se Arsenal kollapse slik de gjorde, i den perioden det sto på, Arsenal-legende Ian Wright hos Sky Sports.",
+        "Målet var langt fra ferdigscoret, men duoen gjorde ingen feil. – Det mest ukarakteristiske av alle er mannen som bommer nærmest på ballen, han heter Martin Ødegaard, kommenterte Viaplay-ekspert Lars Tjærnås.",
+        "BBC-ekspert Chris Sutton var ikke nådig da Arsenal-kapteinen rotet det til på egen halvdel like etter hvilen i Premier League-oppgjøret mot Newcastle."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/fleire-trafikkuhell-i-troms-1.18086325",
+      "url": "https://www.nrk.no/sport/premier-league_-martin-odegaard-med-tabbe-i-arsenal-smell-mot-newcastle-1.18086459",
       "source": "nrk.no",
-      "image": "https://static.nrk.no/kartoteket/01M7YYG8EDC31XYMEVNJ48QD7K/F169/650w.png",
-      "localImage": "assets/news/e62cc7b34dcfba.png",
+      "image": "https://gfx.nrk.no/oOUtUr-PSABDQfPfBnZyMwl396prKRls1e-GJaeK4V9Q.jpg",
+      "localImage": "assets/news/6f96e1fabed437.jpg",
+      "score": 13
+    },
+    {
+      "id": "b9e1b641cecfab",
+      "category": "Norge",
+      "published": "21.11. 19:21",
+      "publishedISO": "2026-11-21T19:21:42+01:00",
+      "title": "Åge Aleksandersen ble hedret",
+      "summary": "Det var en preget musiker som mottok dekorasjonen fra Hans Majestet Kongen lørdag ettermiddag. – Jeg har ikke rukket å føle så mye på det ennå, men det er en stor ære, og jeg er stolt, sa Åge Aleksandersen like etter at han ble overrakt utmerkelsen lørdag ettermiddag. Åge Aleksandersen viser fram dekorasjonen han ble overrakt på Samfundet i Trondheim lørdag. – Å få et klapp på skuldra og anerkjennelse for det man driver med, er rørende. Åge Aleksandersen sang «Jørgen Hattemaker» i kong Haralds gravferd i Oslo domkirke i september 2026.",
+      "keyPoints": [
+        "Det var en preget musiker som mottok dekorasjonen fra Hans Majestet Kongen lørdag ettermiddag. – Jeg har ikke rukket å føle så mye på det ennå, men det er en stor ære, og jeg er stolt, sa Åge Aleksandersen like etter at han ble overrakt utmerkelsen lørdag ettermiddag.",
+        "Åge Aleksandersen viser fram dekorasjonen han ble overrakt på Samfundet i Trondheim lørdag. – Å få et klapp på skuldra og anerkjennelse for det man driver med, er rørende.",
+        "Åge Aleksandersen sang «Jørgen Hattemaker» i kong Haralds gravferd i Oslo domkirke i september 2026.",
+        "Trondheimsordfører Kent Ranum og Statsforvalter Emil Raaen fikk æren av å gi dekorasjonen til Åge Aleksandersen på Samfundet i Trondheim lørdag."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/artist-age-aleksandersen-ble-hedret-pa-samfundet-for-kongelig-pris-1.18086444",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/Z7Z8sw-xanA_x5M7Ig208Qz385sQDc8ghcGb0pFGjcmw.jpg",
+      "localImage": "assets/news/b9e1b641cecfab.jpg",
+      "score": 13
+    },
+    {
+      "id": "1d3d3b7ccffd83",
+      "category": "Økonomi",
+      "published": "21.11. 17:29",
+      "publishedISO": "2026-11-21T17:29:50+01:00",
+      "title": "– Forventer flere angrep",
+      "summary": "Den siste tiden har flere alvorlige cyberangrep rammet næringslivet i Europa, ikke minst det nylige angrepet mot Equinor og angrepet mot kjøleanlegg i flere europeiske land. – Det er en økende trend. Vi forventer både flere angrep som avverges og som lykkes, sier IT-ekspert Torgeir Waterhouse i rådgivningsselskapet Otte til E24. – Jo mer som er digitalisert, jo mer attraktivt er det å angripe, for vi blir mer og mer avhengige og dermed mer sårbare, sier Waterhouse. Kripos registrerte 349 saker om innbrudd i datasystemer i fjor, men understreker at det er svært få som anmelder slike angrep.",
+      "keyPoints": [
+        "Vi forventer både flere angrep som avverges og som lykkes, sier IT-ekspert Torgeir Waterhouse i rådgivningsselskapet Otte til E24. – Jo mer som er digitalisert, jo mer attraktivt er det å angripe, for vi blir mer og mer avhengige og dermed mer sårbare, sier Waterhouse.",
+        "Den siste tiden har flere alvorlige cyberangrep rammet næringslivet i Europa, ikke minst det nylige angrepet mot Equinor og angrepet mot kjøleanlegg i flere europeiske land. – Det er en økende trend.",
+        "Kripos registrerte 349 saker om innbrudd i datasystemer i fjor, men understreker at det er svært få som anmelder slike angrep.",
+        "Angrep kan for eksempel være å ta ned en nettside, eller at man benytter seg av mer sofistikerte metoder."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/8PmXX2/forventer-flere-angrep",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/18485c89-a037-34dd-be36-803486e11b9d?fit=crop&h=675&upscale=true&w=1200&s=9d471b46a550addaef0b2c7bc94a55d6782fbfee",
+      "localImage": "assets/news/1d3d3b7ccffd83.jpg",
+      "score": 13
+    },
+    {
+      "id": "167a55c5271709",
+      "category": "Norge",
+      "published": "21.11. 17:05",
+      "publishedISO": "2026-11-21T17:05:12+01:00",
+      "title": "Politiet advarer mot glatte veier – flere har kjørt av veien",
+      "summary": "Glatte veier har ført til trafikkulykker flere steder i landet. Politiet i Trøndelag har rykket ut til en rekke trafikkhendelser i løpet av dagen: Levanger: En mann i 80-årene kjørte av veien og havnet ute på en åker. I neste uke ventes det imidlertid kaldere vær i Trøndelag og flere steder i landet, med temperaturer ned mot 11 minusgrader, ifølge Yr. – Det kan fryse på litt rim, noe som kanskje kan bidra til at det ikke blir like glatt som nå, sier Auganæs.",
+      "keyPoints": [
+        "Glatte veier har ført til trafikkulykker flere steder i landet.",
+        "Politiet i Trøndelag har rykket ut til en rekke trafikkhendelser i løpet av dagen: Levanger: En mann i 80-årene kjørte av veien og havnet ute på en åker.",
+        "I neste uke ventes det imidlertid kaldere vær i Trøndelag og flere steder i landet, med temperaturer ned mot 11 minusgrader, ifølge Yr. – Det kan fryse på litt rim, noe som kanskje kan bidra til at det ikke blir like glatt som nå, sier Auganæs.",
+        "Lørdagen har vært preget av krevende kjøreforhold og flere trafikkuhell i både Trøndelag, Møre og Romsdal og Troms og Finnmark. – Fra morgenen av fikk vi en del henvendelser langs fylkesveiene."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/trondelag/politiet-advarer-mot-glatte-veier-_-flere-har-kjort-av-veien-1.18086333",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/99b9fFiwP0X3rvjUuWXdFAKU3IHUUJGtZSZkoON_Mbwg.jpg",
+      "localImage": "assets/news/167a55c5271709.jpg",
       "score": 13
     }
   ]
