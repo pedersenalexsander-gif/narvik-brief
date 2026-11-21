@@ -1,6 +1,6 @@
 {
-  "updatedAt": "21.11.2026 kl. 05:00",
-  "updatedISO": "2026-11-21T05:00:16.805429+01:00",
+  "updatedAt": "21.11.2026 kl. 13:27",
+  "updatedISO": "2026-11-21T13:27:06.166890+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/YkyD7oIZ54ADlRxt7fowqAfGhTubN9s38lRGnr5uD0ng.jpg",
       "localImage": "assets/news/b1ca58351f771e.jpg",
-      "score": 18
+      "score": 16
+    },
+    {
+      "id": "af1d2d9a843279",
+      "category": "Økonomi",
+      "published": "21.11. 07:17",
+      "publishedISO": "2026-11-21T07:17:20+01:00",
+      "title": "Oljefondssjefen om Nvidia-affæren: – Pikant",
+      "summary": "Nicolai Tangen uttaler seg for første gang etter avgangen. – Det har påvirket Oljefondet gjennom at kursen på Nvidia har gått ned. Jensen Huang gikk i forrige uke av som toppsjef i selskapet han var med å starte i 1993. Kina har avvist spionasjeanklagene. – Den er pikantStore norske leksikon definerer pikant som «noe som vekker interesse og nysgjerrighet ved sin uvanlighet eller lignende, noe som er eggende og tiltrekkende, dristig eller våget»., sier Tangen om saken. – Jeg har ikke noe sterkt syn på det som har skjedd de siste ukene.",
+      "keyPoints": [
+        "Kina har avvist spionasjeanklagene. – Den er pikantStore norske leksikon definerer pikant som «noe som vekker interesse og nysgjerrighet ved sin uvanlighet eller lignende, noe som er eggende og tiltrekkende, dristig eller våget»., sier Tangen om saken. – Jeg har ikke noe sterkt syn på det som har skjedd de siste ukene.",
+        "Jensen Huang gikk i forrige uke av som toppsjef i selskapet han var med å starte i 1993.",
+        "Nicolai Tangen uttaler seg for første gang etter avgangen. – Det har påvirket Oljefondet gjennom at kursen på Nvidia har gått ned.",
+        "Jensen Huang måtte nylig gå av som toppsjef for Nvidia etter at han innrømmet utroskap med en spionasjemistenkt kvinne."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/pMLEWj/oljefondssjefen-om-nvidia-affaeren-pikant",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/682e9f3c-8378-364d-93c9-ba88b73df7b3?fit=crop&h=675&upscale=true&w=1200&s=d5e5f43a5c8b86f3d76f22bfa86f2bf053dbab8e",
+      "localImage": "assets/news/af1d2d9a843279.jpg",
+      "score": 19
     },
     {
       "id": "2e8557053d9ea0",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1da3880a-6a19-31dd-a00a-c787209d62ae?fit=crop&h=675&upscale=true&w=1200&s=4ca9630258ab5fb32e279b5a695b91d20a884b53",
       "localImage": "assets/news/2e8557053d9ea0.jpg",
-      "score": 19
+      "score": 17
     },
     {
       "id": "4744b67fdb8211",
@@ -64,27 +85,6 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/1d55da0d-38ba-37af-a1fb-1c0099e2f1e4?fit=crop&h=675&upscale=true&w=1200&s=bbc01ab77a3d5af737de39fa9ecb0a514a6047cb",
       "localImage": "assets/news/4744b67fdb8211.jpg",
-      "score": 17
-    },
-    {
-      "id": "bbf24135aa3ca1",
-      "category": "Økonomi",
-      "published": "20.11. 20:28",
-      "publishedISO": "2026-11-20T20:28:44+01:00",
-      "title": "GTA 6 har solgt for 37 milliarder kroner",
-      "summary": "Salget av Grand Theft Auto VI nådde 3,79 milliarder dollar, tilsvarende 37 milliarder kroner, på verdensbasis første dag, ifølge en pressemelding fra Take-Two Interactive. Før lanseringen var det solgt 32,5 millioner eksemplarer av spillet, ifølge selskapet. – Det er med enorm takknemlighet vi går inn i et nytt kapittel av Rockstar Games med utgivelsen av Grand Theft Auto VI, sier Rockstar Games-grunnlegger Sam Houser. Spillet har fått 99 poeng på nettstedet Metacritic, som samler anmeldelser.",
-      "keyPoints": [
-        "Salget av Grand Theft Auto VI nådde 3,79 milliarder dollar, tilsvarende 37 milliarder kroner, på verdensbasis første dag, ifølge en pressemelding fra Take-Two Interactive.",
-        "Før lanseringen var det solgt 32,5 millioner eksemplarer av spillet, ifølge selskapet. – Det er med enorm takknemlighet vi går inn i et nytt kapittel av Rockstar Games med utgivelsen av Grand Theft Auto VI, sier Rockstar Games-grunnlegger Sam Houser.",
-        "Spillet har fått 99 poeng på nettstedet Metacritic, som samler anmeldelser.",
-        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/M5R2mK/gta-6-har-solgt-for-37-milliarder-kroner-opplyser-spillets-utgiver",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5db002e4-1fa8-33d2-ba36-fdf8d0f1a370?fit=crop&h=675&upscale=true&w=1200&s=c53acf7b7e904106e57af801fa5e222079df9ff3",
-      "localImage": "assets/news/bbf24135aa3ca1.jpg",
       "score": 16
     },
     {
@@ -106,28 +106,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/6698eecb-fa36-3092-9d67-646107a81922?fit=crop&h=675&upscale=true&w=1200&s=9d2fd9f625ef92e1ac103df78dd1bf293e66434d",
       "localImage": "assets/news/4c7d57dd8a0182.jpg",
-      "score": 16
+      "score": 15
     },
     {
-      "id": "67e6be36dfc85c",
-      "category": "Økonomi",
-      "published": "19.11. 21:24",
-      "publishedISO": "2026-11-19T21:24:12+01:00",
-      "title": "Anthropic: Sam Bankman-Fried gikk glipp av 360 milliarder",
-      "summary": "Den svindeldømte kryptogründeren gikk tidlig inn i Anthropic. Bankman-Fried ble dømt til 25 års fengsel, og til inndragning av verdier opp mot 11,2 milliarder dollar, som den gang tilsvarte 121 milliarder kroner. Torsdag gikk Anthropic på børs etter å ha hentet inn penger til 83 dollar per aksje.",
+      "id": "639707b341da52",
+      "category": "Norge",
+      "published": "20.11. 22:20",
+      "publishedISO": "2026-11-20T22:20:27+01:00",
+      "title": "Ny kreftmedisin kan komme sent til Norge",
+      "summary": "Det brukes milliarder av kroner på å utvikle en ny kreftbehandling med råstoff fra fabrikk i Norge. Thor Medical åpnet nylig sin nye fabrikk i Porsgrunn, der de produserer isotoper, en variant av det radioaktive grunnstoffet Thorium. – Vi har et fantastisk samarbeid med Thor Medical. Administrerende direktør Leif Rune Skymoen frykter derimot at det kan ta lang tid før behandlingen blir tilgjengelig for norske pasienter. – Innovative legemidler tas dessverre i bruk sent i norsk helsetjeneste.",
       "keyPoints": [
-        "Bankman-Fried ble dømt til 25 års fengsel, og til inndragning av verdier opp mot 11,2 milliarder dollar, som den gang tilsvarte 121 milliarder kroner.",
-        "Torsdag gikk Anthropic på børs etter å ha hentet inn penger til 83 dollar per aksje.",
-        "Den svindeldømte kryptogründeren gikk tidlig inn i Anthropic.",
-        "Finansieringsrunden ble «ledet av Sam Bankman-Fried, konsernsjef i FTX», skrev børsdebutanten i en pressemelding den gang."
+        "Det brukes milliarder av kroner på å utvikle en ny kreftbehandling med råstoff fra fabrikk i Norge.",
+        "Administrerende direktør Leif Rune Skymoen frykter derimot at det kan ta lang tid før behandlingen blir tilgjengelig for norske pasienter. – Innovative legemidler tas dessverre i bruk sent i norsk helsetjeneste.",
+        "Thor Medical åpnet nylig sin nye fabrikk i Porsgrunn, der de produserer isotoper, en variant av det radioaktive grunnstoffet Thorium. – Vi har et fantastisk samarbeid med Thor Medical.",
+        "Selv om helsenæringen skal være et satsingsområde, mener Legemiddelindustrien at dette ikke følges opp med virkemidler i statsbudsjettet. – Norge er jo et land som kunne vært best i verden til å ta i bruk nye medisiner og behandlinger."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/vestfoldogtelemark/ny-kreftmedisin-kan-komme-sent-til-norge-1.18056596",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/mof4l94XaAwBP8D48i9quglPf3bHp4bJCCilxaTfKSPA.jpg",
+      "localImage": "assets/news/639707b341da52.jpg",
+      "score": 14
+    },
+    {
+      "id": "bbf24135aa3ca1",
+      "category": "Økonomi",
+      "published": "20.11. 20:28",
+      "publishedISO": "2026-11-20T20:28:44+01:00",
+      "title": "GTA 6 har solgt for 37 milliarder kroner",
+      "summary": "Salget av Grand Theft Auto VI nådde 3,79 milliarder dollar, tilsvarende 37 milliarder kroner, på verdensbasis første dag, ifølge en pressemelding fra Take-Two Interactive. Før lanseringen var det solgt 32,5 millioner eksemplarer av spillet, ifølge selskapet. – Det er med enorm takknemlighet vi går inn i et nytt kapittel av Rockstar Games med utgivelsen av Grand Theft Auto VI, sier Rockstar Games-grunnlegger Sam Houser. Spillet har fått 99 poeng på nettstedet Metacritic, som samler anmeldelser.",
+      "keyPoints": [
+        "Salget av Grand Theft Auto VI nådde 3,79 milliarder dollar, tilsvarende 37 milliarder kroner, på verdensbasis første dag, ifølge en pressemelding fra Take-Two Interactive.",
+        "Før lanseringen var det solgt 32,5 millioner eksemplarer av spillet, ifølge selskapet. – Det er med enorm takknemlighet vi går inn i et nytt kapittel av Rockstar Games med utgivelsen av Grand Theft Auto VI, sier Rockstar Games-grunnlegger Sam Houser.",
+        "Spillet har fått 99 poeng på nettstedet Metacritic, som samler anmeldelser.",
+        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/g37KdL/anthropic-sam-bankman-fried-gikk-glipp-av-360-milliarder",
+      "url": "https://e24.no/boers-og-finans/i/M5R2mK/gta-6-har-solgt-for-37-milliarder-kroner-opplyser-spillets-utgiver",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/ac37f502-e9b1-323c-949c-c659ace5f374?fit=crop&h=675&upscale=true&w=1200&s=f7ccdf00410668740680f89b07350788ae533aea",
-      "localImage": "assets/news/67e6be36dfc85c.jpg",
-      "score": 16
+      "image": "https://akamai.vgc.no/v2/images/5db002e4-1fa8-33d2-ba36-fdf8d0f1a370?fit=crop&h=675&upscale=true&w=1200&s=c53acf7b7e904106e57af801fa5e222079df9ff3",
+      "localImage": "assets/news/bbf24135aa3ca1.jpg",
+      "score": 14
     },
     {
       "id": "4127d126c1a997",
@@ -148,70 +169,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/SNpARv2LsmhUsQyHcOMrMwloJ7ABbEyZXzQYiDdh_7ig.jpg",
       "localImage": "assets/news/4127d126c1a997.jpg",
-      "score": 15
+      "score": 14
     },
     {
-      "id": "d80aac7b8cadeb",
-      "category": "Norge",
-      "published": "20.11. 16:03",
-      "publishedISO": "2026-11-20T16:03:37+01:00",
-      "title": "Vurderer ekstraordinære tiltak på ny E6",
-      "summary": "Siden åpningen har flere biler snudd midt i tunneler og kjørt i motsatt kjøreretning – i 110-sonen på E6. I en pressemelding fredag skriver Nye Veier at de ser svært alvorlig på situasjonen og at de vurderer ekstraordinære tiltak. – Flere hendelser på så kort tid er alvorlig. Selv om det heldigvis ikke har skjedd noen ulykker eller personskader, kan det å kjøre mot kjøreretningen på en vei med 110 kilometer i timen få veldig alvorlige konsekvenser, sier direktør Benedichte Limmesand Hellestøl til NRK.",
+      "id": "67e6be36dfc85c",
+      "category": "Økonomi",
+      "published": "19.11. 21:24",
+      "publishedISO": "2026-11-19T21:24:12+01:00",
+      "title": "Anthropic: Sam Bankman-Fried gikk glipp av 360 milliarder",
+      "summary": "Den svindeldømte kryptogründeren gikk tidlig inn i Anthropic. Bankman-Fried ble dømt til 25 års fengsel, og til inndragning av verdier opp mot 11,2 milliarder dollar, som den gang tilsvarte 121 milliarder kroner. Torsdag gikk Anthropic på børs etter å ha hentet inn penger til 83 dollar per aksje.",
       "keyPoints": [
-        "I en pressemelding fredag skriver Nye Veier at de ser svært alvorlig på situasjonen og at de vurderer ekstraordinære tiltak. – Flere hendelser på så kort tid er alvorlig.",
-        "Selv om det heldigvis ikke har skjedd noen ulykker eller personskader, kan det å kjøre mot kjøreretningen på en vei med 110 kilometer i timen få veldig alvorlige konsekvenser, sier direktør Benedichte Limmesand Hellestøl til NRK.",
-        "Siden åpningen har flere biler snudd midt i tunneler og kjørt i motsatt kjøreretning – i 110-sonen på E6.",
-        "Bilen kjører først i riktig kjøreretning, før den snur og havnet mot trafikken i 110-sonen."
+        "Bankman-Fried ble dømt til 25 års fengsel, og til inndragning av verdier opp mot 11,2 milliarder dollar, som den gang tilsvarte 121 milliarder kroner.",
+        "Torsdag gikk Anthropic på børs etter å ha hentet inn penger til 83 dollar per aksje.",
+        "Den svindeldømte kryptogründeren gikk tidlig inn i Anthropic.",
+        "Finansieringsrunden ble «ledet av Sam Bankman-Fried, konsernsjef i FTX», skrev børsdebutanten i en pressemelding den gang."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/g37KdL/anthropic-sam-bankman-fried-gikk-glipp-av-360-milliarder",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/ac37f502-e9b1-323c-949c-c659ace5f374?fit=crop&h=675&upscale=true&w=1200&s=f7ccdf00410668740680f89b07350788ae533aea",
+      "localImage": "assets/news/67e6be36dfc85c.jpg",
+      "score": 14
+    },
+    {
+      "id": "e62cc7b34dcfba",
+      "category": "Norge",
+      "published": "21.11. 13:03",
+      "publishedISO": "2026-11-21T13:03:16+01:00",
+      "title": "Fleire trafikkuhell i Troms",
+      "summary": "Fleire trafikkhendingar har prega politiloggen laurdag. Ifølgje operasjonsleiar Per Arve Aas i Troms politidistrikt skal ulukka ha skjedd i samband med ei forbikøyring, men det skal vere motstridande forklaringar frå sjåførane om kva som har forårsaka samanstøyten. Tidlegare på føremiddagen, klokka 08.59, rykte naudetatane ut til eit trafikkuhell på E6 drygt 1,5 kilometer sør for Fossbakken.",
+      "keyPoints": [
+        "Tidlegare på føremiddagen, klokka 08.59, rykte naudetatane ut til eit trafikkuhell på E6 drygt 1,5 kilometer sør for Fossbakken.",
+        "Ifølgje operasjonsleiar Per Arve Aas i Troms politidistrikt skal ulukka ha skjedd i samband med ei forbikøyring, men det skal vere motstridande forklaringar frå sjåførane om kva som har forårsaka samanstøyten.",
+        "Fleire trafikkhendingar har prega politiloggen laurdag.",
+        "Naudetatane rykte like etter klokka 12 ut etter melding om ei trafikkulukke på E6 ved Stormoen i Balsfjord der tre bilar skal vere involverte."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/trondelag/nye-veier_-ser-svaert-alvorlig-pa-e6-kvithammer-asen-1.18086009",
+      "url": "https://www.nrk.no/tromsogfinnmark/fleire-trafikkuhell-i-troms-1.18086325",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/BuT_2YtPaEvOOpR0MYBiVwsYD2-PjTOafoXFZ5ru81fA.jpg",
-      "localImage": "assets/news/d80aac7b8cadeb.jpg",
-      "score": 15
-    },
-    {
-      "id": "ec883b081acc94",
-      "category": "Økonomi",
-      "published": "19.11. 14:28",
-      "publishedISO": "2026-11-19T14:28:56+01:00",
-      "title": "Anthropic-feber: – Interessen har vært eksepsjonelt stor",
-      "summary": "Interessen er så stor at kundene får færre aksjer enn de har ønsket seg. Nordnet har deltatt i. – Interessen har vært eksepsjonelt stor. Den store interessen har ført til at kundene får tildelt færre aksjer enn de har tegnet seg for. – Alle sparere får minst fem aksjer, forutsatt at de tegnet seg for minst så mange.",
-      "keyPoints": [
-        "Nordnet har deltatt i. – Interessen har vært eksepsjonelt stor.",
-        "Interessen er så stor at kundene får færre aksjer enn de har ønsket seg.",
-        "Anthropic har stått høyt på mange spareres ønskeliste, og det har vært en massiv tilstrømning av sparere som ville tegne aksjerÅ melde fra om at man ønsker å kjøpe aksjer før de blir tildelt., med et engasjement som skiller seg tydelig ut fra en vanlig børsnotering, sier spareøkonom Else Sundfør i Nordnet.",
-        "Aksjene er priset til 83 dollar stykket, noe som gir selskapet en prislapp på rundt 1.500 milliarder dollar, tilsvarende 14.500 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/LoAqXp/anthropic-feber-interessen-har-vaert-eksepsjonelt-stor",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/5a133b1d-d340-3f53-9bce-aa8aecc2223b?fit=crop&h=675&upscale=true&w=1200&s=03a124e9414f143a6b37501c814fcbaf98567f8f",
-      "localImage": "assets/news/ec883b081acc94.jpg",
-      "score": 15
-    },
-    {
-      "id": "f68ad0e8f95a2e",
-      "category": "Økonomi",
-      "published": "20.11. 12:15",
-      "publishedISO": "2026-11-20T12:15:34+01:00",
-      "title": "Normal fortsetter veksten",
-      "summary": "Den danske lavpriskjeden Normal fortsetter å vokse i Norge. I det avvikende regnskapsåret som ble avsluttet 31. juli, omsatte Normal Norge for 5,31 milliarder kroner, opp fra 4,79 milliarder kroner året før. Dermed hadde Normal totalt 213 butikker i Norge ved utgangen av juli.",
-      "keyPoints": [
-        "Den danske lavpriskjeden Normal fortsetter å vokse i Norge.",
-        "I det avvikende regnskapsåret som ble avsluttet 31. juli, omsatte Normal Norge for 5,31 milliarder kroner, opp fra 4,79 milliarder kroner året før.",
-        "Dermed hadde Normal totalt 213 butikker i Norge ved utgangen av juli.",
-        "I forrige regnskapsår økte omsetningen med 17,4 prosent, mens veksten var på 25,6 prosent året før det igjen."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/qOLeBo/normal-fortsetter-veksten",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1a0a1290-cd7d-3a12-9e97-6eb2981d7609?fit=crop&h=675&upscale=true&w=1200&s=649981d846b682d74fe4f4d6c8717998f60ff2c1",
-      "localImage": "assets/news/f68ad0e8f95a2e.jpg",
-      "score": 14
+      "image": "https://static.nrk.no/kartoteket/01M7YYG8EDC31XYMEVNJ48QD7K/F169/650w.png",
+      "localImage": "assets/news/e62cc7b34dcfba.png",
+      "score": 13
     }
   ]
 }
