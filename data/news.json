@@ -1,8 +1,134 @@
 {
-  "updatedAt": "22.11.2026 kl. 06:39",
-  "updatedISO": "2026-11-22T06:39:09.055858+01:00",
+  "updatedAt": "22.11.2026 kl. 14:38",
+  "updatedISO": "2026-11-22T14:38:30.789270+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
+    {
+      "id": "33ddbdb18ed6fa",
+      "category": "Norge",
+      "published": "22.11. 11:30",
+      "publishedISO": "2026-11-22T11:30:56+01:00",
+      "title": "UiT vurderer store endringer – skaper frykt for utarming i Narvik",
+      "summary": "Mikaelsen forteller at brorparten av de omtrent 60 ansatte i bedriften, er utdannet ved UiT i Narvik. – Hvis man får avstand mellom ledelsen og det som skjer, så tror vi at man vil utarme utdanningen i Narvik. Rektor ved UiT Dag Rune Olsen avviser at forslagene omhandler å flytte fakultetsledelsen til Tromsø eller vekk fra Narvik. – Snarere enn å bygge ned, så har vi nå etablert en fireårig bachelorutdanning sammen med Hæren som vil styrke ingeniørutdanninga. Studentleder i Narvik Audun Borg mener forslaget som ligger på bordet er underlig. – Når flere store organisasjoner ser til Narvik, så synes jeg det er underlig å vurdere å flytte deler av aktiviteten ut av Narvik.",
+      "keyPoints": [
+        "Mikaelsen forteller at brorparten av de omtrent 60 ansatte i bedriften, er utdannet ved UiT i Narvik. – Hvis man får avstand mellom ledelsen og det som skjer, så tror vi at man vil utarme utdanningen i Narvik.",
+        "Rektor ved UiT Dag Rune Olsen avviser at forslagene omhandler å flytte fakultetsledelsen til Tromsø eller vekk fra Narvik. – Snarere enn å bygge ned, så har vi nå etablert en fireårig bachelorutdanning sammen med Hæren som vil styrke ingeniørutdanninga.",
+        "Studentleder i Narvik Audun Borg mener forslaget som ligger på bordet er underlig. – Når flere store organisasjoner ser til Narvik, så synes jeg det er underlig å vurdere å flytte deler av aktiviteten ut av Narvik.",
+        "I en felles uttalelse til rektor og styret ved UiT krever kommunen at ledelsen forblir i Narvik. – Narvik har befestet seg som teknologibyen i nord. – Det sterke og gode miljøet som er her i Narvik bør bevares og styrkes også ledelsesmessig."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/nordland/uit-vurderer-store-endringer-_-skaper-frykt-for-utarming-i-narvik-1.18084775",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/CxTjMw7ykiFNFemxBvHBOA8QP5wrlzMgl03n0ydo1-vA.jpg",
+      "localImage": "assets/news/33ddbdb18ed6fa.jpg",
+      "score": 20
+    },
+    {
+      "id": "7f6b3b31dcefca",
+      "category": "Verden",
+      "published": "22.11. 10:20",
+      "publishedISO": "2026-11-22T10:20:45+01:00",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "Hvordan Sør-Korea takler juks på opptaksprøven sin Sør-Koreas utdanningsminister Choi Kyo-jin har trukket seg på grunn av en eksamensjuksskandale som sjokkerte nasjonen. Sørkoreanske videregående skoleelever i Daegu sjekker svarene sine, en dag etter den årlige opptaksprøven på høyskolen «Som ansvarlig minister tror jeg at jeg ikke kan unnslippe kritikken om at vi ikke klarte å forberede oss på forhånd», ble Choi sitert på søndag av Sør-Koreas nyhetsbyrå Yonhaps. \"Nå som eksamen er avsluttet, føler jeg en dyp ansvarsfølelse og tilbyr min avgang,\" la ministeren til. Sør-Korea fanger 111 studenter med nye tiltak mot eksamensjuks Sør-Koreas toppscorer i skatteregnskapseksamen innrømmer fusk",
+      "keyPoints": [
+        "Hvordan Sør-Korea takler juks på opptaksprøven sin Sør-Koreas utdanningsminister Choi Kyo-jin har trukket seg på grunn av en eksamensjuksskandale som sjokkerte nasjonen.",
+        "Sørkoreanske videregående skoleelever i Daegu sjekker svarene sine, en dag etter den årlige opptaksprøven på høyskolen «Som ansvarlig minister tror jeg at jeg ikke kan unnslippe kritikken om at vi ikke klarte å forberede oss på forhånd», ble Choi sitert på søndag av Sør-Koreas nyhetsbyrå Yonhaps. \"Nå som eksamen er avsluttet, føler jeg en dyp ansvarsfølelse og tilbyr min avgang,\" la ministeren til.",
+        "Sør-Korea fanger 111 studenter med nye tiltak mot eksamensjuks Sør-Koreas toppscorer i skatteregnskapseksamen innrømmer fusk",
+        "Det var første gang Sør-Korea brukte sitt nasjonale katastrofevarslingssystem for å fange eksamensjuksere."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/dc28/live/9c42c760-e66a-11f1-99b6-a35a62fa4264.jpg",
+      "localImage": "assets/news/7f6b3b31dcefca.jpg",
+      "score": 13
+    },
+    {
+      "id": "71539cea59b524",
+      "category": "Økonomi",
+      "published": "22.11. 10:22",
+      "publishedISO": "2026-11-22T10:22:47+01:00",
+      "title": "Kåre Willoch: Mannen eller tiden?",
+      "summary": "Kåre Willoch blir gjerne sett som en av etterkrigstidens viktige statsministre. Historieprofessor Einar Lie har skrevet en biografi om Høyres statsminister fra 1981-86, mannen som ledet moderniseringen under høyrebølgen. Kåre Willoch – offentlig og privat forteller om en av etterkrigstidens mest markante skikkelser.",
+      "keyPoints": [
+        "Kåre Willoch – offentlig og privat forteller om en av etterkrigstidens mest markante skikkelser.",
+        "Kåre Willoch blir gjerne sett som en av etterkrigstidens viktige statsministre.",
+        "Historieprofessor Einar Lie har skrevet en biografi om Høyres statsminister fra 1981-86, mannen som ledet moderniseringen under høyrebølgen.",
+        "I samtale med politisk redaktør Torbjørn Røe Isaksen snakker de om Willoch som politiker, høyrebølgen som fenomen og et vinvalg som sier mye om biografiobjektet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/norsk-oekonomi/i/EbW9Qo/kaare-willoch-mannen-eller-tiden",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/3fdaed49-818a-3a2a-8ff4-6983acb5f105?fit=crop&h=675&upscale=true&w=1200&s=7daf1fea7e5175ba68f127595f4bda1bc9520ab5",
+      "localImage": "assets/news/71539cea59b524.jpg",
+      "score": 17
+    },
+    {
+      "id": "5b36f17d80ded6",
+      "category": "Økonomi",
+      "published": "22.11. 09:49",
+      "publishedISO": "2026-11-22T09:49:47+01:00",
+      "title": "Vil avskilte Perx-advokat: – Grov svikt",
+      "summary": "Advokattilsynet mener han har begått så alvorlige brudd at han ikke er egnet til å være advokat. Han sier han vil ta saken til retten hvis han ikke vinner frem med klagen. – Jeg er fortsatt advokat og arbeider fortsatt full tid med å få lån tilbakebetalt. Etter Advokattilsynets vurdering innebar dette en grov svikt i Gjerstads profesjonelle dømmekraft og i hans forståelse av advokatens rolle som selvstendig kontroll- og tillitsperson», heter det.",
+      "keyPoints": [
+        "Etter Advokattilsynets vurdering innebar dette en grov svikt i Gjerstads profesjonelle dømmekraft og i hans forståelse av advokatens rolle som selvstendig kontroll- og tillitsperson», heter det.",
+        "Advokattilsynet mener han har begått så alvorlige brudd at han ikke er egnet til å være advokat.",
+        "Han sier han vil ta saken til retten hvis han ikke vinner frem med klagen. – Jeg er fortsatt advokat og arbeider fortsatt full tid med å få lån tilbakebetalt.",
+        "Nå har Advokattilsynet vedtatt å tilbakekalle Gjerstads advokatbevilling, blant annet på grunn av arbeidet for Perx. «Advokaten har begått omfattende brudd på profesjonelle plikter og tillitstapet er derfor betydelig», skriver tilsynet."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/naeringsliv/i/XowVlr/vil-avskilte-perx-advokat-grov-svikt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/2bdb2798-6476-3a9d-a68d-1c3e65501c79?fit=crop&h=675&upscale=true&w=1200&s=fddc5a1a041d1d30763b67ced09b84efb31b7750",
+      "localImage": "assets/news/5b36f17d80ded6.jpg",
+      "score": 17
+    },
+    {
+      "id": "d36b37f71eae54",
+      "category": "AI",
+      "published": "20.11. 23:42",
+      "publishedISO": "2026-11-20T23:42:47+01:00",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary": "Anthropics aksjer har falt tilbake mot utgangskursen etter en skyhøy første dag på aksjemarkedet, ettersom et større teknologisalg trakk markedene ned. Til tross for en positiv første handelsdag, falt Anthropics aksjer på fredag, og falt på et tidspunkt med mer enn 12 % til rundt 85 dollar, nær børskursen på 83 dollar. Sør-Koreas Kospi og japanske Nikkei 225-indekser stengte rundt 5 %, med aksjer i minnebrikkeprodusentene Sk Hynix, Kioxia og Tokyo Electron, og andre teknologifirmaer som Samsung Electronics, som så tap.",
+      "keyPoints": [
+        "Anthropics aksjer har falt tilbake mot utgangskursen etter en skyhøy første dag på aksjemarkedet, ettersom et større teknologisalg trakk markedene ned.",
+        "Sør-Koreas Kospi og japanske Nikkei 225-indekser stengte rundt 5 %, med aksjer i minnebrikkeprodusentene Sk Hynix, Kioxia og Tokyo Electron, og andre teknologifirmaer som Samsung Electronics, som så tap.",
+        "Despite a positive first day of trading, Anthropic's shares fell on Friday, dropping at one point by more than 12% to about $85, close to its initial public offering (IPO) price of $83.",
+        "Europe's main stock markets - which contain fewer tech stocks - also took a hit."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+      "localImage": "assets/news/d36b37f71eae54.jpg",
+      "score": 15
+    },
+    {
+      "id": "4dc886a7d720e3",
+      "category": "Norge",
+      "published": "22.11. 10:17",
+      "publishedISO": "2026-11-22T10:17:46+01:00",
+      "title": "Sjømannsforbundet frykter regjeringen vil svekke Kystruten",
+      "summary": "Sjømannsforbundet frykter at endringene kan bli første steg mot en gradvis svekkelse av tilbudet mellom Bergen og Kirkenes. Forslaget fra regjeringen har møtt kraftig motstand fra Havila Kystruten, Norsk Sjømannsforbund og flere opposisjonspolitikere. Stian Grøthe i Norsk Sjømannsforbund frykter at kortere kontraktsperioder vil svekke rederienes vilje til å investere i ny tonnasje. – Både Hurtigruten og Havila har investert milliardbeløp i moderne skip og ny miljøteknologi.",
+      "keyPoints": [
+        "Sjømannsforbundet frykter at endringene kan bli første steg mot en gradvis svekkelse av tilbudet mellom Bergen og Kirkenes.",
+        "Forslaget fra regjeringen har møtt kraftig motstand fra Havila Kystruten, Norsk Sjømannsforbund og flere opposisjonspolitikere.",
+        "Stian Grøthe i Norsk Sjømannsforbund frykter at kortere kontraktsperioder vil svekke rederienes vilje til å investere i ny tonnasje. – Både Hurtigruten og Havila har investert milliardbeløp i moderne skip og ny miljøteknologi.",
+        "Hver dag anløper skip fra Hurtigruten og Havila 34 havner mellom Bergen og Kirkenes, på strekningen som samlet kalles Kystruten."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/tromsogfinnmark/sjomannsforbundet-frykter-regjeringen-vil-svekke-kystruten-1.18086256",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/_RZtOFbBZBwyDrlPn2FUowQ9WTKqqn19y6WucJjIO_zw.jpg",
+      "localImage": "assets/news/4dc886a7d720e3.jpg",
+      "score": 17
+    },
     {
       "id": "6bd9d730c5c143",
       "category": "Norge",
@@ -22,7 +148,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/WiydKYdp20_RVVZ8O6MBfgB1aA-INfrWshY-PrdxYHsQ.jpg",
       "localImage": "assets/news/6bd9d730c5c143.jpg",
-      "score": 16
+      "score": 15
     },
     {
       "id": "af1d2d9a843279",
@@ -43,91 +169,49 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/682e9f3c-8378-364d-93c9-ba88b73df7b3?fit=crop&h=675&upscale=true&w=1200&s=d5e5f43a5c8b86f3d76f22bfa86f2bf053dbab8e",
       "localImage": "assets/news/af1d2d9a843279.jpg",
-      "score": 16
-    },
-    {
-      "id": "2e8557053d9ea0",
-      "category": "Økonomi",
-      "published": "20.11. 20:25",
-      "publishedISO": "2026-11-20T20:25:58+01:00",
-      "title": "Nvidia-aksjen stupte etter rykter om etterforskning",
-      "summary": "Siden toppen 6. oktober har 26.800 milliarder kroner forduftet. Nvidia-aksjen stuper på Wall Street fredag kveld og nedgangen tiltar etter Reuters-meldingen. Fredag kveld har Oljefondet en samlet verdi på 20.900 milliarder kroner, ifølge fondets uoffisielle telleverk.",
-      "keyPoints": [
-        "Nvidia-aksjen stuper på Wall Street fredag kveld og nedgangen tiltar etter Reuters-meldingen.",
-        "Fredag kveld har Oljefondet en samlet verdi på 20.900 milliarder kroner, ifølge fondets uoffisielle telleverk.",
-        "Siden toppen 6. oktober har 26.800 milliarder kroner forduftet.",
-        "Det innebærer at 2.740 milliarder dollar i papirverdier er blåst bort, tilsvarende 26.800 milliarder kroner."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/7P0Myw/reuters-usas-finanstilsyn-gransker-nvidias-regnskapspaksis",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/1da3880a-6a19-31dd-a00a-c787209d62ae?fit=crop&h=675&upscale=true&w=1200&s=4ca9630258ab5fb32e279b5a695b91d20a884b53",
-      "localImage": "assets/news/2e8557053d9ea0.jpg",
       "score": 14
     },
     {
-      "id": "860af5a7902bdd",
+      "id": "2249c117ad6aaa",
       "category": "Økonomi",
-      "published": "22.11. 05:00",
-      "publishedISO": "2026-11-22T05:00:00+01:00",
-      "title": "Tove ble svindlet: – Skulle gjerne kaste møkk på dem",
-      "summary": "I andre enden var en mann som sa han ringte fra Sparebank 1. – Det var en veldig hyggelig mann, norskpratende, forteller Tove (79) til E24. – «Jeg ser du prøver å låne penger», sa han. Nei, sa jeg, jeg skal ikke ha noe lån. «Er det sant?» sa han. «Det må vi stoppe med én gang!» Den eldre kvinnen ble satt over til noen som skulle oppklare misforståelsen og stanse lånesøknaden. Året før Tove Halvorsen ble svindlet, hadde svenske etterforskere allerede sett millioner av norske kroner strømme inn på kontoer de hadde under oppsyn.",
+      "published": "22.11. 14:20",
+      "publishedISO": "2026-11-22T14:20:09+01:00",
+      "title": "Hvordan imponere om AI på jobbintervju?",
+      "summary": "Hva forventer arbeidsgivere av AI-kompetanse nå, og hvordan kan man overbevise om at man henger med? Hodejeger og partner i Skill Rekruttering med nesten 20 års erfaring innenfor rekruttering. Psykolog Emil Mogård og hodejeger Kathrine Evenmo Ervik svarer på spørsmål fra E24s lesere om karriere, arbeidsliv og balansen mellom jobben og livet.",
       "keyPoints": [
-        "I andre enden var en mann som sa han ringte fra Sparebank 1. – Det var en veldig hyggelig mann, norskpratende, forteller Tove (79) til E24. – «Jeg ser du prøver å låne penger», sa han.",
-        "Året før Tove Halvorsen ble svindlet, hadde svenske etterforskere allerede sett millioner av norske kroner strømme inn på kontoer de hadde under oppsyn.",
-        "Nei, sa jeg, jeg skal ikke ha noe lån. «Er det sant?» sa han. «Det må vi stoppe med én gang!» Den eldre kvinnen ble satt over til noen som skulle oppklare misforståelsen og stanse lånesøknaden.",
-        "Like før pinse for seks år siden ringte telefonen til Tove Halvorsen."
+        "Hva forventer arbeidsgivere av AI-kompetanse nå, og hvordan kan man overbevise om at man henger med?",
+        "Hodejeger og partner i Skill Rekruttering med nesten 20 års erfaring innenfor rekruttering.",
+        "Psykolog Emil Mogård og hodejeger Kathrine Evenmo Ervik svarer på spørsmål fra E24s lesere om karriere, arbeidsliv og balansen mellom jobben og livet.",
+        "De fleste kurser er 15 minutter forsinket (abonnenter kan aktivere sanntidskurser for Oslo Børs)."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://e24.no/norsk-oekonomi/i/K8r8BE/tove-ble-svindlet-skulle-gjerne-kaste-moekk-paa-dem",
+      "url": "https://e24.no/karriere-og-ledelse/i/wdPJjM/hvordan-imponere-om-ai-paa-jobbintervju",
       "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/0a182a7a-a578-3c1b-91cb-9a691e9fbc69?fit=crop&h=675&upscale=true&w=1200&s=a20de99d9a582829c5f13eb28e513c275c358161",
-      "localImage": "assets/news/860af5a7902bdd.jpg",
+      "image": "https://akamai.vgc.no/v2/images/e78cdb1b-9c07-3b3b-a3aa-df1f09914c45?fit=crop&h=675&upscale=true&w=1200&s=e6e922f5dc255f012df1bfa926875f124731e979",
+      "localImage": "assets/news/2249c117ad6aaa.jpg",
       "score": 13
     },
     {
-      "id": "b1ca58351f771e",
+      "id": "6da9f049cf42da",
       "category": "Norge",
-      "published": "19.11. 10:00",
-      "publishedISO": "2026-11-19T10:00:01+01:00",
-      "title": "Norges Bank med ny forventningsundersøkelse: Stangeland Maskin frykter inflasjonen ikke vil bremse",
-      "summary": "Jeg frykter at inflasjonen ikke kommer til å bremse, uttrykker Stangeland fra arbeidsplassen i Sola kommune. Prisveksten har i flere år ligget over målet på 2 prosent, og Norges Bank tror ikke den kommer ned til dette nivået igjen før i 2029. Det fører til at bedriftene skrur opp prisene på varer og tjenester. – Norges Bank ønsker å få inflasjonen ned.",
+      "published": "22.11. 14:19",
+      "publishedISO": "2026-11-22T14:19:38+01:00",
+      "title": "Timon Haugan vant i Gurgl - McGrath kastet stavene i frustrasjon",
+      "summary": "Timon Haugan leverte med presset som leder etter første omgang og kjørte inn til seier på slalåmen i Gurgl. I frustrasjon kastet han stavene og ble liggende ved siden av løypa. Strøm hoppet 131 og 132,5 meter og vant med 251,3 poeng, 10,9 poeng foran Kvandal.",
       "keyPoints": [
-        "Jeg frykter at inflasjonen ikke kommer til å bremse, uttrykker Stangeland fra arbeidsplassen i Sola kommune.",
-        "Prisveksten har i flere år ligget over målet på 2 prosent, og Norges Bank tror ikke den kommer ned til dette nivået igjen før i 2029.",
-        "Det fører til at bedriftene skrur opp prisene på varer og tjenester. – Norges Bank ønsker å få inflasjonen ned.",
-        "Folk og bedrifter tror prisveksten vil bli langt høyere enn det Norges Bank spår."
+        "Timon Haugan leverte med presset som leder etter første omgang og kjørte inn til seier på slalåmen i Gurgl.",
+        "I frustrasjon kastet han stavene og ble liggende ved siden av løypa.",
+        "Strøm hoppet 131 og 132,5 meter og vant med 251,3 poeng, 10,9 poeng foran Kvandal.",
+        "Ingvild Synnøve Midtskogen vant kvalifiseringen i storbakken på Lillehammer etter et hopp på 126,5 meter."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/norges-bank-med-ny-forventningsundersokelse_-stangeland-maskin-frykter-inflasjonen-ikke-vil-bremse-1.18084262",
+      "url": "https://www.nrk.no/sport/timon-haugan-vant-i-gurgl---mcgrath-kastet-stavene-i-frustrasjon-1.18086663",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/YkyD7oIZ54ADlRxt7fowqAfGhTubN9s38lRGnr5uD0ng.jpg",
-      "localImage": "assets/news/b1ca58351f771e.jpg",
+      "image": "https://gfx.nrk.no/wZ8z34X9qszT1kMdPp0CWQ9k7NvjOISSoigEdtEV8VRA.jpg",
+      "localImage": "assets/news/6da9f049cf42da.webp",
       "score": 13
-    },
-    {
-      "id": "f83cefa6815e9e",
-      "category": "Norge",
-      "published": "21.11. 22:08",
-      "publishedISO": "2026-11-21T22:08:15+01:00",
-      "title": "Nettselskapet Fagne med tabbe som ramma 70 heimar og bygningar i Tysvær",
-      "summary": "Elektrisk utstyr for fleire millionar kroner blei øydelagt etter at nettselskapet Fagne ved ein feil sende 400 volt ut på straumnettet. 15. september blei nærare 70 hus, hytter og landbruksbygg i Skjoldastraumen i Tysvær ramma. Nettselskapet Fagne skal ha sendt ut rundt 400 volt på straumnettet i ein periode på sju minutt, noko som førte til omfattande øydeleggingar på elektriske installasjonar og utstyr.",
-      "keyPoints": [
-        "Elektrisk utstyr for fleire millionar kroner blei øydelagt etter at nettselskapet Fagne ved ein feil sende 400 volt ut på straumnettet.",
-        "Nettselskapet Fagne skal ha sendt ut rundt 400 volt på straumnettet i ein periode på sju minutt, noko som førte til omfattande øydeleggingar på elektriske installasjonar og utstyr.",
-        "15. september blei nærare 70 hus, hytter og landbruksbygg i Skjoldastraumen i Tysvær ramma.",
-        "Dette er informasjonen dei ramma bebuarane fekk frå Fagne etter hendinga: Hei."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/nettselskapet-fagne-med-tabbe-som-ramma-70-heimar-og-bygningar-i-tysvaer-1.18083258",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/haMPYMTLJaPU34p1kup_Qg76QyKnteRjaHqPMTcyPmyg.jpg",
-      "localImage": "assets/news/f83cefa6815e9e.jpg",
-      "score": 12
     }
   ]
 }
