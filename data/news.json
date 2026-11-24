@@ -1,28 +1,49 @@
 {
-  "updatedAt": "24.11.2026 kl. 06:27",
-  "updatedISO": "2026-11-24T06:27:56.865327+01:00",
+  "updatedAt": "24.11.2026 kl. 17:13",
+  "updatedISO": "2026-11-24T17:13:07.543178+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "74cf3e0e3f136c",
+      "id": "5d5f87c460a649",
       "category": "Norge",
-      "published": "23.11. 19:13",
-      "publishedISO": "2026-11-23T19:13:50+01:00",
-      "title": "Kan få sin tørreste november på 60 år",
-      "summary": "De første 23 dagene av november har det bare kommet knappe 2 millimeter med nedbør på meteorologenes målestasjonen på Nelaug i Åmli. – Det ser ut til å være den laveste verdien på i hvert fall 60 år, sier statsmeteorolog Terje Alsvik Walløe. I november 2000 hadde målestasjonen sin høyeste nedbørsmengde. – Det sier noe om hvor stor forskjell det kan være på nedbør i løpet av en måned, sier Walløe. Særlig øst i Agder har nedbøren vært minimalt. – Årets november kan nok bli blant de tørreste som er registrert, sier Walløe.",
+      "published": "24.11. 16:55",
+      "publishedISO": "2026-11-24T16:55:22+01:00",
+      "title": "Mesterligaen: Viking møter pressen før Atlético Madrid-kampen",
+      "summary": "Viking holder sin pressekonferanse i Madrid klokka 17, og gjennomfører klokka 17.30 en lett treningsøkt på Atlético Madrids hjemmebane. Viking møter den spanske hovedstadsklubben, med landslagsspiss Alexander Sørloth, onsdag kveld klokka 21 i den femte runden i ligaspillet i Mesterligaen. Atlético Madrid kommer fra 0–2-tap mot Bayern München i forrige runde, mens Viking tok klubbens aller første seier i Mesterligaen da de banket aserbajdsjanske Sabah 4–1 i Stavanger.",
       "keyPoints": [
-        "Særlig øst i Agder har nedbøren vært minimalt. – Årets november kan nok bli blant de tørreste som er registrert, sier Walløe.",
-        "De første 23 dagene av november har det bare kommet knappe 2 millimeter med nedbør på meteorologenes målestasjonen på Nelaug i Åmli. – Det ser ut til å være den laveste verdien på i hvert fall 60 år, sier statsmeteorolog Terje Alsvik Walløe.",
-        "I november 2000 hadde målestasjonen sin høyeste nedbørsmengde. – Det sier noe om hvor stor forskjell det kan være på nedbør i løpet av en måned, sier Walløe.",
-        "Ifølge meteorologen har det vært lite nedbør over hele Agder i november. – Alle målestasjoner ligger langt under normalen."
+        "Atlético Madrid kommer fra 0–2-tap mot Bayern München i forrige runde, mens Viking tok klubbens aller første seier i Mesterligaen da de banket aserbajdsjanske Sabah 4–1 i Stavanger.",
+        "Viking holder sin pressekonferanse i Madrid klokka 17, og gjennomfører klokka 17.30 en lett treningsøkt på Atlético Madrids hjemmebane.",
+        "Viking møter den spanske hovedstadsklubben, med landslagsspiss Alexander Sørloth, onsdag kveld klokka 21 i den femte runden i ligaspillet i Mesterligaen.",
+        "Men tirsdag morgen tok han et av Vikings fly fra Sola til den spanske hovedstaden. – Jeg er frisk og klar for kamp, sa Christiansen til NRK på flyplassen Både den spanske toppklubben og Viking står med fire poeng, en seier og en uavgjort, etter de fire første rundene i ligaspillet i Mesterligaen."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/kan-fa-sin-torreste-november-pa-60-ar-1.18086902",
+      "url": "https://www.nrk.no/rogaland/mesterligaen_-viking-moter-pressen-for-atletico-madrid-kampen-1.18086941",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/_9RljWQul6gveaXJ0EgY0wjfdMloXelOkiv0xyPg8h1g.jpg",
-      "localImage": "assets/news/74cf3e0e3f136c.jpg",
-      "score": 15
+      "image": "https://gfx.nrk.no/x-dywIgcgoG2sRRL_1aoLAt5317EddiiZ6ma30jCqb5A",
+      "localImage": "assets/news/5d5f87c460a649.jpg",
+      "score": 13
+    },
+    {
+      "id": "a07ef4306c8421",
+      "category": "Økonomi",
+      "published": "24.11. 10:03",
+      "publishedISO": "2026-11-24T10:03:48+01:00",
+      "title": "Nvidia faller etter rakettferden",
+      "summary": "Nvidia-aksjen faller over syv prosent litt over en time etter åpning på Wall Street tirsdag. Nvidia lager databrikker som blant annet brukes til kunstig intelligens (AI), og er ett av verdens mest verdifulle selskaper. Aksjen til AI-giganten steg hele 31,5 prosent i går, etter nyheten om at Jensen Huang kommer tilbake som toppsjef i Nvidia.",
+      "keyPoints": [
+        "Aksjen til AI-giganten steg hele 31,5 prosent i går, etter nyheten om at Jensen Huang kommer tilbake som toppsjef i Nvidia.",
+        "Nvidia-aksjen faller over syv prosent litt over en time etter åpning på Wall Street tirsdag.",
+        "Nvidia lager databrikker som blant annet brukes til kunstig intelligens (AI), og er ett av verdens mest verdifulle selskaper.",
+        "Jensen Huang var med å starte Nvidia i 1993, og har vært toppsjef helt frem til den kortvarige avgangen for snaut to uker siden."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Pv9ljJ/nvidia-aksjen-faller-4-prosent-i-foerhandelen-etter-rakettferden",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/7b6168f7-c5c4-319b-813a-ac52eaa9dfea?fit=crop&h=675&upscale=true&w=1200&s=b5265a01d328c2f490a8337322cd138bc07bf497",
+      "localImage": "assets/news/a07ef4306c8421.jpg",
+      "score": 22
     },
     {
       "id": "8e7f164a61815d",
@@ -43,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/24f2a207-8983-3705-81c1-748861f8b65a?fit=crop&h=675&upscale=true&w=1200&s=f070d8a01b294a5d87c99e9b5dc92dc1782e6fa3",
       "localImage": "assets/news/8e7f164a61815d.jpg",
-      "score": 21
+      "score": 19
     },
     {
       "id": "3103dff4251821",
@@ -64,7 +85,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eff8a1c6-10ee-31f6-8dcb-26849a499cef?fit=crop&h=675&upscale=true&w=1200&s=f7514dc82efa3565d216fda6ba90efab867ce170",
       "localImage": "assets/news/3103dff4251821.jpg",
-      "score": 20
+      "score": 18
+    },
+    {
+      "id": "6c9c86a9ae0cb9",
+      "category": "Økonomi",
+      "published": "24.11. 09:01",
+      "publishedISO": "2026-11-24T09:01:23+01:00",
+      "title": "Tomra falt kraftig på Oslo Børs",
+      "summary": "Panteselskapet falt kraftig etter å ha jekket ned forventningene. Hovedindeksen på Oslo Børs er ned 0,87 prosent ved stengetid klokken 16.30. Andre store utslag var blant andre Nordic Semiconductor, som falt 6,67 prosent, og Hunter Group som steg 7,07 prosent.",
+      "keyPoints": [
+        "Hovedindeksen på Oslo Børs er ned 0,87 prosent ved stengetid klokken 16.30.",
+        "Panteselskapet falt kraftig etter å ha jekket ned forventningene.",
+        "Andre store utslag var blant andre Nordic Semiconductor, som falt 6,67 prosent, og Hunter Group som steg 7,07 prosent.",
+        "Panteselskapet Tomra sikter mot en driftsmargin før avskrivninger (ebita) på 16–18 prosent i 2030–2032, opplyser selskapet i forbindelse med sin kapitalmarkedsdag."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/3BJ8jX/tomra-faller-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/237decec-7de2-33bc-8f18-8ed8ab851e90?fit=crop&h=675&upscale=true&w=1200&s=6c13e69d525bc06aa20b8ec5f78f010c2fe61fad",
+      "localImage": "assets/news/6c9c86a9ae0cb9.jpg",
+      "score": 16
     },
     {
       "id": "1eb77ef35ebad6",
@@ -85,7 +127,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b7f8923c-52ae-3c9a-a773-62ac6521a8c8?fit=crop&h=675&upscale=true&w=1200&s=5c8e08490686f5a1683a619f66325590aefbbd7e",
       "localImage": "assets/news/1eb77ef35ebad6.jpg",
-      "score": 18
+      "score": 16
     },
     {
       "id": "3f1b4b2309a682",
@@ -106,7 +148,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a0a7fa95-8808-3c48-8ab0-abfab5b1ef51?fit=crop&h=675&upscale=true&w=1200&s=fd5f63bd3023bbf7801603360d74040725177663",
       "localImage": "assets/news/3f1b4b2309a682.jpg",
-      "score": 17
+      "score": 15
     },
     {
       "id": "7614b62b28d93e",
@@ -114,12 +156,12 @@
       "published": "24.11. 04:47",
       "publishedISO": "2026-11-24T04:47:20+01:00",
       "title": "Aksjefest i Asia",
-      "summary": "Oppgangen i Taiwan ledes an av brikkeselskapene TSMC og Hon Hai Precision som stiger nær 10 prosent. Taiwan har regler som hindrer aksjer å stige eller falle mer enn 10 prosent på en dag. I Asia fulgte flere av børsene etter med nedgang mandag morgen.",
+      "summary": "Taiwan er altså dagens store vinner i Asia og nesten alle aksjene er opp. Ifølge Bloomberg stiger rundt 1.050 aksjer, mens bare rundt 20 faller. Børsen i Taiwan har regler som hindrer aksjer å stige eller falle mer enn 10 prosent på en dag. – Jensens tilbakekomst er særlig velkommen for asiatiske tek-aksjer.",
       "keyPoints": [
-        "I Asia fulgte flere av børsene etter med nedgang mandag morgen.",
-        "Taiwan har regler som hindrer aksjer å stige eller falle mer enn 10 prosent på en dag.",
-        "Oppgangen i Taiwan ledes an av brikkeselskapene TSMC og Hon Hai Precision som stiger nær 10 prosent.",
-        "Mandag kveld var det ellevill oppgang på Wall Street, noe som smitter over flere asiatiske aksjemarkeder tidlig tirsdag morgen."
+        "Taiwan er altså dagens store vinner i Asia og nesten alle aksjene er opp.",
+        "Børsen i Taiwan har regler som hindrer aksjer å stige eller falle mer enn 10 prosent på en dag. – Jensens tilbakekomst er særlig velkommen for asiatiske tek-aksjer.",
+        "Ifølge Bloomberg stiger rundt 1.050 aksjer, mens bare rundt 20 faller.",
+        "I Asia fulgte flere av børsene etter med nedgang mandag morgen."
       ],
       "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
@@ -127,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/84fee46d-552c-38a6-a72a-ea41684fe4d3?fit=crop&h=675&upscale=true&w=1200&s=d63e383dee8134c8eae49c75cf661617dd885a66",
       "localImage": "assets/news/7614b62b28d93e.jpg",
-      "score": 16
+      "score": 14
     },
     {
       "id": "4784302912d90b",
@@ -148,69 +190,27 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/50a9b3c9-92c0-3541-a19f-1080a5b480af?fit=crop&h=675&upscale=true&w=1200&s=eb9f73e05833da89c9c251a25bc6c6c0d90c4cce",
       "localImage": "assets/news/4784302912d90b.jpg",
-      "score": 16
+      "score": 14
     },
     {
-      "id": "84da7a483d2b19",
-      "category": "Økonomi",
-      "published": "23.11. 18:27",
-      "publishedISO": "2026-11-23T18:27:37+01:00",
-      "title": "USA-ekspert om Huang-retur: – Finnes ikke ansvarlig­gjøring",
-      "summary": "Med støtte fra USAs president Donald Trump har Jensen Huang fått tilbake jobben som toppsjef i Nvidia. USA-ekspert Eirik Løkke sier at det er tvilsomt om Jensen Huang kunne gjort et comeback uten støtte fra amerikanske myndigheter. USA-ekspert Løkke sier at brikkene til Nvidia er den aller viktigste teknologien som produseres i USA.",
-      "keyPoints": [
-        "USA-ekspert Eirik Løkke sier at det er tvilsomt om Jensen Huang kunne gjort et comeback uten støtte fra amerikanske myndigheter.",
-        "USA-ekspert Løkke sier at brikkene til Nvidia er den aller viktigste teknologien som produseres i USA.",
-        "Med støtte fra USAs president Donald Trump har Jensen Huang fått tilbake jobben som toppsjef i Nvidia.",
-        "Da finnes det jo ikke ansvarliggjøring, men dette er jo hele måten Trump opererer på. – Det blir interessant å se hvordan demokratene reagerer på dette."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/internasjonal-oekonomi/i/lMA2k7/usa-ekspert-om-huang-retur-finnes-ikke-ansvarliggjoering",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b7dad619-1ccd-3452-8086-0b623ce6f1ad?fit=crop&h=675&upscale=true&w=1200&s=3b8d66bb0c64a64a679804aa540feccf45660668",
-      "localImage": "assets/news/84da7a483d2b19.jpg",
-      "score": 15
-    },
-    {
-      "id": "03d1e0787219ba",
+      "id": "3c7cf1fc618eff",
       "category": "Norge",
-      "published": "24.11. 06:20",
-      "publishedISO": "2026-11-24T06:20:42+01:00",
-      "title": "Therese Johaug fekk sjokk av treningsgrepet: – Verkeleg ei aha-oppleving",
-      "summary": "Ein skulle kanskje tru at Therese Johaug var utlært etter langrennskarrieren, men på vegen mot maraton lærer ho stadig nye ting. SJANSELAUS: Utan dette, så ville ikkje Therese Johaug ha klart å springe maraton. – Du får energi og blir ikkje sliten utover i økta. NÆRING: Therese Johaug passar på å fylle på under intervalløktene.",
+      "published": "24.11. 16:42",
+      "publishedISO": "2026-11-24T16:42:35+01:00",
+      "title": "Fylkesutvalet i Møre og Romsdal vil selje seg ut av rehabiliteringssenteret Muritunet i Valldal",
+      "summary": "MURITUNET I VALLDAL: Fylkeskommunen kan kome til å selje seg ut av rehabiliteringssenteret Muritunet. Møre og Romsdal fylkeskommune kan vere på veg ut av eigarsida etter meir enn 30 år. Fylkesordførar Anders Riise frå Høgre er ein av dei sju i fylkesutvalet som går inn for å selje seg ut av Muritunet.",
       "keyPoints": [
-        "SJANSELAUS: Utan dette, så ville ikkje Therese Johaug ha klart å springe maraton. – Du får energi og blir ikkje sliten utover i økta.",
-        "Ein skulle kanskje tru at Therese Johaug var utlært etter langrennskarrieren, men på vegen mot maraton lærer ho stadig nye ting.",
-        "NÆRING: Therese Johaug passar på å fylle på under intervalløktene.",
-        "Men på vegen mot maraton i Valencia i desember, er det spesielt eitt grep som har gjort ein forskjell: karbohydratinntaket på trening. – Det er først no når eg har begynt med løping at eg har skjønt kor viktig det er med karbohydrat for å halde intensiteten oppe, seier Johaug og fortset: – Etter erfaringar no, så skjønner eg jo at eg er heilt avhengig av å ha fulle glykogenlager når eg skal springe ein maraton."
+        "MURITUNET I VALLDAL: Fylkeskommunen kan kome til å selje seg ut av rehabiliteringssenteret Muritunet.",
+        "Fylkesordførar Anders Riise frå Høgre er ein av dei sju i fylkesutvalet som går inn for å selje seg ut av Muritunet.",
+        "Møre og Romsdal fylkeskommune kan vere på veg ut av eigarsida etter meir enn 30 år.",
+        "Fylkeskommunen og Nasjonalforeininga for folkehelsa er blant dei største eigarane av rehabiliteringssenteret, som gjennom avtale med Helse Midt-Norge tilbyr døgnrehabilitering i Valldal i Fjord kommune."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/therese-johaug-fekk-sjokk-av-treningsgrepet_-_-verkeleg-ei-aha-oppleving-1.18081862",
+      "url": "https://www.nrk.no/mr/fylkesutvalet-i-more-og-romsdal-vil-selje-seg-ut-av-rehabiliteringssenteret-muritunet-i-valldal-1.18087596",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/et0Hzwbwof7HX1440dAemwMKioyv38Tkq-ubeiOsaP3g.jpg",
-      "localImage": "assets/news/03d1e0787219ba.jpg",
-      "score": 13
-    },
-    {
-      "id": "7ffbaf601d241d",
-      "category": "Norge",
-      "published": "24.11. 05:22",
-      "publishedISO": "2026-11-24T05:22:08+01:00",
-      "title": "Advarer mot totalforbud av smartbriller",
-      "summary": "Smartbriller kan ta opptak uten at folk får det med seg. – Utfordringen er at det også finnes verdi i teknologien. Regjeringen jobber for tiden med et lovforslag om midlertidig forbud mot smartbriller, og tar sikte på å legge frem et lovutkast i løpet av våren 2027. Ved NTNU foreslås det forbud mot skjulte opptak gjort «ved bruk av kroppsnær teknologi» og all bruk av smartbriller, ifølge Khrono.",
-      "keyPoints": [
-        "Regjeringen jobber for tiden med et lovforslag om midlertidig forbud mot smartbriller, og tar sikte på å legge frem et lovutkast i løpet av våren 2027.",
-        "Smartbriller kan ta opptak uten at folk får det med seg. – Utfordringen er at det også finnes verdi i teknologien.",
-        "Ved NTNU foreslås det forbud mot skjulte opptak gjort «ved bruk av kroppsnær teknologi» og all bruk av smartbriller, ifølge Khrono.",
-        "KI-professor ved Universitetet i Agder Morten Goodwin mener at et totalforbud kanskje ikke er veien å gå."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sorlandet/advarer-mot-totalforbud-av-smartbriller-1.18087337",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/TmSk3fEc8uUNw1-46lfHeQjPBrFNhC-MM58q_TsYWxNw.jpg",
-      "localImage": "assets/news/7ffbaf601d241d.jpg",
+      "image": "https://gfx.nrk.no/u_YpBgZ9hBAmsuqkZ5TtWw8jfG7ZbXWD5f-nkrRyIBQw.jpg",
+      "localImage": "assets/news/3c7cf1fc618eff.jpg",
       "score": 13
     }
   ]
