@@ -1,6 +1,6 @@
 {
-  "updatedAt": "23.11.2026 kl. 22:27",
-  "updatedISO": "2026-11-23T22:27:01.885677+01:00",
+  "updatedAt": "24.11.2026 kl. 06:27",
+  "updatedISO": "2026-11-24T06:27:56.865327+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,49 +22,28 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/_9RljWQul6gveaXJ0EgY0wjfdMloXelOkiv0xyPg8h1g.jpg",
       "localImage": "assets/news/74cf3e0e3f136c.jpg",
-      "score": 17
+      "score": 15
     },
     {
-      "id": "211b35722ddac7",
-      "category": "Verden",
-      "published": "23.11. 18:14",
-      "publishedISO": "2026-11-23T18:14:50+01:00",
-      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
-      "summary": "Se: Carney og Trump-imitatorer tar scenen med ekte Mark Carney Statsminister Mark Carney tok med seg en Donald Trump-imitator på scenen på Ottawas årlige pressegalleri-middag, hvor han lurte på anstrengte relasjoner mellom USA og Canada og handelssamtaler om igjen og igjen. Ved å bruke noen av Trumps karakteristiske manerer, som dansebevegelsene og hans litt krumbøyde holdning, spøkte han med det siste amerikanske mellomvalget, som førte til at Trumps republikanske parti mistet kontrollen i kongressen. \"Jeg er så populær at vi nettopp hadde en stor BLÅ BØLGE i statene,\" sa imitatoren på lørdagens pressegalla. Komiker Mark Critch spilte Donald Trump under statsminister Mark Carneys tale på Ottawas årlige pressegallerimiddag. Hvorfor Carney ser til Kina mens Canadas bilindustri kommer under amerikansk press Amerikanske mellomtidsresultater en \"seier\" for kanadiere som håper på tolllettelser Fra økning i patriotisme til færre amerikanske reiser - Trumps innvirkning på Canada",
+      "id": "8e7f164a61815d",
+      "category": "Økonomi",
+      "published": "24.11. 04:52",
+      "publishedISO": "2026-11-24T04:52:04+01:00",
+      "title": "– Sitter på en liten vulkan",
+      "summary": "Store AI-svingninger og børsfall kan gi politikerne færre milliarder å rutte med. –⁠ Viser den risikoen vi sitter på, sier sjeføkonom. Mandag morgen var fondet verdt om lag 1.500 milliarder kroner mindre enn det regjeringen har lagt til grunn at den vil være ved inngangen til 2027. Ap-regjeringen sitter nå på overtid i forhandlingene med MDG, SV, Rødt og Sp om budsjettet for neste år. – Vi sitter jo på en liten vulkan når avkastningen i Oljefondet finansierer en fjerdepart av statsbudsjettet, sier sjeføkonom Harald Magnus Andreassen i Sparebank1 Markets. – Oljefondet har selv vært flink til å vise hvor stor nedsiden er.",
       "keyPoints": [
-        "Se: Carney og Trump-imitatorer tar scenen med ekte Mark Carney Statsminister Mark Carney tok med seg en Donald Trump-imitator på scenen på Ottawas årlige pressegalleri-middag, hvor han lurte på anstrengte relasjoner mellom USA og Canada og handelssamtaler om igjen og igjen.",
-        "Komiker Mark Critch spilte Donald Trump under statsminister Mark Carneys tale på Ottawas årlige pressegallerimiddag. Hvorfor Carney ser til Kina mens Canadas bilindustri kommer under amerikansk press Amerikanske mellomtidsresultater en \"seier\" for kanadiere som håper på tolllettelser Fra økning i patriotisme til færre amerikanske reiser - Trumps innvirkning på Canada",
-        "Ved å bruke noen av Trumps karakteristiske manerer, som dansebevegelsene og hans litt krumbøyde holdning, spøkte han med det siste amerikanske mellomvalget, som førte til at Trumps republikanske parti mistet kontrollen i kongressen. \"Jeg er så populær at vi nettopp hadde en stor BLÅ BØLGE i statene,\" sa imitatoren på lørdagens pressegalla.",
-        "Det er bare én ting som står i veien: meg, fordi jeg er gal.\" Det var også stikk til Trumps søk etter en ny pressesekretær i Det hvite hus etter Katie Zacharias exit, og til USAs ambassadør i Canada Pete Hoekstra, som er upopulær blant kanadiere. \"Jeg sa 'finn noen som er mindre sympatisk enn meg', og vi fikk en imitator,\" sa han om etterligningen av Trump."
+        "Ap-regjeringen sitter nå på overtid i forhandlingene med MDG, SV, Rødt og Sp om budsjettet for neste år. – Vi sitter jo på en liten vulkan når avkastningen i Oljefondet finansierer en fjerdepart av statsbudsjettet, sier sjeføkonom Harald Magnus Andreassen i Sparebank1 Markets. – Oljefondet har selv vært flink til å vise hvor stor nedsiden er.",
+        "Store AI-svingninger og børsfall kan gi politikerne færre milliarder å rutte med. –⁠ Viser den risikoen vi sitter på, sier sjeføkonom.",
+        "Mandag morgen var fondet verdt om lag 1.500 milliarder kroner mindre enn det regjeringen har lagt til grunn at den vil være ved inngangen til 2027.",
+        "Med fondsverdien mandag morgen ville den ha hatt rundt 50 milliarder kroner mindre tilgjengelig (se faktaboks)."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9f36/live/7d4e5560-e758-11f1-b407-33329b1ec67a.png",
-      "localImage": "assets/news/211b35722ddac7.png",
+      "url": "https://e24.no/boers-og-finans/i/j3dEmL/sitter-paa-en-liten-vulkan",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/24f2a207-8983-3705-81c1-748861f8b65a?fit=crop&h=675&upscale=true&w=1200&s=f070d8a01b294a5d87c99e9b5dc92dc1782e6fa3",
+      "localImage": "assets/news/8e7f164a61815d.jpg",
       "score": 21
-    },
-    {
-      "id": "128647dd4495dc",
-      "category": "USA",
-      "published": "23.11. 19:49",
-      "publishedISO": "2026-11-23T19:49:19+01:00",
-      "title": "Watch: First Lady Melania Trump welcomes this year's White House Christmas tree",
-      "summary": "Førstedame Melania Trump ønsker det offisielle juletreet fra Det hvite hus fra 2026 velkommen til Det hvite hus: Det er en 18 fot (5,49 meter) concolor gran fra Silent Night Evergreens, en gård i Endeavour, Wisconsin. Førstedame Melania Trump ønsker årets juletre i Det hvite hus velkommen. Video, 00:00:29First Lady Melania Trump ønsker årets juletre i Det hvite hus velkommen.",
-      "keyPoints": [
-        "First Lady Melania Trump welcomes this year's White House Christmas tree.",
-        "Video, 00:01:41Catherine's cancer journey depicted in new documentary Watch: Melania Trump reveals Christmas decorations, Lego portrait of president.",
-        "Video, 00:00:39Watch: Melania Trump reveals Christmas decorations, Lego portrait of president 'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia.",
-        "Video, 00:00:50 Hva toppmøtet i Brussel kan bety for Brexit-avtalen mellom Storbritannia og EU. BBC-korrespondenter diskuterer hva Trump, Xi og Putin fikk ut av historiske samtaler."
-      ],
-      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg",
-      "localImage": "assets/news/128647dd4495dc.jpg",
-      "score": 17
     },
     {
       "id": "3103dff4251821",
@@ -85,7 +64,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eff8a1c6-10ee-31f6-8dcb-26849a499cef?fit=crop&h=675&upscale=true&w=1200&s=f7514dc82efa3565d216fda6ba90efab867ce170",
       "localImage": "assets/news/3103dff4251821.jpg",
-      "score": 21
+      "score": 20
     },
     {
       "id": "1eb77ef35ebad6",
@@ -106,49 +85,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b7f8923c-52ae-3c9a-a773-62ac6521a8c8?fit=crop&h=675&upscale=true&w=1200&s=5c8e08490686f5a1683a619f66325590aefbbd7e",
       "localImage": "assets/news/1eb77ef35ebad6.jpg",
-      "score": 20
-    },
-    {
-      "id": "45f89d4fc2cb3c",
-      "category": "AI",
-      "published": "23.11. 22:23",
-      "publishedISO": "2026-11-23T22:23:42+01:00",
-      "title": "Nvidia-verdien stiger med nesten 1 tn dollar og teknologiaksjer stiger etter at Jensen Huang kommer tilbake",
-      "summary": "'Største helomvending i økonomisk historie': Eksperter reagerer på Jensen Huangs tilbakevending til Nvidia Nvidias markedsverdi steg med nesten 1 billion dollar da aksjekursen skjøt i været etter at teknologifirmaet gjeninnsatte Jensen Huang som administrerende direktør med umiddelbar virkning. Teknologiske aksjer har også økt etter store fall på fredag, med mye av oppgangen som startet i før-markedshandel før Huangs avkastning ble annonsert. Bare på fredag ​​falt Nvidia-aksjene med 13,7 % ettersom teknologiaksjer falt mer generelt, og som Reuters rapporterte – ubekreftet av BBC – at selskapet ble undersøkt av US Securities and Exchange Commission (SEC) angående regnskapspraksis.",
-      "keyPoints": [
-        "'Største helomvending i økonomisk historie': Eksperter reagerer på Jensen Huangs tilbakevending til Nvidia Nvidias markedsverdi steg med nesten 1 billion dollar da aksjekursen skjøt i været etter at teknologifirmaet gjeninnsatte Jensen Huang som administrerende direktør med umiddelbar virkning.",
-        "Teknologiske aksjer har også økt etter store fall på fredag, med mye av oppgangen som startet i før-markedshandel før Huangs avkastning ble annonsert.",
-        "Bare på fredag ​​falt Nvidia-aksjene med 13,7 % ettersom teknologiaksjer falt mer generelt, og som Reuters rapporterte – ubekreftet av BBC – at selskapet ble undersøkt av US Securities and Exchange Commission (SEC) angående regnskapspraksis.",
-        "Trump sier at han «overbeviste» Nvidia om å gjeninnsette Jensen Huang. Jensen Huangs oppgang og fall og igjen oppgang"
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-      "localImage": "assets/news/45f89d4fc2cb3c.jpg",
-      "score": 21
-    },
-    {
-      "id": "e76842f00d64cc",
-      "category": "AI",
-      "published": "23.11. 15:08",
-      "publishedISO": "2026-11-23T15:08:50+01:00",
-      "title": "GTA 6 hacker utgitt på lisens med advarsel 'ikke la dette skje igjen'",
-      "summary": "Under rettssaken beskrev påtalemyndigheten Kurtaj som et \"ledende lys\" i tenåringsgjengen Lapsus$ En nettkriminell som hacket produsenten av Grand Theft Auto ble løslatt på lisens samme dag som han ble dømt til 7 års fengsel. Flere lovbrytere Arion Kurtaj, fra Oxford, ble løslatt fra varetekt med dommeren som advarte ham: \"Ikke la dette skje igjen.\" Den nå 21-åringen hacket flere selskaper og enkeltpersoner, inkludert GTA 6-produsenten Rockstar Games, som han prøvde å presse ut etter å ha stjålet klipp av det uferdige spillet i 2022. GTA 6-salget nådde 3,8 milliarder dollar på en enkelt dag - den største underholdningslanseringen i historien Tenåringshackere som live streamet cyber-angrep på GfTA guilty-utgivelsen etter at GfTA-hackeren ble lansert. fra sikret sykehus",
-      "keyPoints": [
-        "Flere lovbrytere Arion Kurtaj, fra Oxford, ble løslatt fra varetekt med dommeren som advarte ham: \"Ikke la dette skje igjen.\" Den nå 21-åringen hacket flere selskaper og enkeltpersoner, inkludert GTA 6-produsenten Rockstar Games, som han prøvde å presse ut etter å ha stjålet klipp av det uferdige spillet i 2022.",
-        "Under rettssaken beskrev påtalemyndigheten Kurtaj som et \"ledende lys\" i tenåringsgjengen Lapsus$ En nettkriminell som hacket produsenten av Grand Theft Auto ble løslatt på lisens samme dag som han ble dømt til 7 års fengsel.",
-        "GTA 6-salget nådde 3,8 milliarder dollar på en enkelt dag – historiens største underholdningslansering Tenåringshackere som livestreamet cyberangrep på TfL fengslet GTA 6-hacker erkjenner straffskyld etter løslatelse fra sikkert sykehus",
-        "Han stjal interne firmadata inkludert 90 klipp som viser nesten 60 minutters spilling fra den uferdige GTA 6, som hadde vært innhyllet i hemmelighold frem til den ble utgitt forrige uke."
-      ],
-      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e22e/live/1d07a600-e269-11f1-a094-5fdc692f3e33.png",
-      "localImage": "assets/news/e76842f00d64cc.png",
-      "score": 16
+      "score": 18
     },
     {
       "id": "3f1b4b2309a682",
@@ -169,28 +106,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/a0a7fa95-8808-3c48-8ab0-abfab5b1ef51?fit=crop&h=675&upscale=true&w=1200&s=fd5f63bd3023bbf7801603360d74040725177663",
       "localImage": "assets/news/3f1b4b2309a682.jpg",
-      "score": 19
+      "score": 17
     },
     {
-      "id": "b32d10356be7d5",
-      "category": "Verden",
-      "published": "23.11. 21:48",
-      "publishedISO": "2026-11-23T21:48:35+01:00",
-      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-      "summary": "Det dristige og vellykkede natteangrepet i Benghazi, koordinert av Ukrainas SBU-etterretningsbyrå og dets væpnede styrker, har reist det åpenbare spørsmålet: sprer Ukraina-krigen seg langt utenfor landets grenser? Libyske tjenestemenn påpeker at landet deres ikke er en part i Russland-Ukraina-krigen, selv om Merkury og et tilhørende lasteskip som også ble truffet lå til kai i den østlige delen av Libya kontrollert av den pro-Moskva krigsherren og selvutnevnte «feltmarskalk» Khalifa Haftar. Se: CCTV viser eksplosjon etter at Polen sier at luftrommet er krenket av russisk rakett Både Romania og Moldova har blitt ofte truffet av overflyvende russiske droner rettet mot Ukrainas Svartehavshavner, mens Bulgaria og Romania har vært utsatt for maritime droneangrep på kommersiell skipsfart like utenfor kysten i Svartehavet.",
+      "id": "7614b62b28d93e",
+      "category": "Økonomi",
+      "published": "24.11. 04:47",
+      "publishedISO": "2026-11-24T04:47:20+01:00",
+      "title": "Aksjefest i Asia",
+      "summary": "Oppgangen i Taiwan ledes an av brikkeselskapene TSMC og Hon Hai Precision som stiger nær 10 prosent. Taiwan har regler som hindrer aksjer å stige eller falle mer enn 10 prosent på en dag. I Asia fulgte flere av børsene etter med nedgang mandag morgen.",
       "keyPoints": [
-        "Se: CCTV viser eksplosjon etter at Polen sier at luftrommet er krenket av russisk rakett Både Romania og Moldova har blitt ofte truffet av overflyvende russiske droner rettet mot Ukrainas Svartehavshavner, mens Bulgaria og Romania har vært utsatt for maritime droneangrep på kommersiell skipsfart like utenfor kysten i Svartehavet.",
-        "Libyske tjenestemenn påpeker at landet deres ikke er en part i Russland-Ukraina-krigen, selv om Merkury og et tilhørende lasteskip som også ble truffet lå til kai i den østlige delen av Libya kontrollert av den pro-Moskva krigsherren og selvutnevnte «feltmarskalk» Khalifa Haftar.",
-        "Det dristige og vellykkede natteangrepet i Benghazi, koordinert av Ukrainas SBU-etterretningsbyrå og dets væpnede styrker, har reist det åpenbare spørsmålet: sprer Ukraina-krigen seg langt utenfor landets grenser?",
-        "On Friday, several Russian projectiles landed well inside Poland's borders, just 60 miles from an Anglo-French exercise of forces intended to be deployed following an eventual ceasefire in Ukraine."
+        "I Asia fulgte flere av børsene etter med nedgang mandag morgen.",
+        "Taiwan har regler som hindrer aksjer å stige eller falle mer enn 10 prosent på en dag.",
+        "Oppgangen i Taiwan ledes an av brikkeselskapene TSMC og Hon Hai Precision som stiger nær 10 prosent.",
+        "Mandag kveld var det ellevill oppgang på Wall Street, noe som smitter over flere asiatiske aksjemarkeder tidlig tirsdag morgen."
       ],
-      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo",
-      "source": "bbc.co.uk",
-      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg",
-      "localImage": "assets/news/b32d10356be7d5.jpg",
-      "score": 17
+      "url": "https://e24.no/boers-og-finans/i/wdPzRo/aksjefest-i-asia",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/84fee46d-552c-38a6-a72a-ea41684fe4d3?fit=crop&h=675&upscale=true&w=1200&s=d63e383dee8134c8eae49c75cf661617dd885a66",
+      "localImage": "assets/news/7614b62b28d93e.jpg",
+      "score": 16
     },
     {
       "id": "4784302912d90b",
@@ -211,7 +148,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/50a9b3c9-92c0-3541-a19f-1080a5b480af?fit=crop&h=675&upscale=true&w=1200&s=eb9f73e05833da89c9c251a25bc6c6c0d90c4cce",
       "localImage": "assets/news/4784302912d90b.jpg",
-      "score": 17
+      "score": 16
+    },
+    {
+      "id": "84da7a483d2b19",
+      "category": "Økonomi",
+      "published": "23.11. 18:27",
+      "publishedISO": "2026-11-23T18:27:37+01:00",
+      "title": "USA-ekspert om Huang-retur: – Finnes ikke ansvarlig­gjøring",
+      "summary": "Med støtte fra USAs president Donald Trump har Jensen Huang fått tilbake jobben som toppsjef i Nvidia. USA-ekspert Eirik Løkke sier at det er tvilsomt om Jensen Huang kunne gjort et comeback uten støtte fra amerikanske myndigheter. USA-ekspert Løkke sier at brikkene til Nvidia er den aller viktigste teknologien som produseres i USA.",
+      "keyPoints": [
+        "USA-ekspert Eirik Løkke sier at det er tvilsomt om Jensen Huang kunne gjort et comeback uten støtte fra amerikanske myndigheter.",
+        "USA-ekspert Løkke sier at brikkene til Nvidia er den aller viktigste teknologien som produseres i USA.",
+        "Med støtte fra USAs president Donald Trump har Jensen Huang fått tilbake jobben som toppsjef i Nvidia.",
+        "Da finnes det jo ikke ansvarliggjøring, men dette er jo hele måten Trump opererer på. – Det blir interessant å se hvordan demokratene reagerer på dette."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/internasjonal-oekonomi/i/lMA2k7/usa-ekspert-om-huang-retur-finnes-ikke-ansvarliggjoering",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b7dad619-1ccd-3452-8086-0b623ce6f1ad?fit=crop&h=675&upscale=true&w=1200&s=3b8d66bb0c64a64a679804aa540feccf45660668",
+      "localImage": "assets/news/84da7a483d2b19.jpg",
+      "score": 15
+    },
+    {
+      "id": "03d1e0787219ba",
+      "category": "Norge",
+      "published": "24.11. 06:20",
+      "publishedISO": "2026-11-24T06:20:42+01:00",
+      "title": "Therese Johaug fekk sjokk av treningsgrepet: – Verkeleg ei aha-oppleving",
+      "summary": "Ein skulle kanskje tru at Therese Johaug var utlært etter langrennskarrieren, men på vegen mot maraton lærer ho stadig nye ting. SJANSELAUS: Utan dette, så ville ikkje Therese Johaug ha klart å springe maraton. – Du får energi og blir ikkje sliten utover i økta. NÆRING: Therese Johaug passar på å fylle på under intervalløktene.",
+      "keyPoints": [
+        "SJANSELAUS: Utan dette, så ville ikkje Therese Johaug ha klart å springe maraton. – Du får energi og blir ikkje sliten utover i økta.",
+        "Ein skulle kanskje tru at Therese Johaug var utlært etter langrennskarrieren, men på vegen mot maraton lærer ho stadig nye ting.",
+        "NÆRING: Therese Johaug passar på å fylle på under intervalløktene.",
+        "Men på vegen mot maraton i Valencia i desember, er det spesielt eitt grep som har gjort ein forskjell: karbohydratinntaket på trening. – Det er først no når eg har begynt med løping at eg har skjønt kor viktig det er med karbohydrat for å halde intensiteten oppe, seier Johaug og fortset: – Etter erfaringar no, så skjønner eg jo at eg er heilt avhengig av å ha fulle glykogenlager når eg skal springe ein maraton."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sport/therese-johaug-fekk-sjokk-av-treningsgrepet_-_-verkeleg-ei-aha-oppleving-1.18081862",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/et0Hzwbwof7HX1440dAemwMKioyv38Tkq-ubeiOsaP3g.jpg",
+      "localImage": "assets/news/03d1e0787219ba.jpg",
+      "score": 13
+    },
+    {
+      "id": "7ffbaf601d241d",
+      "category": "Norge",
+      "published": "24.11. 05:22",
+      "publishedISO": "2026-11-24T05:22:08+01:00",
+      "title": "Advarer mot totalforbud av smartbriller",
+      "summary": "Smartbriller kan ta opptak uten at folk får det med seg. – Utfordringen er at det også finnes verdi i teknologien. Regjeringen jobber for tiden med et lovforslag om midlertidig forbud mot smartbriller, og tar sikte på å legge frem et lovutkast i løpet av våren 2027. Ved NTNU foreslås det forbud mot skjulte opptak gjort «ved bruk av kroppsnær teknologi» og all bruk av smartbriller, ifølge Khrono.",
+      "keyPoints": [
+        "Regjeringen jobber for tiden med et lovforslag om midlertidig forbud mot smartbriller, og tar sikte på å legge frem et lovutkast i løpet av våren 2027.",
+        "Smartbriller kan ta opptak uten at folk får det med seg. – Utfordringen er at det også finnes verdi i teknologien.",
+        "Ved NTNU foreslås det forbud mot skjulte opptak gjort «ved bruk av kroppsnær teknologi» og all bruk av smartbriller, ifølge Khrono.",
+        "KI-professor ved Universitetet i Agder Morten Goodwin mener at et totalforbud kanskje ikke er veien å gå."
+      ],
+      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.nrk.no/sorlandet/advarer-mot-totalforbud-av-smartbriller-1.18087337",
+      "source": "nrk.no",
+      "image": "https://gfx.nrk.no/TmSk3fEc8uUNw1-46lfHeQjPBrFNhC-MM58q_TsYWxNw.jpg",
+      "localImage": "assets/news/7ffbaf601d241d.jpg",
+      "score": 13
     }
   ]
 }
