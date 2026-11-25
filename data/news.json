@@ -1,10 +1,10 @@
 {
-  "updatedAt": "25.11.2026 kl. 01:46",
-  "updatedISO": "2026-11-25T01:46:15.849470+01:00",
+  "updatedAt": "25.11.2026 kl. 10:18",
+  "updatedISO": "2026-11-25T10:18:27.985424+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
-      "id": "d876b21f1a523a",
+      "id": "9fcca751d76515",
       "category": "Norge",
       "published": "24.11. 22:48",
       "publishedISO": "2026-11-24T22:48:38+01:00",
@@ -21,8 +21,50 @@
       "url": "https://www.nrk.no/rogaland/na-skal-aarbakke-halde-boggiar-ved-like-_-vil-sikra-go-ahead-faerre-innstilte-tog-pa-jaerbanen-1.18062222",
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/R-SlSNepbMJ8MkNQY_DU1gh7HSYq8HNb-FC9trBnT4uw.jpg",
-      "localImage": "assets/news/d876b21f1a523a.webp",
-      "score": 16
+      "localImage": "assets/news/9fcca751d76515.webp",
+      "score": 14
+    },
+    {
+      "id": "1835abb038bdce",
+      "category": "Økonomi",
+      "published": "25.11. 08:08",
+      "publishedISO": "2026-11-25T08:08:27+01:00",
+      "title": "FT: Nscale kan bli værende utenfor børs",
+      "summary": "Konsernsjef Josh Payne fortalte tirsdag de ansatte at Nscale har hentet nok kapital til å forbli unotert i overskuelig fremtid. Nscale følger nå børsmarkedene og kan velge å redusere verdsettelsen selskapet sikter mot, ifølge avisens kilder. Samtidig varslet Nscale tidligere denne måneden at selskapet trenger ytterligere finansiering i 2027.",
+      "keyPoints": [
+        "Samtidig varslet Nscale tidligere denne måneden at selskapet trenger ytterligere finansiering i 2027.",
+        "Konsernsjef Josh Payne fortalte tirsdag de ansatte at Nscale har hentet nok kapital til å forbli unotert i overskuelig fremtid.",
+        "Nscale følger nå børsmarkedene og kan velge å redusere verdsettelsen selskapet sikter mot, ifølge avisens kilder.",
+        "På allmøtet ville Payne bare si at målet er å gå på børs så snart som mulig, ifølge avisen."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/53058e/ft-nscale-kan-bli-vaerende-utenfor-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/8403cbc6-792c-3f9a-9faf-1bef3a07c921?fit=crop&h=675&upscale=true&w=1200&s=8a69e2ce3e1d8d3325e7a351abcc2be6f0cbc07e",
+      "localImage": "assets/news/1835abb038bdce.jpg",
+      "score": 21
+    },
+    {
+      "id": "9fe68b975021cd",
+      "category": "Økonomi",
+      "published": "25.11. 06:19",
+      "publishedISO": "2026-11-25T06:19:19+01:00",
+      "title": "Hamstret Nvidia-aksjer med tap: – Bryr meg ikke",
+      "summary": "Philip Hesland (24) svidde av alle sparepengene sine på Nvidia-aksjer i oktober. Etter en uke med ekstreme svingninger, sitter Hesland så langt igjen med et tap på 37.000 kroner på investeringen. Det har snarere gitt ham blod på tann. – Jeg bryr meg ikke.",
+      "keyPoints": [
+        "Det har snarere gitt ham blod på tann. – Jeg bryr meg ikke.",
+        "Philip Hesland (24) svidde av alle sparepengene sine på Nvidia-aksjer i oktober.",
+        "Etter en uke med ekstreme svingninger, sitter Hesland så langt igjen med et tap på 37.000 kroner på investeringen.",
+        "Jeg vil ikke kalle meg en gambler, men er nok mer glad i litt risiko enn mange andre, sier han."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/4Eqanq/hamstret-nvidia-aksjer-med-tap-bryr-meg-ikke",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/b71f5d84-5188-34e9-b888-9d7a65bbc16c?fit=crop&h=675&upscale=true&w=1200&s=888b78d20d92d3383a16c1e23121f6bb8b37f507",
+      "localImage": "assets/news/9fe68b975021cd.jpg",
+      "score": 20
     },
     {
       "id": "a896aefa094714",
@@ -43,7 +85,70 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/7b6168f7-c5c4-319b-813a-ac52eaa9dfea?fit=crop&h=675&upscale=true&w=1200&s=b5265a01d328c2f490a8337322cd138bc07bf497",
       "localImage": "assets/news/a896aefa094714.jpg",
-      "score": 20
+      "score": 19
+    },
+    {
+      "id": "131edd6fceb347",
+      "category": "Økonomi",
+      "published": "25.11. 09:01",
+      "publishedISO": "2026-11-25T09:01:55+01:00",
+      "title": "Nedgang på Oslo Børs – rederi faller kraftig",
+      "summary": "Aker som er største eier i Nscale som bygger AI-datasentre faller 1,7 prosent like etter åpning på Oslo Børs. Inntektene faller til 113,1 millioner dollar fra 125,9 millioner. Norse-aksjen raser 70 prosent på Oslo Børs etter krisemeldingen.",
+      "keyPoints": [
+        "Aker som er største eier i Nscale som bygger AI-datasentre faller 1,7 prosent like etter åpning på Oslo Børs.",
+        "Norse-aksjen raser 70 prosent på Oslo Børs etter krisemeldingen.",
+        "Inntektene faller til 113,1 millioner dollar fra 125,9 millioner.",
+        "Styret har vedtatt et utbytte på 0,04 dollar per aksje, tilsvarende 19,5 millioner dollar eller 191 millioner kroner. – Etterspørselen etter containerfrakt har holdt seg bedre enn mange ventet i år, og leieratene nådde sitt høyeste nivå på fire år i kvartalet, sier konsernsjef Constantin Baack."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/dJOVqJ/nedgang-paa-oslo-boers",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/1100a8c9-ec3a-3080-804a-50eaabf2b0aa?fit=crop&h=675&upscale=true&w=1200&s=0a00956f96691a08c4f7ff299929a0d9a740e822",
+      "localImage": "assets/news/131edd6fceb347.jpg",
+      "score": 17
+    },
+    {
+      "id": "08dc727aaf0d5c",
+      "category": "Økonomi",
+      "published": "25.11. 07:01",
+      "publishedISO": "2026-11-25T07:01:07+01:00",
+      "title": "Tungt tek-fall i Asia",
+      "summary": "I Sør-Korea faller nøkkelindeksen Kospi nær 6 prosent, japanske Nikkei er ned nær 3 prosent. På den tek-tunge Nikkei-indeksen i Japan faller både brikkeselskapet Kioxia og brikkeleverandør Tokyo Electron over 13 prosent. Samsung Electronics er ned 10 prosent, mens datterselskapet Samsung Electro-Mechanics faller 12,9 prosent.",
+      "keyPoints": [
+        "I Sør-Korea faller nøkkelindeksen Kospi nær 6 prosent, japanske Nikkei er ned nær 3 prosent.",
+        "Samsung Electronics er ned 10 prosent, mens datterselskapet Samsung Electro-Mechanics faller 12,9 prosent.",
+        "På den tek-tunge Nikkei-indeksen i Japan faller både brikkeselskapet Kioxia og brikkeleverandør Tokyo Electron over 13 prosent.",
+        "Investeringskjempen Softbank, som er en storinvestor i AI-giganten OpenAI er ned over 15 prosent. – Dette er ikke et godt tidspunkt for å «buy the dip»."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/Qroep4/tungt-tek-fall-i-asia",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/703d9a23-e55a-3b12-a7e5-78535a6e4a30?fit=crop&h=675&upscale=true&w=1200&s=a48895f29acb782363dc5601edb38ec5999e1684",
+      "localImage": "assets/news/08dc727aaf0d5c.jpg",
+      "score": 17
+    },
+    {
+      "id": "339d31d16b9bf3",
+      "category": "Økonomi",
+      "published": "25.11. 08:58",
+      "publishedISO": "2026-11-25T08:58:35+01:00",
+      "title": "Krisemelding fra Norse: Trenger penger raskt",
+      "summary": "Flyselskapet Norse Atlantic har hatt en utfordrende økonomisk situasjon i lengre tid. Norse skulle opprinnelig legge frem resultater for tredje kvartal i dag, men det ble nylig utsatt til 30. november. Norse har tidligere i år også varslet at de vil kutte kostnadene med 50 millioner dollar i året, blant annet gjennom jobbkutt, permitteringer og flytting av hovedkontoret.",
+      "keyPoints": [
+        "Norse skulle opprinnelig legge frem resultater for tredje kvartal i dag, men det ble nylig utsatt til 30. november.",
+        "Norse har tidligere i år også varslet at de vil kutte kostnadene med 50 millioner dollar i året, blant annet gjennom jobbkutt, permitteringer og flytting av hovedkontoret.",
+        "Flyselskapet Norse Atlantic har hatt en utfordrende økonomisk situasjon i lengre tid.",
+        "Nå varsler Norse at «selskapets finansielle situasjon er kritisk»."
+      ],
+      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
+      "summaryMethod": "local-extractive",
+      "url": "https://e24.no/boers-og-finans/i/ARdGV5/krisemelding-fra-norse-trenger-penger-raskt",
+      "source": "e24.no",
+      "image": "https://akamai.vgc.no/v2/images/c6fbf96f-74fb-31d4-9a81-83a32bc2bab7?fit=crop&h=675&upscale=true&w=1200&s=b5b3346b04f4fc6e855502787cd1210c85aaed1c",
+      "localImage": "assets/news/339d31d16b9bf3.jpg",
+      "score": 16
     },
     {
       "id": "8e7f164a61815d",
@@ -64,7 +169,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/24f2a207-8983-3705-81c1-748861f8b65a?fit=crop&h=675&upscale=true&w=1200&s=f070d8a01b294a5d87c99e9b5dc92dc1782e6fa3",
       "localImage": "assets/news/8e7f164a61815d.jpg",
-      "score": 17
+      "score": 16
     },
     {
       "id": "3103dff4251821",
@@ -85,133 +190,28 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/eff8a1c6-10ee-31f6-8dcb-26849a499cef?fit=crop&h=675&upscale=true&w=1200&s=f7514dc82efa3565d216fda6ba90efab867ce170",
       "localImage": "assets/news/3103dff4251821.jpg",
-      "score": 16
-    },
-    {
-      "id": "1eb77ef35ebad6",
-      "category": "Økonomi",
-      "published": "23.11. 14:57",
-      "publishedISO": "2026-11-23T14:57:20+01:00",
-      "title": "Jensen Huang gjør comeback som Nvidia-sjef",
-      "summary": "Jensen Huang, som var med på å grunnlegge børsgiganten i 1993, gikk av som Nvidia-sjef tidligere i november. Da Nvidia la frem kvartalsresultater tirsdag forrige uke, var styrelederen tydelig på at selskapet «ikke har planer om å gjeninnsette» Huang som toppsjef. – Jeg er beæret over å vende tilbake til Nvidia og lede et av verdens mest betydningsfulle teknologiselskaper ved starten på en ny industriell revolusjon, sier Jensen Huang i kunngjøringen fra selskapet. Men når det gjelder hvem som er kommersielt best i stand til å lede selskapet, er det mange som heller i retning av Jensen Huang, sier forvalteren.",
-      "keyPoints": [
-        "Jensen Huang, som var med på å grunnlegge børsgiganten i 1993, gikk av som Nvidia-sjef tidligere i november.",
-        "Da Nvidia la frem kvartalsresultater tirsdag forrige uke, var styrelederen tydelig på at selskapet «ikke har planer om å gjeninnsette» Huang som toppsjef. – Jeg er beæret over å vende tilbake til Nvidia og lede et av verdens mest betydningsfulle teknologiselskaper ved starten på en ny industriell revolusjon, sier Jensen Huang i kunngjøringen fra selskapet.",
-        "Men når det gjelder hvem som er kommersielt best i stand til å lede selskapet, er det mange som heller i retning av Jensen Huang, sier forvalteren.",
-        "Han er overrasket over Huangs comeback som Nvidia-sjef. – Årsakene til at han måtte gå, var sterke nok."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/530K36/jensen-huang-gjoer-comeback-som-nvidia-sjef",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/b7f8923c-52ae-3c9a-a773-62ac6521a8c8?fit=crop&h=675&upscale=true&w=1200&s=5c8e08490686f5a1683a619f66325590aefbbd7e",
-      "localImage": "assets/news/1eb77ef35ebad6.jpg",
-      "score": 15
-    },
-    {
-      "id": "6c9c86a9ae0cb9",
-      "category": "Økonomi",
-      "published": "24.11. 09:01",
-      "publishedISO": "2026-11-24T09:01:23+01:00",
-      "title": "Tomra falt kraftig på Oslo Børs",
-      "summary": "Panteselskapet falt kraftig etter å ha jekket ned forventningene. Hovedindeksen på Oslo Børs er ned 0,87 prosent ved stengetid klokken 16.30. Andre store utslag var blant andre Nordic Semiconductor, som falt 6,67 prosent, og Hunter Group som steg 7,07 prosent.",
-      "keyPoints": [
-        "Hovedindeksen på Oslo Børs er ned 0,87 prosent ved stengetid klokken 16.30.",
-        "Panteselskapet falt kraftig etter å ha jekket ned forventningene.",
-        "Andre store utslag var blant andre Nordic Semiconductor, som falt 6,67 prosent, og Hunter Group som steg 7,07 prosent.",
-        "Panteselskapet Tomra sikter mot en driftsmargin før avskrivninger (ebita) på 16–18 prosent i 2030–2032, opplyser selskapet i forbindelse med sin kapitalmarkedsdag."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/3BJ8jX/tomra-faller-paa-oslo-boers",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/237decec-7de2-33bc-8f18-8ed8ab851e90?fit=crop&h=675&upscale=true&w=1200&s=6c13e69d525bc06aa20b8ec5f78f010c2fe61fad",
-      "localImage": "assets/news/6c9c86a9ae0cb9.jpg",
       "score": 14
     },
     {
-      "id": "bcc32a18de071d",
+      "id": "d1139fe28084ac",
       "category": "Norge",
-      "published": "24.11. 23:21",
-      "publishedISO": "2026-11-24T23:21:23+01:00",
-      "title": "Pasientar ved Sjukehuset Østfold fekk beskjed om dødeleg sjukdom på telefon",
-      "summary": "Fleire har fått beskjed om alvorleg eller dødeleg sjukdom frå Sjukehuset Østfold over telefon, men sjukehusleiinga avviser at det er ein systemfeil. TIDSPRESS: Brukarutvalet ved Sjukehuset Østfold fryktar tidspress har skulda for at fleire har fått alvorlege beskjedar over telefon. – Folk får veldig alvorlege diagnosar slungne rett i fjeset over telefon. Leiar av brukarutvalet ved Sjukehuset Østfold, Mona Larsen Larsen fortel mellom anna om ein pasient som fekk beskjed om ein dødeleg sjukdom på telefon, heilt utan oppfølging.",
+      "published": "25.11. 09:50",
+      "publishedISO": "2026-11-25T09:50:32+01:00",
+      "title": "Berre éin av ti er menn: Gutar i ungdomsskulen skal bli lokka til barnehagen",
+      "summary": "No skal 450 unge gutar rundt om i landet teste om dette kan vere noko for dei. På søkjarlistene til barnehagelærarutdanninga er under 20 prosent menn, og ein del av desse hamnar i andre jobbar. Barna i Norlandia Støylane barnehage har uvanleg mange gutar og menn med seg på tur denne dagen.",
       "keyPoints": [
-        "Leiar av brukarutvalet ved Sjukehuset Østfold, Mona Larsen Larsen fortel mellom anna om ein pasient som fekk beskjed om ein dødeleg sjukdom på telefon, heilt utan oppfølging.",
-        "Fleire har fått beskjed om alvorleg eller dødeleg sjukdom frå Sjukehuset Østfold over telefon, men sjukehusleiinga avviser at det er ein systemfeil.",
-        "TIDSPRESS: Brukarutvalet ved Sjukehuset Østfold fryktar tidspress har skulda for at fleire har fått alvorlege beskjedar over telefon. – Folk får veldig alvorlege diagnosar slungne rett i fjeset over telefon.",
-        "Brukarutvalet meiner det er ein systemfeil ved Sjukehuset Østfold, men dette avviser leiinga. – Vi ser at det er ein systemfeil."
+        "No skal 450 unge gutar rundt om i landet teste om dette kan vere noko for dei.",
+        "Barna i Norlandia Støylane barnehage har uvanleg mange gutar og menn med seg på tur denne dagen.",
+        "På søkjarlistene til barnehagelærarutdanninga er under 20 prosent menn, og ein del av desse hamnar i andre jobbar.",
+        "I årevis har det vore jobba for å få fleire menn til å jobbe i barnehage – utan hell."
       ],
       "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/ostfold/pasientar-ved-sjukehuset-ostfold-fekk-beskjed-om-dodeleg-sjukdom-pa-telefon-1.18086313",
+      "url": "https://www.nrk.no/mr/berre-ein-av-ti-er-menn_-gutar-i-ungdomsskulen-skal-bli-lokka-til-barnehagen-1.18076354",
       "source": "nrk.no",
-      "image": "https://gfx.nrk.no/T09i73gpscOYv6I04CKI0AeC-tLwyLVGg4kHnvuaK3PQ.jpg",
-      "localImage": "assets/news/bcc32a18de071d.webp",
+      "image": "https://gfx.nrk.no/9ilZqiw2YoK7eCV0usdZ2gDJO4h_2Z-vEGnU5SJLcW7A.jpg",
+      "localImage": "assets/news/d1139fe28084ac.jpg",
       "score": 13
-    },
-    {
-      "id": "157f99e1f42fa2",
-      "category": "Norge",
-      "published": "24.11. 22:02",
-      "publishedISO": "2026-11-24T22:02:15+01:00",
-      "title": "Fotoboks-opprør: – Fylket må betale, medan staten håvar inn",
-      "summary": "Fylkespolitikarane krev at staten betaler fotoboksar også på fylkesvegar. – Folk råkøyrer ikkje berre på riksvegane. – Eg ser mykje råkøyring på flatane her, seier Lene Standnes Abbedissen (t.h.) på tur ved fylkesvegen nordover på Askøy saman med Bente Standnes. Fylkesveg 562 på Askøy har lange, rette strekningar der mange råkøyrer. – Staten bør finansiere fotoboksar også på fylkesvegar, meiner fylket som eig vegen. Dette er ein av fylkesvegstrekningane der Vestland fylkeskommune ønsker fotoboksar, og meiner staten bør betale investeringa. – Eg tenker at kanskje det er eit samfunnsansvar at staten bør ta rekninga, seier Olsen. – Eg trur absolutt at fotoboksar er nødvendig her, seier Anne Beth Olsen (t.v.), på tur med Stine Antonsen.",
-      "keyPoints": [
-        "Fylkesveg 562 på Askøy har lange, rette strekningar der mange råkøyrer. – Staten bør finansiere fotoboksar også på fylkesvegar, meiner fylket som eig vegen.",
-        "Dette er ein av fylkesvegstrekningane der Vestland fylkeskommune ønsker fotoboksar, og meiner staten bør betale investeringa. – Eg tenker at kanskje det er eit samfunnsansvar at staten bør ta rekninga, seier Olsen. – Eg trur absolutt at fotoboksar er nødvendig her, seier Anne Beth Olsen (t.v.), på tur med Stine Antonsen.",
-        "Fylkespolitikarane krev at staten betaler fotoboksar også på fylkesvegar. – Folk råkøyrer ikkje berre på riksvegane. – Eg ser mykje råkøyring på flatane her, seier Lene Standnes Abbedissen (t.h.) på tur ved fylkesvegen nordover på Askøy saman med Bente Standnes.",
-        "Fylkesdirektør Robert Rastad peikar på paradokset at fylka må ta utgiftene medan staten får inntektene frå fotoboksane."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/fotoboks-oppror-fylket-ma-betale-medan-staten-havar-inn-1532726",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/d1VwSVeFqrrI2ef3jum5GAYUYPmu1CHmCE-qQvN_kWOw",
-      "localImage": "assets/news/157f99e1f42fa2.jpg",
-      "score": 13
-    },
-    {
-      "id": "98249c96139d57",
-      "category": "Norge",
-      "published": "24.11. 20:41",
-      "publishedISO": "2026-11-24T20:41:06+01:00",
-      "title": "Bodø/Glimt med sen seier mot LASK Linz",
-      "summary": "Bodø/Glimt-trener Kjetil Knutsen halter seg ut fra pressekonferansen Lenge var det få sjanser og mye nesten for Glimt. På overtid fikk Helmersen lurt ballen inn i buret til LASK Linz fra Østerrike. – Pur lykke. Kjetil Knutsens lag skapte ikke mye i første omgang. – Det er lov å forvente mer offensivt av Bodø/Glimt enn vi har sett, sa TV 2-kommentator Simen Stamsø Møller.",
-      "keyPoints": [
-        "Kjetil Knutsens lag skapte ikke mye i første omgang. – Det er lov å forvente mer offensivt av Bodø/Glimt enn vi har sett, sa TV 2-kommentator Simen Stamsø Møller.",
-        "Bodø/Glimt-trener Kjetil Knutsen halter seg ut fra pressekonferansen Lenge var det få sjanser og mye nesten for Glimt.",
-        "På overtid fikk Helmersen lurt ballen inn i buret til LASK Linz fra Østerrike. – Pur lykke.",
-        "De tre poengene løfter Glimt til 16. plass og kan bli avgjørende i jakten på avansement: Glimt klatrer dermed over streken på tabellen."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/sport/bodo_glimt-med-sen-seier-mot-lask-linz-1.18087978",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/Ycm5xsK8eh6UU3D0bB2cFgsBAEsl2Ja9VQrLwC5wzLmA.jpg",
-      "localImage": "assets/news/98249c96139d57.jpg",
-      "score": 12
-    },
-    {
-      "id": "0b45c0abb19896",
-      "category": "Norge",
-      "published": "24.11. 20:31",
-      "publishedISO": "2026-11-24T20:31:13+01:00",
-      "title": "Rogaland er hardast ramma av fugleinfluensa",
-      "summary": "Ti av 14 tilfelle dei siste fem åra har råka regionen. – Det er eit tøff belastning, seier leiar i Rogaland bondelag Ståle Hustoft om det som er Noregs største utbrot av fugleinfluensa. – Det er ein tøff situasjon å stå. Han held løpande kontakt med dei fire gardane i Rogaland som no er ramma av fugleinfluensa. Tala viser at Rogaland over tid er den regionen som er hardast råka av fugleinfluensa.",
-      "keyPoints": [
-        "Ti av 14 tilfelle dei siste fem åra har råka regionen. – Det er eit tøff belastning, seier leiar i Rogaland bondelag Ståle Hustoft om det som er Noregs største utbrot av fugleinfluensa. – Det er ein tøff situasjon å stå.",
-        "Han held løpande kontakt med dei fire gardane i Rogaland som no er ramma av fugleinfluensa.",
-        "Tala viser at Rogaland over tid er den regionen som er hardast råka av fugleinfluensa.",
-        "Fire av dei ramma gardane ligg i Rogaland, medan det er påvist to tilfelle i Agder og eitt i Akershus. – Akkurat no står næringa i ein krevjande situasjon med tanke på smitteutbrotet, seier bondelagsleiaren."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/rogaland/rogaland-er-hardast-ramma-av-fugleinfluensa-1.18085694",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/qGpvEORNdJ6n1QOEFMsWvg1y8Hn8qyoiQq1Qpl7Lco1w.png",
-      "localImage": "assets/news/0b45c0abb19896.webp",
-      "score": 12
     }
   ]
 }
