@@ -1,6 +1,6 @@
 {
-  "updatedAt": "25.11.2026 kl. 20:33",
-  "updatedISO": "2026-11-25T20:33:37.368358+01:00",
+  "updatedAt": "26.11.2026 kl. 03:29",
+  "updatedISO": "2026-11-26T03:29:35.741990+01:00",
   "qualityMode": "strict-relevance-norwegian-local-images",
   "stories": [
     {
@@ -22,7 +22,7 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/mgTiGvupk05SHA7eAHXSMgj8Tl5kj7AgJJQtLkPF-OVQ.jpg",
       "localImage": "assets/news/3de98733b8fc5f.jpg",
-      "score": 20
+      "score": 18
     },
     {
       "id": "8eb54c2b470ccc",
@@ -43,7 +43,49 @@
       "source": "nrk.no",
       "image": "https://gfx.nrk.no/GxIh_PzLWGZ-p-S_8AlFiw4BGL75UWggud9aCozxAw7Q.jpg",
       "localImage": "assets/news/8eb54c2b470ccc.jpg",
-      "score": 21
+      "score": 20
+    },
+    {
+      "id": "dd7b4a4a012043",
+      "category": "Verden",
+      "published": "25.11. 20:38",
+      "publishedISO": "2026-11-25T20:38:05+01:00",
+      "title": "Watch: What we know about Trump's Thanksgiving tariffs",
+      "summary": "BBCs forretningsreporter Jonathan Josephs bryter ned president Trumps siste tariffer, kunngjort like før Thanksgiving, som vil påvirke noen av USAs største handelspartnere, inkludert Kina og EU. Tiltakene, som skal tre i kraft i januar 2027, kommer etter at Høyesterett avgjorde Trumps \"Liberation Day\"-tariffer fra april 2025 ulovlige. Video, 00:00:56Hva vi vet om Trumps Thanksgiving-tariffer Up Next.",
+      "keyPoints": [
+        "Video, 00:00:56What we know about Trump's Thanksgiving tariffs Up Next.",
+        "BBCs forretningsreporter Jonathan Josephs bryter ned president Trumps siste tariffer, kunngjort like før Thanksgiving, som vil påvirke noen av USAs største handelspartnere, inkludert Kina og EU.",
+        "Tiltakene, som skal tre i kraft i januar 2027, kommer etter at Høyesterett avgjorde Trumps \"Liberation Day\"-tariffer fra april 2025 ulovlige.",
+        "Video, 00:02:02BBC-korrespondenter diskuterer hva Trump, Xi og Putin fikk ut av historiske samtaler Hvorfor en berømt smørbrødbutikk i Montreal har blitt tvunget til å bytte brus Video, 00:01:26Hvorfor en kjent smørbrødbutikk i Montreal har blitt tvunget til å bytte brus 'Top Gear er tilbake': Gordon Ramsay annonsert som ny."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9742/live/bc650a50-e906-11f1-99a1-253766e7ad8b.jpg",
+      "localImage": "assets/news/dd7b4a4a012043.jpg",
+      "score": 20
+    },
+    {
+      "id": "cf054b8b2ffdc0",
+      "category": "USA",
+      "published": "25.11. 20:22",
+      "publishedISO": "2026-11-25T20:22:18+01:00",
+      "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
+      "summary": "Det er uklart hvor lenge Kilmar Ábrego García vil bli i Spania for Kilmar Ábrego García, hvis deportasjon i fjor til et fengsel i El Salvador ble et flammepunkt i president Donald Trumps immigrasjonsforbrytelse, har forlatt USA til Spania. Trump-administrasjonen hadde fortsatt sine forsøk på å deportere ham til andre land, inkludert Uganda og Ghana. Ábrego García, som er gift med en amerikansk statsborger og bodde i Maryland, kom ulovlig til USA fra El Salvador som tenåring. Trump-administrasjonen hevder Ábrego García er medlem av MS-13-gjengen, noe han har benektet.",
+      "keyPoints": [
+        "Det er uklart hvor lenge Kilmar Ábrego García vil bli i Spania for Kilmar Ábrego García, hvis deportasjon i fjor til et fengsel i El Salvador ble et flammepunkt i president Donald Trumps immigrasjonsforbrytelse, har forlatt USA til Spania.",
+        "Trump-administrasjonen hevder Ábrego García er medlem av MS-13-gjengen, noe han har benektet.",
+        "Trump-administrasjonen hadde fortsatt sine forsøk på å deportere ham til andre land, inkludert Uganda og Ghana. Ábrego García, som er gift med en amerikansk statsborger og bodde i Maryland, kom ulovlig til USA fra El Salvador som tenåring.",
+        "I flere måneder var han låst i en kamp med regjeringen om ytterligere forsøk på å deportere ham. Ábrego García hadde gjentatte ganger sagt at han ville være villig til å bli deportert til Costa Rica, mens den costaricanske regjeringen hadde gått med på å ta imot ham som flyktning og tilby ham juridisk status."
+      ],
+      "whyItMatters": "Utviklingen i USA kan påvirke global politikk, sikkerhet, teknologi og finansmarkeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg",
+      "localImage": "assets/news/cf054b8b2ffdc0.jpg",
+      "score": 16
     },
     {
       "id": "1835abb038bdce",
@@ -64,7 +106,7 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/8403cbc6-792c-3f9a-9faf-1bef3a07c921?fit=crop&h=675&upscale=true&w=1200&s=8a69e2ce3e1d8d3325e7a351abcc2be6f0cbc07e",
       "localImage": "assets/news/1835abb038bdce.jpg",
-      "score": 19
+      "score": 18
     },
     {
       "id": "9fe68b975021cd",
@@ -85,133 +127,91 @@
       "source": "e24.no",
       "image": "https://akamai.vgc.no/v2/images/b71f5d84-5188-34e9-b888-9d7a65bbc16c?fit=crop&h=675&upscale=true&w=1200&s=888b78d20d92d3383a16c1e23121f6bb8b37f507",
       "localImage": "assets/news/9fe68b975021cd.jpg",
+      "score": 16
+    },
+    {
+      "id": "831f6472c121ee",
+      "category": "AI",
+      "published": "25.11. 04:44",
+      "publishedISO": "2026-11-25T04:44:07+01:00",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Hvordan Nvidia reagerer på Jensen Huangs tilbakekomst som administrerende direktør. USAs justisminister Todd Blanche har støttet Nvidia som en \"god bedriftsborger\", mens hun nekter å kommentere om AI-brikkeprodusenten var under føderal etterforskning. På flere spørsmål tirsdag om justisdepartementet eller FBI hadde etterforsket Huang, svarte Blanche: «Jeg vet ikke hva du snakker om». Huang skal fortsatt dukke opp for kongressen neste uke, hvor han vil bli avhørt om nasjonale sikkerhetshensyn over forholdet hans til en angivelig spion som tidligere drev Megaspeed, en Singapore-basert bedriftskunde av Nvidia. Den demokratiske kongressmedlem Robert Garcia, den påtroppende lederen av House Oversight Committee, sa at Trumps «direkte involvering» i Nvidias beslutning «reiser alvorlige spørsmål om nasjonal sikkerhet og korrupsjon».",
+      "keyPoints": [
+        "Hvordan Nvidia reagerer på Jensen Huangs tilbakekomst som administrerende direktør. USAs justisminister Todd Blanche har støttet Nvidia som en \"god bedriftsborger\", mens hun nekter å kommentere om AI-brikkeprodusenten var under føderal etterforskning.",
+        "På flere spørsmål tirsdag om justisdepartementet eller FBI hadde etterforsket Huang, svarte Blanche: «Jeg vet ikke hva du snakker om». Huang skal fortsatt dukke opp for kongressen neste uke, hvor han vil bli avhørt om nasjonale sikkerhetshensyn over forholdet hans til en angivelig spion som tidligere drev Megaspeed, en Singapore-basert bedriftskunde av Nvidia.",
+        "Den demokratiske kongressmedlem Robert Garcia, den påtroppende lederen av House Oversight Committee, sa at Trumps «direkte involvering» i Nvidias beslutning «reiser alvorlige spørsmål om nasjonal sikkerhet og korrupsjon».",
+        "Huang ba angivelig om unnskyldning til Nvidia-ansatte tirsdag, dagen etter at han kom tilbake til selskapet som administrerende direktør, og sa at han hadde gjort «forferdelige feil» og nå mottok daglige 90-minutters terapiøkter."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+      "localImage": "assets/news/831f6472c121ee.png",
+      "score": 21
+    },
+    {
+      "id": "211b205eb883fc",
+      "category": "AI",
+      "published": "25.11. 11:03",
+      "publishedISO": "2026-11-25T11:03:12+01:00",
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "summary": "Sammenlignet med skandalen som har oppslukt Nvidia-sjef Jensen Huang de siste ukene, føles det Coldplay kiss cam-øyeblikket nå ganske tamt. Hvordan Nvidia reagerer på Jensen Huangs tilbakekomst som administrerende direktør Huang har blåst ut av vannet det gamle ordtaket om at ingen er uerstattelige. Nvidia-verdien stiger med nesten 1 tn dollar og teknologiaksjer stiger etter at Jensen Huang returnerer Huangs korte avgang fra Nvidia forårsaket økonomisk uro.",
+      "keyPoints": [
+        "Hvordan Nvidia reagerer på Jensen Huangs tilbakekomst som administrerende direktør Huang har blåst ut av vannet det gamle ordtaket om at ingen er uerstattelige.",
+        "Sammenlignet med skandalen som har oppslukt Nvidia-sjef Jensen Huang de siste ukene, føles det Coldplay kiss cam-øyeblikket nå ganske tamt.",
+        "Nvidia-verdien stiger med nesten 1 tn dollar og teknologiaksjer stiger etter at Jensen Huang returnerer Huangs korte avgang fra Nvidia forårsaket økonomisk uro.",
+        "Med et fast grep om selskapet han var med å grunnlegge, kultlignende status i teknologikretser og venner på høye steder, skapte Jensen Huang en situasjon der selv nasjonale sikkerhetsbekymringer over USAs største rival ikke kunne velte ham."
+      ],
+      "whyItMatters": "Kan endre konkurransebildet i teknologi, arbeidsliv, investeringer, sikkerhet eller regulering globalt.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
+      "localImage": "assets/news/211b205eb883fc.jpg",
       "score": 18
     },
     {
-      "id": "1e1ead3a22362f",
-      "category": "Norge",
-      "published": "25.11. 17:20",
-      "publishedISO": "2026-11-25T17:20:20+01:00",
-      "title": "En femtemann fortsatt siktet etter Jonas-drapet: – Belastende",
-      "summary": "Mannens forsvarer reagerer på at hans klient fortsatt må leve i uvisshet. Han legger til at han ikke kjenner detaljene i denne konkrete saken. – Det er uvanlig at en siktet må gå så lenge uten å få avklart saken, og forsvarer har selvsagt rett i at dette er en stor belastning for hans klient, sier Kolsrud. Forsvareren sier de andre i saken har forklart seg, og han mener de gjennom det ikke har dratt ham inn i den. – Det er verdt å nevne at man som siktet har en rett til å få avgjort sin sak innen rimelig tid, noe som er stadfestet i vår egen grunnlov og også av internasjonale menneskerettigheter som Norge er bundet av, sier Mæland.",
+      "id": "cc74ee7fa24f91",
+      "category": "Verden",
+      "published": "25.11. 17:42",
+      "publishedISO": "2026-11-25T17:42:11+01:00",
+      "title": "Trump’s accounts traded Nvidia shares 44 times this year, records show",
+      "summary": "Donald Trumps investeringsporteføljer har kjøpt eller solgt aksjer i brikkeprodusenten Nvidia minst 44 ganger i år, viser en gjennomgang av den amerikanske presidentens økonomiske avsløringer. Trumps siste offentlige erklæringer om sin investeringshandel viser at porteføljene mellom januar og september kjøpte mellom 5,2 og 17 millioner dollar (4 og 13 millioner pund) i Nvidia-aksjer – og solgte mellom 4,4 og 12 millioner dollar. Vår analyse av Trumps Nvidia-handler inkluderer ikke andre investeringsprodukter som han har, som kan inkludere aksjene.",
       "keyPoints": [
-        "Han legger til at han ikke kjenner detaljene i denne konkrete saken. – Det er uvanlig at en siktet må gå så lenge uten å få avklart saken, og forsvarer har selvsagt rett i at dette er en stor belastning for hans klient, sier Kolsrud.",
-        "Mannens forsvarer reagerer på at hans klient fortsatt må leve i uvisshet.",
-        "Forsvareren sier de andre i saken har forklart seg, og han mener de gjennom det ikke har dratt ham inn i den. – Det er verdt å nevne at man som siktet har en rett til å få avgjort sin sak innen rimelig tid, noe som er stadfestet i vår egen grunnlov og også av internasjonale menneskerettigheter som Norge er bundet av, sier Mæland.",
-        "Han fortalte at grunnen var siktelsen som fortsatt hang over ham."
+        "Donald Trumps investeringsporteføljer har kjøpt eller solgt aksjer i brikkeprodusenten Nvidia minst 44 ganger i år, viser en gjennomgang av den amerikanske presidentens økonomiske avsløringer.",
+        "Trumps siste offentlige erklæringer om sin investeringshandel viser at porteføljene mellom januar og september kjøpte mellom 5,2 og 17 millioner dollar (4 og 13 millioner pund) i Nvidia-aksjer – og solgte mellom 4,4 og 12 millioner dollar.",
+        "Our analysis of Trump's Nvidia trades does not include other investment products held by him which may include its shares.",
+        "Nvidia rangerer også høyt i mange globale indekser, noe som betyr at investeringskontoer rundt om i verden, inkludert pensjoner, sannsynligvis vil inkludere aksjene."
       ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
       "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/buskerud/en-femtemann-fortsatt-siktet-etter-jonas-drapet_-_-belastende-1.18084062",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/G3wjud079b7HjHlkQzi6IgeGGglU4xHy6Qxhp-YWAPvg.jpg",
-      "localImage": "assets/news/1e1ead3a22362f.jpg",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+      "localImage": "assets/news/cc74ee7fa24f91.jpg",
+      "score": 20
+    },
+    {
+      "id": "e17f9d6b07f436",
+      "category": "Verden",
+      "published": "26.11. 02:20",
+      "publishedISO": "2026-11-26T02:20:14+01:00",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "De nye avgiftene på import til Amerika vil ramme mange av landets største handelspartnere - Kina, EU og 12 andre jurisdiksjoner, inkludert Japan, Sør-Korea og Taiwan. Det hvite hus begynte å undersøke andre lands handelspraksis i mars etter at USAs høyesterett slo fast at Trumps tidligere annonserte Liberation Day-tariffer var ulovlige. Trumps såkalte Liberation Day-tariffer ble slått ned av Høyesterett tidligere i år. Disse nye avgiftene er bygget på et \"sterkere juridisk grunnlag\" under amerikansk lov sammenlignet med Trumps Liberation Day-tariffer fra april 2025, sa Singapore Management University økonomilektor Chang Pao-Li.",
+      "keyPoints": [
+        "De nye avgiftene på import til Amerika vil ramme mange av landets største handelspartnere - Kina, EU og 12 andre jurisdiksjoner, inkludert Japan, Sør-Korea og Taiwan.",
+        "Trumps såkalte Liberation Day-tariffer ble slått ned av Høyesterett tidligere i år. Disse nye avgiftene er bygget på et \"sterkere juridisk grunnlag\" under amerikansk lov sammenlignet med Trumps Liberation Day-tariffer fra april 2025, sa Singapore Management University økonomilektor Chang Pao-Li.",
+        "Det hvite hus begynte å undersøke andre lands handelspraksis i mars etter at USAs høyesterett slo fast at Trumps tidligere annonserte Liberation Day-tariffer var ulovlige.",
+        "Det kinesiske utenriksdepartementets talsperson Guo Jiakun beskrev de nye tollsatsene som en form for \"politisk manipulasjon\", og beskrev som \"falsk\" USAs påstand om at Kina produserer mer enn det kan konsumere."
+      ],
+      "whyItMatters": "En internasjonal utvikling med mulig betydning for geopolitikk, økonomi eller markeder.",
+      "summaryMethod": "local-extractive",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+      "source": "bbc.co.uk",
+      "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
+      "localImage": "assets/news/e17f9d6b07f436.jpg",
       "score": 17
-    },
-    {
-      "id": "2baa522e6118f6",
-      "category": "Økonomi",
-      "published": "25.11. 15:30",
-      "publishedISO": "2026-11-25T15:30:09+01:00",
-      "title": "Varsler Airbnb-grep: – Boligen skal være et hjem, ikke hotell",
-      "summary": "Eiendommene var vanlige boliger, og flertallet var eid av selskaper. – De siste årene har vi sett at flere systematisk og omfattende leier ut boligen sin på en måte som ligner hotellvirksomhet. Skjæran sier modellen regjeringen foreslår vil være slik at kommunene sender en anmodning til staten om å gi en forskrift som forbyr eller begrenser korttidsutleie. Deretter vil departementet lage forskriften. – Hvem vil da få det endelige ordet om kommunen skal få forby korttidsutleie? – Det vil være departementet.",
-      "keyPoints": [
-        "Skjæran sier modellen regjeringen foreslår vil være slik at kommunene sender en anmodning til staten om å gi en forskrift som forbyr eller begrenser korttidsutleie.",
-        "Eiendommene var vanlige boliger, og flertallet var eid av selskaper. – De siste årene har vi sett at flere systematisk og omfattende leier ut boligen sin på en måte som ligner hotellvirksomhet.",
-        "Deretter vil departementet lage forskriften. – Hvem vil da få det endelige ordet om kommunen skal få forby korttidsutleie? – Det vil være departementet.",
-        "Han varsler at det vil komme et nytt lovforslag denne uken."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/naeringsliv/i/r8AQ83/varsler-airbnb-grep-boligen-skal-vaere-et-hjem-ikke-hotell",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/04ab2add-ad7f-3701-b3f2-68e5878c36e3?fit=crop&h=675&upscale=true&w=1200&s=51a5d32d9c40a5f193fcd1cbfda72c9e5957198c",
-      "localImage": "assets/news/2baa522e6118f6.jpg",
-      "score": 16
-    },
-    {
-      "id": "9869b144d9d923",
-      "category": "Norge",
-      "published": "25.11. 15:30",
-      "publishedISO": "2026-11-25T15:30:04+01:00",
-      "title": "Regjeringen vil gi kommunene lov til å forby eller begrense korttidsutleie",
-      "summary": "Regjeringen foreslår at hver kommune som ønsker det, kan be staten om en lokal forskrift som begrenser eller forbyr korttidsutleie i hele eller deler av kommunen. I tillegg foreslår regjeringen at kommunene kan kreve opplysninger om utleieforhold og antall utleiedøgn direkte fra digitale plattformer. – Slik får kommunene bedre grunnlag for å undersøke og avdekke om det foregår ulovlig bruk av boliger, sier Skjæran. Tidligere i år lanserte regjeringen en veileder som skal hjelpe kommunene med å avklare om korttidsutleie er ulovlig næringsvirksomhet.",
-      "keyPoints": [
-        "Tidligere i år lanserte regjeringen en veileder som skal hjelpe kommunene med å avklare om korttidsutleie er ulovlig næringsvirksomhet.",
-        "I tillegg foreslår regjeringen at kommunene kan kreve opplysninger om utleieforhold og antall utleiedøgn direkte fra digitale plattformer. – Slik får kommunene bedre grunnlag for å undersøke og avdekke om det foregår ulovlig bruk av boliger, sier Skjæran.",
-        "Regjeringen foreslår at hver kommune som ønsker det, kan be staten om en lokal forskrift som begrenser eller forbyr korttidsutleie i hele eller deler av kommunen.",
-        "Ordførerkandidat i Tromsø, Brage Larsen Sollund (Ap), understreker at de ikke går inn for å forby AirBnb-utleie i byen, men heller begrense det. – Vi ser at Airbnb fortrenger boliger til vanlige folk."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/tromsogfinnmark/regjeringen-vil-gi-kommunene-lov-til-a-forby-eller-begrense-korttidsutleie-1.18088234",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/sxiSz4x3dhqlzB5pz-C4RwaFeRIkMF74d8Xw3N4B-oaQ.jpg",
-      "localImage": "assets/news/9869b144d9d923.jpg",
-      "score": 16
-    },
-    {
-      "id": "97e85e3b3ab90b",
-      "category": "Nord-Norge",
-      "published": "25.11. 11:12",
-      "publishedISO": "2026-11-25T11:12:59+01:00",
-      "title": "Havila Kystruten gjør endringer på nettsiden etter NRK-sak: – Vi har lyttet",
-      "summary": "Gjør endringer: Havila Kystruten får flere hunder millioner for å frakte reisende mellom Bergen og Kirkenes. NRK fortalte i helgen om hvordan flere erfarne politikere rett og slett ikke klarte å bestille enkeltreiser på nettsiden til Havila Kystruten og Hurtigruten. To selskap segler ruta på kontrakt med staten: Hurtigruten med sju skip og Havila Kystruten med fire skip Hurtigruten har tidligere varslet at de vil gjøre endringer. – Vi er enige i at dette ikke er optimalt, og jobber med endringer av nettsidene, sa Tarjei Kramviken i Hurtigruten på mandag. – Når folk langs kysten sier at det er vanskelig å kjøpe billett hos oss, skal vi ikke svare med en lang forklaring.",
-      "keyPoints": [
-        "Gjør endringer: Havila Kystruten får flere hunder millioner for å frakte reisende mellom Bergen og Kirkenes.",
-        "To selskap segler ruta på kontrakt med staten: Hurtigruten med sju skip og Havila Kystruten med fire skip Hurtigruten har tidligere varslet at de vil gjøre endringer. – Vi er enige i at dette ikke er optimalt, og jobber med endringer av nettsidene, sa Tarjei Kramviken i Hurtigruten på mandag. – Når folk langs kysten sier at det er vanskelig å kjøpe billett hos oss, skal vi ikke svare med en lang forklaring.",
-        "NRK fortalte i helgen om hvordan flere erfarne politikere rett og slett ikke klarte å bestille enkeltreiser på nettsiden til Havila Kystruten og Hurtigruten.",
-        "Havila Kystruten flytter havn til havn-reiser vekk fra «spesialreiser» og over til hovedsiden."
-      ],
-      "whyItMatters": "Kan påvirke rammevilkår, investeringer eller utviklingen i Nord-Norge – og dermed også Narvik.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/nordland/havila-kystruten-gjor-endringer-pa-nettsiden-etter-nrk-sak_-_-vi-har-lyttet-1.18088272",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/573OdrDMtkCmNESyYsCn1QwdKk-cSmb9uY1JfSJ5XBNA.jpg",
-      "localImage": "assets/news/97e85e3b3ab90b.jpg",
-      "score": 16
-    },
-    {
-      "id": "6105de9a069235",
-      "category": "Norge",
-      "published": "25.11. 10:36",
-      "publishedISO": "2026-11-25T10:36:03+01:00",
-      "title": "Dette veit vi om budsjettavtalen",
-      "summary": "LANDET AVTALE: Budsjettavtalen blei landet klokka 10 etter intense timar på Stortinget. Dette er det NRK veit om kva avtalen inneber: I budsjettavtalen står det blant anna at overføringane til sjukehusa blir foreslåtte auka med 1 milliard kroner. Arbeidarpartiet lovar trygg styring og dette er alt anna enn det. – Budsjettavtalen som er lagd fram er det siste Noreg treng. – Heller ikkje neste år blir det vanlege folk sin tur. – Høgare skatt og høgare utslepp.",
-      "keyPoints": [
-        "Dette er det NRK veit om kva avtalen inneber: I budsjettavtalen står det blant anna at overføringane til sjukehusa blir foreslåtte auka med 1 milliard kroner.",
-        "LANDET AVTALE: Budsjettavtalen blei landet klokka 10 etter intense timar på Stortinget.",
-        "Arbeidarpartiet lovar trygg styring og dette er alt anna enn det. – Budsjettavtalen som er lagd fram er det siste Noreg treng. – Heller ikkje neste år blir det vanlege folk sin tur. – Høgare skatt og høgare utslepp.",
-        "Det blir sett av 190 millionar kroner til dette formålet. – Eg håpar vi kan sikre fleirtal for dette budsjettet, for det vil veldig mange i Noreg sette pris på. – Eit budsjett har ikkje fleirtal før det har fleirtal."
-      ],
-      "whyItMatters": "En nasjonal utvikling som kan påvirke økonomi, politikk, sikkerhet eller hverdagen i Norge.",
-      "summaryMethod": "local-extractive",
-      "url": "https://www.nrk.no/artikkel/dette-veit-vi-om-budsjettavtalen-1533954",
-      "source": "nrk.no",
-      "image": "https://gfx.nrk.no/UlUwNBz0iFzsynawIUMd3AU88ON2WaLcRKKWJedFqMIg",
-      "localImage": "assets/news/6105de9a069235.webp",
-      "score": 16
-    },
-    {
-      "id": "d93e22c32ae8fc",
-      "category": "Økonomi",
-      "published": "25.11. 10:17",
-      "publishedISO": "2026-11-25T10:17:31+01:00",
-      "title": "Ny nedtur på Wall Street: – Brutalt der ute nå",
-      "summary": "Dagen før var det en eventyrlig oppgang for en rekke AI-aksjer etter at Nvidia-sjef Jensen Huang fikk tilbake jobben, bare 11 dager at han mistet den i kjølvannet av en utroskapsskandale. Det var kraftig nedtur på USA-børsene onsdag ettermiddag, men litt før klokken 20 norsk tid er nedgangen kraftig dempet. Slik ser det ut på de sentrale indeksene klokken 19.47: – Nå har jeg nesten sluttet å bli overrasket, sier sjefstrateg Joachim Bernhardsen i Nordea Wealth Management til E24. – Det er ganske brutalt der ute nå.",
-      "keyPoints": [
-        "Slik ser det ut på de sentrale indeksene klokken 19.47: – Nå har jeg nesten sluttet å bli overrasket, sier sjefstrateg Joachim Bernhardsen i Nordea Wealth Management til E24. – Det er ganske brutalt der ute nå.",
-        "Det var kraftig nedtur på USA-børsene onsdag ettermiddag, men litt før klokken 20 norsk tid er nedgangen kraftig dempet.",
-        "Dagen før var det en eventyrlig oppgang for en rekke AI-aksjer etter at Nvidia-sjef Jensen Huang fikk tilbake jobben, bare 11 dager at han mistet den i kjølvannet av en utroskapsskandale.",
-        "Aksjen faller nesten fem prosent onsdag kveld norsk tid."
-      ],
-      "whyItMatters": "Kan påvirke renter, markeder, bedrifter, investeringer eller privatøkonomien.",
-      "summaryMethod": "local-extractive",
-      "url": "https://e24.no/boers-og-finans/i/OypVy1/ligger-an-til-nytt-nvidia-fall",
-      "source": "e24.no",
-      "image": "https://akamai.vgc.no/v2/images/7b9dcab6-9020-3f81-a835-99e5005054c8?fit=crop&h=675&upscale=true&w=1200&s=69575cfd6be9b9fa7ed7f9838bd72d92577eb9f7",
-      "localImage": "assets/news/d93e22c32ae8fc.jpg",
-      "score": 15
     }
   ]
 }
